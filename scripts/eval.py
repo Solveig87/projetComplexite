@@ -18,14 +18,21 @@ with open(file=args.file, encoding = "utf8") as file:
     bs_content = BeautifulSoup(content, "xml")
     
 """Extraction de la liste d'ingrédients"""
+float = re.compile(r"^[0-9]+ ?[-,] ?[0-9]+")
 ingredients = []
 for ingredient in bs_content.find_all('p'):
     ingredient = ingredient.getText()
-    if "," in ingredient:
-        ingredient = ingredient.split(", ")
-        ingredients.extend(ingredient)
-    else:
-        ingredients.append(ingredient)
+    ingredient = re.sub(r"\([^\)]+\)", "", ingredient)
+    ingredient = ingredient.strip()
+    if not ingredient.startswith("Pour") and ingredient != "" :
+        if "," in ingredient and len(float.findall(ingredient)) == 0:
+            ingredient = ingredient.split(", ")
+            ingredients.extend([ingr for ingr in ingredient if ingr != ""])
+        elif "-" in ingredient and len(float.findall(ingredient)) == 0:
+            ingredient = ingredient.split("- ")
+            ingredients.extend([ingr for ingr in ingredient if ingr != ""])
+        else:
+            ingredients.append(ingredient)
 
 """Chargement du lexique"""
 with open("../ressources/lexique_ingredients.json", "r") as file:
