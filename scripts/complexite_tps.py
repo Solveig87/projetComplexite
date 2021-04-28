@@ -1,12 +1,12 @@
 import json
 import re
 from bs4 import BeautifulSoup
-import argparse
 
 import spacy
 from spacy import displacy
 nlp = spacy.load('fr_core_news_md')
 
+import argparse
 parser = argparse.ArgumentParser(description="fichier")
 parser.add_argument("-v", "--verbose", help="verbose mode", action="store_true")
 parser.add_argument("file", help="input file")
@@ -34,11 +34,8 @@ for ingredient in bs_content.find_all('p'):
         else:
             ingredients.append(ingredient)
 
-"""Chargement du lexique"""
-with open("../ressources/lexique_ingredients.json", "r") as file:
-    lex = json.load(file)
-    
-"""Formatage de la liste d'ingrédient (ingrédient : catégorie)"""
+
+"""Formatage de la liste d'ingrédient (ingrédient : quantité)"""
 nombre = re.compile(r"^[0-9]+|^quelque|^[0-9]+ ?[-,] ?[0-9]+")
 quantite = re.compile(r"^(?:[0-9]+|quelque|[0-9]+, ?[0-9]+) (?:pincée|cuillère à (?:soupe|café)|pot|verre|tranche|feuille|gramme|litre|[mcdk]?[gl]) de")
 
@@ -54,41 +51,50 @@ for ingredient in ingredients:
     ingredient = re.sub(quant, "", ingredient)
     ingredient = ingredient.strip()
     ingredient = [token.text for token in nlp(ingredient) if token.dep_ == "ROOT"][0]
-    ingr_info[ingredient] = "NA" 
-    for categ, ingrs in lex.items():
-        for ingr in ingrs:
-            ingr = [token.lemma_ for token in nlp(ingr) if token.dep_ == "ROOT"][0]
-            if ingr == ingredient: #implémenter levenshtein ?
-                ingr_info[ingredient] = categ
-                break
+    quant = re.sub(" de", "", quant)
+    ingr_info[ingredient] = quant.strip()
+
+print(ingr_info)
 
 
-"""Chargement du texte de la recette annotée et récupération de la liste d'ingrédients trouvés pour comparaison avec liste initiale"""
+"""Chargement du texte de la recette annotée et récupération des actions avec le nombre d'ingrédients pour calcul complexité"""
 recette_annotee_path = args.file[:-4]+"_annote.xml"
-ingredients = []
+ingredients = {}
 with open(recette_annotee_path, "r") as f:
     content = f.readlines()
     content = "".join(content)
     bs_content = BeautifulSoup(content, "xml")
 for ingredient in bs_content.find_all('ingredient'):
-    ingredients.extend([token.lemma_ for token in nlp(ingredient.getText())])
+    ingredients[[token.lemma_ for token in nlp(ingredient.getText())][0]]= ingredient['action']
 
+print(ingredients)
 
-"""Calcul rappel"""
-trouves = 0
-for ingr, categ in ingr_info.items():
-    if ingr in ingredients or categ in ingredients:
-        trouves+=1
-rappel = trouves/len(ingr_info)
+from collections import Counter
 
-"""Calcul precision"""
-corrects = 0
-for ingredient in ingredients:
-    if ingredient in ingr_info.keys() or ingredient in ingr_info.values():
-        corrects += 1
-precision = corrects/len(ingredients)
+actions = Counter()
+nb = re.compile(r"^[0-9]+|^[0-9]+ ?[-,] ?[0-9]+")
 
-fmesure = (2*precision*rappel)/(precision+rappel)
+for ingredient, action in ingredients.items():
+    if ingredient in ingr_info.keys():
+        nb_ingr = ingr_info[ingredient]
+    else:
+        nb_ingr = 1
+    try:
+        nb_ingr = int(nb_ingr)
+    except:
+        if len(nb.findall(nb_ingr)) > 0:
+            nb_ingr = nb.findall(nb_ingr)[0]
+            nb_ingr = re.sub(r" ?, ?", "\.", nb_ingr)
+            if "-" in nb_ingr:
+                nb_ingr = nb_ingr.split("-")[0]
+            nb_ingr = int(nb_ingr)
+        else:
+            nb_ingr = 1
 
-id = args.file[:-4].split("_")[-1]
-print(f"Recette {id} : \n PRECISION : {precision} / RAPPEL : {rappel} / F-MESURE : {fmesure}")
+    actions[action] += nb_ingr
+    
+print(actions)
+    
+complexite = len(actions)/sum(actions.values())
+
+print(f"La complexité de cette recette est de {complexite}.")

@@ -47,8 +47,8 @@ with open("ressources/lexique_ingredients.json", "r") as file:
 
 
 """Formatage de la liste d'ingrédient (ingrédient, quantité, catégorie)"""
-nombre = re.compile(r"^[0-9]+|quelque")
-quantite = re.compile(r"^(?:[0-9]+|quelque) (?:pincée|cuillère à (?:soupe|café)|pot|verre|tranche|feuille|gramme|litre|[mcdk]?[gl]) de")
+nombre = re.compile(r"^[0-9]+|^quelque|^[0-9]+ ?[-,] ?[0-9]+")
+quantite = re.compile(r"^(?:[0-9]+|quelque|[0-9]+, ?[0-9]+) (?:pincée|cuillère à (?:soupe|café)|pot|verre|tranche|feuille|gramme|litre|[mcdk]?[gl]) de")
 
 ingr_info = {}
 for ingredient in ingredients:
