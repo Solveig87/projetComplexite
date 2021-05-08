@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55704">
+<titre>Rôti de porc aux carottes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 roti de porc de 1 à 1,2 kg</p>
+<p>200g de lardons fumés</p>
+<p>1 kg de carottes</p>
+<p>2 oignons</p>
+<p>1 cube de bouillon</p>
+<p>huile ou beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;oignons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans une cocotte . les <operation> retirer </operation> et y faire <operation ingredients="rôti"> dorer </operation> le <ingredient action="dorer"> rôti </ingredient> à la <operation> place </operation> sur toute ses faces <operation ingredients="lardons;oignons;rôti"> remettre </operation> les <ingredient action="remettre"> lardons </ingredient> et les <ingredient action="remettre" quantite="2"> oignons </ingredient> avec le <ingredient action="remettre"> rôti </ingredient> , <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> carottes </ingredient> <operation> pelées </operation> et <operation> découpées </operation> dés ou en tronçons , le cube émietté et <operation> recouvrir </operation> d' eau à hauteur . <operation> couvrir </operation> et laisser <operation> cuire </operation> 1 h 30 à feu moyen en surveillant de temps en temps .
+</preparation>
+</recette>

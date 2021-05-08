@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55998">
+<titre>Salade de fruits d'été et d'automne au champagne</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 pamplemousse</p>
+<p>1 orange</p>
+<p>1 pomme verte</p>
+<p>1 pêche</p>
+<p>100 g de framboises</p>
+<p>20 cl de champagne</p>
+<p>4 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="champagne;sucre"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="20 cl"> champagne </ingredient> 3 minutes dans une casserole avec le <ingredient action="faire" quantite="4 cuillère à soupe"> sucre </ingredient> et laissez <operation> tiédir </operation> . <operation ingredients="fruits"> mettre </operation> tous les <ingredient action="mettre" quantite="1;1;1;1;100 gramme"> fruits </ingredient> <operation> épluchés </operation> et <operation> coupés </operation> en quartiers dans un saladier et <operation> verser </operation> le liquide dessus . laissez <operation ingredients="salade"> reposer </operation> la <ingredient action="reposer"> salade </ingredient> au moins 2 h au frais . c' est prêt !
+</preparation>
+</recette>

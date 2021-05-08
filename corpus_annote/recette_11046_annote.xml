@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11046">
+<titre>Chili con carne</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de haricots rouges</p>
+<p>1,6 kg de viande maigre de boeuf</p>
+<p>10 cl d'huile</p>
+<p>150 g d'oignons</p>
+<p>50 g de farine</p>
+<p>50 g de tomates concentrées</p>
+<p>1 l de fond brun</p>
+<p>4 gousses d'ail</p>
+<p>1 bouquet garni</p>
+<p>sel, poivre</p>
+<p>paprika</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>50 g de persil</p>
+</ingredients>
+<preparation>
+il faut faire <operation ingredients="haricot"> tremper </operation> les <ingredient action="tremper" quantite="250 gramme"> haricot </ingredient> 6 heures à l' eau froide . <operation ingredients="viande"> découpez </operation> la <ingredient action="découper" quantite="1,6 kilogramme"> viande </ingredient> de carrés de 1 cm et <operation ingredients="huile"> mettez </operation> dans l' <ingredient action="mettre" quantite="10 cl"> huile </ingredient> chaude . <operation> dégraissez </operation> . <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="150 gramme"> oignons </ingredient> hachés . <operation ingredients="farine"> versez </operation> la <ingredient action="verser" quantite="50 gramme"> farine </ingredient> . <operation ingredients="tomate"> incorporez </operation> le fond brun et la <ingredient action="incorporer" quantite="50 gramme"> tomate </ingredient> <operation> concentrée </operation> . <operation ingredients="ail;bouquet"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> puis le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garnis </operation> . <operation ingredients="sel"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et paprika . <operation> cuire </operation> 1 h 30 à <operation> couvert </operation> . <operation ingredients="poivrons"> enlevez </operation> la peau des <ingredient action="enlever"> poivrons </ingredient> , puis <operation> taillez </operation> les en lanières . <operation> réservez </operation> les morceau aux chaud . <operation> passez </operation> la sauce . <operation ingredients="haricots"> placez </operation> les <ingredient action="placer" quantite="250 gramme"> haricots </ingredient> dans une casserole d' eau froide <operation> salée </operation> et <operation> cuisez </operation> les environ 1 heure . faites <operation ingredients="haricots;poivrons"> bouillir </operation> la sauce quelques minutes avec les <ingredient action="bouillir" quantite="250 gramme"> haricots </ingredient> <operation> cuits </operation> , <operation> égouttés </operation> et les <ingredient action="bouillir"> poivrons </ingredient> . <operation> dressez </operation> un plat creux . <operation ingredients="persil"> disposez </operation> les morceaux la garniture et la sauce puis le <ingredient action="disposer" quantite="50 gramme"> persil </ingredient> . dégustez . buzet
+</preparation>
+</recette>

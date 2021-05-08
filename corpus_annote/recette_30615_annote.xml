@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30615">
+<titre>Canard en cocotte aux navets</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 canard sauvage</p>
+<p>800 g de navets</p>
+<p>50 g de lard</p>
+<p>1 bouquet garni</p>
+<p>10 cl de vin blanc sec</p>
+<p>10 cl de bouillon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="lard"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> lard </ingredient> et y <operation ingredients="canard"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> canard </ingredient> . <operation ingredients="vin;bouillon;bouquet"> mouiller </operation> avec le <ingredient action="mouiller" quantite="10 cl"> vin </ingredient> , le <ingredient action="mouiller" quantite="10 cl"> bouillon </ingredient> et le <ingredient action="mouiller" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <operation> couvrir </operation> et laisser <operation> cuire </operation> 25 min à feu moyen . en fin de cuisson , <operation ingredients="navets"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> navets </ingredient> dans la cocotte en les <operation ingredients="bouillon"> enfonçant </operation> bien dans le <ingredient action="enfoncer" quantite="10 cl"> bouillon </ingredient> et <operation> remettre </operation> à <operation> cuire </operation> à feu doux pour 30 à 35 min . <operation> saler </operation> , <operation> poivrer </operation> . sortir le <ingredient quantite="1"> canard </ingredient> de la cocotte , <operation> filtrer </operation> la sauce et la <operation> verser </operation> dans un petit saladier pour le service . <operation ingredients="canard"> découper </operation> le <ingredient action="découper" quantite="1"> canard </ingredient> , le <operation> disposer </operation> sur un plat <operation ingredients="navets"> entouré </operation> de <ingredient action="entourer" quantite="800 gramme"> navets </ingredient> et le servir avec la sauce à part .
+</preparation>
+</recette>

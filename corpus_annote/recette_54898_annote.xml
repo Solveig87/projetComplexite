@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54898">
+<titre>Bourguignon de thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600g de thon</p>
+<p>50 cl de vin rouge fruité</p>
+<p>20 cl de coulis de tomate</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>2 feuilles de laurier</p>
+<p>2 brins de thym</p>
+<p>1/2 bâton de cannelle (facultatif)</p>
+<p>3 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="thon;huile"> revenir </operation> le <ingredient action="revenir" quantite="600 gramme"> thon </ingredient> avec de l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive dans une cocotte . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . <operation ingredients="farine"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> , <operation> mélanger </operation> , puis laisser <operation> dorer </operation> . <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="50 cl"> vin </ingredient> rouge . <operation> saler </operation> , <operation> poivrer </operation> puis <operation ingredients="bouquet;ail"> ajouter </operation> le <ingredient action="ajouter"> bouquet </ingredient> <operation> garni </operation> et l' <ingredient action="ajouter"> ail </ingredient> . fermer la cocotte et laisser <operation> mijoter </operation> sur feu doux pendant 3 heures .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26912">
+<titre>Escalopes de veau panées au beurre persillé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de veau</p>
+<p>75 g de farine</p>
+<p>2 oeufs</p>
+<p>100 g de chapelure</p>
+<p>50 g de beurre</p>
+<p>1/2 bouquet de persil</p>
+<p>huile de friture</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> saler </operation> et <operation> poivrer </operation> les <ingredient action="saler" quantite="4"> escalopes </ingredient> de veau . les <operation ingredients="farine;oeuf;chapelure"> passer </operation> successivement dans la <ingredient action="passer" quantite="75 gramme"> farine </ingredient> , l' <ingredient action="passer" quantite="2"> oeuf </ingredient> <operation> battu </operation> et la <ingredient action="passer" quantite="100 gramme"> chapelure </ingredient> . <operation ingredients="persil"> hacher </operation> le <ingredient action="hacher"> persil </ingredient> et le <operation ingredients="beurre"> malaxer </operation> avec le <ingredient action="malaxer" quantite="50 gramme"> beurre </ingredient> mou . faire <operation ingredients="escalopes;huile"> frire </operation> les <ingredient action="frire" quantite="4"> escalopes </ingredient> dans l' <ingredient action="frire" quantite=""> huile </ingredient> jusqu' à ce qu' elles soient bien dorées et les servir avec le <ingredient quantite="50 gramme"> beurre </ingredient> persillé .
+</preparation>
+</recette>

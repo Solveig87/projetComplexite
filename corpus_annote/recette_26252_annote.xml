@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26252">
+<titre>Pigeons farcis au jambon cru et raisins</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pigeons bardés</p>
+<p>50 g de riz cuit</p>
+<p>150 g de jambon cru</p>
+<p>100 g de champignons</p>
+<p>10 cl de vin blanc sec</p>
+<p>1 poignée de raisins secs</p>
+<p>1 cuillère à soupe de sauce tomate</p>
+<p>50 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper"> raisins </ingredient> dans de l' eau tiède environ 30 minutes . <operation ingredients="riz;jambon;raisins"> mélangez </operation> le <ingredient action="mélanger"> riz </ingredient> avec 50 g de <ingredient action="mélanger" quantite="150 gramme"> jambon </ingredient> <operation> haché </operation> et les <ingredient action="mélanger"> raisins </ingredient> <operation> égouttés </operation> . <operation> salez </operation> , <operation> poivrez </operation> , <operation> ajoutez </operation> une cuillère à soupe de beurre <operation> fondu </operation> . <operation ingredients="pigeons"> farcissez </operation> les <ingredient action="farcir" quantite="2"> pigeons </ingredient> et recousez l' ouverture . faites <operation ingredients="beurre"> fondre </operation> le reste de <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une cocotte . faites - y <operation ingredients="jambon"> revenir </operation> le <ingredient action="revenir" quantite="150 gramme"> jambon </ingredient> <operation> coupé </operation> en dés puis <operation ingredients="pigeons"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> pigeons </ingredient> et faites - les <operation> dorer </operation> sur toutes leurs faces pendant 10 min . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> <operation> émincés </operation> . laissez <operation ingredients="vin"> mijoter </operation> 20 min en mouillant de temps en temps au peu <ingredient action="mijoter" quantite="10 cl"> vin </ingredient> blanc . <operation> délayez </operation> la sauce tomate dans la sauce et servez . <operation ingredients="riz;pommes"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pommes </ingredient> dauphines .
+</preparation>
+</recette>

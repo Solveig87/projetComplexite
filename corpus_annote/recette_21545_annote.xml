@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21545">
+<titre>Raviolis au Nutella</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de Nutella</p>
+<p>16 Kumquats (sorte d’orange) </p>
+<p>32 pâtes à raviolis chinois</p>
+<p>4 fruits de la passion</p>
+<p>2 tranches de pain de mie</p>
+<p>50 g de beurre</p>
+<p>25 g de sucre</p>
+<p>100 g de sorbet coco</p>
+<p>2 sachets de thé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="kumquats"> bouillir </operation> les <ingredient action="bouillir" quantite="16"> kumquats </ingredient> à l’ eau bouillante pendant 5 mn puis laissez refroidir . <operation ingredients="kumquats;nutella"> mélangez </operation> les <ingredient action="mélanger" quantite="16"> kumquats </ingredient> et le <ingredient action="mélanger" quantite="250 gramme"> nutella </ingredient> et <operation ingredients="raviolis"> insérez </operation> - le tout dans les <ingredient action="insérer"> raviolis </ingredient> . <operation ingredients="fruits"> evidez </operation> les <ingredient action="evider" quantite="4"> fruits </ingredient> de la passion . <operation ingredients="pain;carrés"> coupez </operation> le <ingredient action="couper" quantite="2 tranche"> pain </ingredient> de mie en <ingredient action="couper"> carrés </ingredient> , et faites les <operation ingredients="beurre"> sauter </operation> au <ingredient action="sauter" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="sucre"> faites </operation> un caramel avec le <ingredient action="faire" quantite="25 gramme"> sucre </ingredient> et <operation> ajoutez </operation> - y les <ingredient action="former"> croûtons </ingredient> ainsi <operation ingredients="croûtons"> formés </operation> . dans l’ infusion de <ingredient> thé </ingredient> , pochez les <ingredient> raviolis </ingredient> 2 mn . servez - le tout avec le <ingredient quantite="100 gramme"> sorbet </ingredient> de coco <operation ingredients="fruits"> mélangé </operation> aux morceaux de <ingredient action="mélanger" quantite="4"> fruits </ingredient> de la passion .
+</preparation>
+</recette>

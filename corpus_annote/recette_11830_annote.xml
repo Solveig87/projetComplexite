@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11830">
+<titre>Galettes de pommes de terre d'Alsace</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 pommes de terre</p>
+<p>2 oignons</p>
+<p>1 oeuf</p>
+<p>1 cuillère de farine</p>
+<p>sel</p>
+<p>épices</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;oignons"> râper </operation> les <ingredient action="râper" quantite="6"> pommes </ingredient> de terre et les <ingredient action="râper" quantite="2"> oignons </ingredient> , <operation ingredients="farine;oeuf"> mélanger </operation> avec la <ingredient action="mélanger" quantite="1 cuillère"> farine </ingredient> et l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , <operation> saler </operation> et épicer . dans une <operation> poêle </operation> , <operation ingredients="huile"> mettre </operation> environ 1 cm d' <ingredient action="mettre"> huile </ingredient> . quand elle est bien chaude , <operation ingredients="galettes"> déposer </operation> des <ingredient action="déposer"> galettes </ingredient> que vous aurez <operation> formées </operation> et égoutées en les <operation> pressant </operation> un peu entre vos mains . <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> et <operation> retourner </operation> au bout d' une dizaine de minutes .
+</preparation>
+</recette>

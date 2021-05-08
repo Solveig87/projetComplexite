@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11005">
+<titre>Surprise sucré-salé gaie à l'abricot</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 abricots secs</p>
+<p>thé</p>
+<p>2 carrés frais</p>
+<p>1 oeuf</p>
+<p>chapelure</p>
+</ingredients>
+<preparation>
+laisser <operation ingredients="abricots;thé"> tremper </operation> les <ingredient action="tremper"> abricots </ingredient> secs dans le <ingredient action="tremper" quantite=""> thé </ingredient> . les sécher et <operation ingredients="carrés;abricot"> faire </operation> une petite boule avec les <ingredient action="faire"> carrés </ingredient> frais avec l' <ingredient action="faire"> abricot </ingredient> au centre . <operation ingredients="oeuf"> tremper </operation> dans l' <ingredient action="tremper" quantite="1"> oeuf </ingredient> <operation> battu </operation> et après <operation ingredients="chapelure"> entourer </operation> de <ingredient action="entourer" quantite=""> chapelure </ingredient> , recommencer avec l' <ingredient quantite="1"> oeuf </ingredient> et la <ingredient quantite=""> chapelure </ingredient> . laisser <operation> cuire </operation> à la friteuse à 160 <operation> ° </operation> c ( pas trop longtemps , maximum 3 à 4 minutes ) . servir avec une petite <ingredient> salade </ingredient> de pourpier , tomates <ingredient> cerise </ingredient> et une bonne vinaigrette .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56109">
+<titre>Salade d'endives au thon et à la pomme</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 endives</p>
+<p>1 pomme</p>
+<p>1 boîte de thon</p>
+<p>1 boîte de maïs</p>
+<p>1 vinaigrette</p>
+</ingredients>
+<preparation>
+on <operation ingredients="endive"> coupe </operation> l' <ingredient action="coupe" quantite="2"> endive </ingredient> en morceaux . on pelle et <operation> coupe </operation> la <ingredient quantite="1"> pomme </ingredient> . on <operation ingredients="thon;maïs"> égoute </operation> le <ingredient action="égoute"> thon </ingredient> . pareil pour le <ingredient action="égoute"> maïs </ingredient> . et on ajoute la vinaigrette . le sucré et le <ingredient> salé </ingredient> donne un très bon goût .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66950">
+<titre>Pizza express pour les petits et les grands</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie</p>
+<p>1 petit bocal de sauce tomate cuisinée</p>
+<p>1 tranche de jambon blanc</p>
+<p>2 tranches de fromage fondu pour croque monsieur</p>
+</ingredients>
+<preparation>
+préchauffer le four thermostat 7 , soit 210 <operation> ° </operation> . <operation ingredients="pain"> tartiner </operation> généreusement les tranches de <ingredient action="tartiner" quantite="4 tranche"> pain </ingredient> avec la sauce tomate , <operation ingredients="jambon"> recouvrir </operation> avec 1 / 2 tranche de <ingredient action="recouvrir" quantite="1 tranche"> jambon </ingredient> , puis <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="2 tranche"> fromage </ingredient> . <operation> enfourner </operation> quelques minutes en surveillant la coloration . vous pouvez varier les plaisirs en remplaçant le <ingredient quantite="1 tranche"> jambon </ingredient> par du <ingredient> thon </ingredient> ou du <ingredient> salami </ingredient> , <operation ingredients="anchois"> ajouter </operation> des <ingredient action="ajouter"> anchois </ingredient> , de la mozarella . . .
+</preparation>
+</recette>

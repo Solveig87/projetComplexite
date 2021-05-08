@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24448">
+<titre>Cabillaud au four à la provençale</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 filets de cabillaud</p>
+<p>6 oignons</p>
+<p>6 pommes de terre</p>
+<p>6 cuillères à soupe d’huile d’olive</p>
+<p>6 tomates</p>
+<p>20 à 25 olives noires dénoyautées</p>
+<p>2 branches de thym</p>
+<p>2 feuilles de laurier</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre à l’ eau <operation> salée </operation> les <operation> peler </operation> et les <operation> couper </operation> en rondelles . <operation> réserver </operation> . <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="6"> tomates </ingredient> et les <operation> détailler </operation> en rondelles également , puis <operation ingredients="oignons"> peler </operation> et <operation> couper </operation> finement les <ingredient action="peler" quantite="6"> oignons </ingredient> . dans une <operation> poêle </operation> , faire <operation ingredients="oignons"> fondre </operation> les <ingredient action="fondre" quantite="6"> oignons </ingredient> dans 3 cuillères à soupe d’ huile d’ olive chaude . dans un plat à gratin <operation> huilé </operation> , <operation ingredients="pommes"> déposer </operation> au fond les <ingredient action="déposer" quantite="6"> pommes </ingredient> de terre , puis <operation ingredients="oignons;tomates"> recouvrir </operation> avec les <ingredient action="recouvrir" quantite="6"> oignons </ingredient> et les <ingredient action="recouvrir" quantite="6"> tomates </ingredient> . <operation ingredients="poisson"> ajouter </operation> ensuite les filets de <ingredient action="ajouter"> poisson </ingredient> par - dessus puis <operation ingredients="olives;thym;laurier"> parsemer </operation> d’ <ingredient action="parsemer" quantite="20"> olives </ingredient> noires dénoyautées , de <ingredient action="parsemer"> thym </ingredient> et de <ingredient action="parsemer" quantite="2 feuille"> laurier </ingredient> . <operation ingredients="huile"> napper </operation> le dessus d’ <ingredient action="napper"> huile </ingredient> d’ olive et faire <operation> cuire </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 30 min .
+</preparation>
+</recette>

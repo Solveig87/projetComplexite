@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225554">
+<titre>Tarte alsacienne à la rhubarbe</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>3 œufs</p>
+<p>30 cl de crème fraiche</p>
+<p>120 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 kg de rhubarbes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="rhubarbe;sucre"> macérer </operation> la <ingredient action="macérer" quantite="1 kilogramme"> rhubarbe </ingredient> avec le <ingredient action="macérer" quantite="120 gramme"> sucre </ingredient> pendant une heure . <operation ingredients="jus"> jeter </operation> le <ingredient action="jeter"> jus </ingredient> . étaler la <ingredient quantite="1"> pâte </ingredient> <operation> brisée </operation> dans la tourtière . <operation ingredients="rhubarbe"> répartir </operation> la <ingredient action="répartir" quantite="1 kilogramme"> rhubarbe </ingredient> . <operation ingredients="œufs;sucre;crème"> mélanger </operation> les <ingredient action="mélanger" quantite="3"> œufs </ingredient> avec le <ingredient action="mélanger" quantite="120 gramme"> sucre </ingredient> vanillé et la <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> fraiche . <operation ingredients="rhubarbe"> verser </operation> le <operation> mélange </operation> sur la <ingredient action="verser" quantite="1 kilogramme"> rhubarbe </ingredient> . préchauffer le four à 220 <operation> ° </operation> c ( thermostat 7 ) pendant 10 min . faire <operation ingredients="tarte"> cuire </operation> la <ingredient action="cuire"> tarte </ingredient> pendant 10 min à 220 <operation> ° </operation> c , puis 30 min à 180 <operation> ° </operation> c.
+</preparation>
+</recette>

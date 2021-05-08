@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50193">
+<titre>Emblanco (Soupe de poisson)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de mérou</p>
+<p>2 tomates</p>
+<p>2 oignons</p>
+<p>2 kg de pommes de terre</p>
+<p>1 poivron </p>
+<p>4 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>2,5 l d'eau</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="2 kilogramme"> pommes </ingredient> de terre et les <operation> couper </operation> en tranches de 1 . 5 cm d' épaisseur . <operation ingredients="oignons;ail"> peler </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> et l' <ingredient action="peler"> ail </ingredient> puis les <operation> émincer </operation> . <operation ingredients="tomates"> couper </operation> <ingredient action="couper" quantite="2"> tomates </ingredient> et poivons en morceaux . <operation> nettoyer </operation> le merou et s' assurer qu' il n' a pas d' arêtes . <operation> mettre </operation> la casserole sur le feu avec l' eau , les <ingredient quantite="2;2;2 kilogramme;1"> légumes </ingredient> , le <ingredient quantite=""> sel </ingredient> et l' <ingredient quantite="3 cuillère à soupe"> huile </ingredient> d' olive . <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="poisson"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> poisson </ingredient> et laisser <operation> cuire </operation> jusqu' à que les <ingredient action="cuire" quantite="2 kilogramme"> pommes </ingredient> de terre et le <ingredient action="cuire" quantite="500 gramme"> poisson </ingredient> soient <operation ingredients="pommes;poisson"> cuits </operation> , soit 1 . 20 minutes . <operation ingredients="légumes"> egoutter </operation> les <ingredient action="egoutter" quantite="2;2;2 kilogramme;1"> légumes </ingredient> et les <operation> mixer </operation> . les <operation ingredients="soupe"> reverser </operation> dans la <ingredient action="reverser"> soupe </ingredient> et servir .
+</preparation>
+</recette>

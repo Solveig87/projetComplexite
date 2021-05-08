@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34774">
+<titre>Poulet au maroilles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>200 g de maroilles (fromage du nord de la France au goût très prononcé) </p>
+<p>30 cl de crème fraîche</p>
+<p>150 g de riz</p>
+<p>curry (facultatif) </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="150 gramme"> riz </ingredient> . pendant ce temps , <operation ingredients="escalopes"> coupez </operation> les <ingredient action="couper" quantite="4"> escalopes </ingredient> de poulet en dés et les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> avec un peu d' <ingredient action="revenir"> huile </ingredient> . quand ils sont <operation> cuits </operation> , <operation ingredients="curry"> saupoudrez </operation> d' un peu de <ingredient action="saupoudrer" quantite=""> curry </ingredient> . <operation> mélangez </operation> bien . <operation ingredients="maroilles"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> maroilles </ingredient> <operation> coupés </operation> en morceaux grossiers ( et dont vous aurez préalablement <operation> retiré </operation> la croûte ) , laissez - le <operation> fondre </operation> puis <operation> remuez </operation> vivement afin qu' il n' attache pas à la <operation> poêle </operation> . <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer" quantite="30 cl"> crème </ingredient> et <operation ingredients="crème"> mélangez </operation> le tout jusqu' à l' obtention d' une <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> homogène . laissez <operation> mijoter </operation> quelques minutes pour que le <ingredient action="imprégner"> poulet </ingredient> s' <operation ingredients="poulet;fromage"> imprègne </operation> bien du <ingredient action="imprégner"> fromage </ingredient> . servez <operation ingredients="riz"> accompagné </operation> du <ingredient action="accompagner" quantite="150 gramme"> riz </ingredient> . servir ce plat plutôt le midi , car il est riche et copieux . spécialement destiné aux <operation> amateurs </operation> de <ingredient> fromages </ingredient> très forts ! un <ingredient> vin </ingredient> rouge corsé
+</preparation>
+</recette>

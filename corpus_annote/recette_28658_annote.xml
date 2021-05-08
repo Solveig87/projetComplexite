@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28658">
+<titre>Pot-au-feu du Vénézuéla</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet en morceaux</p>
+<p>1 kg de jarret de veau</p>
+<p>500 g de carottes</p>
+<p>6 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 kg de bananes vertes</p>
+<p>500 g de pommes de terre</p>
+<p>500 g de céleri-rave</p>
+<p>500 g de potiron</p>
+<p>500 g de tomates pelées (1 grosse boîte, si l'on préfère)</p>
+<p>2 petits piments forts</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>50 cl de bouillon</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;jarret;carottes;oignons;ail"> cuire </operation> dans une marmite , le <ingredient action="cuire" quantite="1"> poulet </ingredient> , le <ingredient action="cuire" quantite="1 kilogramme"> jarret </ingredient> de veau , les <ingredient action="cuire" quantite="500 gramme"> carottes </ingredient> , 3 <ingredient action="cuire" quantite="6"> oignons </ingredient> et l' <ingredient action="cuire"> ail </ingredient> pendant 30 min . <operation> assaisonner </operation> et <operation ingredients="bananes;choux"> incorporer </operation> les <ingredient action="incorporer" quantite="1 kilogramme"> bananes </ingredient> et les <ingredient action="incorporer"> choux </ingredient> caraïbes . laisser <operation> mijoter </operation> 20 min . <operation ingredients="pommes;potiron"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> pommes </ingredient> de terre puis , après 15 min de cuisson , le <ingredient action="ajouter" quantite="500 gramme"> potiron </ingredient> en morceaux . finir la cuisson pendant 15 min . <operation ingredients="oignon;oignons;huile"> faire </operation> une fondue d’ <ingredient action="faire" quantite="6"> oignon </ingredient> dans une <operation> poêle </operation> avec le reste d’ <ingredient action="faire" quantite="6"> oignons </ingredient> <operation> ciselés </operation> et un peu d’ <ingredient action="faire" quantite="2 cuillère à soupe"> huile </ingredient> . <operation ingredients="tomates"> incorporer </operation> les <ingredient action="incorporer" quantite="500 gramme"> tomates </ingredient> mondées et <operation> découpées </operation> , et les piments . laisser <operation> mijoter </operation> quelques instants à feu doux . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="50 cl"> bouillon </ingredient> et laisser <operation> réduire </operation> 10 min . servir la <ingredient quantite="1 kilogramme"> viande </ingredient> avec les <ingredient quantite="500 gramme;6;500 gramme;500 gramme;500 gramme;500 gramme;50 cl"> légumes </ingredient> , et la sauce à part .
+</preparation>
+</recette>

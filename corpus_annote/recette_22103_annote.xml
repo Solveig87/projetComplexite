@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22103">
+<titre>Riz bonzaï</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>2 carottes</p>
+<p>180 g de petits-pois</p>
+<p>300 g de crevettes décortiquées </p>
+<p>200 g de riz (basmati de préférence) </p>
+<p>safran</p>
+<p>200 g de champignons noirs  </p>
+<p>1 citron</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> chauffer </operation> le <ingredient action="chauffer" quantite="200 gramme"> riz </ingredient> ( environ 500 g pour 2 personnes ) . dans une autre casserole faites <operation> chauffer </operation> les petits-pois . pendant ce temps , <operation ingredients="carottes"> râpez </operation> les <ingredient action="râper" quantite="2"> carottes </ingredient> et <operation> assaisonez </operation> - les du <ingredient> jus </ingredient> de citron et <operation ingredients="champignons"> découpez </operation> les <ingredient action="découper" quantite="200 gramme"> champignons </ingredient> et fines lamelles . lorsque les cuissons sont terminées <operation ingredients="crevettes;champignons"> mélangez </operation> les petits-pois aux <ingredient action="mélanger" quantite="300 gramme"> crevettes </ingredient> fraîches et aux <ingredient action="mélanger" quantite="200 gramme"> champignons </ingredient> , puis <operation ingredients="carottes"> rajoutez </operation> en dernier les <ingredient action="rajouter" quantite="2"> carottes </ingredient> <operation> râpées </operation> . <operation ingredients="riz"> versez </operation> le <ingredient action="verser" quantite="200 gramme"> riz </ingredient> dans un grand plat et " renversez " le <operation> mélange </operation> au dessus . <operation> assaisonnez </operation> pour finir d' un peu de <ingredient quantite=""> safran </ingredient> , de <ingredient quantite=""> poivre </ingredient> et de <ingredient quantite=""> sel </ingredient> . c' est prêt ! ! bon appétit .
+</preparation>
+</recette>

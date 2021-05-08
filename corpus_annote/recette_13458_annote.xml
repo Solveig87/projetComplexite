@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13458">
+<titre>Carbonade Flamande (belgique)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une noix de beurre</p>
+<p>500 g de carbonade de boeuf</p>
+<p>2 oignons</p>
+<p>4 tranches de pains d'épice (sans morceaux de sucre)</p>
+<p>50 cl de bière de table (ou de Gueuze)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="boeuf"> revenir </operation> dans une casserole la carbonnade de <ingredient action="revenir"> boeuf </ingredient> , lorsque les morceaux sont <operation> saisis </operation> , <operation ingredients="bière"> déverser </operation> la <ingredient action="déverser" quantite="50 cl"> bière </ingredient> et <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> coupé </operation> en lamelle . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> mijoter </operation> à <operation> couvert </operation> 1 / 2 heure . ensuite , <operation ingredients="pain"> placer </operation> les tranches de <ingredient action="placer" quantite="4 tranche"> pain </ingredient> d' épice sur la préparation ( sans les casser ni les <operation> mélanger </operation> ) et laisser <operation> mijoter </operation> à petit feu pendant minimum 1 h 30 . lorsque le temps est écoulé , <operation> mélanger </operation> et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> . plus le plat <operation ingredients="viande"> mijote </operation> , plus la <ingredient action="mijote" quantite="1"> viande </ingredient> sera tendre . si vous n' avez pas de <ingredient quantite="4 tranche"> pain </ingredient> d' épice ou que vous n' aimez pas , vous pouvez le remplacer par une tranche de <ingredient quantite="4 tranche"> pain </ingredient> <operation ingredients="moutarde"> tartinée </operation> à la <ingredient action="tartiner"> moutarde </ingredient> ( à <operation> placer </operation> au-dessus également ) .
+</preparation>
+</recette>

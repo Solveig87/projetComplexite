@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13039">
+<titre>Saladette poire et saumon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite tranche de saumon fumé</p>
+<p>carottes rapées assaisonnées</p>
+<p>1/2 poire coupée en lanières </p>
+<p>Pour la sauce : </p>
+<p>crème fraîche </p>
+<p>moutarde (ou mayonnaise)</p>
+</ingredients>
+<preparation>
+sur un lit de <ingredient> salade </ingredient> , <operation ingredients="saumon;carottes"> déposer </operation> une tranche de de <ingredient action="déposer"> saumon </ingredient> puis les <ingredient action="déposer"> carottes </ingredient> <operation> rappés </operation> ensuite <operation ingredients="poire"> déposer </operation> la <ingredient action="déposer"> poire </ingredient> et pour finir <operation> napper </operation> avec la sauce . entrée légère et agréable . <ingredient> muscadet </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23087">
+<titre>Soupe de tomates aux oeufs pochés et au cerfeuil</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>375 g de tomates</p>
+<p>375 g de pommes de terre</p>
+<p>2 oignons</p>
+<p>1 bouquet garni</p>
+<p>6 oeufs</p>
+<p>3 cuillères à soupe de crème</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>1 bouquet de cerfeuil</p>
+<p> sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;pommes;bouquet;sel;poivre"> cuire </operation> les <ingredient action="cuire" quantite="375 gramme"> tomates </ingredient> et les <ingredient action="cuire" quantite="375 gramme"> pommes </ingredient> de terre dans 1 , 5 l d' eau bouillante avec le <ingredient action="cuire" quantite="1+1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="cuire" quantite=""> sel </ingredient> et du <ingredient action="cuire"> poivre </ingredient> pendant 30 minutes . <operation ingredients="bouquet"> ôter </operation> le <ingredient action="ôter" quantite="1+1"> bouquet </ingredient> <operation> garni </operation> et <operation> mixer </operation> l' ensemble . <operation ingredients="bouquet"> ajouter </operation> la moitié du <ingredient action="ajouter" quantite="1+1"> bouquet </ingredient> de cerfeuil haché . <operation ingredients="oeufs"> pocher </operation> les <ingredient action="pocher" quantite="6"> oeufs </ingredient> dans de l' eau bouillante vinaigrée pendant 3 minutes puis les <operation> égoutter </operation> . <operation ingredients="soupe"> répartir </operation> la <ingredient action="répartir"> soupe </ingredient> dans les assiettes , <operation ingredients="oeuf"> déposer </operation> un <ingredient action="déposer" quantite="6"> oeuf </ingredient> <operation> poché </operation> au centre et <operation ingredients="cerfeuil"> saupoudrer </operation> de pluches de <ingredient action="saupoudrer"> cerfeuil </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10749">
+<titre>Tonkinois</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>125 g de chocolat</p>
+<p>125 g de sucre en poudre</p>
+<p>100 g de beurre</p>
+<p>100 g de poudre d’amandes</p>
+<p>65 g de farine</p>
+<p>65 g de crème fraîche</p>
+<p>10 cl de rhum</p>
+<p>8 g de levure alsacienne</p>
+<p>3 oeufspour le glaçage :</p>
+<p>100 g de chocolat</p>
+<p>4 cuil à soupe d’eau</p>
+<p>30 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> ramollir </operation> le <ingredient action="ramollir" quantite="125 gramme+100 gramme"> chocolat </ingredient> et y <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme+30 gramme"> beurre </ingredient> . <operation> travailler </operation> pour obtenir une <ingredient> pâte </ingredient> <operation> lisse </operation> . <operation ingredients="sucre;oeufs;rhum"> incorporer </operation> <ingredient action="incorporer" quantite="125 gramme"> sucre </ingredient> , farine , crème , les 3 jaunes d’ <ingredient action="incorporer"> oeufs </ingredient> et le <ingredient action="incorporer" quantite="10 cl"> rhum </ingredient> . terminer par la <operation> poudre </operation> d’ <ingredient> amandes </ingredient> , la <ingredient quantite="8 gramme"> levure </ingredient> et les blancs <operation> battus </operation> en neige . <operation> cuire </operation> 30 minutes à four chaud . glaçage : casser le <ingredient quantite="125 gramme+100 gramme"> chocolat </ingredient> en morceaux , <operation> ajouter </operation> l’ eau , faire <operation> fondre </operation> à feu très doux . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme+30 gramme"> beurre </ingredient> et <operation> mélanger </operation> . <operation ingredients="crème;gâteau"> verser </operation> cette <ingredient action="verser" quantite="65 gramme"> crème </ingredient> sur le <ingredient action="verser"> gâteau </ingredient> et le <operation> recouvrir </operation> entièrement . ne surtout pas utiliser de <ingredient quantite="125 gramme+100 gramme"> chocolat </ingredient> patissier ; préférer un <ingredient quantite="125 gramme+100 gramme"> chocolat </ingredient> noir extra . jurançon , <ingredient> sauterne </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25326">
+<titre>Salade de pâtes au crabe et feta</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tortellini multicolores</p>
+<p>200 g de chair de crabe</p>
+<p>150 g de saumon fumé</p>
+<p>4 bâtonnets de surimi</p>
+<p>1 tranche de feta</p>
+<p>2 échalotes</p>
+<p>4 cuillères à soupe vinaigre basalmique</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> ' al dent' e. <operation> rincer </operation> sous l' eau froide . <operation> ecraser </operation> la fêta . <operation ingredients="échalotes"> hacher </operation> les <ingredient action="hacher" quantite="2"> échalotes </ingredient> . <operation ingredients="surimi"> couper </operation> le <ingredient action="couper"> surimi </ingredient> en rondelles . <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en fines lanières . <operation ingredients="chair"> mélanger </operation> les ingrédients précédents + <ingredient action="mélanger" quantite="200 gramme"> chair </ingredient> de crabe + pâtes . <operation ingredients="vinaigre"> versez </operation> <ingredient action="verser"> vinaigre </ingredient> + huile + sel + poivre ( <operation ingredients="assaisonnement;chair"> ajustez </operation> l' <ingredient action="ajuster" quantite="2 cuillère à soupe;;"> assaisonnement </ingredient> à votre goût ) la <ingredient action="ajuster" quantite="200 gramme"> chair </ingredient> de crabe peut être remplacée par du " râpé de la mer " ( <ingredient> surimi </ingredient> ) .
+</preparation>
+</recette>

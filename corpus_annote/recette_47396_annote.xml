@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47396">
+<titre>Pâtes au cervelas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de cervelas</p>
+<p>400 g de pâtes</p>
+<p>1 boîte 1/2 de champignons de Paris en morceaux</p>
+<p>3 bonnes cuillerées à soupe de crème fraîche</p>
+<p>un peu d'huile</p>
+<p>1 grosse échalote</p>
+<p>1 gousse d'ail</p>
+<p>sel, poivre, persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> . pendant ce temps <operation ingredients="cervelas"> couper </operation> le <ingredient action="couper" quantite="200 gramme"> cervelas </ingredient> en rondelles . dans une sauteuse faire <operation ingredients="ail;huile"> revenir </operation> l' echalote et l' <ingredient action="revenir"> ail </ingredient> dans l' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="champignons;cervelas"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> et le <ingredient action="ajouter" quantite="200 gramme"> cervelas </ingredient> et faite <operation> dorer </operation> quelques instants . <operation> saler </operation> ( très peu ) et <operation> poivrer </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraiche , bien <operation ingredients="bouillon;crème"> chauffer </operation> le tout mais sans vraiment de <ingredient action="chauffer"> bouillon </ingredient> à cause de la <ingredient action="chauffer"> crème </ingredient> . <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger" quantite="400 gramme"> pâtes </ingredient> avec cette sauce et servir ! vous pouvez remplacer l' echalote par un <ingredient> oignon </ingredient> , c' est pas mal <ingredient quantite="1;3;1"> non </ingredient> plus .
+</preparation>
+</recette>

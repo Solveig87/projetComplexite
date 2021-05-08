@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30655">
+<titre>Caviar de banane à la groseille</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>100 g de sucre</p>
+<p>5 cl de jus de citron</p>
+<p>8 cuillères à soupe de gelée de groseille</p>
+<p>4 yaourts nature</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes;sucre"> ecrasez </operation> les <ingredient action="ecrasez" quantite="4"> bananes </ingredient> en purée avec le <ingredient action="ecrasez" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="jus;gelée;yaourts"> mélangez </operation> avec le <ingredient action="mélanger" quantite="5 cl"> jus </ingredient> de citron , la <ingredient action="mélanger" quantite="8 cuillère à soupe"> gelée </ingredient> de groseille et les <ingredient action="mélanger" quantite="4"> yaourts </ingredient> . <operation ingredients="crème"> réfrigérez </operation> la <ingredient action="réfrigérer"> crème </ingredient> obtenue pendant au moins 2 h. servez dans des <operation> coupes </operation> individuelles avec des <ingredient> langues </ingredient> de chat ou des tuiles aux <ingredient> amandes </ingredient> .
+</preparation>
+</recette>

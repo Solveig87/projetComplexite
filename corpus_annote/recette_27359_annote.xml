@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27359">
+<titre>Bonnes gaufres de fête</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>125 g de sucre en poudre</p>
+<p>50 g de beurre</p>
+<p>1 oeuf</p>
+<p>1 blanc d'oeuf</p>
+<p>20 cl de lait</p>
+<p>5 g de levure chimique</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;levure;sucre;sel"> tamisez </operation> la <ingredient action="tamiser" quantite="250 gramme"> farine </ingredient> avec la <ingredient action="tamiser" quantite="5 gramme"> levure </ingredient> , le <ingredient action="tamiser" quantite="125 gramme"> sucre </ingredient> et une pincée de <ingredient action="tamiser"> sel </ingredient> . <operation ingredients="oeuf;beurre;lait"> ajoutez </operation> 1 <ingredient action="ajouter" quantite="1"> oeuf </ingredient> entier batu et le <ingredient action="ajouter" quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> , puis le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> tiède . <operation> mélangez </operation> bien et <operation ingredients="oeuf"> incorporez </operation> le blanc d' <ingredient action="incorporer" quantite="1"> oeuf </ingredient> <operation> battu </operation> en neige . laissez <operation> reposer </operation> 1 à 2 h et faites <operation ingredients="gaufres"> cuire </operation> les <ingredient action="cuire"> gaufres </ingredient> dans le gaufrier bien chaud .
+</preparation>
+</recette>

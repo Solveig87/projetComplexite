@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29661">
+<titre>Rognons blancs à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 rognons blancs</p>
+<p>20 cl de crème fraîche épaisse</p>
+<p>une pincée d'herbes de Provence</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="rognons"> coupez </operation> les <ingredient action="couper"> rognons </ingredient> en deux et faites - les <operation> bouillir </operation> dans l' eau pendant 10 mn . <operation> egouttez </operation> puis <operation ingredients="rognons"> coupez </operation> les <ingredient action="couper"> rognons </ingredient> en tranches de 5 millimetres d' épaisseur ( environ ) . faites - les <operation ingredients="huile"> dorer </operation> à l' <ingredient action="dorer" quantite=""> huile </ingredient> d' olive dans une <operation> poêle </operation> avec les herbes de provence . <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . faites diminuer la sauce de moitié . <operation ingredients="sel;poivre"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . faire <operation> bouillir </operation> les <ingredient action="rendre"> rognons </ingredient> <operation ingredients="rognons;chair"> rend </operation> la <ingredient action="rendre"> chair </ingredient> plus ferme que si on les fait <operation> cuire </operation> directement ( ils sont alors mou et la texture n' est pas très agréable en bouche ) . vous pouvez bien sûr <operation> accomoder </operation> avec d' autres types d' herbes , selon vos gouûts . <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

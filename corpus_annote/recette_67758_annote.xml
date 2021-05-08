@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67758">
+<titre>Oeufs  à la bière</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 6 oeufs (selon grosseur)</p>
+<p>60 g de lardons</p>
+<p>1 endive</p>
+<p>1 gros oignon</p>
+<p>15 cl de bière</p>
+<p>2 cuillères à soupe de crème fraîche épaisse</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;lardons"> cuire </operation> pendant 5 min l' <ingredient action="cuire" quantite="1"> oignon </ingredient> <operation> émincé </operation> et les <ingredient action="cuire" quantite="60 gramme"> lardons </ingredient> . pendant ce temps , <operation ingredients="endive"> séparez </operation> les feuilles de l' <ingredient action="séparer" quantite="1"> endive </ingredient> . <operation ingredients="endive"> ajouter </operation> les feuilles d' <ingredient action="ajouter" quantite="1"> endive </ingredient> dans la <operation> poêle </operation> , <operation> salez </operation> et <operation> remuez </operation> 2 a 3 minutes . <operation ingredients="bière;crème"> versez </operation> la <ingredient action="verser" quantite="15 cl"> bière </ingredient> et la <ingredient action="verser" quantite="2 cuillère à soupe"> crème </ingredient> fraîche , <operation> poivrez </operation> , faire <operation> réduire </operation> jusqu' à ce qu' il ne reste plus que 4 cuillères à soupe de jus . ecartez un peu les <ingredient quantite="1"> endives </ingredient> , cassez les <ingredient quantite="4"> oeufs </ingredient> dans la <operation> poêle </operation> . faire <operation> cuire </operation> le temps que les blancs prennent . c' est prêt ! ! peut se déguster avec une <ingredient> pomme </ingredient> de terre à la vapeur ou du <ingredient> pain </ingredient> <operation> grillé </operation> . même <ingredient quantite="15 cl"> bière </ingredient> que celle ayant servi pour la <operation> cuisine </operation>
+</preparation>
+</recette>

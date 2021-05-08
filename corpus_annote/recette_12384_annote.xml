@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12384">
+<titre>Soupe de petit pois au jambon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 gr de petits pois</p>
+<p>50 gr de jambon blanc</p>
+<p>50 g d'oignons</p>
+<p>1/4 l d'eau</p>
+<p>une cuillère de crème double (épaisse)</p>
+<p>une noisette de beurre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="noisette"> mettre </operation> la <ingredient action="mettre" quantite="1"> noisette </ingredient> de beurre puis faite <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="50 gramme"> oignons </ingredient> . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter" quantite="150 gr"> pois </ingredient> et l' eau , puis <operation> porter </operation> à ébulition . <operation ingredients="jambon"> emincer </operation> le <ingredient action="emincer" quantite="50 gr"> jambon </ingredient> et l' <operation> ajouter </operation> à mi-cuisson . une fois <operation ingredients="poivre"> cuit </operation> , <operation ingredients="soupe"> mixer </operation> la <ingredient action="mixer"> soupe </ingredient> et y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère"> crème </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> ( on ne <ingredient action="cuire"> poivre </ingredient> normalement pas un potage mais c' est meilleur ) .
+</preparation>
+</recette>

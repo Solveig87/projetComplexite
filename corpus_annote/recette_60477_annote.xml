@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60477">
+<titre>Salade de poivrons grillés</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons verts</p>
+<p>1 poivron rouge</p>
+<p>1 gros piment vert</p>
+<p>1 tomate</p>
+<p>5 gousses d'ail</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+allumer le four à 280 <operation> ° </operation> c ( thermostat 9 ) . <operation ingredients="poivrons;tomate"> placer </operation> sur une <operation> plaque </operation> les <ingredient action="placer"> poivrons </ingredient> , le piment , la <ingredient action="placer" quantite="1"> tomate </ingredient> et <operation> mettre </operation> au four pour 30 minutes de cuisson . a mi-cuisson , <operation> retirer </operation> du four puis <operation ingredients="légumes"> retourner </operation> les <ingredient action="retourner" quantite="1"> légumes </ingredient> , et <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> . quand les <ingredient quantite="1"> légumes </ingredient> sont grillés , <operation> retirer </operation> du four . <operation ingredients="légumes;poivrons;tomate"> peler </operation> les <ingredient action="peler" quantite="1"> légumes </ingredient> délicatement puis <operation> épépiner </operation> les <ingredient action="peler"> poivrons </ingredient> , le piment et la <ingredient action="peler" quantite="1"> tomate </ingredient> . ensuite <operation> mixer </operation> grossièrement le tout afin d' obtenir un <operation> mélange </operation> homogène . attention le <operation> mélange </operation> ne doit pas être totalement broyé . <operation ingredients="huile;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> verser </operation> le tout dans un plat de présentation et <operation> placer </operation> au frais . cette <ingredient> salade </ingredient> peut être complétée par des <ingredient> olives </ingredient> noires , du <ingredient> thon </ingredient> <operation> émietté </operation> et des <ingredient> oeufs </ingredient> durs .
+</preparation>
+</recette>

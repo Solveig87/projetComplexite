@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36556">
+<titre>Gâteau de riz salé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz (plutôt du riz rond)</p>
+<p>30 g de beurre</p>
+<p>75 g de gruyère râpé</p>
+<p>persil</p>
+<p>2 oeufs</p>
+<p>6 tranches de fromage fondu</p>
+<p>3 ou 4 tranches de jambon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> , y <operation ingredients="gruyère;persil"> ajouter </operation> le <ingredient action="ajouter" quantite="75 gramme"> gruyère </ingredient> <operation> râpé </operation> et le <ingredient action="ajouter" quantite=""> persil </ingredient> . <operation ingredients="oeufs"> préparer </operation> une omelette avec les 2 <ingredient action="préparer" quantite="2"> oeufs </ingredient> . plaacer la moitié du <ingredient quantite="250 gramme"> riz </ingredient> dans un <operation> moule </operation> à manqué beurré , <operation> poser </operation> l' omelette , y <operation ingredients="jambon"> répartir </operation> les toastinettes et les tranches de <ingredient action="répartir"> jambon </ingredient> . <operation ingredients="riz"> recouvrir </operation> du reste de <ingredient action="recouvrir" quantite="250 gramme"> riz </ingredient> , <operation ingredients="gruyère;beurre"> parsemer </operation> de <ingredient action="parsemer" quantite="75 gramme"> gruyère </ingredient> râpé et de morceaux de <ingredient action="parsemer" quantite="30 gramme"> beurre </ingredient> . faire <operation> dorer </operation> 20 min au four préchauffé à thermostat 6 ( 180 <operation> ° </operation> c ) . un plat qui plaît aux enfants !
+</preparation>
+</recette>

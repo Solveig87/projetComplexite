@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217442">
+<titre>Petite soupe à la chinoise</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de bouillon de volaille</p>
+<p>5 gros champignons shiitake (ou champignons de paris) en lamelles</p>
+<p>1 oignon nouveau émincés avec le vert</p>
+<p>1 gousse d'ail pressée</p>
+<p>3 cuillères de sauce soja strong</p>
+<p>4 à 5 gouttes d'huile de sésame torréfié</p>
+<p>50 g de pousse de soja</p>
+<p>20 grosses crevettes ou 200 g de blanc de poulet en lamelles fines</p>
+<p>1 bouquet de coriandre</p>
+<p>piment à volonté</p>
+<p>100 g de pâtes udon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon;champignons;oignon;ail"> bouillir </operation> le <ingredient action="bouillir" quantite="1 l"> bouillon </ingredient> , <operation ingredients="soja"> ajouter </operation> la sauce <ingredient action="ajouter" quantite="3 cuillère"> soja </ingredient> , puis les <ingredient action="bouillir" quantite="5"> champignons </ingredient> , l' <ingredient action="bouillir"> oignon </ingredient> , l' <ingredient action="bouillir"> ail </ingredient> , le soja . attendre 10 min que les ingrédients soient <operation> cuits </operation> , puis <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="20"> crevettes </ingredient> ( si <ingredient action="mettre"> poulet </ingredient> <operation ingredients="poulet;champignons"> mettez </operation> - le avec les <ingredient action="mettre" quantite="5"> champignons </ingredient> ) , l' <ingredient> huile </ingredient> de sésame , le piment , les <ingredient quantite="100 gramme"> pâtes </ingredient> . laissez <operation> cuire </operation> environ 10 min jusqu' à ce que les <ingredient action="cuire" quantite="100 gramme"> pâtes </ingredient> soient <operation ingredients="pâtes"> cuites </operation> . servez très chaud avec le <ingredient quantite="1"> bouquet </ingredient> de coriandre . bon appétit ! vous pouvez <operation> préparer </operation> cette recette comme plat principal , les mêmes quantités pour 2 personnes . une <ingredient> bière </ingredient> chinoise ou un <ingredient> thé </ingredient> au jasmin
+</preparation>
+</recette>

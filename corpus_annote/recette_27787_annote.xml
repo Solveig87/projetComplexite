@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27787">
+<titre>Macaroni and cheese</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de macaronis</p>
+<p>beurre</p>
+<p>farine</p>
+<p>lait</p>
+<p>50 g de cheddar ou à défaut de mimolette</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="macaronis;pâtes"> mettre </operation> les <ingredient action="mettre" quantite="100 gramme"> macaronis </ingredient> à <operation> cuire </operation> selon les indications du paquet ( nb : c' est meilleur si les <ingredient action="mettre"> pâtes </ingredient> sont ' al dente ' ) . pendant ce temps , <operation ingredients="béchamel"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> classique ( faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> , <operation ingredients="farine;lait"> ajouter </operation> la <ingredient action="ajouter" quantite=""> farine </ingredient> , le <ingredient action="ajouter" quantite=""> lait </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="muscade"> ajouter </operation> la <ingredient action="ajouter" quantite=""> muscade </ingredient> , et <operation> remuer </operation> ) . dès que la sauce est prête , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> <operation> râpé </operation> fin , et <operation> mélanger </operation> jusqu' à ce qu' il ait complètement <operation> fondu </operation> et soit bien <operation> incorporé </operation> à la sauce . <operation ingredients="pâtes"> ajouter </operation> aux <ingredient action="ajouter"> pâtes </ingredient> , c' est prêt ! on peut aussi <operation ingredients="pâtes"> verser </operation> les <ingredient action="verser"> pâtes </ingredient> dans un plat à gratin , <operation> recouvrir </operation> de sauce et <operation ingredients="fromage"> parsemer </operation> de 25 g supplémentaire de <ingredient action="parsemer"> fromage </ingredient> . dans ce cas , il faut laisser le plat pendant 30 mn dans un four à 180 <operation> ° </operation> c. bon appétit ! ce plat typique américain est en général très apprécié des enfants , facile et nécessite des ingrédients simples . une sorte de plat de secours en somme .
+</preparation>
+</recette>

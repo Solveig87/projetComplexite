@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68522">
+<titre>Gâteaux choco-galettes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de chocolat noir</p>
+<p>50 g de toblerone au lait</p>
+<p>50 g de beurre</p>
+<p>50 g de sucre</p>
+<p>1 oeuf</p>
+<p>du café fort</p>
+<p>9 galettes bretonnes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolats;beurre"> fondre </operation> les <ingredient action="fondre" quantite="50 gramme"> chocolats </ingredient> avec le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une casserole . <operation ingredients="oeuf;sucre"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> avec le <ingredient action="battre" quantite="50 gramme"> sucre </ingredient> dans un autre récipient . une fois le <ingredient action="ajouter" quantite="50 gramme"> chocolat </ingredient> <operation> fondu </operation> , <operation ingredients="chocolat;oeuf"> ajouter </operation> le <operation> mélange </operation> <ingredient action="ajouter" quantite="1"> oeuf </ingredient> - sucre . prendre 3 ramequins <ingredient> ronds </ingredient> en aluminium . y <operation ingredients="galette;café"> déposer </operation> 1 <ingredient action="déposer" quantite="9"> galette </ingredient> <operation> trempée </operation> dans le <ingredient action="déposer" quantite=""> café </ingredient> . <operation ingredients="chocolat"> verser </operation> la préparation au <ingredient action="verser" quantite="50 gramme"> chocolat </ingredient> ( pas tout ! ! ! ) . <operation ingredients="galette;chocolat"> remettre </operation> 1 <ingredient action="remettre" quantite="9"> galette </ingredient> , une nouvelle couche de <ingredient action="remettre" quantite="50 gramme"> chocolat </ingredient> . terminer par une <ingredient quantite="9"> galette </ingredient> sur le dessus du ramequin . petits <ingredient> gâteaux </ingredient> en individuel plus rapide à <operation ingredients="chocolat;café"> faire </operation> , mais surtout délicieux pour les <operation> amateurs </operation> de <ingredient action="faire" quantite="50 gramme"> chocolat </ingredient> et de <ingredient action="faire" quantite=""> café </ingredient> . . .
+</preparation>
+</recette>

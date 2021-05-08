@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48000">
+<titre>Filet mignon aux tomates confites</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets mignon de porc ou de veau</p>
+<p>une boîte de tomates confites dans l'huile</p>
+<p>un paquet de tranches fines de lard</p>
+<p>quelques feuilles de basilic frais</p>
+<p>un verre de vin blanc sec</p>
+<p>un gros oignon</p>
+<p>un pion d'ail</p>
+<p>du fil de cuisine</p>
+</ingredients>
+<preparation>
+<operation> ouvrir </operation> les filets en deux dans le sens de la longueur tout en laissant les 2 parties attachées . <operation ingredients="tomates;confites;lard"> farcir </operation> l' intérieur des filets avec les <ingredient action="farcir"> tomates </ingredient> <ingredient action="farcir"> confites </ingredient> , 2 ou 3 tranches de <ingredient action="farcir"> lard </ingredient> <operation> fumé </operation> et enfin <operation ingredients="basilic"> disposer </operation> quelques feuilles de <ingredient action="disposer" quantite="quelque feuille"> basilic </ingredient> . <operation> refermer </operation> les filets à l' aide du fil de <operation> cuisine </operation> ( 1 nœud à chaque extrémité et 1 au centre ) . dans une grande sauteuse , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> jusqu' à coloration puis <operation> disposer </operation> les filets pour les faire <operation> dorer </operation> sur toutes les faces . <operation ingredients="vin"> déglacer </operation> ensuite avec le verre de <ingredient action="déglacer" quantite="1 verre"> vin </ingredient> blanc , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> pilé </operation> et <operation> couvrir </operation> pendant 30 minutes ( <operation> mouiller </operation> avec de l' eau si besoin ) . si besoin en fin de cuisson , <operation> retirer </operation> les filets et faire diminuer le volume de sauce en <operation> mettant </operation> à feu plus fort . <operation> couper </operation> les filets en tronçons de 3 cm d' épaisseur et <operation> disposer </operation> dans des assiettes chaudes . ce plat s' <operation ingredients="pommes;huile"> accompagne </operation> parfaitement d' une purée <ingredient action="accompagne"> pommes </ingredient> de terre , <ingredient action="accompagne"> huile </ingredient> d' olive et basilic . vin blanc sec ou rouge léger
+</preparation>
+</recette>

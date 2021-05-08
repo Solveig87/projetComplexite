@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50038">
+<titre>Gaspacho de poireaux</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 poireaux</p>
+<p>2 bonnes poignées de roquette</p>
+<p>1/2 concombre épépiné</p>
+<p>50 cl de bouillon</p>
+<p>un peu de beurre pour la cuisson des poireaux</p>
+<p>2 cuillères à soupe de vin blanc</p>
+<p>2 cuillères à soupe de vinaigre de xerès (à défaut, du balsamique)</p>
+<p>1 mixer assez efficace pour réduire en soupe le plus filandreux des poireaux !</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation ingredients="poireaux"> découper </operation> les blancs de <ingredient action="découper" quantite="4"> poireaux </ingredient> . les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> , puis <operation ingredients="bouillon;vin"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vin </ingredient> blanc jusqu' à ce qu' ils deviennent transparents . <operation> compter </operation> 5 min pour cette opération . pendant la cuisson , <operation> retirer </operation> , <operation> épépiner </operation> et débiter le demi <ingredient quantite="1"> concombre </ingredient> . <operation ingredients="poireaux;jus;roquette;concombre;vinaigre"> mixer </operation> les <ingredient action="mixer" quantite="4"> poireaux </ingredient> <operation> cuits </operation> et leur " <ingredient action="mixer"> jus </ingredient> " avec la <ingredient action="mixer"> roquette </ingredient> , le <ingredient action="mixer" quantite="1"> concombre </ingredient> , le <ingredient action="mixer" quantite="2 cuillère à soupe"> vinaigre </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> . <operation> réserver </operation> au frigo pendant 2 heures . après une dernière rectification de l' <ingredient quantite="2 cuillère à soupe"> assaisonnement </ingredient> , servir dans des petits verres en entrée , en ayant pris soin de barrer la <ingredient> soupe </ingredient> d' un trait d' <ingredient> huile </ingredient> d' olive , d' un autre de <ingredient quantite="2 cuillère à soupe"> vinaigre </ingredient> . <operation ingredients="concombre"> ajouter </operation> des petits cubes de <ingredient action="ajouter" quantite="1"> concombre </ingredient> . ca change de l' éternel gaspacho de <ingredient> tomates </ingredient> et fait son petit effet auprès des copains !
+</preparation>
+</recette>

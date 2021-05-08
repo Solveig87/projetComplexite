@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164912">
+<titre>Mousse au chocolat à la vaudoise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>160 gr de chocolat (noir ou au lait)</p>
+<p>30 gr de beurre</p>
+<p>50 de sucre + 1 c à s</p>
+<p>4 oeufs</p>
+</ingredients>
+<preparation>
+laisser <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="160 gr"> chocolat </ingredient> et le <ingredient action="fondre" quantite="30 gr"> beurre </ingredient> au bain marie , laisser tiedir . <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="4"> oeufs </ingredient> et <operation> mettre </operation> les jaunes dans un saladier . <operation> ajouter </operation> aux jaunes la cuillére à soupe de sucre et <operation> mélanger </operation> jusqu' à ce que cela <operation> blanchisse </operation> . <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="160 gr"> chocolat </ingredient> / beurre tiedis et bien <operation> mélanger </operation> . <operation ingredients="sucre"> fouetter </operation> les blancs en neige avec les 50 gr de <ingredient action="fouetter" quantite="50"> sucre </ingredient> et les <operation ingredients="chocolat"> incorporer </operation> délicatement à l' appareil au <ingredient action="incorporer" quantite="160 gr"> chocolat </ingredient> . <operation ingredients="mousse"> verser </operation> la <ingredient action="verser"> mousse </ingredient> dans des <operation> coupes </operation> individuelles et les <operation> placer </operation> au frigo . vous pouvez si vous le souhaitez <operation> ajouter </operation> à la fin de la recette de la créme fraiche ( 30 gr ) . la faire la veille , il faut le temps de la laisser prendre .
+</preparation>
+</recette>

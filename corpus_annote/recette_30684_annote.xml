@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30684">
+<titre>Risotto aux moules et aux pétoncles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 l de moules</p>
+<p>500 g de pétoncles</p>
+<p>250 g de riz rond arborio</p>
+<p>2 oignons</p>
+<p>10 cl de vin blanc sec</p>
+<p>2 feuilles de laurier</p>
+<p>50 cl de fumet de poisson</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="vin;laurier"> ouvrir </operation> les <operation> moules </operation> à feu vif avec le <ingredient action="ouvrir" quantite="10 cl"> vin </ingredient> blanc et le <ingredient action="ouvrir" quantite="2 feuille"> laurier </ingredient> pendant 5 minutes . <operation ingredients="jus"> filtrez </operation> le <ingredient action="filtrer"> jus </ingredient> , <operation> décoquillez </operation> les <operation> moules </operation> . <operation> hachez </operation> les <ingredient quantite="2"> oignons </ingredient> , faites - les suer dans une <operation> poêle </operation> avec du <ingredient> beurre </ingredient> . une foid qu' ils sont tendres , <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter"> riz </ingredient> . <operation> remuez </operation> jusqu' à ce qu' il soit devenu translucide . <operation ingredients="jus"> versez </operation> le <ingredient action="verser"> jus </ingredient> de cuisson des <operation> moules </operation> et laissez <operation> frémir </operation> , <operation> mélangez </operation> de temps en temps . quand le <ingredient action="mouiller"> riz </ingredient> a abosrbé le <ingredient action="mouiller"> jus </ingredient> , <operation ingredients="riz;jus"> mouillez </operation> de fumet louche par louche . recommencez jusqu' à ce qu' il soit moelleux , en laissant toujours à peine <operation> frémir </operation> . faites <operation ingredients="pétoncles;beurre"> sauter </operation> les <ingredient action="sauter" quantite="500 gramme"> pétoncles </ingredient> dans une <operation> poêle </operation> chaude avec un peu de <ingredient action="sauter"> beurre </ingredient> . <operation> secouez </operation> vivement , <operation> ajoutez </operation> les <operation> moules </operation> et <operation> mélangez </operation> . <operation> ajoutez </operation> - les dans le <ingredient action="mélanger"> riz </ingredient> , <operation ingredients="riz"> mélangez </operation> et laissez <operation> chauffer </operation> 5 minutes avant de servir .
+</preparation>
+</recette>

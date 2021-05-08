@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30862">
+<titre>Gaspacho au basilic</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates</p>
+<p>3 poivrons rouges ou verts</p>
+<p>3 piments rouges</p>
+<p>1 concombre</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 botte de basilic frais</p>
+<p>1/2 baguette de pain rassis</p>
+<p>150 g de feta</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>sel, poivre</p>
+<p>1 l d'eau froide</p>
+</ingredients>
+<preparation>
+faîtes <operation ingredients="pain"> tremper </operation> le <ingredient action="tremper"> pain </ingredient> dans de l' eau . <operation ingredients="poivrons;tomates;concombre"> pelez </operation> et <operation> épépinez </operation> les <ingredient action="peler"> poivrons </ingredient> , les <ingredient action="peler" quantite="6"> tomates </ingredient> et le <ingredient action="peler" quantite="1"> concombre </ingredient> . <operation ingredients="ail;oignon"> pelez </operation> l' <ingredient action="peler"> ail </ingredient> et l' <ingredient action="peler" quantite="1"> oignon </ingredient> . <operation> mixez </operation> les <ingredient quantite="6;1;1"> légumes </ingredient> dans un blender ( ou un mixeur ) en commençant par l' <ingredient> ail </ingredient> , l' <ingredient quantite="1"> oignon </ingredient> , quelques feuilles de <ingredient> basilic </ingredient> et le <ingredient quantite="1"> concombre </ingredient> . <operation ingredients="poivrons;tomates;pain"> ajouter </operation> ensuite les <ingredient action="ajouter"> poivrons </ingredient> et les <ingredient action="ajouter" quantite="6"> tomates </ingredient> , le <ingredient action="ajouter"> pain </ingredient> <operation> essoré </operation> et l' eau . <operation ingredients="huile;vinaigre"> rajoutez </operation> l' <ingredient action="rajouter" quantite="2 cuillère à soupe"> huile </ingredient> , le <ingredient action="rajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation> réservez </operation> au frais au moins 2 h ( <operation> rajoutez </operation> des glaçons dans le gaspacho s' il est trop épais ) . au moment de servir , <operation> parsemez </operation> de feuilles de <ingredient> basilic </ingredient> , de <ingredient quantite="150 gramme"> feta </ingredient> <operation> émiettée </operation> et éventuellement quelques graines de <ingredient> tournesol </ingredient> .
+</preparation>
+</recette>

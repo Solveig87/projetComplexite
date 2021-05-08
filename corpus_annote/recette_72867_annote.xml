@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72867">
+<titre>Croq au saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de pain de mie</p>
+<p>2 tranches de saumon fumé</p>
+<p>gruyère râpé</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> coupez </operation> les tranches de <ingredient action="couper" quantite="2 tranche"> pain </ingredient> de mie selon leurs diagonales de façon à obtenir 4 triangles . sur 2 des triangles , <operation ingredients="saumon;fumé"> déposez </operation> une tranche de <ingredient action="déposer"> saumon </ingredient> <ingredient action="déposer" quantite="2 tranche"> fumé </ingredient> et <operation> recouvrez </operation> avec les 2 triangles restants . <operation ingredients="gruyère"> parsemez </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> râpé selon votre goût et <operation ingredients="beurre"> disposez </operation> sur chaque croq 2 demi-noisettes de <ingredient action="disposer"> beurre </ingredient> . faites - les <operation> cuire </operation> dans un four en mode grill à 170 <operation> ° </operation> , thermostat . 6 . <operation ingredients="pain"> laissez </operation> le <ingredient action="laisser" quantite="2 tranche"> pain </ingredient> <operation> dorer </operation> environ 10 min tout en surveillant la cuisson . servir immédiatement avec quelques feuilles de <ingredient> salades </ingredient> ou une <ingredient> tomate </ingredient> <operation> coupée </operation> en tranches bien <operation> assaisonnée </operation> .
+</preparation>
+</recette>

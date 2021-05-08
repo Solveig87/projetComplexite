@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164905">
+<titre>Couscous berbère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de graine de couscous grain moyen</p>
+<p>4 pommes de terre</p>
+<p>500 g de haricots verts (frais ou surgelés)</p>
+<p>4 cuillère à soupe huile au choix</p>
+<p>50 g de beurre</p>
+<p>menthe fraîche</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation> cuire </operation> la graine de couscous comme indiqué sur le paquet . <operation ingredients="pommes;haricots"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre et les <ingredient action="cuire" quantite="500 gramme"> haricots </ingredient> à la vapeur . les <operation ingredients="semoule"> mélanger </operation> à la <ingredient action="mélanger"> semoule </ingredient> . <operation ingredients="huile;beurre"> mélanger </operation> le tout avec l' <ingredient action="mélanger" quantite="4 cuillère à soupe"> huile </ingredient> et les 50 g de <ingredient action="mélanger" quantite="50 gramme"> beurre </ingredient> et <operation ingredients="menthe"> ciseler </operation> 10 feuilles de <ingredient action="ciseler" quantite=""> menthe </ingredient> sur le plat juste avant de servir . <ingredient> thé </ingredient> à la <ingredient quantite=""> menthe </ingredient>
+</preparation>
+</recette>

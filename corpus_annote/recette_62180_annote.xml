@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62180">
+<titre>Mêlée liégeoise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de haricots princesses (haricots verts)</p>
+<p>3 tranches de lard (fumé ou salé)</p>
+<p>1 oignon </p>
+<p>200 g de pommes de terre</p>
+<p>sel et poivre</p>
+<p>vinaigre de vin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;haricots"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> pommes </ingredient> de terre et les <ingredient action="cuire" quantite="300 gramme"> haricots </ingredient> pendant 1 . 20 minutes . dans une <operation> poêle </operation> , faire <operation ingredients="lard"> griller </operation> le <ingredient action="griller" quantite="3 tranche"> lard </ingredient> . le <operation> réserver </operation> . <operation ingredients="vinaigre"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite=""> vinaigre </ingredient> de vin . dans une casserole , faire <operation ingredients="oignon;beurre"> blondir </operation> l' <ingredient action="blondir" quantite="1"> oignon </ingredient> dans peu de <ingredient action="blondir"> beurre </ingredient> puis y <operation ingredients="haricots;pommes;lard"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> haricots </ingredient> , les <ingredient action="ajouter" quantite="200 gramme"> pommes </ingredient> de terre , le <ingredient action="ajouter" quantite="3 tranche"> lard </ingredient> . servir chaud . <operation ingredients="vinaigre"> ajouter </operation> du <ingredient action="ajouter" quantite=""> vinaigre </ingredient> si vous le souhaitez . bon appétit !
+</preparation>
+</recette>

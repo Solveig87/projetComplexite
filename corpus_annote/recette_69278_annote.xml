@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69278">
+<titre>Croûtes dorées</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>1 baquette rassis ou autre pain dur</p>
+<p>sucre glace</p>
+<p>huile pour la friture (tournesol, arachide)</p>
+</ingredients>
+<preparation>
+dans un saladier <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette . <operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> dur en morceaux . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> . pendant ce temps , <operation ingredients="pain;oeufs"> imbiber </operation> le <ingredient action="imbiber"> pain </ingredient> dur avec les <ingredient action="imbiber" quantite="3"> oeufs </ingredient> <operation> battus </operation> jusqu' à ce qu' il <operation> ramollisse </operation> . une fois le <ingredient action="ramollir"> pain </ingredient> <operation ingredients="pain"> ramolli </operation> , le faire <operation> frire </operation> . quand le <ingredient> pain </ingredient> est doré , le et sortir l' <operation> égoutter </operation> sur un papier absorbant . une fois refroidi , <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> et servir .
+</preparation>
+</recette>

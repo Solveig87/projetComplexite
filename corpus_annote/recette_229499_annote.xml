@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229499">
+<titre>Risotto aux crevettes et restes de ratatouille</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de riz arborio</p>
+<p>200 g restes de ratatouille (200 g environ) </p>
+<p>400 g de crevettes</p>
+<p>15 cl de vin blanc</p>
+<p>15 cl de crème fraîche (ou mascarpone)</p>
+<p>bouillon cube de volaille ou de légumes selon les goûts</p>
+<p>1 filet d'huile d'olive</p>
+<p>curry (facultatif)</p>
+<p>sel</p>
+<p>poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz;huile"> revenir </operation> le <ingredient action="revenir"> riz </ingredient> dans l' <ingredient action="revenir"> huile </ingredient> d' olive jusqu' à ce qu' il devienne transparent . <operation ingredients="vin;bouillon"> mouiller </operation> avec le <ingredient action="mouiller" quantite="15 cl"> vin </ingredient> blanc et le <ingredient action="mouiller" quantite=""> bouillon </ingredient> ( <operation> dilué </operation> dans de l' eau chaude ) petit à petit ( le <ingredient> riz </ingredient> doit adsorber le liquide petit à petit ) . quand le <ingredient> riz </ingredient> est presque cuit , <operation ingredients="crème;mascarpone"> ajouter </operation> le reste de ratatouille , la <ingredient action="ajouter" quantite="15 cl"> crème </ingredient> ou le <ingredient action="ajouter"> mascarpone </ingredient> et <operation> mélanger </operation> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";;"> assaisonnement </ingredient> ( sel , poivre , curry si nécessaire ) . <operation ingredients="crevettes"> dresser </operation> les <ingredient action="dresser" quantite="400 gramme"> crevettes </ingredient> sur le plat pour qu' elles se <operation> réchauffent </operation> et servir aussitôt .
+</preparation>
+</recette>

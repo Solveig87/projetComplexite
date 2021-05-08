@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68846">
+<titre>Dés de poulet à la cannelle</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de blancs de poulet</p>
+<p>50 g d'amandes effilées</p>
+<p>2 gros oignons</p>
+<p>20 cl de crème fraîche légère</p>
+<p>1 cuillère à café de cannelle</p>
+<p>sel, poivre</p>
+<p>1 cuillère à café d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> pelez </operation> et <operation> émincez </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> . faites <operation ingredients="huile"> chauffer </operation> un wok avec un peu d' <ingredient action="chauffer" quantite="1 cuillère à café"> huile </ingredient> , faites - y suer les <ingredient quantite="2"> oignons </ingredient> . <operation ingredients="poulet"> coupez </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en petits morceaux , <operation> ajoutez </operation> - les aux <ingredient quantite="2"> oignons </ingredient> . laissez <operation> revenir </operation> à feu doux . <operation ingredients="sel"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> sel </ingredient> , poivre , cannelle . lorsque la <ingredient action="réduire"> viande </ingredient> est bien cuite , <operation ingredients="viande"> réduisez </operation> le feu et <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . servez dans 4 assiettes , <operation> parsemez </operation> d' <ingredient quantite="50 gramme"> amandes </ingredient> effilées . <operation ingredients="riz"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> ou tagliatelles fraîches !
+</preparation>
+</recette>

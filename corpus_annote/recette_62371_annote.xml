@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62371">
+<titre>Salade hawaïenne au poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade verte (celle que vous préférez)</p>
+<p>1 tomate</p>
+<p>1 poignée de maïs</p>
+<p>1 œuf</p>
+<p>restes de poulet froid découpé en lamelles</p>
+<p>1 ou 2 rondelles d'ananas en boite</p>
+<p>1 cuillère à soupe de jus d'ananas</p>
+<p>sauce crudité</p>
+</ingredients>
+<preparation>
+dans une assiette , <operation ingredients="salade"> disposez </operation> vos feuilles de <ingredient action="disposer" quantite="1"> salade </ingredient> . <operation ingredients="maïs;poulet"> parsemez </operation> les feuilles de grains de <ingredient action="parsemer"> maïs </ingredient> et de lamelles de <ingredient action="parsemer"> poulet </ingredient> . <operation ingredients="tomates;oeufs"> entourez </operation> la préparation de quartiers de <ingredient action="entourer" quantite="1"> tomates </ingredient> et d' <ingredient action="entourer"> oeufs </ingredient> . au sommet de la <ingredient action="disposer" quantite="1"> salade </ingredient> , <operation ingredients="salade;ananas"> disposez </operation> 1 ou 2 rondelles d' <ingredient action="disposer"> ananas </ingredient> . pour plus d' effet , sectionnez chaque rondelles et <operation> retournez </operation> -en une partie . <operation> assaisonnez </operation> légèrement et n' oubliez pas la cuillère à soupe de jus d' ananas . voilà , c' est prêt !
+</preparation>
+</recette>

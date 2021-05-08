@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56443">
+<titre>Croque guimov</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf (oie ou poule)</p>
+<p>2 tranches de pain de mie</p>
+<p>3 x 20 g de beurre</p>
+<p>1 pincé de sel</p>
+<p>fromage râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oeuf;beurre"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oeuf </ingredient> au plat dans 20 g de <ingredient action="cuire"> beurre </ingredient> . faites <operation ingredients="pain;beurre"> revenir </operation> chaque tranche de <ingredient action="revenir" quantite="2 tranche"> pain </ingredient> , chacune son tour dans 20 g de <ingredient action="revenir"> beurre </ingredient> jusqu' à ce qu' elles soient bien dorées . <operation ingredients="oeuf;pain"> placez </operation> l' <ingredient action="placer" quantite="1"> oeuf </ingredient> sur une tranche de <ingredient action="placer" quantite="2 tranche"> pain </ingredient> , <operation> salez </operation> , <operation ingredients="pain"> recouvrez </operation> de la tranche de <ingredient action="recouvrir" quantite="2 tranche"> pain </ingredient> restante et <operation ingredients="fromage"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> fromage </ingredient> <operation> râpé </operation> . ce plat très consistant peut-être <operation ingredients="salade"> accompagné </operation> de <ingredient action="accompagner"> salade </ingredient> ! !
+</preparation>
+</recette>

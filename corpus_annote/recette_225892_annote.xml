@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225892">
+<titre>Cupcake praliné sans gluten</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour les cupcakes :</p>
+<p>150 g de beurre</p>
+<p>85 g de chocolat dessert praliné</p>
+<p>3 œufs</p>
+<p>225 g de maïzena</p>
+<p>150 g de sucre</p>
+<p>1 pincée de vanille en poudre</p>
+<p>60 g de pralin</p>
+<p>Pour le glaçage :</p>
+<p>250 g de mascarpone</p>
+<p>100 g de sucre glace</p>
+<p>20 g de chocolat dessert praliné</p>
+<p>40 g de pralin</p>
+</ingredients>
+<preparation>
+préparation des cupcakes : faire <operation ingredients="beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="85 gramme+20 gramme"> chocolat </ingredient> . <operation ingredients="œufs;maïzena;sucre"> mélanger </operation> les <ingredient action="mélanger" quantite="3"> œufs </ingredient> , la <ingredient action="mélanger" quantite="225 gramme"> maïzena </ingredient> et le <ingredient action="mélanger" quantite="150 gramme+100 gramme"> sucre </ingredient> , puis <operation ingredients="beurre"> ajouter </operation> le <operation> mélange </operation> <ingredient action="ajouter"> beurre </ingredient> - chocolat . quand le <operation> mélange </operation> est bien homogène , <operation> ajouter </operation> la vanille et le pralin . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> dans des caissettes en papier ( ou en silicone ) ou utiliser des <operation> moules </operation> à muffins . <operation> remplir </operation> les caissettes au 2 / 3 puis <operation> enfourner </operation> à 220 <operation> ° </operation> c pendant environ 15 min . quand les cupcakes sont <operation> cuits </operation> les sortir du four et les laisser refroidir avant de faire le glaçage . préparation du glaçage : <operation ingredients="mascarpone;chocolat"> mélanger </operation> au fouet le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> , le pralin et le <ingredient action="mélanger" quantite="85 gramme+20 gramme"> chocolat </ingredient> <operation> fondu </operation> puis <operation ingredients="sucre;glace"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme+100 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> petit à petit . une fois que le glaçage se tient , le <operation> mettre </operation> dans une <operation> poche </operation> à douille et le <operation> disposer </operation> sur les cupcakes . <operation> mettre </operation> les cupcakes au frigo pendant 2 h avant dégustation
+</preparation>
+</recette>

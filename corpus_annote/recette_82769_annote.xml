@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82769">
+<titre>Tajine de poulet, pommes, coings, cannelle</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 cuisses de poulet</p>
+<p>1 coing</p>
+<p>3 pommes</p>
+<p>1 oignon</p>
+<p>5 cl d'huile d'olive</p>
+<p>40 g de gelée de coings</p>
+<p>cannelle en poudre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> saler </operation> les cuisses de <ingredient action="saler"> poulet </ingredient> et les <operation ingredients="huile"> colorer </operation> d' <ingredient action="colorer" quantite="5 cl"> huile </ingredient> d' olive . <operation ingredients="oignon;cannelle"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> et la <ingredient action="ajouter" quantite=""> cannelle </ingredient> ( en fonction des goûts ) . <operation> cuire </operation> à feu doux pendant 50 minutes . pendant ce temps , <operation> éplucher </operation> et <operation ingredients="pommes;coing"> couper </operation> en morceaux les <ingredient action="couper" quantite="3"> pommes </ingredient> et le <ingredient action="couper" quantite="1"> coing </ingredient> , et les mettere dans une casserole à part . faire <operation ingredients="fruits;gelée"> revenir </operation> les <ingredient action="revenir" quantite="1;3;40 gramme"> fruits </ingredient> avec la <ingredient action="revenir" quantite="40 gramme"> gelée </ingredient> de coings et laisser caraméliser légèrement . <operation> mettre </operation> les cuisses dans un plat et <operation ingredients="fruits"> verser </operation> les <ingredient action="verser" quantite="1;3;40 gramme"> fruits </ingredient> caramélisés dessus . servir aussitôt et dégustez ! il est possible de n' utiliser que des <ingredient quantite="3"> pommes </ingredient> ( si vous n' avez pas de <ingredient quantite="1"> coing </ingredient> ) et de remplacer la <ingredient quantite="40 gramme"> gelée </ingredient> de coings par du <ingredient> miel </ingredient> .
+</preparation>
+</recette>

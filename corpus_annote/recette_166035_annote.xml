@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166035">
+<titre>Gâteau au chocolat de celian</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>280g farine  2 oeufs</p>
+<p>180g beurre  100g chocolat a cuire</p>
+<p>200g sucre  30cl lait   1 sachet levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> melanger </operation> les jaunes d' <ingredient action="melanger" quantite="280 gramme"> oeufs </ingredient> avec le <ingredient action="melanger" quantite="200 gramme"> sucre </ingredient> jusqu' a blanchiment , <operation ingredients="farine;levure"> ajoutez </operation> la <ingredient action="ajouter"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> , faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> avec le <ingredient action="fondre"> lait </ingredient> , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer"> chocolat </ingredient> et le <ingredient> beurre </ingredient> a la preparation , <operation> monter </operation> les blancs en neige et <operation> ajoutez </operation> a la pate . <operation> prechauffer </operation> le four a 200 <operation> ° </operation> , <operation> enfournez </operation> 45 min environ selon le four
+</preparation>
+</recette>

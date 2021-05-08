@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47208">
+<titre>Satellites de Lola (beignets au yaourt)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt</p>
+<p>1 oeuf</p>
+<p>200g de farine</p>
+<p>150 g de sucre</p>
+<p>1 cuillère à café de rhum</p>
+<p>1/2 paquet de levure en poudre</p>
+<p>huile pour friture</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+dans une terrine , <operation ingredients="oeuf;yaourt;rhum"> mélangez </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à café"> rhum </ingredient> . <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="150 gramme"> sucre </ingredient> , la <ingredient action="travailler" quantite="200 gramme"> farine </ingredient> et la <ingredient action="travailler"> levure </ingredient> et <operation ingredients="farine;levure"> travaillez </operation> énergiquement . faites <operation ingredients="huile"> chauffez </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> de friture . quand elle est bien chaude , laissez tomber des boules de la grosseur d' une petite <ingredient> noix </ingredient> . laissez <operation> cuire </operation> 5 min par fournée . servez chaud ou tière , <operation ingredients="sucre;glace"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="150 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> . satellites parce que ça ressemble à des petites comètes : une boule avec une queue derrière . . .
+</preparation>
+</recette>

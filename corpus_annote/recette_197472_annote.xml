@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197472">
+<titre>Poulet aux légumes et coriandre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>1 poivron</p>
+<p>500 g de brocoli</p>
+<p>1 oignon</p>
+<p>1 petit piment frais</p>
+<p>Pour la sauce: </p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de sauce soja sucrée </p>
+<p>1 cuillère à soupe de sauce soja salée</p>
+<p>1 cuillères à café de rase de maizena</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon;poivron"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> , le <ingredient action="émincer" quantite="1"> poivron </ingredient> . <operation ingredients="brocoli"> couper </operation> le <ingredient action="couper" quantite="500 gramme"> brocoli </ingredient> en fleurettes . <operation> hacher </operation> le piment finement . <operation ingredients="poulet"> découper </operation> le <ingredient action="découper"> poulet </ingredient> en dès . faire <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer" quantite="4 cuillère à soupe"> huile </ingredient> dans une sauteuse ou mieux un wok . y faire <operation ingredients="oignons;brocoli"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> , le <ingredient action="revenir" quantite="500 gramme"> brocoli </ingredient> le poivron . quand les <ingredient quantite="1"> oignons </ingredient> prennent une petite coloration <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> et le piment . <operation> ajouter </operation> un demi verre d' eau . laisser <operation ingredients="poulet"> cuire </operation> jusqu' à ce que le <ingredient action="cuire"> poulet </ingredient> soit cuit . <operation> préparer </operation> la sauce : <operation ingredients="huile"> mélanger </operation> l' <ingredient action="mélanger" quantite="4 cuillère à soupe"> huile </ingredient> , les sauces <ingredient action="ajouter" quantite="1 cuillère à soupe"> soja </ingredient> <operation ingredients="soja;maïzena"> ajouter </operation> la <ingredient action="ajouter"> maïzena </ingredient> ( pour <operation> épaissir </operation> ) . <operation> verser </operation> dans le wok et bien <operation> mélanger </operation> . servir avec de la <ingredient> coriandre </ingredient> fraîche et de la <ingredient> semoule </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31545">
+<titre>Soupe froide courgette et tomate</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de courgettes</p>
+<p>100 g de tomates</p>
+<p>2 gousses d'ail</p>
+<p>30 cl de bouillon de légumes</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>8 feuilles de basilic</p>
+<p>le jus d'un citron</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousses"> pelez </operation> les <ingredient action="peler" quantite="2"> gousses </ingredient> d' ail et <operation ingredients="bouillon;huile;sel"> mettez </operation> - les dans une marmite avec le <ingredient action="mettre" quantite="30 cl"> bouillon </ingredient> , la moitié de l' <ingredient action="mettre" quantite="4 cuillère à soupe"> huile </ingredient> et du <ingredient action="mettre" quantite=""> sel </ingredient> . <operation ingredients="tomates"> ebouillantez </operation> les <ingredient action="ebouillanter" quantite="100 gramme"> tomates </ingredient> 10 sec , puis <operation> pelez </operation> - les , <operation> coupez </operation> les en deux et <operation> éliminez </operation> -en les graines . <operation> hachez </operation> grossièrement la pulpe et <operation> ajoutez </operation> - la dans la marmite . <operation> portez </operation> à <operation> ébullition </operation> et laisez <operation> cuire </operation> 5 mn à feu vif . <operation> lavez </operation> les courgettes , <operation> épongez </operation> - les et <operation> coupez </operation> - les en petits morceaux , <operation> ajoutez </operation> - les dans la marmite et laisser <operation> cuire </operation> 10 mn . laissez refroidir . <operation ingredients="soupe;huile;basilic;jus"> mixez </operation> la <ingredient action="mixez"> soupe </ingredient> avec le reste de l' <ingredient action="mixez" quantite="4 cuillère à soupe"> huile </ingredient> , le <ingredient action="mixez" quantite="8 feuille"> basilic </ingredient> et je <ingredient action="mixez" quantite=""> jus </ingredient> de citron . <operation> réservez </operation> au réfrigérateur , 2 h au moins .
+</preparation>
+</recette>

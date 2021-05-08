@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26756">
+<titre>Salade fruits à la Sandrine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kiwi</p>
+<p>1 mangue</p>
+<p>1 pamplemousse rose</p>
+<p>1 conserve de lait de coco (+/ 30 ml) </p>
+<p>un yaourt maigre</p>
+<p>quelques amandes effilées</p>
+<p>du sucre vanille</p>
+<p>du sucre semoule</p>
+<p>un petit beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> peler </operation> les <ingredient action="peler" quantite="1;1;1;quelque"> fruits </ingredient> et les <operation> découper </operation> en petits dés puis les <operation> répartir </operation> dans 2 petits bols . <operation ingredients="sucre;vanille"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> <ingredient action="saupoudrer"> vanille </ingredient> . <operation ingredients="lait"> verser </operation> le <ingredient action="verser"> lait </ingredient> de coco par - dessus . <operation ingredients="amandes"> déposer </operation> les <ingredient action="déposer" quantite="quelque"> amandes </ingredient> . <operation ingredients="yaourt;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> maigre au <ingredient action="mélanger" quantite=""> sucre </ingredient> . <operation ingredients="yaourt"> recouvrir </operation> du <ingredient action="recouvrir" quantite="1"> yaourt </ingredient> <operation> préparé </operation> . broyer le petit <ingredient quantite="1"> beurre </ingredient> au pilon et <operation> saupoudrer </operation> la préparation puis servir .
+</preparation>
+</recette>

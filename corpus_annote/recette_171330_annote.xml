@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171330">
+<titre>Pâte aux crevettes a la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes </p>
+<p>120 g de crevettes (roses de préférence) </p>
+<p>2 tomates</p>
+<p>1 bel oignon</p>
+<p>4 à 5 cuillères à soupe de crème fraiche</p>
+<p>persil </p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> haché </operation> dans une casserole ou une <operation> poêle </operation> . pendant ce temps faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> , une fois celle-ci cuites , <operation> égouttez </operation> - les et <operation> rincez </operation> - les . quand les <ingredient action="ajouter" quantite="1"> oignons </ingredient> sont bien dorés , <operation ingredients="oignons;crevettes"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="120 gramme"> crevettes </ingredient> , faites <operation> revenir </operation> 5 min puis <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en dés . laissez <operation> mijoter </operation> le tout 5 min puis <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter"> crème </ingredient> fraiche puis <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="pâtes"> ajoutez </operation> la garniture aux <ingredient action="ajouter" quantite="500 gramme"> pâtes </ingredient> et laissez <operation> mijoter </operation> 5 min ( si le plat est trop sec vous pouvez <operation ingredients="crème;lait"> ajouter </operation> de la <ingredient action="ajouter"> crème </ingredient> ou du <ingredient action="ajouter"> lait </ingredient> ) . servez chaud et régalez vous !
+</preparation>
+</recette>

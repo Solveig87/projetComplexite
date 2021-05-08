@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23279">
+<titre>Poulet au yaourt et au concombre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>1 citron</p>
+<p>3 cuillères à soupe de yaourt nature</p>
+<p>quelques rondelles de concombre</p>
+<p>4 cuillères à soupe de menthe fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> mixer </operation> le <ingredient action="mixer"> concombre </ingredient> puis <operation ingredients="menthe"> émincer </operation> la <ingredient action="émincer" quantite="4 cuillère à soupe"> menthe </ingredient> fraîche finement . <operation> mélangez </operation> - les avec tous les autres ingrédients . faire <operation> cuire </operation> 300 g de <ingredient> riz </ingredient> parfumé . <operation ingredients="poulet"> griller </operation> le <ingredient action="griller"> poulet </ingredient> . servir la sauce sur le <ingredient> poulet </ingredient> , <operation ingredients="riz"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> et bon appétit .
+</preparation>
+</recette>

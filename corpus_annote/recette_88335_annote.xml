@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88335">
+<titre>Poulet aux deux pommes et aux amandes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>3 pommes</p>
+<p>10 pommes de terre</p>
+<p>50 g d'amandes entières</p>
+<p>2 gousses d'ail</p>
+<p>une pincée d'herbes de Provence</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;pommes;pommes"> découper </operation> les filets de <ingredient action="découper"> poulet </ingredient> en dés ainsi que les <ingredient action="découper" quantite="3+10"> pommes </ingredient> de terre et les <ingredient action="découper" quantite="3+10"> pommes </ingredient> . faire <operation ingredients="pommes;pommes;beurre;huile;sel;poivre;ail;amandes"> revenir </operation> les <ingredient action="revenir" quantite="3+10"> pommes </ingredient> de terre ainsi que les <ingredient action="revenir" quantite="3+10"> pommes </ingredient> dans une cocotte ou dans un wok avec un peu de <ingredient action="revenir"> beurre </ingredient> et d' <ingredient action="revenir"> huile </ingredient> , du <ingredient action="revenir" quantite=""> sel </ingredient> , du <ingredient action="revenir" quantite=""> poivre </ingredient> , de l' <ingredient action="revenir"> ail </ingredient> et des <ingredient action="revenir" quantite="50 gramme"> amandes </ingredient> <operation> mixées </operation> , pendant environ 15 minutes . dans une <operation> poêle </operation> , faire <operation ingredients="poulet"> revenir </operation> les dés de <ingredient action="revenir"> poulet </ingredient> et , une fois qu' ils sont dorés , <operation ingredients="amandes"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> amandes </ingredient> <operation> mixées </operation> . dès que le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> , le faire <operation ingredients="pommes;amandes"> revenir </operation> dans un wok avec deux <ingredient action="revenir" quantite="3+10"> pommes </ingredient> et les <ingredient action="revenir" quantite="50 gramme"> amandes </ingredient> pendant 5 minutes . <operation> ajouter </operation> une pincée d' herbes de provence et servir !
+</preparation>
+</recette>

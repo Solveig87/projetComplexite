@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20801">
+<titre>Oeuf à l'omelette et oseille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>150 g d'oseille</p>
+<p>1 cuillère à soupe de lait</p>
+<p>50 g de beurre</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="oseille"> hacher </operation> l’ <ingredient action="hacher" quantite="150 gramme"> oseille </ingredient> , la <operation> réserver </operation> . dans un saladier , <operation ingredients="oeufs;lait"> battre </operation> les <ingredient action="battre" quantite="8"> oeufs </ingredient> avec le <ingredient action="battre" quantite="1 cuillère à soupe"> lait </ingredient> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> à l’ aide d’ une fourchette . faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="50 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et faire <operation ingredients="oseille"> fondre </operation> l’ <ingredient action="fondre" quantite="150 gramme"> oseille </ingredient> pendant 5 min en <operation> remuant </operation> régulièrement . <operation ingredients="oeufs"> verser </operation> ensuite les <ingredient action="verser" quantite="8"> oeufs </ingredient> <operation ingredients="oseille"> battus </operation> sur l’ <ingredient action="battre" quantite="150 gramme"> oseille </ingredient> et laisser <operation> cuire </operation> l’ omelette selon votre goût ( baveuse ou ferme ) .
+</preparation>
+</recette>

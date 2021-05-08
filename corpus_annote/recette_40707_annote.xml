@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40707">
+<titre>Velouté de légumes de Fafi</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 carottes</p>
+<p>4 pommes de terre moyennes (spéciales cuisson vapeur)</p>
+<p>3 courgettes</p>
+<p>1/2 navet</p>
+<p>10 choux de Bruxelles</p>
+<p>quelques feuilles de choux frisé (facultatif)</p>
+<p>1 poireaux</p>
+<p>1 grosse poignée de lentilles brunes sèches</p>
+<p>1 morceau de potiron</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 litre et demi de bouillon de volaille </p>
+<p>sel, poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> peler </operation> les <ingredient action="peler" quantite="5;4;10+quelque feuille;1;1"> légumes </ingredient> , et les <operation> couper </operation> en gros morceaux . <operation ingredients="légumes;bouillon;sel;poivre"> mettre </operation> tous les <ingredient action="mettre" quantite="5;4;10+quelque feuille;1;1"> légumes </ingredient> dans l' autocuiseur avec le <ingredient action="mettre"> bouillon </ingredient> de volaille , le <ingredient action="mettre" quantite=""> sel </ingredient> , et le <ingredient action="mettre" quantite=""> poivre </ingredient> . décompter le temps : 15 min à partir du chuintement de la soupape . <operation ingredients="légumes"> mouliner </operation> les <ingredient action="mouliner" quantite="5;4;10+quelque feuille;1;1"> légumes </ingredient> , et <operation ingredients="noix"> ajouter </operation> quelques <ingredient action="ajouter"> noix </ingredient> de beurre . je vous conseille d' <operation ingredients="noix;parmesan;gruyère"> ajouter </operation> une petite <ingredient action="ajouter"> noix </ingredient> de beurre dans l' assiette , ainsi que des copeaux de <ingredient action="ajouter"> parmesan </ingredient> , ou du <ingredient action="ajouter"> gruyère </ingredient> . si le velouté est trop liquide , vous pouvez <operation> ajouter </operation> quelques flocons de purée . . .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40800">
+<titre>Salade de quinoa aux figues et chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de quinoa </p>
+<p>3 ou 4 figues fraîches</p>
+<p>5 ou 6 tranches de bûche de chèvre</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="quinoa"> rincer </operation> le <ingredient action="rincer" quantite="100 gramme"> quinoa </ingredient> à l’ eau froide . le faire <operation> cuire </operation> dans une casserole contenant 2 verres et demi d’ eau . <operation> porter </operation> à <operation> ébullition </operation> pendant 20 min . <operation ingredients="quinoa"> egoutter </operation> le <ingredient action="egoutter" quantite="100 gramme"> quinoa </ingredient> . <operation ingredients="figues;chèvre"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> figues </ingredient> et le <ingredient action="rajouter"> chèvre </ingredient> , <operation> coupés </operation> en petits morceaux . <operation> assaisonnez </operation> à votre goût , et <operation> mélanger </operation> doucement . servir frais .
+</preparation>
+</recette>

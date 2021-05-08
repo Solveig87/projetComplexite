@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166589">
+<titre>Salade de fenouil au citron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 beaux fenouils bien rond et blanc</p>
+<p>3 ou 4 cuillères à soupe d'huile d'olive</p>
+<p>1 citron</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="fenouil"> enlever </operation> la première partie du <ingredient action="enlever"> fenouil </ingredient> , il ne doit rester que la partie la plus tendre . <operation> coupez </operation> le en lamelles pas trop épaisse <operation ingredients="jus;citron"> presser </operation> le <ingredient action="presser"> jus </ingredient> d' un <ingredient action="presser" quantite="1"> citron </ingredient> , <operation ingredients="huile"> verser </operation> l' <ingredient action="verser"> huile </ingredient> d' olive <operation> saler </operation> et <operation> poivrer </operation> , bien <operation> mélanger </operation> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> à votre gout . le <ingredient quantite="1"> citron </ingredient> empêche le <ingredient> fenouil </ingredient> de <operation> noircir </operation> , il peut donc être <operation> préparé </operation> à l' avance et se conserve quelques jours au réfrigérateur rosé
+</preparation>
+</recette>

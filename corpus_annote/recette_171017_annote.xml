@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171017">
+<titre>Moules sauce mayonnaise ,fine saveur</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 kg de moules</p>
+<p>1 feuille de laurier</p>
+<p>2 cuillères soupe rases de thym</p>
+<p>20 cl de vin blanc</p>
+<p>1 jaune d'œuf</p>
+<p>1 cuillère à soupe rase de moutarde</p>
+<p>50 cl d'huile</p>
+<p>sel et poivre</p>
+<p>1 cuillère à café de vinaigre balsamique</p>
+<p>2 gousses d'ail pilées</p>
+<p>le jus des moules (filtré)</p>
+</ingredients>
+<preparation>
+faire <operation> ouvrir </operation> les <operation> moules </operation> <operation ingredients="vin"> nettoyées </operation> dans le <ingredient action="nettoyer" quantite="20 cl"> vin </ingredient> blanc chaud en y <operation ingredients="thym;laurier"> ajoutant </operation> le <ingredient action="ajouter"> thym </ingredient> et le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation> réserver </operation> . <operation ingredients="mayonnaise;œuf;moutarde"> monter </operation> la <ingredient action="monter"> mayonnaise </ingredient> avec d' abord le jaune d' <ingredient action="monter"> œuf </ingredient> et la <ingredient action="monter"> moutarde </ingredient> . <operation ingredients="huile"> ajouter </operation> progressivement l' <ingredient action="ajouter" quantite="50 cl"> huile </ingredient> . lorsque la <ingredient> mayonnaise </ingredient> est prête ( environ un petit saladier ) y <operation ingredients="ail;vinaigre"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> en purée et le <ingredient action="ajouter" quantite="1 cuillère à café"> vinaigre </ingredient> . bien <operation> émulsionner </operation> puis <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> <operation> filtré </operation> des <operation> moules </operation> jusqu' à obtention de la quantité désirées ( en fonction de la quantité de <operation> moules </operation> ) . <operation> mélanger </operation> la sauce obtenue aux <operation> moules </operation> et <operation> réserver </operation> au frais jusqu' au repas . pour une entrée <operation ingredients="vin"> diviser </operation> les quantités par 2 <ingredient action="diviser" quantite="20 cl"> vin </ingredient> blanc d' alsace
+</preparation>
+</recette>

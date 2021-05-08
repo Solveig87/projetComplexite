@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225582">
+<titre>Chocolats glacés</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de chocolat au lait et noisettes</p>
+<p>150 g de chocolat noir</p>
+<p>125 g de beurre</p>
+<p>75 g de sucre en poudre</p>
+<p>6 œufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolats;beurre"> fondre </operation> les deux <ingredient action="fondre" quantite="300 gramme+150 gramme"> chocolats </ingredient> avec le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> . dans le saladier , <operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> avec le <ingredient action="battre" quantite="75 gramme"> sucre </ingredient> en <operation> poudre </operation> . <operation> mélanger </operation> les deux préparations . <operation> battre </operation> les blancs en neige et <operation> incorporer </operation> à la préparation précédente . <operation> verser </operation> dans le <operation> moule </operation> et <operation> mettre </operation> au congélateur . sortir 5 min avant de consommer . délicieux avec une <ingredient> crème </ingredient> anglaise .
+</preparation>
+</recette>

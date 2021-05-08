@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20488">
+<titre>Chou rose farci aux légumes blancs</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 petit chou rouge</p>
+<p>1 endive</p>
+<p>1 pomme</p>
+<p>le jus d'1 citron</p>
+<p>2 branches de céleri</p>
+<p>Pour la sauce :</p>
+<p>1 cuillère à soupe de mayonnaise</p>
+<p>1 cuillère à café de moutarde blanche</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> et <operation ingredients="chou"> jeter </operation> le trognon du <ingredient action="jeter" quantite="1"> chou </ingredient> , lui <operation> écarter </operation> les feuilles et le <operation> nettoyer </operation> . <operation ingredients="chou"> réserver </operation> les feuilles extérieures du <ingredient action="réserver" quantite="1"> chou </ingredient> , et <operation> émincer </operation> finement les feuilles intérieures . <operation> laver </operation> , <operation> essuyer </operation> et <operation ingredients="endive"> détailler </operation> l' <ingredient action="détailler" quantite="1"> endive </ingredient> en très petits dés . <operation ingredients="pomme"> eplucher </operation> ensuite la <ingredient action="eplucher" quantite="1"> pomme </ingredient> et la <operation> détailler </operation> en très fines tranches ( comme pour <operation ingredients="carpaccio"> faire </operation> un <ingredient action="faire"> carpaccio </ingredient> ) . <operation ingredients="pommes;jus;citron"> arroser </operation> les tranches de <ingredient action="arroser" quantite="1"> pommes </ingredient> avec le <ingredient action="arroser" quantite=""> jus </ingredient> d' un <ingredient action="arroser"> citron </ingredient> afin d' éviter qu' elles ne <operation> noircissent </operation> , puis <operation ingredients="céleri"> laver </operation> et <operation> hacher </operation> les branches de <ingredient action="laver"> céleri </ingredient> . dans un saladier , <operation ingredients="chou;pomme;céleri"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> chou </ingredient> <operation ingredients="endive"> émincé </operation> avec l' <ingredient action="émincer" quantite="1"> endive </ingredient> , la <ingredient action="mélanger" quantite="1"> pomme </ingredient> et le <ingredient action="mélanger"> céleri </ingredient> . <operation> préparer </operation> ensuite la sauce en <operation ingredients="mayonnaise;moutarde"> battant </operation> la <ingredient action="battre" quantite="1 cuillère à soupe"> mayonnaise </ingredient> avec le <ingredient action="battre" quantite="1 cuillère à café"> moutarde </ingredient> , puis la <operation ingredients="poivre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> poivre </ingredient> . <operation> napper </operation> le contenu du saladier avec cette sauce . <operation ingredients="chou"> tapisser </operation> le plat de service des grandes feuilles de <ingredient action="tapisser" quantite="1"> chou </ingredient> <operation> réservées </operation> , puis <operation ingredients="endive"> répartir </operation> la farce <ingredient action="répartir" quantite="1"> endive </ingredient> - pomme - céleri sur chaque feuille et déguster bien frais .
+</preparation>
+</recette>

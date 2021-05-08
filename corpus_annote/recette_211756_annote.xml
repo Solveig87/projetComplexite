@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211756">
+<titre>Pâtes en sauce "thontatouille"</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes</p>
+<p>restes de ratatouille maison</p>
+<p>une grosse boîte de thon</p>
+<p>25 cl de crème frâiche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> dans de l' eau bouillante <operation> salée </operation> le temps indiqué sur le paquet . pendant ce temps , dans le blender , <operation ingredients="thon;crème"> mettre </operation> la ratatouille , le <ingredient action="mettre"> thon </ingredient> et la <ingredient action="mettre" quantite="25 cl"> crème </ingredient> et <operation> mixer </operation> jusqu' à obtenir une " <ingredient quantite="25 cl"> crème </ingredient> " . <operation ingredients="pâtes"> égoutter </operation> les <ingredient action="égoutter" quantite="500 gramme"> pâtes </ingredient> et <operation> mélanger </operation> le tout dans une casserole et servez bien chaud . bon ap ' !
+</preparation>
+</recette>

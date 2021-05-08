@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83445">
+<titre>Moelleux au gingembre</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt nature non sucré</p>
+<p>1 pot de yaourt de sucre</p>
+<p>2 pots de yaourt de farine</p>
+<p>1 sachet de levure chimique</p>
+<p>1/2 pot de yaourt de beurre fondu</p>
+<p>1 cuillère à soupe de gingembre moulu</p>
+<p>2 cuillères à soupe bien pleines de gingembre confit coupé en petits morceaux</p>
+<p>1 cuillère à soupe de gingembre frais</p>
+<p>Quelques gouttes d'arôme vanille liquide</p>
+<p>2 œufs</p>
+<p>2 cuillères à soupe de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt;œufs"> mélanger </operation> le <ingredient action="mélanger" quantite="1+1 pot+2 pot"> yaourt </ingredient> avec les <ingredient action="mélanger" quantite="2"> œufs </ingredient> . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> . bien <operation> mélanger </operation> afin que le <operation> mélange </operation> soit homogène . <operation ingredients="farine;levure;beurre"> ajouter </operation> ensuite la <ingredient action="ajouter"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> puis le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> . <operation> mélanger </operation> . ensuite <operation ingredients="gingembre;gingembre;confit"> incorporer </operation> le <ingredient action="incorporer"> gingembre </ingredient> moulu et frais préalablement râpé ainsi que les petits morceaux de <ingredient action="incorporer"> gingembre </ingredient> <ingredient action="incorporer"> confit </ingredient> . terminer par la vanille et le <ingredient quantite="2 cuillère à soupe"> rhum </ingredient> . <operation> beurrer </operation> et <operation> fariner </operation> un <operation> moule </operation> et <operation> cuire </operation> environ 30 min à 180 <operation> ° </operation> .
+</preparation>
+</recette>

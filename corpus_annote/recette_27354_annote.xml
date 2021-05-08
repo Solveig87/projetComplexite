@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27354">
+<titre>Dinde provençale</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de filet de dinde</p>
+<p>2 poivrons</p>
+<p>5 tomates</p>
+<p>3 oignons</p>
+<p>sel, poivre</p>
+<p>thym</p>
+<p>huile</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="dinde"> couper </operation> le filet de <ingredient action="couper"> dinde </ingredient> en petits morceaux . les faire <operation ingredients="huile;beurre"> revenir </operation> à la <operation> poêle </operation> avec de l ' <ingredient action="revenir" quantite=""> huile </ingredient> et du <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="2;5;3;4 cuillère à soupe"> légumes </ingredient> en petits dés , <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="3"> oignons </ingredient> dans une sauteuse . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter"> viande </ingredient> . laisser <operation> cuire </operation> 20 mn puis <operation ingredients="crème"> insérer </operation> la <ingredient action="insérer" quantite="4 cuillère à soupe"> crème </ingredient> fraîche . laiser <operation> cuire </operation> 15 mn environ .
+</preparation>
+</recette>

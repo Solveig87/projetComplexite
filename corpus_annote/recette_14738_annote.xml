@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14738">
+<titre>Gelato staciatella</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>50 cl de crème fraîche fleurette</p>
+<p>200 g de sucre </p>
+<p>100 g de chocolat</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="sucre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> sucre </ingredient> dans un demi verre d' eau puis laisser refroidir . <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> et la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche . laisser <operation> reposer </operation> un peu au frigo . faire prendre la <ingredient> glace </ingredient> dans la sorbetière , et , à la fin , <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> en mince filet qui se brise au contact de la <ingredient quantite="50 cl"> crème </ingredient> <operation> glacée </operation> . plus simplement , on peut <operation ingredients="chocolat"> râper </operation> le <ingredient action="râper" quantite="100 gramme"> chocolat </ingredient> à l' aide d' un éplucheur dans la <ingredient quantite="50 cl"> crème </ingredient> <operation> glacée </operation> quand la sorbetière a fini de <operation> tourner </operation> . elémentaire ! de l' eau ou un bon <ingredient> muscat </ingredient> , un banyuls , un <ingredient> café </ingredient> . . .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42424">
+<titre>Filet de poulet aux pommes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 blanc de poulet (ou deux suivant grosseur)</p>
+<p>2 belles pommes qui tiennent bien à la cuisson</p>
+<p>1 poignée de raisins secs, </p>
+<p>quelques amandes mondés (facultatif)</p>
+<p>1 tout petit verre de calvados</p>
+<p>1 grosse cuillère à soupe de crème fraiche allégée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;calvados"> tremper </operation> les <ingredient action="tremper"> raisins </ingredient> à l' avance ( 1 h ) dans un peu de <ingredient action="tremper"> calvados </ingredient> , faire <operation ingredients="amandes"> dorer </operation> les <ingredient action="dorer" quantite="quelque"> amandes </ingredient> à sec dans une <operation> poêle </operation> . faire <operation ingredients="poulet"> dorer </operation> le filet de <ingredient action="dorer"> poulet </ingredient> dans une <operation> poêle </operation> anti adhésive , et le <operation> cuire </operation> à l' étouffé ( il conservera son moelleux ) . pendant ce temps <operation> peler </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en grosses lamelles , y adjoindre les <ingredient> raisins </ingredient> , les <operation ingredients="beurre"> cuire </operation> dans un peu de <ingredient action="cuire"> beurre </ingredient> à feu doux , elles doivent prendre tout juste couleur , en fin de cuisson on <operation ingredients="amandes"> ajoutera </operation> les <ingredient action="ajouter" quantite="quelque"> amandes </ingredient> . faire <operation ingredients="poulet"> revenir </operation> à la <operation> poêle </operation> le <ingredient action="revenir"> poulet </ingredient> , il est pratiquement cuit , <operation ingredients="calvados"> déglacer </operation> avec le <ingredient action="déglacer"> calvados </ingredient> ( on peut récupérer celui dans lequel ont <operation ingredients="raisins"> macérés </operation> les <ingredient action="macérer"> raisins </ingredient> puis <operation> ajuster </operation> la quantité ) et <operation> flamber </operation> brièvement ( avoir sous la main un couvercle métallique qui étouffera les flammes ) pour garder un peu d' alcool dans la préparation . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> ( je l' utilise toujours épaisse pour plus de <operation> liant </operation> ) , <operation> remuer </operation> doucement donner un tour de <ingredient> bouillon </ingredient> . servir dans une assiette chaude le blanc de <ingredient> poulet </ingredient> <operation ingredients="pommes"> entouré </operation> des <ingredient action="entourer" quantite="2"> pommes </ingredient> et <operation> arrosé </operation> de la sauce . un <ingredient> côte </ingredient> du jura blanc
+</preparation>
+</recette>

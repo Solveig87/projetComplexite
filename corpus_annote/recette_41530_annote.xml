@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41530">
+<titre>Salade délicieuse au saumon fumé et au tomates surprise</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de salade mélangée (mesclun)</p>
+<p>50 g de crabe (1 petite boîte)</p>
+<p>80 g de dés de saumon fumé</p>
+<p>12 tomates cocktail (allongées de préférence)</p>
+<p>1 cuillère à soupe de mayonnaise</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> enlever </operation> un chapeau aux 12 <ingredient action="enlever" quantite="12"> tomates </ingredient> . <operation> vider </operation> les pépins et <operation ingredients="chair"> enlever </operation> la <ingredient action="enlever"> chair </ingredient> à l' intérieur et la conserver de côté . <operation ingredients="chair"> écraser </operation> la <ingredient action="écraser"> chair </ingredient> avec une fourchette , y <operation ingredients="crabe;mayonnaise"> ajouter </operation> la moitié de la boîte de <ingredient action="ajouter" quantite="50 gramme"> crabe </ingredient> , la <ingredient action="ajouter" quantite="1 cuillère à soupe"> mayonnaise </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . il faut obtenir un <ingredient> crème </ingredient> ni trop ferme , ni trop liquide . surtout ne pas trop <operation ingredients="mayonnaise"> mettre </operation> de <ingredient action="mettre" quantite="1 cuillère à soupe"> mayonnaise </ingredient> car ça devient <operation> écœurant </operation> . <operation ingredients="salade"> présenter </operation> la <ingredient action="présenter" quantite="100 gramme"> salade </ingredient> sur un plat , <operation ingredients="salade"> éparpiller </operation> les dés de <ingredient action="fumer"> saumon </ingredient> <operation ingredients="saumon"> fumé </operation> sur la <ingredient action="éparpiller" quantite="100 gramme"> salade </ingredient> . <operation ingredients="tomates"> remplir </operation> les <ingredient action="remplir" quantite="12"> tomates </ingredient> avec la préparation , <operation> remettre </operation> les chapeaux et <operation ingredients="salade;tomates"> entourer </operation> la <ingredient action="entourer" quantite="100 gramme"> salade </ingredient> avec les <ingredient action="entourer" quantite="12"> tomates </ingredient> . asperger d' un filet d' <ingredient quantite=""> huile </ingredient> d' olive et d' un filet de <ingredient quantite=""> vinaigre </ingredient> balsamique , un peu de <ingredient quantite=""> sel </ingredient> et de <ingredient quantite=""> poivre </ingredient> . rafraîchir 15 min au réfrigérateur avant de servir .
+</preparation>
+</recette>

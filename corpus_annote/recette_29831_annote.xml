@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29831">
+<titre>Colombo de poulet aux christophines</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>2 cuillères à soupe d'épices à colombo</p>
+<p>2 christophines</p>
+<p>2 aubergines</p>
+<p>2 oignons</p>
+<p>3 gousses d'ail</p>
+<p>1 piment</p>
+<p>coriandre fraîche</p>
+<p>huile</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> dorer </operation> les morceaux de <ingredient action="dorer" quantite="1"> poulet </ingredient> dans une cocotte avec de l' <ingredient action="dorer" quantite=""> huile </ingredient> . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> hachés </operation> et <operation ingredients="épices"> saupoudrer </operation> des <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> épices </ingredient> à colombo . <operation> couvrir </operation> d' eau froide , <operation> saler </operation> et laisser <operation> mijoter </operation> 20 min à feu moyen , en <operation> remuant </operation> de temps en temps . <operation ingredients="aubergines;christophines"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> aubergines </ingredient> et les <ingredient action="ajouter" quantite="2"> christophines </ingredient> <operation> coupées </operation> en quartiers , l' <ingredient action="hacher"> ail </ingredient> <operation ingredients="ail"> haché </operation> et laisser <operation> cuire </operation> encore 20 min . servir le colombo <operation ingredients="coriandre"> parsemé </operation> de <ingredient action="parsemer" quantite=""> coriandre </ingredient> hachée . a <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> créole bien sûr . . .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173055">
+<titre>Mousse au mascarpone et aux speculoos</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Extrait de café</p>
+<p>30 g de sucre</p>
+<p>10 spéculos</p>
+<p>200 g de mascarpone</p>
+<p>20 cl de crème liquide</p>
+</ingredients>
+<preparation>
+broyer 5 spéculos , puis <operation ingredients="crème"> monter </operation> la <ingredient action="monter" quantite="20 cl"> crème </ingredient> <operation> fouettée </operation> . <operation ingredients="mascarpone;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="200 gramme"> mascarpone </ingredient> avec le <ingredient action="mélanger" quantite="30 gramme"> sucre </ingredient> à l' aide d' un fouet . <operation ingredients="crème"> incorporer </operation> le <operation> mélange </operation> à la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> <operation> fouettée </operation> . aromatiser la <ingredient quantite="20 cl"> crème </ingredient> avec une ou deux gouttes d' extrait de <ingredient> café </ingredient> . <operation ingredients="speculoos"> réduire </operation> en miettes à nouveau 5 <ingredient action="réduire"> speculoos </ingredient> . <operation> présenter </operation> dans des verrines en <operation ingredients="speculoos"> mettant </operation> un peu de <ingredient action="mettre"> speculoos </ingredient> au fond , puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . <operation> rajouter </operation> un peu des speéculos sur le dessus ( on peut en broyer un peu plus si l' on trouve qu' il n' y en a pas assez ) . <operation> placer </operation> au réfrigérateur jusqu' au moment de les servir . on peut <operation> ajouté </operation> un spéculos sur chacune des verrines lors de la présentation .
+</preparation>
+</recette>

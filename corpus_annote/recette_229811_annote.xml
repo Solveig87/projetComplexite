@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229811">
+<titre>Lasagnes à la mexicaine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de feuilles de lasagnes</p>
+<p>800 g de viande hachée</p>
+<p>2 oignons rouges</p>
+<p>2 poivrons (1 rouge et 1 vert)</p>
+<p>4 carottes</p>
+<p>800 g de sauce tomate cuisinée (pour fajitas)</p>
+<p>1 sauce béchamel</p>
+<p>50 g de gruyère râpe</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 cube de bouillon de bœuf</p>
+<p>1 pincée de tabasco et/ou épices mexicaines</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carottes;bouillon"> cuire </operation> les <ingredient action="cuire" quantite="4"> carottes </ingredient> <operation> coupées </operation> en rondelles dans l' eau avec le cube de <ingredient action="cuire"> bouillon </ingredient> . pendant ce temps , faire <operation ingredients="oignons;poivrons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="2"> poivrons </ingredient> <operation> coupés </operation> en petits . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="800 gramme"> viande </ingredient> , laisser <operation> cuire </operation> 5 min . <operation ingredients="carottes;sel;tabasco;épices"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> carottes </ingredient> , une fois <operation> cuites </operation> , la sauce fajitas , <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , poivre , ainsi que le <ingredient action="ajouter" quantite="1 pincée"> tabasco </ingredient> et / ou les <ingredient action="ajouter" quantite="1;1 pincée;1 pincée;1 pincée"> épices </ingredient> mexicaines selon votre goût . <operation ingredients="béchamel"> préparer </operation> une <ingredient action="préparer" quantite="1"> béchamel </ingredient> . dans un plat allant au four , alternez 2 fois <ingredient quantite="800 gramme"> viande </ingredient> / sauce et de lasagnes . finissez par la <ingredient quantite="1"> béchamel </ingredient> , et enfin , le <ingredient action="râpe" quantite="50 gramme"> gruyère </ingredient> <operation ingredients="gruyère"> râpe </operation> . <operation> enfournez </operation> 20 min environ à 180 <operation> ° </operation> c ( thermostat 6 ) , et c' est prêt ! perso , je la <operation ingredients="lait;jus;carottes;jus"> fait </operation> avec du <ingredient action="faire"> lait </ingredient> bien sûr , mais aussi le <ingredient action="faire"> jus </ingredient> de cuisson des <ingredient action="faire" quantite="4"> carottes </ingredient> ( 1 / 3 de <ingredient action="faire"> jus </ingredient> de carottes , 2 / 3 de <ingredient> lait </ingredient> ) gewurztraminer
+</preparation>
+</recette>

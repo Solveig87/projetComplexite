@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64175">
+<titre>Poulet Gaston</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>1 oignon</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1 pot de crème fraîche</p>
+<p>1 verre de vin blanc sec</p>
+<p>gruyère</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> dorer </operation> les blancs de <ingredient action="dorer"> poulet </ingredient> , les <operation> saler </operation> et <operation> poivrer </operation> puis les <operation> réserver </operation> dans un plat allant au four . préchauffer le four à 170 <operation> ° </operation> c ( thermostat . 6 ) . <operation ingredients="oignon"> hâcher </operation> l' <ingredient action="hâcher" quantite="1"> oignon </ingredient> et le faire <operation> revenir </operation> . <operation ingredients="oignon;crème;vin"> ajouter </operation> à l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> la moutarde puis la <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> fraiche ainsi que le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc , <operation> saler </operation> légèrement , <operation> poivrer </operation> et laisser <operation> mijoter </operation> 10 min . <operation ingredients="poulet"> arroser </operation> les blancs de <ingredient action="arroser"> poulet </ingredient> avec la sauce , <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> . <operation> enfourner </operation> pendant environ 15 min .
+</preparation>
+</recette>

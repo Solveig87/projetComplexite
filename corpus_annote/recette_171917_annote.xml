@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171917">
+<titre>Cocotte de poulet aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>4 navets</p>
+<p>5 ou 6 carottes</p>
+<p>4 pommes de terre</p>
+<p>3 oignons</p>
+<p>1 petite boîte de tomates pelées</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>3 gousses d'ail</p>
+<p>20 cl de vin blanc</p>
+<p>2 cubes de bouillon de volaille</p>
+<p>piment en poudre</p>
+<p>beurre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="huile;noix"> chauffer </operation> un trait d' <ingredient action="chauffer" quantite=""> huile </ingredient> et une <ingredient action="chauffer"> noix </ingredient> de beurre . faire <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> . <operation ingredients="poulet"> retirer </operation> les cuisses de <ingredient action="retirer"> poulet </ingredient> , faire <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="3"> oignons </ingredient> . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="4;5;4;3"> légumes </ingredient> en dés moyens , les faire <operation> revenir </operation> quelques minutes à feu vif . <operation ingredients="poulet"> remettre </operation> le <ingredient action="remettre"> poulet </ingredient> , <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="20 cl"> vin </ingredient> , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> , le <operation> concentré </operation> , les cubes de <ingredient action="presser"> bouillon </ingredient> <operation> émiettés </operation> , l' <ingredient action="presser"> ail </ingredient> <operation ingredients="bouillon;ail"> pressé </operation> , le piment . <operation> ajouter </operation> 20 cl d' eau . laisser <operation> mijoter </operation> pendant au moins 2 h en <operation> remuant </operation> de temps en temps . <operation> mouiller </operation> d' eau si nécessaire . 30 minutes avant la fin de la cuisson , <operation> découvrir </operation> et laisser <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de cuisson . on peut servir avec un peu de <ingredient> coriandre </ingredient> <operation> ciselée </operation> . bourgogne aligoté
+</preparation>
+</recette>

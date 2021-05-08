@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15763">
+<titre>Pudding banane et noix de coco (super facile!)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 baguette rassise ou l'équivalent en pain</p>
+<p>50 cl de lait</p>
+<p>100 g de sucre</p>
+<p>3 œufs</p>
+<p>100 g de noix de coco</p>
+<p>3 bananes</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> coupez </operation> dans un saladier des morceaux de <ingredient action="couper"> pain </ingredient> rassis , puis <operation ingredients="lait"> arrosez </operation> avec le <ingredient action="arroser" quantite="50 cl"> lait </ingredient> bouillant . <operation ingredients="pain"> laissez </operation> le <ingredient action="laisser"> pain </ingredient> <operation> gonfler </operation> et tout absorber le <ingredient quantite="50 cl"> lait </ingredient> ( si le <ingredient quantite="50 cl"> lait </ingredient> est absorbé et que le <ingredient action="ajouter"> pain </ingredient> est encore dur <operation ingredients="pain;lait"> ajoutez </operation> du <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> ) . <operation> ecrasez </operation> à la fourchette ou <operation> mixez </operation> . <operation ingredients="sucre;oeufs;noix"> incorporez </operation> le <ingredient action="incorporer" quantite="100 gramme"> sucre </ingredient> , les <ingredient action="incorporer"> oeufs </ingredient> <operation> battus </operation> et la <ingredient action="incorporer" quantite="100 gramme"> noix </ingredient> de coco . <operation ingredients="bananes"> ajoutez </operation> ensuite les <ingredient action="ajouter" quantite="3"> bananes </ingredient> <operation> coupées </operation> en rondelles . <operation> mettez </operation> dans un <operation> moule </operation> et <operation> cuisez </operation> environ 45 min à four moyen ( thermostat 6 / 180 <operation> ° </operation> c ) . idéal quand il reste du <ingredient> pain </ingredient> rassis .
+</preparation>
+</recette>

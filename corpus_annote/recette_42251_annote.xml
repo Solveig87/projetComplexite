@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42251">
+<titre>Tajine de lapin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin en morceaux ou des cuisses</p>
+<p>2 gros oignons</p>
+<p>2 doses de safran</p>
+<p>2 bâtons de cannelle</p>
+<p>3 poignées de raisins secs noirs</p>
+<p>4 cuillères à café de miel</p>
+<p>maïzéna</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="viande;huile"> dorer </operation> la <ingredient action="dorer" quantite="1"> viande </ingredient> dans de l' <ingredient action="dorer"> huile </ingredient> d' olive . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="cannelle;raisins"> ajouter </operation> la <ingredient action="ajouter"> cannelle </ingredient> et les <ingredient action="ajouter"> raisins </ingredient> . <operation ingredients="safran"> ajouter </operation> le <ingredient action="ajouter"> safran </ingredient> <operation> dilué </operation> dans 1 / 2 verre d' eau . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 3 / 4 h-1 h. pour faire la sauce , <operation ingredients="lapin"> enlever </operation> les morceaux de <ingredient action="enlever" quantite="1"> lapin </ingredient> de la cocotte . dedans , <operation ingredients="miel"> mettre </operation> le <ingredient action="mettre" quantite="4 cuillère à café"> miel </ingredient> , 1 cuillère à soupe de maizena <operation> diluée </operation> dans un verre d' eau , et <operation> mélanger </operation> . si il n' y a pas suffisament de sauce , on peut <operation> rajouter </operation> un verre d' eau . <operation ingredients="lapin"> remettre </operation> le <ingredient action="remettre" quantite="1"> lapin </ingredient> , et servir bien chaud , <operation ingredients="tagliatelles"> accompagné </operation> de <ingredient action="accompagner"> tagliatelles </ingredient> .
+</preparation>
+</recette>

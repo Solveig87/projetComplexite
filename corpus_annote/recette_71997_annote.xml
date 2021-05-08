@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71997">
+<titre>Trio de Bricks au Reblochon : fromage et dessert !</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 Reblochon de Savoie</p>
+<p>12 feuilles de brick</p>
+<p>1 pomme </p>
+<p>1 poire </p>
+<p>1 tomate</p>
+<p>60 g de beurre </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> <operation> épépinée </operation> en petits dés , les faire <operation> égoutter </operation> dans une passoire fine . <operation> eplucher </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> et la <ingredient action="couper" quantite="1"> poire </ingredient> , les <operation ingredients="pomme;poire"> couper </operation> séparément en petits dés . puis , faire <operation ingredients="beurre"> revenir </operation> chacune dans 20 g de <ingredient action="revenir" quantite="60 gramme"> beurre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation> réserver </operation> . <operation ingredients="reblochon"> couper </operation> le <ingredient action="couper" quantite="1"> reblochon </ingredient> en lamelles ( sans la croûte ) . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> restant , puis <operation ingredients="bricks"> badigeonner </operation> les <ingredient action="badigeonner" quantite="12 feuille"> bricks </ingredient> . <operation ingredients="bricks;pomme"> faire </operation> 4 <ingredient action="faire" quantite="12 feuille"> bricks </ingredient> à la <ingredient action="faire" quantite="1"> pomme </ingredient> : <operation ingredients="fruits;reblochon"> répartir </operation> au centre de chaque feuille quelques dés de <ingredient action="répartir" quantite="1;1"> fruits </ingredient> , puis quelques lamelles de <ingredient action="répartir" quantite="1"> reblochon </ingredient> . <operation ingredients="brick"> refermer </operation> les feuilles de <ingredient action="refermer" quantite="12 feuille"> brick </ingredient> et les <operation> déposer </operation> sur une <operation> plaque </operation> . répéter l’ opération avec les <ingredient quantite="1"> poires </ingredient> puis les <ingredient quantite="1"> tomates </ingredient> . <operation> mettre </operation> au four 8 min , à 180 <operation> ° </operation> c ( thermostat 6 ) . servir à la fin du repas , <operation ingredients="fruits"> accompagné </operation> de <ingredient action="accompagner" quantite="1;1"> fruits </ingredient> frais .
+</preparation>
+</recette>

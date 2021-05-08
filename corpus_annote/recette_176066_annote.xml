@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176066">
+<titre>Crème au chocolat blanc et marrons glacés en verrine</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 gr de chocolat blanc</p>
+<p>500 gr de marrons glacés</p>
+<p>75 cl de lait</p>
+<p>2 cuillères à soupe de maïzena </p>
+</ingredients>
+<preparation>
+<operation ingredients="marrons"> reserver </operation> 5 gros <ingredient action="reserver"> marrons </ingredient> pour la décoration et <operation ingredients="lait"> mixer </operation> finement les autres avec du <ingredient action="mixer" quantite="75 cl"> lait </ingredient> ( environ la moitié ) . <operation> verser </operation> dans une casserole . <operation ingredients="lait;chocolat"> ajouter </operation> le reste de <ingredient action="ajouter" quantite="75 cl"> lait </ingredient> et le <ingredient action="ajouter" quantite="100 gr"> chocolat </ingredient> en morceaux . <operation> chauffer </operation> en <operation> remuant </operation> jusqu' à faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gr"> chocolat </ingredient> . <operation ingredients="maïzena;lait"> diluer </operation> la <ingredient action="diluer" quantite="2 cuillère à soupe"> maïzena </ingredient> dans un peu de <ingredient action="diluer" quantite="75 cl"> lait </ingredient> et l' <operation ingredients="crème"> ajouter </operation> à la <ingredient action="ajouter"> crème </ingredient> . <operation> chauffer </operation> 1 . 15 min en <operation> remuant </operation> sans faire <operation> bouillir </operation> . <operation> verser </operation> dans les verrines . <operation ingredients="crème;marron"> poser </operation> sur la <ingredient action="poser"> crème </ingredient> un demi <ingredient action="poser"> marron </ingredient> en décoration . conserver au réfrigérateur . servir frais .
+</preparation>
+</recette>

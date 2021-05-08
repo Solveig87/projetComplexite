@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230064">
+<titre>Choco cake sans cuisson</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de chocolat noir</p>
+<p>5 cuillères à soupe de lait</p>
+<p>1 paquet de biscuits (type petit beurre)</p>
+<p>50 g de beurre</p>
+<p>100 g de sucre glace</p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="300 gramme"> chocolat </ingredient> au bain - marie avec le <ingredient quantite="5 cuillère à soupe"> lait </ingredient> . lorsqu' il est <operation> fondu </operation> , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> beurre </ingredient> <operation> coupé </operation> en morceaux . tout en <operation> remuant </operation> <operation ingredients="sucre;glace;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> vanillé . prendre les <ingredient> biscuits </ingredient> 2 par 2 et les broyer au dessus de cette préparation . <operation> mélanger </operation> le tout et <operation> verser </operation> dans un <operation> moule </operation> à cake beurré ( sauf si <operation> moule </operation> silicone ) . laisser refroidir pendant 12 heures au réfrigérateur . pour un démoulage plus facile <operation> tremper </operation> le fond du <operation> moule </operation> dans un fond d' eau chaude .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21214">
+<titre>Soupe veloutée aux scaroles</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 salades scarole (500 g en tout)</p>
+<p>2 pommes de terre</p>
+<p>1 oignon</p>
+<p>1,5 l de bouillon</p>
+<p>1 bouquet garni</p>
+<p>2 jaunes d'oeufs</p>
+<p>15 cl de crème liquide ou de lait</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salades;couteau"> laver </operation> les <ingredient action="laver" quantite="2"> salades </ingredient> , <operation> hachez </operation> - les au <ingredient action="laver"> couteau </ingredient> . <operation ingredients="oignon"> emincez </operation> l' <ingredient action="emincez" quantite="1"> oignon </ingredient> , faites - le <operation ingredients="beurre"> revenir </operation> dans une cocotte avec un peu de <ingredient action="revenir"> beurre </ingredient> . <operation> ajoutez </operation> les scaroles , <operation> remuez </operation> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="bouillon"> ajoutez </operation> le <ingredient action="ajouter" quantite="1,5 l"> bouillon </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="pommes;bouquet"> rajoutez </operation> les <ingredient action="rajouter" quantite="2"> pommes </ingredient> de terre <operation> pelées </operation> et <operation> coupées </operation> en cubes , et le <ingredient action="rajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 30 min . <operation ingredients="bouquet"> retirez </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> et <operation> mixez </operation> le potage . <operation ingredients="oeufs;crème"> incorporez </operation> les 2 jaunes d' <ingredient action="incorporer"> oeufs </ingredient> et la <ingredient action="incorporer" quantite="15 cl"> crème </ingredient> en <operation> fouettant </operation> et servez .
+</preparation>
+</recette>

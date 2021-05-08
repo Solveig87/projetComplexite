@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30070">
+<titre>Tarte au boursin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>150 g de boursin (ou autre fromage ail et fines herbes)</p>
+<p>20 cl de crème liquide </p>
+<p>100 g de lardon fumés</p>
+<p>5 oeufs</p>
+<p>sel, poivre (5 baies) </p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="fromage;crème"> fondre </operation> a feu très doux la totalité du <ingredient action="fondre"> fromage </ingredient> avec la brique de <ingredient action="fondre" quantite="20 cl"> crème </ingredient> , puis <operation> réserver </operation> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> ( mais vous pouvez très bien <operation ingredients="tarte"> faire </operation> la <ingredient action="faire"> tarte </ingredient> sans eux ) . dans les <ingredient action="ajouter" quantite="5"> oeufs </ingredient> <operation> battus </operation> <operation> salés </operation> puis <operation> poivrés </operation> , <operation ingredients="oeufs;boursin;crème"> ajouter </operation> la préparation <ingredient action="ajouter" quantite="150 gramme"> boursin </ingredient> <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> + lardons , tout en <operation> remuant </operation> pour ne pas que les <ingredient action="cuire" quantite="5"> oeufs </ingredient> <operation ingredients="oeufs"> cuisent </operation> si la préparation est encore chaude . <operation> mettre </operation> au four tout en surveillant comme pour une <ingredient> quiche </ingredient> . pour les personnes qui apprécient le <ingredient> fromage </ingredient> , vous pouvez <operation ingredients="tarte;gruyère"> saupoudrer </operation> le dessus de la <ingredient action="saupoudrer"> tarte </ingredient> avec du <ingredient action="saupoudrer"> gruyère </ingredient> râpé avant d' <operation> enfourner </operation> .
+</preparation>
+</recette>

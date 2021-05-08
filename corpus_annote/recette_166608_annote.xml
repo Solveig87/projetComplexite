@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166608">
+<titre>Gâteau au chocolat au lait</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250g de chocolat au lait pâtissier</p>
+<p>250g de beurre demi-sel</p>
+<p>200g de sucre</p>
+<p>4 œufs</p>
+<p>70 g de sucre</p>
+<p>50g de raisins blonds</p>
+<p>5cl de rhum</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="raisins;rhum"> tremper </operation> les <ingredient action="tremper"> raisins </ingredient> dans le <ingredient action="tremper" quantite="5cl"> rhum </ingredient> . . faire <operation ingredients="beurre;chocolat"> fondre </operation> à feux moyen le <ingredient action="fondre" quantite="250 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="250 gramme"> chocolat </ingredient> . . faire <operation ingredients="sucre;œufs"> blanchir </operation> le <ingredient action="blanchir" quantite="200 gramme+70 gramme"> sucre </ingredient> et les <ingredient action="blanchir" quantite="4"> œufs </ingredient> . . <operation ingredients="chocolat"> ajouter </operation> la préparation au <ingredient action="ajouter" quantite="250 gramme"> chocolat </ingredient> . . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> . . <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter"> raisins </ingredient> <operation> égouttés </operation> . <operation> verser </operation> la préparation dans des <operation> moules </operation> en silicones . <operation> enfourner </operation> . le <ingredient action="cuire"> gâteau </ingredient> est <operation ingredients="gâteau"> cuit </operation> quand il est croustillant sur le dessus et que la pointe d' un <ingredient> couteau </ingredient> ressort encore humide .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50101">
+<titre>Emincé de poulet aux petits pois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>1 grosse boîte de petits pois</p>
+<p>1/2 échalote</p>
+<p>2 tomates</p>
+<p>1 tête d'ail</p>
+<p>thym</p>
+<p>1 pincée de safran</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper" quantite="1"> poulet </ingredient> en morceaux , puis les faire <operation> dorer </operation> dans une cocotte en fonte <operation> huilée </operation> . <operation ingredients="pois"> egoutter </operation> les petits <ingredient action="egoutter"> pois </ingredient> , <operation ingredients="échalote;tomates;ail"> éplucher </operation> l' <ingredient action="éplucher"> échalote </ingredient> , les <ingredient action="éplucher" quantite="2"> tomates </ingredient> et l' <ingredient action="éplucher"> ail </ingredient> ; les <operation> couper </operation> très finement . <operation ingredients="ail;thym;échalote"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite=""> thym </ingredient> et l' <ingredient action="ajouter"> échalote </ingredient> dans la cocotte . laisser <operation> cuire </operation> 2 min , puis <operation ingredients="safran;poivre;tomates"> ajouter </operation> la pincée de <ingredient action="ajouter" quantite="1 pincée"> safran </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> , sel et les <ingredient action="ajouter" quantite="2"> tomates </ingredient> . laisser <operation> cuire </operation> encore 2 min , <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> et de l' eau , de sorte que cela <operation> couvre </operation> la totalité des ingrédients ; <operation> couvrir </operation> à moitié . laisser <operation> cuire </operation> environ 1 h , jusqu' à ce que l' eau devienne un sauce onctueuse . vous pouvez <operation ingredients="riz"> accompagner </operation> ce plat avec du <ingredient action="accompagner"> riz </ingredient> parfumé .
+</preparation>
+</recette>

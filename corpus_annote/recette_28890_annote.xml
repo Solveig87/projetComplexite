@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28890">
+<titre>Gratin de fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 barquette de fraises de 500 g</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>200 g de sucre en poudre</p>
+<p>1 cuillère à soupe de liqueur fraises ou framboises</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> nettoyer </operation> les <ingredient action="nettoyer"> fraises </ingredient> et les <operation> couper </operation> en tranches ; les <operation> poser </operation> dans 4 coupelles . <operation> préparer </operation> la sauce : <operation ingredients="oeufs;sucre"> battre </operation> les 3 <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="200 gramme"> sucre </ingredient> , puis <operation ingredients="crème"> ajouter </operation> le pot de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> <operation> battre </operation> pour bien <operation> lier </operation> , <operation ingredients="fraises"> recouvrir </operation> les <ingredient action="recouvrir"> fraises </ingredient> de cette sauce . les <operation> passer </operation> sous le gril du four 5 mn à peine , servir immédiatement .
+</preparation>
+</recette>

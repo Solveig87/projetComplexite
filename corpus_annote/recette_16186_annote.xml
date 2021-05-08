@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16186">
+<titre>Chocomarmeu</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 paquet de petits beurres</p>
+<p>1 boite de crème au chocolat (de type Mont-Blanc)</p>
+<p>10 cl de rhum</p>
+<p>50 g de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre;rhum;sucre"> tremper </operation> les petit <ingredient action="tremper"> beurre </ingredient> dans le <ingredient action="tremper" quantite="10 cl"> rhum </ingredient> <operation> dilué </operation> avec verre d' eau + le <ingredient action="tremper" quantite="50 gramme"> sucre </ingredient> . dans un plat <operation ingredients="beurre;crème"> repartir </operation> successivement une couche de petit <ingredient action="repartir"> beurre </ingredient> avec une couche de <ingredient action="repartir"> crème </ingredient> au chocolat . finir par une couche de <ingredient> crème </ingredient> , puis <operation> mettre </operation> au frais pendant 2 heures environ . simple , bon et pas cher . . . <ingredient> cidre </ingredient> brut ou doux
+</preparation>
+</recette>

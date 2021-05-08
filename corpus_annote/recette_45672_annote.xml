@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45672">
+<titre>Macaronis aux foies de volaille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de macaronis</p>
+<p>1 cuillère à soupe de farine</p>
+<p>200 g de foie de volaille</p>
+<p>parmesan râpé</p>
+<p>1 oignon</p>
+<p>un peu de beurre</p>
+<p>20 ml de vin blanc sec</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="macaronis"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> macaronis </ingredient> , comme indiqué sur le paquet . <operation ingredients="foies"> couper </operation> les <ingredient action="couper" quantite="200 gramme"> foies </ingredient> en petits morceaux , et les <operation> fariner </operation> les lègèrement , <operation ingredients="oignon"> éplucher </operation> l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> et <operation> hacher </operation> - le finement . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et y faire <operation ingredients="oignon;foies"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> et les <ingredient action="dorer" quantite="200 gramme"> foies </ingredient> , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter"> vin </ingredient> , puis laisser <operation> mijoter </operation> 4 / 5 min en <operation> remuant </operation> de temps en temps ; <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> , puis <operation ingredients="foies"> mélanger </operation> les <ingredient action="mélanger" quantite="200 gramme"> foies </ingredient> aux pâtes , et servir immédiatement <operation ingredients="parmesan"> accompagné </operation> de <ingredient action="accompagner" quantite=""> parmesan </ingredient> <operation> râpé </operation> . . . déguster ! vous pouvez utiliser toute sorte de <ingredient> pâtes </ingredient> , mais il faut qu' elles soient al dente , c' est meilleur . . . blanc sec
+</preparation>
+</recette>

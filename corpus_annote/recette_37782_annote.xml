@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37782">
+<titre>Poulet aux pêches et aux mangues</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>2 pêches jaunes</p>
+<p>1/2 mangue</p>
+<p>1 cuillère à soupe de sauce de soja</p>
+<p>2 pincées d'épices chinoises (préférez des boîtes de 5 épices chinoises facile à trouver dans les grandes surfaces)</p>
+<p>3 pincées de bouillon de boeuf</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>50 g de beurre</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+prendre une marmitte et y faire <operation ingredients="beurre;huile"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> et l' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> . <operation ingredients="poulet"> couper </operation> en deux les cuisses de <ingredient action="couper"> poulet </ingredient> et faire <operation ingredients="beurre;huile"> revenir </operation> dans le <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> et l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . faire <operation> dorer </operation> . après 5 à 10 minutes , <operation ingredients="pêches;mangue"> mettre </operation> les <ingredient action="mettre" quantite="2"> pêches </ingredient> et la moitié de <ingredient action="mettre"> mangue </ingredient> préalablement <operation> coupées </operation> en petits dés . <operation> mettre </operation> un couvercle et laisser à feu doux pendant 3 minutes . <operation ingredients="épices;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="2 pincée"> épices </ingredient> chinoises et le <ingredient action="ajouter" quantite="3 pincée"> bouillon </ingredient> et laisser <operation> cuire </operation> encore 3 minutes . <operation> ajouter </operation> ensuite le soja et laissez <operation> mijoter </operation> 5 min . <operation ingredients="poulet"> arroser </operation> régulièrement les cuisses de <ingredient action="arroser"> poulet </ingredient> pendant ces 5 minutes .
+</preparation>
+</recette>

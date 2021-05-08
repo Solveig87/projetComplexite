@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54492">
+<titre>Poulet aux differentes épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuisses de poulet</p>
+<p>les 2/3 d'un petit pot de crème épaisse</p>
+<p>1 cuillère à soupe de paprika</p>
+<p>2 pointes de couteau de piment</p>
+<p>1 cuillère à café d'herbes de Provence</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+préchauffez le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="poulet"> disposez </operation> les cuisses de <ingredient action="disposer"> poulet </ingredient> dans un plat à four . <operation ingredients="crème;paprika;sel;poivre"> mélangez </operation> la <ingredient action="mélanger"> crème </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> paprika </ingredient> , le piment , les herbes de provence , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger"> poivre </ingredient> . <operation ingredients="poulet"> versez </operation> le <operation> mélange </operation> sur le <ingredient action="verser"> poulet </ingredient> et <operation> malaxez </operation> pour tout bien <operation> répartir </operation> . <operation> mettez </operation> le tout au four pendant 30 minutes . <operation ingredients="jus"> arrosez </operation> de temps en temps avec le <ingredient action="arroser"> jus </ingredient> qui se <operation> forme </operation> . j' ai <operation ingredients="lentilles"> accompagné </operation> le plat avec des <ingredient action="accompagner"> lentilles </ingredient> , ça allait bien ensemble .
+</preparation>
+</recette>

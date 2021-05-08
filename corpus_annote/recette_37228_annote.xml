@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37228">
+<titre>Salade de pâtes aux tomates séchées et à la feta</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de pâtes (type penne rigate)</p>
+<p>200 g de feta</p>
+<p>200 g de tomates séchées à l'huile d'olive</p>
+<p>125 g d'olives noires à la grecque</p>
+<p>1 concombre</p>
+<p>1 poivron rouge</p>
+<p>du pesto</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> . pendant qu' elle <operation> cuisent </operation> , <operation ingredients="feta"> couper </operation> la <ingredient action="couper" quantite="200 gramme"> feta </ingredient> , les <ingredient quantite="200 gramme"> tomates </ingredient> séchées , le <ingredient quantite="1"> concombre </ingredient> et le <ingredient> poivron </ingredient> en dés . <operation ingredients="olives"> couper </operation> les <ingredient action="couper" quantite="125 gramme"> olives </ingredient> , en <operation> enlevant </operation> les noyaux . quand les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> , les <operation> rincer </operation> à l' eau froide , et <operation> mélanger </operation> avec les ingrédients <operation> coupés </operation> et le pistou . <operation> réserver </operation> au frais , jusqu' au moment de servir . on peut <operation> changer </operation> la sauce , et <operation ingredients="huile"> faire </operation> une vinaigrette à base d' <ingredient action="faire"> huile </ingredient> d' olive . il est aussi possible de <operation> mettre </operation> les sauces à part et de laisser chacun <operation> choisir </operation> celle qui lui convient .
+</preparation>
+</recette>

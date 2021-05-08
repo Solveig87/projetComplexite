@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57969">
+<titre>Gratin de thon express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boite de thon</p>
+<p>1 sachet de gruyère râpéPour la sauce béchamel :</p>
+<p>1/2 litre de lait</p>
+<p>30 g de beurre environ</p>
+<p>3 cuillères à soupe de farine</p>
+<p>un peu de noix de muscade râpée</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter"> thon </ingredient> et <operation> émiettez </operation> - le . <operation ingredients="béchamel"> préparer </operation> la sauce <ingredient action="préparer"> béchamel </ingredient> : faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> , y <operation ingredients="farine;lait"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> farine </ingredient> et enfin le <ingredient action="ajouter"> lait </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="muscade"> ajouter </operation> la <ingredient action="ajouter"> muscade </ingredient> . <operation> mélanger </operation> jusqu' à obtenir une sauce assez épaisse . <operation> beurrer </operation> un plat allant au four , <operation ingredients="béchamel;thon"> mélanger </operation> la <ingredient action="mélanger"> béchamel </ingredient> et les miettes de <ingredient action="mélanger"> thon </ingredient> , et <operation> mettre </operation> dans le plat . <operation ingredients="gruyère"> ajouter </operation> une couche de <ingredient action="ajouter"> gruyère </ingredient> et faire <operation> gratiner </operation> au four . ce plat est parfait en plat unique , <operation ingredients="salade"> accompagné </operation> seulement d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

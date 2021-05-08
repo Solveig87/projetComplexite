@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29654">
+<titre>Croquets de camembert au jambon cru</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 camembert </p>
+<p>8 tranches fines de jambon cru </p>
+<p>2 oeufs</p>
+<p>chapelure</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf;chapelure"> couper </operation> le camenbert en 8 parts égales , les <operation ingredients="jambon"> envelopper </operation> dans 1 tranche de <ingredient action="envelopper"> jambon </ingredient> cru puis <operation ingredients="oeuf;chapelure"> passer </operation> chaque croquet dans l' <ingredient action="passer" quantite="2"> oeuf </ingredient> <operation> battu </operation> et la <ingredient action="passer" quantite=""> chapelure </ingredient> , puis de nouveau <ingredient action="couper" quantite="2"> oeuf </ingredient> <operation> battu </operation> et <ingredient action="couper" quantite=""> chapelure </ingredient> pour bien ' colmater ' . <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer" quantite=""> huile </ingredient> de friture , y <operation> plonger </operation> les croquets jusqu' à ce qu' ils soient bien dorés , puis les <operation> égoutter </operation> sur du papier absorbant . servir chauds , <operation ingredients="salade"> accompagnés </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte . les croquets peuvent se <operation> congeler </operation> après cuisson . il suffit ensuite de les <operation> réchauffer </operation> à four chaud une dizaine de minutes . <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

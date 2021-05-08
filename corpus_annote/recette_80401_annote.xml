@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80401">
+<titre>Salade de céléri, pomme, orange</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 branches de céleri</p>
+<p>2 pommes granny smith</p>
+<p>1 orange</p>
+<p>10 cl de crème liquide semi-épaisse légère</p>
+<p>1 pincée de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="céleri"> découper </operation> les branches de <ingredient action="découper"> céleri </ingredient> en petites rondelles . <operation> eplucher </operation> les <ingredient quantite="2"> pommes </ingredient> et les <operation> couper </operation> en lamelles fines . <operation> eplucher </operation> l’ <ingredient quantite="1"> orange </ingredient> , <operation> enlever </operation> la peau de chaque quartier . <operation> mettre </operation> tous ces éléments dans un saladier . <operation ingredients="crème;cannelle"> rajouter </operation> la <ingredient action="rajouter" quantite="10 cl"> crème </ingredient> et la pincée de <ingredient action="rajouter" quantite="1 pincée"> cannelle </ingredient> . <operation> mélanger </operation> . rosé
+</preparation>
+</recette>

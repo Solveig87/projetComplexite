@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90648">
+<titre>Tagliatelles au saumon sauce basilic</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filets de saumon de 100 à 150 grammes </p>
+<p>200 ml de crème fleurette semi liquide</p>
+<p>500 grammes de tagliatelles fraîches</p>
+<p>citron</p>
+<p>basilic frais</p>
+<p>huile</p>
+<p>sel, poivre</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+dans un faitout , <operation ingredients="saumon;huile"> émietter </operation> le <ingredient action="émietter"> saumon </ingredient> dans un peu d' <ingredient action="émietter" quantite=""> huile </ingredient> . quand il est <operation> cuit </operation> <operation ingredients="crème;sel;poivre"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> , et laisser <operation> cuire </operation> 10 minutes à feu doux . pendant ce temps faire <operation ingredients="tagliatelles"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> tagliatelles </ingredient> . au dernier moment <operation ingredients="basilic"> ajouter </operation> à la sauce , le <ingredient action="ajouter" quantite=""> basilic </ingredient> <operation ingredients="citron"> haché </operation> et un peu de <ingredient action="hacher" quantite=""> citron </ingredient> . <operation ingredients="parmesan"> ajouter </operation> selon les goûts du <ingredient action="ajouter" quantite=""> parmesan </ingredient>
+</preparation>
+</recette>

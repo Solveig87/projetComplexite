@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15554">
+<titre>Pâte à tarte spéciale pour fruits juteux</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>1 cuillère à soupe de sucre en poudre</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à café de levure chimique</p>
+<p>1 oeuf entier</p>
+<p>1 dl d'eau</p>
+<p>1 dl d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;levure;sel;sucre"> mettre </operation> la <ingredient action="mettre" quantite="250 gramme"> farine </ingredient> , la <ingredient action="mettre" quantite="1 cuillère à café"> levure </ingredient> , le <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à soupe"> sucre </ingredient> dans une terrine . faire un puits . <operation ingredients="oeuf;huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> entier , l' eau et l' <ingredient action="ajouter" quantite="1 dl"> huile </ingredient> . <operation> mélanger </operation> le tout à la fourchette . <operation ingredients="farine"> rajouter </operation> de la <ingredient action="rajouter" quantite="250 gramme"> farine </ingredient> et finir à la main . <operation> etendre </operation> au rouleau . idéale pour tous les <ingredient> fruits </ingredient> juteux où congelés . cela évite de <operation ingredients="chapelure;tarte"> mettre </operation> de la <ingredient action="mettre"> chapelure </ingredient> sur le fond de la <ingredient action="mettre"> tarte </ingredient> .
+</preparation>
+</recette>

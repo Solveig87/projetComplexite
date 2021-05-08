@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27067">
+<titre>Soupe à l'oseille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>450 g d'oseille hachée (ou 40 feuilles d'oseille équeutées) </p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>150 g de vermicelles</p>
+<p>une cuillère à soupe d'huile d'olive</p>
+<p>un peu de muscade râpée</p>
+<p>une échalote</p>
+<p>un bouillon cube de poule</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oseille;huile;échalote"> fondre </operation> l' <ingredient action="fondre" quantite="450 gramme"> oseille </ingredient> dans une casserole avec un peu d' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et une <ingredient action="fondre" quantite="1"> échalote </ingredient> <operation> coupée </operation> en petits cubes . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube et 1 , 5 litre d' eau et faire <operation> bouillir </operation> . <operation ingredients="vermicelles"> ajouter </operation> les <ingredient action="ajouter" quantite="150 gramme"> vermicelles </ingredient> au <operation> mélange </operation> bouillant et laisser <operation> cuire </operation> 4 mn . <operation ingredients="muscade;sel;poivre"> ajouter </operation> ensuite un peu de <ingredient action="ajouter"> muscade </ingredient> , de <ingredient action="ajouter" quantite=""> sel </ingredient> et de <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> ajouter </operation> une cuillère à soupe de crème fraîche par personne au moment de servir . ) certains <operation ingredients="lait;oeuf"> mettent </operation> un peu de <ingredient action="mettre"> lait </ingredient> en plus de l' eau , d' autres un jaune d' <ingredient action="mettre"> oeuf </ingredient> , moi je l' aime la plus simple possible .
+</preparation>
+</recette>

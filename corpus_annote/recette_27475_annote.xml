@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27475">
+<titre>MARMELADE DE FRUITS</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 ananas</p>
+<p>4 kiwis</p>
+<p>2 bananes</p>
+<p>4 fruits de la passion</p>
+<p>250 g de cassonade</p>
+<p>1 mangue</p>
+<p>2 goyaves</p>
+<p>1 citron jaunes et vert</p>
+</ingredients>
+<preparation>
+<operation ingredients="kiwis"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> kiwis </ingredient> , les <ingredient quantite="2"> bananes </ingredient> , papayes et l' <ingredient quantite="1"> ananas </ingredient> pour les <operation> mettre </operation> dans un saladier . <operation ingredients="cassonade;jus"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> cassonade </ingredient> , les 2 <ingredient action="ajouter"> jus </ingredient> de citron , laisser <operation> macérer </operation> 3 heures au frigo . <operation ingredients="fruits"> mettre </operation> tous les <ingredient action="mettre" quantite="4"> fruits </ingredient> et liquide de macération dans une cocotte . laisser <operation> cuire </operation> doucement 15 mn . servir frais avec du <ingredient> fromage </ingredient> blanc .
+</preparation>
+</recette>

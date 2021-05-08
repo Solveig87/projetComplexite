@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36417">
+<titre>Potage de betteraves rouges</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de betteraves rouges cuites sous vide</p>
+<p>1 oignon</p>
+<p>75 cl de liquide (eau ou bouillon)</p>
+<p>sel, poivre, persil</p>
+<p>2 portions de "Vache qui rit"</p>
+<p>50 g de lardons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;matière"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un peu de <ingredient action="revenir"> matière </ingredient> grasse , sans le laisser <operation> colorer </operation> ; puis <operation> ajouter </operation> les betteraves <operation> coupées </operation> grossièrement . <operation ingredients="bouillon"> mouiller </operation> avec l' eau ou le <ingredient action="mouiller"> bouillon </ingredient> . <operation ingredients="assaisonnement;sel"> ajouter </operation> l' <ingredient action="ajouter" quantite=";;"> assaisonnement </ingredient> ( attention au <ingredient action="ajouter" quantite=""> sel </ingredient> , si vous utilisez du <ingredient> bouillon </ingredient> et si vous servez avec des <ingredient quantite="50 gramme"> lardons </ingredient> , mieux vaut <operation> ajuster </operation> juste au moment de servir ! ) . <operation> couvrir </operation> et laisser <operation> cuire </operation> 15 à 20 min ( 8 min en autocuiseur ) . pendant ce temps , faire <operation ingredients="lardons"> griller </operation> les <ingredient action="griller" quantite="50 gramme"> lardons </ingredient> et les <operation> égoutter </operation> . quand le potage est <operation> cuit </operation> , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> <operation> fondu </operation> et <operation> mixer </operation> . servir de suite le potage , dans lequel vous aurez <operation ingredients="lardons"> ajouté </operation> les <ingredient action="ajouter" quantite="50 gramme"> lardons </ingredient> . le <ingredient> fromage </ingredient> <operation> fondu </operation> peut être remplacé par 10 cl de <ingredient> crème </ingredient> fraîche .
+</preparation>
+</recette>

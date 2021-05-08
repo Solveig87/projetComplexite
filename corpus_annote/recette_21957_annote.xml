@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21957">
+<titre>Oeufs farcis au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>1 boîte de thon à l'huile d'olive (80 g) </p>
+<p>50 g de Mascarpone</p>
+<p>40 g de câpres au vinaigre</p>
+<p>1 citron non traité</p>
+<p>sel</p>
+<p>piment de cayenne</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> durcir </operation> les <ingredient action="durcir" quantite="4"> oeufs </ingredient> . les rafraîchir , les écaler et les <operation> couper </operation> en 2 . avec un épluche - <ingredient quantite="1"> légume </ingredient> <operation ingredients="citron"> prélever </operation> le zeste du <ingredient action="prélever" quantite="1"> citron </ingredient> , le <operation> couper </operation> en fins bâtonnets . les faire <operation> blanchir </operation> 2 min à l' eau bouillante , les rafraîchir . <operation ingredients="oeufs;thon"> mixer </operation> les jaunes d' <ingredient action="mixer" quantite="4"> oeufs </ingredient> durs avec le <ingredient action="mixer"> thon </ingredient> , le <ingredient quantite="50 gramme"> mascarpone </ingredient> et un filet de <ingredient quantite="1"> citron </ingredient> . <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et d' une pointe de cayenne . <operation ingredients="oeufs"> remplir </operation> les blancs d' <ingredient action="remplir" quantite="4"> oeufs </ingredient> durs de cette préparation à l' aide d' une <operation> poche </operation> à douille cannelée . <operation ingredients="câpres;citron"> garnir </operation> de <ingredient action="garnir" quantite="40 gramme"> câpres </ingredient> et de zestes de <ingredient action="garnir" quantite="1"> citron </ingredient> . servir frais .
+</preparation>
+</recette>

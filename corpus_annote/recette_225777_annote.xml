@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225777">
+<titre>Délice de Saumon fumé sur tartare de légumes et crème montée à l'ail et ciboulette</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour le tartare de légumes:</p>
+<p>1 concombre</p>
+<p>3 carottes</p>
+<p>2 tomates</p>
+<p>1 citron</p>
+<p>huile d'olive,</p>
+<p>vinaigre</p>
+<p>sel, poivre</p>
+<p>6 tranches de saumon fuméPour la crème montée :</p>
+<p>50 cl de crème fraiche</p>
+<p>ail</p>
+<p>ciboulette</p>
+</ingredients>
+<preparation>
+<operation ingredients="tartare"> préparer </operation> le <ingredient action="préparer"> tartare </ingredient> de légumes : <operation ingredients="concombre"> couper </operation> en petits dés <ingredient action="couper" quantite="1"> concombre </ingredient> , carottes et tomates . <operation ingredients="jus;citron"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de 1 / 2 <ingredient action="arroser" quantite="1"> citron </ingredient> . <operation ingredients="sel;olive"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> poivre huile d' <ingredient action="assaisonner"> olive </ingredient> et vinaigre . réaliser la <ingredient quantite="50 cl"> crème </ingredient> <operation> montée </operation> : au batteur , <operation ingredients="crème"> monter </operation> la <ingredient action="monter" quantite="50 cl"> crème </ingredient> fraîche . une fois en " <ingredient> chantilly </ingredient> " <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et poivre . <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> ail </ingredient> <operation ingredients="ciboulette"> pressée </operation> et de la <ingredient action="presser" quantite=""> ciboulette </ingredient> hachée . dans 8 verrines <operation ingredients="tartare;crème"> dresser </operation> d' abord le <ingredient action="dresser"> tartare </ingredient> de légumes puis par dessus la <ingredient action="dresser" quantite="50 cl"> crème </ingredient> <operation> montée </operation> ( avec une cuillère ou à la <operation> poche </operation> à douille pour que ce soit plus joli ) . terminer avec une tranche de <ingredient> saumon </ingredient> <ingredient> fumé </ingredient> . <operation ingredients="citron;ciboulette"> décorer </operation> d' une tranche de <ingredient action="décorer" quantite="1"> citron </ingredient> et d' une branche de <ingredient action="décorer" quantite=""> ciboulette </ingredient> . vous pouvez <operation ingredients="croûton;gressin"> ajouter </operation> un <ingredient action="ajouter"> croûton </ingredient> ( ou un <ingredient action="ajouter"> gressin </ingredient> , le but étant d' apporter un peu de croustillant ) . servir frais . cette recette apporte fraîcheur et couleur sur la table . idéal aux beaux jours <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28601">
+<titre>Crème au chocolat blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat blanc</p>
+<p>50 cl de crème fraîche liquide</p>
+<p>facultatif : un berlingot de lait concentré sucré ou une cuillère à soupe de lait concentré sucré.</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> au bain - marie . <operation> retirer </operation> du feu et <operation ingredients="crème"> ajouter </operation> tout de suite le quart de la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> . dans un récipient <operation ingredients="crème"> vider </operation> le reste de la <ingredient action="vider" quantite="50 cl"> crème </ingredient> et , à l' aide du batteur , faire au moins doubler le volume de la <ingredient quantite="50 cl"> crème </ingredient> . <operation ingredients="chocolat"> mélanger </operation> au <ingredient action="mélanger" quantite="200 gramme"> chocolat </ingredient> <operation> fondu </operation> et <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> <operation> concentré </operation> . <operation> mettre </operation> dans des ramequins et laisser au frais pendant deux heures . pour une belle présentation , je <operation ingredients="crème"> mets </operation> ma <ingredient action="mettre" quantite="50 cl"> crème </ingredient> dans des pots en terre .
+</preparation>
+</recette>

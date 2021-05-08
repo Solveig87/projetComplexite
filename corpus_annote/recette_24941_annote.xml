@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24941">
+<titre>Tarte au crabe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>4 oeufs</p>
+<p>2 cuillères à soupe de concentré de tomates</p>
+<p>1 boîte de 200 g de miettes de crabes </p>
+<p>1 boîte de 200 g de crevettes</p>
+<p>125 g de crème fraîche</p>
+<p>sel, poivre </p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;crabe;crevettes;crème;tomates"> mélanger </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , le <ingredient action="mélanger"> crabe </ingredient> , les <ingredient action="mélanger"> crevettes </ingredient> , la <ingredient action="mélanger" quantite="125 gramme"> crème </ingredient> fraîche et le <operation> concentré </operation> de <ingredient action="mélanger"> tomates </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="ail"> couper </operation> l' <ingredient action="couper"> ail </ingredient> en 2 et <operation> frottez </operation> votre plat à tarte avec . <operation ingredients="pâte"> posez </operation> votre <ingredient action="poser" quantite="1"> pâte </ingredient> <operation> brisée </operation> et <operation> mettre </operation> votre préparation . <operation> mettre </operation> au four thermostat 6 / 7 pendant 35 mn .
+</preparation>
+</recette>

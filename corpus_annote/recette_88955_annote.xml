@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88955">
+<titre>Tarte aux légumes de véro</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>1 oignon</p>
+<p>125 g de lardons</p>
+<p>1 carotte</p>
+<p>1 poivron</p>
+<p>1 brocolis</p>
+<p>100 g de gruyère râpé</p>
+<p>1 boite de champignons de Paris</p>
+<p>2 tomates</p>
+<p>1/2 reblochon</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel/poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="tomates;brocolis;champignons"> cuire </operation> à la vapeur les <ingredient action="cuire" quantite="2"> tomates </ingredient> , le <ingredient action="cuire" quantite="1"> brocolis </ingredient> ( <operation> détaillé </operation> en morceaux ) , les <ingredient action="cuire"> champignons </ingredient> de paris ( <operation> coupés </operation> en 2 ) , le <ingredient quantite="1"> poivron </ingredient> <operation> coupé </operation> en petit morceaux et la <ingredient quantite="1"> carotte </ingredient> <operation> coupée </operation> elle ausssi en fines lamelles . <operation ingredients="lardons"> dégraisser </operation> les <ingredient action="dégraisser" quantite="125 gramme"> lardons </ingredient> à l' eau bouillante . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans une <operation> poêle </operation> avec l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . dans une terrine , <operation ingredients="légumes;gruyère;reblochon;lardons;oignon"> mélanger </operation> les <ingredient action="mélanger" quantite="1;1;1;1;2"> légumes </ingredient> , le <ingredient action="mélanger" quantite="100 gramme"> gruyère </ingredient> râpé , les morceaux de <ingredient action="mélanger" quantite="1"> reblochon </ingredient> , les <ingredient action="mélanger" quantite="125 gramme"> lardons </ingredient> et l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . dans un plat à tarte beurré , étaler la <ingredient quantite="1"> pâte </ingredient> feuilletée . <operation ingredients="pâte"> verser </operation> la préparation sur la <ingredient action="verser" quantite="1"> pâte </ingredient> et <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 minutes .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16277">
+<titre>Pâté de thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de pommes de terre</p>
+<p>6 oeufs</p>
+<p>1 grosse boîte de thon</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>ketchup</p>
+<p>mayonnaise aux oeufs</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="800 gramme"> pommes </ingredient> de terre . <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="6"> oeufs </ingredient> afin qu' ils soient durs . dans une grande terrine , <operation ingredients="pommes;oeufs"> mettre </operation> les <ingredient action="mettre" quantite="800 gramme"> pommes </ingredient> de terre et les <ingredient action="mettre" quantite="6"> oeufs </ingredient> , puis les <operation> écraser </operation> en purée . <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> et le <operation> concentré </operation> tomate . bien <operation> mélanger </operation> le tout . <operation ingredients="ketchup"> ajouter </operation> ensuite <ingredient action="ajouter" quantite=""> ketchup </ingredient> et mayonnaise pour obtenir un <ingredient> pâté </ingredient> orangé . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="pâté"> présenter </operation> dans un plat le <ingredient action="présenter"> pâté </ingredient> <operation> façonné </operation> à la fourchette . vous pouvez le <operation> présenter </operation> <operation ingredients="oeufs"> entouré </operation> avec des <ingredient action="entourer" quantite="6"> oeufs </ingredient> mimosas .
+</preparation>
+</recette>

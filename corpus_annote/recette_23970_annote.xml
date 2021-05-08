@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23970">
+<titre>Clafoutis au surimi</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>80 g de farine</p>
+<p>4 oeufs</p>
+<p>50 cl de lait écrémé</p>
+<p>1 courgette moyenne râpée</p>
+<p>30 g de gruyère râpé</p>
+<p>1 cuillère à café de margarine</p>
+<p>12 bâtonnets de surimi</p>
+<p>sel, poivre et noix de muscade en poudre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="farine;oeufs;lait"> mélanger </operation> la <ingredient action="mélanger" quantite="80 gramme"> farine </ingredient> , les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="50 cl"> lait </ingredient> en le versant peu à peu . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="noix"> ajouter </operation> une pincée de <ingredient action="ajouter"> noix </ingredient> de muscade . <operation ingredients="surimi"> incorporez </operation> la courgette râpée , les bâtonnets de <ingredient action="incorporer"> surimi </ingredient> <operation ingredients="gruyère"> coupés </operation> en petis morceaux et le <ingredient action="couper" quantite="30 gramme"> gruyère </ingredient> râpé . <operation> verser </operation> la préparation dans un <operation> moule </operation> à manqué ( 24 cm ) margariné . <operation> enfourner </operation> pour 30 minutes à four chaud ( 240 <operation> ° </operation> c ) . se sert chaud ou froid .
+</preparation>
+</recette>

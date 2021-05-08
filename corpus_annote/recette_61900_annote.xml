@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61900">
+<titre>Saumon aux herbes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 cl de vin blanc</p>
+<p>1/2 cube de bouillon de légumes</p>
+<p>160 g de crème fraîche allégée ou pas</p>
+<p>herbes à volonté (romarain, ciboulette, origan, etc...)</p>
+<p>sel, poivre</p>
+<p>800 g de saumon frais sans arêtes</p>
+<p>1 cuillère à café de beurre</p>
+<p>le jus d'1/2 citron</p>
+<p>4 cuillères à soupe de gruyère râpé ou parmesan</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . dans une petite casserole , faire <operation ingredients="vin"> bouillir </operation> le <ingredient action="bouillir" quantite="5 cl"> vin </ingredient> . <operation ingredients="bouillon"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> puis bien <operation> mélanger </operation> à l' aide d' un fouet jusqu' à bien <operation> dissoudre </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="160 gramme"> crème </ingredient> et laisser <operation> bouillir </operation> à petit feu pour 10 minutes en <operation> mélangeant </operation> de temps en temps . <operation ingredients="beurre"> ajouter </operation> les herbes hachées et le <ingredient action="ajouter" quantite="1 cuillère à café"> beurre </ingredient> . <operation> assaisonner </operation> . dans un plat à four beurré , <operation ingredients="saumon;jus"> mettre </operation> le <ingredient action="mettre"> saumon </ingredient> <operation> assaisonné </operation> du <ingredient action="mettre" quantite=""> jus </ingredient> de citron et <operation> ajouter </operation> la sauce par dessus . <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> râpé . <operation> enfourner </operation> pour 15 à 20 minutes de cuisson .
+</preparation>
+</recette>

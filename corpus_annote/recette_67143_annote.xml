@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67143">
+<titre>Petit parmentier individuel au jambon et curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes de terre moyennes</p>
+<p>1 tranche de jambon cuit</p>
+<p>4 cuillère à soupe de crème fraîche</p>
+<p>1 cuillère à café de curry</p>
+<p>25 gr gruyère râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre <operation> épluchées </operation> ( 10 min au micro-ondes ) . <operation ingredients="pommes;sel"> mettre </operation> les <ingredient action="mettre" quantite="2"> pommes </ingredient> de terre , 1 cuillère à soupe de crème fraiche , <ingredient action="mettre" quantite=""> sel </ingredient> et poivre dans le <operation> mixer </operation> . <operation> mixer </operation> et <operation> réserver </operation> . <operation ingredients="jambon;curry"> mettre </operation> le <ingredient action="mettre"> jambon </ingredient> , 1 cuillère à soupe de crème fraiche et le <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> dans le <operation> mixer </operation> . <operation> mixer </operation> et <operation> réserver </operation> . dans un petit ramequin , <operation ingredients="pommes;jambon"> mettre </operation> la moitié de la purée de <ingredient action="mettre" quantite="2"> pommes </ingredient> de terre , puis le <operation> mélange </operation> <ingredient action="mettre"> jambon </ingredient> - curry . terminer par une couche de <ingredient quantite="2"> pommes </ingredient> de terre . <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="25 gr"> gruyère </ingredient> râpé . faire <operation> cuire </operation> 5 minutes au micros - ondes , puis servir avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

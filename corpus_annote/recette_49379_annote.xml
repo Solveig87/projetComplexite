@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49379">
+<titre>Semoule au lait à l'aneth</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>100 g de semoule fine</p>
+<p>80 g de sucre</p>
+<p>3 cuillères à soupe de graines d'aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;aneth"> porter </operation> le <ingredient action="porter" quantite="1 litre"> lait </ingredient> à <operation> ébullition </operation> avec les graines d' <ingredient action="porter"> aneth </ingredient> . laisser <operation> infuser </operation> à <operation> couvert </operation> pendant minimum 1 / 2 heure , puis <operation ingredients="lait"> filtrer </operation> le <ingredient action="filtrer" quantite="1 litre"> lait </ingredient> et le <operation ingredients="semoule;sucre"> remettre </operation> sur le feu avec la <ingredient action="remettre"> semoule </ingredient> et le <ingredient action="remettre" quantite="80 gramme"> sucre </ingredient> . faire <operation ingredients="semoule"> cuire </operation> la <ingredient action="cuire"> semoule </ingredient> , juste quelques minutes , tout en <operation> remuant </operation> . <operation> verser </operation> dans un saladier ou des ramequins . servir tiède ou froide , avec quelques graines d' <ingredient> aneth </ingredient> .
+</preparation>
+</recette>

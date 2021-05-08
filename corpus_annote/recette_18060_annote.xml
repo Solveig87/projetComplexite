@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18060">
+<titre>Framboisines</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 feuilles de gélatines</p>
+<p>50 g de sucre</p>
+<p>1 citron</p>
+<p>200 g de fromage blanc</p>
+<p>2 crèmes de yaourt</p>
+<p>2 blancs d'oeufs</p>
+<p>1 sachet de sucre vanillé</p>
+<p>300 g de framboises</p>
+<p>quelques feuilles de menthe fraîche</p>
+</ingredients>
+<preparation>
+faîtes <operation ingredients="gélatine"> tremper </operation> 2 feuilles de <ingredient action="tremper" quantite="2 feuille"> gélatine </ingredient> dans un bol d' eau froide . faîtes <operation ingredients="sucre;jus"> dissoudre </operation> 50 g de <ingredient action="dissoudre" quantite="50 gramme"> sucre </ingredient> dans le <ingredient action="dissoudre"> jus </ingredient> d’1 citron , <operation> portez </operation> à frémissements . hors du feu , <operation ingredients="gélatine"> ajoutez </operation> la <ingredient action="ajouter" quantite="2 feuille"> gélatine </ingredient> <operation> essorée </operation> , faîtes - la <operation> dissoudre </operation> , laissez <operation> tiédir </operation> . <operation> battez </operation> 200 g de <ingredient action="tiédir" quantite="200 gramme"> fromage </ingredient> blanc avec 2 pots de <ingredient action="tiédir" quantite="2"> crème </ingredient> de yaourt , <operation ingredients="sirop"> incorporez </operation> le <ingredient action="incorporer"> sirop </ingredient> de citron <operation ingredients="fromage;crème"> tiédi </operation> et <operation> réservez </operation> . dès que la <ingredient quantite="2"> crème </ingredient> est ferme , <operation ingredients="œufs"> incorporez </operation> 2 blancs d’ <ingredient action="incorporer"> œufs </ingredient> <operation ingredients="sucre"> montés </operation> en neige ferme avec 1 sachet de <ingredient action="monter" quantite="50 gramme"> sucre </ingredient> vanillé . <operation ingredients="framboises"> versez </operation> très délicatement 200 g de <ingredient action="verser" quantite="300 gramme"> framboises </ingredient> <operation> mixées </operation> pour obtenir un marbré . <operation> versez </operation> dans une <operation> coupe </operation> en <operation ingredients="framboises"> ajoutant </operation> 100 g de <ingredient action="ajouter" quantite="300 gramme"> framboises </ingredient> entières . <operation> mettez </operation> au réfrigérateur au moins 2 h. pour servir , <operation ingredients="menthe"> piquez </operation> de <ingredient action="piquer" quantite="quelque feuille"> menthe </ingredient> fraîche . on peut aussi <operation ingredients="myrtilles;fraises"> faire </operation> cette recette avec des <ingredient action="faire"> myrtilles </ingredient> , des <ingredient action="faire"> fraises </ingredient> .
+</preparation>
+</recette>

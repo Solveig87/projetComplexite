@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26089">
+<titre>Faux-filet sauce aux cèpes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de faux-filet de 500 à 600 g chacune</p>
+<p>480 g de tomates pelées (1 grosse boîte) </p>
+<p>50 g de cèpes séchés</p>
+<p>1 bouquet garni</p>
+<p>4 gousses d'ail</p>
+<p>2 échalotes</p>
+<p>10 cl de vin blanc sec</p>
+<p>75 g de crème fraîche</p>
+<p>30 g de beurre</p>
+<p>2 cuillerées à soupe d'huile</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="faux-filets"> parer </operation> les <ingredient action="parer" quantite="2 tranche"> faux-filets </ingredient> par le boucher . faites <operation ingredients="cèpes"> tremper </operation> les <ingredient action="tremper" quantite="50 gramme"> cèpes </ingredient> 10 minutes dans de l' eau tiède . <operation> hachez </operation> l' <ingredient> ail </ingredient> et les <ingredient quantite="2"> échalotes </ingredient> . faites <operation ingredients="viande;huile;beurre"> cuire </operation> la <ingredient action="cuire" quantite="2 tranche"> viande </ingredient> dans une <operation> poêle </operation> bien chaude avec l' <ingredient action="cuire"> huile </ingredient> et le <ingredient action="cuire" quantite="30 gramme"> beurre </ingredient> . le temps de cuisson dépend de votre goût . dès que la <ingredient action="cuire" quantite="2 tranche"> viande </ingredient> est <operation ingredients="viande"> cuite </operation> , <operation> ôtez </operation> de la <operation> poêle </operation> et <operation> réservez </operation> au chaud . faites <operation ingredients="ail;échalote"> fondre </operation> l' <ingredient action="fondre"> ail </ingredient> et l' <ingredient action="fondre" quantite="2"> échalote </ingredient> dans la <operation> poêle </operation> puis <operation ingredients="tomates;bouquet;sel;poivre"> ajoutez </operation> les <ingredient action="ajouter" quantite="480 gramme"> tomates </ingredient> <operation> égouttées </operation> , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . faites <operation> cuire </operation> à feu vif pendant 5 minutes . <operation ingredients="vin;cèpes"> ajoutez </operation> le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc , les <ingredient action="ajouter" quantite="50 gramme"> cèpes </ingredient> <operation> égouttés </operation> et leur eau de trempage <operation> filtrée </operation> . poursuivez la cuisson 10 minutes puis <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="75 gramme"> crème </ingredient> fraîche . <operation> nappez </operation> la <ingredient quantite="2 tranche"> viande </ingredient> de cette sauce et servez immédiatement .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19979">
+<titre>Tarte au Reblochon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/2 Reblochon fermier (ou plus pour les gourmands) </p>
+<p>1 pâte feuilletée</p>
+<p>300 g de poitrine fumée en tranches épaisses</p>
+<p>2 oignons</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>sel, poivre, muscade</p>
+</ingredients>
+<preparation>
+préchauffez le four à th 7 puis <operation ingredients="tarte"> mettre </operation> le fond de <ingredient action="mettre"> tarte </ingredient> à <operation> cuire </operation> à blanc 10 à 15 mn . <operation ingredients="poitrine;fumée;lardons"> détaillez </operation> la <ingredient action="détailler" quantite="300 gramme"> poitrine </ingredient> <ingredient action="détailler"> fumée </ingredient> en gros <ingredient action="détailler"> lardons </ingredient> ; <operation ingredients="oignons"> pelez </operation> et <operation> emincez </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> en fines rondelles . faites <operation ingredients="oignons;beurre"> blondir </operation> les <ingredient action="blondir" quantite="2"> oignons </ingredient> à feu doux dans un peu de <ingredient action="blondir"> beurre </ingredient> puis <operation ingredients="lardons"> ajoutez </operation> les <ingredient action="ajouter"> lardons </ingredient> et faites <operation> colorer </operation> pedant 5 mn environ . <operation ingredients="reblochon"> enlevez </operation> la croute du <ingredient action="enlever" quantite="1"> reblochon </ingredient> puis <operation> coupez </operation> le en 4 portions puis chaque portion en 3 dans le sens de l' épaisseur ( 12 morceaux en tout ) . <operation ingredients="oeufs"> battez </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette et <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> . <operation ingredients="sel"> assaisonnez </operation> avec <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et muscade . <operation ingredients="lardons;tarte"> répartissez </operation> les <ingredient action="répartir"> lardons </ingredient> sur le fond de <ingredient action="répartir"> tarte </ingredient> puis <operation ingredients="fromage"> disposez </operation> le <ingredient action="disposer"> fromage </ingredient> et enfin <operation ingredients="oeufs"> versez </operation> doucement la préparation aux <ingredient action="verser" quantite="3"> oeufs </ingredient> . <operation> enfournez </operation> pendant 30 à 40 mn jusqu' à obtention d' une belle croûte dorée . servez chaud avec une <ingredient> salade </ingredient> verte . un <ingredient> vin </ingredient> blanc de savoie ou d' alsace
+</preparation>
+</recette>

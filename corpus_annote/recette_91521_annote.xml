@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91521">
+<titre>Gratin d'aubergines et poivrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 belles aubergines</p>
+<p>1 poivron (rouge ou vert)</p>
+<p>1 oignon</p>
+<p>300 g de viande de boeuf hachée</p>
+<p>250 g de coulis de tomate</p>
+<p>50 cl de béchamel</p>
+<p>50 g de fromage rappé</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>3 feuilles de basilic frais</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> couper </operation> les <ingredient action="couper" quantite="2"> aubergines </ingredient> en petits dés et les <operation> cuire </operation> à la vapeur . <operation> réserver </operation> et laisser <operation> égoutter </operation> . dans une <operation> poêle </operation> chaude , faire <operation ingredients="oignon;poivron;huile"> revenir </operation> un <ingredient action="revenir" quantite="1"> oignon </ingredient> et un <ingredient action="revenir" quantite="1"> poivron </ingredient> <operation> émincés </operation> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="viande;tomate;basilic"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> viande </ingredient> <operation> hâchée </operation> , le coulis de <ingredient action="ajouter"> tomate </ingredient> ainsi que le <ingredient action="ajouter" quantite="3 feuille"> basilic </ingredient> <operation> ciselé </operation> finement . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="béchamel"> préparer </operation> une <ingredient action="préparer" quantite="50 cl"> béchamel </ingredient> . dans un plat à gratin , <operation ingredients="aubergines"> déposez </operation> les <ingredient action="déposer" quantite="2"> aubergines </ingredient> , puis la préparation et <operation> napper </operation> avec la <ingredient quantite="50 cl"> béchamel </ingredient> . <operation ingredients="fromage"> parsemez </operation> avec le <ingredient action="parsemer" quantite="50 gramme"> fromage </ingredient> râpé . <operation> mettre </operation> 20 minutes au four à 180 <operation> ° </operation> c ( thermostat 6 ) et laisser <operation> gratiner </operation> les 5 dernières minutes .
+</preparation>
+</recette>

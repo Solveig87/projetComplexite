@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165083">
+<titre>Taosts de saumon fumé à l'estragon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie complet </p>
+<p>8 tranches de saumon fumée</p>
+<p>3 grosses cuillérées à soupe de mayonnaise faite maison</p>
+<p>1 grosse cuillérée à soupe d'estragon ciselé</p>
+<p>1 grosse cuillérée à soupe de persil plat ciselé</p>
+</ingredients>
+<preparation>
+. <operation ingredients="mayonnaise"> préparer </operation> une <ingredient action="préparer"> mayonnaise </ingredient> maison faire <operation ingredients="pain;pain"> griller </operation> les tranches de <ingredient action="griller" quantite="8 tranche"> pain </ingredient> de mie au grill <ingredient action="griller" quantite="8 tranche"> pain </ingredient> ( ou au four ) bien <operation ingredients="mayonnaise;estragon;persil"> mélanger </operation> la <ingredient action="mélanger"> mayonnaise </ingredient> , l' <ingredient action="mélanger"> estragon </ingredient> et le <ingredient action="mélanger"> persil </ingredient> <operation ingredients="pain;mayonnaise"> tartiner </operation> chaque tranche de <ingredient action="tartiner" quantite="8 tranche"> pain </ingredient> de mie avec la <ingredient action="tartiner"> mayonnaise </ingredient> aux herbes et <operation ingredients="saumon;citron"> couvrir </operation> les taosts d' une ( ou deux ) tranche de <ingredient action="couvrir"> saumon </ingredient> fumée servir avec une <ingredient> salade </ingredient> verte , et quelques quartiers de <ingredient action="couvrir"> citron </ingredient> jaune . l' <ingredient> estragon </ingredient> se marie très bien avec le <ingredient> saumon </ingredient> . on peut servir ces taosts en entrée , ou bien en <ingredient> apéritif </ingredient> , <operation> coupés </operation> en 2 ou en 4 .
+</preparation>
+</recette>

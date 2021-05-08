@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18664">
+<titre>Délice au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g macaroni coupé</p>
+<p>crème de champignon</p>
+<p>thon émietté</p>
+<p>parmesan</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> , <operation ingredients="crème;thon"> mélanger </operation> avec la <ingredient action="mélanger" quantite=""> crème </ingredient> de champignon et le <ingredient action="mélanger" quantite=""> thon </ingredient> <operation> émietté </operation> . <operation> placez </operation> le tout dans un grand plat et <operation ingredients="parmesan;sel;poivre"> saupoudrez </operation> le tout avec le <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> , le <ingredient action="saupoudrer" quantite=""> sel </ingredient> et le <ingredient action="saupoudrer" quantite=""> poivre </ingredient> . <operation> mettre </operation> au four à 300 <operation> ° </operation> f ( 160 <operation> ° </operation> c ) , pendant 30 mn et servir . au <ingredient> lieu </ingredient> de <operation ingredients="thon"> mettre </operation> du <ingredient action="mettre" quantite=""> thon </ingredient> on peut le remplacer par du <ingredient> jambon </ingredient> <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

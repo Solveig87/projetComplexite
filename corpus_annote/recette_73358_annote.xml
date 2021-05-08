@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73358">
+<titre>Gratin de pâtes aux tomates et saucisses de Strasbourg</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 saucisses de Strasbourg</p>
+<p>100 g de pâtes</p>
+<p>2 tomates</p>
+<p>10 g de beurre</p>
+<p>10 g de farine</p>
+<p>10 cl de lait </p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes;saucisses"> cuire </operation> les <ingredient action="cuire" quantite="100 gramme"> pâtes </ingredient> ( al dente ) et les <ingredient action="cuire" quantite="4"> saucisses </ingredient> de strasbourg . <operation> egoutter </operation> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en dés et les faire <operation> cuire </operation> dans une <operation> poêle </operation> . avec le <ingredient action="faire" quantite="10 gramme"> beurre </ingredient> , la <ingredient action="faire" quantite="10 gramme"> farine </ingredient> , le <ingredient action="faire" quantite="10 cl"> lait </ingredient> et la <ingredient action="faire" quantite=""> muscade </ingredient> , <operation ingredients="beurre;farine;lait;muscade;béchamel"> faire </operation> une sauce <ingredient action="faire"> béchamel </ingredient> . <operation> mélanger </operation> le tout . <operation> mettre </operation> dans des petits plats individuels . faire <operation> cuire </operation> 15 min au four à 180 <operation> ° </operation> , thermostat 6 . on peut <operation ingredients="légumes;tomates"> mettre </operation> d' autres <ingredient action="mettre" quantite="2"> légumes </ingredient> que des <ingredient action="mettre" quantite="2"> tomates </ingredient> ( champignons , courgettes . . . ) .
+</preparation>
+</recette>

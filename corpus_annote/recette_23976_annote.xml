@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23976">
+<titre>Gratin de macaronis au boursin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de macaronis</p>
+<p>1 boursin Ail et Fines Herbes</p>
+<p>150 g de jambon en dés/allumettes</p>
+<p>3 oeufs</p>
+<p>6 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="macaronis"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> macaronis </ingredient> à l' eau . préchauffer le four à 180 <operation> ° </operation> c. les <operation> égoutter </operation> soigneusement . les <operation ingredients="jambon"> mélanger </operation> avec le <ingredient action="mélanger" quantite="150 gramme"> jambon </ingredient> blanc et les <operation> déposer </operation> dans un plat à gratin . <operation ingredients="boursin;crème;oeufs"> mélanger </operation> le <ingredient action="mélanger"> boursin </ingredient> , la <ingredient action="mélanger" quantite="6 cuillère à soupe"> crème </ingredient> fraîche et les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="macaronis"> verser </operation> cette préparation sur les <ingredient action="verser" quantite="400 gramme"> macaronis </ingredient> . <operation ingredients="boursin"> emietter </operation> du <ingredient action="emietter"> boursin </ingredient> sur le gratin pour plus de goût . faire <operation> cuire </operation> au four durant 15 minutes .
+</preparation>
+</recette>

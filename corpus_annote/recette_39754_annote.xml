@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39754">
+<titre>Tagliatelles aux poivrons et feta</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>tagliatelles (pâtes)</p>
+<p>1 pot de feta à la grecque</p>
+<p>1 boîte de poivrons rouges</p>
+<p>huile d'olive</p>
+<p>3 gousses d'ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="tagliatelles"> cuire </operation> les <ingredient action="cuire" quantite=""> tagliatelles </ingredient> dans de l' eau bouillante <operation> salée </operation> . pendant ce temps , <operation ingredients="poivrons"> ouvrir </operation> la boîte de <ingredient action="ouvrir"> poivrons </ingredient> rouges , et <operation> égoutter </operation> . <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en petits morceaux . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> d' olive , et y faire <operation ingredients="poivrons"> revenir </operation> les <ingredient action="revenir"> poivrons </ingredient> , pendant 4 min . <operation ingredients="gousses"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> gousses </ingredient> d' ail en morceaux , laisser <operation> revenir </operation> à feux doux pendant 1 min , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="feta"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pot"> feta </ingredient> <operation> égouttée </operation> . <operation ingredients="tagliatelles"> mélanger </operation> aux <ingredient action="mélanger" quantite=""> tagliatelles </ingredient> . bon appétit ! plat rapide et facile .
+</preparation>
+</recette>

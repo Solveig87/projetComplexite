@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21033">
+<titre>Pudding aux fruits secs</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 g de pruneaux dénoyautés</p>
+<p>50 g d'abricots secs</p>
+<p>50 g de raisins secs</p>
+<p>10 cl de rhum</p>
+<p>400 g de mie de pain rassis</p>
+<p>50 cl de lait </p>
+<p>150 g de sucre</p>
+<p>1 gousse de vanille</p>
+<p>4 oeufs entiers + 2 blancs d'oeufs</p>
+<p>1 pincée de sel</p>
+<p>10 morceaux de sucre</p>
+</ingredients>
+<preparation>
+la veille : faire <operation ingredients="abricots;pruneaux"> tremper </operation> les <ingredient action="tremper"> abricots </ingredient> et les <ingredient action="tremper" quantite="50 gramme"> pruneaux </ingredient> dans un peu d' eau tiède . <operation ingredients="raisins;rhum"> mettre </operation> les <ingredient action="mettre" quantite="50 gramme"> raisins </ingredient> dans le <ingredient action="mettre" quantite="10 cl"> rhum </ingredient> . le lendemain : préchauffer le four à 160 <operation> ° </operation> c ( thermostat . 6 ) . pour <operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> : <operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> en petits dés . <operation ingredients="gousse"> fendre </operation> la <ingredient action="fendre" quantite="1"> gousse </ingredient> de vanille et la <operation> gratter </operation> . dans une casserole : <operation ingredients="lait;gousse;sucre"> porter </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="50 cl"> lait </ingredient> avec la <ingredient action="porter" quantite="1"> gousse </ingredient> de vanille et le <ingredient action="porter" quantite="150 gramme"> sucre </ingredient> . lorsque le <ingredient action="ôter" quantite="50 cl"> lait </ingredient> est chaud , <operation ingredients="lait;gousse"> ôter </operation> la <ingredient action="ôter" quantite="1"> gousse </ingredient> de vanille et <operation ingredients="lait;pain"> verser </operation> le <ingredient action="verser" quantite="50 cl"> lait </ingredient> sur le <ingredient action="verser"> pain </ingredient> rassis . <operation> ecraser </operation> à l' aide d' une fourchette . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> entiers ainsi que les <ingredient action="égoutter"> abricots </ingredient> et les <ingredient action="égoutter" quantite="50 gramme"> pruneaux </ingredient> <operation ingredients="abricots;pruneaux"> égouttés </operation> . <operation ingredients="raisins;rhum"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> raisins </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> rhum </ingredient> . <operation> remuer </operation> . <operation ingredients="sel"> monter </operation> les blancs en neige avec le <ingredient action="monter" quantite="1 pincée"> sel </ingredient> et les <operation> incorporer </operation> au <operation> mélange </operation> à l' aide d' une spatule . <operation ingredients="sucre"> préparer </operation> un caramel avec les 10 morceaux de <ingredient action="préparer" quantite="150 gramme"> sucre </ingredient> et le <operation> verser </operation> dans un <operation> moule </operation> à charlotte . <operation> remuer </operation> le <operation> moule </operation> afin que le caramel s' étale sur toutes les parois . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans le <operation> moule </operation> à charlotte , <operation> enfourner </operation> et faire <operation> cuire </operation> au bain - marie durant 45 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) . vérifier la cuisson à l' aide d' un <ingredient> couteau </ingredient> , la lame doit ressortir sèche .
+</preparation>
+</recette>

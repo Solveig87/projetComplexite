@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23389">
+<titre>Tiramisu aux fraises parfumé au citron</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>250 g de fraises</p>
+<p>24 biscuits cuillère</p>
+<p>75 g de sucre</p>
+<p>4 œufs</p>
+<p>1 bol de thé fortement infusé au citron + 1 cuillère à soupe d'extrait de vanille</p>
+</ingredients>
+<preparation>
+<operation ingredients="mousse;oeufs;sucre;mascarpone"> mélanger </operation> ( en <ingredient action="mélanger"> mousse </ingredient> ) les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="75 gramme"> sucre </ingredient> et la <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> . <operation> battre </operation> les blancs en neige et les <operation> incorporer </operation> à la préparation . <operation ingredients="biscuits"> tremper </operation> les <ingredient action="tremper" quantite="24"> biscuits </ingredient> rapidement dans le bol et les <operation> déposer </operation> en rangée au fond d' un <operation> moule </operation> . puis <operation ingredients="fraises;biscuits"> mettre </operation> une couche de préparation et les <ingredient action="mettre" quantite="250 gramme"> fraises </ingredient> ( <operation> coupées </operation> en dés ) , une couche de <ingredient action="mettre" quantite="24"> biscuits </ingredient> et une couche de préparation . laisser <operation> reposer </operation> au réfrigérateur 12 heures minimum . clairette de die
+</preparation>
+</recette>

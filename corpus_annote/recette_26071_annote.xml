@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26071">
+<titre>Pâté de porc aux foies de volaille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de chair à saucisse de porc</p>
+<p>3 foies de poulet</p>
+<p>1 gros foie de lapin</p>
+<p>1 petit verre de cognac</p>
+<p>1 oeuf</p>
+<p>1 échalotes</p>
+<p>1/4 bouquet de persil</p>
+<p>1 tranche de pain de mie</p>
+<p>lait</p>
+<p>1 cuillère à soupe de farine</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;foies;cognac"> mariner </operation> la <ingredient action="mariner" quantite="300 gramme;3+1"> viande </ingredient> et les <ingredient action="mariner" quantite="3+1"> foies </ingredient> <operation> hachés </operation> 12 h avec le <ingredient action="mariner"> cognac </ingredient> . le lendemain , <operation> égoutter </operation> et <operation ingredients="viande;foies;oeuf;persil;échalote;pain;lait;farine;sel;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme;3+1"> viande </ingredient> et les <ingredient action="mélanger" quantite="3+1"> foies </ingredient> avec l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , le <ingredient action="mélanger"> persil </ingredient> et l' <ingredient action="mélanger" quantite="1"> échalote </ingredient> <operation> hachés </operation> , le <ingredient action="mélanger" quantite="1 tranche"> pain </ingredient> <operation> trempé </operation> dans du <ingredient action="mélanger" quantite=""> lait </ingredient> et <operation> essoré </operation> , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> farine </ingredient> , du <ingredient action="mélanger" quantite=""> sel </ingredient> et du <ingredient action="mélanger"> poivre </ingredient> . <operation ingredients="cognac"> ajouter </operation> le <ingredient action="ajouter"> cognac </ingredient> de la marinade et <operation> verser </operation> dans une terrine beurrée . faire <operation> cuire </operation> 30 minutes au four à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

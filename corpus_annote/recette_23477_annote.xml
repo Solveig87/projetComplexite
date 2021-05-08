@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23477">
+<titre>Soupe de poisson marseillaise</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de rougets-barbets vidés et écaillés</p>
+<p>12 petits crabes (appelés crabes verts)</p>
+<p>5 tomates bien mûres</p>
+<p>3 oignons</p>
+<p>1 petite branche de céleri</p>
+<p>2 blancs de poireaux</p>
+<p>2 gousses d'ail</p>
+<p>1 brin de thym</p>
+<p>3-4 tiges de persil</p>
+<p>1 feuille de laurier</p>
+<p>1 branche de romarin</p>
+<p>1 tige de fenouil séchée</p>
+<p>1 étoile de badiane</p>
+<p>1 dose de safran</p>
+<p>1 cuillère à café de pastis</p>
+<p>10 cl d'huile d'olive</p>
+<p>2 l de court-bouillon</p>
+<p>1 tasse d'aïoli</p>
+<p>1 tasse de sauce rouille</p>
+<p>6 tranches de pain rassis</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="rougets;crabes"> rincez </operation> les <ingredient action="rincer"> rougets </ingredient> et les <ingredient action="rincer" quantite="12"> crabes </ingredient> . <operation ingredients="oignons"> pelez </operation> et <operation> coupez </operation> finement les <ingredient action="peler" quantite="3"> oignons </ingredient> , les <ingredient> poireaux </ingredient> et le <ingredient> céleri </ingredient> . <operation ingredients="gousses"> pelez </operation> et <operation> pilez </operation> les <ingredient action="peler" quantite="2"> gousses </ingredient> d' ail . <operation ingredients="tomates"> pelez </operation> et <operation> épépinez </operation> les <ingredient action="pelez" quantite="5"> tomates </ingredient> , <operation> hachez </operation> - les grossièrement . attachez les herbes avec une <ingredient> ficelle </ingredient> de <operation> cuisine </operation> pour <operation ingredients="bouquet"> former </operation> un <ingredient action="former"> bouquet </ingredient> <operation> garni </operation> . faites <operation ingredients="huile"> chauffer </operation> une grande cocotte avec un fond d' <ingredient action="chauffer" quantite="10 cl"> huile </ingredient> . faites - y <operation ingredients="oignons;céleri;poireaux;bouquet"> revenir </operation> 5 à 10 minutes les <ingredient action="revenir" quantite="3"> oignons </ingredient> , le <ingredient action="revenir"> céleri </ingredient> , les <ingredient action="revenir"> poireaux </ingredient> , le <ingredient action="revenir"> bouquet </ingredient> <operation> garni </operation> et l' étoile de badiane . laissez <operation> blondir </operation> en <operation> remuant </operation> , puis <operation ingredients="crabes"> ajoutez </operation> les <ingredient action="ajouter" quantite="12"> crabes </ingredient> . laissez - les rougir 5 minutes . <operation ingredients="ail;tomates"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> pilé </operation> et les <ingredient action="ajouter" quantite="5"> tomates </ingredient> . laissez <operation> cuire </operation> à feu vif en <operation> remuant </operation> à la cuillère en bois . <operation> versez </operation> le court-bouillon chaud et <operation> portez </operation> à <operation> ébullition </operation> . <operation ingredients="poissons"> ajoutez </operation> les <ingredient action="ajouter"> poissons </ingredient> dans la marmite . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="safran;pastis"> ajoutez </operation> le <ingredient action="ajouter"> safran </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à café"> pastis </ingredient> . laissez <operation> cuire </operation> encore 10 à 15 minutes à feu vif , les <ingredient> rougets </ingredient> doivent être <operation> cuits </operation> mais légèrement fermes .
+</preparation>
+</recette>

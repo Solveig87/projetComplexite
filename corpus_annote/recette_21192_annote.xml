@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21192">
+<titre>Toasts aux oeufs pochés</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>4 tranches de pain rassis</p>
+<p>1 oignon</p>
+<p>50 g de beurre</p>
+<p>25 g de farine</p>
+<p>30 cl de lait</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 cuillère à café de curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> 30 g de <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , <operation> jetez </operation> - y l' <ingredient quantite="1"> oignon </ingredient> <operation> émincé </operation> et laissez - le suer . <operation ingredients="curry;farine"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à café"> curry </ingredient> et de <ingredient action="saupoudrer" quantite="25 gramme"> farine </ingredient> . laissez roussir en <operation> remuant </operation> . <operation ingredients="lait"> ajoutez </operation> peu à peu le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> en <operation> remuant </operation> , laissez <operation> épaissir </operation> à feu doux . <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer" quantite="2 cuillère à soupe"> crème </ingredient> en <operation> fouettant </operation> . <operation> réservez </operation> au chaud . faites <operation ingredients="pain;beurre"> dorer </operation> les tranches de <ingredient action="dorer" quantite="4 tranche"> pain </ingredient> dans une <operation> poêle </operation> avec le <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> restant . pochez les <ingredient quantite="4"> oeufs </ingredient> 3 min dans une casserole d' eau frémissante vinaigrée , <operation> égouttez </operation> - les soigneusement et <operation ingredients="pain"> déposez </operation> - les sur les tranches de <ingredient action="déposer" quantite="4 tranche"> pain </ingredient> . <operation> nappez </operation> de sauce et servez .
+</preparation>
+</recette>

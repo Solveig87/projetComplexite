@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20768">
+<titre>Filets de poulet à la moutarde et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>1 échalote</p>
+<p>1 pot de crème fraîche épaisse (20 cl) </p>
+<p>2 cuillères à soupe de moutarde forte</p>
+<p>20 g de beurre</p>
+<p>1 cuillère à soupe d'huile végétale</p>
+</ingredients>
+<preparation>
+dans une sauteuse , <operation ingredients="beurre;huile"> mettre </operation> le <ingredient action="mettre" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> , <operation ingredients="échalote"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> , faire <operation> revenir </operation> <operation ingredients="poulet"> ajouter </operation> les filets de <ingredient action="ajouter"> poulet </ingredient> <operation> coupés </operation> en dés , les laisser <operation> revenir </operation> 5 min . pendant ce temps la <operation ingredients="moutarde;crème"> mélanger </operation> la <ingredient action="mélanger" quantite="2 cuillère à soupe"> moutarde </ingredient> et la <ingredient action="mélanger" quantite="1 pot"> crème </ingredient> fraîche . lorsque le <ingredient action="ajouter"> poulet </ingredient> est doré <operation ingredients="poulet"> ajouter </operation> le <operation> mélange </operation> et laisser <operation> cuire </operation> 15 mn à feu doux . servez avec du <ingredient> riz </ingredient> sauvage . cotes de provence rosé
+</preparation>
+</recette>

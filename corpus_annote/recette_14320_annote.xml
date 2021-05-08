@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14320">
+<titre>Raie en sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 aile de raie par personne</p>
+<p>concentré de tomate</p>
+<p>3 grains d'ail</p>
+<p>persil </p>
+<p>câpres</p>
+<p>farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="raie;rôtir"> enfariner </operation> la <ingredient action="enfariner"> raie </ingredient> et la faire <ingredient action="enfariner"> rôtir </ingredient> à la <operation> poêle </operation> . faire ensuite <operation ingredients="ail;persil"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir" quantite=""> persil </ingredient> . <operation ingredients="tomate;câpres"> rajouter </operation> le <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> , les <ingredient action="rajouter" quantite=""> câpres </ingredient> et l' eau , puis laisser <operation> réduire </operation> . <operation ingredients="raie"> rajouter </operation> la <ingredient action="rajouter"> raie </ingredient> et laisser <operation> mijoter </operation> un bon quart d' heure . on peut relever la sauce avec un peu de piment .
+</preparation>
+</recette>

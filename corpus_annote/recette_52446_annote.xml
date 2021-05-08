@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52446">
+<titre>Le pot-au-feu de ma maman</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la viande du pot-au-feu :</p>
+<p>1 kg de jarret de boeuf ficelé</p>
+<p>1 queue de boeuf coupée en morceaux et ficelée</p>
+<p>1 belle joue de boeuf ficelée</p>
+<p>1 belle poule</p>
+<p>1 os a moelle de boeuf</p>
+<p>Pour la garniture du pot-au-feu :</p>
+<p>6 poireaux lavés et ficelés</p>
+<p>8 carottes entières</p>
+<p>3 navets entiers</p>
+<p>1 panais</p>
+<p>1 oignon piqué de 4 clous de girofle</p>
+<p>1 bouquet garni (thym, laurier, romarin et queue de persil)</p>
+<p>sel, poivre</p>
+<p>Pour la garniture de la poule au pot :</p>
+<p>1 litre de bouillon du pot-au-feu</p>
+<p>2 belles cuillères de maïzéna</p>
+<p>450 g de champignons de paris coupés en 4</p>
+<p>600 g de riz </p>
+<p>1 cube de bouillon de poule</p>
+</ingredients>
+<preparation>
+ce plat est <operation ingredients="poule"> fait </operation> pour 2 services : le pot-au-feu le midi et la <ingredient action="faire" quantite="1"> poule </ingredient> au pot le soir ! le matin : <operation ingredients="viande"> mettre </operation> toute la <ingredient action="mettre" quantite="1 kilogramme"> viande </ingredient> et l' os à moelle dans un grand faitout , <operation> couvrir </operation> d' eau froide ( important ) , et <operation> mettre </operation> sur feu vif . <operation> retirer </operation> l' écume avec un écumoire , cela prend environ 45 min à 1 h. au bout de ce temps , quand il n' y a plus d' écume , <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="8"> carottes </ingredient> , les <ingredient quantite="3"> navet </ingredient> , le panais , l' <ingredient quantite="1"> oignon </ingredient> et le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> ; <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> à feu doux pendant 1 h encore , puis <operation ingredients="poireaux"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> poireaux </ingredient> et laisser <operation> cuire </operation> encore 30 min environ . le pot-au-feu est prêt : servir tous les morceaux de <ingredient> boeuf </ingredient> avec les legumes , <operation ingredients="cornichons;moutarde"> accompagner </operation> de <ingredient action="accompagner"> cornichons </ingredient> et de <ingredient action="accompagner"> moutarde </ingredient> ! <operation ingredients="poule;bouillon"> réserver </operation> la <ingredient action="réserver" quantite="1"> poule </ingredient> au pot dans le <ingredient action="réserver" quantite="1 litre"> bouillon </ingredient> du pot-au-feu ! pour le soir : <operation ingredients="bouillon"> prélever </operation> 1 litre de <ingredient action="prélever" quantite="1 litre"> bouillon </ingredient> froid , puis le <operation> réserver </operation> . <operation ingredients="poule"> remettre </operation> la <ingredient action="remettre" quantite="1"> poule </ingredient> à <operation ingredients="bouillon"> chauffer </operation> dans le <ingredient action="chauffer" quantite="1 litre"> bouillon </ingredient> à feu tres doux . <operation ingredients="champignons"> parer </operation> et <operation> laver </operation> les <ingredient action="parer" quantite="450 gramme"> champignons </ingredient> , et les faire <operation ingredients="beurre"> cuire </operation> avec un peu de <ingredient action="cuire"> beurre </ingredient> jusqu' à coloration ; puis les <operation> réserver </operation> . dans un bol , <operation ingredients="maïzéna;bouillon"> diluer </operation> 2 cuillères de <ingredient action="diluer"> maïzéna </ingredient> avec du <ingredient action="diluer" quantite="1 litre"> bouillon </ingredient> . <operation ingredients="bouillon"> mettre </operation> le reste du <ingredient action="mettre" quantite="1 litre"> bouillon </ingredient> dans une casserole à <operation ingredients="maïzéna"> chauffer </operation> avec la <ingredient action="chauffer"> maïzéna </ingredient> , <operation> diluer </operation> et <operation> remuer </operation> sans cesse ! dès que la sauce s' est <operation> épaissie </operation> , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="450 gramme"> champignons </ingredient> et <operation> rectifier </operation> l' assaisonement ; <operation> réserver </operation> au chaud . pendant ce temps , <operation ingredients="riz;bouillon"> cuire </operation> le <ingredient action="cuire" quantite="600 gramme"> riz </ingredient> avec le <ingredient action="cuire" quantite="1 litre"> bouillon </ingredient> cube et servir la <ingredient quantite="1"> poule </ingredient> avec le <ingredient quantite="600 gramme"> riz </ingredient> et la sauce aux <ingredient quantite="450 gramme"> champignons </ingredient> ! c' est un vrai plat d' hiver quand il fait froid dehors ! ma maman le prepare toujours de cette façon ! on peut aussi récupérer du <ingredient quantite="1 litre"> bouillon </ingredient> et <operation ingredients="pâtes"> faire </operation> un consommé avec des <ingredient action="faire"> pâtes </ingredient> de types cheveux d' anges que l' ont servira en entrée ! touraine rouge pour le pot au feu et un sancerre blanc pour la <ingredient quantite="1"> poule </ingredient>
+</preparation>
+</recette>

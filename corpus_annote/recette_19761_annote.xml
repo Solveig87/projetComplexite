@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19761">
+<titre>Pâtes au ragoût de canard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de canard sans peau ni os</p>
+<p>1 petit oignon haché</p>
+<p>1 gousse d'ail hachée</p>
+<p>persil haché</p>
+<p>20 g de céleri haché</p>
+<p>140 g de concentré de tomates</p>
+<p>1 verre de vin blanc</p>
+<p>350 g de pâtes</p>
+</ingredients>
+<preparation>
+faire un peu <operation ingredients="canard;huile"> revenir </operation> le <ingredient action="revenir" quantite="300 gramme"> canard </ingredient> à l' <ingredient action="revenir"> huile </ingredient> d' olive puis <operation> hachez </operation> - le . faire <operation ingredients="oignon"> revenir </operation> <ingredient action="revenir" quantite="1"> oignon </ingredient> et céleri puis <operation ingredients="canard"> remettre </operation> le <ingredient action="remettre" quantite="300 gramme"> canard </ingredient> jusqu' à ce qu' il n' y ait plus de liquide . <operation ingredients="vin"> mettre </operation> le <ingredient action="mettre" quantite="1 verre"> vin </ingredient> et faire <operation> bouillir </operation> jusqu' à ce qu' il soit évaporé . <operation ingredients="ail;sucre"> ajouter </operation> le <operation> concentré </operation> , 10 cl d' eau , l' <ingredient action="ajouter"> ail </ingredient> , sel , poivre , un demi <ingredient action="ajouter"> sucre </ingredient> . faire <operation ingredients="bouillon"> mijoter </operation> à très petit <ingredient action="mijoter"> bouillon </ingredient> , <operation> couvert </operation> par une assiette d' eau , jusqu' à ce qu' il n' y ait plus de liquide apparent dans la casserole . avant de servir avec des <ingredient quantite="350 gramme"> pâtes </ingredient> de votre choix et du <ingredient> parmesan </ingredient> , <operation ingredients="persil"> mettre </operation> le <ingredient action="mettre" quantite=""> persil </ingredient> . les quantités sont pour <ingredient> manger </ingredient> des pâtes à l' italienne , c' est à dire en entrée . pour les <ingredient> manger </ingredient> à la française , en plat principal , augmentez les un peu en gardant les mêmes proportions chianti
+</preparation>
+</recette>

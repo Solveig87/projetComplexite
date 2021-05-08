@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55212">
+<titre>Gâteau chocolat noisette</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de noisettes</p>
+<p>150 g de chocolat</p>
+<p>150 g de beurre (ramolli)</p>
+<p>200 g de sucre</p>
+<p>120 g de farine</p>
+<p>4 oeufs</p>
+<p>1/2 sachet de levure</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="noisettes;beurre"> mélanger </operation> les <ingredient action="mélanger" quantite="100 gramme"> noisettes </ingredient> avec le <ingredient action="mélanger" quantite="150 gramme"> beurre </ingredient> <operation ingredients="sucre"> ramolli </operation> et <ingredient action="ramollir" quantite="200 gramme"> sucre </ingredient> . <operation> battre </operation> le <operation> mélange </operation> . <operation ingredients="œufs;sel"> rajouter </operation> les 4 jaunes d’ <ingredient action="rajouter"> œufs </ingredient> et le <ingredient action="rajouter" quantite=""> sel </ingredient> puis les <operation> battre </operation> . <operation ingredients="farine"> insérer </operation> la <ingredient action="insérer" quantite="120 gramme"> farine </ingredient> et <operation> battre </operation> le tout . rajouterla <ingredient> levure </ingredient> et le <ingredient quantite="150 gramme"> chocolat </ingredient> . <operation> battre </operation> les blancs en neige ( à part ) . puis l’ <operation> incorporer </operation> dans le <operation> mélange </operation> . <operation> cuire </operation> 20 à 30 min au four à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221704">
+<titre>Risotto au dashi et au maquereau</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>180 g de riz</p>
+<p>50 g de hareng en boîte</p>
+<p>10g de dashi no moto (bouillon de poisson)</p>
+<p>poivre (facultatif)</p>
+<p>sauce soja sucrée (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="maquereau"> chauffer </operation> le <ingredient action="chauffer"> maquereau </ingredient> quelques minutes à la <operation> poêle </operation> avec le liquide de sa boîte . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="180 gramme"> riz </ingredient> , laisser <operation> chauffer </operation> à feu doux . pendant ce temps , <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser"> bouillon </ingredient> de dashi dans 25 cl d' eau . <operation> mélanger </operation> . quand le <ingredient action="mélanger" quantite="180 gramme"> riz </ingredient> est transparent , <operation> verser </operation> environ un quart de la préparation au dashi . <operation ingredients="riz"> mélanger </operation> et <operation> couvrir </operation> . <operation> mettre </operation> le feu très doux . vérifier régulièrement la cuisson , et chaque fois que le <ingredient quantite="180 gramme"> riz </ingredient> a bu tout son <ingredient> bouillon </ingredient> , l' abreuver à nouveau , <operation> mélanger </operation> , et <operation> recouvrir </operation> . <operation ingredients="poivre;soja;riz"> assaisonner </operation> si nécessaire de <ingredient action="assaisonner" quantite=""> poivre </ingredient> et sauce <ingredient action="assaisonner"> soja </ingredient> ( ne pas <operation ingredients="sel"> mettre </operation> de <ingredient action="mettre"> sel </ingredient> ! ) lorsque le <ingredient action="assaisonner" quantite="180 gramme"> riz </ingredient> est bien gonflé , c' est prêt ! le dashi no moto et la sauce soja <operation> sucrée </operation> se trouvent en épicerie japonaise ( rue sainte-anne à paris ) . un petit conseil : aérez la pièce après avoir cuisiné .
+</preparation>
+</recette>

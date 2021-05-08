@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222563">
+<titre>Oeufs farcis aux pimientos del piquillo</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 œufs durs</p>
+<p>4 pimientos del piquillo</p>
+<p>mayonnaise</p>
+<p>quelques olives farcis aux poivrons</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs"> éplucher </operation> les <ingredient action="éplucher" quantite="8"> œufs </ingredient> et les <operation> couper </operation> en deux sur la longueur . <operation> enlever </operation> les jaunes et les <operation ingredients="pimientos;sel;mayonnaise"> mixer </operation> avec les <ingredient action="mixer" quantite="4"> pimientos </ingredient> del piquillo , un peu de <ingredient action="mixer" quantite=""> sel </ingredient> et la <ingredient action="mixer" quantite=""> mayonnaise </ingredient> . <operation> mixer </operation> à nouveau jusqu' à obtenir une <ingredient> crème </ingredient> douce . <operation ingredients="œufs;crème"> farcir </operation> les <ingredient action="farcir" quantite="8"> œufs </ingredient> de cette <ingredient action="farcir"> crème </ingredient> . <operation ingredients="olive"> décorer </operation> d' une <ingredient action="décorer" quantite="quelque"> olive </ingredient> . servir frais .
+</preparation>
+</recette>

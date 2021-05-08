@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175661">
+<titre>Blancs de poulet aux olives noires</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>2 oignons</p>
+<p>1 pot de sauce tomate nature</p>
+<p>15 olives noires</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à café de cumin</p>
+<p>3 feuilles de basilic</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , <operation ingredients="huile"> verser </operation> un peu d' <ingredient action="verser" quantite=""> huile </ingredient> d' olive , ainsi que les <ingredient action="émincer" quantite="2"> oignons </ingredient> <operation> épluchés </operation> et <operation> coupés </operation> en lamelles , l' <ingredient action="émincer"> ail </ingredient> <operation ingredients="oignons;ail;poulet"> émincé </operation> et les blancs de <ingredient action="émincer"> poulet </ingredient> . laisser cuir doucement . lorsqu' ils sont dorés , <operation> verser </operation> la sauce tomate dans la <operation> poêle </operation> . <operation ingredients="olives;basilic;cumin"> ajouter </operation> les <ingredient action="ajouter" quantite="15"> olives </ingredient> , le <ingredient action="ajouter" quantite="3 feuille"> basilic </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à café"> cumin </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> pendant 10 min . servir avec de la <ingredient> semoule </ingredient> .
+</preparation>
+</recette>

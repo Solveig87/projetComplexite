@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93489">
+<titre>Pêches au thé glacé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 ou 6 pêches pas trop murs </p>
+<p>1/2 L de thé glacé</p>
+<p>un sachet de sucre vanillé</p>
+<p>1/4 de jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pêches"> pelez </operation> les <ingredient action="peler" quantite="5"> pêches </ingredient> et <operation> coupez </operation> les en morceaux ( ni trop petits , ni trop gros ) . <operation> mettez </operation> les dans un plat et y <operation ingredients="thé;glacé"> verser </operation> le <ingredient action="verser"> thé </ingredient> <ingredient action="verser"> glacé </ingredient> , <operation ingredients="fruits"> faites </operation> attention de ne pas faire baigner les <ingredient action="faire" quantite="5"> fruits </ingredient> dans le liquide . <operation ingredients="jus"> presser </operation> le <ingredient action="presser"> jus </ingredient> de citron et le <operation> mettre </operation> dans le plat . y <operation ingredients="sucre"> ajouter </operation> le sachet de <ingredient action="ajouter"> sucre </ingredient> vanillé . <operation> goutez </operation> , si la préparation est trop acide , <operation ingredients="sucre"> rajoutez </operation> 1 / 2 sachet de <ingredient action="rajouter"> sucre </ingredient> vanillé . <operation ingredients="pêches"> couvrez </operation> les <ingredient action="couvrir" quantite="5"> pêches </ingredient> avec un film , <operation> mettez </operation> - les au frai pendant une nuit . dégustez les <ingredient quantite="5"> pêches </ingredient> au thé très fraîches . bonne appétit !
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30092">
+<titre>Gratin méditerranéen</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes</p>
+<p>1 aubergine</p>
+<p>2 tomates</p>
+<p>1 poivron</p>
+<p>1 gros oignon</p>
+<p>1 cuillères à soupe d'huile d'olive</p>
+<p>150 g de parmesan ou de gruyère râpé</p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe de chapelure</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;aubergine"> préparez </operation> les <ingredient action="préparer" quantite="1;2;1;1"> légumes </ingredient> : <operation> pelez </operation> et <operation> tranchez </operation> l' <ingredient action="préparer" quantite="1"> aubergine </ingredient> , les courgettes . les faire <operation> blanchir </operation> 5 min dans l' eau bouillante . <operation ingredients="tomates"> pelez </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> en les <operation> plongeant </operation> 1 min dans l' eau bouillante . <operation> epépinez </operation> - les et <operation> coupez </operation> - les en tranches . <operation ingredients="oignon;poivron"> détaillez </operation> l' <ingredient action="détailler" quantite="1"> oignon </ingredient> et le <ingredient action="détailler" quantite="1"> poivron </ingredient> en lanières . faites <operation ingredients="oignons;huile"> dorer </operation> les <ingredient action="dorer" quantite="1"> oignons </ingredient> dans l' <ingredient action="dorer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et <operation> versez </operation> le tout dans un plat profond allant au four . <operation> remplissez </operation> le plat en alternant les <ingredient quantite="1;2;1;1"> légumes </ingredient> et en <operation> assaisonnant </operation> chaque couche . <operation ingredients="fromage;chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer"> fromage </ingredient> , de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> chapelure </ingredient> et <operation> enfournez </operation> 1 h à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

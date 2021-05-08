@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68301">
+<titre>Salade de fruits au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>1 orange</p>
+<p>250 g de fraises</p>
+<p>3 kiwis</p>
+<p>1 citron</p>
+<p>nutella ou chocolat fondu</p>
+</ingredients>
+<preparation>
+. <operation ingredients="bananes"> coupez </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> en fines rondelles . . <operation> pelez </operation> a vif l' <ingredient quantite="1"> orange </ingredient> et <operation> coupez </operation> la en tranches plates . . <operation ingredients="fraises"> coupez </operation> les <ingredient action="couper" quantite="250 gramme"> fraises </ingredient> en deux . <operation ingredients="kiwi"> pelez </operation> le <ingredient action="peler" quantite="3"> kiwi </ingredient> , puis le <operation> découpez </operation> en tranches . . <operation ingredients="orange"> posez </operation> les tranches d' <ingredient action="poser" quantite="1"> orange </ingredient> a plat au fond d' un saladier . . <operation ingredients="orange;kiwi"> faire </operation> la même chose mais par dessus l' <ingredient action="faire" quantite="1"> orange </ingredient> avec le <ingredient action="faire" quantite="3"> kiwi </ingredient> . <operation ingredients="bananes;kiwi"> placez </operation> pareillement les rondelles de <ingredient action="placer" quantite="2"> bananes </ingredient> sur le <ingredient action="placer" quantite="3"> kiwi </ingredient> . <operation ingredients="fraises"> recouvrir </operation> le tout par des <ingredient action="recouvrir" quantite="250 gramme"> fraises </ingredient> . <operation ingredients="chocolat;salade"> répartir </operation> le <ingredient action="répartir"> chocolat </ingredient> sur la <ingredient action="répartir"> salade </ingredient> . . enfin <operation ingredients="salade;jus;citron"> arrosé </operation> la <ingredient action="arroser"> salade </ingredient> par le <ingredient action="arroser"> jus </ingredient> d' un <ingredient action="arroser" quantite="1"> citron </ingredient> . mangez votre salade tout de suite . ne pas <operation ingredients="chocolat"> mettre </operation> au frigo ou le <ingredient action="mettre"> chocolat </ingredient> va <operation> durcir </operation> . une recette facile et rapide qui <operation ingredients="salade"> change </operation> de la <ingredient action="changer"> salade </ingredient> de fruit classique . bon appetit si vous avez des remarques n' hésitez pas a me les envoyer par mail sans <ingredient> vin </ingredient> , mais avec un verre de <ingredient> jus </ingredient> d' orange
+</preparation>
+</recette>

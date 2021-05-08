@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222860">
+<titre>Ragoût de rascasse</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de filet de rascasse </p>
+<p>1 dose de safran</p>
+<p>15 cl de vin blanc</p>
+<p>380 g de chair de tomate</p>
+<p>Pour l'assaisonnement : </p>
+<p>ail</p>
+<p>échalote</p>
+<p>persil</p>
+<p>basilic</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire une sauce tomate en faisant <operation ingredients="ail"> revenir </operation> l' <ingredient action="revenir" quantite=""> ail </ingredient> , l’ <ingredient quantite=""> échalote </ingredient> et le <ingredient quantite=""> persil </ingredient> dans de l' <ingredient quantite=""> huile </ingredient> d' olive . <operation ingredients="vin"> déglacer </operation> avec le <ingredient action="déglacer" quantite="15 cl"> vin </ingredient> blanc . <operation ingredients="chair"> ajouter </operation> la <ingredient action="ajouter" quantite="380 gramme"> chair </ingredient> de tomates et laisser <operation> mijoter </operation> quelques minutes , <operation ingredients="safran"> ajouter </operation> la <operation> dose </operation> de <ingredient action="ajouter"> safran </ingredient> . si la sauce est trop épaisse , ne pas hésiter à la allonger avec de l' eau . <operation ingredients="rascasse"> couper </operation> le filet de <ingredient action="couper"> rascasse </ingredient> en morceaux d' égales <operation> mesures </operation> , les <operation> incorporer </operation> dans la sauce tomate , <operation> couvrir </operation> et faire <operation> mijoter </operation> à feu doux pendant 15 min . <operation ingredients="riz;pommes;pousses"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> blanc , ou <ingredient action="accompagner"> pommes </ingredient> de terre à la vapeur , ainsi que des <ingredient action="accompagner"> pousses </ingredient> d' épinards <operation ingredients="ail"> revenues </operation> à l' <ingredient action="revenir" quantite=""> ail </ingredient> et persil .
+</preparation>
+</recette>

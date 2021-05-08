@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62570">
+<titre>Quichehyperprotéinée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>8 blancs d'œufs</p>
+<p>3 jaunes d'œufs</p>
+<p>300 g de fromage blanc 0%</p>
+<p>200 g de lardons</p>
+<p>150 g de champignons (surgelés)</p>
+<p>25 g de gruyère râpé</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;fromage;sel"> préparez </operation> une omelette avec les 8 blancs <ingredient action="préparer"> oeufs </ingredient> et les 3 jaunes , <operation> mixez </operation> au robot avec le <ingredient action="préparer" quantite="300 gramme"> fromage </ingredient> blanc 0 % et la pincée de <ingredient action="préparer" quantite="1 pincée"> sel </ingredient> . faites <operation ingredients="lardons"> dégraisser </operation> les <ingredient action="dégraisser" quantite="200 gramme"> lardons </ingredient> dans une casserole d' eau bouillante . faites <operation ingredients="champignons"> cuire </operation> les <ingredient action="cuire" quantite="150 gramme"> champignons </ingredient> dans une <operation> poêle </operation> jusqu' a ce qu’ ils ne perdent plus d' eau . <operation ingredients="champignons;lardons;pâte"> etalez </operation> les <ingredient action="etaler" quantite="150 gramme"> champignons </ingredient> <operation> cuits </operation> et les <ingredient action="etaler" quantite="200 gramme"> lardons </ingredient> sur la <ingredient action="etaler" quantite="1"> pâte </ingredient> <operation> brisée </operation> , <operation ingredients="fromage"> versez </operation> l' omelette au <ingredient action="verser" quantite="300 gramme"> fromage </ingredient> blanc et <operation ingredients="gruyère"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="25 gramme"> gruyère </ingredient> râpé . faites <operation> cuire </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 20 min . servez avec une <ingredient> salade </ingredient> et vous avez un repas diététique <operation> composé </operation> à 80 % de protéines .
+</preparation>
+</recette>

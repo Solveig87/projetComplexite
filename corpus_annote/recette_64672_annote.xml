@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64672">
+<titre>Mon Ravitoto</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de feuilles de manioc (se trouve chez les vendeurs asiatiques)</p>
+<p>10 à 20 cl d'huile de tournesol</p>
+<p>1 kg de porc</p>
+<p>6 échalotes</p>
+<p>1 tête d'ail</p>
+<p>500 g de gingembre</p>
+<p>3 oignons</p>
+<p>1 piment antillais (fort)</p>
+<p>2 tablettes de bouillon culinaire</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="manioc"> hacher </operation> les feuilles de <ingredient action="hacher"> manioc </ingredient> . <operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="1 kilogramme;1"> viande </ingredient> en dés . <operation ingredients="oignons;échalotes"> couper </operation> en petits dés les <ingredient action="couper" quantite="3"> oignons </ingredient> ainsi que les <ingredient action="couper" quantite="6"> échalotes </ingredient> . <operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> puis <operation ingredients="gingembre"> émincer </operation> le <ingredient action="émincer" quantite="500 gramme"> gingembre </ingredient> en fines lamelles . faire <operation ingredients="viande;huile;oignons;gingembre;ail;bouillon"> sauter </operation> la <ingredient action="sauter" quantite="1 kilogramme;1"> viande </ingredient> dans l' <ingredient action="sauter"> huile </ingredient> , <operation> saler </operation> , <operation ingredients="échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> échalotes </ingredient> , les <ingredient action="sauter" quantite="3"> oignons </ingredient> , le <ingredient action="sauter" quantite="500 gramme"> gingembre </ingredient> , l' <ingredient action="sauter"> ail </ingredient> et les cubes de <ingredient action="sauter"> bouillon </ingredient> . <operation ingredients="manioc"> rajouter </operation> le <ingredient action="rajouter"> manioc </ingredient> . bien <operation> mélanger </operation> pendant 2 à 5 minutes . <operation> verser </operation> un 50 cl à 1 litre d' eau d' eau , <operation> ajouter </operation> le piment puis fermer la cocotte . faire <operation> cuire </operation> pendant 1 h 30 . la <ingredient quantite="1 kilogramme;1"> viande </ingredient> doit être <ingredient> fondante </ingredient> . ma recette malgache améliorée . régalez -vous !
+</preparation>
+</recette>

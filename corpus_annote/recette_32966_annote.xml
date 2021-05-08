@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32966">
+<titre>Pâtes aux tomates confites, poivron et au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes</p>
+<p>150 g de tomates confites</p>
+<p>1/2 chorizo</p>
+<p>1 poivron rouge</p>
+<p>2 gousses d'ail</p>
+<p>1 oignon</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poivron;oignon"> revenir </operation> le <ingredient action="revenir"> poivron </ingredient> , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <operation action="huile" ingredients="huile"> huile </operation> d' olive . <operation ingredients="chorizo;tomates;ail"> ajouter </operation> le <ingredient action="ajouter"> chorizo </ingredient> , les <ingredient action="ajouter" quantite="150 gramme"> tomates </ingredient> , et l' <ingredient action="ajouter"> ail </ingredient> . faire <operation ingredients="chorizo"> cuire </operation> le temps que <ingredient action="cuire"> chorizo </ingredient> change de couleur ( environ 2 à 3 mn ) . <operation ingredients="pâtes"> ajouter </operation> ce <operation> mélange </operation> aux <ingredient action="ajouter" quantite="500 gramme"> pâtes </ingredient> préalablement <operation> cuites </operation> . servir . on peut <operation ingredients="vinaigre"> ajouter </operation> un peu de <ingredient action="ajouter"> vinaigre </ingredient> balsamique
+</preparation>
+</recette>

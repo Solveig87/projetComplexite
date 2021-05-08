@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228006">
+<titre>Salade style sushi</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la salade basique :</p>
+<p>2 verres de riz brun</p>
+<p>4 oignons de printemps</p>
+<p>2 avocats</p>
+<p>3 petites carottes</p>
+<p>2.5 feuilles d'algue nori (algue noire qui enveloppe les sushis)</p>
+<p>1 petit concombre</p>
+<p>2 verres d'edamame (fèves immatures de soja)</p>
+<p>5 cuillères à soupe de vinaigre de riz</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>Pour la vinaigrette:</p>
+<p>Sauce soja</p>
+<p>Wasabi</p>
+<p>Gingembre frais râpéPour agrémenter, au choix :</p>
+<p>sésame</p>
+<p>tofu</p>
+<p>brocoli</p>
+<p>coriandre</p>
+<p>saumon en dés</p>
+<p>crevettes</p>
+</ingredients>
+<preparation>
+pendant que le <ingredient action="cuire"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , dans un bol à salade : <operation ingredients="oignons;avocat"> émincez </operation> les <ingredient action="émincez" quantite="4"> oignons </ingredient> de printemps , <operation ingredients="carottes;concombre"> coupez </operation> les <ingredient action="couper" quantite="3"> carottes </ingredient> et le <ingredient action="couper" quantite="1"> concombre </ingredient> en petits bâtonnets , l' <ingredient action="émincez" quantite="2"> avocat </ingredient> en lamelles . <operation ingredients="nori"> roulez </operation> les feuilles de <ingredient action="rouler"> nori </ingredient> afin de pouvoir les <operation> couper </operation> en bandes de 3 mm et les <operation> réduire </operation> en petites lanières . <operation> ajoutez </operation> les edamames . le <ingredient action="cuire"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , <operation ingredients="vinaigre"> arrosez </operation> - le avec le <ingredient action="arroser" quantite="5 cuillère à soupe"> vinaigre </ingredient> de riz que vous aurez préalablement <operation ingredients="sucre"> mélangé </operation> avec le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sucre </ingredient> . <operation ingredients="gingembre;soja"> faites </operation> la vinaigrette selon votre goût : pour moi ça serait 5 cm de <ingredient action="faire"> gingembre </ingredient> râpé + 1 / 4 de verre de sauce <ingredient action="faire"> soja </ingredient> , 1 / 4 de verre d' eau froide et 1 cuillère à café de wasabi . <operation ingredients="salade;riz"> mélangez </operation> la <ingredient action="mélanger"> salade </ingredient> , le <ingredient action="mélanger"> riz </ingredient> et la sauce et bon appétit !
+</preparation>
+</recette>

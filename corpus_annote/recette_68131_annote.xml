@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68131">
+<titre>Croque à l'hachis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros oignons</p>
+<p>2/3 poivrons</p>
+<p>3 cuillères à soupe de crème fraiche</p>
+<p>500 g d'hachis de boeuf</p>
+<p>fromage en tranche (fromage fondu)</p>
+<p>pain de mie en grande tranche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;poivrons"> fondre </operation> <ingredient action="fondre" quantite="2"> oignons </ingredient> et les <ingredient action="fondre"> poivrons </ingredient> dans une <operation> poêle </operation> pendant une dizaine de minute . <operation ingredients="boeuf"> ajouter </operation> l' hachis de <ingredient action="ajouter"> boeuf </ingredient> , faire <operation> cuire </operation> à feu doux . <operation> ajouter </operation> 3 cuillères a <ingredient> soupe </ingredient> de crème fraiche , <operation> mélanger </operation> le tout . après la préparation bien cuite , <operation ingredients="pain"> disposer </operation> le tout sur une tranche de <ingredient action="disposer" quantite=""> pain </ingredient> de mie . <operation ingredients="fromage"> placer </operation> ensuite par dessus une tranche de <ingredient action="placer" quantite=""> fromage </ingredient> <operation> fondu </operation> . <operation> mettre </operation> la préparation au four pendant une vingtaine de minutes , attendre que le <ingredient action="fondre" quantite=""> fromage </ingredient> soit bien <operation ingredients="fromage"> fondu </operation> . bon appétit ! une recette tres facile a faire et délicieuse !
+</preparation>
+</recette>

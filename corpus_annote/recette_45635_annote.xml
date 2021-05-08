@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45635">
+<titre>Biryani de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de filet de boeuf</p>
+<p>350 g de riz</p>
+<p>3 oignons</p>
+<p>5 gousses d'ail écrasées</p>
+<p>3 piments</p>
+<p>2 cuillères à soupe de gingembre râpé</p>
+<p>1 bâton de cannelle coupé en morceaux</p>
+<p>6 cuillères à café de cumin</p>
+<p>1 cuillère à soupe de curcuma</p>
+<p>2 cuillères à café de graines de cardamome</p>
+<p>5 clous de girofle</p>
+<p>1/2 bouquet de coriandre ciselée</p>
+<p>2 yaourts natures</p>
+<p>4 cuillères à soupe de vinaigre</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="350 gramme"> riz </ingredient> à l' eau froide <operation> salée </operation> . <operation ingredients="boeuf"> coupez </operation> le filet de <ingredient action="couper"> boeuf </ingredient> en morceaux . <operation ingredients="oignons"> disposez </operation> tous les ingrédients dans un grand plat creux ( sans les <ingredient action="disposer" quantite="3"> oignons </ingredient> ) , et faites - y <operation ingredients="viande"> mariner </operation> la <ingredient action="mariner"> viande </ingredient> . <operation ingredients="oignons"> faites </operation> <operation> frire </operation> les <ingredient action="faire" quantite="3"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="riz;oignons;viande"> mélangez </operation> le <ingredient action="mélanger" quantite="350 gramme"> riz </ingredient> , les <ingredient action="mélanger" quantite="3"> oignons </ingredient> <operation> frits </operation> , la <ingredient action="mélanger"> viande </ingredient> et la marinade ; et faites <operation> cuire </operation> le tout à feu doux pendant 30 min . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="5;6 cuillère à café;1 cuillère à soupe;4 cuillère à soupe;"> assaisonnement </ingredient> , et servez . <operation ingredients="riz"> rincez </operation> le <ingredient action="rincer" quantite="350 gramme"> riz </ingredient> à l' eau froide avant de le faire <operation> cuire </operation> , cela le débarassera de toutes ses impuretés . gamay
+</preparation>
+</recette>

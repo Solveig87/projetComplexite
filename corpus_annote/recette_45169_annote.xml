@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45169">
+<titre>Boeuf à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de viande de boeuf (type bourguignon...)</p>
+<p>500 g de pulpe de tomates</p>
+<p>1 gousse d'ail</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>2 cuillères à soupe de moutarde forte de Dijon</p>
+<p>sel, poivre et huile d'olive selon goût</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="800 gramme"> viande </ingredient> de boeuf en cubes et <operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> finement . dans une <operation> poêle </operation> , faire <operation ingredients="viande;ail;huile"> cuire </operation> la <ingredient action="cuire" quantite="800 gramme"> viande </ingredient> de boeuf avec l' <ingredient action="cuire"> ail </ingredient> et de l' <ingredient action="cuire"> huile </ingredient> d' olive . lorsque la <ingredient action="cuire" quantite="800 gramme"> viande </ingredient> est <operation ingredients="viande"> cuite </operation> , <operation ingredients="tomate;moutarde;crème"> ajouter </operation> dans la <operation> poêle </operation> la pulpe de <ingredient action="ajouter"> tomate </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à soupe"> moutarde </ingredient> et la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> fraîche . bien <operation> mélanger </operation> et garder sur le feu pendant environ 3 min . enfin , <operation> saler </operation> et <operation> poivrer </operation> . voilà c' est prêt ! servir ce plat avec du <ingredient> riz </ingredient> . les quantités de <ingredient quantite="4 cuillère à soupe"> crème </ingredient> fraîche et de <ingredient quantite="2 cuillère à soupe"> moutarde </ingredient> peuvent varier selon le goût du cuisinier . le plat est toujours bon !
+</preparation>
+</recette>

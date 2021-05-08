@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194701">
+<titre>Poulet aux gombos</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>2 carottes</p>
+<p>600 g de gombos</p>
+<p>1 boîte de conserve de lait de coco</p>
+<p>du gingembre frais</p>
+<p>du curry en poudre (environ 1 cuillère à soupe)</p>
+<p>de la coriandre fraîche</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+tout d' abord , <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> très finement et le faire <operation> revenir </operation> à la <operation> poêle </operation> . <operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="6"> escalopes </ingredient> en cube et les faire <operation ingredients="sel;poivre"> dorer </operation> en assaisonnant avec du <ingredient action="dorer" quantite=""> sel </ingredient> et du <ingredient action="dorer" quantite=""> poivre </ingredient> . puis , <operation ingredients="gousse;curry"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail <operation ingredients="gingembre"> écrasée </operation> , un peu de <ingredient action="écraser"> gingembre </ingredient> râpé ( quantité à votre convenance ) et le <ingredient action="ajouter" quantite=""> curry </ingredient> . <operation> mettre </operation> à feu très doux pendant 10 min . <operation ingredients="lait;carottes"> incorporer </operation> ensuite le <ingredient action="incorporer"> lait </ingredient> de coco avec les <ingredient action="incorporer" quantite="2"> carottes </ingredient> <operation> coupées </operation> en très fines lamelles et les gombos entiers ( après les avoir laissés <operation> tremper </operation> une bonne dizaine de minutes dans l' eau ) . laisser <operation> mijoter </operation> à <operation> couvert </operation> pendant 45 min . au moment de servir , <operation ingredients="coriandre"> parsemer </operation> le plat de <ingredient action="parsemer" quantite=""> coriandre </ingredient> fraîche . a <operation ingredients="riz"> accompagner </operation> d' un <ingredient action="accompagner"> riz </ingredient> blanc <operation> cuit </operation> à la vapeur .
+</preparation>
+</recette>

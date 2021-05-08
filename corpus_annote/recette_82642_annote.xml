@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82642">
+<titre>Restant de raclette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 ou 5 pommes de terres cuites </p>
+<p>2 tranches de jambon</p>
+<p>6 tranches de fromage à raclette restant</p>
+<p>40 cl de crème fraîche</p>
+<p>100 g de gruyère râpé</p>
+<p>1 peu de chapelure </p>
+<p>quelques noisettes de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+prendre un plat allant au four et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre en rondelles en couche successives . <operation ingredients="pommes;jambon"> mettre </operation> les <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre , le <ingredient action="mettre" quantite="2 tranche"> jambon </ingredient> , la raclette , <operation ingredients="crème"> saler </operation> et <operation> poivrer </operation> la <ingredient action="saler" quantite="40 cl"> crème </ingredient> fraiche et la <operation> verser </operation> par dessus . <operation ingredients="gruyère;chapelure;beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> râpé , la <ingredient action="ajouter"> chapelure </ingredient> et le <ingredient action="ajouter"> beurre </ingredient> . <operation> enfourner </operation> et déguster . servir avec une <ingredient> salade </ingredient> verte
+</preparation>
+</recette>

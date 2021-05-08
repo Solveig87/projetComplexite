@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20761">
+<titre>Salade moscovite</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pommes de terre</p>
+<p>1 carotte ou 2 pour un goût + sucré</p>
+<p>5 oeufs</p>
+<p>1 cornichon frais</p>
+<p>(1 cornichon salé) </p>
+<p>1 oignon</p>
+<p>1 talon de jambon ou 300 g de boeuf cuit</p>
+<p>mayonnaise ou crème fraîche</p>
+<p>1 brin de persil frais de préférence</p>
+<p>1 boîte de petits pois (250 g) </p>
+</ingredients>
+<preparation>
+<operation ingredients="patates;oeufs"> cuire </operation> les <ingredient action="cuire"> patates </ingredient> , les <ingredient action="cuire" quantite="5"> oeufs </ingredient> , les <ingredient quantite="1"> carottes </ingredient> et la <ingredient> viande </ingredient> si vous utilisez le <ingredient> boeuf </ingredient> . apres la cuisson laissez refroidir . <operation ingredients="carrés"> coupez </operation> le tout en tous petits <ingredient action="couper"> carrés </ingredient> . <operation ingredients="cornichon;carrés"> coupez </operation> le <ingredient action="couper"> cornichon </ingredient> en petits <ingredient action="couper"> carrés </ingredient> et <operation ingredients="oignon"> hachez </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . <operation ingredients="pois"> mélangez </operation> le tout avec les petits <ingredient action="mélanger"> pois </ingredient> . <operation ingredients="mayonnaise;crème"> ajoutez </operation> la <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> ou la <ingredient action="ajouter"> crème </ingredient> fraîche et <operation> mélangez </operation> . certains <operation> mélangent </operation> la préparation avec les 2 . <ingredient> mangez </ingredient> froid
+</preparation>
+</recette>

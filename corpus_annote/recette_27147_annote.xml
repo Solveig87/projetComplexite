@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27147">
+<titre>Epinards crémeux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1.5 kg d'épinards</p>
+<p>5 cl de crème fraîche</p>
+<p>30 g de beurre</p>
+<p>1 pincée de muscade râpée</p>
+<p>1 gousse d'ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="épinards"> laver </operation> soigneusement les <ingredient action="laver"> épinards </ingredient> et les faire <operation ingredients="beurre"> fondre </operation> dans le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="gousse"> piquer </operation> la <ingredient action="piquer" quantite="1"> gousse </ingredient> d' ail <operation> pelée </operation> sur une fourchette puis s' en servir pour <operation ingredients="épinards"> remuer </operation> les <ingredient action="remuer"> épinards </ingredient> . lorsque les <ingredient action="fondre"> épinards </ingredient> ont <operation ingredients="épinards"> fondu </operation> , les <operation ingredients="crème"> arroser </operation> de <ingredient action="arroser" quantite="5 cl"> crème </ingredient> et les parfumer de <ingredient quantite="1 pincée"> muscade </ingredient> , de <ingredient quantite=""> sel </ingredient> et de <ingredient quantite=""> poivre </ingredient> . <operation> mélanger </operation> et servir .
+</preparation>
+</recette>

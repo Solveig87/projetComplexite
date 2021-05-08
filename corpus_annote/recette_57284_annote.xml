@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57284">
+<titre>Salade de cervelas et celeri</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 cervelas</p>
+<p>3 branches de celeri</p>
+<p>mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="celeri"> eplucher </operation> le <ingredient action="eplucher"> celeri </ingredient> , le <operation> laver </operation> , le <operation> couper </operation> en morceaux fins . <operation ingredients="cervelas"> couper </operation> le <ingredient action="couper" quantite="3"> cervelas </ingredient> en fines tranches . <operation ingredients="cervelas;mayonnaise"> mélanger </operation> <ingredient action="mélanger" quantite="3"> cervelas </ingredient> et celeri avec la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et le tour est joué .
+</preparation>
+</recette>

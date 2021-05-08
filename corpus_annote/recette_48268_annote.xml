@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48268">
+<titre>Lapin au chou et aux marrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin coupé en morceaux d'1,5 kg</p>
+<p>100 g de lardons</p>
+<p>3 carottes</p>
+<p>500 g de chou blanc cuit( disponible au rayon frais, déjà cuisiné au riesling)</p>
+<p>500 g de marrons entiers (rayon épicerie)</p>
+<p>25 cl de vin blanc + 25 cl d'eau</p>
+<p>1 bouquet garni</p>
+<p>2 oignons</p>
+<p>20 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="matière;lardons"> revenir </operation> , sans <ingredient action="revenir" quantite="20 gramme"> matière </ingredient> grasse , les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> . lorsqu' ils sont bien dorés , les <operation> retirer </operation> et <operation> réserver </operation> . dans une cocotte minute , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> , <operation ingredients="lapin"> ajouter </operation> les morceaux de <ingredient action="ajouter" quantite="1"> lapin </ingredient> et les faire <operation> dorer </operation> de chaque côté . <operation ingredients="carottes;oignons;bouquet;sel"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> carottes </ingredient> <operation> coupées </operation> en rondelle , les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre . puis <operation ingredients="lardons;chou;marrons;vin"> incorporer </operation> les <ingredient action="incorporer" quantite="100 gramme"> lardons </ingredient> , le <ingredient action="incorporer" quantite="500 gramme"> chou </ingredient> , les <ingredient action="incorporer"> marrons </ingredient> , le <ingredient action="incorporer" quantite="25 cl"> vin </ingredient> blanc et l' eau . fermer la cocotte minute et <operation> compter </operation> 20 min quand ça fuse ( vitesse 1 ) . si vous n' utilisez pas la cocotte minute , procédez de la même façon mais <operation> comptez </operation> 1 h 30 de cuisson à feu doux .
+</preparation>
+</recette>

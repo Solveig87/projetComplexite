@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23490">
+<titre>Crevettes à l'ail</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de grosses crevettes (ou 12 gambas)</p>
+<p>4 gousses d'ail</p>
+<p>1 piment doux (ou piment en poudre)</p>
+<p>1 bouquet de persil</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="crevettes"> essuyez </operation> les <ingredient action="essuyer" quantite="400 gramme"> crevettes </ingredient> . faites <operation> chauffer </operation> 4 cuillères à soupe d' huile dans 1 grande <operation> poêle </operation> . <operation ingredients="crevettes"> ajoutez </operation> les <ingredient action="ajouter" quantite="400 gramme"> crevettes </ingredient> et faites les <operation> cuire </operation> 5 mn de chaque côté puis sortez les de la <operation> poêle </operation> . <operation ingredients="ail;persil"> passez </operation> l' <ingredient action="passer"> ail </ingredient> au mixeur , le <ingredient action="passer"> persil </ingredient> et le piment doux . dans la <operation> poêle </operation> , <operation ingredients="huile;persil"> versez </operation> le reste de d' <ingredient action="verser" quantite="6 cuillère à soupe"> huile </ingredient> puis <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="verser"> persil </ingredient> et le piment . <operation> remuez </operation> bien , pour que l' <ingredient action="cuire"> ail </ingredient> soit <operation ingredients="ail"> cuit </operation> mais <ingredient quantite="1"> non </ingredient> brûlé . <operation ingredients="crevettes"> remettez </operation> les <ingredient action="remettre" quantite="400 gramme"> crevettes </ingredient> à <operation> chauffer </operation> . <operation> salez </operation> , <operation> poivrez </operation> et servez chaud .
+</preparation>
+</recette>

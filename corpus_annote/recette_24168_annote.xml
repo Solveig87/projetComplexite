@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24168">
+<titre>Omelette au saucisson lyonnais</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 oeufs</p>
+<p>3 oignons</p>
+<p>30 g de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1/2 saucisson (à cuire 30 min à l'eau bouillante au préalable) ou 1 cervelas</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="10"> oeufs </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . faire <operation ingredients="oignons;beurre"> fondre </operation> les <ingredient action="fondre" quantite="3"> oignons </ingredient> <operation> pelés </operation> et <operation> émincés </operation> dans le <operation> mélange </operation> <ingredient action="fondre"> beurre </ingredient> - huile . <operation ingredients="oeufs"> verser </operation> dessus les <ingredient action="verser" quantite="10"> oeufs </ingredient> <operation> battus </operation> et laisser <operation> cuire </operation> l' omelette à feu doux . en fin de cuisson , <operation ingredients="saucisson;cervelas"> disposer </operation> les rondelles de <ingredient action="disposer"> saucisson </ingredient> ou de <ingredient action="disposer"> cervelas </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219633">
+<titre>Omelette parmesan, oignons et champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 œufs</p>
+<p>1 oignon blanc moyen</p>
+<p>40 g de parmesan râpé</p>
+<p>10 champignons de Paris</p>
+<p>10 cl de lait</p>
+<p>sel</p>
+<p>poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="oignon;champignons"> épluchez </operation> l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> et les <ingredient action="éplucher" quantite="10"> champignons </ingredient> . <operation ingredients="oignon"> découpez </operation> l' <ingredient action="découper" quantite="1"> oignon </ingredient> en petits dés . pour les <ingredient action="enlever" quantite="10"> champignons </ingredient> , <operation ingredients="champignons;pied"> enlevez </operation> leur le <ingredient action="enlever"> pied </ingredient> et <operation> découpez </operation> les en lamelles . <operation ingredients="noisette"> mettez </operation> le tout dans une <operation> poêle </operation> avec une <ingredient action="mettre"> noisette </ingredient> de beurre , <operation> salez </operation> et <operation> poivrez </operation> . pendant , que les <ingredient action="dorer" quantite="1"> oignons </ingredient> <operation ingredients="oignons"> dorent </operation> et que les <ingredient action="cuire" quantite="10"> champignons </ingredient> <operation ingredients="champignons"> cuisent </operation> , <operation ingredients="œufs"> battez </operation> les <ingredient action="battre" quantite="4"> œufs </ingredient> dans un bol , <operation ingredients="lait"> ajoutez </operation> le <ingredient action="ajouter" quantite="10 cl"> lait </ingredient> , le <ingredient action="saler" quantite="40 gramme"> parmesan </ingredient> , <operation ingredients="parmesan"> salez </operation> , <operation> poivrez </operation> et re-mélangez le tout . pour finir <operation ingredients="oignons;champignons"> versez </operation> la préparation sur les <ingredient action="verser" quantite="1"> oignons </ingredient> et les <ingredient action="verser" quantite="10"> champignons </ingredient> . pliez l' omelette au bout d' environ 5 min tant qu' elle est encore un peu baveuse . bon appétit !
+</preparation>
+</recette>

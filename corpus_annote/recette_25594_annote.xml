@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25594">
+<titre>Gâteau aux fruits confits</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 cl de lait</p>
+<p>13 g de levure de boulanger</p>
+<p>120 g de beurre</p>
+<p>350 g de farine</p>
+<p>1 pincée de sel</p>
+<p>20 g de sucre</p>
+<p>170 g de fruits confits</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="levure;lait"> diluer </operation> la <ingredient action="diluer" quantite="13 gramme"> levure </ingredient> dans le <ingredient action="diluer" quantite="6 cl"> lait </ingredient> et faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="120 gramme"> beurre </ingredient> . <operation ingredients="farine;oeufs;sel;sucre"> pétrisser </operation> la <ingredient action="pétrisser" quantite="350 gramme"> farine </ingredient> avec les <ingredient action="pétrisser" quantite="2"> oeufs </ingredient> , le <ingredient action="pétrisser" quantite="1 pincée"> sel </ingredient> et le <ingredient action="pétrisser" quantite="20 gramme"> sucre </ingredient> puis <operation ingredients="levure;beurre"> ajouter </operation> la <ingredient action="ajouter" quantite="13 gramme"> levure </ingredient> et le <ingredient action="ajouter" quantite="120 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="pâte"> travailler </operation> la <ingredient action="travailler"> pâte </ingredient> jusqu' à ce qu' elle se <operation> détache </operation> des parois du saladier puis <operation ingredients="fruits;confits"> ajouter </operation> les <ingredient action="ajouter"> fruits </ingredient> <ingredient action="ajouter" quantite="170 gramme"> confits </ingredient> . <operation ingredients="pâte"> couvrir </operation> la <ingredient action="couvrir"> pâte </ingredient> d' un linge et laisser <operation> gonfler </operation> 2 heures dans un endroit tiède . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pâte"> placer </operation> la <ingredient action="placer"> pâte </ingredient> dans un <operation> moule </operation> et <operation> enfourner </operation> pour 45 minutes de cuisson .
+</preparation>
+</recette>

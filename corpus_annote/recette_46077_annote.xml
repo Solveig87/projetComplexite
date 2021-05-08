@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46077">
+<titre>Gâteau à la banane (avec machine à pain)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g d'huile</p>
+<p>3 oeufs</p>
+<p>4 cuillères à soupe de lait</p>
+<p>250 g de farine</p>
+<p>200 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure  </p>
+<p>2 bananes</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> mettre </operation> les ingrédients dans la machine à pain dans l' ordre ( liquides , <ingredient action="mettre" quantite="250 gramme"> farine </ingredient> , sucre et levure ) . <operation ingredients="gâteau"> choisir </operation> le programme <ingredient action="choisir"> gâteau </ingredient> de la machine . <operation> eplucher </operation> les <ingredient quantite="2"> bananes </ingredient> et les <operation> couper </operation> en rondelles . <operation ingredients="bananes;pâte"> mettre </operation> les <ingredient action="mettre" quantite="2"> bananes </ingredient> au premier signal sonore , ou lorsque la <ingredient action="mettre"> pâte </ingredient> est bien homogène ( la machine doit continuer à <operation> tourner </operation> ! ) . laisser la machine faire le reste . . .
+</preparation>
+</recette>

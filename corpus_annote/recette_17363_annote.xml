@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17363">
+<titre>Lasagnes au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>300 g de chocolat</p>
+<p>150 g de sucre</p>
+<p>40 g de maïzena</p>
+<p>4 oeufs</p>
+<p>400 g de pâte à lasagnes précuites</p>
+<p>Pour la crème:</p>
+<p>1 verre de crème fraîche</p>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> . dans une terrine , <operation ingredients="sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="150 gramme+1 cuillère à soupe"> sucre </ingredient> , la <ingredient quantite="40 gramme"> maïzena </ingredient> et les <ingredient quantite="4+1"> oeufs </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="chocolat;lait"> verser </operation> le <ingredient action="verser" quantite="300 gramme"> chocolat </ingredient> en morceau dans le <ingredient action="verser" quantite="1 litre"> lait </ingredient> bouillant , <operation> remuer </operation> jusqu' à ce soit bien <operation> fondu </operation> . <operation ingredients="sucre"> verser </operation> sur le <operation> mélange </operation> <ingredient action="verser" quantite="150 gramme+1 cuillère à soupe"> sucre </ingredient> - oeuf en <operation> remuant </operation> vivement . <operation> remettre </operation> dans la casserole et <operation> cuire </operation> jusqu' à épaississement . <operation> huiler </operation> un plat à four rectangulaire . <operation> mettre </operation> une couche de lasagnes en <operation> plaque </operation> , <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir" quantite="1 verre"> crème </ingredient> au chocolat ( 1 cm ) . alterner <ingredient quantite="400 gramme"> pâte </ingredient> , crème pour terminer par une couche de <ingredient quantite="400 gramme"> pâte </ingredient> . <operation ingredients="crème"> mélanger </operation> les ingrédients de la <ingredient action="mélanger" quantite="1 verre"> crème </ingredient> : crème , sucre , oeuf et les <operation ingredients="pâte"> verser </operation> sur la dernière couche de <ingredient action="verser" quantite="400 gramme"> pâte </ingredient> . faire <operation> cuire </operation> 20 min environ à four th 6 . faire refroidir et servir frais en fines tranches , nappé de <ingredient quantite="1 verre"> crème </ingredient> anglaise . ce <ingredient quantite="300 gramme;150 gramme+1 cuillère à soupe;400 gramme;1 verre"> dessert </ingredient> se conserve 8 jours sans problème au réfrigérateur .
+</preparation>
+</recette>

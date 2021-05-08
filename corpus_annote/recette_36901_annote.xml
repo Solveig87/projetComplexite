@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36901">
+<titre>Riz espagnol</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chorizo</p>
+<p>300 g porc coupé en petits dés</p>
+<p>2 poivrons</p>
+<p>sel, poivre</p>
+<p>1 oignon</p>
+<p>3 verres de riz</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;riz;porc;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , le <ingredient action="revenir" quantite="3 verre"> riz </ingredient> et le <ingredient action="revenir"> porc </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation> ajouter </operation> de l' eau ( 6 verres ) , les <ingredient action="couper" quantite="2"> poivrons </ingredient> <operation> coupés </operation> en dés , le <ingredient action="couper" quantite="1"> chorizo </ingredient> <operation ingredients="poivrons;chorizo"> coupé </operation> en rondelle . <operation> salez </operation> , <operation> poivrez </operation> . faire <operation> cuire </operation> 20 mn ( il faut que l' eau se soit toute évaporée et que le <ingredient action="cuire" quantite="3 verre"> riz </ingredient> soit <operation ingredients="riz"> cuit </operation> , donc au cours de la cuisson on peut <operation> rajouter </operation> de l' eau )
+</preparation>
+</recette>

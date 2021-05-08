@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39632">
+<titre>Tomate surprise et jambon blanc farci</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tomates</p>
+<p>2 tranches de jambon blanc</p>
+<p>4 cuillères à café de mais en grains</p>
+<p>pain de la veille</p>
+<p>100 g de thon (1 petite boîte)</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 cuillère à café de moutarde</p>
+<p>huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre (balsamique de préférence)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> prélever </operation> la mie de <ingredient action="prélever" quantite=""> pain </ingredient> et la <operation> passer </operation> au <operation> mixer </operation> . <operation ingredients="moutarde;huile;sel;poivre;vinaigre"> préparer </operation> la sauce avec la <ingredient action="préparer" quantite="1 cuillère à café"> moutarde </ingredient> , l' <ingredient action="préparer" quantite=""> huile </ingredient> , le <ingredient action="préparer" quantite=""> sel </ingredient> , le <ingredient action="préparer" quantite=""> poivre </ingredient> et le <ingredient action="préparer" quantite="2 cuillère à soupe"> vinaigre </ingredient> balsamique . <operation ingredients="pain;thon"> préparer </operation> la farce avec la sauce , le <ingredient action="préparer" quantite=""> pain </ingredient> broyé et la boîte de <ingredient action="préparer" quantite="100 gramme"> thon </ingredient> <operation> émiettée </operation> . <operation> découper </operation> et <operation ingredients="tomates"> évider </operation> les <ingredient action="évider" quantite="2"> tomates </ingredient> . broyer le contenu des <ingredient quantite="2"> tomates </ingredient> et l' <operation> ajouter </operation> à la farce . <operation> mélanger </operation> et <operation> mettre </operation> au frais . <operation ingredients="tomates;maïs"> remplir </operation> les <ingredient action="remplir" quantite="2"> tomates </ingredient> avec du <ingredient action="remplir"> maïs </ingredient> et <operation ingredients="vinaigre"> arroser </operation> de quelques gouttes de <ingredient action="arroser" quantite="2 cuillère à soupe"> vinaigre </ingredient> . <operation ingredients="jambon"> poser </operation> les tranches de <ingredient action="poser" quantite="2 tranche"> jambon </ingredient> à plat sur une assiette et <operation> mettre </operation> la farce sur celles-ci . <operation ingredients="jambon"> rouler </operation> la tranche de <ingredient action="rouler" quantite="2 tranche"> jambon </ingredient> . <operation ingredients="tomate"> poser </operation> la <ingredient action="poser" quantite="2"> tomate </ingredient> sur l' assiette . servir frais . petite entrée rapide pour utiliser quelques restes .
+</preparation>
+</recette>

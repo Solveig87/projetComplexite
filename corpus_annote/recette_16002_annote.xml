@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16002">
+<titre>Pancake de pain perdu</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches fines de pain rassis</p>
+<p>1 oeuf</p>
+<p>4 cuillères à soupe de lait</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>1 cuillère à café de beurre</p>
+<p>sirop d'érable ou confiture</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="1"> oeufs </ingredient> et <operation ingredients="lait;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="4 cuillère à soupe"> lait </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> sucre </ingredient> . bien faire <operation ingredients="pain"> imbiber </operation> les tranches de <ingredient action="imbiber"> pain </ingredient> de cette préparation . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="1 cuillère à café"> beurre </ingredient> dans une <operation> poêle </operation> et y faire <operation> cuire </operation> les tranches des deux côtés jusqu' à ce qu' elles soient bien dorées . servir comme des pancakes , <operation ingredients="sirop;confiture"> recouverts </operation> de <ingredient action="recouvrir" quantite=""> sirop </ingredient> ou de <ingredient action="recouvrir"> confiture </ingredient> . pour le petit déjeuner c' est très rapide à <operation ingredients="pain"> faire </operation> et meilleur que du <ingredient action="faire"> pain </ingredient> rassis ! <ingredient> thé </ingredient> ou café
+</preparation>
+</recette>

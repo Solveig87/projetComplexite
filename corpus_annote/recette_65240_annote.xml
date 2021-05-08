@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65240">
+<titre>Gratin de pommes de terre, poivrons et tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses pommes de terre</p>
+<p>2 poivrons</p>
+<p>3 tomates</p>
+<p>150 g de lardons</p>
+<p>1 sachet de fromage rapé</p>
+<p>2 échalotes</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre au préalable à la vapeur ou à l' eau . faites <operation ingredients="huile;poivrons;échalote;tomates;lardons"> revenir </operation> 20 min dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive et un demi verre d' eau les 2 <ingredient action="revenir" quantite="2"> poivrons </ingredient> <operation> coupés </operation> en lanières , l' <ingredient action="revenir" quantite="2"> échalote </ingredient> , les <ingredient action="revenir" quantite="3"> tomates </ingredient> en morceaux et les <ingredient action="revenir" quantite="150 gramme"> lardons </ingredient> . <operation ingredients="pommes"> coupez </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terres en lamelles . <operation ingredients="pommes;pommes"> mettez </operation> au fond du plat une couche de lamelles de <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre puis une couche de garniture puis une autre couche de <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre . <operation ingredients="fromage"> parsemez </operation> le dessus du gratin avec du <ingredient action="parsemez"> fromage </ingredient> rapé . <operation> mettez </operation> au four pendant 10 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29330">
+<titre>Salade fraîcheur feta jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de jambon en dés</p>
+<p>200 g de feta</p>
+<p>4 tomates en grappe</p>
+<p>1 salade verte</p>
+<p>1 échalote hachée</p>
+<p>persil ciselé</p>
+<p>jus de citron</p>
+<p>huile d'olive</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en quartiers , <operation ingredients="échalote;jambon;feta"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> , les dés de <ingredient action="ajouter" quantite="150 gramme"> jambon </ingredient> , et la <ingredient action="ajouter" quantite="200 gramme"> feta </ingredient> en petits cubes . <operation> poivrez </operation> , <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter"> persil </ingredient> et <operation> mélangez </operation> . <operation ingredients="salade;huile;jus"> ajoutez </operation> les feuilles de <ingredient action="ajouter" quantite="1"> salade </ingredient> , un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et de <ingredient action="ajouter" quantite=""> jus </ingredient> de citron , et <operation> mélangez </operation> à nouveau . très facile et très rapide . . .
+</preparation>
+</recette>

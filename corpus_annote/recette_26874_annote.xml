@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26874">
+<titre>Poulet au curry et petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 cuiller à soupe d'huile d'olive</p>
+<p>1 oignon</p>
+<p>1 poivron (n'importe quelle couleur ; pour ma part, je préfère le jaune) </p>
+<p>2 gros champignons de Paris</p>
+<p>4 petites tomates</p>
+<p>1 courgette</p>
+<p>6 aiguillettes de poulet</p>
+<p>1 cuiller à soupe de crème fraîche</p>
+<p>25 cl de lait</p>
+<p>curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faites <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="légumes"> emincez </operation> le reste des <ingredient action="emincez" quantite="1;1;2;4"> légumes </ingredient> . dans la sauteuse , <operation ingredients="poivron;champignon;tomates"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> poivron </ingredient> , puis le <ingredient action="ajouter" quantite="2"> champignon </ingredient> , puis les <ingredient action="ajouter" quantite="4"> tomates </ingredient> , et enfin la courgette . pendant que les <ingredient action="cuire" quantite="1;1;2;4"> légumes </ingredient> <operation ingredients="légumes"> cuisent </operation> à <operation> couvert </operation> , <operation ingredients="lait;crème"> mélangez </operation> dans un bol le <ingredient action="mélanger" quantite="25 cl"> lait </ingredient> avec la <ingredient action="mélanger"> crème </ingredient> fraîche , <operation> salez </operation> , <operation> poivrez </operation> , puis <operation ingredients="curry"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> curry </ingredient> ( selon votre goût ; mais environ 2 cuillères à soupe , de manière à ce que le <operation> mélange </operation> jaunisse suffisamment ) . <operation ingredients="aiguillettes"> coupez </operation> les <ingredient action="couper" quantite="6"> aiguillettes </ingredient> en dés , et <operation ingredients="légumes"> ajoutez </operation> - les aux <ingredient action="ajouter" quantite="1;1;2;4"> légumes </ingredient> . <operation ingredients="curry;légumes;poulet"> versez </operation> le <operation> mélange </operation> au <ingredient action="verser" quantite=""> curry </ingredient> par - dessus les <ingredient action="verser" quantite="1;1;2;4"> légumes </ingredient> et le <ingredient action="verser"> poulet </ingredient> . <operation> mélangez </operation> bien le tout , et laissez <operation> cuire </operation> à feu doux pendant une quinzaine de minutes . le plat est léger et savoureux . selon votre goût , vous pouvez varier les proportions de <ingredient quantite="1;1;2;4"> légumes </ingredient> , <operation ingredients="légumes"> changer </operation> les <ingredient action="changer" quantite="1;1;2;4"> légumes </ingredient> selon la saison , <operation ingredients="fruits;pomme;banane"> ajouter </operation> des <ingredient action="ajouter"> fruits </ingredient> ( la <ingredient action="ajouter"> pomme </ingredient> ou la <ingredient action="ajouter"> banane </ingredient> se marient bien avec le <ingredient quantite=""> curry </ingredient> ) , etc.
+</preparation>
+</recette>

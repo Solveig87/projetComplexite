@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60657">
+<titre>Poulet Mangue Citron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet d'1,2 kg ou 4 cuisses de poulet</p>
+<p>2 oignons</p>
+<p>1 mangue</p>
+<p>3 carottes</p>
+<p>1 tomate</p>
+<p>2 gousses d’ail</p>
+<p>1 citron</p>
+<p>1/2 cuillère à café de gingembre</p>
+<p>1/2 cuillère à café de cannelle</p>
+<p>1 cuillère à soupe d'herbes de Provence</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;mangue"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et la <ingredient action="revenir" quantite="1"> mangue </ingredient> <operation ingredients="huile"> coupés </operation> en dés dans une <operation> poêle </operation> avec un peu d' <ingredient action="couper" quantite=""> huile </ingredient> . <operation> disperser </operation> dans le fond d' un plat adapté au four ( qui peut se <operation> couvrir </operation> ) , les <ingredient action="piler" quantite="1"> tomates </ingredient> <operation> coupées </operation> en petits morceaux , les <ingredient action="piler" quantite="3"> carottes </ingredient> en rondelles , le <ingredient action="piler" quantite="1"> citron </ingredient> en petits morceaux et l’ <ingredient action="piler"> ail </ingredient> <operation ingredients="tomates;carottes;citron;ail"> pilé </operation> . <operation ingredients="mangue"> rajouter </operation> par - dessus la préparation <ingredient action="rajouter" quantite="1"> mangue </ingredient> - oignons . <operation ingredients="cannelle;gingembre"> epicer </operation> le tout avec les herbes de provence , la <ingredient action="epicer"> cannelle </ingredient> , le <ingredient action="epicer"> gingembre </ingredient> . <operation> mélanger </operation> le tout . <operation ingredients="poulet"> disposer </operation> le <ingredient action="disposer" quantite="1"> poulet </ingredient> au dessus de toute la préparation . ne pas <operation> mélanger </operation> si vous souhaitez que le <ingredient action="griller" quantite="1"> poulet </ingredient> soit <operation ingredients="poulet"> grillé </operation> . faire <operation> cuire </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) dans un four à chaleur tournante pendant 1 h 10 . vous pouvez le <operation> préparer </operation> en avance et <operation> réchauffer </operation> au four à 160 <operation> ° </operation> c ( thermostat . 6 ) .
+</preparation>
+</recette>

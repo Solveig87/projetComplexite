@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211892">
+<titre>Préparation au poulet mariné à l'ail pour bouchée à la reine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de blanc de poulet</p>
+<p>250 g de champignons de Paris</p>
+<p>4 gousses d'ail</p>
+<p>quelques brins de thym citronné</p>
+<p>1 cuillère à soupe de persil</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>65 g de farine</p>
+<p>65 g de beurre</p>
+<p>2 échalote</p>
+<p>50 cl de bouillon de poule + légumes</p>
+<p>4 bouchées à la reine</p>
+</ingredients>
+<preparation>
+préparation de la marinade : <operation ingredients="persil;ail"> émincer </operation> le <ingredient action="émincer" quantite="1 cuillère à soupe"> persil </ingredient> et l' <ingredient action="émincer"> ail </ingredient> . <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> d' olives dans un plat . y <operation ingredients="persil;ail"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> persil </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> . préparation du <ingredient> poulet </ingredient> : <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en dés . l' <operation> incorporer </operation> à la marinade . bien <operation> mélanger </operation> . laisser <operation> mariner </operation> environ 2 h. préparation des <ingredient quantite="250 gramme"> champignons </ingredient> : <operation ingredients="champignons"> détailler </operation> les <ingredient action="détailler" quantite="250 gramme"> champignons </ingredient> en rondelles . <operation ingredients="échalotes"> émincer </operation> les <ingredient action="émincer" quantite="2"> échalotes </ingredient> . faire <operation ingredients="échalotes"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> . quand les <ingredient quantite="2"> échalotes </ingredient> sont dorés <operation ingredients="champignons;thym"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> et le <ingredient action="ajouter"> thym </ingredient> . <operation ingredients="poulet"> couvrir </operation> cuisson du <ingredient action="couvrir"> poulet </ingredient> : faire <operation ingredients="poulets"> dorer </operation> les morceaux de <ingredient action="dorer"> poulets </ingredient> . <operation> réserver </operation> . préparation de la sauce : <operation ingredients="beurre;farine"> préparer </operation> un roux blanc avec le <ingredient action="préparer" quantite="65 gramme"> beurre </ingredient> et la <ingredient action="préparer" quantite="65 gramme"> farine </ingredient> . quand les <ingredient action="cuire" quantite="250 gramme"> champignons </ingredient> sont <operation ingredients="champignons"> cuit </operation> , <operation ingredients="jus;bouillon"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> de cuisson du <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> . <operation ingredients="béchamel;bouillon"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> avec le roux et le <ingredient action="faire" quantite="50 cl"> bouillon </ingredient> . fin de la préparation : <operation ingredients="champignons;poulet;béchamel"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> et les morceaux de <ingredient action="ajouter"> poulet </ingredient> à la <ingredient action="ajouter"> béchamel </ingredient> . <operation> assaisonner </operation> à votre convenance . servir chaud avec les bouchées à la reine , avec du <ingredient> riz </ingredient> ou un passementier de <ingredient> pommes </ingredient> de terres . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

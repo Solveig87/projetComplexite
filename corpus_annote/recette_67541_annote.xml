@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67541">
+<titre>Gâteau simplamandes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120 g de farine</p>
+<p>200 g de sucre</p>
+<p>3 oeuf</p>
+<p>1 pot de crème fraîche liquide (20 cl)</p>
+<p>65 g de poudre d'amandes</p>
+<p>arôme de fleur d'oranger</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="farine;sucre;levure"> mélanger </operation> la <ingredient action="mélanger" quantite="120 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> et la <ingredient action="mélanger"> levure </ingredient> . puis <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> et <operation> mélanger </operation> . <operation ingredients="amandes"> verser </operation> une demi cuillère à café d' arôme de fleur d' oranger et le demi sachet de <operation> poudre </operation> d' <ingredient action="verser"> amandes </ingredient> . <operation> mélanger </operation> . <operation> beurrer </operation> et <operation> fariner </operation> un <operation> moule </operation> et y <operation> verser </operation> la préparation . <operation> enfourner </operation> pour environ 30 min de cuisson à 200 <operation> ° </operation> c ( thermostat . 7 ) . bon appétit ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

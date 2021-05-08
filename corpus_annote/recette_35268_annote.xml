@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35268">
+<titre>Soupe au cidre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 carottes en dés </p>
+<p>2 pommes de terre en dés</p>
+<p>un blanc de poireau en rondelles</p>
+<p>2 échalotes ciselées</p>
+<p>2 gousse d'ail écrasées</p>
+<p>quelques bouquets de brocoli</p>
+<p>une boîte de tomates concassées</p>
+<p>3 branches de basilic haché</p>
+<p>une poignée de persil haché</p>
+<p>6 feuilles de salade frisée hachées</p>
+<p>2 feuilles de laurier</p>
+<p>sel, poivre</p>
+<p>thym</p>
+<p>1/2 de litre de cidre de ferme brut</p>
+<p>3/4 de litre d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="légumes;huile"> revenir </operation> tous les <ingredient action="revenir" quantite="2;2;2;6 feuille"> légumes </ingredient> à l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="cidre;épices"> ajouter </operation> le <ingredient action="ajouter"> cidre </ingredient> , l' eau et les <ingredient action="ajouter" quantite="2;2 feuille;;;"> épices </ingredient> . laisser <operation> mijoter </operation> 1 h , de façon à garder les <ingredient quantite="2;2;2;6 feuille"> légumes </ingredient> <ingredient> croquants </ingredient> . cette <ingredient> soupe </ingredient> complète est délicieuse , j' ajoute une pincée de <ingredient> parmesan </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

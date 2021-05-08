@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27381">
+<titre>Carry de poulet facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 cuisses (hauts de cuisse) de poulet</p>
+<p>1 boîte de tomates pelées</p>
+<p>2 oignons</p>
+<p>50 cl de lait de coco (non sucré) </p>
+<p>1 cuillère à soupe de curry en poudre</p>
+<p>1 fleur d'anis étoilé (ou une cuillère à café de pastis) </p>
+<p>persil</p>
+<p>sel, poivre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans une cocotte puis faire <operation ingredients="poulet"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> . <operation ingredients="lait"> ajouter </operation> tous les autres ingrédients pour la sauce ( <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> de coco , tomates , épices , sel , poivre ) . <operation> mélanger </operation> puis <operation> couvrir </operation> et laisser <operation> mijoter </operation> en <operation ingredients="poulet"> remuant </operation> de temps en temps jusqu' à ce que le <ingredient action="remuer"> poulet </ingredient> soit bien cuit . servir avec du <ingredient> riz </ingredient> blanc . peut être <operation ingredients="bananes;orange;pomme;avocat"> accompagné </operation> de petites coupelles contenant par exemple : rondelles de <ingredient action="accompagner"> bananes </ingredient> , quartiers d' <ingredient action="accompagner"> orange </ingredient> ou de <ingredient action="accompagner"> pomme </ingredient> , morceaux d' <ingredient action="accompagner"> avocat </ingredient> , cacahuètes <operation> pilées </operation> . . . la même recette peut être utilisée avec du <ingredient> poisson </ingredient> ou n' importe quels autres morceaux de <ingredient> poulet </ingredient> .
+</preparation>
+</recette>

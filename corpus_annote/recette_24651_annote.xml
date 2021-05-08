@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24651">
+<titre>Velouté d'oseille</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g d'oseille</p>
+<p>500 g de pommes de terre</p>
+<p>125 g de crème fraîche</p>
+<p>1 oeuf</p>
+<p>30 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oseille"> nettoyez </operation> l' <ingredient action="nettoyez" quantite="250 gramme"> oseille </ingredient> et <operation> retirez </operation> les tiges , <operation> hachez </operation> - la finement . faites <operation ingredients="oseille;beurre"> fondre </operation> l' <ingredient action="fondre" quantite="250 gramme"> oseille </ingredient> <operation> hachée </operation> dans un peu de <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> à la cocotte . <operation ingredients="pommes"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> pommes </ingredient> de terre <operation> pelées </operation> et <operation> coupées </operation> en morceaux . <operation> couvrez </operation> avec 2 litres d' eau , <operation> salez </operation> et <operation> poivrez </operation> . laissez <operation> cuire </operation> à feu doux une heure et demie . <operation> filtrez </operation> et <operation> versez </operation> le velouté dans un plat de service . <operation ingredients="crème;oeuf"> ajoutez </operation> la <ingredient action="ajouter" quantite="125 gramme"> crème </ingredient> fraîche et un <ingredient action="ajouter" quantite="1"> oeuf </ingredient> en <operation> fouettant </operation> et servez .
+</preparation>
+</recette>

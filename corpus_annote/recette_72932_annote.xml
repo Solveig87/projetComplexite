@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72932">
+<titre>Verrines de thon à l'avocat</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 avocat bien mûr (mais non noirci)</p>
+<p>1 boite de thon (190 g)</p>
+<p>3 cuillères à soupe de crème fraîche (ou de petits suisses)</p>
+<p>1 échalote hâchée</p>
+<p>ail en poudre</p>
+<p>vinaigre balsamique</p>
+<p>ciboulette</p>
+<p>sel,poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat;vinaigre"> vider </operation> l' <ingredient action="vider" quantite="1"> avocat </ingredient> et le <operation> mixer </operation> avec un filet de <ingredient action="vider" quantite=""> vinaigre </ingredient> balsamique ; <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="thon;crème"> mixer </operation> le <ingredient action="mixer"> thon </ingredient> avec la <ingredient action="mixer" quantite="3 cuillère à soupe"> crème </ingredient> ( ou les petits suisses ) . y <operation ingredients="échalote;ail;ciboulette"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> , l' <ingredient action="ajouter" quantite=""> ail </ingredient> et la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . dans de jolis verres , <operation ingredients="thon;avocat;thon"> disposer </operation> une couche de <ingredient action="disposer"> thon </ingredient> , une couche d' <ingredient action="disposer" quantite="1"> avocat </ingredient> puis à nouveau une couche de <ingredient action="disposer"> thon </ingredient> . <operation ingredients="ciboulette"> décorer </operation> avec de la <ingredient action="décorer" quantite=""> ciboulette </ingredient> <operation> hâchée </operation> .
+</preparation>
+</recette>

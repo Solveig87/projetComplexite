@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50331">
+<titre>Gaspacho ultralight</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>2 poivrons rouges</p>
+<p>1 grande boîte de tomates pelées</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> pelez </operation> et <operation> égrainez </operation> les <ingredient action="peler" quantite="2"> concombres </ingredient> et poivrons . <operation ingredients="ail;oignon"> emincez </operation> l' <ingredient action="emincez"> ail </ingredient> et l' <ingredient action="emincez" quantite="1"> oignon </ingredient> . <operation ingredients="légumes"> placez </operation> les <ingredient action="placer" quantite="2;1"> légumes </ingredient> dans le bol du mixeur et <operation> mettre </operation> en marche . <operation ingredients="huile;sel;poivre"> ajoutez </operation> l' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> rajoutez </operation> éventuellement un peu d' eau la préparation est trop épaisse . terminez en <operation ingredients="tomates"> incorporant </operation> les <ingredient action="incorporer"> tomates </ingredient> <operation> pelées </operation> , <operation> mixez </operation> à nouveau . laisser refroidir 2 heures au réfrigérateur . bon appétit . . . en gardant la ligne ! vous pouvez <operation> ajouter </operation> , à votre convenance , les herbes de votre choix : <ingredient> ciboulette </ingredient> , persil , basilic . . .
+</preparation>
+</recette>

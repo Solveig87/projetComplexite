@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174387">
+<titre>Encornets farcis au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 encornets frais</p>
+<p>3 chorizos à cuire</p>
+<p>2 tranches de pain de mie</p>
+<p>10 cl de lait</p>
+<p>1 œuf</p>
+<p>2 gousses d’ail</p>
+<p>1/3 de botte de persil</p>
+<p>1 bouillon de légume</p>
+<p>2 cuillères à soupe d’huile d’olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="encornets"> nettoyer </operation> les <ingredient action="nettoyer" quantite="4"> encornets </ingredient> , en conservant les tentacules , les ailettes et les <operation> poches </operation> d’ encre pour un usage ultérieur ( pour un risotto à l’ encre et aux <ingredient> champignons </ingredient> par exemple ) . <operation ingredients="persil;ail"> mixer </operation> les tentacules et les ailettes avec le <ingredient action="mixer"> persil </ingredient> et l’ <ingredient action="mixer"> ail </ingredient> , <operation ingredients="chair;pain;œuf"> ajouter </operation> la <ingredient action="ajouter"> chair </ingredient> des chorizos , le <ingredient action="ajouter" quantite="2 tranche"> pain </ingredient> de mie ( préalablement <operation ingredients="lait"> trempé </operation> dans le <ingredient action="tremper" quantite="10 cl"> lait </ingredient> ) et l’ <ingredient action="ajouter" quantite="1"> œuf </ingredient> puis <operation> mixer </operation> de nouveau pour tout <operation> mélanger </operation> . <operation ingredients="encornets;chorizo"> farcir </operation> les <ingredient action="farcir" quantite="4"> encornets </ingredient> avec la farce au <ingredient action="farcir" quantite="3"> chorizo </ingredient> puis les <operation> refermer </operation> à l’ aide de cure dents . <operation ingredients="encornets;bouillon"> pocher </operation> les <ingredient action="pocher" quantite="4"> encornets </ingredient> 20 min dans le <ingredient action="pocher" quantite="1"> bouillon </ingredient> puis les <operation> essuyer </operation> avec du papier absorbant . enfin , les <operation ingredients="huile"> poêler </operation> 10 min dans l’ <ingredient action="poêler"> huile </ingredient> d’ olive pour les <operation> dorer </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84699">
+<titre>Soupe au maroilles</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g d'oignons</p>
+<p>500 g de pommes de terre </p>
+<p>1/2 Maroilles</p>
+<p>20 cl de crème fraîche </p>
+<p>30 g de beurre </p>
+<p>1 cuillère à soupe de farine</p>
+<p>1,5 l d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> oignons </ingredient> et les faire <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> et laisser <operation> dorer </operation> . <operation ingredients="pommes"> ajouter </operation> l' eau et les <ingredient action="ajouter" quantite="500 gramme"> pommes </ingredient> de terre <operation> coupées </operation> en dés . <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> cuire </operation> 30 min . <operation> mixer </operation> . <operation ingredients="crème;maroilles"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraiche et le <ingredient action="ajouter"> maroilles </ingredient> <operation> coupé </operation> en morceaux . laisser sur le feu et <operation> remuer </operation> jusqu' a ce que le <ingredient action="fondre"> fromage </ingredient> soit complètement <operation ingredients="fromage"> fondu </operation> . servir avec une <ingredient> baguette </ingredient> ou des morceaux de <ingredient> baguette </ingredient> légèrement <operation> rissolés </operation> à la <operation> poêle </operation> .
+</preparation>
+</recette>

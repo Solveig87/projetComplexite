@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26863">
+<titre>PALACSINTA (crêpe hongroise)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs  </p>
+<p>250 g farine </p>
+<p>30 cl eau (à ajuster)</p>
+<p>30 cl lait (à ajuster)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> de la même manière que de la <ingredient action="préparer"> pâte </ingredient> pour crêpes en <operation ingredients="lait"> mettant </operation> moitié eau moitié <ingredient action="mettre" quantite="30 cl"> lait </ingredient> au lieu du lait . <operation ingredients="lait;pâte"> ajuster </operation> les quantités <ingredient action="ajuster" quantite="30 cl"> lait </ingredient> / eau jusqu' à l' obtention d' une <ingredient action="ajuster"> pâte </ingredient> un peu liquide . faire <operation ingredients="crêpes"> cuire </operation> comme des <ingredient action="cuire"> crêpes </ingredient> en <operation> huilant </operation> la <operation> poêle </operation> . en réponse à un ' appel aux gourmands ' " palacsinta " est tout simplement le nom pour <ingredient> crêpes </ingredient> en hongrois .
+</preparation>
+</recette>

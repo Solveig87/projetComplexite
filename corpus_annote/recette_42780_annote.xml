@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42780">
+<titre>Tourte aux artichauts</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes brisées déjà prêtes</p>
+<p>8 petits coeurs d'artichauts violets (cuits au préalable)</p>
+<p>2 belles tomates </p>
+<p>1 cuillère d'huile d'olive</p>
+<p>basilic ciselé</p>
+<p>1 gousse d'ail hachée</p>
+<p>environ 3 tranches de jambon cru coupées en petits morceaux</p>
+<p>50 g de roquefort émietté</p>
+<p>1 jaune d'oeuf pour la dorure</p>
+<p>poivre (pas de sel, car le jambon et le rocquefort salent déjà la préparation!)</p>
+</ingredients>
+<preparation>
+foncer un <operation> moule </operation> à tarte avec une <ingredient quantite="2"> pâte </ingredient> . <operation ingredients="tomates"> disposer </operation> les <ingredient action="disposer" quantite="2"> tomates </ingredient> <operation ingredients="pâte"> coupées </operation> en rondelles sur la <ingredient action="couper" quantite="2"> pâte </ingredient> . . . pour ma part , j' <operation ingredients="tomate"> enlève </operation> la peau de la <ingredient action="enlever" quantite="2"> tomate </ingredient> . faire <operation ingredients="coeurs;ail;huile"> poêler </operation> les <ingredient action="poêler" quantite="8"> coeurs </ingredient> d' artichauts , avec l' <ingredient action="poêler"> ail </ingredient> , dans l' <ingredient action="poêler" quantite="1 cuillère"> huile </ingredient> d' olive . <operation ingredients="tomates;jambon;roquefort;basilic"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> , le <ingredient action="ajouter"> jambon </ingredient> , le <ingredient action="ajouter" quantite="50 gramme"> roquefort </ingredient> , et le <ingredient action="ajouter" quantite=""> basilic </ingredient> . <operation> poivrer </operation> . <operation ingredients="pâte"> refermer </operation> la tourte avec la deuxième <ingredient action="refermer" quantite="2"> pâte </ingredient> . <operation ingredients="oeuf"> dorer </operation> avec un jaune d' <ingredient action="dorer"> oeuf </ingredient> , et faire une cheminée avec un papier d' aluminium . <operation> enfourner </operation> 35 min . servir avec une <ingredient> salade </ingredient> . bon appétit .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55138">
+<titre>Salade de magret de canard</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de salade mélangée</p>
+<p>100 g de parmesan</p>
+<p>200 g de magret fumé</p>
+<p>100 g de champignon de Paris</p>
+<p>100 g d'écheleurs (haricots plats)</p>
+<p>tomates cerises</p>
+<p>poivrons rouges grillés pour la déco</p>
+<p>vinaigrette : huile olive, vinaigre balsamique</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> les écheleurs 3 minutes dans de l' eau bouillante <operation> salée </operation> . <operation ingredients="salade;champignons"> disposer </operation> dans les assiettes : un peu de <ingredient action="disposer"> salade </ingredient> <operation> mélangée </operation> , une couche d' écheleurs <operation> coupés </operation> et une couche de <ingredient action="disposer" quantite="100 gramme"> champignons </ingredient> de paris en lamelles . <operation ingredients="parmesan;magret"> déposer </operation> par dessus des copeaux de <ingredient action="déposer" quantite="100 gramme"> parmesan </ingredient> puis des lamelles de <ingredient action="déposer" quantite="200 gramme"> magret </ingredient> . <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> rouges en lanières et les <operation> disposer </operation> en étoile autour du <operation> mélange </operation> . <operation ingredients="tomates;cerises"> mettre </operation> autour des <ingredient action="mettre" quantite=""> tomates </ingredient> <ingredient action="mettre"> cerises </ingredient> . <operation> préparer </operation> la vinaigrette dans un ramequin que vous <operation> poserez </operation> sur la table et chacun se servira soi - même la sauce .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48629">
+<titre>Sandwich British</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grandes tranches de pain de mie anglais (complet de préférence)</p>
+<p>1 ou 2 belles tomates</p>
+<p>2 feuilles de salade bien craquantes</p>
+<p>2 belles tranches de bacon</p>
+<p>2 cuillères à café de mayonnaise ou moutarde, selon les goûts</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bacon;matière"> cuire </operation> le <ingredient action="cuire"> bacon </ingredient> dans une <operation> poêle </operation> ou au grill sans <ingredient action="cuire"> matière </ingredient> grasse jusqu' à ce qu' il soit bien craquant . pendant ce temps , <operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="1"> tomates </ingredient> en tranches fines . <operation ingredients="mayonnaise;moutarde;pain"> répartir </operation> la <ingredient action="répartir" quantite="2 cuillère à café"> mayonnaise </ingredient> ou la <ingredient action="répartir"> moutarde </ingredient> sur les deux tranches de <ingredient action="répartir"> pain </ingredient> de mie et y <operation ingredients="salade;bacon;tomate"> disposer </operation> la <ingredient action="disposer" quantite="2 feuille"> salade </ingredient> , le <ingredient action="disposer"> bacon </ingredient> et les tranches de <ingredient action="disposer" quantite="1"> tomate </ingredient> . <operation ingredients="pain"> placer </operation> la deuxième tranche de <ingredient action="placer"> pain </ingredient> de mie et <operation> presser </operation> légèrement pour éviter que les ingrédients ne glissent . ce <ingredient> sandwich </ingredient> peut être dégusté immédiatement ou une fois le <ingredient> bacon </ingredient> refroidi . il est important que le <ingredient> bacon </ingredient> ne soit pas trop chaud quand il est <operation ingredients="sandwich"> placé </operation> dans le <ingredient action="placer"> sandwich </ingredient> pour éviter de <operation ingredients="salade"> cuire </operation> la <ingredient action="cuire" quantite="2 feuille"> salade </ingredient> .
+</preparation>
+</recette>

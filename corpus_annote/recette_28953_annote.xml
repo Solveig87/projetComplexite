@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28953">
+<titre>Sauté de lapin aux légumes du soleil</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin en morceaux</p>
+<p>3 courgettes</p>
+<p>1 aubergine</p>
+<p>2 oignons</p>
+<p>2 poivrons</p>
+<p>1 branche de romarin</p>
+<p>1 branche de thym</p>
+<p>20 cl de vin blanc</p>
+<p>5 cl d'armagnac</p>
+<p>120 g d'olives noires</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="lapin"> faire </operation> <operation> rissoler </operation> le <ingredient action="faire" quantite="1"> lapin </ingredient> dans une cocotte et <operation> assaisonner </operation> . <operation ingredients="armagnac"> mouiller </operation> d’ <ingredient action="mouiller" quantite="5 cl"> armagnac </ingredient> , faire <operation> flamber </operation> et <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="20 cl"> vin </ingredient> blanc . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans une <operation> poêle </operation> pendant 15 minutes puis <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="1;2;2"> légumes </ingredient> <operation> émincés </operation> et <operation> assaisonner </operation> . laisser <operation> mijoter </operation> 15 minutes puis <operation ingredients="thym"> ajouter </operation> le romarin et le <ingredient action="ajouter"> thym </ingredient> . <operation ingredients="lapin"> verser </operation> le tout sur le <ingredient action="verser" quantite="1"> lapin </ingredient> et faire <operation> cuire </operation> pendant 25 minutes . <operation ingredients="olives"> ajouter </operation> les <ingredient action="ajouter" quantite="120 gramme"> olives </ingredient> en fin de cuisson .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72400">
+<titre>Tarte provencale</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>300 g de fromage blanc</p>
+<p>4 oeufs</p>
+<p>100 g de farine</p>
+<p>20 g d'ail</p>
+<p>5 cl d'huile</p>
+<p>500 g de tomates</p>
+<p>1 sachet de levure</p>
+<p>10 cl de creme fraîche</p>
+<p>1/2 botte de basilic</p>
+<p>thym, sel, poivre</p>
+</ingredients>
+<preparation>
+* <operation ingredients="oeufs"> mélangez </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> entiers , le <ingredient action="ajouter" quantite="300 gramme"> fromage </ingredient> blanc , l' <ingredient action="ajouter" quantite="5 cl"> huile </ingredient> , la <ingredient action="ajouter"> crème </ingredient> puis <operation ingredients="fromage;huile;crème;farine;levure"> ajoutez </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . terminez en <operation ingredients="basilic;ail;sel;poivre"> ajoutant </operation> le <ingredient action="ajouter"> basilic </ingredient> et l' <ingredient action="ajouter" quantite="20 gramme"> ail </ingredient> <operation> hachés </operation> très fins , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . * <operation ingredients="pâte"> garnissez </operation> le <operation> moule </operation> de la <ingredient action="garnir" quantite="1"> pâte </ingredient> feuilletée . <operation ingredients="fromage"> répartissez </operation> le <operation> mélange </operation> au <ingredient action="répartir" quantite="300 gramme"> fromage </ingredient> blanc . faites <operation> cuire </operation> au four à 160 <operation> ° </operation> , thermostat . 6 , pendant 20 min . * <operation ingredients="tomates"> garnissez </operation> avec les tranches de <ingredient action="garnissez" quantite="500 gramme"> tomates </ingredient> et terminez avec un peu de <ingredient quantite=""> thym </ingredient> . faites <operation> cuire </operation> au four à 180 <operation> ° </operation> , thermostat 6 , pendant 5 min . rapide et diététique !
+</preparation>
+</recette>

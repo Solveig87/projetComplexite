@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66961">
+<titre>Pâtes à la tomate et paprika</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates pas trop grosses</p>
+<p>500 g de pâtes</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>1 oignon</p>
+<p>basilic si possible frais</p>
+<p>un peu de paprika</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> et <operation> réservez </operation> de coté . faites <operation ingredients="oignon;huile"> revenir </operation> un <ingredient action="revenir" quantite="1"> oignon </ingredient> avec de l' <ingredient action="revenir"> huile </ingredient> d' olive dans une sauteuse . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en petits dés et les <operation ingredients="oignon"> rajouter </operation> à l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> , laissez <operation> mijoter </operation> 2 à 3 min . puis <operation ingredients="crème;basilic;paprika"> ajoutez </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraîche , le <ingredient action="ajouter" quantite=""> basilic </ingredient> et le <ingredient action="ajouter" quantite="1"> paprika </ingredient> . laissez de nouveau <operation> cuire </operation> un peu à feu doux pendant 5 min . et enfin <operation ingredients="pâtes"> rajoutez </operation> les <ingredient action="rajouter" quantite="500 gramme"> pâtes </ingredient> à la préparation . c' est prêt lorsque les <ingredient quantite="500 gramme"> pâtes </ingredient> sont chaudes . très bon pour le soir . cela <operation ingredients="pâtes"> change </operation> des <ingredient action="changer" quantite="500 gramme"> pâtes </ingredient> natures cela peut aussi <operation ingredients="viande"> accompagner </operation> une <ingredient action="accompagner"> viande </ingredient> .
+</preparation>
+</recette>

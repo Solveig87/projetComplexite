@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222275">
+<titre>Hamburger au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pains pour hamburger</p>
+<p>8 rondelles de chèvre</p>
+<p>4 steak hachés</p>
+<p>1 oignon</p>
+<p>2 cuillères à soupe de crème fraiche liquide </p>
+<p>1 cuillère à soupe de lait</p>
+<p>quelques feuilles de salade</p>
+<p>1 tomate</p>
+<p>sauce hamburger (selon vos goûts)</p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="chèvre"> couper </operation> en petits morceaux les 8 rondelles de <ingredient action="couper"> chèvre </ingredient> , les <operation ingredients="lait;crème"> mettre </operation> dans un bol avec le <ingredient action="mettre" quantite="1 cuillère à soupe"> lait </ingredient> et la <ingredient action="mettre" quantite="2 cuillère à soupe"> crème </ingredient> fraiche . <operation ingredients="crème;hamburger"> mettre </operation> le <operation> mélange </operation> chèvre et la <ingredient action="mettre" quantite="2 cuillère à soupe"> crème </ingredient> sur le côté supérieur du <ingredient action="mettre" quantite=""> hamburger </ingredient> et <operation> mettre </operation> de côté . faire <operation ingredients="steak"> cuire </operation> le <ingredient action="cuire" quantite="4"> steak </ingredient> <operation ingredients="oignons"> haché </operation> avec les <ingredient action="hacher" quantite="1"> oignons </ingredient> . pendant ce temps , <operation ingredients="tomate"> coupez </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en rondelles et <operation ingredients="hamburgers"> mettre </operation> les <ingredient action="mettre" quantite=""> hamburgers </ingredient> sous le grill pendant quelques minutes . a la sortie du four , <operation ingredients="hamburger"> mettre </operation> un peu de sauce <ingredient action="mettre" quantite=""> hamburger </ingredient> sur la face inférieur , <operation ingredients="steak;hamburger;oignon;salade;tomate"> mettre </operation> un <ingredient action="mettre" quantite="4"> steak </ingredient> haché sur chaque <ingredient action="mettre" quantite=""> hamburger </ingredient> , l' <ingredient action="mettre" quantite="1"> oignon </ingredient> , quelques feuilles de <ingredient action="mettre" quantite="quelque feuille"> salade </ingredient> et la <ingredient action="mettre" quantite="1"> tomate </ingredient> . bon appétit ! pas très diététique je l' avoue , mais vraiment très bon à mon goût .
+</preparation>
+</recette>

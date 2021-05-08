@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80732">
+<titre>Muffins smarties - chocolat blanc-coeur nutella</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de beurre</p>
+<p>200 g de chocolat blanc</p>
+<p>2 œufs</p>
+<p>125 g de sucre</p>
+<p>300 g de farine</p>
+<p>1 sachet de levure chimique</p>
+<p>2 tubes de smarties</p>
+<p>4 cuillères à soupe de nutella</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;chocolat"> fondre </operation> 150 g de <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> avec 200 g de <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> blanc . <operation ingredients="œufs;sucre"> battre </operation> 2 <ingredient action="battre" quantite="2"> œufs </ingredient> avec 125 g de <ingredient action="battre" quantite="125 gramme"> sucre </ingredient> . <operation ingredients="beurre"> rajouter </operation> le <operation> mélange </operation> <ingredient action="rajouter"> beurre </ingredient> / chocolat blanc <operation> fondu </operation> . <operation ingredients="farine;levure"> rajouter </operation> 300 g de <ingredient action="rajouter" quantite="300 gramme"> farine </ingredient> et 1 sachet de <ingredient action="rajouter"> levure </ingredient> chimique , et <operation ingredients="lait"> mettre </operation> un peu de <ingredient action="mettre"> lait </ingredient> quand c' est trop compact . <operation ingredients="pâte"> rajouter </operation> des smarties dans la <ingredient action="rajouter"> pâte </ingredient> . puis <operation ingredients="pâte;nutella"> mettre </operation> un peu de <ingredient action="mettre"> pâte </ingredient> au fond des <operation> moules </operation> , ensuite une cuillère de <ingredient action="mettre" quantite="4 cuillère à soupe"> nutella </ingredient> , puis <operation ingredients="pâte"> remettre </operation> de la <ingredient action="remettre"> pâte </ingredient> dessus . je termine par quelques smarties dessus pour faire joli après la cuisson . faire <operation> cuire </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) jusqu' à ce qu' ils soient dorés , cela correspond à 2 . 25 minutes ( vérifier la cuisson avec un <ingredient> couteau </ingredient> ) . lorsque vous les mangez chaud le <ingredient action="fondre" quantite="4 cuillère à soupe"> nutella </ingredient> à l' intérieur est <operation ingredients="nutella"> fondant </operation> c' est un délice , mais lorsque vous les mangez froids , les smarties croquent sous la dent et c' est un régal aussi : d
+</preparation>
+</recette>

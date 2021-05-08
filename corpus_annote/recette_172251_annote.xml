@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172251">
+<titre>Verrine de brocolis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bouquets de brocolis</p>
+<p>10 cl de crème liquide</p>
+<p>sel</p>
+<p>poivre</p>
+<p>muscade</p>
+<p>Prosciutto pour le décor</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> le <ingredient action="cuire"> brocolis </ingredient> à la vapeur pendant 10 min . pendant ce temps , faire <operation ingredients="crème;sel;poivre;muscade"> chauffer </operation> la <ingredient action="chauffer" quantite="10 cl"> crème </ingredient> à feu doux avec le <ingredient action="chauffer" quantite=""> sel </ingredient> , le <ingredient action="chauffer" quantite=""> poivre </ingredient> , et une pointe de <ingredient action="chauffer" quantite=""> muscade </ingredient> dans une <operation> poêle </operation> . faire <operation ingredients="jambon;matière"> griller </operation> le <ingredient action="griller"> jambon </ingredient> en petits morceaux , sans <ingredient action="griller"> matière </ingredient> grasse . une fois <operation> cuit </operation> , <operation ingredients="brocolis;jus"> mixer </operation> le <ingredient action="mixer"> brocolis </ingredient> avec un peu de <ingredient action="mixer"> jus </ingredient> de cuisson . <operation ingredients="brocolis"> verser </operation> dans un verre la purée de <ingredient action="verser"> brocolis </ingredient> , <operation ingredients="crème"> verser </operation> par dessus <ingredient action="verser" quantite="10 cl"> crème </ingredient> liquide et <operation ingredients="jambon"> décorer </operation> avec le <ingredient action="décorer"> jambon </ingredient> . bordeaux rouge
+</preparation>
+</recette>

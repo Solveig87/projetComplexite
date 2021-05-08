@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33943">
+<titre>Raviolis aux fromage sur un lit d'épinard</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de raviolis frais aux quatre fromages</p>
+<p>500 g d'épinard surgelés à la crème</p>
+<p>50 g de roquefort</p>
+<p>25 cl de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raviolis"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> raviolis </ingredient> dans de l' eau <operation> salée </operation> pendant 8 mn . pendant ce temps , faire <operation ingredients="épinard"> chauffer </operation> au micro-ondes les galets d' <ingredient action="chauffer" quantite="500 gramme"> épinard </ingredient> pendant 8 mn . <operation> dresser </operation> dans une assiette en <operation ingredients="épinards;raviolis"> mettant </operation> les <ingredient action="mettre" quantite="500 gramme"> épinards </ingredient> au milieu et les <ingredient action="mettre" quantite="300 gramme"> raviolis </ingredient> autour . pendant le dressage des assiettes , <operation ingredients="crème;roquefort"> mettre </operation> dans un bol la <ingredient action="mettre" quantite="25 cl"> crème </ingredient> fraîche et le <ingredient action="mettre" quantite="50 gramme"> roquefort </ingredient> et faire <operation> chauffer </operation> au micro ondes pendant 2 mn . terminer le dressage , en <operation ingredients="crème"> nappant </operation> le plat de la <ingredient action="napper" quantite="25 cl"> crème </ingredient> au roquefort . très facile , rapide mais aussi très bon .
+</preparation>
+</recette>

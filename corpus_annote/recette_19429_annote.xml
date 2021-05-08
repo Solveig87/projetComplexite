@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19429">
+<titre>Gratin d'oranges</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>120 g de sucre</p>
+<p>3 oranges</p>
+<p>liqueur d'orange (Cointreau ou Grand Marnier) </p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> peler </operation> des <ingredient action="peler" quantite="3"> oranges </ingredient> , les <operation> couper </operation> en rondelles fines , les <operation> mettre </operation> dans un plat à four . cassser les <ingredient quantite="4"> oeufs </ingredient> <operation ingredients="sucre"> mélanger </operation> les avec le <ingredient action="mélanger" quantite="120 gramme"> sucre </ingredient> <operation> rajouter </operation> l' alcool , <operation ingredients="oranges"> verser </operation> sur les <ingredient action="verser" quantite="3"> oranges </ingredient> . <operation> mettre </operation> au four 180 <operation> ° </operation> c pendant 40 mn . il est aussi bon sortant du four que très frais .
+</preparation>
+</recette>

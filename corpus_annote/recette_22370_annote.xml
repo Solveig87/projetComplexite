@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22370">
+<titre>Oeufs farcis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>100 g de gruyère râpé</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 échalote</p>
+<p>1 botte de ciboulette</p>
+<p>1 bouquet de persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="8"> oeufs </ingredient> durs . un fois refroidis , les écaler , les <operation> couper </operation> en 2 dans la longueur , et <operation> mettre </operation> les jaunes à part dans un bol . <operation> ciseler </operation> les herbes , <operation ingredients="échalote"> hacher </operation> l' <ingredient action="hacher" quantite="1"> échalote </ingredient> , <operation ingredients="gruyère;sel;poivre;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> et la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> , <operation ingredients="oeufs"> ajouter </operation> le tout aux jaunes d' <ingredient action="ajouter" quantite="8"> oeufs </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="oeufs"> remplir </operation> les 1 / 2 blancs d' <ingredient action="remplir" quantite="8"> oeufs </ingredient> avec cette préparation . <operation> poser </operation> sur la <operation> grille </operation> de four et laisser <operation> gratiner </operation> quelques minutes . servir avec une <ingredient> salade </ingredient> . rosé de provence
+</preparation>
+</recette>

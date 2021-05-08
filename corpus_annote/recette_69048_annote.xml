@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69048">
+<titre>Salade de fraises, kiwis, bananes, citron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande barquette de fraises (500 g)</p>
+<p>3 kiwis</p>
+<p>2 bananes </p>
+<p>1 jus de citron (vert)</p>
+<p>sucre glac</p>
+<p>feuilles de menthe (décoration)</p>
+</ingredients>
+<preparation>
+<operation> equeuter </operation> et <operation ingredients="fraises"> laver </operation> rapidement les <ingredient action="laver"> fraises </ingredient> , les <operation> égoutter </operation> et les <operation> couper </operation> en morceaux . <operation> eplucher </operation> et <operation ingredients="kiwis"> couper </operation> les <ingredient action="couper" quantite="3"> kiwis </ingredient> , <operation ingredients="bananes"> faire </operation> de même avec les <ingredient action="faire" quantite="2"> bananes </ingredient> . <operation ingredients="fruits"> mettre </operation> tous les <ingredient action="mettre" quantite="3;2;1"> fruits </ingredient> dans un joli saladier ( transparent ) . <operation ingredients="jus;sucre;glace"> mélanger </operation> avec le <ingredient action="mélanger" quantite="1"> jus </ingredient> du citron et un peu de <ingredient action="mélanger" quantite=""> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> au moment de servir . <operation ingredients="menthe"> décorer </operation> de feuilles de <ingredient action="décorer"> menthe </ingredient> . servir très frais . peut se servir en coupelles individuelles . rosé de provence
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82331">
+<titre>Mille feuilles aux pommes caramélisées et chocolat vite fait</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>1 sachet d'entremet au chocolat</p>
+<p>50 cl de lait</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+<p>1 noix de beurre salé</p>
+<p>16 boudoirs</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en tranches , faire <operation ingredients="noix"> fondre </operation> la <ingredient action="fondre" quantite="1"> noix </ingredient> de beurre dans un <operation> poêle </operation> et y faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> . pendant ce temps <operation ingredients="chocolat;lait"> préparer </operation> l' entremet au <ingredient action="préparer"> chocolat </ingredient> avec le demi-litre de <ingredient action="préparer" quantite="50 cl"> lait </ingredient> . lorsque les <ingredient quantite="2"> pommes </ingredient> sont bien dorées , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> en <operation> poudre </operation> et faire caraméliser . dans les ramequins , <operation ingredients="boudoirs;pommes"> verser </operation> un peu d' entremet , une couche de <ingredient action="verser" quantite="16"> boudoirs </ingredient> , une couche de <ingredient action="verser" quantite="2"> pommes </ingredient> , <operation> recouvrir </operation> d' entremet et renouveler ainsi l' opération en couches successives . <operation> mettre </operation> au réfrigérateur une heure et déguster frais . vous pouvez remplacer les <ingredient quantite="16"> boudoirs </ingredient> par des palets bretons , et les <ingredient quantite="2"> pommes </ingredient> par des <ingredient> poires </ingredient> .
+</preparation>
+</recette>

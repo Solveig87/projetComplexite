@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88177">
+<titre>La milloc de mon arrière grand mère</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>6 cuillères à soupe de farine de maïs</p>
+<p>6 cuillères à soupe de farine de blé</p>
+<p>6 oeufs</p>
+<p>1 sachet de sucre vanillé</p>
+<p>16 morceaux de sucre</p>
+</ingredients>
+<preparation>
+préchauffer le four à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="lait;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="1 litre"> lait </ingredient> avec les 16 morceaux de <ingredient action="chauffer"> sucre </ingredient> . pendant ce temps , <operation ingredients="farine;oeufs"> mélanger </operation> la <ingredient action="mélanger" quantite="6 cuillère à soupe+6 cuillère à soupe"> farine </ingredient> et les <ingredient action="mélanger" quantite="6"> oeufs </ingredient> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 litre"> lait </ingredient> chaud puis <operation> verser </operation> dans un <operation> moule </operation> à manqué ( ou un plat à bords hauts ) préalablement beurré . <operation> mettre </operation> au four pendant 1 h environ ( vérifier la cuisson avec la pointe d' un <ingredient> couteau </ingredient> ) . a la sortie du four , <operation ingredients="sucre"> verser </operation> le sachet de <ingredient action="verser"> sucre </ingredient> vanillé et laisser refroidir avant de servir . il est possible de <operation ingredients="sucre"> réduire </operation> le nombre de morceaux de <ingredient action="réduire"> sucre </ingredient> .
+</preparation>
+</recette>

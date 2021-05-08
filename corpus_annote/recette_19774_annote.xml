@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19774">
+<titre>Baeckeoffe</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g échine de porc</p>
+<p>500 g épaule de mouton désossée</p>
+<p>500 g poitrine de boeuf désossée</p>
+<p>500 g oignons</p>
+<p>1 kg pommes de terre</p>
+<p>75 cl vin blanc sec (type Riesling ou Pinot blanc) </p>
+<p>1 bouquet garni </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> la veille : <operation ingredients="viande;bouquet;sel"> détailler </operation> la <ingredient action="détailler" quantite="500 gramme"> viande </ingredient> en morceaux égaux et la faire <operation ingredients="vin"> mariner </operation> 24 h avec le <ingredient action="mariner" quantite="75 cl"> vin </ingredient> , le <ingredient action="détailler" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <ingredient action="détailler" quantite=""> sel </ingredient> et poivre à volonté . le lendemain : <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="1 kilogramme"> pommes </ingredient> de terre , les <operation> laver </operation> , les <operation> couper </operation> en rondelles . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> oignons </ingredient> en rondelles . dans un plat à four ( ayant un couvercle ) , <operation ingredients="oignons;pommes;viande"> disposer </operation> une couche d' <ingredient action="disposer" quantite="500 gramme"> oignons </ingredient> , une couche de <ingredient action="disposer" quantite="1 kilogramme"> pommes </ingredient> de terre , une couche de <ingredient action="disposer" quantite="500 gramme"> viande </ingredient> , et renouveler jusqu' à épuisement . <operation> couvrir </operation> avec la moitié de la marinade . <operation ingredients="pinot"> couvrir </operation> et <operation> enfourner </operation> thermostat 8 pendant 1 h 30 environ . riesling ou <ingredient action="couvrir"> pinot </ingredient> blanc
+</preparation>
+</recette>

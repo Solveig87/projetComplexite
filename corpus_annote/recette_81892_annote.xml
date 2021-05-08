@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81892">
+<titre>Gratin de poulet facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 blancs de poulet</p>
+<p>1 l de crème</p>
+<p>2 petites boîtes de concentré de tomate</p>
+<p>10 cl de madère</p>
+<p>un peu de fromage râpé</p>
+<p>3 gousses d'ail</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>1 boite de champignons de Paris (facultatif)</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en cubes , les faire <operation ingredients="ail;persil"> revenir </operation> avec l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir" quantite="3 cuillère à soupe"> persil </ingredient> . pendant ce temps , <operation ingredients="tomates"> mettre </operation> le <operation> concentré </operation> de <ingredient action="mettre"> tomates </ingredient> dans un récipient , <operation ingredients="crème"> mélanger </operation> avec la <ingredient action="mélanger" quantite="1 l"> crème </ingredient> petit à petit , <operation ingredients="champignons"> ajouter </operation> le madère et les <ingredient action="ajouter"> champignons </ingredient> . <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre"> viande </ingredient> dans un plat à gratin , <operation> verser </operation> la sauce , <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer"> fromage </ingredient> râpé . <operation> enfourner </operation> pendant 1 . 20 minutes . a servir avec du <ingredient> riz </ingredient>
+</preparation>
+</recette>

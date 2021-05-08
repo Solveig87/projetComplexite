@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13556">
+<titre>Millassine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>1/2 litre de lait</p>
+<p>130 g de sucre</p>
+<p>130 g de farine</p>
+<p>1 pincée de sel</p>
+<p>1 paquet de sucre vanillé</p>
+<p>3 cuillères à soupe de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sel;oeufs"> mélanger </operation> dans un saladier la <ingredient action="mélanger" quantite="130 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> . <operation ingredients="sucre;sucre;rhum"> ajouter </operation> le <ingredient action="ajouter" quantite="130 gramme"> sucre </ingredient> , le <ingredient action="ajouter" quantite="130 gramme"> sucre </ingredient> vanillé , le <ingredient action="ajouter" quantite="3 cuillère à soupe"> rhum </ingredient> . <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer"> lait </ingredient> chaud . <operation> verser </operation> dans un <operation> moule </operation> beurré et <operation> cuire </operation> 30 mn à 200 <operation> ° </operation> c. très facile et très simple , c' est un régal .
+</preparation>
+</recette>

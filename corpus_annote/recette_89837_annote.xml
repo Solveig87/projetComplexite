@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89837">
+<titre>Potage au poulet et aux champignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons </p>
+<p>200 g de poulet (coupé en dés)</p>
+<p>1 cuillière à soupe de maïzena.</p>
+<p>250 g de champignons. </p>
+<p>1 cuillère à soupe de beurre.</p>
+<p>sel poivre. </p>
+<p>1/2 cube de bouillon de volaille.</p>
+<p>300 g de vermicelles</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> cuire </operation> à l' eau les morceaux de <ingredient action="cuire" quantite="200 gramme"> poulet </ingredient> pendant 10 minutes . dans une casserole , faire <operation ingredients="oignons;beurre"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans du <ingredient action="revenir" quantite="1 cuillère à soupe"> beurre </ingredient> , y <operation ingredients="champignons;poulet"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> et les morceaux de <ingredient action="ajouter" quantite="200 gramme"> poulet </ingredient> . laisser <operation> dorer </operation> en <operation> remuant </operation> , <operation> saler </operation> et <operation> poivrer </operation> selon le goût . <operation ingredients="maïzena;bouillon"> ajouter </operation> deux grands verre d' eau , la <ingredient action="ajouter"> maïzena </ingredient> et le cube de <ingredient action="ajouter"> bouillon </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> pendant 10 minutes . a mi-cuisson , <operation ingredients="vermicelles"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> vermicelles </ingredient> et laisser <operation> cuire </operation> encore pendant une dizaine de minutes . servir chaud .
+</preparation>
+</recette>

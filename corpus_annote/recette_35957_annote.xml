@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35957">
+<titre>Poulet à la chinoise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet sans leur peau</p>
+<p>le jus d'un citron</p>
+<p>le jus d'une demi orange</p>
+<p>1 cuillère à soupe de sauce de soja</p>
+<p>miel</p>
+<p>beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> beurrer </operation> un plat à gratin <operation ingredients="miel;poulet"> mettre </operation> un peu de <ingredient action="mettre" quantite=""> miel </ingredient> sur les morceaux de <ingredient action="mettre"> poulet </ingredient> et les <operation> disposer </operation> dans le plat . <operation ingredients="jus;orange"> mélanger </operation> le <ingredient action="mélanger" quantite=""> jus </ingredient> du citron , de l' <ingredient action="mélanger"> orange </ingredient> , et la sauce de soja , <operation> assaisonner </operation> . <operation ingredients="poulet"> verser </operation> le <operation> mélange </operation> sur le <ingredient action="verser"> poulet </ingredient> . <operation> couvrir </operation> le plat de papier aluminium et <operation> mettre </operation> au four 30 min à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation> piquer </operation> pour voir si le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> . servir le <ingredient> poulet </ingredient> arrsosé de sauce , avec du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

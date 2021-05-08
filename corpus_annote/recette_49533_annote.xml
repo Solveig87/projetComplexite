@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49533">
+<titre>Gratin d'aubergines au Port-Salut</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 aubergines</p>
+<p>2 tomates</p>
+<p>Port-Salut</p>
+<p>chapelure</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> couper </operation> les <ingredient action="couper" quantite="3"> aubergines </ingredient> en fines rondelles puis les faire <operation ingredients="huile;fondantes"> revenir </operation> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive pour qu' elles soient bien <ingredient action="revenir"> fondantes </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . pendant ce temps <operation ingredients="tomates;port-salut"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> et le <ingredient action="couper" quantite=""> port-salut </ingredient> en tranches . quand les <ingredient action="revenir" quantite="3"> aubergines </ingredient> sont bien <operation ingredients="aubergines"> revenues </operation> , <operation ingredients="aubergines;fromage"> placer </operation> dans le plat à gratin une rangée d' <ingredient action="placer" quantite="3"> aubergines </ingredient> , tomates puis des morceaux de <ingredient action="placer"> fromage </ingredient> et ainsi de suite jusqu' à épuisement des ingrédients . a la fin , <operation ingredients="chapelure"> parsemer </operation> le plat de <ingredient action="parsemer" quantite=""> chapelure </ingredient> . <operation> placer </operation> au four pendant 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

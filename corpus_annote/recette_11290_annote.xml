@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11290">
+<titre>Soupe de crabe</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 kg d'étrilles ou autres petits crabes péchés par vos soins (c'est plus amusant) ou achetés sur le marché, </p>
+<p>1 carotte</p>
+<p>2 oignons</p>
+<p>ail</p>
+<p>2 tomates </p>
+<p>3 cuillères à soupe de ketchup (hot)</p>
+<p>thym</p>
+<p>laurier</p>
+<p>sarriette</p>
+<p>2 cuillères à soupe de riz rond</p>
+<p>1 cuillère à soupe de cognac</p>
+<p>vin blanc</p>
+<p>huile d'olive.</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faire <operation ingredients="carotte;crabes"> fondre </operation> <operation> oignons </operation> , <ingredient action="fondre" quantite="1"> carotte </ingredient> en julienne , puis <operation> poêler </operation> les <ingredient action="fondre" quantite="2 kilogramme"> crabes </ingredient> . quand ils sont bien rouges , que les <ingredient action="fondre" quantite="1;2;2"> légumes </ingredient> sont bien <operation ingredients="légumes"> fondus </operation> , <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite="1 cuillère à soupe"> cognac </ingredient> . <operation ingredients="vin;tomates;ketchup"> ajouter </operation> <ingredient action="ajouter" quantite=""> vin </ingredient> blanc , <ingredient action="ajouter" quantite="2"> tomates </ingredient> , aromates , <ingredient action="ajouter" quantite="3 cuillère à soupe"> ketchup </ingredient> . a <operation> ébullition </operation> , <operation ingredients="riz;rond"> ajouter </operation> une bonne poignée de <ingredient action="ajouter" quantite="2 cuillère à soupe"> riz </ingredient> <ingredient action="ajouter"> rond </ingredient> ( il va avantageusement remplacer un liant genre <ingredient> maïzena </ingredient> ) . laisser <operation> cuire </operation> une bonne vingtaine de minutes . <operation> passer </operation> au <operation> mixer </operation> , mais pas trop longtemps . ensuite , il va falloir <operation> passer </operation> au tamis , un <operation> presse </operation> - purée à main par exemple , <operation> grille </operation> moyenne , puis <operation> grille </operation> fine . servez très chaud avec quelques pluches de <ingredient> coriandre </ingredient> . on peut remplacer le <operation> mixer </operation> par un mortier et un pilon . c' est très chic . bon courage ! on ne boit pas en <ingredient> mangeant </ingredient> sa soupe , ça fait éclater l' émail des dents .
+</preparation>
+</recette>

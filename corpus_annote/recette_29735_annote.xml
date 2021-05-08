@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29735">
+<titre>Pastèque en salade et melon au thé vert</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 pastèque</p>
+<p>1 melon</p>
+<p>20 cl de thé vert</p>
+<p>1 bouquet de menthe</p>
+<p>sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="thé"> préparer </operation> un <ingredient action="préparer" quantite="20 cl"> thé </ingredient> vert , le laisser <operation ingredients="menthe"> infuser </operation> avec les feuilles de <ingredient action="infuser"> menthe </ingredient> fraîche . <operation> eplucher </operation> la pastèque et le <ingredient quantite="1"> melon </ingredient> , les <operation> épépiner </operation> , puis en <operation ingredients="chair"> extraire </operation> la <ingredient action="extraire"> chair </ingredient> . la <operation> détailler </operation> en dés , puis la <operation ingredients="jus"> déposer </operation> dans un saladier avec le <ingredient action="déposer"> jus </ingredient> des fruits . une fois le <ingredient action="filtrer" quantite="20 cl"> thé </ingredient> bien refroidi , le <operation> sucrer </operation> à votre goût , le <operation ingredients="thé"> filtrer </operation> et en <operation ingredients="fruits"> arroser </operation> les <ingredient action="arroser" quantite="1"> fruits </ingredient> . <operation ingredients="fruits;thé"> mélanger </operation> les <ingredient action="mélanger" quantite="1"> fruits </ingredient> avec le <ingredient action="mélanger" quantite="20 cl"> thé </ingredient> pour qu' ils s' <operation> imprègnent </operation> du goût , puis <operation ingredients="menthe"> décorer </operation> de feuilles de <ingredient action="décorer"> menthe </ingredient> fraîche . <operation> réserver </operation> au frais 2 h avant de servir et déguster .
+</preparation>
+</recette>

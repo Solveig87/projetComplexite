@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65380">
+<titre>Pâtes aux crevettes et parmesan</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de tagliatelles fraîches</p>
+<p>600 g de crevettes roses</p>
+<p>2 citrons</p>
+<p>1 sachet de parmesan</p>
+<p>10 brins de ciboulette</p>
+<p>1 briquette de crème liquide (20 cl)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="crevettes"> revenir </operation> les <ingredient action="revenir" quantite="600 gramme"> crevettes </ingredient> , préalablement débarrassée de leurs carapaces , dans une <operation> poêle </operation> avec la creme liquide . <operation ingredients="ciboulette"> ajouter </operation> la <ingredient action="ajouter"> ciboulette </ingredient> <operation> ciselée </operation> . d' autre part , <operation> préparez </operation> une casserole d' eau que vous <operation> portez </operation> à <operation> ébullition </operation> , <operation ingredients="tagliatelles"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> tagliatelles </ingredient> et laissez <operation> cuire </operation> deux minutes . <operation> egouttez </operation> - les , <operation> versez </operation> - les dans la <operation> poêle </operation> avec la préparation . <operation ingredients="jus;parmesan"> ajoutez </operation> le <ingredient action="ajouter"> jus </ingredient> du citron et <operation> parsemez </operation> de <ingredient action="ajouter"> parmesan </ingredient> . dégustez aussitôt ! même ceux qui n' aiment pas trop les <ingredient quantite="600 gramme"> crevettes </ingredient> ne vont pas en <operation> revenir </operation> ! <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

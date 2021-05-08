@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14203">
+<titre>Purée façon grand-mère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 pommes de terre</p>
+<p>2 jaunes d'oeufs</p>
+<p>2 oignons</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;oignons"> cuire </operation> les <ingredient action="cuire" quantite="5"> pommes </ingredient> de terre dans une grande casserole d' eau avec 2 <ingredient action="cuire" quantite="2"> oignons </ingredient> . lorsque les <ingredient action="cuire" quantite="5"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , les <operation> mettre </operation> dans un plat allant au four . les <operation> réduire </operation> en purée en <operation ingredients="jus;oeufs"> ajoutant </operation> le <ingredient action="ajouter"> jus </ingredient> de cuisson et 2 jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . l' idéal est d' <operation ingredients="pommes"> écraser </operation> les <ingredient action="écraser" quantite="5"> pommes </ingredient> de terre à la fourchette ( mais vous pouvez le faire au <operation> mixer </operation> , ce qui lui donne une consistance plus <ingredient> mousseuse </ingredient> ) . ne pas oublier d' <operation ingredients="sel"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> sel </ingredient> et m = <ingredient> poivre </ingredient> , voire un peu de <ingredient> muscade </ingredient> si vous le désirez ) . <operation ingredients="gruyère"> rajouter </operation> un peu de <ingredient action="rajouter"> gruyère </ingredient> et <operation> passer </operation> au four quelques instants pour <operation> gratiner </operation> . cette recette de ma grand-mère est un délice !
+</preparation>
+</recette>

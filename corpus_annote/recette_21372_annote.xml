@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21372">
+<titre>Asperges à la sauce gribiche</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 kg d'asperges vertes</p>
+<p>2 oeufs + 1 jaune</p>
+<p>1 bouquet de persil</p>
+<p>1 bouquet de cerfeuil</p>
+<p>15 cl d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oeufs"> cuire </operation> 2 <ingredient action="cuire"> oeufs </ingredient> durs , 10 minutes à l' eau bouillante . <operation ingredients="asperges"> grattez </operation> les <ingredient action="gratter" quantite="1,5 kilogramme"> asperges </ingredient> , faites - les <operation> cuire </operation> 25 minutes à la vapeur ou à l' eau bouillante <operation> salée </operation> . sortez - les et laissez <operation> égoutter </operation> sur un torchon propre . ecalez les <ingredient> oeufs </ingredient> , écrasez - les et <operation ingredients="persil;cerfeuil"> mélangez </operation> - les avec le jaune cru restant , le <ingredient action="mélanger"> persil </ingredient> et le <ingredient action="mélanger"> cerfeuil </ingredient> <operation> hachés </operation> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="huile"> ajoutez </operation> progressivement l' <ingredient action="ajouter" quantite="15 cl"> huile </ingredient> en <operation ingredients="mayonnaise"> fouettant </operation> sans arrêt comme pour une <ingredient action="fouetter"> mayonnaise </ingredient> . servez les <ingredient quantite="1,5 kilogramme"> asperges </ingredient> avec la sauce .
+</preparation>
+</recette>

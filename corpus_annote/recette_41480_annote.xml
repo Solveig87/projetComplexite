@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41480">
+<titre>Donuts us</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine</p>
+<p>2 cuillères à café de levure chimique</p>
+<p>1/2 cuillère à café de sel</p>
+<p>1/2 cuillère à café de cannelle (facultatif)</p>
+<p>1/4 cuillère à café de muscade (facultatif)</p>
+<p>2 oeufs battus</p>
+<p>175 g de sucre en poudre</p>
+<p>1 cuillère à café de vanille liquide</p>
+<p>15 cl de lait</p>
+<p>1 cuillère à soupe de beurre fondu</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;levure;sel;cannelle;muscade"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> farine </ingredient> , la <ingredient action="mélanger" quantite="2 cuillère à café"> levure </ingredient> , le <ingredient action="mélanger"> sel </ingredient> , la <ingredient action="mélanger"> cannelle </ingredient> et la <ingredient action="mélanger"> muscade </ingredient> . dans un autre bol , <operation ingredients="oeufs"> mélanger </operation> les <ingredient action="mélanger"> oeufs </ingredient> ( <operation> battus </operation> ) , le <ingredient quantite="175 gramme"> sucre </ingredient> et la vanille . <operation> mélanger </operation> jusqu' à ce que le <operation> mélange </operation> soit épais . <operation ingredients="lait;beurre"> mélanger </operation> le <ingredient action="mélanger" quantite="15 cl"> lait </ingredient> et le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> , y <operation ingredients="farine"> ajouter </operation> le <operation> mélange </operation> de <ingredient action="ajouter" quantite="500 gramme"> farine </ingredient> et <operation> battre </operation> jusqu' à ce que le <operation> mélange </operation> soit homogène . <operation> couvrir </operation> et <operation> mettre </operation> au réfrigérateur pendant 2 heures . sur une planche <operation> farinée </operation> , étaler la <ingredient> pâte </ingredient> sur une épaisseur de 1 cm environ . <operation> découper </operation> les donuts à l' aide d' un bol ou autre . <operation> mettre </operation> à <operation> frire </operation> pendant une minute ou jusqu' à ce soit légerement doré puis <operation> retourner </operation> a l' aide d' un écumoire de l' autre coté et laisser <operation> cuire </operation> à nouveau une minute . <operation> retirer </operation> de la friteuse et <operation> poser </operation> sur un papier absorbant . lors de la <operation> découpe </operation> du donuts , le trou du milieu n' est pas obligatoire .
+</preparation>
+</recette>

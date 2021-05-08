@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42134">
+<titre>Salade estivale aux coeurs de palmier</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande boîte de coeurs de palmiers</p>
+<p>6 tranches d'ananas frais</p>
+<p>4 cuillères à café d'huile</p>
+<p>2 cuillères à café de jus de citron</p>
+<p>1 cuillère à café de moutarde forte</p>
+<p>1 avocat</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="coeurs"> egoutter </operation> les <ingredient action="egoutter"> coeurs </ingredient> de palmiers . <operation ingredients="ananas;coeurs"> détailler </operation> les tranches d’ <ingredient action="détailler" quantite="6 tranche"> ananas </ingredient> et les <ingredient action="détailler"> coeurs </ingredient> de palmiers , en petits dés . dans un saladier , <operation> préparer </operation> la sauce en <operation ingredients="huile"> mélangeant </operation> : <ingredient action="mélanger" quantite="4 cuillère à café"> huile </ingredient> , citron , moutarde , sel et poivre . <operation ingredients="ananas;coeurs;avocat"> ajouter </operation> l' <ingredient action="ajouter" quantite="6 tranche"> ananas </ingredient> , les <ingredient action="ajouter"> coeurs </ingredient> de palmier , l' <ingredient action="ajouter" quantite="1"> avocat </ingredient> , et <operation> mélanger </operation> délicatement . <operation> réserver </operation> , jusqu' au moment de servir . pour obtenir un plat complet , <operation ingredients="saumon;fumé;salade"> ajouter </operation> des dés de <ingredient action="ajouter"> saumon </ingredient> <ingredient action="ajouter"> fumé </ingredient> et des feuilles de <ingredient action="ajouter"> salade </ingredient> .
+</preparation>
+</recette>

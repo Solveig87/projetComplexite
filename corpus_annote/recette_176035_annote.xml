@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176035">
+<titre>Gratin d'endives à la savoyarde</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'endives</p>
+<p>1 oignon</p>
+<p>600 à 800 g de raclette</p>
+<p>150 g de bacon </p>
+<p>4 à 5 pommes de terre</p>
+<p>20 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à l' eau . dans une <operation> poêle </operation> , faire <operation ingredients="oignon;huile"> blondir </operation> l' <ingredient action="blondir" quantite="1"> oignon </ingredient> avec un filet d' <ingredient action="blondir"> huile </ingredient> d' olive . <operation ingredients="endives;bacon"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> endives </ingredient> et le <ingredient action="ajouter" quantite="150 gramme"> bacon </ingredient> <operation> coupés </operation> en morceau et faire suer à feu doux jusqu' à ce que toute l' eau se soit évaporée . préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . dans un plat à gratin , <operation> disposer </operation> la préparation d' endives , <operation ingredients="pommes"> disposer </operation> dessus les <ingredient action="disposer" quantite="4"> pommes </ingredient> de terre <operation> coupées </operation> en rondelles . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et <operation> poser </operation> les morceaux de raclette sur le dessus en <operation> recouvrant </operation> tout le plat . <operation ingredients="fromage"> mettre </operation> au four plus ou moins 30 min jusqu' à ce que le <ingredient action="mettre"> fromage </ingredient> soit gratiné . attention : il ne fait surtout pas <operation ingredients="bacon"> saler </operation> le plat , le <ingredient action="saler" quantite="150 gramme"> bacon </ingredient> et la raclette s' en chargent . . .
+</preparation>
+</recette>

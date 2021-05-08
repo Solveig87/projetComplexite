@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61146">
+<titre>Salade de courgettes crues au cury</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes de Nice</p>
+<p>copeaux de parmesan</p>
+<p>12 tomates séchées</p>
+<p>1 cuillère à café de curry</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> les courgettes en lanières avec un économe . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="12"> tomates </ingredient> séchées <operation ingredients="parmesan"> coupées </operation> en dés et quelques copeaux de <ingredient action="couper"> parmesan </ingredient> . <operation ingredients="huile;curry"> arroser </operation> d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et <operation> assaisoner </operation> de <ingredient action="arroser" quantite="1 cuillère à café"> curry </ingredient> . ne pas <operation ingredients="tomates;parmesan"> saler </operation> , les <ingredient action="saler" quantite="12"> tomates </ingredient> séchées et le <ingredient action="saler"> parmesan </ingredient> sont déjà <operation> salés </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73086">
+<titre>Flan rapide au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de chocolat en poudre</p>
+<p>1 cuillère à soupe de Maïzena</p>
+<p>1 L de lait</p>
+<p>1 à 2 cuillères à café de sucre en poudre</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="chocolat"> chauffer </operation> le <ingredient action="chauffer" quantite="500 gramme"> chocolat </ingredient> dans une casserole et <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre" quantite="1 l"> lait </ingredient> ( pas tout , en garder pour la <ingredient quantite="1 cuillère à soupe"> maïzena </ingredient> ) . <operation ingredients="lait"> délayer </operation> une cuillère à soupe de maïzena dans le restant du <ingredient action="délayer" quantite="1 l"> lait </ingredient> . <operation> verser </operation> le tout dans la casserole et <operation> mettre </operation> 2 cuillères à soupe de sucre en <operation> poudre </operation> et <operation> mélanger </operation> . <operation> verser </operation> le tout dans un plat et laisser <operation> reposer </operation> ( attendre que le flan refroidisse avant de <operation> mettre </operation> au frigo ) . laisser <operation> reposer </operation> 1 h environ . servir frais .
+</preparation>
+</recette>

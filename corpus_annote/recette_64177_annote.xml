@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64177">
+<titre>Rougail z'oeufs</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>8 oeufs</p>
+<p>4 échalotes</p>
+<p>huile d'olive</p>
+<p>curcuma</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="8"> oeufs </ingredient> durs . <operation ingredients="tomates;échalotes"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> et les <ingredient action="couper" quantite="4"> échalotes </ingredient> en dés . dans une marmite , faire <operation ingredients="échalotes;huile"> revenir </operation> les <ingredient action="revenir" quantite="4"> échalotes </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , puis y <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> . <operation> ajouter </operation> une cuillère à café de curcuma , <operation> saler </operation> , <operation> poivrer </operation> , puis laisser <operation> réduire </operation> à feu doux 15 minutes . pendant ce temps , <operation ingredients="oeufs"> éplucher </operation> les <ingredient action="éplucher" quantite="8"> oeufs </ingredient> . une fois que la sauce a <operation> réduit </operation> , y <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="8"> oeufs </ingredient> et <operation> remettre </operation> à feu doux pendant 15 minutes . servir avec du <ingredient> riz </ingredient> et des grains ( <ingredient> haricots </ingredient> , lentilles . . . ) dans lequel on peut <operation ingredients="curcuma"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> curcuma </ingredient> . vous pouvez aussi <operation ingredients="huile;citron"> faire </operation> une sauce rougail en <operation ingredients="tomate;échalotes"> hachant </operation> une <ingredient action="hacher" quantite="4"> tomate </ingredient> et deux <ingredient action="hacher" quantite="4"> échalotes </ingredient> <operation> assaisonnées </operation> avec de l' <ingredient action="faire" quantite=""> huile </ingredient> d' olive , du <ingredient action="faire"> citron </ingredient> et du piment .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166974">
+<titre>Cake au thon de sophie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de thon </p>
+<p>100 g de farine</p>
+<p>la moitiée d'un sachet de levure</p>
+<p>3 oeufs</p>
+<p>10cl de lait</p>
+<p>5cl d'huile</p>
+<p>100 g de gruyère</p>
+<p>ciboulette</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+dans un saladier <operation ingredients="farine"> mélanger </operation> la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , le <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter" quantite="10cl"> lait </ingredient> , l' <ingredient action="ajouter" quantite="5cl"> huile </ingredient> et les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> <operation ingredients="levure;lait;huile;oeufs;thon;ciboulette;sel;poivre"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="300 gramme"> thon </ingredient> , le gruyére , la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> puis un peu de <ingredient action="ajouter"> sel </ingredient> ( facultatif ) et le <ingredient action="ajouter"> poivre </ingredient> . beurré et <operation> fariné </operation> un <operation> moule </operation> et y <operation> versé </operation> la préparation . <operation> enfourné </operation> dans votre four environ 40 mn à 180 <operation> ° </operation> . <operation ingredients="salade"> accompagné </operation> d' une petite <ingredient action="accompagner"> salade </ingredient> , idéale pour un repas rapide et équilibré .
+</preparation>
+</recette>

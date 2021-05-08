@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20988">
+<titre>Salade multi-fruits tropicale</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g d'ananas au sirop</p>
+<p>250 g d'arbouses</p>
+<p>250 g de litchis</p>
+<p>2 bananes</p>
+<p>2 oranges</p>
+<p>2 avocats</p>
+<p>2 goyaves</p>
+<p>2 mangues pas trop mûres</p>
+<p>1 citron vert</p>
+<p>6 cl de rhum ambré</p>
+<p>30 cl de sirop de canne</p>
+<p>1/2 cuillère à café de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits;avocats"> peler </operation> tous les <ingredient action="peler" quantite="250 gramme;250 gramme;2;2;2;2"> fruits </ingredient> et les <ingredient action="peler" quantite="2"> avocats </ingredient> et leur <operation> ôter </operation> les noyaux et les pépins . <operation ingredients="bananes;oranges"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> en rondelles , les <ingredient action="couper" quantite="2"> oranges </ingredient> en quartiers et <operation ingredients="avocats;mangues;goyaves"> détailler </operation> les <ingredient action="détailler" quantite="2"> avocats </ingredient> , les <ingredient action="détailler" quantite="2"> mangues </ingredient> et les <ingredient action="détailler" quantite="2"> goyaves </ingredient> en dés . <operation ingredients="fruits"> egoutter </operation> les <ingredient action="egoutter" quantite="250 gramme;250 gramme;2;2;2;2"> fruits </ingredient> au sirop en gardant le <ingredient> jus </ingredient> . les <operation ingredients="bananes;oranges;avocats;mangues;goyaves"> mélanger </operation> aux rondelles de <ingredient action="mélanger" quantite="2"> bananes </ingredient> , aux quartiers d' <ingredient action="mélanger" quantite="2"> oranges </ingredient> et aux dés d' <ingredient action="mélanger" quantite="2"> avocats </ingredient> , de <ingredient action="mélanger" quantite="2"> mangues </ingredient> et de <ingredient action="mélanger" quantite="2"> goyaves </ingredient> . a part , <operation ingredients="sirop;rhum"> mélanger </operation> le <ingredient action="mélanger" quantite="30 cl"> sirop </ingredient> de canne avec le <ingredient action="mélanger" quantite="6 cl"> rhum </ingredient> , les <ingredient action="arroser"> jus </ingredient> du citron et des <ingredient action="arroser" quantite="250 gramme;250 gramme;2;2;2;2"> fruits </ingredient> . <operation ingredients="jus;fruits;fruits"> arrosez </operation> les <ingredient action="arroser" quantite="250 gramme;250 gramme;2;2;2;2"> fruits </ingredient> avec ce liquide sans <operation> remuer </operation> . <operation> réserver </operation> au réfrigérateur au moins 2 h avant de servir .
+</preparation>
+</recette>

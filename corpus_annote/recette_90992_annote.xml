@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90992">
+<titre>Salade de fenouils et avocats</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bulbes fenouils moyens</p>
+<p>2 avocats</p>
+<p>150 g de champignons de Paris</p>
+<p>jus de citron</p>
+<p>Mozzarella en petites boules</p>
+<p>100 g de Gorgonzola</p>
+<p>Pour la vinaigrette : </p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fenouils"> cuire </operation> les <ingredient action="cuire"> fenouils </ingredient> pour qu' ils soient tendres . <operation ingredients="avocats;champignons"> couper </operation> en morceaux les <ingredient action="couper" quantite="2"> avocats </ingredient> et les <ingredient action="couper" quantite="150 gramme"> champignons </ingredient> de paris . y <operation ingredients="jus"> ajouter </operation> du <ingredient action="ajouter" quantite=""> jus </ingredient> de citron . <operation> mélanger </operation> avocats , les <ingredient quantite="150 gramme"> champignons </ingredient> , les boules de <ingredient quantite=""> mozzarella </ingredient> et le <ingredient quantite="100 gramme"> gorgonzola </ingredient> émietté . <operation ingredients="fenouil"> dresser </operation> sur une assiette deux moitiés de <ingredient action="dresser"> fenouil </ingredient> et <operation ingredients="avocats"> verser </operation> au milieu le <operation> mélange </operation> à base d' <ingredient action="verser" quantite="2"> avocats </ingredient> . <operation> arroser </operation> de vinaigrette .
+</preparation>
+</recette>

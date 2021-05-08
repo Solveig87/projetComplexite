@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164715">
+<titre>La croûte</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boule (ou un pain assez large).</p>
+<p>6 tranche de jambon blanc.</p>
+<p>Fromage à raclette.</p>
+<p>6 œufs.</p>
+<p>Vin blanc.</p>
+<p>Crème fraiche liquide épaisse.</p>
+<p>Beurre.</p>
+</ingredients>
+<preparation>
+. <operation ingredients="pain"> couper </operation> des tranches de <ingredient action="couper"> pain </ingredient> ( 1 , 5 cm d' épaisseur ) . <operation ingredients="pain;jambon;fromage"> couvrir </operation> le <ingredient action="couvrir"> pain </ingredient> d' une tranche de <ingredient action="couvrir" quantite="6 tranche"> jambon </ingredient> , puis de <ingredient action="couvrir" quantite=""> fromage </ingredient> à raclette . dans une grande <operation> poêle </operation> , faire <operation ingredients="vin"> chauffer </operation> à feu vif du <ingredient action="chauffer" quantite=""> vin </ingredient> blanc ( 1 / 2 cm au fond de la <operation> poêle </operation> ) . . dans une autre <operation> poêle </operation> , faire <operation ingredients="beurre"> chauffer </operation> du <ingredient action="chauffer" quantite=""> beurre </ingredient> , et faire <operation ingredients="œufs"> cuire </operation> 2 <ingredient action="cuire" quantite="6"> œufs </ingredient> sur le plat . . dès <operation> ébullition </operation> , <operation> poser </operation> 2 croûtes dans la <operation> poêle </operation> , et <operation> recouvrir </operation> immédiatement . . après 3 min , <operation ingredients="crème"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> crème </ingredient> fraiche autour des croûtes , puis <operation> couvrir </operation> 2 min encore . . sortir les croutes , puis le <operation ingredients="œuf"> recouvrir </operation> d' un <ingredient action="recouvrir" quantite="6"> œuf </ingredient> au plat . . <operation> réitérer </operation> pour les 4 croûtes restantes . si vous avez peur de manquer , vous pouvez <operation> accompagner </operation> ce plat d' un gratin de courgette , ou d' un gratin dauphinois pour les plus gourmands . <ingredient quantite=""> vin </ingredient> blanc sec
+</preparation>
+</recette>

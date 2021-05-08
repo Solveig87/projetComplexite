@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25110">
+<titre>Oranges pochées à la grenadine</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 belles oranges (peau fine)</p>
+<p>20 cl de sirop de grenadine</p>
+<p>250 g de sucre</p>
+<p>2 cuillères à soupe de Grand-Marnier</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> nettoyez </operation> les <ingredient action="nettoyez" quantite="4"> oranges </ingredient> , <operation ingredients="couteau"> prélevez </operation> les zestes avec un <ingredient action="prélever"> couteau </ingredient> pointu et <operation> hachez </operation> - les très finement . <operation ingredients="oranges;couteau"> pelez </operation> les <ingredient action="peler" quantite="4"> oranges </ingredient> à vif ( n' enlèvez que l' écorce en tournant autour à l' aide d' un <ingredient action="peler"> couteau </ingredient> ) et laissez - les entières . <operation ingredients="sucre;sirop"> mélangez </operation> le <ingredient action="mélanger" quantite="250 gramme"> sucre </ingredient> , le <ingredient action="mélanger" quantite="20 cl"> sirop </ingredient> et 20 cl d' eau , faites <operation> bouillir </operation> légèrement à feu doux pendant 10 minutes . <operation ingredients="liqueur;oranges"> ajoutez </operation> la <ingredient action="ajouter"> liqueur </ingredient> , les <ingredient action="ajouter" quantite="4"> oranges </ingredient> et le zeste . laissez <operation> cuire </operation> à feu très doux pendant 40 minutes . laissez refroidir et <operation> réservez </operation> au frais dans un saladier .
+</preparation>
+</recette>

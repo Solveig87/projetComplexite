@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22545">
+<titre>Escalopes de veau farcies au gouda et au jambon cru</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 escalopes de veau épaisses</p>
+<p>6 tranches de gouda</p>
+<p>6 tranches de jambon cru</p>
+<p>45 g de beurre</p>
+<p>1 cuillère à soupe bombée de moutarde</p>
+<p>3 cuillères à soupe de crème</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="6"> escalopes </ingredient> en 2 dans l' épaisseur puis les <operation ingredients="fromage;jambon"> farcir </operation> d'1 tranche de <ingredient action="farcir"> fromage </ingredient> et d'1 tranche de <ingredient action="farcir" quantite="6 tranche"> jambon </ingredient> . maintenir les <ingredient quantite="6"> escalopes </ingredient> fermées à l' aide d' un fil de <operation> cuisine </operation> ou d' un pic en bois . faire <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="6"> escalopes </ingredient> <operation ingredients="beurre"> farcies </operation> dans le <ingredient action="farcir" quantite="45 gramme"> beurre </ingredient> pendant 15 minutes environ puis les débarrasser sur une assiette . <operation ingredients="crème;moutarde;jus"> verser </operation> la <ingredient action="verser" quantite="3 cuillère à soupe"> crème </ingredient> et la <ingredient action="verser"> moutarde </ingredient> dans le <ingredient action="verser"> jus </ingredient> de cuisson et lorsque que cette sauce est chaude , en <operation ingredients="escalopes"> napper </operation> les <ingredient action="napper" quantite="6"> escalopes </ingredient> .
+</preparation>
+</recette>

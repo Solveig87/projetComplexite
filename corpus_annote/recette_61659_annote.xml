@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61659">
+<titre>Compote pomme rhubarbe</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de pommes de différentes variétés</p>
+<p>400 g de rhubarbe fraîche</p>
+<p>2 sachets de sucre vanillé</p>
+<p>50 g de sucre</p>
+<p>15 cl de jus d'orange</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes;rhubarbe"> couper </operation> en morceaux les <ingredient action="couper" quantite="600 gramme"> pommes </ingredient> et la <ingredient action="couper" quantite="400 gramme"> rhubarbe </ingredient> . <operation> mettre </operation> tous les ingrédients dans une casserole et <operation ingredients="compote"> cuire </operation> à <operation> couvert </operation> jusqu' à obtention de la <ingredient action="cuire"> compote </ingredient> . si vous le jugez trop liquide , <operation> enlever </operation> le couvercle pour faire évaporer le <ingredient quantite="15 cl"> jus </ingredient> .
+</preparation>
+</recette>

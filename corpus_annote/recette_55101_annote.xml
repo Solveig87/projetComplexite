@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55101">
+<titre>Cock a leeki</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poule</p>
+<p>1 pied de veau</p>
+<p>légumes et aromates du pot (poireaux, navets, carottes, celéri boule, laurier, marjolaine, clous de girofle)</p>
+<p>200 g d'orge</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poule;pied;orge;légumes"> cuire </operation> la <ingredient action="cuire" quantite="1"> poule </ingredient> , le <ingredient action="cuire" quantite="1"> pied </ingredient> de veau et l' <ingredient action="cuire" quantite="200 gramme"> orge </ingredient> avec les <ingredient action="cuire" quantite=""> légumes </ingredient> grossièremment <operation> émincés </operation> . cuisson 3 heures . <operation ingredients="poule;pied"> découper </operation> la <ingredient action="découper" quantite="1"> poule </ingredient> et le <ingredient action="découper" quantite="1"> pied </ingredient> de veau . servir les <ingredient quantite=""> légumes </ingredient> , la <ingredient quantite="1"> viande </ingredient> et le <ingredient> bouillon </ingredient> avec des <ingredient> croûtons </ingredient> <ingredient> rôtis </ingredient> . soupe à la <ingredient quantite="1"> poule </ingredient> écossaise .
+</preparation>
+</recette>

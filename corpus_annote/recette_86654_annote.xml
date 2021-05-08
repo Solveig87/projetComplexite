@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86654">
+<titre>Mousse au chocolat avec marshmallows</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de marshmallows- 50 g de beurre- 250 g de chocolat à faire fondre- 28,5 cl de crème fraiche- 5 gouttes d'extrait de vanille- 4 cuillères à soupe d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="marshmallows;beurre;chocolat"> fondre </operation> les <ingredient action="fondre"> marshmallows </ingredient> avec le <ingredient action="fondre"> beurre </ingredient> et le <ingredient action="fondre"> chocolat </ingredient> et l' eau dans une casserole à feu doux . <operation ingredients="crème"> battre </operation> la <ingredient action="battre"> crème </ingredient> fraiche avec l' extrait de vanille ( bien <operation> battre </operation> ) pour avoir une <ingredient> crème </ingredient> épaisse . puis <operation ingredients="chocolat;crème"> ajouter </operation> le <ingredient action="ajouter"> chocolat </ingredient> à la <ingredient action="ajouter"> crème </ingredient> fraiche . <operation> mettre </operation> dans des <operation> coupes </operation> et laisser refroidir au réfrigérateur 3 h minimum .
+</preparation>
+</recette>

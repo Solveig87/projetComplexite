@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20302">
+<titre>Gratin de courge sucré à l'ancienne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une tranche de courge muscade</p>
+<p>4 oeufs</p>
+<p>les 3/4 d'un paquet de petits beurre</p>
+<p>5 cuillerées à soupe de sucre en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="courge"> cuire </operation> la <ingredient action="cuire" quantite="1 tranche"> courge </ingredient> à la vapeur 10 mn , après l' avoir <operation> épluchée </operation> , puis <operation> mettre </operation> dans le bol du robot tous les ingrédients . <operation> mettre </operation> à four chaud 30 mn à 200 <operation> degrés </operation> .
+</preparation>
+</recette>

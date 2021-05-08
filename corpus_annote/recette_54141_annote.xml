@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54141">
+<titre>Roulade de jambon flambée au porto</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de jambons pic-nic</p>
+<p>1 paquet de fromage râpé</p>
+<p>1 verre de porto</p>
+<p>1 verre de crème fraîche</p>
+<p>cassonade</p>
+<p>un peu de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon;fromage"> confectionner </operation> 8 roulades avec le <ingredient action="confectionner" quantite="8 tranche"> jambon </ingredient> et le <ingredient action="confectionner"> fromage </ingredient> <operation> râpé </operation> . petit truc : <operation> disposer </operation> la préparation plutôt au centre que sur les bords . <operation ingredients="beurre"> chauffer </operation> une <operation> poêle </operation> avec un peu de <ingredient action="chauffer"> beurre </ingredient> et y <operation> cuire </operation> les roulades . quand les roulades commencent à <operation> colorer </operation> , <operation ingredients="cassonade"> saupoudrer </operation> les roulades de <ingredient action="saupoudrer" quantite=""> cassonade </ingredient> et laisser <operation> cuire </operation> jusqu' à ce que les roulades <operation> brunissent </operation> . <operation> réserver </operation> les roulades . <operation ingredients="porto"> verser </operation> le verre de <ingredient action="verser" quantite="1 verre"> porto </ingredient> dans la <operation> poêle </operation> bien chaude , <operation> chauffer </operation> quelques secondes , puis <operation> flamber </operation> . lorsque le <ingredient quantite="1 verre"> porto </ingredient> commence à s' <operation> éteindre </operation> , <operation ingredients="crème"> verser </operation> le verre de <ingredient action="verser" quantite="1 verre"> crème </ingredient> fraîche et <operation> mélanger </operation> ; <operation ingredients="cassonade;sel"> rectifier </operation> ensuite avec la <ingredient action="rectifier" quantite=""> cassonade </ingredient> et eventuellement du <ingredient action="rectifier"> sel </ingredient> . si la sauce est trop liquide , l' <operation> épaissir </operation> . <operation ingredients="jambon"> remettre </operation> les tranches de <ingredient action="remettre" quantite="8 tranche"> jambon </ingredient> , <operation> réchauffer </operation> le tout et servir avec frites et <ingredient> tomates </ingredient> par exemple . la sauce peut etre utilisée séparement pour une autre <ingredient quantite="8 tranche"> viande </ingredient> .
+</preparation>
+</recette>

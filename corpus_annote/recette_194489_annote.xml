@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194489">
+<titre>Gaufres à la limonade</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>75 cl de limonade</p>
+<p>500 g de farine</p>
+<p>4 œufs</p>
+<p>75 g de beurre</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="beurre"> fondre </operation> à feux doux le <ingredient action="fondre" quantite="75 gramme"> beurre </ingredient> . <operation ingredients="limonade;farine;œufs"> verser </operation> dans un blender la <ingredient action="verser" quantite="75 cl"> limonade </ingredient> puis la <ingredient action="verser" quantite="500 gramme"> farine </ingredient> ensuite les <ingredient action="verser" quantite="4"> œufs </ingredient> et <operation> mixer </operation> le tout . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="75 gramme"> beurre </ingredient> <operation> fondu </operation> et <operation> mixer </operation> de nouveau le tout . la <ingredient> pâte </ingredient> est prête . faire <operation ingredients="gaufres"> cuire </operation> les <ingredient action="cuire"> gaufres </ingredient> dans un gaufrier pendant 3 minutes environ puis les <operation> poser </operation> sur une <operation> grille </operation> . <operation> assaisonner </operation> selon vos goût . c' est la recette de mon grand oncle qui était forain .
+</preparation>
+</recette>

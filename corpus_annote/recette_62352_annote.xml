@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62352">
+<titre>Omelette aux pêches</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>6 pêches moyennes voire petites selon les goûts</p>
+<p>6 cuillères à soupe de lait</p>
+<p>3 cuillères à café de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les 6 <ingredient quantite="6"> pêches </ingredient> , puis les <operation> couper </operation> en petits dés . <operation ingredients="oeufs"> battre </operation> les 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> dans un bol et <operation ingredients="sucre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à café"> sucre </ingredient> et le <ingredient action="ajouter" quantite="6 cuillère à soupe"> lait </ingredient> . <operation> mettre </operation> la préparation dans une pôele moyenne et y <operation ingredients="pêches"> répartir </operation> les dés de <ingredient action="répartir" quantite="6"> pêches </ingredient> . laisser <operation> cuire </operation> l' omelette selon vos goût ( c' est- . dire du " gluant " au " bien cuit " ) en <operation> mélangeant </operation> un peu dans la pôele . ( ne pas <operation> couvrir </operation> car cela empêcherait l' évaporation du <ingredient> jus </ingredient> que rejettent les <ingredient quantite="6"> pêches </ingredient> ! ) servir chaud et <operation ingredients="sucre"> saupoudrer </operation> d' un peu de <ingredient action="saupoudrer" quantite="3 cuillère à café"> sucre </ingredient> en <operation> poudre </operation> .
+</preparation>
+</recette>

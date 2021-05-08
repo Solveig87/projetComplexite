@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71434">
+<titre>Tartines au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bonnes tranches de pain</p>
+<p>125 g environ de mascarpone</p>
+<p>4 cuillères à café de miel</p>
+<p>3 cuillères à soupe d'amandes effilées</p>
+<p>4 petits kiwis (ou autre fruit frais: fraises, framboises, bananes,...)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;mascarpone"> tartiner </operation> les tranches de <ingredient action="tartiner"> pain </ingredient> d' une bonne couche de <ingredient action="tartiner" quantite="125 gramme"> mascarpone </ingredient> . y faire couler un filet de <ingredient quantite="4 cuillère à café"> miel </ingredient> , puis <operation ingredients="fruits"> déposer </operation> les tranches de <ingredient action="déposer" quantite="3 cuillère à soupe;4"> fruits </ingredient> et <operation ingredients="amandes"> parsemer </operation> d' <ingredient action="parsemer" quantite="3 cuillère à soupe"> amandes </ingredient> effilées . pour un petit-déjeuner câlin du dimanche matin . . . un bon <ingredient> café </ingredient>
+</preparation>
+</recette>

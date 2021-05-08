@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11501">
+<titre>Tomates à la provencale</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>quelques tomates rondes (le nombre de tomates dépend de la taille de la poêle)</p>
+<p>1 bouquet de persil plat</p>
+<p>des gousses d'ail</p>
+<p>de la mie de pain rassi ou grillé</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+on <operation ingredients="tomate"> enlève </operation> le pédoncule de chaque <ingredient action="enlever" quantite="quelque"> tomate </ingredient> , on <operation> coupe </operation> au milieu et on les <operation> met </operation> côté peau serrées dans la <operation> poêle </operation> . on les sale généreusement , on <ingredient> poivre </ingredient> comme on aime . on <operation ingredients="persil;gousses;pain"> hache </operation> menu et ensemble les feuilles de <ingredient action="hache"> persil </ingredient> , les <ingredient action="hache" quantite="1"> gousses </ingredient> d' ail débarrassées de leur peau et de leur partie centrale indigeste et la mie de <ingredient> pain </ingredient> rassis ( ou la tranche de <ingredient action="hache"> pain </ingredient> <operation> grillée </operation> ) . a la petite cuillère , on <operation> dépose </operation> ce <operation> mélange </operation> en le tassant un peu . tant pis s' il en tombe entre les <ingredient quantite="quelque"> tomates </ingredient> . on arrose d' <ingredient quantite=""> huile </ingredient> d' olive sur les <ingredient quantite="quelque"> tomates </ingredient> et à côté . on fait <operation> démarrer </operation> à chaud la cuisson , on baisse la chaleur et on laisse <operation> couvert </operation> . c' est <operation> cuit </operation> quand la pointe du <ingredient action="enfoncer"> couteau </ingredient> s' <operation ingredients="couteau;tomates"> enfonce </operation> dans le milieu des <ingredient action="enfoncer" quantite="quelque"> tomates </ingredient> . c' est bon réchauffé ! rosé de provence
+</preparation>
+</recette>

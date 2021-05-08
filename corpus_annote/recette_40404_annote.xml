@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40404">
+<titre>Brick à la frangipane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 feuilles de brick (paquet vendu dans le commerce)</p>
+<p>1 sachet préparation pour frangipane</p>
+<p>huile pour friture</p>
+<p>1 oeuf (pour le jaune)</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la frangipane ( 2 min ) . <operation ingredients="brick"> couper </operation> les feuilles de <ingredient action="couper" quantite="10 feuille"> brick </ingredient> en 2 de façon à obtenir des demi-cercles . les <operation> garnir </operation> avec la frangipane puis les fermer de façon à obtenir un triangle ( <operation ingredients="oeuf"> coller </operation> à l' aide du jaune d' <ingredient action="coller" quantite="1"> oeuf </ingredient> ) . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> puis faire <operation> frire </operation> les beignets ( <operation> compter </operation> quelques minutes pour que le beignet soit doré et que la frangipane soit assez cuite ) . <operation> poser </operation> les beignets sur du papier absorbant pour <operation ingredients="huile"> enlever </operation> le surplus d' <ingredient action="enlever" quantite=""> huile </ingredient> ( ne pas laisser trop refroidir car c' est meilleur chaud ! )
+</preparation>
+</recette>

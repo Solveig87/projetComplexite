@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42103">
+<titre>Apple pie</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>2 cuillères à café bien pleines de farine</p>
+<p>1 pincée de sel</p>
+<p>100 g de sucre</p>
+<p>1 oeuf</p>
+<p>25 cl de crème fraîche</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 grosse pomme coupée en petits cubes</p>
+<p>Pour le nappage :</p>
+<p>45 g de farine (ou 5 grosses cuillères à soupe de farine)</p>
+<p>75 g de sucre (ou 5 grosses cuillères à soupe de sucre)</p>
+<p>1 cuillère à café rase de cannelle</p>
+<p>45 g de beurre</p>
+</ingredients>
+<preparation>
+tapissez le fond d' un <operation> moule </operation> à tarte avec la <ingredient quantite="1"> pâte </ingredient> <operation> brisée </operation> . <operation ingredients="farine;sel;sucre;sucre"> mélangez </operation> la <ingredient action="mélanger" quantite="45 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> , le <ingredient action="mélanger" quantite="100 gramme+75 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="100 gramme+75 gramme"> sucre </ingredient> vanillé . <operation ingredients="oeuf;crème;sucre;pommes"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche , le <ingredient action="ajouter" quantite="100 gramme+75 gramme"> sucre </ingredient> vanillé et les <ingredient action="ajouter" quantite="1"> pommes </ingredient> ; <operation ingredients="pâte"> versez </operation> sur la <ingredient action="verser" quantite="1"> pâte </ingredient> . <operation> préparez </operation> ensuite le nappage , en <operation ingredients="farine;sucre;cannelle;beurre"> mélangeant </operation> la <ingredient action="mélanger" quantite="45 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="100 gramme+75 gramme"> sucre </ingredient> , la <ingredient action="mélanger"> cannelle </ingredient> , et le <ingredient action="mélanger" quantite="45 gramme"> beurre </ingredient> . <operation> mélangez </operation> , en utilisant une technique facile pour <operation ingredients="couteau"> faire </operation> des miettes : avec 1 <ingredient action="faire"> couteau </ingredient> dans chaque main , traversez la <ingredient quantite="1"> pâte </ingredient> dans tous les sens . <operation ingredients="tarte"> dispersez </operation> sur le dessus de la <ingredient action="disperser"> tarte </ingredient> . <operation> enfournez </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) , puis servez tiède . <ingredient> cidre </ingredient>
+</preparation>
+</recette>

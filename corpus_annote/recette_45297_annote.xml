@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45297">
+<titre>Gratin de gnocchi facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de gnocchi</p>
+<p>2 blancs de poulet</p>
+<p>20 cl de coulis de tomate</p>
+<p>20 cl de crème légère</p>
+<p>fromage râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gnocchi"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> gnocchi </ingredient> , comme indiqué sur le paquet . débiter le <ingredient> poulet </ingredient> en petits morceaux , et le faire <operation> revenir </operation> à la <operation> poêle </operation> . une fois le <ingredient action="retirer"> poulet </ingredient> cuit , <operation ingredients="poulet"> retirer </operation> la <operation> poêle </operation> du feu , et <operation ingredients="tomate;crème"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomate </ingredient> et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . <operation ingredients="gnocchi"> mélanger </operation> cette sauce aux <ingredient action="mélanger" quantite="500 gramme"> gnocchi </ingredient> . <operation> verser </operation> dans un plat à gratin , et <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer" quantite=""> fromage </ingredient> râpé . <operation> gratiner </operation> au four . plat très nourrissant , inventé un jour de " frigo vide " , un régal bon marché .
+</preparation>
+</recette>

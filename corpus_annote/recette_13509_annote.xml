@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13509">
+<titre>Frangipane facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de poudre d'amandes</p>
+<p>11 œufs entiers</p>
+<p>1 kg de beurre en pommade</p>
+<p>1 kg de sucre glace</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;amandes"> mélanger </operation> le <ingredient action="mélanger" quantite="1 kilogramme"> sucre </ingredient> , la <operation> poudre </operation> d' <ingredient action="mélanger"> amandes </ingredient> , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 kilogramme"> beurre </ingredient> en pommade et <operation ingredients="œufs"> incorporer </operation> les <ingredient action="incorporer" quantite="11"> œufs </ingredient> un à un . <operation> tourner </operation> jusqu' à complet blanchiment de l' appareil . donne 4 kilos de frangipane , qui permettent de <operation ingredients="galettes"> garnir </operation> 16 <ingredient action="garnir"> galettes </ingredient> environ .
+</preparation>
+</recette>

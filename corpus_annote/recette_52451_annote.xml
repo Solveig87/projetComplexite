@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52451">
+<titre>Spaghetti aux moules sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon </p>
+<p>1.5 l de moules dans leur coquille lavées et grattées</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail écrasées</p>
+<p>425 g de tomates en boîte</p>
+<p>1 tasse de vin blanc</p>
+<p>1 cuillère à soupe de basilic frais haché</p>
+<p>2 cuillères à soupe de persil frais haché</p>
+<p>sel et poivre</p>
+<p>500 g de spaghetti</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;ail;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="tomates;vin;basilic;persil"> rajouter </operation> les <ingredient action="rajouter" quantite="425 gramme"> tomates </ingredient> <operation> écrasées </operation> non <operation> égouttées </operation> , le <ingredient action="rajouter"> vin </ingredient> , le <ingredient action="rajouter" quantite="1 cuillère à soupe"> basilic </ingredient> , le <ingredient action="rajouter"> persil </ingredient> , sel et poivre . <operation> porter </operation> à <operation> ébullition </operation> et laisser <operation> mijoter </operation> 15 à 20 min , jusqu' à épaississement de la sauce . <operation> rajouter </operation> les <operation> moules </operation> et laisser <operation> cuire </operation> environ 5 à 8 min , en <operation> remuant </operation> de temps en temps . faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> spaghetti </ingredient> selon le temps indiqué sur le paquet , et les <operation> égoutter </operation> . servir les <operation> moules </operation> et la sauce sur les <ingredient> pâtes </ingredient> . servir ce plat complet avec du <ingredient> pain </ingredient> croustillant et une <ingredient> salade </ingredient> verte . <ingredient> vin </ingredient> blanc ou rosé bien frais
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194818">
+<titre>Compote pomme, banane, kiwi</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 pommes</p>
+<p>4 kiwis</p>
+<p>3 bananes</p>
+<p>1 cuillère à café de jus de citron</p>
+<p>1 cuillère à café de cannelle</p>
+<p>1 cuillère à café de miel</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>4 feuilles de menthe</p>
+<p>1 verre d'eau</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="fruits"> couper </operation> les <ingredient action="couper" quantite="3;4;3;1 cuillère à café"> fruits </ingredient> en morceaux puis les <operation> mettre </operation> dans une casserole à feu doux . <operation ingredients="miel"> ajouter </operation> l' eau , le <ingredient action="ajouter" quantite="1 cuillère à café"> miel </ingredient> , le <ingredient quantite="1 cuillère à café"> jus </ingredient> de citron , le <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> vanillé , le <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> , la <ingredient quantite="1 cuillère à café"> cannelle </ingredient> et la <ingredient quantite="4 feuille"> menthe </ingredient> et bien <operation> remuer </operation> . laisser <operation> cuire </operation> à feu doux pendant environ 35 min . enfin , <operation> mixer </operation> le tout , laisser refroidir et déguster . <ingredient> cidre </ingredient> doux
+</preparation>
+</recette>

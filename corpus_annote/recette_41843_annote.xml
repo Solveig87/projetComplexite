@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41843">
+<titre>Bouillon de légumes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 l d'eau</p>
+<p>3 carottes</p>
+<p>3 navets</p>
+<p>1/2 céleri rave</p>
+<p>1 côte de céleri branche</p>
+<p>3 poireaux</p>
+<p>2 oignons, dont 1 piqué de 3 clous de girofle</p>
+<p>1 bouquet garni (laurier, thym, romarin)</p>
+<p>1 bouquet de persil</p>
+<p>10 grains de poivre</p>
+<p>gros sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="3;3;3;2"> légumes </ingredient> , et les <operation> couper </operation> grossièrement ( sans les <operation> éplucher </operation> ! ) . tout <operation ingredients="bouillon"> porter </operation> à <operation> ébullition </operation> dans les 3 litres d' eau ( sans trop <operation> saler </operation> en début de cuisson ) , pendant 1 h à <operation> couvert </operation> , ou plus pour un <ingredient action="porter"> bouillon </ingredient> plus <operation> concentré </operation> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> , puis <operation> filtrer </operation> sans trop <operation ingredients="légumes"> presser </operation> les <ingredient action="presser" quantite="3;3;3;2"> légumes </ingredient> , pour conserver un <ingredient> bouillon </ingredient> clair .
+</preparation>
+</recette>

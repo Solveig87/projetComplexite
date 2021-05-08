@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223100">
+<titre>Velouté de topinambours au curry</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 topinambours</p>
+<p>3 pommes de terre</p>
+<p>4 carottes</p>
+<p>2 cubes de bouillon de volaille</p>
+<p>5 portions de fromage frais</p>
+<p>2 cuillères à café de curry</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="topinambours;pommes;carotte"> pelez </operation> les <ingredient action="peler" quantite="10"> topinambours </ingredient> , les <ingredient action="peler" quantite="3"> pommes </ingredient> de terre et la <ingredient action="peler" quantite="4"> carotte </ingredient> . <operation ingredients="légumes"> nettoyez </operation> les <ingredient action="nettoyer" quantite="10;3;4"> légumes </ingredient> et <operation> placez </operation> - les dans la cocotte minute <operation> recouverts </operation> d' eau . laissez <operation> cuire </operation> pendant 30 min . <operation ingredients="légumes"> retirez </operation> les <ingredient action="retirer" quantite="10;3;4"> légumes </ingredient> du bouillon et <operation> réservez </operation> celui-ci . <operation ingredients="légumes"> mixez </operation> les <ingredient action="mixez" quantite="10;3;4"> légumes </ingredient> , et faîtes un appoint de liquide avec le <ingredient> bouillon </ingredient> de légume pour obtenir la consistance souhaitée . <operation ingredients="curry;poivre"> placez </operation> le velouté sur feu doux , <operation ingredients="fromage"> ajoutez </operation> les portions de <ingredient action="ajouter"> fromage </ingredient> frais , le <ingredient action="placer" quantite="2 cuillère à café"> curry </ingredient> et le <ingredient action="placer" quantite=""> poivre </ingredient> . <operation> mélangez </operation> jusqu' à ce que le <ingredient action="fondre"> fromage </ingredient> ait <operation ingredients="fromage"> fondu </operation> . dégustez !
+</preparation>
+</recette>

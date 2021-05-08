@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55238">
+<titre>Châtaignes grillées au feu de bois</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poêle à châtaigne (poêle trouée)</p>
+<p>1 feu de braises (sans flamme)</p>
+<p>500 g de châtaignes (les châtaignes doivent être brillantes, sans le moindre petit trou signalant la présence d'un petit vers...)</p>
+</ingredients>
+<preparation>
+allumer un feu de bois de façon à <operation ingredients="châtaignes"> cuire </operation> vos <ingredient action="cuire" quantite="500 gramme"> châtaignes </ingredient> au moment où il n' y aura plus que les braises . <operation ingredients="châtaigne"> fendre </operation> la peau de chaque <ingredient action="fendre" quantite="500 gramme"> châtaigne </ingredient> du côté bombé dans le sens de la largeur . <operation> poser </operation> la <operation> poêle </operation> sur les braises et lorsqu' elle est chaude , <operation ingredients="châtaignes"> verser </operation> les <ingredient action="verser" quantite="500 gramme"> châtaignes </ingredient> <operation> fendues </operation> sur une seule couche . <operation> remuer </operation> la <operation> poêle </operation> régulièrement pour que les <ingredient quantite="500 gramme"> châtaignes </ingredient> ne brûlent pas et qu' elles <operation> grillent </operation> uniformément . elles sont <operation> cuites </operation> lorsque la peau fendue s' écarte et que la pointe d' un <ingredient> couteau </ingredient> pénêtre facilement . il ne vous reste plus qu' à <operation ingredients="châtaignes"> éplucher </operation> les <ingredient action="éplucher" quantite="500 gramme"> châtaignes </ingredient> avant de vous régaler . si vous ne <ingredient> mangez </ingredient> pas tout , il suffit de garder les <ingredient quantite="500 gramme"> châtaignes </ingredient> <ingredient action="éplucher" quantite="1;1"> non </ingredient> <operation ingredients="non"> épluchées </operation> dans un sac en papier . pour les <operation> réchauffer </operation> sans les sécher : les <operation> passer </operation> avec le sac 30 secondes au four micro-ondes . vous pouvez aussi profiter des braises pour faire <operation ingredients="sucre;vin"> fondre </operation> un <ingredient action="fondre"> sucre </ingredient> avec une goutte de <ingredient action="fondre"> vin </ingredient> rouge dans une cuillère à soupe et de le <operation ingredients="châtaigne"> verser </operation> sur la <ingredient action="verser" quantite="500 gramme"> châtaigne </ingredient> <operation> cuite </operation> et <operation> épluchée </operation> .
+</preparation>
+</recette>

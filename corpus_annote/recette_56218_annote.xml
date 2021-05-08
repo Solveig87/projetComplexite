@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56218">
+<titre>Soupe de vermicelles à l'oeuf</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l d'eau</p>
+<p>2 cubes de bouillon maggi</p>
+<p>4 poignées de vermicelles</p>
+<p>4 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon"> préparer </operation> un <ingredient action="préparer"> bouillon </ingredient> avec les cubes , <operation> porter </operation> à ebullition . y <operation ingredients="vermicelles"> jeter </operation> les <ingredient action="jeter"> vermicelles </ingredient> . <operation ingredients="oeufs"> séparer </operation> le blanc des jaunes des <ingredient action="séparer" quantite="4"> oeufs </ingredient> , <operation ingredients="bouillon;vermicelles"> mettre </operation> le blanc dans le <ingredient action="mettre"> bouillon </ingredient> avec les <ingredient action="mettre"> vermicelles </ingredient> . <operation ingredients="oeufs"> mettre </operation> les jaunes d' <ingredient action="mettre" quantite="4"> oeufs </ingredient> dans un bol et les <operation ingredients="huile"> monter </operation> avec un peu d' <ingredient action="monter"> huile </ingredient> , <operation> réserver </operation> . quand les <ingredient action="cuire"> vermicelles </ingredient> et le blanc d' <ingredient action="cuire" quantite="4"> oeuf </ingredient> sont <operation ingredients="vermicelles;oeuf"> cuits </operation> ( 5 minutes ) , <operation> retirer </operation> du feu , attendre 2 min et <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> en <operation> fouettant </operation> . servir aussitôt ! cette recette plaît aux enfants mais aussi aux parents , bon appétit !
+</preparation>
+</recette>

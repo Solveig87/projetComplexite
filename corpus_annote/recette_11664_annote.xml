@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11664">
+<titre>Tartare de cheval</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de viande de cheval ou de poulain hachée</p>
+<p>10 g d'huile d'olive</p>
+<p>5 g de vinaigre</p>
+<p>30 g de moutarde</p>
+<p>20 g de persil</p>
+<p>2 gousses d'ail</p>
+<p>3 oignons</p>
+<p>ketchup</p>
+<p>cognac ou Madère</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile;vinaigre;moutarde;cognac"> mélangez </operation> dans un saladier 10 g d' <ingredient action="mélanger" quantite="10 gramme"> huile </ingredient> d' olive , 5 g de <ingredient action="mélanger" quantite="5 gramme"> vinaigre </ingredient> , 30 g de <ingredient action="mélanger" quantite="30 gramme"> moutarde </ingredient> et un grosse cuillerée de <ingredient action="mélanger" quantite=""> cognac </ingredient> ou madère ( selon les goûts ) . brassez jusqu' à ce que cette sauce soit <operation> lisse </operation> . <operation ingredients="persil;gousses;oignons;sel;ketchup"> ajoutez </operation> 20 g de <ingredient action="ajouter" quantite="20 gramme"> persil </ingredient> <operation> haché </operation> , 2 <ingredient action="ajouter" quantite="2"> gousses </ingredient> d' ail <operation> écrasées </operation> , 3 <ingredient action="ajouter" quantite="3"> oignons </ingredient> <operation> émincés </operation> finement , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre et un peu de <ingredient action="ajouter" quantite=""> ketchup </ingredient> . <operation> mélangez </operation> bien à nouveau le tout et <operation ingredients="viande"> incorporez </operation> la <ingredient action="incorporer" quantite="800 gramme"> viande </ingredient> en <operation> travaillant </operation> à la fourchette . laissez <operation> reposer </operation> pendant 5 min avant de <operation ingredients="steaks"> former </operation> les <ingredient action="former"> steaks </ingredient> et de les servir crus sur toasts .
+</preparation>
+</recette>

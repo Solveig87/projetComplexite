@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23770">
+<titre>Saumonette mijotée au vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de saumonette</p>
+<p>1,2 kg de pommes de terre</p>
+<p>40 cl de vin blanc</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni (thym, laurier)</p>
+<p>75 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> pelez </operation> et <operation> émincez </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> . <operation ingredients="ail"> pilez </operation> l' <ingredient action="pilez"> ail </ingredient> . <operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1,2 kilogramme"> pommes </ingredient> de terre en rondelles . <operation ingredients="poisson"> coupez </operation> le <ingredient action="couper"> poisson </ingredient> en gros tronçons . <operation> salez </operation> et <operation> poivrez </operation> - les . faites <operation ingredients="beurre"> fondre </operation> la moitié du <ingredient action="fondre" quantite="75 gramme"> beurre </ingredient> . faites - y <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="2"> oignons </ingredient> . <operation ingredients="ail;bouquet"> ajoutez </operation> les morceaux de saumonette , l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="pommes;beurre"> couvrez </operation> avec les <ingredient action="couvrir" quantite="1,2 kilogramme"> pommes </ingredient> de terre , et des petits morceaux de <ingredient action="couvrir" quantite="75 gramme"> beurre </ingredient> . <operation ingredients="vin"> mouillez </operation> avec le <ingredient action="mouiller" quantite="40 cl"> vin </ingredient> blanc , <operation> salez </operation> et <operation> poivrez </operation> . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 45 minutes à feu doux . vous pouvez <operation ingredients="crème;jus"> ajouter </operation> un peu de <ingredient action="ajouter"> crème </ingredient> dans le <ingredient action="ajouter"> jus </ingredient> de cuisson à la fin et laisser <operation> épaissir </operation> quelques minutes à feu doux .
+</preparation>
+</recette>

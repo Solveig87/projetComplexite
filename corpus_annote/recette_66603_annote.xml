@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66603">
+<titre>Cannelés sans gluten</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait entier ou demi-écrémé</p>
+<p>100 g de farine de riz</p>
+<p>1 à 2 sachet(s) de sucre vanillé</p>
+<p>50 g de beurre</p>
+<p>1 pincée de sel</p>
+<p>220 g de sucre</p>
+<p>2 oeufs entiers + 2 jaunes</p>
+<p>1 verre à liqueur de rhum ou amaretto</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;beurre;sucre"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> avec le <ingredient action="bouillir" quantite="50 gramme"> beurre </ingredient> et le <ingredient action="bouillir" quantite="220 gramme"> sucre </ingredient> vanillé . a part , <operation ingredients="farine"> mélanger </operation> la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , le <ingredient quantite="1 pincée"> sel </ingredient> , le <ingredient quantite="220 gramme"> sucre </ingredient> et les <ingredient quantite="2"> oeufs </ingredient> ( entiers + jaunes ) . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="50 cl"> lait </ingredient> bouillant sur l' appareil . bien <operation> remuer </operation> jusqu' à ce qu' il n' y ait plus de grumeaux et <operation> ajouter </operation> l' alcool . laisser refroidir au frigo une nuit . préchauffer le four à 250 <operation> ° </operation> c ( thermostat . 9 ) . <operation> enfourner </operation> les cannelés 10 min à cette température , baisser à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 30 min , puis baisser à 150 <operation> ° </operation> c ( thermostat 5 ) pendant encore 30 min . a la fin de la cuisson , sortir immédiatement les cannelés du four pour avoir un choc thermique et <operation> démouler </operation> chaud .
+</preparation>
+</recette>

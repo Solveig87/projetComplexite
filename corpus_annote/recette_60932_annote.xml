@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60932">
+<titre>Maquereaux grillés à la méditerranéenne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 maquereaux</p>
+<p>1 citron</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+<p>1 bouquet de persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="maquereaux"> vider </operation> les <ingredient action="vider" quantite="4"> maquereaux </ingredient> et les faire <operation> griller </operation> au barbecue ou sous le grill du four ( environ 1 . 15 minutes ) . <operation ingredients="persil"> hacher </operation> le <ingredient action="hacher"> persil </ingredient> , le <operation ingredients="jus;huile"> mélanger </operation> au <ingredient action="mélanger"> jus </ingredient> du citron et à l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="maquereau"> arroser </operation> chaque <ingredient action="arroser" quantite="4"> maquereau </ingredient> avec cette sauce avant de servir .
+</preparation>
+</recette>

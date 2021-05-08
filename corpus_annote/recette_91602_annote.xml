@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91602">
+<titre>Beignets légers au four</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200g de farine</p>
+<p>30g de sucre</p>
+<p>30g de beurre</p>
+<p>90g de lait</p>
+<p>un sachet de levure</p>
+<p>1 œuf</p>
+<p>confiture (optionnel)</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre"> mélanger </operation> la <ingredient action="mélanger" quantite="200 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="30 gramme"> sucre </ingredient> , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> bien <operation ingredients="œuf"> ramolli </operation> puis l' <ingredient action="ramollir" quantite="1"> œuf </ingredient> . <operation ingredients="levure;lait"> diluer </operation> la <ingredient action="diluer"> levure </ingredient> dans le <ingredient action="diluer" quantite="90 gramme"> lait </ingredient> et l' <operation> ajouter </operation> à la préparation . laisser <operation> reposer </operation> une heure au chaud sous un linge humide . préchauffer le four ( thermostat 6 . 180 <operation> ° </operation> c ) <operation ingredients="pâte"> séparer </operation> la <ingredient action="séparer"> pâte </ingredient> en six et <operation> former </operation> des boules . <operation ingredients="confiture"> placer </operation> une cuillère de <ingredient action="placer" quantite=""> confiture </ingredient> au centre de chaque beignets . <operation> enfourner </operation> pour 15 à 20 min en surveillant bien la cuisson .
+</preparation>
+</recette>

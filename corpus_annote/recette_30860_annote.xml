@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30860">
+<titre>Salade de pêches blanches</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pêches blanches</p>
+<p>5 cuillères à soupe de sirop de sucre de canne</p>
+<p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+<p>1 branche de menthe fraîche</p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pêches"> peler </operation> les <ingredient action="peler" quantite="8"> pêches </ingredient> et les <operation> couper </operation> en quartiers d'1 cm environ d' épaisseur . les <operation> placer </operation> dans un saladier et <operation ingredients="sirop;sucre;menthe"> ajouter </operation> le <ingredient action="ajouter" quantite="5 cuillère à soupe"> sirop </ingredient> , le <ingredient action="ajouter"> sucre </ingredient> et la <ingredient action="ajouter"> menthe </ingredient> . bien <operation> mélanger </operation> le tout , et <operation> placer </operation> au réfrigérateur au moins 4 h. servir très frais !
+</preparation>
+</recette>

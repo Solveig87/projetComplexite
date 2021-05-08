@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26607">
+<titre>Bananes au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 petites bananes fermes</p>
+<p>1 L de lait de coco</p>
+<p>5 cuillerées à soupe de tapioca</p>
+<p>100 g de sucre</p>
+<p>1 gousse de vanille</p>
+<p>100 g d'arachides grillées et concassées</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> pelez </operation> les <ingredient action="peler" quantite="12"> bananes </ingredient> . les <operation ingredients="lait;sucre"> cuire </operation> dans une casserole avec le <ingredient action="cuire" quantite="1 l"> lait </ingredient> de coco , le <ingredient action="cuire" quantite="100 gramme"> sucre </ingredient> et le vanille durant environ 15 min à feu doux . <operation ingredients="tapioca"> ajoutez </operation> le <ingredient action="ajouter"> tapioca </ingredient> et <operation> cuire </operation> encore 5 min . servir tiède <operation> saupoudré </operation> de <ingredient> cacahuètes </ingredient> et de <ingredient quantite="1 l"> lait </ingredient> de coco très frais .
+</preparation>
+</recette>

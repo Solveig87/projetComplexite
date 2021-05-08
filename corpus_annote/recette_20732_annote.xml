@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20732">
+<titre>Spätzle maison</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>3 oeufs</p>
+<p>5 g de sel</p>
+<p>50 g beurre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="farine;oeufs;sel"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme"> farine </ingredient> avec les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="5 gramme"> sel </ingredient> et un peu d' eau , de manière à obtenir une <ingredient> pâte </ingredient> pas trop épaisse , légèrement " coulante " . faire <operation> bouillir </operation> un grand volume d' eau <operation> salée </operation> . <operation ingredients="pâte"> etaler </operation> un peu de <ingredient action="etaler"> pâte </ingredient> sur une planchette , la <operation> plonger </operation> dans l' eau bouillants en <operation ingredients="pâte"> détachant </operation> des petites lamelles de <ingredient action="détacher"> pâte </ingredient> à l' aide d' une spatule . les spätzle sont <operation> cuits </operation> lorsqu' ils remontent à la surface . les <operation> égoutter </operation> et <operation> rincer </operation> à l' eau froide . faire <operation ingredients="beurre"> revenir </operation> les spätzle au <ingredient action="revenir"> beurre </ingredient> dans une <operation> poêle </operation> , ils seront bien meilleurs ainsi , légèrement dorés .
+</preparation>
+</recette>

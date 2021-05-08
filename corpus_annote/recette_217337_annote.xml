@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217337">
+<titre>Soupe froide au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 cl de lait</p>
+<p>20 cl de crème liquide entière</p>
+<p>200 g de chocolat noir pâtissier</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;crème"> bouillir </operation> le <ingredient action="bouillir" quantite="30 cl"> lait </ingredient> et la <ingredient action="bouillir" quantite="20 cl"> crème </ingredient> , puis <operation ingredients="chocolat"> verser </operation> le tout sur le <ingredient action="verser" quantite="200 gramme"> chocolat </ingredient> noir cassé en petits morceaux . <operation> mélanger </operation> ensuite délicatement , puis laisser refroidir et <operation> réserver </operation> au réfrigérateur . au moment de servir , il est possible de la <operation> mixer </operation> pour obtenir un aspect <operation> frappé </operation> . servir la <ingredient> soupe </ingredient> dans des assiettes creuses , <operation ingredients="croutons;chocolat"> agrémentée </operation> de " <ingredient action="agrémenter"> croutons </ingredient> " au <ingredient action="agrémenter" quantite="200 gramme"> chocolat </ingredient> , c' est à dire des morceaux de brownies <operation> découpés </operation> en petits cubes . bon appétit !
+</preparation>
+</recette>

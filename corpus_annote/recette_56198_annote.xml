@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56198">
+<titre>Parmentier de boeuf à la noix de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de boeuf haché</p>
+<p>2 oignons</p>
+<p>4 pommes de terre</p>
+<p>25 cl de lait</p>
+<p>15 cl de lait de coco</p>
+<p>40 g de noix de coco rapée</p>
+<p>50 g de beurre</p>
+<p>2 cuillères de maizéna</p>
+<p>1 citron</p>
+<p>un peu de piment doux</p>
+<p>fromage ( gruyère, mozza, ...)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à la vapeur puis les <operation> écraser </operation> dans un saladier . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . faire <operation ingredients="boeuf;oignons"> revenir </operation> le <ingredient action="revenir" quantite="400 gramme"> boeuf </ingredient> haché avec les <ingredient action="revenir" quantite="2"> oignons </ingredient> et le piment doux <operation> coupé </operation> en petits dés . dans une casserole , faire <operation ingredients="beurre;lait"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , <operation ingredients="maïzéna"> mélanger </operation> ensuite la <ingredient action="mélanger"> maïzéna </ingredient> puis <operation ingredients="lait"> verser </operation> progressivement le <ingredient action="verser" quantite="25 cl+15 cl"> lait </ingredient> , le <ingredient action="fondre" quantite="25 cl+15 cl"> lait </ingredient> de coco et <operation> remuer </operation> tout le temps jusqu' à ce que cela <operation> épaississe </operation> . <operation ingredients="noix"> rajouter </operation> alors la <ingredient action="rajouter" quantite="40 gramme"> noix </ingredient> de coco <operation ingredients="citron"> rapée </operation> et le zeste du <ingredient action="raper" quantite="1"> citron </ingredient> . <operation ingredients="crème;pommes"> verser </operation> la <ingredient action="verser"> crème </ingredient> de coco dans les <ingredient action="verser" quantite="4"> pommes </ingredient> de terre <operation> écrasées </operation> , bien <operation> mélanger </operation> et <operation ingredients="jus"> rajouter </operation> le <ingredient action="rajouter"> jus </ingredient> de citron . dans un plat à gratin , <operation ingredients="boeuf"> mettre </operation> le <ingredient action="mettre" quantite="400 gramme"> boeuf </ingredient> au fond puis <operation ingredients="crème;pommes"> verser </operation> dessus la <ingredient action="verser"> crème </ingredient> de coco et les <ingredient action="verser" quantite="4"> pommes </ingredient> de terre puis <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> fromage </ingredient> , <operation> enfourner </operation> 30 minutes . le <ingredient quantite=""> fromage </ingredient> ne doit pas être trop fort , ne <operation ingredients="fromage"> mettre </operation> que du <ingredient action="mettre" quantite=""> fromage </ingredient> assez neutre de goût .
+</preparation>
+</recette>

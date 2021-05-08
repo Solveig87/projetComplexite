@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173704">
+<titre>Petite crème au chocolat et au piment d'Espelette</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>1 jaune d'oeuf</p>
+<p>20 g de sucre roux de préférence</p>
+<p>25 cl de crème fraiche</p>
+<p>piment d'Espelette en poudre a volonté</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;crème"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> avec la <ingredient action="fondre" quantite="25 cl"> crème </ingredient> fraiche . sortir du feu . laisser refroidir , puis <operation ingredients="oeuf;sucre"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> et le <ingredient action="ajouter" quantite="20 gramme"> sucre </ingredient> . <operation ingredients="rhum"> mettre </operation> dans des verrines ( ou petits verres a <ingredient action="mettre"> rhum </ingredient> ) ou petits ramequins . laisser refroidir 1 h environ . <operation> saupoudrer </operation> de piment d' espelette a volonté . j' ajoute toujours une pincée de piment dans la préparation <ingredient quantite="200 gramme"> chocolat </ingredient> / crème fraiche ! attention à ne pas trop en <ingredient> manger </ingredient> ça peut vite <operation> écœurer </operation> !
+</preparation>
+</recette>

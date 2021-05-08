@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38878">
+<titre>Cake de lotte</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg de lotte</p>
+<p>6 œufs</p>
+<p>3 citrons</p>
+<p>1 petite boite de sauce tomate</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;thym;laurier"> préparer </operation> un court-bouillon avec le <ingredient action="préparer"> jus </ingredient> de citron , le <ingredient action="préparer"> thym </ingredient> , le <ingredient action="préparer"> laurier </ingredient> , sel et poivre . quand le court-bouillon est froid , <operation ingredients="lotte"> mettre </operation> la <ingredient action="mettre" quantite="1,5 kilogramme"> lotte </ingredient> à <operation> cuire </operation> dedans , pendant 20 minutes . <operation ingredients="poisson"> egoutter </operation> le <ingredient action="egoutter" quantite="1,5 kilogramme"> poisson </ingredient> , <operation> retirer </operation> les arrêtes et <operation ingredients="lotte"> ranger </operation> les morceaux de <ingredient action="ranger" quantite="1,5 kilogramme"> lotte </ingredient> dans un <operation> moule </operation> à cake . <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="6"> œufs </ingredient> en omelette , en <operation> incorporant </operation> la sauce tomate . <operation ingredients="lotte"> versez </operation> cette préparation sur la <ingredient action="verser" quantite="1,5 kilogramme"> lotte </ingredient> et <operation> cuire </operation> au four , pendant 20 minutes . laisser refroidir et garder au réfrigérateur , sans <operation ingredients="manger"> démouler </operation> , jusqu' au moment de <ingredient action="démouler"> manger </ingredient> . servir avec une <ingredient> mayonnaise </ingredient> .
+</preparation>
+</recette>

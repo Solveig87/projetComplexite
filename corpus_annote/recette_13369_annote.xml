@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13369">
+<titre>Aubergines à la parmesane</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 aubergines</p>
+<p>sauce tomate fraîche</p>
+<p>2 mozzarellas (de 150 g chacune, égouttées)</p>
+<p>2 cuillères de sel</p>
+<p>100 g de Parmesan</p>
+<p>huile pour frire</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> sans <operation> éplucher </operation> , <operation ingredients="aubergines"> coupez </operation> en long les <ingredient action="couper" quantite="4"> aubergines </ingredient> en tranches de 1 cm et <operation ingredients="sel"> mettez </operation> dans un égouttoir avec du <ingredient action="mettre" quantite="2 cuillère"> sel </ingredient> . laissez <operation> reposer </operation> 2 heures . <operation ingredients="parmesan;mozzarellas"> preparez </operation> la sauce tomate , le <ingredient action="preparer" quantite="100 gramme"> parmesan </ingredient> <operation> râpé </operation> et les <ingredient action="preparer" quantite="2"> mozzarellas </ingredient> <operation> coupées </operation> fines . <operation ingredients="aubergines"> frire </operation> les <ingredient action="frire" quantite="4"> aubergines </ingredient> . dans un plat en pyrex rectangulaire , <operation ingredients="aubergines;mozzarella;aubergines"> placez </operation> une couche d' <ingredient action="placer" quantite="4"> aubergines </ingredient> et une de <ingredient action="placer" quantite="2"> mozzarella </ingredient> , <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> parmesan </ingredient> râpé , <operation> ajoutez </operation> ici et là de la sauce tomate , puis recomencez avec une nouvelle couche d' <ingredient action="placer" quantite="4"> aubergines </ingredient> , etc , jusqu' à épuisement des ingrédients , en terminant avec le <ingredient quantite="100 gramme"> parmesan </ingredient> <operation> râpé </operation> . <operation> versez </operation> la sauce tomate sur le tout et <operation> mettez </operation> au four à 240 <operation> ° </operation> c pendant 20 mn . <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

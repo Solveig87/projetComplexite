@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22697">
+<titre>Velouté de melon glacé</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros melon</p>
+<p>1 cuillère à café de jus de citron</p>
+<p>1 verre de Porto</p>
+<p>1/2 litre d'eau</p>
+<p>1 verre de jus d'orange</p>
+<p>1/4 de crème fleurette</p>
+<p>75 g de sucre en poudre</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="melon"> coupez </operation> le <ingredient action="couper" quantite="1"> melon </ingredient> en deux pour <operation> enlever </operation> les pépins . <operation ingredients="chair"> détachez </operation> la <ingredient action="détacher"> chair </ingredient> dont vous <operation> coupez </operation> une partie en petits dés . <operation> mettez </operation> ceux - ci en attente et <operation> réduisez </operation> la pulpe restante en purée . <operation ingredients="citron;porto"> incorporez </operation> à cette purée le <ingredient action="incorporer"> citron </ingredient> , le <ingredient action="incorporer" quantite="1 verre"> porto </ingredient> , la <ingredient> crème </ingredient> fleurette avec le <ingredient quantite="75 gramme"> sucre </ingredient> et le <ingredient quantite="1 cuillère à café+1 verre"> jus </ingredient> d' orange . <operation> délayer </operation> avec l' eau , <operation> poivrez </operation> légèrement et <operation> mettez </operation> en attente au frais pendant au moins une heure . au moment de servir , <operation ingredients="melon"> garnissez </operation> les assiettes des dés de <ingredient action="garnir" quantite="1"> melon </ingredient> <operation> réservés </operation> et <operation> recouvrez </operation> - les de velouté . rosé
+</preparation>
+</recette>

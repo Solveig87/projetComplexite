@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12846">
+<titre>Jambon fraicheur</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de jambon de Bayonne</p>
+<p>Fromage blanc non battu</p>
+<p>1 oignon frais</p>
+<p>1 tomate</p>
+<p>1/4 de concombre</p>
+<p>1 citron (son jus)</p>
+<p>Sel, poivre</p>
+<p>persil </p>
+<p>ciboulette</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> couper </operation> les tranches de <ingredient action="couper" quantite="4 tranche"> jambon </ingredient> en 2 dans le sens de la largeur . <operation ingredients="tomate;oignon;concombre"> hâcher </operation> finement la <ingredient action="hâcher" quantite="1"> tomate </ingredient> , l' <ingredient action="hâcher" quantite="1"> oignon </ingredient> , le <ingredient action="hâcher"> concombre </ingredient> et les herbes . <operation ingredients="fromage"> mélanger </operation> avec le <ingredient action="mélanger" quantite=""> fromage </ingredient> blanc et <operation ingredients="citron"> ajouter </operation> un filet de <ingredient action="ajouter" quantite="1"> citron </ingredient> , sel et poivre . <operation ingredients="jambon"> rouler </operation> le <operation> mélange </operation> dans les tranches de <ingredient action="rouler" quantite="4 tranche"> jambon </ingredient> . servir très frais .
+</preparation>
+</recette>

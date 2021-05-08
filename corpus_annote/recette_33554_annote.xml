@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33554">
+<titre>Porc au curry de Tante Bernadette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'épaule coupé en morceaux</p>
+<p>1 pomme râpée</p>
+<p>2 oignons</p>
+<p>thym</p>
+<p>laurier</p>
+<p>1 cuillère à soupe de curry</p>
+<p>300 ml de lait de coco</p>
+<p>1/2 ananas</p>
+<p>1/2 citron vert</p>
+<p>15 cl de crème fraîche</p>
+<p>1 dl de bouillon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;beurre;huile"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> et d' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="oignons;thym;curry"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> la pomme , le <ingredient action="ajouter" quantite=""> thym </ingredient> le laurier et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> curry </ingredient> . <operation ingredients="bouillon"> rajouter </operation> le <ingredient action="rajouter" quantite="1 dl"> bouillon </ingredient> et <operation> cuire </operation> 45 mn à feu doux en <operation> couvrant </operation> . 10 mn avant la fin de la cuisson <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> de coco et la <ingredient action="ajouter" quantite="15 cl"> crème </ingredient> fraîche . 5 mn avant la fin de la cuisson <operation ingredients="jus;ananas"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> de citron vert et la moitié d' <ingredient action="ajouter"> ananas </ingredient> <operation> coupée </operation> en dés .
+</preparation>
+</recette>

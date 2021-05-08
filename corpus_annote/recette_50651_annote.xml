@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50651">
+<titre>Rondelles de banane dorées à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 banane</p>
+<p>un peu de cannelle</p>
+<p>sucre</p>
+<p>un peu de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="banane"> coupez </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> en rondelles de moins d'1 cm d' épaisseur . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> , et faites - y <operation ingredients="banane"> dorer </operation> la <ingredient action="dorer" quantite="1"> banane </ingredient> . lorsqu' elle devient lègerement dorée , <operation> retournez </operation> les rondelles . <operation ingredients="sucre;cannelle"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> sucre </ingredient> et la <ingredient action="ajouter"> cannelle </ingredient> . après une légère caramélisationn <operation ingredients="banane"> ôtez </operation> la <ingredient action="ôter" quantite="1"> banane </ingredient> du feu . <operation> disposez </operation> - la dans une assiette , et dégustez chaud ! vous pouvez créer un <ingredient> jus </ingredient> avec le fond de <ingredient quantite=""> sucre </ingredient> et de <ingredient> cannelle </ingredient> . il suffit d' <operation> ajouter </operation> un tout petit peu d' eau ou d' arôme de fleur d' oranger . <operation> récuperez </operation> le fond et <operation> filtrez </operation> - le , avant de le <operation ingredients="banane"> verser </operation> sur la <ingredient action="verser" quantite="1"> banane </ingredient>
+</preparation>
+</recette>

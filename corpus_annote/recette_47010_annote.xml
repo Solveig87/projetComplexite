@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47010">
+<titre>Ailes de poulet braisées au miel et soja</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'ailes de poulet</p>
+<p>2 cuillères à soupe d'huile d arachide</p>
+<p>100 ml de sauce soja</p>
+<p>2 cuillères à soupe de miel</p>
+<p>2 cuillères à soupe de vin de xérès sec ou vin chinois</p>
+<p>1 gousse d ail</p>
+<p>1/2 cuillère à café de gingembre frais rapé fin</p>
+</ingredients>
+<preparation>
+dans un wok ou une sauteuse , faire <operation ingredients="poulet;huile"> dorer </operation> les ailes de <ingredient action="dorer"> poulet </ingredient> 3 à 4 minutes dans l’ <ingredient action="dorer" quantite="2 cuillère à soupe"> huile </ingredient> chaude à feu vif . <operation ingredients="soja;miel;vin;ail;gingembre"> ajouter </operation> la sauce <ingredient action="ajouter"> soja </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> miel </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vin </ingredient> , l’ <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> gingembre </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="poulet"> laisser </operation> <operation> mijoter </operation> 30 min à feu très doux et à <operation> couvert </operation> jusqu ’ à ce que le <ingredient action="laisser"> poulet </ingredient> soit tendre . <operation> remuer </operation> souvent en fin de cuisson pour que la sauce <operation> sucrée </operation> ne brule pas . servir tiède ou à température ambiante , <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> blanc .
+</preparation>
+</recette>

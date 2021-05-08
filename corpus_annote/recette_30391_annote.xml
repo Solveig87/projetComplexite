@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30391">
+<titre>Soupe à la noix</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 l de bouillon de volaille</p>
+<p>1 jaune d'oeuf</p>
+<p>100 g de crème fraîche</p>
+<p>200 g de poudre de noix</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+amener le <ingredient quantite="1,5 l"> bouillon </ingredient> à <operation> ébullition </operation> puis <operation ingredients="noix"> incorporer </operation> la <operation> poudre </operation> de <ingredient action="incorporer"> noix </ingredient> . <operation ingredients="oeuf;crème;poivre"> fouetter </operation> le jaune d' <ingredient action="fouetter"> oeuf </ingredient> avec la <ingredient action="fouetter" quantite="100 gramme"> crème </ingredient> et du <ingredient action="fouetter" quantite=""> poivre </ingredient> puis <operation ingredients="bouillon"> verser </operation> dans le <ingredient action="verser" quantite="1,5 l"> bouillon </ingredient> bien chaud en <operation> remuant </operation> vivement . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> et servir .
+</preparation>
+</recette>

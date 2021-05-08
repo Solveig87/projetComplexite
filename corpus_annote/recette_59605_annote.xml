@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59605">
+<titre>Pâtes aux légumes et sauce citron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 citron</p>
+<p>25 cl de demi-crème</p>
+<p>1 oignon</p>
+<p>sel et poivre</p>
+<p>piments en grain</p>
+<p>4 carottes</p>
+<p>1 courgette</p>
+<p>250 g de penne ou rigatoni</p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="carottes"> peler </operation> les <ingredient action="peler" quantite="4"> carottes </ingredient> et les <operation> couper </operation> en lamelles à l' aide d' un économe . faire la même chose avec la courgette . <operation ingredients="oignon"> emincer </operation> finement l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et le faire <operation ingredients="huile;sel"> revenir </operation> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive avec une pincée piment en grain , du <ingredient action="revenir" quantite=""> sel </ingredient> et poivre selon le goût . <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> carottes </ingredient> et faire <operation> revenir </operation> pendant 5 minutes . ensuite <operation ingredients="jus"> ajouter </operation> la courgette et le <ingredient action="ajouter"> jus </ingredient> du citron . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> et <operation ingredients="crème;pâtes"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> pendant la cuisson des <ingredient action="ajouter"> pâtes </ingredient> . si nécessaire réctifier l' <ingredient quantite=""> assaisonnement </ingredient> . <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger"> pâtes </ingredient> et la sauce avant de servir .
+</preparation>
+</recette>

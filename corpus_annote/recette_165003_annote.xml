@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165003">
+<titre>Tajine d'agneau aux dattes et à la bière</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500g d'agneau </p>
+<p>5 carottes</p>
+<p>5 pommes de terre</p>
+<p>2 oignons</p>
+<p>10 dattes sechées</p>
+<p>200g de champignons</p>
+<p>50 cl de bière blonde</p>
+<p>50 cl d'eau</p>
+<p>2 cuillères a soupe de farine</p>
+<p>1 cuillère a soupe d'épices (mélange d'épices tandori, curry, massala)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une marmitte , faites <operation ingredients="beurre;champignons"> revenir </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> les oignons <operation> émincés </operation> et les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> en morceaux , la <operation ingredients="farine"> faire </operation> <operation> rissoler </operation> légèrement puis la <operation> soupoudrer </operation> de <ingredient action="faire"> farine </ingredient> . laisser <operation> mijoter </operation> 5 minutes . <operation ingredients="bière;épices;sel;poivre;dattes"> verser </operation> la <ingredient action="verser" quantite="50 cl"> bière </ingredient> , l' eau , les <ingredient action="verser" quantite=";"> épices </ingredient> , le <ingredient action="verser" quantite=""> sel </ingredient> , le <ingredient action="verser" quantite=""> poivre </ingredient> , et les <ingredient action="verser" quantite="10"> dattes </ingredient> dénoyautées . <operation> cuire </operation> a feu doux pendant 20 minutes en <operation> remuant </operation> de temps en temps . <operation ingredients="carottes;pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> carottes </ingredient> <operation> coupées </operation> en rondelles et les <ingredient action="ajouter" quantite="5"> pommes </ingredient> de terre <operation> coupées </operation> en 4 . laisser <operation> mijoter </operation> 30 minutes . servir dans un plat a tajine . rouge
+</preparation>
+</recette>

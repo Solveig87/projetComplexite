@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89781">
+<titre>Muffins extra légers et croustillants</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>75 g de beurre fondu</p>
+<p>150 g de farine</p>
+<p>1/2 sachet de levure chimique</p>
+<p>75 g de sucre en poudre + 1 sachet de sucre vanillé</p>
+<p>75 ml de lait</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> . dans un saladier , <operation ingredients="levure;sucre"> mélangez </operation> farine , <ingredient action="mélanger"> levure </ingredient> , sucre en <operation> poudre </operation> et <ingredient action="mélanger" quantite="75 gramme"> sucre </ingredient> vanillé . faites un puits et <operation ingredients="beurre;oeuf;lait"> ajoutez </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> , l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , le <ingredient action="ajouter"> lait </ingredient> et <operation> mélangez </operation> doucement . la <ingredient> pâte </ingredient> doit devenir onctueuse . <operation> remplissez </operation> les <operation> moules </operation> à muffins aux 3 / 4 des alvéoles ( le <ingredient> muffin </ingredient> gonfle un peu à la cuisson ) . faites <operation> cuire </operation> dans le four préchauffé pendant 25 minutes à 190 <operation> ° </operation> c ( thermostat 7 ) . vous pouvez <operation ingredients="raisins;pâte"> ajouter </operation> des <ingredient action="ajouter"> raisins </ingredient> secs dans la <ingredient action="ajouter"> pâte </ingredient> , que vous aurez fait préalablement <operation ingredients="rhum"> tremper </operation> dans du <ingredient action="tremper"> rhum </ingredient> .
+</preparation>
+</recette>

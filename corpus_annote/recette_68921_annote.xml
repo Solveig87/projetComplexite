@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68921">
+<titre>Pâté de Pâques</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 bloc de pâte feuilletée de 500 g</p>
+<p>600 g de farce (viandes hachées de porc et veau mélangés)</p>
+<p>4 oeufs</p>
+<p>2 échalotes</p>
+<p>100 g de mie de pain rassis</p>
+<p>10 cl de lait</p>
+<p>sel, poivre</p>
+<p>herbes et épices au choix</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> 3 <ingredient action="cuire" quantite="4"> oeufs </ingredient> 10 minutes dans l' eau bouillante . les écaler et <operation> réserver </operation> . <operation> préparer </operation> la farce : faire <operation ingredients="pain;lait"> tremper </operation> la mie de <ingredient action="tremper"> pain </ingredient> dure dans le <ingredient action="tremper" quantite="10 cl"> lait </ingredient> , <operation> égoutter </operation> et <operation> presser </operation> pour faire sortir le maximum de <ingredient quantite="10 cl"> lait </ingredient> . <operation> mixer </operation> . <operation ingredients="échalotes"> émincer </operation> finement 2 <ingredient action="émincer" quantite="2"> échalotes </ingredient> . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> mettre </operation> la farce dans une terrine , y <operation ingredients="pain;échalotes"> ajouter </operation> la mie de <ingredient action="ajouter"> pain </ingredient> et les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> . <operation> malaxer </operation> à la main pour affiner un peu la farce . <operation> assaisonner </operation> selon les goûts . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> feuilletée au rouleau et <operation> découper </operation> 2 rectangles . <operation> poser </operation> sur un rectangle la farce crue en laissant 1 cm de bords de chaque coté . <operation ingredients="oeufs"> poser </operation> les 3 <ingredient action="poser" quantite="4"> oeufs </ingredient> sur la farce dans le sens de la longueur . les <operation> enfoncer </operation> pour qu' ils soient <operation> recouverts </operation> de farce . <operation ingredients="pâte"> poser </operation> le 2 e rectangle de <ingredient action="poser"> pâte </ingredient> , souder les bords sur tout le tour et <operation ingredients="oeuf"> badigeonner </operation> le tout avec du jaune d' <ingredient action="badigeonner" quantite="4"> oeuf </ingredient> cru . <operation> enfourner </operation> 1 h à 180 <operation> ° </operation> c. déguster tiède avec une <ingredient> salade </ingredient> verte . spécialité du berry très appréciée en poitou - charentes également .
+</preparation>
+</recette>

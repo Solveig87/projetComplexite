@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94786">
+<titre>Steak à la portugaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 beaux steaks</p>
+<p>2 tranches de jambon fumé</p>
+<p>1 demi verre de porto blanc</p>
+<p>2 feuilles de laurier</p>
+<p>3 gousses d'ail</p>
+<p>Huile d'olive</p>
+</ingredients>
+<preparation>
+. <operation ingredients="steaks;huile"> saler </operation> les <ingredient action="saler"> steaks </ingredient> <operation ingredients="ail"> peler </operation> l' <ingredient action="peler"> ail </ingredient> , <operation> retirer </operation> le germe en les <operation ingredients="laurier;ail"> coupant </operation> en deux faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> d' olive ( environ 3 cuillerées à soupe ) avec le <ingredient action="couper" quantite="2 feuille"> laurier </ingredient> et l' <ingredient action="couper"> ail </ingredient> quand l' <ingredient action="saler" quantite=""> huile </ingredient> est bien chaude , baisser le feu et <operation ingredients="steaks"> mettre </operation> les <ingredient action="mettre"> steaks </ingredient> , attendre 5 minutes et les <operation> retourner </operation> <operation ingredients="jambon;steak"> poser </operation> une tranche de <ingredient action="poser" quantite="2 tranche"> jambon </ingredient> sur chaque <ingredient action="poser"> steak </ingredient> <operation ingredients="porto"> arroser </operation> avec le <ingredient action="arroser"> porto </ingredient> <operation> couvrir </operation> , la <ingredient quantite="2 tranche"> viande </ingredient> va <operation ingredients="porto"> mijoter </operation> dans le <ingredient action="mijoter"> porto </ingredient> 15 minutes environ servir aussitôt , garder la sauce pour éventuellement <operation> arroser </operation> une purée maisonpeut aussi s' <operation ingredients="pommes"> accompagner </operation> de <ingredient action="accompagner"> pommes </ingredient> frites ou <operation> sautées </operation> . vinho verde blanc ou rosé
+</preparation>
+</recette>

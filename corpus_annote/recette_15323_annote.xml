@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15323">
+<titre>Soupe mexicaine aux lentilles</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de lentilles</p>
+<p>3 pommes de terre</p>
+<p>1 barquette de lardons</p>
+<p>2 citrons verts</p>
+<p>1 carré de bouillon de volaille</p>
+<p>1 oignon</p>
+<p>ananas (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;oignon"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> haché . dans une casserole , faire <operation ingredients="carré"> chauffer </operation> 1 litre d' eau avec le <ingredient action="chauffer" quantite="1"> carré </ingredient> de bouillon , puis y <operation ingredients="lentilles;jus"> ajouter </operation> les <ingredient action="ajouter"> lentilles </ingredient> ( avec le <ingredient action="ajouter"> jus </ingredient> ) . <operation ingredients="pommes;carré"> couper </operation> les <ingredient action="couper" quantite="3"> pommes </ingredient> de terre en <ingredient action="couper" quantite="1"> carré </ingredient> et les faire <operation ingredients="bouillon"> cuire </operation> dans le <ingredient action="cuire"> bouillon </ingredient> . laisser <operation> mijoter </operation> 30 min , puis <operation ingredients="lardons;oignon"> ajouter </operation> les <ingredient action="ajouter"> lardons </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . avant de servir , <operation ingredients="jus;carrés"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> des citrons et éventuellement des <ingredient action="ajouter" quantite="1"> carrés </ingredient> d' ananas .
+</preparation>
+</recette>

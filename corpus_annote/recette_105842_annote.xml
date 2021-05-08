@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105842">
+<titre>Spaghetti aux knack</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de spaghetti</p>
+<p>10 knackis</p>
+<p>1/2 ou 1 poivron selon la grosseur</p>
+<p>1 belle tomate</p>
+<p>3 gousses d'ail</p>
+<p>un peu de beurre pour la cuisson</p>
+<p>3 cuillères à soupe de concentré de tomate</p>
+<p>sel, poivre, eau</p>
+<p>un bouillon de volaille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> spaghetti </ingredient> . pendant ce temps , dans une <operation> poêle </operation> , <operation ingredients="beurre"> mettre </operation> un peu de <ingredient action="mettre"> beurre </ingredient> , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> , la <ingredient action="laisser" quantite="1"> tomate </ingredient> <operation> coupée </operation> en petits cubes et le <ingredient action="laisser"> poivrons </ingredient> finement <operation> coupé </operation> en cube , <operation ingredients="tomate;poivrons"> laisser </operation> <operation> mijoter </operation> quelques instants . <operation ingredients="tomate"> ajouter </operation> les knacks <operation> coupées </operation> en petits morceaux , et le <operation> concentré </operation> de <ingredient action="ajouter" quantite="1"> tomate </ingredient> . <operation> ajouter </operation> un peu d' eau pour la sauce , <operation> saler </operation> , <operation> poivrer </operation> , laisser <operation> mijoter </operation> quelques minutes , <operation> retirez </operation> du feu . <operation ingredients="spaghettis"> mélangez </operation> le tout aux <ingredient action="mélanger" quantite="1 kilogramme"> spaghettis </ingredient> .
+</preparation>
+</recette>

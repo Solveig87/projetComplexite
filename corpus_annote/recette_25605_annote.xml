@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25605">
+<titre>La salade piémontaise de Jean-Pierre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tomates</p>
+<p>2 oeufs</p>
+<p>4 belles pommes de terre</p>
+<p>1 talon de jambon</p>
+<p>8 gros cornichons</p>
+<p>Pour la sauce :</p>
+<p>un pot de mayonnaise</p>
+<p>huile</p>
+<p>vinaigre</p>
+<p>sel, poivre</p>
+<p>moutarde</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à l' eau et les <operation> éplucher </operation> . faire <operation ingredients="oeufs"> cuire </operation> dans le même temps les <ingredient action="cuire" quantite="2"> oeufs </ingredient> pour qu' ils deviennent durs soit 10 min . les <operation> mettre </operation> dans l' eau froide pour qu' ils s' écalent plus facilement . <operation ingredients="tomates;jambon;pommes"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> , le <ingredient action="couper"> jambon </ingredient> et les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre en dés . les <operation> mettre </operation> dans un saladier et <operation ingredients="oeufs;cornichons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> durs ainsi que les <ingredient action="ajouter" quantite="8"> cornichons </ingredient> <operation> coupés </operation> en rondelles . pour la sauce : faire une vinaigrette bien relevée et <operation> délayer </operation> avec au moins 2 grosses cuillères à soupe de mayonnaise . <operation ingredients="salade"> arroser </operation> votre <ingredient action="arroser"> salade </ingredient> de cette sauce . <operation> mélanger </operation> et laisser au réfrigérateur pour que les <ingredient action="imprégner" quantite="4"> pommes </ingredient> de terre s' <operation ingredients="pommes"> imprègnent </operation> de sauce . la sauce ne doit pas être trop liquide . chacun <operation ingredients="mayonnaise"> met </operation> autant de <ingredient action="mettre" quantite="1 pot"> mayonnaise </ingredient> dans sa vinaigrette qu' il aime .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25042">
+<titre>Crème aux oeufs au caramel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p> 75 cl de lait</p>
+<p>100 g de sucre</p>
+<p>5 jaunes d’œuf</p>
+<p>Pour le caramel :</p>
+<p>150 g de sucre</p>
+<p>eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;sucre"> porter </operation> le <ingredient action="porter" quantite="75 cl"> lait </ingredient> à <operation> ébullition </operation> avec le <ingredient action="porter" quantite="100 gramme+150 gramme"> sucre </ingredient> et <operation> réserver </operation> au chaud . <operation ingredients="sucre"> préparer </operation> ensuite le caramel avec le <ingredient action="préparer" quantite="100 gramme+150 gramme"> sucre </ingredient> et l’ eau dans grande une casserole . dès coloration du caramel , <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="75 cl"> lait </ingredient> chaud avec précaution et bien <operation> mélanger </operation> avec une cuillère en bois . dans un saladier , <operation ingredients="œuf"> battre </operation> les jaunes d’ <ingredient action="battre"> œuf </ingredient> et les <operation ingredients="lait"> verser </operation> dans la casserole de <ingredient action="verser" quantite="75 cl"> lait </ingredient> . faire <operation> épaissir </operation> à feu très doux sans en continuant de <operation> remuer </operation> sans <operation> porter </operation> à <operation> ébullition </operation> . une fois la préparation <operation> épaissie </operation> , la <operation> passer </operation> au chinois et laisser refroidir . <operation> réserver </operation> au frais et servir .
+</preparation>
+</recette>

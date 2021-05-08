@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61044">
+<titre>Sorbet aux mirabelles</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de mirabelles</p>
+<p>1 jus de citron</p>
+<p>10 cl d'eau</p>
+<p>100 g de sucre</p>
+<p>2 cuillères à soupe d'eau-de-vie de mirabelle</p>
+<p>éventuellement sucre de canne</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="mirabelles"> dénoyautez </operation> les <ingredient action="dénoyauter" quantite="1 kilogramme"> mirabelles </ingredient> . faites - les <operation ingredients="sucre"> cuire </operation> 10 minutes au micro-ondes avec le <ingredient action="cuire" quantite="100 gramme"> sucre </ingredient> . dans un bol mixeur , <operation ingredients="compote;jus"> versez </operation> la <ingredient action="verser"> compote </ingredient> , l' eau-de-vie , l' eau et le <ingredient action="verser" quantite="1"> jus </ingredient> de citron . <operation> mixez </operation> et laissez refroidir et , si nécessaire , <operation ingredients="sucre"> ajoutez </operation> du <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> de canne . <operation> mettez </operation> à <operation> glacer </operation> dans une sorbetière . délicieux avec des <ingredient quantite="1 kilogramme"> mirabelles </ingredient> <operation> tièdes </operation> caramélisées , avec une <ingredient> tarte </ingredient> flambée ou des <ingredient> poires </ingredient> rôties . un <ingredient> mousseux </ingredient> ou un <ingredient> vin </ingredient> blanc liquoreux
+</preparation>
+</recette>

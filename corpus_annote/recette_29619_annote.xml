@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29619">
+<titre>Jambon d'York chaud et sauce au Chablis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches épaisses de jambon d'York</p>
+<p>3 échalotes</p>
+<p>250 g de champignons de Paris</p>
+<p>1 gousse d'ail</p>
+<p>50 cl de vin blanc de Chablis</p>
+<p>10 g de concentré de tomates</p>
+<p>20 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalotes;ail;champignons"> préparez </operation> la sauce : <operation> émincez </operation> finement les <ingredient action="préparer" quantite="3"> échalotes </ingredient> , l' <ingredient action="préparer"> ail </ingredient> et les <ingredient action="préparer" quantite="250 gramme"> champignons </ingredient> . <operation> mettez </operation> - les dans une casserole et <operation> mouillez </operation> de <ingredient quantite="50 cl"> vin </ingredient> blanc dans lequel aura été délayé le <operation> concentré </operation> de <ingredient> tomate </ingredient> . amenez à <operation> ébullition </operation> et laissez <operation> réduire </operation> de moitié . <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> fraîche . <operation ingredients="jambon"> déposez </operation> les tranches de <ingredient action="déposer"> jambon </ingredient> dans cette sauce et faites <operation> réchauffer </operation> sur feu très doux .
+</preparation>
+</recette>

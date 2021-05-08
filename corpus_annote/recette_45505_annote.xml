@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45505">
+<titre>Véritable fondue sans alcool</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de mimolette</p>
+<p>400 g d'edam</p>
+<p>1 gros sachet de fromage râpé</p>
+<p>2 à 3 cuillère à soupe de crème fraîche épaisse</p>
+<p>1 verre de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromages"> couper </operation> les <ingredient action="couper"> fromages </ingredient> en petits dés . faire <operation> chauffer </operation> le caquelon à fondue à feu vif , et <operation ingredients="fromage"> déposer </operation> les dés de <ingredient action="déposer"> fromage </ingredient> . lorsque celui-ci commence à <operation> fondre </operation> , <operation ingredients="crème"> ajouter </operation> la moitié de la <ingredient action="ajouter"> crème </ingredient> fraiche , et <operation> mélanger </operation> . si nécéssaire , <operation ingredients="crème"> mettre </operation> toute la <ingredient action="mettre"> crème </ingredient> fraîche , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> lait </ingredient> ( pour que ce soit légèrement liquide ) , et laisser le tout <operation> fondre </operation> à feu doux , en <operation> mélangant </operation> de temp à autre . . . <operation ingredients="fromage"> rajouter </operation> le <ingredient action="rajouter"> fromage </ingredient> rapé au dernier moment , et laisser <operation> fondre </operation> . . . <operation> couper </operation> des morceaux de <ingredient> pains </ingredient> en morceaux , et servir très chaud ! cette fondue prouve qu' on a pas besoin de <ingredient> vin </ingredient> blanc pour faire une bonne <operation> fondue </operation> !
+</preparation>
+</recette>

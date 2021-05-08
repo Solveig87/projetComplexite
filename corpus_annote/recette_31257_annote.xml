@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31257">
+<titre>Poulet à l'ananas (et poivron, concombre, céleri, tomate)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 filets de poulet</p>
+<p>1 concombre</p>
+<p>1 branche de céleri</p>
+<p>2 poivrons verts</p>
+<p>1 boîte d'ananas au sirop</p>
+<p>1 boîte de tomates pelées</p>
+<p>1 gousse d'ail</p>
+<p>1 oignon</p>
+<p>un peu de farine</p>
+<p>poivre, sel</p>
+<p>Pour la sauce :</p>
+<p>Nuoc Mam</p>
+<p>vinaigre blanc</p>
+<p>citron</p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en lamelles . <operation ingredients="ail"> hacher </operation> finement l' <ingredient action="hacher"> ail </ingredient> . <operation ingredients="poulet;ail"> mélanger </operation> les lamelles de <ingredient action="mélanger"> poulet </ingredient> à l' <ingredient action="mélanger"> ail </ingredient> et y <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> de manière à ce que la <ingredient action="enrobe"> farine </ingredient> <operation ingredients="farine;poulet"> enrobe </operation> le <ingredient action="enrobe"> poulet </ingredient> . faire <operation ingredients="poulet"> frire </operation> le <ingredient action="frire"> poulet </ingredient> , puis , <operation> enlever </operation> les morceaux et les garder de côté . dans une casserole , faire <operation ingredients="oignon"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> et <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> , puis les autres <ingredient quantite="1;1;"> légumes </ingredient> préalablement <operation> coupés </operation> en lamelles . laisser <operation ingredients="légumes"> cuire </operation> à feu moyen jusqu' à ce que les <ingredient action="cuire" quantite="1;1;"> légumes </ingredient> soient fondants . pendant ce temps : <operation ingredients="vinaigre;citron;jus;ananas"> faire </operation> la sauce avec les ingrédients suivants : eau , nuoc mam , <ingredient action="faire" quantite=""> vinaigre </ingredient> blanc , <ingredient action="faire" quantite=""> citron </ingredient> , sel , poivre , sucre et le <ingredient action="faire"> jus </ingredient> de l' <ingredient action="faire"> ananas </ingredient> au sirop . <operation ingredients="légumes"> verser </operation> tout le <operation> mélange </operation> dans la <operation> poêle </operation> avec les <ingredient action="verser" quantite="1;1;"> légumes </ingredient> . 10 mn avant de servir , <operation ingredients="viande"> rajouter </operation> la <ingredient action="rajouter"> viande </ingredient> et laisser <operation> chauffer </operation> à feu moyen .
+</preparation>
+</recette>

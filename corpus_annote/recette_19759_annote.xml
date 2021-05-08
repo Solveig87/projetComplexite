@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19759">
+<titre>Andouillette sauce moutarde</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 andouillettes</p>
+<p>20 cl de crème de fraîche</p>
+<p>1 bonne cuillère à soupe de moutarde</p>
+<p>1 grosse échalote</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="andouillettes;beurre;échalote"> revenir </operation> les <ingredient action="revenir" quantite="4"> andouillettes </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> avec l' <ingredient action="revenir" quantite="1"> échalote </ingredient> à feu doux pendant 15 à 20 mn . lorsque les <ingredient action="dorer" quantite="4"> andouillettes </ingredient> sont <operation ingredients="andouillettes"> dorées </operation> , les <operation> recouvrir </operation> 5 mn . dans un bol , <operation ingredients="crème;moutarde"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche et la <ingredient action="mélanger"> moutarde </ingredient> . <operation ingredients="andouillettes"> rajouter </operation> ce <operation> mélange </operation> aux <ingredient action="rajouter" quantite="4"> andouillettes </ingredient> , et faire <operation> cuire </operation> pendant encore 5 mn à feu très doux . aucun
+</preparation>
+</recette>

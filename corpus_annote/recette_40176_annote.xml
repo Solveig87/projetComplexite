@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40176">
+<titre>Tourte mexicaine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes feuilletées </p>
+<p>2 à 3 tomates</p>
+<p>2 poivrons (couleurs différentes)</p>
+<p>2 oignons</p>
+<p>1 demi chorizo</p>
+<p>ketchup</p>
+<p>viande hachée</p>
+<p>gruyère râpé</p>
+<p>huile d'olive</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;oignon;huile"> revenir </operation> la <ingredient action="revenir" quantite=""> viande </ingredient> et l' <ingredient action="revenir" quantite="2"> oignon </ingredient> <operation> haché </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="poivrons"> cuire </operation> les <ingredient action="cuire" quantite="2"> poivrons </ingredient> à la vapeur , les <operation> couper </operation> finement , <operation ingredients="chorizo"> couper </operation> le <ingredient action="couper" quantite="1mi"> chorizo </ingredient> en rondelles puis en 4 , <operation ingredients="viande"> ajouter </operation> le tout à la <ingredient action="ajouter" quantite=""> viande </ingredient> , <operation ingredients="ketchup"> incorporer </operation> le <ingredient action="incorporer" quantite=""> ketchup </ingredient> , <operation> assaisonner </operation> , faire <operation> revenir </operation> la préparation à feu doux quelques minutes . <operation ingredients="pâtes"> cuire </operation> une des <ingredient action="cuire" quantite="2"> pâtes </ingredient> à blanc ( sans la <operation> piquer </operation> ) juste de quoi la faire <operation> durcir </operation> un peu ( 10 min à 200 <operation> ° </operation> c. thermostat . 7 ) . <operation ingredients="pâte"> mettre </operation> la préparation au milieu de la <ingredient action="mettre" quantite="2"> pâte </ingredient> , <operation ingredients="pâte"> refermer </operation> avec la seconde <ingredient action="refermer" quantite="2"> pâte </ingredient> , bien <operation> coller </operation> les bords . faire une cheminée au dessus de la tourte , <operation> enfourner </operation> pendant 40 min à 210 <operation> ° </operation> c ( thermostat 7 ) . en fin de cuisson ( 5 min avant la fin ) <operation ingredients="oeuf"> badigeonner </operation> avec le jaune d' <ingredient action="badigeonner"> oeuf </ingredient> et <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> râpé . déguster c' est prêt . <operation ingredients="salade"> accompagnez </operation> ce plat d' une <ingredient action="accompagner"> salade </ingredient> . c' est un plat simple et original qui étonnera vos papilles !
+</preparation>
+</recette>

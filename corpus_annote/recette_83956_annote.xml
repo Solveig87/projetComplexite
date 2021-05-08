@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83956">
+<titre>Blancs de seiche aux petites légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de blancs de seiche (en lamelles c'est mieux)</p>
+<p>2 carottes</p>
+<p>4 tomates</p>
+<p>2 poivrons rouges</p>
+<p>1 oignon</p>
+<p>Huile d'olive, sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="seiche"> couper </operation> les blancs de <ingredient action="couper"> seiche </ingredient> en lamelles . <operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> carottes </ingredient> et <operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="2;4;1"> légumes </ingredient> en petits cubes ( <operation ingredients="tomates;poivrons"> ôter </operation> la peau des <ingredient action="ôter" quantite="4"> tomates </ingredient> et des <ingredient action="ôter"> poivrons </ingredient> si vous craignez ) . faire <operation ingredients="seiche;oignons;huile"> revenir </operation> les blancs de <ingredient action="revenir"> seiche </ingredient> et les <ingredient action="revenir" quantite="1"> oignons </ingredient> <operation> émincés </operation> dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olives . a mi-cuisson des blancs de <ingredient> seiche </ingredient> , <operation> passer </operation> dans la passoire pour <operation> ôter </operation> l' excédent d' eau et <operation> remettre </operation> dans la <operation> poêle </operation> . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="2;4;1"> légumes </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> doucement jusqu' à ce que l' ensemble soit tendre . servir bien chaud . on peut <operation> ajouter </operation> un peu de <ingredient action="ciseler"> persil </ingredient> <operation ingredients="persil"> ciselé </operation> sur le dessus du plat au moment de servir . <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> de camargue .
+</preparation>
+</recette>

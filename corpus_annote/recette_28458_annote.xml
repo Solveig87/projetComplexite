@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28458">
+<titre>Salade de harengs aux pommes, sauce au citron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 filets de harengs fumés</p>
+<p>3 pommes</p>
+<p>2 citrons</p>
+<p>3 oignons</p>
+<p>1/3 de chou blanc</p>
+<p>30 cl de crème liquide</p>
+<p>1 cuillère à soupe bombée de moutarde à l'ancienne</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> en cubes , citronnez - les pour ne pas qu' elles <operation> noircissent </operation> . <operation> emincez </operation> finement les <ingredient quantite="3"> oignons </ingredient> et le <ingredient> chou </ingredient> blanc . <operation ingredients="pommes;oignons;chou"> mélangez </operation> les <ingredient action="mélanger" quantite="3"> pommes </ingredient> , les <ingredient action="mélanger" quantite="3"> oignons </ingredient> , le <ingredient action="mélanger"> chou </ingredient> et <operation ingredients="harengs"> ajoutez </operation> des morceaux de <ingredient action="ajouter"> harengs </ingredient> dans un plat de service . <operation ingredients="crème;jus;sel;poivre;moutarde"> mélangez </operation> la <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> avec du <ingredient action="mélanger"> jus </ingredient> de citron , du <ingredient action="mélanger" quantite=""> sel </ingredient> et du <ingredient action="mélanger" quantite=""> poivre </ingredient> et de la <ingredient action="mélanger"> moutarde </ingredient> à l' ancienne , <operation> nappez </operation> -en le plat et servez à température ambiante .
+</preparation>
+</recette>

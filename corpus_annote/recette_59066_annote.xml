@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59066">
+<titre>Tarte des Iles</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une pâte feuilletée</p>
+<p>4 pommes</p>
+<p>3 bananes</p>
+<p>une grosse poignée de raisins sec</p>
+<p>du rhum</p>
+<p>trois oeufs</p>
+<p>du lait</p>
+<p>2 paquets de sucre vanillé, de la noix de coco râpée</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> en lamelles . en <operation ingredients="bananes"> faire </operation> autant avec les <ingredient action="faire" quantite="3"> bananes </ingredient> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> feuilletée , <operation ingredients="pommes;bananes"> couvrir </operation> avec les <ingredient action="couvrir" quantite="4"> pommes </ingredient> puis avec les rondelles de <ingredient action="couvrir" quantite="3"> bananes </ingredient> . <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter"> raisins </ingredient> secs que l' on a préalablement fait <operation ingredients="rhum"> tremper </operation> dans le <ingredient action="tremper" quantite=""> rhum </ingredient> . casser trois <ingredient quantite=""> oeufs </ingredient> , <operation ingredients="sucre;lait"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> vanillé , le <ingredient action="ajouter" quantite=""> lait </ingredient> , le reste du <ingredient quantite=""> rhum </ingredient> dans lequel ont <operation ingredients="raisins;noix"> trempé </operation> les <ingredient action="tremper"> raisins </ingredient> et un peu de <ingredient action="tremper" quantite=""> noix </ingredient> de coco <operation> râpée </operation> . <operation> battre </operation> le tout et <operation ingredients="tarte"> verser </operation> sur la <ingredient action="verser"> tarte </ingredient> . <operation> mettre </operation> au four thermostat 7 ( 210 <operation> ° </operation> c ) pour 30 à 35 minutes .
+</preparation>
+</recette>

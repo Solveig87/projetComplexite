@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27707">
+<titre>Salade composée au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite tête de salade frisée</p>
+<p>quelques feuilles de chou rouge</p>
+<p>1/2 poivron</p>
+<p>1 oignon</p>
+<p>150 g de thon au naturel en boîte</p>
+<p>100 g de petites asperges</p>
+<p>2 oeufs</p>
+<p>Pour la vinaigrette :</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde forte</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> mettre </operation> les <ingredient action="mettre" quantite="2"> oeufs </ingredient> à <operation> cuire </operation> 10 mn dans de l' eau bouillante . <operation> mélanger </operation> dans un saladier les ingrédients de la vinaigrette . <operation ingredients="salade;chou;poivron"> nettoyer </operation> la <ingredient action="nettoyer"> salade </ingredient> , les feuilles de <ingredient action="nettoyer" quantite="quelque feuille"> chou </ingredient> et le <ingredient action="nettoyer"> poivron </ingredient> . les <operation> couper </operation> en lanières et les <operation> ajouter </operation> dans le saladier . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> dans le saladier . faire <operation ingredients="oeufs"> tremper </operation> les <ingredient action="tremper" quantite="2"> oeufs </ingredient> 10 mn dans de l' eau froide . débarrassez - les de leur coquille et <operation> coupez </operation> - les en quartiers que vous <operation ingredients="thon;asperges"> ajouterez </operation> dans le saladier avec le <ingredient action="ajouter" quantite="150 gramme"> thon </ingredient> et les <ingredient action="ajouter" quantite="100 gramme"> asperges </ingredient> <operation> égouttées </operation> .
+</preparation>
+</recette>

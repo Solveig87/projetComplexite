@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23565">
+<titre>Pommes au miel et aux noix</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>100 g de miel</p>
+<p>10 cerneaux de noix</p>
+<p>le jus d'1 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;noix"> préparer </operation> la farce des <ingredient action="préparer" quantite="4"> pommes </ingredient> avec une cuillère à soupe de miel et 6 cernaux de <ingredient action="préparer"> noix </ingredient> en miette . <operation ingredients="pommes"> préparer </operation> les <ingredient action="préparer" quantite="4"> pommes </ingredient> : les <operation> éplucher </operation> , les <operation> vider </operation> et les <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser" quantite=""> jus </ingredient> de citron pour éviter qu' elles ne <operation> noircissent </operation> . les <operation> farcir </operation> et les <operation> déposer </operation> dans un plat allant au four . bien les caller et les <operation ingredients="miel"> arroser </operation> avec le <ingredient action="arroser" quantite="100 gramme"> miel </ingredient> restant diliué dans un demi verre d' eau . faire <operation> cuire </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 min en <operation ingredients="pommes"> arrosant </operation> les <ingredient action="arroser" quantite="4"> pommes </ingredient> à mi-cuisson . servir avec le <ingredient quantite=""> jus </ingredient> de cuisson et <operation ingredients="noix"> décorer </operation> de cerneaux de <ingredient action="décorer"> noix </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22343">
+<titre>Douillons de poires aux amandes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 poires</p>
+<p>1 citron</p>
+<p>1 rouleau de pâte feuilletée</p>
+<p>50 g de beurre</p>
+<p>100 g de poudre d'amandes </p>
+<p>1 oeuf + 1 jaune</p>
+<p>1 cuillère à soupe de rhum</p>
+<p>2 cuillères à soupe de lait</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="poires"> évidez </operation> les <ingredient action="évider" quantite="4"> poires </ingredient> . citronnez - les . <operation ingredients="beurre;amandes;oeuf;rhum"> travaillez </operation> le <ingredient action="travailler" quantite="50 gramme"> beurre </ingredient> avec la <operation> poudre </operation> d' <ingredient action="travailler"> amandes </ingredient> , l' <ingredient action="travailler" quantite="1"> oeuf </ingredient> entier et le <ingredient action="travailler" quantite="1 cuillère à soupe"> rhum </ingredient> . <operation ingredients="poires"> garnissez </operation> les <ingredient action="garnir" quantite="4"> poires </ingredient> de ce <operation> mélange </operation> . <operation ingredients="poire;carré"> déposez </operation> chaque <ingredient action="déposer" quantite="4"> poire </ingredient> sur un <ingredient action="déposer"> carré </ingredient> de pâte feuilletée , remontez les bords pour <operation ingredients="poires"> envelopper </operation> les <ingredient action="envelopper" quantite="4"> poires </ingredient> . <operation> délayez </operation> le jaune d' <ingredient quantite="1"> oeuf </ingredient> avec le <ingredient quantite="2 cuillère à soupe"> lait </ingredient> et un peu de <ingredient> sucre </ingredient> . <operation> badigeonnez </operation> -en les douillons et faites - les <operation> cuire </operation> 20 min au four à 200 <operation> ° </operation> c ( thermostat . 7 ) . baissez le four à 150 <operation> ° </operation> c ( thermostat 5 ) et poursuivez la cuisson 20 min .
+</preparation>
+</recette>

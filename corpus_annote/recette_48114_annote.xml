@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48114">
+<titre>Velouté glacé de concombre à la menthe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>20 cl de lait coco en boîte</p>
+<p>1 oignon frais</p>
+<p>10 cl de crème liquide</p>
+<p>20 cl de bouillon de légumes en poudre</p>
+<p>l bouquet de menthe fraîche</p>
+<p>1 cuillère à soupe de beurre, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="concombre"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en tronçons de 1 cm ; puis <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="1 cuillère à soupe"> beurre </ingredient> , <operation ingredients="oignon;concombre"> ajouter </operation> les dés d' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et de <ingredient action="ajouter" quantite="1"> concombre </ingredient> et laisser <operation> revenir </operation> 5 min . <operation ingredients="lait;bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco , puis le <ingredient action="ajouter" quantite="20 cl"> bouillon </ingredient> ; <operation> couvrir </operation> et laisser <operation> cuire </operation> à petit feu 25 min . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> , laisser <operation> cuire </operation> encore 5 min , puis <operation ingredients="menthe"> ajouter </operation> la <ingredient action="ajouter"> menthe </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation> passer </operation> au <operation> mixer </operation> puis au tamis , laisser refroidir et <operation> placer </operation> au frigo pendant 3 h. servir <operation> glacé </operation> dans des petits bols ou des verrines , avec un brin de <ingredient> menthe </ingredient> en déco . une petite entrée délicieuse et originale . tous mes invités étaient <operation> emballés </operation> . . . blanc sec
+</preparation>
+</recette>

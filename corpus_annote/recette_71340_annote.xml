@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71340">
+<titre>Salade de fruits exotiques à la vanille</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 ananas</p>
+<p>6 clémentines</p>
+<p>4 kiwis</p>
+<p>3 oranges</p>
+<p>2 pamplemousses</p>
+<p>2 cuillères à café de vanille en poudre</p>
+<p>3 cuillères à soupe de cassonade</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> peler </operation> tous les <ingredient action="peler" quantite="1;4;3;2"> fruits </ingredient> . <operation ingredients="kiwis"> couper </operation> les <ingredient action="couper" quantite="4"> kiwis </ingredient> en rondelles . <operation> séparer </operation> les quartiers de clémentines et les <operation> couper </operation> en 2 . <operation ingredients="orange"> détacher </operation> les quartiers d' <ingredient action="détacher" quantite="3"> orange </ingredient> et les <operation> couper </operation> en 3 . <operation ingredients="pamplemousses"> faire </operation> de même avec les <ingredient action="faire" quantite="2"> pamplemousses </ingredient> . <operation ingredients="ananas"> couper </operation> l' <ingredient action="couper" quantite="1"> ananas </ingredient> en fins quartiers puis en petits cubes . <operation ingredients="fruits"> mélanger </operation> tous les <ingredient action="mélanger" quantite="1;4;3;2"> fruits </ingredient> dans un saladier . les <operation ingredients="cassonade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="3 cuillère à soupe"> cassonade </ingredient> et de vanille et <operation> mélanger </operation> . <operation> placer </operation> au frais pendant au moins 1 h , servir très frais .
+</preparation>
+</recette>

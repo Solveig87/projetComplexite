@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37897">
+<titre>L'oeuf chat (pour les enfants)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>1 tranche de pain de mie</p>
+<p>1 tranche de jambon</p>
+<p>1 cornichon</p>
+<p>ketchup</p>
+<p>1 brin de persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeuf"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oeuf </ingredient> au plat . faire <operation ingredients="pain;pain"> griller </operation> le <ingredient action="griller" quantite="1 tranche"> pain </ingredient> de mie au <operation> grille </operation> - <ingredient action="griller" quantite="1 tranche"> pain </ingredient> , et <operation> découper </operation> les 2 coins de manière à faire 2 triangles . lorsque l' <ingredient action="cuire" quantite="1"> oeuf </ingredient> est <operation ingredients="oeuf"> cuit </operation> , <operation> déposer </operation> dans un assiette , <operation ingredients="pain"> mettre </operation> les 2 triangles de <ingredient action="mettre" quantite="1 tranche"> pain </ingredient> de mie pour <operation> former </operation> les oreilles . <operation ingredients="ketchup"> faire </operation> les yeux avec du <ingredient action="faire" quantite=""> ketchup </ingredient> . <operation ingredients="jambon"> découper </operation> le <ingredient action="découper" quantite="1 tranche"> jambon </ingredient> en fines lamelles , pour faire les moustaches . <operation ingredients="cornichons"> couper </operation> le <ingredient action="couper" quantite="1"> cornichons </ingredient> en 2 dans le sens de la longeur , pour <operation ingredients="persil"> former </operation> la bouche et le <ingredient action="former"> persil </ingredient> pour le noeud papillon .
+</preparation>
+</recette>

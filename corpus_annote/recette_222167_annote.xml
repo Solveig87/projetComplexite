@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222167">
+<titre>Cheesecake yaourt 1 min</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 shortbreads pur beurre(environ 16 g chacun)</p>
+<p>20 noisettes environ</p>
+<p>300 g de yaourt de type grec</p>
+<p>6 cuillères à soupe de cerises en sirop épais</p>
+</ingredients>
+<preparation>
+on <operation ingredients="biscuits;noisettes"> écrase </operation> bien les <ingredient action="écrase"> biscuits </ingredient> et les <ingredient action="écrase" quantite="20"> noisettes </ingredient> . on les <operation> dispose </operation> au fond de deux verres courts . on ajoute à chaque verre 150 g de <ingredient quantite="300 gramme"> yaourt </ingredient> . on <operation ingredients="cerises"> nappe </operation> avec 3 cuillères de <ingredient action="nappe" quantite="6 cuillère à soupe"> cerises </ingredient> chaque verre . on peut <operation ingredients="biscuit"> saupoudrer </operation> avec un peu de <ingredient action="saupoudrer"> biscuit </ingredient> .
+</preparation>
+</recette>

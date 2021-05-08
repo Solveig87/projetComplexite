@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32308">
+<titre>Tarte au coulommiers</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte brisée</p>
+<p>3 ou 4 petites pommes de terre</p>
+<p>1 coulommiers ou un brie</p>
+<p>3 oeufs</p>
+<p>100 ml de crème fraîche liquide</p>
+<p>150 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre à l' eau . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite=""> pâte </ingredient> dans un <operation> moule </operation> à tarte . la <operation ingredients="coulommiers;brie"> recouvrir </operation> avec le <ingredient action="recouvrir" quantite="1"> coulommiers </ingredient> ( ou le <ingredient action="recouvrir"> brie </ingredient> ) <operation> coupé </operation> en tranches . <operation ingredients="pommes"> disposer </operation> dessus les <ingredient action="disposer" quantite="3"> pommes </ingredient> de terre <operation> coupées </operation> en rondelles . <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> gruyère </ingredient> râpé . <operation ingredients="oeufs;crème;sel;poivre"> mélanger </operation> les 3 <ingredient action="mélanger" quantite="3"> oeufs </ingredient> et la <ingredient action="mélanger"> crème </ingredient> liquide , avec du <ingredient action="mélanger"> sel </ingredient> et du <ingredient action="mélanger"> poivre </ingredient> . <operation ingredients="tarte"> verser </operation> la préparation sur la <ingredient action="verser"> tarte </ingredient> . faîtes <operation> cuire </operation> 30 mn environ à th 6 . on peut <ingredient> manger </ingredient> cette tarte en plat principal <operation ingredients="salade"> accompagnée </operation> d' une <ingredient action="accompagner"> salade </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57632">
+<titre>La salade de carottes et de pommes de Carolyn</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 pommes de type granny</p>
+<p>4 carottes</p>
+<p>20 cl de crème légère</p>
+<p>1 citron</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;carottes"> peler </operation> et <operation> râper </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> et les <ingredient action="peler" quantite="4"> carottes </ingredient> . les <operation> mettre </operation> dans un saladier et <operation> préparer </operation> la sauce : <operation ingredients="jus;crème"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> du citron à la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="carottes;pommes"> verser </operation> la sauce sur les <ingredient action="verser" quantite="4"> carottes </ingredient> et les <ingredient action="verser" quantite="3"> pommes </ingredient> puis <operation> mélanger </operation> . <operation> mettre </operation> 1 heure au frais au moins , cette entrée se sert bien fraîche ! rafraîchissant lors d' une canicule ! blanc léger
+</preparation>
+</recette>

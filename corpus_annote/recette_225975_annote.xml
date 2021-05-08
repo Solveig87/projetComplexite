@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225975">
+<titre>Salade de pâtes au fromage, tomate et poivron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de pâtes coudés</p>
+<p>2 tomates</p>
+<p>1/2 poivron (rouge et/ou vert selon les goûts)</p>
+<p>120 g de fromage ail et fines herbes</p>
+<p>1 noisette de moutarde</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1,5 cuillères à soupe de vinaigre</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée de fines herbes</p>
+<p>3 feuilles de basilic</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> bouillir </operation> l' eau des <ingredient action="bouillir" quantite="200 gramme"> pâtes </ingredient> . pendant ce temps , <operation ingredients="moutarde;huile;vinaigre"> préparer </operation> la vinaigrette avec la <ingredient action="préparer"> moutarde </ingredient> , l' <ingredient action="préparer" quantite="3 cuillère à soupe"> huile </ingredient> et le <ingredient action="préparer" quantite="1,5 cuillère à soupe"> vinaigre </ingredient> . ensuite , <operation ingredients="tomates"> laver </operation> et <operation> couper </operation> en petits cubes ( 1 cmx 1 cm ) les <ingredient action="laver" quantite="2"> tomates </ingredient> . <operation ingredients="poivron"> faire </operation> de même avec le <ingredient action="faire"> poivron </ingredient> ( 1 cmx 5 mm ) . ( je trouve plus agréable d' avoir plein de petits morceaux en bouche plutôt que des gros ! ) <operation> ajouter </operation> l' ensemble à la vinaigrette . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> pâtes </ingredient> . conseil pour les sportifs : ne vous fiez pas aux temps de cuisson indiqué par les marques , il faut les faire <operation> cuire </operation> vraiment al dente et pour en être sûre il faut <operation> goûter </operation> . les <ingredient quantite="200 gramme"> pâtes </ingredient> doivent être fermes mais pas " dures et farineuses " <ingredient quantite="1;1 pincée"> non </ingredient> plus sous la dent . plus on fait <operation ingredients="pâtes;sucres"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> pâtes </ingredient> , plus les <ingredient action="cuire"> sucres </ingredient> lents qu' elles contiennent se transforment en <ingredient> sucres </ingredient> rapides . les <operation> rincer </operation> à l' eau froide et les laisser refroidir . une fois froides , les <operation ingredients="tomates"> ajouter </operation> aux <ingredient action="ajouter" quantite="2"> tomates </ingredient> , poivrons . . . <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> fromage </ingredient> et <operation ingredients="basilic"> ajouter </operation> des herbes ( <ingredient action="ajouter" quantite="3 feuille"> basilic </ingredient> , . . . ) s' il n' y en a pas assez à votre goût dans le <ingredient quantite="120 gramme"> fromage </ingredient> . bon ap ' ! très agréable l' été avec des grillades ! rosé ( sec ou <operation> sucré </operation> )
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176140">
+<titre>Sandwich choco-banane</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 demi baguette</p>
+<p>une banane</p>
+<p>100 à 150 g de chocolat à faire fondre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chocolat"> mettre </operation> le <ingredient action="mettre"> chocolat </ingredient> à <operation> fondre </operation> dans une casserole . ( ou , à défaut , au micro-ondes ) . <operation ingredients="banane"> couper </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> en rondelles . la <operation> mettre </operation> à <operation> chauffer </operation> à la casserole ( ou à défaut , une minute au micro-ondes ) . <operation> couper </operation> la demi-baguette en deux dans le sens de la largeur , puis dans le sens de la longueur . une fois que le <ingredient action="fondre"> chocolat </ingredient> est <operation ingredients="chocolat"> fondu </operation> , le <operation ingredients="baguette"> tartiner </operation> sur deux des morceaux de <ingredient action="tartiner" quantite="1mi"> baguette </ingredient> . <operation ingredients="banane"> répartir </operation> également les morceaux de <ingredient action="répartir" quantite="1"> banane </ingredient> <operation> cuits </operation> , et <operation ingredients="sandwich"> refermer </operation> les deux <ingredient action="refermer"> sandwich </ingredient> . bon appétit ! on peut tester avec d' autres <ingredient quantite="1mi"> baguettes </ingredient> , comme la viennoise par exemple !
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67244">
+<titre>Nouilles chinoises aux crevettes et lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de nouilles chinoises</p>
+<p>500 g de crevettes décortiquees</p>
+<p>200 g de noix de Saint Jacques (pas indispensables, mais c'set encore meilleur)</p>
+<p>1 poireau</p>
+<p>50 cl de lait de coco</p>
+<p>sel, poivre, ciboulette</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crevettes"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> crevettes </ingredient> , les <ingredient action="mettre" quantite="200 gramme"> noix </ingredient> de saint jacques et le <ingredient action="mettre" quantite="1"> poireau </ingredient> que vous aurez <operation> coupé </operation> en lamelles dans une <operation> poêle </operation> , <operation ingredients="noix;poireau"> mettre </operation> à feu moyen et laisser évaporer l' eau contenu dans les <ingredient quantite="200 gramme"> fruits </ingredient> de mer . <operation> assaisoner </operation> , <operation> couvrir </operation> et laisser <operation> mijoter </operation> quelques minutes à feu doux . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> de coco en le <operation> mélangeant </operation> bien et laissez <operation> mijoter </operation> a feu doux environ un quart d' heure en <operation> remuant </operation> de temps en temps . dans une casserole d' eau bouillante <operation> salée </operation> <operation ingredients="nouilles"> mettez </operation> les <ingredient action="mettre" quantite="250 gramme"> nouilles </ingredient> chinoises a <operation> cuire </operation> environ 4 minutes . <operation ingredients="pâtes"> dressez </operation> les <ingredient action="dresser"> pâtes </ingredient> dans l' assiette et <operation ingredients="fruits;lait"> recouvrir </operation> de la préparation des <ingredient action="recouvrir" quantite="200 gramme"> fruits </ingredient> de mer au <ingredient action="recouvrir" quantite="50 cl"> lait </ingredient> de coco . <operation ingredients="ciboulette"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> ciboulette </ingredient> et déguster . blanc
+</preparation>
+</recette>

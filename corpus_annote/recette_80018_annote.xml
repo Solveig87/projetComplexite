@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80018">
+<titre>Glace au chocolat noir</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de chocolat noir en tablette</p>
+<p>20 cl de crème liquide</p>
+<p>20 cl de lait</p>
+<p>1 cuillère à soupe de vanille liquide</p>
+<p>40 g de cassonade</p>
+<p>3 jaunes d'oeuf</p>
+<p>1 cuillère à soupe de maïzena</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre" quantite="20 cl"> lait </ingredient> , la <ingredient quantite="20 cl"> crème </ingredient> liquide , le <ingredient quantite="150 gramme"> chocolat </ingredient> en morceaux , la cuillère de vanille . faire <operation> chauffer </operation> doucement jusqu' à ce que le <ingredient action="fondre" quantite="150 gramme"> chocolat </ingredient> soit <operation ingredients="chocolat"> fondu </operation> . dans un saladier , <operation ingredients="oeuf;sucre;maïzena"> battre </operation> les jaunes d' <ingredient action="battre"> oeuf </ingredient> avec le <ingredient action="battre"> sucre </ingredient> et la <ingredient action="battre" quantite="1 cuillère à soupe"> maïzena </ingredient> et <operation> verser </operation> le <operation> mélange </operation> précédent dessus . <operation> remettre </operation> le tout à feu doux et faire <operation> épaissir </operation> . laisser refroidir et <operation> mettre </operation> dans un saladier au réfrigérateur . <operation> mettre </operation> le saladier au congélateur 30 min avant le passage en sorbetière .
+</preparation>
+</recette>

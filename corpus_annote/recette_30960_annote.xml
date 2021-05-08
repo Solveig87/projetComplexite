@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30960">
+<titre>Petits Cavaliers du Sud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain</p>
+<p>2 belles tomates</p>
+<p>crème fraîche épaisse</p>
+<p>gruyère (ou emmental râpé)</p>
+<p>huile d'olive</p>
+<p>ail</p>
+<p>origan</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;crème;huile"> tartiner </operation> les tranches de <ingredient action="tartiner" quantite="4 tranche"> pain </ingredient> avec de la <ingredient action="tartiner" quantite=""> crème </ingredient> fraîche additionnée à un peu d' <ingredient action="tartiner" quantite=""> huile </ingredient> d' olive . <operation ingredients="ail;origan;sel;poivre"> ajouter </operation> de l' <ingredient action="ajouter" quantite=""> ail </ingredient> , de l' <ingredient action="ajouter" quantite=""> origan </ingredient> , un peu de <ingredient action="ajouter" quantite=""> sel </ingredient> et de <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation ingredients="pain"> couper </operation> les tartines de <ingredient action="couper" quantite="4 tranche"> pain </ingredient> en 2 . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en lamelles et les <operation> placer </operation> sur les 1 / 2 tartines . <operation ingredients="huile"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et <operation ingredients="gruyère"> saupoudrer </operation> généreusement de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> / emmental râpé . on peut <operation ingredients="ail;origan"> rajouter </operation> de l' <ingredient action="rajouter" quantite=""> ail </ingredient> , de l' <ingredient action="rajouter" quantite=""> origan </ingredient> . . . . <operation> placer </operation> le tout dans un plat allant au four . <operation> cuire </operation> à 180 <operation> ° </operation> c jusqu' à ce que le <ingredient quantite="4 tranche"> pain </ingredient> colore légèrementidéal lorsqu' on a pas le temps ou l' envie de cuisiner !
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29560">
+<titre>Linguines à la purée de légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de linguines</p>
+<p>4 carottes</p>
+<p>4 branches de céleri</p>
+<p>3 courgettes</p>
+<p>3 poivrons</p>
+<p>4 tomates</p>
+<p>1 oignon</p>
+<p>3 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . <operation> egouttez </operation> et <operation ingredients="huile"> mélangez </operation> avec un peu d' <ingredient action="mélanger" quantite="3 cuillère à soupe"> huile </ingredient> pour les empêcher de <operation> coller </operation> . <operation ingredients="légumes;oignon"> epluchez </operation> et <operation> coupez </operation> tous les <ingredient action="epluchez" quantite="4;3;4;1"> légumes </ingredient> en dés sauf l' <ingredient action="epluchez" quantite="1"> oignon </ingredient> . faites - les <operation> cuire </operation> à la vapeur durant 30 minutes , puis <operation> mixez </operation> - les en purée . dans une <operation> poêle </operation> , faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> haché et l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;huile"> pressé </operation> dans l' <ingredient action="presser" quantite="3 cuillère à soupe"> huile </ingredient> . <operation ingredients="légumes"> ajoutez </operation> les <ingredient action="ajouter" quantite="4;3;4;1"> légumes </ingredient> et laissez <operation> mijoter </operation> à feu doux . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="linguines"> mélangez </operation> les <ingredient action="mélanger" quantite="600 gramme"> linguines </ingredient> avec la sauce . les <ingredient quantite="600 gramme"> linguines </ingredient> sont des <ingredient> spaghettis </ingredient> plats .
+</preparation>
+</recette>

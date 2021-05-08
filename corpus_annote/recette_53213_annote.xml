@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53213">
+<titre>Tarte de patate douce</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 fond de tarte en pâte brisée</p>
+<p>2 tasses de patates douces en purée</p>
+<p>1 tasse de sucre</p>
+<p>2 cuillères a soupe de mêlasse ou de miel</p>
+<p>1 cuillère à café de vanille en poudre</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>6 œufs</p>
+<p>1 tasse de crème fraîche</p>
+<p>2 cuillères à soupe de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="patates;sucre;épices"> fouetter </operation> la purée de <ingredient action="fouetter"> patates </ingredient> douces avec le <ingredient action="fouetter"> sucre </ingredient> , la mêlasse et les <ingredient action="fouetter" quantite="1 cuillère à café"> épices </ingredient> . <operation ingredients="œufs"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> œufs </ingredient> un à un . <operation ingredients="crème;farine"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche , puis la <ingredient action="ajouter" quantite="2 cuillère à soupe"> farine </ingredient> . <operation ingredients="tarte"> verser </operation> le <operation> mélange </operation> sur le fond de <ingredient action="verser"> tarte </ingredient> . <operation ingredients="tarte"> cuire </operation> 45 minutes à four moyen , ou jusqu' à ce que la <ingredient action="cuire"> tarte </ingredient> soit bien prise . déguster tiède ( avec un peu de <ingredient> glace </ingredient> à la vanille , c’ est délicieux ) , ou bien fraîche ( la <ingredient> tarte </ingredient> a alors la consistance d’ une <ingredient> pâte </ingredient> de fruits ) .
+</preparation>
+</recette>

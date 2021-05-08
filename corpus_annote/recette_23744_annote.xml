@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23744">
+<titre>Brique au chocolat sans cuisson</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de biscuits à la cuillère</p>
+<p>150 g de chocolat noir</p>
+<p>125 g de beurre</p>
+<p>2 jaunes d'oeufs</p>
+<p>2 cuillères à soupe d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="biscuits"> emiettez </operation> les <ingredient action="emietter" quantite="200 gramme"> biscuits </ingredient> ( ou <operation> passez </operation> les au robot , plus rapide ) et <operation ingredients="oeufs"> mélangez </operation> - les aux jaunes d' <ingredient action="mélanger"> oeufs </ingredient> . faites <operation ingredients="beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="150 gramme"> chocolat </ingredient> en morceaux dans une casserole à feux doux ( ou au micro-ondes , plus rapide ) . <operation> mélangez </operation> les deux préparations et <operation> versez </operation> dans un <operation> moule </operation> à cake pas trop grand . laissez refroidir 1 à 2 h.
+</preparation>
+</recette>

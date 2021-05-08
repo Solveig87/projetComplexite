@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27446">
+<titre>Muësli maison</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 cuillères à soupe de flocons d'avoine</p>
+<p>4 cuillères à soupe de raisins de Smyrne</p>
+<p>16 cuillères à soupe d'eau froide</p>
+<p>4 yaourts</p>
+<p>4 bananes</p>
+<p>sucre au goût</p>
+<p>le jus de 2 citrons</p>
+<p>4 cuillères à soupe de noisettes en poudre ou concassées</p>
+</ingredients>
+<preparation>
+la veille : faites <operation ingredients="raisins"> tremper </operation> les flocons d' avoine et les <ingredient action="tremper" quantite="4 cuillère à soupe"> raisins </ingredient> dans l' eau froide . le lendemain : <operation ingredients="yaourts;banane"> ajoutez </operation> aux flocons d' avoine les <ingredient action="ajouter" quantite="4"> yaourts </ingredient> et les <ingredient action="ajouter" quantite="4"> banane </ingredient> <operation> coupées </operation> en rondelles . <operation> sucrez </operation> au goût , <operation ingredients="jus"> arrosez </operation> de <ingredient action="arroser" quantite=""> jus </ingredient> de citron et <operation ingredients="noisettes"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="4 cuillère à soupe"> noisettes </ingredient> . dégustez aussitôt . c' est le petit déjeuner réconfortant par excellence .
+</preparation>
+</recette>

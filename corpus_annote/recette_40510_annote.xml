@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40510">
+<titre>Lapin à la sauce brune de ma Mamie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin entier découpé</p>
+<p>1 kg de carottes</p>
+<p>2 oignons</p>
+<p>clous de girofle</p>
+<p>3 feuilles de laurier</p>
+<p>1 bouteille de vin rouge corsé</p>
+<p>250 g champignons de Paris</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="1 kilogramme"> carottes </ingredient> et les <operation> couper </operation> en tronçons de 5 cm environ . s' ils sont épais , <operation> recouper </operation> en 2 ou 4 dans le sens de la longueur . <operation ingredients="lapin"> mettre </operation> les morceaux de <ingredient action="mettre" quantite="1"> lapin </ingredient> dans un saladier . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="laurier;oignons;carottes"> ajouter </operation> les feuilles de <ingredient action="ajouter" quantite="3 feuille"> laurier </ingredient> , les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> piqués </operation> de clous de girofle et les <ingredient action="ajouter" quantite="1 kilogramme"> carottes </ingredient> . <operation ingredients="vin"> arroser </operation> avec le <ingredient action="arroser"> vin </ingredient> . <operation> mélanger </operation> de temps en temps pour que tout soit bien <operation> imprégné </operation> . laisse <operation> mariner </operation> au minimum une nuit . le jour même : dans une cocotte , faire <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer"> huile </ingredient> , <operation ingredients="farine"> ajouter </operation> de la <ingredient action="ajouter"> farine </ingredient> et <operation> mélanger </operation> au fouet pour faire un roux . laisser bien <operation> brunir </operation> ( sans brûler ! ) . ma mamie insiste pour utiliser de l' <ingredient> huile </ingredient> au lieu du beurre . <operation ingredients="vin"> délayer </operation> ensuite petit à petit avec le <ingredient action="délayer"> vin </ingredient> rouge . la sauce doit avoir la consistance d' une <ingredient> béchamel </ingredient> ( <operation ingredients="farine"> ajouter </operation> de l' eau si c' est trop épais , de la <ingredient action="ajouter"> farine </ingredient> <operation> diluée </operation> dans de la sauce si c' est trop liquide ) . <operation ingredients="lapin;carottes;oignons;laurier;champignons"> ajouter </operation> les morceaux de <ingredient action="ajouter" quantite="1"> lapin </ingredient> , les <ingredient action="ajouter" quantite="1 kilogramme"> carottes </ingredient> , les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , le <ingredient action="ajouter" quantite="3 feuille"> laurier </ingredient> , les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> de paris <operation> épluchés </operation> et <operation> émincés </operation> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> à feu moyen pendant environ une heure . servir avec des <ingredient> pâtes </ingredient> alsaciennes de type spätzle . le même <ingredient> vin </ingredient> rouge que celui utilisé pour la sauce
+</preparation>
+</recette>

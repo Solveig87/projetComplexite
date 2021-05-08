@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28475">
+<titre>Salade de coquillettes aux légumes râpés</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de coquillettes</p>
+<p>1 oignon</p>
+<p>1 carotte</p>
+<p>1/2 de poivron vert</p>
+<p>1/2 de poivron rouge</p>
+<p>1 branche de céleri</p>
+<p>1 cuillère à soupe d'estragon haché</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>vinaigre de noix</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . <operation ingredients="légumes"> râper </operation> tous les <ingredient action="râper" quantite="1;1"> légumes </ingredient> . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> et les <operation ingredients="légumes"> mélanger </operation> aux <ingredient action="mélanger" quantite="1;1"> légumes </ingredient> <operation> râpés </operation> . <operation ingredients="estragon"> ajouter </operation> l' <ingredient action="ajouter"> estragon </ingredient> . <operation ingredients="mayonnaise;vinaigre"> détendre </operation> la <ingredient action="détendre" quantite="2 cuillère à soupe"> mayonnaise </ingredient> avec un trait de <ingredient action="détendre" quantite=""> vinaigre </ingredient> de noix , la <operation ingredients="pâtes;légumes"> mélanger </operation> aux <ingredient action="mélanger"> pâtes </ingredient> et aux <ingredient action="mélanger" quantite="1;1"> légumes </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation> remuer </operation> . <operation> réserver </operation> au frais jusqu' au service .
+</preparation>
+</recette>

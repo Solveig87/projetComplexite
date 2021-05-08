@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88512">
+<titre>Nuggets de thon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de thon</p>
+<p>3 oeufs</p>
+<p>100 g de gruyère râpé</p>
+<p>25 brins de persil plat</p>
+<p>25 brins de coriandre</p>
+<p>15 feuilles de menthe</p>
+<p>100 g de chapelure</p>
+<p>1 citron</p>
+<p>1 cuillère à café de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="citron"> laver </operation> le <ingredient action="laver" quantite="1"> citron </ingredient> et les herbes . <operation ingredients="coriandre;persil"> détacher </operation> les feuilles de <ingredient action="détacher"> coriandre </ingredient> et le <ingredient action="détacher"> persil </ingredient> de leurs tiges et les <operation ingredients="menthe"> hacher </operation> finement avec la <ingredient action="hacher" quantite="15 feuille"> menthe </ingredient> . <operation ingredients="citron"> râper </operation> le zeste du <ingredient action="râper" quantite="1"> citron </ingredient> . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter"> thon </ingredient> et l' <operation> écraser </operation> dans un saladier . <operation ingredients="oeufs;gruyère;sel;poivre"> ajouter </operation> les herbes , le zeste , les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> , 2 cuillères à soupe de chapelure et <operation> mélanger </operation> bien . <operation ingredients="chapelure"> verser </operation> de la <ingredient action="verser" quantite="100 gramme"> chapelure </ingredient> dans une assiette creuse . <operation ingredients="pâte"> former </operation> des petits boudins de <ingredient action="former"> pâte </ingredient> avec les mains , et les <operation ingredients="chapelure"> rouler </operation> soigneusement dans la <ingredient action="rouler" quantite="100 gramme"> chapelure </ingredient> . faire <operation ingredients="beurre;huile"> fondre </operation> le <ingredient action="fondre" quantite="1 cuillère à café"> beurre </ingredient> et l' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> dans la <operation> poêle </operation> à feu vif . <operation ingredients="thon"> ajouter </operation> les nuggets de <ingredient action="ajouter"> thon </ingredient> <operation> formés </operation> . les <operation> cuire </operation> 10 minutes en les <operation> retournant </operation> jusqu' à ce qu' elles soient bien dorées . aucun
+</preparation>
+</recette>

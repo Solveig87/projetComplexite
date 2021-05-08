@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87700">
+<titre>Bricks croustillantes aux fruits d'hiver</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 feuilles de brick</p>
+<p>Compote de pommes (1 kg de trois variétes de pommes differentes)</p>
+<p>1 mangue bien mûre</p>
+<p>1 ananas</p>
+<p>1 banane</p>
+<p>1/2 citron</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient> pommes </ingredient> , les <operation> couper </operation> en huit et les <operation> mettre </operation> à <operation> cuire </operation> à feu doux pendant 1 heure , avec le couvercle . une fois <operation> cuites </operation> , ne pas les <operation> mixer </operation> mais les <operation> égoutter </operation> soigneusement . <operation ingredients="ananas;mangue;banane"> couper </operation> l' <ingredient action="couper" quantite="1"> ananas </ingredient> , la <ingredient action="couper" quantite="1"> mangue </ingredient> et la <ingredient action="couper" quantite="1"> banane </ingredient> en petits dés et <operation> réserver </operation> . <operation ingredients="brick;compote"> mettre </operation> au centre de chacune des feuilles de <ingredient action="mettre" quantite="6 feuille"> brick </ingredient> un lit de <ingredient action="mettre" quantite=""> compote </ingredient> de pommes , puis <operation ingredients="fruits"> répartir </operation> le reste des <ingredient action="répartir" quantite=";1;1;1"> fruits </ingredient> . <operation ingredients="jus"> verser </operation> un peu de <ingredient action="verser"> jus </ingredient> de citron . <operation> refermer </operation> les feuilles de façon à <operation> former </operation> des petites aumônières , et maintenir avec deux piques en bois de manière perpendiculaire . <operation> enfourner </operation> environ 8 minutes à 220 <operation> ° </operation> c ( thermostat 8)
+</preparation>
+</recette>

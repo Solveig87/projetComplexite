@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19384">
+<titre>Tarte aux poires et aux amandes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>120 g de poudre d'amande</p>
+<p>2 oeufs</p>
+<p>25 cl de crème fraîche</p>
+<p>100 g de sucre</p>
+<p>4 poires</p>
+</ingredients>
+<preparation>
+préparation de la <ingredient quantite="25 cl"> crème </ingredient> : <operation ingredients="oeufs;sucre;amande"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> la <operation> poudre </operation> d' <ingredient action="battre"> amande </ingredient> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche . <operation ingredients="pâte"> dérouler </operation> la <ingredient action="dérouler" quantite="1"> pâte </ingredient> feuilletée . <operation ingredients="poires"> pelez </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> , <operation> coupez </operation> - les en deux , <operation> enlevez </operation> les pépins . <operation ingredients="poires;pâte"> mettre </operation> les <ingredient action="mettre" quantite="4"> poires </ingredient> sur la <ingredient action="mettre" quantite="1"> pâte </ingredient> et <operation> verser </operation> la préparation dessus ; <operation> mettre </operation> au four 30 min à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

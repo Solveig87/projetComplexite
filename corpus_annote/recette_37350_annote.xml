@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37350">
+<titre>Omelette du dessert poire chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>4 cuillères à soupe de crème épaisse</p>
+<p>4 cuillères à soupe de miel liquide</p>
+<p>4 carrés de chocolat</p>
+<p>2 poires bien mûres</p>
+<p>1 bonne pincé de cannelle</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+casser les <ingredient quantite="4"> oeufs </ingredient> dans un saladier . <operation ingredients="crème;miel"> ajouter </operation> la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> et le <ingredient action="ajouter" quantite="4 cuillère à soupe"> miel </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="chocolat"> ajouter </operation> ensuite le <ingredient action="ajouter"> chocolat </ingredient> râpé , les <ingredient quantite="2"> poires </ingredient> <operation ingredients="cannelle"> émincées </operation> et la <ingredient action="émincer"> cannelle </ingredient> . <operation> mettre </operation> à <operation ingredients="beurre"> fondre </operation> dans une <operation> poêle </operation> un peu de <ingredient action="fondre"> beurre </ingredient> . <operation> verser </operation> la préparation et laisser <operation> cuire </operation> environ 3 minutes puis <operation> retourner </operation> et laisser <operation> cuire </operation> encore 3 minutes .
+</preparation>
+</recette>

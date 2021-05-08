@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51083">
+<titre>Filet mignon au paprika</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gros filet mignon</p>
+<p>15 cl d'eau</p>
+<p>1 citron</p>
+<p>1 oignon</p>
+<p>30 cl de vin blanc</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>1 pot de crème fraîche</p>
+<p>paprika</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> le filet mignon en dés et <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="1"> oignons </ingredient> . faire <operation ingredients="oignons"> revenir </operation> le filet mignon avec les <ingredient action="revenir" quantite="1"> oignons </ingredient> dans une cocotte puis <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de citron et <operation ingredients="paprika;sel;poivre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> paprika </ingredient> , de <ingredient action="saupoudrer"> sel </ingredient> et de <ingredient action="saupoudrer"> poivre </ingredient> . <operation ingredients="bouillon;vin"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> , l' eau et le <ingredient action="ajouter" quantite="30 cl"> vin </ingredient> puis laisser <operation> mijoter </operation> pendant 1 heure à petit feu . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="1 pot"> crème </ingredient> fraîche et servir . <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> . on peut remplacer le filet mignon par du <ingredient> veau </ingredient> .
+</preparation>
+</recette>

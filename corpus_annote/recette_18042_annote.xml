@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18042">
+<titre>Roulé au chocolat ganache</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>125 g de sucre</p>
+<p>100 g de farine</p>
+<p>50 g de beurre</p>
+<p>1 cuillère à café de sucre en poudre</p>
+<p>Pour la ganache :</p>
+<p>125 g de chocolat pâtissier</p>
+<p>100 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteau"> préparer </operation> le <ingredient action="préparer"> gâteau </ingredient> : <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="4"> oeufs </ingredient> . <operation ingredients="sucre"> travailler </operation> les jaunes avec le <ingredient action="travailler" quantite="125 gramme+1 cuillère à café"> sucre </ingredient> longuement . <operation ingredients="farine;beurre;levure"> incorporer </operation> la <ingredient action="incorporer" quantite="100 gramme"> farine </ingredient> , le <ingredient action="incorporer" quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> , la <ingredient action="incorporer"> levure </ingredient> . terminer par les blancs d' <ingredient quantite="4"> oeufs </ingredient> <operation> battus </operation> en neige . <operation ingredients="pâte"> etaler </operation> cette <ingredient action="etaler"> pâte </ingredient> sur 1 cm d' épaisseur , la <operation> déposer </operation> sur une <operation> plaque </operation> de cuisson rectangulaire et <operation> enfourner </operation> à 250 <operation> ° </operation> c pendant environ 8 mn . a la sortie du four , <operation ingredients="gâteau"> rouler </operation> le <ingredient action="rouler"> gâteau </ingredient> : le rouleau doit être long et mince . <operation> préparer </operation> alors la ganache : faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> avec une cuillére à café de lait dans une casserole . <operation> retirer </operation> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> crème </ingredient> fraîche . <operation> mélanger </operation> . <operation ingredients="gâteau"> dérouler </operation> le <ingredient action="dérouler"> gâteau </ingredient> avec précaution et <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir" quantite="100 gramme"> crème </ingredient> ganache . <operation> rouler </operation> à nouveau et laisser complètement refroidir , puis <operation> mettre </operation> au réfrigérateur . <operation> couper </operation> en tranches , puis servir .
+</preparation>
+</recette>

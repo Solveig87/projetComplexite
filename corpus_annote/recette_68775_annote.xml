@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68775">
+<titre>Salade de fenouil au yaourt</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de fenouil coupé en petits morceaux</p>
+<p>300 g de carottes râpées grossièrement</p>
+<p>1 pomme coupée en petits morceaux</p>
+<p>200 g de yaourt nature</p>
+<p>3 cuillères à soupe d'huile </p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 cuillère à café de miel </p>
+<p>3/4 de cuil à café de sel</p>
+<p>quelques herbes fraîches (entre autres le vert du fenouil)</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil;carottes;pomme"> mettre </operation> le <ingredient action="mettre"> fenouil </ingredient> , les <ingredient action="mettre" quantite="300 gramme"> carottes </ingredient> <operation> râpées </operation> et la <ingredient action="mettre" quantite="1"> pomme </ingredient> dans un saladier . <operation ingredients="yaourt"> rajouter </operation> le <ingredient action="rajouter" quantite="200 gramme"> yaourt </ingredient> . <operation> mélanger </operation> . a côté , faire la vinaigrette en <operation ingredients="huile;vinaigre;moutarde;miel;sel"> émulsionnant </operation> l' <ingredient action="émulsionner" quantite="3 cuillère à soupe"> huile </ingredient> , le <ingredient action="émulsionner" quantite="2 cuillère à soupe"> vinaigre </ingredient> , la <ingredient action="émulsionner" quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient action="émulsionner" quantite="1 cuillère à café"> miel </ingredient> et le <ingredient action="émulsionner"> sel </ingredient> . <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="300 gramme;1"> légumes </ingredient> . bien <operation> mélanger </operation> . laisser <operation> reposer </operation> un peu au frigo . plat principal si on l' <operation ingredients="truite"> accompagne </operation> d' une petite <ingredient action="accompagne"> truite </ingredient> par personne . riesling , sylvaner
+</preparation>
+</recette>

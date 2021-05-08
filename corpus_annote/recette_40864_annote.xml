@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40864">
+<titre>Crêpes au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 tasse de Maïzena</p>
+<p>1 tasse et demi de farine</p>
+<p>2 oeufs</p>
+<p>2 tasses de lait </p>
+<p>1 tasse de lait de coco</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;maïzena;sel"> mélangez </operation> la <ingredient action="mélanger"> farine </ingredient> , la <ingredient action="mélanger"> maïzena </ingredient> , et la pincée de <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> . <operation ingredients="oeufs"> ajoutez </operation> les 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> battus </operation> . tout en <operation> mélangeant </operation> , <operation ingredients="lait;lait"> ajoutez </operation> le <ingredient action="ajouter"> lait </ingredient> petit à petit ( ainsi que le <ingredient action="ajouter"> lait </ingredient> de coco bien entendu ! ) . une fois votre <ingredient> pâte </ingredient> terminée , vous n' avez plus qu' à <operation ingredients="crêpes"> cuire </operation> vos <ingredient action="cuire"> crêpes </ingredient> ! tous à vos <operation> poêles </operation> . . .
+</preparation>
+</recette>

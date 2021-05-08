@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92935">
+<titre>Tartine à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 belles tranches de pain de campagne de 2 cm d'épaisseeur</p>
+<p>100 g de crème fraiche</p>
+<p>100 g de fromage blanc</p>
+<p>1 gros oignon coupé en fines lamelles</p>
+<p>sel,poivre</p>
+<p>200 g de maroilles ou munster</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème;fromage"> mélanger </operation> la <ingredient action="mélanger" quantite="100 gramme"> crème </ingredient> fraîche et le <ingredient action="mélanger" quantite="100 gramme"> fromage </ingredient> blanc . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en fines lamelles . <operation ingredients="maroilles"> gratter </operation> ou écroûter le <ingredient action="gratter" quantite="200 gramme"> maroilles </ingredient> . le <operation> couper </operation> en tranches . <operation> toaster </operation> les tranches de <ingredient> pain </ingredient> . les <operation ingredients="crème;fromage"> beurrer </operation> avec le <operation> mélange </operation> de <ingredient action="beurrer" quantite="100 gramme"> crème </ingredient> fraiche et de <ingredient action="beurrer" quantite="100 gramme"> fromage </ingredient> blanc . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="oignons"> ajouter </operation> les lamelles d' <ingredient action="ajouter" quantite="1"> oignons </ingredient> . <operation ingredients="maroilles"> disposer </operation> les lamelles de <ingredient action="disposer" quantite="200 gramme"> maroilles </ingredient> . <operation> passer </operation> 5 minutes au gril .
+</preparation>
+</recette>

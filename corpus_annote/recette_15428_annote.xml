@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15428">
+<titre>Gâteau de Bourgogne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>80 g de beurre</p>
+<p>50 g de farine</p>
+<p>1/2l de lait entier</p>
+<p>1 gousse de vanille</p>
+<p>125 g de sucre semoule</p>
+<p>4 oeufs entiers</p>
+<p>1 cuillerée de rhum</p>
+<p>confiture au choix : abricots, groseille, cassis</p>
+</ingredients>
+<preparation>
+<operation ingredients="béchamel;beurre;farine;lait"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> avec le <ingredient action="faire" quantite="80 gramme"> beurre </ingredient> , la <ingredient action="faire" quantite="50 gramme"> farine </ingredient> et le <ingredient action="faire"> lait </ingredient> que l' on aura <operation ingredients="gousse;sucre"> fait </operation> <operation> bouillir </operation> avant avec la <ingredient action="faire" quantite="1"> gousse </ingredient> de vanille fendue et le <ingredient action="faire" quantite="125 gramme"> sucre </ingredient> . <operation ingredients="oeufs"> ajouter </operation> hors du feu les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> entier <operation> battus </operation> et <operation> verser </operation> le tout dans un <operation> moule </operation> caramélisé . faire <operation> cuire </operation> au bain - marie 1 / 2 heure à 3 / 4 d' heure . laisser refroidir . <operation> démouler </operation> et <operation ingredients="confiture"> verser </operation> dessus de la <ingredient action="verser" quantite=""> confiture </ingredient> d' abricots ou autre <operation ingredients="rhum"> délayée </operation> dans un peu d' eau avec le <ingredient action="délayer"> rhum </ingredient> . recette de 1870 de mon arrière-grand-mère .
+</preparation>
+</recette>

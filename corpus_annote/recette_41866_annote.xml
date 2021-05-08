@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41866">
+<titre>Piombi à la viande (pâtes)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de piombi (petites pâtes Moccagatta)</p>
+<p>250 g de pois chiches </p>
+<p>50 g de févettes</p>
+<p>250 g de viande (style blanquette) de veau</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 tomate</p>
+<p>sel</p>
+<p>laurier </p>
+<p>coriandre fraîche</p>
+</ingredients>
+<preparation>
+la veille , faire <operation ingredients="pois;chiches"> tremper </operation> les <ingredient action="tremper"> pois </ingredient> <ingredient action="tremper" quantite="250 gramme"> chiches </ingredient> . le lendemain , faire <operation ingredients="viande;oignon;ail"> revenir </operation> la <ingredient action="revenir" quantite="250 gramme"> viande </ingredient> <operation> coupée </operation> en petits dés avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> <operation> hachés </operation> , <operation ingredients="tomate;sel"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> , les févettes , <ingredient action="ajouter" quantite=""> sel </ingredient> , laurier . <operation> mouiller </operation> si nécessaire avec un peu d' eau . une fois <operation> cuit </operation> , 20 min , <operation> mettre </operation> de côté . pendant ce temps faire <operation> cuire </operation> séparément les piombi ( 3 min ) . <operation ingredients="viande"> mélanger </operation> avec la <ingredient action="mélanger" quantite="250 gramme"> viande </ingredient> et laisser <operation> mijoter </operation> 10 min en <operation ingredients="coriandre"> ajoutant </operation> la <ingredient action="ajouter" quantite=""> coriandre </ingredient> . un <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

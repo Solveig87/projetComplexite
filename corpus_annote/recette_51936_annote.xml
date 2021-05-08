@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51936">
+<titre>Risotto d'asperges à la Vache qui rit</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 protions de Vache qui rit</p>
+<p>1 oignon</p>
+<p>250 g de riz rond</p>
+<p>50 + 25 cl d'eau</p>
+<p>2 bocaux (soit 200 g) d'asperges vertes</p>
+<p>30 g de beurre</p>
+<p>30 g de parmesan râpé</p>
+<p>1 cube de bouillon de légumes</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faire <operation ingredients="oignon"> cuire </operation> un <ingredient action="cuire" quantite="1"> oignon </ingredient> préalablement <operation> coupé </operation> en dés . <operation ingredients="riz;rond"> ajouter </operation> 250 g de <ingredient action="ajouter" quantite="250 gramme"> riz </ingredient> <ingredient action="ajouter"> rond </ingredient> , et <operation ingredients="bouillon"> ajouter </operation> petit à petit 50 cl d' eau et le cube de <ingredient action="ajouter"> bouillon </ingredient> en <operation> mélangeant </operation> sans arrêt . continuer de <operation> cuire </operation> , en <operation> ajoutant </operation> petit à petit 25 cl d' eau . <operation ingredients="asperges"> ajoutez </operation> ensuite les <ingredient action="ajouter"> asperges </ingredient> . dès que toute l' eau est absobée , <operation ingredients="beurre"> ajouter </operation> 30 g de <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> , les 4 portions de vache qui rit et 30 g de <ingredient quantite="30 gramme"> parmesan </ingredient> râpé . servir le risotto bien chaud , dans des assiettes creuses .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56708">
+<titre>Pâtes au saumon et brocolis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes (des tagliatelles par exemple)</p>
+<p>1 planche de saumon fumé</p>
+<p>500 g de brocolis</p>
+<p>2 jaunes d'oeuf</p>
+<p>30 cl de crème fraîche épaisse</p>
+<p>de parmesan</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+défaire les <ingredient quantite="500 gramme"> brocolis </ingredient> en petits <ingredient> bouquets </ingredient> , les <operation> laver </operation> et les <operation> cuire </operation> 5 min à l’ eau bouillante <operation> salée </operation> , les <operation> égoutter </operation> et les garder au chaud . <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en lamelles . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> . les <operation> égoutter </operation> . dans une casserole , <operation ingredients="crème"> mélanger </operation> les jaunes et la <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> , <operation ingredients="pâtes;saumon;brocolis"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> pâtes </ingredient> , le <ingredient action="ajouter"> saumon </ingredient> et le <ingredient action="ajouter" quantite="500 gramme"> brocolis </ingredient> . <operation> poivrer </operation> , <operation> mettre </operation> la casserole sur feu doux . <operation ingredients="parmesan"> présenter </operation> dans un plat avec du <ingredient action="présenter" quantite=""> parmesan </ingredient> .
+</preparation>
+</recette>

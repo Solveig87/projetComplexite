@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13563">
+<titre>Charlotte aux framboises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 paquet de biscuits à la cuillère</p>
+<p>1 kg de fromage blanc à 40% (1gros pot)</p>
+<p>800 g de framboises (fraiches ou surgelées)</p>
+<p> 10 cl de liqueur de framboises</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fromage"> égoutter </operation> le <ingredient action="égoutter" quantite="1 kilogramme"> fromage </ingredient> blanc dans une passoire <operation> habillée </operation> d' essuie - tout . pendant ce temps , <operation ingredients="biscuits;liqueur"> humecter </operation> les <ingredient action="humecter"> biscuits </ingredient> de la <ingredient action="humecter" quantite="10 cl"> liqueur </ingredient> et les <operation> disposer </operation> dans un <operation> moule </operation> à charlotte en tapissant le fond d' abord puis les côtés . <operation ingredients="framboises;fromage"> mélanger </operation> la moitié des <ingredient action="mélanger" quantite="800 gramme"> framboises </ingredient> avec le <ingredient action="mélanger" quantite="1 kilogramme"> fromage </ingredient> blanc . alterner une couche de <ingredient quantite="800 gramme"> framboises </ingredient> , une de <ingredient> biscuits </ingredient> , une de <ingredient quantite="1 kilogramme"> fromage </ingredient> blanc . terminer par une couche de <ingredient> biscuits </ingredient> et <operation> mettre </operation> au frais toute la nuit sous un poids .
+</preparation>
+</recette>

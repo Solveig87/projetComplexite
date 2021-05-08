@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80387">
+<titre>Çoban salata (salade berger)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tomates </p>
+<p>2 concombres</p>
+<p>1 oignon</p>
+<p>une demi boule de fromage turque (beyaz peynir)</p>
+<p>une cuillère à soupe huile d'olive </p>
+<p>1/2 jus de citron</p>
+<p>une cuillère à café de menthe sèche </p>
+<p>une cuillère à café de paprika</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;concombres;oignon"> coupez </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> et les <ingredient action="couper" quantite="2"> concombres </ingredient> en petit dés , l' <ingredient action="couper" quantite="1"> oignon </ingredient> en demi-rondelles très fines , et <operation> mettez </operation> le tout dans un saladier . dans un bol , <operation ingredients="huile;jus;menthe;paprika"> mélangez </operation> l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> huile </ingredient> , le <ingredient action="mélanger" quantite="1"> jus </ingredient> de citron , la <ingredient action="mélanger" quantite="1 cuillère à café"> menthe </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à café"> paprika </ingredient> . <operation ingredients="tomates"> mettez </operation> la sauce sur le <operation> mélange </operation> de <ingredient action="mettre" quantite="2"> tomates </ingredient> . <operation ingredients="fromage;salade"> coupez </operation> le <ingredient action="couper"> fromage </ingredient> en petit dés et <operation> disposez </operation> - les sur la <ingredient action="couper"> salade </ingredient> . bon appétit ! vous pouvez remplacer le <ingredient> fromage </ingredient> turque par de la <ingredient> feta </ingredient> .
+</preparation>
+</recette>

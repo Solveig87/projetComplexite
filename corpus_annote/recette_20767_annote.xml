@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20767">
+<titre>Haricots verts vinaigrette aux oeufs durs</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de haricots verts frais</p>
+<p>6 oeufs durs</p>
+<p>4 tomates</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de ciboulette hachée</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> haricots </ingredient> verts dans l' eau bouillante <operation> salée </operation> , 10 à 15 min selon leur grosseur . ils doivent rester un peu fermes . <operation> egouttez </operation> - les . ecalez les <ingredient quantite="6"> oeufs </ingredient> durs et <operation> hachez </operation> - les . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en quartiers . <operation ingredients="huile;vinaigre;ciboulette;sel;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="3 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> , la <ingredient action="emulsionner" quantite="1 cuillère à soupe"> ciboulette </ingredient> , du <ingredient action="emulsionner"> sel </ingredient> et du <ingredient action="emulsionner"> poivre </ingredient> . <operation ingredients="haricots;tomates"> dressez </operation> les <ingredient action="dresser" quantite="1 kilogramme"> haricots </ingredient> verts sur le plat de service avec les <ingredient action="dresser" quantite="4"> tomates </ingredient> puis <operation ingredients="oeuf"> saupoudrez </operation> - les d' <ingredient action="saupoudrer" quantite="6"> oeuf </ingredient> dur . <operation> arrosez </operation> de vinaigrette au moment de servir .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31228">
+<titre>Mousse de thon au fromage ail et fines herbes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 grosses boîtes de thon à l'huile d'olive</p>
+<p>3 boîtes de fromage ail et fines herbes (type tartare) </p>
+<p>30 olives noires à la grecque</p>
+</ingredients>
+<preparation>
+<operation ingredients="olives"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="30"> olives </ingredient> . <operation ingredients="thon;fromage;olives"> mixer </operation> le <ingredient action="mixer"> thon </ingredient> , le <ingredient action="mixer"> fromage </ingredient> et les <ingredient action="mixer" quantite="30"> olives </ingredient> . <operation> mettre </operation> au frais pendant 1 heure . servir avec des bâtonnets de <ingredient> carottes </ingredient> crues , des morceaux de <ingredient> chou-fleur </ingredient> crus et des bâtonnets de <ingredient> concombre </ingredient> .
+</preparation>
+</recette>

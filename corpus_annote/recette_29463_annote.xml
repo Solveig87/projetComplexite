@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29463">
+<titre>Pain perdu poêlé (restes de brioche)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de brioche (un peu sèche, c'est mieux)</p>
+<p>2 oeufs</p>
+<p>10 cl de crème fraîche</p>
+<p>1 sachet de sucre vanillé</p>
+<p>20 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette , puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> . bien <operation> mélanger </operation> et <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> vanillé , puis <operation> remuer </operation> à nouveau . <operation ingredients="brioche"> couper </operation> 4 tranches de <ingredient action="couper" quantite="4 tranche"> brioche </ingredient> . <operation ingredients="brioches"> tremper </operation> les tranches de <ingredient action="tremper" quantite="4 tranche"> brioches </ingredient> dans la préparation <operation ingredients="beurre"> chauffer </operation> la <operation> poêle </operation> avec le <ingredient action="chauffer" quantite="20 gramme"> beurre </ingredient> , pluis y <operation ingredients="brioches"> mettre </operation> les tranches de <ingredient action="mettre" quantite="4 tranche"> brioches </ingredient> à <operation> dorer </operation> . une fois les tranches de <ingredient quantite="4 tranche"> brioches </ingredient> <operation> cuites </operation> , les servir dans un plat et <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> ou tout autre préparation de votre choix . se déguste chaud . parfait pour utiliser des restes de <ingredient quantite="4 tranche"> brioche </ingredient> .
+</preparation>
+</recette>

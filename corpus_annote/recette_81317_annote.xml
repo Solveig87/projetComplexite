@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81317">
+<titre>Tarte aux carottes et au petit Billy</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à tarte pur beurre (pour éviter les matières grasses hydrogénées)</p>
+<p>1 bon kilo de carottes</p>
+<p>1/2 petit Billy (fromage de chèvre frais)</p>
+<p>4 tranches de jambon</p>
+<p>lait</p>
+<p>15 fruits de coriandre (le fruit, pas la feuille)</p>
+<p>persil</p>
+<p>sel, poivre</p>
+<p>gruyère râpé</p>
+<p>chèvre bûche</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâte;carottes"> précuire </operation> votre <ingredient action="précuire" quantite="1"> pâte </ingredient> à tarte pour que la purée de <ingredient action="précuire"> carottes </ingredient> ne la détrempe pas par la suite ( vous pouvez <operation ingredients="pâte;abricots"> couvrir </operation> la <ingredient action="couvrir" quantite="1"> pâte </ingredient> avec une feuille d' aluminium et des noyaux d' <ingredient action="couvrir"> abricots </ingredient> par exemple ) . faites <operation ingredients="carottes"> cuire </operation> les <ingredient action="cuire"> carottes </ingredient> 15 minutes à la vapeur . quand la <ingredient action="précuire" quantite="1"> pâte </ingredient> est <operation ingredients="pâte"> précuite </operation> , <operation ingredients="jambon"> posez </operation> les tranches de <ingredient action="poser" quantite="4 tranche"> jambon </ingredient> dessus . dès que les <ingredient action="cuire"> carottes </ingredient> sont <operation ingredients="carottes;persil;coriandre;sel;poivre"> cuites </operation> , <operation> mixez </operation> - les avec le petit billy , le <ingredient action="cuire" quantite=""> persil </ingredient> , la <ingredient action="cuire"> coriandre </ingredient> , le <ingredient action="cuire" quantite=""> sel </ingredient> et le <ingredient action="cuire" quantite=""> poivre </ingredient> . <operation ingredients="lait"> ajoutez </operation> du <ingredient action="ajouter" quantite=""> lait </ingredient> pour rendre le <operation> mélange </operation> plus onctueux . <operation ingredients="pâte;jambon"> versez </operation> le <operation> mélange </operation> sur la <ingredient action="verser" quantite="1"> pâte </ingredient> et le <ingredient action="verser" quantite="4 tranche"> jambon </ingredient> . <operation ingredients="gruyère"> saupoudrez </operation> éventuellement de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé . faites <operation> cuire </operation> 35 minutes à 150 <operation> ° </operation> c ( thermostat 5 ) . pour les 5 dernières minutes , <operation ingredients="chèvre;tarte"> ajoutez </operation> des rondelles de <ingredient action="ajouter"> chèvre </ingredient> sur la <ingredient action="ajouter"> tarte </ingredient> . servez avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

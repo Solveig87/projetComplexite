@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22598">
+<titre>Papillotes aux 2 saumons sauce curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pavés de saumon</p>
+<p>2 poireaux</p>
+<p>2 tranches de saumon fumé</p>
+<p>10 cl de crème fraîche </p>
+<p>1/2 cuillère à café de fumet de poisson</p>
+<p>1 petite cuillère à café de curry en poudre</p>
+<p>2 cuillères à soupe d'aneth ciselé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux"> cuire </operation> les <ingredient action="cuire" quantite="2"> poireaux </ingredient> <operation> coupés </operation> en 4 lamelles dans de l’ eau <operation> salée </operation> . sur une feuille d’ aluminium , <operation ingredients="poireaux;pavé"> disposer </operation> les lamelles de <ingredient action="disposer" quantite="2"> poireaux </ingredient> et le <ingredient action="disposer" quantite="2"> pavé </ingredient> de saumon . <operation ingredients="saumon;crème"> mettre </operation> sur le <ingredient action="mettre"> saumon </ingredient> un peu de <ingredient action="mettre" quantite="10 cl"> crème </ingredient> fraîche <operation ingredients="poisson;curry;aneth"> mélangée </operation> à du fumet de <ingredient action="mélanger" quantite="2 tranche"> poisson </ingredient> , du <ingredient action="mélanger"> curry </ingredient> et de l’ <ingredient action="mélanger"> aneth </ingredient> . <operation ingredients="saumon;fumé"> disposer </operation> une tranche de <ingredient action="disposer"> saumon </ingredient> <ingredient action="disposer" quantite="2 tranche"> fumé </ingredient> et <operation> mettre </operation> à nouveau le <operation> mélange </operation> crème - fumet de poisson-aneth ; <operation ingredients="poireaux;saumon"> replier </operation> les <ingredient action="replier" quantite="2"> poireaux </ingredient> sur le <ingredient action="replier"> saumon </ingredient> . fermer la papillote et la <operation> cuire </operation> 20 min à four chaud . servir avec la sauce <ingredient quantite="10 cl"> crème </ingredient> - curry - fumet de poissonaccompagner d' une timbale de <ingredient> riz </ingredient> ou d' un gratin dauphinois
+</preparation>
+</recette>

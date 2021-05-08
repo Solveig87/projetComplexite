@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27078">
+<titre>Pour accompagner la pierrade</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de champignons de Paris émincés</p>
+<p>3 poivrons</p>
+<p>3 oignons</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="300 gramme"> champignons </ingredient> , les <ingredient quantite="3"> poivrons </ingredient> , les <ingredient quantite="3"> oignons </ingredient> . on <operation ingredients="légumes"> mettra </operation> ces <ingredient action="mettre" quantite="300 gramme;3;3"> légumes </ingredient> sur la table pour que chacun se serve , comme on <operation ingredients="viande"> fait </operation> avec la <ingredient action="faire"> viande </ingredient> . pour <operation> assaisonner </operation> , on peut <operation ingredients="sel"> mettre </operation> du <ingredient action="mettre"> sel </ingredient> et des herbes de provence sur la pierre chaude . ( réponse à un appel aux gourmands )
+</preparation>
+</recette>

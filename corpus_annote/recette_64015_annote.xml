@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64015">
+<titre>Orecchiette poulet</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g d'Orecchiette (ou penne ou macaronis)</p>
+<p>2 cuillères à soupe d'huile (olive de préférence)</p>
+<p>2 blancs de poulet en lamelles</p>
+<p>500 g de tomates cerise coupées en deux</p>
+<p>1 orange en tranches</p>
+<p>Basilic frais haché</p>
+<p>3 cuillères à soupe de tapenade noire</p>
+<p>1 cuillère à soupe de gros sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans un grand volume d' eau selon le temps indiqué sur le paquet . pendant ce temps , <operation ingredients="orange"> mettre </operation> les tranches d' <ingredient action="mettre" quantite="1"> orange </ingredient> dans une <operation> poêle </operation> , <operation> couvrir </operation> d' eau . <operation ingredients="sel"> mettre </operation> le gros <ingredient action="mettre" quantite="1 cuillère à soupe"> sel </ingredient> , <operation> porter </operation> à ébulition et faire <operation> cuire </operation> pendant 6 / 7 min . sortir de l' eau , <operation ingredients="carrés"> égoutter </operation> et <operation> découper </operation> le zeste en petits <ingredient action="égoutter"> carrés </ingredient> . faire <operation> chauffer </operation> 2 cuillères à soupe d' huile dans une poele , y faire <operation ingredients="poulet"> revenir </operation> les morceaux de <ingredient action="revenir"> poulet </ingredient> 3 min . <operation> mettre </operation> de côté . faire <operation ingredients="tomates;cerises;poulet"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> tomates </ingredient> <ingredient action="revenir"> cerises </ingredient> dans la <operation> poêle </operation> du <ingredient action="revenir"> poulet </ingredient> pendant 5 min . <operation> ajouter </operation> la tapenade et les zestes . faire <operation> cuire </operation> 5 min . servir les blancs de <ingredient> poulet </ingredient> sur les <ingredient> pâtes </ingredient> <operation> nappées </operation> de sauce . <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> haché .
+</preparation>
+</recette>

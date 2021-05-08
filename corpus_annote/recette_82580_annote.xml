@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82580">
+<titre>Crumble hivernale</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 pommes (golden, gala)</p>
+<p>3 bananes mûres</p>
+<p>4 belles figues noires mûres</p>
+<p>3 sachets de sucre vanillé</p>
+<p>70 g de beurre salé</p>
+<p>100 g de sucre en poudre</p>
+<p>120 g de farine</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient quantite="6"> pommes </ingredient> et les <operation> couper </operation> en petits morceaux , <operation ingredients="bananes"> ôter </operation> la peau des <ingredient action="ôter" quantite="3"> bananes </ingredient> , les <operation> couper </operation> en rondelles . <operation ingredients="figues"> laver </operation> les <ingredient action="laver" quantite="4"> figues </ingredient> et <operation> ôter </operation> la pointe du haut , faire de petites tranches . <operation ingredients="fruits;sucre"> mettre </operation> tous les <ingredient action="mettre" quantite="6;3;4"> fruits </ingredient> <operation> coupés </operation> dans une casserole avec les 2 sachets de <ingredient action="mettre" quantite="100 gramme"> sucre </ingredient> vanillé à feu moyen pendant 15 minutes , <operation> couvrir </operation> et <operation> réserver </operation> . préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . dans un bol , faire <operation ingredients="beurre;farine"> fondre </operation> le <ingredient action="fondre" quantite="70 gramme"> beurre </ingredient> , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , puis la <ingredient action="fondre" quantite="120 gramme"> farine </ingredient> pour obtenir comme du sable ( <operation> mélanger </operation> avec une fourchette ça marche très bien ) . <operation ingredients="fruits"> verser </operation> les <ingredient action="verser" quantite="6;3;4"> fruits </ingredient> mi-cuits dans un plat allant au four et <operation> ajouter </operation> le " sable " émietté par dessus . <operation> mettre </operation> au four pendant 30 minutes ( vous pouvez les 5 dernières minutes <operation> mettre </operation> sous le gril pour obtenir une belle croûte dorée ! ! ) . a déguster tiède et sans modération ! ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12603">
+<titre>Escargots aux lardons et à l'estragon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 douzaines d'escargots de Bourgogne décoquillés et précuits.</p>
+<p>3 tranches de poitrine fumée </p>
+<p>4 échalotes moyennes</p>
+<p>1/2 botte d'estragon</p>
+<p>3 cuillères à soupe de vin blanc</p>
+<p>1 cuillère à soupe de crème fraiche</p>
+<p>150 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="estragon"> lavez </operation> et <operation> ciselez </operation> l' <ingredient action="laver"> estragon </ingredient> . <operation ingredients="échalotes"> hachez </operation> les <ingredient action="hacher" quantite="4"> échalotes </ingredient> . dans une casserole , <operation ingredients="vin;estragon;échalotes"> mettez </operation> le <ingredient action="mettre" quantite="3 cuillère à soupe"> vin </ingredient> blanc , l' <ingredient action="mettre"> estragon </ingredient> et les <ingredient action="mettre" quantite="4"> échalotes </ingredient> . faites <operation> bouillir </operation> pendant 3 minutes environ . <operation ingredients="crème;beurre"> ajoutez </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> et le <ingredient action="ajouter" quantite="150 gramme"> beurre </ingredient> en morceaux ; <operation> fouettez </operation> jusqu' à <operation> ébullition </operation> . <operation ingredients="escargots"> ajoutez </operation> les <ingredient action="ajouter"> escargots </ingredient> . laisser sur feu doux . <operation ingredients="poitrine;fumée"> taillez </operation> la <ingredient action="tailler" quantite="3 tranche"> poitrine </ingredient> <ingredient action="tailler"> fumée </ingredient> en lardons , puis faites - les <operation> revenir </operation> . <operation> mélangez </operation> le tout et servez très chaud . n' hésitez pas à <operation ingredients="crème"> ajouter </operation> de la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> fraîche . cet ingrédient ne gache pas la sauce , au contraire . . . vous pouvez servir dans des petits plats individuels . saint <ingredient> romain </ingredient> blanc
+</preparation>
+</recette>

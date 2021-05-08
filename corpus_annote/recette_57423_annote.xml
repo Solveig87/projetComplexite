@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57423">
+<titre>Glaçe aux carambars sans oeuf</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>40 carambars</p>
+<p>5 cl de lait</p>
+<p>180 g de lait concentré sucré (1 tube)</p>
+<p>30 cl de crème liquide à 35%</p>
+<p>5 carambars en petits morceaux</p>
+</ingredients>
+<preparation>
+<operation ingredients="carambars"> éplucher </operation> les 40 <ingredient action="éplucher" quantite="40+5"> carambars </ingredient> , les faire <operation ingredients="lait"> fondre </operation> dans le <ingredient action="fondre" quantite="5 cl+180 gramme"> lait </ingredient> à feu très doux . <operation ingredients="crème;chantilly"> monter </operation> la <ingredient action="monter" quantite="30 cl"> crème </ingredient> liquide en <ingredient action="monter"> chantilly </ingredient> . <operation> éplucher </operation> et <operation ingredients="carambars"> couper </operation> les 5 <ingredient action="couper" quantite="40+5"> carambars </ingredient> en petits cubes . quand les <ingredient action="fondre" quantite="40+5"> carambars </ingredient> sont <operation ingredients="carambars"> fondus </operation> , les <operation ingredients="lait"> mélanger </operation> avec le <ingredient action="mélanger" quantite="5 cl+180 gramme"> lait </ingredient> <operation> concentré </operation> <operation> sucré </operation> , <operation ingredients="chantilly;carambars"> incorporez </operation> la <ingredient action="incorporer"> chantilly </ingredient> puis les morceaux de <ingredient action="incorporer" quantite="40+5"> carambars </ingredient> . hé hop au congélateur , ( ou pas ? ) . bon appétit . je l' ai <operation ingredients="mars"> faite </operation> pour la rencontre du 25 <ingredient action="faire"> mars </ingredient> , tout a disparu . . . de la <ingredient> liqueur </ingredient> de carambars
+</preparation>
+</recette>

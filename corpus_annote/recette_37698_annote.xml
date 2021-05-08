@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37698">
+<titre>Fondant au chocolat à la madeleine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 petites madeleines</p>
+<p>200 g de chocolat en morceaux</p>
+<p>20 cl de crème fraîche liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="madeleines"> mixer </operation> 6 <ingredient action="mixer" quantite="10"> madeleines </ingredient> et <operation> couper </operation> les autres en morceaux . dans une casserole faire <operation ingredients="chocolat;crème"> fondre </operation> sur feu doux le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> cassé en morceaux et la <ingredient action="fondre" quantite="20 cl"> crème </ingredient> . hors du feu <operation ingredients="madeleines"> ajouter </operation> les <ingredient action="ajouter" quantite="10"> madeleines </ingredient> <operation> mixées </operation> et les morceaux . <operation> verser </operation> dans des ramequins <operation> tapissés </operation> de film transparent et faire prendre 1 heure au réfrégirateur . <operation ingredients="fondants"> démouler </operation> les <ingredient action="démouler"> fondants </ingredient> au moments de servir . peut s' <operation ingredients="crème;framboises"> accompagner </operation> d' une <ingredient action="accompagner" quantite="20 cl"> crème </ingredient> anglaise ou d' un coulis de <ingredient action="accompagner"> framboises </ingredient> .
+</preparation>
+</recette>

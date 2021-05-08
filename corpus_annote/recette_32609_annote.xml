@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32609">
+<titre>Velouté de champigons pour bébé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 petites pommes de terre coupées en dés</p>
+<p>1 petit oignon coupé en 4 </p>
+<p>10 petits champignon de Paris coupés en 2 </p>
+<p>une petite cuillère à café de persil ou persillade</p>
+<p>beurre </p>
+<p>sel</p>
+<p>160 ml d'eau pour la cuisson vapeur</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;oignon"> cuire </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre et l' <ingredient action="cuire" quantite="1"> oignon </ingredient> 5 mn puis <operation ingredients="champignons"> rajouter </operation> les <ingredient action="rajouter" quantite="10"> champignons </ingredient> . poursuivre la cuisson 10 mn puis <operation> mixer </operation> avec l' eau de cuisson , en ayant avant <operation ingredients="persil;beurre"> ajouté </operation> le <ingredient action="ajouter"> persil </ingredient> <ingredient action="ajouter"> beurre </ingredient> et sel . . . petit plat pour <operation ingredients="champignon"> découvrir </operation> le <ingredient action="découvrir" quantite="10"> champignon </ingredient> à partir de 6 mois . texture proche de purée . possible de <operation ingredients="lait"> rajouter </operation> une <operation> dose </operation> de <operation> poudre </operation> de <ingredient action="rajouter"> lait </ingredient> maternisé si on pense à <operation> mettre </operation> un peu plus d' eau .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29249">
+<titre>Salade de riz de la mer</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de riz cuit</p>
+<p>100 g de crevettes roses décortiquées</p>
+<p>120 g de chair de crabe au naturel</p>
+<p>1 poivron rouge</p>
+<p>2 cuillères à café de câpres</p>
+<p>le jus d'1 citron</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crevettes"> décortiquez </operation> les <ingredient action="décortiquer" quantite="100 gramme"> crevettes </ingredient> , <operation ingredients="crabe"> égouttez </operation> le <ingredient action="égoutter"> crabe </ingredient> . <operation> pelez </operation> , <operation> épépinez </operation> et <operation ingredients="poivron"> coupez </operation> le <ingredient action="couper"> poivron </ingredient> en dés . <operation ingredients="riz;poivron;crabe;crevettes"> mélangez </operation> le <ingredient action="mélanger"> riz </ingredient> avec le <ingredient action="mélanger"> poivron </ingredient> , le <ingredient action="mélanger"> crabe </ingredient> et les <ingredient action="mélanger" quantite="100 gramme"> crevettes </ingredient> . <operation ingredients="mayonnaise;jus;moutarde"> mélangez </operation> la <ingredient action="mélanger" quantite="2 cuillère à soupe"> mayonnaise </ingredient> avec le <ingredient action="mélanger" quantite=""> jus </ingredient> du citron , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> moutarde </ingredient> , sel et poivre . <operation> ajoutez </operation> cette sauce et <operation> mélangez </operation> avec les ingrédients , servez bien frais . on peut utiliser du <ingredient> surimi </ingredient> à la <operation> place </operation> du <ingredient> crabe </ingredient> pour que ce soit moins coûteux .
+</preparation>
+</recette>

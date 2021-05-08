@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37606">
+<titre>Pâtes complètes à la Vache qui rit, aux oeufs et au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 verre de pâtes</p>
+<p>4 jaunes d'oeufs</p>
+<p>15 cl de crème fraîche fluide</p>
+<p>4 tranches de jambon cuit</p>
+<p>6 portions de "Vache qui rit"</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="1 verre"> pâtes </ingredient> normalement . pendant ce temps : <operation ingredients="oeufs;crème"> mélanger </operation> dans un bol les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="15 cl"> crème </ingredient> fraîche , <operation> ajouter </operation> la vache qui rit ( sans chercher à la <operation> mélanger </operation> ou l' <operation> écraser </operation> ) , <operation ingredients="jambon"> découper </operation> le <ingredient action="découper"> jambon </ingredient> en petits morceaux . lorsque les <ingredient action="cuire" quantite="1 verre"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> et <operation> égouttées </operation> , les <operation> remettre </operation> dans la casserole , <operation ingredients="jambon"> verser </operation> le contenu du bol et le <ingredient action="verser"> jambon </ingredient> dans la casserole . <operation> mélanger </operation> et attendre couvercle fermé que la vache qui rit <operation> fonde </operation> . bon appétit ! ! !
+</preparation>
+</recette>

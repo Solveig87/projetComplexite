@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89359">
+<titre>Fattoush à ma façon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 belles feuilles de batavia</p>
+<p>1/2 concombre</p>
+<p>2 petites tomates</p>
+<p>1/2 botte de radis</p>
+<p>8 branches de menthe</p>
+<p>1 bouquet de persil plat</p>
+<p>12 cl de jus de citron</p>
+<p>10 cl d'huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> laver </operation> tous les <ingredient action="laver" quantite="1;2"> légumes </ingredient> . <operation ingredients="concombre"> eplucher </operation> le <ingredient action="eplucher" quantite="1"> concombre </ingredient> et le <operation> couper </operation> en petits dés . <operation ingredients="tomates;salade"> découper </operation> en petits morceaux également les <ingredient action="découper" quantite="2"> tomates </ingredient> et la <ingredient action="découper"> salade </ingredient> . <operation ingredients="radis"> couper </operation> les <ingredient action="couper"> radis </ingredient> en rondelles . <operation ingredients="menthe"> hacher </operation> <ingredient action="hacher"> menthe </ingredient> et persil . <operation> mélanger </operation> le tout dans un saladier et <operation> réserver </operation> au frais . <operation ingredients="assaisonnement"> préparer </operation> l' <ingredient action="préparer" quantite="10 cl;"> assaisonnement </ingredient> en <operation ingredients="jus;huile;sel"> mélangeant </operation> le <ingredient action="mélanger" quantite="12 cl"> jus </ingredient> de citron , l' <ingredient action="mélanger" quantite="10 cl"> huile </ingredient> d' olive et le <ingredient action="mélanger" quantite=""> sel </ingredient> . <operation ingredients="salade"> verser </operation> la sauce sur la <ingredient action="verser"> salade </ingredient> juste avant de servir . on peut <operation ingredients="menthe"> mettre </operation> plus de <ingredient action="mettre"> menthe </ingredient> et remplacer le <ingredient> persil </ingredient> par de la <ingredient> coriandre </ingredient> .
+</preparation>
+</recette>

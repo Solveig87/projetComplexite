@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24329">
+<titre>Soupe aux tomates et parmesan</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tomates bien mûres</p>
+<p>2 gousses d'ail</p>
+<p>2 oignons</p>
+<p>100 g de parmesan râpé</p>
+<p>3 brins de thym frais</p>
+<p>1 feuille de laurier</p>
+<p>1 branche de céleri</p>
+<p>2 cuillerées à soupe d'huile d'olive</p>
+<p>1/2 bouquet de basilic</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> inciser </operation> la base des <ingredient action="inciser" quantite="8"> tomates </ingredient> , puis les <operation> ébouillanter </operation> 30 secondes . <operation ingredients="tomates"> peler </operation> et <operation> épépiner </operation> les <ingredient action="peler" quantite="8"> tomates </ingredient> . <operation> emincer </operation> les <ingredient quantite="2"> oignons </ingredient> et <operation> piler </operation> l' <ingredient> ail </ingredient> . <operation ingredients="céleri"> couper </operation> le <ingredient action="couper"> céleri </ingredient> en dés . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une cocotte , y faire suer les <ingredient quantite="2"> oignons </ingredient> avec le <ingredient> céleri </ingredient> et l' <ingredient> ail </ingredient> . <operation ingredients="thym;laurier"> laisser </operation> <operation> dorer </operation> puis <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="8"> tomates </ingredient> , le <ingredient action="laisser"> thym </ingredient> , le <ingredient action="laisser" quantite="1 feuille"> laurier </ingredient> . laisser <operation> revenir </operation> 10 min en <operation> remuant </operation> , puis <operation> couvrir </operation> d' eau . <operation> porter </operation> à <operation> ébullition </operation> , <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> mijoter </operation> 10 min . servir la <ingredient> soupe </ingredient> <operation ingredients="parmesan;basilic"> saupoudrée </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> parmesan </ingredient> et de <ingredient action="saupoudrer"> basilic </ingredient> <operation> ciselé </operation> .
+</preparation>
+</recette>

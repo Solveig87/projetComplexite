@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24289">
+<titre>Paniers au chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de jambon blanc assez larges</p>
+<p>4 fromages Saint Marcellin</p>
+<p>4 petites pommes de terre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à l' eau . une fois <operation> cuites </operation> , les <operation> couper </operation> en fines rondelles . <operation ingredients="jambon"> etaler </operation> les tranches de <ingredient action="etaler" quantite="4 tranche"> jambon </ingredient> . <operation ingredients="marcellin"> couper </operation> les saint <ingredient action="couper"> marcellin </ingredient> en deux verticalement . <operation ingredients="marcellin;jambon"> déposer </operation> une tranche de saint <ingredient action="déposer"> marcellin </ingredient> au milieu de la tranche de <ingredient action="déposer" quantite="4 tranche"> jambon </ingredient> . <operation ingredients="pommes;fromage"> placer </operation> quelques rondelles de <ingredient action="placer" quantite="4"> pommes </ingredient> de terre sur cette partie de <ingredient action="placer" quantite="4"> fromage </ingredient> et <operation ingredients="fromage"> déposer </operation> l' autre moitié du <ingredient action="déposer" quantite="4"> fromage </ingredient> par dessus afin de <operation ingredients="sandwich"> former </operation> une sorte de <ingredient action="former"> sandwich </ingredient> . <operation ingredients="jambon;fromage"> replier </operation> la tranche de <ingredient action="replier" quantite="4 tranche"> jambon </ingredient> sur le côté et attachez - la à l' aide de cures - dents sur le haut du <ingredient action="replier" quantite="4"> fromage </ingredient> , ce qui <operation> formera </operation> un panier . <operation ingredients="fromages"> saupoudrez </operation> les <ingredient action="saupoudrer" quantite="4"> fromages </ingredient> d' herbes de provence selon le goût . <operation> placer </operation> dans un four chaud et faites <operation> cuire </operation> 10 min thermostat 8 . [ ndchef : le saint <ingredient> marcellin </ingredient> était à l' origine un <ingredient quantite="4"> fromage </ingredient> de chèvre . depuis le 18ème siècle , suite à son succès et à la diminution des troupeaux de <ingredient> chèvres </ingredient> dans la région , il existe également au <ingredient> lait </ingredient> de vache ] rouge
+</preparation>
+</recette>

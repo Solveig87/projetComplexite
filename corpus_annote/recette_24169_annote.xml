@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24169">
+<titre>Boeuf et pommes de terre au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>750 g de boeuf à braiser coupé en cubes</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>2 oignons hachés</p>
+<p>2 gousses d'ail hachées</p>
+<p>1 cuillère à soupe de curry en poudre</p>
+<p>2 cm de gingembre haché</p>
+<p>2 cuillères à soupe de concentré de tomates</p>
+<p>350 g de pommes de terre nouvelles</p>
+<p>1 piment vert</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oignons;pommes"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> et les <ingredient action="couper" quantite="350 gramme"> pommes </ingredient> de terre . <operation ingredients="ail"> ecraser </operation> l' <ingredient action="ecraser"> ail </ingredient> . faire <operation ingredients="oignons;ail;gingembre;huile"> fondre </operation> les <ingredient action="fondre" quantite="2"> oignons </ingredient> , l' <ingredient action="fondre"> ail </ingredient> et le <ingredient action="fondre"> gingembre </ingredient> dans l' <ingredient action="fondre" quantite="4 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="curry"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> curry </ingredient> , laisser <operation> chauffer </operation> quelques instants . <operation ingredients="boeuf"> ajouter </operation> le <ingredient action="ajouter" quantite="750 gramme"> boeuf </ingredient> et le faire <operation> dorer </operation> sur toutes ses faces . <operation> mouiller </operation> d' eau à hauteur , <operation ingredients="tomate;sel"> incorporer </operation> le <operation> concentré </operation> de <ingredient action="incorporer"> tomate </ingredient> , du <ingredient action="incorporer"> sel </ingredient> et <operation> couvrir </operation> . laisser <operation> mijoter </operation> à frémissement durant 1 heure . <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="350 gramme"> pommes </ingredient> de terre <operation> coupées </operation> en 4 ainsi que le piment vert . poursuivre la cuisson jusqu' à ce que les <ingredient action="cuire" quantite="350 gramme"> pommes </ingredient> de terre soient <operation ingredients="pommes"> cuites </operation> . vous pouvez <operation ingredients="curry"> mettre </operation> plus de <ingredient action="mettre" quantite="1 cuillère à soupe"> curry </ingredient> pour plus de goût .
+</preparation>
+</recette>

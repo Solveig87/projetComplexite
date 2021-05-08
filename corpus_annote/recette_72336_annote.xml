@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72336">
+<titre>Gâteau maison</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 verres de farine</p>
+<p>2 verres de sucre</p>
+<p>1 verre d'huile</p>
+<p>3 oeufs</p>
+<p>2 verres 1/2 de lait</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure</p>
+<p>1/2 sachet d'amande en poudre</p>
+<p>1 cuillère à café de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre;oeufs;huile;levure;sucre"> mélangez </operation> la <ingredient action="mélanger" quantite="3 verre"> farine </ingredient> , le <ingredient action="mélanger" quantite="2 verre"> sucre </ingredient> , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , l' <ingredient action="mélanger" quantite="1 verre"> huile </ingredient> , la <ingredient action="mélanger"> levure </ingredient> et le <ingredient action="mélanger" quantite="2 verre"> sucre </ingredient> vanillé . <operation ingredients="lait;amandes;rhum;pâte"> ajoutez </operation> le <ingredient action="ajouter"> lait </ingredient> , les <ingredient action="ajouter"> amandes </ingredient> en <operation> poudre </operation> et le <ingredient action="ajouter" quantite="1 cuillère à café"> rhum </ingredient> jusqu' à l' obtention d' une <ingredient action="ajouter"> pâte </ingredient> homogène pas trop épaisse . <operation> beurrez </operation> un <operation> moule </operation> et <operation> versez </operation> - y la préparation . <operation> mettez </operation> - le au four pendant au moins 1 h 30 à 180 <operation> ° </operation> , thermostat 6 . bon appétit !
+</preparation>
+</recette>

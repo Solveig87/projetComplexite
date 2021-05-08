@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81759">
+<titre>Mousse au nutella toute simple</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de nutella</p>
+<p>6 oeufs</p>
+</ingredients>
+<preparation>
+la recette nécessite 2 heures de repos . <operation ingredients="oeufs"> séparez </operation> les blancs d' <ingredient action="séparer" quantite="6"> oeufs </ingredient> et <operation> battez </operation> - les en neige ( ferme ) dans un plat . faites <operation ingredients="nutella"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> nutella </ingredient> sur feu doux . lorsque c' est <operation> fondu </operation> , <operation ingredients="oeufs"> ajoutez </operation> les jaunes d' <ingredient action="ajouter" quantite="6"> oeufs </ingredient> . <operation ingredients="oeufs"> versez </operation> le <operation> mélange </operation> sur les blancs d' <ingredient action="verser" quantite="6"> oeufs </ingredient> et <operation> mélangez </operation> délicatement pour ne pas casser la neige . <operation> mettez </operation> le <operation> mélange </operation> dans un plat ou dans des ramequins et laissez <operation> reposez </operation> 2 h au frigo . bon appétit .
+</preparation>
+</recette>

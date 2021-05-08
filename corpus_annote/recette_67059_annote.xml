@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67059">
+<titre>Pâtes au thon de l'étudiant fauché préssé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 petites boites de thon à l'huile d'olive</p>
+<p>500 g de pâtes</p>
+<p>1 gros oignon</p>
+<p>10 cl de vin blanc</p>
+<p>1 brique de sauce tomate</p>
+<p>2 cuillères à soupe de persil déshydraté</p>
+<p>1 feuille de laurier</p>
+<p>sel et poivre</p>
+<p>100 g de fromage râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> emiettez </operation> le <ingredient action="emietter"> thon </ingredient> et récupérer son <ingredient> huile </ingredient> . <operation ingredients="oignon"> emincez </operation> l' <ingredient action="emincez" quantite="1"> oignon </ingredient> et faites - le <operation ingredients="huile"> fondre </operation> dans une casserole avec une partie de l' <ingredient action="fondre"> huile </ingredient> du thon . lorsque l' <ingredient quantite="1"> oignon </ingredient> commence à <operation> blondir </operation> , <operation ingredients="vin;persil;laurier"> ajoutez </operation> le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc , la sauce tomate , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> persil </ingredient> et le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> , laissez <operation> mijoter </operation> à feu doux en <operation> remuant </operation> régulièrement pendant 15 minutes . <operation ingredients="thon"> ajoutez </operation> le <ingredient action="ajouter"> thon </ingredient> , laissez <operation> mijoter </operation> 2 minutes et <operation ingredients="pâtes"> versez </operation> la préparation sur les <ingredient action="verser" quantite="500 gramme"> pâtes </ingredient> . servez sans attendre , proposez le <ingredient quantite="100 gramme"> fromage </ingredient> à part . facile , économique , végétarien et bon ! <ingredient> cola </ingredient>
+</preparation>
+</recette>

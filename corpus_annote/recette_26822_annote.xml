@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26822">
+<titre>Thon aux oignons et au soja</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 morceaux de thon frais</p>
+<p>2 tomates</p>
+<p>3 oignons doux</p>
+<p>12 oignons nouveaux</p>
+<p>2 gousses d'ail</p>
+<p>1 piment frais</p>
+<p>1 cuillère à café de gingembre frais râpé</p>
+<p>3 cuillères à soupe de sauce soja</p>
+<p>5 cuillères à soupe d'huile</p>
+<p>1 cuillère à café de miel liquide</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> pelez </operation> les <ingredient action="peler" quantite="3+12"> oignons </ingredient> nouveaux , <operation> coupez </operation> - les en rondelles fines . <operation ingredients="ail"> pelez </operation> et <operation> pilez </operation> l' <ingredient action="peler"> ail </ingredient> . <operation ingredients="oignons"> pelez </operation> et <operation> hachez </operation> les <ingredient action="peler" quantite="3+12"> oignons </ingredient> doux . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en 4 . <operation> coupez </operation> le piment en deux , <operation> épépinez </operation> - le et <operation> hachez </operation> - le . <operation ingredients="miel;soja"> délayez </operation> le <ingredient action="délayer" quantite="1 cuillère à café"> miel </ingredient> dans la sauce <ingredient action="délayer"> soja </ingredient> . faites <operation ingredients="huile"> chauffer </operation> 3 cuillères d' <ingredient action="chauffer" quantite="5 cuillère à soupe"> huile </ingredient> dans une grande <operation> poêle </operation> , faites - y <operation ingredients="thon"> dorer </operation> le <ingredient action="dorer"> thon </ingredient> 2 minutes sur chaque face . <operation> retirez </operation> - le et <operation> égouttez </operation> sur un papier absorbant . faites <operation ingredients="ail;oignons"> dorer </operation> l' <ingredient action="dorer"> ail </ingredient> et les <ingredient action="dorer" quantite="3+12"> oignons </ingredient> doux dans la <operation> poêle </operation> à feu moyen . augmentez le feu , <operation ingredients="gingembre;tomates;soja"> ajoutez </operation> le <ingredient action="ajouter"> gingembre </ingredient> , le piment , les <ingredient action="ajouter" quantite="2"> tomates </ingredient> et la sauce <ingredient action="ajouter"> soja </ingredient> . <operation> remuez </operation> et laissez <operation> cuire </operation> quelques minutes . <operation ingredients="thon"> ajoutez </operation> le <ingredient action="ajouter"> thon </ingredient> , laissez <operation> mijoter </operation> encore 5 min . <operation ingredients="oignons"> ajoutez </operation> alors les <ingredient action="ajouter" quantite="3+12"> oignons </ingredient> nouveaux , <operation> salez </operation> et <operation> poivrez </operation> . laissez <operation> cuire </operation> . 4 minutes puis servez . <operation ingredients="riz;nouilles"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> nouilles </ingredient> chinoises .
+</preparation>
+</recette>

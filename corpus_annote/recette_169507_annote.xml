@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169507">
+<titre>Smoothie chocolat abricot banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 bananes</p>
+<p>4 abricot</p>
+<p>8 carré de chocolat</p>
+<p>3 a 4 glaçons</p>
+<p>sucre(selon vos gouts)</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient action="enlever" quantite="3"> bananes </ingredient> et les <operation> couper </operation> en rondelles , <operation ingredients="bananes;abricots;abricots;chocolat"> enlever </operation> le noyau des <ingredient action="enlever" quantite="4"> abricots </ingredient> , <operation ingredients="bananes"> mettre </operation> les <ingredient action="mettre" quantite="3"> bananes </ingredient> , les <ingredient action="enlever" quantite="4"> abricots </ingredient> et le <ingredient action="enlever"> chocolat </ingredient> dans le mixeur puis <operation> rajouter </operation> les glaçons . <operation ingredients="sucre"> mettez </operation> le <ingredient action="mettre" quantite=""> sucre </ingredient> si le gout est trop amer . dervir avec un glaçons en decoration dans un petit verre ou des verre a <ingredient> pied </ingredient> feront l' affaire .
+</preparation>
+</recette>

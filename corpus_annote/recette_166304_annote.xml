@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166304">
+<titre>Blanquette de saumon et moules</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>850 g de filet de saumon</p>
+<p>800 g de moules</p>
+<p>100 cl de court bouillon</p>
+<p>30 g de beurre</p>
+<p>15 cl de crème épaisse</p>
+<p>1 jaune d'oeuf</p>
+<p>30 g de farine</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyez </operation> les <operation> moules </operation> et faites - les <operation ingredients="bouillon"> ouvrir </operation> dans une marmite avec une louche de court <ingredient action="ouvrir" quantite="100 cl"> bouillon </ingredient> . <operation ingredients="jus;bouillon"> reversez </operation> ensuite le <ingredient action="reverser"> jus </ingredient> de cuisson dans le reste de court <ingredient action="reverser" quantite="100 cl"> bouillon </ingredient> et <operation> décortiquez </operation> les <operation> moules </operation> . <operation ingredients="saumon"> détaillez </operation> le <ingredient action="détailler"> saumon </ingredient> en cubes et faites <operation ingredients="beurre"> dorer </operation> ces derniers 3 minutes au <ingredient action="dorer" quantite="30 gramme"> beurre </ingredient> dans une sauteuse . ensuite , <operation> farinez </operation> , <operation ingredients="bouillon"> mouillez </operation> avec le court <ingredient action="mouiller" quantite="100 cl"> bouillon </ingredient> et laissez <operation> mijotez </operation> 15 minutes . <operation ingredients="poisson"> retirez </operation> le <ingredient action="retirer"> poisson </ingredient> cuit . <operation ingredients="œuf;crème;bouillon"> battez </operation> le jaune d’ <ingredient action="battre"> œuf </ingredient> avec la <ingredient action="battre" quantite="15 cl"> crème </ingredient> et 1 louche du court <ingredient action="battre" quantite="100 cl"> bouillon </ingredient> , puis <operation> versez </operation> le tout dans la sauteuse . <operation ingredients="saumon"> remettez </operation> le <ingredient action="remettre"> saumon </ingredient> , <operation> ajoutez </operation> les <operation> moules </operation> , <operation> salez </operation> , <operation> poivrez </operation> et poursuivez la cuisson 5 minutes sans <operation> bouillir </operation> . servez cette blanquette avec du <ingredient> riz </ingredient>
+</preparation>
+</recette>

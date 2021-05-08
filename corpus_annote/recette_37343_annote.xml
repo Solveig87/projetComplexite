@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37343">
+<titre>Salade du printemps de la marmotte</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pamplemousses</p>
+<p>4 à 5 coeurs de palmiers</p>
+<p>20 à 25 crevettes décortiquées</p>
+<p>1 pomme </p>
+<p>2 pommes de terre (taille moyenne)</p>
+<p>150 g de maïs</p>
+<p>sel, poivre</p>
+<p>huile d'olives</p>
+<p>vinaigre de cidre ou du Melfor (condiment)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1+2"> pommes </ingredient> de terres à l' eau , puis les <operation> couper </operation> en gros dés . <operation ingredients="pamplemousses"> peler </operation> à vif les <ingredient action="peler" quantite="2"> pamplemousses </ingredient> , <operation ingredients="coeurs"> couper </operation> les <ingredient action="couper" quantite="4"> coeurs </ingredient> de palmier , <operation ingredients="pomme"> éplucher </operation> la <ingredient action="éplucher" quantite="1+2"> pomme </ingredient> et la <operation> couper </operation> en huit . <operation> mélanger </operation> tous les ingrédients , <operation> saler </operation> , <operation> poivrer </operation> et <operation> assaisonner </operation> avec 1 cuillère à soupe de vinaigre de pomme et 2 cuillères à soupe d' huile d' olives . on peut utiliser un <ingredient quantite=""> vinaigre </ingredient> ordinaire .
+</preparation>
+</recette>

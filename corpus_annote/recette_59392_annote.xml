@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59392">
+<titre>Glace à la fraise express</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de fraises</p>
+<p>125 g de sucre en poudre</p>
+<p>170 g de lait concentré non sucré</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> eplucher </operation> les <ingredient action="eplucher" quantite="250 gramme"> fraises </ingredient> et les <operation> couper </operation> en morceaux . dans un saladier , <operation ingredients="sucre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="125 gramme"> sucre </ingredient> et le <ingredient action="ajouter" quantite="170 gramme"> lait </ingredient> , <operation> mixer </operation> le tout . <operation> mettre </operation> 24 heures au congélateur . . . et c' est prêt ! !
+</preparation>
+</recette>

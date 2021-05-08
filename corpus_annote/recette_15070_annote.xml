@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15070">
+<titre>Boeuf aux courgettes et au cumin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 steaks hachés</p>
+<p>2 courgettes</p>
+<p>2 cuillères à soupe de cumin</p>
+<p>150 g de riz</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faites <operation ingredients="steaks"> revenir </operation> les <ingredient action="revenir" quantite="4"> steaks </ingredient> <operation> hâchés </operation> , puis <operation> coupez </operation> - les en petits morceaux . <operation> ajoutez </operation> les courgettes <operation> coupées </operation> en fines lamelles . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="cumin"> rajoutez </operation> du <ingredient action="rajouter" quantite="2 cuillère à soupe"> cumin </ingredient> selon votre goût ( n' ayez pas peur d' en <operation> mettre </operation> ) . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 20 mn . pendant ce temps , faites <operation ingredients="riz"> cuire </operation> du <ingredient action="cuire" quantite="150 gramme"> riz </ingredient> pour quatre personnes . une fois les deux préparations prêtes , <operation> mélangez </operation> - les et servez chaud . c' est un délice ! mais n' ayez pas peur de <operation ingredients="cumin"> mettre </operation> du <ingredient action="mettre" quantite="2 cuillère à soupe"> cumin </ingredient> . . .
+</preparation>
+</recette>

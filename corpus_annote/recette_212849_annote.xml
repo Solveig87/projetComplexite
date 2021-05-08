@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212849">
+<titre>Poulet à la mexicaine rapide</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de blancs de poulet</p>
+<p>2 beaux oignons</p>
+<p>2 citrons</p>
+<p>1 poivron jaune </p>
+<p>1 poivron rouge</p>
+<p>140 g de maïs</p>
+<p>huile d'olive</p>
+<p>sel </p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="citrons"> presser </operation> les <ingredient action="presser" quantite="2"> citrons </ingredient> . <operation ingredients="poivrons"> émincer </operation> en fines lamelles les <ingredient action="émincer"> poivrons </ingredient> . <operation ingredients="maïs"> égoutter </operation> le <ingredient action="égoutter" quantite="140 gramme"> maïs </ingredient> . <operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> . le temps d' <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer"> oignons </ingredient> , faire <operation ingredients="poulet;jus;huile"> mariner </operation> le <ingredient action="mariner"> poulet </ingredient> dans le <ingredient action="mariner"> jus </ingredient> de citron avec de l' <ingredient action="mariner" quantite=""> huile </ingredient> d' olive ( environ 15 min ) . dans une sauteuse , faire <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer"> oignons </ingredient> . y <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> avec la marinade . laisser <operation> mijoter </operation> à feu doux pendant 10 min . ensuite , <operation ingredients="poivrons;maïs"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et le <ingredient action="ajouter" quantite="140 gramme"> maïs </ingredient> . laisser <operation> cuire </operation> à feu doux pendant environ 30 min . ce plat s' <operation ingredients="riz"> accompagne </operation> très bien avec du <ingredient action="accompagne"> riz </ingredient> . vin blanc type <ingredient> montbazillac </ingredient>
+</preparation>
+</recette>

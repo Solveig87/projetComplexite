@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31912">
+<titre>Pommes au four</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>confiture au choix</p>
+<p>4 tranches de pain de mie</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> préparez </operation> 4 <ingredient action="préparer" quantite="4"> pommes </ingredient> assez belles ; enlevez - leur le trognon . <operation ingredients="pain;lait"> mouillez </operation> le <ingredient action="mouiller" quantite="4 tranche"> pain </ingredient> avec du <ingredient action="mouiller"> lait </ingredient> puis <operation> mettez </operation> - les dans un plat , <operation ingredients="pommes;pain"> posez </operation> les <ingredient action="poser" quantite="4"> pommes </ingredient> chacune sur une tranche de <ingredient action="poser" quantite="4 tranche"> pain </ingredient> , <operation ingredients="pommes;confiture"> fourrez </operation> les <ingredient action="fourrer" quantite="4"> pommes </ingredient> avec de la <ingredient action="fourrer" quantite=""> confiture </ingredient> et <operation> cuisez </operation> - les . et voila ! ! ! ! ! ! très apprécié . blanc
+</preparation>
+</recette>

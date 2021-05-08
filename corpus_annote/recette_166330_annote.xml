@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166330">
+<titre>Mousse au chocolat de Mamie</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100g de chocolat</p>
+<p>100g de sucre glace</p>
+<p>100g de beurre</p>
+<p>4 oeufs</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> au bain marie . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , <operation> mélanger </operation> bien . <operation ingredients="beurre;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> par petits morceaux hors du feu puis les 4 jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> <operation> monter </operation> les blancs en neige ( conseils : <operation ingredients="sel"> ajouter </operation> une pincée de <ingredient action="ajouter"> sel </ingredient> et / ou <operation> mettre </operation> le récipient quelques minutes au frigo avant d' y <operation> monter </operation> vos blancs ) une fois les blancs <operation> montés </operation> en neige , les <operation> incorporer </operation> délicatement à la préparation . <operation> mettre </operation> au frigo 2 heures minimum . déguster très frais .
+</preparation>
+</recette>

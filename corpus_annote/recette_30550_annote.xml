@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30550">
+<titre>Tartines de filets de pigeons à la paysanne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 pigeons</p>
+<p>75 cl de vin blanc sec </p>
+<p>100 g de lard</p>
+<p>10 petits oignons blancs</p>
+<p>100 g de champignons</p>
+<p>6 tranches de pain</p>
+<p>estragon, thym, laurier</p>
+<p>beurre</p>
+<p>crème</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pigeons"> prélever </operation> les 6 filets des <ingredient action="prélever" quantite="3"> pigeons </ingredient> , garder les carcasses . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="10"> oignons </ingredient> en 2 , <operation ingredients="lard"> détailler </operation> le <ingredient action="détailler" quantite="100 gramme"> lard </ingredient> en dés et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="100 gramme"> champignons </ingredient> . faire <operation ingredients="estragon;thym;laurier"> cuire </operation> le tout avec un peu d' <ingredient action="cuire" quantite=""> estragon </ingredient> , du <ingredient action="cuire" quantite=""> thym </ingredient> et du <ingredient action="cuire" quantite=""> laurier </ingredient> , sel et poivre . <operation ingredients="pigeons"> ajouter </operation> les carcasses des <ingredient action="ajouter" quantite="3"> pigeons </ingredient> et laisser <operation> dorer </operation> . faire <operation ingredients="vin"> chauffer </operation> le <ingredient action="chauffer" quantite="75 cl"> vin </ingredient> dans une casserole et y <operation ingredients="oignons"> verser </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="10"> oignons </ingredient> - champignons - lardons et les carcasses . laisser bouilloner et <operation> réduire </operation> pendant 45 min . faire <operation ingredients="pigeons;beurre"> cuire </operation> les filets de <ingredient action="cuire" quantite="3"> pigeons </ingredient> à la <operation> poêle </operation> avec du <ingredient action="cuire"> beurre </ingredient> . <operation> réserver </operation> au chaud . faire <operation ingredients="pain;beurre"> dorer </operation> les tranches de <ingredient action="dorer" quantite="6 tranche"> pain </ingredient> dans du <ingredient action="dorer"> beurre </ingredient> également . <operation> filtrer </operation> la sauce <operation> réduite </operation> , la <operation ingredients="crème"> délayer </operation> avec un peu de <ingredient action="délayer" quantite=""> crème </ingredient> . <operation ingredients="pain"> poser </operation> les filets sur les tranches de <ingredient action="poser" quantite="6 tranche"> pain </ingredient> dorées et <operation> napper </operation> de sauce . servir <operation ingredients="haricots;choux"> accompagné </operation> de <ingredient action="accompagner"> haricots </ingredient> verts en fagots ou de <ingredient action="accompagner"> choux </ingredient> de bruxelles .
+</preparation>
+</recette>

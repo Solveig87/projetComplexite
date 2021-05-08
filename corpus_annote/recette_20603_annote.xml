@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20603">
+<titre>Oeufs à l'Alexandrine (Recette égyptienne)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs durs</p>
+<p>1 verre de purée de tomate</p>
+<p>1/2 verre d'eau</p>
+<p>2 cuillères à soupe de beurre</p>
+<p>3 cuillères à soupe d'oignon haché</p>
+<p>1 cuillère à soupe de persil</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;beurre"> dorer </operation> dans une <operation> poêle </operation> l' <ingredient action="dorer" quantite="3 cuillère à soupe"> oignon </ingredient> et le <ingredient action="dorer" quantite="2 cuillère à soupe"> beurre </ingredient> . <operation ingredients="tomate"> incorporer </operation> la purée de <ingredient action="incorporer"> tomate </ingredient> . <operation ingredients="persil;sel;poivre"> ajouter </operation> l' eau , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> persil </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> remuer </operation> et laisser <operation> bouillir </operation> 4 mn . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> oeufs </ingredient> durs . laisser sur feu doux pendant 5 mn en <operation> remuant </operation> . <operation ingredients="oeufs"> retirer </operation> les <ingredient action="retirer" quantite="6"> oeufs </ingredient> . les <operation> couper </operation> en deux dans le sens de la longueur . les <operation> placer </operation> sur un plat . <operation> assaisonner </operation> avec la sauce . servir chaud .
+</preparation>
+</recette>

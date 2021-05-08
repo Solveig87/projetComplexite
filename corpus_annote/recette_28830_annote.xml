@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28830">
+<titre>Veau à l'ancienne façon bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de viande de veau en morceaux</p>
+<p>200 g de lardons</p>
+<p>3 oignons émincés</p>
+<p>1 bouquet garni</p>
+<p>33 cl de vin rouge</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe de farine</p>
+</ingredients>
+<preparation>
+dans une cocotte à fond épais , faire <operation ingredients="lardons"> fondre </operation> les <ingredient action="fondre" quantite="200 gramme"> lardons </ingredient> à feu doux . une fois <operation> dorer </operation> , les <operation> réserver </operation> . remplacer par les morceaux de <ingredient quantite="1,2 kilogramme"> viande </ingredient> et les <ingredient quantite="3"> oignons </ingredient> . bien <operation> remuer </operation> . lorsque les <ingredient quantite="3"> oignons </ingredient> sont translucides , <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> . puis <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="33 cl"> vin </ingredient> et <operation> ajouter </operation> de l' eau jusqu' à <operation ingredients="viande"> immerger </operation> la <ingredient action="immerger" quantite="1,2 kilogramme"> viande </ingredient> . <operation> assaisonner </operation> , <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et laisser <operation> mijoter </operation> 1 heure .
+</preparation>
+</recette>

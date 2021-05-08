@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36492">
+<titre>Granité exotique</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de thé aux fruits exotiques</p>
+<p>sucre (ou édulcorant)</p>
+<p>quelques morceaux d'ananas au sirop</p>
+<p>quelques litchis au sirop</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="thé"> infuser </operation> le sachet de <ingredient action="infuser"> thé </ingredient> dans un grand bol d' eau chaude . <operation ingredients="thé"> sucrer </operation> le <ingredient action="sucrer"> thé </ingredient> à sa convenance . <operation ingredients="thé;glace"> verser </operation> une fois refroidi le <ingredient action="verser"> thé </ingredient> dans un grand plat de manière à ce que le liquide <ingredient action="verser"> glace </ingredient> vite et hop au frigo . <operation> mettre </operation> des petits coups de fourchettes toutes les heures dans le granité pour que cela <operation ingredients="glace"> forme </operation> des morceaux de <ingredient action="forme"> glace </ingredient> <operation> pilée </operation> . au moment de servir , <operation ingredients="ananas;litchis"> ajouter </operation> des petits morceaux d' <ingredient action="ajouter"> ananas </ingredient> et de <ingredient action="ajouter" quantite="quelque"> litchis </ingredient> . on peut vraiment faire cette recette avec des ingrédients de fond de placard . marche avec tous les <ingredient> thés </ingredient> et tous les <ingredient quantite="quelque"> fruits </ingredient> . mais plus original qu' une <ingredient> salade </ingredient> de fruit ( et avec de l' édulcorant , c' est tout léger ) .
+</preparation>
+</recette>

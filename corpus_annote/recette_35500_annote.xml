@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35500">
+<titre>Salade de citrouille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500g de citrouille</p>
+<p>1 citron (son jus)</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+otez la peau de la <ingredient action="confectionner" quantite="500 gramme"> citrouille </ingredient> et <operation> coupez </operation> la en gros morceaux . <operation> rapez </operation> la finement <operation ingredients="citrouille;assaisonnement;sel"> confectionnez </operation> une sauce d' <ingredient action="confectionner" quantite="2 cuillère à soupe"> assaisonnement </ingredient> avec huile d' olive et jus de citron ( éventuellement <ingredient action="confectionner"> sel </ingredient> , poivre , piment de cayenne , selon vos goûts ) peut se réaliser avec les autres variétés similaires à la <ingredient quantite="500 gramme"> citrouille </ingredient> : potimarron , giromon . . .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168493">
+<titre>Salade Quinoa rouge, fenouil, fruits secs explosive !</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la salade:</p>
+<p>350 g de quinoa rouge</p>
+<p>2 petits fenouils</p>
+<p>10 de dattes</p>
+<p>1 poignée de noix de cajous</p>
+<p>Pour la sauce:</p>
+<p>3 gousses d'ail</p>
+<p>7 cm de racine de gingembre</p>
+<p>1/2 verre d'huile d'olive généreux</p>
+<p>3 cuillères à soupe de vinaigre balsamique</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="quinoa"> cuire </operation> le <ingredient action="cuire"> quinoa </ingredient> . pendant ce temps , <operation ingredients="fenouils"> couper </operation> les <ingredient action="couper" quantite="2"> fenouils </ingredient> en petits morceaux de 1 cm , <operation> couper </operation> chaque date en 4 . <operation> mettre </operation> le tout dans un saladier et y <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter"> noix </ingredient> de cajous . pour la sauce , une astuce . . . prenez un pot de <ingredient> confiture </ingredient> vide , à l' intérieur de celui-ci , <operation> mettez </operation> l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;huile;vinaigre;gingembre"> pressé </operation> , l' <ingredient action="presser"> huile </ingredient> d' olive , le <ingredient action="presser" quantite="3 cuillère à soupe"> vinaigre </ingredient> et après l' avoir <operation> épluché </operation> , la racine de <ingredient action="presser"> gingembre </ingredient> très finement <operation> rapée </operation> . fermez avec le couvercle et <operation> secouez </operation> le tout ! quand le <ingredient action="cuire"> quinoa </ingredient> est <operation ingredients="quinoa"> cuit </operation> , laissez le refroidir , puis <operation> mettez </operation> - le avec les autres ingrédients et la sauce dans le saladier . <operation> réserver </operation> une heure au frais avant de servir . et voilà ! ça dépote un peu les papilles , c' est frais et les ingrédients se marient étonnamment .
+</preparation>
+</recette>

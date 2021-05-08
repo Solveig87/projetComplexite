@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54855">
+<titre>Penne à la pizzaïolo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de penne ou autres pâtes</p>
+<p>75 cl de sauce tomate nature</p>
+<p>3 gousses d'ail</p>
+<p>1 boîte de thon à l'huile</p>
+<p>5 filets d'anchois à l'huile</p>
+<p>100 g d'olives noires et vertes</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> vos <ingredient quantite="3"> gousses </ingredient> d' ail , <operation ingredients="anchois;olives"> emincez </operation> vos <ingredient action="emincez"> anchois </ingredient> et vos <ingredient action="emincez" quantite="100 gramme"> olives </ingredient> . dans une <operation> poêle </operation> faites <operation ingredients="huile;anchois;olives"> chauffer </operation> 2 cuillères d' <ingredient action="chauffer"> huile </ingredient> d' olive , faites <operation> revenir </operation> sans <operation ingredients="ail"> brunir </operation> l' <ingredient action="brunir"> ail </ingredient> <operation> écrasé </operation> , les <ingredient action="chauffer"> anchois </ingredient> , les <ingredient action="chauffer" quantite="100 gramme"> olives </ingredient> . <operation ingredients="thon"> ajoutez </operation> la sauce tomate et la boîte de <ingredient action="ajouter"> thon </ingredient> et faites <operation> mijoter </operation> à feu doux 10 minutes . faites <operation ingredients="penne"> cuire </operation> vos <ingredient action="cuire" quantite="500 gramme"> penne </ingredient> al dente . <operation ingredients="pâtes"> incorporez </operation> la moitié de la sauce avec les <ingredient action="incorporer"> pâtes </ingredient> une fois <operation> cuites </operation> , et servez en <operation ingredients="pâtes"> rajoutant </operation> un peu de sauce sur le dessus des <ingredient action="rajouter"> pâtes </ingredient> . servez avec du <ingredient quantite=""> parmesan </ingredient> . chianti
+</preparation>
+</recette>

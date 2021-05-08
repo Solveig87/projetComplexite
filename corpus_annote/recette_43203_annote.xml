@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43203">
+<titre>Cuisses de poulet à l'orange et à la menthe</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>1 oignon</p>
+<p>2 oranges</p>
+<p>1 bouquet de menthe</p>
+<p>1 cuillère à café de fond de sauce de volaille</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+" <operation ingredients="poulet"> eplucher </operation> " les cuisses de <ingredient action="eplucher"> poulet </ingredient> pour <operation> enlever </operation> la peau . <operation ingredients="oignon"> découper </operation> l' <ingredient action="découper" quantite="1"> oignon </ingredient> en petits morceaux . dans une <operation> poêle </operation> anti-adhésive , <operation ingredients="oignon;volaille"> mettre </operation> l' <ingredient action="mettre" quantite="1"> oignon </ingredient> et le fond de <ingredient action="mettre"> volaille </ingredient> et <operation> mouiller </operation> avec une cuillère à soupe d' eau . <operation ingredients="poulet"> poser </operation> les cuisses de <ingredient action="poser"> poulet </ingredient> par dessus . faire <operation> dorer </operation> à petit feu en tournant pour <operation> dorer </operation> toutes les faces . avec un <ingredient action="éplucher"> couteau </ingredient> économe , <operation ingredients="couteau;oranges"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> oranges </ingredient> sans prendre le blanc et <operation> couper </operation> les zestes en fines lanières . <operation> rajouter </operation> les zestes dans la <operation> poêle </operation> . a mi-cuisson ( environ 15 min ) , <operation ingredients="jus;orange"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' une <ingredient action="ajouter" quantite="2"> orange </ingredient> , sel , poivre , <operation> couvrir </operation> et laisser <operation> réduire </operation> . <operation ingredients="menthe"> ciseler </operation> la <ingredient action="ciseler"> menthe </ingredient> . au bout de 30 min , <operation ingredients="jus;orange"> déglacer </operation> avec le <ingredient action="déglacer"> jus </ingredient> de la deuxième <ingredient action="déglacer" quantite="2"> orange </ingredient> et <operation ingredients="menthe"> rajouter </operation> la <ingredient action="rajouter"> menthe </ingredient> . servir aussitôt . cuisiné sans <ingredient> matière </ingredient> grasse dans le cadre d' un régime , ce plat se <operation ingredients="huile"> fait </operation> très bien aussi " normalement " avec un peau d' <ingredient action="faire"> huile </ingredient> pour faire <operation> dorer </operation> les cuisses mais je conseille quand même d' <operation ingredients="poulet"> enlever </operation> la peau des cuisses de <ingredient action="enlever"> poulet </ingredient> . de même , il est possible de remplacer les cuisses par des filets de <ingredient> poulet </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81300">
+<titre>Spaghetti au thon vraiment facile!</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de spaghetti</p>
+<p>une boîte de thon</p>
+<p>20 g de beurre</p>
+<p>1 cuillère à soupe de farine</p>
+<p>2,5 verres de lait</p>
+<p>gruyère râpé</p>
+<p>poivre, sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> spaghetti </ingredient> . dans une autre casserole , faire <operation ingredients="beurre"> fondre </operation> le morceau de <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> et <operation ingredients="farine;lait"> ajouter </operation> une grosse cuillère de <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> , ainsi que 2 , 5 verres de <ingredient action="ajouter" quantite="2,5 verre"> lait </ingredient> , tout en <operation> fouettant </operation> . quand le <operation> mélange </operation> épaissit , <operation ingredients="gruyère;poivre;sel"> ajouter </operation> du <ingredient action="ajouter" quantite=""> gruyère </ingredient> râpé , du <ingredient action="ajouter" quantite=""> poivre </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient> thon </ingredient> <operation> écrasé </operation> . <operation> egoutter </operation> les <ingredient action="ajouter" quantite="400 gramme"> spaghetti </ingredient> , les <operation ingredients="spaghetti"> ajouter </operation> au <operation> mélange </operation> puis <operation> mettre </operation> dans un plat allant au four . <operation> cuire </operation> 30 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

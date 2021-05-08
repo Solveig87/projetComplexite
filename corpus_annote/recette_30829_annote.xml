@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30829">
+<titre>Oeuf mimosa au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs</p>
+<p>mayonnaise</p>
+<p>1 cuillère à café de concentré de tomate</p>
+<p>1 gousse d'ail</p>
+<p>1 échalote</p>
+<p>1 boîte de thon</p>
+<p>sel, poivre</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faite <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="6"> oeufs </ingredient> durs . <operation> coupez </operation> - les en 2 dans le sens de la longueur , <operation> mettre </operation> les blancs de côté . dans un saladier , <operation> mettre </operation> les jaunes , le <ingredient> thon </ingredient> , l' <ingredient quantite="1"> échalote </ingredient> et l' <ingredient> ail </ingredient> <operation> haché </operation> , le <operation> concentré </operation> de <ingredient> tomate </ingredient> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> . <operation> mixer </operation> le tout en <operation ingredients="mayonnaise"> ajoutant </operation> la <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> au fur et à <operation> mesure </operation> . <operation> fourrer </operation> les blancs avec la mixture et <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient>
+</preparation>
+</recette>

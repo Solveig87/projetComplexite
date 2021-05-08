@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84932">
+<titre>Soupe d'épinards au cumin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>4 cuillères à soupe de poudre d'amandes</p>
+<p>1 cuillère à soupe de cumin</p>
+<p>1,2 kg d'épinard surgelés</p>
+<p>1 cube de bouillon de légumes</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="amandes;cumin"> ajouter </operation> la <operation> poudre </operation> d' <ingredient action="ajouter"> amandes </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cumin </ingredient> et bien <operation> remuer </operation> . <operation ingredients="épinards;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="1,2 kilogramme"> épinards </ingredient> encore surgelés et le cube de <ingredient action="ajouter"> bouillon </ingredient> et un verre d' eau , bien <operation> mélanger </operation> . faire <operation> cuire </operation> à <operation> couvert </operation> pendant 10 min en <operation> remuant </operation> de temps en temps . <operation ingredients="soupe"> passer </operation> la <ingredient action="passer"> soupe </ingredient> au mixeur ( elle sera peu liquide ) et <operation> salez </operation> , <operation> poivrez </operation> . si vous voulez , vous pouvez <operation ingredients="crème;crème"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> crème </ingredient> fraiche liquide ou de la <ingredient action="ajouter" quantite=""> crème </ingredient> soja <operation> cuisine </operation> .
+</preparation>
+</recette>

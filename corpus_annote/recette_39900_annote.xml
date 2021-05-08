@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39900">
+<titre>Porc à l'ananas et aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>un rôti de porc de 1 kg</p>
+<p>2 oignons</p>
+<p>fécule de pomme de terre</p>
+<p>2 boîte 1/4 d'ananas </p>
+<p>huile</p>
+<p>4 poivrons verts</p>
+<p>un demi-verre de whisky</p>
+<p>un demi-verre de vinaigre de vin</p>
+<p>un bol de purée de tomate</p>
+<p>2 blancs d'oeufs</p>
+<p>sel, poivre, paprika, piment en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="porc"> couper </operation> le <ingredient action="couper"> porc </ingredient> en petits morceaux . <operation ingredients="oeuf;pomme"> passer </operation> les morceaux dans le blanc d' <ingredient action="passer"> oeuf </ingredient> , puis dans la fécule de <ingredient action="passer"> pomme </ingredient> de terre . <operation ingredients="huile"> mettre </operation> de l' <ingredient action="mettre" quantite=""> huile </ingredient> à <operation> chauffer </operation> dans une <operation> poêle </operation> , et faire <operation ingredients="porc"> dorer </operation> les morceaux de <ingredient action="dorer"> porc </ingredient> . une fois bien grillés , les <operation> mettre </operation> de côté . <operation> emincer </operation> les <ingredient quantite="2"> oignons </ingredient> , et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en petits morceaux . faire <operation> cuire </operation> à feu doux . lorsque les <ingredient action="changer"> poivrons </ingredient> <operation ingredients="poivrons"> changent </operation> de couleur , <operation ingredients="tomate;ananas"> ajouter </operation> la purée de <ingredient action="ajouter"> tomate </ingredient> <operation ingredients="vinaigre;whisky"> mélangée </operation> au <ingredient action="mélanger"> vinaigre </ingredient> et au <ingredient action="mélanger"> whisky </ingredient> , et les <ingredient action="ajouter"> ananas </ingredient> en morceaux . <operation> egoutter </operation> . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite=";;;"> épices </ingredient> . laisser <operation> mijoter </operation> 5 mn , puis <operation ingredients="porc"> ajouter </operation> le <ingredient action="ajouter"> porc </ingredient> . laisser <operation> chauffer </operation> quelques minutes , puis servir .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47143">
+<titre>Rouelle de porc aux pruneaux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 morceau de rouelle de porc</p>
+<p>500 g de pruneaux</p>
+<p>vin blanc</p>
+<p>sel poivre</p>
+<p>gelée de groseilles</p>
+<p>crème fraîche</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pruneaux;vin"> tremper </operation> les <ingredient action="tremper" quantite="500 gramme"> pruneaux </ingredient> dans du <ingredient action="tremper" quantite=""> vin </ingredient> blanc , au moins 1 h. <operation> couper </operation> la rouelle en morceaux ( comme pour un bourguignon ) et les faire <operation> revenir </operation> dans un autocuiseur , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="pruneaux;vin;cannelle"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> pruneaux </ingredient> , le <ingredient action="ajouter" quantite=""> vin </ingredient> blanc et un peu de <ingredient action="ajouter" quantite="1 cuillère à café"> cannelle </ingredient> . fermer l' autocuiseur et laisser <operation> cuire </operation> 15 min . <operation ingredients="jus;crème"> retirer </operation> le <ingredient action="retirer"> jus </ingredient> de cuisson , <operation ingredients="gelée"> ajouter </operation> la <ingredient action="ajouter" quantite=""> gelée </ingredient> de groseilles ( à peine 2 cuillères à soupe , selon les goûts ) , puis la <ingredient action="retirer" quantite=""> crème </ingredient> fraîche . <operation ingredients="viande"> disposer </operation> la <ingredient action="disposer"> viande </ingredient> dans un plat , l' <operation> arroser </operation> de sauce et <operation ingredients="pruneaux"> entourer </operation> le tout de <ingredient action="entourer" quantite="500 gramme"> pruneaux </ingredient> .
+</preparation>
+</recette>

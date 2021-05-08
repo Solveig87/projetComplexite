@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63743">
+<titre>Tajine Maï en cocotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>une botte de carottes</p>
+<p>une belle courgette</p>
+<p>4 oignons</p>
+<p>2 poivrons</p>
+<p>quelques pruneaux secs et abicot secs</p>
+<p>un sachet d'épices pour tajine</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="4"> oignons </ingredient> <operation> hachés </operation> finement ainsi que les <ingredient quantite="2"> poivrons </ingredient> <operation> coupés </operation> en dés . <operation ingredients="escalopes"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> escalopes </ingredient> de poulet <operation> coupées </operation> en lamelles , les laisser <operation> dorer </operation> . <operation ingredients="carottes"> couper </operation> la courgette en rondelles ainsi que les <ingredient action="couper"> carottes </ingredient> , les <operation> ajouter </operation> . <operation ingredients="épice"> mettre </operation> de l' eau à moitié de la cocotte et un sachet d' <ingredient action="mettre"> épice </ingredient> à tajine . laisser <operation> mijoter </operation> environ 1 h 15 en surveillant à feu doux .
+</preparation>
+</recette>

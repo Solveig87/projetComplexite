@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81391">
+<titre>Omelettes colorées</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>5 tranches de jambon cru</p>
+<p>1 poivron</p>
+<p>4 tomates</p>
+<p>1 gros oignon</p>
+<p>2 gousses d'ail</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> lavez </operation> les <ingredient action="laver" quantite="1"> poivrons </ingredient> , <operation> coupez </operation> - les en deux , <operation> ôtez </operation> les graines , puis <operation> coupez </operation> en petits morceaux . <operation ingredients="oignon;gousses"> pelez </operation> et <operation> hachez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> et les <ingredient action="peler" quantite="2"> gousses </ingredient> d' ail . dans une casserole , faites <operation> bouillir </operation> de l' eau . <operation ingredients="tomates"> lavez </operation> les <ingredient action="laver" quantite="4"> tomates </ingredient> , <operation> incisez </operation> - les légèrement en <operation> forme </operation> de croix avec la pointe d' un <ingredient action="plonger"> couteau </ingredient> , <operation ingredients="couteau"> plongez </operation> - les 1 minute dans l' eau , puis laissez - les refroidir , <operation> pelez </operation> - les , <operation> coupez </operation> en morceaux en <operation> enlevant </operation> les pépins . dans un saladier , cassez les <ingredient quantite="8"> oeufs </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> , et <operation> battez </operation> - les en omelette . faites <operation ingredients="oignon"> chauffer </operation> une <operation> poêle </operation> , <operation ingredients="huile"> versez </operation> - y de l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> , <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> , l' <ingredient action="chauffer" quantite="1"> oignon </ingredient> , les <ingredient action="faire" quantite="1"> poivrons </ingredient> , <operation ingredients="poivrons"> faites </operation> les <operation> revenir </operation> 5 minutes . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> , laissez <operation> fondre </operation> pendant 10 minutes en <operation> remuant </operation> de temps en temps et <operation ingredients="jambon"> ajoutez </operation> le <ingredient action="ajouter" quantite="5 tranche"> jambon </ingredient> cru . augmentez la puissance du feu , <operation ingredients="oeufs"> versez </operation> les <ingredient action="verser" quantite="8"> oeufs </ingredient> <operation> battus </operation> , <operation> remuez </operation> en <operation> formant </operation> un 8 pendant environ 5 minutes , jusqu' à ce que la préparation devienne moelleuse . on peut aussi remplacer les <ingredient quantite="1"> poivrons </ingredient> par des piments doux .
+</preparation>
+</recette>

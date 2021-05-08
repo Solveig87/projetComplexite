@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26431">
+<titre>Pomme de terre gratinées</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 grosses pommes de terre</p>
+<p>40 g de beurre</p>
+<p>10 cl de lait</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 sachet de gruyère râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre au four , 1 h à 200 <operation> ° </operation> c ( <operation> enveloppez </operation> - les dans du papier aluminium ) . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre en 2 dans la longueur , <operation ingredients="chair"> évider </operation> la <ingredient action="évider"> chair </ingredient> à la cuillère sans abîmer la " coque " . <operation ingredients="chair;beurre;lait;fromage;crème;sel"> ecraser </operation> la <ingredient action="ecraser"> chair </ingredient> avec le <ingredient action="ecraser" quantite="40 gramme"> beurre </ingredient> , le <ingredient action="ecraser" quantite="10 cl"> lait </ingredient> , la moitié du <ingredient action="ecraser"> fromage </ingredient> , la <ingredient action="ecraser" quantite="2 cuillère à soupe"> crème </ingredient> fraîche , <ingredient action="ecraser" quantite=""> sel </ingredient> et poivre . <operation ingredients="coques"> remplir </operation> les <ingredient action="remplir"> coques </ingredient> , <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer"> gruyère </ingredient> et faire <operation> gratiner </operation> 10 min au four à 240 <operation> ° </operation> c ( thermostat 8) . vous pouvez <operation ingredients="curry"> ajouter </operation> du <ingredient action="ajouter"> curry </ingredient> ou des herbes dans la purée pour parfumer .
+</preparation>
+</recette>

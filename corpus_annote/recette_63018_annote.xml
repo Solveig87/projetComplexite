@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63018">
+<titre>Soupe rose d'automne</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 betteraves rouges crues</p>
+<p>1/2 chou blanc</p>
+<p>2 pommes</p>
+<p>2 feuilles de laurier</p>
+<p>2 clous de girofle</p>
+<p>3 cuillères à soupe de farine, si possible complète</p>
+<p>sel, poivre</p>
+<p>1 bouillon cube</p>
+</ingredients>
+<preparation>
+<operation> râper </operation> les betteraves , <operation ingredients="chou"> émincer </operation> finement le <ingredient action="émincer"> chou </ingredient> en lanières et <operation ingredients="pommes"> détailler </operation> les <ingredient action="détailler" quantite="2"> pommes </ingredient> en dés . faire <operation ingredients="chou"> rissoler </operation> les betteraves et le <ingredient action="rissoler"> chou </ingredient> dans une cocotte . <operation ingredients="farine;bouillon;sel"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="3 cuillère à soupe"> farine </ingredient> , <operation ingredients="pommes;laurier"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> pommes </ingredient> , le <ingredient action="ajouter" quantite="2 feuille"> laurier </ingredient> , les clous de girofle , le <ingredient action="saupoudrer" quantite="1"> bouillon </ingredient> cube , <ingredient action="saupoudrer" quantite=""> sel </ingredient> et poivre . <operation> couvrir </operation> avec 1 litre d' eau . laisser <operation> cuire </operation> à feu doux 30 minutes , puis <operation> mixer </operation> . servir bien chaud , avec un peu de <ingredient> crème </ingredient> fraîche .
+</preparation>
+</recette>

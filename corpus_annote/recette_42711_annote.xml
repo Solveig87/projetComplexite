@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42711">
+<titre>Crème de chicons parfumée au thym et au miel.</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,2l d’eau</p>
+<p>1 kg de chicons</p>
+<p>2 cubes de bouillon de poule dégraissés</p>
+<p>1 courgette</p>
+<p>5 grosses gousses d’ail</p>
+<p>1 petite cuillère à café de thym (séché)</p>
+<p>2 cuillères à soupe de miel (plutôt petites que grosses)</p>
+<p>200 ml de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail"> nettoyez </operation> , <operation> lavez </operation> , et <operation> coupez </operation> en morceaux les chicons , la courgette et l’ <ingredient action="nettoyer"> ail </ingredient> . faites <operation> chauffer </operation> l’ eau , <operation ingredients="bouillon"> ajoutez </operation> les cubes de <ingredient action="ajouter"> bouillon </ingredient> . a l’ <operation> ébullition </operation> , <operation ingredients="légumes;thym"> plongez </operation> les <ingredient action="plonger"> légumes </ingredient> et le <ingredient action="plonger"> thym </ingredient> , et <operation> comptez </operation> 20 à 25 min . <operation> mixez </operation> la <ingredient action="ajouter"> soupe </ingredient> . <operation ingredients="soupe;miel;crème"> ajoutez </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> miel </ingredient> et la <ingredient action="ajouter"> crème </ingredient> fraîche . <operation> salez </operation> et <operation> poivrez </operation> . bien <operation> mélanger </operation> , <operation> goûtez </operation> , et <operation ingredients="sel"> ajustez </operation> au besoin <ingredient action="ajuster" quantite=""> sel </ingredient> ou poivre . n. b : vous pouvez , pour la présentation , <operation> déposer </operation> quelques fines lanières de chicon cru . . .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223701">
+<titre>Dorade royale au piment d'espelette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 dorade royale entière</p>
+<p>1 citron</p>
+<p>2 cuillères à soupe de piment d'espelette en poudre</p>
+<p>2 cuillères à café de vinaigre de cidre</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 oignon</p>
+<p>1 pincée de ciboulette</p>
+</ingredients>
+<preparation>
+préparation de la <ingredient quantite="1"> dorade </ingredient> : <operation ingredients="dorade"> lavez </operation> et <operation> écaillez </operation> la <ingredient action="laver" quantite="1"> dorade </ingredient> . videz - la de ses entrailles . préparation du plat : <operation ingredients="oignon"> épluchez </operation> l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> et <operation> coupez </operation> - le en tranches fines <operation ingredients="citron"> coupez </operation> le <ingredient action="couper" quantite="1"> citron </ingredient> en tranches fines et <operation> retirez </operation> les pépins . <operation ingredients="citron;oignon"> mettez </operation> 2 tranches de <ingredient action="mettre" quantite="1"> citron </ingredient> et 2 d' <ingredient action="mettre" quantite="1"> oignon </ingredient> en alternant l' un puis l' autre à la <operation> place </operation> des boyaux . <operation ingredients="dorade"> saupoudrez </operation> les 2 faces de la <ingredient action="saupoudrer" quantite="1"> dorade </ingredient> de piment d' espelette . préchauffez votre four à 200 <operation> ° </operation> c pendant 20 min puis <operation ingredients="dorade"> enfournez </operation> la <ingredient action="enfourner" quantite="1"> dorade </ingredient> . au bout de 1 / 2 h , <operation ingredients="huile;vinaigre"> recouvrez </operation> de 3 cuillères d' <ingredient action="recouvrir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et 1 de <ingredient action="recouvrir" quantite="2 cuillère à café"> vinaigre </ingredient> de cidre . puis sortez du four après 1 h de cuisson . entre deux mer
+</preparation>
+</recette>

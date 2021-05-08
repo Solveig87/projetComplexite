@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68748">
+<titre>Tarte Poires et Pralinoise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée toute prête</p>
+<p>1 boîte de poires au sirop</p>
+<p>1 tablette de Pralinoise (au rayon chocolat)</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>2 sachets de sucre vanillé</p>
+<p>1 noisette de beurre</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . faire <operation ingredients="pralinoise;beurre"> fondre </operation> la <ingredient action="fondre"> pralinoise </ingredient> tout doucement avec le <ingredient action="fondre"> beurre </ingredient> . ( attention à ne pas faire <operation ingredients="chocolat"> cuire </operation> le <ingredient action="cuire"> chocolat </ingredient> en le chauffant trop fort , il est très fragile et il <operation> durcirait </operation> ) <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> dans un <operation> moule </operation> à tarte , étaler la <ingredient> pralinoise </ingredient> dessus , <operation ingredients="poires"> ajouter </operation> les <ingredient action="ajouter"> poires </ingredient> <operation> coupées </operation> en grosses lamelles . <operation ingredients="oeufs;sucre"> verser </operation> les <ingredient action="verser" quantite="3"> oeufs </ingredient> <operation ingredients="crème"> battus </operation> avec la <ingredient action="battre" quantite="20 cl"> crème </ingredient> et 1 sachet de <ingredient action="verser"> sucre </ingredient> vanillé dessus et , pour finir , <operation ingredients="poires"> saupoudrer </operation> les <ingredient action="saupoudrer"> poires </ingredient> qui surnagent avec l' autre sachet de <ingredient> sucre </ingredient> . <operation> enfourner </operation> 30 minutes . déguster tiède ou froid .
+</preparation>
+</recette>

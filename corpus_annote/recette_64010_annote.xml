@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64010">
+<titre>Korma Vegetarien</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la purée Massala :</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>2 clous de girofle</p>
+<p>2 cm de bâton de cannelle</p>
+<p>1 cuillère à café de purée de gingembre</p>
+<p>1 bouquet de coriandre</p>
+<p>100 g de noix de coco râpée</p>
+<p>3 piments (optionnel)</p>
+<p>1 oignon moyen</p>
+<p>Pour les légumes épicé s:</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>150 g de carottes</p>
+<p>150 g de haricots coco</p>
+<p>150 g de petits pois</p>
+<p>3 pommes de terre moyennes</p>
+<p>3 patates douces moyennes</p>
+<p>1 grosse tomate (à farcir par exemple)</p>
+<p>1/4 cuillère à café de graines de fenouil</p>
+<p>1 cuillère à café de graines de moutarde (optionnel)</p>
+<p>1 cuillère à café de curcuma</p>
+<p>3 gousses de cardamome</p>
+<p>10 feuilles de curry ou laurier</p>
+<p>1 gros oignon</p>
+</ingredients>
+<preparation>
+purée massala : faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe+2 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> et faire <operation ingredients="cannelle"> frire </operation> la <ingredient action="frire"> cannelle </ingredient> et les clous de girofles pendant 1 min . <operation ingredients="gingembre;oignon"> ajouter </operation> la purée de <ingredient action="ajouter"> gingembre </ingredient> , les piments et l' <ingredient action="ajouter" quantite="1+1"> oignon </ingredient> <operation> émincé </operation> . lorsque les <ingredient quantite="1+1"> oignons </ingredient> sont transparents , <operation> retirer </operation> du feu et <operation ingredients="coriandre;noix"> ajouter </operation> les feuilles de <ingredient action="ajouter"> coriandre </ingredient> hachées et la <ingredient action="ajouter" quantite="100 gramme"> noix </ingredient> de coco . <operation> mixer </operation> et <operation> mettre </operation> de côté . <ingredient action="chauffer" quantite="1+1;150 gramme;150 gramme;150 gramme;3;3;1"> légumes </ingredient> épicés : dans un faitout , faire <operation ingredients="légumes;huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe+2 cuillère à soupe"> huile </ingredient> , y faire <operation ingredients="fenouil;moutarde;laurier"> frire </operation> les graines de <ingredient action="frire"> fenouil </ingredient> et de <ingredient action="frire"> moutarde </ingredient> , la cardamome et le <ingredient action="frire"> laurier </ingredient> pendant 1 min . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1+1"> oignon </ingredient> <operation> émincé </operation> et le faire <operation> revenir </operation> jusqu' a ce qu' il soit transparent . <operation ingredients="légumes"> introduire </operation> le turmeric et les <ingredient action="introduire" quantite="1+1;150 gramme;150 gramme;150 gramme;3;3;1"> légumes </ingredient> <operation> coupés </operation> grossièrement . faire <operation> revenir </operation> à feu vif pendant 3 min . le korma : <operation ingredients="massala"> mettre </operation> la purée <ingredient action="mettre"> massala </ingredient> avec les <ingredient quantite="1+1;150 gramme;150 gramme;150 gramme;3;3;1"> légumes </ingredient> dans le fait - tout . <operation> mélanger </operation> , <operation> ajouter </operation> un peu d' eau , <operation> couvrir </operation> et faire <operation> mijoter </operation> ( en <operation> remuant </operation> de temps en temps ) pendant 45 min . ceci est un plat typique du sud-ouest de l' inde ( région du kerala ) , il se déguste avec du <ingredient> riz </ingredient> pilaf .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47898">
+<titre>Filets de dinde roulés aux 3 légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 fines escalopes de dinde (filet)</p>
+<p>3 carottes moyennes</p>
+<p>3 courgettes moyennes</p>
+<p>2 nouveaux navets</p>
+<p>1 cuiller à soupe de gingembre en poudre</p>
+<p>1 cuiller à soupe de sauce soja</p>
+<p>1 cuiller à soupe de beurre</p>
+<p>1 poignée de persil frais haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient> légumes </ingredient> et les <operation> couper </operation> en deux . <operation ingredients="coeur"> enlever </operation> le <ingredient action="enlever"> coeur </ingredient> des carottes et des courgettes . <operation ingredients="légumes"> couper </operation> les <ingredient action="couper"> légumes </ingredient> en très fines lamelles en longueur ( en julienne ) . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> à feu moyen . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter"> légumes </ingredient> et faire <operation> cuire </operation> tout en <operation> remuant </operation> . <operation ingredients="persil;soja;sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> persil </ingredient> , la sauce <ingredient action="ajouter"> soja </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> et laisser <operation> réduire </operation> pendant une minute . <operation ingredients="dinde"> saupoudrer </operation> les filets de <ingredient action="saupoudrer"> dinde </ingredient> de gingembre . <operation ingredients="légumes"> disposer </operation> les <ingredient action="disposer"> légumes </ingredient> au milieu . <operation> rouler </operation> les filets et les tenir grâce à des curre - dents . <operation> mettre </operation> le tour au four pendant 15 min à 180 <operation> ° </operation> c ( thermostat 6 ) . servir chaud .
+</preparation>
+</recette>

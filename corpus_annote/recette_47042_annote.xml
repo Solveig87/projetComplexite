@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47042">
+<titre>Galette au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>60 g de flocons d'avoine</p>
+<p>100 g de thon au naturel en conserve</p>
+<p>4 cuillères à café de crème fraîche liquide à 8%</p>
+<p>2 cuillères à café de gruyère râpé</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> à la fourchette . <operation ingredients="thon;crème;gruyère"> ajouter </operation> les flocons d' avoine , le <ingredient action="ajouter"> thon </ingredient> <operation> émietté </operation> , la <ingredient action="ajouter" quantite="4 cuillère à café"> crème </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à café"> gruyère </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> verser </operation> dans une <operation> poêle </operation> <operation> recouverte </operation> d' une feuille de cuisson et <operation> cuire </operation> à feu doux 5 minutes de chaque côté . servir tiède ou froid . plat très léger , idéal pour le soir . a servir avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

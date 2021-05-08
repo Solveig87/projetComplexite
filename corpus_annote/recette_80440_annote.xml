@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80440">
+<titre>Pâtes au corned beef</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>pâtes sèches torsadées</p>
+<p>2 boîtes de corned beef</p>
+<p>1 oignon, 1 échalote, ail</p>
+<p>basilic, persil, piment, sel, poivre</p>
+<p>une grande brique de coulis de tomates</p>
+<p>eau</p>
+</ingredients>
+<preparation>
+dans une très grande casserole , faire <operation ingredients="oignon;échalote;ail"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir" quantite=""> ail </ingredient> . quand cela commence à <operation> dorer </operation> , y faire <operation ingredients="corned"> fondre </operation> le <ingredient action="fondre"> corned </ingredient> beef préalablement <operation> coupé </operation> en tranches . une fois que le <ingredient action="fondre"> corned </ingredient> beef est bien <operation ingredients="corned"> fondu </operation> , <operation ingredients="tomates;basilic;sel;persil;poivre"> rajouter </operation> le coulis de <ingredient action="rajouter"> tomates </ingredient> , le <ingredient action="rajouter" quantite=""> basilic </ingredient> , le <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="rajouter" quantite=""> persil </ingredient> , le <ingredient action="rajouter" quantite=""> poivre </ingredient> , et une pointe de <ingredient> couteau </ingredient> de piment . laisser <operation> mijoter </operation> 10 min . <operation ingredients="pâtes"> rajouter </operation> ensuite les <ingredient action="rajouter" quantite=""> pâtes </ingredient> sèches dans la sauce , <operation> remuer </operation> , <operation ingredients="pâtes"> mettre </operation> l' eau dans le <operation> mélange </operation> " <ingredient action="mettre" quantite=""> pâtes </ingredient> - sauce " , jusqu' à 1 cm au dessus du <operation> mélange </operation> . <operation> remuer </operation> de temps en temps pour éviter que cela ne <operation ingredients="pâtes"> colle </operation> , jusqu' à cuisson complète des <ingredient action="colle" quantite=""> pâtes </ingredient> . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite=""> pâtes </ingredient> en palier de 10 min afin d' avoir une cuisson al dente . si les <ingredient action="cuire" quantite=""> pâtes </ingredient> ne sont pas assez <operation ingredients="pâtes"> cuites </operation> et qu' il n' y a plus de liquide , <operation ingredients="pâtes"> rajouter </operation> de l' eau jusqu' à la cuisson des <ingredient action="rajouter" quantite=""> pâtes </ingredient> voulue .
+</preparation>
+</recette>

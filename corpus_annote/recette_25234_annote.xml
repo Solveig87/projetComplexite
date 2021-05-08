@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25234">
+<titre>Thon grillé aux légumes confits</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 tranche de thon de 600 à 800 g</p>
+<p>4 gros oignons</p>
+<p>2 poivrons rouges</p>
+<p>1 branche de thym</p>
+<p>10 cl de vin blanc sec</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> et <operation ingredients="thon"> poivrez </operation> le <ingredient action="poivrer" quantite="1 tranche"> thon </ingredient> , <operation ingredients="huile"> badigeonnez </operation> - le d' <ingredient action="badigeonner" quantite="3 cuillère à soupe"> huile </ingredient> . <operation ingredients="oignons;poivrons"> emincez </operation> les <ingredient action="emincez" quantite="4"> oignons </ingredient> et les <ingredient action="emincez"> poivrons </ingredient> , <operation> déposez </operation> - les dans un plat à four <operation> huilé </operation> . <operation ingredients="huile"> arrosez </operation> d' <ingredient action="arroser" quantite="3 cuillère à soupe"> huile </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="thon"> posez </operation> le <ingredient action="poser" quantite="1 tranche"> thon </ingredient> dessus et <operation ingredients="vin"> arrosez </operation> de <ingredient action="arroser" quantite="10 cl"> vin </ingredient> blanc . <operation ingredients="thym"> parsemez </operation> de <ingredient action="parsemer"> thym </ingredient> émietté , et <operation> couvrez </operation> de papier aluminium . faites <operation> cuire </operation> au four à 180 <operation> ° </operation> ( thermostat 6 ) pendant 40 minutes .
+</preparation>
+</recette>

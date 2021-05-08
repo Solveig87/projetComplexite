@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40782">
+<titre>Paté a la citrouille (recette berrichonne)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/4 de citrouille</p>
+<p>1 oignon</p>
+<p>1 bouquet de persil</p>
+<p>2 cuillères à café de sucre</p>
+<p>1 cuillère à soupe de sel</p>
+<p>2 pâtes feuilletée</p>
+<p>20 cl de crème fraîche épaisse</p>
+</ingredients>
+<preparation>
+dans une passoire , <operation ingredients="citrouille;oignon"> couper </operation> en lamelles fines la <ingredient action="couper"> citrouille </ingredient> et l' <ingredient action="couper" quantite="1"> oignon </ingredient> , <operation ingredients="persil"> ajouter </operation> le <ingredient action="ajouter"> persil </ingredient> <operation> ciseler </operation> , et <operation ingredients="sucre;sel"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à café"> sucre </ingredient> et de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> sel </ingredient> . laisser <operation> macérer </operation> une nuit . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser" quantite="2"> pâte </ingredient> dans un <operation> moule </operation> a <ingredient> tarte </ingredient> , et <operation> disposer </operation> les ingrédients <operation> macérés </operation> . <operation ingredients="pâte"> recouvrir </operation> le tout avec l' autre <ingredient action="recouvrir" quantite="2"> pâte </ingredient> , faire une cheminée au milieu . <operation> cuire </operation> à 210 <operation> ° </operation> c ( thermostat 7 ) , pendant 30 min environ servir avec de la <ingredient quantite="20 cl"> crème </ingredient> fraîche , à l' intérieur . bon appétit .
+</preparation>
+</recette>

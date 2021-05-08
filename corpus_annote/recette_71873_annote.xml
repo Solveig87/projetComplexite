@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71873">
+<titre>Verrine aux fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de fraises</p>
+<p>5 boudoirs ou biscuits à la cuillère</p>
+<p>chantilly</p>
+<p>4 cuillères à café de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> mixez </operation> les <ingredient action="mixez" quantite="1 kilogramme"> fraises </ingredient> , <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="4 cuillère à café"> sucre </ingredient> puis <operation> mélanger </operation> . dans des verrines , <operation ingredients="boudoirs"> mettez </operation> les <ingredient action="mettre" quantite="5"> boudoirs </ingredient> en petits morceaux puis <operation ingredients="chantilly"> ajoutez </operation> une couche de <ingredient action="ajouter" quantite=""> chantilly </ingredient> . <operation ingredients="fraises"> versez </operation> la préparation de <ingredient action="verser" quantite="1 kilogramme"> fraises </ingredient> . laissez <operation> reposer </operation> au réfrigérateur pendant au moins 2 heures puis au moment de servir <operation ingredients="chantilly"> ajoutez </operation> de la <ingredient action="ajouter" quantite=""> chantilly </ingredient> sur le dessus . puis dégustez . le petit plus : vous pouvez <operation ingredients="menthe;fraise"> rajouter </operation> des feuilles de <ingredient action="rajouter"> menthe </ingredient> dans la préparation de <ingredient action="rajouter" quantite="1 kilogramme"> fraise </ingredient> .
+</preparation>
+</recette>

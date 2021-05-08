@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17287">
+<titre>Gâteau de riz aux raisins</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz long ou rond</p>
+<p>150 g de raisins sec</p>
+<p>15 cl de rhum ambré</p>
+<p>1 l de lait</p>
+<p>10 cl d'eau</p>
+<p>200 g de sucre + 1 sachet de sucre vanillé</p>
+<p>60 g de maïzena</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz;lait"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> avec le litre de <ingredient action="cuire" quantite="1 l"> lait </ingredient> dans une casserole . pendant ce temps , faire <operation ingredients="raisins;rhum"> macérer </operation> les <ingredient action="macérer" quantite="150 gramme"> raisins </ingredient> dans le <ingredient action="macérer" quantite="15 cl"> rhum </ingredient> . lorsque le <ingredient quantite="200 gramme"> riz </ingredient> arrive en fin de cuisson , sans <operation ingredients="riz"> égouter </operation> le <ingredient action="égouter" quantite="200 gramme"> riz </ingredient> , <operation ingredients="sucre;sucre;raisins;rhum"> ajouter </operation> 100 g se <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> le sachet de <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> vanillé et les <ingredient action="ajouter" quantite="150 gramme"> raisins </ingredient> ( avec le surplus de <ingredient action="ajouter" quantite="15 cl"> rhum </ingredient> ) . laisser <operation> mijoter </operation> encore 1 ou 2 min , puis <operation ingredients="maïzena"> ajouter </operation> la <ingredient action="ajouter" quantite="60 gramme"> maïzena </ingredient> afin de faire <operation> épaissir </operation> le <operation> mélange </operation> . prendre un <operation> moule </operation> profond et de petit diamère ( genre moule à charlotte ou à baba ) et y <operation ingredients="sucre"> préparer </operation> un caramel avec l' eau et le reste de <ingredient action="préparer" quantite="200 gramme"> sucre </ingredient> . <operation> ajouter </operation> la préparation sur le caramel et laisser refroidir environ 4 heures . on peut aussi utiliser de la <ingredient> semoule </ingredient> et du caramel tout prêt . on peut également remplacer la <ingredient quantite="60 gramme"> maïzena </ingredient> par deux cuillères à soupe de base de <ingredient> crème </ingredient> pâtissière .
+</preparation>
+</recette>

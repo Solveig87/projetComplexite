@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23187">
+<titre>Tarte aux pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>5 tranches de jambon blanc ou lardons</p>
+<p>5 pommes de terre</p>
+<p>2 oeufs</p>
+<p>crème fraîche</p>
+<p>fromage râpé</p>
+<p>beurre</p>
+<p>sel/poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> à tarte dans un plat . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="5"> pommes </ingredient> de terre à la vapeur . <operation ingredients="pâte;oeufs"> verser </operation> sur la <ingredient action="verser" quantite="1"> pâte </ingredient> un peu du <operation> mélange </operation> <ingredient action="verser" quantite="2"> oeufs </ingredient> / crème fraîche . <operation ingredients="pommes;lardons"> couper </operation> les <ingredient action="couper" quantite="5"> pommes </ingredient> de terre en petits morceaux et les <operation ingredients="pâte;jambon"> disposer </operation> sur la <ingredient action="disposer" quantite="1"> pâte </ingredient> avec le <ingredient action="disposer" quantite="5 tranche"> jambon </ingredient> <operation> coupé </operation> ( ou les <ingredient action="couper"> lardons </ingredient> ) . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="crème;oeufs"> recouvrir </operation> du reste du <operation> mélange </operation> <ingredient action="recouvrir" quantite=""> crème </ingredient> fraîche / <ingredient action="recouvrir" quantite="2"> oeufs </ingredient> . <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> fromage </ingredient> râpé . <operation ingredients="beurre;fromage"> disposer </operation> des petites lamelles de <ingredient action="disposer"> beurre </ingredient> sur le <ingredient action="disposer" quantite=""> fromage </ingredient> . faire <operation ingredients="fromage"> cuire </operation> à 180 <operation> ° </operation> c pendant 20 à 30 mn jusqu' à ce que le <ingredient action="cuire" quantite=""> fromage </ingredient> soit gratiné ! facile et rapide , un plat qui enchantera petits et grands !
+</preparation>
+</recette>

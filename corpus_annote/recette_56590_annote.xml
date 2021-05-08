@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56590">
+<titre>Poulet au persil</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>la moitié d'une botte de persil</p>
+<p>2 gousses d'ail</p>
+<p>1 brique de crème liquide</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> le <ingredient action="couper" quantite="1"> poulet </ingredient> en morcaux et le faire <operation> revenir </operation> dans une casserole avec 2 cuillères à soupe d' huile . <operation ingredients="persil"> ciseler </operation> le <ingredient action="ciseler"> persil </ingredient> très finement et <operation ingredients="gousses"> couper </operation> les <ingredient action="couper" quantite="2"> gousses </ingredient> d' ail en petits morceaux . une fois le <ingredient quantite="1"> poulet </ingredient> bien doré , <operation ingredients="persil;ail"> rajouter </operation> le <ingredient action="rajouter"> persil </ingredient> et l' <ingredient action="rajouter"> ail </ingredient> . bien <operation> remuer </operation> . <operation ingredients="crème"> rajouter </operation> ensuite la <ingredient action="rajouter"> crème </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . laisser ensuite <operation> mijoter </operation> et servir avec des <ingredient> pâtes </ingredient> fraîches .
+</preparation>
+</recette>

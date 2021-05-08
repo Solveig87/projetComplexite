@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48364">
+<titre>Verrines à la pêche</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de pèches au sirop</p>
+<p>1 tasse de thé fort (non sucré)</p>
+<p>4 feuilles de gélatine</p>
+<p>quelques raisins secs (facultatifs)</p>
+<p>1 cuillère à café de cannelle </p>
+<p>le jus d'un citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop"> mixer </operation> les pèches sans le <ingredient action="mixer"> sirop </ingredient> . <operation ingredients="thé"> préparer </operation> une tasse de <ingredient action="préparer"> thé </ingredient> et faire <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="quelque"> raisins </ingredient> secs dedans . faire <operation ingredients="gélatine;sirop"> fondre </operation> la <ingredient action="fondre" quantite="4 feuille"> gélatine </ingredient> , ( préalablement <operation> trempée </operation> dans l' eau ) dans quelques cuillères du <ingredient action="fondre"> sirop </ingredient> des pèches . <operation ingredients="thé;gélatine;cannelle;citron"> mélanger </operation> ensuite les pèches <operation> mixées </operation> , le <ingredient action="mélanger"> thé </ingredient> , la <ingredient action="mélanger" quantite="4 feuille"> gélatine </ingredient> <operation> fondue </operation> , la <ingredient action="mélanger" quantite="1 cuillère à café"> cannelle </ingredient> et le <ingredient action="mélanger"> citron </ingredient> . <operation> répartir </operation> dans 4 verres . laisser au réfrigérateur pendant au moins 2 heures . je <operation ingredients="thé"> fais </operation> se dessert light avec du <ingredient action="faire"> thé </ingredient> earl grea qui se marie très bien avec le <ingredient> citron </ingredient> . on peut aussi le <operation ingredients="thé"> faire </operation> avec du <ingredient action="faire"> thé </ingredient> vert et <operation ingredients="menthe;cannelle"> mettre </operation> de la <ingredient action="mettre"> menthe </ingredient> à la <operation> place </operation> de la <ingredient action="mettre" quantite="1 cuillère à café"> cannelle </ingredient> .
+</preparation>
+</recette>

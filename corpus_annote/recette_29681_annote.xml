@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29681">
+<titre>Salade de tomates aux pommes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>2 pommes</p>
+<p>sel, poivre</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre (ou citron)</p>
+<p>1 pincée de curry</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> enlever </operation> le trognon des <ingredient action="enlever" quantite="2"> pommes </ingredient> et les <operation> éplucher </operation> . <operation ingredients="tomates;pommes"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> et les <ingredient action="couper" quantite="2"> pommes </ingredient> en dés et les <operation> mettre </operation> dans un saladier . <operation> préparer </operation> la sauce avec les ingrédients restants , <operation> verser </operation> dans le saladier , et <operation> mélanger </operation> . si un temps de réfrigération est bienvenu en été , ne la <operation> préparez </operation> pas trop top , afin que les <ingredient action="ramollir" quantite="2"> pommes </ingredient> ne <operation ingredients="pommes"> ramollissent </operation> pas . on peut <operation ingredients="oeufs"> rajouter </operation> des <ingredient action="rajouter"> oeufs </ingredient> durs , qui se marient très bien avec le petit goût de <ingredient quantite="1 pincée"> curry </ingredient> .
+</preparation>
+</recette>

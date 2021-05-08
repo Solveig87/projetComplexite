@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40556">
+<titre>Gratin de riz à la fourme d'ambert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>deux ou trois portions de riz long (selon l'appétit)</p>
+<p>100 g de fourme d'ambert</p>
+<p>20 cl de crème fraîche </p>
+<p>3 tranches de jambon blanc mixés</p>
+<p>sel, poivre</p>
+<p>fromage râpé pour le gratiné (gruyère, émmental, comté...)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> ( ou utiliser un reste de <ingredient> riz </ingredient> déjà cuit ) . <operation ingredients="jambon"> mixer </operation> les tranches de <ingredient action="mixer" quantite="3 tranche"> jambon </ingredient> blanc et <operation> réserver </operation> . <operation> mixer </operation> la fourme d' ambert avec la créme épaisse . <operation ingredients="riz"> egoutter </operation> le <ingredient action="egoutter"> riz </ingredient> . <operation ingredients="jambon"> mélanger </operation> le <ingredient action="mélanger" quantite="3 tranche"> jambon </ingredient> <operation> mixé </operation> . <operation> ajouter </operation> la créme . <operation> mélanger </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite=""> fromage </ingredient> rapé pardessus . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) une vingtaine de minutes environ et régalez -vous . plat familial .
+</preparation>
+</recette>

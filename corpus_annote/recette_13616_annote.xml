@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13616">
+<titre>Veau aux olives vertes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rôti de veau d'1 kg</p>
+<p>100 g d'olives dénoyautées</p>
+<p>50 g de beurre</p>
+<p>50 g de lard gras</p>
+<p>1 cuillère de fécule</p>
+<p>Persil et laurier</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="rôti;beurre;margarine;lard"> dorer </operation> le <ingredient action="dorer" quantite="1"> rôti </ingredient> de veau dans un peu de <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> ( ou de <ingredient action="dorer"> margarine </ingredient> ) et de <ingredient action="dorer" quantite="50 gramme"> lard </ingredient> gras . <operation ingredients="bouillon"> ajouter </operation> une tasse et demie de <ingredient action="ajouter"> bouillon </ingredient> <operation> dégraissé </operation> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="bouquet;olives"> ajouter </operation> un <ingredient action="ajouter"> bouquet </ingredient> de persil et 100 g d' <ingredient action="ajouter"> olives </ingredient> vertes dénoyautées . laisser <operation> mijoter </operation> 2 heures . <operation> colorer </operation> et <operation> lier </operation> la sauce à la fécule . rosé de provence
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36300">
+<titre>Risotto light à l'asiatique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 verre de riz complet</p>
+<p>2 verres d'eau</p>
+<p>2 blancs de poireau</p>
+<p>1 poivron</p>
+<p>2 tranches de jambon ou de filet de poulet</p>
+<p>2 cuillères à soupe de pignons</p>
+<p>1 pincée de raisins secs</p>
+<p>10 cl de crème liquide</p>
+<p>sauce soja</p>
+<p>curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> dans une sauteuse , en <operation> ajoutant </operation> l' eau . <operation> porter </operation> à <operation> ébullition </operation> , puis laisser <operation> cuire </operation> jusqu' à absorption . <operation> réserver </operation> . faire <operation ingredients="poireaux;poivrons;soja"> sauter </operation> les rondelles de <ingredient action="sauter"> poireaux </ingredient> et les lanières de <ingredient action="sauter" quantite="1"> poivrons </ingredient> dans la sauce <ingredient action="sauter"> soja </ingredient> . faire <operation ingredients="pignons;viande"> griller </operation> les <ingredient action="griller" quantite="2 cuillère à soupe"> pignons </ingredient> et la <ingredient action="griller" quantite="2 tranche"> viande </ingredient> , <operation> coupée </operation> en lamelles . <operation> mélanger </operation> dans la sauteuse , le <ingredient> riz </ingredient> , les <ingredient quantite="1;10 cl"> légumes </ingredient> et la <ingredient quantite="2 tranche"> viande </ingredient> . <operation ingredients="crème"> ajouter </operation> progressivement la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> pour que le <ingredient> riz </ingredient> reste moelleux . <operation ingredients="raisins;pignons"> ajouter </operation> les <ingredient action="ajouter" quantite="1 pincée"> raisins </ingredient> et les <ingredient action="ajouter" quantite="2 cuillère à soupe"> pignons </ingredient> . servir chaud .
+</preparation>
+</recette>

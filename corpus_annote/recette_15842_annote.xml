@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15842">
+<titre>Crevettes panées</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 crevettes roses</p>
+<p>farine</p>
+<p>2 oeufs</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+récupérer le blanc des <ingredient quantite="2"> oeufs </ingredient> dans un bol . <operation> eplucher </operation> les <ingredient quantite="20"> crevettes </ingredient> . <operation ingredients="crevettes;oeuf"> tremper </operation> les <ingredient action="tremper" quantite="20"> crevettes </ingredient> dans le blanc d' <ingredient action="tremper" quantite="2"> oeuf </ingredient> et les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> après les avoir <operation> égouttées </operation> un peu . lorsque toutes les <ingredient action="fondre" quantite="20"> crevettes </ingredient> sont enrobées d' <ingredient action="fondre" quantite="2"> oeuf </ingredient> et de <ingredient action="fondre" quantite=""> farine </ingredient> , faire <operation ingredients="crevettes;oeuf;farine;noix"> fondre </operation> une <ingredient action="fondre"> noix </ingredient> de beurre dans une <operation> poêle </operation> et faire <operation ingredients="crevettes"> dorer </operation> les <ingredient action="dorer" quantite="20"> crevettes </ingredient> en <operation ingredients="persil"> ajoutant </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> . servir chaud . un <ingredient> vin </ingredient> blanc sec ( <ingredient> muscadet </ingredient> , par exemple ) .
+</preparation>
+</recette>

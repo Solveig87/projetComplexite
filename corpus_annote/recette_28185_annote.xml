@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28185">
+<titre>Velouté de chou- fleur</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou-fleur</p>
+<p>2 pommes de terre</p>
+<p>750 ml d'eau</p>
+<p>1 bouillon cube de volaille</p>
+<p>origan</p>
+<p>sel, poivre</p>
+<p>50 g de beurre</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou-fleur"> détailler </operation> le <ingredient action="détailler" quantite="1"> chou-fleur </ingredient> . <operation ingredients="chou-fleur;pommes;bouillon;origan;sel"> mettre </operation> dans une casserole , le <ingredient action="mettre" quantite="1"> chou-fleur </ingredient> <operation> découpé </operation> ( " en fleurs " ) , les <ingredient action="mettre" quantite="2"> pommes </ingredient> de terre , le <ingredient action="mettre" quantite="1"> bouillon </ingredient> cube , 750 ml d' eau , l' <ingredient action="mettre" quantite=""> origan </ingredient> et le <ingredient action="mettre" quantite=""> sel </ingredient> . faire <operation> cuire </operation> jusqu' à ce que le tout soit cuit ( <operation ingredients="couteau"> piquer </operation> avec un <ingredient action="piquer"> couteau </ingredient> , qui doit rentrer facilement ) . <operation ingredients="beurre;crème"> mixer </operation> le tout avec le <ingredient action="mixer" quantite="50 gramme"> beurre </ingredient> et la <ingredient action="mixer" quantite="2 cuillère à soupe"> crème </ingredient> fraîche . <operation ingredients="sel;poivre"> assaisonner </operation> avec du <ingredient action="assaisonner" quantite=""> sel </ingredient> et du <ingredient action="assaisonner" quantite=""> poivre </ingredient> . bon appétit !
+</preparation>
+</recette>

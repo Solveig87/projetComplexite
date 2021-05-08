@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50983">
+<titre>Salade tricolore (concombre, poivron, volaille)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 poivron rouge</p>
+<p>100 g de dès de volaille</p>
+<p>1 cuillère à soupe de faisselle</p>
+<p>poivre, herbes au choix</p>
+<p>du vinaigre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron"> découper </operation> le <ingredient action="découper"> poivron </ingredient> en petits morceaux , le faire <operation> cuire </operation> dans une <operation> poêle </operation> chaude . c' est pas indispensable mais c' est plus digeste . <operation ingredients="poivron;concombre;volaille"> mélanger </operation> le <ingredient action="mélanger"> poivron </ingredient> , le <ingredient action="mélanger" quantite="1"> concombre </ingredient> en dés et la <ingredient action="mélanger" quantite="100 gramme"> volaille </ingredient> . <operation ingredients="poivre;vinaigre"> préparer </operation> la sauce avec de la faisselle , du <ingredient action="préparer" quantite=""> poivre </ingredient> , du <ingredient action="préparer" quantite=""> vinaigre </ingredient> pour ceux qui aiment l' acidité et éventuellement des fines herbes . <operation ingredients="salade"> napper </operation> la <ingredient action="napper"> salade </ingredient> de sauce et servir . peut être servi comme entrée ou comme plat principal un soir .
+</preparation>
+</recette>

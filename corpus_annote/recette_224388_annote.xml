@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224388">
+<titre>Madeleine tendre, coeur de chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 œufs</p>
+<p>300 g de sucre</p>
+<p>300 g de farine</p>
+<p>1 cuillère a café de levure</p>
+<p>4 carreaux de chocolat pâtissier</p>
+<p>250 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;œufs"> mélanger </operation> énergiquement au fouet le <ingredient action="mélanger" quantite="300 gramme"> sucre </ingredient> et les <ingredient action="mélanger" quantite="4"> œufs </ingredient> dans un saladier . faire <operation> blanchir </operation> la préparation . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="250 gramme"> beurre </ingredient> et l' <operation> ajouter </operation> au <operation> mélange </operation> précédent . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> farine </ingredient> . <operation> mélanger </operation> de nouveau . <operation ingredients="levure"> ajouter </operation> ensuite la <ingredient action="ajouter"> levure </ingredient> et continuer à <operation> mélanger </operation> . <operation> beurrer </operation> le <operation> moule </operation> , <operation> ajouter </operation> la préparation puis <operation ingredients="carrés"> couper </operation> des petits morceaux de <ingredient action="couper"> carrés </ingredient> de chocolat . <operation ingredients="chocolat;madeleine"> ajouter </operation> le morceaux de <ingredient action="ajouter"> chocolat </ingredient> au centre de chacune de <ingredient action="ajouter"> madeleine </ingredient> . faire <operation> cuire </operation> 20 min .
+</preparation>
+</recette>

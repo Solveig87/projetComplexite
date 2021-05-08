@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25551">
+<titre>Oranges et kiwis en salade fraîche</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 oranges</p>
+<p>4 cuillères à soupe de sucre en poudre</p>
+<p>3 beaux kiwis bien mûrs</p>
+<p>1 verre de vin blanc doux</p>
+<p>3 cuillères à soupe d'eau froide</p>
+<p>facultatif : violettes au sucre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oranges"> couper </operation> les <ingredient action="couper" quantite="6"> oranges </ingredient> en tranches fines en <operation> retirant </operation> les pépins . <operation ingredients="sucre"> ajouter </operation> du <ingredient action="ajouter" quantite="4 cuillère à soupe"> sucre </ingredient> et laisser <operation> mariner </operation> ( penser à <operation> remuer </operation> de temps à autre ) <operation ingredients="kiwis"> ajouter </operation> les <ingredient action="ajouter"> kiwis </ingredient> <operation> pelés </operation> et <operation> coupés </operation> en rondelles . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="1 verre"> vin </ingredient> blanc et d' eau et <operation ingredients="salade"> répartir </operation> la <ingredient action="répartir"> salade </ingredient> dans 6 <operation> coupes </operation> individuelles . servir frais .
+</preparation>
+</recette>

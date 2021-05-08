@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65032">
+<titre>Soupe courge lentilles et amandes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de courge</p>
+<p>300 g de lentilles blondes</p>
+<p>50 g de poudre d'amandes</p>
+<p>sel, poivre</p>
+<p>coriandre fraiche</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> , <operation ingredients="courge"> couper </operation> en petits morceaux la <ingredient action="couper" quantite="1 kilogramme"> courge </ingredient> . dans un marmite , <operation ingredients="courge;lentilles"> mettre </operation> la <ingredient action="mettre" quantite="1 kilogramme"> courge </ingredient> et les <ingredient action="mettre"> lentilles </ingredient> . <operation> recouvrir </operation> d' eau . laisser <operation> mijoter </operation> environ 30 minutes . <operation> mixer </operation> , rééquilibrer la quantité d' eau et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";;"> assaisonnement </ingredient> . <operation ingredients="amandes"> ajouter </operation> la <operation> poudre </operation> d' <ingredient action="ajouter"> amandes </ingredient> et laisser <operation> mijoter </operation> 10 minutes . servir avec de la <ingredient quantite=""> coriandre </ingredient> fraiche hâchée . le <ingredient quantite=""> sel </ingredient> peut être remplacé par du shoyou qui parfumera encore plus .
+</preparation>
+</recette>

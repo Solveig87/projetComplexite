@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22218">
+<titre>Quenelles de purée aux tomates et basilic</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de purée en flocons (125 g)</p>
+<p>2 tomates pelées, épépinées et concassées</p>
+<p>1 gousse d'ail hachée</p>
+<p>2 jaunes d'oeufs</p>
+<p>farine</p>
+<p>huile</p>
+<p>basilic</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> chauffer </operation> 40 cl d' eau <operation> salée </operation> ( ou eau et <ingredient action="chauffer"> lait </ingredient> en quantités égales ) . hors du feu , <operation> verser </operation> la purée en sachet et <operation> remuer </operation> . <operation ingredients="tomates;ail"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> , ainsi que les jaunes d' <ingredient> oeufs </ingredient> . <operation> poivrer </operation> et <operation ingredients="basilic"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> basilic </ingredient> haché . <operation> façonner </operation> des petites quenelles , les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> . faire <operation ingredients="huile"> revenir </operation> les quenelles dans une <operation> poêle </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> et servir .
+</preparation>
+</recette>

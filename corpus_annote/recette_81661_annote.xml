@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81661">
+<titre>Pommes douceur de Nathalie</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes (tenant bien la cuisson)</p>
+<p>1 banane</p>
+<p>4 cuillères à café de gelée de mûre</p>
+<p>30 g de beurre</p>
+<p>crème chantilly en bombe (pour la déco)</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> en quartiers assez épais . faire <operation ingredients="beurre"> fondre </operation> 20 g de <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> dans une grande <operation> poêle </operation> , y <operation ingredients="pommes"> mettre </operation> les quartiers de <ingredient action="mettre" quantite="4"> pommes </ingredient> et les faire <operation> dorer </operation> de chaque côté ( <operation> sucrer </operation> légèrement si les <ingredient quantite="4"> pommes </ingredient> sont trop acides ) . <operation ingredients="pommes"> disposer </operation> les quartiers de <ingredient action="disposer" quantite="4"> pommes </ingredient> dans des ramequins ( type ramequins à crème brûlée ) , étaler la <ingredient quantite="4 cuillère à café"> gelée </ingredient> de mûre . <operation> eplucher </operation> et <operation ingredients="banane"> couper </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> en rondelles ( environ 12 rondelles ) , les faire <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> restant . les <operation ingredients="pommes"> répartir </operation> sur les <ingredient action="répartir" quantite="4"> pommes </ingredient> . <operation ingredients="chantilly"> décorer </operation> avec un peu de <ingredient action="décorer"> chantilly </ingredient> . nb : on peut aussi <operation ingredients="cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer"> cannelle </ingredient> ( pour ceux qui aiment ) .
+</preparation>
+</recette>

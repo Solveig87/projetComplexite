@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30019">
+<titre>Frisée oeuf, jambon et pomme</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade frisée</p>
+<p>3 oeufs durs</p>
+<p>300 g de jambon fumé</p>
+<p>2 tranches de pain de campagne</p>
+<p>3 cuillères à soupe d'huile de noix</p>
+<p>1 cuillère à soupe de vinaigre de xérès</p>
+<p>1 pomme</p>
+<p>50 g de cerneaux de noix</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade;jambon;pomme"> nettoyer </operation> la <ingredient action="nettoyer" quantite="1"> salade </ingredient> , <operation ingredients="oeufs"> couper </operation> les <ingredient action="couper" quantite="3"> oeufs </ingredient> en rondelles , le <ingredient action="nettoyer" quantite="300 gramme"> jambon </ingredient> en morceaux et la <ingredient action="nettoyer" quantite="1"> pomme </ingredient> en tranches . <operation ingredients="pain"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> pain </ingredient> en dés et les faire <operation ingredients="huile"> dorer </operation> dans l' <ingredient action="dorer" quantite="3 cuillère à soupe"> huile </ingredient> . <operation> disposer </operation> l' ensemble des ingrédients dans un saladier . <operation ingredients="huile;vinaigre;sel;poivre"> emulsionner </operation> l' <ingredient action="emulsionner" quantite="3 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> , le <ingredient action="emulsionner"> sel </ingredient> et le <ingredient action="emulsionner"> poivre </ingredient> et en <operation ingredients="salade"> arroser </operation> la <ingredient action="arroser" quantite="1"> salade </ingredient> . <operation ingredients="pain;noix"> ajouter </operation> le <ingredient action="ajouter" quantite="2 tranche"> pain </ingredient> <operation> grillé </operation> et les <ingredient action="ajouter"> noix </ingredient> .
+</preparation>
+</recette>

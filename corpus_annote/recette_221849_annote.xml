@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221849">
+<titre>Verrine pomme au miel et spéculoos</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes (type Granny Smith car plus juteuse et acide)</p>
+<p>4 cuillères à soupe de miel</p>
+<p>30 g de beurre</p>
+<p>6 spéculoos</p>
+</ingredients>
+<preparation>
+pour commencer , <operation> épluchez </operation> et <operation ingredients="pommes"> enlevez </operation> les pépins des <ingredient action="enlever" quantite="4"> pommes </ingredient> . ensuite , <operation> coupez </operation> les en gros dés ou quartiers ( personnellement je préfère en gros dés ) . <operation> mettez </operation> les quatre cuillères à soupe de miel dans une <operation> poêle </operation> et faites - le caraméliser légèrement puis <operation ingredients="pommes;beurre"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> pommes </ingredient> et le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> . laissez - les <operation> cuire </operation> à feu doux pendant trois à quatre minutes et laissez refroidir . <operation ingredients="pommes"> placez </operation> les <ingredient action="placer" quantite="4"> pommes </ingredient> dans des verrines , <operation ingredients="spéculoos"> coupez </operation> des petits morceaux de <ingredient action="couper" quantite="6"> spéculoos </ingredient> et <operation> dispersez </operation> - les au dessus des <ingredient quantite="4"> pommes </ingredient> . astuce : si vous n' aimez pas le <ingredient quantite="6"> spéculoos </ingredient> remplacez le par du <ingredient> pain </ingredient> d' épices <operation> coupé </operation> en petit dés .
+</preparation>
+</recette>

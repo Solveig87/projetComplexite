@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83654">
+<titre>Crème anglaise au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 jaunes d'oeufs</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>50 cl de lait de coco</p>
+<p>1 pincée de pistils de safran</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;safran"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> de coco et le <ingredient action="bouillir"> safran </ingredient> , pendant ce temps <operation ingredients="oeufs;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="2 cuillère à soupe"> sucre </ingredient> , hors du feu <operation ingredients="oeufs;lait"> ajouter </operation> le <operation> mélange </operation> <ingredient action="ajouter"> oeufs </ingredient> sucre au <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> et le <operation> remettre </operation> à feu doux jusqu' à ce que la préparation se transforme en <ingredient> crème </ingredient> . a servir en <operation> accompagnement </operation> d' un moelleux au <ingredient> chocolat </ingredient> et de quelques <ingredient> fruits </ingredient> exotiques en décoration si la <ingredient> crème </ingredient> a tendance à <operation> former </operation> des grumeaux ( cuite à trop haute température ) , la laisser <operation> tiédir </operation> et la <operation> secouer </operation> dans un shaker . un crémant bien <operation> frappé </operation>
+</preparation>
+</recette>

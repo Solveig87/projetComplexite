@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51507">
+<titre>Côtes de porc au citron et aux câpres</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtes de porc</p>
+<p>1 cuillère à soupe de ciboulette</p>
+<p>3 cuillères à soupe de câpres</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>30 g de beurre</p>
+<p>sel, poivre</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;beurre"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> et le <ingredient action="chauffer" quantite="30 gramme"> beurre </ingredient> dans une <operation> poêle </operation> , y faire <operation ingredients="côtes"> dorer </operation> les <ingredient action="dorer" quantite="4"> côtes </ingredient> de porc sur feu moyen pendant 10 à 12 minutes en les <operation> retournant </operation> à mi-cuisson . quand elles sont <operation> cuites </operation> , les <operation> retirer </operation> de la <operation> poêle </operation> et les garder au chaud . <operation ingredients="jus;citron;câpres;ciboulette;sel;poivre"> verser </operation> le <ingredient action="verser"> jus </ingredient> d' un <ingredient action="verser" quantite="1"> citron </ingredient> , les <ingredient action="verser" quantite="3 cuillère à soupe"> câpres </ingredient> , la <ingredient action="verser" quantite="1 cuillère à soupe"> ciboulette </ingredient> , du <ingredient action="verser" quantite=""> sel </ingredient> et du <ingredient action="verser" quantite=""> poivre </ingredient> dans la <operation> poêle </operation> . faire <operation> cuire </operation> sur feu vif en <operation> grattant </operation> bien le fond de la <operation> poêle </operation> avec une spatule . <operation ingredients="côtes"> verser </operation> le contenu de la <operation> poêle </operation> sur les <ingredient action="verser" quantite="4"> côtes </ingredient> de porc et servir .
+</preparation>
+</recette>

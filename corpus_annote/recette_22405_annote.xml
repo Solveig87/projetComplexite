@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22405">
+<titre>Riz au lait à la flamande</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de riz (grains court ou moyens)</p>
+<p>1 bâton de cannelle</p>
+<p>70 cl de lait</p>
+<p>1 pincée de sel</p>
+<p>6 cuillères à soupe de cassonade</p>
+<p>20 g de fruits confits</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="riz;lait;cannelle;sel"> portez </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="100 gramme"> riz </ingredient> , le <ingredient action="porter" quantite="70 cl"> lait </ingredient> , le bâton de <ingredient action="porter"> cannelle </ingredient> , et une pincée de <ingredient action="porter" quantite="1 pincée"> sel </ingredient> . dès que cela commence à <operation> bouillir </operation> , <operation> couvrez </operation> , baissez à feu doux , et laissez <operation> mijoter </operation> 40 min . <operation> mettez </operation> dans un plat creux allant au four et <operation ingredients="cassonade"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="6 cuillère à soupe"> cassonade </ingredient> . <operation> passez </operation> 5 min au four à 200 <operation> ° </operation> c ( thermostat . 7 ) servez froid avec des <ingredient> fruits </ingredient> <ingredient quantite="20 gramme"> confits </ingredient> .
+</preparation>
+</recette>

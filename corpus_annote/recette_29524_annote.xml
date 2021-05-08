@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29524">
+<titre>Salade complète au céleri</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 coeur de céleri en branches</p>
+<p>200 g de céleri-rave</p>
+<p>100 g de champignons</p>
+<p>2 tranches de jambon cuit</p>
+<p>2 pommes de terre</p>
+<p>1 betterave rouge</p>
+<p>Pour la petite vinaigrette :</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 jaune d'oeuf</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>herbes hachées (celles que vous aimez)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre et la betterave . pendant ce temps , <operation ingredients="coeur"> couper </operation> le <ingredient action="couper" quantite="1"> coeur </ingredient> de céleri en morceaux . <operation ingredients="céleri"> râper </operation> le <ingredient action="râper" quantite="200 gramme"> céleri </ingredient> - rave . dans un bol , <operation ingredients="vinaigre;moutarde;oeuf;huile"> mélanger </operation> le <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> , la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> , le jaune d' <ingredient action="mélanger"> oeuf </ingredient> et l' <ingredient action="mélanger" quantite="3 cuillère à soupe"> huile </ingredient> . <operation ingredients="pommes"> assaisonner </operation> , <operation ingredients="céleri"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> céleri </ingredient> et laisser <operation> macérer </operation> pendant 1 h. <operation ingredients="jambon"> découper </operation> le <ingredient action="découper"> jambon </ingredient> en bâtons , <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="100 gramme"> champignons </ingredient> , <operation> couper </operation> la betterave en dés et les <ingredient action="assaisonner" quantite="2"> pommes </ingredient> de terre en rondelles . <operation ingredients="céleris;jambon;champignons"> mélanger </operation> les <ingredient action="mélanger" quantite="200 gramme"> céleris </ingredient> , le <ingredient action="mélanger"> jambon </ingredient> et les <ingredient action="mélanger" quantite="100 gramme"> champignons </ingredient> dans un saladier et <operation ingredients="pommes"> disposer </operation> les morceaux de betteraves et de <ingredient action="disposer" quantite="2"> pommes </ingredient> de terre tout autour . pour finir , <operation> parsemer </operation> d' herbes hachées . vous pouvez <operation ingredients="légumes"> arranger </operation> les <ingredient action="arranger" quantite="1;200 gramme;100 gramme;2"> légumes </ingredient> ensemble comme vous voulez , pêle-mêle ou en rosace , il ne s' agit que d' <operation> harmoniser </operation> les <operation> formes </operation> et les couleurs dans votre assiette ! vous pouvez aussi <operation ingredients="endives;salade"> rajouter </operation> aussi 2 <ingredient action="rajouter"> endives </ingredient> dans la <ingredient action="rajouter"> salade </ingredient> .
+</preparation>
+</recette>

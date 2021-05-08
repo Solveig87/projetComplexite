@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32137">
+<titre>Gâteau au chocolat et aux kumquats confits</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de chocolat à dessert</p>
+<p>75 g de farine</p>
+<p>4 oeufs</p>
+<p>125 g de crème fraîche épaisse</p>
+<p>80 g de sucre</p>
+<p>1 poignée de kumquats</p>
+<p>la moitié du poids des kumquats en sucre (si possible spécial confitures)</p>
+</ingredients>
+<preparation>
+tout d' abord faire <operation action="confire" ingredients="confire"> confire </operation> les kumquats : après les avoir <operation> lavés </operation> et séchés , <operation> coupez </operation> - les en quatre , puis <operation ingredients="sucre"> mettez </operation> - les dans une casserole avec le <ingredient action="mettre" quantite="80 gramme"> sucre </ingredient> spécial confiture . laissez <operation> cuire </operation> le temps indiqué sur le paquet ( ou si vous prenez du <ingredient quantite="80 gramme"> sucre </ingredient> normal , jusqu' à ce qu' il ait épaissi , juste avant le caramel ) . <operation ingredients="oeufs;sucre"> battez </operation> les jaunes d' <ingredient action="battre" quantite="4"> oeufs </ingredient> et la moitié du <ingredient action="battre" quantite="80 gramme"> sucre </ingredient> . <operation ingredients="crème;chocolat;farine"> ajoutez </operation> la <ingredient action="ajouter" quantite="125 gramme"> crème </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> au bain - marie ( ou plus simple au micro-ondes ) et la <ingredient action="ajouter" quantite="75 gramme"> farine </ingredient> . <operation> mélangez </operation> bien pour obtenir une <ingredient> pâte </ingredient> homogène et <operation> ajoutez </operation> alors délicatement les blancs <operation ingredients="sucre"> montés </operation> en neige avec la moitié restante de <ingredient action="monter" quantite="80 gramme"> sucre </ingredient> ( commencez à <operation> monter </operation> les blancs et lorsqu' ils commencent à devenir neigeux <operation ingredients="sucre"> ajoutez </operation> progressivement le <ingredient action="ajouter" quantite="80 gramme"> sucre </ingredient> en continuant à <operation> battre </operation> jusqu' à obtenir une neige très ferme ) . <operation ingredients="kumquats;confits"> ajoutez </operation> enfin ( très délicatement pour ne pas faire retomber la <ingredient> pâte </ingredient> ) les <ingredient action="ajouter"> kumquats </ingredient> <ingredient action="ajouter"> confits </ingredient> et légèrement refroidis . faites <operation> cuire </operation> au four préchauffé à thermostat 6 ( 180 <operation> ° </operation> c ) pendant environ 40 mn . je <operation ingredients="gâteau"> fais </operation> parfois ce <ingredient action="faire"> gâteau </ingredient> d' une manière plus économique , en supprimant les <ingredient> kumquats </ingredient> et en les remplaçant par 6 gouttes d' <ingredient> huile </ingredient> essentielle de <ingredient> mandarine </ingredient> ou d' <ingredient> orange </ingredient> que je trouve en pharmacie . mais bien sûr , ce n' est pas tout à fait la même chose . . . <ingredient> café </ingredient>
+</preparation>
+</recette>

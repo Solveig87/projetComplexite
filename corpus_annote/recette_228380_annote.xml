@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228380">
+<titre>Omelette à la saucisse embellie</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>2 saucisses de Strasbourg</p>
+<p>2 gros ciboules ("oignons nouveaux")ou 5 petits</p>
+<p>1 petite boite de champignons de Paris</p>
+<p>2 cuillères à café de Paprika en poudre</p>
+<p>1 cuillère à café de Cumin </p>
+<p>1 cuillère à soupe de Basilic</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="saucisses;champignons"> revenir </operation> à feu moyen pendant environ 5 minutes les <ingredient action="revenir" quantite="2"> saucisses </ingredient> <operation> coupées </operation> en petites rondelles , les ciboules <operation> coupées </operation> finement et les <ingredient action="revenir"> champignons </ingredient> de paris . pendant ce temps , casser les 3 <ingredient quantite="3"> œufs </ingredient> dans un bol . <operation ingredients="basilic"> assaisonner </operation> et <operation ingredients="paprika;cumin"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à café"> paprika </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à café"> cumin </ingredient> , et le <ingredient action="assaisonner" quantite="1 cuillère à soupe"> basilic </ingredient> haché finement . <operation ingredients="œufs"> battre </operation> le <operation> mélange </operation> d’ <ingredient action="battre" quantite="3"> œufs </ingredient> , <operation> verser </operation> dans la <operation> poêle </operation> et laisser <operation> cuire </operation> environ 10 minutes ( 5 minutes de chaque côté ) . on peut remplacer les ciboules par un demi <ingredient> oignon </ingredient> haché .
+</preparation>
+</recette>

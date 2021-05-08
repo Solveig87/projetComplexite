@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20474">
+<titre>Sorbet au citron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 citrons et 1 zeste</p>
+<p>40 cl de sirop (préparé avec 140 g de sucre)</p>
+<p>2 blancs d'oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;fruits"> récuperer </operation> le <ingredient action="récuperer"> jus </ingredient> des citron et <operation> râper </operation> le zeste d' un des <ingredient action="récuperer"> fruits </ingredient> . le <ingredient action="prépare" quantite="40 cl"> sirop </ingredient> se <operation ingredients="sirop"> prépare </operation> en <operation ingredients="sucre"> mettant </operation> le <ingredient action="mettre"> sucre </ingredient> <operation> ajouté </operation> de 45 cl d' eau et en <operation> chauffant </operation> ce <operation> mélange </operation> pour faire <operation ingredients="sucre"> fondre </operation> le <ingredient action="fondre"> sucre </ingredient> . faire <operation> réduire </operation> légèrement et laisser refroidir . réunir <ingredient> jus </ingredient> de citron , zeste et <ingredient quantite="40 cl"> sirop </ingredient> avant de <operation> mettre </operation> le tout dans un bac à glace gardé au congélateur . après 6 à 10 h de prise , <operation ingredients="mousseux"> battre </operation> le <operation> mélange </operation> pour le rendre <ingredient action="battre"> mousseux </ingredient> . <operation ingredients="oeufs"> ajouter </operation> enfin les blancs d' <ingredient action="ajouter"> oeufs </ingredient> et <operation> remettre </operation> à <operation> glacer </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17846">
+<titre>Ragoût de poulet aux haricots verts</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de blancs de poulet</p>
+<p>1 kg de haricots verts</p>
+<p>1 bouquet garni</p>
+<p>1 oignon</p>
+<p>1 verre de vin rouge</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulet;oignon"> revenir </operation> les blancs de <ingredient action="revenir"> poulet </ingredient> avec la moitié de l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="huile"> coupé </operation> fin dans de l' <ingredient action="couper"> huile </ingredient> . faites <operation ingredients="haricots"> chauffer </operation> les <ingredient action="chauffer" quantite="1 kilogramme"> haricots </ingredient> verts jusqu' au frémissement . <operation ingredients="poulet;oignon"> ajouter </operation> les blancs de <ingredient action="ajouter"> poulet </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , le <ingredient quantite="1 verre"> vin </ingredient> et 2 verres d' eau . <operation ingredients="vin"> faites </operation> <operation> mijoter </operation> une petite heure le choix du <ingredient action="faire" quantite="1 verre"> vin </ingredient> est trés inportant choisiser un <ingredient quantite="1 verre"> vin </ingredient> fort en bouchevous pouvez <operation ingredients="riz"> accompagner </operation> le plat d' un petit peu de <ingredient action="accompagner"> riz </ingredient> blancs cuit a l' eau sans <ingredient> sel </ingredient> ni condiments
+</preparation>
+</recette>

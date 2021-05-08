@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36336">
+<titre>Soupe aux légumes des jours de rhume</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 carottes</p>
+<p>3 ou 4 courgettes moyennes</p>
+<p>4 pommes de terre</p>
+<p>2 tomates</p>
+<p>1 oignon</p>
+<p>sel, poivre</p>
+<p>curry ou curcuma en poudre</p>
+<p>beurre</p>
+<p>une bonne dose de crème fraîche</p>
+</ingredients>
+<preparation>
+prenez votre courage à deux mains et <operation ingredients="légumes"> épluchez </operation> tous les <ingredient action="éplucher" quantite="5;4;2;1"> légumes </ingredient> , puis <operation> coupez </operation> les en gros tronçons ( penser à <operation ingredients="tomates"> peler </operation> et <operation> epépiner </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> ! ) <operation ingredients="oignon"> jetez </operation> le tout dans une marmite bouillonnante ( même l' <ingredient action="jeter" quantite="1"> oignon </ingredient> cru ) , que vous aurez péalablement <operation> salée </operation> et <operation> poivrée </operation> avant le parachutage . laissez <operation> cuire </operation> le temps qu' il faut . prévoir un livre- ( n. b : quand les <ingredient action="cuire" quantite="5"> carottes </ingredient> sont <operation ingredients="carottes"> cuites </operation> , c' est que tout est <operation> cuit </operation> ! ) et <operation> rajoutez </operation> de l' eau si nécéssaire . pour éviter l' effet purée ! <operation> mixez </operation> le tout , <operation ingredients="beurre;crème"> ajoutez </operation> une cuillère à café de curry , un bon morceau de <ingredient action="ajouter"> beurre </ingredient> , et de la <ingredient action="ajouter"> crème </ingredient> fraîche pour finir en beauté . . . ( quand on est malade , on ne pense pas aux calories ! ) dégustez ! j' ai réalisé cette <ingredient> soupe </ingredient> un jour où j' étais malade . . . d' où son nom . . . en tous cas , elle m' a requinquée ! ( le <ingredient action="débouche" quantite=""> curry </ingredient> <operation ingredients="curry"> débouche </operation> le nez ? ! . ) ) bonne guérison à tous !
+</preparation>
+</recette>

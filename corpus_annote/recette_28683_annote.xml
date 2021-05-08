@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28683">
+<titre>Croque-monsieur campagnard</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>16 tranches de pain de mie ou de longues tranches de pain de campagne (c'est meilleur) </p>
+<p>8 tranches de jambon cru</p>
+<p>8 tranches de fromage à raclette</p>
+<p>beurre à tartiner</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;beurre"> tartiner </operation> 2 tranches de <ingredient action="tartiner" quantite="16 tranche"> pain </ingredient> avec le <ingredient action="tartiner"> beurre </ingredient> , <operation ingredients="jambon;fromage"> déposer </operation> une tranche de <ingredient action="déposer" quantite="8 tranche"> jambon </ingredient> cru puis une tranche de <ingredient action="déposer" quantite="8 tranche"> fromage </ingredient> à raclette , <operation> refermer </operation> votre croque - monsieur . continuer ainsi . les <operation> mettre </operation> au four chaud , pendant 15 mn jusqu' à ce qu' il soient bien dorés . dégustez , c' est prêt ! !
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10606">
+<titre>Soupe de fraises au CARRÉ SALADE</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de fraises</p>
+<p>100 g de sucre</p>
+<p>1 CARRÉ SALADE</p>
+<p>le jus d'un 1/2 citron</p>
+</ingredients>
+<preparation>
+<operation> équeutez </operation> et <operation ingredients="fraises;salade"> lavez </operation> les <ingredient action="laver" quantite="250 gramme"> fraises </ingredient> et <operation ingredients="carré"> coupez </operation> le <ingredient action="couper"> carré </ingredient> <ingredient action="laver" quantite="1"> salade </ingredient> en morceaux . <operation> mixez </operation> tous les ingrédients ensemble dans le bol d' un robot ménager . <operation ingredients="fraises;carré;salade"> versez </operation> dans des <operation> coupes </operation> avec quelques morceaux de <ingredient action="verser" quantite="250 gramme"> fraises </ingredient> et de <ingredient action="verser"> carré </ingredient> <ingredient action="verser" quantite="1"> salade </ingredient> en décors . refroidissez la <ingredient> soupe </ingredient> dans le congélateur pendant 1 heure avant de la servir . variante : essayez avec des <ingredient> framboises </ingredient> et <operation ingredients="amandes"> accompagnez </operation> avec des tuiles aux <ingredient action="accompagner"> amandes </ingredient> .
+</preparation>
+</recette>

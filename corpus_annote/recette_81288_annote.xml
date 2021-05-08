@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81288">
+<titre>Crème brulée à la réglisse</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 oeufs entiers + 3 jaunes</p>
+<p>1/2 litre de lait</p>
+<p>40 cl de crème liquide </p>
+<p>125 g de sucre</p>
+<p>1 morceau de réglisse (zan)</p>
+<p>1 sachet de sucre vanillé</p>
+<p>cassonade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;réglisse"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> avec la <ingredient action="bouillir"> réglisse </ingredient> . pendant ce temps , <operation ingredients="oeufs;sucre;crème;sucre"> délayer </operation> les <ingredient action="délayer" quantite="3"> oeufs </ingredient> avec le <ingredient action="délayer" quantite="125 gramme"> sucre </ingredient> , la <ingredient action="délayer" quantite="40 cl"> crème </ingredient> liquide et le sachet de <ingredient action="délayer" quantite="125 gramme"> sucre </ingredient> vanillé , ensuite <operation ingredients="lait"> incorporer </operation> la préparation au <ingredient action="incorporer"> lait </ingredient> tout doucement ( le <operation> mélange </operation> ne doit pas <operation> bouillir </operation> ) . puis <operation> verser </operation> dans les ramequins et faire <operation> cuire </operation> au bain - marie dans un four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 40 min environ ( cela dépend du four ) . on voit que la <ingredient action="cuire" quantite="40 cl"> crème </ingredient> est <operation ingredients="crème"> cuite </operation> quand il y a juste une légère vague lorsqu' on la bouge . laisser refroidir , puis avant de servir , <operation ingredients="cassonade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cassonade </ingredient> et brûler pour obtenir un joli caramel croquant sur le dessus . bon appétit . cette recette est pour les <operation ingredients="réglisse"> amateurs </operation> de <ingredient action="amateur"> réglisse </ingredient> .
+</preparation>
+</recette>

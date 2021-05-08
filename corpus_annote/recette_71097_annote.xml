@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71097">
+<titre>Beignets aux herbes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>2 cuillères à soupe de farine</p>
+<p>1 botte de persil</p>
+<p>1 petit oignon</p>
+</ingredients>
+<preparation>
+<operation ingredients="persil"> lavez </operation> et <operation> hachez </operation> le <ingredient action="laver"> persil </ingredient> . <operation> epluchez </operation> et <operation> hachez </operation> l' <ingredient quantite="1"> oignon </ingredient> . <operation ingredients="oeufs"> battez </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> en omelette puis <operation ingredients="farine"> ajoutz </operation> la <ingredient action="ajoutz" quantite="2 cuillère à soupe"> farine </ingredient> et <operation> mélangez </operation> jusqu' à disparition des grumeaux . <operation ingredients="persil;oignon"> ajoutez </operation> le <ingredient action="ajouter"> persil </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et <operation> mélangez </operation> . faites <operation ingredients="beurre;huile"> fondre </operation> un peu de <ingredient action="fondre"> beurre </ingredient> ou d' <ingredient action="fondre"> huile </ingredient> d' olive dans la <operation> poêle </operation> . <operation ingredients="pâte"> versez </operation> des petites louches de <ingredient action="verser"> pâte </ingredient> dans la <operation> poêle </operation> et <operation> retournez </operation> lorsque les bords des beignets se soulèvent . servez avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

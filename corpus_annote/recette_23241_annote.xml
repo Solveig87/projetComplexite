@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23241">
+<titre>Boulettes croustillantes (restes de pot-au-feu)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre cuites à la vapeur</p>
+<p>200 g de restes de pot-au-feu (ou de rôti ou autre viande)</p>
+<p>1 oeuf + 1 jaune</p>
+<p>1/2 gousse d'ail</p>
+<p>persil frais</p>
+<p>chapelure</p>
+<p>farine</p>
+<p>sel et poivre</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> pelez </operation> et <operation> réduisez </operation> les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> de terre en purée fine . <operation ingredients="viande;ail;persil"> ajoutez </operation> la <ingredient action="ajouter"> viande </ingredient> hachée avec l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter" quantite=""> persil </ingredient> , <operation> mélangez </operation> bien et <operation ingredients="oeuf"> ajoutez </operation> le jaune d' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . <operation> formez </operation> une quinzaine de boulettes . <operation ingredients="farine"> passez </operation> - les dans la <ingredient action="passer" quantite=""> farine </ingredient> , puis dans l' <ingredient action="battre" quantite="1"> oeuf </ingredient> <operation ingredients="oeuf;chapelure"> battu </operation> , et enfin dans la <ingredient action="battre" quantite=""> chapelure </ingredient> . faites - les <operation ingredients="huile"> frire </operation> à l' <ingredient action="frire" quantite=""> huile </ingredient> bien chaude , laissez <operation> dorer </operation> et <operation> égouttez </operation> avant de servir .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30101">
+<titre>Coeur sauce ravigote</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de coeur de boeuf</p>
+<p>1 échalote</p>
+<p>1 cuillère a soupe de beurre</p>
+<p>1 cuillère à soupe de farine</p>
+<p>2 verres d'eau</p>
+<p>2 à 4 cuiilères à soupe de vinaigre d'alcool</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une sauteuse et y <operation ingredients="échalote"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> émincée </operation> , puis y <operation ingredients="coeur"> griller </operation> les tranches de <ingredient action="griller" quantite="4 tranche"> coeur </ingredient> sur les deux faces . une fois le <ingredient action="réserver" quantite="4 tranche"> coeur </ingredient> bien doré , le <operation ingredients="coeur"> réserver </operation> dans une assiette et faire un roux en <operation ingredients="farine;graisse"> ajoutant </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> dans la <ingredient action="ajouter"> graisse </ingredient> de la sauteuse , bien <operation> remuer </operation> et <operation> mettre </operation> les deux verres d' eau . <operation ingredients="coeur"> remettre </operation> le <ingredient action="remettre" quantite="4 tranche"> coeur </ingredient> à <operation> cuire </operation> dans la sauce pour 10 mn environ et à la dernière minute <operation ingredients="vinaigre"> ajouter </operation> le <ingredient action="ajouter"> vinaigre </ingredient> ( deux à quatre cuillères , selon votre goût pour l' acide ) , <operation> saler </operation> et <operation> poivrer </operation> à votre convenance . servir avec du <ingredient> riz </ingredient> . le petit goût acide est surprenant , mais on en reprend !
+</preparation>
+</recette>

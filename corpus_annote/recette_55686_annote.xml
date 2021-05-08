@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55686">
+<titre>Terrine de poissons ultra simple</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pavés de saumon (ou autre)</p>
+<p>2 pavés de colin (ou autre)</p>
+<p>1 boîte d'épinards (ou macédoine, carotte ou légumes de votre choix)</p>
+<p>4 oeufs</p>
+<p>2 briques de crème</p>
+<p>4 cuillères à soupe de gruyère rapé</p>
+<p>1 cuillère à soupe de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="poissons"> pocher </operation> les <ingredient action="pocher" quantite="4"> poissons </ingredient> dans de l' eau <operation> salée </operation> et <operation> poivrée </operation> . faire <operation ingredients="épinards;légumes"> cuire </operation> les <ingredient action="cuire"> épinards </ingredient> ( ou autres <ingredient action="cuire"> légumes </ingredient> ) , <operation> saler </operation> et poiver . ensuite <operation ingredients="poisson"> écraser </operation> le <ingredient action="écraser" quantite="4"> poisson </ingredient> à l' aide d' une fourchette . <operation ingredients="saumon;épinards;colin"> mettre </operation> 1 couche de <ingredient action="mettre"> saumon </ingredient> , 1 couche d' <ingredient action="mettre"> épinards </ingredient> , 1 couche de <ingredient action="mettre"> colin </ingredient> et ainsi de suite . <operation ingredients="oeufs;crème;gruyère;farine"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> , la <ingredient action="battre"> crème </ingredient> , le <ingredient action="battre" quantite="4 cuillère à soupe"> gruyère </ingredient> et la <ingredient action="battre" quantite="1 cuillère à soupe"> farine </ingredient> et <operation ingredients="poisson"> mettre </operation> le tout sur le <ingredient action="mettre" quantite="4"> poisson </ingredient> . <operation> mettre </operation> à <operation> cuire </operation> 1 h au bain - marie .
+</preparation>
+</recette>

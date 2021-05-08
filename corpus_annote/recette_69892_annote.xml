@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69892">
+<titre>Pâtes au thon et à la tapenade</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>40 g de tapenade d'olives noires</p>
+<p>1/2 gousse d'ail</p>
+<p>200 g de tomates</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>200 g de pâtes</p>
+<p>100 g de thon à l'huile</p>
+<p>5 cl de vin blanc</p>
+<p>1 tablette d'épices à base de basilic-origan-thym</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> pâtes </ingredient> . <operation> egouttez </operation> - les . dans un wok , <operation ingredients="huile;ail;tomates"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et faites <operation> revenir </operation> 5 min , à feu doux , la tapenade avec l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> et les <ingredient action="ajouter" quantite="200 gramme"> tomates </ingredient> en quartiers , <operation> épépinées </operation> . <operation ingredients="vin"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite="5 cl"> vin </ingredient> blanc . <operation ingredients="thon;épices"> ajoutez </operation> - y ensuite le <ingredient action="ajouter" quantite="100 gramme"> thon </ingredient> <operation> émietté </operation> , la tablette d' <ingredient action="ajouter" quantite="1;1 cuillère à soupe"> épices </ingredient> , et terminez par les <ingredient quantite="200 gramme"> pâtes </ingredient> . <operation> mélangez </operation> le tout et terminez la cuisson 5 min à feu doux . servez chaud , tiède ou froid .
+</preparation>
+</recette>

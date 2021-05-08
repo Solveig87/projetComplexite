@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59493">
+<titre>Croque monsieur tomates-mozza-pesto</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pain de mie</p>
+<p>6 tomates</p>
+<p>400 g de mozzarella (format rectangulaire)</p>
+<p>1 pot de pesto</p>
+</ingredients>
+<preparation>
+<operation ingredients="pesto;pain"> etaler </operation> du <ingredient action="etaler" quantite="1 pot"> pesto </ingredient> sur une tranche de <ingredient action="etaler" quantite="1"> pain </ingredient> de mie . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en rondelles puis les <operation ingredients="pain"> mettre </operation> sur la tranche de <ingredient action="mettre" quantite="1"> pain </ingredient> de mie <operation ingredients="pesto"> tartinée </operation> de <ingredient action="tartiner" quantite="1 pot"> pesto </ingredient> . ensuite <operation ingredients="mozzarella"> couper </operation> la <ingredient action="couper" quantite="400 gramme"> mozzarella </ingredient> en tranches pas trop épaisse puis les <operation ingredients="tomates"> mettre </operation> sur les <ingredient action="mettre" quantite="6"> tomates </ingredient> . <operation ingredients="pain"> refermer </operation> le croque - monsieur avec une tranche de <ingredient action="refermer" quantite="1"> pain </ingredient> de mie . faire <operation> cuire </operation> au croque - gauffrier . bon appétit ! ! !
+</preparation>
+</recette>

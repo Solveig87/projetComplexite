@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25209">
+<titre>Terrine au poivre vert</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 canard de Barbarie d'1,5 kg</p>
+<p>500 g d'échine de porc</p>
+<p>500 g de jambon cuit</p>
+<p>2 échalotes</p>
+<p>1 bouquet de persil</p>
+<p>50 g de poivre vert</p>
+<p>bardes de lard</p>
+<p>2 oeufs</p>
+<p>1 boîte de gelée au porto</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="canard"> désosser </operation> le <ingredient action="désosser" quantite="1"> canard </ingredient> et <operation> couper </operation> les filets en fines lamelles . dans un mixeur , <operation ingredients="canard;jambon"> hacher </operation> le reste des morceaux de <ingredient action="hacher" quantite="1"> canard </ingredient> avec le <ingredient action="hacher"> jambon </ingredient> , les <ingredient action="poivre" quantite="2"> échalotes </ingredient> , le <ingredient action="poivre"> persil </ingredient> , le <operation ingredients="échalotes;persil;poivre;porc" action="poivre"> poivre </operation> vert et l' échine de <ingredient action="poivre"> porc </ingredient> . <operation> saler </operation> , puis <operation ingredients="viande;oeufs"> lier </operation> le hachis de <ingredient action="lier"> viande </ingredient> avec les <ingredient action="lier" quantite="2"> oeufs </ingredient> . bien <operation> mélanger </operation> . dans un plat à pâté ou une terrine , <operation ingredients="lard"> tapisser </operation> le fond de bardes de <ingredient action="tapisser"> lard </ingredient> , puis du hachis de <ingredient> viande </ingredient> et enfin des lamelles de filets de <ingredient quantite="1"> canard </ingredient> en alternant les couches jusqu' à épuisement des ingrédients . <operation ingredients="lard"> recouvrir </operation> de bardes de <ingredient action="recouvrir"> lard </ingredient> et faire <operation> cuire </operation> 1 h 30 au four au bain - marie . sortir la terrine du four , puis <operation ingredients="gelée"> verser </operation> la <ingredient action="verser"> gelée </ingredient> tiède dessus . laisser refroidir au frais jusqu' au lendemain avant de déguster .
+</preparation>
+</recette>

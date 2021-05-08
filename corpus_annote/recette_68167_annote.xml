@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68167">
+<titre>Gratin aux biscottes façon croque monsieur</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon</p>
+<p>1 paquet de biscottes</p>
+<p>100 g de gruyère râpé</p>
+<p>1 l de lait</p>
+<p>50 g de beurre</p>
+<p>50 g de farine</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+dans un plat beurré allant au four , étalez les <ingredient> biscottes </ingredient> cassées en petits morceaux . <operation ingredients="jambons;carrés"> ajoutez </operation> vos 6 tranches de <ingredient action="ajouter" quantite="6 tranche"> jambons </ingredient> <operation> coupées </operation> en petits <ingredient action="ajouter"> carrés </ingredient> . <operation ingredients="béchamel"> préparez </operation> la <ingredient action="préparer"> béchamel </ingredient> : faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , <operation ingredients="farine"> ajoutez </operation> la <ingredient action="ajouter" quantite="50 gramme"> farine </ingredient> te laissez <operation> cuire </operation> 5 minute en <operation> remuant </operation> . <operation ingredients="lait"> ajoutez </operation> peu à peu le <ingredient action="ajouter" quantite="1 l"> lait </ingredient> en <operation> remuant </operation> toujours , jusqu' à ce que le <operation> mélange </operation> épaississe . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="muscade"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite=""> muscade </ingredient> . <operation ingredients="gruyère"> incorporez </operation> la moitié du <ingredient action="incorporer" quantite="100 gramme"> gruyère </ingredient> . <operation ingredients="béchamel;biscottes"> versez </operation> la <ingredient action="verser"> béchamel </ingredient> sur la préparation " <ingredient action="verser"> biscottes </ingredient> et jambon " . <operation ingredients="gruyère"> parsemez </operation> le reste de <ingredient action="parsemez" quantite="100 gramme"> gruyère </ingredient> pour bien <operation> gratiner </operation> . <operation> enfournez </operation> 30 minutes au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

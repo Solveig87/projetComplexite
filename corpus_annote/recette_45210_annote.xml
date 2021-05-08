@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45210">
+<titre>Salade d'agrumes au sirop de menthe</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de kumquats</p>
+<p>4 oranges</p>
+<p>4 clémentines</p>
+<p>1 pamplemousse</p>
+<p>125 g de groseilles</p>
+<p>150 g de sucre</p>
+<p>1 bouquet de menthe</p>
+<p>1 citron</p>
+<p>4 bâtonnets de cannelle</p>
+</ingredients>
+<preparation>
+prévoir 1 / 2 journée au frais . pour le <ingredient> sirop </ingredient> : <operation ingredients="kumquats"> couper </operation> en rondelles les <ingredient action="couper" quantite="100 gramme"> kumquats </ingredient> <operation> lavés </operation> . dans une casserole : <operation ingredients="kumquats;sucre;menthe;jus;cannelle"> mettre </operation> les <ingredient action="mettre" quantite="100 gramme"> kumquats </ingredient> dans 10 cl d' eau avec le <ingredient action="mettre" quantite="150 gramme"> sucre </ingredient> , la <ingredient action="mettre"> menthe </ingredient> , le <ingredient action="mettre"> jus </ingredient> de citron et 4 bâtonnets de <ingredient action="mettre"> cannelle </ingredient> . faire <operation> bouillir </operation> . <operation ingredients="oranges"> couper </operation> le dessus des <ingredient action="couper" quantite="4"> oranges </ingredient> , les <operation> évider </operation> , et les <operation ingredients="orange;pamplemousse"> garnir </operation> avec la préparation suivante : quartiers de pulpe d' <ingredient action="garnir" quantite="4"> orange </ingredient> , clémentines , et <ingredient action="garnir" quantite="1"> pamplemousse </ingredient> . <operation ingredients="groseilles;sirop"> ajouter </operation> aussi les <ingredient action="ajouter" quantite="125 gramme"> groseilles </ingredient> et le <ingredient action="ajouter"> sirop </ingredient> . <operation ingredients="cannelle;menthe"> décorer </operation> avec les bâtonnets de <ingredient action="décorer"> cannelle </ingredient> , et quelques feuilles de <ingredient action="décorer"> menthe </ingredient> .
+</preparation>
+</recette>

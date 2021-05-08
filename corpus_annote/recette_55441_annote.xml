@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55441">
+<titre>Chou vert à la bière</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou vert</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>lardons</p>
+<p>1 boîte de tomates concassées</p>
+<p>pommes de terre</p>
+<p>1 filet d'huile d'olive</p>
+<p>thym, laurier</p>
+<p>40 cl de bière blonde</p>
+<p>1/2 cube de bouillon de boeuf dégraissé</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile"> mettre </operation> un filet d' <ingredient action="mettre"> huile </ingredient> d' olive dans un autocuiseur , y <operation ingredients="oignons;ail;lardons"> verser </operation> les 2 <ingredient action="verser" quantite="2"> oignons </ingredient> et l' <ingredient action="verser"> ail </ingredient> préalablement <operation> épluchés </operation> et <operation> hachés </operation> ainsi que les <ingredient action="verser" quantite=""> lardons </ingredient> , faire <operation> revenir </operation> en <operation> remuant </operation> de temps en temps . pendant ce temps , <operation ingredients="chou"> couper </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> en quartier et le <operation> laver </operation> . <operation> eplucher </operation> les <ingredient quantite=""> pommes </ingredient> de terre , les <operation> laver </operation> , et les <operation> couper </operation> en quartier aussi . <operation> réserver </operation> . <operation ingredients="tomates;pommes"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> dans l' autocuiseur , <operation> mélanger </operation> , <operation ingredients="thym;laurier;bière;chou"> mettre </operation> le <ingredient action="mettre" quantite=""> thym </ingredient> et le <ingredient action="mettre" quantite=""> laurier </ingredient> , la <ingredient action="mettre" quantite="40 cl"> bière </ingredient> , le <ingredient action="mettre" quantite="1"> chou </ingredient> , les <ingredient action="ajouter" quantite=""> pommes </ingredient> de terre , et <operation> recouvrir </operation> d' environ 50 cl d' eau . <operation ingredients="bouillon"> mettre </operation> le demi-cube de <ingredient action="mettre"> bouillon </ingredient> de boeuf et <operation> poivrer </operation> . fermer l' autocuiseur , et laisser <operation> cuire </operation> 10 à 15 mn .
+</preparation>
+</recette>

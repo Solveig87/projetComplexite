@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46416">
+<titre>Agneau aux amandes et raisins secs</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg d'épaule d'agneau désossée et coupée en morceaux</p>
+<p>3 oignons</p>
+<p>250 g d'amandes mondées</p>
+<p>200 g de raisins secs</p>
+<p>1 cuillère à soupe de miel liquide</p>
+<p>1/2 cuillère à café de cannelle</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="200 gramme"> raisins </ingredient> pendant 1 heure dans de l' eau tiède . <operation> chauffez </operation> 3 cuillères à soupe d' huile dans un faitout , et faites - y <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> 10 min . otez - la et remplacez - la par les <ingredient quantite="3"> oignons </ingredient> <operation> émincés </operation> . faites <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="3"> oignons </ingredient> 5 min , puis <operation ingredients="miel;épices"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> et les <ingredient action="ajouter" quantite="6 cuillère à soupe;"> épices </ingredient> . <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre"> viande </ingredient> , <operation> remuez </operation> , et <operation> versez </operation> 20 cl d' eau . <operation> salez </operation> , <operation> poivrez </operation> , <operation> couvrez </operation> et laissez <operation> cuire </operation> 1 heure à feu doux . faites <operation ingredients="amandes;huile"> dorer </operation> les <ingredient action="dorer" quantite="250 gramme"> amandes </ingredient> à la <operation> poêle </operation> dans le reste d' <ingredient action="dorer" quantite="6 cuillère à soupe"> huile </ingredient> , <operation> ajoutez </operation> - les dans le faitout avec les <ingredient action="laisser" quantite="200 gramme"> raisins </ingredient> <operation> égouttés </operation> , et <operation ingredients="raisins"> laissez </operation> <operation> cuire </operation> 15 min sans <operation> couvrir </operation> . servez bien chaud .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42162">
+<titre>Salade grecque en verre de concombre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 poivron vert</p>
+<p>1/2 poivron rouge </p>
+<p>100 g de feta grecque</p>
+<p>1 tomate</p>
+<p>1 concombre (assez grand)</p>
+<p>1 cuillère à soupe de feuilles de menthe</p>
+<p>1 citron</p>
+<p>1 cuillère à soupe de vinaigre de vin aromatisé aux noix</p>
+<p>2 cuillères à soupe d'huile d'olives</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> pelez </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> et <operation> coupez </operation> -en les extrémités . <operation ingredients="concombre"> coupez </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en quatre cylindres égaux . evidez - les en y laissant un fond . <operation> réservez </operation> . <operation> pelez </operation> les demi-poivrons et <operation> coupez </operation> - les en très petits morceaux . procédez de même avec la <ingredient quantite="1"> tomate </ingredient> , <operation ingredients="feta"> coupez </operation> la <ingredient action="couper" quantite="100 gramme"> feta </ingredient> en cubes très petits . <operation> hachez </operation> les feuilles de <ingredient> menthe </ingredient> . <operation ingredients="feta;poivrons;tomate;menthe"> mélangez </operation> la <ingredient action="mélanger" quantite="100 gramme"> feta </ingredient> , les <ingredient action="mélanger"> poivrons </ingredient> , la <ingredient action="mélanger" quantite="1"> tomate </ingredient> et la <ingredient action="mélanger"> menthe </ingredient> dans un saladier . <operation> réservez </operation> pour plus tard . dans un autre récipient <operation ingredients="vinaigre;jus;poivre;sel"> mélangez </operation> : 4 cuillères à soupe d' huile d' olive , 1 de <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> , le <ingredient action="mélanger"> jus </ingredient> d' un demi-citron , du <ingredient action="mélanger"> poivre </ingredient> et du <ingredient action="mélanger"> sel </ingredient> . <operation ingredients="concombre"> versez </operation> dans chaque cylindre de <ingredient action="verser" quantite="1"> concombre </ingredient> évidé une cuillère à soupe de la préparation du saladier . <operation> versez </operation> une partie la sauce par dessus . dans un plat , <operation ingredients="concombre"> disposez </operation> les 4 " verres de <ingredient action="disposer" quantite="1"> concombre </ingredient> " et <operation ingredients="salade"> entourez </operation> du reste de <ingredient action="entourer"> salade </ingredient> et de sauce . dégustez frais mais pas trop , pour conservez les arômes . <operation ingredients="poivrons;feta;tomates"> faites </operation> vos morceaux de <ingredient action="faire"> poivrons </ingredient> , de <ingredient action="faire" quantite="100 gramme"> feta </ingredient> et de <ingredient action="faire" quantite="1"> tomates </ingredient> assez petits pour qu' ils puissent rentrer dans les cylindres de <ingredient quantite="1"> concombre </ingredient> .
+</preparation>
+</recette>

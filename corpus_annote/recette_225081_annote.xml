@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225081">
+<titre>Jambon au porto et fromage</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon d'York pas trop fines</p>
+<p>20 cl de crème fraîche</p>
+<p>25 g de beurre</p>
+<p>100 g de gruyère râpé</p>
+<p>2 cuillères de concentré de tomate</p>
+<p>15 cl de porto</p>
+<p>sel, poivre</p>
+<p>1 pincée de noix de muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> dans une casserole . <operation ingredients="noix"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pincée"> noix </ingredient> de muscade , le <operation ingredients="tomate;sel;poivre"> concentré </operation> de <ingredient action="concentré"> tomate </ingredient> , le <ingredient action="concentré" quantite=""> sel </ingredient> et le <ingredient action="concentré" quantite=""> poivre </ingredient> . <operation ingredients="crème"> verser </operation> ensuite la <ingredient action="verser" quantite="20 cl"> crème </ingredient> fraîche ( il faut que la sauce soit rose foncé / rouge ) <operation ingredients="porto"> verser </operation> le verre de <ingredient action="verser" quantite="15 cl"> porto </ingredient> dans la sauce , faire <operation> bouillir </operation> et arrêter . <operation ingredients="gruyère;jambon"> mettre </operation> le <ingredient action="mettre" quantite="100 gramme"> gruyère </ingredient> râpé dans chaque tranche de <ingredient action="mettre" quantite="6 tranche"> jambon </ingredient> et <operation> rouler </operation> . <operation ingredients="jambon"> déposer </operation> les tranches de <ingredient action="déposer" quantite="6 tranche"> jambon </ingredient> dans un plat allant au four . <operation ingredients="jambon"> verser </operation> la sauce sur le <ingredient action="verser" quantite="6 tranche"> jambon </ingredient> et <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> râpé dessus pour <operation> gratiner </operation> . <operation> mettre </operation> au four environ 25 / 30 minutes , thermostat 180 <operation> ° </operation> c ( thermostat 6 ) . servir avec du <ingredient> riz </ingredient> blanc . j' utilise aussi parfois un <operation> mélange </operation> de 4 <ingredient> fromages </ingredient> <operation> râpés </operation> ( <ingredient> emmental </ingredient> , cheddar , mozzarella et samsoe ) acheté tout prêt . c' est un plat très facile à faire et qui reste délicieux <operation> réchauffé </operation> le lendemain . rosé etang des colombes
+</preparation>
+</recette>

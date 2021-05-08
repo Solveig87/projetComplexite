@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17989">
+<titre>Terrine de lapin</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 G de lapin</p>
+<p>1 Kg de Porc (un peu gras)</p>
+<p>un peu de barde de lard</p>
+<p>4 gousses d'ail</p>
+<p>4 beaux oignons</p>
+<p>3 oeufs</p>
+<p>12,5 cl de lait</p>
+<p>25 g de sel</p>
+<p>1 cuillère à soupe de poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> désosser </operation> le <ingredient action="désosser" quantite="400 gramme"> lapin </ingredient> totalement ( garder les <ingredient> abats </ingredient> ) . <operation ingredients="porc"> couper </operation> le <ingredient action="couper" quantite="1 kilogramme"> porc </ingredient> en lanière . <operation ingredients="lapin"> hacher </operation> le <ingredient action="hacher" quantite="400 gramme"> lapin </ingredient> ( pas trop finement ) , puis <operation> réserver </operation> . <operation ingredients="porc"> hacher </operation> le <ingredient action="hacher" quantite="1 kilogramme"> porc </ingredient> ( pas trop finement ) , puis <operation> réserver </operation> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> , puis <operation ingredients="ail;oignons"> mélanger </operation> avec l' <ingredient action="mélanger"> ail </ingredient> et les <ingredient action="mélanger"> oignons </ingredient> <operation> hachés </operation> . <operation ingredients="lait;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="12,5 cl"> lait </ingredient> , le <ingredient action="ajouter" quantite="25 gramme"> sel </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> poivre </ingredient> . <operation ingredients="viande"> mélanger </operation> l' ensemble avec la <ingredient action="mélanger" quantite="400 gramme;1 kilogramme"> viande </ingredient> puis <operation> hacher </operation> le tout plus finement ( pas trop ) . barder la terrine ovale puis la <operation> remplir </operation> du <operation> mélange </operation> . <operation> mettre </operation> au four au bain - marie à 180 <operation> ° </operation> c ( th 6 ) pendant 1 h 45 . laisser <operation> reposer </operation> 2 jours après cuisson , au réfrigérateur .
+</preparation>
+</recette>

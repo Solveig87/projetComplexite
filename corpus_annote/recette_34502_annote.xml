@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34502">
+<titre>Barboton stéphanois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 kg d'agneau coupé en dés (ou mouton) </p>
+<p>5 pommes de terre</p>
+<p>5 carottes</p>
+<p>beurre</p>
+<p>1 bouquet garni</p>
+<p>1 oignon coupé en lamelles</p>
+<p>1 gousse d'ail</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+le barboton est un ragoût . 1 ) faire <operation ingredients="beurre"> fondre </operation> un peu de <ingredient action="fondre"> beurre </ingredient> dans une cocotte et faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . 2 ) <operation ingredients="agneau"> ajouter </operation> les dés d' <ingredient action="ajouter" quantite="1 kilogramme"> agneau </ingredient> pour les <operation> saisir </operation> sur toutes les faces quelques minutes . 3 ) <operation ingredients="pommes;ail;bouquet"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> pommes </ingredient> de terres <operation ingredients="carottes"> coupées </operation> en quartiers et les <ingredient action="couper" quantite="5"> carottes </ingredient> en rondelles , ainsi que l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . 4 ) <operation> saler </operation> et <operation> poivrer </operation> selon goût . 5 ) <operation> couvrir </operation> d' eau et faire <operation> cuire </operation> le tout environ 40 mn , en prenant garde à ce que l' eau ne s' évapore pas trop vite . certains réalisent cette recette avec des <ingredient> côtelettes </ingredient> d' agneau , mais je n' aime pas trouver les petits os dans mon plat alors je les remplace par de l' <ingredient quantite="1 kilogramme"> agneau </ingredient> sans os ( que je fais <operation> couper </operation> en dés par mon boucher ) .
+</preparation>
+</recette>

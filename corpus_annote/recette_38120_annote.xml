@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38120">
+<titre>Tiramisu fraises et fraises tagada</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de mascarpone</p>
+<p>4 jaunes d'oeufs</p>
+<p>100 g de sucre</p>
+<p>300 g de fraises</p>
+<p>1/2 paquet de fraises type fraises tagada</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> mélangez </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> , puis <operation ingredients="mascarpone"> incorporez </operation> le <ingredient action="incorporer" quantite="500 gramme"> mascarpone </ingredient> peu à peu . <operation ingredients="fraises"> mettez </operation> sur le feu les <ingredient action="mettre" quantite="300 gramme"> fraises </ingredient> tagada avec un peu d' eau , puis <operation> mélangez </operation> jusqu' à dissolution complète des bonbons . <operation ingredients="fraises"> lavez </operation> les <ingredient action="laver" quantite="300 gramme"> fraises </ingredient> fraîches , puis <operation> placez </operation> - les dans un plat . <operation ingredients="fraises;mascarpone"> ajoutez </operation> les <ingredient action="ajouter" quantite="300 gramme"> fraises </ingredient> tagada <operation> fondues </operation> par - dessus , puis ensuite le <operation> mélange </operation> au <ingredient action="ajouter" quantite="500 gramme"> mascarpone </ingredient> . <operation> mettre </operation> au réfrigérateur au mons deux heures ( une nuit , c' est l' idéal ) .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71071">
+<titre>Les Tartines du dimanche soir</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>deux tranches de pain de campagne</p>
+<p>un oeuf</p>
+<p>20 cl de crème fraîche semi-épaisse</p>
+<p>75 g de lardons</p>
+<p>50 g de gruyère (selon vos goûts!)</p>
+<p>une pincée de sel</p>
+</ingredients>
+<preparation>
+dans un récipient , <operation ingredients="oeuf;crème;gruyère;sel"> mélangez </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> entier avec la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite="50 gramme"> gruyère </ingredient> et le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> . <operation> répartissez </operation> sur les tartines en couches épaisses . <operation ingredients="lardons"> parsemez </operation> de <ingredient action="parsemer" quantite="75 gramme"> lardons </ingredient> . <operation> enfournez </operation> pour environ 15 min . sortez du four dès que le tout est <operation> cuit </operation> et dégustez sans attendre ! le temps de cuisson peut varier selon le four .
+</preparation>
+</recette>

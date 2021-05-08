@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42346">
+<titre>Ragoût d'asperges</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'asperges fraîches</p>
+<p>4 tranches de poitrine de porc fraîche</p>
+<p>1 gros oignon</p>
+<p>2 cuillères à soupe de farine </p>
+<p>1 cube de bouillon de poule </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;oignon"> revenir </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> . quand il a bien doré , le <operation> retirer </operation> , et <operation ingredients="poitrine"> mettre </operation> la <ingredient action="mettre" quantite="4 tranche"> poitrine </ingredient> <operation> coupée </operation> en gros morceaux , à la <operation> place </operation> . la faire <operation> dorer </operation> , puis la <operation> retirer </operation> . <operation ingredients="asperges"> couper </operation> les <ingredient action="couper" quantite="1 kilogramme"> asperges </ingredient> ( <operation> pelées </operation> ) en 4 , et les faire <operation> revenir </operation> 5 min . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> farine </ingredient> , et faire <operation> cuire </operation> 2 min . <operation ingredients="poitrine;oignons"> ajouter </operation> la <ingredient action="ajouter" quantite="4 tranche"> poitrine </ingredient> et les <ingredient action="ajouter" quantite="1"> oignons </ingredient> . bien <operation> remuer </operation> le tout . <operation> couvrir </operation> d' eau froide , et <operation ingredients="bouillon;sel;poivre"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> de volaille , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> 1 heure environ .
+</preparation>
+</recette>

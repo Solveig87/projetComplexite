@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11317">
+<titre>Pain de thon au gruyère</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de thon en boîte</p>
+<p>100 g de gruyère râpé</p>
+<p>100 g de farine</p>
+<p>3 œufs</p>
+<p>10 cl d'huile</p>
+<p>10 cl de lait</p>
+<p>1 sachet de levure chimique</p>
+<p>20 g de beurre</p>
+<p>sel, poivre blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> emietter </operation> le <ingredient action="emietter" quantite="300 gramme"> thon </ingredient> . <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="100 gramme"> farine </ingredient> dans un plat et y casser les <ingredient quantite="3"> œufs </ingredient> . <operation> mélanger </operation> pour obtenir une <ingredient> pâte </ingredient> <operation> lisse </operation> . <operation ingredients="lait;huile"> délayer </operation> peu à peu le <ingredient action="délayer" quantite="10 cl"> lait </ingredient> , l' <ingredient action="délayer" quantite="10 cl"> huile </ingredient> allumer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="levure;gruyère"> mettre </operation> la <ingredient action="mettre"> levure </ingredient> le thon , le <ingredient action="mettre" quantite="100 gramme"> gruyère </ingredient> le sel le poivre <operation> beurrer </operation> <operation> fariner </operation> le <operation> moule </operation> à cake , <operation> verser </operation> la préparation et <operation> enfourner </operation> . <operation> cuire </operation> 40 min . servir froid ou chaud avec sauce suivant le goût .
+</preparation>
+</recette>

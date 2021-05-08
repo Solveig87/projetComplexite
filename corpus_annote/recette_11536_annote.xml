@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11536">
+<titre>Fefla (Maroc)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 poivrons verts</p>
+<p>5 tomates</p>
+<p>3 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>paprika</p>
+<p>cumin</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poivrons;tomates"> griller </operation> les <ingredient action="griller"> poivrons </ingredient> et les <ingredient action="griller" quantite="5"> tomates </ingredient> et les <operation> éplucher </operation> . les <operation> passer </operation> quelques secondes au <operation ingredients="gousses;huile;paprika;cumin;sel;poivre"> mixer </operation> avec les <ingredient action="mixer" quantite="3"> gousses </ingredient> d' ail , l' <ingredient action="mixer" quantite="3 cuillère à soupe"> huile </ingredient> d’ olive , le <ingredient action="mixer" quantite=""> paprika </ingredient> , le <ingredient action="mixer" quantite=""> cumin </ingredient> , le <ingredient action="mixer" quantite=""> sel </ingredient> et le <ingredient action="mixer" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> quelques minutes dans une casserole ( très peu ) . servir tiède . <operation ingredients="salade"> accompagne </operation> très bien les tajines , comme petite <ingredient action="accompagne"> salade </ingredient> à <operation> mettre </operation> autour .
+</preparation>
+</recette>

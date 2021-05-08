@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165596">
+<titre>Haricots verts facon menestra</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de pois écossés</p>
+<p>100 g de fèves</p>
+<p>400 g de haricots verts</p>
+<p>100 g de jambon fumé épais (0,5 cm)</p>
+<p>Huile, sel, poivre</p>
+<p>2 tomates</p>
+<p>4 c. à s. de bouillon de volaille</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="légumes"> cuire </operation> les <ingredient action="cuire" quantite="100 gramme;400 gramme;2"> légumes </ingredient> à la vapeur <operation ingredients="fèves"> peler </operation> les <ingredient action="peler" quantite="100 gramme"> fèves </ingredient> <operation ingredients="tomates"> plonger </operation> les <ingredient action="plonger" quantite="2"> tomates </ingredient> dans l' eau bouillante , les <operation> peler </operation> , les <operation> épépiner </operation> et les <operation> couper </operation> en dés <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="100 gramme"> jambon </ingredient> en petits dés <operation ingredients="huile"> mettre </operation> l' <ingredient action="mettre" quantite=""> huile </ingredient> à <operation> chauffer </operation> et faire <operation ingredients="jambon"> revenir </operation> les dés de <ingredient action="revenir" quantite="100 gramme"> jambon </ingredient> y <operation ingredients="légumes;tomates;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme;400 gramme;2"> légumes </ingredient> puis les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> avec le <ingredient action="ajouter"> bouillon </ingredient> de volaille <operation> assaisonner </operation> laisser <operation> cuire </operation> 8 mn sans couvercle .
+</preparation>
+</recette>

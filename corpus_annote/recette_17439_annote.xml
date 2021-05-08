@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17439">
+<titre>Lasagnes au tofu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tofu</p>
+<p>9 feuilles de lasagnes (précuites), soit 150 g</p>
+<p>150 g de champignons</p>
+<p>400 g de tomates</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>600 g de sauce béchamel</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>50 g de parmesan</p>
+<p>herbes de Provence</p>
+<p>muscade</p>
+<p>sauce de soja</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;champignons"> revenir </operation> dans une <operation> poêle </operation> <operation> huilée </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="150 gramme"> champignons </ingredient> <operation> coupés </operation> en lamelles . <operation ingredients="tomates;tofu;ail"> ajoutez </operation> les <ingredient action="ajouter" quantite="400 gramme"> tomates </ingredient> <operation> pelées </operation> et copées en morceaux , le <ingredient action="ajouter" quantite="250 gramme"> tofu </ingredient> <operation> émietté </operation> et l' <ingredient action="ajouter"> ail </ingredient> haché . <operation ingredients="muscade;poivre"> ajoutez </operation> les herbes de provence , la <ingredient action="ajouter" quantite=""> muscade </ingredient> , la sauce de soja et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . laissez <operation> mijoter </operation> 20 minutes . <operation ingredients="béchamel"> préparez </operation> la sauce <ingredient action="préparer" quantite="600 gramme"> béchamel </ingredient> . dans un plat à four rectangulaire <operation> huilé </operation> , <operation ingredients="béchamel"> disposez </operation> un fond de <ingredient action="disposer" quantite="600 gramme"> béchamel </ingredient> puis une couche de 3 lasages , <operation ingredients="tofu;béchamel"> recouvrez </operation> avec la moitié du <operation> mélange </operation> <ingredient action="recouvrir" quantite="250 gramme"> tofu </ingredient> + légumes et une couche de <ingredient action="recouvrir" quantite="600 gramme"> béchamel </ingredient> . <operation> disposez </operation> une deuxième couche de lasagnes , les reste du <operation> mélange </operation> <ingredient quantite="250 gramme"> tofu </ingredient> + légumes , les dernières lasagnes et <operation ingredients="béchamel"> recouvrir </operation> de <ingredient action="recouvrir" quantite="600 gramme"> béchamel </ingredient> . <operation ingredients="parmesan"> parsemez </operation> de <ingredient action="parsemer" quantite="50 gramme"> parmesan </ingredient> . <operation> cuisez </operation> à four chaud 30 minutes ( 200 <operation> ° </operation> c / thermostat . 7 ) .
+</preparation>
+</recette>

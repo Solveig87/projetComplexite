@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220894">
+<titre>Soupe aux lentilles, lardons et saucisses</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>7 petits oignons blancs coupés en 3</p>
+<p>1 gros oignon coupé en lamelles</p>
+<p>1 carotte coupée en petits carrés</p>
+<p>4 pommes de terre coupées en petits carrés</p>
+<p>250 g lentilles vertes</p>
+<p>125 g lardons</p>
+<p>1 gousse d’ail</p>
+<p>4 saucisses fumées mi-sèches</p>
+<p>thym</p>
+<p>laurier</p>
+<p>beurre</p>
+<p>1,5 l eau</p>
+<p>sel</p>
+<p>poivre</p>
+<p>moutarde</p>
+<p>crème épaisse</p>
+</ingredients>
+<preparation>
+<operation ingredients="lentilles"> rincer </operation> les <ingredient action="rincer" quantite="250 gramme"> lentilles </ingredient> . faire <operation ingredients="carotte;lentilles;oignons;gousse"> bouillir </operation> 25 min <ingredient action="bouillir" quantite="1"> carotte </ingredient> , pomme de terre , <ingredient action="bouillir" quantite="250 gramme"> lentilles </ingredient> , petits <ingredient action="bouillir" quantite="7+1"> oignons </ingredient> et ½ <ingredient action="bouillir" quantite="1"> gousse </ingredient> d’ ail dans 1 , 5 l eau . faire <operation ingredients="lardons;oignon;gousse;beurre"> cuire </operation> / <operation> brunir </operation> en parallèle les <ingredient action="cuire" quantite="125 gramme"> lardons </ingredient> et l’ <ingredient action="cuire" quantite="7+1"> oignon </ingredient> et ½ <ingredient action="cuire" quantite="1"> gousse </ingredient> d’ ail dans une <operation> poêle </operation> avec un peu de <ingredient action="cuire"> beurre </ingredient> . <operation ingredients="lardons;oignon;saucisses;thym;laurier"> incorporer </operation> les <ingredient action="incorporer" quantite="125 gramme"> lardons </ingredient> , l’ <ingredient action="incorporer" quantite="7+1"> oignon </ingredient> cuit , les <ingredient action="incorporer" quantite="4"> saucisses </ingredient> au bouillon <operation> coupé </operation> ainsi que le <ingredient action="incorporer" quantite=""> thym </ingredient> et le <ingredient action="incorporer" quantite=""> laurier </ingredient> . laisser un peu <operation> mijoter </operation> , <operation ingredients="thym;laurier"> retirer </operation> le <ingredient action="retirer" quantite=""> thym </ingredient> et le <ingredient action="retirer" quantite=""> laurier </ingredient> , <operation ingredients="sel"> ajuster </operation> en <ingredient action="ajuster" quantite=""> sel </ingredient> et poivre et <operation ingredients="soupe"> ajouter </operation> une cuillère a <ingredient action="ajouter"> soupe </ingredient> de moutarde . servir avec une <ingredient> noix </ingredient> de crème épaisse . <ingredient> pinot </ingredient> noir d' alsace
+</preparation>
+</recette>

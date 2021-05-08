@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167433">
+<titre>Cocotte de morue aux tomates et navets</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de morue salée</p>
+<p>2 carottes</p>
+<p>2 poireaux</p>
+<p>1 boite de tomates en dés (ou 4 tomates fraiches en saison)</p>
+<p>20 cl d'eau (ou de fumet de poisson)</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+la veille , <operation ingredients="morue"> faire </operation> desaler la <ingredient action="faire" quantite="400 gramme"> morue </ingredient> en chageant au moins 3 fois l' eau . le jour j , <operation ingredients="légumes;navets;poireaux"> épelucher </operation> les <ingredient action="épelucher" quantite="2;2"> légumes </ingredient> puis <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="2"> carottes </ingredient> , les <ingredient action="épelucher"> navets </ingredient> et le blanc des <ingredient action="épelucher" quantite="2"> poireaux </ingredient> en tranches d' environ 1 cm d' épaisseur . préchauffer le four à 180 <operation> ° </operation> c. dans une cocotte qui va au four , faire <operation ingredients="huile"> revenir </operation> dans un filet d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive les poireaux , les <ingredient> navets </ingredient> et les <ingredient quantite="2"> carottes </ingredient> pendant 5 min . <operation ingredients="tomates;jus"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> avec le <ingredient action="ajouter"> jus </ingredient> et 20 cl d' eau . <operation ingredients="morue;bouillon"> pocher </operation> la <ingredient action="pocher" quantite="400 gramme"> morue </ingredient> dans un cour <ingredient action="pocher"> bouillon </ingredient> pendant 10 min . laisser <operation> mijoter </operation> environ 10 min puis <operation ingredients="morue"> ajouter </operation> la <ingredient action="ajouter" quantite="400 gramme"> morue </ingredient> en miettes . <operation> mélanger </operation> l' ensemble dans la cocotte puis <operation> couvrir </operation> avec un papier aluminium . <operation> placer </operation> dans le four puis laisser <operation> cuire </operation> 15 à 20 min à 180 <operation> ° </operation> c. servir chaud entre deux mers ou sauvignon
+</preparation>
+</recette>

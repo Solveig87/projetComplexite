@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28230">
+<titre>Salade de carotte</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes</p>
+<p>1 citron</p>
+<p>1 orange</p>
+<p>beurre</p>
+<p>amandes effilées</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> râper </operation> les <ingredient action="râper" quantite="4"> carottes </ingredient> . <operation ingredients="jus;citron;chair;orange"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' un <ingredient action="ajouter" quantite="1"> citron </ingredient> ainsi que la <ingredient action="ajouter"> chair </ingredient> de l' <ingredient action="ajouter" quantite="1"> orange </ingredient> . faire <operation ingredients="beurre;amande"> griller </operation> dans un peu de <ingredient action="griller"> beurre </ingredient> les lamelles d' <ingredient action="griller" quantite=""> amande </ingredient> et <operation> ajouter </operation> . les <ingredient quantite=""> amandes </ingredient> sont facultatives ou peuvent être remplacées par des <ingredient> noix </ingredient> ou des <ingredient> noisettes </ingredient> .
+</preparation>
+</recette>

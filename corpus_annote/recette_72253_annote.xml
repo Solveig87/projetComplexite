@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72253">
+<titre>Vermicelles de riz au chou-fleur et carottes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de vermicelles de riz</p>
+<p>entre 1/4 et 1/2 chou-fleur</p>
+<p>4 petites carottes</p>
+<p>100 g de lardons</p>
+<p>1 oignon</p>
+<p>50 g de champignons de Paris</p>
+<p>sauce soja</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chou-fleur"> cuire </operation> le <ingredient action="cuire"> chou-fleur </ingredient> à l' eau jusqu' à ce qu' il soit tout juste cuit . faire <operation ingredients="vermicelles"> tremper </operation> les <ingredient action="tremper" quantite="100 gramme"> vermicelles </ingredient> de riz dans de l' eau tiède pendant 10 min . faire <operation ingredients="lardons;oignon"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> pendant quelques minutes ( dans une <operation> poêle </operation> à part ou alors avec les autres ingrédients en même temps que l' <ingredient action="revenir" quantite="1"> oignon </ingredient> ) . pendant ce temps , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="non;huile"> coupé </operation> en morceaux dans une grande <operation> poêle </operation> avec ou <ingredient action="couper" quantite=";"> non </ingredient> de l' <ingredient action="couper"> huile </ingredient> d' olive selon les goûts . quand il est doré , <operation ingredients="carottes"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> carottes </ingredient> préalablement <operation> râpées </operation> . laisser <operation> cuire </operation> 5 à 10 min à feu doux . <operation ingredients="chou-fleur;vermicelles;champignons"> rajouter </operation> ensuite le <ingredient action="rajouter"> chou-fleur </ingredient> puis après quelques minutes , les <ingredient action="rajouter" quantite="100 gramme"> vermicelles </ingredient> de riz , les <ingredient action="rajouter" quantite="50 gramme"> champignons </ingredient> <operation ingredients="lardons"> coupés </operation> en petits morceaux et enfin les <ingredient action="couper" quantite="100 gramme"> lardons </ingredient> si <operation> cuits </operation> à part . <operation ingredients="soja"> arroser </operation> copieusement de sauce <ingredient action="arroser"> soja </ingredient> , <operation> poivrer </operation> . laisser encore <operation> cuire </operation> quelques minutes . servir bien chaud . plat complet pour un soir et très rapide à faire surtout avec un reste de <ingredient> chou-fleur </ingredient> cuit
+</preparation>
+</recette>

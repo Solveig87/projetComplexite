@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23898">
+<titre>Quiche au thon et aux olives vertes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>1 boîte de thon au naturel </p>
+<p>1/2 bocal d'olives vertes dénoyautées</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée de muscade</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+dans le fond de <ingredient> tarte </ingredient> , <operation ingredients="thon"> émietter </operation> la boîte de <ingredient action="émietter"> thon </ingredient> et <operation ingredients="olives"> recouvrir </operation> d' <ingredient action="recouvrir"> olives </ingredient> . dans un bol , <operation ingredients="oeufs;crème"> mélanger </operation> les 3 <ingredient action="mélanger" quantite="3"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche , puis <operation ingredients="sel;poivre;muscade"> ajouter </operation> le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> poivre </ingredient> et la <ingredient action="ajouter" quantite="1 pincée"> muscade </ingredient> . <operation ingredients="thon;olives"> verser </operation> le <operation> mélange </operation> sur le <ingredient action="verser"> thon </ingredient> et les <ingredient action="verser"> olives </ingredient> , puis <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> gruyère </ingredient> râpé . faire préchauffer le four 15 mn a 240 <operation> ° </operation> c. <operation ingredients="quiche"> enfourner </operation> la <ingredient action="enfourner"> quiche </ingredient> 25 à 30 mn .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30233">
+<titre>Lotte aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de lotte détaillée en tronçons</p>
+<p>120 g de beurre</p>
+<p>60 g de farine</p>
+<p>80 cl de vin blanc </p>
+<p>200 g de champignons</p>
+<p>4 oignons</p>
+<p>1 bouquet garni</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hacher </operation> les <ingredient action="hacher" quantite="4"> oignons </ingredient> et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="200 gramme"> champignons </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="poisson"> fariner </operation> le <ingredient action="fariner" quantite="1,2 kilogramme"> poisson </ingredient> puis le faire <operation ingredients="beurre"> dorer </operation> dans le <ingredient action="dorer" quantite="120 gramme"> beurre </ingredient> sur toutes les faces . <operation ingredients="bouquet;oignons;champignons"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , les <ingredient action="ajouter" quantite="4"> oignons </ingredient> et les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> puis <operation ingredients="vin"> mouiller </operation> de <ingredient action="mouiller" quantite="80 cl"> vin </ingredient> blanc . laisser <operation> cuire </operation> 15 minutes puis <operation ingredients="lotte"> égoutter </operation> la <ingredient action="égoutter" quantite="1,2 kilogramme"> lotte </ingredient> et la <operation> disposer </operation> sur le plat de service préchauffer . faire <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de cuisson en <operation ingredients="beurre"> ajoutant </operation> le <ingredient action="ajouter" quantite="120 gramme"> beurre </ingredient> <operation> coupé </operation> en dés . <operation ingredients="mousseuse"> fouetter </operation> jusqu' à obtention d' une sauce <ingredient action="fouetter"> mousseuse </ingredient> puis <operation ingredients="poisson"> verser </operation> sur le <ingredient action="verser" quantite="1,2 kilogramme"> poisson </ingredient> .
+</preparation>
+</recette>

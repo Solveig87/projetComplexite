@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221219">
+<titre>Poulet et ses légumes au four ultra simple</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>500 g de pommes de terre grenaille</p>
+<p>5 carottes </p>
+<p>1 oignon</p>
+<p>1/4 de baguette de pain dure</p>
+<p>de l'ail</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> en tranches et le <operation ingredients="ail"> frotter </operation> d' <ingredient action="frotter" quantite=""> ail </ingredient> de chaque côté . <operation ingredients="carottes;pommes"> peler </operation> les <ingredient action="peler" quantite="5"> carottes </ingredient> et les <ingredient action="peler" quantite="500 gramme"> pommes </ingredient> de terre , <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="5"> carottes </ingredient> en rondelles . <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="1"> oignons </ingredient> . sur la lèche - frites du four <operation ingredients="pain;pommes;carottes"> déposer </operation> le <ingredient action="déposer"> pain </ingredient> aillé <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , les <ingredient action="déposer" quantite="500 gramme"> pommes </ingredient> de terre et les <ingredient action="déposer" quantite="5"> carottes </ingredient> un peu partout . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="poulet;couteau"> couper </operation> le <ingredient action="couper" quantite="1"> poulet </ingredient> en deux avec un <ingredient action="couper"> couteau </ingredient> et <operation ingredients="légumes"> disposer </operation> les deux parties sur les <ingredient action="disposer" quantite="500 gramme;5;1"> légumes </ingredient> . <operation ingredients="huile;sel;poivre"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation ingredients="poulet"> mettre </operation> au four jusqu' à ce que le <ingredient action="mettre" quantite="1"> poulet </ingredient> soit bien doré et que les <ingredient action="cuire" quantite="500 gramme;5;1"> légumes </ingredient> soient <operation ingredients="légumes;jus"> cuits </operation> dans son <ingredient action="cuire"> jus </ingredient> . bon appétit !
+</preparation>
+</recette>

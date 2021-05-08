@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57260">
+<titre>Parfait à la vanille et aux noix croquantes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>9 cuillères à soupe de sucre semoule</p>
+<p>1 bâton de vanille fendu en 2</p>
+<p>25 cl de crème fraîche liquide</p>
+<p>100 g de noix pilés</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="noix"> brunir </operation> 3 cuillères à soupe de sucre avec les <ingredient action="brunir" quantite="100 gramme"> noix </ingredient> <operation> pilées </operation> . laisser refroidir . <operation ingredients="oeuf"> mélanger </operation> les 2 jaunes d' <ingredient action="mélanger" quantite="2"> oeuf </ingredient> avec 5 cuillères à soupe de sucre : <operation> battre </operation> jusqu' à l' obtension d' une couleur claire . <operation ingredients="crème"> ajouter </operation> la vanille et la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> <operation ingredients="chantilly"> battue </operation> en <ingredient action="battre"> chantilly </ingredient> . <operation ingredients="oeuf"> battre </operation> les 2 blancs d' <ingredient action="battre" quantite="2"> oeuf </ingredient> avec une cuillère à soupe de sucre et <operation> incorporer </operation> délicatement au <operation> mélange </operation> . <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme"> noix </ingredient> caramélisées et <operation> mettre </operation> dans un récipient au congélateur . servir nature ou avec un coulis ou du <ingredient> chocolat </ingredient> <operation> fondu </operation> .
+</preparation>
+</recette>

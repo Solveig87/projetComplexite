@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11463">
+<titre>Crème brûlée parfumée</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 jaunes d'oeufs</p>
+<p>1 litre de lait</p>
+<p>175 g de sucre</p>
+<p>1 citron</p>
+<p>1 bâton de vanille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;citron;sucre"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> avec le bâton de vanille , le zeste de <ingredient action="bouillir" quantite="1"> citron </ingredient> et le <ingredient action="bouillir" quantite="175 gramme"> sucre </ingredient> . après <operation> ébullition </operation> , <operation> filtrer </operation> , <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> au lait chaud , sans cesser de <operation> remuer </operation> , <operation> remettre </operation> la casserole sur le feu , continuer de <operation> remuer </operation> avec un fouet . <operation> retirer </operation> du feu juste au moment de l' <operation> ébullition </operation> , afin d' éviter la formation de grumeaux . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> dans des ramequins ou coupelles , laisser refroidir complètement . <operation ingredients="sucre"> saupoudrer </operation> le dessus de <ingredient action="saupoudrer" quantite="175 gramme"> sucre </ingredient> et appliquer sur tout la surface , la pelle préalablement <operation> chauffée </operation> , pour caramélisation ( ou <operation> passer </operation> rapidement sous le grill du four ) . ras
+</preparation>
+</recette>

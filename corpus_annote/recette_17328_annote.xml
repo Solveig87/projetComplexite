@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17328">
+<titre>Croquets bourguignons</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>225 g de farine</p>
+<p>225 g de sucre</p>
+<p>1 pincée de sel</p>
+<p>1/2 sachet de levure (chimique) </p>
+<p>100 g de noisettes décortiquées</p>
+<p>beurre pour le moule</p>
+</ingredients>
+<preparation>
+faire légèrement <operation ingredients="noisettes"> griller </operation> les <ingredient action="griller"> noisettes </ingredient> , puis les <operation> hacher </operation> grossièrement . <operation ingredients="oeufs;sucre;sel"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette dans une jatte avec le <ingredient action="battre" quantite="225 gramme"> sucre </ingredient> et une pincée de <ingredient action="battre" quantite="1 pincée"> sel </ingredient> . sans cesser de <operation> remuer </operation> , <operation ingredients="farine;levure"> ajouter </operation> la <ingredient action="ajouter" quantite="225 gramme"> farine </ingredient> en pluie fine ainsi que la <ingredient action="ajouter"> levure </ingredient> . <operation ingredients="noisettes"> ajouter </operation> ensuite les <ingredient action="ajouter"> noisettes </ingredient> et <operation> travailler </operation> soigneusement la préparation . <operation> beurrer </operation> généreusement un <operation> moule </operation> rectangulaire et le <operation> remplir </operation> de la préparation . <operation> mettre </operation> à four moyen préchauffé ( th 6 / 180 <operation> ° </operation> c ) durant 15 mn . surveiller la cuisson . sortir le <operation> moule </operation> et <operation ingredients="pâte"> découper </operation> la <ingredient action="découper"> pâte </ingredient> encore bien chaude en losanges . laisser les croquets sécher dans le <operation> moule </operation> . on peut aussi <operation ingredients="amandes"> ajouter </operation> quelques <ingredient action="ajouter"> amandes </ingredient> en faisant par exemple moiti . moitié <ingredient> amandes </ingredient> / noisettes .
+</preparation>
+</recette>

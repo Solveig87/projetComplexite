@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36663">
+<titre>Quiche au maroilles</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouleau de pâte feuilletée</p>
+<p>5 oeufs</p>
+<p>400 g de maroilles</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> feuilletée dans une tourtière . <operation ingredients="maroilles"> couper </operation> le <ingredient action="couper" quantite="400 gramme"> maroilles </ingredient> en tranches et les <operation ingredients="pâte"> placer </operation> sur la <ingredient action="placer"> pâte </ingredient> . <operation ingredients="oeufs;crème;sel;poivre;muscade"> battre </operation> les <ingredient action="battre" quantite="5"> oeufs </ingredient> en omelette avec la <ingredient action="battre" quantite="4 cuillère à soupe"> crème </ingredient> , le <ingredient action="battre" quantite=""> sel </ingredient> , le <ingredient action="battre" quantite=""> poivre </ingredient> et la <operation> poudre </operation> de <ingredient action="battre" quantite=""> muscade </ingredient> . <operation ingredients="maroilles"> etendre </operation> cette préparation sur les tranches de <ingredient action="etendre" quantite="400 gramme"> maroilles </ingredient> enfouner pendant 30 min à 200 <operation> ° </operation> c ( thermostat . 7 ) . servir chaud avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

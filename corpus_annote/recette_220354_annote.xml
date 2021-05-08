@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220354">
+<titre>Croque Monsieur aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>24 tranches de pain de mie</p>
+<p>3 tomates </p>
+<p>2 courgettes</p>
+<p>1 cuillère à café d'herbes de Provence</p>
+<p>2 cuillères à soupe d'huile d’olive</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> tomates </ingredient> et les courgettes , les <operation> couper </operation> en petits morceaux . dans une sauteuse avec couvercle , les faire <operation ingredients="huile"> revenir </operation> , à feu doux avec l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> et les herbes de provence durant 20 minutes environ . sur une tranche de <ingredient action="mettre" quantite="24 tranche"> pain </ingredient> de mie , <operation ingredients="pain;gruyère;légumes;gruyère"> mettre </operation> un peu de <ingredient action="mettre" quantite="100 gramme"> gruyère </ingredient> râpé , un peu de <operation> mélange </operation> de <ingredient action="mettre" quantite="3"> légumes </ingredient> et encore un peu de <ingredient action="mettre" quantite="100 gramme"> gruyère </ingredient> , avant de <operation ingredients="pain"> refermer </operation> par une autre tranche de <ingredient action="refermer" quantite="24 tranche"> pain </ingredient> de mie . les <operation> cuire </operation> dans un appareil à croque - monsieur . j’ ai eu l’ idée de cette recette pour arriver à faire <ingredient> manger </ingredient> des légumes ( sans <ingredient> viande </ingredient> ) , le soir , aux enfants .
+</preparation>
+</recette>

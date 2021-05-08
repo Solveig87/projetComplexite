@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29628">
+<titre>Carpaccio de boeuf au basilic</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 kg de filet de boeuf</p>
+<p>1 citron</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+<p>parmesan frais</p>
+<p>basilic frais</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="boeuf"> trancher </operation> le <ingredient action="trancher"> boeuf </ingredient> en très fines lamelles par le boucher . vous pouvez aussi le <operation> couper </operation> vous - même à l' aide d' un <ingredient action="placer"> couteau </ingredient> bien aiguisé , dans ce cas <operation ingredients="couteau;viande"> placez </operation> la <ingredient action="placer"> viande </ingredient> au congélateur 30 min avant découpage . <operation> déposez </operation> les tranches sur de grandes assiettes et <operation> réservez </operation> au réfrigérateur durant 30 minutes . avant de servir , <operation> émulsionnez </operation> le <ingredient> jus </ingredient> du citron avec environ 10 cl d' <ingredient quantite=""> huile </ingredient> d' olive , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="carpaccio"> arrosez </operation> le <ingredient action="arroser"> carpaccio </ingredient> de sauce , <operation ingredients="parmesan;basilic"> déposez </operation> quelques copeaux de <ingredient action="déposer" quantite=""> parmesan </ingredient> et des feuilles de <ingredient action="déposer" quantite=""> basilic </ingredient> <operation> ciselées </operation> puis servez . <operation ingredients="salade;pommes"> accompagnez </operation> de <ingredient action="accompagner"> salade </ingredient> verte assaisonnée et de <ingredient action="accompagner"> pommes </ingredient> de terre <operation> sautées </operation> .
+</preparation>
+</recette>

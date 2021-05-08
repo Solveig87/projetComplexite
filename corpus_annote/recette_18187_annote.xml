@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18187">
+<titre>Filets de veau aux cèpes, aux tomates et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de filet de veau (demandez à votre boucher qu'il vous coup des tranches de 2 cm)</p>
+<p>40 g de cèpes (vendues sèches, il faut les faire tremper dans l'eau de 1h à une journée)ou 200 g si ce sont des fraîches</p>
+<p>2 dl de crème fraîche</p>
+<p>3 éclats d'ail</p>
+<p>3 tomates</p>
+<p>persil</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="cèpes;huile"> revenir </operation> les <ingredient action="revenir" quantite="40 gramme"> cèpes </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> ( . 10 minutes ) . pendant ce temps , <operation> ébouillanter </operation> et <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="3"> tomates </ingredient> , les <operation> couper </operation> en dés et les faire <operation ingredients="huile;ail"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> ( 10 minutes ) avec l' <ingredient action="revenir"> ail </ingredient> <operation> écrasé </operation> . <operation ingredients="cèpes"> mélanger </operation> <ingredient action="mélanger" quantite="40 gramme"> cèpes </ingredient> et tomates , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="viande"> saisir </operation> la <ingredient action="saisir"> viande </ingredient> dans un <operation> poêle </operation> légèrement <operation> huilée </operation> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="crème;champignons"> ajouter </operation> la <ingredient action="ajouter" quantite="2 dl"> crème </ingredient> fraîche à la préparation de <ingredient action="ajouter"> champignons </ingredient> . <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> et <operation ingredients="viande"> napper </operation> la <ingredient action="napper"> viande </ingredient> de cette sauce .
+</preparation>
+</recette>

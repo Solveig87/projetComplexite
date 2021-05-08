@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17331">
+<titre>Quiche à la saucisse turque</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 petites saucisses turques (Sucuk) </p>
+<p>5 oeufs entiers</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 petit verre de lait demi écrémé</p>
+<p>100 g de fromage râpé</p>
+<p>sel, poivre, basilic, cumin</p>
+<p>1 pâte feuilletée</p>
+</ingredients>
+<preparation>
+dans un saladier <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="5"> oeufs </ingredient> entiers , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et le petit verre de <ingredient> lait </ingredient> . <operation ingredients="saucisses"> découper </operation> les <ingredient action="découper" quantite="3"> saucisses </ingredient> en petits morceaux , les <operation ingredients="fromage"> ajouter </operation> au <operation> mélange </operation> avec le <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> râpé . <operation ingredients="basilic"> ajouter </operation> du <ingredient action="ajouter" quantite=""> basilic </ingredient> et une petite cuillère à soupe de cumin pour relever le goût . <operation> saler </operation> , <operation> poivrer </operation> . <operation> beurrer </operation> une tôle à tarte , y <operation ingredients="pâte"> placer </operation> la <ingredient action="placer" quantite="1"> pâte </ingredient> feuilletée et faire <operation> précuire </operation> 10 mn au four <operation> recouvert </operation> d' un papier d' aluminium . <operation ingredients="pâte"> verser </operation> ensuite le <operation> mélange </operation> sur la <ingredient action="verser" quantite="1"> pâte </ingredient> <operation> précuite </operation> en faisant attention à ce que les morceaux de <ingredient action="disposer" quantite="3"> saucisses </ingredient> soient bien <operation ingredients="saucisses"> disposés </operation> un peu partout et que le <operation> mélange </operation> ne déborde pas de la tôle . <operation> mettre </operation> au four thermostat 210 <operation> ° </operation> c pendant 30 mn ( à surveiller ) . on peut trouver de la <ingredient quantite="3"> saucisse </ingredient> turque dans les boucheries musulmanes .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81506">
+<titre>Gratin riz-courgette de Mélanie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 courgettes</p>
+<p>1 oignon</p>
+<p>6 saucisses knack</p>
+<p>160 g de riz thaï</p>
+<p>huile d'olive</p>
+<p>sel, poivre </p>
+<p>Kubor</p>
+<p>25 cl de béchamel</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> en lamelles dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation> rajouter </operation> les courgettes <operation> pelées </operation> et <operation> coupées </operation> en morceaux . quand elles sont légèrement dorées , <operation> couvrir </operation> d' eau , <operation> ajouter </operation> le kubor , <operation> saler </operation> légèrement et <operation> poivrer </operation> ; <operation> couvrir </operation> et laisser <operation> cuire </operation> environ 30 min . sortir les courgettes et garder l' eau de cuisson pour y faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="160 gramme"> riz </ingredient> . <operation ingredients="béchamel"> huiler </operation> un plat à gratin , <operation ingredients="riz"> mettre </operation> le <ingredient action="mettre" quantite="160 gramme"> riz </ingredient> au fond , <operation> recouvrir </operation> de knakies en lamelles , puis des courgettes et enfin de <ingredient action="huiler" quantite="25 cl"> béchamel </ingredient> et gruyère . faire <operation> gratiner </operation> environ 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

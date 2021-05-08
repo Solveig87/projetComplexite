@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14000">
+<titre>Axoa d'Espelette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de viande de veau hachée gros par le boucher ou coupée tout petit (cubes de 1 cm de côté)</p>
+<p>8 beaux piments verts doux</p>
+<p>2 oignons</p>
+<p>4 gousses d'ail finement haché</p>
+<p>sel</p>
+<p>huile</p>
+<p>1 cuillère à café de piment d'Espelette et pas d'ailleurs (piment peu piquant et très parfumé)</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="oignons;ail"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> hachés </operation> , l' <ingredient action="revenir"> ail </ingredient> puis les piments <operation> coupés </operation> . dans une sauteuse <operation> huilée </operation> , <operation ingredients="veau"> assaisonner </operation> le <ingredient action="assaisonner"> veau </ingredient> de sel et piment d' espelette . <operation ingredients="viande"> saisir </operation> la <ingredient action="saisir" quantite="1 kilogramme"> viande </ingredient> jusqu' à ce qu' elle roussisse puis <operation> ajouter </operation> le contenu de la <operation> poêle </operation> et laisser <operation> mijoter </operation> à <operation> couvert </operation> à petit feu pendant 45 minutes environ . se sert avec des <ingredient> pommes </ingredient> de terre <operation> sautées </operation> . iroulégui
+</preparation>
+</recette>

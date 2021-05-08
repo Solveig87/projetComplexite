@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13491">
+<titre>Côtes de porc au café</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 côtes de porc</p>
+<p>2 cuillères à soupe de beurre</p>
+<p>10 grains de café</p>
+<p>6 cl de bouillon de volaille</p>
+<p>10 cl de café</p>
+<p>3 pincées de sucre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;noisette"> fondre </operation> le <ingredient action="fondre" quantite="2 cuillère à soupe"> beurre </ingredient> jusqu' à ce qu' il soit couleur <ingredient action="fondre"> noisette </ingredient> . <operation ingredients="côtes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> côtes </ingredient> de porc préalablement salées et <operation> poivrées </operation> . faire <operation> cuire </operation> 6 mn de chaque côté . <operation ingredients="côtes"> mettre </operation> les <ingredient action="mettre" quantite="2"> côtes </ingredient> de côté sur une assiette <operation> retournée </operation> pour garder le <ingredient> jus </ingredient> . augmenter la température et <operation ingredients="café;bouillon"> ajouter </operation> les grains de <ingredient action="ajouter" quantite="10 cl"> café </ingredient> et le <ingredient action="ajouter" quantite="6 cl"> bouillon </ingredient> . faire <operation> réduire </operation> , puis <operation ingredients="café;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> café </ingredient> et le <ingredient action="ajouter" quantite="3 pincée"> sucre </ingredient> . faire <operation> réduire </operation> . <operation> eteindre </operation> le feu et <operation ingredients="côtes"> remettre </operation> les <ingredient action="remettre" quantite="2"> côtes </ingredient> . <operation ingredients="jus;côtes"> verser </operation> le <ingredient action="verser"> jus </ingredient> de l' assiette sur les <ingredient action="verser" quantite="2"> côtes </ingredient> , puis servir immédiatement .
+</preparation>
+</recette>

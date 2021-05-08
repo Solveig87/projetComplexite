@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25573">
+<titre>Coeur de boeuf en ragoût</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 coeur de boeuf (ou de veau)</p>
+<p>30 g de farine</p>
+<p>6 cl d'huile</p>
+<p>20 g de beurre</p>
+<p>2 oignons</p>
+<p>2 carottes</p>
+<p>750 g de champignons</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>2 brins de thym</p>
+<p>1 feuille de laurier</p>
+<p>20 cl de bouillon</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="2"> oignon </ingredient> , <operation ingredients="ail"> piler </operation> l' <ingredient action="piler"> ail </ingredient> . <operation> laver </operation> et <operation ingredients="carottes;champignons"> couper </operation> les <ingredient action="couper" quantite="2"> carottes </ingredient> et les <ingredient action="couper" quantite="750 gramme"> champignons </ingredient> . <operation ingredients="coeur"> couper </operation> le <ingredient action="couper" quantite="1"> coeur </ingredient> en morceaux , puis les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite="30 gramme"> farine </ingredient> . dans une <operation> poêle </operation> , faire <operation ingredients="viande;beurre;huile"> dorer </operation> la <ingredient action="dorer" quantite="1"> viande </ingredient> avec le <ingredient action="dorer" quantite="20 gramme"> beurre </ingredient> et un trait d' <ingredient action="dorer" quantite="6 cl"> huile </ingredient> . <operation ingredients="légumes;carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="1;2;2;750 gramme;20 cl"> légumes </ingredient> <operation> émincés </operation> ( <ingredient action="ajouter" quantite="2"> carottes </ingredient> , champignons , oignons ) et l' <ingredient action="piler"> ail </ingredient> <operation ingredients="ail"> pilé </operation> . <operation> assaisonnez </operation> , puis joindre le <operation> concentré </operation> de <ingredient> tomates </ingredient> , le <ingredient> bouquet </ingredient> <operation> garni </operation> et le <ingredient quantite="20 cl"> bouillon </ingredient> . laisser <operation> mijoter </operation> 45 minutes . servir avec des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

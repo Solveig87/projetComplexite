@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31100">
+<titre>Clafoutis aux mirabelles et au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de mirabelles dénoyautées</p>
+<p>100 g d'amandes effilées</p>
+<p>200 g de sucre </p>
+<p>2 cuillères à soupe de maïzena</p>
+<p>4 oeufs</p>
+<p>250 g de mascarpone</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> puis <operation ingredients="mirabelles"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="1 kilogramme"> mirabelles </ingredient> . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="sucre"> mélanger </operation> <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> , amandes et maïzena . <operation ingredients="oeufs;mascarpone"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> <operation> fouettés </operation> , puis le <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> . bien <operation> mélanger </operation> . <operation> verser </operation> la préparation dans un plat allant au four , puis <operation ingredients="mirabelles"> répartir </operation> les <ingredient action="répartir" quantite="1 kilogramme"> mirabelles </ingredient> par dessus . laisser <operation> cuire </operation> 20 mn , le plat doit être légèrement doré . le plat est meilleur chaud , mais plus présentable froid . . . il faudra <operation> choisir </operation> !
+</preparation>
+</recette>

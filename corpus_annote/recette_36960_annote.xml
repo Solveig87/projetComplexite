@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36960">
+<titre>Frites au camembert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>frites (surgelées ou fraîches) : quantité au choix selon les goûts</p>
+<p>4 oeufs</p>
+<p>1 camembert</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> les frites . <operation ingredients="oeufs;camembert;sel"> mélanger </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="1"> camembert </ingredient> <operation> coupé </operation> en petits morceaux , <ingredient action="mélanger" quantite=""> sel </ingredient> et poivre comme pour faire une omelette . <operation> mettre </operation> les frites dans une <operation> poêle </operation> et <operation> verser </operation> le <operation> mélange </operation> , c' est <operation ingredients="fromage"> cuit </operation> lorsque le <ingredient action="cuire"> fromage </ingredient> et un peu coulant .
+</preparation>
+</recette>

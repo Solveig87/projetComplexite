@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39515">
+<titre>Croque monsieur végétarien</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-1 paquet de pain de mie aux céréales </p>
+<p>1 paquet de tofu fumé</p>
+<p>2 oignons </p>
+<p>5 champignons </p>
+<p>1 paquet de gruyère râpé</p>
+<p>Un peu de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;champignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> , avec les <ingredient action="revenir" quantite="5"> champignons </ingredient> <operation> coupés </operation> en lamelles . <operation ingredients="beurre"> tartiner </operation> une tranche de <ingredient action="tartiner"> beurre </ingredient> , puis <operation ingredients="oignons;gruyère"> ajouter </operation> un peu de la préparation <ingredient action="ajouter" quantite="2"> oignons </ingredient> - tofu , et un peu de <ingredient action="ajouter"> gruyère </ingredient> . fermer le croque , avec la seconde tranche de <ingredient> pain </ingredient> , et faire <operation> griller </operation> dans l' appareil . on peut <operation ingredients="tomates;ail;chèvre"> ajouter </operation> quelques rondelles de <ingredient action="ajouter"> tomates </ingredient> , de l' <ingredient action="ajouter"> ail </ingredient> , du <ingredient action="ajouter"> chèvre </ingredient> , etc.
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62193">
+<titre>Salade de maïs façon taboulé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande boite de maïs doux en grains</p>
+<p>2 tomates moyennes</p>
+<p>1 cuillère à soupe de menthe hachée</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>1 cuillère à soupe de coriandre hachée</p>
+<p>1 cuillère à soupe de jus de citron</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> peler </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en petits dés . dans un bol , <operation ingredients="jus;huile;sel;poivre"> battre </operation> le <ingredient action="battre" quantite="1 cuillère à soupe"> jus </ingredient> de citron et l' <ingredient action="battre" quantite="2 cuillère à soupe"> huile </ingredient> avec le <ingredient action="battre" quantite=""> sel </ingredient> et le <ingredient action="battre"> poivre </ingredient> . <operation ingredients="menthe;tomate;maïs"> mélanger </operation> la sauce obtenue avec les herbes , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> menthe </ingredient> , les dés de <ingredient action="mélanger" quantite="2"> tomate </ingredient> et le <ingredient action="mélanger"> maïs </ingredient> . servir très frais . sinon remplacer le <ingredient> maïs </ingredient> par du <ingredient action="cuire"> blé </ingredient> <operation ingredients="blé"> cuit </operation> , ça fera un " taboublé " : ) on peut aussi <operation ingredients="avocat"> ajouter </operation> des dés d' <ingredient action="ajouter"> avocat </ingredient> pour une entrée plus consistante .
+</preparation>
+</recette>

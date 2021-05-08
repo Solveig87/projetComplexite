@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32786">
+<titre>Escalopes de dinde sauce avocat</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de dinde</p>
+<p>2 gros oignons</p>
+<p>3 beaux avocats mûrs</p>
+<p>1,5 verre de vin blanc</p>
+<p>200 ml de crème fraîche</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="6"> escalopes </ingredient> à l' eau et <operation> réserver </operation> . entre temps , faire roussir les <ingredient quantite="2"> oignons </ingredient> dans de l' <ingredient quantite=""> huile </ingredient> d' olive et y <operation ingredients="avocats"> ajouter </operation> les <ingredient action="ajouter"> avocats </ingredient> <operation> écrasés </operation> à l' aide d' une fourchette . laisser <operation> cuire </operation> pendant 10 mn , <operation ingredients="vin;crème"> verser </operation> le <ingredient action="verser" quantite="1,5 verre"> vin </ingredient> et la <ingredient action="verser"> crème </ingredient> fraîche , <operation> saler </operation> et <operation> poivrer </operation> à votre goût . servir la sauce sur les <ingredient quantite="6"> escalopes </ingredient> . <operation ingredients="riz;pomme"> accompagner </operation> avec du <ingredient action="accompagner"> riz </ingredient> ou de la <ingredient action="accompagner"> pomme </ingredient> de terre <operation> cuite </operation> à l' eau . <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

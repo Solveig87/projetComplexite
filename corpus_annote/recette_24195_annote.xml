@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24195">
+<titre>Boulettes de veau au parmesan, sauce tomate au basilic</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de veau haché</p>
+<p>2 gousses d'ail</p>
+<p>20 g de parmesan râpé</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>500 g de tomates</p>
+<p>1 oignon</p>
+<p>6 feuilles de basilic</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>30 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;persil;viande"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> et le <operation> mélange </operation> au <ingredient action="hacher" quantite="2 cuillère à soupe"> persil </ingredient> et à la <ingredient action="hacher" quantite="600 gramme"> viande </ingredient> . <operation ingredients="parmesan;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="20 gramme"> parmesan </ingredient> et les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> battus </operation> . <operation ingredients="viande"> façonner </operation> des boulettes de <ingredient action="façonner" quantite="600 gramme"> viande </ingredient> . <operation ingredients="tomates"> concasser </operation> les <ingredient action="concasser" quantite="500 gramme"> tomates </ingredient> et <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . les faire suer dans 3 cuillères à soupe d' huile pendant 30 minutes jusqu' à obtention d' une sauce épaisse . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite="6 feuille"> basilic </ingredient> <operation> ciselé </operation> . faire <operation ingredients="huile;beurre"> revenir </operation> les boulettes dans le reste d' <ingredient action="revenir" quantite="6 cuillère à soupe"> huile </ingredient> et le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> jusqu' à ce qu' elles soient uniformément dorées . <operation> disposer </operation> les boulettes dans la sauce .
+</preparation>
+</recette>

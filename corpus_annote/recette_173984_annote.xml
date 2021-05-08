@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173984">
+<titre>Saumon façon asiatique</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 darnes de saumon</p>
+<p>25 cl de lait de coco</p>
+<p>1 oignon</p>
+<p>1 bâton de citronnelle</p>
+<p>1 petit morceau de gingembre</p>
+<p>2 gousses d'ail</p>
+<p>2 piments oiseau (selon goût)</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> pelez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , la citronnelle , le <ingredient action="détailler"> gingembre </ingredient> et l' <ingredient action="détailler"> ail </ingredient> <operation ingredients="gingembre;ail"> détailler </operation> en petit morceau , et <operation> réserver </operation> . dans une <operation> poêle </operation> faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> y <operation ingredients="gingembre;lait"> ajouter </operation> la citronnelle et le <ingredient action="ajouter"> gingembre </ingredient> , au bout de 5 min <operation> mettre </operation> les piments et le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> de coco , et laisser <operation> cuire </operation> de nouveau 5 min , et <operation> réserver </operation> . faire <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> dans la <operation> poêle </operation> . servir dans une assiette avec des <ingredient> patates </ingredient> vapeur <operation> napper </operation> de la sauce . de l' eau
+</preparation>
+</recette>

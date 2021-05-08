@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37333">
+<titre>Soupe de céleri rave</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de céleri rave, épluché et coupé en morceaux</p>
+<p>125 g de pommes de terre, épluchées et coupées</p>
+<p>1 gousse d'ail</p>
+<p>1 bouillon cube</p>
+<p>un peu de jus de citron</p>
+<p>60 cl d'eau </p>
+<p>30 cl de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="céleri;pommes;ail;beurre"> revenir </operation> doucement le <ingredient action="revenir"> céleri </ingredient> , les <ingredient action="revenir" quantite="125 gramme"> pommes </ingredient> de terre et l' <ingredient action="revenir"> ail </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> pendant 5 min . <operation ingredients="bouillon;citron"> ajouter </operation> l' eau , le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube et le <ingredient action="ajouter"> citron </ingredient> , <operation> porter </operation> à <operation> ébullition </operation> puis baisser le feu et <operation ingredients="légumes"> laisser </operation> <operation> cuire </operation> jusqu' à ce que les <ingredient action="laisser" quantite="125 gramme;1"> légumes </ingredient> soient tendres ( on peut faire à la cocotte , ça va plus vite ! ) <operation> mixer </operation> , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> , et <operation ingredients="sel"> assaisonner </operation> selon son goût ( <ingredient action="assaisonner"> sel </ingredient> et poivre ) .
+</preparation>
+</recette>

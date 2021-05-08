@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54967">
+<titre>Salade de pâtes aux framboises</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de pâtes type torsade ou penne</p>
+<p>150 g de haricots verts plats</p>
+<p>50 g de framboises entières ou non</p>
+<p>50 g de chèvre frais</p>
+<p>1 grosse échalote</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre balsamique ou de framboise</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes;haricots"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> et les <ingredient action="cuire" quantite="150 gramme"> haricots </ingredient> , puis laisser refroidir . <operation ingredients="échalote"> couper </operation> l' <ingredient action="couper" quantite="1"> échalote </ingredient> en petits morceaux . <operation ingredients="chèvre"> emietter </operation> le <ingredient action="emietter" quantite="50 gramme"> chèvre </ingredient> . <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger" quantite="400 gramme"> pâtes </ingredient> , les <ingredient quantite="150 gramme"> haricots </ingredient> , le <ingredient quantite="50 gramme"> chèvre </ingredient> et l' <ingredient quantite="1"> échalote </ingredient> . <operation ingredients="huile;vinaigre"> ajouter </operation> l' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> et éventuellement le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> ( en option ) . <operation> mélanger </operation> . <operation ingredients="framboises"> décorer </operation> avec les <ingredient action="décorer" quantite="50 gramme"> framboises </ingredient> ( ne pas <operation> mélanger </operation> si on ne veut pas les <operation> écraser </operation> ) . servir . se déguste aussi très bien sans le <ingredient quantite="2 cuillère à soupe"> vinaigre </ingredient> . astuce : utiliser des <ingredient quantite="50 gramme"> framboises </ingredient> <operation> congelées </operation> , entières ou émiettées ( elles <operation ingredients="pâtes"> coloreront </operation> alors agréablement les <ingredient action="colorer" quantite="400 gramme"> pâtes </ingredient> si on les <operation> mélange </operation> à la <ingredient> salade </ingredient> ) . blanc type <ingredient> muscat </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10817">
+<titre>Feuilleté frais aux pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>pâte feuilletée</p>
+<p>carré frais</p>
+<p>2 cuillérée de miel d'accacia</p>
+<p>1 pincée de gingembre</p>
+<p>1 pincée de cannelle</p>
+<p>1 pincée de muscade</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="2"> pommes </ingredient> dans une <operation> poêle </operation> dans du <ingredient action="revenir"> beurre </ingredient> , <operation ingredients="gingembre"> saupoudrer </operation> légèrement de <ingredient action="saupoudrer" quantite="1 pincée"> gingembre </ingredient> , cannelle , muscade . <operation ingredients="pâte"> etaler </operation> et <operation> séparer </operation> en 2 la <ingredient action="etaler" quantite=""> pâte </ingredient> feuilletée <operation ingredients="miel;pâte"> badigeonner </operation> avec du <ingredient action="badigeonner"> miel </ingredient> une moitié de <ingredient action="badigeonner" quantite=""> pâte </ingredient> . <operation ingredients="pâte"> diviser </operation> les 2 moitiés de <ingredient action="diviser" quantite=""> pâte </ingredient> en 4 , <operation ingredients="carré;pommes"> recouvrir </operation> les 4 moitiés de <ingredient action="recouvrir"> carré </ingredient> frais , puis de <ingredient action="recouvrir" quantite="2"> pommes </ingredient> . <operation> recouvrir </operation> les 4 premières moitiés des 4 autres en <operation> pressant </operation> les bords . <operation> mettre </operation> à four chaud ( 180 <operation> ° </operation> c. thermostat 6 ) pendant 20 min .
+</preparation>
+</recette>

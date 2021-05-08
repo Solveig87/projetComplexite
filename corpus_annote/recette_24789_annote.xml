@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24789">
+<titre>Salade de pommes de terre au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g pommes de terre</p>
+<p>400 g thon au naturel</p>
+<p>3 oeufs</p>
+<p>3 cornichons</p>
+<p>3 tomates</p>
+<p>1 cuillère à soupe de câpres</p>
+<p>1 cuillère à soupe de ketchup</p>
+<p>4 cuillères à soupe de mayonnaise</p>
+<p>1 cuillère à soupe de sauce Worcestershire</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="3"> oeufs </ingredient> durs , 10 minutes . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre à l' eau ou à la vapeur , environ 25 minutes . les laisser refroidir . <operation> laver </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="3"> tomates </ingredient> en quartiers . <operation ingredients="cornichons"> emincer </operation> les <ingredient action="emincer" quantite="3"> cornichons </ingredient> en rondelles . <operation> egoutter </operation> et <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter" quantite="400 gramme"> thon </ingredient> . ecaler les <ingredient quantite="3"> oeufs </ingredient> et les <operation> couper </operation> en rondelles . <operation> peler </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> pommes </ingredient> de terre en rondelles . <operation> mélanger </operation> tous ces ingrédients délicatement . <operation ingredients="mayonnaise;ketchup;sel;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="4 cuillère à soupe"> mayonnaise </ingredient> avec le <ingredient action="mélanger" quantite="1 cuillère à soupe"> ketchup </ingredient> , la sauce worcestershire , du <ingredient action="mélanger" quantite=""> sel </ingredient> et du <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation ingredients="câpres"> ajouter </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe"> câpres </ingredient> et <operation ingredients="salade"> verser </operation> la sauce dans la <ingredient action="verser"> salade </ingredient> . <operation> remuer </operation> délicatement et servir .
+</preparation>
+</recette>

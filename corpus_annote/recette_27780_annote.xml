@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27780">
+<titre>Canard laqué chinois aux 5 parfums</titre>
+<type>Plat principal</type>
+<niveau>Difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 jeune canard de Barbarie</p>
+<p>30 g de mélange aux 5 épices</p>
+<p>1 pincée de cumin</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>4 cl de sauce soja</p>
+<p>4 cl de miel liquide</p>
+<p>1 pincée de glutamate</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="canard;épices"> induire </operation> le <ingredient action="induire" quantite="1"> canard </ingredient> entièrement , à l' intérieur comme à l' extérieur du <operation> mélange </operation> aux 5 <ingredient action="induire" quantite="1 pincée;1;;"> épices </ingredient> . <operation ingredients="sel"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sel </ingredient> . puis le <operation> piquer </operation> avec une fourchette de tous côtés et le <operation> réserver </operation> . préparation de la <ingredient> pâte </ingredient> à épices pour le <ingredient quantite="1"> canard </ingredient> : <operation ingredients="oignon;ail"> peler </operation> et <operation> hacher </operation> finement l' <ingredient action="peler" quantite="1"> oignon </ingredient> et l' <ingredient action="peler"> ail </ingredient> , les <operation ingredients="pâte"> piler </operation> jusqu' à l' obtention d' une <ingredient action="piler"> pâte </ingredient> . <operation ingredients="pâte;épices;soja;miel;cumin"> incorporer </operation> à cette <ingredient action="incorporer"> pâte </ingredient> le reste du 5 <ingredient action="incorporer" quantite="1 pincée;1;;"> épices </ingredient> , la sauce <ingredient action="incorporer"> soja </ingredient> , le <ingredient action="incorporer" quantite="4 cl"> miel </ingredient> et le <ingredient action="incorporer" quantite="1 pincée"> cumin </ingredient> , puis <operation> mélanger </operation> vivement pour obtenir une <ingredient> pâte </ingredient> bien homogène . <operation ingredients="canard;pâte"> badigeonner </operation> le <ingredient action="badigeonner" quantite="1"> canard </ingredient> avec la <ingredient action="badigeonner"> pâte </ingredient> à épices ( intérieur comme extérieur ) , puis le laisser sécher environ 2 h. préchauffer votre four à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation> huiler </operation> la <operation> plaque </operation> de votre four et <operation ingredients="canard"> disposer </operation> le <ingredient action="disposer" quantite="1"> canard </ingredient> dessus . <operation> enfourner </operation> à four chaud . au bout de 45 minutes de cuisson , <operation ingredients="canard"> rebadigeonner </operation> le <ingredient action="rebadigeonner" quantite="1"> canard </ingredient> de pâte à épices . après 1 h 30 de cuisson , il doit ressortir croustillant et bien doré ( couleur caramel ) . <operation ingredients="chair"> détailler </operation> la <ingredient action="détailler"> chair </ingredient> en dés , servir avec des feuilles de <ingredient> menthe </ingredient> , des germes de soja , du <ingredient> riz </ingredient> et des rondelles de <ingredient> concombre </ingredient> .
+</preparation>
+</recette>

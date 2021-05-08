@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36130">
+<titre>Rognons au cidre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 rognons de porc</p>
+<p>50 cl de cidre </p>
+<p>5 cl de calvados </p>
+<p>farine</p>
+<p>crème liquide</p>
+<p>sel, poivre</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="rognons"> préparer </operation> les <ingredient action="préparer" quantite="8"> rognons </ingredient> : les <operation> nettoyer </operation> et les <operation> parer </operation> très minutieusement , puis les <operation> couper </operation> en morceaux . les faire <operation> revenir </operation> , <operation ingredients="calvados"> flamber </operation> au <ingredient action="flamber" quantite="5 cl"> calvados </ingredient> , singer ( <operation ingredients="farine"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite=""> farine </ingredient> ) , <operation ingredients="cidre"> mouiller </operation> de <ingredient action="mouiller" quantite="50 cl"> cidre </ingredient> et <operation> cuire </operation> 10 minutes . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> , et au moment de servir , <operation ingredients="basilic"> mettre </operation> du <ingredient action="mettre" quantite=""> basilic </ingredient> frais <operation> ciselé </operation> . <operation> parer </operation> : <operation> préparer </operation> un aliment en vue de sa cuisson ou de son service à table , <operation> enlever </operation> tout ce qui nuit à la présentation pour le rendre encore plus appétissant . ( ndlr ) bourgogne
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18520">
+<titre>Gâteau au yaourt rapide</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pot de yaourt</p>
+<p>2 pots de sucre</p>
+<p>3 pots de farine</p>
+<p>2 oeufs</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 paquet de levure</p>
+<p>1 cuillère à soupe de parfum vanille ou citron</p>
+</ingredients>
+<preparation>
+commencez par <operation ingredients="yaourt"> vider </operation> le <ingredient action="vider" quantite="1 pot"> yaourt </ingredient> dans un saladier , <operation> nettoyer </operation> le pot à l' eau et bien l' <operation> essuyer </operation> . <operation ingredients="sucre;farine;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="2 pot"> sucre </ingredient> , seulement 2 pots de <ingredient action="ajouter" quantite="3 pot"> farine </ingredient> et les 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> . <operation ingredients="farine"> ajouter </operation> le 3ème pot de <ingredient action="ajouter" quantite="3 pot"> farine </ingredient> , <operation> mélangez </operation> au fouet et <operation ingredients="huile;levure"> rajoutez </operation> l' <ingredient action="rajouter" quantite="1 cuillère à soupe"> huile </ingredient> et le paquet de <ingredient action="rajouter"> levure </ingredient> ( 7 g ) . <operation> ajouter </operation> le parfum et <operation> mettre </operation> à 190 <operation> ° </operation> c pendant 25 à 30 min ( départ de cuisson four froid ) . ce <ingredient quantite="2 pot"> dessert </ingredient> est très bon nature mais il peut aussi se <ingredient> manger </ingredient> avec une <ingredient> crème </ingredient> anglaise .
+</preparation>
+</recette>

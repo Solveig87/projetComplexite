@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53194">
+<titre>Tiramisu à l'orange (sans œufs)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 à 15 biscuits à la cuillère</p>
+<p>le jus de 3 oranges</p>
+<p>2 cuillères à soupe de Grand Marnier (facultatif)</p>
+<p>250 g de mascarpone</p>
+<p>2,5 dl de crème</p>
+<p>60 g de sucre</p>
+<p>de la poudre de cacao</p>
+</ingredients>
+<preparation>
+<operation ingredients="biscuits;jus;marnier"> tremper </operation> les <ingredient action="tremper" quantite="12"> biscuits </ingredient> à la cuillère dans le <ingredient action="tremper" quantite=""> jus </ingredient> d' orange et le grand <ingredient action="tremper" quantite="2 cuillère à soupe"> marnier </ingredient> . les aligner sur les bords et dans le fond d' un plat . <operation ingredients="crème;mascarpone;sucre"> fouetter </operation> la <ingredient action="fouetter" quantite="2,5 dl"> crème </ingredient> et la <operation> mélanger </operation> avec le <ingredient action="fouetter" quantite="250 gramme"> mascarpone </ingredient> et le <ingredient action="fouetter" quantite="60 gramme"> sucre </ingredient> . <operation ingredients="biscuits"> etaler </operation> cette masse sur les <ingredient action="etaler" quantite="12"> biscuits </ingredient> . <operation ingredients="cacao"> saupoudrer </operation> de <operation> poudre </operation> de <ingredient action="saupoudrer"> cacao </ingredient> . <operation> mettre </operation> au frais .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21780">
+<titre>Salade de pamplemousse au saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pamplemousses</p>
+<p>1 petit concombre</p>
+<p>2 tranches de saumon fumé</p>
+<p>quelques radis</p>
+<p>Sauce : 1 yaourt brassé, 1 cuillère à café de jus de citron, sel, paprika</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> laver </operation> et <operation> couper </operation> le <ingredient action="laver" quantite="1"> concombre </ingredient> en rondelles . laisser dégorger <operation> saupoudré </operation> de gros <ingredient quantite=""> sel </ingredient> environ 30 min . <operation> rincez </operation> et séchez les rondelles sur du papier absorbant . <operation ingredients="pamplemousses"> peler </operation> les <ingredient action="peler" quantite="2"> pamplemousses </ingredient> à vif , <operation ingredients="chair"> découper </operation> la <ingredient action="découper"> chair </ingredient> en dés . <operation ingredients="saumon"> détailler </operation> le <ingredient action="détailler"> saumon </ingredient> en lanières et <operation ingredients="radis"> émincer </operation> les <ingredient action="émincer" quantite="quelque"> radis </ingredient> . <operation> mélanger </operation> tous les ingrédients dans un saladier , <operation ingredients="yaourt"> préparer </operation> la sauce au <ingredient action="préparer"> yaourt </ingredient> et la <operation> mélanger </operation> avec . <operation> réserver </operation> au frais avant de servir .
+</preparation>
+</recette>

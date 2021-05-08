@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14587">
+<titre>Pain de thon et pommes de terre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de thon au naturel </p>
+<p>3 grosses pommes de terre</p>
+<p>5 cuillères à soupe de mayonnaise</p>
+<p>estragon, sel, poivre</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> la veille . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre et les tranformer en purée . pendant ce temps , <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter"> thon </ingredient> et le <operation ingredients="mayonnaise"> mélanger </operation> avec la <ingredient action="mélanger" quantite="5 cuillère à soupe"> mayonnaise </ingredient> , les herbes , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> . lorsque la purée est froide , l' <operation ingredients="thon"> incorporer </operation> au <operation> mélange </operation> de <ingredient action="incorporer"> thon </ingredient> . <operation> mettre </operation> dans un <operation> moule </operation> à cake beurré , <operation> mettre </operation> au frais pendant 12 h minimun . servir bien frais , en entrée ( en tranches ) ou à l' <ingredient> apéritif </ingredient> .
+</preparation>
+</recette>

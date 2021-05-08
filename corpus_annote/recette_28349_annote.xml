@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28349">
+<titre>Purée savoyarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pommes de terre</p>
+<p>jambon fumé</p>
+<p>reblochon</p>
+<p>oignon</p>
+</ingredients>
+<preparation>
+<operation> mettre </operation> à <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite=""> pommes </ingredient> de terre <operation> épluchées </operation> dans de l' eau <operation> salée </operation> . pendant ce temps , <operation ingredients="jambon;fumé"> hacher </operation> au mixeur les tranches de <ingredient action="hacher" quantite=""> jambon </ingredient> <ingredient action="hacher"> fumé </ingredient> . <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite=""> oignon </ingredient> . <operation ingredients="reblochon"> couper </operation> des tranches de <ingredient action="couper" quantite=""> reblochon </ingredient> . <operation ingredients="pommes"> écraser </operation> les <ingredient action="écraser" quantite=""> pommes </ingredient> de terre et <operation ingredients="noisettes;crème;sel"> mélanger </operation> avec des <ingredient action="mélanger"> noisettes </ingredient> de beurre , quelques cuillers de <ingredient action="mélanger"> crème </ingredient> fraîche épaisse , <ingredient action="mélanger"> sel </ingredient> , poivre et muscade . <operation> répartir </operation> cette purée dans un plat étroit et assez haut , <operation ingredients="jambon;fromage;oignons"> recouvrir </operation> du <ingredient action="recouvrir" quantite=""> jambon </ingredient> haché , des tranches de <ingredient action="recouvrir"> fromage </ingredient> et des <ingredient action="recouvrir" quantite=""> oignons </ingredient> <operation> émincés </operation> . <operation> enfourner </operation> 15 min à 200 <operation> ° </operation> c.
+</preparation>
+</recette>

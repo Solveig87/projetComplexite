@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62707">
+<titre>Crème au café très simple</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 cuillères à soupe de café en grain</p>
+<p>50 g de maïzena</p>
+<p>150 g de sucre</p>
+<p>3 jaunes d'oeufs</p>
+<p>1 l de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="café"> mixer </operation> finement les grains de <ingredient action="mixer" quantite="3 cuillère à soupe"> café </ingredient> ( par exemple au mini hachoir ) . <operation ingredients="lait;café"> mettre </operation> les trois quart du <ingredient action="mettre" quantite="1 l"> lait </ingredient> dans une casserole avec le <ingredient action="mettre" quantite="3 cuillère à soupe"> café </ingredient> <operation> moulu </operation> , <operation> porter </operation> à ébulition et laisser <operation> reposer </operation> 30 minutes . pendant ce temps , <operation ingredients="maïzena;oeufs;lait"> mélanger </operation> la <ingredient action="mélanger" quantite="50 gramme"> maïzena </ingredient> , les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et le reste du <ingredient action="mélanger" quantite="1 l"> lait </ingredient> . <operation ingredients="lait"> passer </operation> le <ingredient action="passer" quantite="1 l"> lait </ingredient> au café dans un filtre à café . <operation ingredients="lait;sucre"> remettre </operation> sur le feu le <ingredient action="remettre" quantite="1 l"> lait </ingredient> au café avec le <ingredient action="remettre" quantite="150 gramme"> sucre </ingredient> jusqu' a <operation> ébullition </operation> puis <operation ingredients="oeufs"> ajouter </operation> le <operation> mélange </operation> <ingredient action="ajouter"> oeufs </ingredient> / maïzena / lait . dès la reprise de l' <operation> ébullition </operation> , <operation> verser </operation> dans des ramequins . <operation> mettre </operation> les ramequins au frais au moins 2 h avant de déguster .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39661">
+<titre>Pizza au saumon et à l'ananas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>une pâte à pizza</p>
+<p>10 à 15 cl de crème fraîche épaisse</p>
+<p>4 fines tranches de saumon frais ou de saumon fumé</p>
+<p>3 tranches d'ananas au sirop</p>
+<p>parmesan</p>
+<p>sel, poivre, aneth, origan (facultatif), huile d'olive</p>
+</ingredients>
+<preparation>
+dans un bol : <operation ingredients="crème;poivre"> mélanger </operation> la <ingredient action="mélanger"> crème </ingredient> fraîche , le <ingredient action="mélanger" quantite=""> poivre </ingredient> , et le <ingredient quantite=""> sel </ingredient> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> sur une <operation> plaque </operation> de cuisson , <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir"> crème </ingredient> fraîche ( en veillant à ne pas en <operation ingredients="pâte"> mettre </operation> sur le bord de la <ingredient action="mettre" quantite="1"> pâte </ingredient> , afin que celle-ci lève bien , pendant la cuisson ) . <operation ingredients="saumon;pâte;ananas"> déposer </operation> les tranches de <ingredient action="déposer"> saumon </ingredient> , sur la <ingredient action="déposer" quantite="1"> pâte </ingredient> , puis les <ingredient action="déposer" quantite="3 tranche"> ananas </ingredient> <operation> coupés </operation> en morceaux . <operation ingredients="parmesan;aneth"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> et d' <ingredient action="saupoudrer" quantite=""> aneth </ingredient> <operation> ciselée </operation> . faire <operation> cuire </operation> pendant 15 min .
+</preparation>
+</recette>

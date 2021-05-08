@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17036">
+<titre>Matelote de lotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de dés de lardons</p>
+<p>900 g de lotte</p>
+<p>37 cl de vin rouge</p>
+<p>20 g de beurre</p>
+<p>12 oignons blancs (petits)</p>
+<p>1 cuillère à soupe de bouillon</p>
+<p>persil</p>
+<p>thym </p>
+<p>laurier </p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 clou de girofle</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="lardons;oignons"> faites </operation> <operation> rissoler </operation> les <ingredient action="faire"> lardons </ingredient> et les petits <ingredient action="faire" quantite="12"> oignons </ingredient> . remplacez par la <ingredient quantite="900 gramme"> lotte </ingredient> <operation> coupée </operation> en morceaux . laissez <operation> revenir </operation> , <operation ingredients="vin;bouillon"> ajoutez </operation> le <ingredient action="ajouter" quantite="37 cl"> vin </ingredient> rouge et le cube de <ingredient action="ajouter" quantite="1 cuillère à soupe"> bouillon </ingredient> . <operation ingredients="lardons;oignons;thym;laurier"> remettez </operation> les <ingredient action="remettre"> lardons </ingredient> , les <ingredient action="remettre" quantite="12"> oignons </ingredient> , le <ingredient action="remettre" quantite=""> thym </ingredient> , le <ingredient action="remettre" quantite=""> laurier </ingredient> et le clou de girofle . <operation> portez </operation> à <operation> ébullition </operation> , baissez le feu et <operation> cuisez </operation> 15 mn . <operation ingredients="farine;beurre"> malaxez </operation> la <ingredient action="malaxer"> farine </ingredient> avec le <ingredient action="malaxer" quantite="20 gramme"> beurre </ingredient> <operation> ramolli </operation> , <operation> incorporez </operation> à la préparation , poursuivez la cuisson 10 mn <operation> salez </operation> , <operation> poivrez </operation> et servez <operation ingredients="persil"> parsemé </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> <operation> haché </operation>
+</preparation>
+</recette>

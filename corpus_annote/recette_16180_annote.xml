@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16180">
+<titre>Plov (Ouzbékistan)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de viande (sauf le porc) coupé en morceau d'environ 1,5 cm</p>
+<p>500 g de riz à grains longs</p>
+<p>250 g de carottes coupées en julienne</p>
+<p>3 oignons coupés en rondelles</p>
+<p>150 g de huile</p>
+<p>1 cuillère à café de mélange d'épices (piment, épine-vinette, ajowan ou grain de lovage)</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="150 gramme"> huile </ingredient> dans une grande cocotte à feu moyen . faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="250 gramme"> viande </ingredient> , jusqu' à ce qu' elle soit dorée . <operation ingredients="oignon;carottes"> ajouter </operation> l' <ingredient action="ajouter" quantite="3"> oignon </ingredient> , puis les <ingredient action="ajouter" quantite="250 gramme"> carottes </ingredient> . laisser <operation> mijoter </operation> 2 . 30 min , puis <operation ingredients="épices;sel"> ajouter </operation> les <ingredient action="ajouter" quantite="150 gramme;"> épices </ingredient> et le <ingredient action="ajouter" quantite=""> sel </ingredient> . <operation> cuire </operation> 2 min . y <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> riz </ingredient> . <operation> couvrir </operation> avec l' eau chaude . 1 , 5 cm au dessus du niveau du <ingredient quantite="500 gramme"> riz </ingredient> . <operation> saler </operation> , <operation> porter </operation> à <operation> ébullition </operation> , puis <operation> réduire </operation> et laisser <operation> mijoter </operation> à <operation> couvert </operation> jusqu' à absorption complète de l' eau . <ingredient> thé </ingredient> vert
+</preparation>
+</recette>

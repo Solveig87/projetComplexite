@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225320">
+<titre>Cassolette de cabillaud au curry</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets de cabillaud</p>
+<p>20 cl de crème fraîche liquide entière</p>
+<p>1 petite boîte de champignons émincés</p>
+<p>1 cuillère à soupe de curry</p>
+<p>100 g de gruyère râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="cabillaud"> saler </operation> et <operation> poivrer </operation> les filets de <ingredient action="saler"> cabillaud </ingredient> . <operation> couper </operation> les filets en morceaux ( attention à <operation> retirer </operation> les arrêtes . <operation ingredients="crème;curry;champignons"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> curry </ingredient> , les <ingredient action="mélanger"> champignons </ingredient> . <operation ingredients="poisson"> disposez </operation> équitablement les morceaux de <ingredient action="disposer"> poisson </ingredient> dans deux cassolettes , y <operation> verser </operation> la préparation puis <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> râpé . <operation> enfourner </operation> à four chaud ( 200 <operation> ° </operation> c ) environ 30 minutes ( le <ingredient> fromage </ingredient> doit être gratiné ) <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38691">
+<titre>Bouillon de tomates aux dés de tofu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 5 grosses tomates coupées en quartiers</p>
+<p>150 g de tofu coupés en dés</p>
+<p>2 oeufs battus en omelette</p>
+<p>1 boîte de champignons de paille</p>
+<p>1 os de porc pour le bouillon</p>
+<p>1 gros oignon coupé en quartiers</p>
+<p>3 brins de ciboulette</p>
+<p>4 grands bols d'eau</p>
+<p>4 prunes salées (facultatif)</p>
+</ingredients>
+<preparation>
+dans une casserole , faites <operation> bouillir </operation> l' eau . <operation ingredients="oeufs"> versez </operation> délicatement les <ingredient action="verser"> oeufs </ingredient> <operation> battus </operation> en un mince filet sur l' eau frémissante <operation ingredients="porc;prunes;salées"> ajoutez </operation> l' os de <ingredient action="ajouter"> porc </ingredient> et les <ingredient action="ajouter" quantite="4"> prunes </ingredient> <ingredient action="ajouter"> salées </ingredient> ( sinon <operation ingredients="sel"> saupoudrez </operation> de gros <ingredient action="saupoudrer"> sel </ingredient> ) . toujours à feu vif , <operation ingredients="tomates;oignon;champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et les <ingredient action="ajouter"> champignons </ingredient> de paille . <operation ingredients="tofu"> ajoutez </operation> les dés de <ingredient action="ajouter" quantite="150 gramme"> tofu </ingredient> . baissez à feu moyen , patientez 10 min . <operation ingredients="ciboulette;bouillon"> ciselez </operation> la <ingredient action="ciseler"> ciboulette </ingredient> au-dessus du <ingredient action="ciseler"> bouillon </ingredient> , et servez avec du <ingredient> riz </ingredient> . pensez à <operation> poivrer </operation> . une recette de ma mère ( vietnam ) . simplissime , et savoureuse . vous trouverez tous les ingrédients nécessaires à tang frères .
+</preparation>
+</recette>

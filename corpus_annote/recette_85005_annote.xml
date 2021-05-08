@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85005">
+<titre>Crêpes sucrées</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de farine type 55</p>
+<p>200 g de farine de blé noir</p>
+<p>5 œufs</p>
+<p>1 sachet sucre vanillé</p>
+<p>1 litre de lait</p>
+<p>100 g de sucre de canne</p>
+<p>cannelle et rhum</p>
+<p>huile et beurre doux</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="sucres"> mélanger </operation> les <ingredient action="mélanger" quantite="100 gramme"> sucres </ingredient> , les <ingredient quantite="5"> œufs </ingredient> et la <ingredient quantite=""> cannelle </ingredient> ( une pincée ) . une fois la <ingredient action="ajouter"> pâte </ingredient> bien homogène , <operation ingredients="pâte;farines;lait;rhum"> ajouter </operation> petit à petit les <ingredient action="ajouter" quantite="300 gramme+200 gramme"> farines </ingredient> puis le <ingredient action="ajouter" quantite="1 litre"> lait </ingredient> et le <ingredient action="ajouter"> rhum </ingredient> ( 5 cl environ ) . <operation ingredients="pâte"> mélanger </operation> jusqu' à obtention d' une <ingredient action="mélanger"> pâte </ingredient> bien <operation> lisse </operation> et sans grumeaux . laisser <operation> reposer </operation> . pour la cuisson , <operation ingredients="huile;beurre;crêpe"> mélanger </operation> dans un bol un verre d' <ingredient action="mélanger" quantite=""> huile </ingredient> et 50 g de <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> et appliquer ce <operation> mélange </operation> ( avec un pinceau ou papier essuie - tout ) sur la <operation> poêle </operation> chaude avant chaque <ingredient action="mélanger"> crêpe </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38175">
+<titre>Salade de pommes de terre camarguaise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>400 g de thon  au naturel (soit environ 2 boîtes)</p>
+<p>2 gros oignons frais</p>
+<p>4 oeufs</p>
+<p>1 blo de mayonnaise ou de vinaigrette, selon votre goût</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre dans la cocotte environ 15 min , selon leur grosseur . pendant ce temps , <operation ingredients="oeufs"> mettre </operation> les <ingredient action="mettre" quantite="4"> oeufs </ingredient> à <operation> cuire </operation> 10 min et <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> grossièrement . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter" quantite="400 gramme"> thon </ingredient> et le <operation ingredients="oignon"> mélanger </operation> à l' <ingredient action="mélanger" quantite="2"> oignon </ingredient> dans le saladier . <operation ingredients="oeufs;pommes"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> en rondelles et les <ingredient action="couper" quantite="1 kilogramme"> pommes </ingredient> de terre en morceaux . <operation ingredients="mayonnaise"> ajouter </operation> la <ingredient action="ajouter"> mayonnaise </ingredient> ou la vinaigrette , selon votre goût . <operation> réserver </operation> au frais minimum 1 heure , mais il vaut mieux le faire le soir pour le lendemain . plat typiquement camarguais . ici , on le <ingredient> mange </ingredient> souvent avant des grillades . <ingredient> vin </ingredient> gris
+</preparation>
+</recette>

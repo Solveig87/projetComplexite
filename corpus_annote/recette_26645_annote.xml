@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26645">
+<titre>Terrine de poisson au vin blanc sauce à l'estragon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poisson d'1,5 kg à chair blanche (bar, colin, lieu, merlan)</p>
+<p>1 échalote</p>
+<p>4 oeufs</p>
+<p>150 g de crème fraîche</p>
+<p>10 cl de vin blanc</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+<p>Pour la sauce :</p>
+<p>25 cl de fumet de poisson réduit</p>
+<p>10 cl de vin blanc sec</p>
+<p>1 cuillère à soupe d'estragon frais haché</p>
+<p>100 g de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;chair"> préparer </operation> le <ingredient action="préparer" quantite="1"> poisson </ingredient> par votre poissonnier : le faire <operation> vider </operation> et lever les filets pour ne récupèrer que la <ingredient action="préparer"> chair </ingredient> . <operation ingredients="échalote"> peler </operation> et <operation> découper </operation> l' <ingredient action="peler" quantite="1"> échalote </ingredient> en 4 avant de la <operation ingredients="chair"> passer </operation> au mixeur avec la <ingredient action="passer"> chair </ingredient> de poisson . dans un bol , <operation ingredients="oeufs;crème;sel;poivre;vin"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec la <ingredient action="battre" quantite="150 gramme+100 gramme"> crème </ingredient> , le <ingredient action="battre" quantite=""> sel </ingredient> , le <ingredient action="battre" quantite=""> poivre </ingredient> et le <ingredient action="battre" quantite="10 cl+10 cl"> vin </ingredient> blanc . <operation ingredients="chair"> verser </operation> ce <operation> mélange </operation> dans le mixeur avec la <ingredient action="verser"> chair </ingredient> du poisson et <operation ingredients="pâte"> mixer </operation> le tout ensemble jusqu' à l' obtention d' une <ingredient action="mixer"> pâte </ingredient> parfaitement homogène . <operation> déposer </operation> la préparation dans une terrine <operation> beurrée </operation> et la <operation> placer </operation> dans un bain - marie . faire <operation> cuire </operation> 40 min à four chaud et vérifier la cuisson à l' aide de la pointe d' un <ingredient> couteau </ingredient> . si la terrine est <operation> cuite </operation> , la lame doit ressortir chaude . <operation ingredients="estragon"> laisser </operation> <operation> tiédir </operation> dans le four à porte ouverte , puis <operation> préparer </operation> la sauce : <operation ingredients="vin;poisson"> mélanger </operation> dans une casserole , le <ingredient action="mélanger" quantite="10 cl+10 cl"> vin </ingredient> avec le fumet de <ingredient action="mélanger" quantite="1"> poisson </ingredient> , l' <ingredient action="laisser"> estragon </ingredient> <operation> haché </operation> puis laisser <operation> chauffer </operation> quelques minutes à feu très doux . <operation ingredients="crème"> ajouter </operation> ensuite la <ingredient action="ajouter" quantite="150 gramme+100 gramme"> crème </ingredient> , puis laisser <operation> épaissir </operation> en <operation> remuant </operation> à l' aide d' une cuillère en bois . servir la terrine avec la sauce en saucière .
+</preparation>
+</recette>

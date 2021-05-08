@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53374">
+<titre>Truite à l'africaine</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de filets de truite</p>
+<p>2 citrons</p>
+<p>1 yaourt</p>
+<p>1 avocat</p>
+<p>1 cuillère à soupe de câpres</p>
+<p>1 œuf dur</p>
+<p>1 cuillère à café de moutarde forte</p>
+<p>Tabasco</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson"> cuire </operation> le <ingredient action="cuire"> poisson </ingredient> dans de l' eau <operation> salée </operation> ( 6 à 8 min selon grosseur ) . l’ <operation> égoutter </operation> , l’ <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de citron , <operation> saler </operation> , faire <operation> macérer </operation> 1 h. <operation> egoutter </operation> , en gardant le <ingredient> jus </ingredient> de citron . <operation ingredients="chair;avocat"> retirer </operation> la <ingredient action="retirer"> chair </ingredient> de l' <ingredient action="retirer" quantite="1"> avocat </ingredient> , <operation ingredients="truite"> mélanger </operation> <ingredient action="mélanger"> truite </ingredient> et avocat au <operation> mixer </operation> , <operation ingredients="jus"> rajouter </operation> du <ingredient action="rajouter"> jus </ingredient> de citron ( environ 1 / 3 ) . <operation ingredients="œuf;moutarde"> ecraser </operation> le jaune d' <ingredient action="ecraser" quantite="1"> œuf </ingredient> avec la <ingredient action="ecraser" quantite="1 cuillère à café"> moutarde </ingredient> , puis <operation ingredients="yaourt"> rajouter </operation> le <ingredient action="rajouter" quantite="1"> yaourt </ingredient> . <operation> mélanger </operation> le tout , <operation ingredients="sel"> assaisonner </operation> avec <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et tabasco . <operation ingredients="câpres"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> câpres </ingredient> et <operation> mettre </operation> au frigo .
+</preparation>
+</recette>

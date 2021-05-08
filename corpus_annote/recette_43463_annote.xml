@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43463">
+<titre>Chapon farci aux boudins blancs</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>250 g de foies de volaille</p>
+<p>4 boudins blancs</p>
+<p>2 cuillères à soupe d'huile d'olives</p>
+<p>2 échalotes</p>
+<p>1 chapon de 3 kg</p>
+<p>2 litres de bouillon de volaille (1 carotte, 1 poireau, sel et poivre, laurier)</p>
+<p>Pour la garniture : </p>
+<p>200 g de marrons </p>
+<p>250 g de champignons </p>
+<p>200 g de purée de cèleri (ou de pommes de terre)</p>
+</ingredients>
+<preparation>
+en premier <ingredient action="prépare"> lieu </ingredient> , je <operation ingredients="lieu"> prépare </operation> la farce : je <operation ingredients="échalotes"> hache </operation> les <ingredient action="hache" quantite="2"> échalotes </ingredient> , et je les fait <operation ingredients="huile"> revenir </operation> doucement dans une sauteuse avec de l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . je <operation ingredients="foies"> hache </operation> au ciseau mes <ingredient action="hache" quantite="250 gramme"> foies </ingredient> de volaille , je <operation> mélange </operation> bien , et je retire la peau des boudins dans un saladier . je les <operation> coupe </operation> en petits morceaux , et je <operation> mélange </operation> avec les <ingredient quantite="250 gramme"> foies </ingredient> et les <ingredient quantite="2"> échalotes </ingredient> . . . je ne rajoutte rien car le <operation> mélange </operation> est assez crémeux ! je <operation ingredients="chapon"> farcis </operation> mon <ingredient action="farcir" quantite="1"> chapon </ingredient> , et je le coud avec du fil . je <operation ingredients="poireau;laurier"> fais </operation> <operation ingredients="bouillon;carotte"> chauffer </operation> dans un grand faitout , le <ingredient action="chauffer" quantite="2 litre"> bouillon </ingredient> avec la <ingredient action="chauffer"> carotte </ingredient> <operation> coupée </operation> , et le <ingredient action="faire"> poireau </ingredient> , ainsi que le <ingredient action="faire"> laurier </ingredient> . je <operation ingredients="chapon;bouillon"> plonge </operation> le <ingredient action="plonger" quantite="1"> chapon </ingredient> dans le <ingredient action="plonger" quantite="2 litre"> bouillon </ingredient> , et je le fait <operation> cuire </operation> pendant 1 h. puis , je le sort , je l' égoutte bien , et je le <operation> place </operation> sur la lèche frite . je fait <operation> chauffer </operation> le four à 180 <operation> ° </operation> c ( thermostat 6 ) , et je laisse le <ingredient quantite="1"> chapon </ingredient> <operation> cuire </operation> 2 h , en <operation ingredients="volaille;bouillon"> arrosant </operation> bien la <ingredient action="arroser" quantite="1"> volaille </ingredient> avec le <ingredient action="arroser" quantite="2 litre"> bouillon </ingredient> de cuisson . au bout du temps de cuisson , je le laisse <operation> reposer </operation> un peu , puis je le <operation> découpe </operation> . je fait <operation> cuire </operation> la garniture <operation> choisie </operation> , selon son mode de cuisson . le pochage du <ingredient quantite="1"> chapon </ingredient> dans le <ingredient quantite="2 litre"> bouillon </ingredient> laisse la <ingredient> chair </ingredient> tendre et <ingredient quantite="4;200 gramme"> non </ingredient> séche . il n' est pas nécesaire d' <operation ingredients="chapon"> enduire </operation> le <ingredient action="enduire" quantite="1"> chapon </ingredient> de matière grasse , la <ingredient quantite="250 gramme"> viande </ingredient> l' est suffisemment .
+</preparation>
+</recette>

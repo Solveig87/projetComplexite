@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27699">
+<titre>Piperade basque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 œufs</p>
+<p>4 tranches de jambon de Bayonne</p>
+<p> 1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>4 tomates</p>
+<p>1 oignon</p>
+<p>2 gousses d’ail</p>
+<p>huile d’olive</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> épépiner </operation> et <operation ingredients="tomates;poivrons"> détailler </operation> les <ingredient action="détailler" quantite="4"> tomates </ingredient> en quartiers et les <ingredient action="détailler"> poivrons </ingredient> en lamelles . <operation ingredients="oignon"> hacher </operation> ensuite l’ <ingredient action="hacher" quantite="1"> oignon </ingredient> et le <operation> plonger </operation> dans une <operation> poêle </operation> <operation> huilée </operation> pour le faire <operation ingredients="poivrons;tomates"> dorer </operation> avec les <ingredient action="dorer"> poivrons </ingredient> et les <ingredient action="dorer" quantite="4"> tomates </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> mijoter </operation> à feu doux . pendant ce temps , <operation ingredients="jambon"> poêler </operation> les tranches de <ingredient action="poêler" quantite="4 tranche"> jambon </ingredient> de bayonne , puis l’ <operation ingredients="jus;légumes"> incorporer </operation> avec son <ingredient action="incorporer"> jus </ingredient> de cuisson aux <ingredient action="incorporer" quantite="4;1"> légumes </ingredient> . <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="8"> œufs </ingredient> en omelette , puis <operation ingredients="œufs;légumes"> verser </operation> les <ingredient action="verser" quantite="8"> œufs </ingredient> <operation> battus </operation> dans la <operation> poêle </operation> sur les <ingredient action="verser" quantite="4;1"> légumes </ingredient> et <operation> cuire </operation> comme une omelette selon que vous l’ aimez baveuse ou bien cuite . vous pouvez remplacer le <ingredient quantite="4 tranche"> jambon </ingredient> par du <ingredient> lard </ingredient> et faire <operation> cuire </operation> l’ omelette nature pour la <operation ingredients="légumes"> fourrer </operation> seulement ensuite avec les <ingredient action="fourrer" quantite="4;1"> légumes </ingredient> .
+</preparation>
+</recette>

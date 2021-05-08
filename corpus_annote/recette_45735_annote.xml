@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45735">
+<titre>Tarte Bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 5 gros oignons</p>
+<p>400 g de bifteck hâché</p>
+<p>1 cuillerée à soupe d'huile</p>
+<p>25 g de beurre</p>
+<p>gruyère râpé</p>
+<p>sel, poivre</p>
+<p>herbes de Provence</p>
+<p>1 rouleau de pâte brisée</p>
+<p>Pour la béchamel :</p>
+<p>30 g de beurre</p>
+<p>40 g de farine</p>
+<p>25 cl de lait</p>
+<p>sel et poivre</p>
+<p>noix de muscade (facultatif)</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> , <operation ingredients="oignons"> émincez </operation> les <ingredient action="émincez" quantite="4"> oignons </ingredient> et faites - les <operation ingredients="huile"> fondre </operation> à la <operation> poêle </operation> , dans l' <ingredient action="fondre"> huile </ingredient> , sans <operation> colorer </operation> . pendant ce temps , <operation ingredients="pâte"> posez </operation> la <ingredient action="poser"> pâte </ingredient> <operation> brisée </operation> dans un <operation> moule </operation> à tarte et <operation ingredients="oignons"> versez </operation> les <ingredient action="verser" quantite="4"> oignons </ingredient> dedans . faites <operation ingredients="viande;beurre"> revenir </operation> la <ingredient action="revenir" quantite="400 gramme;"> viande </ingredient> hachée dans le <ingredient action="revenir" quantite="25 gramme+30 gramme"> beurre </ingredient> , épicez bien et <operation ingredients="béchamel"> préparez </operation> la <ingredient action="préparer"> béchamel </ingredient> ( faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme+30 gramme"> beurre </ingredient> à feu doux dans une casserole et <operation> incorporez </operation> tous les ingrédients en <operation> mélangeant </operation> bien ) . <operation ingredients="viande;pâte"> versez </operation> la <ingredient action="verser" quantite="400 gramme;"> viande </ingredient> dans la <ingredient action="verser"> pâte </ingredient> , <operation ingredients="béchamel"> arrosez </operation> de <ingredient action="arroser"> béchamel </ingredient> et <operation ingredients="gruyère"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé . faites <operation> cuire </operation> 25 à 30 min à 240 <operation> ° </operation> c ( thermostat 8) . a servir avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

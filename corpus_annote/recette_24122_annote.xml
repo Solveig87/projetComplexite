@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24122">
+<titre>Ragoût de fruits de mer à la portugaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 homard de 700 g</p>
+<p>400 g de crevettes roses décortiquées</p>
+<p>12 grosses moules</p>
+<p>400 g de palourdes</p>
+<p>6 coquilles Saint-Jacques</p>
+<p>Pour la fondue de légumes :</p>
+<p>6 belles tomates rouges</p>
+<p>2 oignons</p>
+<p>2 poivrons</p>
+<p>50 g de jambon cru haché</p>
+<p>2 gousses d'ail</p>
+<p>40 cl de vin blanc</p>
+<p>4 à 5 cl d'huile d'olive</p>
+<p>50 cl d'eau</p>
+<p>1 feuille de laurier</p>
+<p>1 capsule de safran</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> hacher </operation> les <ingredient action="hacher" quantite="2"> poivrons </ingredient> finement . <operation ingredients="oignons"> peler </operation> et <operation> émincer </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> puis les faire <operation ingredients="huile"> fondre </operation> dans une cocotte avec un peu d' <ingredient action="fondre"> huile </ingredient> . puis <operation ingredients="poivron"> ajouter </operation> le hachis de <ingredient action="ajouter" quantite="2"> poivron </ingredient> . faire <operation> cuire </operation> doucement 5 min . <operation> laver </operation> et <operation ingredients="tomates"> couper </operation> grossièrement les <ingredient action="couper" quantite="6"> tomates </ingredient> . <operation ingredients="jambon;ail;laurier"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> jambon </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> dans la cocotte . laisser <operation> revenir </operation> 2 min avant d' <operation ingredients="tomates"> incorporer </operation> les <ingredient action="incorporer" quantite="6"> tomates </ingredient> <operation> concassées </operation> . <operation ingredients="vin"> arroser </operation> le tout de <ingredient action="arroser" quantite="40 cl"> vin </ingredient> blanc et d' eau . <operation ingredients="crevettes;saint-jacques"> cuire </operation> 15 min , puis <operation> poivrer </operation> et <operation ingredients="safran"> ajouter </operation> le <ingredient action="ajouter"> safran </ingredient> . <operation ingredients="palourdes"> décoquiller </operation> les <operation> moules </operation> et les <ingredient action="décoquiller" quantite="400 gramme"> palourdes </ingredient> et les <operation ingredients="homard"> mettre </operation> dans la cocotte avec le <ingredient action="mettre" quantite="1"> homard </ingredient> , les <ingredient action="cuire" quantite="400 gramme"> crevettes </ingredient> et les coquilles <ingredient action="cuire"> saint-jacques </ingredient> . <operation> porter </operation> à nouveau à <operation> ébullition </operation> , <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="2;1 feuille;1 cuillère à soupe;;"> assaisonnement </ingredient> si besoin . <operation> saupoudrer </operation> de <ingredient action="hacher" quantite="1 cuillère à soupe"> persil </ingredient> <operation ingredients="persil"> haché </operation> avant de servir .
+</preparation>
+</recette>

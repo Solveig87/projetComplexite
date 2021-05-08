@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22519">
+<titre>Crème aux fruits rouges</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>400 g de fruits rouges décongelés</p>
+<p>2 sachets de sucre vanillé</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>20 cl de lait concentré non sucré</p>
+<p>15 cl de crème liquide</p>
+<p>15 cl de lait</p>
+<p>1 cuillère à soupe de kirsh</p>
+<p>un peu de cassonade</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;sucre"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec le <ingredient action="battre" quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient action="battre" quantite="2 cuillère à soupe"> sucre </ingredient> vanillé . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl+15 cl"> lait </ingredient> <operation ingredients="crème;lait"> concentré </operation> la <ingredient action="concentrer" quantite="15 cl"> crème </ingredient> et le <ingredient action="concentrer" quantite="20 cl+15 cl"> lait </ingredient> . faire <operation> épaissir </operation> à feu très doux en tournant pendant 3 mn . <operation> verser </operation> dans un plat à gratin , <operation> ajouter </operation> le kirsch . <operation ingredients="fruits"> répartir </operation> les <ingredient action="répartir" quantite="400 gramme"> fruits </ingredient> rouges et <operation ingredients="cassonade"> saupoudrez </operation> de <ingredient action="saupoudrer"> cassonade </ingredient> . <operation> passer </operation> sous le grill 2 mn . puis <operation> mettre </operation> au frigo pendant 2 h.
+</preparation>
+</recette>

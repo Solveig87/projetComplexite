@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26255">
+<titre>Lieu à la tomate et aux olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 kg de filets de lieu</p>
+<p>4 oignons</p>
+<p>5 cuillères à soupe d'huile d'olive</p>
+<p>750 g de tomates</p>
+<p>300 g d'olives noires dénoyautées</p>
+<p>1 bouquet garni (thym, laurier, persil)</p>
+<p>15 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="750 gramme"> tomates </ingredient> : <operation> inciser </operation> la peau en croix , les <operation> ébouillanter </operation> quelques secondes puis les rafraîchir sous l' eau froide . la peau se <operation> décolle </operation> facilement . les <operation> concasser </operation> . <operation ingredients="olives"> ebouillanter </operation> les <ingredient action="ebouillanter" quantite="300 gramme"> olives </ingredient> pendant 2 minutes sous l' eau froide . faire <operation ingredients="oignons;huile"> fondre </operation> les <ingredient action="fondre" quantite="4"> oignons </ingredient> <operation> émincés </operation> dans l' <ingredient action="fondre" quantite="5 cuillère à soupe"> huile </ingredient> puis <operation ingredients="tomates;olives;bouquet"> ajouter </operation> les <ingredient action="ajouter" quantite="750 gramme"> tomates </ingredient> <operation> concassées </operation> , les <ingredient action="ajouter" quantite="300 gramme"> olives </ingredient> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="15 cl"> vin </ingredient> , <operation> couvrir </operation> et poursuivre la cuisson pendant 20 minutes . <operation ingredients="poisson"> couper </operation> le <ingredient action="couper"> poisson </ingredient> en morceaux , les <operation> mettre </operation> dans la sauce et <operation> cuire </operation> 10 minutes . cette recette peut également être <operation ingredients="daurade;colin;bar;baudroie"> préparée </operation> avec de la <ingredient action="préparer"> daurade </ingredient> , du <ingredient action="préparer"> colin </ingredient> , du <ingredient action="préparer"> bar </ingredient> ou de la <ingredient action="préparer"> baudroie </ingredient> .
+</preparation>
+</recette>

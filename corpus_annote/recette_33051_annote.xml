@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33051">
+<titre>Nouilles sautées aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs de poireaux</p>
+<p>250 g de champignons de Paris</p>
+<p>3 carottes</p>
+<p>1 petite courgette (ne pas la peler) </p>
+<p>soja frais (un sachet prêt à l'emploi, ou un sachet légumes chinois pour Wok) </p>
+<p>1 poivron rouge (facultatif si dans mélange chinois) </p>
+<p>500 g de scampis surgelés décortiqués</p>
+<p>250 g de filet de poulet</p>
+<p>250 g de filet pur de porc, ou de filet de boeuf</p>
+<p>250 g de nouilles sautées </p>
+<p>sauce au soja</p>
+<p>huile d’olive ou huile pour Wok chinoise</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , et <operation ingredients="légumes"> émincer </operation> tous les <ingredient action="émincer" quantite="250 gramme;3"> légumes </ingredient> . <operation ingredients="viande;poulet"> emincer </operation> la <ingredient action="emincer"> viande </ingredient> et le <ingredient action="emincer"> poulet </ingredient> . dans un wok ou une grande sauteuse , faire <operation ingredients="huile"> chauffer </operation> l’ <ingredient action="chauffer" quantite=""> huile </ingredient> . <operation ingredients="viande;poulet"> cuire </operation> la <ingredient action="cuire"> viande </ingredient> et le <ingredient action="cuire"> poulet </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> ajouter </operation> 40 cl d’ eau . quand elle est à <operation> ébullition </operation> , <operation ingredients="nouilles"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> nouilles </ingredient> . quand toute l’ eau est évaporée , <operation ingredients="soja"> ajouter </operation> la sauce <ingredient action="ajouter"> soja </ingredient> ( suivant goût ) , les <ingredient quantite="500 gramme"> scampis </ingredient> <operation> décongelés </operation> et les <ingredient quantite="250 gramme;3"> légumes </ingredient> . <operation> cuire </operation> + ou – 10 min , à feu vif , en <operation> remuant </operation> . il faut que les <ingredient quantite="250 gramme;3"> légumes </ingredient> restent croquants !
+</preparation>
+</recette>

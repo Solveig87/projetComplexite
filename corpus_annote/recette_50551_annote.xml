@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50551">
+<titre>Simplet aux pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de farine</p>
+<p>200 g de sucre</p>
+<p>1 paquet de levure</p>
+<p>1 paquet de sucre vanillé</p>
+<p>3 oeufs</p>
+<p>9 cuillères à soupe de lait</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>3/4 pommes</p>
+</ingredients>
+<preparation>
+préchauffer le four à 220 <operation> ° </operation> c ( thermostat . 8) . <operation ingredients="farine;levure;sucre"> faire </operation> une fontaine avec la <ingredient action="faire" quantite="100 gramme"> farine </ingredient> , la <ingredient action="faire"> levure </ingredient> et le <ingredient action="faire" quantite="200 gramme"> sucre </ingredient> . casser les <ingredient quantite="3"> oeufs </ingredient> dans la fontaine puis <operation> mélanger </operation> en <operation ingredients="farine"> incorporant </operation> petit à petit la <ingredient action="incorporer" quantite="100 gramme"> farine </ingredient> . <operation ingredients="sucre;huile;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> vanillé , l' <ingredient action="ajouter" quantite="6 cuillère à soupe"> huile </ingredient> et le <ingredient action="ajouter" quantite="9 cuillère à soupe"> lait </ingredient> . <operation> mélanger </operation> le tout sans faire de grumeaux puis <operation ingredients="pommes"> incorporer </operation> les <ingredient action="incorporer"> pommes </ingredient> <operation> épluchées </operation> et <operation> coupées </operation> en tranches . <operation> verser </operation> dans un <operation> moule </operation> beurré et <operation> enfourner </operation> pour 20 minutes de cuisson .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15225">
+<titre>Grenouilles à la crème</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>2 kg de grenouilles fraîches (si congelées, les faires décongeler dans du lait durant 12 heures, puis les éponger)</p>
+<p>farine, sel, poivre, muscade, beurre</p>
+<p>crème fraîche épaisse</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="grenouilles"> éponger </operation> les <ingredient action="éponger" quantite="2 kilogramme"> grenouilles </ingredient> , les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> . un truc pour ne pas en <operation> mettre </operation> partout : <operation ingredients="farine"> remplir </operation> un sac plastique de <ingredient action="remplir" quantite=""> farine </ingredient> , <operation ingredients="grenouilles"> mettre </operation> une poignée de <ingredient action="mettre" quantite="2 kilogramme"> grenouilles </ingredient> dedans et <operation> secouer </operation> le sac . les <operation ingredients="beurre"> passer </operation> au <ingredient action="passer"> beurre </ingredient> sans les faire <operation> griller </operation> . préchauffer le four à 150 <operation> ° </operation> c. dans un plat <operation> passant </operation> au four , <operation ingredients="grenouilles;salées"> mettre </operation> au fur et à <operation> mesure </operation> de la cuisson les cuisses de <ingredient action="mettre" quantite="2 kilogramme"> grenouilles </ingredient> , après les avoir <ingredient action="mettre"> salées </ingredient> et <operation> poivrées </operation> . <operation ingredients="crème;muscade"> ajouter </operation> à chaque fois une grosse cuillerée de <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche et une râpure de <ingredient action="ajouter" quantite=""> muscade </ingredient> . bien <operation> assaisonner </operation> . un blanc fruité
+</preparation>
+</recette>

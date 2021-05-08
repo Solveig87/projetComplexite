@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81418">
+<titre>Tiramipêche  pomme - banane</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>3 jaunes d'oeufs</p>
+<p>2 blancs d'oeufs</p>
+<p>100 g de sucre roux</p>
+<p>100 g de spéculoos</p>
+<p>3 pommes</p>
+<p>3 pêches</p>
+<p>2 bananes</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à café cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> eplucher </operation> les <ingredient action="eplucher" quantite="3;3;2"> fruits </ingredient> , les <operation> couper </operation> en petits morceaux et les faire <operation> compoter </operation> dans une casserole . <operation ingredients="compote"> etaler </operation> la <ingredient action="etaler"> compote </ingredient> dans un plat et laisser refroidir . <operation ingredients="oeufs;sucre"> mélanger </operation> 3 jaunes d' <ingredient action="mélanger"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et faire <operation> mousser </operation> . <operation ingredients="mascarpone"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="sel;oeufs"> ajouter </operation> une pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> dans les blancs d' <ingredient action="ajouter"> oeufs </ingredient> et les <operation> battre </operation> en neige . <operation> ajouter </operation> ensuite délicatement au reste de la préparation . <operation ingredients="compote;spéculoos"> recouvrir </operation> la <ingredient action="recouvrir"> compote </ingredient> d' une couche de <ingredient action="recouvrir" quantite="100 gramme"> spéculoos </ingredient> puis de la préparation . <operation ingredients="cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à café"> cannelle </ingredient> . <operation> placer </operation> au réfrigérateur pendant environ 1 heure .
+</preparation>
+</recette>

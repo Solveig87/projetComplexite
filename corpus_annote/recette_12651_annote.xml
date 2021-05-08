@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12651">
+<titre>Gratin de fruits rapide</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400g de fruits du marché (par exemple fraises et pêches)</p>
+<p>250g crème à fouettée</p>
+<p>50g de poudre d'amande </p>
+<p>50g de sucre</p>
+<p>2 jaunes d'oeufs</p>
+<p>30 ml de liqueur fine</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> couper </operation> les <ingredient action="couper" quantite="400 gramme"> fruits </ingredient> . <operation ingredients="crème;sucre"> fouetter </operation> la <ingredient action="fouetter" quantite="250 gramme"> crème </ingredient> avec le <ingredient action="fouetter" quantite="50 gramme"> sucre </ingredient> . <operation ingredients="oeufs;amande;liqueur"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> , la <operation> poudre </operation> d' <ingredient action="ajouter"> amande </ingredient> et la <ingredient action="ajouter"> liqueur </ingredient> . <operation ingredients="fruits"> déposer </operation> les <ingredient action="déposer" quantite="400 gramme"> fruits </ingredient> sur un plat creux allant au four . <operation> napper </operation> du <operation> mélange </operation> . faire <operation> dorer </operation> au four sur la <operation> grille </operation> du haut .
+</preparation>
+</recette>

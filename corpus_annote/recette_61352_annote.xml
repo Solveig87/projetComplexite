@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61352">
+<titre>Pizza reine aux merguez</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza</p>
+<p>3 tranches de jambon blanc</p>
+<p>2 merguez</p>
+<p>1 grosse boule de mozzarella</p>
+<p>200 g de champignons blancs de Paris</p>
+<p>1 petit pot de concentré de tomates</p>
+<p>1 oignon émincé</p>
+<p>1/2 gousse d'ail hachée</p>
+<p>1 cuillère à café d'origan ou d'herbes de Provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> à pizza sur un plat rectangulaire allant au four . <operation ingredients="tomates"> etaler </operation> le <operation> concentré </operation> de <ingredient action="etaler"> tomates </ingredient> et <operation ingredients="oignon;ail"> répartir </operation> uniformément l' <ingredient action="répartir" quantite="1"> oignon </ingredient> et l' <ingredient action="répartir"> ail </ingredient> . <operation ingredients="jambon;champignons"> déposer </operation> ensuite le <ingredient action="déposer" quantite="3 tranche"> jambon </ingredient> préalablement <operation ingredients="carré"> couper </operation> en <ingredient action="couper"> carré </ingredient> et ensuite les <ingredient action="déposer" quantite="200 gramme"> champignons </ingredient> <operation> émincés </operation> . <operation ingredients="merguez"> couper </operation> les <ingredient action="couper" quantite="2"> merguez </ingredient> en morceaux de 2 cm et les <operation> déposer </operation> sur la pizza . <operation ingredients="mozzarella"> couper </operation> la <ingredient action="couper"> mozzarella </ingredient> en rondelles et bien les <operation> répartir </operation> sur la pizza . <operation> assaisonner </operation> d' une cuillère à café d' origan ou d' herbes de provence . <operation> enfourner </operation> 20 min . surveiller votre pizza . un rosé <ingredient> côte </ingredient> de provence
+</preparation>
+</recette>

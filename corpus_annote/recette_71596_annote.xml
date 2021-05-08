@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71596">
+<titre>Oeufs breakfast</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>1 noisette de beurre</p>
+<p>1 tranche de poitrine fumée</p>
+<p>du gruyère râpé</p>
+<p>du parmesan</p>
+<p>2 palets de chèvre</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="noisette"> fondre </operation> dans une <operation> poêle </operation> une <ingredient action="fondre" quantite="1"> noisette </ingredient> de beurre et y casser l' <ingredient quantite="1"> oeuf </ingredient> . <operation ingredients="gruyère"> rajouter </operation> une poignée de <ingredient action="rajouter" quantite=""> gruyère </ingredient> râpé et y <operation ingredients="chèvre"> ajouter </operation> les 2 palets de <ingredient action="ajouter"> chèvre </ingredient> . pendant ce temps , faire <operation ingredients="poitrine;fumée"> cuire </operation> dans une assiette la tranche de <ingredient action="cuire" quantite="1 tranche"> poitrine </ingredient> <ingredient action="cuire"> fumée </ingredient> au micro-ondes pendant quelques secondes et la <operation ingredients="oeuf"> placer </operation> sur l' <ingredient action="placer" quantite="1"> oeuf </ingredient> . <operation ingredients="oeuf"> placer </operation> l' <ingredient action="placer" quantite="1"> oeuf </ingredient> dans une assiette et <operation ingredients="parmesan"> parsemer </operation> de <ingredient action="parsemer" quantite=""> parmesan </ingredient> .
+</preparation>
+</recette>

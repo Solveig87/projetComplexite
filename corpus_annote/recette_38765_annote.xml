@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38765">
+<titre>Milkshake banane sur coulis de fraise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une barquette de fraises</p>
+<p>2 bananes</p>
+<p>1 boule de glace à la fraise et 2 boules de glace à la vanille</p>
+<p>2 cuillères à café de sucre</p>
+<p>2 cuillères à soupe de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> couper </operation> les <ingredient action="couper"> fraises </ingredient> en petits morceaux et les <operation ingredients="sucre"> écraser </operation> grossièrement avec le <ingredient action="écraser" quantite="2 cuillère à café"> sucre </ingredient> , <operation> réserver </operation> . <operation ingredients="bananes;glace;lait"> mettre </operation> dans un blender les <ingredient action="mettre" quantite="2"> bananes </ingredient> , les boules de <ingredient action="mettre"> glace </ingredient> et le <ingredient action="mettre" quantite="2 cuillère à soupe"> lait </ingredient> . <operation> mixer </operation> jusqu' à l' obtention d' un milkshake onctueux . prendre des coupelles de <ingredient> glace </ingredient> , <operation ingredients="fraises"> mettre </operation> les <ingredient action="mettre"> fraises </ingredient> au fond et <operation> verser </operation> le milkshake . <operation> réserver </operation> au frais au moins deux heures . pour la décoration je <operation ingredients="fraises;chantilly"> rajoute </operation> des morceaux de <ingredient action="rajoute"> fraises </ingredient> et de la <ingredient action="rajoute"> chantilly </ingredient> . un délice !
+</preparation>
+</recette>

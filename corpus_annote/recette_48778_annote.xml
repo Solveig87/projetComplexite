@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48778">
+<titre>Tomates farcies au jambon et gouda</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 tomates</p>
+<p>450 g de dés de jambon</p>
+<p>450 g de gouda</p>
+<p>30 g de persil haché </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> le dessus des <ingredient action="couper" quantite="12"> tomates </ingredient> , et les <operation> vider </operation> . <operation ingredients="gouda"> couper </operation> le <ingredient action="couper" quantite="450 gramme"> gouda </ingredient> en petits cubes , puis les <operation ingredients="jambon;persil"> mélanger </operation> avec les dés de <ingredient action="mélanger"> jambon </ingredient> et le <ingredient action="mélanger" quantite="30 gramme"> persil </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="tomates"> mettre </operation> les <ingredient action="mettre" quantite="12"> tomates </ingredient> dans un plat à four , les <operation ingredients="gouda"> remplir </operation> avec le <operation> mélange </operation> de <ingredient action="remplir" quantite="450 gramme"> gouda </ingredient> et jambon . s' il en reste , le <operation ingredients="tomate"> mettre </operation> entre les <ingredient action="mettre" quantite="12"> tomate </ingredient> dans le plat . <operation> mettre </operation> au four à 180 <operation> ° </operation> c ( th 6 ) , pendant 45 min environ et servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

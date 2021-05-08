@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17318">
+<titre>BOEUF DIANE</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de paleron de boeuf</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>4 gousses d'ail écrasées</p>
+<p>1 oignon haché</p>
+<p>1 boîte de tomates pelées</p>
+<p>125 ml d'eau</p>
+<p>2 cubes de bouillon de boeuf</p>
+<p>2 cuillères à soupe de sauce Worcestershire</p>
+<p>125 ml de crème</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>1 cuillère à soupe de Cognac</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="viande"> coupez </operation> la <ingredient action="couper"> viande </ingredient> en cubes . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une sauteuse et <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter"> viande </ingredient> , en plusieurs fois si nécessaire , pour qu' elle soit dorée de toutes parts . <operation ingredients="ail;oignon"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , laissez <operation> fondre </operation> sans cesser de <operation> remuer </operation> . 2 ) <operation ingredients="tomates;bouillon;worcestershire;cognac"> ajoutez </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation ingredients="jus"> écrasées </operation> avec leur <ingredient action="écraser"> jus </ingredient> , l' eau , les cubes de <ingredient action="ajouter"> bouillon </ingredient> <operation> émiettés </operation> , la sauce <ingredient action="ajouter" quantite="2 cuillère à soupe"> worcestershire </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cognac </ingredient> . laissez <operation> mijoter </operation> à <operation> couvert </operation> pendant 1 h 30 . 3 ) <operation ingredients="crème;persil"> ajoutez </operation> la <ingredient action="ajouter"> crème </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> persil </ingredient> et laissez <operation> mijoter </operation> à <operation> découvert </operation> jusqu' à ce que la sauce ait épaissi . servez avec des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

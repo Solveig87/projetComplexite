@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69276">
+<titre>Salade de riz au pesto</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de riz complet</p>
+<p>1/2 bûche de chèvre frais</p>
+<p>4 carottes</p>
+<p>4 cuillères à soupes de pesto</p>
+<p>100 g de roquette</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> selon votre habitude et le laisser refroidir . <operation ingredients="carottes"> râper </operation> les <ingredient action="râper" quantite="4"> carottes </ingredient> . <operation ingredients="pesto;chèvre;riz"> mélanger </operation> le <ingredient action="mélanger" quantite="4 cuillère à soupe"> pesto </ingredient> et le <ingredient action="mélanger"> chèvre </ingredient> avec le <ingredient action="mélanger"> riz </ingredient> et <operation ingredients="carottes;roquette"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> carottes </ingredient> et la <ingredient action="ajouter" quantite="100 gramme"> roquette </ingredient> ! <operation ingredients="huile"> ajouter </operation> de l' <ingredient action="ajouter"> huile </ingredient> d' olive si besoin . <ingredient> salade </ingredient> simple à réaliser pour <operation ingredients="riz"> accommoder </operation> des restes de <ingredient action="accommoder"> riz </ingredient> . le <ingredient action="mêler" quantite="4 cuillère à soupe"> pesto </ingredient> et le <ingredient action="mêler"> chèvre </ingredient> se <operation ingredients="pesto;chèvre"> mêlent </operation> pour donner une sauce crémeuse .
+</preparation>
+</recette>

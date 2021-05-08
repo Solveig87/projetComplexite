@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55789">
+<titre>Joue de porc à la citronnelle</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de joue de porc</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>10 g de champignons noirs</p>
+<p>10 g de citronnelle séchée</p>
+<p>huile</p>
+<p>vin blanc</p>
+<p>sel et poivre</p>
+<p>sauce de soja</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> la joue de <ingredient> porc </ingredient> en lanières . faire <operation ingredients="champignons"> tremper </operation> les <ingredient action="tremper" quantite="10 gramme"> champignons </ingredient> noirs puis les <operation> couper </operation> . <operation ingredients="oignon"> ciseler </operation> l' <ingredient action="ciseler" quantite="2"> oignon </ingredient> et <operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> . faire <operation ingredients="porc;huile"> sauter </operation> la joue de <ingredient action="sauter"> porc </ingredient> dans une cocotte à feu vif dans un peu d' <ingredient action="sauter" quantite=""> huile </ingredient> . <operation ingredients="vin"> déglacer </operation> au <ingredient action="déglacer" quantite=""> vin </ingredient> blanc , <operation> saler </operation> , <operation> poivrer </operation> . dans une autre casserole , faire suer l' <ingredient quantite="2"> oignon </ingredient> , l' <ingredient> ail </ingredient> , la citronnelle séchée et les <ingredient quantite="10 gramme"> champignons </ingredient> noirs . <operation> mouiller </operation> avec la sauce de soja . <operation> mettre </operation> le tout ensemble , <operation> ajouter </operation> un peu d' eau et laisser <operation> cuire </operation> . quand la <ingredient> viande </ingredient> est bien tendre , stopper la cuisson . servir avec du <ingredient> riz </ingredient> parfumé . ce plat est meilleur <operation> réchauffé </operation> . on peut aussi <operation ingredients="légumes"> ajouter </operation> des <ingredient action="ajouter" quantite="2;10 gramme"> légumes </ingredient> <operation> coupés </operation> petit , selon la saison . <ingredient> carottes </ingredient> , navets en hiver ou courgettes en été .
+</preparation>
+</recette>

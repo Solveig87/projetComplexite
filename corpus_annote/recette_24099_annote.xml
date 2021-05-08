@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24099">
+<titre>Purée de céleri-rave aux raisins épicés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 boule de céleri rave</p>
+<p>2 à 3 pommes de terre (bintje)</p>
+<p>75 g de raisins de Corinthe</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>2 pincées de noix de muscade râpée</p>
+<p>1 pincée de mélange aux 4 épices</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins"> gonfler </operation> les <ingredient action="gonfler" quantite="75 gramme"> raisins </ingredient> de corinthe dans un bol d' eau tiède . <operation> peler </operation> et <operation ingredients="pommes;céleri"> détailler </operation> en petits cubes les <ingredient action="détailler" quantite="2"> pommes </ingredient> de terre et le <ingredient action="détailler"> céleri </ingredient> rave . <operation ingredients="légumes"> cuire </operation> les <ingredient action="cuire" quantite="2;3 cuillère à soupe"> légumes </ingredient> pendant 15 min à l' eau bouillante <operation> salée </operation> . les <operation> égoutter </operation> puis les <operation> passer </operation> au <operation> presse </operation> - purée et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="3 cuillère à soupe"> crème </ingredient> et bien <operation> mélanger </operation> le tout pour obtenir une purée bien crémeuse . <operation> mettre </operation> un plat de service à <operation> chauffer </operation> au four . y <operation ingredients="raisins"> verser </operation> les <ingredient action="verser" quantite="75 gramme"> raisins </ingredient> <operation> égouttés </operation> , puis parfumer de 2 pincées de <ingredient quantite="2 pincée"> noix </ingredient> de muscade et d' une de <operation> mélange </operation> aux 4 <ingredient quantite=";"> épices </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> ajouter </operation> la purée et <operation> mélanger </operation> le tout . déguster bien chaud . pour une purée plus douce et plus crémeuse , faire <operation ingredients="légumes;lait"> cuire </operation> les <ingredient action="cuire" quantite="2;3 cuillère à soupe"> légumes </ingredient> dans 1 litre de <ingredient action="cuire"> lait </ingredient> .
+</preparation>
+</recette>

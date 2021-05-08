@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94430">
+<titre>Glace à la madeleine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/4 de litre de lait</p>
+<p>4 jaunes d'oeufs</p>
+<p>120g de sucre en poudre</p>
+<p>20cl de crème liquide entière</p>
+<p>1 gousse de vanille</p>
+<p>4 madeleines (de 20-25g)</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> mettre </operation> les jaunes d' <ingredient action="mettre"> oeufs </ingredient> dans un grand bol . faire <operation ingredients="lait;sucre;gousse"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> , le <ingredient action="bouillir" quantite="120 gramme"> sucre </ingredient> et la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille fendue dans une casserole . <operation ingredients="lait;oeufs"> verser </operation> le <ingredient action="verser"> lait </ingredient> bouillant sur les jaunes d' <ingredient action="verser"> oeufs </ingredient> en <operation> fouettant </operation> vivement . laisser refroidir . <operation ingredients="crème"> monter </operation> la <ingredient action="monter" quantite="20cl"> crème </ingredient> en chantilly puis l' <operation> incorporer </operation> à la préparation . <operation ingredients="madeleines"> hacher </operation> 4 <ingredient action="hacher" quantite="4"> madeleines </ingredient> puis les <operation> incorporer </operation> dans la préparation . laissez <operation> congeler </operation> le tout en <operation> remuant </operation> régulièrement pour éviter l' apparition de cristaux . la <ingredient> glace </ingredient> peut se faire dans une sorbetière .
+</preparation>
+</recette>

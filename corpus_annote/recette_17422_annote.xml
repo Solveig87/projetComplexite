@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17422">
+<titre>Salade de fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fraises</p>
+<p>1 citron</p>
+<p>4 cuillères à soupe de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> laver </operation> les <ingredient action="laver" quantite="500 gramme"> fraises </ingredient> , les <operation> équeuter </operation> , les <operation> couper </operation> en deux et les <operation> mettre </operation> dans un saladier . <operation ingredients="jus;sucre"> verser </operation> dessus le <ingredient action="verser"> jus </ingredient> du citron et le <ingredient action="verser" quantite="4 cuillère à soupe"> sucre </ingredient> . <operation> mettre </operation> au réfrigérateur et laisser <operation> macérer </operation> au minimum une heure . déguster bien frais . on peut <operation ingredients="menthe;crème"> ajouter </operation> quelques feuilles de <ingredient action="ajouter"> menthe </ingredient> ou de la <ingredient action="ajouter"> crème </ingredient> liquide . un régal .
+</preparation>
+</recette>

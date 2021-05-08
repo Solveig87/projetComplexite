@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228966">
+<titre>Salade francfortoise</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 petites pommes de terre </p>
+<p>8 saucisses de Francfort</p>
+<p>4 œufs durs</p>
+<p>100 g de cornichons </p>
+<p>80 g de mayonnaise</p>
+<p>160 g de yaourt nature</p>
+<p>40 g de moutarde</p>
+<p>1 laitue pour décorer</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> faites </operation> <operation ingredients="œufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> œufs </ingredient> pendant 10 min et les <ingredient action="faire" quantite="12"> pommes </ingredient> de terre pendant 15 min . laissez refroidir . <operation ingredients="cornichons;saucisses"> coupez </operation> les <ingredient action="couper" quantite="100 gramme"> cornichons </ingredient> et les <ingredient action="couper" quantite="8"> saucisses </ingredient> en rondelles . <operation ingredients="assaisonnement"> préparez </operation> l' <ingredient action="préparer" quantite="80 gramme;40 gramme"> assaisonnement </ingredient> : <operation ingredients="mayonnaise"> mélangez </operation> <ingredient action="mélanger" quantite="80 gramme"> mayonnaise </ingredient> , yaourt et moutarde . <operation ingredients="salade"> préparez </operation> la <ingredient action="préparer"> salade </ingredient> : <operation ingredients="pommes"> coupez </operation> les <ingredient action="couper" quantite="12"> pommes </ingredient> de terre en rondelles . <operation> ajoutez </operation> - les aux <ingredient quantite="8"> saucisses </ingredient> et au <ingredient quantite="100 gramme"> cornichons </ingredient> . <operation ingredients="moutarde"> versez </operation> la sauce <ingredient action="verser" quantite="40 gramme"> moutarde </ingredient> par dessus et <operation> mélangez </operation> . <operation> répartissez </operation> ce <operation> mélange </operation> dans les assiettes . <operation ingredients="laitue;oeufs"> entourez </operation> de <ingredient action="entourer" quantite="1"> laitue </ingredient> <operation> ciselée </operation> et d' <ingredient action="entourer"> oeufs </ingredient> durs en tranches .
+</preparation>
+</recette>

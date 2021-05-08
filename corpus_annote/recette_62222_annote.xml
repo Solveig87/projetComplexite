@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62222">
+<titre>Coquilles Saints-Jacques Avranchaises</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>20 noix de saint-jacques</p>
+<p>20 g de beurre</p>
+<p>4 échalotes</p>
+<p>2 verres de cidre</p>
+<p>1 cuillère à café de farine</p>
+<p>1 tasse et demie de crème</p>
+<p>1 citron</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalotes"> couper </operation> les <ingredient action="couper" quantite="4"> échalotes </ingredient> finement . <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="20 gramme"> beurre </ingredient> dans une poële et faire <operation ingredients="échalotes"> dorer </operation> les <ingredient action="dorer" quantite="4"> échalotes </ingredient> 3 à 4 minutes puis <operation ingredients="noix;cidre"> ajouter </operation> les <ingredient action="ajouter" quantite="20"> noix </ingredient> de saint-jacques et le <ingredient action="ajouter" quantite="2 verre"> cidre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> une dizaine de minutes à peine . <operation> retirer </operation> les coquilles avec un écumoire et les <operation> mettre </operation> de côté . faire <operation ingredients="jus"> réduire </operation> un peu le <ingredient action="réduire"> jus </ingredient> . <operation ingredients="farine;crème"> délayer </operation> la <ingredient action="délayer" quantite="1 cuillère à café"> farine </ingredient> avec la <ingredient action="délayer"> crème </ingredient> et la <operation ingredients="jus"> verser </operation> dans le <ingredient action="verser"> jus </ingredient> . <operation> cuire </operation> 4 à 5 minutes à feu doux . <operation ingredients="jus"> ajouter </operation> les coquilles au <ingredient action="ajouter"> jus </ingredient> . <operation ingredients="jus"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> de citron et laisser un peu <operation> réchauffer </operation> avant de servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30675">
+<titre>Boulettes de boeuf au cumin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de boeuf haché</p>
+<p>2 cuillères à café de cumin</p>
+<p>3 gousses d'ail pilées</p>
+<p>25 cl de bouillon de viande</p>
+<p>1 pincée d'origan</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;ail;cumin;origan;sel;poivre"> malaxez </operation> la <ingredient action="malaxer" quantite="500 gramme"> viande </ingredient> avec l' <ingredient action="malaxer"> ail </ingredient> , le <ingredient action="malaxer" quantite="2 cuillère à café"> cumin </ingredient> , l' <ingredient action="malaxer" quantite="1 pincée"> origan </ingredient> , du <ingredient action="malaxer" quantite=""> sel </ingredient> et du <ingredient action="malaxer" quantite=""> poivre </ingredient> . <operation> façonnez </operation> 12 petites boulettes <operation> piquez </operation> - les sur des bâtonnets . faites <operation> cuire </operation> les brochettes au grill pendant environ 10 minutes en les <operation ingredients="bouillon"> arrosant </operation> de <ingredient action="arroser" quantite="25 cl"> bouillon </ingredient> de temps en temps . servez avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

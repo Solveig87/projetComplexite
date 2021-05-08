@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50851">
+<titre>Gratin de nouilles aux courgettes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de nouilles aux oeufs</p>
+<p>3 courgettes</p>
+<p>2 aubergines</p>
+<p>3 tomates</p>
+<p>huile d'olive</p>
+<p>4 oeufs</p>
+<p>150 g de parmesan</p>
+<p>sel</p>
+<p>piment de Cayenne</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="nouilles"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> nouilles </ingredient> à l' eau bouillante <operation> salée </operation> , puis <operation> égouttez </operation> . <operation ingredients="légumes;aubergines;chair"> lavez </operation> les <ingredient action="laver" quantite="2;3"> légumes </ingredient> , <operation> coupez </operation> les courgettes en rondelles , les <ingredient action="laver" quantite="2"> aubergines </ingredient> en dés et la <ingredient action="laver"> chair </ingredient> des tomates en petits morceaux . dans une casserole d' eau bouillante <operation> salée </operation> , <operation ingredients="aubergines"> mettez </operation> les courgettes et les <ingredient action="mettre" quantite="2"> aubergines </ingredient> à tour de rôle à <operation> blanchir </operation> 3 min chacune . <operation> egouttez </operation> - les , puis <operation ingredients="aubergines"> passez </operation> les <ingredient action="passer" quantite="2"> aubergines </ingredient> au <operation> mixer </operation> . dans un grand bol , <operation ingredients="oeufs"> battez </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> , <operation ingredients="aubergine;sel"> ajoutez </operation> - y la purée d' <ingredient action="ajouter" quantite="2"> aubergine </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et une pincée de cayenne . dans un plat à gratin bien <operation> huilé </operation> , <operation ingredients="aubergine;tomate"> disposez </operation> successivement des rondelles de courgettes , de la purée d' <ingredient action="disposer" quantite="2"> aubergine </ingredient> et de la concassée de <ingredient action="disposer" quantite="3"> tomate </ingredient> ; recommencez l' opération . <operation ingredients="nouilles"> recouvrez </operation> avec les <ingredient action="recouvrir" quantite="250 gramme"> nouilles </ingredient> , <operation ingredients="huile"> versez </operation> de l' <ingredient action="verser" quantite=""> huile </ingredient> dessus et <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="150 gramme"> parmesan </ingredient> . faites <operation> cuire </operation> au four , à 180 <operation> ° </operation> c ( th 6 ) , pendant 35 à 45 min , ou jusqu' à ce que le dessus soit ferme .
+</preparation>
+</recette>

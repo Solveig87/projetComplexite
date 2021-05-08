@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60266">
+<titre>Pain perdu au sirop d'érable</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>25 cl de lait</p>
+<p>12,5 cl de sirop d'érable</p>
+<p>3 cuillères à thé de cassonade </p>
+<p>cannelle au goût</p>
+<p>beurre</p>
+<p>6 tranches de pain rassis</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;lait;sirop"> mettez </operation> d' abord les <ingredient action="mettre" quantite="3"> oeufs </ingredient> , le <ingredient action="mettre" quantite="25 cl"> lait </ingredient> et le <ingredient action="mettre" quantite="12,5 cl"> sirop </ingredient> d' érable dans un bol assez grand pour accueillir une tranche de <ingredient quantite="6 tranche"> pain </ingredient> . après avoir bien <operation> mélangé </operation> , <operation ingredients="cassonade;cannelle"> rajoutez </operation> la <ingredient action="rajouter"> cassonade </ingredient> et la <ingredient action="rajouter" quantite=""> cannelle </ingredient> . ensuite , <operation ingredients="pain"> trempez </operation> bien une tranche de <ingredient action="trempez" quantite="6 tranche"> pain </ingredient> dans le <operation> mélange </operation> . dans une <operation> poêle </operation> , faites <operation ingredients="beurre"> fondre </operation> assez de <ingredient action="fondre"> beurre </ingredient> pour <operation> couvrir </operation> le fond . faites ensuite <operation ingredients="pain"> dorer </operation> des deux côtés la tranche de <ingredient action="dorer" quantite="6 tranche"> pain </ingredient> <operation> trempée </operation> . n' ayez pas peur de légèrement la brûler , cela donnera du croustillant à votre plat .
+</preparation>
+</recette>

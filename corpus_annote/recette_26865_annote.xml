@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26865">
+<titre>Haddock sauce crémeuse aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de filets de haddock</p>
+<p>225 g de champignons</p>
+<p>37.5 cl de lait</p>
+<p>150 g de crème fraîche</p>
+<p>poivre et muscade</p>
+</ingredients>
+<preparation>
+amenez le <ingredient> lait </ingredient> à <operation> ébullition </operation> avec du <ingredient> poivre </ingredient> et de la <ingredient> muscade </ingredient> ( pas de <ingredient> sel </ingredient> , le <ingredient> haddock </ingredient> est déjà très <ingredient> salé </ingredient> ) . <operation ingredients="poisson;champignons"> plongez </operation> le <ingredient action="plonger"> poisson </ingredient> et les <ingredient action="plonger" quantite="225 gramme"> champignons </ingredient> dans le liquide et laissez <operation> cuire </operation> 10 minutes à frémissement . <operation> egouttez </operation> et conservez au chaud . <operation ingredients="crème;jus"> versez </operation> la <ingredient action="verser" quantite="150 gramme"> crème </ingredient> dans le <ingredient action="verser"> jus </ingredient> de cuisson . servez le <ingredient> haddock </ingredient> avec la sauce .
+</preparation>
+</recette>

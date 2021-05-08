@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26606">
+<titre>Riz au poulet épicé et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gros poulet coupé en morceaux</p>
+<p>300 g de riz</p>
+<p>2 oignons</p>
+<p>1 boîte de tomates pelées</p>
+<p>4 gousses d'ail</p>
+<p>1 pincée de curry</p>
+<p>1 pincée de cannelle</p>
+<p>1/2 petite pincée de macis</p>
+<p>1 filet de jus de citron</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>100 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hachez </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> et faites - les <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="100 gramme"> beurre </ingredient> . <operation ingredients="poulet"> ajoutez </operation> les morceaux de <ingredient action="ajouter" quantite="1"> poulet </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> , laissez <operation> cuire </operation> 1 h à feu doux en mouillant avec un peu d' eau de temps en temps . <operation ingredients="poulet"> retirez </operation> le <ingredient action="retirer" quantite="1"> poulet </ingredient> de la cocotte et <operation> désossez </operation> - le . <operation> retirez </operation> également la peau . <operation ingredients="chair"> découpez </operation> la <ingredient action="découper"> chair </ingredient> en morceaux . <operation ingredients="chair;tomates;ail;épices"> remettez </operation> la <ingredient action="remettre"> chair </ingredient> de poulet dans la cocotte avec les <ingredient action="remettre"> tomates </ingredient> entières , l' <ingredient action="remettre"> ail </ingredient> <operation> écrasé </operation> , et les <ingredient action="remettre" quantite="4;1 pincée;1 pincée;;"> épices </ingredient> et laissez <operation> cuire </operation> 30 min . pendant ce temps , faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> à l' eau . <operation ingredients="crème;jus;poulet"> ajoutez </operation> la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> et un peu de <ingredient action="ajouter"> jus </ingredient> de citron dans la sauce au <ingredient action="ajouter" quantite="1"> poulet </ingredient> . <operation ingredients="riz"> egouttez </operation> le <ingredient action="egouttez" quantite="300 gramme"> riz </ingredient> et <operation> mélangez </operation> - le avec la sauce . servez bien chaud .
+</preparation>
+</recette>

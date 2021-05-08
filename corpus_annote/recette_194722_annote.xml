@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194722">
+<titre>Charlotte aux petits suisses et à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 biscuits roses de Reims</p>
+<p>8 petits suisses</p>
+<p>1 ananas</p>
+<p>kirsch</p>
+<p>sucre glace</p>
+<p>coulis de fruits rouges</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="sucre;glace"> battre </operation> les petits suisses avec un peu de <ingredient action="battre" quantite=""> sucre </ingredient> <ingredient action="battre"> glace </ingredient> . <operation ingredients="ananas"> couper </operation> l' <ingredient action="couper" quantite="1"> ananas </ingredient> en tranches fines . <operation ingredients="biscuits"> tremper </operation> les <ingredient action="tremper" quantite="12"> biscuits </ingredient> roses dans moitié kirsh , moitié eau et <operation> tapisser </operation> le <operation> moule </operation> à charlotte . <operation ingredients="ananas"> mettre </operation> une couche de petits suisses puis une couche d' <ingredient action="mettre" quantite="1"> ananas </ingredient> . <operation ingredients="biscuit;ananas"> mettre </operation> ensuite une couche de <ingredient action="mettre" quantite="12"> biscuit </ingredient> puis une couche de petits suisse et terminer avec le reste d' <ingredient action="mettre" quantite="1"> ananas </ingredient> . <operation> réserver </operation> au frais une nuit . servir avec le coulis de <ingredient quantite="1"> fruits </ingredient> rouges . cerdon
+</preparation>
+</recette>

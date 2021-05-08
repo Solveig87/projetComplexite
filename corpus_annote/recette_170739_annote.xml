@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170739">
+<titre>Haricots verts à la Feta</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de haricots verts</p>
+<p>200 g de feta</p>
+<p>4 oignons nouveaux</p>
+<p>60 g de pignons de pin</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe de vinaigre de xérès</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>basilic</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> equeuter </operation> et <operation ingredients="haricots"> laver </operation> les <ingredient action="laver" quantite="800 gramme"> haricots </ingredient> verts . les <operation> cuire </operation> à la vapeur 2 . 25 minutes . <operation ingredients="feta"> couper </operation> la <ingredient action="couper" quantite="200 gramme"> feta </ingredient> en dés . <operation ingredients="oignons"> nettoyer </operation> et <operation> émincer </operation> les <ingredient action="nettoyer" quantite="4"> oignons </ingredient> . <operation ingredients="pignons"> griller </operation> à sec les <ingredient action="griller" quantite="60 gramme"> pignons </ingredient> de pin . <operation ingredients="basilic"> rincer </operation> le <ingredient action="rincer" quantite=""> basilic </ingredient> et le <operation> ciseler </operation> . <operation ingredients="vinaigre"> mélanger </operation> dans un saladier : le <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> , l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;huile;sel;poivre"> pressé </operation> , l' <ingredient action="presser" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , le <ingredient action="presser" quantite=""> sel </ingredient> et le <ingredient action="presser"> poivre </ingredient> . <operation ingredients="haricots;feta;oignons;pignons"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> haricots </ingredient> verts , les dés de <ingredient action="ajouter" quantite="200 gramme"> feta </ingredient> , les <ingredient action="ajouter" quantite="4"> oignons </ingredient> et les <ingredient action="ajouter" quantite="60 gramme"> pignons </ingredient> . <operation> mélanger </operation> et servir frais .
+</preparation>
+</recette>

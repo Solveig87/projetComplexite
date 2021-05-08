@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30770">
+<titre>Courgettes bouillies aux épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 courgettes moyennes</p>
+<p>2 gousses d'ail</p>
+<p>1 citron</p>
+<p>4 cuillerées à soupe d'huile d'olive</p>
+<p>1 cuillerée à café de graines de cumin</p>
+<p>10 grains de coriandre</p>
+<p>2 cuillères à café de paprika</p>
+<p>1/2 cuillère à café de curry</p>
+<p>1/2 cuillère à soupe de gingembre en poudre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;épices"> porter </operation> à <operation> ébullition </operation> 50 cl d' eau avec l' <ingredient action="porter"> ail </ingredient> <operation> haché </operation> et toutes les <ingredient action="porter" quantite="2;2 cuillère à café;"> épices </ingredient> pendant 20 minutes . lorsque le <ingredient> bouillon </ingredient> d' épices est prêt , y <operation> plonger </operation> les courgettes et les laisser <operation> cuire </operation> 25 minutes . <operation> egoutter </operation> , <operation ingredients="citron"> arroser </operation> de <ingredient action="arroser" quantite="1"> citron </ingredient> et servir .
+</preparation>
+</recette>

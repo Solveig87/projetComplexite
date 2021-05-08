@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40613">
+<titre>Tomates farcies au concombre et surimi</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses tomates</p>
+<p>1 concombre</p>
+<p>1 salade</p>
+<p>12 bâtonnets de crabe</p>
+<p>4 oeufs durs</p>
+<p>mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> coupez </operation> une rondelle de <ingredient action="couper" quantite="4"> tomate </ingredient> , de façon à faire un petit chapeau , et évidez - la . <operation> epluchez </operation> le <operation action="concombre" ingredients="concombre;crabes"> concombre </operation> , puis <operation> coupez </operation> - le en rondelles fines . <operation ingredients="oeufs"> coupez </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> en rondelles , ainsi que les bâtonnets de <ingredient action="concombre"> crabes </ingredient> . <operation ingredients="salade"> lavez </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> , et <operation> effeuillez </operation> - la . <operation ingredients="tomates;concombres;oeufs;crabes;salade"> garnissez </operation> les <ingredient action="garnir" quantite="4"> tomates </ingredient> avec les rondelles de <ingredient action="garnir" quantite="1"> concombres </ingredient> , d' <ingredient action="garnir" quantite="4"> oeufs </ingredient> , de bâtonnets de <ingredient action="garnir"> crabes </ingredient> , et de belles feuilles de <ingredient action="garnir" quantite="1"> salade </ingredient> . vous ne pourrez pas tout <operation> mettre </operation> , c' est normal . prenez un plat , <operation ingredients="salade"> mettez </operation> - y la <ingredient action="mettre" quantite="1"> salade </ingredient> , les <ingredient quantite="4"> tomates </ingredient> , bien <operation> présentées </operation> et bien <operation> garnies </operation> . <operation ingredients="concombre;oeufs;crabe"> ajoutez </operation> les rondelles de <ingredient action="ajouter" quantite="1"> concombre </ingredient> , d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> et de bâtonnets de <ingredient action="ajouter"> crabe </ingredient> qu' il vous reste . il ne vous reste plus qu' à servir avec votre <ingredient quantite=""> mayonnaise </ingredient> . idéale quand on invite , cette recette plaît aux petits comme aux grands . vous pouvez <operation ingredients="crevettes"> changer </operation> la garniture : <ingredient action="changer"> crevettes </ingredient> , jambon etc. . .
+</preparation>
+</recette>

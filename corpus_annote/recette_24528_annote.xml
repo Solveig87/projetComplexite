@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24528">
+<titre>Filet de poulet au cidre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filets de poulet</p>
+<p>1 oignon</p>
+<p>1/2 bouteille de cidre</p>
+<p>thym</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> assez finement . <operation ingredients="poulets"> couper </operation> les filets de <ingredient action="couper"> poulets </ingredient> en morceaux . <operation ingredients="oignon;noix"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oignon </ingredient> dans une <ingredient action="cuire"> noix </ingredient> de beurre à feu assez fort . une fois l' <ingredient quantite="1"> oignon </ingredient> cuit , <operation ingredients="poulet"> ajouter </operation> les morceaux de <ingredient action="ajouter"> poulet </ingredient> . faire <operation ingredients="poulet"> revenir </operation> les morceaux de <ingredient action="revenir"> poulet </ingredient> , puis y <operation ingredients="cidre"> ajouter </operation> petit à petit le <ingredient action="ajouter"> cidre </ingredient> . il faut que le <ingredient> poulet </ingredient> prenne une couleur dorée et qu' il soit légèrement caramélisé . <operation ingredients="thym"> assaisonnez </operation> avec le <ingredient action="assaisonner" quantite=""> thym </ingredient> , sel et poivre . c' est extrêmement simple à faire et très bon .
+</preparation>
+</recette>

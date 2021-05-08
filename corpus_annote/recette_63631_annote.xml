@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63631">
+<titre>Gratin d'aubergines au massalé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 aubergines</p>
+<p>300 g de chair à saucisse</p>
+<p>1 oeuf</p>
+<p>5 cuillères à soupe de germe de blé (ou mie de pain)</p>
+<p>1 cuillère à soupe de massalé</p>
+<p>du coulis de tomate</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> trancher </operation> les <ingredient action="trancher" quantite="3"> aubergines </ingredient> dans la longueur . <operation ingredients="chair;oeuf;blé;massalé"> mélanger </operation> à la main la <ingredient action="mélanger" quantite="300 gramme"> chair </ingredient> à saucisse , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , le germe de <ingredient action="mélanger"> blé </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> massalé </ingredient> . dans un plat allant au four , <operation ingredients="aubergine;chair;aubergine"> disposer </operation> une couche d' <ingredient action="disposer" quantite="3"> aubergine </ingredient> , une couche de <ingredient action="disposer" quantite="300 gramme"> chair </ingredient> à saucisse , une couche d' <ingredient action="disposer" quantite="3"> aubergine </ingredient> . <operation ingredients="tomate"> recouvrir </operation> du coulis de <ingredient action="recouvrir"> tomate </ingredient> . <operation> mettre </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant une trentaine de minutes . pour les bons mangeurs , vous pouvez <operation ingredients="riz"> accompagner </operation> avec du <ingredient action="accompagner"> riz </ingredient> blanc .
+</preparation>
+</recette>

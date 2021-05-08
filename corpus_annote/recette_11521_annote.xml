@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11521">
+<titre>Pâtes caldosa (Espagne)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de sauté de porc</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>2 gousses d'ail</p>
+<p>500 g de coulis de tomates</p>
+<p>250 g de macaroni (ou autres...)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;huile"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> , <operation ingredients="poivrons"> verser </operation> les <ingredient action="verser"> poivrons </ingredient> <operation> découpés </operation> en lanières . <operation ingredients="poivrons"> laisser </operation> <operation> cuire </operation> les <ingredient action="laisser"> poivrons </ingredient> jusqu' à ce qu' ils soient tendres . <operation ingredients="ail"> ajouter </operation> alors l' <ingredient action="ajouter"> ail </ingredient> finement haché , <operation> remuer </operation> sans <operation ingredients="ail"> laisser </operation> <operation> brunir </operation> l' <ingredient action="laisser"> ail </ingredient> . <operation ingredients="tomates"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomates </ingredient> , et de l' eau de façon à <operation> recouvrir </operation> largement la préparation ( 2 à 3 litres ) . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> mijoter </operation> . au bout d' une vingtaine de <operation ingredients="macaroni"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> macaroni </ingredient> , laisser <operation> cuire </operation> une dizaine de minutes . ce plat se <operation> cuisine </operation> dans ma famille , qui est originaire du sud de l' espagne .
+</preparation>
+</recette>

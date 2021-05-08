@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58380">
+<titre>Côtes de porc façon Monique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de gingembre frais râpé</p>
+<p>4 cuillères à soupe de vinaigre balsamique</p>
+<p>1 cuillère à soupe de miel</p>
+<p>1 verre de vin roure (côtes du Rhône)</p>
+<p>Champignons de Paris</p>
+<p>sel, poivre</p>
+<p>Farine et beurre</p>
+<p>crème faîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="côtes;vin;miel"> macérer </operation> les <ingredient action="macérer"> côtes </ingredient> de porc dans un <operation> mélange </operation> <ingredient action="macérer" quantite="1 verre"> vin </ingredient> rouge , <ingredient action="macérer" quantite="1 cuillère à soupe"> miel </ingredient> , vinaigre balsamique et gingembre . faire <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> , après avoir <operation ingredients="côtes"> ôté </operation> les <ingredient action="ôter"> côtes </ingredient> de porc de la marinade . <operation ingredients="farine"> ajouter </operation> <ingredient action="ajouter" quantite=""> farine </ingredient> et beurre manié pour <operation> épaissir </operation> la sauce . <operation ingredients="côtelettes"> ajouter </operation> les <ingredient action="ajouter"> côtelettes </ingredient> <operation> grillées </operation> salées et <operation> poivrées </operation> . <operation> ajouter </operation> 3 cuillères à café de crème fraîche . servir chaud avec du <ingredient> riz </ingredient> . côtes du rhône
+</preparation>
+</recette>

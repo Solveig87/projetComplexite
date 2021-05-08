@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15653">
+<titre>Faisan au muscat</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 gros faisan</p>
+<p>4 verres de muscat</p>
+<p>2 échalotes</p>
+<p>lardons</p>
+<p>10 grains de raisins</p>
+<p>5 cuillères à soupe de crème</p>
+<p>1 carotte</p>
+</ingredients>
+<preparation>
+<operation ingredients="faisan"> couper </operation> en 4 morceaux le <ingredient action="couper" quantite="1"> faisan </ingredient> , puis le faire <operation ingredients="beurre;huile"> dorer </operation> dans du <ingredient action="dorer"> beurre </ingredient> et un peu d' <ingredient action="dorer"> huile </ingredient> . <operation ingredients="échalotes;carotte"> couper </operation> les <ingredient action="couper" quantite="2"> échalotes </ingredient> ainsi que la <ingredient action="couper" quantite="1"> carotte </ingredient> , <operation ingredients="lardons"> mettre </operation> dans la <operation> poêle </operation> les <ingredient action="mettre" quantite=""> lardons </ingredient> , la <ingredient action="laisser" quantite="1"> carotte </ingredient> en rondelles , les <ingredient action="laisser" quantite="2"> échalotes </ingredient> , puis <operation ingredients="carotte;échalotes"> laisser </operation> un peu <operation> dorer </operation> . <operation ingredients="muscat"> déglacer </operation> avec 4 verres de <ingredient action="déglacer" quantite="4 verre"> muscat </ingredient> . <operation> placer </operation> le tout dans une cocotte et laisser <operation> cuire </operation> 35 mn environ . a la fin de cuisson , <operation ingredients="maizena"> mettre </operation> un peu de <ingredient action="mettre"> maizena </ingredient> <operation> mélangée </operation> à un peu d' eau ( pour <operation> lier </operation> ) , puis <operation> assaisonner </operation> et <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="5 cuillère à soupe"> crème </ingredient> fraîche . <ingredient> vin </ingredient> du pays d' oc blanc ou <ingredient quantite="4 verre"> muscat </ingredient>
+</preparation>
+</recette>

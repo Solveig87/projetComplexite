@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41803">
+<titre>Poulet aux légumes sautés et au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets (ou escalopes) de poulet</p>
+<p>2 poivrons rouges</p>
+<p>1 aubergine</p>
+<p>2 oignons</p>
+<p>2 courgettes</p>
+<p>3/4 de bûche de chèvre</p>
+<p>20 cl de coulis de tomates</p>
+<p>20 cl de crème fraîche liquide légère</p>
+<p>sel, poivre, (herbes de provence)</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;oignons;aubergine"> laver </operation> les <ingredient action="laver"> poivrons </ingredient> , courgettes , <ingredient action="laver" quantite="2"> oignons </ingredient> et l' <ingredient action="laver" quantite="1"> aubergine </ingredient> et les <operation> découper </operation> en dés ou lamelles . les faire <operation ingredients="huile"> revenir </operation> dans une sauteuse à l' <ingredient action="revenir"> huile </ingredient> d' olive avec un couvercle . <operation> saler </operation> , <operation> poivrer </operation> , <operation> ajouter </operation> les herbes de provence . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en cubes et les <operation ingredients="tomates;crème"> rajouter </operation> à la préparation , avec le coulis de <ingredient action="rajouter"> tomates </ingredient> et la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> fraîche , tout en <operation> remuant </operation> . au bout de 10 min , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> de chèvre <operation> coupé </operation> en morceau et laisser <operation> cuire </operation> à feu doux 2 min en <operation> mélangeant </operation> . c' est prêt ! <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

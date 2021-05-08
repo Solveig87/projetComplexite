@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36542">
+<titre>Jambon poêlé sucré salé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de jambon</p>
+<p>2 cuillères à café de pomme</p>
+<p>2 noix de beurre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> du <ingredient action="fondre"> beurre </ingredient> dans votre <operation> poêle </operation> . <operation ingredients="jambon"> mettez </operation> - y une tranche de <ingredient action="mettre" quantite="2 tranche"> jambon </ingredient> . laisser <operation> dorer </operation> 1 min . <operation ingredients="jambon"> retournez </operation> la tranche de <ingredient action="retourner" quantite="2 tranche"> jambon </ingredient> . laissez <operation> dorer </operation> 1 min en étalant pendant ce temps une cuillère à café de gelée de pomme sur le côté déjà cuit . <operation> versez </operation> dans l' assiette et dégustez . vous pouvez remplacer la <ingredient> gelée </ingredient> de pomme par du <ingredient> sirop </ingredient> d' érable , ou toute autre <ingredient> gelée </ingredient> . les enfants sont ravis .
+</preparation>
+</recette>

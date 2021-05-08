@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14290">
+<titre>Pêche au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de thon</p>
+<p>25 g de mayonnaise</p>
+<p>2 pêches</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="pêches"> coupez </operation> les <ingredient action="couper" quantite="2"> pêches </ingredient> en 2 . <operation ingredients="thon;mayonnaise;pêche"> mélangez </operation> le <ingredient action="mélanger" quantite="250 gramme"> thon </ingredient> et la <ingredient action="mélanger" quantite="25 gramme"> mayonnaise </ingredient> , puis <operation> disposez </operation> - les sur chaque moitié de <ingredient action="mélanger" quantite="2"> pêche </ingredient> . sucr . <ingredient> salé </ingredient> surprenant , masi quel régal ! a essayer absolument .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82625">
+<titre>Pâte brocoli, saumon, fromage ail et fines herbes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de pâtes (fusilis, coquillettes...)</p>
+<p>3 tranches de saumon fumé</p>
+<p>200 g de brocoli</p>
+<p>60 g de fromage ail et fines herbes</p>
+<p>2 cuillères à soupe de lait</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> brocolis </ingredient> et <operation> mettre </operation> à <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="100 gramme"> pâtes </ingredient> . <operation ingredients="fromage;lait"> mélanger </operation> le <ingredient action="mélanger" quantite="60 gramme"> fromage </ingredient> avec le <ingredient action="mélanger" quantite="2 cuillère à soupe"> lait </ingredient> et faire <operation> chauffer </operation> . <operation ingredients="saumon"> détailler </operation> le <ingredient action="détailler"> saumon </ingredient> en lanières . <operation> mélanger </operation> le tout et servir de suite . attention , plus le <ingredient quantite="60 gramme"> fromage </ingredient> est de qualité , mieux c' est . . . attention à certains qui ont moins de goût ! ! ! bon ap ' . . .
+</preparation>
+</recette>

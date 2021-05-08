@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42507">
+<titre>Soupe au chou-fleur, carotte et cumin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 chou-fleur</p>
+<p>3 carottes</p>
+<p>un bouillon de légumes</p>
+<p>cumin</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> mettre </operation> à <operation ingredients="bouillon;chou-fleur;carottes"> cuire </operation> dans 600 ml d' eau et un <ingredient action="cuire" quantite="1"> bouillon </ingredient> de légumes , le demi <ingredient action="cuire"> chou-fleur </ingredient> et les 3 <ingredient action="cuire" quantite="3"> carottes </ingredient> <operation> épluchées </operation> et <operation> découpées </operation> en morceaux grossiers . laisser <operation> cuire </operation> 1 / 2 heure à feu doux et <operation> couvert </operation> , puis <operation> mixer </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="cumin"> rajouter </operation> du <ingredient action="rajouter" quantite=""> cumin </ingredient> à votre convenance .
+</preparation>
+</recette>

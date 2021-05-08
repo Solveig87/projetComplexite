@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70041">
+<titre>Papillote de saumon au fenouil</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 fenouil</p>
+<p>1 pavé de saumon</p>
+<p>2 feuilles de basilic</p>
+<p>graines de sésame</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil"> emincez </operation> votre <ingredient action="emincez" quantite="1"> fenouil </ingredient> en morceaux . <operation ingredients="pavé"> disposez </operation> votre <ingredient action="disposer" quantite="1"> pavé </ingredient> de saumon sur une feuille de papier cuisson , puis <operation ingredients="fenouil"> rajoutez </operation> le <ingredient action="rajouter" quantite="1"> fenouil </ingredient> sur les côtés . <operation ingredients="sésame"> saupoudrez </operation> le tout de graines de <ingredient action="saupoudrer"> sésame </ingredient> . <operation ingredients="basilic"> ciselez </operation> le <ingredient action="ciseler" quantite="2 feuille"> basilic </ingredient> et <operation ingredients="pavé"> saupoudrez </operation> - le sur le <ingredient action="saupoudrer" quantite="1"> pavé </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="huile;vinaigre"> arrosez </operation> le tout d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et d' un filet de <ingredient action="arroser" quantite=""> vinaigre </ingredient> balsamique pour un goût <operation> sucré </operation> délicieux . <operation> refermez </operation> la papillote et <operation> mettez </operation> 5 minutes au micro-ondes . bon appétit ! délicieux , rapide , pas de vaisselle , que demander de plus ?
+</preparation>
+</recette>

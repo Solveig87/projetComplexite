@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225250">
+<titre>Gâteau de patate douce de ma maman</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de patate douce</p>
+<p>200g de sucre</p>
+<p>4 oeufs </p>
+<p>1 jaune d'oeuf pour dorer</p>
+<p>100 g de farine</p>
+<p>1 gousse de vanille</p>
+<p>7 cl de liqueur anisée (facultatif) </p>
+<p>200 g de beurre.</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="patates"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> patates </ingredient> à l' eau durant 30 minutes , les <operation> éplucher </operation> et les <operation> mixer </operation> . <operation ingredients="œufs;sucre"> battre </operation> les <ingredient action="battre"> œufs </ingredient> avec le <ingredient action="battre" quantite="200 gramme"> sucre </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> faire <operation ingredients="beurre"> ramollir </operation> le <ingredient action="ramollir" quantite="200 gramme"> beurre </ingredient> puis l' <operation> ajouter </operation> parfumer avec la <ingredient quantite="1"> gousse </ingredient> de vanille fendue en deux et la <ingredient quantite="7 cl"> liqueur </ingredient> . <operation ingredients="patates"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> patates </ingredient> <operation> mixées </operation> et bien <operation> mélanger </operation> le tout . <operation> verser </operation> dans un <operation> moule </operation> à manqué beurré . <operation ingredients="oeuf"> dorer </operation> avec le jaune d' <ingredient action="dorer" quantite="4"> oeuf </ingredient> <operation> battu </operation> . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 45 minutes . régalez vous . c' est un <ingredient quantite="200 gramme"> dessert </ingredient> très consistant , après un repas léger c' est plus agréable ou au <operation> goûter </operation> .
+</preparation>
+</recette>

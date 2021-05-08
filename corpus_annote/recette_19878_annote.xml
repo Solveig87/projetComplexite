@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19878">
+<titre>Manqué aux pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g beurre</p>
+<p>200 g sucre</p>
+<p>1 sachet sucre vanillé</p>
+<p>4 oeufs</p>
+<p>300 g farine</p>
+<p>1 sachet levure</p>
+<p>50 g poudre d’amande</p>
+<p>12.5 cl de lait</p>
+<p>2 pommes</p>
+<p>cannelle</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> . <operation ingredients="beurre;lait;amande"> mélanger </operation> <ingredient action="mélanger"> beurre </ingredient> <operation ingredients="sucre;cannelle"> fondu </operation> , <ingredient action="fondre" quantite="200 gramme"> sucre </ingredient> , sucre vanillé , <ingredient action="fondre" quantite=""> cannelle </ingredient> , oeufs entiers , <ingredient action="mélanger"> lait </ingredient> , <operation> poudre </operation> d’ <ingredient action="mélanger"> amande </ingredient> , farine et levure . dans un <operation> moule </operation> à manqué , <operation ingredients="pâte"> mettre </operation> la moitié de la <ingredient action="mettre"> pâte </ingredient> . <operation ingredients="pommes"> disposer </operation> les morceaux de <ingredient action="disposer" quantite="2"> pommes </ingredient> dessus , <operation> coupés </operation> en petits cubes . <operation ingredients="pâte"> mettre </operation> le reste de <ingredient action="mettre"> pâte </ingredient> . <operation> cuire </operation> 50 min sur 18 . 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation> couvrir </operation> avec du papier aluminium au bout de 35 min de cuisson .
+</preparation>
+</recette>

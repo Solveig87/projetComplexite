@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59351">
+<titre>Tagliatelles au curry, hachis et champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tagliatelles (fraîches ou non)</p>
+<p>1 petit ravier de champignons blancs</p>
+<p>250 g de hachis de porc ou de veau (ou autre)</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>curry en poudre</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> <operation> émincés </operation> et l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;huile"> pressé </operation> dans un peu d' <ingredient action="presser" quantite=""> huile </ingredient> d' olive . <operation> ajouter </operation> le hachis , laisser <operation> cuire </operation> un peu . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> <operation> coupés </operation> en lamelles . laisser <operation> cuire </operation> le tout jusqu' à ce que le hachis et les <ingredient action="cuire"> champignons </ingredient> soient bien <operation ingredients="champignons"> cuits </operation> , <operation> saler </operation> et <operation> poivrer </operation> . en fin de cuisson , <operation ingredients="crème;curry"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et le <ingredient action="ajouter" quantite=""> curry </ingredient> à volonté . vérifier l' <ingredient quantite="1;;;"> assaisonnement </ingredient> et servir sur les <ingredient quantite="250 gramme"> tagliatelles </ingredient> . c' est aussi très bon avec des <ingredient> farfalles </ingredient> !
+</preparation>
+</recette>

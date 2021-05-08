@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94705">
+<titre>Risotto de cornettes au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de cornettes</p>
+<p>30 g beurre</p>
+<p>2 cuillères à soupe d'huile d’olive</p>
+<p>1 oignon</p>
+<p>10 cl vin blanc</p>
+<p>1 litre de bouillon de volaille</p>
+<p>120 g parmesan râpé</p>
+<p>150 g de chorizo</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon"> mettre </operation> les cornettes et le <ingredient action="mettre" quantite="1 litre"> bouillon </ingredient> dans une casserole à feu doux . pendant que le <ingredient quantite="1 litre"> bouillon </ingredient> <operation> chauffe </operation> et diminue de quantité , <operation ingredients="oignon"> hacher </operation> l’ <ingredient action="hacher" quantite="1"> oignon </ingredient> et <operation ingredients="chorizo"> couper </operation> le <ingredient action="couper" quantite="150 gramme"> chorizo </ingredient> en rondelle . <operation ingredients="vin;huile;beurre;oignon"> rajouter </operation> le <ingredient action="rajouter" quantite="10 cl"> vin </ingredient> , l’ <ingredient action="rajouter" quantite="2 cuillère à soupe"> huile </ingredient> , le <ingredient action="rajouter"> beurre </ingredient> et l’ <ingredient action="rajouter" quantite="1"> oignon </ingredient> dans la casserole . une fois que le <ingredient quantite="1 litre"> bouillon </ingredient> à presque disparu <operation ingredients="parmesan;chorizo"> rajouter </operation> le <ingredient action="rajouter" quantite="120 gramme"> parmesan </ingredient> et enfin le <ingredient action="rajouter" quantite="150 gramme"> chorizo </ingredient> .
+</preparation>
+</recette>

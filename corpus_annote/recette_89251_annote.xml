@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89251">
+<titre>Poulet caramélisé aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros poulet coupé en morceaux( ou 6 cuisses avec haut de cuisses)</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>6 poivrons (3 rouges + 3 jaunes)</p>
+<p>4 gousses d'ail</p>
+<p>2 cuillères à soupe de sucre </p>
+<p>2 cuillères à café de cumin en poudre</p>
+<p>1 cuillère à café de paprika</p>
+<p>1 pincée de piment d'espelette( facultatif)</p>
+<p>2 cuillères à café d'origan</p>
+<p>2 cuillères à soupe de vinaigre balsamique</p>
+<p>15 olives noires</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> et <operation ingredients="poulet"> poivrez </operation> les morceaux de <ingredient action="poivrer" quantite="1"> poulet </ingredient> . faites - les <operation ingredients="huile"> dorer </operation> à feu vif dans une cocotte avec l' <ingredient action="dorer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . pendant ce temps , <operation ingredients="poivrons"> lavez </operation> , <operation> épépinez </operation> et <operation> coupez </operation> les <ingredient action="laver" quantite="6"> poivrons </ingredient> en 8 lanières verticales . <operation ingredients="gousses"> pelez </operation> les <ingredient action="peler" quantite="4"> gousses </ingredient> d' ail et <operation> coupez </operation> - les en lamelles épaisses . lorsque le <ingredient quantite="1"> poulet </ingredient> est bien doré , <operation> réservez </operation> - le dans un plat et faites <operation ingredients="poivrons;ail"> dorer </operation> les <ingredient action="dorer" quantite="6"> poivrons </ingredient> et l' <ingredient action="dorer"> ail </ingredient> à sa <operation> place </operation> pendant 10 minutes en <operation> remuant </operation> souvent . <operation ingredients="sucre"> ajoutez </operation> <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> , sel , poivre , cumin et origan . laissez caraméliser 10 minutes . <operation ingredients="vinaigre"> versez </operation> le <ingredient action="verser" quantite="2 cuillère à soupe"> vinaigre </ingredient> et <operation ingredients="poulet"> remettez </operation> les morceaux de <ingredient action="remettre" quantite="1"> poulet </ingredient> dans la cocotte . <operation> remuez </operation> bien , <operation> couvrez </operation> et laisser <operation> cuire </operation> 30 minutes à feu doux . au bout de ce temps , <operation ingredients="olives"> ajoutez </operation> les <ingredient action="ajouter" quantite="15"> olives </ingredient> et poursuivez la cuisson 10 minutes .
+</preparation>
+</recette>

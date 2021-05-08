@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17598">
+<titre>Poulet aux abricots et au riz crémeux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 pilons de poulet</p>
+<p>2 cuillères à soupe d'huile </p>
+<p>2 gros oignons en tranches épaisses</p>
+<p>2 cuillères à café de gingembre râpé</p>
+<p>2 gousses d'ail pilées</p>
+<p>3 branches de céleri coupées finement</p>
+<p>425g de nectar d'abricots</p>
+<p>250 ml d'eau</p>
+<p>1 sachet de soupe à l'oignon (40g)</p>
+<p>200 g de riz rond</p>
+</ingredients>
+<preparation>
+otez et <operation ingredients="poulet"> jetez </operation> la peau du <ingredient action="jeter"> poulet </ingredient> . faites <operation ingredients="huile"> chauffer </operation> la moitié de l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une grande <operation> poêle </operation> . faites <operation ingredients="poulet"> cuire </operation> le <ingredient action="cuire"> poulet </ingredient> en petites quantités jusqu' à ce qu' il soit bien doré . <operation> egouttez </operation> - le sur du papier absorbant . <operation ingredients="huile"> mettez </operation> le reste de l' <ingredient action="mettre" quantite="2 cuillère à soupe"> huile </ingredient> dans la <operation> poêle </operation> . <operation ingredients="oignon"> faites </operation> <operation> rissoler </operation> l' <ingredient action="faire" quantite="2"> oignon </ingredient> , le <ingredient> gingembre </ingredient> , l' <ingredient> ail </ingredient> et le <ingredient> céleri </ingredient> en <operation ingredients="oignon;céleri"> remuant </operation> 10 minutes environ ou jusqu' à ce que l' <ingredient action="remuer" quantite="2"> oignon </ingredient> et le <ingredient action="remuer"> céleri </ingredient> soient légèrement dorés . <operation ingredients="poulet;nectar;soupe"> remettez </operation> le <ingredient action="remettre"> poulet </ingredient> dans la <operation> poêle </operation> avec le <ingredient action="remettre" quantite="425 gramme"> nectar </ingredient> d' abricots , l' eau et la <ingredient action="remettre"> soupe </ingredient> en <operation> poudre </operation> . <operation> portez </operation> à <operation> ébullition </operation> . laisser <operation> mijoter </operation> 10 minutes à <operation> couvert </operation> . <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> . laissez <operation> cuire </operation> , sans <operation> couvrir </operation> , encore 30 minutes en <operation> remuant </operation> de temps en temps .
+</preparation>
+</recette>

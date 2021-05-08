@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14556">
+<titre>Moussaka</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de  viande hachée</p>
+<p>800 g de pommes de terre</p>
+<p>150 g d'huile</p>
+<p>200 g de tomates</p>
+<p>4 oeufs</p>
+<p>300 g de lait</p>
+<p>sel, poivre, poivre noir, thym</p>
+</ingredients>
+<preparation>
+on <operation ingredients="viande"> met </operation> la <ingredient action="mettre" quantite="500 gramme"> viande </ingredient> dans un plat à four et on fait <operation ingredients="huile"> frire </operation> avec l' <ingredient action="frire" quantite="150 gramme"> huile </ingredient> pendant dix minutes . on ajoute les <ingredient quantite="800 gramme"> pommes </ingredient> de terre <operation> coupées </operation> en petits cubes pour les <operation> frire </operation> pendant encore dix minutes . après avoir <operation ingredients="épices"> ajouté </operation> les <ingredient action="ajouter" quantite="150 gramme;;;"> épices </ingredient> , on ajoute de l' eau chaude ( un grand verre ) et on laisse le plat <operation> cuire </operation> pendant vingt minutes . pendant ce temps , on <operation> prépare </operation> le <operation> mélange </operation> à <operation> napper </operation> qui est <operation ingredients="oeufs;lait"> composé </operation> des <ingredient action="composer" quantite="4"> oeufs </ingredient> et du <ingredient action="composer" quantite="300 gramme"> lait </ingredient> . on <operation> verse </operation> le <operation> mélange </operation> et on <operation> éteint </operation> le four . on y laisse le plat jusqu' à ce que ça cesse de <operation> cuire </operation> . <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

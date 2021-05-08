@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221221">
+<titre>Douceurs au citron</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 citron</p>
+<p>25 cl de crème fraîche fleurette</p>
+<p>60 g de sucre</p>
+<p>4 morceaux de sucre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et séchez le <ingredient quantite="1"> citron </ingredient> . <operation> prélevez </operation> le zeste avec une <operation> râpe </operation> . <operation ingredients="jus"> pressez </operation> le <ingredient action="presser"> jus </ingredient> . dans une casserole , <operation ingredients="crème;sucre"> portez </operation> à <operation> ébullition </operation> la <ingredient action="porter" quantite="25 cl"> crème </ingredient> fraiche avec le <ingredient action="porter" quantite="60 gramme"> sucre </ingredient> . laissez <operation> mijoter </operation> à feu doux 3 min . <operation ingredients="jus"> ajoutez </operation> le <ingredient action="ajouter"> jus </ingredient> de citron . <operation> mélangez </operation> . <operation ingredients="crème"> répartissez </operation> la <ingredient action="répartir" quantite="25 cl"> crème </ingredient> dans des petits contenants . <operation ingredients="sucre"> faites </operation> <operation> bouillir </operation> les zestes dans une casserole avec les morceaux de <ingredient action="faire" quantite="60 gramme"> sucre </ingredient> et 10 cl d' eau . <operation> portez </operation> à <operation> ébullition </operation> 5 min . <operation> égouttez </operation> - les . <operation ingredients="crèmes"> parsemez </operation> les <ingredient action="parsemer" quantite="25 cl"> crèmes </ingredient> de zestes . <operation> mettez </operation> au réfrigérateur 3 heures .
+</preparation>
+</recette>

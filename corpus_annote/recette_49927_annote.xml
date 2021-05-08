@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49927">
+<titre>Filets de Saint-Pierre à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets de Saint-Pierre</p>
+<p>1 petit pot de crème fraîche</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+<p>1 petite boîte champignons</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saint-pierre;noix"> cuire </operation> dans une <operation> poêle </operation> ( à feu doux ) les filets de <ingredient action="cuire"> saint-pierre </ingredient> , dans une <ingredient action="cuire"> noix </ingredient> de beurre . quand les filets sont <operation> cuits </operation> , <operation ingredients="crème;champignons"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche , et ensuite les <ingredient action="ajouter"> champignons </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> , puis <operation ingredients="noix"> ajouter </operation> un peu de <ingredient action="ajouter"> noix </ingredient> de muscade . déguster ce plat avec une bonne purée , c' est un régal .
+</preparation>
+</recette>

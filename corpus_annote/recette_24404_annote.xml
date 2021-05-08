@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24404">
+<titre>Chou rouge aux marrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou rouge</p>
+<p>2 oignons</p>
+<p>1 kg de marrons frais (1 grande boîte de marrons entiers)</p>
+<p>1 cuillère à soupe de graisse d'oie</p>
+<p>300 g de lard fumé</p>
+<p>1/2 cube de bouillon</p>
+<p>20 cl d'eau chaude</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>2 clous de girofle</p>
+<p>thym, laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> , <operation ingredients="chou"> laver </operation> le <ingredient action="laver" quantite="1"> chou </ingredient> puis le <operation> couper </operation> en fines lanières . <operation ingredients="lard"> détailler </operation> le <ingredient action="détailler"> lard </ingredient> en lardons . <operation> peler </operation> , <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> . faire <operation ingredients="graisse"> revenir </operation> tous ces ingrédients dans une cocotte dans la <ingredient action="revenir" quantite="1 cuillère à soupe"> graisse </ingredient> d' oie . <operation> saler </operation> , <operation> poivrer </operation> et y <operation ingredients="thym;laurier"> ajouter </operation> les clous de girofle avec le <ingredient action="ajouter" quantite=""> thym </ingredient> et le <ingredient action="ajouter" quantite=""> laurier </ingredient> . <operation ingredients="bouillon;vinaigre"> arroser </operation> le tout de <ingredient action="arroser"> bouillon </ingredient> ( cube et eau ) et de <ingredient action="arroser" quantite="2 cuillère à soupe"> vinaigre </ingredient> , puis laisser <operation> mijoter </operation> 1 h à feu doux à <operation> couvert </operation> . pendant ce temps , <operation ingredients="marrons"> préparer </operation> les <ingredient action="préparer"> marrons </ingredient> : les <operation> plonger </operation> dans un bain d' eau bouillante pendant 3 min environ , puis les <operation> éplucher </operation> . les <operation> incorporer </operation> ensuite au reste de la préparation après 1 h de cuisson , et poursuivre la cuisson à feu très doux pendant 1 h environ .
+</preparation>
+</recette>

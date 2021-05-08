@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28137">
+<titre>Pommes de terre aux anchois en salade</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>12 filets d'anchois à l'huile</p>
+<p>1 verre de vin blanc sec</p>
+<p>4 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>2 cuillères à soupe de ciboulette hachée</p>
+<p>1 cuillère à soupe de thym</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre de Xeres</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau bouillante <operation> salée </operation> ou à la vapeur environ 30 min . <operation ingredients="vin;échalotes;thym"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="1 verre"> vin </ingredient> blanc avec les <ingredient action="faire" quantite="4"> échalotes </ingredient> hachées et le <ingredient action="faire" quantite="1 cuillère à soupe"> thym </ingredient> 10 min . <operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> de terre en dés . <operation ingredients="vin"> versez </operation> aussitôt le <ingredient action="verser" quantite="1 verre"> vin </ingredient> <operation> chauffé </operation> et <operation> mélangez </operation> délicatement . <operation ingredients="ail;ciboulette;vinaigre;huile"> préparez </operation> la vinoagrette avec l' <ingredient action="préparer"> ail </ingredient> <operation> pressé </operation> , la <ingredient action="préparer" quantite="2 cuillère à soupe"> ciboulette </ingredient> , le <ingredient action="préparer" quantite="1 cuillère à soupe"> vinaigre </ingredient> , l' <ingredient action="préparer" quantite="4 cuillère à soupe"> huile </ingredient> , sel et poivre . <operation ingredients="anchois;pommes"> disposez </operation> les filets d' <ingredient action="disposer"> anchois </ingredient> sur les <ingredient action="disposer" quantite="1 kilogramme"> pommes </ingredient> de terre , <operation> versez </operation> la sauce et servez .
+</preparation>
+</recette>

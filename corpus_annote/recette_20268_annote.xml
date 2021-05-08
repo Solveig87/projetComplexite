@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20268">
+<titre>Curry de porc aux pêches</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de pointe de porc sans os</p>
+<p>1 boîte 4/4 de pêches au sirop</p>
+<p>200 g de riz</p>
+<p>50 g noix de cajou</p>
+<p>2 oignons</p>
+<p>2 tomates</p>
+<p>2 c à soupe de curry</p>
+<p>2 tablettes de bouillon</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>100 g crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="50 gramme"> viande </ingredient> en petits dés et la faire <operation ingredients="oignons"> revenir </operation> avec les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer"> curry </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> épluchées </operation> et <operation> coupées </operation> en dés ; <operation ingredients="bouillon"> mouiller </operation> avec 1 litre de <ingredient action="mouiller"> bouillon </ingredient> . faire <operation> bouillir </operation> et laisser <operation> mijoter </operation> 45 mn à demi-couvert et feu doux . <operation ingredients="riz"> préparer </operation> le <ingredient action="préparer" quantite="200 gramme"> riz </ingredient> , y <operation ingredients="noix"> mélanger </operation> les <ingredient action="mélanger" quantite="50 gramme"> noix </ingredient> de cajou <operation> grillées </operation> à sec . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer" quantite="50 gramme"> viande </ingredient> et la <operation> disposer </operation> dans un plat creux . <operation> passer </operation> la sauce au tamis et la faire <operation ingredients="sirop"> réduire </operation> avec 3 cuillères de <ingredient action="réduire"> sirop </ingredient> de pêche . faire <operation ingredients="pêches;crème"> chauffer </operation> les <ingredient action="chauffer"> pêches </ingredient> dans la sauce avec la <ingredient action="chauffer" quantite="100 gramme"> crème </ingredient> fraîche et les <operation ingredients="viande"> verser </operation> sur la <ingredient action="verser" quantite="50 gramme"> viande </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38894">
+<titre>Noix de Saint-Jacques crème de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 noix de Saint-Jacques</p>
+<p>20 cl de crème de coco</p>
+<p>1 cuillère à café de curry</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>feuilles de coriandre </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="noix"> dorer </operation> les <ingredient action="dorer" quantite="12"> noix </ingredient> de saint-jacques à la <operation> poêle </operation> dans une cuillerée à soupe d' huile d' olive . <operation ingredients="noix"> réservez </operation> les <ingredient action="réserver" quantite="12"> noix </ingredient> et <operation ingredients="crème;curry;coriandre;sel"> mettre </operation> dans la <operation> poêle </operation> la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> de coco , avec le <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> , des feuilles de <ingredient action="mettre"> coriandre </ingredient> <operation> émincées </operation> , <ingredient action="mettre" quantite=""> sel </ingredient> et poivre . bien <operation ingredients="crème"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> et y <operation ingredients="noix"> remettre </operation> les <ingredient action="remettre" quantite="12"> noix </ingredient> de saint-jacques , laisser <operation> frémir </operation> 5 min . servir avec des <ingredient> tagliatelles </ingredient> ou du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

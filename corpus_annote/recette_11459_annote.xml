@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11459">
+<titre>Fondant au chocolat délicieux</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de chocolat</p>
+<p>250 g de beurre</p>
+<p>250 g de sucre</p>
+<p>5 oeufs</p>
+<p>2 cuillères à farine rase de farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="250 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="300 gramme"> chocolat </ingredient> à feu doux , et <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> sucre </ingredient> . bien <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="5"> oeufs </ingredient> entiers , et les <operation ingredients="chocolat"> insérer </operation> ensuite dans le <operation> mélange </operation> au <ingredient action="insérer" quantite="300 gramme"> chocolat </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> et bien <operation> mélanger </operation> le tout . <operation> verser </operation> dans un <operation> moule </operation> à gâteau beurré . laisser <operation> cuire </operation> au four à 160 <operation> ° </operation> c ( th . 6 ) , pendant 30 min environ . plus digeste avec une <ingredient action="sucrer"> crème </ingredient> anglaise pas trop <operation ingredients="crème"> sucrée </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42120">
+<titre>Tartelettes pralinées</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte brisée (la quantité est à definir en fonction de vos moules, les miens font 10 cm de diamètre)</p>
+<p>100 g de Nutella</p>
+<p>1 cuillère à soupe de cacao</p>
+<p>1 cuillère à soupe de crème fraîche épaisse</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite=""> pâte </ingredient> <operation> brisée </operation> dans les <operation> moules </operation> , et la faire <operation> cuire </operation> à blanc au four , pendant 20 min à 180 <operation> ° </operation> c ( thermostat 6 ) . laisser refroidir , et <operation> démouler </operation> . pendant ce temps , faire <operation ingredients="crème"> bouillir </operation> la <ingredient action="bouillir" quantite="1 cuillère à soupe"> crème </ingredient> dans une casserole . hors du feu , <operation ingredients="nutella;cacao"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> nutella </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cacao </ingredient> . <operation> verser </operation> sur les tartelettes refroidies , puis <operation> mettre </operation> au réfrigérateur pendant 3 heures .
+</preparation>
+</recette>

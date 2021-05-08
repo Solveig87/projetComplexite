@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15793">
+<titre>Poulet au citron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet entier</p>
+<p>4 échalotes</p>
+<p>50 cl de crème fraîche</p>
+<p>10 cl de vin blanc </p>
+<p>20 cl d'eau </p>
+<p>1 citron</p>
+<p>1 cuillère à soupe de farine de froment</p>
+<p>sel, poivre</p>
+<p>beurre demi-sel</p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="poulet"> découper </operation> le <ingredient action="découper" quantite="1"> poulet </ingredient> ( il est evidemment possible de n' acheter que des blancs . . . ) , <operation ingredients="échalotes"> émincer </operation> les <ingredient action="émincer" quantite="4"> échalotes </ingredient> . dans une marmite , faire <operation ingredients="poulet;beurre"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> dans le <ingredient action="revenir" quantite=""> beurre </ingredient> à feux moyen . quand ils sont colorés , <operation ingredients="échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> échalotes </ingredient> . au bout de 2 mn , <operation ingredients="farine;vin"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> , le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> et l' eau . <operation> mélanger </operation> le tout pour obtenir une sauce homogène , <operation> couvrir </operation> et laisser <operation> cuire </operation> 30 mn . <operation ingredients="jus;crème"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> de citron et la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche , <operation> mélanger </operation> et laisser <operation> mijoter </operation> 10 mn . servir <operation ingredients="riz;pâtes"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pâtes </ingredient> fraîches .
+</preparation>
+</recette>

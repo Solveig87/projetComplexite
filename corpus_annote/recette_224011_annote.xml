@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224011">
+<titre>Saumon fumé sur lit de radis noir</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 radis noir</p>
+<p>4 tranches de saumon</p>
+<p>quelques olives noires</p>
+<p>Pour la sauce :</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 cuillère à café de miel</p>
+<p>2 cuillères à soupe de vinaigre Xérès</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>aneth frais ciselé</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> éplucher </operation> et <operation ingredients="radis"> couper </operation> en fines rondelles le <ingredient action="couper"> radis </ingredient> noir . les <operation> disposer </operation> sur l' assiette en rosace , <operation ingredients="saumon;olives"> ajouter </operation> le <ingredient action="ajouter" quantite="4 tranche"> saumon </ingredient> et les <ingredient action="ajouter" quantite="quelque"> olives </ingredient> . <operation> préparer </operation> la sauce en <operation> mélangeant </operation> tous les ingrédients . pour <operation> présenter </operation> , <operation> garnir </operation> de sauce , le reste au goût des convives . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

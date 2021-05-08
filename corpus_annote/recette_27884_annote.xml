@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27884">
+<titre>Gratins pêches abricots</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pêches</p>
+<p>4 abricots</p>
+<p>50 g de sucre</p>
+<p>100 g de crème fraîche</p>
+<p>2 jaunes d'oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> disposez </operation> les <ingredient action="disposer" quantite="2;4"> fruits </ingredient> dans 4 ramequins . <operation ingredients="oeufs;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> puis <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="100 gramme"> crème </ingredient> fraîche . <operation ingredients="fruits"> versez </operation> cette préparation sur les <ingredient action="verser" quantite="2;4"> fruits </ingredient> . gratinez 5 mn sous le gril du four .
+</preparation>
+</recette>

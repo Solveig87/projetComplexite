@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26062">
+<titre>Pennes au poulet et aux lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pennes</p>
+<p>2 escalopes de poulet</p>
+<p>150 g de lardons</p>
+<p>1 boîte de champignons émincés</p>
+<p>50 cl de crème fraîche semi-épaisse</p>
+<p>150 g de parmesan</p>
+<p>2 gros oignons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;lardons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="150 gramme"> lardons </ingredient> et <operation> réserver </operation> . puis <operation ingredients="escalopes;champignons"> faire </operation> de même avec les <ingredient action="faire" quantite="2"> escalopes </ingredient> de poulet ( préalablement <operation> coupés </operation> en gros dés ) et les <ingredient action="faire"> champignons </ingredient> . pendant ce temps faire <operation ingredients="pennes;huile"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pennes </ingredient> dans de l' eau <operation> salée </operation> ( avec de l' <ingredient action="cuire"> huile </ingredient> pour éviter que les <ingredient action="coller" quantite="500 gramme"> penne </ingredient> ne <operation ingredients="penne"> collent </operation> ) . veiller à <operation ingredients="lardons;pennes"> réchauffer </operation> la garniture ( ensemble <ingredient action="réchauffer" quantite="150 gramme"> lardons </ingredient> + poulet ) vers la fin de cuisson des <ingredient action="réchauffer" quantite="500 gramme"> pennes </ingredient> . dans un saladier , <operation ingredients="crème;parmesan"> mélanger </operation> la <ingredient action="mélanger" quantite="50 cl"> crème </ingredient> fraîche avec le <ingredient action="mélanger" quantite="150 gramme"> parmesan </ingredient> . dès que les <ingredient action="cuire" quantite="500 gramme"> pennes </ingredient> sont <operation ingredients="pennes"> cuites </operation> , <operation ingredients="crème"> versez </operation> - les sur la <ingredient action="verser" quantite="50 cl"> crème </ingredient> fraîche et <operation> ajoutez </operation> la garniture . <operation> mélangez </operation> et consommez rapidement . ce sont les <ingredient> pâtes </ingredient> et la garniture qui <operation ingredients="crème;parmesan"> cuisent </operation> la <ingredient action="cuire" quantite="50 cl"> crème </ingredient> et le <ingredient action="cuire" quantite="150 gramme"> parmesan </ingredient> .
+</preparation>
+</recette>

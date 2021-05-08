@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40645">
+<titre>Salade de poulet à l'estragon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz</p>
+<p>300 g de blanc de poulet cuit</p>
+<p>12 tomates cerises</p>
+<p>150 g de maïs en grains</p>
+<p>1 échalote</p>
+<p>1 brin d'estragon frais</p>
+<p>1 cuillère à soupe de moutarde à l'ancienne</p>
+<p>2 cuillères à soupe de vinaigre de vin</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> . <operation> egouttez </operation> - le et <operation> passez </operation> - le sous l' eau froide . <operation ingredients="poulet"> coupez </operation> le blanc de <ingredient action="couper"> poulet </ingredient> en petit morceaux . les <ingredient quantite="12"> tomates </ingredient> <ingredient> cerises </ingredient> en 2 puis <operation ingredients="maïs"> égouttez </operation> le <ingredient action="égoutter" quantite="150 gramme"> maïs </ingredient> . <operation ingredients="échalote"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> échalote </ingredient> . <operation ingredients="estragon"> effeuillez </operation> et <operation> hachez </operation> l' <ingredient action="effeuiller"> estragon </ingredient> . dans un saladier , <operation ingredients="moutarde"> mettez </operation> la <ingredient action="mettre" quantite="1 cuillère à soupe"> moutarde </ingredient> à l' ancienne puis <operation ingredients="vinaigre;huile"> ajoutez </operation> en déléyant le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> et l' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> puis tous les autres ingrédients , <operation> mélangez </operation> délicatement . servez aussitôt .
+</preparation>
+</recette>

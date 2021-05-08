@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17790">
+<titre>Crevettes aux mangues</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de grosses crevettes</p>
+<p>1 kg de chair de mangue coupée en gros dés</p>
+<p>50 g de beurre</p>
+<p>1 gousse d'ail</p>
+<p>2 oignons</p>
+<p>15 cl de bouillon de poisson</p>
+<p>15 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;oignons"> hachez </operation> l' <ingredient action="hacher"> ail </ingredient> et les <ingredient action="hacher" quantite="2"> oignons </ingredient> et faites les <operation ingredients="beurre"> revenir </operation> avec un peu de <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="bouillon;vin"> versez </operation> le <ingredient action="verser" quantite="15 cl"> bouillon </ingredient> et le <ingredient action="verser" quantite="15 cl"> vin </ingredient> , <operation> portez </operation> à <operation> ébullition </operation> , puis baissez le feu . laissez <operation> réduire </operation> environ 20 mn . <operation ingredients="mangue"> ajoutez </operation> les morceaux de <ingredient action="ajouter"> mangue </ingredient> à la sauce , <operation> salez </operation> et <operation> poivrez </operation> généreusement . faites <operation> chauffer </operation> quelques minutes . pendant ce temps , <operation ingredients="crevettes"> décortiquez </operation> les <ingredient action="décortiquer" quantite="800 gramme"> crevettes </ingredient> en <operation ingredients="têtes"> laissant </operation> les <ingredient action="laisser"> têtes </ingredient> et faites les <operation ingredients="beurre"> sauter </operation> à feu vif avec le reste de <ingredient action="sauter" quantite="50 gramme"> beurre </ingredient> dans une deuxième <operation> poêle </operation> . <operation ingredients="crevettes"> disposez </operation> les <ingredient action="disposer" quantite="800 gramme"> crevettes </ingredient> dans un plat et <operation> nappez </operation> les de sauce .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34482">
+<titre>Lapin au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin d'environ 2 kg</p>
+<p>huile d’olive</p>
+<p>4 oignons rouges</p>
+<p>20 cl de vin rouge</p>
+<p>20 cl de fond de veau</p>
+<p>1 bouquet garni</p>
+<p>1 chorizo (saucisson espagnol épicé) </p>
+<p>1 cuillère de moutarde à l’ancienne</p>
+<p>sel et poivre</p>
+<p>paprika</p>
+<p>baies rouges</p>
+</ingredients>
+<preparation>
+la veille : <operation> coupez </operation> ( ou <operation ingredients="lapin"> faites </operation> <operation> couper </operation> ) le <ingredient action="faire" quantite="1"> lapin </ingredient> en portions . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="paprika"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> paprika </ingredient> les morceaux . <operation ingredients="chorizo"> mélangez </operation> avec le <ingredient action="mélanger" quantite="1"> chorizo </ingredient> <operation> coupé </operation> en rondelles . <operation> recouvrez </operation> d’ un film plastique , <operation> réservez </operation> au frigo . le jour j : faites <operation ingredients="lapin;huile"> dorer </operation> les morceaux de <ingredient action="dorer" quantite="1"> lapin </ingredient> dans un fond d’ <ingredient action="dorer" quantite=""> huile </ingredient> d’ olive . <operation> réservez </operation> - les dans une assiette . <operation> hachez </operation> grossièrement les <ingredient action="fondre" quantite="4"> oignons </ingredient> et faites - les <operation ingredients="oignons"> fondre </operation> dans ce qu’ a <operation ingredients="lapin"> rendu </operation> le <ingredient action="rendre" quantite="1"> lapin </ingredient> . <operation ingredients="vin"> mouillez </operation> avec le <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> , <operation ingredients="lapin"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> lapin </ingredient> . <operation> couvrir </operation> et laissez <operation> cuire </operation> à feu doux pendant 20 min . <operation ingredients="veau"> ajoutez </operation> le fond de <ingredient action="ajouter"> veau </ingredient> , les baies rouges et faites <operation> réduire </operation> pour que la sauce soit onctueuse . amenez la casserole à table . proposez avec des <ingredient> tagliatelles </ingredient> fraîches <operation> cuites </operation> ' al dente ' . attention aux <ingredient quantite=""> paprika </ingredient> et chorizo : ils existent en version doux ou fort , à <operation> choisir </operation> selon les tolérances des papilles . rouge ( espagne , bourgogne passetoutgrain , cotes du rhone )
+</preparation>
+</recette>

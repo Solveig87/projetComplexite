@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58246">
+<titre>Salade glacée de mangue et agrumes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour les glaçons rafraîchissants :</p>
+<p>1 citron vert</p>
+<p>1 citron jaune (facultatif)</p>
+<p>5 cuillères à soupe d'eau de rose (plus ou moins selon le goût)</p>
+<p>eau</p>
+<p>Pour la salade de fruits :</p>
+<p>1.25 kg de mangues de diverses variétés (se trouvent souvent dans les magasins asiatiques)</p>
+<p>5 tranches de mangue séchée</p>
+<p>1 pamplemousse</p>
+<p>1 orange</p>
+<p>1 citron jaune</p>
+<p>1 cuillère à soupe de miel liquide</p>
+</ingredients>
+<preparation>
+glaçons rafraîchissants : <operation> mélanger </operation> tous les ingrédients et <operation> remplir </operation> un bac à glaçons . laisser <operation> congeler </operation> ( donc prévoir à l' avance ! ! ! ) <ingredient action="enlever"> salade </ingredient> de fruits : <operation> eplucher </operation> les <ingredient action="enlever" quantite="5 tranche"> mangues </ingredient> , <operation ingredients="salade;mangues"> enlever </operation> les noyaux , les <operation> couper </operation> en dés et les <operation> mettre </operation> dans un saladier . <operation ingredients="pamplemousse;orange"> eplucher </operation> le <ingredient action="eplucher" quantite="1"> pamplemousse </ingredient> et l' <ingredient action="eplucher" quantite="1"> orange </ingredient> à vif et <operation> couper </operation> des quartiers à vif également , ce qui s' appelle des suprêmes . <operation> mettre </operation> les agrumes dans le saladier . <operation> presser </operation> les " trognons " d' agrumes pour en faire sortir le <ingredient> jus </ingredient> restant et le <operation> verser </operation> dans le saladier . <operation ingredients="mangue"> couper </operation> les tranches de <ingredient action="couper" quantite="5 tranche"> mangue </ingredient> séchée en lamelles fines et les <operation> mettre </operation> dans le saladier . <operation ingredients="jus"> diluer </operation> la cuillère à soupe de miel dans le <ingredient action="diluer"> jus </ingredient> de citron , puis <operation ingredients="jus;fruits"> verser </operation> ce <ingredient action="verser"> jus </ingredient> sur les <ingredient action="verser" quantite="5 tranche;1;1"> fruits </ingredient> . bien <operation> mélanger </operation> . laisser <operation> reposer </operation> au frais , pendant au moins 4 heures , pour que les saveurs s' interpénètrent . au moment de servir : <operation> concasser </operation> les glaçons ( dans un robot , mais pas trop longtemps pour que cela ne donne pas une " bouillie " ) . <operation ingredients="salade"> disposer </operation> la <ingredient action="disposer"> salade </ingredient> de fruits dans les ramequins . <operation ingredients="glace"> verser </operation> par dessus une cuillérée de <ingredient action="verser"> glace </ingredient> <operation> concassée </operation> . par temps de fortes chaleurs , c' est un <ingredient quantite="1 cuillère à soupe"> dessert </ingredient> léger et très rafraîchissant !
+</preparation>
+</recette>

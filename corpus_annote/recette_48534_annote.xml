@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48534">
+<titre>Gambas au Pastis</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 gambas par personne</p>
+<p>1 échalote</p>
+<p>huile d'olive</p>
+<p>20 cl de crème fraiche liquide</p>
+<p>Pastis</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="gambas"> décortiquez </operation> les <ingredient action="décortiquer" quantite="6"> gambas </ingredient> ( en le faisant quand elles sont encore <operation> congelées </operation> c' est plus facile ) . faites <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer" quantite=""> huile </ingredient> d' olive dans une <operation> poêle </operation> et <operation ingredients="échalote"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> hachée </operation> . <operation ingredients="gambas"> ajoutez </operation> les <ingredient action="ajouter" quantite="6"> gambas </ingredient> , les laisser <operation> cuire </operation> jusqu' à ce qu' elles soient bien roses . <operation ingredients="pastis"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite=""> pastis </ingredient> et <operation> flambez </operation> . <operation ingredients="gambas"> retirez </operation> les <ingredient action="retirer" quantite="6"> gambas </ingredient> de la <operation> poêle </operation> et <operation> réservez </operation> - les . <operation ingredients="crème;sel;poivre"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> liquide , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> , <operation> mélangez </operation> et laissez <operation> réduire </operation> . une fois que la sauce est onctueuse , <operation ingredients="gambas"> remettez </operation> les <ingredient action="remettre" quantite="6"> gambas </ingredient> pour qu' elles s' <operation> enrobent </operation> de sauce . servez ! cette entrée peut devenir un plat principal si vous l' <operation> accompagnez </operation> de <ingredient> riz </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15222">
+<titre>St Jacques aux poireaux</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 poireaux</p>
+<p>1 ou 2 coquilles St Jacques par personne ou 400 g de pétoncles</p>
+<p>250 g de champignons</p>
+<p>150 g de crevettes</p>
+<p>1 grand pot de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux"> cuire </operation> les blancs de <ingredient action="cuire" quantite="6"> poireaux </ingredient> ( si cuisson au micro-ondes : 10 mn à puissance 9 ) les <operation> disposer </operation> dans un grand plat allant au four . faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> les coquilles st jacques . les sortir de la casserolle , y <operation ingredients="champignons"> placer </operation> les <ingredient action="placer" quantite="250 gramme"> champignons </ingredient> , les <ingredient quantite="150 gramme"> crevettes </ingredient> , la <ingredient> crème </ingredient> fraiche , le <ingredient quantite=""> sel </ingredient> et le <ingredient> poivre </ingredient> . laisser <operation> mijoter </operation> pendant 15 mn . <operation> rajouter </operation> les st jacques et laisser <operation> mijoter </operation> 5 mn . <operation ingredients="poireaux"> disposer </operation> le tout sur les blancs de <ingredient action="disposer" quantite="6"> poireaux </ingredient> . faire <operation> cuire </operation> 20 mn , à four thermostat 6 .
+</preparation>
+</recette>

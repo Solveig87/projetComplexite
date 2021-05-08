@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68864">
+<titre>Omelette paysanne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 cuillère à soupe d'huile</p>
+<p>100 g de lardons fumés</p>
+<p>2 tranches de pain rassis</p>
+<p>1 gousse d'ail</p>
+<p>6 œufs</p>
+<p>1 cuillère à soupe de crème fraiche</p>
+<p>1 cuillère à soupe de ciboulette ciselée</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une poele , y faire <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer"> lardons </ingredient> 3 minutes . casser le <ingredient quantite="2 tranche"> pain </ingredient> en petit morceaux . <operation> eplucher </operation> l' <ingredient> ail </ingredient> . <operation ingredients="croutons"> ajouter </operation> les <ingredient action="ajouter"> croutons </ingredient> aux lardons et <operation ingredients="ail"> presser </operation> l' <ingredient action="presser"> ail </ingredient> au dessus . bien <operation> remuer </operation> . laisser <operation> cuire </operation> encore 3 minutes en <operation> remuant </operation> régulièrement . <operation ingredients="œufs;crème;ciboulette;sel;poivre"> battre </operation> les <ingredient action="battre" quantite="6"> œufs </ingredient> avec la <ingredient action="battre" quantite="1 cuillère à soupe"> crème </ingredient> fraiche , la <ingredient action="battre" quantite="1 cuillère à soupe"> ciboulette </ingredient> , le <ingredient action="battre" quantite=""> sel </ingredient> et le <ingredient action="battre" quantite=""> poivre </ingredient> . <operation> ajouter </operation> cette préparation dans la <operation> poêle </operation> . <operation> réduire </operation> le feu et laisser <operation> mijoter </operation> en soulevant régulièrement les bords . <operation action="plier" ingredients="plier"> plier </operation> l' omelette en 2 et la glisser sur un plat de service .
+</preparation>
+</recette>

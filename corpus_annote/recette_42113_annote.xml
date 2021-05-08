@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42113">
+<titre>Potimarron à la créole</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de potimarron</p>
+<p>200 g de lardons salés</p>
+<p>500 g de tomates</p>
+<p>1 poivron vert</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 clou de girofle</p>
+<p>1 cuillère à café de curry (ou 2)</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans l' <operation action="huile" ingredients="huile"> huile </operation> , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> , le <ingredient> poivron </ingredient> <operation> coupé </operation> en morceaux , et les <ingredient quantite="500 gramme"> tomates </ingredient> <operation> concassées </operation> . quand vous aurez obtenu une sorte de purée , <operation ingredients="lardons;potimarron"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> , et le <ingredient action="ajouter" quantite="500 gramme"> potimarron </ingredient> <operation> coupé </operation> en cubes de 2 cm environ . <operation ingredients="potimarron"> laissez </operation> <operation> mijoter </operation> , jusqu' à ce que les dés de <ingredient action="laisser" quantite="500 gramme"> potimarron </ingredient> soient bien tendres ( 15 min , ou 5 en autocuiseur ) . <operation ingredients="girofle"> ajoutez </operation> alors : <ingredient action="ajouter"> girofle </ingredient> et ail <operation ingredients="sel"> écrasés </operation> , <ingredient action="écraser" quantite=""> sel </ingredient> , poivre . <operation> remuez </operation> 3 min , <operation ingredients="curry"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> délayé , et <operation> remuez </operation> encore 2 min . servez avec du <ingredient> riz </ingredient> créole !
+</preparation>
+</recette>

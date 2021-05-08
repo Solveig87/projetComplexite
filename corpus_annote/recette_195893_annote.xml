@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195893">
+<titre>Flan aux deux chocolats</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>50 g de chocolat noir corsé</p>
+<p>50 g de chocolat pâtissier blanc</p>
+<p>1 cuillère à café rase d'agar-agar</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> chauffer </operation> 25 cl de <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> sur feu doux . y faire <operation ingredients="barres"> fondre </operation> les 2 <ingredient action="fondre"> barres </ingredient> de chocolat noir et <operation> mélanger </operation> jusqu' à ce qu' il soit totalement <operation> fondu </operation> . <operation ingredients="agar"> ajouter </operation> la moitié de l' <ingredient action="ajouter"> agar </ingredient> - agar , bien <operation> mélanger </operation> ( au fouet si possible ) . laisser sur feu minimum jusqu' à ce que le <ingredient quantite="50 cl"> lait </ingredient> commence à <operation> bouillir </operation> doucement et laisser <operation> bouillir </operation> 1 min tout en continuant de <operation> remuer </operation> . l' <ingredient> agar </ingredient> - agar est pris lorsque le <ingredient quantite="50 cl"> lait </ingredient> chocolaté prend un aspect velouté . <operation> disposer </operation> 5 petits ramequins ( entre 4 et 6 selon leur contenance ) de biais pour y <operation ingredients="chocolat"> verser </operation> la préparation au <ingredient action="verser" quantite="50 gramme+50 gramme"> chocolat </ingredient> noir . laisser refroidir jusqu' à prise complète du flan et recommencer l' opération avec le reste de <ingredient quantite="50 cl"> lait </ingredient> , le <ingredient quantite="50 gramme+50 gramme"> chocolat </ingredient> blanc et le reste d' <ingredient> agar </ingredient> - agar . <operation> remettre </operation> les ramequins à plat pour y <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="50 gramme+50 gramme"> chocolat </ingredient> blanc . <operation> mettre </operation> au réfrigérateur lorsque le flan est pris . j' aime servir ce flan aux deux <ingredient quantite="50 gramme+50 gramme"> chocolats </ingredient> sur un coulis de <ingredient> framboises </ingredient> un thé
+</preparation>
+</recette>

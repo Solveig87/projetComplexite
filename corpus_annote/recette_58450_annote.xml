@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58450">
+<titre>Confiture parfum citrouille et pomme</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de citrouille</p>
+<p>1 kg de pomme</p>
+<p>1 kg de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="citrouille;pommes"> peler </operation> et <operation> couper </operation> la <ingredient action="peler" quantite="1 kilogramme"> citrouille </ingredient> et les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> . les <operation ingredients="sucre"> mélanger </operation> avec le <ingredient action="mélanger" quantite="1 kilogramme"> sucre </ingredient> dans une bassine à confiture ou dans une cocotte minute . les faire <operation> cuire </operation> à feu doux jusqu' à ce que le <operation> mélange </operation> caramélise . laisser refroidir un peu puis <operation> mixer </operation> le tout , <operation> verser </operation> dans des pots à confiture .
+</preparation>
+</recette>

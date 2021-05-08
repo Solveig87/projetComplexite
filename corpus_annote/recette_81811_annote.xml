@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81811">
+<titre>Riz à la Mulan</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de steack haché </p>
+<p>4 verre à moutarde de riz</p>
+<p>3 oignons</p>
+<p>4 gousses d'ail</p>
+<p>6 cuillères à soupe de sauce soja</p>
+<p>poivre moulu</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;graisse"> revenir </operation> la <ingredient action="revenir" quantite="300 gramme"> viande </ingredient> dans une marmite ( sans <ingredient action="revenir"> graisse </ingredient> ) , quand la <ingredient action="cuire" quantite="300 gramme"> viande </ingredient> est presque <operation ingredients="viande"> cuite </operation> , <operation ingredients="oignons;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oignons </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> <operation> hachés </operation> , <operation ingredients="oignons;ail"> laisser </operation> <operation> cuire </operation> 5 à 6 min ( les <ingredient action="laisser" quantite="3"> oignons </ingredient> et l' <ingredient action="laisser"> ail </ingredient> de doivent prendre de la couleur ) . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> , bien <operation> mélanger </operation> pour que le <ingredient> riz </ingredient> absorbe la sauce de <ingredient quantite="300 gramme"> viande </ingredient> , ensuite <operation> verser </operation> la sauce de soja et <operation> mélanger </operation> à nouveau . <operation> poivrer </operation> , ne pas <operation ingredients="sel"> mettre </operation> de <ingredient action="mettre"> sel </ingredient> , la sauce <ingredient action="saler"> soja </ingredient> est <operation ingredients="soja"> salée </operation> . 1ère solution : si vous possédez un <ingredient> riz </ingredient> cooker : <operation> mettre </operation> la préparation dedans , <operation> ajouter </operation> 5 verres à moutarde d' eau et faire <operation> cuire </operation> . 2ème solution si vous ne possédez ppas de <ingredient> riz </ingredient> cooker : <operation> ajouter </operation> 5 <operation> mesures </operation> d' eau dans la marmite <operation> couvrir </operation> , faire <operation> cuire </operation> à petit feu en <operation> remuant </operation> de temps en temps ; le <ingredient action="cuire"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> quand il n' y a plus d' eau .
+</preparation>
+</recette>

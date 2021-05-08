@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25033">
+<titre>Lapin bonne femme</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin coupé en morceaux</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>150 g de poitrine fumée</p>
+<p>250 g de champignons de Paris</p>
+<p>15 cl de vin blanc sec</p>
+<p>15 cl de bouillon de volaille</p>
+<p>1 bouquet garnis (thym, laurier, queues de persil) </p>
+<p>1 gousse d'ail pelée et écrasée</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+1 ) faites <operation ingredients="lapin;huile"> revenir </operation> à feu moyen les morceaux de <ingredient action="revenir" quantite="1"> lapin </ingredient> à l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> dans une cocotte jusqu' à ce qu' ils soient colorés . <operation ingredients="champignons"> lavez </operation> et <operation> émincez </operation> les <ingredient action="laver" quantite="250 gramme"> champignons </ingredient> . 2 ) <operation ingredients="lapin"> ôtez </operation> les morceaux de <ingredient action="ôter" quantite="1"> lapin </ingredient> de la cocotte . á leur <operation> place </operation> , <operation ingredients="oignons"> faites </operation> suer quelques minutes sur feu moyen les <ingredient action="faire"> oignons </ingredient> , les ladons , et les <ingredient quantite="250 gramme"> champignons </ingredient> jusqu' à ce que le <operation> mélange </operation> soit doré . 3 ) <operation ingredients="lapin"> remettez </operation> le <ingredient action="remettre" quantite="1"> lapin </ingredient> dans la cocotte . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="15 cl"> vin </ingredient> blanc . laissez <operation> réduire </operation> 5 mn puis <operation ingredients="bouillon"> ajoutez </operation> le <ingredient action="ajouter" quantite="15 cl"> bouillon </ingredient> , le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> et l' <ingredient> ail </ingredient> . <operation> couvrez </operation> et laissez <operation> cuire </operation> 1 h sur feu doux . 4 ) <operation> ôtez </operation> la préparation de la cocotte . faites <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de citron d' un tiers sur feu vif . <operation ingredients="crème"> liez </operation> avec la <ingredient action="lier"> crème </ingredient> , <operation ingredients="lapin"> rajoutez </operation> le <ingredient action="rajouter" quantite="1"> lapin </ingredient> et sa garniture . laissez <operation> réchauffer </operation> en <operation> mélangeant </operation> . <operation ingredients="persil"> parsemez </operation> de <ingredient action="parsemer" quantite="3 cuillère à soupe"> persil </ingredient> et servez .
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60586">
+<titre>Salade de mâche aux fruits de mer et au sésame</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de mâche fraîche</p>
+<p>100 g de crevettes décortiqués </p>
+<p>100 g d'assortiment de fruits de mer décoquillés et décortiqués (moules, calamar, écrevisses...)</p>
+<p>25 g de sésame blond</p>
+<p>1 petit bouquet de coriandre fraîche</p>
+<p>6 tomates cerises</p>
+<p>100 g de croûtons</p>
+<p>30 g de parmesan râpé ou en copeaux</p>
+<p>2 cuillères à soupe de moutarde</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>2 cuillères à soupe d'huile de colza</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>1 cuillère à soupe de jus de citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fruits;crevettes"> revenir </operation> à la <operation> poêle </operation> les <ingredient action="revenir" quantite="1 cuillère à soupe"> fruits </ingredient> de mer et les <ingredient action="revenir" quantite="100 gramme"> crevettes </ingredient> en <operation> remuant </operation> régulièrement . <operation ingredients="sésame;coriandre"> ajouter </operation> le <ingredient action="ajouter" quantite="25 gramme"> sésame </ingredient> et la <ingredient action="ajouter"> coriandre </ingredient> <operation> ciselée </operation> . <operation ingredients="mâche"> préparer </operation> la <ingredient action="préparer" quantite="200 gramme"> mâche </ingredient> : la <operation> rincer </operation> et <operation> égoutter </operation> . <operation ingredients="tomates;cerises"> couper </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> <ingredient action="couper"> cerises </ingredient> en deux et <operation ingredients="salade"> mélanger </operation> à la <ingredient action="mélanger"> salade </ingredient> . <operation ingredients="fruits;sésame"> ajouter </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe"> fruits </ingredient> de mer au <ingredient action="ajouter" quantite="25 gramme"> sésame </ingredient> . <operation> préparer </operation> la vinaigrette en <operation ingredients="moutarde;vinaigre;huile;citron;soja"> mélangeant </operation> la <ingredient action="mélanger" quantite="2 cuillère à soupe"> moutarde </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> vinaigre </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> de colza , le <ingredient action="mélanger"> citron </ingredient> et la sauce <ingredient action="mélanger"> soja </ingredient> . si la sauce est trop épaisse , l' allonger avec une cuiller d' eau . <operation ingredients="salade"> assaisonner </operation> la <ingredient action="assaisonner"> salade </ingredient> . <operation ingredients="parmesan;croûtons"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="30 gramme"> parmesan </ingredient> et de <ingredient action="saupoudrer" quantite="100 gramme"> croûtons </ingredient> . il est possible d' <operation ingredients="jambon"> ajouter </operation> quelques pétales de <ingredient action="ajouter"> jambon </ingredient> de parme . . .
+</preparation>
+</recette>

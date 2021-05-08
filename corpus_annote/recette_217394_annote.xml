@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217394">
+<titre>Gâteau choco-noisette (sans oeufs)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuillères à soupe de noisette en poudre</p>
+<p>5 cuillères à soupe de farine</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>125 g de beurre</p>
+<p>100 g de chocolat noir</p>
+<p>1 sachet de levure</p>
+<p>25 cl de lait</p>
+<p>1 cuillère à café d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> au micro-ondes 2 minutes à forte puissance puis <operation> verser </operation> le <operation> mélange </operation> dans un grand saladier . <operation> mélanger </operation> pour obtenir un <operation> mélange </operation> homogène puis <operation ingredients="noisettes;levure;sucre;farine"> ajouter </operation> les <ingredient action="ajouter" quantite="4 cuillère à soupe"> noisettes </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter" quantite="4 cuillère à soupe"> sucre </ingredient> et la <ingredient action="ajouter" quantite="5 cuillère à soupe"> farine </ingredient> . <operation> mélanger </operation> à nouveau puis <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="1 cuillère à café"> huile </ingredient> . la consistance de la <ingredient> pâte </ingredient> doit être très pâteuse . puis <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> . <operation ingredients="pâte"> mélanger </operation> jusqu’ à obtention d' une <ingredient action="mélanger"> pâte </ingredient> crémeuse ( ça prend un peu de temps ) . <operation> beurrer </operation> le <operation> moule </operation> puis <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans le <operation> moule </operation> . <operation> enfourner </operation> à 180 <operation> ° </operation> c pendant environ 20 min ( vérifier la cuisson en <operation ingredients="couteau"> enfonçant </operation> un <ingredient action="enfoncer"> couteau </ingredient> dedans , il doit ressortir sec ) . <operation> démouler </operation> et servir froid . très bon et bien moelleux grâce au <ingredient quantite="25 cl"> lait </ingredient> . pratique et rapide , besoin de peu d' ingrédients . rien de particulier
+</preparation>
+</recette>

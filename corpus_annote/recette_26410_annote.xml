@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26410">
+<titre>Langue de boeuf sauce chasseur</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 langue de boeuf</p>
+<p>2 carottes</p>
+<p>2 poireaux</p>
+<p>céleri</p>
+<p>persil</p>
+<p>1 oignon piqué de clous de girofles</p>
+<p>2 gousses d'ail</p>
+<p>1 gros oignon</p>
+<p>1 pot moyen de sauce tomate concentrée</p>
+<p>1 boîte de champignons</p>
+<p>60 cl de vin blanc sec</p>
+<p>sel, poivre</p>
+<p>farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="langue"> cuire </operation> la <ingredient action="cuire" quantite="1"> langue </ingredient> 1 h 30 dans une cocotte - minute . <operation> epluchez </operation> l' <ingredient quantite="1+1"> oignon </ingredient> et <operation> coupez </operation> le en petits morceaux . en fin de cuisson sortez la <ingredient quantite="1"> langue </ingredient> et <operation> épluchez </operation> - la . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="1+1"> oignons </ingredient> <operation> coupés </operation> dans un <operation> mélange </operation> huile . <ingredient> beurre </ingredient> . <operation ingredients="farine"> rajouter </operation> la <ingredient action="rajouter" quantite=""> farine </ingredient> pour faire un roux . <operation ingredients="vin"> rajouter </operation> la sauce tomate et liquéfiez avec le <ingredient action="rajouter" quantite="60 cl"> vin </ingredient> blanc . <operation ingredients="champignons"> rajouter </operation> les <ingredient action="rajouter"> champignons </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> , et <operation> goûtez </operation> . . . . <operation ingredients="langues"> couper </operation> la <ingredient action="couper" quantite="1"> langues </ingredient> en tranches et <operation> mettre </operation> dans la sauce pendant 10 min . servez avec des <ingredient> tagliatelles </ingredient> et bon appétit . blanc sec
+</preparation>
+</recette>

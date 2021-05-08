@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68300">
+<titre>Salade de mâche sauce tomatée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de mâche</p>
+<p>2 échalotes</p>
+<p>15 cl de concentré de tomate</p>
+<p>huile, vinaigre, sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalotes"> hâcher </operation> les <ingredient action="hâcher" quantite="2"> échalotes </ingredient> et les <operation> verser </operation> dans un saladier . <operation ingredients="tomates"> verser </operation> le <operation> concentré </operation> de <ingredient action="verser"> tomates </ingredient> . y <operation> verser </operation> environ 2 cuillères à soupe de vinaigre de cidre , et 4 cuillères à soupe d' huile d' olive . <operation> remuer </operation> la vinaigrette afin qu' elle devienne liquide . <operation ingredients="mâche"> laver </operation> la <ingredient action="laver"> mâche </ingredient> et la <operation> verser </operation> sur la vinaigrette . <operation> remuer </operation> , <operation> saler </operation> , <operation> poivrer </operation> . c' est prêt ! <operation ingredients="quiche"> accompagne </operation> parfaitement une <ingredient action="accompagne"> quiche </ingredient> au saumon .
+</preparation>
+</recette>

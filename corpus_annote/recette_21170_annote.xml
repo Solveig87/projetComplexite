@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21170">
+<titre>Boulettes de viande à la sauce tomate</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de viande de rôti de boeuf cuit haché</p>
+<p>1 jaune d'oeuf</p>
+<p>1 cuillère à soupe de paprika</p>
+<p>3 oignons</p>
+<p>1/2 bouquet de persil</p>
+<p>1 brin de thym</p>
+<p>240 g de tomates pelées (1 petite boîte)</p>
+<p>1 beau poivron</p>
+<p>1 courgette</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> hachez </operation> l' <ingredient action="hacher" quantite="3"> oignon </ingredient> et faites - le <operation ingredients="persil"> dorer </operation> dans une <operation> poêle </operation> <operation> huilée </operation> , avec la moitié du <ingredient action="dorer"> persil </ingredient> . <operation ingredients="paprika"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> paprika </ingredient> . <operation ingredients="viande;oignon;oeuf"> malaxez </operation> la <ingredient action="malaxer" quantite="250 gramme"> viande </ingredient> avec l' <ingredient action="malaxer" quantite="3"> oignon </ingredient> cuit et le jaune d' <ingredient action="malaxer"> oeuf </ingredient> . <operation> façonnez </operation> des boulettes et faites - les <operation ingredients="huile"> cuire </operation> dans l' <ingredient action="cuire" quantite=""> huile </ingredient> chaude pendant une dizaine de minutes . <operation> préparez </operation> la sauce : faites <operation ingredients="oignons;huile;thym;sel;poivre"> fondre </operation> les 2 autres <ingredient action="fondre" quantite="3"> oignons </ingredient> <operation> hachés </operation> dans l' <ingredient action="fondre" quantite=""> huile </ingredient> avec le <ingredient action="fondre"> thym </ingredient> , du <ingredient action="fondre" quantite=""> sel </ingredient> et du <ingredient action="fondre" quantite=""> poivre </ingredient> . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="240 gramme"> tomates </ingredient> et laissez <operation> mijoter </operation> 15 minutes . <operation ingredients="poivron"> emincez </operation> le <ingredient action="emincez" quantite="1"> poivron </ingredient> en lanières et <operation> découpez </operation> la courgette en cubes . <operation> cuisez </operation> - les 5 minutes dans l' eau bouillante , <operation> égouttez </operation> et <operation> versez </operation> - les dans la sauce . <operation> ajoutez </operation> les boulettes et poursuivez la cuisson 5 minutes . <operation ingredients="persil"> parsemez </operation> de <ingredient action="parsemer"> persil </ingredient> haché .
+</preparation>
+</recette>

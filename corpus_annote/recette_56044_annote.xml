@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56044">
+<titre>Aumonières feuilletées au saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>350 g de tranches de saumon frais</p>
+<p>20 cl de crème fraîche entière</p>
+<p>1 citron</p>
+<p>2 pâtes feuilletées rectangulaires</p>
+<p>moutarde</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 branche d'aneth</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saumon"> cuire </operation> 150 g de <ingredient action="cuire"> saumon </ingredient> frais à la vapeur . <operation ingredients="saumon;crème"> mélanger </operation> les 200 g de <ingredient action="mélanger"> saumon </ingredient> avec 20 cl de <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraiche , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="aneth;citron"> ajouter </operation> quelques peluches d' <ingredient action="ajouter"> aneth </ingredient> ( ou 1 peu de zeste de <ingredient action="ajouter" quantite="1"> citron </ingredient> ) . <operation> mixer </operation> pour obtenir un <operation> mélange </operation> homogène . <operation ingredients="pâte;carrés"> couper </operation> chaque <ingredient action="couper"> pâte </ingredient> à tarte en 2 <ingredient action="couper"> carrés </ingredient> , avec chaque morceau <operation> former </operation> une aumonière en la <operation> plaçant </operation> dans du papier alu . <operation ingredients="pâte;noisette"> badigeonner </operation> le fond de la <ingredient action="badigeonner"> pâte </ingredient> avec une <ingredient action="badigeonner"> noisette </ingredient> de moutarde , <operation> piquer </operation> le fond . <operation ingredients="saumon"> ajouter </operation> le quart de la préparation au <ingredient action="ajouter"> saumon </ingredient> . <operation ingredients="saumon"> ajouter </operation> une tranche de 50 g de <ingredient action="ajouter"> saumon </ingredient> cru restant , <operation> saler </operation> , <operation ingredients="saumon;citron"> poivrer </operation> le <ingredient action="poivrer"> saumon </ingredient> et <operation> recouvrir </operation> d' une tranche de <ingredient action="poivrer" quantite="1"> citron </ingredient> . faire <operation> cuire </operation> une vingtaine de minutes à 220 <operation> ° </operation> c ( thermostat . 8) . la <ingredient> pâte </ingredient> doit être dorée et la préparation de <ingredient> saumon </ingredient> bien gonflée . a servir au milieu d' une <ingredient> salade </ingredient> de roquette au vinaigre balsamique .
+</preparation>
+</recette>

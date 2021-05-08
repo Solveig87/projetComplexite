@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53431">
+<titre>Oeufs au plat aux marrons et pesto</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>1 poignée de marrons ou de chataîgnes en bocal</p>
+<p>1 cuillère de pesto</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="marrons"> griller </operation> à sec les <ingredient action="griller"> marrons </ingredient> . cassez les <ingredient quantite="2"> oeufs </ingredient> dans une <operation> poêle </operation> anti-adhésive , laissez - les prendre . en fin de cuisson , <operation ingredients="pesto"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère"> pesto </ingredient> et <operation ingredients="marrons"> émiettez </operation> les <ingredient action="émietter"> marrons </ingredient> grillés . servez avec une <ingredient> salade </ingredient> aux noix et du bon <ingredient> pain </ingredient> . vous pouvez les <operation ingredients="champignons;lardons"> enrichir </operation> de <ingredient action="enrichir"> champignons </ingredient> ou de <ingredient action="enrichir"> lardons </ingredient> .
+</preparation>
+</recette>

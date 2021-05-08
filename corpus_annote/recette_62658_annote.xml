@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62658">
+<titre>Soupe à l'oignon facon grand-mère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 gros oignons</p>
+<p>3 grosses pommes de terre</p>
+<p>1 cube de bouillon</p>
+<p>1,5 l d'eau</p>
+<p>sel, poivre </p>
+<p>beurre</p>
+<p>gruyère râpé</p>
+<p>croûtons</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;pommes"> couper </operation> les <ingredient action="couper" quantite="4"> oignons </ingredient> et les <ingredient action="couper" quantite="3"> pommes </ingredient> de terre en petits morceaux . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une casserole et y <operation ingredients="oignons;pommes"> mettre </operation> les <ingredient action="mettre" quantite="4"> oignons </ingredient> et les <ingredient action="mettre" quantite="3"> pommes </ingredient> de terres . <operation> ajouter </operation> après 5 minutes de cuisson le cube ainsi que l' eau . après une heure de cuisson , <operation ingredients="sel"> assaisonner </operation> le tout mais attention au <ingredient action="assaisonner" quantite=""> sel </ingredient> . . . le cube étant déjà fort <ingredient> salé </ingredient> ! ! ! laisser <operation> cuire </operation> encore une petite demi-heure . <operation> mixer </operation> le tout . servir bien chaud avec du <ingredient quantite=""> gruyère </ingredient> <operation ingredients="soupe;croûtons"> parsemé </operation> sur la <ingredient action="parsemer"> soupe </ingredient> et quelques <ingredient action="parsemer" quantite=""> croûtons </ingredient> . bon appétit !
+</preparation>
+</recette>

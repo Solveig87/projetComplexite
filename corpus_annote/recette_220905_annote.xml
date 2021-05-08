@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220905">
+<titre>Cordon bleu au pesto</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de dinde</p>
+<p>1 pot de pesto rosso</p>
+<p>8 tranches de bacon</p>
+<p>8 tranches de fromage à croque-monsieur</p>
+<p>2 œufs</p>
+<p>100 g de chapelure</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalope;pesto"> mettre </operation> du papier film sur une <ingredient action="mettre" quantite="4"> escalope </ingredient> et la taper avec un rouleau à pâtisserie pour l' <operation> aplatir </operation> puis la <operation> tartiner </operation> généreusement de <ingredient action="mettre" quantite="1 pot"> pesto </ingredient> en prenant soin d' <operation> enlever </operation> le film . <operation ingredients="bacon;fromage"> mettre </operation> 2 tranches de <ingredient action="mettre" quantite="8 tranche"> bacon </ingredient> et 2 tranches de <ingredient action="mettre" quantite="8 tranche"> fromage </ingredient> à croque monsieur , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="bleu"> rouler </operation> les cordons <ingredient action="rouler"> bleu </ingredient> dans les <ingredient quantite="2"> œufs </ingredient> <operation> battus </operation> en omelette puis dans la <ingredient quantite="100 gramme"> chapelure </ingredient> , <operation> cuire </operation> dans une <operation> poêle </operation> <operation> huilée </operation> . 5 min de chaque côté et déguster <operation ingredients="tagliatelle;salade"> accompagné </operation> de <ingredient action="accompagner"> tagliatelle </ingredient> de légumes ou d' une <ingredient action="accompagner"> salade </ingredient> verte . vous pouvez aussi remplacer la <ingredient quantite="100 gramme"> chapelure </ingredient> par des graines de <ingredient> sésame </ingredient> ou autres .
+</preparation>
+</recette>

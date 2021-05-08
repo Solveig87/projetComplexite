@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166904">
+<titre>Escalopes de poulet farcies</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet </p>
+<p>4 tranches de bacon </p>
+<p>2 œufs </p>
+<p>200 g de champignons de Paris</p>
+<p>1 petit bouquet de persil</p>
+<p>3 pincées de curry</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="escalopes"> cuire </operation> aux <ingredient action="cuire" quantite="4"> escalopes </ingredient> à la <operation> poêle </operation> . <operation ingredients="curry"> rajoutez </operation> 3 pincées de <ingredient action="rajouter" quantite="3 pincée"> curry </ingredient> . pour la farce : <operation ingredients="bacon;œufs"> coupez </operation> le <ingredient action="couper" quantite="4 tranche"> bacon </ingredient> et les 2 <ingredient action="couper" quantite="2"> œufs </ingredient> en petits morceaux . <operation ingredients="champignons"> ajoutez </operation> vos <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> de paris à la préparation . <operation ingredients="escalopes"> ouvrez </operation> en deux les <ingredient action="ouvrir" quantite="4"> escalopes </ingredient> et <operation> mettez </operation> la farce . <operation> poêlez </operation> à nouveaux pour <operation> cuire </operation> le tout . <operation ingredients="persil;escalopes"> coupez </operation> du <ingredient action="couper"> persil </ingredient> et <operation> parsemez </operation> sur vos <ingredient action="couper" quantite="4"> escalopes </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . il vous reste plus qu’ à déguster .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170817">
+<titre>Mousse aux trois chocolats</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de chocolat blanc à la noix de coco</p>
+<p>200 g de chocolat au lait ou praliné</p>
+<p>200 g de chocolat noir</p>
+<p>6 oeufs entiers</p>
+<p>2 blancs d'oeufs</p>
+<p>1 noisette de beurre</p>
+<p>3 feuilles de gélatine</p>
+<p>une pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> ramollir </operation> les feuilles de <ingredient action="ramollir" quantite="3 feuille"> gélatine </ingredient> dans un bol d' eau froide . faire <operation ingredients="chocolat"> fondre </operation> séparément chaque <ingredient action="fondre" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> au bain - marie . <operation ingredients="noisette"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> noisette </ingredient> de beurre au chocolat noir <operation> fondu </operation> . <operation ingredients="gélatine"> ajouter </operation> une feuille de <ingredient action="ajouter" quantite="3 feuille"> gélatine </ingredient> <operation ingredients="chocolat"> égouttée </operation> à chaque <ingredient action="égoutter" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="oeufs;chocolat"> incorporer </operation> 2 jaunes d' <ingredient action="incorporer" quantite="6"> oeufs </ingredient> à chaque <ingredient action="incorporer" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> . <operation ingredients="sel"> monter </operation> les 8 blancs en neige avec le <ingredient action="monter" quantite="1 pincée"> sel </ingredient> , assez ferme et les <operation ingredients="chocolat"> incorporer </operation> délicatement dans chaque <ingredient action="incorporer" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> . <operation> tapisser </operation> un <operation> moule </operation> à cake d' une feuille de cuisson sulfurisée . <operation ingredients="mousse;chocolat;chocolat;chocolat"> etaler </operation> chaque <ingredient action="etaler"> mousse </ingredient> dans l' ordre suivant : <ingredient action="etaler" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> noir , <ingredient action="etaler" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> blanc et enfin <ingredient action="etaler" quantite="200 gramme+200 gramme+200 gramme"> chocolat </ingredient> au lait . <operation> mettre </operation> au frais au moins 5 heures . ensuite , il suffit de <operation> retourner </operation> le <operation> moule </operation> à cake dans un plat de service et de <operation> démouler </operation> facilement grâce à la feuille de cuisson . <ingredient> cidre </ingredient> ou vin blanc moelleux
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23534">
+<titre>Soupe surprise au pain et au fromage</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 tomates</p>
+<p>3 belles pommes de terre</p>
+<p>1/2 coeur de céleri</p>
+<p>2 blancs de poireaux</p>
+<p>8 tranches de pain de campagne rassis</p>
+<p>150 g de fromage râpé</p>
+<p>une poignée de basilic</p>
+<p>3 gousses d'ail</p>
+<p>2 branches de thym</p>
+<p>2 feuilles de laurier</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> lavez </operation> , <operation> pelez </operation> et <operation> coupez </operation> les <ingredient action="laver" quantite="6;3"> légumes </ingredient> en petits morceaux . faites <operation> chauffer </operation> 2 cuillères à soupe d' huile . <operation ingredients="poireaux"> mettez </operation> - y les <ingredient action="mettre"> poireaux </ingredient> et laissez - les <operation ingredients="gousses"> blondir </operation> avec 2 <ingredient action="blondir" quantite="3"> gousses </ingredient> d' ail <operation> écrasées </operation> . <operation> versez </operation> 2 l d' eau bouillante . <operation ingredients="pommes;céleri;thym;laurier"> laissez </operation> <operation> revenir </operation> l' <operation> ébullition </operation> , puis <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="6"> tomates </ingredient> , les <ingredient action="laisser" quantite="3"> pommes </ingredient> de terre , le <ingredient action="laisser"> céleri </ingredient> , le <ingredient action="laisser"> thym </ingredient> et le <ingredient action="laisser" quantite="2 feuille"> laurier </ingredient> . laissez <operation> mijoter </operation> 1 h à feu doux . <operation ingredients="pain"> déposez </operation> 2 tranches de <ingredient action="déposer" quantite="8 tranche"> pain </ingredient> <operation ingredients="ail"> frottées </operation> à l' <ingredient action="frotter"> ail </ingredient> par assiette , <operation ingredients="huile"> arrosez </operation> - les d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive . rpéartissez le <ingredient quantite="150 gramme"> fromage </ingredient> râpé . <operation> mixez </operation> la <ingredient> soupe </ingredient> et <operation> versez </operation> - la dans les assiettes . <operation ingredients="basilic"> saupoudrez </operation> de <ingredient action="saupoudrer"> basilic </ingredient> <operation> ciselé </operation> et servez .
+</preparation>
+</recette>

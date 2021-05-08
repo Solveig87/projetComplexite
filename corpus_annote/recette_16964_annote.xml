@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16964">
+<titre>Pizza 4 saisons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de pâte brisée</p>
+<p>150 g de champignons de Paris</p>
+<p>1 boîte de purée de tomates</p>
+<p>2 tranches fines de jambon blanc</p>
+<p>1 aubergine</p>
+<p>3 tomates</p>
+<p>quelques rondelle de chorizo</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>50 g de parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="150 gramme"> champignons </ingredient> , les <operation> émincer </operation> et les faire <operation ingredients="huile"> dorer </operation> légèrement dans l' <ingredient action="dorer" quantite="4 cuillère à soupe"> huile </ingredient> . <operation ingredients="aubergine"> laver </operation> l' <ingredient action="laver" quantite="1"> aubergine </ingredient> la <operation> couper </operation> , l' <operation> éplucher </operation> et la faire <operation ingredients="huile"> dorer </operation> dans l' <ingredient action="dorer" quantite="4 cuillère à soupe"> huile </ingredient> . <operation ingredients="jambon;tomates;chorizo"> couper </operation> le <ingredient action="couper"> jambon </ingredient> en fines lamelles ainsi que les <ingredient action="couper" quantite="3"> tomates </ingredient> et le <ingredient action="couper"> chorizo </ingredient> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="300 gramme"> pâte </ingredient> sur une <operation> plaque </operation> et <operation ingredients="tomates"> verser </operation> la purée de <ingredient action="verser" quantite="3"> tomates </ingredient> , puis les préparations des ingrédients ci - dessus . <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> parmesan </ingredient> râpé , puis <operation> cuire </operation> 15 mn à thermostat 7 / 8 ( 230 <operation> ° </operation> c ) . chianti
+</preparation>
+</recette>

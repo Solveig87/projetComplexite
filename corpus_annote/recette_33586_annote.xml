@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33586">
+<titre>Tartelettes aux poivrons et Pesto</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée toute prête</p>
+<p>huile d'olive</p>
+<p>3 poivrons (rouge + jaune + vert) </p>
+<p>5/6 oignons grelots</p>
+<p>1 petit bocal de sauce au Pesto</p>
+<p>sel, poivre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+faire <operation action="confire" ingredients="confire;huile;poivrons"> confire </operation> dans une <operation> poêle </operation> anti-adhésive avec un peu d' <ingredient action="confire" quantite=""> huile </ingredient> d' olive les oignons <operation> émincés </operation> et les <ingredient action="confire" quantite="3"> poivrons </ingredient> <operation> coupés </operation> en lanières . laisser <operation> cuire </operation> à <operation> couvert </operation> pendant 30 mn environ , à feu doux . ne pas hésiter à <operation> ajouter </operation> un peu d' eau si les <ingredient action="griller" quantite="3"> légumes </ingredient> <operation ingredients="légumes"> grillent </operation> . <operation ingredients="sel;poivre"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> sel </ingredient> mais pas trop ) , <ingredient action="assaisonner" quantite=""> poivre </ingredient> , herbes de provence . <operation> réserver </operation> . dans la <ingredient action="faire"> pâte </ingredient> feuilletée étalée , <operation ingredients="pâte"> faire </operation> des minis tartelettes à l' aide d' un bol . <operation> poser </operation> les tartelettes sur du papier sulufurisé sur la <operation> plaque </operation> du four . <operation ingredients="tarte"> piquer </operation> à la fourchette les <operation> fonds </operation> de <ingredient action="piquer"> tarte </ingredient> et les <operation ingredients="huile"> badigeonner </operation> d' <ingredient action="badigeonner" quantite=""> huile </ingredient> d' olive . sur les contours , appliquer le bout de la fourchette tout autour pour <operation> décorer </operation> . <operation ingredients="tarte;poivrons"> déposer </operation> sur les <operation> fonds </operation> de <ingredient action="déposer"> tarte </ingredient> la garniture de <ingredient action="déposer" quantite="3"> poivrons </ingredient> , laisser environ 1 cm sur les bords pour que la <ingredient> pâte </ingredient> lève lors de la cuisson . <operation ingredients="poivrons"> ajouter </operation> par - dessus les <ingredient action="ajouter" quantite="3"> poivrons </ingredient> une bonne cuillère à café de pesto ( ou plus suivant les goûts de chacun ) . <operation> enfourner </operation> à four chaud , 180 <operation> ° </operation> c pendant 15 à 20 mn . servir chaud en entrée avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

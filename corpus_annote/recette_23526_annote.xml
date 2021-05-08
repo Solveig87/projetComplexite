@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23526">
+<titre>Tarte au crabe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rouleau de pâte brisée</p>
+<p>2 boîtes de crabe</p>
+<p>20 cl de crème fraîche</p>
+<p>1 pointe de piment de cayenne</p>
+<p>125 g de fromage râpé</p>
+<p>noix de muscade</p>
+<p>3 gousses d'ail</p>
+<p>1 oignon</p>
+<p>5 oeufs</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;oignon"> revenir </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> l' ail et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> hachés </operation> , y <operation ingredients="persil"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> . dans un bol <operation ingredients="crème"> mélanger </operation> <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche oeufs , fromage <operation> râpé </operation> , cayenne et <ingredient> muscade </ingredient> . <operation ingredients="crabe"> ajouter </operation> le <ingredient action="ajouter"> crabe </ingredient> <operation> égoutté </operation> . <operation> mélanger </operation> les 2 préparations hors du feu et en <operation ingredients="pâte"> couvrir </operation> la <ingredient action="couvrir"> pâte </ingredient> <operation> brisée </operation> . <operation> mettre </operation> au four 200 <operation> ° </operation> c , 30 à 35 mn .
+</preparation>
+</recette>

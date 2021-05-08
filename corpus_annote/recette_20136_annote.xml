@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20136">
+<titre>Figues fleur à la crème de framboise</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 figues</p>
+<p>150 g de framboises</p>
+<p>150 g de fromage blanc</p>
+<p>1 à 2 cuillères à soupe de miel liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="figues"> couper </operation> les <ingredient action="couper" quantite="12"> figues </ingredient> en 5 sans aller jusqu' au bout afin que les 5 quartiers restent attachés les uns aux autres . ecarter les quartiers de <ingredient quantite="12"> figues </ingredient> de façon à obtenir 5 pétales . <operation ingredients="framboises"> réduire </operation> les <ingredient action="réduire" quantite="150 gramme"> framboises </ingredient> en purée , les <operation> passer </operation> au tamis afin d' <operation> ôter </operation> les petits grains . <operation ingredients="fromage;miel"> incorporer </operation> le <ingredient action="incorporer" quantite="150 gramme"> fromage </ingredient> blanc et le <ingredient action="incorporer"> miel </ingredient> . lorsque le <operation> mélange </operation> est homogène , <operation ingredients="fromage;framboises;figues"> déposer </operation> des volutes de <ingredient action="déposer" quantite="150 gramme"> fromage </ingredient> blanc aux <ingredient action="déposer" quantite="150 gramme"> framboises </ingredient> sur les <ingredient action="déposer" quantite="12"> figues </ingredient> et servir .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96376">
+<titre>Tiramisu aux marrons et à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 gr de mascarpone</p>
+<p>3 jaunes d'oeuf </p>
+<p>4 blancs d'oeuf</p>
+<p>150 grammes de crème de marrons</p>
+<p>chocolat en poudre 100% cacao</p>
+<p>4 marrons glacés</p>
+<p>Une cuiller à soupe d'amaretto</p>
+<p>3 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="oeufs;sucre"> blanchir </operation> les jaunes d' <ingredient action="blanchir"> oeufs </ingredient> avec le <ingredient action="blanchir" quantite="3 cuillère à soupe"> sucre </ingredient> en <operation> mélangeant </operation> énergiquement . . <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gr"> mascarpone </ingredient> et <operation> mélanger </operation> délicatement . . <operation ingredients="crème;amaretto"> ajouter </operation> la <ingredient action="ajouter" quantite="150 gramme"> crème </ingredient> de marron et l' <ingredient action="ajouter"> amaretto </ingredient> . <operation> mélanger </operation> délicatement . <operation> réserver </operation> la prépation au frais .. <operation> monter </operation> les blancs en neige . . <operation> incorporer </operation> délicatement les blancs à la préparation précédente . <operation> disposer </operation> le <operation> mélange </operation> obtenu dans un plat adapté ou 4 verrines . <operation ingredients="cacao"> saupoudrer </operation> avec le <ingredient action="saupoudrer"> cacao </ingredient> en <operation> poudre </operation> . . <operation ingredients="marrons;glacés"> disposer </operation> les <ingredient action="disposer"> marrons </ingredient> <ingredient action="disposer" quantite="4"> glacés </ingredient> de manière régulière . <operation> mettre </operation> au réfrigérateur 2 à 3 h et déguster .
+</preparation>
+</recette>

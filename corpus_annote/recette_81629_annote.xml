@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81629">
+<titre>Soupe Blanche Algérienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon </p>
+<p>restes de poulet (2 beaux morceaux de blanc par exemple)</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1 pincée de poivre noir</p>
+<p>1 pincée de sel</p>
+<p>2 grosses cuillères à soupe de cannelle</p>
+<p>pâtes à potage (cheveux d'ange)</p>
+<p>400 g de pois chiches</p>
+<p>1/2 citron</p>
+<p>1 jaune d'oeuf</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;huile;sel;poivre;cannelle"> laisser </operation> <operation ingredients="oignon"> mijoter </operation> l' <ingredient action="mijoter" quantite="1"> oignon </ingredient> râpé , les morceaux de <ingredient action="laisser"> poulet </ingredient> , l' <ingredient action="laisser" quantite="2 cuillère à soupe"> huile </ingredient> , le <ingredient action="laisser" quantite="1 pincée"> sel </ingredient> , le <ingredient action="laisser"> poivre </ingredient> noir et la <ingredient action="laisser"> cannelle </ingredient> , dans une marmite à feu doux pendant 10 minutes . <operation> rajouter </operation> de l' eau si cela <operation> colle </operation> un peu . <operation ingredients="pois;chiches"> rajouter </operation> les <ingredient action="rajouter"> pois </ingredient> <ingredient action="rajouter" quantite="400 gramme"> chiches </ingredient> et <operation> couvrir </operation> d' eau . laisser <operation> mijoter </operation> encore 15 min . <operation ingredients="pâtes"> rajouter </operation> les <ingredient action="rajouter" quantite=""> pâtes </ingredient> à potage . une fois les <ingredient quantite=""> pâtes </ingredient> <operation> cuites </operation> ( <operation> compter </operation> environ 10 min ) , <operation ingredients="poulet"> rajouter </operation> le <ingredient action="rajouter"> poulet </ingredient> désossé et le <ingredient action="couper" quantite=""> persil </ingredient> <operation ingredients="persil"> coupé </operation> fin . <operation ingredients="jus;oeuf"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> de citron et le jaune d' <ingredient action="mélanger"> oeuf </ingredient> , <operation ingredients="soupe"> rajouter </operation> à la <ingredient action="rajouter"> soupe </ingredient> et laisser <operation> mijoter </operation> le tout encore 5 min . vérifier l' <ingredient quantite="2 cuillère à soupe;1 pincée;"> assaisonnement </ingredient> et servir chaud .
+</preparation>
+</recette>

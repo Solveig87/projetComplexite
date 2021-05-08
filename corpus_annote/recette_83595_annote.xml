@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83595">
+<titre>Blancs de volaille aux amandes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 blancs de volaille</p>
+<p>3 cuillères à soupe de moutarde à l'ancienne</p>
+<p>50 g d'amandes effilées</p>
+<p>1 oignon</p>
+<p>30 cl de crème liquide</p>
+<p>75 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="volaille"> tailler </operation> les blancs de <ingredient action="tailler"> volaille </ingredient> en lamelles . <operation> éplucher </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . dans une sauteuse , faire <operation ingredients="oignons;beurre"> blondir </operation> les <ingredient action="blondir" quantite="1"> oignons </ingredient> avec 25 g de <ingredient action="blondir" quantite="75 gramme"> beurre </ingredient> sans cesser de <operation> remuer </operation> . au bout de 3 min , <operation ingredients="volaille"> ajouter </operation> les blancs de <ingredient action="ajouter"> volaille </ingredient> et faire <operation> revenir </operation> sur feu vif pendant 3 min sans cesser de <operation> remuer </operation> . <operation ingredients="crème;moutarde;amandes"> verser </operation> la <ingredient action="verser" quantite="30 cl"> crème </ingredient> , la <ingredient action="verser" quantite="3 cuillère à soupe"> moutarde </ingredient> et les <ingredient action="verser" quantite="50 gramme"> amandes </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation> mélanger </operation> et laisser <operation> cuire </operation> encore 5 min . servir . vous pouvez remplacer les blancs de <ingredient> volaille </ingredient> par du <ingredient> veau </ingredient> .
+</preparation>
+</recette>

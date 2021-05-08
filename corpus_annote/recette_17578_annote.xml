@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17578">
+<titre>Brochettes au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>200 g de chocolat blanc</p>
+<p>100 g de sucre</p>
+<p>1 quatre-quart</p>
+<p>oranges, pommes, poires, fraises</p>
+</ingredients>
+<preparation>
+1 ) faites <operation ingredients="chocolat;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme+200 gramme"> chocolat </ingredient> noir ainsi que le <ingredient action="fondre" quantite="200 gramme+200 gramme"> chocolat </ingredient> blanc séparément . 2 ) <operation ingredients="fruits"> embrocher </operation> sur un pique en bois des morceaux de quatre quart et des morceaux de <ingredient action="embrocher" quantite=";;;"> fruits </ingredient> de votre choix . 3 ) <operation> napper </operation> de <ingredient quantite="200 gramme+200 gramme"> chocolat </ingredient> <operation> fondu </operation> , soit noir , soit blanc . 4 ) <operation> disposer </operation> sur un plat et servir chaud , quand le <ingredient action="durcir" quantite="200 gramme+200 gramme"> chocolat </ingredient> n' aura pas encore <operation ingredients="chocolat"> durcit </operation> ! . bon appétit ! délicieux , surtout l' hiver ! un bon <ingredient> vin </ingredient> pétillant ou encore mieux , du <ingredient> champagne </ingredient> !
+</preparation>
+</recette>

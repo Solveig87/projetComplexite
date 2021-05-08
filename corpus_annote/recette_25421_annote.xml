@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25421">
+<titre>Spaghetti aux sardines, raisins et pignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de spaghetti</p>
+<p>750 g de sardines fraîches vidées et désaretées</p>
+<p>9 filets d'anchois à l'huile</p>
+<p>2 oignons</p>
+<p>75 g de raisins de Corinthe</p>
+<p>75 g de pignons</p>
+<p>1 dose de safran</p>
+<p>15 cl d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="75 gramme"> raisins </ingredient> secs dans de l' eau tiède pendant 15 minutes . <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="2"> oignon </ingredient> et le faire <operation ingredients="huile"> fondre </operation> dans l' <ingredient action="fondre" quantite="15 cl"> huile </ingredient> jusqu' à ce qu' il soit bien tendre . <operation ingredients="safran;raisins;pignons;sardines"> ajouter </operation> le <ingredient action="ajouter"> safran </ingredient> , les <ingredient action="ajouter" quantite="75 gramme"> raisins </ingredient> <operation> égouttés </operation> , les <ingredient action="ajouter" quantite="75 gramme"> pignons </ingredient> et les <ingredient action="ajouter" quantite="750 gramme"> sardines </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> 10 minutes . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . <operation ingredients="anchois;pâtes"> ecraser </operation> les <ingredient action="ecraser"> anchois </ingredient> avec un peu d' eau de cuisson des <ingredient action="ecraser"> pâtes </ingredient> puis <operation> incorporer </operation> à la sauce . <operation> egoutter </operation> les <ingredient action="mettre"> pâtes </ingredient> , les <operation ingredients="pâtes"> mettre </operation> dans la sauce , <operation> remuer </operation> et servir .
+</preparation>
+</recette>

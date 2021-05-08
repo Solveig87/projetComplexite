@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57332">
+<titre>Riz aux poivrons et à la viande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de riz</p>
+<p>600 g de viande hachée</p>
+<p>3 tomates</p>
+<p>2 petits poivrons</p>
+<p>poivre, paprika</p>
+<p>concentré de tomate</p>
+<p>20 cl de crème fraîche</p>
+<p>1 bouillon cube</p>
+<p>30 cl d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="400 gramme"> riz </ingredient> et <operation> rincez </operation> - le une fois qu' il est <operation> cuit </operation> . durant ce temps , <operation ingredients="bouillon"> faites </operation> <operation> bouillir </operation> 10 cl d' eau avec la moitié de votre <ingredient action="faire" quantite="1"> bouillon </ingredient> cube que vous <operation> ajouterez </operation> dans le saladier avec les autres ingrédients , une fois refroidi . <operation ingredients="bouillon;tomate"> portez </operation> ensuite à <operation> ébullition </operation> 20 cl d' eau , l' autre moitié de <ingredient action="porter" quantite="1"> bouillon </ingredient> cube et la moitié d' une petite boite de <operation> concentré </operation> de <ingredient action="porter" quantite="3"> tomate </ingredient> en <operation> mélangeant </operation> . dès l' <operation> ébullition </operation> , <operation> retirez </operation> du feu et <operation ingredients="crème"> ajoutez </operation> les 20 cl de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche en tournant pour obtenir un <operation> mélange </operation> homogène . préchauffez votre four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="poivrons;tomates;poivron"> coupez </operation> l' un des <ingredient action="couper" quantite="2"> poivrons </ingredient> et vos <ingredient action="couper" quantite="3"> tomates </ingredient> en dés et l' autre <ingredient action="couper" quantite="2"> poivron </ingredient> en lamelles pas trop épaisses . dans un grand saladier , <operation ingredients="viande"> mettez </operation> votre <ingredient action="mettre" quantite="600 gramme"> viande </ingredient> hachée , les dés de <ingredient action="poivrer" quantite="3"> tomate </ingredient> et de <ingredient action="poivrer" quantite="2"> poivron </ingredient> , <operation ingredients="tomate;poivron"> poivrez </operation> ( j' ajoute un peu de <ingredient quantite=""> paprika </ingredient> mais c' est optionnel ) , le <ingredient quantite="400 gramme"> riz </ingredient> et le <ingredient quantite="1"> bouillon </ingredient> . <operation> mélangez </operation> bien le tout et <operation> mettez </operation> le <operation> mélange </operation> dans un plat pour le four . <operation ingredients="poivron"> disposez </operation> les lamelles de <ingredient action="disposer" quantite="2"> poivron </ingredient> sur le dessus et <operation> versez </operation> une bonne moitié de la sauce <operation> préparée </operation> . <operation> mettez </operation> au four 40 min . <operation> ajoutez </operation> le restant de sauce puis <operation> remettez </operation> au four pour 30 min . c' est prêt !
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36430">
+<titre>Crumble de poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la garniture :</p>
+<p>la chair d'1/2 poulet cuit</p>
+<p>600 g de légumes déjà cuits (peuvent être surgelés)</p>
+<p>1/4 l de bouillon de volaille</p>
+<p>Pour le crumble :</p>
+<p>50 g de farine</p>
+<p>50 g de beurre</p>
+<p>50 g de parmesan</p>
+<p>2 cuillère à soupe de chapelure</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair"> emietter </operation> la <ingredient action="emietter"> chair </ingredient> de poulet dans un plat . <operation> huiler </operation> et <operation> mettre </operation> dans un plat . <operation ingredients="légumes;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="600 gramme"> légumes </ingredient> et le <ingredient action="ajouter"> bouillon </ingredient> de volaille . <operation ingredients="farine;beurre;chapelure;parmesan"> mélanger </operation> dans un récipient la <ingredient action="mélanger" quantite="50 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="50 gramme"> beurre </ingredient> , la <ingredient action="mélanger" quantite="2 cuillère à soupe"> chapelure </ingredient> et le <ingredient action="mélanger" quantite="50 gramme"> parmesan </ingredient> . <operation> répartir </operation> sur la garniture . <operation> mettre </operation> au four préchauffé à 200 <operation> ° </operation> c pendant 15 minutes .
+</preparation>
+</recette>

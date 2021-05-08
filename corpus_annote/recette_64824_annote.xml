@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64824">
+<titre>Riz mexicain au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz long</p>
+<p>1 chorizo fort</p>
+<p>1 poivron vert</p>
+<p>200 g de lardons natures</p>
+<p>1 tomate</p>
+<p>beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 oignon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un plat style cocotte , <operation ingredients="oignon"> mettre </operation> l' <ingredient action="mettre" quantite="1"> oignon </ingredient> à <operation ingredients="huile"> cuire </operation> avec <ingredient action="cuire" quantite="1 cuillère à soupe"> huile </ingredient> . faire <operation ingredients="poivron"> revenir </operation> le <ingredient action="revenir"> poivron </ingredient> vert <operation> coupé </operation> en petits morceaux . quand le <ingredient> poivron </ingredient> est revenu , <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> . laisser <operation> cuire </operation> un peu . <operation ingredients="riz;non"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> riz </ingredient> <ingredient action="ajouter" quantite="1;1"> non </ingredient> cuit , bien <operation> mélanger </operation> et <operation> couvrir </operation> d' eau . laisser <operation> cuire </operation> doucement et <operation> rajouter </operation> de l' eau au fur et a <operation> mesure </operation> de la cuisson . quand le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> est presque <operation ingredients="riz;chorizo"> cuit </operation> y <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> coupée </operation> en morceaux ainsi que le <ingredient action="cuire"> chorizo </ingredient> <operation> coupé </operation> en lamelles . laisser <operation> cuire </operation> un peu afin que le <ingredient quantite="300 gramme"> riz </ingredient> prenne la couleur du <ingredient> chorizo </ingredient> puis servir . bon appetit ! vous pouvez prendre un <ingredient> chorizo </ingredient> très fort pour ceux qui aiment les plats " corsés " , ou pas fort , cela dépend des goûts .
+</preparation>
+</recette>

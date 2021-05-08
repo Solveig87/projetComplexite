@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166683">
+<titre>Gratin de riz à la courgette et au munster</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150g de riz basmati</p>
+<p>1 courgette</p>
+<p>3 œufs</p>
+<p>3 cuillères à soupe de farine</p>
+<p>50g de munster</p>
+<p>Ciboulette ciselé</p>
+<p>Persil</p>
+<p>Sel</p>
+<p>Poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="150 gramme"> riz </ingredient> . <operation> laver </operation> et <operation> couper </operation> puis <operation> émincer </operation> la courgette . <operation ingredients="munster"> couper </operation> le <ingredient action="couper" quantite="50 gramme"> munster </ingredient> en petit morceau . <operation ingredients="œufs;persil;condiments"> battre </operation> les <ingredient action="battre" quantite="3"> œufs </ingredient> et y <operation ingredients="ciboulette"> ajouter </operation> la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> , le <ingredient action="battre" quantite=""> persil </ingredient> et les autres <ingredient action="battre" quantite=";;;"> condiments </ingredient> . <operation ingredients="riz;munster"> mélanger </operation> dans un saladier le <ingredient action="mélanger" quantite="150 gramme"> riz </ingredient> + la courgette + le <ingredient action="mélanger" quantite="50 gramme"> munster </ingredient> + l' omelette . <operation> ajouter </operation> pour finir la <ingredient quantite="3 cuillère à soupe"> farine </ingredient> . <operation> verser </operation> le <operation> mélange </operation> dans un plat à gratin légèrement beurré puis <operation> mettre </operation> au four . cuisson à 200 <operation> ° </operation> c pendant une trentaine de minutesi il reste du <ingredient quantite="50 gramme"> munster </ingredient> , on peut l' <operation ingredients="gruyère"> ajouter </operation> sur le dessus du plat pour qu' il gratine , ou bien du <ingredient action="ajouter"> gruyère </ingredient> .
+</preparation>
+</recette>

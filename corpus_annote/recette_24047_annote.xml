@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24047">
+<titre>Pain de saumon au coulis de poireau</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour le pain de saumon :</p>
+<p>200 g de saumon (en boîte ou frais)</p>
+<p>20 cl de crème fraîche</p>
+<p>4 oeufs</p>
+<p>sel, poivre et ciboulette</p>
+<p>Pour le coulis :</p>
+<p>4 blancs de poireaux</p>
+<p>20 cl de crème fraîche</p>
+<p>50 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;saumon"> préparer </operation> le <ingredient action="préparer"> pain </ingredient> de saumon : <operation ingredients="saumon"> égoutter </operation> le contenu de la boîte de <ingredient action="égoutter" quantite="200 gramme"> saumon </ingredient> et en <operation> réduire </operation> la moitié en purée au <operation> mixer </operation> ou à la fourchette ( si <ingredient action="préparer" quantite="200 gramme"> saumon </ingredient> frais , le <operation> cuire </operation> à l' eau , à la vapeur ou au micro-ondes ) . dans une terrine , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> en omelette , puis <operation ingredients="sel"> ajouter </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre , 2 cuillères à soupe de ciboulette hachée et le reste du <ingredient quantite="200 gramme"> saumon </ingredient> émietté . <operation ingredients="saumon"> ajouter </operation> la purée de <ingredient action="ajouter" quantite="200 gramme"> saumon </ingredient> ( première préparation ) à laquelle on aura préalablement <operation ingredients="crème"> mélangé </operation> la <ingredient action="mélanger" quantite="20 cl+20 cl"> crème </ingredient> fraîche , puis <operation> battre </operation> le tout jusqu' à obtenir un <operation> mélange </operation> homogène . <operation> beurrer </operation> un <operation> moule </operation> , y <operation> verser </operation> la préparation et <operation> cuire </operation> au bain - marie chaud dans un four préchauffé à 200 <operation> ° </operation> c ( thermostat 7 ) pendant 35 à 45 mn . pour le coulis , <operation ingredients="poireaux"> laver </operation> les <ingredient action="laver"> poireaux </ingredient> , les <operation> émincer </operation> finement et les <operation ingredients="beurre;sel;poivre"> faire </operation> étuver à feu doux 20 mn environ dans du <ingredient action="faire" quantite="50 gramme"> beurre </ingredient> , du <ingredient action="faire" quantite=""> sel </ingredient> et du <ingredient action="faire"> poivre </ingredient> . <operation> remuer </operation> et <operation> rajouter </operation> éventuellement un peu d' eau chaude si nécessaire . <operation> réduire </operation> cet émincé en purée au <operation> mixer </operation> , puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl+20 cl"> crème </ingredient> fraîche au <operation> mélange </operation> et <operation> mixer </operation> à nouveau . <operation> réchauffer </operation> doucement ce coulis ( sans faire <operation> bouillir </operation> ) et le servir avec le <ingredient> pain </ingredient> <operation> démoulé </operation> sur le plat de service .
+</preparation>
+</recette>

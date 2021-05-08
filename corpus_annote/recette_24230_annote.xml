@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24230">
+<titre>Salade d'avocats aux poivrons et aux fines herbes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 beaux avocats</p>
+<p>1 jus de citron</p>
+<p>1 poivron rouge</p>
+<p>2 gousses d'ail</p>
+<p>1 oignon</p>
+<p>1 cuillère à café de moutarde</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de fines herbes hachées</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair"> coupez </operation> la <ingredient action="couper"> chair </ingredient> des avocats en dés et <operation ingredients="citron"> arrosez </operation> d' un filet de <ingredient action="arroser"> citron </ingredient> . <operation ingredients="poivron;oignons"> emincez </operation> le <ingredient action="emincez"> poivron </ingredient> en fines lanières , les <ingredient action="emincez" quantite="1"> oignons </ingredient> en fines lamelles et <operation ingredients="ail"> hachez </operation> l' <ingredient action="hacher"> ail </ingredient> . <operation ingredients="poivron;avocat;ail;oignon"> mélangez </operation> le <ingredient action="mélanger"> poivron </ingredient> , l' <ingredient action="mélanger"> avocat </ingredient> , l' <ingredient action="mélanger"> ail </ingredient> et l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> . <operation ingredients="jus;huile"> emulsionnez </operation> le reste du <ingredient action="emulsionner" quantite="1"> jus </ingredient> de citron avec l' <ingredient action="emulsionner" quantite="3 cuillère à soupe"> huile </ingredient> , les herbes . <operation ingredients="sel;poivre;moutarde"> mettez </operation> aussi du <ingredient action="mettre" quantite=""> sel </ingredient> , du <ingredient action="mettre"> poivre </ingredient> et un peu de <ingredient action="mettre" quantite="1 cuillère à café"> moutarde </ingredient> . <operation ingredients="salade"> arrosez </operation> la <ingredient action="arroser"> salade </ingredient> de cette vinaigrette , <operation> mélangez </operation> et servez .
+</preparation>
+</recette>

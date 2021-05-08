@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22523">
+<titre>Salade fraîche d'endives et oranges</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 endives</p>
+<p>4 oranges</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="4"> endives </ingredient> en petits morceaux ( environ 1 cm de large ) et les <operation> verser </operation> dans un saladier . <operation ingredients="oranges"> peler </operation> 3 <ingredient action="peler" quantite="4"> oranges </ingredient> au dessus du saladier pour en récupérer le <ingredient> jus </ingredient> . <operation ingredients="oranges"> couper </operation> les <ingredient action="couper" quantite="4"> oranges </ingredient> <operation> pelées </operation> en tranches fines , et les <operation ingredients="endives"> ajouter </operation> aux <ingredient action="ajouter" quantite="4"> endives </ingredient> . <operation ingredients="orange"> presser </operation> la dernière <ingredient action="presser" quantite="4"> orange </ingredient> sur le <operation> mélange </operation> dans le saladier , <operation ingredients="huile;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> , <operation> mélanger </operation> . laisser au frais pendant 1 heure avant de servir . recette rapide , simple , peu cher , et très fraîche . très agréable en été . petit chablis , ou un autre <ingredient> vin </ingredient> blanc .
+</preparation>
+</recette>

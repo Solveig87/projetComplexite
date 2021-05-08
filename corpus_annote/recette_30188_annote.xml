@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30188">
+<titre>Rougail de tomates aux saucisses</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 de saucisses à cuire</p>
+<p>250 g de tomates</p>
+<p>2 oignons</p>
+<p>20 cl de vin blanc sec</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 pincée de gingembre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> ebouillantez </operation> les <ingredient action="ebouillanter" quantite="250 gramme"> tomates </ingredient> , <operation> pelez </operation> - les et <operation> coupez </operation> - les en quartiers et <operation> épépinez </operation> - les . <operation> hachez </operation> les <ingredient quantite="2"> oignons </ingredient> . <operation ingredients="saucisses"> coupez </operation> les <ingredient action="couper" quantite="4"> saucisses </ingredient> en rondelles . faites <operation ingredients="huile;vin"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> et le <ingredient action="chauffer" quantite="20 cl"> vin </ingredient> blanc , <operation ingredients="saucisses"> mettez </operation> - y les <ingredient action="mettre" quantite="4"> saucisses </ingredient> , laissez <operation> cuire </operation> jusqu' à évaporation du liquide . <operation ingredients="oignons;tomates;gingembre"> rajoutez </operation> les <ingredient action="rajouter" quantite="2"> oignons </ingredient> , les <ingredient action="rajouter" quantite="250 gramme"> tomates </ingredient> et le <ingredient action="rajouter" quantite="1 pincée"> gingembre </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . laissez <operation> mijoter </operation> 5 à 10 minutes en <operation> remuant </operation> .
+</preparation>
+</recette>

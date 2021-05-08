@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15580">
+<titre>Curry de crevettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de crevettes</p>
+<p>2 boîtes de tomates pelées</p>
+<p>1 oignon</p>
+<p>1 cuillère à café de curry</p>
+<p>un peu de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> emincez </operation> l' <ingredient action="emincez" quantite="1"> oignon </ingredient> , et faites - le <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir"> beurre </ingredient> jusqu' à ce qu' il <operation> blanchisse </operation> . <operation ingredients="tomates"> rajoutez </operation> les <ingredient action="rajouter"> tomates </ingredient> <operation ingredients="jus"> coupées </operation> en petits morceaux ainsi que leur <ingredient action="couper"> jus </ingredient> . laissez <operation> cuire </operation> quelques instants , puis <operation ingredients="crevettes"> rajoutez </operation> les <ingredient action="rajouter" quantite="600 gramme"> crevettes </ingredient> <operation> décortiquées </operation> et faire <operation> cuire </operation> à feu doux 10 à 15 min , en <operation ingredients="curry;sel;poivre"> ajoutant </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> .
+</preparation>
+</recette>

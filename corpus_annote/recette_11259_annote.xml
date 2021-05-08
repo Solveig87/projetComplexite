@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11259">
+<titre>Flan de comté</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>1 litre de lait</p>
+<p>6 oeufs</p>
+<p>200 g  de gruyère de Comté</p>
+<p>sel, poivre, muscade</p>
+</ingredients>
+<preparation>
+foncer un <operation> moule </operation> à tarte de pâte feuilletée . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="1 litre"> lait </ingredient> dans une casserole . lorsque le point d' <operation> ébullition </operation> est atteint , baisser le feu . <operation ingredients="oeufs"> incorporez </operation> les <ingredient action="incorporer" quantite="6"> oeufs </ingredient> que vous aurez <operation> battus </operation> au fouet . <operation ingredients="fromage;muscade"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> ainsi qu' une pincée de <ingredient action="ajouter" quantite=""> muscade </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="pâte"> versez </operation> la préparation sur la <ingredient action="verser" quantite="1"> pâte </ingredient> feuilletée . <operation> mettez </operation> dans un four préchauffé à température moyenne , 30 min environ , jusqu' à ce que le <operation> mélange </operation> soit pris . servir chaud ou tiède .
+</preparation>
+</recette>

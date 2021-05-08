@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21700">
+<titre>Saint-Jacques au whisky</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>12 coquilles St Jacques</p>
+<p>250 g de tomates concassées</p>
+<p>150 g d'oignons</p>
+<p>20 cl de vin blanc sec</p>
+<p>20 cl de crème fraîche</p>
+<p>50 g de beurre</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de whisky</p>
+<p>2 branches de thym</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une casserole à fond épais , <operation> préparer </operation> une sauce tomate : faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive l' oignon <operation> émincé </operation> . <operation ingredients="tomates;thym;vin"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> tomates </ingredient> , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> blanc , <operation> saler </operation> et <operation> poivrer </operation> . a la reprise de l' ébulition , <operation> couvrer </operation> et laisser <operation> cuire </operation> 20 min . au bout de ce temps , <operation ingredients="beurre;saint-jacques"> poêler </operation> au <ingredient action="poêler" quantite="50 gramme"> beurre </ingredient> les noix et les coraux de <ingredient action="poêler"> saint-jacques </ingredient> . <operation ingredients="whisky"> ajouter </operation> alors la sauce tomate <operation> mixée </operation> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> whisky </ingredient> . au bout de 10 min de cuisson , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et server .
+</preparation>
+</recette>

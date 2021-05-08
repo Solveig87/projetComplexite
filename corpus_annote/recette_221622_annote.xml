@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221622">
+<titre>Frigousse de volaille</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses entières de volaille selon votre goût (canard, pintade, poulet... ou pigeon entier)</p>
+<p>10 cl de calvados</p>
+<p>1 bouteille de cidre fermier (si c'est du vrai cidre, l'ouvrir quand il est bien froid et le laisser chambrer 30 minutes)</p>
+<p>sel et poivre</p>
+<p>2 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="volaille;matière"> dorer </operation> 10 minutes les morceaux de <ingredient action="dorer"> volaille </ingredient> dans la <ingredient action="dorer" quantite="2 cuillère à soupe"> matière </ingredient> grasse ( dans l' idéal dans une cocotte en fonte à couvercle creux ) puis <operation> réserver </operation> . <operation ingredients="calvados"> déglacer </operation> les sucs de cuisson au <ingredient action="déglacer" quantite="10 cl"> calvados </ingredient> et le <operation> flamber </operation> . <operation> remettre </operation> les cuisses , <operation ingredients="cidre"> couvrir </operation> avec le <ingredient action="couvrir"> cidre </ingredient> et laisser <operation> mijoter </operation> à feu très doux 30 à 50 minutes selon la taille des cuisses ( si vous avez le couvercle creux , <operation> déposez </operation> des glaçons pour faire condenser la cuisson ) . servir selon vos envies <operation> accompagné </operation> de vitelottes ou <ingredient> pommes </ingredient> de terre à l' eau , ou marrons , ou <ingredient> patate </ingredient> douce au four c' est encore meilleur le lendemain .
+</preparation>
+</recette>

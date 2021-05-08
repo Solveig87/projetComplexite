@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22303">
+<titre>Pâtes au yaourt</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de farfalles, ou torsettes...</p>
+<p>4 yaourt nature "à la grecque"</p>
+<p>4 belles tranche de jambon</p>
+<p>1 gousse d'ail</p>
+<p>quelques feuilles de menthe ou de basilic frais</p>
+<p>sel/poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> et les laisser refroidir . pendant ce temps , <operation ingredients="jambon"> couper </operation> le <ingredient action="couper"> jambon </ingredient> en lamelles ; <operation ingredients="ail;sel"> écraser </operation> l' <ingredient action="écraser"> ail </ingredient> dans un saladier avec un peu de <ingredient action="écraser" quantite=""> sel </ingredient> ; <operation ingredients="yaourt"> rajouter </operation> le <ingredient action="rajouter" quantite="4"> yaourt </ingredient> , le <ingredient action="émincer"> jambon </ingredient> , les <ingredient action="émincer"> pâtes </ingredient> et les herbes fraîches <operation ingredients="jambon;pâtes"> émincées </operation> , <operation> mélanger </operation> intimement le tout . voilà , c' est un plat qui se déguste frais en été ! on peut <operation ingredients="tomates"> ajouter </operation> une petite <ingredient action="ajouter"> tomates </ingredient> <operation> épépinée </operation> et émincée très finement un petit rosé bien frais type <ingredient> côte </ingredient> de provence
+</preparation>
+</recette>

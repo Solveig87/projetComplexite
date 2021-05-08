@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224079">
+<titre>Jarret de veau à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de jarret de veau</p>
+<p>1 carotte</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe de miel</p>
+<p>15 cl de jus d'orange pressé </p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;huile"> revenir </operation> la <ingredient action="revenir" quantite="2 tranche"> viande </ingredient> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . pendant ce temps , <operation ingredients="oignon;carotte"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> et la <ingredient action="émincer" quantite="1"> carotte </ingredient> , <operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> , les <operation ingredients="viande"> ajouter </operation> à la <ingredient action="ajouter" quantite="2 tranche"> viande </ingredient> . <operation ingredients="miel;jus"> déglacer </operation> avec le <ingredient action="déglacer" quantite="1 cuillère à soupe"> miel </ingredient> et le <ingredient action="déglacer" quantite="15 cl"> jus </ingredient> d' orange . <operation> saler </operation> , <operation> poivrer </operation> . faire <operation> cuire </operation> à la cocotte - minute pendant 20 min . servir avec des <ingredient> pâtes </ingredient> ou du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

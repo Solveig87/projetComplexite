@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168156">
+<titre>Pizza steak haché</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte à pizza</p>
+<p>1/2 poivron</p>
+<p>1 oignon</p>
+<p>3 steaks hachés</p>
+<p>gruyère</p>
+<p>1 brique de coulis de tomate</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> faire </operation> une <ingredient action="faire" quantite=""> pâte </ingredient> a pizza la laisser levée ( elle en sera que mauilleur ) faire <operation ingredients="poivrons"> revenir </operation> les <ingredient action="revenir"> poivrons </ingredient> , puis <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> oignons </ingredient> . laisser <operation> revenir </operation> . <operation ingredients="tomate;basilic;carré"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomate </ingredient> et le <ingredient action="ajouter" quantite=""> basilic </ingredient> ( et un <ingredient action="ajouter"> carré </ingredient> de sucre afin d' <operation> enlever </operation> l' acidité ) faire <operation> réduire </operation> . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite=""> pâte </ingredient> dans un <operation> moule </operation> <operation> verser </operation> le coulis <operation> préparer </operation> . <operation ingredients="steak;gruyère"> emiéter </operation> le <ingredient action="emiéter" quantite="3"> steak </ingredient> haché dessus et le <ingredient action="emiéter" quantite=""> gruyère </ingredient> <operation> mettre </operation> au four et faire <operation> cuire </operation> 10 min a 200 <operation> ° </operation> <operation ingredients="salade;feta"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte avec des morceaux de <ingredient action="accompagner"> feta </ingredient>
+</preparation>
+</recette>

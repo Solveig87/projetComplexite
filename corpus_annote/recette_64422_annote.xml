@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64422">
+<titre>Poulet au curry et fromage de chèvre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>1 verre de riz basmati</p>
+<p>40 cl de crème fraîche</p>
+<p>curry en poudre</p>
+<p>2 boîtes de champignons de Paris</p>
+<p>1 buchette de chèvre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="riz"> faites </operation> <operation> bouillir </operation> de l' eau pour le <ingredient action="faire" quantite="1 verre"> riz </ingredient> . lorsque l' eau bout , <operation ingredients="riz;sel"> plongez </operation> le <ingredient action="plonger" quantite="1 verre"> riz </ingredient> avec une pincée de <ingredient action="plonger" quantite=""> sel </ingredient> . a côté faites <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer"> huile </ingredient> dans une grande <operation> poêle </operation> . faites <operation ingredients="poulet"> cuire </operation> les 4 filets de <ingredient action="cuire"> poulet </ingredient> dans la <operation> poêle </operation> . dans un saladier , <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="40 cl"> crème </ingredient> fraîche , <operation> ajoutez </operation> - y une cuillère à soupe de curry en <operation> poudre </operation> , <operation> poivrez </operation> . lorsque le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> , <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter"> champignons </ingredient> , puis la sauce . <operation ingredients="fromage"> coupez </operation> 8 parts de <ingredient action="couper"> fromage </ingredient> de chèvre . <operation> disposez </operation> 2 parts sur chaque filet . enfin , <operation ingredients="riz"> égouttez </operation> le <ingredient action="égoutter" quantite="1 verre"> riz </ingredient> , <operation ingredients="riz"> disposez </operation> un filet dans chaque assiette ainsi qu' un ramequin de <ingredient action="disposer" quantite="1 verre"> riz </ingredient> et <operation ingredients="champignons"> arrosez </operation> le tout de la sauce et des <ingredient action="arroser"> champignons </ingredient> . a tablez -vous et dégustez ! ! ! !
+</preparation>
+</recette>

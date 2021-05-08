@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88453">
+<titre>Poires aux spéculoos</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 poires</p>
+<p>40 cl de vin rouge</p>
+<p>250 g de sucre semoule</p>
+<p>1 cuillère à café de cannelle</p>
+<p>1 cuillère à café de muscade</p>
+<p>4 clous de girofle</p>
+<p>6 spéculoos</p>
+<p>2 cuillères à soupe de vanille liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> en laissant la queue . <operation ingredients="vin"> chauffer </operation> le <ingredient action="chauffer" quantite="40 cl"> vin </ingredient> , le <ingredient action="laisser" quantite="250 gramme"> sucre </ingredient> , la <ingredient action="laisser" quantite="1 cuillère à café"> cannelle </ingredient> , les clous de girofle et la vanille dans une casserole . <operation ingredients="poires"> incorporer </operation> les <ingredient action="incorporer" quantite="4"> poires </ingredient> , les <operation ingredients="sucre;cannelle"> laisser </operation> <operation> mijoter </operation> environ 40 à 45 minutes à feu doux puis les <operation> retirer </operation> et les <operation> réserver </operation> . continuer à faire <operation ingredients="sirop"> réduire </operation> le <ingredient action="réduire"> sirop </ingredient> afin de l' <operation> épaissir </operation> ( <operation ingredients="sucre"> ajouter </operation> du <ingredient action="ajouter" quantite="250 gramme"> sucre </ingredient> si nécessaire ) . <operation ingredients="poires;sirop"> remettre </operation> les <ingredient action="remettre" quantite="4"> poires </ingredient> quand le <ingredient action="remettre"> sirop </ingredient> est plus épais et laisser à nouveau <operation> cuire </operation> environ 10 minutes . pendant ce temps , <operation ingredients="spéculoos"> écraser </operation> les <ingredient action="écraser" quantite="6"> spéculoos </ingredient> en miettes . <operation ingredients="poires;sirop"> présenter </operation> les <ingredient action="présenter" quantite="4"> poires </ingredient> avec leur <ingredient action="présenter"> sirop </ingredient> dans une assiette . <operation ingredients="spéculoos;poire;sirop"> disperser </operation> de la <operation> poudre </operation> de <ingredient action="disperser" quantite="6"> spéculoos </ingredient> sur la <ingredient action="disperser" quantite="4"> poire </ingredient> et sur son <ingredient action="disperser"> sirop </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220445">
+<titre>Yaourt aux speculoos (avec yaourtière)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait demi-écrémé</p>
+<p>1 paquet de spéculoos 175g</p>
+<p>1 yaourt nature</p>
+<p>7 cuillères à café de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;spéculoos"> mixer </operation> le <ingredient action="mixer" quantite="1 litre"> lait </ingredient> et les <ingredient action="mixer"> spéculoos </ingredient> . <operation> mettre </operation> dans une casserole et <operation> porter </operation> à <operation> ébullition </operation> . <operation> retirer </operation> du feu et laisser refroidir . <operation> passer </operation> au tamis fin . <operation ingredients="yaourt;sucre;lait"> mixer </operation> le <ingredient action="mixer" quantite="1"> yaourt </ingredient> et le <ingredient action="mixer" quantite="7 cuillère à café"> sucre </ingredient> dans le <ingredient action="mixer" quantite="1 litre"> lait </ingredient> biscuité . <operation ingredients="yaourt"> verser </operation> dans le pots de <ingredient action="verser" quantite="1"> yaourt </ingredient> et <operation> mettre </operation> 10 heures dans la yaourtière puis au frais pendant 4 heures . a <operation> préparer </operation> avec une yaourtière de 7 pots .
+</preparation>
+</recette>

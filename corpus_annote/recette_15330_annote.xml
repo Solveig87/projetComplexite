@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15330">
+<titre>Flan pâtissier traditionnel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>4 œufs</p>
+<p>1 litre de lait</p>
+<p>150 g de sucre poudre</p>
+<p>90 g de Maïzena</p>
+<p>1 gousse de vanille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;gousse"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> avec la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille <operation> fendue </operation> ( dans le sens de la longueur ) . pendant ce temps , <operation ingredients="maïzena"> mélanger </operation> la <ingredient action="mélanger" quantite="90 gramme"> maïzena </ingredient> ( <operation> tamisée </operation> , c' est mieux ) avec le <ingredient quantite="150 gramme"> sucre </ingredient> et <operation ingredients="œufs"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> œufs </ingredient> bien <operation> battus </operation> . <operation> mélanger </operation> le tout ( bien homogène ) et <operation ingredients="lait;gousse"> ajouter </operation> le <ingredient action="ajouter" quantite="1 litre"> lait </ingredient> bouillant ( sans la <ingredient action="ajouter" quantite="1"> gousse </ingredient> ) . faire <operation> cuire </operation> la préparation à feu doux sans cesser de <operation> remuer </operation> pendant environ 1 à 2 min . foncer un plat rectangulaire préalablement beurré avec la <ingredient quantite="1"> pâte </ingredient> <operation> brisée </operation> . y <operation> verser </operation> la préparation . faire <operation> cuire </operation> à four moyen ( thermostat 6 / 7 ) pendant environ 30 à 40 min . le temps de cuisson dépend de votre four , alors bien surveiller la cuisson !
+</preparation>
+</recette>

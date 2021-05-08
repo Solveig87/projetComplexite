@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51522">
+<titre>Fondue bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de viande rouge</p>
+<p>800 g de blanc de poulet</p>
+<p>600 g de carottes</p>
+<p>600 g de concombres</p>
+<p>2 barquettes de tomates-cerises</p>
+<p>2 bottes de radis</p>
+<p>1 kg de pommes de terre</p>
+<p>1 salade verte</p>
+<p>Huile à fondue</p>
+<p>Assortiment de sauces pour fondue</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;poulet"> couper </operation> la <ingredient action="couper" quantite="800 gramme"> viande </ingredient> rouge et les blancs de <ingredient action="couper"> poulet </ingredient> en cube . <operation ingredients="carottes;concombres"> éplucher </operation> les <ingredient action="éplucher" quantite="600 gramme"> carottes </ingredient> et les <ingredient action="éplucher" quantite="600 gramme"> concombres </ingredient> , <operation ingredients="concombres"> évider </operation> les <ingredient action="évider" quantite="600 gramme"> concombres </ingredient> puis <operation> couper </operation> en fines lamelles le tout . <operation ingredients="radis"> éplucher </operation> les <ingredient action="éplucher"> radis </ingredient> , <operation ingredients="salade"> préparer </operation> la <ingredient action="préparer" quantite="1"> salade </ingredient> , <operation ingredients="tomates"> laver </operation> les <ingredient action="laver"> tomates </ingredient> et <operation> mettre </operation> le tout au frais . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à la vapeur ou mieux au four ( <operation ingredients="huile;sel;épices"> coupées </operation> en deux dans la longueur , badigeonnées avec un peu d' <ingredient action="couper" quantite=""> huile </ingredient> et parsemées de fleur de <ingredient action="couper"> sel </ingredient> ou d' <ingredient action="couper" quantite=""> épices </ingredient> ) . <operation ingredients="huile"> mettre </operation> sur la table avec le poêlon d' <ingredient action="mettre" quantite=""> huile </ingredient> chaude . <operation ingredients="viande;légumes"> accompagner </operation> la <ingredient action="accompagner" quantite="800 gramme"> viande </ingredient> avec l' assortiment de petits <ingredient action="accompagner" quantite="600 gramme;600 gramme;1 kilogramme;1"> légumes </ingredient> et ne pas oublier les sauces . ( ne pas oublier que le blanc de <ingredient> poulet </ingredient> cuit plus longtemps que la <ingredient quantite="800 gramme"> viande </ingredient> rouge . ) <ingredient> vin </ingredient> rouge ou rosé
+</preparation>
+</recette>

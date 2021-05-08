@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45446">
+<titre>Velouté aux châtaignes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 céleri boule de 400 g environ</p>
+<p>3 navets ronds</p>
+<p>2 oignons jaunes</p>
+<p>1 boîte 4/4 de châtaignes</p>
+<p>2 bouillons de poule en cube</p>
+<p>un peu de beurre pour faire revenir les légumes</p>
+<p>1 briquette de crème fraîche </p>
+<p>1,75 l d'eau (ou 2 l)</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="bouillon"> chauffer </operation> vos cubes de <ingredient action="chauffer" quantite="2"> bouillon </ingredient> dans l' eau . <operation ingredients="celeri"> pelez </operation> le <ingredient action="peler"> celeri </ingredient> , les <ingredient quantite="3"> navets </ingredient> et les <ingredient quantite="2"> oignons </ingredient> , et <operation> coupez </operation> - les en dés ( assez petits , pour qu' ils <operation> cuisent </operation> plus vite ) . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une marmite , <operation ingredients="céleri"> jetez </operation> le <ingredient action="jeter"> céleri </ingredient> , et faites - le <operation> revenir </operation> 2 min . puis , <operation ingredients="navets;oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> navets </ingredient> , et faites - les <operation> revenir </operation> aussi 2 min ; et enfin les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , pendant 2 min aussi . il faut respecter cet ordre , car ils ne faut pas que les <ingredient quantite="3;2;2"> légumes </ingredient> <operation> colorent </operation> ! <operation> egouttez </operation> les <ingredient> châtaignes </ingredient> , <operation> ajoutez </operation> - les aux <ingredient quantite="3;2;2"> légumes </ingredient> , et faites - les <operation> revenir </operation> 5 min . <operation ingredients="bouillon;légumes"> versez </operation> le <ingredient action="verser" quantite="2"> bouillon </ingredient> sur les <ingredient action="verser" quantite="3;2;2"> légumes </ingredient> et laissez <operation> cuire </operation> à <operation> couvert </operation> à feu très doux , en <operation> remuant </operation> de temps en temps , pendant 20 min ; et <operation> mixez </operation> . au moment de servir , <operation ingredients="soupe;soupe"> prélevez </operation> la quantité nécessaire de <ingredient action="prélever"> soupe </ingredient> , <operation ingredients="crème"> versez </operation> la briquette de <ingredient action="verser"> crème </ingredient> et <operation> réchauffez </operation> ( si besoin ) à feu très doux et régalez vous ! c' est une <ingredient action="prélever"> soupe </ingredient> assez épaisse . . . si vous la préférez plus fluide , n' hésitez pas à la <operation ingredients="bouillon"> rallonger </operation> avec du <ingredient action="rallonger" quantite="2"> bouillon </ingredient> . certains de mes amis <operation ingredients="emmental"> ajoutent </operation> de l' <ingredient action="ajouter"> emmental </ingredient> râpé . . .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56321">
+<titre>Cuisses de poulet façon créole</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 cuisses de poulet</p>
+<p>1 petite boîte de petits pois</p>
+<p>1 petite boîte de maïs</p>
+<p>1 petite boîte d'ananas</p>
+<p>250 g de riz</p>
+<p>1 sachet noix de cajoux</p>
+<p>noix de coco râpée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> cuire </operation> à la cocotte les cuisses de <ingredient action="cuire"> poulet </ingredient> pendant 20 mn , <operation> saler </operation> , <operation> poivrer </operation> . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> et l' <operation> égoutter </operation> . y <operation ingredients="pois;maïs;ananas;poivre;sel"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> , le <ingredient action="ajouter"> maïs </ingredient> et les <ingredient action="ajouter"> ananas </ingredient> <operation> coupés </operation> en dés , le <ingredient action="ajouter"> poivre </ingredient> et le <ingredient action="ajouter"> sel </ingredient> . faire <operation ingredients="jus"> chauffer </operation> ce <operation> mélange </operation> dans le <ingredient action="chauffer"> jus </ingredient> du poulet . <operation ingredients="noix;noix"> présenter </operation> dans des ramequins les <ingredient action="présenter" quantite=""> noix </ingredient> de cajoux hachées grossièrement et la <ingredient action="présenter" quantite=""> noix </ingredient> de coco <operation> râpée </operation> que chacun <operation> saupoudrera </operation> sur son plat .
+</preparation>
+</recette>

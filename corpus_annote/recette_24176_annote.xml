@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24176">
+<titre>Beignets de semoule fruitée</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la garniture de semoule aux fruits :</p>
+<p>80 g de semoule</p>
+<p>50 cl de lait</p>
+<p>75 g de sucre en poudre</p>
+<p>10 g de beurre</p>
+<p>zeste râpé d'1/2 citron</p>
+<p>250 g de fruits (cerises, prunes, fraises, abricots etc)</p>
+<p>1 pincée de sel</p>
+<p>Pour la pâte à beignet :</p>
+<p>100 g de farine (1 tasse)</p>
+<p>2 oeufs</p>
+<p>100 g de chapelure (1 tasse)</p>
+<p>huile de friture</p>
+<p>Pour le sirop de cuisson :</p>
+<p>125 g de sucre en poudre</p>
+<p>10 cl d'eau</p>
+<p>375 g de gelée de framboise (1 pot)</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop"> préparez </operation> le <ingredient action="préparer"> sirop </ingredient> de cuisson en <operation ingredients="sucre"> portant </operation> à <operation> ébullition </operation> l' eau et le <ingredient action="porter" quantite="75 gramme+125 gramme"> sucre </ingredient> . pochez - y les <ingredient quantite="250 gramme"> fruits </ingredient> , entiers s' ils sont petits ou <operation> coupés </operation> en morceaux s' ils sont gros , pendant 5 minutes . <operation ingredients="lait;semoule"> portez </operation> le <ingredient action="porter" quantite="50 cl"> lait </ingredient> à <operation> ébullition </operation> et <operation> jetez </operation> - y la <ingredient action="porter" quantite="80 gramme"> semoule </ingredient> en pluie . laissez <operation> épaissir </operation> pendant 10 minutes . hors du feu , <operation ingredients="sucre;beurre;sel"> ajoutez </operation> 75 g de <ingredient action="ajouter" quantite="75 gramme+125 gramme"> sucre </ingredient> , le <ingredient action="ajouter" quantite="10 gramme"> beurre </ingredient> et le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . <operation> râpez </operation> le zeste du demi-citron , <operation> ajoutez </operation> - le , puis <operation ingredients="fruits;sirop"> incorporez </operation> les <ingredient action="incorporer" quantite="250 gramme"> fruits </ingredient> <operation> pochés </operation> au <ingredient action="incorporer"> sirop </ingredient> . <operation> mélangez </operation> puis laissez refroidir . <operation ingredients="farine;oeufs;chapelure"> préparez </operation> 3 assiettes creuses : l' une avec la <ingredient action="préparer" quantite="100 gramme"> farine </ingredient> , la 2 e avec les <ingredient action="préparer" quantite="2"> oeufs </ingredient> <operation> battus </operation> , la 3 e avec la <ingredient action="préparer" quantite="100 gramme"> chapelure </ingredient> . avec la <ingredient action="façonner"> pâte </ingredient> de semoule aux fruits , <operation ingredients="pâte"> façonnez </operation> des croquettes . <operation ingredients="gelée;sirop;fruits"> passez </operation> - les successivement dans les 3 assiettes , puis faites - les <operation ingredients="huile"> frire </operation> dans l' <ingredient action="frire" quantite=""> huile </ingredient> chaude pendant 5 minutes . <operation> délayez </operation> la <ingredient action="passer" quantite="375 gramme"> gelée </ingredient> de framboises avec le <ingredient action="passer"> sirop </ingredient> de cuisson des <ingredient action="passer" quantite="250 gramme"> fruits </ingredient> et <operation> nappez </operation> -en les croquettes chaudes .
+</preparation>
+</recette>

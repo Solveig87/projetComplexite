@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19853">
+<titre>Petites crèmes express à la vanille</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de lait</p>
+<p>3 cuillères à soupe de sucre</p>
+<p>2 oeufs</p>
+<p>1 gousse de vanille</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> de l' eau dans une cocotte - minute <operation> couverte </operation> partiellement avec le couvercle . pendant ce temps , faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> lait </ingredient> et la vanille . dans un bol , <operation ingredients="oeufs;sucre"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> et le <ingredient action="battre" quantite="3 cuillère à soupe"> sucre </ingredient> . dès que le <ingredient action="frémir" quantite="25 cl"> lait </ingredient> <operation ingredients="lait"> frémit </operation> , l' <operation ingredients="oeufs"> ajouter </operation> au <operation> mélange </operation> <ingredient action="ajouter" quantite="2"> oeufs </ingredient> - sucre et <operation> remuer </operation> . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> dans des petits ramequins , les <operation> mettre </operation> dans le panier de la cocotte minute , fermer et faire <operation> cuire </operation> 8 mn à feu moyen à partir du sifflement . on peut faire un caramel et le <operation> mettre </operation> dans les ramequins avant de <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> . pour la cuisson , on peut aussi les faire dans un bain - marie au micro-onde .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175937">
+<titre>Risotto au topinambour et à la courge</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz pour risotto</p>
+<p>1 oignon</p>
+<p>1 gros topinambour</p>
+<p>1/8ème de courge</p>
+<p>huile d'olive</p>
+<p>1 cube de bouillon de légumes</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> éplucher </operation> les <ingredient action="éplucher" quantite="1;1"> légumes </ingredient> et les <operation> couper </operation> en petits dés . <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . <operation ingredients="huile"> mettre </operation> un peu d' <ingredient action="mettre" quantite=""> huile </ingredient> à <operation> chauffer </operation> dans une sauteuse puis y <operation ingredients="oignons;légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> oignons </ingredient> et les <ingredient action="ajouter" quantite="1;1"> légumes </ingredient> . les laisser <operation> colorer </operation> pendant environ 5 min . <operation ingredients="légumes"> réserver </operation> les <ingredient action="réserver" quantite="1;1"> légumes </ingredient> , <operation ingredients="huile"> ajouter </operation> à nouveau un peu d' <ingredient action="ajouter" quantite=""> huile </ingredient> dans la sauteuse et faire <operation ingredients="riz"> revenir </operation> le <ingredient action="revenir" quantite="250 gramme"> riz </ingredient> jusqu' à ce qu' il devienne translucide . ensuite , <operation ingredients="légumes"> remettre </operation> les <ingredient action="remettre" quantite="1;1"> légumes </ingredient> et <operation> couvrir </operation> d' eau bouillante . <operation ingredients="bouillon"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> de légumes <operation> délayer </operation> au préalable dans un peu d' eau chaude , <operation> saler </operation> légèrement et <operation> poivrer </operation> . <operation> couvrir </operation> et laisser <operation> cuire </operation> environ 20 min . <operation> découvrir </operation> et <operation ingredients="riz"> laisser </operation> sur le feu jusqu' à ce qu' il n' y presque plus de liquide et que le <ingredient action="laisser" quantite="250 gramme"> riz </ingredient> soit bien tendre . servir bien chaud .
+</preparation>
+</recette>

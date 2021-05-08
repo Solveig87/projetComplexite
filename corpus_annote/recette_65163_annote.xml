@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65163">
+<titre>Tomates aux oeufs d or</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses tomates</p>
+<p>4 oeufs</p>
+<p>2 cuillerées à soupe de crème fraîche</p>
+<p>2 cuillerées à soupe d'huile</p>
+<p>sel, poivre</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> coupez </operation> une calotte à chaque <ingredient action="couper" quantite="4"> tomate </ingredient> . videz - les à l' aide d' une petite cuillère . <operation ingredients="crème;tomates"> mettez </operation> un peu de <ingredient action="mettre"> crème </ingredient> fraîche au fond de chaque <ingredient action="mettre" quantite="4"> tomates </ingredient> , <operation> salez </operation> <operation> poivrez </operation> . <operation> huilez </operation> un plat allant au four . <operation> disposez </operation> - y les <ingredient quantite="4"> tomates </ingredient> , puis cassez un <ingredient quantite="4"> oeuf </ingredient> dans chaque <ingredient quantite="4"> tomate </ingredient> . <operation ingredients="parmesan;tomates"> ajoutez </operation> 1 à 2 pincées de <ingredient action="ajouter" quantite=""> parmesan </ingredient> sur les <ingredient action="ajouter" quantite="4"> tomates </ingredient> et <operation> enfournez </operation> pour 15 min à 180 ( thermostat 6 ) . voilà . bon appétit .
+</preparation>
+</recette>

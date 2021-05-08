@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54097">
+<titre>Filets de sabre sauce à l'oseille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de sabre </p>
+<p>1 oignon </p>
+<p>1 branche de thym</p>
+<p>1 feuille de laurier</p>
+<p>2 clous de girofle</p>
+<p>sel et poivre</p>
+<p>1 bouquet d'oseille</p>
+<p>200 g de beurre</p>
+<p>150 g de crème épaisse</p>
+<p>1 jus de citron</p>
+<p>10 cl de vin blanc</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;oignon;vin"> cuire </operation> le <ingredient action="cuire"> poisson </ingredient> dans un court-bouillon avec <ingredient action="cuire" quantite="1"> oignon </ingredient> , thym , laurier , clous de girofle , et <ingredient action="cuire" quantite="10 cl"> vin </ingredient> blanc ; <operation> saler </operation> , <operation> poivrer </operation> , puis laisser <operation> cuire </operation> 15 min . faire <operation ingredients="oseille;beurre"> fondre </operation> l' <ingredient action="fondre"> oseille </ingredient> dans 100 g de <ingredient action="fondre" quantite="200 gramme"> beurre </ingredient> y <operation ingredients="jus"> incorporer </operation> le <ingredient action="incorporer" quantite="1"> jus </ingredient> de citron , <operation ingredients="crème"> mélanger </operation> la <ingredient action="mélanger" quantite="150 gramme"> crème </ingredient> légèrement <operation> fondue </operation> . <operation> ajouter </operation> 2 louches de court-bouillon , puis <operation ingredients="beurre"> monter </operation> au <ingredient action="monter" quantite="200 gramme"> beurre </ingredient> et <operation ingredients="poisson"> dresser </operation> le <ingredient action="dresser"> poisson </ingredient> dans une assiette de service . <operation ingredients="riz"> acommpagner </operation> avec une timbale de <ingredient action="acommpagner"> riz </ingredient> , et <operation> napper </operation> les filets de sauce .
+</preparation>
+</recette>

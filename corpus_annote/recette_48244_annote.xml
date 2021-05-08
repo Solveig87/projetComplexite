@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48244">
+<titre>Crumble de saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de saumon sans peau ni arrêtes, coupé en gros cubes</p>
+<p>100 g de farine</p>
+<p>100 g de beurre froid coupé en dés (+ 10 g pour le plat)</p>
+<p>100 g de comté coupé en dés</p>
+<p>1 botte de ciboulette</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> beurrer </operation> un plat à gratin ( allant au micro-ondes ) , <operation ingredients="saumon"> disposer </operation> les morceaux de <ingredient action="disposer" quantite="500 gramme"> saumon </ingredient> et les <operation ingredients="ciboulette"> parsemer </operation> de <ingredient action="parsemer"> ciboulette </ingredient> . <operation ingredients="comté;farine;sel;poivre"> mettre </operation> le <ingredient action="mettre" quantite="100 gramme"> comté </ingredient> dans le bol d' un robot , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> , la <ingredient action="mettre" quantite="100 gramme"> farine </ingredient> , un peu de <ingredient action="mettre" quantite=""> sel </ingredient> , du <ingredient action="mettre" quantite=""> poivre </ingredient> , puis <operation ingredients="semoule"> mixer </operation> par à coups jusqu' à l' obtention d' une <ingredient action="mixer"> semoule </ingredient> grossière . <operation ingredients="semoule;saumon"> répartir </operation> régulièrement le <ingredient action="répartir"> semoule </ingredient> sur le <ingredient action="répartir" quantite="500 gramme"> saumon </ingredient> , <operation> mettre </operation> le plat sur le plateau tournant du four micro-ondes et <operation> cuire </operation> 11 min en fonction grill + micro-ondes 500 watts . astuces : il est possible de remplacer le plat à gratin par 4 cassolettes individuelles . <operation ingredients="salade"> accompagner </operation> le crumble d' une petite <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

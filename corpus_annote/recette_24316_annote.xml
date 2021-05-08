@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24316">
+<titre>Beignets de bananes épicés</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>100 g de farine</p>
+<p>1 pincée de sel</p>
+<p>2 oeufs</p>
+<p>2 cuillerées à soupe d'huile</p>
+<p>30 cl de lait</p>
+<p>2 cuillerées à soupe de sucre</p>
+<p>1 pincée de cannelle</p>
+<p>1 pincée de vanille en poudre</p>
+<p>3 cuillères à soupe de rhum</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="4"> bananes </ingredient> en 4 ou 5 tronçons . <operation> déposez </operation> - les dans un saladier , <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer"> sucre </ingredient> semoule , <operation ingredients="cannelle;rhum"> ajoutez </operation> la <ingredient action="ajouter" quantite="1 pincée"> cannelle </ingredient> , la vanille et le <ingredient action="ajouter" quantite="3 cuillère à soupe"> rhum </ingredient> . laissez <operation> mariner </operation> 1 heure au moins . <operation ingredients="farine"> mélangez </operation> la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , le <ingredient quantite="1 pincée"> sel </ingredient> , les deux jaunes d' <ingredient quantite="2"> oeufs </ingredient> , l' <ingredient quantite=""> huile </ingredient> , le <ingredient quantite="30 cl"> lait </ingredient> et une cuillère à café de rhum . laissez <operation ingredients="pâte"> reposer </operation> la <ingredient action="reposer"> pâte </ingredient> une heure . <operation> battez </operation> les blancs en neige , <operation> incorporez </operation> - les à la <ingredient> pâte </ingredient> . <operation> egouttez </operation> les moorceaux de <ingredient quantite="4"> bananes </ingredient> , <operation> plongez </operation> - les dans la <ingredient> pâte </ingredient> , puis faites - les <operation ingredients="huile"> frire </operation> dans l' <ingredient action="frire" quantite=""> huile </ingredient> .
+</preparation>
+</recette>

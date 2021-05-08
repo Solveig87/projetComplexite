@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23435">
+<titre>Tarte aux pignons et sa crème anglaise au miel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte sucrée:</p>
+<p>1 kg farine</p>
+<p>500 g beurre ramoli</p>
+<p>400 g sucre semoule</p>
+<p>3 oeufs</p>
+<p>5 g sel</p>
+<p>Pour l'appareil pour la tarte aux pignons :</p>
+<p>1 kg frangipane</p>
+<p>300 g crème pâtissière</p>
+<p>100 g raisin</p>
+<p>50 g rhum</p>
+<p>200 g pignons</p>
+<p>100 g gelée d'abricot</p>
+<p>Pour la frangipane :</p>
+<p>500 g beurre ramoli</p>
+<p>500 g sucre glace</p>
+<p>500 g poudre d'amandes</p>
+<p>100 g farine</p>
+<p>10 oeufs</p>
+<p>1 cuillère à soupe de rhum</p>
+<p>Crème pâtissière :</p>
+<p>10 jaunes d'oeufs</p>
+<p>250 g sucre semoule</p>
+<p>50 g Maïzena</p>
+<p>50 g farine</p>
+<p>1 L lait</p>
+<p>Pour la crème anglaise au miel :</p>
+<p>10 oeufs</p>
+<p>200 g sucre semoule</p>
+<p>1 L lait</p>
+<p>65 g miel</p>
+</ingredients>
+<preparation>
+<ingredient> pâte </ingredient> <operation> sucrée </operation> : dans un robot , <operation ingredients="beurre;sucre;glace"> mixer </operation> en premier le <ingredient action="mixer" quantite="500 gramme+500 gramme"> beurre </ingredient> et le <ingredient action="mixer" quantite="400 gramme+500 gramme+250 gramme+200 gramme"> sucre </ingredient> <ingredient action="mixer"> glace </ingredient> , puis les <ingredient quantite="3+10+10"> oeufs </ingredient> , le <ingredient quantite="5 gramme"> sel </ingredient> et la <ingredient> farine </ingredient> . <operation> etaler </operation> dans les tartelettes . frangipane : <operation ingredients="beurre;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="500 gramme+500 gramme"> beurre </ingredient> et les <ingredient action="mélanger" quantite="3+10+10"> oeufs </ingredient> ensembles , y <operation ingredients="sucre;glace;amandes;rhum"> ajouter </operation> le <ingredient action="ajouter" quantite="400 gramme+500 gramme+250 gramme+200 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> la <operation> poudre </operation> d' <ingredient action="ajouter"> amandes </ingredient> , puis la faine et le <ingredient action="ajouter" quantite="50 gramme+1 cuillère à soupe"> rhum </ingredient> . pâtissière : <operation ingredients="sucre"> blanchir </operation> les jaunes avec le <ingredient action="blanchir" quantite="400 gramme+500 gramme+250 gramme+200 gramme"> sucre </ingredient> , <operation ingredients="farine;maïzena;lait"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> et la <ingredient action="ajouter" quantite="50 gramme"> maïzena </ingredient> puis le <ingredient action="ajouter" quantite="1 l+1 l"> lait </ingredient> bouillant . <operation> mettre </operation> sur feu doux et faire <operation> épaissir </operation> . appareil <ingredient> tarte </ingredient> aux pignons : <operation> mélanger </operation> la frangipane avec la pâtissière , y <operation ingredients="raisin"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> raisin </ingredient> qui à été préalablement <operation ingredients="rhum"> macéré </operation> dans le <ingredient action="macérer" quantite="50 gramme+1 cuillère à soupe"> rhum </ingredient> . assemblage : <operation ingredients="pâte"> verser </operation> l' appareil à tarte aux pignons dans les tartelettes sur la <ingredient action="verser"> pâte </ingredient> <operation> sucrée </operation> . <operation ingredients="pignons"> recouvrir </operation> l' appareil de <ingredient action="recouvrir" quantite="200 gramme"> pignons </ingredient> et <operation> cuire </operation> à 180 <operation> ° </operation> c pendnat 30 mn . <ingredient quantite="300 gramme"> crème </ingredient> anglaise : faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="1 l+1 l"> lait </ingredient> . <operation ingredients="sucre"> blanchir </operation> les jaunes avec le <ingredient action="blanchir" quantite="400 gramme+500 gramme+250 gramme+200 gramme"> sucre </ingredient> . <operation ingredients="lait"> verser </operation> dans le <ingredient action="verser" quantite="1 l+1 l"> lait </ingredient> et <operation ingredients="miel"> ajouter </operation> le <ingredient action="ajouter" quantite="65 gramme"> miel </ingredient> . faire <operation> épaissir </operation> à feu doux . ce sert tiède ou à température ambiante . c' est succulent , ça change des <ingredient> tartes </ingredient> habituelles ! peut se réaliser dans un plat à tarte vous pouvez acheter de la <ingredient quantite="300 gramme"> crème </ingredient> patissière et de la frangipane dans le commerce ce qui diminuera le temps de préparation . se garde . 3 jours au frais
+</preparation>
+</recette>

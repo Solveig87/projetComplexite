@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21654">
+<titre>Carpaccio de dinde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de dinde</p>
+<p>2 citrons</p>
+<p>baies roses</p>
+<p>1 cuillère à café de graines de coriandre grillées écrasées </p>
+<p>1 cuillère à café d'huile d'olive </p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> faire </operation> des tranches fines de <ingredient action="faire" quantite="4"> viande </ingredient> , les <operation> disposer </operation> dans un plat à fond creux . <operation ingredients="jus;huile;sel;coriandre"> mélanger </operation> les <ingredient action="mélanger"> jus </ingredient> de citron , l' <ingredient action="mélanger" quantite="1 cuillère à café"> huile </ingredient> d' olive , une pincée de <ingredient action="mélanger"> sel </ingredient> , la <ingredient action="mélanger"> coriandre </ingredient> , les baies . <operation ingredients="viande"> verser </operation> le tout sur la <ingredient action="verser" quantite="4"> viande </ingredient> ( celle-ci doit être <operation ingredients="jus"> recouverte </operation> du <ingredient action="recouvrir"> jus </ingredient> ) . laisser <operation> mariner </operation> au frigo jusqu' à ce que la <ingredient action="cuire" quantite="4"> viande </ingredient> soit <operation ingredients="viande"> cuite </operation> ( c' est à dire qu' elle devienne blanche ) .
+</preparation>
+</recette>

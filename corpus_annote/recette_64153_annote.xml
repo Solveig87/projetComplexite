@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64153">
+<titre>Soupe au Parmesan très facile</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de bouillon de volaille</p>
+<p>5 cuillerées à soupe de parmesan râpé</p>
+<p>2 oeufs</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;fromage"> battez </operation> les 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> entiers avec le <ingredient action="battre"> fromage </ingredient> <operation> râpé </operation> . <operation ingredients="bouillon"> préparez </operation> le <ingredient action="préparer" quantite="1 l"> bouillon </ingredient> dans une casserole . quand celui-ci est bien bouillant <operation> versez </operation> - le sur la préparation précédente en <operation> battant </operation> avec le fouet . <operation> poivrez </operation> et c' est prêt !
+</preparation>
+</recette>

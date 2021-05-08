@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71140">
+<titre>Quatre-quart aux fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g du sucre</p>
+<p>200 g de farine</p>
+<p>200 g de beurre + beurre pour le moule</p>
+<p>4 œufs</p>
+<p>un demi-sachet de levure</p>
+<p>un sachet de sucre vanillé</p>
+<p>10 fraises</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;farine;levure;œufs"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> beurre </ingredient> puis y <operation ingredients="sucre;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> , le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> vanillé , la <ingredient action="fondre" quantite="200 gramme"> farine </ingredient> , la <ingredient action="fondre"> levure </ingredient> et les <ingredient action="fondre" quantite="4"> œufs </ingredient> . bien <operation> mélanger </operation> jusqu' à obtenir une <ingredient> pâte </ingredient> bien homogène . <operation ingredients="fraises;carrés"> couper </operation> les <ingredient action="couper" quantite="10"> fraises </ingredient> en petits <ingredient action="couper"> carrés </ingredient> et les <operation ingredients="pâte"> mélanger </operation> délicatement à la <ingredient action="mélanger"> pâte </ingredient> . <operation> beurrer </operation> le <operation> moule </operation> à gâteau ( peu importe la <operation> forme </operation> ) et y <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> . <operation> mettre </operation> au four à 200 <operation> ° </operation> ( thermostat . 7 ) pendant 20 à 30 min .
+</preparation>
+</recette>

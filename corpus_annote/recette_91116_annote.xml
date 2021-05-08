@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91116">
+<titre>Quiche au céléri</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de pâte sablée</p>
+<p>700 g de céléri branche</p>
+<p>2 oignons</p>
+<p>30 g de beurre</p>
+<p>4 oeufs</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>100 g de fromage frais</p>
+<p>120 g de gouda râpé</p>
+<p>muscade, sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre;oignons"> revenir </operation> doucement dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> les dés de céléri et les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> . <operation> ajoutez </operation> 1 verre d' eau , <operation> salez </operation> , <operation> poivrez </operation> , <operation> couvrez </operation> et laissez <operation> cuire </operation> 20 minutes puis <operation> égouttez </operation> . <operation ingredients="oeufs;crème;fromage;gouda"> mélangez </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , la <ingredient action="mélanger" quantite="4 cuillère à soupe"> crème </ingredient> , le <ingredient action="mélanger" quantite="100 gramme"> fromage </ingredient> et le <ingredient action="mélanger" quantite="120 gramme"> gouda </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> , muscadez et <operation ingredients="légumes"> incorporez </operation> les <ingredient action="incorporer" quantite="2;4 cuillère à soupe"> légumes </ingredient> . <operation ingredients="tarte"> répartissez </operation> sur le fond de <ingredient action="répartir"> tarte </ingredient> et <operation> enfournez </operation> 40 minutes à 210 <operation> ° </operation> c ( thermostat 7 ) . on peut <operation> mettre </operation> une botte de céléri entière .
+</preparation>
+</recette>

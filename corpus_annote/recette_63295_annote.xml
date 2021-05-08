@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63295">
+<titre>Sauté de porc au colombo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de sauté de porc</p>
+<p>poudre de colombo colombo</p>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune</p>
+<p>2 cuillères à soupe de farine</p>
+<p>1 cube de bouillon de volaille</p>
+<p>sel, poivre</p>
+<p>1 oignon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . une fois prêt , faire <operation ingredients="porc"> dorer </operation> le <ingredient action="dorer"> porc </ingredient> . ensuite , <operation ingredients="poivrons"> rajouter </operation> les <ingredient action="rajouter"> poivrons </ingredient> <operation> coupés </operation> en petit dés et faire tout <operation> revenir </operation> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> farine </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="viande"> mettre </operation> du colombo sur toute la <ingredient action="mettre"> viande </ingredient> . <operation> mélanger </operation> à nouveau et <operation ingredients="bouillon;viande"> ajouter </operation> ensuite le <ingredient action="ajouter"> bouillon </ingredient> de volaille de façon à ce que la <ingredient action="ajouter"> viande </ingredient> soit toute recouverte . laisser <operation> mijoter </operation> à feu doux 1 h 30 . <operation ingredients="riz"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> . plat très exotique pour les <operation> amateurs </operation> des plats des îles .
+</preparation>
+</recette>

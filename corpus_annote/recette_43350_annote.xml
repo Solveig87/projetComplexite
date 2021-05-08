@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43350">
+<titre>Glace stracciatella</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>40 cl de lait demi écrémé</p>
+<p>20 cl de crème fraiche (pas allégée) </p>
+<p>20 g de sucre vanillé</p>
+<p>40 g de sucre</p>
+<p>2 oeufs</p>
+<p>1/2 bâton de vanille </p>
+<p>50 g de palets en chocolat</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lait;gousse"> chauffer </operation> le <ingredient action="chauffer" quantite="40 cl"> lait </ingredient> avec la <ingredient action="chauffer"> gousse </ingredient> de vanille . lorsque la <ingredient action="fendre"> gousse </ingredient> à infusé ( le temps que le <ingredient action="fendre" quantite="40 cl"> lait </ingredient> soit prêt à <operation> bouillir </operation> ) , <operation ingredients="gousse;lait;lait"> fendez </operation> - la et <operation ingredients="couteau"> retirez </operation> avec la pointe du <ingredient action="retirer"> couteau </ingredient> les petits grains et <operation> déposez </operation> - les dans le <ingredient action="fendre" quantite="40 cl"> lait </ingredient> . <operation> mettez </operation> à refroidir le <ingredient quantite="40 cl"> lait </ingredient> . pendant ce temps -là , <operation ingredients="chocolat"> mixez </operation> les palets en <ingredient action="mixer"> chocolat </ingredient> de manière à obtenir des brisures de <ingredient> chocolat </ingredient> plus ou moins grosses selon vôtre goût . ensuite , <operation ingredients="sucre;oeuf"> battez </operation> le <ingredient action="battre" quantite="20 gramme+40 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="battre" quantite="2"> oeuf </ingredient> dans un plat . attention , ils doivent être <ingredient> mousseux </ingredient> mais encore jaunes . <operation ingredients="lait;crème"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="40 cl"> lait </ingredient> refroidi , la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . <operation> mélangez </operation> pour que le tout soit uniforme . <operation> battez </operation> les blancs en neige ferme et <operation> intégrez </operation> - les ensuite délicatement à la préparation . quand le <operation> mélange </operation> est prêt , <operation> versez </operation> dans votre sorbetière . laissez prendre 5 minutes , puis <operation ingredients="chocolat"> ajoutez </operation> délicatement et petit à petit les brisures de <ingredient action="ajouter"> chocolat </ingredient> . laissez <operation> tourner </operation> jusqu' à obtenir la consistance voulue .
+</preparation>
+</recette>

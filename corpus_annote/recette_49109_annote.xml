@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49109">
+<titre>Gratin de céléri-rave à la viande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g d'épaule d'agneau sans os ou de hachis de bœuf</p>
+<p>1 céleri rave</p>
+<p>400 g de pommes de terre</p>
+<p>40 g de beurre</p>
+<p>3 gros oignons</p>
+<p>2 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>1 bouquet de persil</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>2 cuillères à soupe rases de chapelure</p>
+<p>sel et poivre</p>
+<p>120 g de fromage râpé</p>
+<p>30 g de beurre </p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="céleri;pommes"> préparer </operation> une purée avec le <ingredient action="préparer"> céleri </ingredient> et les <ingredient action="préparer" quantite="400 gramme"> pommes </ingredient> de terre . les <operation> éplucher </operation> et les <operation> couper </operation> en dés . <operation ingredients="pommes"> faire </operation> <operation> bouillir </operation> de l’ eau , <operation> saler </operation> et faire <operation ingredients="céleri"> cuire </operation> le <ingredient action="cuire"> céleri </ingredient> et les <ingredient action="faire" quantite="400 gramme"> pommes </ingredient> de terre pendant 25 min ( 12 min à l’ autocuiseur ) . <operation ingredients="légumes"> mixer </operation> les <ingredient action="mixer" quantite="400 gramme;3;2"> légumes </ingredient> , <operation ingredients="beurre"> ajouter </operation> 40 g de <ingredient action="ajouter" quantite="40 gramme+30 gramme"> beurre </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="viande;persil"> hacher </operation> la <ingredient action="hacher" quantite="120 gramme"> viande </ingredient> d' agneau et le <ingredient action="hacher"> persil </ingredient> . <operation ingredients="ail;oignon;échalotes"> pelez </operation> l' <ingredient action="peler"> ail </ingredient> , l’ <ingredient action="peler" quantite="3"> oignon </ingredient> , les <ingredient action="peler" quantite="2"> échalotes </ingredient> et les <operation> émincer </operation> finement . dans une <operation> poêle </operation> , faire <operation ingredients="ail;huile"> fondre </operation> <ingredient action="fondre"> ail </ingredient> , oignons et échalotes dans l' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> afin qu' ils deviennent translucides , <operation ingredients="viande;persil"> ajoutez </operation> la <ingredient action="ajouter" quantite="120 gramme"> viande </ingredient> hachée et le <ingredient action="ajouter"> persil </ingredient> , puis <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer"> chapelure </ingredient> et <operation> mélangez </operation> . préchauffer le four à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation> graisser </operation> votre plat , étaler la farce et <operation> recouvrir </operation> de purée . <operation ingredients="fromage;beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> fromage </ingredient> et les 20 g de <ingredient action="ajouter" quantite="40 gramme+30 gramme"> beurre </ingredient> en noisettes pour <operation> gratiner </operation> . <operation> cuire </operation> pendant 30 minutes à four chaud .
+</preparation>
+</recette>

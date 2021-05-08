@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26673">
+<titre>Salade d'avocat à l'orange</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 avocats</p>
+<p>2 orange</p>
+<p>1/2 oignon (moyen) </p>
+<p>1 yaourt nature</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient quantite="2"> avocats </ingredient> et les <ingredient quantite="2"> oranges </ingredient> , les <operation> couper </operation> en morceaux . dans un saladier <operation ingredients="yaourt"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> , l' <operation action="huile" ingredients="huile;oignon;sel;poivre"> huile </operation> d' olive , l' <ingredient action="huile"> oignon </ingredient> <operation> coupez </operation> en morceaux , le <ingredient action="huile" quantite=""> sel </ingredient> et le <ingredient action="huile"> poivre </ingredient> . puis <operation ingredients="avocat;orange"> ajouter </operation> les morceaux d' <ingredient action="ajouter" quantite="2"> avocat </ingredient> et d' <ingredient action="ajouter" quantite="2"> orange </ingredient> . voilà ! la recette est finie .
+</preparation>
+</recette>

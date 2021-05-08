@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32002">
+<titre>Morue à la portugaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de morue (environ 1kg)  </p>
+<p>6 oignons        </p>
+<p>1 kg de pommes de teere </p>
+<p>5 cl  de l'huile de d'olive</p>
+<p>2 tomates</p>
+<p>du sel </p>
+<p>2 poivrons (rouges ou verts)</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="6"> oignons </ingredient> en rondelles , puis les <operation> mettre </operation> dans une terrine . <operation ingredients="morue;sel;huile"> mettre </operation> la <ingredient action="mettre" quantite="4 tranche"> morue </ingredient> , le <ingredient action="mettre" quantite=""> sel </ingredient> et l' <ingredient action="mettre" quantite="5 cl"> huile </ingredient> d' olive , puis <operation ingredients="pommes;tomates;poivrons"> couper </operation> les <ingredient action="couper" quantite="1 kilogramme"> pommes </ingredient> de terre , les <ingredient action="couper" quantite="2"> tomates </ingredient> et les <ingredient action="couper" quantite="2"> poivrons </ingredient> en morceaux . <operation> ajouter </operation> de l' eau jusqu' à <operation> couvrir </operation> , puis <operation> mettre </operation> au four ( 220 <operation> ° </operation> c ) . il faut attendre environ 1 heure . servir chaud . <ingredient> vin </ingredient> blanc bien frais
+</preparation>
+</recette>

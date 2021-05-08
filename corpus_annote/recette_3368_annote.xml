@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3368">
+<titre>Boulettes de Carré Frais</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Carrés Frais</p>
+<p>panure</p>
+<p>oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite=""> oeufs </ingredient> , avec des aromates . <operation ingredients="carrés;oeufs;panure"> plonger </operation> les <ingredient action="plonger"> carrés </ingredient> frais , dans les <ingredient action="plonger" quantite=""> oeufs </ingredient> , puis dans la <ingredient action="plonger" quantite=""> panure </ingredient> . les faire <operation ingredients="salade;échalote;huile"> cuire </operation> de chaque côté , puis les <operation> diposer </operation> sur un lit de <ingredient action="cuire"> salade </ingredient> , avec une sauce <ingredient action="cuire"> échalote </ingredient> , vinaigre de xérès , <ingredient action="cuire"> huile </ingredient> d' olive , sel et poivre . servir chaud .
+</preparation>
+</recette>

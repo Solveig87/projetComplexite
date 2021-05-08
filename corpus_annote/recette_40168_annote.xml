@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40168">
+<titre>Brochettes de gambas au gingembre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>20 gambas crues (ou grosses crevettes ou scampis) </p>
+<p>4 gousses d'ail</p>
+<p>4 citrons verts</p>
+<p>1 morceau de gingembre frais</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1/4 de cuillère à café de piment de cayenne</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;citrons;gousses"> préparer </operation> la marinade avec le <ingredient action="préparer"> jus </ingredient> de 2 <ingredient action="préparer" quantite="4"> citrons </ingredient> , 2 <ingredient action="préparer" quantite="4"> gousses </ingredient> d' ail <operation> écrasées </operation> , le piment , 2 cuillères à soupe d' huile d' olive . <operation ingredients="gambas"> ajouter </operation> les <ingredient action="ajouter" quantite="20"> gambas </ingredient> et faire <operation> mariner </operation> minimum 2 heures . <operation ingredients="concombre"> peler </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> et le <operation> couper </operation> en deux dans la longueur . a l' aide d' une petite cuillère , <operation> enlever </operation> les pépins . <operation> couper </operation> en demi-rondelle . le faire dégorger 30 min avec du <ingredient quantite=""> sel </ingredient> . <operation> préparer </operation> la sauce . <operation ingredients="citrons"> presser </operation> les deux <ingredient action="presser" quantite="4"> citrons </ingredient> restants , <operation ingredients="gingembre"> ajouter </operation> le <ingredient action="ajouter"> gingembre </ingredient> <operation> coupé </operation> en tout petit morceaux , le reste d' <ingredient action="hacher"> ail </ingredient> <operation ingredients="ail;huile"> haché </operation> et d' <ingredient action="hacher" quantite="4 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="gambas"> enfiler </operation> 5 <ingredient action="enfiler" quantite="20"> gambas </ingredient> par brochette . les faire <operation> griller </operation> de chaque côté . servir aussitôt <operation ingredients="concombre"> accompagné </operation> de <ingredient action="accompagner" quantite="1"> concombre </ingredient> . <operation> arroser </operation> le tout de sauce .
+</preparation>
+</recette>

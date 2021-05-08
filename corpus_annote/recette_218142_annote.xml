@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218142">
+<titre>Velouté de kiwis gold</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 orange</p>
+<p>1 cuillère à soupe de parfum fleur d'oranger</p>
+<p>1 banane</p>
+<p>4 kiwis gold</p>
+<p>1 citron vert (facultatif)</p>
+</ingredients>
+<preparation>
+<operation> presser </operation> l' oranger et <operation ingredients="jus"> mettre </operation> le <ingredient action="mettre"> jus </ingredient> dans un saladier . <operation> ajouter </operation> l' eau de fleur d' oranger . <operation ingredients="kiwis;banane"> éplucher </operation> et <operation> mixer </operation> les <ingredient action="éplucher"> kiwis </ingredient> avec la <ingredient action="éplucher" quantite="1"> banane </ingredient> . <operation ingredients="fruits"> mixer </operation> les <ingredient action="mixer" quantite="1;1"> fruits </ingredient> assez finement . <operation ingredients="jus"> mélanger </operation> cet appareil au <ingredient action="mélanger"> jus </ingredient> d' orange et <operation> mélanger </operation> soigneusement en <operation> fouettant </operation> . <operation> répartir </operation> le velouté dans des coupelles . <operation ingredients="citron"> décorer </operation> éventuellement avec une tranche de <ingredient action="décorer" quantite="1"> citron </ingredient> vert . <operation> mettre </operation> au frais au minimum une heure avant de servir
+</preparation>
+</recette>

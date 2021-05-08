@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29128">
+<titre>Poires belle hélène</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de poires</p>
+<p>1 tablette de chocolat à cuire</p>
+<p>glace à la vanille</p>
+<p>amandes effilées</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> ouvrir </operation> le boîte de <ingredient action="ouvrir"> poires </ingredient> et les <operation> égoutter </operation> . faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> dans une casserole avec une cuillère à soupe de beurre . bien <operation> remuer </operation> . <operation ingredients="amandes"> mettre </operation> les <ingredient action="mettre" quantite=""> amandes </ingredient> dans un plat à four et les faire <operation> griller </operation> . <operation ingredients="poires"> mettre </operation> sur chaque assiette 2 morceaux de <ingredient action="mettre"> poires </ingredient> , dessus <operation ingredients="glace"> ajouter </operation> 1 ou 2 boules de <ingredient action="ajouter" quantite=""> glace </ingredient> à la vanille . <operation ingredients="chocolat"> recouvrir </operation> de <ingredient action="recouvrir"> chocolat </ingredient> chaud et <operation ingredients="amandes"> garnir </operation> avec les <ingredient action="garnir" quantite=""> amandes </ingredient> grillées . servir rapidement . si le <ingredient action="ajouter"> chocolat </ingredient> est trop épais , <operation ingredients="chocolat;lait"> ajouter </operation> un peu de <ingredient action="ajouter"> lait </ingredient> et <operation> remuer </operation> . clairette de die
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70297">
+<titre>Salade de boeuf</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g viande de boeuf pour fondue</p>
+<p>1 concombre</p>
+<p>3 tomates mi-mûres</p>
+<p>1 petit oignon sec</p>
+<p>10 cl de sauce de soja</p>
+<p>2 citrons jaune à jus</p>
+<p>Coriandre fraîche en branche</p>
+<p>1 cuillère à café de sucre en poudre</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> emincer </operation> finement la <ingredient action="emincer" quantite="500 gramme"> viande </ingredient> à fondu puis <operation ingredients="citrons"> presser </operation> les <ingredient action="presser" quantite="2"> citrons </ingredient> et <operation ingredients="jus"> verser </operation> le <ingredient action="verser"> jus </ingredient> , <operation> réserver </operation> 10 min en <operation> remuant </operation> de temps en temps . <operation ingredients="concombre;tomates;coriandre"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> et les <ingredient action="couper" quantite="3"> tomates </ingredient> en petits dés et <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et la <ingredient action="couper" quantite=""> coriandre </ingredient> . <operation ingredients="sucre;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> sucre </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> , <operation> mélanger </operation> . <operation ingredients="viande"> egoutter </operation> la <ingredient action="egoutter" quantite="500 gramme"> viande </ingredient> , l' <operation ingredients="légumes"> ajouter </operation> aux <ingredient action="ajouter" quantite="1;3;1;2"> légumes </ingredient> et <operation> verser </operation> la sauce de soja . bien <operation> mélanger </operation> . <operation> placer </operation> au réfrigérateur 1 h 30 environ avant de servir . peut être servi en plat principal avec du <ingredient> riz </ingredient> blanc nature
+</preparation>
+</recette>

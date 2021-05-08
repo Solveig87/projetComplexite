@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62986">
+<titre>Curry thaï au poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuillères à soupe de pâte de curry vert</p>
+<p>500 g de pâtes chinoises</p>
+<p>2 cuillères à soupe de sauces aux huîtres</p>
+<p>50 cl de lait de coco</p>
+<p>2 poivrons verts</p>
+<p>2 poireaux</p>
+<p>1 citron vert</p>
+<p>900 g de filet de poulet</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> couper </operation> le filet depoulet et les <ingredient action="couper" quantite="2;1"> légumes </ingredient> en lanières . faire <operation ingredients="poulet;légumes;pâte"> sauter </operation> le <ingredient action="sauter"> poulet </ingredient> et les <ingredient action="sauter" quantite="2;1"> légumes </ingredient> dans un wok avec la <ingredient action="sauter" quantite="4 cuillère à soupe+500 gramme"> pâte </ingredient> de curry vert . en parallèle , faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="4 cuillère à soupe+500 gramme"> pâtes </ingredient> comme indiqué sur le paquet . <operation ingredients="lait;huîtres"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> de coco et la sauce aux <ingredient action="ajouter"> huîtres </ingredient> . laisser <operation> frémir </operation> encore quelques minutes . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter" quantite="4 cuillère à soupe+500 gramme"> pâtes </ingredient> et les <operation> incorporer </operation> au <operation> mélange </operation> . servir . modifiez le dosage en <ingredient> curry </ingredient> ( piquant ) en fonction de votre goût . gewurtztraminer
+</preparation>
+</recette>

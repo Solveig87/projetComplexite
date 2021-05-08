@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93472">
+<titre>Omelette tomate-lardon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>2 tomates</p>
+<p>1 oignon</p>
+<p>200gr de lardon</p>
+<p>10cl de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient quantite="1"> oignon </ingredient> et <operation ingredients="tomates"> découper </operation> en petits dés les <ingredient action="découper" quantite="2"> tomates </ingredient> . faire <operation ingredients="lardons;oignons;tomates"> revenir </operation> les <ingredient action="revenir" quantite="200gr"> lardons </ingredient> , l' <ingredient action="revenir" quantite="1"> oignons </ingredient> et les dés de <ingredient action="revenir" quantite="2"> tomates </ingredient> . lorsque la préparation est <operation> cuite </operation> , <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="10cl"> crème </ingredient> fraîche . enfin <operation ingredients="oeufs"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> oeufs </ingredient> et <operation> mélanger </operation> bien le tout . laissez <operation> cuire </operation> . avec une <ingredient> salade </ingredient> , c' est un régal !
+</preparation>
+</recette>

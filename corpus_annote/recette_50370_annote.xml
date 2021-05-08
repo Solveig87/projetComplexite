@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50370">
+<titre>Risotto de courgettes aux tomates séchées</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz rond</p>
+<p>2 courgettes</p>
+<p>10 tomates séchées</p>
+<p>1 gros oignon</p>
+<p>150 g de feta</p>
+<p>1 l de bouillon de légumes</p>
+<p>basilic frais</p>
+<p>huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faites <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> et les courgettes puis <operation ingredients="tomates"> jetez </operation> - y les <ingredient action="jeter" quantite="10"> tomates </ingredient> séchées <operation> coupées </operation> en petits morceaux . <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter" quantite="300 gramme"> riz </ingredient> et attendez qu' il devienne translucide . <operation ingredients="bouillon"> versez </operation> le <ingredient action="verser" quantite="1 l"> bouillon </ingredient> petit à petit , tout en <operation> mélangeant </operation> régulièrement . quand le <ingredient action="ajouter" quantite="300 gramme"> riz </ingredient> est presque cuit , <operation ingredients="riz;feta;basilic"> ajoutez </operation> la <ingredient action="ajouter" quantite="150 gramme"> feta </ingredient> en dés et le <ingredient action="ajouter" quantite=""> basilic </ingredient> frais . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite=";;;"> assaisonnement </ingredient> et laissez <operation> cuire </operation> encore quelques minutes à feu doux .
+</preparation>
+</recette>

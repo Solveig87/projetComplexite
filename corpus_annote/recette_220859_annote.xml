@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220859">
+<titre>Steak haché au four, oignon, tomate et emmental</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 steaks hachés de chez mon boucher</p>
+<p>1/2 oignon</p>
+<p>2 pointes de concentré de tomates</p>
+<p>1 poignée d'emmental râpé</p>
+<p>1 tomate</p>
+<p>30 g de beurre</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="steaks"> poser </operation> dans un plat creux les 2 <ingredient action="poser"> steaks </ingredient> <operation> hachés </operation> , <operation ingredients="tomate;steak"> mettre </operation> une pointe de <operation> concentré </operation> de <ingredient action="mettre" quantite="1"> tomate </ingredient> sur chaque <ingredient action="mettre"> steak </ingredient> et <operation ingredients="emmental"> mettre </operation> l' <ingredient action="mettre"> emmental </ingredient> . autour des <ingredient action="déposer"> steaks </ingredient> , <operation ingredients="steaks;tomate"> déposer </operation> une <ingredient action="déposer" quantite="1"> tomate </ingredient> <operation ingredients="beurre"> coupée </operation> en deux ainsi que le demi-oignon émincé puis le <ingredient action="couper" quantite="30 gramme"> beurre </ingredient> . <operation> mettre </operation> au four environ 15 min .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70466">
+<titre>Escalopes italiennes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>4 tranches de jambon blanc, découénné et dégraissé</p>
+<p>250 g de mascarpone</p>
+<p>200 g de gorgonzola</p>
+<p>poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> cuire </operation> le <ingredient action="cuire"> poulet </ingredient> , salé et poivré . une fois <operation> cuit </operation> le sortir de la <operation> poêle </operation> . sur une planche , <operation ingredients="jambon"> poser </operation> une tranche de <ingredient action="poser" quantite="4 tranche"> jambon </ingredient> , sur cette tranche <operation ingredients="gorgonzola"> déposer </operation> du <ingredient action="déposer" quantite="200 gramme"> gorgonzola </ingredient> . une fois la tranche de <ingredient quantite="4 tranche"> jambon </ingredient> <operation> garnie </operation> de <ingredient> fromage </ingredient> , <operation ingredients="escalope"> poser </operation> une <ingredient action="poser" quantite="4"> escalope </ingredient> de poulet et plier le jambon de façon à ce qu' il renferme le <ingredient> poulet </ingredient> . renouveler pour chaque <ingredient quantite="4"> escalope </ingredient> . les <operation> remettre </operation> dans une pôele à feu doux , une fois que le <ingredient> fromage </ingredient> commence à <operation> fondre </operation> , <operation ingredients="mascarpone"> incorporer </operation> le <ingredient action="incorporer" quantite="250 gramme"> mascarpone </ingredient> , qui vous fera une sauce extra . . . <operation> poivrer </operation> et servir . <operation ingredients="pâtes;aubergines"> accompagner </operation> de <ingredient action="accompagner"> pâtes </ingredient> fraîches , ou de courgettes , <ingredient action="accompagner"> aubergines </ingredient> et tomates <operation> grillées </operation> au four
+</preparation>
+</recette>

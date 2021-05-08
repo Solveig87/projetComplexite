@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13471">
+<titre>Gâteau du matin</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de sucre</p>
+<p>350 g de farine </p>
+<p>1 sachet de levure chimique </p>
+<p>4 gros oeufs</p>
+<p>100 g de beurre ou d'huile</p>
+<p>25 cl de lait</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;farine;levure;sel"> mélanger </operation> le <ingredient action="mélanger" quantite="300 gramme"> sucre </ingredient> , la <ingredient action="mélanger" quantite="350 gramme"> farine </ingredient> , la <ingredient action="mélanger"> levure </ingredient> et le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> . <operation ingredients="oeufs;beurre"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation ingredients="lait"> fondu </operation> à peine tiède et le <ingredient action="fondre" quantite="25 cl"> lait </ingredient> . bien <operation> mélanger </operation> avec une spatule . <operation> verser </operation> dans un <operation> moule </operation> à manqué anti-adhérent et <operation> mettre </operation> au four pendant 55 mn à 170 <operation> ° </operation> c. recette hyper facile et c' est parfait le matin dans le <ingredient> café </ingredient> ou le <ingredient> chocolat </ingredient> .
+</preparation>
+</recette>

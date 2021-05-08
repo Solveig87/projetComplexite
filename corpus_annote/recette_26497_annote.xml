@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26497">
+<titre>Coulis de cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 jaunes d'oeuf</p>
+<p>40 cl de lait</p>
+<p>100 g de sucre</p>
+<p>1 cuillerée à café d'extrait de vanille</p>
+<p>1/2 cuillerée à café de cannelle en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;cannelle"> portez </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="40 cl"> lait </ingredient> avec la vanille et la <ingredient action="porter"> cannelle </ingredient> . <operation ingredients="oeufs;sucre"> fouettez </operation> les jaunes d' <ingredient action="fouetter"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="100 gramme"> sucre </ingredient> . le <operation> mélange </operation> <operation> blanchi </operation> , <operation ingredients="lait"> versez </operation> le <ingredient action="verser" quantite="40 cl"> lait </ingredient> chaud et <operation> tournez </operation> . enfin , <operation> portez </operation> à nouveau sur le feu doux sans cesser de <operation ingredients="crème"> tourner </operation> jusqu' à ce que la <ingredient action="tourner"> crème </ingredient> nappe la cuillère . otez du feu et laissez refroidir . ce coulis remplace à merveille la <ingredient> crème </ingredient> anglaise qui <operation ingredients="gâteau"> accompagne </operation> le <ingredient action="accompagne"> gâteau </ingredient> au chocolat .
+</preparation>
+</recette>

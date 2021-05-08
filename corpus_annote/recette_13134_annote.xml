@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13134">
+<titre>Tajine de poisson</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 darnes de poisson au choix</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>3 oignons hachés</p>
+<p>3 gousses d'ail écrasées</p>
+<p>1 cuillère à soupe de gingembre frais haché</p>
+<p>1/2 c à c de piment doux</p>
+<p>1 petit piment vert haché</p>
+<p>1 pincée de safran en poudre</p>
+<p>1 pincée de noix muscade râpée</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;ail;gingembre"> revenir </operation> l' <ingredient action="revenir" quantite="3"> oignon </ingredient> , l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir"> gingembre </ingredient> , à feu moyen . <operation ingredients="safran;noix;muscade"> ajouter </operation> le piment doux , le piment haché , le <ingredient action="ajouter" quantite="1 pincée"> safran </ingredient> et la <ingredient action="ajouter" quantite="1 pincée"> noix </ingredient> <ingredient action="ajouter"> muscade </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> mijoter </operation> 20 mn en <operation> ajoutant </operation> 1 / 2 verre d' eau . <operation ingredients="poisson"> mettre </operation> le <ingredient action="mettre"> poisson </ingredient> sur la sauce , en la <operation> recouvrant </operation> bien . laisser <operation> cuire </operation> 5 mn , puis <operation> retourner </operation> les darnes et faire <operation> cuire </operation> encore 5 mn . vérifier l' <ingredient quantite="2 cuillère à soupe;3;1 pincée;"> assaisonnement </ingredient> et servir très chaud . <operation ingredients="riz;semoule"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> pilaf ou <ingredient action="accompagner"> semoule </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="230142">
+<titre>Boeuf à la moutarde rapide</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de bœuf</p>
+<p>1 cuillère à soupe de moutarde forte</p>
+<p>4 oignons nouveaux</p>
+<p>1 filet d'huile d'olive</p>
+<p>1 branche de basilic</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> coupez </operation> la <ingredient action="couper"> viande </ingredient> en fines tranches , puis <operation> saisissez </operation> celles-ci directement dans une <operation> poêle </operation> très chaude . un aller - retour seulement . <operation> découpez </operation> les tranches en petits morceaux <operation ingredients="huile;basilic;moutarde"> ajoutez </operation> - y l' <ingredient action="ajouter"> huile </ingredient> d' olive , le <ingredient action="ajouter"> basilic </ingredient> , sel , poivre et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> . laissez <operation ingredients="moutarde"> imprégner </operation> la <ingredient action="imprégner" quantite="1 cuillère à soupe"> moutarde </ingredient> au bœuf . avec cela vous pouvez <operation ingredients="pommes;pâtes"> faire </operation> des <ingredient action="faire"> pommes </ingredient> de terres à la friture ou simplement des <ingredient action="faire"> pâtes </ingredient> . vin rouge de loire
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223564">
+<titre>Pommes et bananes meringuées</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs d'oeufs</p>
+<p>60 g de sucre</p>
+<p>3 bananes</p>
+<p>2 pommes</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+préchauffez votre four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pommes;bananes"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> pommes </ingredient> et les <ingredient action="éplucher" quantite="3"> bananes </ingredient> puis <operation> coupez </operation> - les en morceaux . dans chaque ramequin , <operation ingredients="pommes;bananes"> placez </operation> un étage de <ingredient action="placer" quantite="2"> pommes </ingredient> puis un étage de <ingredient action="placer" quantite="3"> bananes </ingredient> . <operation> mettez </operation> au four pendant 15 min à 180 <operation> ° </operation> c. <operation ingredients="sel"> montez </operation> les blancs en neige avec une pincée de <ingredient action="monter" quantite="1 pincée"> sel </ingredient> . sortez les ramequins du four , <operation> repartir </operation> les blancs en neige dans les ramequins et <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="60 gramme"> sucre </ingredient> . <operation> enfournez </operation> à nouveau pendant 15 min à 180 <operation> ° </operation> c. bon appétit !
+</preparation>
+</recette>

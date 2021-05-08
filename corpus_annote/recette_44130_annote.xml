@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44130">
+<titre>Soupe espagnole</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>chorizo (doux ou fort)</p>
+<p>jambon de bayonne ou serrano</p>
+<p>2 gousses d'ail</p>
+<p>1 petit oignon</p>
+<p>3 poignées de vermicelle potage</p>
+<p>2 cuillères à soupe de tomate en coulis</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chorizo;jambon"> revenir </operation> le <ingredient action="revenir" quantite=""> chorizo </ingredient> et le <ingredient action="revenir" quantite=""> jambon </ingredient> <operation> coupés </operation> en petits morceaux . ensuite , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> blondi , mais pas doré . <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> tomate </ingredient> , et laisser <operation> revenir </operation> 5 min en <operation> ajoutant </operation> un peu d' eau si necessaire . <operation ingredients="gousses"> incorporer </operation> aussi les 2 <ingredient action="incorporer" quantite="2"> gousses </ingredient> d' ail <operation> écrasées </operation> , <operation> saler </operation> , <operation> poivrer </operation> , et <operation> couvrir </operation> avec 1 litre d' eau . faire <operation> cuire </operation> à feu doux , pendant 10 min , puis <operation ingredients="vermicelles"> ajouter </operation> les <ingredient action="ajouter"> vermicelles </ingredient> . dès que ça commence à <operation> bouillir </operation> , arrêter le feu , et <operation> couvrir </operation> 10 min ( on peut ausssi <operation ingredients="vermicelles;pommes"> changer </operation> les <ingredient action="changer"> vermicelles </ingredient> par des <ingredient action="changer"> pommes </ingredient> de terre <operation> coupées </operation> en tranches de 2 mm ) . bon appétit ! recette ancienne d' extremadure . rouge
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39412">
+<titre>Lentilles au curry avec des bananes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oignons</p>
+<p>2 pommes</p>
+<p>3 gousses d'ail</p>
+<p>1 cuillère à soupe de curry</p>
+<p>200 g de lentilles rouges</p>
+<p>50 cl de bouillon de légumes</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 pincée de coriandre</p>
+<p>crème fraîche</p>
+<p>4 bananes</p>
+<p>30 g de beurre</p>
+<p>riz</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;huile"> cuire </operation> les <ingredient action="cuire" quantite="3"> oignons </ingredient> dans une grande <operation> poêle </operation> , avec un peu d' <ingredient action="cuire"> huile </ingredient> bien chaude . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en petits morceaux et <operation ingredients="ail"> écraser </operation> l' <ingredient action="écraser"> ail </ingredient> . <operation ingredients="pommes;ail;curry"> ajouter </operation> les morceaux de <ingredient action="ajouter" quantite="2"> pommes </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> curry </ingredient> aux oignons . faire <operation ingredients="lentilles"> cuire </operation> environ 5 minutes avant d' y <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> de légume , puis les <ingredient action="cuire" quantite="200 gramme"> lentilles </ingredient> . laisser le tout <operation> mijoter </operation> , jusqu' à ce que le <ingredient quantite="50 cl"> bouillon </ingredient> soit absorbé par les <ingredient quantite="200 gramme"> lentilles </ingredient> ( 1 . 20 min . ) <operation> saler </operation> , <operation> poivrer </operation> , et <operation ingredients="coriandre"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pincée"> coriandre </ingredient> . <operation ingredients="crème"> mélanger </operation> à de la <ingredient action="mélanger" quantite=""> crème </ingredient> fraiche ( quantité selon votre goût ) <operation ingredients="bananes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> bananes </ingredient> et les faire " <operation ingredients="beurre"> griller </operation> " dans du <ingredient action="griller" quantite="30 gramme"> beurre </ingredient> chaud , jusqu' à ce qu' elles deviennent dorées et les <operation ingredients="lentilles"> disposer </operation> sur les <ingredient action="disposer" quantite="200 gramme"> lentilles </ingredient> au curry . servir avec du <ingredient quantite=""> riz </ingredient> . on peut , selon le goût , <operation ingredients="raisins;noix"> mettre </operation> des <ingredient action="mettre"> raisins </ingredient> secs ou des <ingredient action="mettre"> noix </ingredient> .
+</preparation>
+</recette>

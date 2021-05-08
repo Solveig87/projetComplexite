@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42219">
+<titre>Soupe au gouda</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de bouillon de légumes </p>
+<p>50 g de beurre </p>
+<p>50 g de farine</p>
+<p>150 g de gouda râpé </p>
+<p>50 g de gouda en dés</p>
+<p>1 verre de vin blanc </p>
+<p>2 jaunes d'oeufs</p>
+<p>1 gousse d'ail </p>
+<p>20 cl de crème semi-épaisse</p>
+<p>persil, poivre, muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une casserole . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="50 gramme"> farine </ingredient> , et <operation> mélanger </operation> au fouet . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="1 l"> bouillon </ingredient> , préalablement <operation> chauffé </operation> . <operation ingredients="vin;ail;poivre;muscade"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> , et un peu de <ingredient action="ajouter" quantite=""> muscade </ingredient> <operation> râpée </operation> . a l' <operation> ébullition </operation> , <operation ingredients="gouda"> verser </operation> en pluie le <ingredient action="verser" quantite="150 gramme+50 gramme"> gouda </ingredient> râpé , sans cesser de <operation> tourner </operation> , jusqu' à ce qu' il soit <operation> fondu </operation> . <operation ingredients="oeufs;crème"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> , avant de les <operation> mettre </operation> dans une soupière . <operation ingredients="persil;gouda"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> , et le <ingredient action="ajouter" quantite="150 gramme+50 gramme"> gouda </ingredient> en dés . <operation> verser </operation> le potage par dessus . et servir avec des <ingredient> croûtons </ingredient> , <operation ingredients="ail"> frottés </operation> à l' <ingredient action="frotter"> ail </ingredient> .
+</preparation>
+</recette>

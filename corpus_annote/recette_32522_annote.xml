@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32522">
+<titre>Tarte au carotte Momone</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>600 à 700 g de carottes</p>
+<p>2 oeufs</p>
+<p>75 g de gruyère râpé</p>
+<p>20 cl de crème liquide</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> cuire </operation> et <operation ingredients="carottes"> écraser </operation> les <ingredient action="écraser"> carottes </ingredient> . <operation ingredients="oeufs;gruyère;crème"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="75 gramme"> gruyère </ingredient> et la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> liquide . <operation ingredients="carotte"> ajouter </operation> la purée de <ingredient action="ajouter"> carotte </ingredient> à ce <operation> mélange </operation> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="pâte"> verser </operation> la préparation sur la <ingredient action="verser" quantite="1"> pâte </ingredient> feuilletée . faire <operation> cuire </operation> au four th . 7 pendant 40 mn .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16317">
+<titre>Cailles aux raisins faciles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 belles cailles</p>
+<p>1 boîte de raisins au naturel</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>2 verres à liqueur de cognac</p>
+<p>2 dl de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;jus;sucre;cognac"> mariner </operation> les <ingredient action="mariner"> raisins </ingredient> , leur <ingredient action="mariner"> jus </ingredient> et le <ingredient action="mariner" quantite="1 cuillère à soupe"> sucre </ingredient> avec le <ingredient action="mariner"> cognac </ingredient> une journée sur le radiateur . faire <operation action="rôtir" ingredients="rôtir;beurre"> rôtir </operation> les cailes dans du <ingredient action="rôtir"> beurre </ingredient> , <operation ingredients="sel;poivre"> ajouter </operation> du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="jus"> ajouter </operation> un peu de <ingredient action="ajouter"> jus </ingredient> de raisins et <operation> couvrir </operation> . laisser <operation> cuire </operation> 25 mn . <operation ingredients="crème;raisins"> rajouter </operation> la <ingredient action="rajouter" quantite="2 dl"> crème </ingredient> et les <ingredient action="rajouter"> raisins </ingredient> et faire <operation> réduire </operation> . servir avec des croquettes de <ingredient> pomme </ingredient> de terre . très facile à réaliser , n' hésitez pas à bien <operation> saler </operation> et <operation> poivrer </operation> .
+</preparation>
+</recette>

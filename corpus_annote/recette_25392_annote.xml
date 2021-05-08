@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25392">
+<titre>Crostinis Florentins (recette maison)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de foie de volaille ou veau</p>
+<p>1 petite boîte d'anchois</p>
+<p>50 g de câpres (environ 50 g) </p>
+<p>2 échalotes</p>
+<p>8 tranches de pain toast à griller</p>
+<p>10 cl de vin blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="foies;échalotes;anchois"> hacher </operation> les <ingredient action="hacher" quantite="200 gramme"> foies </ingredient> , les <ingredient action="hacher" quantite="2"> échalotes </ingredient> les câpres et les <ingredient action="hacher"> anchois </ingredient> , et les faire <operation ingredients="beurre"> revenir </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> . faire <operation ingredients="pain"> griller </operation> le <ingredient action="griller" quantite="8 tranche"> pain </ingredient> , le <operation ingredients="vin"> tremper </operation> rapidement dans le <ingredient action="tremper" quantite="10 cl"> vin </ingredient> blanc , et <operation> ajouter </operation> la farce sur le dessus . servir chaud . <ingredient quantite="10 cl"> vin </ingredient> blanc sec
+</preparation>
+</recette>

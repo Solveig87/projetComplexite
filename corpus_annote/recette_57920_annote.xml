@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57920">
+<titre>Concombre bana-chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 banane</p>
+<p>80 g de fromage de chèvre frais</p>
+<p>quelques feuilles de coriandre fraîche</p>
+<p>1 cuillère de miel liquide</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> le <operation action="concombre" ingredients="concombre"> concombre </operation> et le <operation> râper </operation> ( pas trop fin ) . <operation ingredients="fromage;banane;miel"> ajouter </operation> le <ingredient action="ajouter" quantite="80 gramme"> fromage </ingredient> de chèvre , la <ingredient action="ajouter" quantite="1"> banane </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère"> miel </ingredient> puis <operation> écraser </operation> avec une fourchette . <operation ingredients="coriandre"> hacher </operation> la <ingredient action="hacher" quantite="quelque feuille"> coriandre </ingredient> ( dans un verre avec des ciseaux , c' est très pratique ) . <operation> mélanger </operation> le tout . <operation> assaisonner </operation> à votre convenance . vous pouvez faire dégorger le <ingredient quantite="1"> concombre </ingredient> si vous le desirez mais moi je ne le fais pas et c' est très bien comme ça aussi .
+</preparation>
+</recette>

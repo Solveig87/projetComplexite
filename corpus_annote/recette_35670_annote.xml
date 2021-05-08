@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35670">
+<titre>Soupe à la tomate à l'ail</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>10 gousses d'ail</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>800 g tomates concassées</p>
+<p>500 ml de bouillon de légumes ou volaille</p>
+<p>200 ml jus de tomate</p>
+<p>1 cuillère à café vinaigre balsamique</p>
+<p>1 cuillère à soupe de sauce de soja</p>
+<p>2 feuilles de laurier</p>
+<p>100 ml de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="éplucher"> ail </ingredient> <operation ingredients="ail;huile"> épluché </operation> entier dans l' <ingredient action="éplucher" quantite="1 cuillère à soupe"> huile </ingredient> , puis <operation ingredients="tomate;bouillon;vinaigre;jus;laurier"> verser </operation> la <ingredient action="verser" quantite="800 gramme"> tomate </ingredient> , le <ingredient action="verser"> bouillon </ingredient> , le <ingredient action="verser"> vinaigre </ingredient> , le <ingredient action="verser"> jus </ingredient> de tomate , la sauce de soja et les feuilles de <ingredient action="verser" quantite="2 feuille"> laurier </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> à feu moyen 30 mn . <operation> ouvrir </operation> la marmite , <operation ingredients="laurier;gousses"> ôtez </operation> les feuilles de <ingredient action="ôter" quantite="2 feuille"> laurier </ingredient> et 6 <ingredient action="ôter" quantite="10"> gousses </ingredient> d' ail . <operation> ecrasez </operation> les <ingredient quantite="10"> gousses </ingredient> d' ail restantes avec une fourchette , puis <operation ingredients="non"> moudre </operation> ou <ingredient action="moudre" quantite="500+200+100;1 cuillère à café;1 cuillère à soupe"> non </ingredient> selon votre goût et avant de servir <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> fraîche et <operation ingredients="basilic"> ciselez </operation> un peu de <ingredient action="ciseler"> basilic </ingredient> . bon appétit . pour ceux qui sont au régime , cette <ingredient> soupe </ingredient> reste délicieuse sans <ingredient> crème </ingredient>
+</preparation>
+</recette>

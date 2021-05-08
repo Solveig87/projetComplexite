@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41833">
+<titre>Pommes aux noisettes en papillote</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes (type boskoop)</p>
+<p>2 cuillères à soupe de noisettes en poudre</p>
+<p>2 oeufs</p>
+<p>cannelle</p>
+<p>1 cuillère à soupe de sucre roux</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="4"> pommes </ingredient> , et les <operation> couper </operation> en morceaux grossiers . <operation ingredients="oeufs;cannelle;noisette"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> avec la <ingredient action="battre" quantite=""> cannelle </ingredient> , et la <operation> poudre </operation> de <ingredient action="battre" quantite="2 cuillère à soupe"> noisette </ingredient> . <operation ingredients="pommes"> verser </operation> sur les <ingredient action="verser" quantite="4"> pommes </ingredient> , bien <operation> mélanger </operation> pour que les morceaux soient <operation> enrobés </operation> . <operation ingredients="carré"> tapisser </operation> un <operation> moule </operation> <ingredient action="tapisser"> carré </ingredient> de papier alu . <operation ingredients="pommes"> verser </operation> les <ingredient action="verser" quantite="4"> pommes </ingredient> , bien tasser la préparation , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> sucre </ingredient> , et <operation> refermer </operation> les bords avec le papier alu qui dépasse sur les <ingredient quantite="4"> pommes </ingredient> . <operation> enfourner </operation> pendant 1 / 4 d' heure , et servir tiède avec une <ingredient> glace </ingredient> , un coulis au <ingredient> chocolat </ingredient> noir , ou un <ingredient> sorbet </ingredient> ou coulis aux <ingredient quantite="4;2 cuillère à soupe"> fruits </ingredient> rouges .
+</preparation>
+</recette>

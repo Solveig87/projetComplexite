@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37889">
+<titre>Sandwich Bacon et basilic</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>ciabatta (une demie ou moins ou plus, en fonction de l'appétit et de la taille du pain à l'achat !)</p>
+<p>huile d'olive vierge</p>
+<p>moutarde de Dijon</p>
+<p>3 à 4 tranches de bacon</p>
+<p>1 à 2 tomates  </p>
+<p>feuilles de basilic entières</p>
+<p>quelques tranches de fromage à pâte dure (Gouda, Édam, etc.)</p>
+<p>feuilles de salade</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> coupez </operation> le <ingredient action="couper"> pain </ingredient> en deux , <operation ingredients="huile;moutarde"> arrosez </operation> - le d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et <operation> tartinez </operation> - le de <ingredient action="arroser" quantite=""> moutarde </ingredient> . <operation ingredients="bacon"> cuisez </operation> le <ingredient action="cuire"> bacon </ingredient> " à sec " , sans <operation ingredients="huile"> ajouter </operation> d' <ingredient action="ajouter" quantite=""> huile </ingredient> ( ou très très peu si ça attache ! ) <operation ingredients="tomates;fromage"> coupez </operation> les <ingredient action="couper" quantite="1"> tomates </ingredient> en rondelles , le <ingredient action="couper" quantite="quelque tranche"> fromage </ingredient> en tranches et <operation ingredients="salade"> lavez </operation> vos feuilles de <ingredient action="laver"> salade </ingredient> . <operation ingredients="bacon;pain;tomates"> placez </operation> le <ingredient action="placer"> bacon </ingredient> sur le <ingredient action="placer"> pain </ingredient> moutardé puis les <ingredient action="placer" quantite="1"> tomates </ingredient> , le <ingredient> basilic </ingredient> entier , le <ingredient quantite="quelque tranche"> fromage </ingredient> et enfin la <ingredient> salade </ingredient> . <operation ingredients="sandwich"> appuyez </operation> bien sur le <ingredient action="appuyer"> sandwich </ingredient> pour que la garniture ne s' échappe pas , et vous voilà prêt à savourer un délicieux et méga - gras <ingredient> sandwich </ingredient> ( c' est ça qui est bon ) !
+</preparation>
+</recette>

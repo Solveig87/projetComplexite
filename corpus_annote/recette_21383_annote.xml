@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21383">
+<titre>Escalopes Jericho</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de veau</p>
+<p>2 oeufs</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>4 tranches de jambon cuit fumé</p>
+<p>2 petites boîtes de pointes d'asperges</p>
+<p>gruyère râpé</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>une noix de beurre</p>
+<p>un peu de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> , <operation ingredients="escalopes"> poivrez </operation> les <ingredient action="poivrer" quantite="4"> escalopes </ingredient> de veau et <operation ingredients="farine;oeufs"> passez </operation> à la <ingredient action="passer"> farine </ingredient> , <operation> trempez </operation> - les dans les <ingredient action="passer" quantite="2"> oeufs </ingredient> <operation> battus </operation> . faites <operation ingredients="beurre"> cuire </operation> 2 mn à la <operation> poêle </operation> au <ingredient action="cuire"> beurre </ingredient> . <operation ingredients="escalopes"> posez </operation> vos <ingredient action="poser" quantite="4"> escalopes </ingredient> dans un plat allant au four , <operation ingredients="tomates"> mettez </operation> dessus une cuillère à café de <operation> concentré </operation> de <ingredient action="mettre"> tomates </ingredient> . <operation> disposez </operation> dessus une tranche de <ingredient quantite="4 tranche"> jambon </ingredient> , puis des pointes d' <ingredient> asperges </ingredient> . <operation ingredients="gruyère"> recouvrez </operation> de <ingredient action="recouvrir" quantite=""> gruyère </ingredient> râpé et <operation> nappez </operation> d' une cuillère à soupe de crème fraîche . <operation> passez </operation> au four à <operation> gratiner </operation> th 8 pendant 10 mn . ce plat est excellent mais se suffit à lui-même , ne pas prévoir de <ingredient quantite="4 cuillère à soupe"> légumes </ingredient> . vous pouvez remplacer le <operation> concentré </operation> de <ingredient> tomates </ingredient> par une sauce de <ingredient quantite="4;4 tranche;1"> viande </ingredient> assez corsée .
+</preparation>
+</recette>

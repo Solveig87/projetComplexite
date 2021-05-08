@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56851">
+<titre>Croque Monsieur super léger</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie</p>
+<p>1 tranche de jambon</p>
+<p>fromage blanc 0%</p>
+<p>fromage râpé</p>
+<p>beurre allégé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> mélanger </operation> une bonne cuillère à soupe de fromage blanc à 0 % avec du <ingredient action="mélanger" quantite=""> fromage </ingredient> râpé , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="pain;jambon;fromage"> garnir </operation> une tranche de <ingredient action="garnir" quantite="2 tranche"> pain </ingredient> de mie de <ingredient action="garnir" quantite="1 tranche"> jambon </ingredient> puis de ce <ingredient action="garnir" quantite=""> fromage </ingredient> blanc , <operation> recouvrir </operation> de la 2 eme tranche préalablement beurrée . <operation> enfourner </operation> une dizaine de minute , c' est prêt ! ( des herbes de provence ou <ingredient> basilic </ingredient> peuvent être <operation ingredients="fromage"> rajoutés </operation> au <ingredient action="rajouter" quantite=""> fromage </ingredient> blanc . ) <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> , un repas allégé et rapide .
+</preparation>
+</recette>

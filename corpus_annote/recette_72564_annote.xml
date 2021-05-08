@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72564">
+<titre>Risotto aux saveurs du Sud-Ouest</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>riz rond (3 verres)</p>
+<p>70 cl de vin rouge (de table)</p>
+<p>4 saucisses de Toulouse</p>
+<p>1 gros oignon</p>
+<p>1 bouillon d'épices</p>
+<p>15 g de beurre</p>
+<p>70 cl d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> eplucher </operation> l' <ingredient action="eplucher" quantite="1"> oignon </ingredient> et le <operation> hacher </operation> finement ( en petit <ingredient> carrés </ingredient> ) . <operation ingredients="saucisses"> enlever </operation> la peau de 2 <ingredient action="enlever" quantite="4"> saucisses </ingredient> et <operation ingredients="chair;oignons"> intégrer </operation> la <ingredient action="intégrer"> chair </ingredient> à saucisse avec les <ingredient action="intégrer" quantite="1"> oignons </ingredient> <operation> hachés </operation> . <operation> malaxer </operation> le <operation> mélange </operation> afin d' obtenir une grosse boule . dans un récipient , faire <operation ingredients="bouillon"> chauffer </operation> 70 cl d' eau + 1 <ingredient action="chauffer" quantite="1"> bouillon </ingredient> cube . cuisson : faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="15 gramme"> beurre </ingredient> dans une marmite et <operation ingredients="oignons"> intégrer </operation> le <operation> mélange </operation> <ingredient action="intégrer" quantite="1"> oignons </ingredient> / chair à saucisse . a l' aide d' une cuillère en bois , <operation> écraser </operation> le tout afin de délier l' ensemble . une fois l' <ingredient quantite="1"> oignon </ingredient> jauni , <operation ingredients="riz"> intégrer </operation> le <ingredient action="intégrer" quantite=""> riz </ingredient> et <operation> mélanger </operation> sans interrruption pendant 1 min . <operation ingredients="vin;bouillon"> ajouter </operation> 30 cl de <ingredient action="ajouter" quantite="70 cl"> vin </ingredient> + la moitié du <operation> mélange </operation> eau / <ingredient action="ajouter" quantite="1"> bouillon </ingredient> et laisser <operation> mijoter </operation> à feu moyen en <operation> mélangeant </operation> régulièrement . une fois le <operation ingredients="bouillon"> mélange </operation> asséché ( 15 min ) , <operation ingredients="vin"> rajouter </operation> 40 cl de <ingredient action="rajouter" quantite="70 cl"> vin </ingredient> et le reste du <operation> mélange </operation> eau / <ingredient action="mélange" quantite="1"> bouillon </ingredient> . laisser <operation> cuire </operation> et servir avec le reste de <ingredient quantite="4"> saucisses </ingredient> <operation> coupées </operation> en petits morceaux et <operation> cuites </operation> à l' <ingredient> huile </ingredient> d' olive .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18351">
+<titre>Gâteau allemand au fromage blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>5 oeufs,</p>
+<p>250 g de sucre</p>
+<p>1/2 litre de lait,</p>
+<p>500 gr de fromage blanc égoutté,</p>
+<p>50 gr d'amidon,</p>
+<p>1 citron (son zeste et son jus)</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="5"> oeufs </ingredient> . <operation ingredients="sucre;citron;fromage;lait"> mélanger </operation> les jaunes avec le <ingredient action="mélanger" quantite="250 gramme"> sucre </ingredient> , jus et zeste de <ingredient action="mélanger" quantite="1"> citron </ingredient> , l' amidon , le <ingredient action="mélanger" quantite="500 gr"> fromage </ingredient> et le <ingredient action="mélanger"> lait </ingredient> . <operation> mélanger </operation> le tout petit à petit . <operation> battre </operation> les blance en neige ferme et <operation> incorporer </operation> au <operation> mélange </operation> tout doucement . <operation> graisser </operation> un <operation> moule </operation> et y <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite="1"> pâte </ingredient> en prenant soin de bien <operation> recouvrir </operation> les bords du <operation> moule </operation> . y <operation> déposer </operation> la crême et <operation> mettre </operation> au four à 200 <operation> ° </operation> c pendant 45 min .
+</preparation>
+</recette>

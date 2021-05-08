@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22899">
+<titre>Scampis à la nage</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poireau</p>
+<p>1 fenouil</p>
+<p>4 carottes</p>
+<p>1 céleri</p>
+<p>1 litre de vin blanc sec</p>
+<p>25 cl de crème fraîche</p>
+<p>sel, poivre</p>
+<p>20 scampis</p>
+<p>12 coquilles saint jacques</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="1;1;4;1;25 cl"> légumes </ingredient> en très fines lamelles , les <operation ingredients="vin;sel"> cuire </operation> dans le <ingredient action="cuire" quantite="1 litre"> vin </ingredient> blanc avec <ingredient action="cuire" quantite=""> sel </ingredient> et poivre . une fois que les <ingredient quantite="1;1;4;1;25 cl"> légumes </ingredient> ont bu tout le <ingredient quantite="1 litre"> vin </ingredient> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> plus ou moins selon les goûts , <operation ingredients="scampis"> décortiquer </operation> les <ingredient action="décortiquer" quantite="20"> scampis </ingredient> , et les <operation ingredients="légumes"> mettre </operation> dans les <ingredient action="mettre" quantite="1;1;4;1;25 cl"> légumes </ingredient> avec les coquilles saint jacques , <operation> cuire </operation> une dizaine de minutes . servir chaud , avec des <ingredient> croûtons </ingredient> <ingredient quantite="1 litre"> vin </ingredient> sec
+</preparation>
+</recette>

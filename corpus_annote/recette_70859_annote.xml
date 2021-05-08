@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70859">
+<titre>Soupe à la tomate express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 gousse d'ail (fraîche ou congelée)</p>
+<p>1 oignon coupé en dés (frais ou une poignée d'oignons congelés)</p>
+<p>1 boîte de tomates pelées</p>
+<p>sel, poivre</p>
+<p>1 petite pointe de cumin</p>
+<p>1 cuillère à soupe de sucre en poudre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="ail;oignon;huile"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , ensuite <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> ( si elles sont trop grosses <operation> coupez </operation> - les en morceaux ) , <operation ingredients="sel;poivre;cumin"> rajoutez </operation> ensuite le <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="rajouter" quantite=""> poivre </ingredient> , la pointe de <ingredient action="rajouter"> cumin </ingredient> . laissez <operation> chauffer </operation> , et ensuite <operation> mixez </operation> le tout dans un blender . une fois le velouté obtenu <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> sucre </ingredient> ( pour casser l' acidité des <ingredient> tomates </ingredient> ) . <operation> goûtez </operation> et <operation ingredients="assaisonnement"> ajustez </operation> l' <ingredient action="ajuster" quantite="2 cuillère à soupe;1;;"> assaisonnement </ingredient> à votre convenance . la <ingredient> soupe </ingredient> express est prête .
+</preparation>
+</recette>

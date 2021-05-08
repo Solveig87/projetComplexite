@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27267">
+<titre>Mousse au chocolat blanc et coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat blanc</p>
+<p>25 g de beurre</p>
+<p>3 oeufs</p>
+<p>50 g de noix de coco râpée</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> au bain - marie . dès que le <operation> mélange </operation> est <operation> ramolli </operation> , <operation ingredients="crème;noix"> mettre </operation> la <ingredient action="mettre" quantite="2 cuillère à soupe"> crème </ingredient> , la <ingredient action="mettre" quantite="50 gramme"> noix </ingredient> de coco . prendre les <ingredient quantite="3"> oeufs </ingredient> . <operation> séparer </operation> les jaunes des blancs et <operation ingredients="sucre"> fouettez </operation> les jaunes avec le <ingredient action="fouetter" quantite="4 cuillère à soupe"> sucre </ingredient> jusqu' à obtenir une <ingredient> pâte </ingredient> onctueuse . <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="100 gramme"> chocolat </ingredient> . <operation> battre </operation> les blancs en neige et <operation> incorporez </operation> - les à la préparation précédente . <operation> mettre </operation> dans des ramequins et laissez <operation> reposer </operation> 2 heures au réfrigérateur . pour <operation> décorer </operation> , <operation ingredients="noix"> mettre </operation> de la <ingredient action="mettre" quantite="50 gramme"> noix </ingredient> de coco <operation> râpée </operation> et planter une cigarette russe .
+</preparation>
+</recette>

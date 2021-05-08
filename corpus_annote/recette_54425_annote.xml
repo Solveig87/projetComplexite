@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54425">
+<titre>Croque-monsieur à la Angy</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de pain de mie</p>
+<p>6 rondelles d'ananas en boîte</p>
+<p>1 tranche de jambon de parme</p>
+<p>2 tranches de jambon blanc braisé</p>
+<p>50 g de beurre</p>
+<p>3 tranches de gouda jeune</p>
+<p>1 tomate</p>
+<p>1 oignon</p>
+<p>basilic frais</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> une face des tranches de <ingredient action="beurrer" quantite="6 tranche"> pain </ingredient> de mie . <operation ingredients="gouda;pain"> déposer </operation> 1 / 2 tranche de <ingredient action="déposer" quantite="3 tranche"> gouda </ingredient> sur le côté beurré de chaque tranche de <ingredient action="déposer" quantite="6 tranche"> pain </ingredient> . <operation ingredients="jambon"> découper </operation> le <ingredient action="découper" quantite="1 tranche+2 tranche"> jambon </ingredient> de parme en fine lanières et les <operation ingredients="gouda"> disposer </operation> sur le <ingredient action="disposer" quantite="3 tranche"> gouda </ingredient> . <operation ingredients="oignon"> découper </operation> une partie de l' <ingredient action="découper" quantite="1"> oignon </ingredient> en mirepoix ( petits dés ) , <operation ingredients="basilic"> hacher </operation> le <ingredient action="hacher" quantite=""> basilic </ingredient> et <operation ingredients="jambon"> disperser </operation> sur le <ingredient action="disperser" quantite="1 tranche+2 tranche"> jambon </ingredient> . <operation> couper </operation> les rondelles d' anana en petits morceaux , les <operation ingredients="fromage;jambon"> disposer </operation> sur le <ingredient action="disposer"> fromage </ingredient> et le <ingredient action="disposer" quantite="1 tranche+2 tranche"> jambon </ingredient> de parme . <operation ingredients="tomate"> découper </operation> la <ingredient action="découper" quantite="1"> tomate </ingredient> , <operation> enlever </operation> les pépins et la <operation> concasser </operation> . <operation ingredients="tomate;ananas"> répartir </operation> les dés de <ingredient action="répartir" quantite="1"> tomate </ingredient> sur les <ingredient action="répartir"> ananas </ingredient> . enfin , <operation ingredients="jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 tranche+2 tranche"> jambon </ingredient> braisé <operation> coupé </operation> en morceaux , puis <operation ingredients="gouda"> parsemer </operation> de fines lanières de <ingredient action="parsemer" quantite="3 tranche"> gouda </ingredient> . <operation> placer </operation> les croques sous le grill pendant 5 à 10 min afin qu' ils soient bien dorés . surtout bien <operation ingredients="ananas"> égoutter </operation> les <ingredient action="égoutter"> ananas </ingredient> . un <ingredient> vin </ingredient> italien doux
+</preparation>
+</recette>

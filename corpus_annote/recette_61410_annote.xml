@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61410">
+<titre>Foie de veau aux pêches</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de foie de veau</p>
+<p>4 pêches (ou nectarines)</p>
+<p>1 échalote</p>
+<p>1 cuillère à café de sucre</p>
+<p>1 cuillère à soupe de crème</p>
+<p>15 cl de porto</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="foie;échalote;pêches"> cuire </operation> le <ingredient action="cuire" quantite="2 tranche"> foie </ingredient> avec l' <ingredient action="cuire" quantite="1"> échalote </ingredient> dans une poëêle , garder la <ingredient quantite="2 tranche"> viande </ingredient> au chaud , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> sucre </ingredient> , laisser caraméliser , <operation ingredients="porto"> mettre </operation> le <ingredient action="mettre" quantite="15 cl"> porto </ingredient> , ensuite les <ingredient action="cuire" quantite="4"> pêches </ingredient> <operation> épluchées </operation> et <operation> coupées </operation> en deux pendant 15 min à feu doux . en fin de cuisson <operation ingredients="crème;viande"> ajoutez </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> , puis la <ingredient action="ajouter" quantite="2 tranche"> viande </ingredient> . bon appétit ! c' est excellent ! <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

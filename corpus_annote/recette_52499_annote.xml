@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52499">
+<titre>Ma super soupe de légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pack de légumes pour pot-au-feu pour 2/3 personnes (carottes, céleri, navet, poireaux, bouquet garni, oignon)</p>
+<p>4 ou 5 pommes de terre</p>
+<p>quelques feuilles de choux vert (facultatif)</p>
+<p>1 l de bouillon (2 cubes pot au feu, boeuf, arôme saveur...)</p>
+<p>beurre</p>
+<p>15 cl de vin blanc sec</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="4;quelque feuille;1 l"> légumes </ingredient> en morceaux puis les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> pendant environ 5 minutes en <operation> remuant </operation> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="15 cl"> vin </ingredient> blanc et laisser <operation> mijoter </operation> pendant 2 à 3 minutes avant d' <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> . faire <operation> cuire </operation> pendant environ 20 minutes à l' autocuiseur ( 40 à 50 minutes à la casserole ) . bien <operation ingredients="soupe"> mouliner </operation> la <ingredient action="mouliner"> soupe </ingredient> de manière à obtenir un velouté . <operation ingredients="poivre"> saler </operation> si besoin , <operation> poivrer </operation> avec du <ingredient action="saler"> poivre </ingredient> du moulin ou du 5 baies . servir bien chaud avec 1 cuillère de <ingredient> crème </ingredient> fraiche . vous pouvez utiliser les <ingredient quantite="4;quelque feuille;1 l"> légumes </ingredient> de votre choix , le tout étant de les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> et d' <operation ingredients="vin"> ajouter </operation> un peu de <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc . un vrai délice !
+</preparation>
+</recette>

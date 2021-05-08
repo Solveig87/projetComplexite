@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34071">
+<titre>LAPIN AU CHORIZO</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin coupé en morceaux</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>150 g de poitrine fumée</p>
+<p>20 rondelles de chorizo (style saucisse sèche) </p>
+<p>250 g de champignons (cêpes, bolets ou Paris) </p>
+<p>250 g de petits oignons blancs</p>
+<p>15 cl de vin blanc sec</p>
+<p>15 cl de bouillon de volaille</p>
+<p>bouquet garni</p>
+<p>1 gousse d'ail pelée et hachée</p>
+<p>3 cuillères à soupe de crème fraîche épaisse</p>
+<p>persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lapin;huile"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> lapin </ingredient> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> . laissez - les <operation> colorer </operation> . <operation ingredients="poitrine"> coupez </operation> la <ingredient action="couper" quantite="150 gramme"> poitrine </ingredient> en dés . <operation ingredients="champignons"> lavez </operation> et <operation> émincez </operation> les <ingredient action="laver" quantite="250 gramme"> champignons </ingredient> . otez les morceaux de <ingredient quantite="1"> lapins </ingredient> de la cocotte et à leur <operation> place </operation> faites <operation ingredients="lardons;chorizo;champignons"> sauter </operation> les <ingredient action="sauter"> lardons </ingredient> , le <ingredient action="sauter"> chorizo </ingredient> et les <ingredient action="sauter" quantite="250 gramme"> champignons </ingredient> . <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="250 gramme"> oignons </ingredient> . faites <operation> dorer </operation> et <operation ingredients="lapin"> remettez </operation> le <ingredient action="remettre" quantite="1"> lapin </ingredient> . <operation> salez </operation> et <operation ingredients="lapin"> poivrez </operation> le <ingredient action="poivrer" quantite="1"> lapin </ingredient> . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="15 cl"> vin </ingredient> blanc . laissez <operation> réduire </operation> , <operation ingredients="bouillon;bouquet;ail"> ajoutez </operation> le <ingredient action="ajouter" quantite="15 cl"> bouillon </ingredient> , le <ingredient action="ajouter" quantite=""> bouquet </ingredient> <operation> garni </operation> et l' <ingredient action="ajouter"> ail </ingredient> . <operation> cuisez </operation> à feu doux pendant 1 heure . otez la préparation de la cocotte . faites <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de cuisson d' un tiers sur feu vif . <operation ingredients="crème"> liez </operation> avec la <ingredient action="lier" quantite="3 cuillère à soupe"> crème </ingredient> et <operation ingredients="lapin"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> lapin </ingredient> et sa garniture . <operation> réchauffez </operation> en <operation> mélangeant </operation> . <operation ingredients="persil"> parsemez </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> et servez . beaujolais ( moulin à vent )
+</preparation>
+</recette>

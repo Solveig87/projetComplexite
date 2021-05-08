@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54654">
+<titre>Magret de canard sauce aux poivres</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 magret de canard</p>
+<p>1 cuillère à soupe de 4 poivres</p>
+<p>20 cl de crème liquide</p>
+<p>2 cuillères à café de fond de veau</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="magret"> entailler </operation> le gras du <ingredient action="entailler" quantite="1"> magret </ingredient> , pr . <operation ingredients="magret;chair"> trancher </operation> le <ingredient action="trancher" quantite="1"> magret </ingredient> du côté <ingredient action="trancher"> chair </ingredient> . faire <operation ingredients="magret"> cuire </operation> le <ingredient action="cuire" quantite="1"> magret </ingredient> du côté gras , sur feu vif 5 à 6 minutes . <operation ingredients="poivre"> concasser </operation> le <ingredient action="concasser" quantite="1 cuillère à soupe"> poivre </ingredient> . une fois le gras bien <operation> fondu </operation> , <operation ingredients="magret"> retourner </operation> le <ingredient action="retourner" quantite="1"> magret </ingredient> et le laisser <operation> cuire </operation> sur feu moyen 6 min . <operation ingredients="magret"> enlever </operation> le gras et le <ingredient action="enlever" quantite="1"> magret </ingredient> , <operation ingredients="poivre;veau"> mettre </operation> le <ingredient action="mettre" quantite="1 cuillère à soupe"> poivre </ingredient> et le fond de <ingredient action="mettre"> veau </ingredient> , <operation> remuer </operation> rapidement . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et laisser <operation> épaissir </operation> la sauce avant de <operation ingredients="magret"> remettre </operation> le <ingredient action="remettre" quantite="1"> magret </ingredient> dans la <operation> poêle </operation> . servir avec des petites <ingredient> pommes </ingredient> de terre rissolées ( éventuellement dans le gras du <ingredient quantite="1"> magret </ingredient> ) .
+</preparation>
+</recette>

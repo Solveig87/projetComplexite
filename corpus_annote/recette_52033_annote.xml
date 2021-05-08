@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52033">
+<titre>Soupe de viande et légumes à la façon de Denis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gîte de boeuf d'1,2 kg</p>
+<p>2 petits poireaux</p>
+<p>2 gros oignons</p>
+<p>1 petit chou-rave (rutabaga)</p>
+<p>1 céleri</p>
+<p>8 grosses carottes</p>
+<p>4 bouillons de boeuf (tablettes)</p>
+<p>2 l d'eau</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+dans une marmite , <operation ingredients="bouillon"> versez </operation> 2 litres d' eau avec les tablettes de <ingredient action="verser" quantite="4"> bouillon </ingredient> de boeuf . laissez <operation> frémir </operation> doucement . pendant ce temps , <operation ingredients="poireaux"> lavez </operation> et <operation ingredients="carottes"> coupez </operation> les <ingredient action="couper" quantite="8"> carottes </ingredient> en rondelles , le vert de <ingredient action="laver" quantite="2"> poireaux </ingredient> en morceaux d'1 cm ( <operation ingredients="poireaux"> réservez </operation> vos blancs de <ingredient action="réserver" quantite="2"> poireaux </ingredient> pour une autre recette ! ) . <operation ingredients="oignons"> eminçez </operation> vos <ingredient action="eminçez" quantite="2"> oignons </ingredient> . <operation ingredients="céleri;chou-rave"> coupez </operation> le <ingredient action="couper" quantite="1"> céleri </ingredient> en morceaux d'1 cm environ , le <ingredient action="couper" quantite="1"> chou-rave </ingredient> en cubes . <operation> plongez </operation> le tout dans la marmite , <operation> salez </operation> et <operation> poivrez </operation> selon votre goût . la <ingredient> viande </ingredient> peut se consommer dans la <ingredient> soupe </ingredient> , <operation> coupée </operation> en petits morceaux . très riche en vitamine et très agréable en période hivernale ! ! ! <ingredient> pinot </ingredient> noir
+</preparation>
+</recette>

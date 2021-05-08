@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32018">
+<titre>Soupe sucrée au maïs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite boîte de maïs</p>
+<p>6 cuillères à soupe de sucre</p>
+<p>4 cuillères à café bien pleines de maïzena</p>
+<p>1 oeuf</p>
+<p>1 litre d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="sucre"> bouillir </operation> le litre d' eau avec le <ingredient action="bouillir" quantite="6 cuillère à soupe"> sucre </ingredient> et <operation ingredients="maïs"> ajouter </operation> les grains de <ingredient action="ajouter"> maïs </ingredient> légèrement <operation> écrasés </operation> . <operation> cuire </operation> 5 mn , puis <operation ingredients="maïzena;soupe"> ajouter </operation> la <ingredient action="ajouter"> maïzena </ingredient> <operation> délayée </operation> dans un peu d' eau pour faire <operation> épaissir </operation> la <ingredient action="ajouter"> soupe </ingredient> . laisser à nouveau <operation> cuire </operation> quelques minutes , puis <operation ingredients="oeuf"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> <operation> battu </operation> tout en <operation> remuant </operation> . cela doit <operation ingredients="oeuf"> faire </operation> des petits filaments d' <ingredient action="faire" quantite="1"> oeuf </ingredient> . servir chaud . ceci est une <ingredient> soupe </ingredient> chinoise que les enfants aiment beaucoup .
+</preparation>
+</recette>

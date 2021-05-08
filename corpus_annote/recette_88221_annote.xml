@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88221">
+<titre>Gnocchi au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500g de gnocchi</p>
+<p>1 pot de sauce bolognaise</p>
+<p>2 cuillères à soupe de crème</p>
+<p>100 g de gruyère</p>
+</ingredients>
+<preparation>
+faire préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) et faire <operation> bouillir </operation> une casserole d' eau <operation> salée </operation> . <operation ingredients="gnocchi"> plonger </operation> les <ingredient action="plonger" quantite="500 gramme"> gnocchi </ingredient> dans l' eau frémissante et laisser <operation> cuire </operation> jusqu' à ce qu' ils remontent à la surface . <operation ingredients="crème"> mélanger </operation> la sauce bolognaise avec la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> . <operation ingredients="gnocchis"> placer </operation> les <ingredient action="placer" quantite="500 gramme"> gnocchis </ingredient> dans un plat à gratin , <operation> verser </operation> la sauce dessus et <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> . <operation> enfourner </operation> 15 min .
+</preparation>
+</recette>

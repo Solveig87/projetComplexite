@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84984">
+<titre>Escaloppe de veau a la semoule de couscous</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de semoule de blé</p>
+<p>4 escalopes de veau ou de dinde</p>
+<p>1 boîte de champignons</p>
+<p>250 g de crème fraîche</p>
+<p>1 cube de bouillon</p>
+<p>2 cuillères a café de concentré de tomate </p>
+<p>Beurre, sel, poivre.</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="champignons;noix"> revenir </operation> les <ingredient action="revenir"> champignons </ingredient> avec une <ingredient action="revenir"> noix </ingredient> de beurre jusqu' à évaporation de l' eau . <operation> réserver </operation> . <operation> poêler </operation> les escaloppes pendant 5 minutes de chaque côté . <operation> réserver </operation> . <operation ingredients="crème"> déglacer </operation> la <operation> poêle </operation> avec la <ingredient action="déglacer" quantite="250 gramme"> crème </ingredient> puis <operation ingredients="tomate"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> laisser <operation> réduire </operation> . <operation ingredients="champignons"> remettre </operation> les escaloppes et les <ingredient action="remettre"> champignons </ingredient> dans la sauce . servir avec la <ingredient quantite="200 gramme"> semoule </ingredient> de blé .
+</preparation>
+</recette>

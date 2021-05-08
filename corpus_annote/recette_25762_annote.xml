@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25762">
+<titre>Langoustines à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 langoustines</p>
+<p>1 l de court-bouillon</p>
+<p>1 échalote</p>
+<p>de l'huile d'olive</p>
+<p>2 tomates</p>
+<p>1 gousse d'ail</p>
+<p>10 cl de vin blanc sec</p>
+<p>5 cl de Cognac</p>
+<p>1 bouquet garni</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation> chauffer </operation> le court-bouillon et y <operation ingredients="langoustines"> plonger </operation> les <ingredient action="plonger" quantite="24"> langoustines </ingredient> . laisser <operation> cuire </operation> 5 min dès la reprise de l' ébulition . une fois <operation> cuites </operation> , <operation ingredients="langoustines"> décortiquer </operation> les <ingredient action="décortiquer" quantite="24"> langoustines </ingredient> et <operation ingredients="têtes"> réserver </operation> les <ingredient action="réserver"> têtes </ingredient> . <operation ingredients="échalote"> hacher </operation> l' <ingredient action="hacher" quantite="1"> échalote </ingredient> , <operation> peler </operation> et <operation ingredients="tomates"> détailler </operation> les <ingredient action="détailler" quantite="2"> tomates </ingredient> en petits morceaux , <operation ingredients="ail"> piler </operation> l' <ingredient action="piler"> ail </ingredient> . dans une casserole , faire <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer" quantite=""> huile </ingredient> et y <operation ingredients="échalote"> faire </operation> suer l' <ingredient action="faire" quantite="1"> échalote </ingredient> . <operation ingredients="tomates;ail;vin;cognac;bouquet"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc , le <ingredient action="ajouter" quantite="5 cl"> cognac </ingredient> , sel , poivre et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> cuire </operation> doucement la sauce pendant 30 min . au bout de ce temps , <operation ingredients="langoustines"> ajouter </operation> les <ingredient action="ajouter" quantite="24"> langoustines </ingredient> et laisser <operation> chauffer </operation> 5 min .
+</preparation>
+</recette>

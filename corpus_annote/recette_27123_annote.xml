@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27123">
+<titre>Escalopes à l'italienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes</p>
+<p>50 g de beurre</p>
+<p>1 oeuf</p>
+<p>1 citron</p>
+<p>3 cuillères à soupe de chapelure fine</p>
+<p>sel </p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> dans une assiette et <operation ingredients="chapelure"> préparer </operation> la <ingredient action="préparer" quantite="3 cuillère à soupe"> chapelure </ingredient> dans une autre assiette creuse . <operation ingredients="escalopes"> saler </operation> , <operation> poivrer </operation> chaque <ingredient action="saler" quantite="6"> escalopes </ingredient> et les <operation ingredients="oeuf;chapelure"> passer </operation> dans l' <ingredient action="passer" quantite="1"> oeuf </ingredient> puis la <ingredient action="passer" quantite="3 cuillère à soupe"> chapelure </ingredient> . <operation ingredients="escalope"> tapoter </operation> légèrement chaque <ingredient action="tapoter" quantite="6"> escalope </ingredient> pour <operation ingredients="chapelure"> enlever </operation> le surplus de <ingredient action="enlever" quantite="3 cuillère à soupe"> chapelure </ingredient> . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> et y faire <operation ingredients="escalopes"> dorer </operation> les <ingredient action="dorer" quantite="6"> escalopes </ingredient> 5 min par face . <operation> réserver </operation> sur du papier absorbant pour <operation ingredients="matière"> enlever </operation> l' excès de <ingredient action="enlever" quantite="50 gramme"> matière </ingredient> grasse . servir avec des rondelles de <ingredient quantite="1"> citron </ingredient> .
+</preparation>
+</recette>

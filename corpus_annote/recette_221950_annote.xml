@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221950">
+<titre>Petits wraps aux nuggets</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tortillas de blé</p>
+<p>12 nuggets de poulet</p>
+<p>4 belles feuilles de salade</p>
+<p>1 yaourt nature</p>
+<p>ciboulette</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulet"> cuire </operation> les nuggets de <ingredient action="cuire"> poulet </ingredient> . pendant ce temps , <operation ingredients="yaourt"> versez </operation> le <ingredient action="verser" quantite="1"> yaourt </ingredient> dans un bol . <operation> remuez </operation> - le à la fourchette en y <operation ingredients="ciboulette"> ajoutant </operation> quelques brins de <ingredient action="ajouter" quantite=""> ciboulette </ingredient> , du <ingredient quantite=""> sel </ingredient> et du <ingredient quantite=""> poivre </ingredient> à votre goût . votre sauce est prête . une fois la cuisson des nuggets presque finie : faites <operation ingredients="tortilla"> chauffer </operation> une <ingredient action="chauffer" quantite="4"> tortilla </ingredient> 10 secondes de chaque côté dans une <operation> poêle </operation> à feu moyen . cela doit la rendre plus souple . <operation ingredients="tortilla"> présentez </operation> la <ingredient action="présenter" quantite="4"> tortilla </ingredient> chaude à plat devant vous . <operation ingredients="salade;tortilla"> ajoutez </operation> une feuille de <ingredient action="ajouter"> salade </ingredient> sur la moitié supérieure de la <ingredient action="ajouter" quantite="4"> tortilla </ingredient> . <operation ingredients="salade"> mettez </operation> 3 nuggets au centre de la feuille de <ingredient action="mettre"> salade </ingredient> . <operation ingredients="yaourt"> ajoutez </operation> la sauce au <ingredient action="ajouter" quantite="1"> yaourt </ingredient> sur les nuggets . pliez la moitié basse de la <ingredient quantite="4"> tortilla </ingredient> sur la moitié haute . ( ceci doit <operation> former </operation> une demi-lune ) puis <operation> rabattez </operation> le côté droit et le côté gauche au centre . <operation ingredients="tortillas"> faites </operation> de même avec les autres <ingredient action="faire" quantite="4"> tortillas </ingredient> . vos petits wraps sont prêts ! attention : les <ingredient action="durcir" quantite="4"> tortillas </ingredient> <operation ingredients="tortillas"> durcissent </operation> rapidement . ne tardez pas à les <ingredient> manger </ingredient> après leur préparation !
+</preparation>
+</recette>

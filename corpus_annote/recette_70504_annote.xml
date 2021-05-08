@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70504">
+<titre>Merveilles Lyonnaise</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 gr de farine </p>
+<p>une cuillère à café rase de levure chimique</p>
+<p>1/2 cuillère à café de sel fin</p>
+<p>2 cuillères à soupe de sucre en poudre </p>
+<p>2 oeufs</p>
+<p>30 gr de beurre</p>
+<p>1 demi verre de lait (environ)</p>
+<p>40 ml de rhum = (4 cuillères a soupe)</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="sel"> mélanger </operation> farine , <ingredient action="mélanger"> sel </ingredient> , sucre et levure . <operation ingredients="oeufs;beurre;rhum"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> , le <ingredient action="ajouter" quantite="30 gr"> beurre </ingredient> <operation> fondu </operation> , le <ingredient action="ajouter"> rhum </ingredient> et commencer à <operation> délayer </operation> . <operation ingredients="lait"> ajouter </operation> juste assez de <ingredient action="ajouter"> lait </ingredient> pour obtenir une <ingredient> pâte </ingredient> ferme . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> en boule et laissez <operation> reposer </operation> une heure . puis étaler la <ingredient> pâte </ingredient> sur une épaisseur de 2 à 3 mm . <operation ingredients="carrés"> découper </operation> des petits <ingredient action="découper"> carrés </ingredient> ( de 4 cm environ ) et <operation ingredients="couteau"> inciser </operation> dessus à l' aide d' un <ingredient action="inciser"> couteau </ingredient> . <operation> cuire </operation> dans un grand bain de friture chaude jusqu' à ce que les merveilles soient bien dorées . <operation> egoutter </operation> et <operation ingredients="sucre;glace"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite="2 cuillère à soupe"> sucre </ingredient> <ingredient action="soupoudrer"> glace </ingredient> . tariquet ( <ingredient> vin </ingredient> fruité )
+</preparation>
+</recette>

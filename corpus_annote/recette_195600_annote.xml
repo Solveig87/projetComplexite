@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195600">
+<titre>Crème végétale ananas tofu</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de tofu en barquette vendu en magasin bio</p>
+<p>200 g d'ananas en boite, égoutté et coupé en morceaux</p>
+<p>4 cuillerées à soupe de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tofu"> mettre </operation> le <ingredient action="mettre" quantite="400 gramme"> tofu </ingredient> dans un saladier , y <operation ingredients="ananas;sucre;crème"> ajouter </operation> les morceaux d' <ingredient action="ajouter" quantite="200 gramme"> ananas </ingredient> et le <ingredient action="ajouter"> sucre </ingredient> , <operation> mixez </operation> jusqu' à ce que la <ingredient action="ajouter"> crème </ingredient> soit homogène . <operation> verser </operation> dans des verrines , des petits raviers , ou tout simplement un saladier , et <operation> mettez </operation> au frais pour au moins une heure . il est possible de remplacer l' <ingredient quantite="200 gramme"> ananas </ingredient> par n' importe quel autre <ingredient quantite="200 gramme"> fruit </ingredient> , dans les mêmes proportions , et en <operation ingredients="sucre"> ajustant </operation> la quantité de <ingredient action="ajuster"> sucre </ingredient> <operation> ajoutée </operation> selon le gout .
+</preparation>
+</recette>

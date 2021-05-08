@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166808">
+<titre>Tourte au jambon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon</p>
+<p>1 cuillère a soupe de maizena</p>
+<p>environ 100g de beurre</p>
+<p>2 verrres de lait </p>
+<p>1 sachet de gruyère</p>
+<p>2 pates feuilletées</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> quand celui ci est <operation> fondu </operation> <operation ingredients="soupe"> ajouter </operation> une bonne cuillère a <ingredient action="ajouter" quantite="1 cuillère"> soupe </ingredient> de maizena <operation> remuer </operation> , lorsque le melange est compact <operation ingredients="lait"> ajouter </operation> les 2 verres de <ingredient action="ajouter"> lait </ingredient> en <operation> remuant </operation> bien jusqu' a obtention d' un melange homogène , <operation ingredients="gruyère;poivre"> ajouter </operation> le <ingredient action="ajouter"> gruyère </ingredient> , sel <ingredient action="ajouter"> poivre </ingredient> . <operation> retirer </operation> du feu . la sauce mornay est prete . dans un plat a tourte , <operation> mettre </operation> une pate feuilletée sur celle ci <operation ingredients="jambon"> mettre </operation> 3 tranches de <ingredient action="mettre" quantite="6 tranche"> jambon </ingredient> cela doit <operation> recouvrir </operation> la pate , <operation> mettre </operation> un peu de la sauce puis <operation ingredients="jambon"> remettre </operation> 3 tranches de <ingredient action="remettre" quantite="6 tranche"> jambon </ingredient> et <operation> recouvrir </operation> de sauce . par dessus <operation> mettre </operation> l autre pate feuilletée . <operation> pincé </operation> les bords des 2 pate . dans cette tourte , on peut <operation ingredients="gruyère"> mettre </operation> à la <operation> place </operation> du <ingredient action="mettre"> gruyère </ingredient> différents fromage , on peut aussi <operation ingredients="pommes;champignons"> ajouter </operation> des <ingredient action="ajouter"> pommes </ingredient> de terres et des <ingredient action="ajouter"> champignons </ingredient> . vous pouvez <operation ingredients="poulet"> mettre </operation> des restes de <ingredient action="mettre"> poulet </ingredient> <operation ingredients="jambon"> coupés </operation> en dès à la <operation> place </operation> du <ingredient action="couper" quantite="6 tranche"> jambon </ingredient> .
+</preparation>
+</recette>

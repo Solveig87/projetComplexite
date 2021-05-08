@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44972">
+<titre>Gâteau aux amandes croustillantes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>2 verres de farine</p>
+<p>30g de beurre</p>
+<p>25 cl de crème fraîche</p>
+<p>1 verre 1/2 de sucre</p>
+<p>125 g d'amandes effilées</p>
+<p>1 sachet de levure</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre"> mélanger </operation> la <ingredient action="mélanger" quantite="2 verre"> farine </ingredient> et 1 verre de <ingredient action="mélanger"> sucre </ingredient> . <operation ingredients="oeufs;crème;levure;sel"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche , la <ingredient action="ajouter"> levure </ingredient> et une pincée de <ingredient action="ajouter" quantite=""> sel </ingredient> . bien <operation> mélanger </operation> <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> préalablement beurré . <operation ingredients="amandes;sucre;beurre"> mélanger </operation> les <ingredient action="mélanger" quantite="125 gramme"> amandes </ingredient> , le 1 / 2 verre de <ingredient action="mélanger"> sucre </ingredient> et le <ingredient action="mélanger" quantite="30 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="pâte"> verser </operation> cette préparation sur la <ingredient action="verser"> pâte </ingredient> . faire <operation> cuire </operation> 30 min à four moyen ( 15 . 180 <operation> ° </operation> c. thermostat . 6 )
+</preparation>
+</recette>

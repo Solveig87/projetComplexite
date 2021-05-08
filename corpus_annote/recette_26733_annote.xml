@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26733">
+<titre>Soufflés de soles au saumon et coulis d'asperges</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>500 g de saumon frais sans arêtes</p>
+<p>6 filets de soles</p>
+<p>2 blancs d'oeufs</p>
+<p>10 cl de crème</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+<p>Pour la sauce :</p>
+<p>500 g d'asperges vertes</p>
+<p>10 cl de crème fraîche épaisse</p>
+<p>2 jaunes d'oeufs</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="rond"> beurrez </operation> 6 ramequins <ingredient action="beurrer"> rond </ingredient> à bords hauts . <operation ingredients="soles;rond"> salez </operation> et <operation> poivrez </operation> les filets de <ingredient action="saler"> soles </ingredient> , <operation> disposez </operation> - les en <ingredient action="saler"> rond </ingredient> dans les ramequins , en les collant aux bords . <operation ingredients="saumon;crème;sel;poivre"> mixez </operation> le <ingredient action="mixez"> saumon </ingredient> finement avec la <ingredient action="mixez" quantite="10 cl+10 cl"> crème </ingredient> , du <ingredient action="mixez" quantite=""> sel </ingredient> et du <ingredient action="mixez" quantite=""> poivre </ingredient> . <operation> fouettez </operation> les blancs en neige et <operation> incorporez </operation> - les à la <ingredient quantite="10 cl+10 cl"> crème </ingredient> de saumon . <operation> répartissez </operation> cette préparation au centre des ramequins . <operation> placez </operation> - les dans un bain - marie , faites <operation> cuire </operation> 25 minutes au four à 120 <operation> ° </operation> c ( thermostat 4 ) . pendant ce temps , <operation ingredients="asperges"> grattez </operation> les <ingredient action="gratter" quantite="500 gramme"> asperges </ingredient> et faites - les <operation> cuire </operation> 15 minutes à l' eau bouillante <operation> salée </operation> . <operation> egouttez </operation> - les et <operation> mixez </operation> - les en purée fine . <operation ingredients="crème;oeufs"> ajoutez </operation> la <ingredient action="ajouter" quantite="10 cl+10 cl"> crème </ingredient> fraîche et les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> toujours en <operation> mixant </operation> , puis <operation> réchauffez </operation> à feu doux . <operation> démoulez </operation> les soufflés et servez - les entourés de sauce .
+</preparation>
+</recette>

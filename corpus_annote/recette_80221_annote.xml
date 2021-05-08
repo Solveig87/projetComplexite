@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80221">
+<titre>La tourte aux champignons, si simple et si bon!</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes feuilletées </p>
+<p>500 g de champignons de Paris, frais </p>
+<p>100 g d'emmental râpé</p>
+<p>huile</p>
+<p>25 cl de crème fraîche</p>
+<p>1 jaune d'oeuf</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> peler </operation> et <operation ingredients="champignons"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> champignons </ingredient> en morceaux . les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> avec un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> pendant une dizaine de minutes . hors du feu , <operation ingredients="fromage;crème;sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> , la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . bien <operation> mélanger </operation> . sur une <operation> plaque </operation> ou dans un <operation> moule </operation> , étaler une <ingredient quantite="2"> pâte </ingredient> feuilletée , et <operation> verser </operation> la préparation au centre . <operation ingredients="pâte"> couvrir </operation> avec l' autre <ingredient action="couvrir" quantite="2"> pâte </ingredient> feuilletée et fermer en <operation> roulant </operation> les bords correctement . <operation ingredients="oeuf"> battre </operation> le jaune d' <ingredient action="battre"> oeuf </ingredient> et à l' aide d' un pinceau , l' étaler sur la tourte . <operation> enfourner </operation> dans un four préchauffé pendant 10 min à 180 <operation> ° </operation> , thermostat 6 , puis laisser <operation> cuire </operation> environ 30 min . bon appétit ! vous pouvez <operation ingredients="salade"> accompagner </operation> cette tourte simplement d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

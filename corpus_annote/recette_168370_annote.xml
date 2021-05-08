@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168370">
+<titre>Gâteau choco-marron ultra rapide</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200g de chocolat noir</p>
+<p>500g de crème de marron</p>
+<p>3 oeufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> la tablette de <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> au bain marie . hors du feu , <operation ingredients="crème;oeufs"> ajouter </operation> la <ingredient action="ajouter" quantite="500 gramme"> crème </ingredient> de marron et les 3 <ingredient action="ajouter" quantite="3"> oeufs </ingredient> entiers . <operation> enfourner </operation> 35 min à 180 <operation> ° </operation> astuce : pour un gateau moins lourd et plus aéré , on peut <operation> monter </operation> les blancs en neige . servir avec une <ingredient quantite="500 gramme"> crème </ingredient> anglaise
+</preparation>
+</recette>

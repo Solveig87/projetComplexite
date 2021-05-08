@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24322">
+<titre>Pâte à crêpes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de farine</p>
+<p>3 œufs</p>
+<p>35 cl de lait</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à soupe d'huile</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="farine"> versez </operation> la <ingredient action="verser" quantite="125 gramme"> farine </ingredient> en fontaine et cassez 3 <ingredient quantite="3"> œufs </ingredient> au milieu . <operation> incorporez </operation> - les à la <ingredient action="remuer" quantite="125 gramme"> farine </ingredient> , en <operation ingredients="farine"> remuant </operation> avec une cuillère en bois . <operation ingredients="lait;huile"> versez </operation> ensuite le <ingredient action="verser" quantite="35 cl"> lait </ingredient> et l' <ingredient action="verser" quantite="1 cuillère à soupe"> huile </ingredient> , en <operation> délayant </operation> progressivement de manière à éviter les grumeaux . si vous <operation ingredients="crêpes"> faites </operation> des <ingredient action="faire"> crêpes </ingredient> <operation> sucrées </operation> , <operation> ajoutez </operation> 2 cuillères à soupe de sucre . <operation ingredients="sel"> ajoutez </operation> une pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> laissez <operation ingredients="pâte"> reposer </operation> la <ingredient action="reposer"> pâte </ingredient> si possible 1 h avant de l' utiliser . si vous voulez des <ingredient> crêpes </ingredient> plus fines , <operation ingredients="lait"> mettez </operation> moitié eau , moitié <ingredient action="mettre" quantite="35 cl"> lait </ingredient> . si vous les désirez plus légères , remplacez 1 verre de <ingredient quantite="35 cl"> lait </ingredient> par un verre de <ingredient> bière </ingredient> . si vous les aimez plus moelleuses , <operation ingredients="œuf"> incorporez </operation> 1 blanc d' <ingredient action="incorporer" quantite="3"> œuf </ingredient> <operation ingredients="pâte"> battu </operation> en neige à la <ingredient action="battre"> pâte </ingredient> , au moment de <operation ingredients="crêpes"> confectionner </operation> les <ingredient action="confectionner"> crêpes </ingredient> .
+</preparation>
+</recette>

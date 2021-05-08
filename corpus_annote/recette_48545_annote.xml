@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48545">
+<titre>Saucisses à la Catalane</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 saucisses de Toulouse</p>
+<p>1/2 tube de concentré de tomate</p>
+<p>6/7 gousses d'ail</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="saucisses;matière"> revenir </operation> les <ingredient action="revenir" quantite="4"> saucisses </ingredient> à feu moyen ( sans <ingredient action="revenir" quantite=""> matière </ingredient> grasse ) jusqu' à ce qu' elles soient bien rôties ( 10 minutes maxi ) . <operation ingredients="saucisses"> réserver </operation> les <ingredient action="réserver" quantite="4"> saucisses </ingredient> . faites <operation ingredients="gousses"> revenir </operation> les <ingredient action="revenir"> gousses </ingredient> d' ail 5 minutes dans une cuillère à soupe d' huile d' olive . <operation ingredients="tomate"> ajoutez </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et un petit peu d' eau , <operation> mélangez </operation> . <operation> rajoutez </operation> de l' eau ( les <ingredient quantite="4"> saucisses </ingredient> devront être quasiment <operation> recouvertes </operation> ) , <operation ingredients="tomates"> mélangez </operation> bien l' eau avec le <operation> concentré </operation> de <ingredient action="mélanger"> tomates </ingredient> . <operation ingredients="saucisses;saucisses"> remettez </operation> les <ingredient action="remettre" quantite="4"> saucisses </ingredient> , <operation> couvrez </operation> et laissez <operation> mijoter </operation> à feu doux environ 30 minutes ( le temps de cuisson peut être allongé , les <ingredient action="remettre" quantite="4"> saucisses </ingredient> n' en seront que meilleures ) . déguster . recette de ma mamie appréciée par les petits et les plus grands à servir avec des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

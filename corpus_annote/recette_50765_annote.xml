@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50765">
+<titre>Salade avocat, pamplemousse, pomme et poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 avocats</p>
+<p>2 pamplemousses roses</p>
+<p>1 pomme verte Granny Smith</p>
+<p>200 g d'escalopes de poulet (ou de dinde)</p>
+<p>1 yaourt liquide</p>
+<p>1 cuillère à soupe de mayonnaise</p>
+<p>2 citrons</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="200 gramme"> viande </ingredient> en petits dés puis les faire <operation> revenir </operation> à la <operation> poêle </operation> pendant 10 minutes environ . pendant ce temps , <operation ingredients="pomme"> couper </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en dés puis <operation ingredients="avocats"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> avocats </ingredient> et les <operation> couper </operation> en dés . <operation ingredients="pamplemousse"> eplucher </operation> le <ingredient action="eplucher" quantite="2"> pamplemousse </ingredient> , <operation> ôter </operation> la peau des quartiers et <operation> couper </operation> ces derniers en dés . <operation> préparer </operation> la sauce : <operation ingredients="yaourt;jus;citrons"> ajouter </operation> au <ingredient action="ajouter" quantite="1"> yaourt </ingredient> 1 cuillère à soupe de mayonnaise ainsi que le <ingredient action="ajouter"> jus </ingredient> de deux <ingredient action="ajouter" quantite="2"> citrons </ingredient> . <operation ingredients="avocats;pomme"> mettre </operation> les <ingredient action="mettre" quantite="2"> avocats </ingredient> , la <ingredient action="mettre" quantite="1"> pomme </ingredient> , les quartiers de <ingredient quantite="2"> pamplemousse </ingredient> et les dés de <ingredient> poulet </ingredient> dans un plat , <operation> ajouter </operation> la sauce et <operation> réserver </operation> au frigidère pendant 1 heure avant de servir . sans le <ingredient> poulet </ingredient> , ce plat peut être servi en entrée .
+</preparation>
+</recette>

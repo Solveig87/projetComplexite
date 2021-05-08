@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84225">
+<titre>Parmentier de poisson aux panais et carottes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 portions de filets de poisson (cabillaud, maquereau, sole)</p>
+<p>3 panais moyens</p>
+<p>3 carottes</p>
+<p>2 pommes de terre moyennes</p>
+<p>1 cuillère de poudre de bouillon de légumes</p>
+<p>2 cuillères de parmesan râpé</p>
+<p>1 pot de crème liquide </p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;bouillon"> cuire </operation> les filets de <ingredient action="cuire"> poisson </ingredient> quelques minutes au court <ingredient action="cuire"> bouillon </ingredient> . les <operation> égoutter </operation> , et <operation> émietter </operation> dans le fond d' un plat à gratin pour six personnes . en même temps , faire <operation ingredients="carottes"> cuire </operation> à la vapeur les panais , <ingredient action="cuire" quantite="3"> carottes </ingredient> et pommes de terre <operation> coupées </operation> en dés . quand ils s' <operation> écrasent </operation> facilement sous la fourchette , les <operation> mettre </operation> dans un bol , <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite="1 pot"> crème </ingredient> et <operation> écraser </operation> en purée . si nécessaire pour la texture , <operation ingredients="jus"> ajouter </operation> du <ingredient action="ajouter"> jus </ingredient> de cuisson . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="poisson"> verser </operation> la purée par dessus le <ingredient action="verser"> poisson </ingredient> dans le plat à gratin . <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère"> parmesan </ingredient> râpé . <operation> réchauffer </operation> au four 20 minutes à feu doux autour de 150 <operation> ° </operation> c ( thermostat 5 ) jusqu' à ce que le <ingredient action="fondre" quantite="2 cuillère"> parmesan </ingredient> soit bien <operation ingredients="parmesan"> fondu </operation> . un plat pour toute la famille .
+</preparation>
+</recette>

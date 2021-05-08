@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80569">
+<titre>Gambas marinées</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 gambas</p>
+<p>1 citron</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>coriandre</p>
+<p>2 pincées de cumin</p>
+<p>2 pincées de piment</p>
+<p>2 oignons</p>
+<p>5 tomates</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe de vin blanc</p>
+<p>1 cuillère à café de curry</p>
+</ingredients>
+<preparation>
+<operation ingredients="gambas"> préparer </operation> la marinade pour les <ingredient action="préparer" quantite="24"> gambas </ingredient> en <operation ingredients="jus;coriandre;cumin"> mélangeant </operation> 1 <ingredient action="mélanger"> jus </ingredient> de citron , 3 cuillères à soupe d' huile d' olive , la <ingredient action="mélanger" quantite=""> coriandre </ingredient> , le <ingredient action="mélanger" quantite="2 pincée"> cumin </ingredient> et le piment . <operation ingredients="gambas"> mettre </operation> les <ingredient action="mettre" quantite="24"> gambas </ingredient> dans cette marinade . <operation> préparer </operation> la sauce : dans un bol , <operation ingredients="gousses;vin;curry;sel;poivre"> mélanger </operation> 2 <ingredient action="mélanger" quantite="2"> gousses </ingredient> d' ail <operation> hachées </operation> , 3 cuillères à soupe d' huile d' olive , le <ingredient action="mélanger" quantite="3 cuillère à soupe"> vin </ingredient> blanc , le <ingredient action="mélanger" quantite="1 cuillère à café"> curry </ingredient> , du <ingredient action="mélanger"> sel </ingredient> et du <ingredient action="mélanger"> poivre </ingredient> . <operation> mettre </operation> au micro-onde 5 min . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> tomates </ingredient> <operation> pelées </operation> <operation> coupées </operation> en petits morceaux et <operation> remettre </operation> 5 min à pleine puissance . <operation ingredients="gambas"> enfiler </operation> les <ingredient action="enfiler" quantite="24"> gambas </ingredient> sur brochettes et <operation> cuire </operation> au barbecue ou à la <operation> poêle </operation> . servir avec la sauce .
+</preparation>
+</recette>

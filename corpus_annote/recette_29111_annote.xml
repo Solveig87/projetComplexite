@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29111">
+<titre>Velouté de carottes au curry</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de carottes</p>
+<p>1 pomme de terre</p>
+<p>3 cuillères à soupe d'huile d’olive</p>
+<p>1 oignon</p>
+<p>1 petit morceaux de racine de gingembre frais râpé</p>
+<p>1 cuillère à café de curry</p>
+<p>crème</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+dans l’ <operation action="huile" ingredients="huile"> huile </operation> d’ olive faire <operation ingredients="oignon;carottes"> blondir </operation> l’ <ingredient action="blondir" quantite="1"> oignon </ingredient> puis les <ingredient action="blondir" quantite="1 kilogramme"> carottes </ingredient> et pommes de terre <operation> coupées </operation> en lamelles ( à la mandoline c’ est plus rapide à <operation> cuire </operation> ! ) . <operation> mouiller </operation> , <operation ingredients="bouillon"> ajouter </operation> éventuellement du <ingredient action="ajouter"> bouillon </ingredient> pour + de goût ) . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="gingembre;curry"> ajouter </operation> le <ingredient action="ajouter"> gingembre </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> . laisser <operation> cuire </operation> . <operation> mixez </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> ( moi j’ utilise du soja <operation> cuisine </operation> pour que ca soit + diététique ) . servez <ingredient> glacé </ingredient> ou chaud .
+</preparation>
+</recette>

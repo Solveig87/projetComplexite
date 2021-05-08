@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26115">
+<titre>Blettes mijotées au lard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg de côtes de blettes</p>
+<p>200 g de lard fumé</p>
+<p>50 g de beurre</p>
+<p>2 belles échalotes</p>
+<p>15 cl de de bouillon</p>
+<p>2 cuillères à soupe bien pleines de crème fraîche</p>
+<p>1 cuillère à soupe de persil haché</p>
+</ingredients>
+<preparation>
+<operation ingredients="lard"> détaillez </operation> le <ingredient action="détailler"> lard </ingredient> en lardons et faites <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> pendant 10 minutes . <operation ingredients="échalotes"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> hachées , les <ingredient action="mouiller"> blettes </ingredient> <operation> coupées </operation> en tronçons et <operation ingredients="blettes;bouillon"> mouillez </operation> de <ingredient action="mouiller" quantite="15 cl"> bouillon </ingredient> . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 40 minutes . au moment de servir , <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer"> crème </ingredient> fraîche à la sauce et <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> persil </ingredient> .
+</preparation>
+</recette>

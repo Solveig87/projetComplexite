@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72313">
+<titre>Tarte à la tomate et aux poivrons rouges</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>3 tomates</p>
+<p>1 poivron rouge</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>fromage râpé (emmental, comté, parmesan...)</p>
+<p>sel, poivre</p>
+<p>origan</p>
+</ingredients>
+<preparation>
+préchauffez le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> feuilletée dans une tourtière , <operation> piquez </operation> le fond à l' aide d' une fourchette . <operation> etalez </operation> ensuite 1 cuillère à soupe de moutarde au fond . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="3"> tomates </ingredient> en rondelles et <operation ingredients="tarte"> disposez </operation> - les au fond de la <ingredient action="disposer"> tarte </ingredient> . <operation ingredients="poivrons"> coupez </operation> le <ingredient action="couper"> poivrons </ingredient> en lamelles et <operation ingredients="tomates"> ajoutez </operation> - les sur les <ingredient action="ajouter" quantite="3"> tomates </ingredient> . <operation> salez </operation> , <operation ingredients="fromage;origan"> poivrez </operation> , <operation> parsemez </operation> de <ingredient action="poivrer" quantite=""> fromage </ingredient> <operation> râpé </operation> et d' <ingredient action="poivrer" quantite=""> origan </ingredient> . faites <operation> cuire </operation> pendant environ 25 min .
+</preparation>
+</recette>

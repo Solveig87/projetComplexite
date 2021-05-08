@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94903">
+<titre>Crème de chataigne de campagne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50g de chataignes</p>
+<p>50cl de lait</p>
+<p>50g de sucre</p>
+<p>2 cuillères a café de maïzena</p>
+</ingredients>
+<preparation>
+<operation ingredients="châtaignes"> éplucher </operation> les <ingredient action="éplucher"> châtaignes </ingredient> , les <operation> couper </operation> en 2 . les <operation ingredients="lait;sucre"> mettre </operation> dans une casserole avec le <ingredient action="mettre" quantite="50cl"> lait </ingredient> , et le <ingredient action="mettre" quantite="50 gramme"> sucre </ingredient> , <operation> porter </operation> à <operation> ébullition </operation> puis <operation> retirer </operation> du feu après 10 mn . <operation ingredients="crème"> mixer </operation> le tout , et <operation> remettre </operation> a feu doux , <operation ingredients="maïzena"> ajouter </operation> les 2 cuillères de <ingredient action="ajouter"> maïzena </ingredient> ( déliez la <ingredient> maïzena </ingredient> avec de l' eau avant de l' <operation ingredients="crème"> introduire </operation> à la <ingredient action="introduire"> crème </ingredient> de châtaigne ) une fois que la <ingredient action="mixer"> crème </ingredient> épaissi , <operation> retirer </operation> du feu . se déguste tiède .
+</preparation>
+</recette>

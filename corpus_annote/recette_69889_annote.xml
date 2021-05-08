@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69889">
+<titre>Yaourt gourmand minceur</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 concombre</p>
+<p>1 pomme golden</p>
+<p>1 yaourt à 0% nature</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en rondelles . <operation ingredients="pomme;carrés"> couper </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en petits <ingredient action="couper"> carrés </ingredient> en <operation> enlevant </operation> le milieu , il n' est pas nécessaire de l' <operation> éplucher </operation> . <operation> verser </operation> les deux ingrédients dans un saladier et <operation ingredients="yaourt"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> . <operation> réserver </operation> au frais . une sauce ou entrée sympa sans conséquences pour la ligne !
+</preparation>
+</recette>

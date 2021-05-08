@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73084">
+<titre>Curry de poulet express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 beaux filets de poulet</p>
+<p>1 gros oignon émincé</p>
+<p>200 g de champignons émincés</p>
+<p>curry en poudre</p>
+<p>40 cl de lait de coco</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;champignons;huile"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> et les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> dans un filet d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> <operation> découpé </operation> en morceaux . lorsque le <ingredient> poulet </ingredient> commence à <operation> griller </operation> , <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> curry </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> , puis <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="40 cl"> lait </ingredient> de coco . <operation> couvrir </operation> et laisser <operation> mijoter </operation> au moins 15 min . servir bien chaud , <operation ingredients="riz;fruits"> accompagné </operation> d' un <ingredient action="accompagner"> riz </ingredient> basmati et de <ingredient action="accompagner"> fruits </ingredient> secs . les <ingredient quantite="200 gramme"> champignons </ingredient> sont facultatifs , c' est uniquement pour la touche légume .
+</preparation>
+</recette>

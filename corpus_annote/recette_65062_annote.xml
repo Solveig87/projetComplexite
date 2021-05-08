@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65062">
+<titre>Poulet au cocktail d’olives et d’épices variées</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuisses de poulet</p>
+<p>1 oignon</p>
+<p>1 poivron</p>
+<p>1 barquette de 300 g de cocktail d’olives et d’épices</p>
+<p>1 citron</p>
+<p>Ras-el-hanout, sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> revenir </operation> les cuisses de <ingredient action="revenir"> poulet </ingredient> dans un peu d’ <ingredient action="revenir"> huile </ingredient> d’ olive , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="poulet"> retirer </operation> les cuisses de <ingredient action="retirer"> poulet </ingredient> , <operation> réserver </operation> . <operation ingredients="oignon"> emincer </operation> l’ <ingredient action="emincer" quantite="1"> oignon </ingredient> et le faire <operation> blondir </operation> dans la même <operation> poêle </operation> <ingredient action="nettoyer" quantite="2;1;"> non </ingredient> <operation ingredients="non"> nettoyée </operation> . <operation ingredients="poivron"> couper </operation> en lanière le <ingredient action="couper" quantite="1"> poivron </ingredient> et le <operation> rajouter </operation> au <operation> mélange </operation> . <operation> ajouter </operation> le contenu de la barquette de cocktail et bien <operation> mélanger </operation> , <operation> ajouter </operation> 1 cuillère à café de ras - el - hanout . <operation ingredients="poulet"> rajouter </operation> les cuisses de <ingredient action="rajouter"> poulet </ingredient> et 25 cl d’ eau . faire <operation> mijoter </operation> 20 minutes , puis <operation ingredients="citron;jus;citron"> ajouter </operation> le zeste du <ingredient action="ajouter" quantite="1"> citron </ingredient> et le <ingredient action="ajouter"> jus </ingredient> d' une moitié de <ingredient action="ajouter" quantite="1"> citron </ingredient> , <operation ingredients="assaisonnement"> rectifier </operation> l’ <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> . terminer la cuisson à feu moyen pendant 25 min . <ingredient> vin </ingredient> de pays de l' ardèche gamay
+</preparation>
+</recette>

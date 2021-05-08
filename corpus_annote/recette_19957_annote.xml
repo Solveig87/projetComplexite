@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19957">
+<titre>Sablés sans oeufs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de farine</p>
+<p>125 g de beurre</p>
+<p>125 g de sucre</p>
+<p>3 cuillerées de lait</p>
+<p>1 pincée de bicarbonate</p>
+<p>1 soupçon de sel</p>
+<p>vanille</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;lait;bicarbonate"> travailler </operation> dans une terrine le <ingredient action="travailler" quantite="125 gramme"> sucre </ingredient> , la vanille , le <ingredient action="travailler"> lait </ingredient> et le <ingredient action="travailler" quantite="1 pincée"> bicarbonate </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme"> farine </ingredient> , <operation ingredients="beurre"> incorporer </operation> le <ingredient action="incorporer" quantite="125 gramme"> beurre </ingredient> . <operation> pétrir </operation> à la main . <operation ingredients="pâte"> etendre </operation> cette <ingredient action="etendre"> pâte </ingredient> , la <operation ingredients="gâteaux"> couper </operation> en <ingredient action="couper"> gâteaux </ingredient> de <operation> forme </operation> régulière . faire <operation> cuire </operation> à four chaud .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27092">
+<titre>Pâtes en sauce aux 4 fromages</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes</p>
+<p>100 g de parmesan</p>
+<p>100 g de mozzarella</p>
+<p>100 g de chèvre</p>
+<p>50 g de gorgonzola doux</p>
+<p>noix de muscade</p>
+<p>1 cuillère à café d'origan</p>
+<p>25 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> selon les indications . dans une casserole , <operation ingredients="fromages;beurre"> mettre </operation> les <ingredient action="mettre"> fromages </ingredient> et le <ingredient action="mettre" quantite="25 gramme"> beurre </ingredient> à <operation> fondre </operation> à feu doux . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="origan;muscade"> ajouter </operation> de l' <ingredient action="ajouter" quantite="1 cuillère à café"> origan </ingredient> et de la <ingredient action="ajouter"> muscade </ingredient> <operation> râpée </operation> . <operation> mélanger </operation> , <operation ingredients="pâtes"> verser </operation> sur les <ingredient action="verser" quantite="400 gramme"> pâtes </ingredient> et servir . utilisez de la <ingredient quantite="100 gramme"> mozzarella </ingredient> " di buffala " , plus goûteuse et <ingredient> fondante </ingredient> , et préférez un <ingredient quantite="100 gramme"> chèvre </ingredient> affiné .
+</preparation>
+</recette>

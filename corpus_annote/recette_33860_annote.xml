@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33860">
+<titre>Saucisson en croûte</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 saucisson (type saucisse de Morteau) plutôt fin et long</p>
+<p>1 pâte à pizza de 250 g (maison ou du commerce) </p>
+<p>de la moutarde à l'ancienne</p>
+<p>vin rouge</p>
+<p>jaune d'oeuf pour dorer</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saucisson"> griller </operation> le <ingredient action="griller" quantite="1"> saucisson </ingredient> avec la peau dans une <operation> poêle </operation> à chaleur moyenne , en le <operation> retournant </operation> régulièrement , environ 30 mn . <operation> ajouter </operation> de temps en temps une cuillère à soupe de vin rouge . faire refroidir le <ingredient quantite="1"> saucisson </ingredient> , le <operation> peler </operation> . préchauffer le four à 200 <operation> ° </operation> c . <operation ingredients="pâte;pâte;moutarde"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> à pizza ou <ingredient action="etaler" quantite="1"> pâte </ingredient> à pain , la <operation> tartiner </operation> de <ingredient action="etaler" quantite=""> moutarde </ingredient> . <operation ingredients="saucisson;pâte"> déposer </operation> au centre le <ingredient action="déposer" quantite="1"> saucisson </ingredient> , l' <operation> emmailloter </operation> dans la <ingredient action="déposer" quantite="1"> pâte </ingredient> . avec les chutes , faire des décors à <operation ingredients="pâte"> mettre </operation> sur la <ingredient action="mettre" quantite="1"> pâte </ingredient> . <operation ingredients="oeuf"> dorer </operation> à l' <ingredient action="dorer"> oeuf </ingredient> et <operation> mettre </operation> au four pour une vingtaine de minutes . laisser refroidir et <operation> couper </operation> en tranches pour servir . le fait de <operation ingredients="saucisson"> griller </operation> le <ingredient action="griller" quantite="1"> saucisson </ingredient> , au <ingredient action="concentre"> lieu </ingredient> de le <operation> pocher </operation> , <operation ingredients="lieu"> concentre </operation> les goûts .
+</preparation>
+</recette>

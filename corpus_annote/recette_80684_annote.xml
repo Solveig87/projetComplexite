@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80684">
+<titre>Petite salade aux pêches et au chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite salade</p>
+<p>2 pêches</p>
+<p>8 crottins de chèvre</p>
+<p>quelques cerneaux de noix</p>
+<p>vinaigre balsamique</p>
+<p>huile </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="salade"> couper </operation> la <ingredient action="couper" quantite="1"> salade </ingredient> en petit morceaux . <operation ingredients="salade"> répartir </operation> un peu de <ingredient action="répartir" quantite="1"> salade </ingredient> dans 4 assiettes après l' avoir <operation> assaisonnée </operation> selon vos goûts . <operation> peler </operation> et <operation ingredients="pêches"> couper </operation> les <ingredient action="couper" quantite="2"> pêches </ingredient> en quartiers fins et les <operation ingredients="salade"> répartir </operation> sur les feuilles de <ingredient action="répartir" quantite="1"> salade </ingredient> en couronne . <operation ingredients="noix"> saupoudrer </operation> de quelques cerneaux de <ingredient action="saupoudrer"> noix </ingredient> . faire <operation ingredients="crottins"> cuire </operation> les <ingredient action="cuire" quantite="8"> crottins </ingredient> de chèvre à la <operation> poêle </operation> à feu doux . les <operation ingredients="salade"> placer </operation> sur la <ingredient action="placer" quantite="1"> salade </ingredient> et servir immédiatement . vous pouvez <operation ingredients="jambon"> ajouter </operation> du <ingredient action="ajouter"> jambon </ingredient> de parme selon les goûts .
+</preparation>
+</recette>

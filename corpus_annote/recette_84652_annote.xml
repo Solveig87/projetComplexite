@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84652">
+<titre>Filet de colin en papillote</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranche de colin d'Alaska</p>
+<p>un peu d'huile d'olive</p>
+<p>ail et oignons semoule</p>
+<p>persil</p>
+<p>2 cubes de court-bouillon au citron</p>
+<p>un verre d'eau.</p>
+</ingredients>
+<preparation>
+<operation> découpez </operation> quatre morceaux de papiers d' aluminium . sur chaque feuille , <operation ingredients="colin"> déposez </operation> une tranche de <ingredient action="déposer" quantite="4 tranche"> colin </ingredient> , <operation ingredients="huile;ail"> ajoutez </operation> un filet d' <ingredient action="ajouter"> huile </ingredient> d' olive , une cuillère à café d' oignon semoule et une pincé d' <ingredient action="ajouter" quantite=""> ail </ingredient> . <operation ingredients="bouillon;poisson"> emiettez </operation> une moitié d' un cube court <ingredient action="emietter"> bouillon </ingredient> sur chaque tranche de <ingredient action="emietter" quantite="4 tranche"> poisson </ingredient> , <operation> versez </operation> un peu d' eau ( fond d' un verre ) et <operation ingredients="persil"> parsemez </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> . fermez les papillotes . faites <operation> cuire </operation> au four à 210 <operation> ° </operation> , thermostat 7 , environs 20 à 25 min .
+</preparation>
+</recette>

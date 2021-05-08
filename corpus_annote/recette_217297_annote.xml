@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217297">
+<titre>Sauté de pomme de terre, carotte et thon à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>140 g de thon à la tomate</p>
+<p>3 pommes de terre</p>
+<p>3 carottes</p>
+<p>1 gros oignon</p>
+<p>huile d'olive</p>
+<p>cumin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;carottes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre et les <ingredient action="cuire" quantite="3"> carottes </ingredient> dans de l' eau bouillante , <operation> épluchés </operation> . lorsque les <ingredient action="couper" quantite="3;3;1"> légumes </ingredient> sont tendres , les <operation ingredients="légumes;oignon"> couper </operation> en morceaux , tout comme l' <ingredient action="couper" quantite="1"> oignon </ingredient> . dans une <operation> poêle </operation> chaude avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> , les faire <operation ingredients="huile"> revenir </operation> et <operation ingredients="thon;tomate"> ajouter </operation> la boite de <ingredient action="ajouter" quantite="140 gramme"> thon </ingredient> à la <ingredient action="ajouter"> tomate </ingredient> . <operation> couvrir </operation> avec un peu d' eau ( pour éviter que ça <operation> grille </operation> trop ) . <operation> assaisonner </operation> . <operation ingredients="cumin"> ajouter </operation> le <ingredient action="ajouter" quantite=""> cumin </ingredient> en fin de cuisson .
+</preparation>
+</recette>

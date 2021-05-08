@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35177">
+<titre>Poireaux à la vinaigrette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poireaux</p>
+<p>1 oeuf</p>
+<p>1 échalote</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeuf;vinaigre"> cuire </operation> dur l' <ingredient action="cuire" quantite="1"> oeuf </ingredient> 10 mn dans de l' eau avec un peu de <ingredient action="cuire" quantite="1 cuillère à soupe"> vinaigre </ingredient> . faire <operation ingredients="poireaux"> cuire </operation> les <ingredient action="cuire"> poireaux </ingredient> à la cocotte - minute dans le panier vapeur pendant 15 mn . dans un saladier , <operation ingredients="huile;vinaigre"> mettre </operation> l' <ingredient action="mettre" quantite="3 cuillère à soupe"> huile </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à soupe"> vinaigre </ingredient> . <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> <operation ingredients="échalote"> écraser </operation> avec l' <ingredient action="écraser" quantite="1"> échalote </ingredient> et bien <operation> mélanger </operation> pour obtenir une préparation homogène . <operation ingredients="oeuf"> ajouter </operation> le blanc d' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> <operation> coupé </operation> en morceaux . <operation ingredients="poireau"> mettre </operation> un blanc de <ingredient action="mettre"> poireau </ingredient> tiède dans chaque assiette et <operation> napper </operation> de vinaigrette .
+</preparation>
+</recette>

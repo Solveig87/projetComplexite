@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24206">
+<titre>Crêpes roulées flambées aux pommes et noix</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la pâte à crêpes moelleuse :</p>
+<p>250 g de farine</p>
+<p>50 g de crème fraîche</p>
+<p>3 oeufs</p>
+<p>30 cl de lait</p>
+<p>70 g de sucre en poudre</p>
+<p>4 cuillères à soupe de beurre fondu (ou d'huile)</p>
+<p>1 cuillère à soupe de Calvados ou d'Armagnac</p>
+<p>Pour la garniture :</p>
+<p>500 g de pommes</p>
+<p>100 g de cerneaux de noix</p>
+<p>5 cl de Calvados ou d'Armagnac</p>
+<p>1 noix de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> mélangez </operation> les ingrédients de la <ingredient action="mélanger"> pâte </ingredient> à crêpes , laissez <operation> reposer </operation> 1 h au moins . <operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="500 gramme"> pommes </ingredient> en tranches épaisses . faites - les <operation ingredients="beurre"> dorer </operation> à la <operation> poêle </operation> avec du <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="noix"> concassez </operation> les cerneaux de <ingredient action="concasser" quantite="1"> noix </ingredient> . faites <operation ingredients="crêpes"> cuire </operation> les <ingredient action="cuire"> crêpes </ingredient> . <operation ingredients="pommes;noix"> garnissez </operation> chacune avec des <ingredient action="garnir" quantite="500 gramme"> pommes </ingredient> <operation> poêlées </operation> et des <ingredient action="garnir" quantite="1"> noix </ingredient> . <operation> roulez </operation> - les , <operation> disposez </operation> - les dans un plat . <operation ingredients="calvados;armagnac"> chauffez </operation> le <ingredient action="chauffer" quantite="1 cuillère à soupe+5 cl"> calvados </ingredient> ou l' <ingredient action="chauffer"> armagnac </ingredient> , <operation> flambez </operation> et <operation ingredients="crêpes"> versez </operation> sur les <ingredient action="verser"> crêpes </ingredient> <operation> roulées </operation> au moment de servir .
+</preparation>
+</recette>

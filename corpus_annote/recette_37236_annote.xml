@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37236">
+<titre>Salade de fraises et oranges à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oranges </p>
+<p>12 fraises</p>
+<p>2 oranges sanguines (10 cL de jus ou plus si vous voulez bien imbiber)</p>
+<p>4 cuillères à café de sucre</p>
+<p>1 cuillère à café de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges;couteau"> épluchez </operation> les <ingredient action="éplucher" quantite="4+2"> oranges </ingredient> à vif avec un <ingredient action="éplucher"> couteau </ingredient> . <operation> coupez </operation> - les en rondelles . <operation> disposez </operation> - les dans des ramequins ou des assiettes creuses . <operation> lavez </operation> et <operation ingredients="fraises"> coupez </operation> les <ingredient action="couper" quantite="12"> fraises </ingredient> en fines lamelles . <operation ingredients="oranges"> disposez </operation> - les autour des <ingredient action="disposer" quantite="4+2"> oranges </ingredient> . <operation ingredients="sucre;cannelle"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="4 cuillère à café"> sucre </ingredient> et de <ingredient action="saupoudrer" quantite="1 cuillère à café"> cannelle </ingredient> . <operation ingredients="jus"> arrosez </operation> avec du <ingredient action="arroser"> jus </ingredient> d' orange . c' est prêt ! ( si vous aimez les <ingredient quantite="4+2;12"> fruits </ingredient> bien frais <operation> mettez </operation> - les avant le repas au réfrigérateur )
+</preparation>
+</recette>

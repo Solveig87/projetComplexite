@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80072">
+<titre>Pâtes à la mode d'Alex</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de rôti de porc cuit (ou poulet)</p>
+<p>1 aubergine</p>
+<p>1 courgette</p>
+<p>1 poivron vert</p>
+<p>1 gousse d'ail</p>
+<p>250 g de pâtes</p>
+<p>20 cl de crème liquide</p>
+<p>2 cuillères à soupe de vin doux type Rivesaltes</p>
+<p>1 cuillère à soupe de curry</p>
+<p>sel aux épices</p>
+<p>poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> coupez </operation> les <ingredient action="couper" quantite="1"> aubergines </ingredient> en tranches épaisses et faites - les dégorger . <operation ingredients="légumes"> coupez </operation> les autres <ingredient action="couper" quantite="1;20 cl"> légumes </ingredient> en dés et <operation ingredients="gousse"> hachez </operation> finement la <ingredient action="hacher" quantite="1"> gousse </ingredient> d' ail . <operation ingredients="aubergines"> rincez </operation> les <ingredient action="rincer" quantite="1"> aubergines </ingredient> et <operation> coupez </operation> - les , ainsi que le <ingredient quantite="4 tranche"> rôti </ingredient> , en cubes . <operation ingredients="ail;huile"> faites </operation> suer l' <ingredient action="faire"> ail </ingredient> dans l' <ingredient action="faire" quantite=""> huile </ingredient> d' olive et <operation ingredients="légumes"> ajoutez </operation> les autres <ingredient action="ajouter" quantite="1;20 cl"> légumes </ingredient> . laissez <operation> mijoter </operation> doucement . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> pâtes </ingredient> selon les indications reprises sur le paquet . <operation ingredients="rôti"> ajoutez </operation> les dés de <ingredient action="ajouter" quantite="4 tranche"> rôti </ingredient> à la sauce , <operation ingredients="vin"> déglacez </operation> avec le <ingredient action="déglacer" quantite="2 cuillère à soupe"> vin </ingredient> . <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et faites <operation> bouillir </operation> , laissez <operation> réduire </operation> quelques instants . <operation ingredients="curry"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> curry </ingredient> , <operation ingredients="pâtes"> mélangez </operation> les <ingredient action="mélanger" quantite="250 gramme"> pâtes </ingredient> <operation> égouttées </operation> à la sauce et servez immédiatement .
+</preparation>
+</recette>

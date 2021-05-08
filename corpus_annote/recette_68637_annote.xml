@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68637">
+<titre>Tartare de saumon</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de saumon sous vide réfrigéré (fumé ou non, de l'Atlantique ou d'autre part ^^)</p>
+<p>quelques citrons (voir en fonction du goût)</p>
+<p>des herbes diverses</p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="saumon;couteau"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en très petits bouts ( le plus petit possible ) au <ingredient action="couper"> couteau </ingredient> sans dents , mais sans casser les fibres . . . ensuite , <operation ingredients="citron"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite="quelque"> citron </ingredient> en <operation> pressant </operation> directement ( <operation> mélanger </operation> au fur et a <operation> mesure </operation> ) et avec les herbes . <operation> goûter </operation> et <operation ingredients="sel;citron;poivre"> rajouter </operation> selon vos goûts du <ingredient action="rajouter"> sel </ingredient> , du <ingredient action="rajouter" quantite="quelque"> citron </ingredient> , du <ingredient action="rajouter"> poivre </ingredient> , des herbes . . . laisser <operation> reposer </operation> pendant une nuit au réfrigérateur et servir dans des verres , par exemple verres à vin . surtout , ne <operation ingredients="poisson"> déchirez </operation> pas le <ingredient action="déchirer"> poisson </ingredient> et ne le <operation ingredients="non"> passez </operation> pas <ingredient action="passer" quantite="8 tranche;1"> non </ingredient> plus au mixeur .
+</preparation>
+</recette>

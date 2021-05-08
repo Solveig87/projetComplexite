@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72815">
+<titre>Clafoutis aux abricots de ma Maman!</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'abricots</p>
+<p>60 g de farine</p>
+<p>120 g de sucre</p>
+<p>1 verre de lait (environ 120 cl)</p>
+<p>3 oeufs</p>
+<p>1 bâton de vanille</p>
+<p>amandes effilées</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="lait"> chauffer </operation> doucement le <ingredient action="chauffer" quantite="1 verre"> lait </ingredient> et <operation> mettre </operation> la vanille à <operation> infuser </operation> . dans une terrine , <operation ingredients="farine"> mélanger </operation> <ingredient action="mélanger" quantite="60 gramme"> farine </ingredient> + sucre + oeufs . <operation> enlever </operation> la vanille , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> lait </ingredient> à la préparation et <operation> mélanger </operation> . <operation ingredients="abricots"> laver </operation> les <ingredient action="laver" quantite="1 kilogramme"> abricots </ingredient> et les <operation> couper </operation> en deux . dans un plat à tarte , <operation ingredients="abricots"> disposer </operation> les oreillons d' <ingredient action="disposer" quantite="1 kilogramme"> abricots </ingredient> , puis <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dessus . <operation ingredients="amandes"> parsemer </operation> d' <ingredient action="parsemer" quantite=""> amandes </ingredient> effilées . <operation> enfourner </operation> à 190 <operation> ° </operation> , thermostat . 7 , environ 25 min , laisser refroidir . . . et déguster ! recette simplissime et très pauvre en <ingredient> matières </ingredient> grasses !
+</preparation>
+</recette>

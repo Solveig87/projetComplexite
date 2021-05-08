@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83963">
+<titre>Crème au Curaçao</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/4 litre de lait</p>
+<p>1 oeuf</p>
+<p>70 g de sucre en poudre</p>
+<p>20 g de maïzena</p>
+<p>50 g de beurre</p>
+<p>2 cuillères à soupe de curaçao</p>
+<p>1 sachet sucre vanillé</p>
+<p>1 cuillère à soupe de fleur d'oranger</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sucre"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> avec moitié du <ingredient action="bouillir" quantite="70 gramme"> sucre </ingredient> . <operation ingredients="oeuf;sucre;maïzena"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> entier avec le reste du <ingredient action="battre" quantite="70 gramme"> sucre </ingredient> et la <ingredient action="battre" quantite="20 gramme"> maïzena </ingredient> , <operation ingredients="lait"> délayer </operation> avec un peu de <ingredient action="délayer"> lait </ingredient> tiède puis <operation ingredients="lait"> verser </operation> dans le <ingredient action="verser"> lait </ingredient> chaud et <operation> remuer </operation> sans laisser <operation> bouillir </operation> ( feu bas ) . dès que la <ingredient action="retirer"> crème </ingredient> a épaissi , <operation ingredients="crème"> retirer </operation> du feu . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> beurre </ingredient> en pommade , le curaçao et la fleur d' oranger puis <operation> remuer </operation> jusqu' à ce que tout le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> soit <operation ingredients="beurre"> fondu </operation> . <operation> verser </operation> dans des <operation> coupes </operation> ou un saladier , et <operation> mettre </operation> au frais . la <ingredient> crème </ingredient> devient d' un beau vert ( par la présence du curaçao ) on peut <operation ingredients="fruits"> rajouter </operation> en décor des <ingredient action="rajouter"> fruits </ingredient> frais avant de servir .
+</preparation>
+</recette>

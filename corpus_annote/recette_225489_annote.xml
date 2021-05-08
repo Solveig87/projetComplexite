@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225489">
+<titre>Cake au bounty</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bounty</p>
+<p>100 g de sucre</p>
+<p>3 oeufs</p>
+<p>180g de farine</p>
+<p>1 sachet de levure chimique</p>
+<p>10 cl de lait</p>
+<p>10 cl d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;levure"> tamisez </operation> dans un bol la <ingredient action="tamiser" quantite="180 gramme"> farine </ingredient> avec la <ingredient action="tamiser"> levure </ingredient> . dans un saladier , <operation ingredients="oeufs;sucre"> battez </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> , jusqu' à ce que le <operation> mélange </operation> blanchisse , et <operation ingredients="farine"> ajoutez </operation> - les à la <ingredient action="ajouter" quantite="180 gramme"> farine </ingredient> . <operation> mélangez </operation> bien . <operation ingredients="lait"> versez </operation> le <ingredient action="verser" quantite="10 cl"> lait </ingredient> progressivement en <operation> remuant </operation> , puis <operation ingredients="huile"> faites </operation> de même avec l' <ingredient action="faire" quantite="10 cl"> huile </ingredient> . <operation ingredients="bounty"> coupez </operation> les <ingredient action="couper" quantite="4"> bounty </ingredient> en petits morceaux et <operation> ajoutez </operation> - les à la préparation en <operation> mélangeant </operation> rigoureusement . <operation> versez </operation> dans un <operation> moule </operation> à cake beurré et <operation> fariné </operation> . laissez <operation> reposer </operation> 1 heure au réfrigérateur . <operation> enfournez </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 45 min environ . le temps de cuisson dépend des fours <ingredient> jus </ingredient> de fruit
+</preparation>
+</recette>

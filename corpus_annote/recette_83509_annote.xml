@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83509">
+<titre>Oeufs cocotte au fromage frais</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 portions de boursin ail et fines herbes</p>
+<p>Crème fraiche épaisse</p>
+<p>4 œufs</p>
+<p>Gruyère râpe</p>
+</ingredients>
+<preparation>
+prendre 4 ramequins et y <operation ingredients="boursin;œuf;crème"> mettre </operation> dans chacun , une portion de <ingredient action="mettre"> boursin </ingredient> , un <ingredient action="mettre" quantite="4"> œuf </ingredient> , une cuillère de <ingredient action="mettre" quantite=""> crème </ingredient> fraiche et finir par le <ingredient quantite=""> gruyère </ingredient> rapé . <operation> mettre </operation> les ramequins dans un four chaud ( 200 <operation> ° </operation> c soit thermostat 7 ) pendant 10 minutes . le blanc doit être <operation ingredients="œuf;coque"> cuit </operation> et le jaune comme un <ingredient action="cuire" quantite="4"> œuf </ingredient> à la <ingredient action="cuire"> coque </ingredient> . vérifier la cuisson avec une lame de <ingredient> couteau </ingredient> . servir chaud avec une bonne <ingredient> baguette </ingredient> .
+</preparation>
+</recette>

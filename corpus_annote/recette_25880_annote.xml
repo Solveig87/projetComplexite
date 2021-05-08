@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25880">
+<titre>Pommes d'automne en papillote</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>200 g de miel liquide</p>
+<p>2 cuillères à soupe de jus d'orange</p>
+<p>100 g de raisins secs hachés</p>
+<p>100 g de cerneaux de noix concassés</p>
+<p>1 cuillère à soupe de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> laver </operation> les <ingredient action="laver" quantite="4"> pommes </ingredient> , <operation ingredients="coeur"> ôter </operation> le <ingredient action="ôter"> coeur </ingredient> mais pas la peau . faire des rondelles assez épaisses sans les <operation> mélanger </operation> , de manière à pouvoir reconstituer les <ingredient quantite="4"> pommes </ingredient> en <operation> empilant </operation> les rondelles . <operation ingredients="miel;jus;raisins;noix"> mélanger </operation> le <ingredient action="mélanger" quantite="200 gramme"> miel </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> jus </ingredient> d' orange , les <ingredient action="mélanger" quantite="100 gramme"> raisins </ingredient> et les <ingredient action="mélanger"> noix </ingredient> . <operation ingredients="pommes"> etaler </operation> cette préparation sur les rondelles de <ingredient action="etaler" quantite="4"> pommes </ingredient> , en les <operation> empilant </operation> au fur et à <operation> mesure </operation> pour les reconstituer . <operation ingredients="pommes;noisette"> poser </operation> les <ingredient action="poser" quantite="4"> pommes </ingredient> reconstituées sur des feuilles de papier d' aluminium ou sulfurisé , avec une <ingredient action="poser"> noisette </ingredient> de beurre dessus et fermer les papillotes . faire <operation> cuire </operation> pendant 25 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) . laisser <operation> tiédir </operation> et servir .
+</preparation>
+</recette>

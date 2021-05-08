@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50628">
+<titre>Langoustines à la grecque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>500 g de langoustines décortiquées</p>
+<p>120 g de feta</p>
+<p>60 g de beurre</p>
+<p>1 oignon émincé</p>
+<p>2 gousses d'ail écrasées</p>
+<p>1 kg de tomates pelées et hachées</p>
+<p>1 cuillère à café de sucre</p>
+<p>1/2 cuillère à café d'origan</p>
+<p>1 cuillère à café de basilic ciselé</p>
+<p>1 feuille de laurier</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>25 cl de vin blanc sec</p>
+<p>1 cuillère à café de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;ail;beurre"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oignon </ingredient> et l' <ingredient action="cuire"> ail </ingredient> à feu modéré environ 5 minutes dans le <ingredient action="cuire" quantite="60 gramme"> beurre </ingredient> . l' <ingredient quantite="1"> oignon </ingredient> doit être tendre et transparent mais pas doré . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> tomates </ingredient> , l' <ingredient> origan </ingredient> , le <ingredient quantite="1 cuillère à café"> basilic </ingredient> , la feuille de <ingredient quantite="1 feuille"> laurier </ingredient> et le <ingredient quantite="1 cuillère à soupe"> persil </ingredient> puis baisser le feu , <operation> couvrir </operation> et laisser <operation> mijoter </operation> 15 minutes en <operation> remuant </operation> de temps en temps . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="25 cl"> vin </ingredient> , <operation> monter </operation> le feu jusqu' à <operation> ébullition </operation> , puis laisser <operation> mijoter </operation> à <operation> découvert </operation> encore 30 minutes à feu très doux afin que la sauce épaississe . <operation ingredients="langoustines;feta"> incorporer </operation> les <ingredient action="incorporer" quantite="500 gramme"> langoustines </ingredient> et la <ingredient action="incorporer" quantite="120 gramme"> feta </ingredient> et laisser <operation> cuire </operation> 10 minutes . le <ingredient> fromage </ingredient> doit avoir <operation> fondu </operation> . c' est très bon avec du <ingredient> riz </ingredient> nature et une bonne <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

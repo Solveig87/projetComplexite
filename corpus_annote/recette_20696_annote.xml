@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20696">
+<titre>Bouillabaisse de légumes aux oeufs</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1.5 kg d'épinards</p>
+<p>2 oignons</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>6 pommes de terre</p>
+<p>1 dose de safran</p>
+<p>3 gousses d'ail</p>
+<p>1 brin de fenouil</p>
+<p>1,5 l d'eau</p>
+<p>6 oeufs bien frais</p>
+<p>6 tranches de pain de campagne</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> fondre </operation> l' <ingredient action="fondre" quantite="2"> oignon </ingredient> dans l' <ingredient action="fondre" quantite="6 cuillère à soupe"> huile </ingredient> puis <operation ingredients="épinards;pommes"> ajouter </operation> les <ingredient action="ajouter"> épinards </ingredient> et les <ingredient action="ajouter" quantite="6"> pommes </ingredient> de terre <operation> pelées </operation> et <operation> coupées </operation> en rondelles de 5 mm d' épaisseur . <operation ingredients="sel;poivre;safran"> assaisonner </operation> de <ingredient action="assaisonner"> sel </ingredient> , de <ingredient action="assaisonner"> poivre </ingredient> et de <ingredient action="assaisonner"> safran </ingredient> puis <operation ingredients="ail;fenouil"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> et le <ingredient action="ajouter"> fenouil </ingredient> . lorsque les <ingredient action="fondre"> épinards </ingredient> ont <operation ingredients="épinards"> fondu </operation> , <operation> verser </operation> l' eau bouillnate et laisser <operation> cuire </operation> 2 . 25 minutes . les <ingredient quantite="6"> pommes </ingredient> de terre doivent être <operation> cuites </operation> . <operation ingredients="oeufs"> pocher </operation> les <ingredient action="pocher" quantite="6"> oeufs </ingredient> dans le <operation> mélange </operation> durant 3 minutes . <operation ingredients="pain;épinards;pommes"> déposer </operation> une tranche de <ingredient action="déposer" quantite="6 tranche"> pain </ingredient> dans chaque assiette et <operation ingredients="bouillon"> recouvrir </operation> de <ingredient action="recouvrir"> bouillon </ingredient> en prenant soin de <operation ingredients="oeufs"> répartir </operation> les <ingredient action="répartir" quantite="6"> oeufs </ingredient> , les <ingredient action="déposer"> épinards </ingredient> et les <ingredient action="déposer" quantite="6"> pommes </ingredient> de terre .
+</preparation>
+</recette>

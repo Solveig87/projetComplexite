@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56544">
+<titre>Crème anglaise à l'orange et aux épices</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de jus d'orange fraîchement pressé</p>
+<p>1 bâton de cannelle</p>
+<p>1 étoile de badiane</p>
+<p>3 jaunes d'oeufs</p>
+<p>2 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="jus"> porter </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="25 cl"> jus </ingredient> d' orange . <operation ingredients="cannelle"> ajouter </operation> la <ingredient action="ajouter"> cannelle </ingredient> et la badiane , <operation> retirer </operation> du feu et faire <operation> infuser </operation> 5 min . dans un cul de <ingredient> poule </ingredient> , <operation ingredients="oeufs;sucre;épices"> blanchir </operation> les jaunes d' <ingredient action="blanchir"> oeufs </ingredient> et le <ingredient action="blanchir" quantite="2 cuillère à soupe"> sucre </ingredient> , <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> jus </ingredient> d' orange ( sans les <ingredient action="blanchir"> épices </ingredient> ) . <operation> mettre </operation> au bain - marie et laisser <operation> cuire </operation> 10 à 15 min en <operation ingredients="crème"> mélangeant </operation> sans arrêt jusqu' à ce que la <ingredient action="mélanger"> crème </ingredient> nappe la cuillère . <operation> verser </operation> dans un saladier et faire refroidir en <operation> remuant </operation> de temps en temps pour éviter qu' une peau se <operation> forme </operation> . parfaite avec un <ingredient> fondant </ingredient> au chocolat ! petite astuce pour le refroidissement plutôt que de <operation> remuer </operation> de temps en temps , <operation ingredients="crème"> poser </operation> du papier film directement sur la surface de la <ingredient action="poser"> crème </ingredient> et laisser refroidir ainsi elle ne " croûtera " pas !
+</preparation>
+</recette>

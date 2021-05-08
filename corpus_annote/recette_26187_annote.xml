@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26187">
+<titre>Cuisses de grenouille sauce moutarde et estragon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>450 g de cuisses de grenouille</p>
+<p>60 g de crème fraîche</p>
+<p>1 citron</p>
+<p>40 g de beurre</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>quelques branches d'estragon</p>
+<p>100 g de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="grenouille;farine"> roulez </operation> les cuisses de <ingredient action="rouler"> grenouille </ingredient> dans la <ingredient action="rouler" quantite="100 gramme"> farine </ingredient> puis faites - les <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> chaud sur feu moyen pendant 12 minutes en <operation> dorant </operation> bien sur toutes les faces . <operation> salez </operation> , <operation> poivrez </operation> puis <operation> réservez </operation> au chaud . <operation ingredients="jus;citron"> déglacez </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer"> jus </ingredient> d'1 / 2 <ingredient action="déglacer" quantite="1"> citron </ingredient> puis <operation ingredients="crème;moutarde"> ajoutez </operation> la <ingredient action="ajouter" quantite="60 gramme"> crème </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> . laissez <operation ingredients="grenouille"> chauffer </operation> quelques minutes puis <operation> nappez </operation> -en les cuisses de <ingredient action="chauffer"> grenouille </ingredient> . <operation ingredients="estragon"> parsemez </operation> d' <ingredient action="parsemer"> estragon </ingredient> grossièrement hachées . <operation ingredients="citron"> décorez </operation> du reste de <ingredient action="décorer" quantite="1"> citron </ingredient> <operation> coupé </operation> en quartiers .
+</preparation>
+</recette>

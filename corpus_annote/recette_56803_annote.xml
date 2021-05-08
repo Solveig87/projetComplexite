@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56803">
+<titre>Soupe froide de concombre très light</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>1 gousse d'ail</p>
+<p>2 yaourts à 0%</p>
+<p>quelques feuilles de menthe</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation> épépinez </operation> les <operation action="concombre" ingredients="concombres"> concombres </operation> . dans un bol , <operation ingredients="yaourts;sel;poivre"> mélangez </operation> les <ingredient action="mélanger" quantite="2"> yaourts </ingredient> 0 % avec le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger"> poivre </ingredient> . epuchez la <ingredient quantite="1"> gousse </ingredient> d' ail . <operation> mixez </operation> les <operation action="concombre" ingredients="concombres;yaourts;ail"> concombres </operation> , les <ingredient action="concombre" quantite="2"> yaourts </ingredient> et l' <ingredient action="concombre"> ail </ingredient> . <operation> versez </operation> dans des bols et reservez au frais . au moment de servir , <operation ingredients="menthe"> décorez </operation> avec un peu de <ingredient action="décorer" quantite="quelque feuille"> menthe </ingredient> <operation> ciselée </operation> . pour les plus gourmands vous pouvez remplacer les <ingredient quantite="2"> yaourts </ingredient> 0 % par des <ingredient quantite="2"> yaourts </ingredient> à la grecque ou de la <ingredient> crème </ingredient> fraiche épaisse .
+</preparation>
+</recette>

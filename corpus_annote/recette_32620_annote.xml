@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32620">
+<titre>Gâteau de potiron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de potiron</p>
+<p>125 g de beurre à cuisson douce</p>
+<p>5 oeufs battus</p>
+<p>4 paquets de sucre vanillé</p>
+<p>350 g de sucre roux</p>
+<p>250 g de semoule fine</p>
+<p>2 verres de lait</p>
+<p>1/2 verre de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron;beurre"> réduire </operation> en purée 1 kg de <ingredient action="réduire" quantite="1 kilogramme"> potiron </ingredient> avec 125 g de <ingredient action="réduire" quantite="125 gramme"> beurre </ingredient> à cuisson douce . <operation ingredients="oeufs;sucre;sucre;semoule;lait;rhum"> ajouter </operation> hors du feu les <ingredient action="ajouter"> oeufs </ingredient> , le <ingredient action="ajouter" quantite="350 gramme"> sucre </ingredient> vanillé , le <ingredient action="ajouter" quantite="350 gramme"> sucre </ingredient> roux , la <ingredient action="ajouter"> semoule </ingredient> , le <ingredient action="ajouter" quantite="2 verre"> lait </ingredient> et le <ingredient action="ajouter"> rhum </ingredient> . <operation> mélanger </operation> , <operation> mettre </operation> au four th 8 , quand il commence à <operation> dorer </operation> <operation> mettre </operation> à feu doux , cuisson 40 mn .
+</preparation>
+</recette>

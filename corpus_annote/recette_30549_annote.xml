@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30549">
+<titre>Tomates à la menthe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>200 g de fromage blanc</p>
+<p>1 feuille de gélatine ramollie</p>
+<p>14 feuilles de menthe ciselées + quelques feuilles pour le décor</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> fondre </operation> la feuille de <ingredient action="fondre"> gélatine </ingredient> à feu doux . dans une jatte , <operation ingredients="fromage;gélatine;menthe"> mettre </operation> le <ingredient action="mettre" quantite="200 gramme"> fromage </ingredient> blanc , la <ingredient action="mettre"> gélatine </ingredient> et les feuilles de <ingredient action="mettre" quantite="14 feuille"> menthe </ingredient> <operation> ciselées </operation> . <operation> saler </operation> , <operation> poivrer </operation> et bien <operation> mélanger </operation> . <operation ingredients="tomates"> evider </operation> les <ingredient action="evider" quantite="4"> tomates </ingredient> et les <operation> farcir </operation> du <operation> mélange </operation> . <operation> réserver </operation> au frais jusqu' au moment de servir . <operation ingredients="menthe"> décorer </operation> de feuilles de <ingredient action="décorer" quantite="14 feuille"> menthe </ingredient> fraîche . une entrée simple et fraîche en période de grande chaleur .
+</preparation>
+</recette>

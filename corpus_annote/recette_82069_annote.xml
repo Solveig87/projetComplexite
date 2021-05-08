@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82069">
+<titre>Boeuf au cumin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>700 g de filet de bœuf coupés en gros cube(ou de bœuf très tendre)</p>
+<p>80 g de beurre</p>
+<p>2 cuillères à soupe d'ail écrasés</p>
+<p>3 cuillères à soupe de cumin en poudre</p>
+<p>1 cube de bouillon de bœuf</p>
+<p>50 cl d’eau</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;beurre"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> à feu vif avec le <ingredient action="revenir" quantite="80 gramme"> beurre </ingredient> , tous les morceaux doivent <operation> dorer </operation> sur les côtés . <operation> réduire </operation> le feu , faire <operation> cuire </operation> à feu doux . <operation ingredients="cumin"> rajouter </operation> l’ eau , le cube de <ingredient action="écraser"> bouillon </ingredient> , l’ <ingredient action="écraser"> ail </ingredient> <operation ingredients="bouillon;ail"> écrasé </operation> et le <ingredient action="rajouter" quantite="3 cuillère à soupe"> cumin </ingredient> , <operation> saler </operation> légèrement . laisser <operation> mijoter </operation> une heure . a servir avec un <ingredient> riz </ingredient> basmati . n’ hésitez pas à le servir le lendemain c’ est encore meilleur , voilà un plat exotique qui se <operation> cuisine </operation> tout seul ! bon appétit ! un bourgogne
+</preparation>
+</recette>

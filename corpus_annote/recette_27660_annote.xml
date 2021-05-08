@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27660">
+<titre>Salade d'endives des gourmands</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 belles endives</p>
+<p>6 tranches de bacon</p>
+<p>100 g de roquefort</p>
+<p>100 g de comté</p>
+<p>moutarde</p>
+<p>vinaigre de cidre</p>
+<p>crème fraîche</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="endives"> égoutter </operation> les <ingredient action="égoutter" quantite="4"> endives </ingredient> , les <operation> couper </operation> en petits morceaux . <operation> réserver </operation> dans un saladier . <operation ingredients="bleu;comté;bacon"> couper </operation> le <ingredient action="couper"> bleu </ingredient> et le <ingredient action="couper" quantite="100 gramme"> comté </ingredient> , ainsi que le <ingredient action="couper" quantite="6 tranche"> bacon </ingredient> . <operation ingredients="endives"> ajouter </operation> le tout aux <ingredient action="ajouter" quantite="4"> endives </ingredient> . <operation ingredients="vinaigre;crème;poivre"> préparer </operation> une sauce avec une cuillère à café de moutarde , 1 cuillère de <ingredient action="préparer" quantite=""> vinaigre </ingredient> de cidre et 4 de <ingredient action="préparer" quantite=""> crème </ingredient> fraîche , un peu de <ingredient action="préparer" quantite=""> poivre </ingredient> . cette <ingredient> salade </ingredient> a un très bon goût grace au <ingredient quantite="6 tranche"> bacon </ingredient> , on peux même la servir en plat principal pour un soir avec un cake <operation> salé </operation> .
+</preparation>
+</recette>

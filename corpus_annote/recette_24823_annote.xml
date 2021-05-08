@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24823">
+<titre>Poulet au yaourt et paprika</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>1 yaourt</p>
+<p>4 oignons</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe de paprika</p>
+<p>20 cl de bouillon de volaille</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hachez </operation> les <ingredient action="hacher" quantite="4"> oignons </ingredient> . faites <operation ingredients="poulet"> revenir </operation> le <ingredient action="revenir" quantite="1"> poulet </ingredient> <operation ingredients="huile"> découpé </operation> en morceaux dans une cocotte avec l' <ingredient action="découper" quantite="4 cuillère à soupe"> huile </ingredient> . une fois les morceaux dorés , <operation> retirez </operation> - les et <operation ingredients="oignons"> mettez </operation> à leur <operation> place </operation> les <ingredient action="mettre" quantite="4"> oignons </ingredient> , laissez - les <operation> fondre </operation> . hors du feu <operation ingredients="paprika"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> paprika </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="bouillon"> versez </operation> le <ingredient action="verser" quantite="20 cl"> bouillon </ingredient> . <operation> remettez </operation> sur le feu , <operation ingredients="poulet"> rajoutez </operation> les morceaux de <ingredient action="rajouter" quantite="1"> poulet </ingredient> et l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> . laissez <operation> mijoter </operation> 1 h à feu doux . en fin de cuisson , <operation ingredients="yaourt"> versez </operation> le <ingredient action="verser" quantite="1"> yaourt </ingredient> <operation> battu </operation> , <operation> mélangez </operation> et servez .
+</preparation>
+</recette>

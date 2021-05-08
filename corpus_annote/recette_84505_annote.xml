@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84505">
+<titre>Filet mignon de veau au cidre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 filet mignon de veau coupé en tronçons d'environ 2 cm d'épaisseur</p>
+<p>1 petit oignon et deux belles échalotes</p>
+<p>1 bouteille de cidre brut</p>
+<p>Calvados (facultatif)</p>
+<p>Sel et poivre</p>
+<p>Fond de veau (en poudre)</p>
+<p>Crème fraiche (surtout pas fleurette)</p>
+<p>Beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;échalotes;beurre"> fondre </operation> l' <ingredient action="fondre" quantite="1"> oignon </ingredient> et les <ingredient action="fondre"> échalotes </ingredient> dans le <ingredient action="fondre"> beurre </ingredient> , <operation ingredients="veau"> ajouter </operation> le <ingredient action="ajouter"> veau </ingredient> pour le faire <operation> dorer </operation> . si vous en avez envie , faire <operation ingredients="calvados"> flamber </operation> avec du <ingredient action="flamber" quantite=""> calvados </ingredient> . <operation ingredients="cidre"> ajouter </operation> le <ingredient action="ajouter"> cidre </ingredient> et <operation> réduire </operation> le feu . <operation ingredients="sel"> saler </operation> , <operation> poivrer </operation> ( pas trop de <ingredient action="saler" quantite=""> sel </ingredient> , car vous allez <operation ingredients="veau"> ajouter </operation> le fond de <ingredient action="ajouter"> veau </ingredient> qui va <operation> saler </operation> un peu ) . quand la cuisson de la <ingredient action="retirer"> viande </ingredient> est totale , la <operation ingredients="viande"> retirer </operation> et la <operation> réserver </operation> au chaud . <operation ingredients="veau"> ajouter </operation> une cuillère à café de fond de <ingredient action="ajouter"> veau </ingredient> . faire <operation> réduire </operation> la sauce de moitié . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> . <operation> ajouter </operation> une bonne cuillère à soupe de crème fraiche . servir . je sers ce plat <operation ingredients="champignons"> accompagné </operation> de <ingredient action="accompagner"> champignons </ingredient> frais <operation> émincés </operation> et revenus dans du <ingredient> beurre </ingredient> avec une <ingredient> persillade </ingredient> , un gratin dauphinois . . . <ingredient> cidre </ingredient> brut pour les puristes ou bien un bourgogne rouge
+</preparation>
+</recette>

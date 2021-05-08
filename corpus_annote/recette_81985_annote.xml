@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81985">
+<titre>Gratin de pâtes à la soupe à l'oignon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de penne</p>
+<p>50 cl de crème fraîche fluide ou liquide</p>
+<p>3 escalopes de dinde</p>
+<p>un filet d'huile d'olive</p>
+<p>50 g de soupe à l'oignon en sachet</p>
+<p>50 g de fromage râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> bouillir </operation> l' eau pour les <ingredient action="bouillir"> pâtes </ingredient> puis les <operation> mettre </operation> à <operation> cuire </operation> . pendant ce temps , <operation ingredients="escalopes;soupe;oignon"> couper </operation> en lamelle les <ingredient action="couper" quantite="3"> escalopes </ingredient> de dinde et les faire <operation ingredients="huile"> blanchir </operation> avec un filet d' <ingredient action="blanchir"> huile </ingredient> d' olive puis <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="50 cl"> crème </ingredient> fraîche liquide ou fluide ainsi que la <ingredient action="couper" quantite="50 gramme"> soupe </ingredient> à l' <ingredient action="couper"> oignon </ingredient> et <operation> mélanger </operation> puis tenir hors du feu . quand les <ingredient action="cuire"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> les <operation> disposer </operation> dans un plat à gratin destiné au four . <operation ingredients="crème;oignon"> mettre </operation> dedans le <operation> mélange </operation> de <ingredient action="mettre" quantite="50 cl"> crème </ingredient> , dinde et soupe à l' <ingredient action="mettre"> oignon </ingredient> . <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer" quantite="50 gramme"> fromage </ingredient> râpé et faire <operation> gratiner </operation> le tout au four .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16168">
+<titre>Hochepot</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 botte de jeunes carottes</p>
+<p>250 g de choux de Bruxelles</p>
+<p>5 poireaux</p>
+<p>6 pommes de terre à chair ferme</p>
+<p>1 botte de navets</p>
+<p>4 morceaux de travers de porc (spare ribs)</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> , <operation ingredients="légumes"> peler </operation> , <operation> couper </operation> et <operation> laver </operation> les <ingredient action="peler" quantite="250 gramme;5;6"> légumes </ingredient> . faire <operation ingredients="margarine"> chauffer </operation> un peu de <ingredient action="chauffer"> margarine </ingredient> dans une grande sauteuse et y faire <operation ingredients="viande"> colorer </operation> la <ingredient action="colorer"> viande </ingredient> . <operation ingredients="légumes;bouillon"> ajouter </operation> tous les <ingredient action="ajouter" quantite="250 gramme;5;6"> légumes </ingredient> et le cube de <ingredient action="ajouter"> bouillon </ingredient> en miettes + un peu d' eau pour éviter que le fond de la casserole ne brûle . <operation> saler </operation> un peu et bien <operation> poivrer </operation> , puis <operation ingredients="légumes"> couvrir </operation> et laisser <operation> cuire </operation> à feu doux à modéré en <operation ingredients="viande"> changeant </operation> la <ingredient action="changer"> viande </ingredient> de <operation> place </operation> de temps à autre ( une fois au dessous des <ingredient action="couvrir" quantite="250 gramme;5;6"> légumes </ingredient> , une fois au-dessus ) .
+</preparation>
+</recette>

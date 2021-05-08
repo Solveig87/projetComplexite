@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25499">
+<titre>Gâteau aux pommes et noix de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>100 g de farine</p>
+<p>60 g de sucre</p>
+<p>1 paquet de levure chimique</p>
+<p>1 pincée de sel</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 oeuf</p>
+<p>6 cuillères à soupe de lait</p>
+<p>4 pommes</p>
+<p>1 poire</p>
+<p>Pour la crème :</p>
+<p>100 g de beurre</p>
+<p>100 g de sucre</p>
+<p>1 oeuf</p>
+<p>100 g de noix de coco râpée</p>
+</ingredients>
+<preparation>
+préchauffez le four thermostat 7 . <operation ingredients="fruits"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="4;1;100 gramme"> fruits </ingredient> en fines lamelles ou en petits morçeaux . <operation ingredients="pâte"> préparez </operation> la <ingredient action="préparer"> pâte </ingredient> en <operation> mélangeant </operation> tous les ingrédients au fur et à <operation> mesure </operation> . <operation ingredients="pâte;fruits"> mélangez </operation> la <ingredient action="mélanger"> pâte </ingredient> et les morçeaux de <ingredient action="mélanger" quantite="4;1;100 gramme"> fruits </ingredient> . <operation> beurrez </operation> un <operation> moule </operation> en verre et <operation> versez </operation> y la préparation . faites <operation> cuire </operation> thermostat 7 pendant 20 mn ou jusqu' à ce qu' il commence à <operation> dorer </operation> . pendant ce temps <operation ingredients="crème;oeuf;noix"> préparez </operation> la <ingredient action="préparer"> crème </ingredient> qui <operation ingredients="gâteau"> recouvrira </operation> le <ingredient action="recouvrir"> gâteau </ingredient> : faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> , <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="60 gramme+100 gramme"> sucre </ingredient> , puis un <ingredient action="préparer" quantite="1+1"> oeuf </ingredient> <operation> battu </operation> en omelette et enfin la <ingredient action="préparer" quantite="100 gramme"> noix </ingredient> de coco <operation> râpée </operation> . quand le <ingredient action="recouvrir"> gâteau </ingredient> est doré , <operation ingredients="gâteau"> recouvrez </operation> - le avec la <ingredient> crème </ingredient> et laissez - le <operation> dorer </operation> 10 à 15 mn . servez tiède c' est délicieux . bon appétit ! vous pouvez faire varier la <ingredient quantite="100 gramme"> noix </ingredient> de coco par des <ingredient> amandes </ingredient> en <operation> poudre </operation> ou des <ingredient> noisettes </ingredient> <operation ingredients="noix"> pilées </operation> ou bien encore de la <operation> poudre </operation> de <ingredient action="piler" quantite="100 gramme"> noix </ingredient> .
+</preparation>
+</recette>

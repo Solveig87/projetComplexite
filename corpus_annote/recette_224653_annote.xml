@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224653">
+<titre>Risotto mi-italien, mi franc-comtois</titre>
+<type>Plat principal</type>
+<niveau>Difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>huile d'olive</p>
+<p>1 oignon</p>
+<p>1 échalote</p>
+<p>1 gousse d'ail</p>
+<p>1 saucisse de Montbéliard par personne</p>
+<p>100 g comté</p>
+<p>200 g riz pour risotto</p>
+<p>10 cl vin blanc ou du Jurançon</p>
+<p>1 poivron</p>
+<p>1 cube de bouillon</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;oignon;échalote;ail"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir"> ail </ingredient> finement haché . <operation ingredients="poivron"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="1"> poivron </ingredient> en petits dés et faire <operation> cuire </operation> pendant 5 min . <operation ingredients="vin"> déglacer </operation> avec du <ingredient action="déglacer" quantite="10 cl"> vin </ingredient> blanc . <operation ingredients="saucisses"> découper </operation> les <ingredient action="découper" quantite="1"> saucisses </ingredient> en morceaux puis les <operation> ajouter </operation> dans le plat une fois que le <ingredient quantite="10 cl"> vin </ingredient> blanc est presque évaporé . dans une petite casserole faire <operation ingredients="bouillon"> dissoudre </operation> le <ingredient action="dissoudre"> bouillon </ingredient> cube dans 1 litre d' eau bouillante . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> dans le plat et <operation> remuer </operation> jusqu' à ce qu' il soit translucide puis <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> louche après louche sans cesser de <operation> remuer </operation> et en attendant que le <ingredient> bouillon </ingredient> soit bu avant d' en <operation> ajouter </operation> . la cuisson dure ainsi 17 minutes environ , la totalité du <ingredient> bouillon </ingredient> ne sera pas utilisée . le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> lorsqu' il est <operation ingredients="coeur;croquant"> fondant </operation> avec un <ingredient action="fondre"> coeur </ingredient> encore très légèrement <ingredient action="fondre"> croquant </ingredient> . a ce stade , <operation ingredients="comté"> incorporer </operation> le <ingredient action="incorporer" quantite="100 gramme"> comté </ingredient> <operation ingredients="basilic"> coupé </operation> en morceaux et le <ingredient action="couper" quantite=""> basilic </ingredient> puis servir une fois le <ingredient> fromage </ingredient> <operation> fondu </operation> . après avoir <operation ingredients="vin"> déglacé </operation> avec du <ingredient action="déglacer" quantite="10 cl"> vin </ingredient> blanc , je vous conseille de faire <operation> cuire </operation> à feu doux .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220128">
+<titre>Crêpe à la compote de figue relevée et poire pochée</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>175 g de pâte à crêpes</p>
+<p>10 boules de glace au chocolat si possible avec des morceaux</p>
+<p>10 figues fraîches</p>
+<p>10 poires si possible Conférence</p>
+<p>4 cuillères à soupe de sucre brun</p>
+<p>4 cuillères à soupe de sucre blanc cristallisé</p>
+<p>le jus de 1/2 citron</p>
+<p>2 piments épépinés</p>
+<p>4 cuillères à soupe de canneberges séchées</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="figues;sucre"> revenir </operation> pendant 5 minutes les <ingredient action="revenir" quantite="10"> figues </ingredient> avec le <ingredient action="revenir" quantite="4 cuillère à soupe+4 cuillère à soupe"> sucre </ingredient> brun , <operation> ajouter </operation> le piment et laisser refroidir . <operation ingredients="poire"> éplucher </operation> la <ingredient action="éplucher" quantite="10"> poire </ingredient> en lui laissant la queue et la <operation> pocher </operation> dans de l' eau citronnée <operation ingredients="sucre"> additionnée </operation> de <ingredient action="additionner" quantite="4 cuillère à soupe+4 cuillère à soupe"> sucre </ingredient> blanc cristallisé pendant 10 minutes ; laisser refroidir . <operation ingredients="crêpes"> cuire </operation> les <ingredient action="cuire"> crêpes </ingredient> . <operation ingredients="crêpe;glace;figue;poire"> dresser </operation> sur les assiettes : 1 <ingredient action="dresser"> crêpe </ingredient> , 1 boule de <ingredient action="dresser"> glace </ingredient> au chocolat , 1 <ingredient action="dresser" quantite="10"> figue </ingredient> compotée , 1 <ingredient action="dresser" quantite="10"> poire </ingredient> <operation> pochée </operation> et quelques canneberges séchées . bonne <operation> cuisine </operation> et bon appétit . pour le confort des convives il est conseillé , avant le pochage , d' <operation ingredients="poire"> enlever </operation> les pépins de la <ingredient action="enlever" quantite="10"> poire </ingredient> avec la pointe d' un fin <ingredient> couteau </ingredient> par l’ œil de la <ingredient quantite="10"> poire </ingredient> .
+</preparation>
+</recette>

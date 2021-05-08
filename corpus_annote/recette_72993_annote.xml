@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72993">
+<titre>Macaronade à moi</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de macaronis</p>
+<p>300 g de chair à saucisse</p>
+<p>1 kg de tomates fraîches</p>
+<p>4 gousses d'ail </p>
+<p>2 gros oignons </p>
+<p>1 cuillère à soupe d'huile d'olive </p>
+<p>200 g de parmesan râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile"> mettre </operation> l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans une sauteuse et faire <operation ingredients="oignons;ail;chair"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> , l' <ingredient action="revenir"> ail </ingredient> et la <ingredient action="revenir" quantite="300 gramme"> chair </ingredient> à saucisse . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="1 kilogramme"> tomates </ingredient> en tous petits morceaux , les <operation> rajouter </operation> dans la sauteuse et laisser <operation> cuire </operation> à feu doux pendant 1 bonne heure . pendant ce temps , faire <operation> cuire </operation> " al dente " les <ingredient quantite="500 gramme"> macaronis </ingredient> . les <operation> mettre </operation> dans un plat à gratin , <operation> rajouter </operation> la sauce et bien <operation> mélanger </operation> le tout . <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="200 gramme"> parmesan </ingredient> et faire <operation> gratiner </operation> pendant environ 20 min à 180 <operation> ° </operation> , thermostat 6 .
+</preparation>
+</recette>

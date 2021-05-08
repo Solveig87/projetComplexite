@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34177">
+<titre>Linguine au pesto rouge</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de linguines</p>
+<p>150 g de pesto rouge (frais ou en bocal) </p>
+<p>100 g de thon en boîte</p>
+<p>16 anchois roulés aux câpres</p>
+<p>2 boules de mozzarella</p>
+<p>2 tomates</p>
+<p>quelques olives noires</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="mozzarella"> couper </operation> la <ingredient action="couper"> mozzarella </ingredient> en petits dés . <operation ingredients="thon"> emietter </operation> le <ingredient action="emietter" quantite="100 gramme"> thon </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en petits dés . <operation ingredients="anchois"> couper </operation> les <ingredient action="couper"> anchois </ingredient> . <operation> mélanger </operation> tous ces ingrédients . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans l' eau bouillante préalablement <operation> salée </operation> . une fois <operation> cuites </operation> , les égouttter et y <operation ingredients="pesto"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> pesto </ingredient> rouge , puis tous les autres ingrédients . servir avec du <ingredient quantite=""> parmesan </ingredient> <operation> râpé </operation> . note : cette recette peut aussi se <ingredient> manger </ingredient> froide comme une <ingredient> salade </ingredient> de pâtes ( à <operation ingredients="pâtes"> faire </operation> avec des <ingredient action="faire"> pâtes </ingredient> courtes ) .
+</preparation>
+</recette>

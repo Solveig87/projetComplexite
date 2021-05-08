@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61911">
+<titre>Emincé de dinde aux poireaux et pommes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escaloppes de dinde</p>
+<p>3 blancs de poireaux</p>
+<p>3 pommes fruit</p>
+<p>10 g de beurre</p>
+<p>2 pincées de curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="poireaux"> émincer </operation> les blancs de <ingredient action="émincer"> poireaux </ingredient> , les faire <operation ingredients="beurre"> revenir </operation> dans une <operation> poêle </operation> dans le <ingredient action="revenir" quantite="10 gramme"> beurre </ingredient> puis les <operation> cuire </operation> 10 minutes à <operation> couvert </operation> . pendant ce temps , <operation ingredients="viande"> émincer </operation> la <ingredient action="émincer"> viande </ingredient> . <operation ingredients="poireaux"> mettre </operation> les <ingredient action="mettre"> poireaux </ingredient> de côté dans un saladier et faire <operation ingredients="viande;curry;sel;poivre"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> 5 minutes dans la <operation> poêle </operation> avec le <ingredient action="revenir" quantite="2 pincée"> curry </ingredient> , du <ingredient action="revenir" quantite=""> sel </ingredient> et du <ingredient action="revenir" quantite=""> poivre </ingredient> . pendant ce temps , <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> pommes </ingredient> et les <operation> couper </operation> en morceaux . <operation ingredients="viande;pomme"> rajouter </operation> sur la <ingredient action="rajouter"> viande </ingredient> les poireaux puis les morceaux de <ingredient action="rajouter" quantite="3"> pomme </ingredient> . <operation> cuire </operation> à feu doux pendant 15 minutes .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62561">
+<titre>Tourte de pommes de terre au bleu</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g  de pommes de terre non farineuses</p>
+<p>2 pâtes feuilletées à dérouler</p>
+<p>bleu (doux)</p>
+<p>100 g de lardons</p>
+<p>2 cuillères à café de cumin</p>
+<p>2 cuillères à café de 4 épices</p>
+<p>30 cl de crème fraîche épaisse</p>
+<p>1 oeuf</p>
+<p>sel/poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre dans de l' eau <operation> salée </operation> ( 10 minutes à l' auto cuiseur ) , les <operation> égoutter </operation> . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pâte"> dérouler </operation> la 1ère <ingredient action="dérouler"> pâte </ingredient> , la <operation> mettre </operation> dans un plat à tarte , la <operation> piquer </operation> à l' aide d' une fourchette . <operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="500 gramme"> pommes </ingredient> de terre et les <operation> couper </operation> en rondelles . <operation ingredients="pommes;pâte"> disposer </operation> la moitié des <ingredient action="disposer" quantite="500 gramme"> pommes </ingredient> de terre sur la <ingredient action="disposer"> pâte </ingredient> , la moitié du <ingredient quantite=""> bleu </ingredient> en dés , la moitié de la <ingredient quantite="30 cl"> crème </ingredient> , du <ingredient quantite=""> sel </ingredient> , du <ingredient> poivre </ingredient> et des <ingredient quantite="2 cuillère à café"> épices </ingredient> puis recommencer l' opération . <operation ingredients="pâte"> mettre </operation> dessus la 2ème <ingredient action="mettre"> pâte </ingredient> . <operation ingredients="oeuf"> badigeonner </operation> d' <ingredient action="badigeonner" quantite="1"> oeuf </ingredient> au pinceau les bords puis les <operation> replier </operation> pour les fermer . <operation ingredients="pâte"> quadriller </operation> la <ingredient action="quadriller"> pâte </ingredient> et faire 3 petits trous pour que la vapeur s' échappe durant la cuisson . <operation> mettre </operation> au four durant 20 minutes .
+</preparation>
+</recette>

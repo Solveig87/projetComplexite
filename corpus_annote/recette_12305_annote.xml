@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12305">
+<titre>Soupe au crabe et aux asperges</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 l de bouillon de volaille dégraissé</p>
+<p>2 cuillères à soupe d'huile d'arachide</p>
+<p>1 petit oignon haché</p>
+<p>2 gousses d'ail hachées</p>
+<p>2 échalotes vertes hachées</p>
+<p>6 champignons tranchés</p>
+<p>300 g de chair de crabe surgelée ou en conserve égouttée</p>
+<p>15 g de maïzena</p>
+<p>15 cl d'eau froide</p>
+<p>2 cuillères à soupe de sauce de poisson ou de sauce soya</p>
+<p>10 asperges fraîches ou surgelées, parées, coupées en morceaux moyens</p>
+<p>20 g de coriandre fraîche, hachée</p>
+<p>sel et poivre</p>
+<p>1 oeuf</p>
+<p>15 cl d'eau</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="bouillon"> porter </operation> le <ingredient action="porter" quantite="1,5 l"> bouillon </ingredient> à <operation> ébullition </operation> . <operation ingredients="maïzena"> délayer </operation> la <ingredient action="délayer" quantite="15 gramme"> maïzena </ingredient> dans l' eau . <operation ingredients="bouillon"> incorporer </operation> au <ingredient action="incorporer" quantite="1,5 l"> bouillon </ingredient> en brassant . pendant ce temps , <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans un wok ou une grand <operation> poêle </operation> . y faire <operation ingredients="oignon;ail;échalotes;champignons"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , l' <ingredient action="revenir"> ail </ingredient> , les <ingredient action="revenir" quantite="2"> échalotes </ingredient> et les <ingredient action="revenir" quantite="6"> champignons </ingredient> 2 à 3 minutes . <operation ingredients="chair"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> chair </ingredient> de crabe effilée ou en morceaux . <operation ingredients="crabe;poisson;soya;asperges;coriandre"> ajouter </operation> le <operation> mélange </operation> de <ingredient action="ajouter"> crabe </ingredient> , la sauce de <ingredient action="ajouter" quantite="2 cuillère à soupe"> poisson </ingredient> ou la sauce <ingredient action="ajouter"> soya </ingredient> , les <ingredient action="ajouter" quantite="10"> asperges </ingredient> et la <ingredient action="ajouter" quantite="20 gramme"> coriandre </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="asperges"> laisser </operation> <operation> mijoter </operation> en <operation> remuant </operation> de temps en autres , jusqu' à tendreté des <ingredient action="laisser" quantite="10"> asperges </ingredient> . dans un bol , <operation ingredients="oeuf"> fouetter </operation> l' <ingredient action="fouetter" quantite="1"> oeuf </ingredient> et l' eau . <operation ingredients="soupe"> incorporer </operation> à la <ingredient action="incorporer"> soupe </ingredient> en <operation> remuant </operation> , jusqu' à la formation de filaments . servir chaud . <operation> cuisine </operation> orientale
+</preparation>
+</recette>

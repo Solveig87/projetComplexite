@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84090">
+<titre>Cassolette pomme de terre au chevre et chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 grosses pomme de terre</p>
+<p>une bûche de fromage de chèvre</p>
+<p>quelques tranches de chorizo</p>
+<p>persil, ciboulette</p>
+<p>1 filet d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pomme"> cuire </operation> les <ingredient action="cuire" quantite="6"> pomme </ingredient> de terre dans l' eau bouillante . préchauffer le four à 180 <operation> ° </operation> , thermostat 6 . <operation> beurrer </operation> un plat à gratin . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="6"> pommes </ingredient> de terre en tranches un peu épaisses , puis les <operation> repartir </operation> dans le plat , <operation ingredients="fromage"> ajouter </operation> par dessus le <ingredient action="ajouter"> fromage </ingredient> de chèvre en tranches , <operation> saler </operation> , <operation> poivrer </operation> , puis <operation ingredients="huile"> ajouter </operation> les herbes , et enfin l' <ingredient action="ajouter"> huile </ingredient> d olive . terminer en <operation ingredients="chorizo"> posant </operation> des tranche de <ingredient action="poser" quantite="quelque tranche"> chorizo </ingredient> sur le tout . <operation> couvrir </operation> le plat et <operation> enfourner </operation> pendant 15 à 20 min . pour être sûr que le plat est prêt , regardez si le <ingredient quantite="quelque tranche"> chorizo </ingredient> a bien perdu tout son <ingredient> huile </ingredient> et qu' il s' est bien <operation ingredients="fromage"> mélangé </operation> avec le <ingredient action="mélanger"> fromage </ingredient> .
+</preparation>
+</recette>

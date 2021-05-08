@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33911">
+<titre>Croque-monsieur de Strasbourg</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie (tranché fin de préférence) </p>
+<p>4 à 5 saucisses de Strasbourg</p>
+<p>16 lamelles de gruyère (extra-fines) </p>
+<p>moutarde à l'ancienne</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> 2 mn les tranches de <ingredient action="griller" quantite="8 tranche"> pain </ingredient> de mie , soit au <operation> grille </operation> - <ingredient quantite="8 tranche"> pain </ingredient> , soit au four . faire <operation ingredients="saucisses"> pocher </operation> les <ingredient action="pocher" quantite="4"> saucisses </ingredient> à l' eau ou au micro-ondes . <operation ingredients="moutarde"> tartiner </operation> ensuite chaque tranche de <ingredient action="tartiner" quantite=""> moutarde </ingredient> puis <operation> disposer </operation> 2 lamelles dessus . <operation ingredients="saucisses"> couper </operation> toutes les <ingredient action="couper" quantite="4"> saucisses </ingredient> une fois dans la longueur , une fois dans la largeur . <operation ingredients="saucisses;pains"> poser </operation> chaque " 4 quarts " de <ingredient action="poser" quantite="4"> saucisses </ingredient> sur la moitié des <ingredient action="poser" quantite="8 tranche"> pains </ingredient> de mie . <operation> recouvrir </operation> des autres tranches . faire <operation> dorer </operation> 5 à 10 mn au four à 150 <operation> ° </operation> c. servir aussitôt . a servir avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

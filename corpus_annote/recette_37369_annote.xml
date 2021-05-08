@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37369">
+<titre>Fraises parfumées à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fraises</p>
+<p>1 orange</p>
+<p>125 g de crème chantilly</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;orange;fraises"> verser </operation> le <ingredient action="verser"> jus </ingredient> d' une demi <ingredient action="verser" quantite="1"> orange </ingredient> sur les <ingredient action="verser" quantite="500 gramme"> fraises </ingredient> <operation> coupées </operation> en morceaux . <operation ingredients="fraises;jus;sucre"> ecraser </operation> un tiers des <ingredient action="ecraser" quantite="500 gramme"> fraises </ingredient> avec le <ingredient action="ecraser"> jus </ingredient> et le <ingredient action="ecraser" quantite="2 cuillère à soupe"> sucre </ingredient> . <operation ingredients="crème;chantilly"> mélanger </operation> la purée obtenue avec environ 10 cl de <ingredient action="mélanger" quantite="125 gramme"> crème </ingredient> <ingredient action="mélanger"> chantilly </ingredient> en bombe . <operation ingredients="fraises;crème"> répartir </operation> les <ingredient action="répartir" quantite="500 gramme"> fraises </ingredient> restantes dans des <operation> coupes </operation> et <operation> napper </operation> avec la <ingredient action="répartir" quantite="125 gramme"> crème </ingredient> aux fraises . eventuellement <operation ingredients="menthe"> ajouter </operation> une feuille de <ingredient action="ajouter"> menthe </ingredient> pour la déco .
+</preparation>
+</recette>

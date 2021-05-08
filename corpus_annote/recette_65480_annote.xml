@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65480">
+<titre>Gâteau aux carottes et chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>7 oeufs</p>
+<p>300 g de carottes</p>
+<p>300 g de sucre</p>
+<p>300 g de noisettes en poudre</p>
+<p>1 zeste de citron</p>
+<p>3 cuillères de rhum</p>
+<p>chapelure + beurre pour le moule</p>
+<p>300 g de chocolat noir</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;citron;oeufs"> battre </operation> le <ingredient action="battre" quantite="300 gramme"> sucre </ingredient> , le zeste de <ingredient action="battre"> citron </ingredient> et les jaunes d' <ingredient action="battre" quantite="7"> oeufs </ingredient> jusqu' a ce que le <operation> mélange </operation> devienne <ingredient> mousseux </ingredient> . <operation ingredients="carottes;noisettes;rhum"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> carottes </ingredient> <operation> râpées </operation> , les <ingredient action="ajouter" quantite="300 gramme"> noisettes </ingredient> , le <ingredient action="ajouter" quantite="3 cuillère"> rhum </ingredient> . bien <operation> travailler </operation> la préparation . <operation> ajouter </operation> délicatement les blancs en neige . <operation ingredients="chapelure"> verser </operation> la préparation dans un <operation> moule </operation> beurré et <operation> garni </operation> de <ingredient action="verser" quantite=""> chapelure </ingredient> ( <operation> beurrer </operation> , <operation ingredients="chapelure"> verser </operation> la <ingredient action="verser" quantite=""> chapelure </ingredient> et <operation> tapoter </operation> le <operation> moule </operation> pour faire tomber l' excédent ) . faire <operation> cuire </operation> 45 min au four à 180+c ( thermostat 6 ) . dans une casserole , faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="300 gramme"> chocolat </ingredient> . <operation ingredients="gâteau"> démouler </operation> le <ingredient action="démouler"> gâteau </ingredient> et <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="300 gramme"> chocolat </ingredient> dessus . <operation> réserver </operation> au frais . <ingredient quantite="300 gramme;300 gramme"> dessert </ingredient> succulent qui fait l' unanimité ! ! ( et qui n' a pas le goût de <ingredient quantite="300 gramme"> carottes </ingredient> ! ! )
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54590">
+<titre>Escalope de poulet libanaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 escalope de poulet</p>
+<p>1 crottin de chèvre frais</p>
+<p>papier cuisson</p>
+<p>huile d'olive</p>
+<p>poivre</p>
+<p>herbes aromatiques</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalope"> inciser </operation> l' <ingredient action="inciser" quantite="1"> escalope </ingredient> sur le côté , comme pour en <operation ingredients="sandwich"> faire </operation> un <ingredient action="faire"> sandwich </ingredient> . <operation ingredients="crottin"> insérer </operation> le <ingredient action="insérer" quantite="1"> crottin </ingredient> de chèvre à l' intérieur , <operation> coupé </operation> en 2 s' il est trop gros . <operation> poivrer </operation> , <operation> parsemer </operation> les herbes de provence et <operation ingredients="huile;escalope"> arroser </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive sur l' <ingredient action="arroser" quantite="1"> escalope </ingredient> . fermer en papillote avec le papier cuisson et <operation> mettre </operation> au four 20 min à 200 <operation> ° </operation> c ( thermostat . 7 ) . servir chaud , avec un <ingredient> légume </ingredient> vert .
+</preparation>
+</recette>

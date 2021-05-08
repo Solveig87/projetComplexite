@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65532">
+<titre>Riz crémeux au poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs de poulet</p>
+<p>90 g de riz blanc </p>
+<p>1 oignon </p>
+<p>10 g de farine</p>
+<p>beurre </p>
+<p>20 cl de lait</p>
+<p>1 petit verre de vin blanc</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> en fines lamelles le <ingredient action="couper"> poulet </ingredient> . le faire <operation ingredients="huile"> revenir </operation> à la <operation> poêle </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation> emincer </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , le faire <operation ingredients="oignon;beurre;vin"> revenir </operation> avec un peu de <ingredient action="revenir"> beurre </ingredient> et le <ingredient action="revenir"> vin </ingredient> blanc , <operation> saler </operation> et <operation> poivrer </operation> . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> 10 min . <operation ingredients="béchamel;farine;beurre;lait"> préparer </operation> une <ingredient action="préparer"> béchamel </ingredient> avec la <ingredient action="préparer" quantite="10 gramme"> farine </ingredient> , 10 g de <ingredient action="préparer"> beurre </ingredient> et le <ingredient action="préparer" quantite="20 cl"> lait </ingredient> . <operation ingredients="béchamel;poulet"> ajouter </operation> à la <ingredient action="ajouter"> béchamel </ingredient> les oignons et le <ingredient action="ajouter"> poulet </ingredient> . bien <operation> mélanger </operation> . dans un plat beurré , <operation ingredients="riz"> verser </operation> le <ingredient action="verser"> riz </ingredient> puis la sauce . <operation> enfourner </operation> pendant 15 min à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

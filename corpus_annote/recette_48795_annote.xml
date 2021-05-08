@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48795">
+<titre>Beignets aux fleurs</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de fleurs (au choix)</p>
+<p>100 g de sucre</p>
+<p>100 g de farine</p>
+<p>2 oeufs</p>
+<p>1 cuillère à soupe de vanille</p>
+<p>200 g fruits de saison</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> les fleurs et <operation> enlever </operation> la tige , <operation> réserver </operation> . <operation ingredients="fruits"> peler </operation> les <ingredient action="peler"> fruits </ingredient> , <operation> réserver </operation> . <operation ingredients="sucre;farine;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> , la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et la vanille . <operation ingredients="fruit"> superposer </operation> une fleur et un <ingredient action="superposer"> fruit </ingredient> , puis les <operation ingredients="pâte"> tremper </operation> dans la <ingredient action="tremper"> pâte </ingredient> . faites <operation> frire </operation> . <ingredient> champagne </ingredient>
+</preparation>
+</recette>

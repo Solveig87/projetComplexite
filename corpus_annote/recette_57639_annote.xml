@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57639">
+<titre>Gaufres très croustillantes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>une pincée de sel</p>
+<p>1 sachet de levure de boulanger</p>
+<p>60 g de sucre</p>
+<p>2 oeufs</p>
+<p>100 g de beurre</p>
+<p>50 cl de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sel;sucre"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> et le <ingredient action="mélanger" quantite="60 gramme"> sucre </ingredient> en <operation> poudre </operation> dans un saladier . y casser les <ingredient quantite="2"> oeufs </ingredient> et le <ingredient quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="levure;lait"> délayer </operation> la <ingredient action="délayer"> levure </ingredient> de boulanger dans un peu de <ingredient action="délayer" quantite="50 cl"> lait </ingredient> tiède et <operation> incorporer </operation> dans le saladier . <operation ingredients="lait;pâte"> mélanger </operation> peu à peu avec le reste du <ingredient action="mélanger" quantite="50 cl"> lait </ingredient> au fouet , jusqu' à ce que la <ingredient action="mélanger"> pâte </ingredient> soit <operation> lisse </operation> . laisser <operation ingredients="pâte"> reposer </operation> la <ingredient action="reposer"> pâte </ingredient> au moins deux heures et de préférence près d' un radiateur ( pour que la <ingredient> pâte </ingredient> gonfle plus vite ) .
+</preparation>
+</recette>

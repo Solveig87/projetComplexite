@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223315">
+<titre>Crème de potiron au chèvre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de potiron</p>
+<p>200 g de pommes de terre</p>
+<p>100 g de carottes</p>
+<p>100 g de fromage de bûche chèvre frais</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>20 cl de lait</p>
+<p>50 cl d'eau</p>
+<p>1 cube de bouillon de volaille</p>
+<p>beurre</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron;pommes;carottes"> couper </operation> le <ingredient action="couper" quantite="400 gramme"> potiron </ingredient> , les <ingredient action="couper" quantite="200 gramme"> pommes </ingredient> de terre et les <ingredient action="couper" quantite="100 gramme"> carottes </ingredient> en dés . faire <operation ingredients="ail;échalotes;beurre"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et les <ingredient action="revenir" quantite="2"> échalotes </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> . <operation> mettre </operation> le tout dans un casserole et <operation ingredients="bouillon"> mouiller </operation> avec le <ingredient action="mouiller"> bouillon </ingredient> de volaille , sel et poivre . faire <operation> cuire </operation> 20 min . <operation ingredients="lait;fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> , les 3 / 4 du <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> de chèvre et <operation> mixer </operation> le tout . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1;;"> assaisonnement </ingredient> <operation ingredients="fromage"> couper </operation> le reste du <ingredient action="couper" quantite="100 gramme"> fromage </ingredient> de chèvre en petit dés et les <operation> mettre </operation> dans l' assiette au moment de servirpour les gourmands , on peut prévoir d' avantage de <ingredient quantite="100 gramme"> fromage </ingredient> de chèvre en petit dés que l' on <operation> dispose </operation> sur la table à <operation> disposition </operation> des convives .
+</preparation>
+</recette>

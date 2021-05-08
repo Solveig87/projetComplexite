@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65856">
+<titre>Soupe de carottes et d'endives</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes</p>
+<p>4 endives</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 cube de bouillon de volaille</p>
+<p>30 g de beurre</p>
+<p>20 cl de crème liquide</p>
+<p>1 citron</p>
+<p>poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> , <operation ingredients="oignons;carottes;endives;ail"> lavez </operation> et <operation> découpez </operation> les <ingredient action="laver" quantite="2"> oignons </ingredient> , les <ingredient action="laver" quantite="4"> carottes </ingredient> , les <ingredient action="laver" quantite="4"> endives </ingredient> et l' <ingredient action="laver"> ail </ingredient> . <operation ingredients="beurre"> déposez </operation> le <ingredient action="déposer" quantite="30 gramme"> beurre </ingredient> dans une grande casserole et <operation ingredients="légumes"> ajoutez </operation> les <ingredient action="ajouter" quantite="4;4;2;20 cl;1"> légumes </ingredient> . laissez <operation> cuire </operation> sur feu moyen pendant 20 à 25 minutes en <operation> remuant </operation> de temps en temps . quand les <ingredient quantite="4"> carottes </ingredient> vous semblent <operation> cuites </operation> , <operation ingredients="bouillon;crème"> recouvrez </operation> avec le <ingredient action="recouvrir"> bouillon </ingredient> de volaille et la <ingredient action="recouvrir" quantite="20 cl"> crème </ingredient> liquide . faites <operation> bouillir </operation> puis <operation> mixez </operation> . au moment de servir , <operation ingredients="poivre;jus"> ajoutez </operation> du <ingredient action="ajouter" quantite=""> poivre </ingredient> et le <ingredient action="ajouter"> jus </ingredient> de citron .
+</preparation>
+</recette>

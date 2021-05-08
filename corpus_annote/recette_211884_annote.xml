@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211884">
+<titre>Encornet façon carbonara</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 encornets congelés (la partie supérieure) ou environ 500g d'anneaux de calamars surgelés</p>
+<p>200 g de lardons ou de lard fumé découpé</p>
+<p>25 cl de crème fraiche (ou liquide)</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 jaune d'oeuf</p>
+<p>1/2 échalote émincée finement (facultatif)</p>
+<p>2 cuillères à café de sauce worcestershire (facultatif)</p>
+<p>parmesan râpé selon les goûts</p>
+<p>ciboulette</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="encornets;tagliatelles;huile;échalote"> revenir </operation> les <ingredient action="revenir"> encornets </ingredient> <operation> coupés </operation> finement comme des <ingredient action="revenir"> tagliatelles </ingredient> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive avec l’ <ingredient action="revenir"> échalote </ingredient> pendant 5 min . puis <operation ingredients="lardons;oeuf"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> et faire <operation> cuire </operation> à feu doux durant 10 min puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> , la sauce worcestershire , et le jaune d' <ingredient action="ajouter"> oeuf </ingredient> . laisser encore <operation> cuire </operation> à feu doux durant 15 min puis <operation ingredients="ciboulette"> ajouter </operation> la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> <operation> ciselée </operation> à la dernière minute et <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . on croirait des <ingredient> tagliatelles </ingredient> carbonara ! servir comme ça ou avec un peu de <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

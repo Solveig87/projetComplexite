@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194900">
+<titre>Soupe douce aux lentilles corail et patate douce</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 patate douce</p>
+<p>100 g de lentilles corail</p>
+<p>1 courgette</p>
+<p>1 grosse carotte</p>
+<p>1 bouillon cube de poule (bio)</p>
+<p>1 bâton de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="patate;carotte"> peler </operation> la <ingredient action="peler" quantite="1"> patate </ingredient> douce et la <ingredient action="peler" quantite="1"> carotte </ingredient> et les <operation> couper </operation> en morceaux , ainsi que la courgette ( ne pas la <operation> peler </operation> si elle est bio , cela fait de jolis points verts au final ) . les <operation ingredients="bouillon;cannelle"> mettre </operation> dans une casserole avec le <ingredient action="mettre" quantite="1"> bouillon </ingredient> cube et le bâton de <ingredient action="mettre"> cannelle </ingredient> <operation> couvrir </operation> d' un litre d' eau bouillante et lorsque l' eau recommence à <operation> bouillir </operation> , <operation ingredients="lentilles"> verser </operation> les <ingredient action="verser" quantite="100 gramme"> lentilles </ingredient> corail puis laisser <operation> cuire </operation> 15 min à feu doux . hors du feu , <operation> mixer </operation> le tout après avoir pris soin de <operation ingredients="cannelle"> retirer </operation> le bâton de <ingredient action="retirer"> cannelle </ingredient> . servir après avoir <operation ingredients="assaisonnement"> ajuster </operation> l’ <ingredient action="ajuster"> assaisonnement </ingredient> .
+</preparation>
+</recette>

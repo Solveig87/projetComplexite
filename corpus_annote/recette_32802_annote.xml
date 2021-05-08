@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32802">
+<titre>Civet de cerf sauce poivrade</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>800 g d'épaule de cerf</p>
+<p>2 litres de vin rouge corsé</p>
+<p>1 oignon en petits cubes</p>
+<p>2 carottes en petits cubes</p>
+<p>3 feuilles de laurier frais</p>
+<p>4 gousses d'ail</p>
+<p>100 g de farine rôtie au four (elle doit être brune foncée, on parle de farine brûlée)</p>
+</ingredients>
+<preparation>
+<operation ingredients="cerf;vin;oignon;ail;carotte;laurier"> mariner </operation> le <ingredient action="mariner"> cerf </ingredient> débité en morceaux de 40 g environ chacun dans le <ingredient action="mariner" quantite="2 litre"> vin </ingredient> rouge avec l' <ingredient action="mariner" quantite="1"> oignon </ingredient> , l' <ingredient action="mariner"> ail </ingredient> , la <ingredient action="mariner" quantite="2"> carotte </ingredient> , le <ingredient action="mariner" quantite="3 feuille"> laurier </ingredient> pendant 24 heures . <operation ingredients="viande"> egoutter </operation> la <ingredient action="egoutter" quantite="100 gramme"> viande </ingredient> , la sécher dans un linge propre . <operation ingredients="viande;beurre"> saisir </operation> la <ingredient action="saisir" quantite="100 gramme"> viande </ingredient> dans le <ingredient action="saisir"> beurre </ingredient> à rôtir , sel et mignonnette . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer"> farine </ingredient> brûlée . <operation> mouiller </operation> avec la marinade . laisser <operation> mijoter </operation> lentement jusqu' à ce que le civet soit tendre et la sauce ait pris consistance . relever avec un trait de <ingredient> cognac </ingredient> . <operation ingredients="céleri;airelles"> accompagner </operation> de spätzli et d' une mousseline de <ingredient action="accompagner"> céleri </ingredient> et bien sûr d' un peu d' <ingredient action="accompagner"> airelles </ingredient> ( servies , pourquoi pas , dans une demi-pomme <operation> pochée </operation> et <operation> évidée </operation> ) .
+</preparation>
+</recette>

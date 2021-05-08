@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15175">
+<titre>Tuiles au cacao</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 g de cacao</p>
+<p>20 g de farine</p>
+<p>30 g de poudre de lait</p>
+<p>25 g de miel</p>
+<p>25 g de beurre</p>
+<p>15 cl de jus d'orange</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> , <operation ingredients="miel"> ajoutez </operation> le <ingredient action="ajouter" quantite="25 gramme"> miel </ingredient> , la <ingredient action="verser" quantite="20 gramme"> farine </ingredient> , la <operation> poudre </operation> de <ingredient action="verser"> lait </ingredient> , le <ingredient action="verser" quantite="20 gramme"> cacao </ingredient> et <operation ingredients="farine;lait;cacao;jus"> versez </operation> le <ingredient action="verser" quantite="15 cl"> jus </ingredient> d' orange . laissez <operation> reposer </operation> 1 heure et étalez sur une <operation> plaque </operation> beurrée . faites <operation> cuire </operation> à four moyen ( 150 <operation> ° </operation> c ) pendant 5 mn . <operation> décollez </operation> les tuiles à la spatules et <operation> moulez </operation> - les sur un rouleau à pâtisserie .
+</preparation>
+</recette>

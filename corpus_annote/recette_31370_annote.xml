@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31370">
+<titre>Salade russe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 pommes de terre</p>
+<p>6 carottes</p>
+<p>100 g de petits pois</p>
+<p>6 oeufs durs</p>
+<p>12 olives vertes dénoyautées</p>
+<p>mayonnaise (6 cuillères à soupe) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;carottes;pois"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre , les <ingredient action="cuire" quantite="6"> carottes </ingredient> et les petits <ingredient action="cuire" quantite="100 gramme"> pois </ingredient> . bien les <operation> égoutter </operation> . <operation ingredients="pommes;carottes"> couper </operation> les <ingredient action="couper" quantite="6"> pommes </ingredient> de terre et <ingredient action="couper" quantite="6"> carottes </ingredient> en petits cubes , <operation ingredients="oeufs;pois;mayonnaise"> ajoutez </operation> les <ingredient action="ajouter" quantite="6"> oeufs </ingredient> durs <operation> hachés </operation> , les petits <ingredient action="ajouter" quantite="100 gramme"> pois </ingredient> , et la <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> . bien <operation> mélanger </operation> le tout , <operation ingredients="sel"> ajoutez </operation> un peu de <ingredient action="ajouter"> sel </ingredient> si nécessaire . servir la <ingredient> salade </ingredient> <operation ingredients="olives"> entourée </operation> d' <ingredient action="entourer"> olives </ingredient> .
+</preparation>
+</recette>

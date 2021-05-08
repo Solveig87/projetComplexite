@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26925">
+<titre>Daurade au vin blanc et aux raisins</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 daurade</p>
+<p>1 jaune d'oeuf</p>
+<p>20 cl de vin blanc moelleux</p>
+<p>1 bouquet garni</p>
+<p>1 poignée de raisins blancs</p>
+<p>1 cuillère à soupe de crème fraîche épaisse</p>
+<p>500 g de raisins secs</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation ingredients="daurade"> vider </operation> la <ingredient action="vider" quantite="1"> daurade </ingredient> . la <operation ingredients="raisins"> farcir </operation> de <ingredient action="farcir" quantite="500 gramme"> raisins </ingredient> <operation> pelés </operation> et <operation> assaisonner </operation> . <operation ingredients="daurade"> placer </operation> la <ingredient action="placer" quantite="1"> daurade </ingredient> dans une terrine <operation> beurrée </operation> et <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="20 cl"> vin </ingredient> blanc . <operation ingredients="bouquet;poisson;jus"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et <operation> enfourner </operation> pendant 25 min à 210 <operation> ° </operation> c ( thermostat 7 ) en mouillant le <ingredient action="ajouter" quantite="1"> poisson </ingredient> de son <ingredient action="ajouter"> jus </ingredient> régulièrement . <operation ingredients="poisson"> réserver </operation> le <ingredient action="réserver" quantite="1"> poisson </ingredient> au chaud et <operation> filtrer </operation> la sauce . y <operation ingredients="oeuf;crème"> incorporer </operation> le jaune d' <ingredient action="incorporer"> oeuf </ingredient> et la <ingredient action="incorporer" quantite="1 cuillère à soupe"> crème </ingredient> fraîche . <operation> assaisonner </operation> et <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> raisins </ingredient> secs . faire <operation> chauffer </operation> à feu doux et servir avec le <ingredient quantite="1"> poisson </ingredient> .
+</preparation>
+</recette>

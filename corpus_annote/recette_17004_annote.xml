@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17004">
+<titre>Crème catalane facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1l de lait</p>
+<p>8 jaunes d'oeufs</p>
+<p>150 g de sucre</p>
+<p>2 cuillères à soupe de maïzena</p>
+<p>1 citron</p>
+<p>1 pointe de cannelle en poudre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeufs;sucre;maïzena"> battez </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> avec 30 g de <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> et la <ingredient action="battre" quantite="2 cuillère à soupe"> maïzena </ingredient> <operation ingredients="lait"> délayée </operation> dans un peu de <ingredient action="délayer" quantite="1l"> lait </ingredient> . <operation> mélangez </operation> . dans une casserole , <operation ingredients="lait;sucre;citron;cannelle"> faites </operation> <operation> chauffer </operation> le reste de <ingredient action="faire" quantite="1l"> lait </ingredient> , 60 g de <ingredient action="faire" quantite="150 gramme"> sucre </ingredient> , l' écorce du <ingredient action="faire" quantite="1"> citron </ingredient> et une pointe de <ingredient action="faire"> cannelle </ingredient> en <operation> poudre </operation> . a partir de l' <operation> ébullition </operation> , baissez le feu , <operation> versez </operation> les jaunes , <operation> remuez </operation> 5 min . <operation> versez </operation> dans des ramequins et laissez refroidir au réfrigérateur . possibilité de finir par un caramel ou une finition crème brûlée en saupoudrant de <ingredient> cassonade </ingredient> et en durcissant au fer .
+</preparation>
+</recette>

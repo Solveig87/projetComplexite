@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72398">
+<titre>Saumon et poireaux fondants</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de filet de saumon</p>
+<p>600 g de poireaux en rondelles</p>
+<p>aneth</p>
+<p>jus de citron jaune (environ 1 demi-bouteille toute prête)</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+dans un plat , <operation ingredients="saumon"> mettre </operation> le <ingredient action="mettre"> saumon </ingredient> ( au centre du plat ) et <operation ingredients="poireaux"> ajouter </operation> tout autour les <ingredient action="ajouter" quantite="600 gramme"> poireaux </ingredient> en rondelles . <operation ingredients="saumon;poireaux;citron"> arroser </operation> le <ingredient action="arroser"> saumon </ingredient> et les <ingredient action="arroser" quantite="600 gramme"> poireaux </ingredient> d' huile d' olive puis de <ingredient action="arroser"> citron </ingredient> . <operation ingredients="saumon"> saupoudrer </operation> le <ingredient action="saupoudrer"> saumon </ingredient> d"aneth . <operation> mettre </operation> au four à 220 <operation> ° </operation> , thermostat 7 . toutes les 10 min environ , <operation ingredients="saumon;jus"> arroser </operation> le <ingredient action="arroser"> saumon </ingredient> avec le <ingredient action="arroser" quantite=""> jus </ingredient> et <operation ingredients="poireaux"> remuer </operation> les <ingredient action="remuer" quantite="600 gramme"> poireaux </ingredient> . laisser <operation ingredients="saumon"> cuire </operation> 30 à 40 min selon l' épaisseur du <ingredient action="cuire"> saumon </ingredient> ou s' il est <operation> congelé </operation> . vous pouvez <operation ingredients="saumon;poireaux;riz;crème"> accompagner </operation> le <ingredient action="accompagner"> saumon </ingredient> et les <ingredient action="accompagner" quantite="600 gramme"> poireaux </ingredient> avec du <ingredient action="accompagner"> riz </ingredient> thaï et de la <ingredient action="accompagner"> crème </ingredient> fraiche épaisse .
+</preparation>
+</recette>

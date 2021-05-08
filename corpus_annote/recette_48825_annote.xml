@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48825">
+<titre>Croque-monsieur au saumon simple</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 paquet de 24 tranches pain de mie</p>
+<p>1 paquet de chutes de saumon</p>
+<p>1 petit pot de crème fraîche</p>
+<p>1 cuillère à café bien remplie de curry</p>
+<p>1 bonne pincée de romarin, de thym ou d'herbes de Provence</p>
+<p>poivre et sel</p>
+<p>gruyère râpé</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+sur des plateaux , étaler toutes les tranches de <ingredient> pain </ingredient> de mie . <operation ingredients="crème;curry;poivre;sel"> préparer </operation> la sauce avec la <ingredient action="préparer"> crème </ingredient> fraîche , le <ingredient action="préparer"> curry </ingredient> , le romarin , le <ingredient action="préparer"> poivre </ingredient> et le <ingredient action="préparer"> sel </ingredient> . <operation> tartiner </operation> toutes les tranches avec cette sauce . sur 12 tranches , <operation ingredients="saumon"> disposer </operation> quelques morceaux de <ingredient action="disposer"> saumon </ingredient> , puis <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> gruyère </ingredient> râpé et fermer les croques . <operation ingredients="beurre"> déposer </operation> un petit bout de <ingredient action="déposer"> beurre </ingredient> sur chacun des croques , puis les faire <operation> cuire </operation> . minimum 3 par personne , ils plaisent beaucoup . . . même à ceux qui n' ont pas faim au départ ! ! ! !
+</preparation>
+</recette>

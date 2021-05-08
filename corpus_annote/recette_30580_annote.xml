@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30580">
+<titre>Filet mignon de porc à l'avesnoise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de filet mignon de porc</p>
+<p>75 cl de bière de garde (jenlain ambrée, par exemple)</p>
+<p>200 g de maroilles</p>
+<p>1 bouquet garni</p>
+<p>2 cuillères à soupe de farine</p>
+<p>40 g de beurre</p>
+<p>un peu d'huile</p>
+<p>du persil</p>
+<p>50 g d'échalotes</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="viande"> préparer </operation> la <ingredient action="préparer"> viande </ingredient> , la <operation> couper </operation> en tronçons de 4 cm d' épaisseur , puis la laisser <operation ingredients="bière;échalote"> mariner </operation> dans la <ingredient action="mariner" quantite="75 cl"> bière </ingredient> avec l' <ingredient action="mariner" quantite="50 gramme"> échalote </ingredient> hachée , le <ingredient action="hacher" quantite="1"> bouquet </ingredient> <operation> garni </operation> , le <ingredient action="hacher" quantite=""> persil </ingredient> <operation ingredients="bouquet;persil;sel"> haché </operation> une pincée de <ingredient action="hacher" quantite=""> sel </ingredient> . le jour même : <operation ingredients="viande"> égoutter </operation> la <ingredient action="égoutter"> viande </ingredient> , <operation ingredients="bouquet"> retirer </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> et <operation ingredients="jus"> réserver </operation> le <ingredient action="réserver"> jus </ingredient> . faire <operation ingredients="viande;beurre;huile"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> environ 5 min avec le <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> et un peu d' <ingredient action="revenir"> huile </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="jus;viande"> recouvrir </operation> du <ingredient action="recouvrir"> jus </ingredient> de marinade et laisser <operation> mijoter </operation> à feu très doux pendant 4 h environ , afin que la <ingredient action="recouvrir"> viande </ingredient> soit tendre . environ 15 min avant de servir , <operation ingredients="viande"> égoutter </operation> la <ingredient action="égoutter"> viande </ingredient> et <operation> réserver </operation> afin de <operation ingredients="farine"> faire </operation> <operation> épaissir </operation> la sauce avec la <ingredient action="faire" quantite="2 cuillère à soupe"> farine </ingredient> , puis <operation ingredients="maroilles"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> maroilles </ingredient> <operation> coupé </operation> en dés . laisser <operation> fondre </operation> quelques minutes puis <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre"> viande </ingredient> . laisser encore <operation> mijoter </operation> 10 mn puis servir . s' <operation ingredients="pommes;sel;salade"> accompagne </operation> très bien avec des <ingredient action="accompagne"> pommes </ingredient> de terre au four en croûte de <ingredient action="accompagne" quantite=""> sel </ingredient> , ou avec un gratin dauphinois et de la <ingredient action="accompagne"> salade </ingredient> .
+</preparation>
+</recette>

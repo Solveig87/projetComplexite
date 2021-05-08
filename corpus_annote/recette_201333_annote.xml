@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201333">
+<titre>Pâtes aux sardines et olives</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes (plutôt creuses)</p>
+<p>2 belles tomates</p>
+<p>olives noires dénoyautées (une dizaine)</p>
+<p>1 boite de sardines à l'huile de tournesol</p>
+<p>2 gousse d'ail</p>
+<p>1 grosse échalote</p>
+<p>1 petite pincée de piment rouge séché (facultatif mais conseillé)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+pour <operation ingredients="tomates;olives;sardines;huile"> préparer </operation> la sauce : <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en gros dés , <operation> mixer </operation> ( avec un robot de préférence ) les dés de <ingredient action="préparer" quantite="2"> tomates </ingredient> , les <ingredient action="préparer" quantite=""> olives </ingredient> et les <ingredient action="préparer"> sardines </ingredient> avec leur <ingredient action="préparer"> huile </ingredient> . <operation> mettre </operation> à <operation> chauffer </operation> à feu doux . <operation ingredients="gousses;échalote"> mixer </operation> les <ingredient action="mixer" quantite="2"> gousses </ingredient> d' ail et l’ <ingredient action="mixer" quantite="1"> échalote </ingredient> . <operation> rajouter </operation> à la préparation et <operation> mélanger </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation> rajouter </operation> une petite pincée de piment séché . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> dans de l' eau bouillante <operation> salée </operation> , selon le temps indiqué . <operation> égoutter </operation> et servir aussitôt en <operation> mélangeant </operation> bien avec la sauce . un <ingredient> vin </ingredient> rouge fruité
+</preparation>
+</recette>

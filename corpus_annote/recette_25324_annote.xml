@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25324">
+<titre>Sanglier à l'étouffée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1,2 kg de morceaux de sanglier </p>
+<p>200 g d'oignons coupés </p>
+<p>200 g de lard frais </p>
+<p>300 g de champignons </p>
+<p>30 cl d'armagnac </p>
+<p>12 pruneaux </p>
+<p>3 oignons</p>
+<p>2 carottes</p>
+<p>1 navet</p>
+<p>1 gousse d’ail</p>
+<p>1 échalote</p>
+<p>1 bouquet garni</p>
+<p>vin rouge</p>
+<p>quelques clous de girofle</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+dans un bol , faire <operation ingredients="pruneaux;armagnac"> mariner </operation> les <ingredient action="mariner" quantite="12"> pruneaux </ingredient> avec l' <ingredient action="mariner" quantite="30 cl"> armagnac </ingredient> pendant 24 h. dans un saladier , <operation ingredients="sanglier;bouquet"> mélanger </operation> le <ingredient action="mélanger"> sanglier </ingredient> avec le <ingredient action="mélanger" quantite="1"> bouquet </ingredient> <operation> garni </operation> , les <ingredient quantite="2"> carottes </ingredient> , le <ingredient quantite="1"> navet </ingredient> et un <ingredient quantite="200 gramme+3"> oignon </ingredient> <operation> émincés </operation> , quelques clous de girofle , l’ <ingredient> ail </ingredient> et l’ <ingredient quantite="1"> échalote </ingredient> <operation> ciselés </operation> , et le <ingredient> persil </ingredient> haché . <operation> assaisonner </operation> et <operation ingredients="viande"> recouvrir </operation> la <ingredient action="recouvrir"> viande </ingredient> de vin rouge . laisser <operation> mariner </operation> 24 h. dans une cocotte , faire <operation ingredients="beurre"> chauffer </operation> du <ingredient action="chauffer"> beurre </ingredient> et y faire <operation ingredients="sanglier"> dorer </operation> les morceaux de <ingredient action="dorer"> sanglier </ingredient> . <operation ingredients="viande"> réserver </operation> la <ingredient action="réserver"> viande </ingredient> au chaud et la remplacer par le reste des <ingredient quantite="200 gramme+3"> oignons </ingredient> <operation> émincés </operation> et le <ingredient> lard </ingredient> frais . faire <operation> cuire </operation> à feu doux . <operation ingredients="sanglier"> ajouter </operation> le <ingredient action="ajouter"> sanglier </ingredient> et la marinade . faire <operation> mijoter </operation> pendant 3 h. faire <operation ingredients="champignons"> revenir </operation> les <ingredient action="revenir" quantite="300 gramme"> champignons </ingredient> dans une <operation> poêle </operation> pendant 20 min . les <operation ingredients="viande;pruneaux;jus"> ajouter </operation> à la <ingredient action="ajouter"> viande </ingredient> avec les <ingredient action="ajouter" quantite="12"> pruneaux </ingredient> et un peu de leur <ingredient action="ajouter"> jus </ingredient> , 10 min avant la fin de la cuisson .
+</preparation>
+</recette>

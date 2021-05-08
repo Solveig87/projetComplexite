@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48528">
+<titre>Gâteau aux petits beurres sans oeufs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de petits beurres</p>
+<p>1 sachet de pudding en poudre (à préparer selon la marque du pudding) à la vanille ou au chocolat</p>
+<p>200 g de chocolat noir</p>
+<p>-lait</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> la veille . <operation ingredients="pudding"> préparer </operation> le <ingredient action="préparer"> pudding </ingredient> . pendant ce temps , faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> <operation ingredients="lait;chocolat"> mouillé </operation> avec du <ingredient action="mouiller"> lait </ingredient> ( le <ingredient action="mouiller" quantite="200 gramme"> chocolat </ingredient> doit être quasiment <operation> recouvert </operation> ) . dans un <operation ingredients="beurres"> moule </operation> facile à <operation> démouler </operation> <operation ingredients="beurre;pudding"> mettre </operation> une couche de petit <ingredient action="mettre" quantite="300 gramme"> beurre </ingredient> , une couche du <ingredient action="mettre"> pudding </ingredient> encore chaud , une couche de petits <ingredient action="moule" quantite="300 gramme"> beurres </ingredient> et terminer avec le glaçage au <ingredient quantite="200 gramme"> chocolat </ingredient> . <operation> mettre </operation> au réfrigérateur pendant quelques heures et déguster . idéal pour les enfants allergiques aux <ingredient> oeufs </ingredient> !
+</preparation>
+</recette>

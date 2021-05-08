@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15328">
+<titre>Pierojki russes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>350 g de farine</p>
+<p>1 oeuf</p>
+<p>13 cl d'eau tiède</p>
+<p>sel</p>
+<p>Pour la farce :</p>
+<p>600 g de pommes de terre</p>
+<p>250 g de fromage blanc frais</p>
+<p>1 oignon</p>
+<p>poivre</p>
+<p>2 cuillères à soupe de beurre fondu</p>
+<p>lardons (quantité selon vos goûts)</p>
+<p>2 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+faire la farce : <operation ingredients="pommes"> pelez </operation> les <ingredient action="peler" quantite="600 gramme"> pommes </ingredient> de terre et faites <operation> cuire </operation> dans de l' eau <operation> salée </operation> . <operation> ecrasez </operation> - les et <operation> travaillez </operation> - les . <operation ingredients="oignon"> émincez </operation> l' <ingredient action="émincez" quantite="1"> oignon </ingredient> , faites - le <operation ingredients="beurre"> dorer </operation> dans une cuillerée de <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="pommes;fromage;oignon;beurre"> mélangez </operation> délicatement les <ingredient action="mélanger" quantite="600 gramme"> pommes </ingredient> de terre , le <ingredient action="mélanger" quantite="250 gramme"> fromage </ingredient> , l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> , avec le <ingredient action="mélanger"> beurre </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . faites le pâte : <operation ingredients="farine"> versez </operation> la <ingredient action="verser" quantite="350 gramme"> farine </ingredient> dans un saladier et <operation> ajoutez </operation> - y l' <ingredient action="saler" quantite="1"> oeuf </ingredient> , <operation ingredients="oeuf"> salez </operation> , et <operation> arroser </operation> avec l' eau , <operation> pétrissez </operation> . étalez la <ingredient> pâte </ingredient> au rouleau . <operation ingredients="ronds"> découpez </operation> - y avec un verre des <ingredient action="découpez"> ronds </ingredient> de 7 à 8 cm de diamètre . <operation ingredients="ronds;pliez"> garnissez </operation> chacun des <ingredient action="garnir"> ronds </ingredient> avec un peu de farce <ingredient action="garnir"> pliez </ingredient> en deux et soudez les bien les bords . faites <operation> cuire </operation> dans une grande quantité d' eau <operation> salée </operation> bouillante . laissez <operation> cuire </operation> encore 2 à 3 minutes après flottaison . servez chaud avec du <ingredient> beurre </ingredient> <operation ingredients="lard"> fondu </operation> ou bien du <ingredient action="fondre"> lard </ingredient> <operation ingredients="lardons"> fondu </operation> avec de gros <ingredient action="fondre" quantite=""> lardons </ingredient> . servez la <ingredient quantite="2 cl"> crème </ingredient> fraîche à part . très long à faire , très rapidement <ingredient> mangés </ingredient> .
+</preparation>
+</recette>

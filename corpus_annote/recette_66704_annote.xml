@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66704">
+<titre>Salade de fruits muscadée</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 mangue</p>
+<p>4 kiwis</p>
+<p>1 ananas</p>
+<p>1 citron</p>
+<p>4 clémentines</p>
+<p>de la noix de muscade</p>
+<p>du kirsch</p>
+<p>2 sachets de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="mangue"> découper </operation> <ingredient action="découper" quantite="1"> mangue </ingredient> , ananas et kiwi en dés . les <operation ingredients="jus;jus"> arroser </operation> du <ingredient action="arroser"> jus </ingredient> de citron , du <ingredient action="arroser"> jus </ingredient> des clémentines et d' un peu de kirsch . <operation ingredients="sucre;noix"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> vanillé et un peu de <ingredient action="ajouter" quantite=""> noix </ingredient> de muscade . laisser au frais quelques heures avant de servir . ( garder 4 rondelles de <ingredient quantite="4"> kiwi </ingredient> pour la présentation en coupelles individuelles )
+</preparation>
+</recette>

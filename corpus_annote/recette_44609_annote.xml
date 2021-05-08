@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44609">
+<titre>Chou fleur gratiné au saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 beau chou fleur</p>
+<p>quelques petites tranches de saumon fumé</p>
+<p>20 cl de crème liquide</p>
+<p>fromage râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chou"> cuire </operation> le <ingredient action="cuire" quantite="1"> chou </ingredient> fleur à la vapeur , pendant 20 min environ . le <operation> disposer </operation> dans un plat à gratin . <operation ingredients="crème"> arroser </operation> de <ingredient action="arroser" quantite="20 cl"> crème </ingredient> liquide , et <operation ingredients="saumon;fumé"> recouvrir </operation> le tout avec quelques tranches de <ingredient action="recouvrir"> saumon </ingredient> <ingredient action="recouvrir"> fumé </ingredient> . <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer" quantite=""> fromage </ingredient> râpé , et <operation> passer </operation> au four à 180 <operation> ° </operation> c ( th 6 ) pendant environ 15 min . c' est simple , rapide et équilibré . . . bon appétit !
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20800">
+<titre>Quiche allégée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte brisée :</p>
+<p>100 g de farine</p>
+<p>1 oeuf</p>
+<p>30 g de beurre (à remplacer éventuellement par du fromage blanc) </p>
+<p>2 cuillères à soupe d'eau</p>
+<p>1 pincée de sel</p>
+<p>Pour la garniture :</p>
+<p>2 oeufs</p>
+<p>40 cl de lait</p>
+<p>40 g de gruyère râpé (facultatif) </p>
+<p>2 tranches de jambon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="pâte"> pétrir </operation> les ingrédients de la <ingredient action="pétrir"> pâte </ingredient> . 2 ) faire <operation ingredients="jambon"> revenir </operation> le <ingredient action="revenir" quantite="2 tranche"> jambon </ingredient> ( dans une <operation> poêle </operation> anti-adhésive ! ) . 3 ) <operation ingredients="oeufs;gruyère;sel;poivre;jambon"> battre </operation> les <ingredient action="battre" quantite="1+2"> oeufs </ingredient> , y <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="40 cl"> lait </ingredient> , le <ingredient action="battre" quantite="40 gramme"> gruyère </ingredient> <operation> râpé </operation> ( pour ceux qui se l' autorisent ) , le <ingredient action="battre" quantite="1 pincée"> sel </ingredient> , le <ingredient action="battre" quantite=""> poivre </ingredient> , puis le <ingredient action="battre" quantite="2 tranche"> jambon </ingredient> . <operation> mélanger </operation> . 4 ) étaler la <ingredient> pâte </ingredient> . 5 ) <operation> verser </operation> la garniture . 6 ) faire <operation> cuire </operation> à 220 <operation> ° </operation> c environ 30 min .
+</preparation>
+</recette>

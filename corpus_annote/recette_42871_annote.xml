@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42871">
+<titre>Les joues de porc de Nelly</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>15 joues de porc</p>
+<p>150 g de lardons</p>
+<p>4 carottes</p>
+<p>1 bouquet garni</p>
+<p>35 cl de vin blanc</p>
+<p>1 douzaine de pommes de terre (rates)</p>
+<p>sel, poivre</p>
+<p>30 cl de crème fraîche</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+faire <operation> revenir </operation> les joues , puis les <operation> retirer </operation> . idem pour les <ingredient quantite="150 gramme"> lardons </ingredient> . <operation> eplucher </operation> , et <operation ingredients="carottes;pommes"> couper </operation> , les <ingredient action="couper" quantite="4"> carottes </ingredient> et les <ingredient action="couper"> pommes </ingredient> de terre , et les faire <operation> revenir </operation> . les <operation> retirer </operation> . <operation ingredients="vin"> préparer </operation> le roux avec le <ingredient action="préparer" quantite="35 cl"> vin </ingredient> blanc . <operation> ajouter </operation> un peu d' eau , selon la consistance du roux . <operation ingredients="sel;poivre;bouquet"> remettre </operation> tous les ingrédients dans la cocotte , avec le <ingredient action="remettre" quantite=""> sel </ingredient> , le <ingredient action="remettre" quantite=""> poivre </ingredient> , et le <ingredient action="remettre" quantite="1"> bouquet </ingredient> <operation> garni </operation> ; et laisser <operation> mijoter </operation> environ 1 h 30 . au moment de servir , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> <operation ingredients="oeuf"> délayée </operation> avec le jaune d' <ingredient action="délayer"> oeuf </ingredient> . servir avec des <ingredient> tagliatelles </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42185">
+<titre>Escalopes de Veau au camembert</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de veau</p>
+<p>1 camembert (pour les amateurs de fromages, choisissez-le bien fait et rajoutez 1/2 camembert)</p>
+<p>25 cl de crème fraîche liquide</p>
+<p>sel, poivre</p>
+<p>tagliatelles fraîches</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="escalopes;beurre;huile"> revenir </operation> à feu doux les <ingredient action="revenir" quantite="4"> escalopes </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> ou d' <ingredient action="revenir"> huile </ingredient> , selon votre préférence . faites attention à ce qu' elles ne <operation> noircissent </operation> pas ! <operation ingredients="escalopes"> réservez </operation> les <ingredient action="réserver" quantite="4"> escalopes </ingredient> , <operation ingredients="graisse"> retirez </operation> la <ingredient action="retirer"> graisse </ingredient> de la <operation> poêle </operation> . <operation ingredients="camembert"> coupez </operation> le <ingredient action="couper" quantite="1"> camembert </ingredient> en quartier puis <operation> coupez </operation> - le en deux dans sa hauteur . <operation> posez </operation> les quartiers dans la <operation> poêle </operation> , feu doux , croûte vers le haut . <operation ingredients="crème"> ajoutez </operation> aussitôt et progressivement la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> liquide . une fois le <ingredient action="remettre" quantite="1"> camembert </ingredient> <operation> fondu </operation> et la sauce <operation> liée </operation> , <operation ingredients="camembert;escalopes"> remettez </operation> les <ingredient action="remettre" quantite="4"> escalopes </ingredient> juste histoire de les <operation> réchauffer </operation> . servir avec des <ingredient quantite=""> tagliatelles </ingredient> fraîches ou des frites ( même si j' ai une nette préférence pour les <ingredient quantite=""> tagliatelles </ingredient> ! ! ! )
+</preparation>
+</recette>

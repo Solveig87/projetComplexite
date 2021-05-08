@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34408">
+<titre>Gâteau au vin rouge</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs</p>
+<p>300 g de sucre</p>
+<p>2 paquets de sucre vanillé</p>
+<p>200 g de beurre</p>
+<p>300 g de farine</p>
+<p>1/2 cuillère à café de cannelle en poudre</p>
+<p>1 cuillère à soupe de cacao non sucré</p>
+<p>200 g de chocolat râpé</p>
+<p>1/8 de litre de vin rouge</p>
+<p>1 sachet de levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;sucre"> battre </operation> les <ingredient action="battre" quantite="6"> oeufs </ingredient> avec le <ingredient action="battre" quantite="300 gramme"> sucre </ingredient> et le <ingredient action="battre" quantite="300 gramme"> sucre </ingredient> vanillé . <operation ingredients="farine;beurre;cannelle;cacao;chocolat;vin"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> farine </ingredient> , le <ingredient action="ajouter" quantite="200 gramme"> beurre </ingredient> <operation> fondu </operation> , la <ingredient action="ajouter"> cannelle </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cacao </ingredient> , le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> râpé , le <ingredient action="ajouter"> vin </ingredient> rouge . <operation ingredients="levure"> ajouter </operation> la <ingredient action="ajouter"> levure </ingredient> . <operation> cuire </operation> à 200 <operation> ° </operation> c environ 40 mn . pour utiliser vos <operation> fonds </operation> de bouteille . . . <operation ingredients="vin"> choisissez </operation> de préférence un <ingredient action="choisissez"> vin </ingredient> assez tanique comme le cahors .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39532">
+<titre>Pâte à tartiner à la noix de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 cl de lait de coco</p>
+<p>20 g de beurre</p>
+<p>100 g de sucre, selon votre goût</p>
+<p>3 oeufs</p>
+<p>1 à 3 cuillères à café de noix de coco râpée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;beurre;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="20 cl"> lait </ingredient> de coco , le <ingredient action="chauffer" quantite="20 gramme"> beurre </ingredient> et le <ingredient action="chauffer" quantite="100 gramme"> sucre </ingredient> , dans une casserole , à feu doux , jusqu' à ce que le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> soit <operation ingredients="beurre"> fondu </operation> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette , dans un bol , puis les <operation> incorporer </operation> à la préparation , petit à petit , en <operation> fouettant </operation> continuellement . faire <operation> cuire </operation> , en <operation> battant </operation> ( pour éviter que les blancs d' <ingredient action="former" quantite="3"> oeufs </ingredient> ne <operation ingredients="oeufs"> forment </operation> des grumeaux ) , à feu doux , jusqu' à épaississement . <operation> mettre </operation> dans un pot , et laisser refroidir . <ingredient> chocolat </ingredient> , thé , café , . . .
+</preparation>
+</recette>

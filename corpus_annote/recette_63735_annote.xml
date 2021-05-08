@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63735">
+<titre>Velouté de potimarron à l'anis</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 potimarron</p>
+<p>2 ou 3 carottes</p>
+<p>1 blanc de poireau</p>
+<p>2 oignons</p>
+<p>2 courgettes ou 2 pommes de terre</p>
+<p>1 étoile de badiane</p>
+<p>quelques graines de fenouil</p>
+<p>20 cl de crème fraîche</p>
+<p>huile, beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> eplucher </operation> les courgettes et les <ingredient action="eplucher" quantite="2"> carottes </ingredient> , <operation ingredients="poireaux"> laver </operation> les <ingredient action="laver"> poireaux </ingredient> . <operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="1;2;2;20 cl"> légumes </ingredient> en dés ( ne pas <operation ingredients="potimarron"> éplucher </operation> le <ingredient action="éplucher" quantite="1"> potimarron </ingredient> mais bien le <operation> laver </operation> ) . dans un faitout faire <operation ingredients="oignons;huile;beurre"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans moitié <ingredient action="revenir" quantite=""> huile </ingredient> / moitié <ingredient action="revenir" quantite=""> beurre </ingredient> . quand les <ingredient action="ajouter" quantite="2"> oignons </ingredient> ont blondi , <operation ingredients="oignons;potimarron"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="1"> potimarron </ingredient> : bien <operation ingredients="légumes;matière"> rouler </operation> les <ingredient action="rouler" quantite="1;2;2;20 cl"> légumes </ingredient> dans la <ingredient action="rouler" quantite=";"> matière </ingredient> grasse . <operation ingredients="légumes"> ajouter </operation> les autres <ingredient action="ajouter" quantite="1;2;2;20 cl"> légumes </ingredient> faire <operation> revenir </operation> en <operation> mélangeant </operation> pour bien <operation> enrober </operation> . <operation> couvrir </operation> d' eau largement . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> à feu moyen pendant 30 à 40 minutes . lorsque les <ingredient action="cuire" quantite="1;2;2;20 cl"> légumes </ingredient> sont presque <operation ingredients="légumes"> cuits </operation> , <operation ingredients="fenouil"> rajouter </operation> l' anis étoilé et le <ingredient action="rajouter"> fenouil </ingredient> et laisser <operation> cuire </operation> encore 10 min . ( même si les <ingredient action="cuire" quantite="1;2;2;20 cl"> légumes </ingredient> ne sont pas encore <operation ingredients="légumes"> cuits </operation> , <operation> enlever </operation> l' anis et laisser <operation> cuire </operation> ) <operation> mixer </operation> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . servir aussitôt !
+</preparation>
+</recette>

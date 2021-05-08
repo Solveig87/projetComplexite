@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22880">
+<titre>Macaronis aux trois fromages</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de macaronis longs ou de pennes</p>
+<p>120 g de fromage à raclette sans sa croûte</p>
+<p>100 g de gorgonzola (saint-Agur, bleu d'Auvergne...) </p>
+<p>80 g de parmesan râpé</p>
+<p>20 cl de crème liquide</p>
+<p>1 pincée de noix de muscade</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromages"> coupez </operation> les <ingredient action="couper" quantite="120 gramme"> fromages </ingredient> en morceaux . <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> dans une casserole , la faire <operation> bouillir </operation> et <operation> réduire </operation> 3 mn à feu doux . hors du feu , <operation ingredients="fromages;parmesan"> rajoutez </operation> les <ingredient action="rajouter" quantite="120 gramme"> fromages </ingredient> mais seulement la moitié du <ingredient action="rajouter" quantite="80 gramme"> parmesan </ingredient> en <operation> mélangeant </operation> vivement . <operation> remettez </operation> à feu doux jusqu' à ce que le <operation> mélange </operation> soit <operation> lisse </operation> . <operation> poivrez </operation> et relevez de <ingredient> muscade </ingredient> . pendant ce temps , faîtes <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> suivant le temps indiqué sur votre paquet ( <ingredient> pâtes </ingredient> fraîches c' est encore meilleur ) . <operation> egouttez </operation> les <ingredient action="verser"> pâtes </ingredient> , <operation ingredients="pâtes"> versez </operation> - les dans la casserole contenant la sauce aux trois <ingredient quantite="120 gramme"> fromages </ingredient> . <operation ingredients="parmesan"> mélangez </operation> rapidement , <operation> parsemez </operation> du reste de <ingredient action="mélanger" quantite="80 gramme"> parmesan </ingredient> et servez . on peut <operation ingredients="jambon;lardons"> rajouter </operation> à la fin des dés de <ingredient action="rajouter"> jambon </ingredient> ou des <ingredient action="rajouter"> lardons </ingredient> , <operation> cuits </operation> à part .
+</preparation>
+</recette>

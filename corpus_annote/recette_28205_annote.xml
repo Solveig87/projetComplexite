@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28205">
+<titre>Pieds de veau à la ravigote froide</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pieds de veau</p>
+<p>2 l de court-bouillon au vinaigre</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>2 cuillères de farine</p>
+<p>1 jaune d'oeuf dur</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1/2 cuillère à café de câpres hachées</p>
+<p>1 cuillère à café de cerfeuil haché</p>
+<p>1 cuillère à café de ciboulette hachée</p>
+<p>1 cuillère à café d'estragon haché</p>
+<p>cuillère à café de persil haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pieds;farine"> faire </operation> <operation> mijoter </operation> les <ingredient action="faire" quantite="4"> pieds </ingredient> de veau dans le court-bouillon pendant 4 h avec la <ingredient action="faire" quantite="2 cuillère"> farine </ingredient> . dans un bol , <operation ingredients="œuf"> émietter </operation> le jaune d’ <ingredient action="émietter"> œuf </ingredient> et le <operation ingredients="moutarde"> mélanger </operation> à la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> blanche . <operation ingredients="mayonnaise"> battre </operation> comme pour une <ingredient action="battre"> mayonnaise </ingredient> en <operation ingredients="huile"> incorporant </operation> l' <ingredient action="incorporer" quantite="4 cuillère à soupe"> huile </ingredient> au fur et à <operation> mesure </operation> . <operation ingredients="vinaigre;câpres;ciboulette;cerfeuil;estragon;persil"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> , les <ingredient action="ajouter"> câpres </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à café"> ciboulette </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à café"> cerfeuil </ingredient> , l’ <ingredient action="ajouter"> estragon </ingredient> et le <ingredient action="ajouter"> persil </ingredient> hachés . servir les <ingredient quantite="4"> pieds </ingredient> de veau avec la sauce ravigote .
+</preparation>
+</recette>

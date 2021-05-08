@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42817">
+<titre>Terrine de riz au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz (2 sachets cuisson)</p>
+<p>100 g de thon (une petite boîte)</p>
+<p>150 g de petit pois (une petite boîte)</p>
+<p>150 g de maïs (une petite boîte)</p>
+<p>4 oeufs durs</p>
+<p>4 cuillères à soupe de mayonnaise</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> , l' <operation> égoutter </operation> , et le laisser refroidir . <operation ingredients="oeufs"> emietter </operation> les <ingredient action="emietter" quantite="4"> oeufs </ingredient> avec une fouchette . <operation ingredients="thon;pois;maïs"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> thon </ingredient> , les petits <ingredient action="ajouter" quantite="150 gramme"> pois </ingredient> , et le <ingredient action="ajouter" quantite="150 gramme"> maïs </ingredient> . <operation ingredients="riz"> mélanger </operation> le tout avec le <ingredient action="mélanger" quantite="250 gramme"> riz </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> , et <operation ingredients="mayonnaise"> ajouter </operation> la <ingredient action="ajouter" quantite="4 cuillère à soupe"> mayonnaise </ingredient> . <operation> mettre </operation> le <operation> mélange </operation> dans un <operation> moule </operation> à cake , et <operation> placer </operation> au réfrigérateur pendant au moins 10 h. servir frais en tranches .
+</preparation>
+</recette>

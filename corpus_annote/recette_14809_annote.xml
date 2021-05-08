@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14809">
+<titre>Champignons au crabe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 gros champignons de paris</p>
+<p>12 barres de surimi</p>
+<p>6 cuillères à café de crème fraîche</p>
+<p>100 g de gruyère râpé</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="6"> champignons </ingredient> , les <operation ingredients="surimi;crème"> équeuter </operation> et <operation> mettre </operation> dans un <operation> mixer </operation> les queues , le <ingredient action="équeuter"> surimi </ingredient> et la <ingredient action="équeuter" quantite="6 cuillère à café"> crème </ingredient> . <operation ingredients="assaisonnement"> mixer </operation> et <operation> rectifier </operation> l' <ingredient action="mixer"> assaisonnement </ingredient> . <operation ingredients="têtes"> déposer </operation> les <ingredient action="déposer"> têtes </ingredient> de champignon dans un plat à four légèrement beurré et les <operation> remplir </operation> de la préparation , les <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> râpé . <operation> gratiner </operation> au four .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21443">
+<titre>Tarte saumon brocolis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>du saumon fumé (environ 4 tranches) </p>
+<p>des brocolis (environ 500 g) </p>
+<p>de la crème fraîche (20 cl) </p>
+<p>3 oeufs</p>
+<p>de l'aneth</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> . <operation ingredients="saumon"> recouvrir </operation> des tranches de <ingredient action="recouvrir" quantite=""> saumon </ingredient> . pendant ce temps , faire <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire" quantite=""> brocolis </ingredient> à la cocotte ( c' est plus rapide : je <operation> mets </operation> 5 min quand ça tourne ) . quand ils sont <operation> cuits </operation> , les étaler sur le <ingredient quantite=""> saumon </ingredient> . <operation ingredients="crème;oeufs;sel"> mélanger </operation> la <ingredient action="mélanger" quantite=""> crème </ingredient> et les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> puis le <ingredient action="mélanger" quantite=""> sel </ingredient> , poivre et aneth . <operation ingredients="brocolis"> recouvrir </operation> les <ingredient action="recouvrir" quantite=""> brocolis </ingredient> de ce <operation> mélange </operation> . <operation> mettre </operation> à four chaud ( 180 <operation> ° </operation> c ) 30 min .
+</preparation>
+</recette>

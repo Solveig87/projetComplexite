@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20216">
+<titre>Purée de potimarron aux oignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de potimarron</p>
+<p>3 oignons</p>
+<p>2 jaunes d'oeufs</p>
+<p>40 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potimarron"> couper </operation> le <ingredient action="couper" quantite="1 kilogramme"> potimarron </ingredient> en morceaux , le faire <operation> cuire </operation> à la vapeur 20 min et l' <operation ingredients="oignons;beurre"> écraser </operation> faire suer les <ingredient action="écraser" quantite="3"> oignons </ingredient> <operation> émincés </operation> dans le <ingredient action="écraser" quantite="40 gramme"> beurre </ingredient> dans une casserole . <operation> ajoutez </operation> la purée , <operation> remuer </operation> et laisser <operation> mijoter </operation> 10 min . <operation> retirer </operation> du feu et <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="beurre"> rajouter </operation> un peu de <ingredient action="rajouter" quantite="40 gramme"> beurre </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80595">
+<titre>Burger</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pains ronds au sésame</p>
+<p>400 g de steak haché</p>
+<p>2 oignons blancs</p>
+<p>1 oignon rouge</p>
+<p>2 ou 3 branches de persil</p>
+<p>125 g de mayonnaise</p>
+<p>2 tomates</p>
+<p>20 g de beurre</p>
+<p>1 cœur de laitue</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> hachez </operation> les <ingredient action="ciseler" quantite="2+1"> oignons </ingredient> blancs , <operation ingredients="oignons;persil"> ciselez </operation> les feuilles de <ingredient action="ciseler"> persil </ingredient> . <operation ingredients="mayonnaise"> mettez </operation> dans une jatte avec la <ingredient action="mettre" quantite="125 gramme"> mayonnaise </ingredient> , <operation> mélangez </operation> . <operation ingredients="mayonnaise"> réservez </operation> 1 / 3 de cette <ingredient action="réserver" quantite="125 gramme"> mayonnaise </ingredient> et <operation ingredients="steak"> mélangez </operation> le reste au <ingredient action="mélanger" quantite="400 gramme"> steak </ingredient> haché . <operation> divisez </operation> la préparation en 4 parts égales , <operation> aplatissez </operation> - les en <ingredient quantite="400 gramme"> steaks </ingredient> <ingredient> ronds </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> le dessus . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> dans une <operation> poêle </operation> , <operation ingredients="steaks"> mettez </operation> - y les <ingredient action="mettre" quantite="400 gramme"> steaks </ingredient> à <operation> dorer </operation> pendant 3 à 4 minutes sur chaque face . <operation ingredients="pains"> réchauffez </operation> les <ingredient action="réchauffer" quantite="4"> pains </ingredient> sans les <operation> dorer </operation> , <operation> pelez </operation> et <operation ingredients="oignon"> coupez </operation> l' <ingredient action="couper" quantite="2+1"> oignon </ingredient> rouge en rondelles . <operation> montez </operation> les burgers : sur un demi-pain , <operation ingredients="salade;steak;tomates;persil;oignon"> posez </operation> une feuille de <ingredient action="poser"> salade </ingredient> , un <ingredient action="poser" quantite="400 gramme"> steak </ingredient> , des rondelles de <ingredient action="poser" quantite="2"> tomates </ingredient> , du <ingredient action="poser"> persil </ingredient> et de l' <ingredient action="poser" quantite="2+1"> oignon </ingredient> rouge . <operation> tartinez </operation> ensuite avec le reste de la <ingredient quantite="125 gramme"> mayonnaise </ingredient> , <operation> couvrez </operation> du demi-pain restant et servez aussitôt .
+</preparation>
+</recette>

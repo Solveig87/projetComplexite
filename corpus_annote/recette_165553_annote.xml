@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165553">
+<titre>Tarte au surimi facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de gruyère</p>
+<p>1 pâte feuilletée</p>
+<p>1 poivron jaune</p>
+<p>1 tomate </p>
+<p>8 bâtons de surimi</p>
+<p>huile d'olive </p>
+<p>thym</p>
+<p>1 oeuf</p>
+<p>20 cl de crème fraiche</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron"> vider </operation> et <operation> couper </operation> le <ingredient action="vider"> poivron </ingredient> en petit morceau <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en petits morceaux . faire <operation ingredients="huile;thym"> revenir </operation> dans une <operation> poêle </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d olive et du <ingredient action="revenir" quantite=""> thym </ingredient> pendant 5 minutes pendant ce temps <operation ingredients="surimi"> couper </operation> le <ingredient action="couper"> surimi </ingredient> en rondelles . puis <operation ingredients="crème;oeuf"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraiche à l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> y <operation ingredients="poivron"> mettre </operation> la sauce tomate <ingredient action="mettre"> poivron </ingredient> <operation ingredients="surimi"> ajouter </operation> les rondelles de <ingredient action="ajouter"> surimi </ingredient> puis le <operation> mélange </operation> crème <ingredient action="mettre" quantite="1"> oeuf </ingredient> <operation ingredients="oeuf;gruyère"> mettre </operation> le <ingredient action="mettre" quantite="200 gramme"> gruyère </ingredient> par dessus et <operation> enfourner </operation> pour 30 minutes à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

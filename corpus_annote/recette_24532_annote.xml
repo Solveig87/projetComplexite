@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24532">
+<titre>Tarte purée de pommes de terre au chèvre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rouleau de pâte de brisée</p>
+<p>1 kg de pommes de terre</p>
+<p>350 g de chèvre frais</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau bouillante . <operation> pelez </operation> les et écrasez - les en purée sauf 3 . <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler"> pâte </ingredient> dans un <operation> moule </operation> beurré . <operation ingredients="fromage;oeufs"> mélangez </operation> à la fourchette le <ingredient action="mélanger"> fromage </ingredient> de chèvre avec les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation> ajoutez </operation> la purée et <operation> mélangez </operation> . <operation ingredients="pâte"> répartissez </operation> le tout sur le fond de <ingredient action="répartir"> pâte </ingredient> . faites <operation> cuire </operation> au four à 120 <operation> ° </operation> c ( thermostat 4 ) pendant 1 h 30 . pendant ce temps , <operation ingredients="pommes"> découpez </operation> les 3 <ingredient action="découper" quantite="1 kilogramme"> pommes </ingredient> de terre restantes en fines rondelles . <operation> disposez </operation> - les sur la purée 10 minutes avant la fin de cuisson , et <operation ingredients="crème"> couvrez </operation> avec la <ingredient action="couvrir" quantite="20 cl"> crème </ingredient> fraîche <operation ingredients="sel;poivre"> fouettée </operation> avec du <ingredient action="fouetter" quantite=""> sel </ingredient> et du <ingredient action="fouetter"> poivre </ingredient> . laissez <operation> reposer </operation> 5 minutes avant de servir .
+</preparation>
+</recette>

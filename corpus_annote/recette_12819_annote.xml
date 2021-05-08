@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12819">
+<titre>Ragoût d'escargots à la provencale</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 escargots petits-gris</p>
+<p>6 tomates</p>
+<p>2 oignons</p>
+<p>4 gousses d'ail</p>
+<p>30 g de basilic</p>
+<p>30 g de persil</p>
+<p>2 pincées de fleur de thym</p>
+<p>sel, poivre</p>
+<p>8 oeufs</p>
+</ingredients>
+<preparation>
+pour 100 petits-gris , faire <operation ingredients="escargots"> saisir </operation> les <ingredient action="saisir" quantite="150"> escargots </ingredient> , puis <operation ingredients="oignons;gousses;tomates"> ajouter </operation> 2 <ingredient action="ajouter" quantite="2"> oignons </ingredient> moyens <operation> hachés </operation> finement , 3 <ingredient action="ajouter" quantite="4"> gousses </ingredient> d' ail , 4 belles <ingredient action="ajouter" quantite="6"> tomates </ingredient> <operation> épépinées </operation> . laisser <operation> cuire </operation> 10 minutes . <operation ingredients="thym"> ajouter </operation> <ingredient action="ajouter"> thym </ingredient> , basilic et persil , sel et poivre . avant de servir , <operation ingredients="oeufs"> mélanger </operation> 6 <ingredient action="mélanger" quantite="8"> oeufs </ingredient> comme pour une omelette en <operation> battant </operation> vigoureusement . recette rentrée par la fontaine de bernn . http : / / www . fontaine-escargots . com /
+</preparation>
+</recette>

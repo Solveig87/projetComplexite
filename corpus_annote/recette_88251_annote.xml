@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88251">
+<titre>Omelette savoyarde</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>restes de fromage à raclette (environ 50 -75 g)</p>
+<p>4 pommes de terre cuites</p>
+<p>20 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sel;poivre"> battez </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> dans un bol avec le <ingredient action="battre" quantite=""> sel </ingredient> et le <ingredient action="battre" quantite=""> poivre </ingredient> . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre <operation> pelées </operation> en rondelles . dans une <operation> poêle </operation> , laissez <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> et faites <operation ingredients="pommes"> revenir </operation> les <ingredient action="revenir" quantite="4"> pommes </ingredient> de terre durant 10 min . <operation ingredients="fromage"> ajoutez </operation> le <ingredient action="ajouter"> fromage </ingredient> de raclette <operation> coupé </operation> en morceaux . lorsqu' il est <operation> fondu </operation> , <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> et laissez <operation> cuire </operation> jusqu' à ce que l' omelette soit dorée c' est divin ! si vous avez du <ingredient> jambon </ingredient> , je vous conseille de le <operation> couper </operation> en morceaux et de les <operation> ajouter </operation> à la garniture .
+</preparation>
+</recette>

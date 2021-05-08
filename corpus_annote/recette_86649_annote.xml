@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86649">
+<titre>Raclette à la poêle</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit oignon</p>
+<p>1 gousse d'ail </p>
+<p>800 g de pommes de terre coupées en carré prêtes à cuire </p>
+<p>7 à 8 tranches de fromage à raclette</p>
+<p>1 saucisse fumée pré-cuite</p>
+<p>5 g de beurre</p>
+<p>sel, poivre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> bien chaude , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="5 gramme"> beurre </ingredient> , <operation ingredients="oignon;ail;saucisse"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> <operation> émincés </operation> ainsi que la <ingredient action="ajouter" quantite="1"> saucisse </ingredient> <operation> détaillée </operation> en menus morceaux . faire <operation> dorer </operation> légèrement l' ensemble , <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> pommes </ingredient> de terre environ 25 min ( cuisson variable suivant les goûts ) , <operation> ajouter </operation> les herbes à votre convenance . . . laisser <operation> mijoter </operation> puis <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> et <operation> couvrir </operation> , jusqu' à ce que le <ingredient action="fondre"> fromage </ingredient> soit <operation ingredients="fromage"> fondu </operation> . servir avec une <ingredient> salade </ingredient> verte . bon appétit ! la <ingredient quantite="1"> saucisse </ingredient> peut être remplacée par du <ingredient> jambon </ingredient> , du <ingredient> poulet </ingredient> . . . mais avec un goût <ingredient> fumé </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94064">
+<titre>Gratin de pommes de terre à la viande hâchée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-1kg de pommes de terre</p>
+<p>-500g de viande hachée</p>
+<p>-100g de parmesan râpé</p>
+<p>-3 oignons</p>
+<p>-25g de persil</p>
+<p>-1/4L de lait</p>
+<p>-1 cuillère à café de sel, de poivre et de piment doux</p>
+<p>-1/2 verre d'huile d'olive</p>
+<p>-1 noisette de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire"> pommes </ingredient> de terre en rondelles dans une casserole avec de l' eau bouillante . faire <operation ingredients="viande;sel;poivre;oignons;huile;persil"> cuire </operation> la <ingredient action="cuire"> viande </ingredient> hachée dans une autre casserole avec le <ingredient action="cuire"> sel </ingredient> , le <ingredient action="cuire" quantite=""> poivre </ingredient> , le piment doux , les <ingredient action="cuire" quantite=""> oignons </ingredient> <operation> coupés </operation> en dés , l' <ingredient action="cuire"> huile </ingredient> et le <ingredient action="cuire"> persil </ingredient> . <operation> beurrer </operation> un plat à gratin . <operation ingredients="pommes"> disposer </operation> la moitié de la quantité des <ingredient action="disposer"> pommes </ingredient> de terre dans le plat . <operation ingredients="lait;pommes"> verser </operation> le <ingredient action="verser"> lait </ingredient> sur la première couche de <ingredient action="verser"> pommes </ingredient> de terre . <operation ingredients="viande;viande"> verser </operation> ensuite la <ingredient action="verser"> viande </ingredient> hachée ( toute la quantité de la <ingredient action="verser"> viande </ingredient> hachée ) , puis <operation ingredients="pommes"> verser </operation> la deuxième et dernière couche de <ingredient action="verser"> pommes </ingredient> de terre par - dessus . <operation ingredients="parmesan"> rajouter </operation> ensuite le <ingredient action="rajouter"> parmesan </ingredient> <operation> râpé </operation> et <operation> mettre </operation> au four . cuisson : environ 35 min
+</preparation>
+</recette>

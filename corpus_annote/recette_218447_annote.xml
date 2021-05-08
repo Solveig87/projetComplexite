@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218447">
+<titre>Salade de riz aux légumes fushia</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz cru</p>
+<p>4 ou 5 tomates</p>
+<p>1/2 concombre</p>
+<p>1 petite boîte de maïs</p>
+<p>7 ou 8 cornichons</p>
+<p>1 betterave</p>
+<p>1 boîte de thon au naturel</p>
+<p>7 bâtonnets de surimi</p>
+<p>sel</p>
+<p>poivre</p>
+<p>vinaigrette de votre choix (pour ma part, à l'échalote)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> le temps indiqué sur le paquet . pendant ce temps , <operation ingredients="tomates"> détailler </operation> les <ingredient action="détailler" quantite="4"> tomates </ingredient> et la betterave en petits morceaux . <operation ingredients="concombre"> éplucher </operation> le <ingredient action="éplucher" quantite="1"> concombre </ingredient> , <operation> enlever </operation> les graines et le <operation> couper </operation> en petits morceaux . <operation ingredients="maïs"> rincer </operation> le <ingredient action="rincer"> maïs </ingredient> . <operation ingredients="surimi;cornichons"> couper </operation> le <ingredient action="couper"> surimi </ingredient> et les <ingredient action="couper" quantite="7"> cornichons </ingredient> en rondelles . tout <operation> mettre </operation> dans un saladier , <operation ingredients="sel;poivre"> assaisonner </operation> avec du <ingredient action="assaisonner" quantite=""> sel </ingredient> , du <ingredient action="assaisonner" quantite=""> poivre </ingredient> et une vinaigrette . couleur étonnante pour une <ingredient> salade </ingredient> <operation> salée </operation> , qui est par choix plus riche en <ingredient quantite="4;1;7;1"> légumes </ingredient> qu' en <ingredient> riz </ingredient> . peut être <operation ingredients="olives;comté;parmesan"> agrémentée </operation> d' <ingredient action="agrémenter"> olives </ingredient> , de morceaux de <ingredient action="agrémenter"> comté </ingredient> ou de copeaux de <ingredient action="agrémenter"> parmesan </ingredient> . . . un rosé bien frais
+</preparation>
+</recette>

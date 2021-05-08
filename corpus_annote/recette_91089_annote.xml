@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91089">
+<titre>Clafoutis aux framboises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de framboises</p>
+<p>60 g de maïzena</p>
+<p>125 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>sel</p>
+<p>2 oeufs entiers + 2 jaunes</p>
+<p>1/4 de litre de lait</p>
+<p>200 g de crème fraîche</p>
+<p>beurre pour le moule</p>
+</ingredients>
+<preparation>
+bien <operation> beurrer </operation> le <operation> moule </operation> et y <operation ingredients="framboises"> répartir </operation> les <ingredient action="répartir" quantite="400 gramme"> framboises </ingredient> . <operation ingredients="maïzena;sucres;sel"> mélanger </operation> la <ingredient action="mélanger" quantite="60 gramme"> maïzena </ingredient> avec les <ingredient action="mélanger" quantite="125 gramme"> sucres </ingredient> et le <ingredient action="mélanger" quantite=""> sel </ingredient> . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> entiers et les jaunes . bien <operation> mélanger </operation> . enfin , <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> et la <ingredient action="ajouter" quantite="200 gramme"> crème </ingredient> . <operation ingredients="framboises"> verser </operation> la préparation sur les <ingredient action="verser" quantite="400 gramme"> framboises </ingredient> et <operation> mettre </operation> au four 30 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

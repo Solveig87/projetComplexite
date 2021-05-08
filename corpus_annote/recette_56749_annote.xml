@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56749">
+<titre>Bouchées vapeur porc-crevettes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>15 galettes de riz</p>
+<p>250 g de porc haché</p>
+<p>125 g de crevettes cuites et décortiquées</p>
+<p>1 poignée de cive ou ciboulette</p>
+<p>1 poignée de coriandre fraîche</p>
+<p>1 petite poignée de champignons noirs réhydratés</p>
+<p>Sauce soja, sauce nuoc mam, un petit bout de gingembre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crevettes;champignons"> hacher </operation> les <ingredient action="hacher" quantite="125 gramme"> crevettes </ingredient> , les herbes et les <ingredient action="hacher"> champignons </ingredient> . <operation ingredients="viande;gingembre"> mélanger </operation> avec la <ingredient action="mélanger" quantite="250 gramme"> viande </ingredient> et <operation ingredients="soja"> assaisonner </operation> de sauce <ingredient action="assaisonner"> soja </ingredient> et nuoc mam , <operation> râper </operation> un peu de <ingredient action="mélanger"> gingembre </ingredient> . <operation ingredients="galettes"> couper </operation> les <ingredient action="couper" quantite="15"> galettes </ingredient> de riz en deux . les <operation> humidifier </operation> , <operation> déposer </operation> une petite cuillère du <operation> mélange </operation> et <operation> refermer </operation> soigneusement . <operation> cuire </operation> les bouchées dans le panier , dix minutes à la vapeur ( pas sous pression si cuisson dans une cocotte - minute ) . déguster avec un coulis de <ingredient> tomate </ingredient> pimenté , ou de la sauce <ingredient> soja </ingredient> .
+</preparation>
+</recette>

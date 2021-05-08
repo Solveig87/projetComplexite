@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28231">
+<titre>Saucisses mijotées aux oignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 saucisses à cuire</p>
+<p>2 oignons</p>
+<p>20 cl vin blanc sec</p>
+<p>20 cl de bouillon</p>
+<p>5 cl de cognac</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>30 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="saucisses"> revenir </operation> les <ingredient action="revenir" quantite="4"> saucisses </ingredient> dans une sauteuse quelques minutes . <operation> jetez </operation> le gras rendu , puis <operation> mouillez </operation> de coganc et faites <operation> flamber </operation> . <operation ingredients="beurre"> ajoutez </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> , laissez - le <operation> fondre </operation> puis <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> hachés </operation> . laissez <operation> rissoler </operation> 5 minutes . <operation ingredients="bouillon;vin"> mouillez </operation> avec le <ingredient action="mouiller" quantite="20 cl"> bouillon </ingredient> et le <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> blanc . laissez <operation> mijoter </operation> 10 minutes , puis jaoutez le <operation> concentré </operation> de <ingredient> tomates </ingredient> délayé avec 1 cuillère à soupe de bouillon . laissez <operation> cuire </operation> encore 5 minutes et servez .
+</preparation>
+</recette>

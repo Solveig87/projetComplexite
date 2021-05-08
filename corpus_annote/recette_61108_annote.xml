@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61108">
+<titre>Oeufs au plat de Zoé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs (calibre moyen)</p>
+<p>1 tomate</p>
+<p>2 oignons</p>
+<p>1 petite poignée de tiges de ciboulette</p>
+<p>2 tranches de jambon</p>
+<p>huile</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;oignons"> pelez </operation> les <ingredient action="peler" quantite="1"> tomates </ingredient> et les <ingredient action="peler" quantite="2"> oignons </ingredient> et <operation> coupez </operation> - les en petits dés , <operation ingredients="jambon;ciboulette"> coupez </operation> les tranches de <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> en petits morceaux et <operation> hachez </operation> finement la <ingredient action="couper"> ciboulette </ingredient> . dans une petite <operation> poêle </operation> , <operation ingredients="huile;sel"> mettez </operation> un filet d' <ingredient action="mettre" quantite=""> huile </ingredient> et le <ingredient action="mettre" quantite=""> sel </ingredient> . <operation> secouez </operation> - la pour qu' ils soient homogènement <operation> répartis </operation> . cassez les <ingredient quantite="3"> oeufs </ingredient> dans la <operation> poêle </operation> , <operation> recouvrez </operation> - les de garniture . <operation> mettez </operation> la <operation> poêle </operation> sur un feu vif , servez chaud . c' est meilleur quand les <ingredient action="cuire" quantite="3"> oeufs </ingredient> ne sont pas complètement <operation ingredients="oeufs"> cuits </operation> ! <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

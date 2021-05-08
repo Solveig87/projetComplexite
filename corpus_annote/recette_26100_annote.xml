@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26100">
+<titre>Gâteau de fête fourré au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour le gâteau :</p>
+<p>200 g de farine</p>
+<p>200 g de sucre</p>
+<p>100 g de beurre</p>
+<p>75 g de cacao en poudre non sucré</p>
+<p>15 cl de lait</p>
+<p>3 oeufs</p>
+<p>1 cuillère à soupe de levure en poudre</p>
+<p>Pour le fourrage :</p>
+<p>300 g de crème fraîche</p>
+<p>2 cuillères à soupe de sucre glace</p>
+<p>Pour le glaçage :</p>
+<p>75 g de crème fraîche</p>
+<p>200 g de chocolat fondant</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat 6 / 7 ) . <operation ingredients="lait"> préparer </operation> un <ingredient action="préparer" quantite="15 cl"> lait </ingredient> chocolaté dans une casserole , en <operation ingredients="lait;cacao"> mélangeant </operation> le <ingredient action="mélanger" quantite="15 cl"> lait </ingredient> et le <ingredient action="mélanger" quantite="75 gramme"> cacao </ingredient> . <operation ingredients="beurre"> ramollir </operation> légèrement le <ingredient action="ramollir" quantite="100 gramme"> beurre </ingredient> et le <operation ingredients="sucre;oeufs"> mélanger </operation> vigoureusement au <ingredient action="mélanger" quantite="200 gramme+2 cuillère à soupe"> sucre </ingredient> et aux <ingredient action="mélanger" quantite="3"> oeufs </ingredient> . <operation ingredients="lait;farine"> incorporer </operation> le <ingredient action="incorporer" quantite="15 cl"> lait </ingredient> chocolaté et la <ingredient action="incorporer" quantite="200 gramme"> farine </ingredient> . <operation ingredients="ronds"> beurrer </operation> et <operation> fariner </operation> trois <operation> moules </operation> <ingredient action="beurrer"> ronds </ingredient> de 18 cm de diamètre . <operation> verser </operation> la préparation dans chaque <operation> moule </operation> et faire <operation> cuire </operation> au four pendant 30 min . laisser refroidir et <operation> démouler </operation> . pendant ce temps , <operation ingredients="crème;sucre;glace"> fouetter </operation> la <ingredient action="fouetter" quantite="300 gramme+75 gramme"> crème </ingredient> fraîche et le <ingredient action="fouetter" quantite="200 gramme+2 cuillère à soupe"> sucre </ingredient> <ingredient action="fouetter"> glace </ingredient> . <operation ingredients="chantilly;gâteaux"> tartiner </operation> cette <ingredient action="tartiner"> chantilly </ingredient> sur le dessus de deux des <ingredient action="tartiner"> gâteaux </ingredient> . puis <operation ingredients="gâteaux"> superposer </operation> les trois <ingredient action="superposer"> gâteaux </ingredient> . faire refroidir le tout au réfrigérateur pendant 1 h. faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> <operation> concassé </operation> au bain - marie et <operation ingredients="crème"> ajouter </operation> le reste de <ingredient action="ajouter" quantite="300 gramme+75 gramme"> crème </ingredient> fraîche . <operation ingredients="gâteau"> recouvrir </operation> le <ingredient action="recouvrir"> gâteau </ingredient> de ce glaçage et le replacer dans le réfrigérateur jusqu' au moment de servir .
+</preparation>
+</recette>

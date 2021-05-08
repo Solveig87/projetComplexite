@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56327">
+<titre>Poulet à la cubaine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 cuisses de poulet fermier</p>
+<p>2 grosses oranges à jus</p>
+<p>1 pamplemousse</p>
+<p>2 cuillères à soupe de ciboulette</p>
+<p>6 gousses d'ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> poser </operation> les cuisses de <ingredient action="poser"> poulet </ingredient> dans un plat allant au four . <operation ingredients="jus;pamplemousse"> arroser </operation> du <ingredient action="arroser"> jus </ingredient> des oranges et du <ingredient action="arroser" quantite="1"> pamplemousse </ingredient> . <operation ingredients="ail"> emincer </operation> l' <ingredient action="emincer"> ail </ingredient> . <operation ingredients="ail;ciboulette"> saupoudrer </operation> l' <ingredient action="saupoudrer"> ail </ingredient> et la <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> ciboulette </ingredient> sur les cuisses . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mariner </operation> 12 h en <operation> retournant </operation> les cuisses une fois . <operation> cuire </operation> à 180 <operation> ° </operation> environ une heure en <operation> arrosant </operation> de temps en temps et jusqu' à ce que les cuisses soient bien dorées . servir les cuisses et la sauce à part avec du <ingredient> riz </ingredient> . ps : pour avoir une belle sauce , n' hésitez pas pendant la cuisson à <operation ingredients="jus"> rajouter </operation> de l' eau ou du <ingredient action="rajouter"> jus </ingredient> d' orange . normalement , cette recette est réalisée avec des <ingredient quantite="2"> oranges </ingredient> amères . si vous en trouvez tant mieux , sinon les <ingredient quantite="2"> oranges </ingredient> et le <ingredient quantite="1"> pamplemousse </ingredient> conviennent tout à fait .
+</preparation>
+</recette>

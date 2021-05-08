@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11697">
+<titre>Sucre à la crème</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 tasse de crème à 35%</p>
+<p>1 tasse de sucre blanc</p>
+<p>1 tasse de sucre brun</p>
+<p>1 cuillère à café de vanille</p>
+<p>1 cuillère à café de beurre de cacahuètes</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;sucre;crème"> mélanger </operation> le <ingredient action="mélanger"> sucre </ingredient> brun , le <ingredient action="mélanger"> sucre </ingredient> blanc et la <ingredient action="mélanger"> crème </ingredient> dans un plat allant au micro-ondes . <operation> cuire </operation> à forte puissance au micro-onde pendant 11 minutes , en <operation> mélangeant </operation> deux fois pendant la cuisson . <operation ingredients="beurre"> incorporer </operation> ensuite le <ingredient action="incorporer" quantite="1 cuillère à café"> beurre </ingredient> de cacahouètes et la vanille . bien <operation> mélanger </operation> , <operation> verser </operation> dans un plat <operation> recouvert </operation> de papier ciré et <operation> réfrigérer </operation> . aucun
+</preparation>
+</recette>

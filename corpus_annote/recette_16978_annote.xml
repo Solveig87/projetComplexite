@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16978">
+<titre>Morue à la  créole</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de morue salée</p>
+<p>4 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 grande boîte de tomates pelées</p>
+<p>4 cuil à soupe d'huile d'arachide</p>
+<p>1 pointe de piment de cayenne</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+commencez par faire <operation ingredients="morue"> tremper </operation> les filets de <ingredient action="tremper" quantite="800 gramme"> morue </ingredient> <operation> salée </operation> dans de l' eau fraîche pendant 12 h. <operation> egouttez </operation> et <operation> rincez </operation> . <operation> mettez </operation> - les dans une sauteuse et <operation> recouvrez </operation> d' eau froide , <operation> portez </operation> à <operation> ébullition </operation> puis <operation> éteignez </operation> le gaz , <operation> couvrez </operation> et laissez <operation> pocher </operation> 10 mn . <operation ingredients="gousses"> préparez </operation> maintenant la sauce en <operation> pelant </operation> et <operation ingredients="oignons"> éminçant </operation> les <ingredient action="émincer" quantite="4"> oignons </ingredient> , les <ingredient action="préparer" quantite="2"> gousses </ingredient> d' ail et faites <operation> frire </operation> dans une poële . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter"> tomates </ingredient> , le piment , <operation> salez </operation> et <operation> poivrez </operation> . laissez <operation ingredients="jus"> cuire </operation> jusqu' à évaporation du <ingredient action="cuire"> jus </ingredient> de tomates . <operation> egouttez </operation> les filets de <ingredient quantite="800 gramme"> morue </ingredient> , <operation ingredients="chair"> détachez </operation> la <ingredient action="détacher"> chair </ingredient> , <operation ingredients="morue"> mélangez </operation> la <ingredient action="mélanger" quantite="800 gramme"> morue </ingredient> à la sauce . <operation ingredients="légumes"> accompagnez </operation> de <ingredient action="accompagner" quantite="4"> légumes </ingredient> , riz et haricots rouges .
+</preparation>
+</recette>

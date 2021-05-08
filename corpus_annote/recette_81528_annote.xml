@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81528">
+<titre>Mijoté de lentilles d'automne à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de lentilles</p>
+<p>300 g de chair à saucisse</p>
+<p>1 carotte</p>
+<p>1 pomme</p>
+<p>1 pomme de terre </p>
+<p>1 oignon</p>
+<p>2 gousses d ail</p>
+<p>1 cube de bouillon de légumes</p>
+<p>persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une grosse casserole d' eau froide , <operation ingredients="bouillon;lentilles;pomme;pomme"> mettre </operation> le cube de <ingredient action="mettre"> bouillon </ingredient> de légumes , les <ingredient action="mettre" quantite="200 gramme"> lentilles </ingredient> , la <ingredient action="couper" quantite="1"> carotte </ingredient> <operation ingredients="carotte"> coupée </operation> en rondelles , la <ingredient action="mettre" quantite="1+1"> pomme </ingredient> et la <ingredient action="mettre" quantite="1+1"> pomme </ingredient> de terre <operation> coupées </operation> en gros dés . <operation> assaisonner </operation> . faire <operation> cuire </operation> pendant 20 min . <operation> goûter </operation> pour vérifier la cuisson ( la <ingredient quantite="200 gramme"> lentille </ingredient> doit être tendre mais pas pâteuse ) , puis les <operation> égoutter </operation> . dans une sauteuse faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> puis <operation ingredients="chair"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> chair </ingredient> à saucisse , l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail;persil"> écrasé </operation> et le <ingredient action="écraser" quantite=""> persil </ingredient> . faire <operation ingredients="viande"> colorer </operation> la <ingredient action="colorer" quantite="300 gramme"> viande </ingredient> avant de <operation ingredients="lentilles"> rajouter </operation> les <ingredient action="rajouter" quantite="200 gramme"> lentilles </ingredient> . bien <operation> mélanger </operation> , puis <operation> ajouter </operation> un verre d' eau et laisser <operation> mijoter </operation> à <operation> couvert </operation> , à feu moyen pendant 10 min . il ne reste plus qu' à se régaler .
+</preparation>
+</recette>

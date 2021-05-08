@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58388">
+<titre>Soupe froide carotte, céleri, tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes</p>
+<p>1 demi céleri rave</p>
+<p>2 tomates</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carottes;bouillon"> cuire </operation> les <ingredient action="cuire" quantite="4"> carottes </ingredient> dans un <ingredient action="cuire"> bouillon </ingredient> de legumes , les sortir , <operation ingredients="bouillon"> réserver </operation> le <ingredient action="réserver"> bouillon </ingredient> . <operation ingredients="tomates;céleri"> mixer </operation> à part les <ingredient action="mixer" quantite="2"> tomates </ingredient> et le <ingredient action="mixer"> céleri </ingredient> . <operation ingredients="bouillon;carottes"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> et les <ingredient action="ajouter" quantite="4"> carottes </ingredient> . <operation> mixer </operation> servir très froid . petit plus : <operation ingredients="tabasco;oignon"> mettre </operation> du <ingredient action="mettre"> tabasco </ingredient> ou de l' <ingredient action="mettre"> oignon </ingredient> pour relever le goût . rosé de provance
+</preparation>
+</recette>

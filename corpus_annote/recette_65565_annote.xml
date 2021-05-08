@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65565">
+<titre>Penne jambon fumé et roquette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de jambon fumé</p>
+<p>2 poignées de roquette</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>poivre et sel</p>
+<p>2 grandes tasses de penne (petites pâtes)</p>
+<p>1 cuillère à soupe de vinaigre balsamique</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>du parmesan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans un casserole d' eau bouillante . faire <operation ingredients="huile"> revenir </operation> dans un peur d' <ingredient action="revenir" quantite="1 cuillère à soupe+1 cuillère à soupe"> huile </ingredient> le jambon <operation> coupé </operation> en morceaux , <operation> poivrer </operation> et <operation ingredients="roquette"> ajouter </operation> une poignée de <ingredient action="ajouter"> roquette </ingredient> . lorsque les <ingredient action="cuire"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> , les <operation> égoutter </operation> et les <operation ingredients="jambon"> mélanger </operation> à la préparation au <ingredient action="mélanger" quantite="4 tranche"> jambon </ingredient> . <operation> dresser </operation> tout de suite dans les assiettes , <operation ingredients="roquette;huile;vinaigre"> ajouter </operation> par dessus de la <ingredient action="ajouter"> roquette </ingredient> fraîche , de l' <ingredient action="ajouter" quantite="1 cuillère à soupe+1 cuillère à soupe"> huile </ingredient> d' olive et du <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> . servez avec du <ingredient quantite=""> parmesan </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39897">
+<titre>Poulet et macaroni au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs de poulet</p>
+<p>1 gros oignon</p>
+<p>1 belle carotte</p>
+<p>2 gousses d'ail</p>
+<p>20 cl de crème fraîche allégée</p>
+<p>1 cube de bouillon de volaille</p>
+<p>curry</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+<p>200 g de macaroni</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en dés . <operation ingredients="oignon;carotte;ail"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> , la <ingredient action="hacher" quantite="1"> carotte </ingredient> et l' <ingredient action="hacher"> ail </ingredient> , et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . laisser <operation> colorer </operation> , puis <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> , et <operation ingredients="curry"> saupoudrer </operation> généreusement de <ingredient action="saupoudrer" quantite=""> curry </ingredient> . laisser <operation> dorer </operation> quelques minutes , puis <operation ingredients="bouillon"> arroser </operation> avec le cube de <ingredient action="arroser"> bouillon </ingredient> <operation> dilué </operation> dans 10 cl d' eau chaude . <operation ingredients="crème"> ajouter </operation> la brique de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . laisser <operation> mijoter </operation> pendant 10 à 15 minutes . pendant ce temps , faire <operation ingredients="macaroni"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> macaroni </ingredient> , les <operation> égoutter </operation> , et les <operation ingredients="poulet"> incorporer </operation> à la préparation au <ingredient action="incorporer"> poulet </ingredient> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="2;;;;"> assaisonnement </ingredient> si nécessaire , et servir chaud . on peut <operation ingredients="légumes;céleri;sel"> rajouter </operation> aux <ingredient action="rajouter" quantite="1;1;20 cl"> légumes </ingredient> <operation> hachés </operation> une petite branche de <ingredient action="rajouter"> céleri </ingredient> , ou plus rapide du <ingredient action="rajouter" quantite=""> sel </ingredient> de céleri . attention au <ingredient quantite=""> sel </ingredient> , penser à la présence du <ingredient> bouillon </ingredient> de volaille
+</preparation>
+</recette>

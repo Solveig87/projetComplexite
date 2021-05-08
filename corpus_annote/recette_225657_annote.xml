@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225657">
+<titre>Lasagnes poulet et poivrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 paquet de pâtes à lasagnes</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>2 oignons</p>
+<p>4 blancs de poulet</p>
+<p>1 petite boite de concentré de tomate</p>
+<p>1 verre d'eau </p>
+<p>1 cuillère à café de curry ( facultatif)</p>
+<p>150 g de gruyère râpé</p>
+<p>sel, poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en dés et les faire <operation> revenir </operation> dans une <operation> poêle </operation> <operation> huilée </operation> . <operation> emincer </operation> les <ingredient quantite="2"> oignons </ingredient> , <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en dés et faire <operation> revenir </operation> le tout dans une sauteuse sans les faire <operation> colorer </operation> . <operation ingredients="poulet;légumes;épices"> mélanger </operation> le <ingredient action="mélanger"> poulet </ingredient> et les <ingredient action="mélanger" quantite="2"> légumes </ingredient> , <operation ingredients="tomates"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> , le verre d' eau et les <ingredient action="mélanger" quantite="1 cuillère à café;;"> épices </ingredient> . <operation> beurrer </operation> un plat allant au four y <operation> disposer </operation> des <operation> plaques </operation> à lasagne . <operation ingredients="poulet"> recouvrir </operation> avec la préparation <ingredient action="recouvrir"> poulet </ingredient> et poivrons , recommencer l' opération en terminant par une couche des <operation> plaques </operation> à lasagne et <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="150 gramme"> gruyère </ingredient> râpé . faire <operation> cuire </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant environ 30 minutes . un <ingredient> vin </ingredient> rosé
+</preparation>
+</recette>

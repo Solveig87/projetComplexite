@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80728">
+<titre>Lapin aux oignons et à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin coupé en morceaux</p>
+<p>4 gros oignons</p>
+<p>1/2 pot de moutarde</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> mettre </operation> le <ingredient action="mettre" quantite="1"> lapin </ingredient> <operation ingredients="huile"> coupé </operation> en morceaux ainsi que de l' <ingredient action="couper" quantite=""> huile </ingredient> d' olive dans une cocotte . faire <operation> cuire </operation> 30 min . pendant ce temps , <operation ingredients="oignon"> pelez </operation> l' <ingredient action="peler" quantite="4"> oignon </ingredient> et le faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . lorsque le <ingredient action="cuire" quantite="1"> lapin </ingredient> a <operation ingredients="lapin"> cuit </operation> pendant 30 min <operation ingredients="oignons"> rajoutez </operation> - y les <ingredient action="rajouter" quantite="4"> oignons </ingredient> . puis faire <operation> cuire </operation> 15 min . ensuite <operation ingredients="moutarde"> ajoutez </operation> la <ingredient action="ajouter"> moutarde </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> et laissez <operation> mijotez </operation> 15 min de plus . servir chaud et <operation ingredients="pommes"> accompagné </operation> d' une bonne purée de <ingredient action="accompagner"> pommes </ingredient> de terres .
+</preparation>
+</recette>

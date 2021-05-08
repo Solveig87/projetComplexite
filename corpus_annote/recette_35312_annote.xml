@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35312">
+<titre>Gratin du boucher</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de viande hachée</p>
+<p>4 pommes de terre</p>
+<p>1 verrine de sauce tomate</p>
+<p>300 g d'oignons</p>
+<p>2 échalotes</p>
+<p>100 g de gruyère râpé</p>
+<p>quelques olives vertes</p>
+<p>quelques câpres</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 noix de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="oignons;échalotes"> peler </operation> et <operation> émincer </operation> les <ingredient action="peler" quantite="300 gramme"> oignons </ingredient> et les <ingredient action="peler" quantite="2"> échalotes </ingredient> . <operation> eplucher </operation> les <ingredient quantite="4"> pommes </ingredient> de terre , les <operation> couper </operation> en rondelles et les faire <operation ingredients="noix"> revenir </operation> à la <operation> poêle </operation> dans une <ingredient action="revenir" quantite="1"> noix </ingredient> de beurre environ 10 à 15 min . <operation> beurrer </operation> un plat allant au four et <operation ingredients="pommes;viande;oignons"> disposer </operation> une couche de rondelles de <ingredient action="disposer" quantite="4"> pommes </ingredient> de terre , une couche de <ingredient action="disposer" quantite="500 gramme"> viande </ingredient> crue et une couche d' <ingredient action="disposer" quantite="300 gramme"> oignons </ingredient> . <operation> napper </operation> de sauce tomate , <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> gruyère </ingredient> râpé , <operation ingredients="olives;câpres"> parsemer </operation> d' <ingredient action="parsemer" quantite="quelque"> olives </ingredient> et de <ingredient action="parsemer" quantite="quelque"> câpres </ingredient> . <operation> remplir </operation> le plat en alternant les couches et en salant et <operation> poivrant </operation> à chaque fois . <operation ingredients="noisettes"> parsemer </operation> le dessus du plat de <ingredient action="parsemer"> noisettes </ingredient> de beurre , <operation ingredients="huile"> arroser </operation> d' <ingredient action="arroser" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et faire <operation> cuire </operation> au four 30 min .
+</preparation>
+</recette>

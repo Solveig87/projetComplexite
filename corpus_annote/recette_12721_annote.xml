@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12721">
+<titre>Poulet à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>1 barquette de lardons</p>
+<p>5 champignons de paris frais</p>
+<p>3 gros oignons</p>
+<p>4 oranges</p>
+<p>sel et poivre</p>
+<p>herbes de provence</p>
+<p>1 demi-citron</p>
+</ingredients>
+<preparation>
+faire braiser le <ingredient> poulet </ingredient> dans du <ingredient> beurre </ingredient> , puis le <operation> réserver </operation> sur une assiette . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="3"> oignons </ingredient> , y <operation ingredients="champignons;lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> champignons </ingredient> puis les <ingredient action="ajouter"> lardons </ingredient> . zester une des <ingredient quantite="4"> oranges </ingredient> et <operation> presser </operation> les quatre . <operation ingredients="poulet;oignons"> remettre </operation> les blancs de <ingredient action="remettre"> poulet </ingredient> sur le lit d' <ingredient action="remettre" quantite="3"> oignons </ingredient> / lardons , <operation ingredients="jus"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> d' orange et <operation> mettre </operation> les zests par dessus . <operation> saler </operation> et <operation> poivrer </operation> légèrement , puis <operation> presser </operation> le demi-citron . <operation ingredients="confire"> laisser </operation> <operation> réduire </operation> afin de aire <ingredient action="laisser"> confire </ingredient> les oignons . servir <operation ingredients="pommes"> accompagné </operation> de <ingredient action="accompagner"> pommes </ingredient> de terre <operation> cuites </operation> au four : <operation ingredients="pommes"> cuire </operation> 10 minutes les <ingredient action="cuire"> pommes </ingredient> de terre à l' eau , les <operation> couper </operation> en 4 dans le sens de la longeur , puis les <operation> ranger </operation> sur le dos dans le lèche frite du four en <operation ingredients="huile"> arrosant </operation> légèrement d' <ingredient action="arroser"> huile </ingredient> d' arachide , pour finalement les laisser <operation> cuire </operation> 20 à 25 mn .
+</preparation>
+</recette>

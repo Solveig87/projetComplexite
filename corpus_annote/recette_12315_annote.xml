@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12315">
+<titre>Galettes de pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 grosses pommes de terre</p>
+<p>2 cuillères à soupe rases de farine </p>
+<p>1 oeuf</p>
+<p>2 oignons</p>
+<p>1 botte de ciboulette </p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="pommes"> lavez </operation> les <ingredient action="laver" quantite="6"> pommes </ingredient> de terre . <operation ingredients="oignons"> râpez </operation> - les très finement avec les <ingredient action="râpez" quantite="2"> oignons </ingredient> . <operation> enlevez </operation> l' eau en <operation> pressant </operation> dans les mains . <operation> mettez </operation> - les dans une terrine . <operation ingredients="sel;oeuf;ciboulette"> ajoutez </operation> <ingredient action="ajouter"> sel </ingredient> , poivre , farine , l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , ainsi que la <ingredient action="ajouter"> ciboulette </ingredient> <operation> ciselée </operation> . <operation ingredients="galettes"> façonnez </operation> à la main des <ingredient action="façonner"> galettes </ingredient> de 1 cm d' épaisseur avec cette préparation . faites <operation ingredients="huile"> frire </operation> à l' <ingredient action="frire" quantite=""> huile </ingredient> des deux côtés , dans une <operation> poêle </operation> bien chaude , 10 minutes de chaque côté . a servir en <operation> accompagnement </operation> d' une <ingredient> viande </ingredient> , ou à déguster seules avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28717">
+<titre>Carpaccio de boeuf</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de filet de boeuf (coupé très fin par le boucher) </p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 bouquet de ciboulette</p>
+<p>1 citron</p>
+<p>30 g de parmesan râpé</p>
+<p>1 poignée de baies roses</p>
+<p>1 poignée de graines de coriandre</p>
+<p>1 oignon nouveau (cébette...) </p>
+</ingredients>
+<preparation>
+étaler les tranches de <ingredient> boeuf </ingredient> sur un plat ( sans qu' elles se chevauchent ) . <operation ingredients="jus;huile;viande"> verser </operation> le <ingredient action="verser"> jus </ingredient> du citron et l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> d' olive , sur la <ingredient action="verser"> viande </ingredient> . <operation ingredients="coriandre;oignon"> ajouter </operation> les baies roses , les graines de <ingredient action="ajouter"> coriandre </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> haché finement . et <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="30 gramme"> parmesan </ingredient> . laisser <operation> mariner </operation> au moins 2 heures . au moment de servir , <operation ingredients="ciboulette"> ajouter </operation> la <ingredient action="ajouter"> ciboulette </ingredient> finement <operation> ciselée </operation> . ce plat peut également être servi en plat principal ( en augmentant un peu les quantités ) <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> de roquette au vinaigre balsamique et de frites maison .
+</preparation>
+</recette>

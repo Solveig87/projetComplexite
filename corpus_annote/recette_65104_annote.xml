@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65104">
+<titre>M'selmen</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de semoule fine</p>
+<p>1 cuillère à café de sel</p>
+<p>200 g de miel</p>
+<p>huile</p>
+<p>40 cl d'eau</p>
+</ingredients>
+<preparation>
+dans une terrine , <operation ingredients="semoule;sel"> mélanger </operation> la <ingredient action="mélanger"> semoule </ingredient> avec le <ingredient action="mélanger" quantite="1 cuillère à café"> sel </ingredient> et l' eau . <operation> pétrir </operation> en <operation> rajoutant </operation> peu à peu de l' eau jusqu' à obtenir une <ingredient> pâte </ingredient> souple et élastique . avec les mains <operation> huilées </operation> , <operation ingredients="mandarine"> former </operation> des boules de la grosseur d' une <ingredient action="former"> mandarine </ingredient> et laisser <operation> reposer </operation> 10 min environ . <operation> aplatir </operation> chaque boule et l' <operation> étirer </operation> dans tous les sens afin d' obtenir un rectangle transparent . <operation action="plier" ingredients="plier"> plier </operation> le rectangle en 4 , le <operation ingredients="huile"> plonger </operation> dans une <ingredient action="plonger" quantite=""> huile </ingredient> de friture chaude , et lorsqu' il est doré , l' <operation> égoutter </operation> et le <operation ingredients="miel"> passer </operation> dans le <ingredient action="passer" quantite="200 gramme"> miel </ingredient> <operation> fondu </operation> . <ingredient> manger </ingredient> chaud .
+</preparation>
+</recette>

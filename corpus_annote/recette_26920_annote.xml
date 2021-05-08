@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26920">
+<titre>Steak haché au coulis de tomate et aux olives</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de boeuf haché</p>
+<p>1 oeuf</p>
+<p>2 oignons</p>
+<p>3 tomates</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>1 poivron rouge à l'huile</p>
+<p>50 g d'olives</p>
+<p>1 pincée de thym</p>
+<p>25 g de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;poivrons"> peler </operation> et <operation> émincer </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> , <operation> laver </operation> et <operation ingredients="tomates"> couper </operation> grossièrement les <ingredient action="couper" quantite="3"> tomates </ingredient> et les <ingredient action="peler"> poivrons </ingredient> . enfin , <operation ingredients="olives"> blanchir </operation> les <ingredient action="blanchir" quantite="50 gramme"> olives </ingredient> quelques minutes dans de l' eau bouillante . faire <operation ingredients="oignons"> fondre </operation> les <ingredient action="fondre" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans 2 cuillères à soupe d' huile d' olive . <operation ingredients="tomates;bouquet"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> <operation> concassées </operation> , l' <ingredient action="hacher"> ail </ingredient> <operation ingredients="ail"> haché </operation> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . laisser <operation> mijoter </operation> 40 minutes puis <operation ingredients="olives;poivron"> incorporer </operation> les <ingredient action="incorporer" quantite="50 gramme"> olives </ingredient> et le <ingredient action="incorporer"> poivron </ingredient> . <operation ingredients="viande;oeuf"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> viande </ingredient> à l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> entier et <operation ingredients="thym;sel;poivre"> assaisonner </operation> de <ingredient action="assaisonner" quantite="1 pincée"> thym </ingredient> , de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation ingredients="steaks"> former </operation> 4 <ingredient action="former"> steaks </ingredient> et les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite="25 gramme"> farine </ingredient> . faire <operation ingredients="steaks;huile"> cuire </operation> les <ingredient action="cuire"> steaks </ingredient> dans un peu d' <ingredient action="cuire" quantite="4 cuillère à soupe"> huile </ingredient> chaude jusqu' à la cuisson désirée et les servir <operation> nappés </operation> de sauce .
+</preparation>
+</recette>

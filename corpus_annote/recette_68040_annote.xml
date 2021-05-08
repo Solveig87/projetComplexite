@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68040">
+<titre>Gratin de bar</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 bars</p>
+<p>10 échalotes</p>
+<p>30 cl de crème fraîche épaisse</p>
+<p>1 verre de muscadet</p>
+<p>20 g de farine</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bars;bouillon"> cuire </operation> les <ingredient action="cuire" quantite="2"> bars </ingredient> au court <ingredient action="cuire"> bouillon </ingredient> . les <operation> dépioter </operation> ( garder les morceaux sans arretes ) . les <operation ingredients="muscadet;farine"> mettre </operation> dans le fond d' une terrine sauce : dans une casserole <operation ingredients="crème"> mettre </operation> de la <ingredient action="mettre" quantite="30 cl"> crème </ingredient> fraîche , les échalottes <operation> emincées </operation> , le <ingredient action="mettre" quantite="1 verre"> muscadet </ingredient> , et la <ingredient action="mettre" quantite="20 gramme"> farine </ingredient> + sel + poivre . la sauce doit avoir une consistance de <ingredient> béchamel </ingredient> . <operation ingredients="poisson"> recouvrir </operation> de la sauce les morceaux de <ingredient action="recouvrir" quantite="2"> poisson </ingredient> dans la terrine . <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> rapé . on peut aussi <operation ingredients="citron"> ajouter </operation> du <ingredient action="ajouter"> citron </ingredient> dans la sauce . a savourer chaud , <operation ingredients="pommes;riz"> accompagné </operation> de <ingredient action="accompagner"> pommes </ingredient> de terre ou de <ingredient action="accompagner"> riz </ingredient> . un bon riesling .
+</preparation>
+</recette>

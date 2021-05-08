@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62289">
+<titre>Emincé de poulet à la crème de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>150 g d'échalote finement hachée</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à café de gingembre râpé</p>
+<p>3 cuillères à café de curry en poudre</p>
+<p>80 cl de crème de coco</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalotes"> hacher </operation> finement les <ingredient action="hacher"> échalotes </ingredient> et <operation ingredients="gingembre"> râper </operation> le <ingredient action="râper"> gingembre </ingredient> . faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive sans les laisser roussir . pendant ce temps , <operation ingredients="escalopes"> émincer </operation> les <ingredient action="émincer" quantite="6"> escalopes </ingredient> de poulet . <operation> réserver </operation> . une fois les <ingredient action="ajouter"> échalotes </ingredient> et le <ingredient action="ajouter"> gingembre </ingredient> dorés , <operation ingredients="échalotes;gingembre;lait"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> de coco et laisser <operation> chauffer </operation> . <operation ingredients="poulet;curry"> ajouter </operation> les morceaux de <ingredient action="ajouter"> poulet </ingredient> et le <ingredient action="ajouter" quantite="3 cuillère à café"> curry </ingredient> . <operation> assaisonner </operation> et laisser <operation> mijoter </operation> 35 à 40 minutes . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pommes </ingredient> vapeurs .
+</preparation>
+</recette>

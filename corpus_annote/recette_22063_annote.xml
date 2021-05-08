@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22063">
+<titre>Gigot Brissac (restes de gigot)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 reste de gigot d'agneau</p>
+<p>15 g de beurre pour la cuisson</p>
+<p>4 échalotes</p>
+<p>persil frais</p>
+<p>vin (blanc sec ou rouge ordinaire) </p>
+<p>1 cuillerée à soupe rase de farine</p>
+<p>1 cuillère à soupe d'huile d'olive (facultatif)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="échalotes"> hachez </operation> les <ingredient action="hacher" quantite="4"> échalotes </ingredient> . <operation ingredients="persil"> préparez </operation> et <operation> hachez </operation> le <ingredient action="préparer" quantite=""> persil </ingredient> . <operation ingredients="viande"> découpez </operation> la <ingredient action="découper"> viande </ingredient> de gigot restant sur l' os en lamelles peu épaisses . faites <operation ingredients="viande;beurre"> dorer </operation> ces lamelles de <ingredient action="dorer"> viande </ingredient> dans une <operation> poêle </operation> , avec un peu de <ingredient action="dorer" quantite="15 gramme"> beurre </ingredient> . <operation ingredients="échalotes;persil"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> échalotes </ingredient> et le <ingredient action="ajouter" quantite=""> persil </ingredient> haché ( ne lésinez pas trop sur le <ingredient quantite=""> persil </ingredient> ) . laissez à feu pas trop vif pendant 5 mn , en <operation> remuant </operation> de temps en temps . <operation ingredients="farine;viande"> ajoutez </operation> la cuillère de <ingredient action="ajouter"> farine </ingredient> en saupoudrant sur la <ingredient action="ajouter"> viande </ingredient> , <operation> mélangez </operation> . <operation ingredients="vin"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> vin </ingredient> ( blanc ou rouge , selon votre goût ; la quantité dépend de la <ingredient> viande </ingredient> : en gros entre la moitié et les 3 / 4 de la hauteur de <ingredient> viande </ingredient> dans la <operation> poêle </operation> ) . <operation> mélangez </operation> à la spatule de bois . <operation> salez </operation> et <operation> poivrez </operation> . laissez <operation> mijoter </operation> à <operation> couvert </operation> , à feu doux , pendant 10 à 15 mn . surveillez pour éviter de ' sécher ' le <ingredient quantite=""> vin </ingredient> , qui doit cependant <operation> réduire </operation> un peu ( vous devez obtenir une sauce onctueuse au terme de la cuisson ) . facultatif : <operation ingredients="huile"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive en fin de cuisson . servir bien chaud . cette recette permet d' utiliser la fin d' un <ingredient> gigot </ingredient> , qui n' est pas toujours très présentable quand on doit <operation> découper </operation> près de l' os . <operation> accompagnement </operation> suggéré : <ingredient> pommes </ingredient> <operation ingredients="flageolets"> sautées </operation> ou <ingredient action="sauter"> flageolets </ingredient> . rouge léger
+</preparation>
+</recette>

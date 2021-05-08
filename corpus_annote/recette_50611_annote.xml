@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50611">
+<titre>Tartine à l'Italienne : aubergine, tomate et mozzarella</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boite de dés de tomates</p>
+<p>4 grosses tranches d'aubergine précuites surgelées</p>
+<p>2 boules de mozzarella</p>
+<p>2 à 3 chèvres type rocamadour</p>
+<p>8 filets d'anchois marinés à l'huile</p>
+<p>1 gros pain de campagne</p>
+<p>1 ou 2 gousses d'ail</p>
+<p>huile d'olive</p>
+<p>origan ou herbes de Provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ail;huile"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive puis <operation ingredients="tomate;sel;poivre;origan"> ajouter </operation> la <ingredient action="ajouter"> tomate </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> , du <ingredient action="ajouter" quantite=""> poivre </ingredient> et un peu d' <ingredient action="ajouter" quantite=""> origan </ingredient> ou d' herbes de provence . laisser <operation> mijoter </operation> 10 minutes à feu doux . pendant ce temps , <operation ingredients="aubergines"> décongeler </operation> les tranches d' <ingredient action="décongeler"> aubergines </ingredient> et préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pain"> couper </operation> 4 grosses tartines de <ingredient action="couper" quantite="1"> pain </ingredient> et les <operation> poser </operation> sur une <operation> grille </operation> à four <operation> recouverte </operation> de papier sulfurisé . <operation ingredients="pain"> répartir </operation> la sauce tomate sur le <ingredient action="répartir" quantite="1"> pain </ingredient> , <operation ingredients="aubergines;mozzarella;chèvre"> recouvrir </operation> d' <ingredient action="recouvrir"> aubergines </ingredient> puis de morceaux de <ingredient action="recouvrir"> mozzarella </ingredient> et de <ingredient action="recouvrir"> chèvre </ingredient> . terminer en <operation ingredients="anchois"> déposant </operation> 2 filets d' <ingredient action="déposer"> anchois </ingredient> sur chaque tartine . <operation ingredients="salade"> enfourner </operation> pour 10 minutes de cuisson et servor avec une <ingredient action="enfourner"> salade </ingredient> au vinaigre balsamique . ces quantités conviennent aussi pour 2 personnes en formule " <ingredient> salade </ingredient> repas " ! pour une version végétarienne , omettre les <ingredient> anchois </ingredient> . vin rosé bien frais ou <ingredient> vin </ingredient> rouge léger
+</preparation>
+</recette>

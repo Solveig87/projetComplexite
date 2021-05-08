@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21617">
+<titre>Crème glacée aux abricots</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,2 kg d’abricots</p>
+<p>250 g de sucre glace</p>
+<p>200 g de crème fraîche</p>
+<p>1 poignée d’amandes effilées</p>
+</ingredients>
+<preparation>
+<operation> ebouillantez </operation> les <ingredient> abricots </ingredient> dans de l’ eau bouillante 1 minute et les <operation> peler </operation> immédiatement . <operation> enlever </operation> les noyaux et <operation ingredients="chair"> mixer </operation> la <ingredient action="mixer"> chair </ingredient> . dans un saladier , <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter" quantite="200 gramme"> crème </ingredient> fraîche et y <operation ingredients="sucre;glace;abricot"> incorporer </operation> le <ingredient action="incorporer" quantite="250 gramme"> sucre </ingredient> <ingredient action="incorporer"> glace </ingredient> et la purée d’ <ingredient action="incorporer"> abricot </ingredient> . faire <operation> glacer </operation> en sorbetière et <operation ingredients="amande"> couvrir </operation> d’ <ingredient action="couvrir"> amande </ingredient> au moment de servir .
+</preparation>
+</recette>

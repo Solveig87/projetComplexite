@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13286">
+<titre>Oeufs au lait</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait entier</p>
+<p>6 oeufs</p>
+<p>6 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+ne pas <operation> prechauffer </operation> le four ! ! ! faire <operation ingredients="lait;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="1 litre"> lait </ingredient> et le <ingredient action="chauffer" quantite="6 cuillère à soupe"> sucre </ingredient> jusqu' à <operation> ébullition </operation> . <operation ingredients="oeufs"> mélanger </operation> les <ingredient action="mélanger" quantite="6"> oeufs </ingredient> dans un bol . dans un plat ( qui va au four ) , <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre" quantite="1 litre"> lait </ingredient> <operation> sucré </operation> , puis <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> oeufs </ingredient> ( <operation> mélanger </operation> vite il faut éviter de <operation> cuire </operation> les jaunes ) . <operation> mettre </operation> au four respectivement : = > 20 minutes à thermostat 4 ( 120 <operation> ° </operation> c ) = > 10 minutes à thermostat 6 ( 180 <operation> ° </operation> c ) = > 5 minutes thermostat 8 ( 240 <operation> ° </operation> c ) bien respecter les temps de cuisson .
+</preparation>
+</recette>

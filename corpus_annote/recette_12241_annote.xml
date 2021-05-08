@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12241">
+<titre>Fondue au chocolat parfumée à l'Armagnac</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de chocolat noir</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>2 cuillères à soupe d'armagnac</p>
+<p>1 ananas</p>
+<p>2 poires</p>
+<p>2 bananes</p>
+<p>2 pommes</p>
+<p>4 brioches individuelles</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits;fruits"> pelez </operation> tous les <ingredient action="peler" quantite="1;2;2;2"> fruits </ingredient> et <operation> coupez </operation> - les en gros cubes ( ne faites pas cette opération trop tôt : les <ingredient action="peler" quantite="1;2;2;2"> fruits </ingredient> noirciraient ) . dans le poêlon d' un service à <operation> fondue </operation> , <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="4 cuillère à soupe"> crème </ingredient> fraîche . allumez et <operation> chauffez </operation> dans la position la plus basse . dès que la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> fond , <operation ingredients="crème;chocolat"> ajoutez </operation> le <ingredient action="ajouter" quantite="400 gramme"> chocolat </ingredient> cassé en petits morceaux . <operation ingredients="chocolat"> remuez </operation> jusqu' à l' obtention d' un <ingredient action="remuez" quantite="400 gramme"> chocolat </ingredient> <operation> fondu </operation> homogène . <operation ingredients="armagnac"> incorporez </operation> alors l' <ingredient action="incorporer" quantite="2 cuillère à soupe"> armagnac </ingredient> . chaque convive <operation ingredients="fruit;chocolat"> trempera </operation> 1 morceau de <ingredient action="tremper" quantite="1;2;2;2"> fruit </ingredient> dans le <ingredient action="tremper" quantite="400 gramme"> chocolat </ingredient> au gré de sa fantaisie et le dégustera avec un morceau de <ingredient quantite="4"> brioche </ingredient> .
+</preparation>
+</recette>

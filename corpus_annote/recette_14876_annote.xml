@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14876">
+<titre>Gratin de penne aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons (rouge et jaune)</p>
+<p>1 aubergine</p>
+<p>1 courgette</p>
+<p>huile d’olive</p>
+<p>2 gousses d’ail</p>
+<p>persil, herbes de provence</p>
+<p>sel, poivre</p>
+<p>250 g de penne</p>
+<p>200 g de sauce tomate</p>
+<p>300 g de mozzarella</p>
+<p>basilic frais</p>
+</ingredients>
+<preparation>
+<operation> epépiner </operation> et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper" quantite="2"> poivrons </ingredient> en morceaux . <operation ingredients="aubergine"> couper </operation> l’ <ingredient action="couper" quantite="1"> aubergine </ingredient> et la courgette en morceaux . <operation ingredients="huile"> mettre </operation> l’ <ingredient action="mettre" quantite=""> huile </ingredient> dans une casserole et <operation ingredients="légumes"> verser </operation> les <ingredient action="verser" quantite="2;1"> légumes </ingredient> . <operation> ajouter </operation> l’ <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;persil"> pressé </operation> , les fines herbes , le <ingredient action="presser" quantite=""> persil </ingredient> haché . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> cuire </operation> 30 mn en <operation> remuant </operation> de temps en temps . faire <operation ingredients="penne"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> penne </ingredient> ‘ al dente ’ dans de l’ eau <operation> salée </operation> . <operation ingredients="penne;légumes"> mélanger </operation> les <ingredient action="mélanger" quantite="250 gramme"> penne </ingredient> , les <ingredient action="mélanger" quantite="2;1"> légumes </ingredient> et la sauce tomate . <operation> verser </operation> dans un plat allant au four , puis <operation ingredients="mozzarella"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> mozzarella </ingredient> en dés sur le dessus . faire <operation> cuire </operation> 15 mn . servir chaud en <operation ingredients="basilic"> parsemant </operation> de <ingredient action="parsemer" quantite=""> basilic </ingredient> .
+</preparation>
+</recette>

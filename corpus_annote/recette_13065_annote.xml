@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13065">
+<titre>Civet de lapin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin coupé en 6 morceaux</p>
+<p>1 oignon</p>
+<p>1/2 tête d'ail</p>
+<p>1 tranche épaisse de pancetta</p>
+<p>persil</p>
+<p>sel, poivre</p>
+<p>2 grands verres de bon vin rouge</p>
+<p>facultatif : 1 verre de sang de lapin</p>
+<p>4 petites feuilles de laurier</p>
+<p>1 bonne pincée de thym</p>
+<p>2 cuillères à soupe de farine</p>
+<p>2 cuillères à soupe de cognac</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lapin;huile"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> lapin </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="oignon;ail;pancetta;foie"> hâcher </operation> ensemble l' <ingredient action="hâcher" quantite="1"> oignon </ingredient> , l' <ingredient action="hâcher"> ail </ingredient> , la <ingredient action="hâcher"> pancetta </ingredient> et le <ingredient action="hâcher"> foie </ingredient> du lapin . quand les morceaux de <ingredient action="flamber" quantite="1"> lapin </ingredient> sont bien dorés , les faire <operation ingredients="lapin;cognac"> flamber </operation> au <ingredient action="flamber" quantite="2 cuillère à soupe"> cognac </ingredient> . <operation> ajouter </operation> le hachis , et faire <operation> revenir </operation> en <operation> remuant </operation> à la cuillère de bois . <operation ingredients="vin;lapin"> ajouter </operation> le <ingredient action="ajouter"> vin </ingredient> et le sang de <ingredient action="ajouter" quantite="1"> lapin </ingredient> . laissez <operation> bouillir </operation> à <operation> couvert </operation> 10 mn . <operation ingredients="sel"> ajouter </operation> les aromates , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre , puis un grand verre d' eau chaude . <operation> mijoter </operation> à <operation> couvert </operation> 1 heure environ . le sang de <ingredient quantite="1"> lapin </ingredient> est facultatif , mais on en <operation> met </operation> traditionnellement dans un civet pour <operation> lier </operation> la sauce . gigondas ou côtes-du-rhone
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32130">
+<titre>Velouté de citrouille au thym</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre</p>
+<p>500 g de citrouille (en fait, à peu près la même quantité de citrouille que de pommes de terre)</p>
+<p>1 oignon</p>
+<p>6 brins de thym</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+dans une cocotte - minute , faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans un peu d' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="pommes;citrouille"> rajouter </operation> les <ingredient action="rajouter" quantite="8"> pommes </ingredient> de terre et la <ingredient action="rajouter" quantite="500 gramme"> citrouille </ingredient> <operation> coupées </operation> en morceaux . <operation ingredients="thym"> emietter </operation> les brins de <ingredient action="emietter"> thym </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> couvrir </operation> d' eau . fermer la cocotte . a partir du sifflement , laisser <operation> cuire </operation> 10 mn environ . lorsque les <ingredient action="cuire" quantite="8;500 gramme;1"> légumes </ingredient> sont <operation ingredients="légumes"> cuits </operation> , <operation> mixer </operation> la préparation et servir chaud .
+</preparation>
+</recette>

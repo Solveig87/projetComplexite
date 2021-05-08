@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16761">
+<titre>Pieds de couteaux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>couteaux (1 paquet vendu chez le poissonnier)</p>
+<p>persil</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="couteaux"> ouvrir </operation> les <ingredient action="ouvrir" quantite=""> couteaux </ingredient> , les <operation> passer </operation> sous l' eau , les tronçonner . les <operation> mettre </operation> à <operation ingredients="beurre;huile"> revenir </operation> dans une <operation> poêle </operation> avec du <ingredient action="revenir"> beurre </ingredient> et un peu d' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="échalotes;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> hachées ainsi que l' <ingredient action="ajouter"> ail </ingredient> . au bout de 15 mn , <operation ingredients="persil"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> <operation> haché </operation> et éventuellement une pincée de piment de cayenne . <operation> saler </operation> et <operation> poivrer </operation> . servir tel quel . on peut <operation ingredients="crème"> rajouter </operation> de la <ingredient action="rajouter"> crème </ingredient> et les servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

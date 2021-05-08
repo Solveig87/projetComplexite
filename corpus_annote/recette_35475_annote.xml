@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35475">
+<titre>Soupe gourmande à l'oseille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g d'oseille fraîche (ou surgelée) </p>
+<p>2 cuillères à soupe bombées de farine</p>
+<p>2 oeufs</p>
+<p>1 pot de crème fraîche de 20 cl (possibilité de prendre de la crème allégée) </p>
+<p>80 g de vermicelle</p>
+<p>1 cuillère à soupe de beurre</p>
+<p>1,5 litre d'eau</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oseille;beurre"> revenir </operation> l' <ingredient action="revenir" quantite="100 gramme"> oseille </ingredient> dans le <ingredient action="revenir" quantite="1 cuillère à soupe"> beurre </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> et bien <operation> remuer </operation> ( attention , la <ingredient> farine </ingredient> ne doit pas " <operation> cuire </operation> " ) . <operation> ajouter </operation> l' eau , <operation> remuer </operation> avec un fouet . dès le premier <ingredient> bouillon </ingredient> , <operation ingredients="vermicelle;soupe"> jeter </operation> le <ingredient action="jeter" quantite="80 gramme"> vermicelle </ingredient> dans la <ingredient action="jeter"> soupe </ingredient> , baisser le feu et laisser <operation> cuire </operation> le temps indiqué sur le paquet de <ingredient quantite="80 gramme"> vermicelle </ingredient> ( 4 à 6 mn en général ) . <operation ingredients="oeuf"> séparer </operation> le blanc des jaunes d' <ingredient action="séparer" quantite="2"> oeuf </ingredient> . dès que le <ingredient action="cuire" quantite="80 gramme"> vermicelle </ingredient> est <operation ingredients="vermicelle"> cuit </operation> , <operation ingredients="oeuf"> mettre </operation> les blancs d' <ingredient action="mettre" quantite="2"> oeuf </ingredient> et <operation> remuer </operation> afin qu' ils <operation> cuisent </operation> bien . dans un bol , <operation ingredients="oeufs;crème"> mélanger </operation> les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="1 pot"> crème </ingredient> fraîche . dès que les blancs d' <ingredient action="cuire" quantite="2"> oeuf </ingredient> sont <operation ingredients="oeuf"> cuits </operation> et hors du feu , <operation ingredients="oeuf"> rajouter </operation> le <operation> mélange </operation> jaunes d' <ingredient action="rajouter" quantite="2"> oeuf </ingredient> / crème fraîche . <operation ingredients="assaisonnement;soupe"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> , et à la <ingredient action="rectifier"> soupe </ingredient> ! ! il est possible de <operation ingredients="soupe;cresson"> faire </operation> cette <ingredient action="faire"> soupe </ingredient> avec du <ingredient action="faire"> cresson </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23309">
+<titre>Omelette de pommes de terre au comté</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 oeufs</p>
+<p>450 g de pommes de terre cuites</p>
+<p>150 g de comté</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>45 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> détailler </operation> les <ingredient action="détailler" quantite="450 gramme"> pommes </ingredient> de terre en dés et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> chaude . lorsqu' elles sont <operation> dorées </operation> , baisser le feu , <operation> couvrir </operation> et laisser <operation> cuire </operation> 20 minutes . <operation ingredients="fromage"> couper </operation> le <ingredient action="couper"> fromage </ingredient> en fines lamelles . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> en omelette , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> . <operation ingredients="beurre;pommes"> incorporer </operation> le <ingredient action="incorporer" quantite="45 gramme"> beurre </ingredient> dans les <ingredient action="incorporer" quantite="450 gramme"> pommes </ingredient> de terre puis <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="12"> oeufs </ingredient> . laisser <operation> cuire </operation> jusqu' à ce que l' omelette soit prise .
+</preparation>
+</recette>

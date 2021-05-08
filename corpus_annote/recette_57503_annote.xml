@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57503">
+<titre>Omelette à la tomate et à la pomme</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tomate</p>
+<p>1 pomme</p>
+<p>2 oeufs</p>
+<p>sel, poivre, paprika</p>
+<p>1 cuillère à café d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à café"> huile </ingredient> dans une <operation> poêle </operation> anti-adhésive . pendant ce temps , <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en petites rondelles . faire <operation ingredients="tomate"> cuire </operation> la <ingredient action="cuire" quantite="1"> tomate </ingredient> . <operation ingredients="pomme"> peler </operation> la <ingredient action="peler" quantite="1"> pomme </ingredient> et la <operation> couper </operation> en quartiers fins . <operation ingredients="pomme;tomate"> rajouter </operation> la <ingredient action="rajouter" quantite="1"> pomme </ingredient> à la <ingredient action="rajouter" quantite="1"> tomate </ingredient> . <operation ingredients="oeufs"> battre </operation> 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="paprika"> rajouter </operation> un peu de <ingredient action="rajouter" quantite=""> paprika </ingredient> . les <operation ingredients="pomme;tomate"> rajouter </operation> à la <ingredient action="rajouter" quantite="1"> pomme </ingredient> et la <ingredient action="rajouter" quantite="1"> tomate </ingredient> .
+</preparation>
+</recette>

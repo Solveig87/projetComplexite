@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49135">
+<titre>Terrine de thon aux petits pois</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boite de thon au naturel</p>
+<p>100 g de petits pois surgelés</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>1 cuillère à café de moutarde à l'ancienne</p>
+<p>4 cuillères à soupe de mayonnaise</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pois"> cuire </operation> les petits <ingredient action="cuire" quantite="100 gramme"> pois </ingredient> pendant 5 min à la vapeur . <operation> egoutter </operation> le <ingredient action="effeuiller"> thon </ingredient> en boîte et l' <operation ingredients="thon"> effeuiller </operation> à la fourchette dans un grand saladier . y <operation ingredients="pois;mayonnaise;moutarde;persil;sel"> incorporer </operation> les petits <ingredient action="incorporer" quantite="100 gramme"> pois </ingredient> , la <ingredient action="incorporer" quantite="4 cuillère à soupe"> mayonnaise </ingredient> , la <ingredient action="incorporer" quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient action="incorporer" quantite="3 cuillère à soupe"> persil </ingredient> , le <ingredient action="incorporer" quantite=""> sel </ingredient> et 5 tours de moulin à poivre . <operation> verser </operation> la préparation dans une terrine , tasser et <operation> lisser </operation> la surface . <operation> placer </operation> au réfrigérateur pendant 2 heures au moins avant de servir en tranches . c' est une entrée très facile à réaliser et fraîche pour l' été . <ingredient> vin </ingredient> blanc type <ingredient> muscadet </ingredient>
+</preparation>
+</recette>

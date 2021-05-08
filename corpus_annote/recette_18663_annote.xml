@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18663">
+<titre>Velouté de potiron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 quartier de potiron</p>
+<p>1 gros oignon</p>
+<p>1 brique de crème fraîche liquide</p>
+<p>sel, poivre</p>
+<p>muscade en poudre</p>
+<p>un peu d'huile</p>
+<p>persil ciselé</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair;courge"> couper </operation> la <ingredient action="couper"> chair </ingredient> de la <ingredient action="couper"> courge </ingredient> en gros dés . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en lamelles et le faire <operation ingredients="huile"> revenir </operation> dans une cocotte avec un peu d' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="courge;courge"> ajouter </operation> les dés de <ingredient action="ajouter"> courge </ingredient> dans la cocotte et <operation> recouvrir </operation> d' eau ( juste au niveau de la <ingredient action="ajouter"> courge </ingredient> , pas plus ) . laisser <operation> bouillir </operation> environ 45 min à 1 h , quand la fourchette rentre facilement dans un dé de <ingredient> potiron </ingredient> . <operation> mixer </operation> le tout . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> liquide , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="muscade"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> muscade </ingredient> selon votre goût . au moment de servir , <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer"> persil </ingredient> <operation> ciselé </operation> . pour une entrée plus sophistiquée , vous pouvez <operation ingredients="noix"> rajouter </operation> des <ingredient action="rajouter"> noix </ingredient> de saint-jacques préalablement <operation ingredients="beurre"> revenus </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> , dans l' assiette au moment de servir .
+</preparation>
+</recette>

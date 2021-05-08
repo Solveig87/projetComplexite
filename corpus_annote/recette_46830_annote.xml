@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46830">
+<titre>Muffin-pudding</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 muffins</p>
+<p>50 cl de lait</p>
+<p>2 oeufs battus</p>
+<p>50 g de sucre</p>
+<p>1 cuillère à soupe de cacao en poudre</p>
+<p>1 pomme</p>
+</ingredients>
+<preparation>
+<operation ingredients="muffins"> emiettez </operation> les <ingredient action="emiettez" quantite="2"> muffins </ingredient> . <operation ingredients="lait"> faites </operation> <operation> tiédir </operation> le <ingredient action="faire" quantite="50 cl"> lait </ingredient> et <operation ingredients="muffins"> versez </operation> - le sur les <ingredient action="verser" quantite="2"> muffins </ingredient> . <operation ingredients="cacao"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cacao </ingredient> . <operation ingredients="oeufs;sucre"> mélangez </operation> les <ingredient action="mélanger"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> , <operation> ajoutez </operation> - les . <operation ingredients="pomme"> coupez </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en dés et <operation> ajoutez </operation> - la . <operation> versez </operation> le tout dans un <operation> moule </operation> à cake . <operation> cuire </operation> une grosse heure à 200 <operation> ° </operation> c ( thermostat 7 ) . quand le <ingredient> pudding </ingredient> commence à caraméliser sur le dessus , <operation> couvrez </operation> - le de papier aluminium et poursuivez la cuisson . on peut aussi <operation ingredients="miel;fruits"> ajouter </operation> du <ingredient action="ajouter"> miel </ingredient> , des <ingredient action="ajouter" quantite="1"> fruits </ingredient> secs , c' est totale liberté !
+</preparation>
+</recette>

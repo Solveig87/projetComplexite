@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65575">
+<titre>Lasagne au poulet, chèvre et miel</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 blancs de poulet </p>
+<p>1 cuillère à soupe de miel </p>
+<p>500 g de fromage de chèvre frais</p>
+<p>1 boîte de plaques/feuilles de lasagne</p>
+<p>1 poignée de feuilles de menthe</p>
+<p>1 pomme coupée en fine lamelles</p>
+<p>30 cl de crème fraîche liquide</p>
+<p>20 cl de lait</p>
+<p>50 à 100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulet"> griller </operation> les blancs de <ingredient action="griller"> poulet </ingredient> <operation> coupés </operation> en dés à la <operation> poêle </operation> . <operation> salez </operation> , <operation> poivrez </operation> . pendant ce temps , <operation ingredients="pomme"> coupez </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en lamelles très fines . <operation> hachez </operation> la <ingredient> menthe </ingredient> . <operation ingredients="pâte;fromage;menthe"> disposez </operation> une couche de <ingredient action="disposer"> pâte </ingredient> à lasagne au fond du plat , puis une couche <operation ingredients="pomme"> composée </operation> des fines lamelles de la <ingredient action="composer" quantite="1"> pomme </ingredient> , de la moitié du <ingredient action="disposer" quantite="500 gramme"> fromage </ingredient> de chèvre et des feuilles de <ingredient action="disposer"> menthe </ingredient> . <operation> remettez </operation> une couche de feuilles de lasagne . <operation ingredients="poulet"> mettez </operation> une couche avec le <ingredient action="mettre"> poulet </ingredient> . <operation ingredients="crème;lait"> ajoutez </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> fraiche + le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> <operation> mélangés </operation> . <operation> remettez </operation> une couche de feuilles de lasagne . <operation ingredients="fromage;miel;sel"> refaites </operation> une couche avec du <ingredient action="refaire" quantite="500 gramme"> fromage </ingredient> de chèvre , le <ingredient action="refaire" quantite="1 cuillère à soupe"> miel </ingredient> , du <ingredient action="refaire"> sel </ingredient> et <operation ingredients="gruyère"> recouvrez </operation> de <ingredient action="recouvrir"> gruyère </ingredient> <operation> râpé </operation> . faites <operation> cuire </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 25 à 30 minutes . un <ingredient> vin </ingredient> blanc plutôt sec
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11023">
+<titre>Risotto aux calamars</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de riz rond</p>
+<p>400 g de calamars</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail</p>
+<p>60 g de beurre</p>
+<p>1 kg de tomates concassées</p>
+<p>1 litre de bouillon de poisson ou d'eau</p>
+<p>persil haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="calamars"> laver </operation> soigneusement les <ingredient action="laver" quantite="400 gramme"> calamars </ingredient> , <operation> coupez </operation> - les en lanières de 1 cm . <operation ingredients="têtes"> laisser </operation> les <ingredient action="laisser"> têtes </ingredient> entières . dans une <operation> poêle </operation> , faire <operation ingredients="ail;huile;beurre"> blondir </operation> l' <ingredient action="blondir"> ail </ingredient> dans un <operation> mélange </operation> d' <ingredient action="blondir" quantite="6 cuillère à soupe"> huile </ingredient> et de <ingredient action="blondir" quantite="60 gramme"> beurre </ingredient> . <operation ingredients="calamars"> ajouter </operation> après les <ingredient action="ajouter" quantite="400 gramme"> calamars </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . faire <operation> cuire </operation> à feux doux + . 20 minutes ( les <ingredient quantite="400 gramme"> calamars </ingredient> doivent être presque <operation> cuits </operation> ) . <operation ingredients="tomate"> ajouter </operation> alors la <ingredient action="ajouter" quantite="1 kilogramme"> tomate </ingredient> et faites bien <operation> revenir </operation> . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> riz </ingredient> ( que vous aurez au préalable <operation> rincez </operation> à l' eau clair ) , faites le <operation> revenir </operation> jusqu' à ce qu' il soit translucide . <operation ingredients="bouillon"> recouvrir </operation> avec le <ingredient action="recouvrir" quantite="1 litre"> bouillon </ingredient> de poisson ( en cubes éventuellement ) . <operation> mélanger </operation> et au besoin en cours de cuisson , allonger avec un supplément de <ingredient quantite="1 litre"> bouillon </ingredient> . <operation ingredients="assaisonnement;huile"> rectifier </operation> l' <ingredient action="rectifier" quantite="6 cuillère à soupe;2;;"> assaisonnement </ingredient> , <operation> nappez </operation> d' un filet d' <ingredient action="rectifier" quantite="6 cuillère à soupe"> huile </ingredient> d' olive cru , <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> <operation> haché </operation> et servir .
+</preparation>
+</recette>

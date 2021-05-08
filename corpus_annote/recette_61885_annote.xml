@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61885">
+<titre>Glace aux petits-beurres</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 jaunes d'oeufs</p>
+<p>100 g de sucre en poudre</p>
+<p>30 cl de lait</p>
+<p>2 cuillères à soupe de crème fraîche épaisse</p>
+<p>15 petits-beurres</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> fouetter </operation> les jaunes d' <ingredient action="fouetter"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="100 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="lait;crème"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> et la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche . <operation> mélanger </operation> rigoureusement , idéalement au mixeur . casser les petits <ingredient> beurres </ingredient> en petits morceaux et <operation> mettre </operation> dans le <operation> mélange </operation> . <operation ingredients="gâteaux"> laisser </operation> <operation> imbiber </operation> les <ingredient action="laisser"> gâteaux </ingredient> quelques minutes et <operation> remettre </operation> au mixeur pour avoir un <operation> mélange </operation> homogène . <operation ingredients="pâte"> mettre </operation> ensuite la <ingredient action="mettre"> pâte </ingredient> dans une sorbetière ou une machine à glace et laisser prendre . servir . régalez -vous ! on peut <operation ingredients="petits-beurres"> ajouter </operation> pour la présentation des petits morceaux de <ingredient action="ajouter" quantite="15"> petits-beurres </ingredient> sur le dessus pour avoir un peu de croustillant .
+</preparation>
+</recette>

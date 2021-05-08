@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11503">
+<titre>Purée verte</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>pommes de terre</p>
+<p>cresson</p>
+<p>lait</p>
+<p>noix de beurre</p>
+<p>1 jaune d'oeuf</p>
+<p>sel</p>
+<p>poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite=""> pommes </ingredient> de terre . pendant ce temps , <operation ingredients="cresson;lait;noix;oeuf;sel;poivre;muscade"> mixer </operation> du <ingredient action="mixer" quantite=""> cresson </ingredient> avec du <ingredient action="mixer" quantite=""> lait </ingredient> , la <ingredient action="mixer" quantite=""> noix </ingredient> de beurre , le jaune d' <ingredient action="mixer"> oeuf </ingredient> , le <ingredient action="mixer" quantite=""> sel </ingredient> , le <ingredient action="mixer" quantite=""> poivre </ingredient> et la <ingredient action="mixer" quantite=""> muscade </ingredient> . <operation ingredients="pommes"> égoutter </operation> les <ingredient action="égoutter" quantite=""> pommes </ingredient> de terre et en faire une purée avec la préparation . servir avec du <ingredient> poisson </ingredient> et une <ingredient> tomate </ingredient> <operation> grillée </operation> . les enfants adorent ! blanc
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17346">
+<titre>Clafoutis amandin</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de cerises</p>
+<p>5 g de beurre pour le plat</p>
+<p>Pour la pâte :</p>
+<p>100 g de beurre fondu</p>
+<p>125 g de sucre</p>
+<p>125 g de poudre d'amandes</p>
+<p>50 g de biscotte</p>
+<p>15 cl de lait</p>
+<p>3 oeufs</p>
+</ingredients>
+<preparation>
+allumer le four à thermostat 6 . <operation ingredients="cerises"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="500 gramme"> cerises </ingredient> . <operation> beurrer </operation> un plat à tarte . y <operation ingredients="cerises"> déposer </operation> les <ingredient action="déposer" quantite="500 gramme"> cerises </ingredient> . dans un saladier , <operation ingredients="beurre;sucre;amande;biscottes;lait;oeufs"> mélanger </operation> dans l' ordre : le <ingredient action="mélanger" quantite="5 gramme"> beurre </ingredient> , le <ingredient action="mélanger" quantite="125 gramme"> sucre </ingredient> , la <operation> poudre </operation> d' <ingredient action="mélanger"> amande </ingredient> , les <ingredient action="mélanger" quantite="50 gramme"> biscottes </ingredient> <operation> écrasées </operation> , le <ingredient action="mélanger" quantite="15 cl"> lait </ingredient> et les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> ( en dernier ) . <operation ingredients="cerises"> verser </operation> cette préparation sur les <ingredient action="verser" quantite="500 gramme"> cerises </ingredient> . <operation> mettre </operation> au four 40 mn environ . se deguste tiède ou froid .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27683">
+<titre>Riz à l'indonésienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>150 g de crevettes décortiquées</p>
+<p>150 g de germes de soja</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>2 œufs</p>
+<p>200 g de riz basmati</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 peu de piment (en poudre) </p>
+<p>2 cuillères à soupe de sauce soja</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> . <operation ingredients="oignons"> émincer </operation> <ingredient action="émincer" quantite="2"> oignons </ingredient> et ail . <operation ingredients="poulet"> couper </operation> finement les blancs de <ingredient action="couper"> poulet </ingredient> . faire une omelette et la <operation> couper </operation> en fines tranches . <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> dans une sauteuse ( ou wok ) . <operation ingredients="oignons"> ajouter </operation> <ingredient action="ajouter" quantite="2"> oignons </ingredient> , ail , poulet , germes de soja . faire <operation> frire </operation> ( 3 min ) . <operation ingredients="riz;crevettes"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> , puis les <ingredient action="ajouter" quantite="150 gramme"> crevettes </ingredient> ( juste pour les <operation> réchauffer </operation> ) . <operation ingredients="soja"> arroser </operation> de sauce <ingredient action="arroser"> soja </ingredient> et <operation> mettre </operation> un peu de piment . <operation> mettre </operation> dans un plat et sur le dessus , <operation> poser </operation> l' omelette .
+</preparation>
+</recette>

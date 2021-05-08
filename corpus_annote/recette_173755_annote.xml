@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173755">
+<titre>Aiguillettes de poulet aux noix de cajou et aux quatre épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 aiguillettes de poulet</p>
+<p>80 g de noix de cajou</p>
+<p>mélange 4 épices</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>25 cl de crème fraîche semi-épaisse</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>sel</p>
+<p>poivre</p>
+<p>30 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="aiguillettes;huile"> frire </operation> les <ingredient action="frire" quantite="10"> aiguillettes </ingredient> de poulet dans l' <ingredient action="frire" quantite="2 cuillère à soupe"> huile </ingredient> d' olive jusqu' à ce qu' elles soient bien dorées des deux côtés . <operation ingredients="huile"> réserver </operation> l' <ingredient action="réserver" quantite="2 cuillère à soupe"> huile </ingredient> . <operation ingredients="ail;oignon;noix"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> , l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et les <ingredient action="hacher" quantite="80 gramme"> noix </ingredient> de cajou et les faire <operation> chauffer </operation> 2 min . dans le reste d' <ingredient quantite="2 cuillère à soupe"> huile </ingredient> d' olive auquel on a <operation ingredients="beurre"> ajouté </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> . r. <operation ingredients="aiguillettes"> incorporer </operation> les <ingredient action="incorporer" quantite="10"> aiguillettes </ingredient> préalablement <operation> égouttées </operation> . <operation ingredients="épices"> saupoudrer </operation> de <operation> mélange </operation> 4 <ingredient action="saupoudrer" quantite="2 cuillère à soupe;2;;"> épices </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche et <operation> porter </operation> à <operation> ébullition </operation> . servir aussitôt .
+</preparation>
+</recette>

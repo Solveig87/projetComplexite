@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73568">
+<titre>Flan aux spéculoos</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>60 g de sucre</p>
+<p>90 g de farine</p>
+<p>30 g de maïzena</p>
+<p>8 spéculoos réduits en poudre</p>
+<p>1/2 cuillère à café de cannelle</p>
+<p>50 cl de lait froid</p>
+</ingredients>
+<preparation>
+dans un blender ( pour aller plus vite mais on peut le faire au fouet ) , <operation ingredients="oeufs;sucre"> mettre </operation> les <ingredient action="mettre" quantite="2"> oeufs </ingredient> et le <ingredient action="mettre" quantite="60 gramme"> sucre </ingredient> et <operation> mélanger </operation> . <operation ingredients="cannelle;spéculoos"> rajouter </operation> la <ingredient action="rajouter"> cannelle </ingredient> et les <ingredient action="rajouter" quantite="8"> spéculoos </ingredient> , et <operation> mélanger </operation> . <operation ingredients="farine;maïzena"> rajouter </operation> la <ingredient action="rajouter" quantite="90 gramme"> farine </ingredient> et le <ingredient action="rajouter" quantite="30 gramme"> maïzena </ingredient> doucement ; bien <operation> mélanger </operation> pour obtenir une <ingredient> pâte </ingredient> homogène . <operation ingredients="lait"> rajouter </operation> enfin 50 cl de <ingredient action="rajouter" quantite="50 cl"> lait </ingredient> froid : vous obtenez un <operation> mélange </operation> assez liquide mais c' est normal . <operation> mettre </operation> dans un <operation> moule </operation> à manqué et <operation> enfourner </operation> à 220 <operation> ° </operation> , thermostat . 8 , pendant 15 à 20 min . a déguster tiède ou froid . . .
+</preparation>
+</recette>

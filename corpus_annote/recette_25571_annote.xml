@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25571">
+<titre>Gratin dauphinois fondant au gruyère</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 kg de pommes de terre</p>
+<p>40 cl de de crème fraîche</p>
+<p>40 cl de lait</p>
+<p>200 g de gruyère râpé</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe d'ail haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="oeuf;lait;ail"> mélangez </operation> l' <ingredient action="mélanger" quantite="2"> oeuf </ingredient> , le <ingredient action="mélanger" quantite="40 cl"> lait </ingredient> , l' <ingredient action="mélanger"> ail </ingredient> , sel et poivre . <operation> beurrez </operation> un plat à gratin . <operation ingredients="pommes"> couvrez </operation> le fond de rondelles de <ingredient action="couvrir" quantite="2 kilogramme"> pommes </ingredient> de terre , <operation ingredients="gruyère"> couvrez </operation> de <ingredient action="couvrir" quantite="200 gramme"> gruyère </ingredient> puis <operation ingredients="oeuf"> versez </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="2"> oeuf </ingredient> - lait . <operation ingredients="pommes"> disposez </operation> une deuxième couche de <ingredient action="disposer" quantite="2 kilogramme"> pommes </ingredient> de terre , <operation ingredients="gruyère;crème"> couvrez </operation> de <ingredient action="couvrir" quantite="200 gramme"> gruyère </ingredient> et <operation> nappez </operation> avec la <ingredient action="couvrir" quantite="40 cl"> crème </ingredient> fraîche . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="gruyère;noisettes"> répartissez </operation> le <ingredient action="répartir" quantite="200 gramme"> gruyère </ingredient> restant et <operation> parsemez </operation> des <ingredient action="répartir"> noisettes </ingredient> de beurre . <operation> enfournez </operation> pour 45 minutes environ , les <ingredient quantite="2 kilogramme"> pommes </ingredient> de terre doivent être <ingredient> fondantes </ingredient> et le gratin doré .
+</preparation>
+</recette>

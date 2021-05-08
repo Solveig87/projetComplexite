@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26695">
+<titre>Sandwich au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit pain complet</p>
+<p>1 petite boîte de thon au naturel</p>
+<p>basilic</p>
+<p>sel, poivre</p>
+<p>tomates séchées</p>
+<p>Pour la sauce allégée au fromage blanc :</p>
+<p>100 g de fromage blanc 0%</p>
+<p>citron</p>
+<p>sel, poivre</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> préparer </operation> la sauce au <ingredient action="préparer" quantite="100 gramme"> fromage </ingredient> blanc : <operation ingredients="fromage;citron"> battre </operation> dans un bol le <ingredient action="battre" quantite="100 gramme"> fromage </ingredient> blanc <operation ingredients="sel"> battu </operation> à 0 % avec du <ingredient action="battre" quantite=""> sel </ingredient> , poivre , basilic et quelques gouttes de <ingredient action="battre" quantite=""> citron </ingredient> . <operation> emietter </operation> le <ingredient action="mélanger"> thon </ingredient> , le <operation ingredients="thon;fromage"> mélanger </operation> à la sauce au <ingredient action="mélanger" quantite="100 gramme"> fromage </ingredient> blanc . <operation> saler </operation> , <operation> poivrer </operation> , re-basilic . <operation ingredients="tomates"> couper </operation> quelques <ingredient action="couper" quantite=""> tomates </ingredient> séchées en morceaux , et les <operation> incorporer </operation> à la préparation . <operation ingredients="pain"> couper </operation> le petit <ingredient action="couper" quantite="1"> pain </ingredient> sans <operation> séparer </operation> les deux parties , <operation> tartiner </operation> généreusement de la préparationpossibilité de <operation ingredients="sandwich;curry"> faire </operation> le <ingredient action="faire"> sandwich </ingredient> avec la sauce allégée au <ingredient action="faire"> curry </ingredient> ( voir sur le site ) , mais dans ce cas , remplacer les <ingredient quantite=""> tomates </ingredient> séchées par des <ingredient> raisins </ingredient> secs .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19055">
+<titre>Salade p'tite moune</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>1 poivron rouge et 1 vert</p>
+<p>125 g de noix</p>
+<p>200 g d'emmental</p>
+<p>2 pommes (plutôt sucrées) </p>
+<p>1 salade vertepour la sauce :</p>
+<p>1 yaourt nature</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>ail, oignons, </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> découper </operation> le <ingredient action="découper"> fromage </ingredient> , les <ingredient quantite="1"> poivrons </ingredient> , les <ingredient quantite="2"> pommes </ingredient> en dés . <operation> réserver </operation> . faire <operation ingredients="poulet;oignon;sel;poivre"> cuire </operation> les filets de <ingredient action="cuire"> poulet </ingredient> en <operation ingredients="gousse"> ajoutant </operation> une <ingredient action="ajouter"> gousse </ingredient> d' ail , 1 / 4 d' <ingredient action="cuire" quantite=""> oignon </ingredient> , du <ingredient action="cuire" quantite=""> sel </ingredient> et du <ingredient action="cuire" quantite=""> poivre </ingredient> . laisser refroidir . <operation ingredients="noix"> hacher </operation> les <ingredient action="hacher" quantite="125 gramme"> noix </ingredient> et garder quelques <ingredient quantite="125 gramme"> noix </ingredient> entières pour la décoration . <operation ingredients="poulet"> découper </operation> le <ingredient action="découper"> poulet </ingredient> en morceaux . <operation ingredients="salade"> disposer </operation> quelques feuilles de <ingredient action="disposer" quantite="1"> salade </ingredient> dans les assiettes . <operation ingredients="fromage"> recouvrir </operation> du <operation> mélange </operation> <ingredient action="recouvrir"> fromage </ingredient> / poivrons / pommes / poulet . dans un bol , <operation ingredients="yaourt;noix"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> et les <ingredient action="mélanger" quantite="125 gramme"> noix </ingredient> hachées . <operation ingredients="huile;moutarde"> ajouter </operation> l' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> . <operation> assaisonner </operation> . <operation> verser </operation> la sauce dans les assiettes et <operation ingredients="noix"> décorer </operation> de quelques <ingredient action="décorer" quantite="125 gramme"> noix </ingredient> . bon appétit ! pour alléger ce plat , on peut remplacer l' <ingredient quantite="4 cuillère à soupe"> huile </ingredient> par de l' eau . <ingredient> vin </ingredient> anjou rouge
+</preparation>
+</recette>

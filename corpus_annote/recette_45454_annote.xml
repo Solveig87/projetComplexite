@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45454">
+<titre>St jacques glacées</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1.5 kg de St jacques</p>
+<p>20 g de beurre</p>
+<p>Pour la mayonnaise :</p>
+<p>2 jaunes d'oeufs</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>huile</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+faire <operation> revenir </operation> les st jacques dans une <operation> poêle </operation> pendant 5 min . . . elles doivent rester légèrement crues à l' intérieur ! puis , <operation ingredients="mayonnaise"> préparer </operation> la <ingredient action="préparer"> mayonnaise </ingredient> . <operation> mixer </operation> le tout , et servir dans 4 petits ramequins . laisser au réfrigérateur pendant 5 min ( servir <operation> glacé </operation> ) . peut s' <operation ingredients="salade;croûtons"> accompagner </operation> d' une petite <ingredient action="accompagner"> salade </ingredient> ou de <ingredient action="accompagner"> croûtons </ingredient> aillés . le même principe peut s' appliquer avec des queues d' <ingredient> écrevisses </ingredient> et du <ingredient> crabe </ingredient> , selon les goûts ! riesling ou chablis
+</preparation>
+</recette>

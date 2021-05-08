@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94924">
+<titre>Croque marin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 petites tranches de truite fumée</p>
+<p>1 boule de mozarella</p>
+<p>0.5 litre de lait</p>
+<p>épices spéciales poisson</p>
+<p>6 cuillers à café de crème fraiche</p>
+<p>12 tranches de pain de mie</p>
+<p>un peit peu de beurre</p>
+</ingredients>
+<preparation>
+beurez un <operation> moule </operation> qui peut contenir 6 tranches de <ingredient quantite="12 tranche"> pain </ingredient> de mie . <operation ingredients="épices"> remplissez </operation> une assiette à soupe de lait avec les <ingredient action="remplir"> épices </ingredient> y <operation ingredients="pain"> tremper </operation> 6 tranches de <ingredient action="tremper" quantite="12 tranche"> pain </ingredient> de mie les <operation> disposer </operation> dans le <operation> moule </operation> . <operation ingredients="truite;crème"> déposez </operation> les tranches de <ingredient action="déposer"> truite </ingredient> dessus puis la <ingredient action="déposer"> crème </ingredient> . <operation> découpez </operation> 6 tranche de mozarella puis les <operation> disposez </operation> . <operation ingredients="pain;lait"> retrempez </operation> les 6 dernières tranche de <ingredient action="retrempez" quantite="12 tranche"> pain </ingredient> de mie dans le <ingredient action="retrempez"> lait </ingredient> allumez votre four en mode grill <operation ingredients="mangez"> mettez </operation> vos croques <ingredient action="mettre"> mangez </ingredient> les sortis du foursi votre four ne fait pas grill , <operation> cuisez </operation> comme des croques - monsieur .
+</preparation>
+</recette>

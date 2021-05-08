@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60347">
+<titre>Appareil pour tarte sucrée</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>3 cuillères à soupe de sucre roux (ou 2 sachets de sucre vanillé)</p>
+<p>15 cl de lait</p>
+</ingredients>
+<preparation>
+<operation> mélanger </operation> le tout au fouet puis : <operation ingredients="fruits;tarte"> verser </operation> sur les <ingredient action="verser"> fruits </ingredient> d' une <ingredient action="verser"> tarte </ingredient> et <operation> enfourner </operation> pour 30 minutes de cuisson . ou <operation ingredients="fruits"> mélanger </operation> les <ingredient action="mélanger"> fruits </ingredient> <operation> coupés </operation> en dés et <operation ingredients="tarte"> verser </operation> sur le fond de <ingredient action="verser"> tarte </ingredient> avant d' <operation> enfourner </operation> . excellent avec des <ingredient> pommes </ingredient> ou des <ingredient> pêches </ingredient> .
+</preparation>
+</recette>

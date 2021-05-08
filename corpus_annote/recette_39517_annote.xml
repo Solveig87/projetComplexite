@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39517">
+<titre>Ramequins au thon et quenelles</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de thon au naturel</p>
+<p>1 petite boîte de quenelles natures</p>
+<p>Gruyère râpé</p>
+<p>1 tête d'ail, 1 bouquet de persil</p>
+<p>Margarine, farine (pour le roux)</p>
+<p>Eau, lait</p>
+<p>1 boîte de champignons(facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ail;persil;margarine"> revenir </operation> , l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir"> persil </ingredient> <operation> hachés </operation> , dans la <ingredient action="revenir" quantite=""> margarine </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite=""> farine </ingredient> , pour faire un roux consistant , avec moitié eau et moitié <ingredient quantite=""> lait </ingredient> . <operation> saler </operation> <operation> poivrer </operation> . <operation ingredients="thon;gruyère"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> <operation> émietté </operation> , les quenelles et le <ingredient action="ajouter" quantite=""> gruyère </ingredient> rapé . bien <operation> mélanger </operation> . <operation> disposer </operation> dans quatre ramequins , et faire <operation> gratiner </operation> .
+</preparation>
+</recette>

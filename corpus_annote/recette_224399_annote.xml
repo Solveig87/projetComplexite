@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224399">
+<titre>Blue Raie</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 ailes de raie</p>
+<p>20 cl de crème légère</p>
+<p>3 cuillères à soupe de curaçao</p>
+<p>sel</p>
+<p>gingembre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raie"> bouillir </operation> les ailes de <ingredient action="bouillir"> raie </ingredient> ( 30 min pour le surgelé ) . faire <operation ingredients="crème"> revenir </operation> la <ingredient action="revenir" quantite="20 cl"> crème </ingredient> avec le curaçao jusqu' à évaporation de l' alcool . <operation ingredients="sel;gingembre"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> gingembre </ingredient> . servir les ailes avec quelques gouttes de sauce et une soucoupe à volonté . une petite recette de " geek " pour faire rire mon conjoint : " on se <operation ingredients="raie"> fait </operation> une blue <ingredient action="faire"> raie </ingredient> ce soir ? " et on s' est bien régalé . il faut bien <operation ingredients="bleu"> doser </operation> le curaçao pour que la sauce soit assez <ingredient action="doser"> bleu </ingredient> mais pas trop forte . . . et miam !
+</preparation>
+</recette>

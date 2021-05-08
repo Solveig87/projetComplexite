@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25556">
+<titre>Crème anglaise micro-onde</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>0,5 l de lait</p>
+<p>3 oeufs</p>
+<p>150 g de sucre</p>
+<p>25 g de farine</p>
+<p>1 sachet sucre vanillé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="0,5 l"> lait </ingredient> dans le micro-onde 6 mn puissance maximum . <operation ingredients="oeufs;sucre;farine"> battre </operation> les jaunes <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> , sucre vanillé , <ingredient action="battre" quantite="25 gramme"> farine </ingredient> . <operation ingredients="lait"> versez </operation> le <ingredient action="verser" quantite="0,5 l"> lait </ingredient> sur la préparation , <operation> remettre </operation> le tout dans le micro-onde 2 mn puissance maximum . sortir le plat , <operation> fouetter </operation> et <operation> remettre </operation> à nouveau 1 mn . <operation> battre </operation> les blancs , les <operation> disposer </operation> sur une assiette plate en boule et les faire <operation> cuire </operation> 1 mn au micro-onde . les <operation ingredients="crème"> ajouter </operation> sur votre <ingredient action="ajouter"> crème </ingredient> refroidie , <operation> ajouter </operation> éventuellement un filet de caramel . n' hésiter pas à <operation> rajouter </operation> le caramel , je <operation ingredients="crème"> prépare </operation> la <ingredient action="prépare"> crème </ingredient> dans un saladier .
+</preparation>
+</recette>

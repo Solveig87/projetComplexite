@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53523">
+<titre>Cabillaud à la crème de ciboulette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 beau morceau de Cabillaud d'environ 500 g</p>
+<p>1 belle noisette de beurre</p>
+<p>1 brique de crème fraîche liquide</p>
+<p>ciboulette</p>
+<p>1 échalote</p>
+<p>sel, poivre</p>
+<p>1 pointe de piment de Cayenne</p>
+<p>1 pointe de hot curry</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="cabillaud;beurre"> dorer </operation> le <ingredient action="dorer"> cabillaud </ingredient> dans le <ingredient action="dorer"> beurre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . quand il est <operation> cuit </operation> , l' <operation> émietter </operation> , <operation ingredients="échalote"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> finement hachée et <operation ingredients="crème"> couvrir </operation> de <ingredient action="couvrir"> crème </ingredient> fraiche liquide . <operation ingredients="ciboulette;curry"> ajouter </operation> la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> , la pointe de piment et de <ingredient action="ajouter"> curry </ingredient> ( attention le piment de cayenne pimente fort ) . <operation> rectifier </operation> et servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49345">
+<titre>Brochettes de poulet fumé de Maud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>10 tranches de poitrine fumée</p>
+<p>1 gros oignon</p>
+<p>Pour la marinade : </p>
+<p>huile d'olive, </p>
+<p>sel, poivre,</p>
+<p>herbes de Provence</p>
+<p>4 pics à brochettes</p>
+</ingredients>
+<preparation>
+la marinade doit être <operation> réservée </operation> durant 24 h. <operation ingredients="escalopes"> découper </operation> les <ingredient action="découper" quantite="2"> escalopes </ingredient> en 20 petits morceaux . <operation> préparer </operation> la marinade , en <operation ingredients="huile"> mélangeant </operation> <ingredient action="mélanger" quantite=""> huile </ingredient> d' olive , sel , poivre et herbes . laisser <operation ingredients="poulet"> mariner </operation> le <ingredient action="mariner"> poulet </ingredient> 1 journée au frigo . <operation ingredients="poitrine"> découper </operation> les tranches de <ingredient action="découper" quantite="10 tranche"> poitrine </ingredient> en deux , puis <operation ingredients="poulet;poitrine"> enrouler </operation> les morceaux de <ingredient action="enrouler"> poulet </ingredient> dans la <ingredient action="enrouler" quantite="10 tranche"> poitrine </ingredient> . <operation ingredients="oignon"> piquer </operation> en alternance <ingredient action="piquer" quantite="1"> oignon </ingredient> et viandes , pour obtenir 4 brochettes de 5 pièces . les faire <operation> cuire </operation> au barbecue ! <operation ingredients="origan;moutarde"> mettre </operation> les herbes aromatiques de votre choix pour la marinade : <ingredient action="mettre"> origan </ingredient> , <operation> mélange </operation> pour grillages ( grines de <ingredient action="mettre"> moutarde </ingredient> , coriandre , carvi . . . ) . un rosé
+</preparation>
+</recette>

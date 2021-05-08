@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62492">
+<titre>Pommes de terre au lard</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>500 g de lard de poitrine fraîche ou de rouelle de porc si vous préférez moins gras</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>2 cuillères à soupe de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="huile;lard"> revenir </operation> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> le porc ou le <ingredient action="revenir" quantite="500 gramme"> lard </ingredient> de poitrine <operation> coupé </operation> grossièrement en dés . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> farine </ingredient> en <operation ingredients="viande"> remuant </operation> la <ingredient action="remuer" quantite="500 gramme"> viande </ingredient> . <operation ingredients="pommes"> ajouter </operation> tout de suite les <ingredient action="ajouter" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> coupées </operation> aussi en dés , <operation> couvrir </operation> d' eau , <operation> saler </operation> et <operation> poivrer </operation> . <operation> compter </operation> environ 20 min de cuisson .
+</preparation>
+</recette>

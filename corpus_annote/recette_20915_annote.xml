@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20915">
+<titre>Rougets grillés au four</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 rougets</p>
+<p>2 gros oignons </p>
+<p>40 cl de vin blanc sec </p>
+<p>10 g de beurre</p>
+<p>1 cuillère à soupe de chapelure fine</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation ingredients="rougets"> vider </operation> les <ingredient action="vider"> rougets </ingredient> . les <operation> mettre </operation> dans un plat beurré . <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> et les <operation ingredients="rougets"> ajouter </operation> aux <ingredient action="ajouter"> rougets </ingredient> . <operation> assaisonner </operation> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="40 cl"> vin </ingredient> blanc sec et <operation ingredients="noisettes"> recouvrir </operation> de plusieurs <ingredient action="recouvrir"> noisettes </ingredient> de beurre . <operation ingredients="chapelure"> parsemer </operation> de <ingredient action="parsemer" quantite="1 cuillère à soupe"> chapelure </ingredient> . <operation> enfourner </operation> à 180 <operation> ° </operation> ( thermostat 6 ) pendant 15 min .
+</preparation>
+</recette>

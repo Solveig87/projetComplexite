@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13741">
+<titre>Salade aux pommes et au jambon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes Golden</p>
+<p>50 g de cerneaux de noix</p>
+<p>3 tranches de jambon de Paris</p>
+<p>2 endives</p>
+<p>6 cuillères à soupe de crème liquide</p>
+<p>2 cuillères à soupe de vinaigre de framboise</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="crème;vinaigre;sel;poivre"> mettre </operation> la <ingredient action="mettre" quantite="6 cuillère à soupe"> crème </ingredient> , le <ingredient action="mettre" quantite="2 cuillère à soupe"> vinaigre </ingredient> , le <ingredient action="mettre" quantite=""> sel </ingredient> et le <ingredient action="mettre"> poivre </ingredient> . <operation ingredients="pommes"> eplucher </operation> les <ingredient action="eplucher" quantite="2"> pommes </ingredient> , les <operation> épépiner </operation> et les <operation> couper </operation> en dés , puis les <operation> mettre </operation> dans le saladier . <operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="2"> endives </ingredient> et les <operation> ajouter </operation> au reste . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="3 tranche"> jambon </ingredient> en fines lamelles , <operation> ajouter </operation> au reste avec les cerneaux . <operation> mélanger </operation> le tout , laisser au frigo 1 heure et servir .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18951">
+<titre>Pizza maison légère</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza (déjà prête ou à faire soi-même) </p>
+<p>1 courgette</p>
+<p>un petit pot de coulis de tomate ou de sauce tomate</p>
+<p>2 tranches de jambon blanc</p>
+<p>1 poivron vert et rouge</p>
+<p>emmental</p>
+<p>quelques gouttes de tabasco (facultatif) </p>
+<p>sel, poivre, origan</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> sur une <operation> plaque </operation> allant au four . <operation ingredients="tomate"> etaler </operation> à l' aide d' une cuillère le coulis de <ingredient action="etaler"> tomate </ingredient> . <operation> couper </operation> la courgettes en fines lamelles et les <operation ingredients="pâte"> déposer </operation> sur la <ingredient action="déposer" quantite="1"> pâte </ingredient> . <operation ingredients="jambon;carrés"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> en petit <ingredient action="couper"> carrés </ingredient> et les <operation> disposer </operation> sur les courgettes . <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en lanières et les <operation> ajouter </operation> à la préparation . <operation ingredients="tabasco"> mettre </operation> quelques gouttes de <ingredient action="mettre"> tabasco </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="emmental"> recouvrir </operation> entièrement d' <ingredient action="recouvrir" quantite=""> emmental </ingredient> râpé . <operation ingredients="origan"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite=""> origan </ingredient> . <operation> mettre </operation> au four 30 mn th 7 ( 210 <operation> ° </operation> c ) vous pouvez également <operation ingredients="fromage;chèvre;mozzarella"> ajouter </operation> un <ingredient action="ajouter"> fromage </ingredient> supplémentaire , comme quelques rondelles de <ingredient action="ajouter"> chèvre </ingredient> ou de <ingredient action="ajouter"> mozzarella </ingredient> selon les goûts .
+</preparation>
+</recette>

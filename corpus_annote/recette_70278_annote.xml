@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70278">
+<titre>Tiramisu fraises bananes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 paquet de biscuits à la cuiller</p>
+<p>500 g de fraises</p>
+<p>2 bananes</p>
+<p>250 g de mascarpone</p>
+<p>60 g de sucre</p>
+<p>3 oeufs + 2 blancs</p>
+<p>grenadine</p>
+<p>quelques spéculos</p>
+</ingredients>
+<preparation>
+<operation> mettre </operation> à <operation ingredients="biscuits;grenadine"> tremper </operation> les <ingredient action="tremper"> biscuits </ingredient> dans la <ingredient action="tremper" quantite=""> grenadine </ingredient> dans un plat adapté . <operation ingredients="fraises"> préparer </operation> les <ingredient action="préparer" quantite="500 gramme"> fraises </ingredient> : les <operation> laver </operation> , les <operation> équeuter </operation> et les <operation> couper </operation> . <operation ingredients="sucre"> ajouter </operation> 30 g de <ingredient action="ajouter" quantite="60 gramme"> sucre </ingredient> et <operation> mixer </operation> de façon à obtenir une purée . <operation ingredients="bananes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> bananes </ingredient> <operation> coupées </operation> en petits morceaux . <operation> mettre </operation> de côté . pendant ce temps , <operation ingredients="crème"> préparer </operation> la <ingredient action="préparer"> crème </ingredient> . <operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre" quantite="3"> oeufs </ingredient> avec les 30 g de <ingredient action="battre" quantite="60 gramme"> sucre </ingredient> restants , et <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> . <operation> mélanger </operation> de façon à obtenir un <operation> mélange </operation> bien <operation> lisse </operation> . <operation> mettre </operation> au frais . dans un saladier , <operation ingredients="oeufs"> battre </operation> les 5 blancs d' <ingredient action="battre" quantite="3"> oeufs </ingredient> en neige bien ferme . <operation ingredients="oeufs;mascarpone"> ajouter </operation> les blancs d' <ingredient action="ajouter" quantite="3"> oeufs </ingredient> au <operation> mélange </operation> <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> / oeufs / sucre délicatement . <operation> préparer </operation> les <operation> coupes </operation> , en <operation ingredients="biscuits;grenadine;sirop"> disposant </operation> au fond les <ingredient action="disposer"> biscuits </ingredient> à la cuillère <operation> trempés </operation> rapidement dans la <ingredient action="disposer" quantite=""> grenadine </ingredient> ( 1 volume de <ingredient action="disposer"> sirop </ingredient> pour 7 volumes d' eau ) . <operation ingredients="fraises"> verser </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="500 gramme"> fraises </ingredient> - bananes à mi-hauteur et enfin <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> au mascarpone sur le dessus . laisser <operation> reposer </operation> au frais quelques heures , l' idéal serait une nuit . <operation> emietter </operation> les spéculoos dessus au moment de servir pour conserver leur <ingredient> croquant </ingredient> . servir .
+</preparation>
+</recette>

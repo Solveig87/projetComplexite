@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85011">
+<titre>Terrine de lotte ou de cabillaud</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de lotte ou de cabillaud</p>
+<p>6 oeufs</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>sel, poivre</p>
+<p>1 sachet de court bouillon</p>
+</ingredients>
+<preparation>
+<operation ingredients="poisson;bouillon"> cuire </operation> le <ingredient action="cuire" quantite="1 kilogramme;6"> poisson </ingredient> au court <ingredient action="cuire"> bouillon </ingredient> , l' <operation> émietter </operation> . <operation> beurrez </operation> un <operation> moule </operation> à cake et <operation ingredients="poisson"> mettre </operation> le <ingredient action="mettre" quantite="1 kilogramme;6"> poisson </ingredient> dedans . dans un saladier , <operation ingredients="oeufs;tomates"> battre </operation> les <ingredient action="battre" quantite="6"> oeufs </ingredient> avec le <operation> concentré </operation> de <ingredient action="battre"> tomates </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation> versez </operation> dans le <operation> moule </operation> et bien tasser . <operation> cuire </operation> au four à 150 <operation> ° </operation> c ( thermostat 5 ) . servir froid avec une <ingredient> mayonnaise </ingredient> à l' <ingredient> ail </ingredient> .
+</preparation>
+</recette>

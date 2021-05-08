@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30055">
+<titre>Tourte aux pommes de terre et au pesto</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 rouleaux de pâte feuilletée</p>
+<p>800 g de pommes de terre</p>
+<p>1 oeuf entier + 1 blanc</p>
+<p>1 gros oignon</p>
+<p>2 gousses d'ail</p>
+<p>2 cuillères à soupe de pesto</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>50 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="pommes"> coupez </operation> les <ingredient action="couper" quantite="800 gramme"> pommes </ingredient> de terre en fines tranches . <operation ingredients="oignon;ail"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , <operation> hachez </operation> l' <ingredient action="peler"> ail </ingredient> . préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) avec la <operation> plaque </operation> de cuisson . faites <operation> bouillir </operation> une casserole d' eau <operation> salée </operation> . <operation> plongez </operation> - y les <ingredient quantite="800 gramme"> pommes </ingredient> de terre 5 min afin qu' elles devienent juste tendres . <operation> egouttez </operation> bien . faites <operation ingredients="oignon;beurre"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> dans le <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> chaud dans une sauteuse . <operation ingredients="ail;pesto"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> pesto </ingredient> et <operation> remuez </operation> 2 min . hors du feu , <operation ingredients="pommes"> mélangez </operation> avec les <ingredient action="mélanger" quantite="800 gramme"> pommes </ingredient> de terre . <operation> garnissez </operation> un <operation> moule </operation> à manqué beurré de <ingredient> pâte </ingredient> feuilletée . <operation ingredients="pommes"> répartissez </operation> les <ingredient action="répartir" quantite="800 gramme"> pommes </ingredient> de terre dedans . <operation ingredients="oeuf;crème"> fouettez </operation> 1 <ingredient action="fouetter" quantite="1"> oeuf </ingredient> avec la <ingredient action="fouetter" quantite="1 cuillère à soupe"> crème </ingredient> , <operation> versez </operation> sur le tout et <operation ingredients="pâte"> couvrez </operation> avec le reste de <ingredient action="couvrir"> pâte </ingredient> étalé . soudez bien les bords et <operation ingredients="pâte"> piquez </operation> la <ingredient action="piquer"> pâte </ingredient> à la fourchette . <operation ingredients="oeuf"> badigeonnez </operation> la toute de blanc d' <ingredient action="badigeonner" quantite="1"> oeuf </ingredient> légèrement <operation> battu </operation> . faites <operation> cuire </operation> 45 min à four chaud , thermostat 5 ou 6 suivant le four . laissez <operation> reposer </operation> 5 min avant d' <operation> ouvrir </operation> le four et de servir .
+</preparation>
+</recette>

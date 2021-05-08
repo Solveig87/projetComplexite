@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88500">
+<titre>Pâtes à la truite et au fromage de chèvre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de pâtes fraîches</p>
+<p>150 g de filets de truite fumés</p>
+<p>150 g d'un fromage de chèvre frais</p>
+<p>20 cl de crème fraîche</p>
+<p>1 citron</p>
+<p>origan</p>
+<p>huile d'olive, sel et poivre</p>
+</ingredients>
+<preparation>
+préchauffez le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="truite;fumés"> découpez </operation> en morceaux les filets de <ingredient action="découper"> truite </ingredient> <ingredient action="découper"> fumés </ingredient> et faîtes - les <operation ingredients="jus;origan;huile"> mariner </operation> avec le <ingredient action="mariner"> jus </ingredient> de citron , l' <ingredient action="mariner" quantite=""> origan </ingredient> et l' <ingredient action="mariner" quantite=""> huile </ingredient> d' olive . faîtes <operation ingredients="pâtes"> chauffer </operation> l' eau des <ingredient action="chauffer" quantite="250 gramme"> pâtes </ingredient> jusqu' à <operation> ébullition </operation> . une fois <operation> cuites </operation> , <operation> versez </operation> - les dans un plat . <operation ingredients="crème;sel;poivre"> ajoutez </operation> - y la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche , la marinade , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . <operation> mélangez </operation> . <operation ingredients="fromage"> parsemez </operation> le plat de fines tranches de <ingredient action="parsemez" quantite="150 gramme"> fromage </ingredient> de chèvre frais . laissez le plat au four environ 10 minutes puis , lorsque le <ingredient action="fondre" quantite="150 gramme"> fromage </ingredient> est légèrement <operation ingredients="fromage"> fondu </operation> , 5 minutes sous le gril .
+</preparation>
+</recette>

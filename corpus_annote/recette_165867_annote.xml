@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165867">
+<titre>Verrines aux fruits rouges et chocolat blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300gr de fruits rouges surgelés</p>
+<p>150gr de gelée de framboise</p>
+<p>150gr de chocolat blanc patissier</p>
+<p>10cl de crème liquide très froide</p>
+<p>1 oeuf entier + 2 jaunes</p>
+<p>30gr de sucre en poudre</p>
+<p>3 citrons</p>
+<p>6 gâteaux secs, type speculoos.</p>
+</ingredients>
+<preparation>
+laissez <operation ingredients="fruits"> dégeler </operation> les <ingredient action="dégeler" quantite="300gr"> fruits </ingredient> . faites <operation ingredients="gelée"> fondre </operation> la <ingredient action="fondre" quantite="150gr"> gelée </ingredient> de framboise au micro-ondes et <operation ingredients="fruits"> melangez </operation> aux <ingredient action="melanger" quantite="300gr"> fruits </ingredient> rouges . <operation> répartissez </operation> dans des verres et <operation> mettre </operation> au frais . <operation> préparez </operation> un bain - marie <operation> frémissant </operation> . <operation ingredients="oeuf;sucre"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> et les jaunes avec le <ingredient action="battre" quantite="30gr"> sucre </ingredient> , le <ingredient action="mélanger"> jus </ingredient> des citrons et une cuillère à café de zeste de <ingredient action="mélanger" quantite="3"> citron </ingredient> , <operation ingredients="jus;citron"> mélangez </operation> au fouet pendant 3 minutes . <operation> placez </operation> dans le bain - marie et <operation> fouettez </operation> pour avoir une <ingredient quantite="10cl"> crème </ingredient> ferme . <operation ingredients="chocolat"> incorporez </operation> petit à petit le <ingredient action="incorporer" quantite="150gr"> chocolat </ingredient> blanc haché tout en <operation> fouettant </operation> pour le faire <operation> fondre </operation> . laissez refroidir , <operation ingredients="crème"> incorporez </operation> délicatement la <ingredient action="incorporer" quantite="10cl"> crème </ingredient> <operation ingredients="chantilly"> montée </operation> en <ingredient action="monter"> chantilly </ingredient> . <operation ingredients="crème"> répartissez </operation> la <ingredient action="répartir" quantite="10cl"> crème </ingredient> dans les verres et <operation> mettre </operation> au frais 20 minutes . avant de servir , <operation ingredients="gâteaux"> émiettez </operation> les <ingredient action="émietter" quantite="6"> gâteaux </ingredient> du bout des doigts au dessus des verrines et servir de suite . on peut <operation ingredients="marnier;crème"> rajouter </operation> du grand <ingredient action="rajouter"> marnier </ingredient> dans la <ingredient action="rajouter" quantite="10cl"> crème </ingredient> , ça donne un meilleur goût et les <ingredient quantite="6"> gâteaux </ingredient> les <operation> mixer </operation> en <operation> poudre </operation> , c' est meilleur au palais . <ingredient> muscat </ingredient>
+</preparation>
+</recette>

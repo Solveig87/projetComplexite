@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23200">
+<titre>Beignets de fleurs de sureau</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>10 fleurs de sureau</p>
+<p>200 g de farine</p>
+<p>20 cl de bière blonde</p>
+<p>2 oeufs</p>
+<p>huile</p>
+<p>sel</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;bière;oeufs;sel;huile"> mélangez </operation> la <ingredient action="mélanger" quantite="200 gramme"> farine </ingredient> avec la <ingredient action="mélanger" quantite="20 cl"> bière </ingredient> , les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> , 1 pincée de <ingredient action="mélanger" quantite=""> sel </ingredient> et 1 cuillérée d' <ingredient action="mélanger" quantite=""> huile </ingredient> . laissez <operation> reposer </operation> 30 min . <operation ingredients="oeufs"> battez </operation> les blancs d' <ingredient action="battre" quantite="2"> oeufs </ingredient> en neige , <operation> incorporez </operation> - les dans la <ingredient> pâte </ingredient> . <operation> rincez </operation> les fleurs de sureau à l' eau fraîches , séchez - les sur un linge . <operation> trempez </operation> - les dans la <ingredient> pâte </ingredient> à <operation> frire </operation> et <operation> plongez </operation> - les dans l' <operation action="huile" ingredients="huile"> huile </operation> de friture chaude . <operation> retirez </operation> - les dès qu' elles sont dorées et <operation> égouttez </operation> . servez - les chaudes , <operation ingredients="sucre"> saupoudrées </operation> de <ingredient action="saupoudrer"> sucre </ingredient> cristallisé .
+</preparation>
+</recette>

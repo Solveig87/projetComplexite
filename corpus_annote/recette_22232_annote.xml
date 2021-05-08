@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22232">
+<titre>Pommes dauphines</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de pommes de terre</p>
+<p>125 g de farine</p>
+<p>75 g de beurre</p>
+<p>100 g ou 10 cl d'eau</p>
+<p>4 oeufs</p>
+<p>sel</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre à l' eau bouilante <operation> salée </operation> environ 30 minutes ( selon la taille ) . pendant ce temps , <operation ingredients="pâte"> préparez </operation> la <ingredient action="préparer"> pâte </ingredient> à choux : <operation ingredients="beurre"> portez </operation> à <operation> ébullition </operation> 10 cl d' eau avec le <ingredient action="porter" quantite="75 gramme"> beurre </ingredient> . <operation> salez </operation> et <operation ingredients="farine"> versez </operation> d' un coup la <ingredient action="verser" quantite="125 gramme"> farine </ingredient> , <operation> remuez </operation> énergiquement à la cuillère en bois jusqu' à ce que la <ingredient action="détache"> pâte </ingredient> se <operation ingredients="pâte"> détache </operation> des birds de la casserole . laissez <operation> tiédir </operation> puis <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> un à un , en <operation> mélangeant </operation> bien à chaque fois . <operation> egouttez </operation> et <operation ingredients="pommes"> pelez </operation> les <ingredient action="peler" quantite="500 gramme"> pommes </ingredient> de terre , écrasez - les en purée fine et <operation> ajoutez </operation> - les à la <ingredient> pâte </ingredient> à choux . <operation> salez </operation> et <operation> poivrez </operation> , puis laissez refroidir . <operation ingredients="noix"> formez </operation> ensuite des petites boules de la taille d' une <ingredient action="former"> noix </ingredient> avec vos mains <operation> farinées </operation> , ou utilisez une <operation> poche </operation> à douille . <operation ingredients="huile"> jetez </operation> - les dans l' <ingredient action="jeter" quantite=""> huile </ingredient> de friture bien chaude par petites quantités et laissez <operation> dorer </operation> 1 min environ .
+</preparation>
+</recette>

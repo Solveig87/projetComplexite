@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223283">
+<titre>Boulette de viande facon Hyacinthe</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 steaks hachés</p>
+<p>5 cuillères à soupe de sauce soja</p>
+<p>2 cuillères à soupe d'origan</p>
+<p>2 cuillères à soupe d'ail en poudre</p>
+<p>5 cuillères a soupe d'huile d'olive</p>
+<p>un peu de ciboulette fraiche ou séchée</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile;soja;origan;ail;ciboulette"> mettre </operation> l' <ingredient action="mettre"> huile </ingredient> d' olive , la sauce <ingredient action="mettre"> soja </ingredient> , l' <ingredient action="mettre" quantite="2 cuillère à soupe"> origan </ingredient> , l' <ingredient action="mettre" quantite="2 cuillère à soupe"> ail </ingredient> et la <ingredient action="mettre"> ciboulette </ingredient> dans un saladier , <operation> mélanger </operation> . ensuite , <operation ingredients="steaks"> mettre </operation> les <ingredient action="mettre" quantite="5"> steaks </ingredient> <operation> hachés </operation> dans le saladier et <operation ingredients="viande;soja"> mélanger </operation> avec les mains jusqu’ à ce que le <operation> mélange </operation> soit bien <operation> imprégné </operation> dans la <ingredient action="mélanger" quantite="5"> viande </ingredient> , la sauce <ingredient action="mélanger"> soja </ingredient> étant assez <ingredient> salé </ingredient> , <operation ingredients="sel;poivre"> mettre </operation> un peu de <ingredient action="mettre"> sel </ingredient> et du <ingredient action="mettre"> poivre </ingredient> . laisser <operation> mariner </operation> une bonne heure . après l' heure , <operation ingredients="viande"> former </operation> des boulettes de <ingredient action="former" quantite="5"> viande </ingredient> de la taille que vous voulez et <operation> mettre </operation> à <operation ingredients="huile"> cuire </operation> dans une <operation> poêle </operation> avec un peu d' <ingredient action="cuire"> huile </ingredient> d' olive . le temps de cuisson varie selon la taille de vos boulette mais vous ferez bien quand elle seront <operation> cuites </operation> . avec des <ingredient> spaghettis </ingredient> bolognaises , c' est très bon . bon appétit à vous !
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28922">
+<titre>Soupe de céleri au marsala</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>le 1/4 d'un céleri-rave</p>
+<p>40 g de beurre</p>
+<p>2 l de bouillon pour pot-au-feu</p>
+<p>10 cl de marsala (liqueur d'amande)</p>
+<p>60 g de parmesan râpé</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="céleri"> détailler </operation> le <ingredient action="détailler"> céleri </ingredient> en fine julienne , puis le faire <operation> revenir </operation> dans une <operation> poêle </operation> beurrée à feu doux . <operation ingredients="bouillon"> porter </operation> le <ingredient action="porter" quantite="2 l"> bouillon </ingredient> à <operation> ébullition </operation> . y <operation ingredients="céleri;sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> céleri </ingredient> , le marsala , le <ingredient action="ajouter"> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="parmesan"> parsemer </operation> de <ingredient action="parsemer" quantite="60 gramme"> parmesan </ingredient> râpé puis servir et déguster bien chaud .
+</preparation>
+</recette>

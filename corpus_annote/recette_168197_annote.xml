@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168197">
+<titre>Gâteau allégé au chocolat et jus de pomme</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs </p>
+<p>120g de chocolat noir</p>
+<p>1 c.à.c de sucre en poudre</p>
+<p>1/2 verre de jus pomme</p>
+<p>_ 1/2 sachet de levure</p>
+<p>_ 3 c.à.c de farine</p>
+</ingredients>
+<preparation>
+_ faire <operation ingredients="chocolat;jus"> fondre </operation> le <ingredient action="fondre" quantite="120 gramme"> chocolat </ingredient> avec le <ingredient action="fondre"> jus </ingredient> de pomme _ <operation> séparez </operation> les blancs des jaunes et <operation> réserver </operation> _ <operation ingredients="chocolat;sucre;farine;levure"> mettre </operation> dans le <operation> mélange </operation> <ingredient action="mettre" quantite="120 gramme"> chocolat </ingredient> les jaunes et le <ingredient action="mettre"> sucre </ingredient> et la <ingredient action="mettre"> farine </ingredient> ainsi que la <ingredient action="mettre"> levure </ingredient> _ <operation> battre </operation> les blancs en neige _ ensuite <operation> incorporer </operation> les blancs délicament dans le <operation> mélange </operation> chocolaté _ faire <operation ingredients="cidre"> cuire </operation> à 180 <operation> ° </operation> tout en suveillant et la cuisson <operation> change </operation> en fonction du <operation> moule </operation> utilisé un <ingredient action="cuire"> cidre </ingredient> doux
+</preparation>
+</recette>

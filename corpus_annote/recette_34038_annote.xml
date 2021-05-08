@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34038">
+<titre>Magret de canard et sa fondue d'oignons</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 magrets de canard</p>
+<p>6 gros oignons émincés</p>
+<p>50 g de raisins secs</p>
+<p>1 sachet de thé</p>
+<p>2 cuillères à soupe de vinaigre balsamique</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>anis étoilé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;thé"> gonfler </operation> les <ingredient action="gonfler" quantite="50 gramme"> raisins </ingredient> secs dans le <ingredient action="gonfler"> thé </ingredient> <operation> infusé </operation> . faire légérement <operation ingredients="oignons;huile"> dorer </operation> les <ingredient action="dorer" quantite="6"> oignons </ingredient> dans l' <ingredient action="dorer" quantite="1 cuillère à soupe"> huile </ingredient> . <operation ingredients="raisins;thé"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> raisins </ingredient> et le <ingredient action="ajouter"> thé </ingredient> , faire <operation action="confire" ingredients="confire"> confire </operation> environ 15 mn , jusqu' à évaporation du liquide . <operation ingredients="magrets"> inciser </operation> la peau des <ingredient action="inciser" quantite="2"> magrets </ingredient> . faire <operation ingredients="chair"> chauffer </operation> à sec une <operation> poêle </operation> , y faire <operation ingredients="magrets"> cuire </operation> les <ingredient action="cuire" quantite="2"> magrets </ingredient> , 5 mn côté peau et <operation> éliminer </operation> le gras rendu , puis 3 mn côté <ingredient action="chauffer"> chair </ingredient> . <operation> réserver </operation> au chaud dans du papier aluminium . <operation> remettre </operation> la <operation> poêle </operation> sur feu vif , <operation ingredients="vinaigre"> ajouter </operation> l' anis , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> et <operation> gratter </operation> les sucs de cuisson à l' aide d' une cuillère en bois . <operation ingredients="magrets"> détailler </operation> les <ingredient action="détailler" quantite="2"> magrets </ingredient> en biseaux , les <operation ingredients="oignons"> présenter </operation> avec la fondue d' <ingredient action="présenter" quantite="6"> oignons </ingredient> . <operation> napper </operation> de sauce et déguster sans attendre . <ingredient quantite="6"> légumes </ingredient> d' <operation> accompagnement </operation> : purée de <ingredient> patate </ingredient> douce .
+</preparation>
+</recette>

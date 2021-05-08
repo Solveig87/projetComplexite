@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67497">
+<titre>Salade liégoise au lard fumé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de haricots verts</p>
+<p>4 petites pommes de terre</p>
+<p>4 tranches épaisses de lard fume</p>
+<p>2 oignons</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>3 cuillères à soupe d'huile végétale</p>
+<p>5 cuillères à soupe de vinaigre de vin rouge</p>
+<p>2 tomates</p>
+<p>sel, poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à l' eau bouillante pendant 15 à 20 min . <operation> egoutter </operation> et laisser refroidir puis <operation> réserver </operation> au frais pendant au moins 20 min . <operation> laver </operation> et <operation ingredients="haricots"> écosser </operation> les <ingredient action="écosser" quantite="600 gramme"> haricots </ingredient> verts , les <operation> cuire </operation> 10 à 15 min dans l' eau bouillante . <operation> egoutter </operation> . <operation> eplucher </operation> et <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> , les faire <operation ingredients="beurre"> revenir </operation> avec du <ingredient action="revenir"> beurre </ingredient> puis <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter" quantite="600 gramme"> haricots </ingredient> vert . <operation> cuire </operation> le tout 3 à 5 min . au dernier moment , faire <operation> revenir </operation> et <operation ingredients="lard"> griller </operation> les tranches de <ingredient action="griller"> lard </ingredient> <operation> fumé </operation> et les maintenir au chaud . <operation ingredients="haricots;oignons"> répartir </operation> les <ingredient action="répartir" quantite="600 gramme"> haricots </ingredient> et les <ingredient action="répartir" quantite="2"> oignons </ingredient> dans deux assiettes . <operation ingredients="pommes;tomates"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre et les <ingredient action="couper" quantite="2"> tomates </ingredient> en quatre , et les <operation> mettre </operation> dans chaque assiette . <operation ingredients="huile;vinaigre"> verser </operation> une cuillères et demi d' <ingredient action="verser" quantite="3 cuillère à soupe"> huile </ingredient> et deux cuillères et demi de <ingredient action="verser" quantite="5 cuillère à soupe"> vinaigre </ingredient> , <operation> saler </operation> légèrement et <operation> poivrer </operation> puis les <operation ingredients="lard;persil"> garnir </operation> des tranches de <ingredient action="garnir"> lard </ingredient> et du <ingredient action="garnir" quantite="2 cuillère à soupe"> persil </ingredient> . on peut varier ce plat avec une vinaigrette à la <ingredient> moutarde </ingredient> .
+</preparation>
+</recette>

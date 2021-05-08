@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68722">
+<titre>Flognarde aux pommes et poires</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pommes et poires</p>
+<p>10 cl de rhum</p>
+<p>75 g de sucre semoule</p>
+<p>Pour la pâte :</p>
+<p>125 g de farine</p>
+<p>3 oeufs</p>
+<p>25 cl de lait</p>
+<p>50 g de sucre semoule</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;poires"> peler </operation> les <ingredient action="peler" quantite="400 gramme"> pommes </ingredient> et les <ingredient action="peler"> poires </ingredient> . oter les pépins . <operation> couper </operation> en fines rondelles . faire <operation ingredients="sucre;rhum"> macérer </operation> avec le <ingredient action="macérer" quantite="75 gramme+50 gramme"> sucre </ingredient> et le <ingredient action="macérer" quantite="10 cl"> rhum </ingredient> pendant une nuit . le lendemain , <operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> . dans une terrine , <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="125 gramme"> farine </ingredient> , <operation ingredients="sucre;sel;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="75 gramme+50 gramme"> sucre </ingredient> , le <ingredient action="ajouter"> sel </ingredient> et les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> entiers . <operation> délayer </operation> en <operation ingredients="farine"> incorporant </operation> progressivement la <ingredient action="incorporer" quantite="125 gramme"> farine </ingredient> . quand la <ingredient> pâte </ingredient> devient épaisse , <operation ingredients="lait"> ajouter </operation> peu à peu le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> , puis les <ingredient quantite="400 gramme"> fruits </ingredient> . <operation> verser </operation> dans un <operation> moule </operation> à manqué légèrement beurré et faire <operation> cuire </operation> à four moyen pendant 30 min ( thermostat 6 à 180 <operation> ° </operation> ) . <operation> démouler </operation> , <operation ingredients="gâteau"> retourner </operation> le <ingredient action="retourner"> gâteau </ingredient> et <operation> cuire </operation> l' autre face 5 min peut se <operation ingredients="cerises"> faire </operation> avec des <ingredient action="faire"> cerises </ingredient> .
+</preparation>
+</recette>

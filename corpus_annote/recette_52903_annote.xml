@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52903">
+<titre>Lapin aux châtaignes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/2 lapin</p>
+<p>500 g environ de châtaignes (en bocal, c'est parfait)</p>
+<p>le jus d'1 orange</p>
+<p>1/2 verre d'eau</p>
+<p>3 branches de thym</p>
+<p>1 pincée de cannelle</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="lapin"> dorer </operation> le <ingredient action="dorer"> lapin </ingredient> sur toutes ses faces ; <operation ingredients="foie"> réserver </operation> le <ingredient action="réserver"> foie </ingredient> . pendant ce temps , <operation ingredients="châtaignes"> écraser </operation> grossièrement les <ingredient action="écraser" quantite="500 gramme"> châtaignes </ingredient> dans un saladier . <operation ingredients="jus;cannelle;thym;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> d' orange , le demi verre d' eau , la <ingredient action="ajouter" quantite="1 pincée"> cannelle </ingredient> , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . une fois le <ingredient action="verser"> lapin </ingredient> doré , <operation ingredients="lapin;châtaignes"> verser </operation> la préparation aux <ingredient action="verser" quantite="500 gramme"> châtaignes </ingredient> , et laisser <operation> cuire </operation> 25 min à <operation> couvert </operation> , en <operation> remuant </operation> de temps en temps et en <operation> ajoutant </operation> un peu d' eau si nécessaire . 10 min avant la fin de cuisson , <operation ingredients="foie"> ajouter </operation> le <ingredient action="ajouter"> foie </ingredient> . pour <operation ingredients="champignons"> accompagner </operation> ce plat : une <operation> poêlée </operation> de <ingredient action="accompagner"> champignons </ingredient> forestiers .
+</preparation>
+</recette>

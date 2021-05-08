@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23050">
+<titre>Soupe de légumes à la Grecque - Fassoulatha (Grèce)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poireau</p>
+<p>4 carottes</p>
+<p>3 branches de céleri</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail (facultatif) </p>
+<p>1 tasse de persil (haché finement) </p>
+<p>5 tomates bien mûres ou 1 grosse boîte de tomates concassées</p>
+<p>1 boîte de haricots blancs</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>eau (pour recouvrir les légumes) </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> et <operation ingredients="poireaux"> laver </operation> les <ingredient action="laver"> poireaux </ingredient> , les <ingredient action="jeter" quantite="4"> carottes </ingredient> , le <ingredient action="jeter"> céleri </ingredient> , l' <ingredient action="jeter" quantite="1"> oignon </ingredient> , l' <ingredient action="jeter"> ail </ingredient> et les <ingredient action="jeter" quantite="5"> tomates </ingredient> et les <operation ingredients="carottes;céleri;oignon;ail;tomates"> jeter </operation> dans une cocotte . <operation ingredients="persil"> ajouter </operation> le <ingredient action="ajouter"> persil </ingredient> , les <ingredient> haricots </ingredient> ( préalablement <operation> rincés </operation> à l' eau ) et le <operation> concentré </operation> de <ingredient quantite="5"> tomate </ingredient> . <operation ingredients="légumes"> recouvrir </operation> les <ingredient action="recouvrir" quantite="4;1;5"> légumes </ingredient> d' eau et <operation> porter </operation> à <operation> ébullition </operation> . <operation> réduire </operation> le feu et laisser <operation> mijoter </operation> environ 30 mn . <operation> saler </operation> et <operation> poivrer </operation> au goût . je sers cette <ingredient> soupe </ingredient> <operation ingredients="pain"> accompagnée </operation> d' un bon <ingredient action="accompagner"> pain </ingredient> de campagne <operation> grillé </operation> , de <ingredient> fromage </ingredient> <ingredient> feta </ingredient> et d' <ingredient> olives </ingredient> noires ( pas dans la <ingredient> soupe </ingredient> ! a côté . . . ) avec un bon verre de <ingredient> vin </ingredient> , c' est un dîner idéal .
+</preparation>
+</recette>

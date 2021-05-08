@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71109">
+<titre>Thon au mascarpone avec concombres</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de thon</p>
+<p>175 g de mascarpone</p>
+<p>50 g de crème fraîche</p>
+<p>1 concombre</p>
+<p>sel, poivre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> mettre </operation> le <ingredient action="mettre"> thon </ingredient> bien émietté dans un saladier . <operation ingredients="mascarpone;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="175 gramme"> mascarpone </ingredient> et la <ingredient action="ajouter" quantite="50 gramme"> crème </ingredient> fraîche . bien <operation ingredients="poivre"> mélanger </operation> , <operation ingredients="sel"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> et les herbes de provence . <operation> mettre </operation> le tout dans un plat puis <operation ingredients="concombre"> entourer </operation> avec le <ingredient action="entourer" quantite="1"> concombre </ingredient> <operation> coupé </operation> en petit dés . servir bien frais .
+</preparation>
+</recette>

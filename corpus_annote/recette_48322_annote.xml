@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48322">
+<titre>Tajine de légumes d'Israël</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de quinoa (blanc ou rouge)</p>
+<p>2 poivrons (1 rouge et 1 vert)</p>
+<p>2 belles courgettes </p>
+<p>250 g de pois chiches </p>
+<p>100 g d'abricots secs </p>
+<p>100 g de raisins secs </p>
+<p>2 cubes de bouillon de légumes </p>
+<p>2 gousses d'ail </p>
+<p>huile d'olive </p>
+<p>2 zestes de citrons non traités</p>
+<p>1 cuillère à café de gingembre moulu </p>
+<p>1 cuillère à soupe de curry </p>
+<p>sésame grillé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pois;chiches"> cuire </operation> les <ingredient action="cuire"> pois </ingredient> <ingredient action="cuire" quantite="250 gramme"> chiches </ingredient> pendant 45 min dans 3 fois leur volume d' eau . dans une cocotte en fonte , faire <operation ingredients="poivrons;ail"> revenir </operation> les <ingredient action="revenir" quantite="2"> poivrons </ingredient> finement <operation> émincés </operation> puis les courgettes et l' <ingredient action="revenir"> ail </ingredient> de façon à ce qu' ils gardent tout leur <ingredient> croquant </ingredient> . dans une casserole , <operation ingredients="quinoa"> verser </operation> le <ingredient action="verser" quantite="250 gramme"> quinoa </ingredient> dans 3 fois leur volume d' eau ( il est conseillé pour plus de saveur de <operation ingredients="bouillon"> rajouter </operation> 2 cubes de <ingredient action="rajouter"> bouillon </ingredient> de légumes ) . quand l' eau est à peu prés absorbée , <operation> retirer </operation> le tout du feu . <operation ingredients="raisins"> mettre </operation> les <ingredient action="mettre" quantite="100 gramme"> raisins </ingredient> dans un bol <operation> rempli </operation> d' eau chaude quelques minutes pour les faire <operation> gonfler </operation> . <operation ingredients="légumes;pois;chiches;raisins;abricots;épices;citron"> ajouter </operation> aux <ingredient action="ajouter" quantite="2;250 gramme"> légumes </ingredient> le quinoa , les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter" quantite="250 gramme"> chiches </ingredient> , les <ingredient action="ajouter" quantite="100 gramme"> raisins </ingredient> , les <ingredient action="ajouter"> abricots </ingredient> , les <ingredient action="ajouter" quantite="2;;1 cuillère à soupe;;"> épices </ingredient> et les zestes de <ingredient action="ajouter"> citron </ingredient> . laisser à feu doux , s' il vous semble que cela est trop compact , <operation ingredients="bouillon"> rajouter </operation> un peu de <ingredient action="rajouter"> bouillon </ingredient> de légumes . servir ( pour la décoration vous pouvez <operation ingredients="gingembre"> raper </operation> du <ingredient action="raper"> gingembre </ingredient> frais et <operation ingredients="sésame"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite=""> sésame </ingredient> <operation> grillé </operation> ) bourgogne fruité
+</preparation>
+</recette>

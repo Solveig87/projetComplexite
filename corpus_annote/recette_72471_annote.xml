@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72471">
+<titre>Rôti de porc aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de porc dans l'échine de 1 kg</p>
+<p>1 petite boîte de tomates pelées ou en saison 4 tomates bien mûres</p>
+<p>300 g de champignons de Paris</p>
+<p>thym, laurier</p>
+<p>sel, poivre</p>
+<p>huile</p>
+<p>vin blanc sec</p>
+</ingredients>
+<preparation>
+dans une cocotte faire <operation ingredients="rôti;huile"> dorer </operation> le <ingredient action="dorer" quantite="1"> rôti </ingredient> dans un peu d' <ingredient action="dorer" quantite=""> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> coupées </operation> en 4 ( personnellement je laisse la peau des <ingredient> tomates </ingredient> fraîches et si j' utilise des <ingredient> tomates </ingredient> en conserve je ne <operation ingredients="jus"> met </operation> pas leur <ingredient action="mettre"> jus </ingredient> ) . <operation ingredients="vin;thym;laurier"> ajouter </operation> 1 / 2 verre de <ingredient action="ajouter" quantite=""> vin </ingredient> blanc , le <ingredient action="ajouter" quantite=""> thym </ingredient> et le <ingredient action="ajouter" quantite=""> laurier </ingredient> . laisser <operation> mijoter </operation> pendant une bonne heure et demi , il faut que le <ingredient quantite="1"> rôti </ingredient> devienne moelleux . pendant que le <ingredient action="cuire" quantite="1"> rôti </ingredient> <operation ingredients="rôti"> cuit </operation> , <operation ingredients="champignons"> préparer </operation> les <ingredient action="préparer" quantite="300 gramme"> champignons </ingredient> : les <operation> laver </operation> et les <operation> émincer </operation> . les faire suer à la <operation> poêle </operation> avec un peu d' <ingredient quantite=""> huile </ingredient> , les <operation> égoutter </operation> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> champignons </ingredient> à la cocotte 10 min avant la fin de la cuisson . servir avec des <ingredient> pâtes </ingredient> alsaciennes ou des <ingredient> patates </ingredient> <operation> sautées </operation> . bon et pas cher .
+</preparation>
+</recette>

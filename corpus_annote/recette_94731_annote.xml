@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94731">
+<titre>Velouté de potiron aux épices</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit potiron</p>
+<p>huile d'olive</p>
+<p>60 cl de bouillon de volaille</p>
+<p>1 cuil. à café de cannelle</p>
+<p>1 cuil. à café de cumin</p>
+<p>1 cuil. à soupe de curry</p>
+<p>1 bonne pincée de piment de cayenne</p>
+<p>sel, poivre</p>
+<p>20 cl crème fraîche</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="potiron"> revenir </operation> le <ingredient action="revenir" quantite="1"> potiron </ingredient> <operation> épluché </operation> , <operation> nettoyé </operation> ( sans les graines et les gros filaments ) et <operation ingredients="huile"> coupé </operation> en cubes avec un peu d' <ingredient action="couper" quantite=""> huile </ingredient> d' olive . <operation ingredients="bouillon"> mouillez </operation> à hauteur avec le <ingredient action="mouiller" quantite="60 cl"> bouillon </ingredient> de volaille . <operation ingredients="épices"> saupoudrez </operation> d' un <operation> mélange </operation> des <ingredient action="saupoudrer" quantite=";;"> épices </ingredient> . couvrez et faites <operation> cuire </operation> 30 mn à feu moyen . <operation> salez </operation> , <operation> poivrez </operation> et <operation> mixez </operation> . <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et servez avec des <ingredient> croutons </ingredient> dorés à l' <ingredient quantite=""> huile </ingredient> d' olive .
+</preparation>
+</recette>

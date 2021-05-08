@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68745">
+<titre>Gnocchis aux fruits de mer</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de gnocchis</p>
+<p>500 g de fruits de mer surgelés</p>
+<p>1 brique de 400g de bisque de homard</p>
+<p>2 cuillères à soupe de crème fraiche</p>
+<p>Facultatif : gruyère, olives noires</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> les gnocchis suivant les instructions marquées sur le paquet . pendant ce temps faire <operation ingredients="fruits"> décongeler </operation> au micro-ondes les <ingredient action="décongeler" quantite="500 gramme"> fruits </ingredient> de mer ( 5 min sont suffisantes ) puis bien les <operation> égoutter </operation> . dans un saladier <operation ingredients="homard;crème"> mélanger </operation> la bisque de <ingredient action="mélanger"> homard </ingredient> ainsi que la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> fraîche . <operation ingredients="gnocchis;fruits"> rajouter </operation> ensuite les <ingredient action="rajouter" quantite="400 gramme"> gnocchis </ingredient> et les <ingredient action="rajouter" quantite="500 gramme"> fruits </ingredient> de mer , bien <operation> mélanger </operation> le tout et <operation> mettre </operation> dans un plat allant au four . faire <operation> cuire </operation> 30 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) . les gourmands peuvent <operation> rajouter </operation> , avant de <operation ingredients="gruyère;olives"> passer </operation> au four , du <ingredient action="passer"> gruyère </ingredient> ou des <ingredient action="passer" quantite=""> olives </ingredient> noires dénoyautées ( mais attention la bisque est déjà très <operation> salée </operation> ) . plat complet parfait pour un soir .
+</preparation>
+</recette>

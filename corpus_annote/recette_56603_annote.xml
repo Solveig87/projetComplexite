@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56603">
+<titre>Toast à l'avocat et au lard fumé</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 grandes tranches de pain de mie</p>
+<p>1 avocat</p>
+<p>1 tomate</p>
+<p>4 tranches de lard fumé</p>
+<p>mayonnaise</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lard"> couper </operation> chaque tranche de <ingredient action="couper"> lard </ingredient> <operation> fumé </operation> en deux . les faire <operation> rissoler </operation> puis les <operation> réserver </operation> . <operation> toaster </operation> les tranches de <ingredient> pain </ingredient> de mie au <operation> grille </operation> <ingredient> pain </ingredient> . en attendant , <operation ingredients="avocat"> éplucher </operation> l' <ingredient action="éplucher" quantite="1"> avocat </ingredient> , le <operation> couper </operation> en deux pour le <operation> dénoyauter </operation> . puis <operation ingredients="avocat"> faire </operation> de fines tranches d' <ingredient action="faire" quantite="1"> avocat </ingredient> . <operation ingredients="mayonnaise;pain"> badigeonner </operation> un peu de <ingredient action="badigeonner" quantite=""> mayonnaise </ingredient> sur chaque tranche de <ingredient action="badigeonner"> pain </ingredient> de mie . <operation ingredients="avocat;lard;tomates"> positionner </operation> 2 ou 3 tranches d' <ingredient action="positionner" quantite="1"> avocat </ingredient> , 2 tranches de <ingredient action="positionner"> lard </ingredient> <operation> fumé </operation> , 1 rondelle de <ingredient action="positionner" quantite="1"> tomates </ingredient> . <operation> poivrer </operation> légèrement . <operation> réserver </operation> le tout pour le début du repas ou déguster de suite . c' est vrai que ce n' est pas très équilibré mais le <operation> mélange </operation> est déliceux ( surtout que la <ingredient quantite="1"> tomate </ingredient> rafraîchie le tout )
+</preparation>
+</recette>

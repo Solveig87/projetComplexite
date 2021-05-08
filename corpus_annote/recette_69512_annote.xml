@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69512">
+<titre>Avocat chaud</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 avocat</p>
+<p>1 toute boîte de concentrée de tomates</p>
+<p>4 rondelles de bûche de chèvre</p>
+<p>de l'huile d'olive</p>
+<p>1 peu d'herbes de Provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat"> pelez </operation> l' <ingredient action="peler" quantite="1"> avocat </ingredient> , <operation> coupez </operation> le en 2 dans sa longueur , puis <operation> retirez </operation> le noyau . <operation ingredients="avocat;huile"> déposez </operation> le demi <ingredient action="déposer" quantite="1"> avocat </ingredient> sur un peu d' <ingredient action="déposer" quantite=""> huile </ingredient> d' olive ( pour la presentation , vous pouvez <operation ingredients="avocat"> mettre </operation> chaque demi <ingredient action="mettre" quantite="1"> avocat </ingredient> dans un ramequin allant au four ) , <operation ingredients="avocat;tomate"> remplissez </operation> le creux de l' <ingredient action="remplir" quantite="1"> avocat </ingredient> du coulis de <ingredient action="remplir"> tomate </ingredient> . <operation ingredients="chèvre;huile"> ajoutez </operation> une à deux rondelles de bûche de <ingredient action="ajouter"> chèvre </ingredient> , puis un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et des herbes de provence <operation> enfournez </operation> à four chaud à 210 <operation> ° </operation> ( thermostat 7 ) pendant 10 min à 15 min . régalez -vous ! l' <ingredient quantite="1"> avocat </ingredient> cuit est au départ surprenant , mais à <operation> goûter </operation> absolument : c' est terrible !
+</preparation>
+</recette>

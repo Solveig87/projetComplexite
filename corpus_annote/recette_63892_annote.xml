@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63892">
+<titre>Potage forestier</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 échalottes</p>
+<p>100 g beurre</p>
+<p>1 cuillère de farine </p>
+<p>1 kg de champignons frais</p>
+<p>un jaune d'oeuf</p>
+<p>un pot de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> revenir </operation> les échalottes dans le <ingredient action="revenir"> beurre </ingredient> , <operation ingredients="farine;champignons"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère"> farine </ingredient> puis les <ingredient action="ajouter" quantite="1 kilogramme"> champignons </ingredient> <operation> coupés </operation> en morceaux . laisser <operation> mijoter </operation> avec un peu d' eau . a part , <operation ingredients="oeuf;crème"> mélanger </operation> le jaune d' <ingredient action="mélanger"> oeuf </ingredient> avec la <ingredient action="mélanger" quantite="1 pot"> crème </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . une fois les <ingredient action="ajouter" quantite="1 kilogramme"> champignons </ingredient> revenus , <operation ingredients="crème"> ajouter </operation> la préparation à base de <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> , <operation ingredients="champignons"> ajouter </operation> eau à convenance et <operation> mixer </operation> le tout . servir bien chaud . bon appétit .
+</preparation>
+</recette>

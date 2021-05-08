@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21832">
+<titre>Riz sauté à l'asiatique</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de riz</p>
+<p>100 g de jambon cuit</p>
+<p>2 oeufs</p>
+<p>50 g de jeunes pousses de bambou</p>
+<p>1/2 oignon haché</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> dans 2 , 5 fois son volume d' eau <operation> salée </operation> environ 20 min , <operation> égoutter </operation> et laisser refroidir . <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher"> oignon </ingredient> , le faire <operation ingredients="huile"> dorer </operation> dans l' <ingredient action="dorer" quantite="2 cuillère à soupe"> huile </ingredient> chaude . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> riz </ingredient> et <operation> remuer </operation> . <operation ingredients="jambon;pousses"> rajouter </operation> le <ingredient action="rajouter"> jambon </ingredient> <operation> découpée </operation> en morceaux et les <ingredient action="rajouter" quantite="50 gramme"> pousses </ingredient> de bambou <operation> émincées </operation> . <operation> remuer </operation> et <operation ingredients="soja"> mouiller </operation> avec la sauce <ingredient action="mouiller"> soja </ingredient> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette et les <operation> verser </operation> dans la <operation> poêle </operation> , <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> pendant quelques minutes jusqu' à ce que les <ingredient quantite="2"> oeufs </ingredient> soient pris .
+</preparation>
+</recette>

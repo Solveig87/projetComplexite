@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20680">
+<titre>Gratin d'épinards et carottes aux oignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g d’épinards</p>
+<p>500 g de carottes</p>
+<p>10 oignons blancs</p>
+<p>6 gousses d’ail</p>
+<p>3 brins d’estragon</p>
+<p>20 g de beurre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>10 cl de crème fraîche</p>
+<p>50 g de gruyère râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oignons;carottes"> détailler </operation> les <ingredient action="détailler" quantite="10"> oignons </ingredient> et les <ingredient action="détailler" quantite="500 gramme"> carottes </ingredient> en rondelles . les faire <operation ingredients="épinards"> cuire </operation> au cuit - vapeur ainsi que les <ingredient action="cuire"> épinards </ingredient> pendant 10 min . <operation> préparer </operation> la sauce : dans une casserole , faire <operation ingredients="beurre;moutarde;crème"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> avec la <ingredient action="fondre" quantite="1 cuillère à café"> moutarde </ingredient> <operation> délayée </operation> dans la <ingredient action="fondre" quantite="10 cl"> crème </ingredient> fraiche . <operation> saler </operation> , <operation> poivrer </operation> . dans un plat à gratin , <operation ingredients="épinards"> disposer </operation> les <ingredient action="disposer"> épinards </ingredient> au fond , les <operation ingredients="carottes"> recouvrir </operation> de <ingredient action="recouvrir" quantite="500 gramme"> carottes </ingredient> aux oignons , puis <operation> napper </operation> de sauce . <operation ingredients="gruyère"> saupoudrer </operation> le dessus de <ingredient action="saupoudrer" quantite="50 gramme"> gruyère </ingredient> râpé puis faire <operation> gratiner </operation> 10 min sur le grill .
+</preparation>
+</recette>

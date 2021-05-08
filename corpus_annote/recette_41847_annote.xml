@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41847">
+<titre>Charlotte martiniquaise</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pou la crème pâtissière :</p>
+<p>750 ml de lait</p>
+<p>3 jaunes d'oeufs</p>
+<p>8 cuillères à soupe rases de maïzéna</p>
+<p>100 g de sucre en poudre</p>
+<p>2 sachets de sucre vanillé Pour la charlotte :</p>
+<p>1 boîte de boudoirs </p>
+<p>4 cuillères à soupe de rhum</p>
+<p>4 cuillères à soupe d'eau</p>
+<p>250 g de pâte d'amandes</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> prélevez </operation> un verre de <ingredient action="prélever"> lait </ingredient> froid , afin de le <operation ingredients="oeufs;maïzéna"> mélanger </operation> avec les 3 jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et la <ingredient action="mélanger"> maïzéna </ingredient> . <operation> émulsionnez </operation> le tout . puis , faites <operation ingredients="lait;sucres"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> avec les <ingredient action="chauffer" quantite="100 gramme"> sucres </ingredient> , et la préparation précédente , ceci jusqu' à épaississement . <operation ingredients="crème"> laissez </operation> cette <ingredient action="laisser" quantite=""> crème </ingredient> pâtissière refroidir un peu . pendant ce temps , <operation ingredients="boudoirs;rhum"> garnir </operation> le <operation> moule </operation> à charlotte , avec les <ingredient action="garnir"> boudoirs </ingredient> <operation> trempés </operation> brièvement dans le <operation> mélange </operation> : <ingredient action="garnir" quantite="4 cuillère à soupe"> rhum </ingredient> + eau . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> bien tassée . après 12 h de refroidissement , <operation ingredients="gâteau;pâte"> recouvrir </operation> le <ingredient action="recouvrir"> gâteau </ingredient> avec la <ingredient action="recouvrir" quantite="250 gramme"> pâte </ingredient> d' amandes , étalée au rouleau . cette charlotte peut être <operation ingredients="cerises;confites"> garnie </operation> de <ingredient action="garnir"> cerises </ingredient> <ingredient action="garnir"> confites </ingredient> et angéliques , pour la déco . monbazillac
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228320">
+<titre>Soupe glacée aux amandes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de pain complet rassis</p>
+<p>60 cl de bouillon de poule ou 1 cube de bouillon</p>
+<p>100 g d'amandes blanchies et pelées</p>
+<p>2 gousses d'ail</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre balsamique</p>
+<p>1 pot de sauce tomate épicée</p>
+<p>4 pétales de tomate séchée (pour le décor)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> émiettez </operation> la mie de <ingredient action="émietter" quantite="100 gramme"> pain </ingredient> dans un saladier , <operation ingredients="bouillon"> versez </operation> 15 cl de <ingredient action="verser" quantite="60 cl"> bouillon </ingredient> de poule dessus , laissez <operation> tremper </operation> 5 min pour qu' elle soit bien <operation> ramollie </operation> . broyez les <ingredient quantite="100 gramme"> amandes </ingredient> et l' <ingredient> ail </ingredient> dans un robot puis <operation ingredients="pain"> ajoutez </operation> le <ingredient action="ajouter" quantite="100 gramme"> pain </ingredient> <operation ingredients="bouillon"> ramolli </operation> et son <ingredient action="ramollir" quantite="60 cl"> bouillon </ingredient> , l' <ingredient quantite="2 cuillère à soupe"> huile </ingredient> d' olive , le <ingredient quantite="2 cuillère à soupe"> vinaigre </ingredient> , la sauce tomate épicée , <operation> mixez </operation> ensemble puis <operation ingredients="bouillon"> ajoutez </operation> le reste du <ingredient action="ajouter" quantite="60 cl"> bouillon </ingredient> . <operation> versez </operation> dans des ramequins individuels , laissez refroidir au moins 2 h. au moment de servir , <operation ingredients="tomates"> décorez </operation> avec les pétales de <ingredient action="décorer"> tomates </ingredient> séchées .
+</preparation>
+</recette>

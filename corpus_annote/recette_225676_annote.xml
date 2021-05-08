@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225676">
+<titre>Bouillon express aux oignons nouveaux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 ou 5 tiges d'oignons nouveaux (ou 1 ou 2 oignons blancs)</p>
+<p>1 gousse d'ail</p>
+<p>1 tomate</p>
+<p>3 cuillères à soupe de vermicelles</p>
+<p>1 cube de bouillon de votre choix</p>
+<p>sel, poivre</p>
+<p>persil plat (facultatif)</p>
+<p>1 cuillerée à soupe de parmesan râpé</p>
+<p>1 noix de beurre</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="beurre;oignon"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et y faire <operation ingredients="ail"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> <operation> haché </operation> et les tiges d' <ingredient action="fondre"> oignon </ingredient> <operation> ciselées </operation> . puis <operation ingredients="tomate"> ajoutez </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> coupée </operation> en petits morceaux . <operation> poivrez </operation> , <operation> salez </operation> peu et <operation ingredients="bouillon"> ajoutez </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> puis 2 bols d' eau . faire <operation ingredients="bouillons"> cuire </operation> 5 minutes à petits <ingredient action="cuire"> bouillons </ingredient> , puis <operation ingredients="vermicelles;parmesan"> ajoutez </operation> les <ingredient action="ajouter" quantite="3 cuillère à soupe"> vermicelles </ingredient> et le <ingredient action="ajouter"> parmesan </ingredient> et <operation> cuisez </operation> encore trois minutes . <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter"> persil </ingredient> plat <operation> ciselé </operation> si vous en avez . servez bien chaud avec du <ingredient> pain </ingredient> <operation> grillé </operation> . ce <ingredient> bouillon </ingredient> <operation> préparé </operation> en un clin d' oeil est délicieux pour le soir , léger mais nourrissant selon la quantité de <ingredient quantite="3 cuillère à soupe"> vermicelles </ingredient> que vous y <operation> mettrez </operation> .
+</preparation>
+</recette>

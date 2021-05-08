@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21139">
+<titre>Tomates farcies à la crème de thon aillée</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>3 pommes de terre cuites</p>
+<p>1 boite de thon au naturel</p>
+<p>2 gousses d'ail</p>
+<p>18 cl d'huile</p>
+<p>1 jaune d'oeuf</p>
+<p>2 cuillères à soupe de jus de citron</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> un chapeau aux <ingredient action="couper" quantite="4"> tomates </ingredient> et les <operation ingredients="chair"> vider </operation> de leur <ingredient action="vider"> chair </ingredient> . <operation ingredients="ail"> réduire </operation> l' <ingredient action="réduire"> ail </ingredient> en purée , <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> puis <operation> fouetter </operation> en <operation ingredients="huile"> versant </operation> l' <ingredient action="verser" quantite="18 cl"> huile </ingredient> en filet jusqu' à obtention d' une sauce <operation> émulsionnée </operation> relativement épaisse . <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> jus </ingredient> de citron . <operation ingredients="pommes"> ecraser </operation> les <ingredient action="ecraser" quantite="3"> pommes </ingredient> de terre en purée , <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> , la sauce et <operation> malaxer </operation> jusqu' à obtention d' une préparation homogène . <operation ingredients="tomates"> farcir </operation> les <ingredient action="farcir" quantite="4"> tomates </ingredient> de cette préparation et servir frais .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16975">
+<titre>Lotte à l'Armoricaine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 queue de lotte de 1 kg préparée par votre poissonnier</p>
+<p>1 petite boîte de tomates pelées</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>4 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>1 douzaine de petits oignons grelots</p>
+<p>20 cl de vin blanc sec</p>
+<p>5 cl de cognac</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe d'huile d'arachide</p>
+<p>1 pincée de piment de Cayenne </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> pelez </operation> et <operation ingredients="échalotes"> hachez </operation> les 4 <ingredient action="hacher" quantite="4"> échalotes </ingredient> . <operation> pelez </operation> et <operation ingredients="gousse"> pressez </operation> la <ingredient action="presser" quantite="1"> gousse </ingredient> d' ail . <operation ingredients="oignons"> pelez </operation> la douzaine d' <ingredient action="peler"> oignons </ingredient> grelots . <operation ingredients="tomates;tomates;vin"> ouvrez </operation> la boîte de <ingredient action="ouvrir"> tomates </ingredient> et <operation> coupez </operation> - les . <operation> délayez </operation> le <operation> concentré </operation> de <ingredient action="ouvrir"> tomates </ingredient> dans les 20 cl de <ingredient action="ouvrir" quantite="20 cl"> vin </ingredient> blanc . dans une cocotte en fonte , faites <operation ingredients="beurre;huile"> chauffer </operation> le <ingredient action="chauffer" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> et y faire <operation ingredients="lotte"> colorer </operation> à feu vif les tranches de <ingredient action="colorer"> lotte </ingredient> puis les <operation ingredients="cognac"> flamber </operation> avec le <ingredient action="flamber" quantite="5 cl"> cognac </ingredient> . <operation> retirez </operation> et <operation> placez </operation> sur une assiette , <operation ingredients="échalotes;ail;oignons;tomates;vin;tomates"> mettez </operation> à la <operation> place </operation> les <ingredient action="mettre" quantite="4"> échalotes </ingredient> , l' <ingredient action="mettre"> ail </ingredient> , les <ingredient action="mettre"> oignons </ingredient> , les <ingredient action="mettre"> tomates </ingredient> et le <ingredient action="mettre" quantite="20 cl"> vin </ingredient> dans lequel est délayé le <operation> concentré </operation> de <ingredient action="mettre"> tomates </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> , <operation> ajoutez </operation> le piment et laissez <operation> mijoter </operation> environ 20 mn à <operation> découvert </operation> . <operation ingredients="lotte"> remettez </operation> la <ingredient action="remettre"> lotte </ingredient> dans la sauce , <operation> couvrez </operation> et laissez <operation> cuire </operation> encore 20 mn . <operation ingredients="légumes;carottes"> accompagnez </operation> de <ingredient action="accompagner" quantite="4"> légumes </ingredient> , pommes de terre et <ingredient action="accompagner"> carottes </ingredient> cuites vapeur .
+</preparation>
+</recette>

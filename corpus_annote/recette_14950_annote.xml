@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14950">
+<titre>Couronne de pétoncles, sauce à l'orange</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>10 ml beurre</p>
+<p>15 ml oignon haché</p>
+<p>2 gousses d'ail hachées</p>
+<p>60 ml tomate concassée</p>
+<p>2 ml de sel</p>
+<p>1 ml de poivre</p>
+<p>16 grosses pétoncles cuites</p>
+<p>Pour la sauce à l'orange :</p>
+<p>30 ml vin blanc sec</p>
+<p>30 ml vinaigre de vin blanc</p>
+<p>30 ml jus d'orange</p>
+<p>90 ml crème à 35%</p>
+<p>2 gouttes de sauce tabasco (sauce piquante)</p>
+<p>15 ml basilic frais haché</p>
+<p>30 ml beurre froid en morceaux</p>
+<p>Pour le service :</p>
+<p>12 suprêmes d'orange</p>
+<p>4 feuilles de basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> faire </operation> la garniture de <ingredient action="faire"> tomate </ingredient> : faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter"> oignon </ingredient> et ail et faire suer à feu doux pendant 3 min . <operation ingredients="tomate;sel"> ajouter </operation> la <ingredient action="ajouter"> tomate </ingredient> , le <ingredient action="ajouter"> sel </ingredient> , poivre et <operation> réserver </operation> au chaud . <operation ingredients="pétoncles"> parer </operation> les <ingredient action="parer" quantite="16"> pétoncles </ingredient> et les <operation> couper </operation> en deux dans le sens de l' épaisseur . sauce à l' <ingredient> orange </ingredient> : <operation ingredients="vin;vinaigre;jus"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer"> vin </ingredient> blanc , le <ingredient action="déglacer"> vinaigre </ingredient> et le <ingredient action="déglacer"> jus </ingredient> d' orange . faire <operation> réduire </operation> de moitié . <operation ingredients="crème;tabasco"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> , sauce <ingredient action="ajouter"> tabasco </ingredient> , basilic et laisser <operation> mijoter </operation> pendant quelques minutes ( environ 10 min ) . <operation> retirer </operation> la <operation> poêle </operation> du feu . <operation ingredients="beurre"> incorporer </operation> du <ingredient action="incorporer"> beurre </ingredient> peu à peu en <operation> fouettant </operation> constamment jusqu' à obtention d' une consistance crémeuse . ne pas <operation> remettre </operation> sur le feu . service : <operation ingredients="orange"> napper </operation> le fond de l' assiette avec la sauce à l' <ingredient action="napper"> orange </ingredient> . <operation ingredients="pétoncles"> placer </operation> les <ingredient action="placer" quantite="16"> pétoncles </ingredient> en <operation> forme </operation> de couronne . <operation ingredients="tomate"> garnir </operation> le centre de <ingredient action="garnir"> tomate </ingredient> <operation> concassée </operation> . <ingredient> vin </ingredient> blanc ( par exemple un chardonnay north coast )
+</preparation>
+</recette>

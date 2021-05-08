@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27627">
+<titre>Tranches de cervelle de veau crousti-moelleuses</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 cervelle de veau</p>
+<p>1 l de court-bouillon</p>
+<p>1 oeuf</p>
+<p>20 g de farine</p>
+<p>20 g de chapelure</p>
+<p>20 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="cervelle"> nettoyer </operation> soigneusement la <ingredient action="nettoyer" quantite="1"> cervelle </ingredient> et <operation> retirer </operation> la membrane transparente qui l' <operation> entoure </operation> . la <operation> cuire </operation> 10 minutes dans le court-bouillon et l' <operation> égoutter </operation> . <operation ingredients="cervelle"> couper </operation> la <ingredient action="couper" quantite="1"> cervelle </ingredient> en tranches . <operation ingredients="farine;oeuf;chapelure"> passer </operation> successivement dans la <ingredient action="passer" quantite="20 gramme"> farine </ingredient> , l' <ingredient action="passer" quantite="1"> oeuf </ingredient> <operation> battu </operation> et la <ingredient action="passer" quantite="20 gramme"> chapelure </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> et y <operation ingredients="cervelles"> déposer </operation> les tranches de <ingredient action="déposer" quantite="1"> cervelles </ingredient> . laisser <operation> cuire </operation> environ 10 minutes jusqu' à ce que cela soit bien doré de chaque côté .
+</preparation>
+</recette>

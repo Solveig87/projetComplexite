@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39638">
+<titre>Ragoût de veau anna aux pruneaux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g d'épaule de veau</p>
+<p>750 g de petits pois</p>
+<p>4 carottes (épluchées et coupées en rondelles)</p>
+<p>200 g de pruneaux</p>
+<p>4 pommes de terre à chair ferme (épluchées et coupées en cubes)</p>
+<p>3 oignons</p>
+<p>1 gousse d'ail </p>
+<p>1 cube de bouillon de boeuf</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;ail;oignons"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> de veau <operation> coupée </operation> en morceaux avec l' <ingredient action="revenir"> ail </ingredient> et les <ingredient action="revenir" quantite="3"> oignons </ingredient> . <operation> fariner </operation> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="bouillon"> mouiller </operation> avec 25 cl de <ingredient action="mouiller"> bouillon </ingredient> de boeuf . laisser <operation> cuire </operation> 45 min . <operation ingredients="légumes;pruneaux"> ajouter </operation> les <ingredient action="ajouter" quantite="750 gramme;4;4;3"> légumes </ingredient> et les <ingredient action="ajouter" quantite="200 gramme"> pruneaux </ingredient> . laisser encore <operation> cuire </operation> 30 min .
+</preparation>
+</recette>

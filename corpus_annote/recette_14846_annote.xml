@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14846">
+<titre>Salade de scampis aux lardons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de scampis cuits</p>
+<p>250 g de lardons émincés</p>
+<p>salade mélangée (quantité pour 4, types de salade selon vos goûts)</p>
+<p>pignons de pin</p>
+<p>100 g de framboises</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="scampis;lardons"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> scampis </ingredient> puis les <ingredient action="revenir"> lardons </ingredient> dans une <operation> poêle </operation> . <operation> mettre </operation> de coté . pendant ce temps , <operation ingredients="salade"> dresser </operation> la <ingredient action="dresser" quantite=""> salade </ingredient> sur les assiettes et <operation ingredients="pignons"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> pignons </ingredient> de pin . <operation ingredients="épices"> préparer </operation> la sauce : <operation ingredients="framboises;sucre"> mixer </operation> les <ingredient action="mixer" quantite="100 gramme"> framboises </ingredient> avec le <ingredient action="mixer" quantite="1 cuillère à soupe"> sucre </ingredient> , <operation ingredients="huile;vinaigre"> ajouter </operation> l' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> , ainsi que les <ingredient action="préparer" quantite="4 cuillère à soupe;2 cuillère à soupe;"> épices </ingredient> . <operation ingredients="scampis;lardons;salade"> poser </operation> les <ingredient action="poser" quantite="500 gramme"> scampis </ingredient> et les <ingredient action="poser"> lardons </ingredient> sur la <ingredient action="poser" quantite=""> salade </ingredient> et <operation> verser </operation> la sauce . servir sans attendre . fort apprécié par les invités et très simple à réaliser un <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19801">
+<titre>Crème glacée aux marrons</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>50 cl de crème liquide</p>
+<p>150 g de sucre semoule</p>
+<p>3 jaunes d'oeufs</p>
+<p>200 g de brisures de marrons glacés</p>
+<p>10 cl de liqueur de whisky</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;crème"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> et la <ingredient action="bouillir" quantite="50 cl"> crème </ingredient> . <operation> verser </operation> ce <operation> mélange </operation> sur les jaunes en tournant très vivement à la spatule . sur un feu moyen , <operation ingredients="crème"> cuire </operation> la <ingredient action="cuire" quantite="50 cl"> crème </ingredient> en la tournant sans cesse , sans la faire <operation> bouillir </operation> , jusqu' à ce qu' elle nappe la spatule . la <operation> filtrer </operation> dans un chinois , y <operation ingredients="liqueur"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> liqueur </ingredient> et faire <operation> glacer </operation> dans une sorbetière . lorsque la <ingredient quantite="50 cl"> crème </ingredient> est prise , <operation ingredients="marrons"> ajouter </operation> les brisures de <ingredient action="ajouter"> marrons </ingredient> , <operation> mélanger </operation> et <operation> réserver </operation> au congélateur dans un bac à glace ou un pot .
+</preparation>
+</recette>

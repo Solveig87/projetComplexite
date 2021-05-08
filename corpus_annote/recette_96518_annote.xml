@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="96518">
+<titre>Soupe asiatique au lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 cL lait de coco</p>
+<p>1 bouillon Cube boeuf</p>
+<p>2 c à s Sauce de soja sucré</p>
+<p>4 cl Sauce Nuoc Nam</p>
+<p>200 g Tomates cerises</p>
+<p>300 g Soja frais</p>
+<p>coriandre fraîche</p>
+<p>4 blancs de poulet</p>
+<p>Gingembre</p>
+<p>Piment de Cayenne</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon;bouillon;boeuf;lait"> faire </operation> un <ingredient action="faire" quantite="1"> bouillon </ingredient> avec 300 ml d' eau , le <ingredient action="faire" quantite="1"> bouillon </ingredient> cube de <ingredient action="faire"> boeuf </ingredient> et le <ingredient action="faire" quantite="60 cl"> lait </ingredient> de coco . <operation ingredients="gingembre"> ajouter </operation> la sauce nuoc nam et la sauce de soja , piment , <ingredient action="ajouter" quantite=""> gingembre </ingredient> , le piment . réajuster en goutant le <ingredient quantite="1"> bouillon </ingredient> . faire <operation ingredients="poulet"> cuire </operation> les blancs de <ingredient action="cuire"> poulet </ingredient> <operation ingredients="bouillon"> découpés </operation> en morceaux dans le <ingredient action="découper" quantite="1"> bouillon </ingredient> . servir le <ingredient quantite="1"> bouillon </ingredient> dans un bol avec le soja au fond , <operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="200 gramme"> tomates </ingredient> de cerise , et <operation ingredients="coriandre"> ajouter </operation> les feuilles de <ingredient action="ajouter" quantite=""> coriandre </ingredient> .
+</preparation>
+</recette>

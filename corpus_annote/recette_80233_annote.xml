@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80233">
+<titre>Omelette de lait</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>150 g de farine</p>
+<p>50 cl de lait</p>
+<p>sel et sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;farine;lait;sel"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> , la <ingredient action="battre" quantite="150 gramme"> farine </ingredient> et le <ingredient action="battre" quantite="50 cl"> lait </ingredient> , avec une pincée <ingredient action="battre" quantite=""> sel </ingredient> et une cuillère à soupe de sucre . faire <operation ingredients="matière;crêpe"> cuire </operation> l' omelette dans une <operation> poêle </operation> avec un peu de <ingredient action="cuire"> matière </ingredient> grasse , et comme une <ingredient action="cuire"> crêpe </ingredient> : une face puis l' autre . <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> en <operation> poudre </operation> une fois cuite . servir avec une <ingredient> salade </ingredient> . comme chez papi et mamie !
+</preparation>
+</recette>

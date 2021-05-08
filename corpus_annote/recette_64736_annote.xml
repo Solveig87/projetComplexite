@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64736">
+<titre>Soupe Pikolito, au lait de coco et potiron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 petit morceau de potiron (300 g environ)</p>
+<p>2 carottes</p>
+<p>3 petites échalotes</p>
+<p>une boite de lait de coco</p>
+<p>un gros bouquet de coriandre</p>
+<p>une cuillère à soupe de curry</p>
+<p>un bouillon de poule ou au légumes (ou au épices)</p>
+<p>1,75 l d'eau</p>
+<p>Pour changer :</p>
+<p>Cardamome, citronnelle... </p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;potiron"> eplucher </operation> les <ingredient action="eplucher" quantite="2"> carottes </ingredient> et le <ingredient action="eplucher"> potiron </ingredient> , les <operation> couper </operation> en morceaux ( éventuellement , <operation> râper </operation> grossièrement les <ingredient action="cuire" quantite="2"> carottes </ingredient> pour qu' elles <operation ingredients="carottes"> cuisent </operation> bien ) , <operation ingredients="échalotes"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> échalotes </ingredient> . les <operation ingredients="curry;bouillon"> mettre </operation> dans une cocotte d' eau bouillante avec le <ingredient action="mettre" quantite="1 cuillère à soupe"> curry </ingredient> , et le <ingredient action="mettre" quantite="1"> bouillon </ingredient> . laisser <operation ingredients="légumes"> cuire </operation> jusqu' à ce que les <ingredient action="cuire" quantite="2;3;1"> légumes </ingredient> soient fondants , puis <operation> mixer </operation> ( l' idéal est d' utiliser un mixeur plongeur ) , <operation ingredients="lait;coriandre"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> de coco et la <ingredient action="ajouter"> coriandre </ingredient> grossièrement hachée . laisser <operation> chauffer </operation> . la <ingredient> soupe </ingredient> est prête ! cette <ingredient> soupe </ingredient> légèrement <operation> sucrée </operation> peut se <operation ingredients="tomates;cerises"> faire </operation> en <operation> accompagnement </operation> de brochettes satay , par exemple , ou d' une tartine <operation> garnie </operation> à la brousse et aux <ingredient action="faire"> tomates </ingredient> <ingredient action="faire"> cerises </ingredient> . . . laissez parler votre imagination ! cette <ingredient> soupe </ingredient> peut être très différente si l' on <operation ingredients="coriandre;cannelle"> change </operation> la <ingredient action="changer"> coriandre </ingredient> pour de la <ingredient action="changer"> cannelle </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27697">
+<titre>Super croquettes de poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet (ou de dinde) </p>
+<p>3 oeufs</p>
+<p>chapelure</p>
+<p>persillade</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> émincez </operation> les <ingredient action="émincez" quantite="2"> escalopes </ingredient> . <operation ingredients="oeufs;persillade;sel;poivre"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> avec la <ingredient action="battre" quantite=""> persillade </ingredient> , le <ingredient action="battre" quantite=""> sel </ingredient> , le <ingredient action="battre" quantite=""> poivre </ingredient> . <operation ingredients="escalope;oeuf;chapelure"> plongez </operation> chaque morceaux d' <ingredient action="plonger" quantite="2"> escalope </ingredient> dans l' <ingredient action="plonger" quantite="3"> oeuf </ingredient> puis dans la <ingredient action="plonger" quantite=""> chapelure </ingredient> ( renouvelez une deuxième fois ) . les <operation ingredients="huile"> cuire </operation> à la <operation> poêle </operation> dans un fond d' <ingredient action="cuire"> huile </ingredient> et les <operation> mettre </operation> sur du papier absorbant . ils peuvent se déguster en <ingredient quantite="3"> apéritif </ingredient> ou en plat <operation ingredients="salade;pois"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> ou de petit <ingredient action="accompagner"> pois </ingredient> , frites , purée . . . .
+</preparation>
+</recette>

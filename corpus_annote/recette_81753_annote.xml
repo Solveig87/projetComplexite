@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81753">
+<titre>Chachouka de ma Grand-Mère</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 grosses tomates</p>
+<p>4 poivrons rouges</p>
+<p>1 tête d'ail (ou 4 gousses)</p>
+<p>huile d'olive</p>
+<p>persil</p>
+<p>poivre</p>
+<p>piment de Cayenne</p>
+<p>curry</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> vider </operation> les <ingredient action="vider"> poivrons </ingredient> et les <operation> couper </operation> en dés . <operation ingredients="tomates"> couper </operation> également les <ingredient action="couper" quantite="6"> tomates </ingredient> en dés . <operation ingredients="gousses"> hacher </operation> finement les <ingredient action="hacher"> gousses </ingredient> d' ail , et les <operation ingredients="poivrons;tomates"> ajouter </operation> aux <ingredient action="ajouter"> poivrons </ingredient> et aux <ingredient action="ajouter" quantite="6"> tomates </ingredient> , puis <operation> mixer </operation> le tout . faire <operation> revenir </operation> le <operation> mélange </operation> à feu vif pendant quelques minutes , pour faire évaporer l' eau . baisser le feu , et <operation ingredients="huile"> arroser </operation> généreusement d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive ( 5 à 6 cuillères à soupe ) . <operation ingredients="persil"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> , haché finement , et laisser <operation> mijoter </operation> 20 bonnes min . <operation ingredients="poivre;curry"> ajouter </operation> généreusement <ingredient action="ajouter" quantite=""> poivre </ingredient> , piment de cayenne et <ingredient action="ajouter" quantite=""> curry </ingredient> . bien <operation> mélanger </operation> , et servir bien chaud . la chachouka est un plat assez lourd et gras , elle peut donc être servie seule , en plat principal . ceci dit , on peut la servir très froide ( l' ayant donc laissée <operation> reposer </operation> au réfrigérateur en bon moment ) , en petite quantité , pour l' entrée . cette chachouka , plat typiquement juif , est la recette d' une vraie mamma yiddish !
+</preparation>
+</recette>

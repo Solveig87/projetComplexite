@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84081">
+<titre>Crêpes du vieux moulin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuillères à café de farine </p>
+<p>100 g de margarine</p>
+<p>1 l de lait demi-écrémé</p>
+<p>100 g de gruyère râpé</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>Un peu de chapelure</p>
+<p>10 crêpes salées</p>
+<p>10 tranches de jambon cuit</p>
+</ingredients>
+<preparation>
+<operation ingredients="margarine"> mettez </operation> la <ingredient action="mettre" quantite="100 gramme"> margarine </ingredient> dans une petite casserole , faites - la <operation> fondre </operation> ( sans laisser <operation> brunir </operation> ) , <operation ingredients="farine"> introduisez </operation> la <ingredient action="introduire" quantite="4 cuillère à café"> farine </ingredient> , <operation> mélangez </operation> à l' aide d' un fouet , <operation ingredients="lait"> introduisez </operation> le <ingredient action="introduire" quantite="1 l"> lait </ingredient> , faites bien prendre la sauce . ensuite <operation ingredients="gruyère;tomate"> ajoutez </operation> du <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> râpé , et enfin la boîte de <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> , tenez hors feu . <operation ingredients="crêpes"> roulez </operation> les <ingredient action="rouler" quantite="10"> crêpes </ingredient> une par une avec une tranche de <ingredient> jambon </ingredient> , <operation> mettez </operation> - les dans un plat à gratin l' une à coté de l' autre , <operation ingredients="crêpes"> recouvrez </operation> les <ingredient action="recouvrir" quantite="10"> crêpes </ingredient> de sauce , <operation ingredients="chapelure"> mettez </operation> un peu de <ingredient action="mettre"> chapelure </ingredient> , et <operation> placez </operation> dans le four chaleur tournante à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 25 min ( vous pouvez le <operation> placer </operation> sous le grill si vous voulez plus croustillant ) .
+</preparation>
+</recette>

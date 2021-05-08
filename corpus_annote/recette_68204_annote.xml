@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68204">
+<titre>Mousse aux deux jambons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de jambon</p>
+<p>200 g de jambon fumé</p>
+<p>30 cl de bouillon de viande</p>
+<p>10 g de gélatine en feuilles</p>
+<p>50 cl de crème fraîche épaisse</p>
+<p>poivre</p>
+<p>paprika</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> tremper </operation> les feuilles de <ingredient action="tremper" quantite="10 gramme"> gélatine </ingredient> dans de l' eau froide pour les <operation> ramollir </operation> . <operation ingredients="jambon"> passer </operation> les 2 sortes de <ingredient action="passer" quantite="200 gramme+200 gramme"> jambon </ingredient> au <operation> hache </operation> - <ingredient quantite="200 gramme+200 gramme"> viande </ingredient> ( ou au <operation> mixer </operation> ) , <operation> hacher </operation> le plus finement possible . <operation ingredients="gélatine;bouillon"> mettre </operation> les feuilles de <ingredient action="mettre" quantite="10 gramme"> gélatine </ingredient> dans le <ingredient action="mettre" quantite="30 cl"> bouillon </ingredient> de viande chaud et <operation ingredients="jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme+200 gramme"> jambon </ingredient> . ensuite <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> + poivre et paprika . <operation> verser </operation> dans un <operation> moule </operation> ( style moule à cake rectangulaire ) et <operation> réserver </operation> au réfrigérateur au moins 12 h. pour servir , <operation> démouler </operation> et <operation> couper </operation> en tranches .
+</preparation>
+</recette>

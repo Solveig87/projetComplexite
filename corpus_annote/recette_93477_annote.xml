@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93477">
+<titre>Purée de carotte-citron pour bébé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 carotte</p>
+<p>1 pomme de terre </p>
+<p>1 cuillère a soupe de crème fraiche</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pomme;carotte"> éplucher </operation> la <ingredient action="éplucher" quantite="1"> pomme </ingredient> de terre et la <ingredient action="éplucher" quantite="1"> carotte </ingredient> et les <operation> couper </operation> en morceaux . faire <operation ingredients="légumes"> cuire </operation> les 2 <ingredient action="cuire" quantite="1;1"> légumes </ingredient> à la vapeur ( type baby cook ) environ 10 minutes . <operation> mixer </operation> en <operation ingredients="crème;jus"> ajoutant </operation> la <ingredient action="ajouter"> crème </ingredient> et le <ingredient action="ajouter" quantite="1"> jus </ingredient> de citronc’ est prêt !
+</preparation>
+</recette>

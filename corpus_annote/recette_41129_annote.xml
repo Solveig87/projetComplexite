@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41129">
+<titre>Club sandwich américain</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de pain rôtis beurrées</p>
+<p>1/2 tasse de poulet cuit et tiède (viande blanche) </p>
+<p>4 tranches de tomates</p>
+<p>8 tranches de bacon</p>
+<p>laitue </p>
+<p>Mayonnaise</p>
+</ingredients>
+<preparation>
+un <ingredient action="composer"> sandwich </ingredient> est <operation ingredients="sandwich;pain"> composé </operation> de 3 tranches de <ingredient action="composer"> pain </ingredient> . voici les étapes pour 1 <ingredient> sandwich </ingredient> : sur une tranche de <ingredient> pain </ingredient> <operation> beurrée </operation> , <operation ingredients="bacon;laitue"> déposez </operation> 4 tranches de <ingredient action="déposer" quantite="8 tranche"> bacon </ingredient> , puis de la <ingredient action="déposer" quantite=""> laitue </ingredient> . <operation ingredients="pain"> déposez </operation> une autre tranche de <ingredient action="déposer"> pain </ingredient> . <operation ingredients="poulet;tomates"> ajoutez </operation> du <ingredient action="ajouter"> poulet </ingredient> , et 2 tranches de <ingredient action="ajouter" quantite="4 tranche"> tomates </ingredient> sur le desssus , pour ensuite fermer le <ingredient> sandwich </ingredient> avec une autre tranche de <ingredient> pain </ingredient> . <operation> pressez </operation> bien , et <operation> coupez </operation> le tout en x pour faire des 4 triangles . <operation> insérez </operation> un cure - dent dans chaque partie du triangle , pour bien faire tenir . certaines personnes préfèrent <operation ingredients="mayonnaise;pain;mayonnaise"> mettre </operation> de la <ingredient action="mettre" quantite=""> mayonnaise </ingredient> sur les tranches de <ingredient action="mettre"> pain </ingredient> , d' autre la tartineront de <ingredient action="mettre" quantite=""> mayonnaise </ingredient> en mangeant . . . servir avec des frites , <ingredient> salade </ingredient> de chou crémeuse , et un " dill <ingredient> pickle </ingredient> " . bon appétit ! typique des restaurants américains .
+</preparation>
+</recette>

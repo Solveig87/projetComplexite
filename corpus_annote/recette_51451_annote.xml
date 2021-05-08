@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51451">
+<titre>Risotto safrané au saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>350 g de riz arborio</p>
+<p>1 oignon</p>
+<p>10 cl de vin blanc</p>
+<p>150 g de lardons de saumon fumé</p>
+<p>50 cl de bouillon de volaille</p>
+<p>parmesan râpé</p>
+<p>2 dosettes de safran</p>
+<p>40 g de beurre</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> et y <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> . <operation ingredients="riz"> remuer </operation> lentement jusqu' à ce que le <ingredient action="remuer"> riz </ingredient> soit translucide . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> et laisser évaporer . lorsque le <ingredient quantite="10 cl"> vin </ingredient> est évaporé , <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="50 cl"> bouillon </ingredient> petit à petit tout en <operation> remuant </operation> réguliérement . veiller à <operation ingredients="bouillon"> mettre </operation> de côté une louche de <ingredient action="mettre" quantite="50 cl"> bouillon </ingredient> . la cuisson du <ingredient> riz </ingredient> doit prendre environ 13 minutes . lorsque le <ingredient action="cuire"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> ( le liquide est absorbé et le <ingredient> riz </ingredient> est ferme et <operation> fondant </operation> à la fois ) , y <operation ingredients="safran"> ajouter </operation> le <ingredient action="ajouter"> safran </ingredient> préalablement <operation ingredients="bouillon"> mélangé </operation> au <ingredient action="mélanger" quantite="50 cl"> bouillon </ingredient> restant . <operation ingredients="riz"> laisser </operation> le <ingredient action="laisser"> riz </ingredient> s' <operation> imbiber </operation> tout en <operation> mélangeant </operation> souvent . <operation ingredients="saumon;parmesan"> ajouter </operation> le <ingredient action="ajouter"> saumon </ingredient> et le <ingredient action="ajouter" quantite=""> parmesan </ingredient> râpé . <operation> mélanger </operation> , <operation> goûter </operation> et <operation> assaisonner </operation> . <operation> couvrir </operation> 2 minutes et servir immédiatement . quelques brins d' <ingredient> aneth </ingredient> peuvent apporter de la couleur à ce plat convivial . bon appétit !
+</preparation>
+</recette>

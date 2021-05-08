@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52123">
+<titre>Gâteau au jambon de ma maman</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 cuillères à soupe bien remplies de farine</p>
+<p>1 grosse tranche de jambon</p>
+<p>125 g de beurre fondu</p>
+<p>3 oeufs</p>
+<p>100 g de gruyère râpé</p>
+<p>2 cuillères à soupe de moutarde</p>
+<p>1 ou 2 tomates</p>
+<p>1 sachet de levure</p>
+<p>persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un bol , <operation ingredients="oeufs;persil"> mettre </operation> les <ingredient action="mettre" quantite="3"> oeufs </ingredient> , le <ingredient action="mettre" quantite=""> persil </ingredient> , la <ingredient quantite="2 cuillère à soupe"> moutarde </ingredient> , le <ingredient> beurre </ingredient> <operation> fondu </operation> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> ; <operation> mélanger </operation> . dans un saladier , <operation ingredients="farine;levure;gruyère"> mettre </operation> la <ingredient action="mettre"> farine </ingredient> , la <ingredient action="mettre"> levure </ingredient> et le <ingredient action="mettre" quantite="100 gramme"> gruyère </ingredient> . <operation> verser </operation> le bol dans le saladier . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper"> jambon </ingredient> en dés , les <ingredient action="mettre" quantite="1"> tomates </ingredient> en cubes et les <operation ingredients="tomates"> mettre </operation> dans le saladier , puis <operation> mélanger </operation> le tout . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> à cake préalablement beurré . faire <operation> cuire </operation> 45 min au four , à 180 <operation> ° </operation> c ( thermostat 6 ) . peut se <ingredient> manger </ingredient> chaud ou froid .
+</preparation>
+</recette>

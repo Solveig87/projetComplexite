@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11515">
+<titre>Poulet au fenouil</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>5 fenouils</p>
+<p>3 oignons</p>
+<p>4 gousses d'ail</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile;poulet"> revenir </operation> à l' <ingredient action="revenir" quantite=""> huile </ingredient> les morceaux du <ingredient action="revenir" quantite="1"> poulet </ingredient> <operation> découpé </operation> . <operation> salez </operation> , <operation> poivrez </operation> . lorsqu' ils sont dorés , <operation> réservez </operation> - les . dans l' <ingredient quantite=""> huile </ingredient> chaude , <operation ingredients="oignons"> faites </operation> <operation> blondir </operation> les <ingredient action="faire" quantite="3"> oignons </ingredient> <operation> coupés </operation> en rondelles , puis <operation ingredients="poulet;fenouils"> ajoutez </operation> les morceaux de <ingredient action="ajouter" quantite="1"> poulet </ingredient> , ainsi que les <ingredient action="ajouter" quantite="5"> fenouils </ingredient> , ébarbés auparavant et <operation> découpés </operation> selon votre idée . <operation> chauffez </operation> à petit feu une quarantaine de minutes ( 10 min avant la fin : <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> ) . excellent avec <ingredient> riz </ingredient> où pâtes . petit <ingredient> vin </ingredient> frais de pays .
+</preparation>
+</recette>

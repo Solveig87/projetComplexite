@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53083">
+<titre>Galettes de haricots</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>450 g de haricots rouges</p>
+<p>100 g de bacon</p>
+<p>1 oignon finement haché</p>
+<p>1 gousse d'ail écrasée</p>
+<p>50 g de cantal</p>
+<p>1 bouquet garni</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="haricots"> tremper </operation> les <ingredient action="tremper" quantite="450 gramme"> haricots </ingredient> pendant 12 h dans l' eau froide . <operation> egouttez </operation> - les , <operation> recouvrez </operation> d' eau froide et faites - les <operation ingredients="oignon;bouquet"> cuire </operation> à feu doux avec la moitié de l' <ingredient action="cuire" quantite="1"> oignon </ingredient> et le <ingredient action="cuire" quantite="1"> bouquet </ingredient> <operation> garni </operation> ; <operation> salez </operation> au milieu de la cuisson . <operation> ecrasez </operation> les <ingredient quantite="450 gramme"> haricots </ingredient> en purée . faites <operation ingredients="bacon"> frire </operation> le <ingredient action="frire" quantite="100 gramme"> bacon </ingredient> dans une <operation> poêle </operation> jusqu' à ce qu' il croustille ; <operation> coupez </operation> en morceaux et <operation> réservez </operation> . faites <operation ingredients="oignon;ail;graisse"> revenir </operation> la 2ème moitié de l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans la <ingredient action="revenir"> graisse </ingredient> de bacon . <operation ingredients="bacon;ail;oignon"> mélangez </operation> le <ingredient action="mélanger" quantite="100 gramme"> bacon </ingredient> , l' <ingredient action="mélanger"> ail </ingredient> et l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> , puis la purée . <operation ingredients="galettes"> confectionnez </operation> des <ingredient action="confectionner"> galettes </ingredient> , que vous ferez <operation> revenir </operation> à la <operation> poêle </operation> 2 à 3 min de chaque côté . <operation ingredients="cantal"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> cantal </ingredient> râpé et <operation> passer </operation> rapidement au grill .
+</preparation>
+</recette>

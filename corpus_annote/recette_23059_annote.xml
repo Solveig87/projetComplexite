@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23059">
+<titre>Pâté de poisson</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de lotte ou de filet</p>
+<p>7 oeufs</p>
+<p>sel, poivre</p>
+<p>1 pot de 20 cl de crème fraîche</p>
+<p>une petite boîte de concentré de tomate</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;bouillon"> cuire </operation> le <ingredient action="cuire" quantite="1 kilogramme;7"> poisson </ingredient> au court <ingredient action="cuire"> bouillon </ingredient> la veille si possible . l' <operation> écraser </operation> à la fourchette légèrement , <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="7"> oeufs </ingredient> entiers , la <ingredient> crème </ingredient> fraîche , le <ingredient quantite=""> sel </ingredient> , le <ingredient quantite=""> poivre </ingredient> , le <operation> concentré </operation> de <ingredient> tomate </ingredient> . <operation> mettre </operation> dans un <operation> moule </operation> beurré la préparation qui doit avoir la consistance d' une <ingredient> crème </ingredient> épaisse . faire <operation> cuire </operation> à four moyen ( th 6 ) pendant 40 mn maximum . attendre une heure et <operation> démouler </operation> tiède . froid avec de la <ingredient> mayonnaise </ingredient> et une <ingredient> salade </ingredient> . vin blanc
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224118">
+<titre>Macédoine façon Alex (plat chaud)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 carottes</p>
+<p>2 navets</p>
+<p>2 pommes de terre</p>
+<p>25 haricots verts</p>
+<p>15 pois mange-tout</p>
+<p>1 bouillon cube</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> carottes </ingredient> , navets , pommes de terre . <operation ingredients="haricots;mange"> écossez </operation> les <ingredient action="écossez" quantite="25"> haricots </ingredient> verts et les <ingredient> pois </ingredient> <ingredient action="écossez" quantite="15"> mange </ingredient> tout . <operation ingredients="légume"> coupez </operation> chaque <ingredient action="couper" quantite="2;2;2;25;15;1"> légume </ingredient> en cube et <operation> réservez </operation> séparément . dans l’ eau bouillante <operation ingredients="sel"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> ou le cube ( selon les références du paquet ) . <operation ingredients="légumes;mange"> mettez </operation> à cuir selon les <ingredient action="mettre" quantite="2;2;2;25;15;1"> légumes </ingredient> : les <ingredient> pois </ingredient> <ingredient action="mettre" quantite="15"> mange </ingredient> tout et les <ingredient quantite="2"> pommes </ingredient> de terre , pendant 10 minutes . <ingredient quantite="25"> haricots </ingredient> verts pendant 2 minutes . <ingredient quantite="2"> carottes </ingredient> et navets pendant 1 minute . une fois les <ingredient action="ajouter" quantite="2;2;2;25;15;1"> légumes </ingredient> <operation> cuits </operation> , <operation> égouttez </operation> - les , <operation ingredients="légumes;beurre;poivre"> ajoutez </operation> une pointe de <ingredient action="ajouter"> beurre </ingredient> , un peu de <ingredient action="ajouter"> poivre </ingredient> . servez aussitôt . si vous préférez la version froide , rafraîchissez les <ingredient quantite="2;2;2;25;15;1"> légumes </ingredient> . <operation> égouttez </operation> - les en les versants dans un saladier d’ eau froide . <operation> passez </operation> - les de nouveau et <operation ingredients="mayonnaise"> assaisonnez </operation> à votre convenance ( <ingredient action="assaisonner"> mayonnaise </ingredient> , vinaigrette , nature … ) bon appétit !
+</preparation>
+</recette>

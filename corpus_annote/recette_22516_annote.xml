@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22516">
+<titre>Salade de riz au crabe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz</p>
+<p>1 boîte de crabe</p>
+<p>2 oeufs durs</p>
+<p>4 tomates</p>
+<p>1 avocat</p>
+<p>1 poignée d'olives noires</p>
+<p>1 citron</p>
+<p>ciboulette, persil</p>
+<p>moutarde</p>
+<p>huile, vinaigre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> dans 2 fois son volume d' eau bouillante <operation> salée </operation> environ 15 min à <operation> couvert </operation> . faîtes <operation ingredients="poivron"> griller </operation> le <ingredient action="griller"> poivron </ingredient> 10 min sous le grill pour pouvoir le <operation> peler </operation> . <operation> epépinez </operation> - le et <operation> détaillez </operation> - le en dés . <operation ingredients="tomates"> pelez </operation> , <operation> épépinez </operation> et <operation> concassez </operation> les <ingredient action="pelez" quantite="4"> tomates </ingredient> , <operation ingredients="chair;avocat"> coupez </operation> la <ingredient action="couper"> chair </ingredient> de l' <ingredient action="couper" quantite="1"> avocat </ingredient> en dés et <operation ingredients="jus"> arrosez </operation> - le de <ingredient action="arroser"> jus </ingredient> de citron . <operation ingredients="riz"> egouttez </operation> le <ingredient action="egouttez" quantite="300 gramme"> riz </ingredient> , <operation ingredients="légumes"> mélangez </operation> - le avec les <ingredient action="mélanger" quantite="4;1;1"> légumes </ingredient> et <operation ingredients="crabe;oeufs"> ajoutez </operation> le <ingredient action="ajouter"> crabe </ingredient> <operation> égoutté </operation> et les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> durs <operation> coupés </operation> en quartiers . <operation> assaisonnez </operation> de vinaigrette moutardée et <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> et ciboulette hachés . servez bien frais . remplacez le <ingredient> crabe </ingredient> par du <ingredient> thon </ingredient> ou du <ingredient> surimi </ingredient> si vous le souhaitez .
+</preparation>
+</recette>

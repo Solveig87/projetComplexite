@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12529">
+<titre>Roses des sables au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150g de chocolat à cuire</p>
+<p>100g de margarine ou beurre</p>
+<p>100g de corn flakes</p>
+</ingredients>
+<preparation>
+casser le <ingredient quantite="150 gramme"> chocolat </ingredient> et faire <operation ingredients="margarine"> fondre </operation> doucement avec la <ingredient action="fondre" quantite="100 gramme"> margarine </ingredient> . <operation ingredients="sucre"> ajouter </operation> du <ingredient action="ajouter"> sucre </ingredient> ( selon les goûts ! ) , <operation ingredients="corn"> mettre </operation> les <ingredient action="mettre" quantite="100 gramme"> corn </ingredient> flakes dans un saladier puis <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="150 gramme"> chocolat </ingredient> dessus . bien <operation> remuer </operation> , puis faire des petits tas sur du papier cuisson ou alu et <operation> mettre </operation> au frigidaire quelques heures ou une nuit . on peut <operation ingredients="sucre;glace;manger"> ajouter </operation> un peu de <ingredient action="ajouter"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> avant de les <ingredient action="ajouter"> manger </ingredient> .
+</preparation>
+</recette>

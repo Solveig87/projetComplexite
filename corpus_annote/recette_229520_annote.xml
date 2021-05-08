@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229520">
+<titre>Verrine aux 2 tomates, chèvre et speck</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 tomates séchées</p>
+<p>1 tomate</p>
+<p>200 g chèvre frais</p>
+<p>4 feuilles de basilic</p>
+<p>4 tranches fines de speck</p>
+<p>quelques copeaux de parmesan</p>
+<p>1 filet de vinaigre balsamique</p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+pour d' assez grosses verrines : <operation ingredients="tomates"> couper </operation> finement les <ingredient action="couper" quantite="10+1"> tomates </ingredient> séchées , les <operation ingredients="tomates"> déposer </operation> au fond des 4 verrines , environ 2 , 5 <ingredient action="déposer" quantite="10+1"> tomates </ingredient> par verrine . <operation ingredients="tomate"> couper </operation> finement la <ingredient action="couper" quantite="10+1"> tomate </ingredient> , <operation> mettre </operation> un quart dans chaque verrine . <operation ingredients="vinaigre"> arroser </operation> de quelques gouttes de <ingredient action="arroser"> vinaigre </ingredient> balsamique . <operation ingredients="chèvre;basilic"> mélanger </operation> dans un bol les <ingredient action="mélanger"> chèvre </ingredient> frais avec les feuilles de <ingredient action="mélanger" quantite="4 feuille"> basilic </ingredient> <operation ingredients="poivre"> ciselées </operation> et du <ingredient action="ciseler" quantite="1 pincée"> poivre </ingredient> , <operation ingredients="tomates"> recouvrir </operation> les <ingredient action="recouvrir" quantite="10+1"> tomates </ingredient> de ce <operation> mélange </operation> dans les verrines . <operation> hacher </operation> finement le speck , le <operation ingredients="chèvre"> déposer </operation> par dessus le <ingredient action="déposer"> chèvre </ingredient> dans la verrine , 1 tranche par verrine . <operation ingredients="parmesan"> décorer </operation> de quelques copeaux de <ingredient action="décorer"> parmesan </ingredient> . <operation> réserver </operation> au frais 30 min et déguster , bon appétit !
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23192">
+<titre>Champignons à la tomate</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de champignons de Paris</p>
+<p>200 g de sauce tomate</p>
+<p>3 cuillerée à café de parmesan</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>2 cuillerée à soupe d'huile d'olive</p>
+<p>2 cuillerées à café d'origan séché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+1 ) <operation> lavez </operation> et <operation ingredients="champignons;oignons"> épluchez </operation> les <ingredient action="éplucher" quantite="500 gramme"> champignons </ingredient> <operation> coupez </operation> - les en quartiers <operation> pelez </operation> et <operation> coupez </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> en rondelles . 2 ) dans une sauteuse faites <operation ingredients="oignons;gousses"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="2"> gousses </ingredient> d' ail <operation ingredients="huile;origan"> écrasées </operation> avec l' <ingredient action="écraser"> huile </ingredient> d' olive et l' <ingredient action="écraser"> origan </ingredient> <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> champignons </ingredient> puis <operation> versez </operation> la sauce tomate ; <operation> salez </operation> <operation> poivrez </operation> et <operation> remuez </operation> . 3 ) <operation> couvrez </operation> et laissez <operation> mijoter </operation> à feu doux 15 mn ; au moment de servir <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer"> parmesan </ingredient> cette entrée et très bonne , on peut aussi l' <operation ingredients="croûtons"> accompagner </operation> avec des petits <ingredient action="accompagner"> croûtons </ingredient> dorés un cabernet d' anjou rosé
+</preparation>
+</recette>

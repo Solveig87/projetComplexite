@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43040">
+<titre>Les bruschettas de Michel</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>7 à 8 tomates italiennes, coupées en dés </p>
+<p>1 oignon moyen, émincé </p>
+<p>5 gousses d'ail, épluchées et émincées </p>
+<p>1 pincée de sel marin et de poivre noir </p>
+<p>2 à 3 feuilles de céleri, hachées finement </p>
+<p>basilic, thym et origan (au goût) </p>
+<p>un peu de ciboulette </p>
+<p>5 ml de vinaigre balsamique </p>
+<p>huile d'olive</p>
+<p>tranches de baguette</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;céleri;vinaigre"> mélanger </operation> : <ingredient action="mélanger" quantite="7"> tomates </ingredient> , oignons , ail , feuilles de <ingredient action="mélanger"> céleri </ingredient> , herbes , <ingredient action="mélanger"> vinaigre </ingredient> , sel et poivre . <operation ingredients="huile"> ajouter </operation> de l' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , jusqu' à moitié du <operation> mélange </operation> . laisser <operation> reposer </operation> à la température de la pièce pendant 4 h. . . c' est ça , le truc des bonnes bruschettas ! <operation> mélanger </operation> deux à trois fois , pendant cette période . <operation ingredients="baguette"> couper </operation> des tranches de <ingredient action="couper"> baguette </ingredient> française , que l’ on fera <operation> dorer </operation> au four . ensuite , <operation> recouvrir </operation> les tranches avec le <operation> mélange </operation> , et servir immédiatement . variante : <operation ingredients="parmesan;mozzarella"> recouvrir </operation> de <ingredient action="recouvrir"> parmesan </ingredient> ou de <ingredient action="recouvrir"> mozzarella </ingredient> râpé , et faire <operation> dorer </operation> au four . servir les bouchées , <operation ingredients="basilic"> décorées </operation> de feuilles de <ingredient action="décorer" quantite=""> basilic </ingredient> frais .
+</preparation>
+</recette>

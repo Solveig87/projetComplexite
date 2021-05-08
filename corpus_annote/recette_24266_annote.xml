@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24266">
+<titre>Melon surprise aux fruits rouges</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 melons</p>
+<p>300 g de framboises</p>
+<p>5 kiwis</p>
+<p>sucre en poudre</p>
+<p>alcool pour parfumer au choix</p>
+</ingredients>
+<preparation>
+<operation ingredients="melons"> couper </operation> les <ingredient action="couper" quantite="3"> melons </ingredient> en deux , <operation> évidez </operation> les graines . <operation ingredients="chair"> prélever </operation> la <ingredient action="prélever"> chair </ingredient> à l' aide d' une cuillère parisienne ( cuillère à bille ) . <operation ingredients="kiwis"> couper </operation> les <ingredient action="couper" quantite="5"> kiwis </ingredient> et <operation> former </operation> également des billes à la cuillère parisienne . <operation ingredients="framboises"> nettoyer </operation> les <ingredient action="nettoyer" quantite="300 gramme"> framboises </ingredient> . <operation ingredients="fruits"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="3;300 gramme;5"> fruits </ingredient> de sucre et en <operation ingredients="melon"> garnir </operation> les demi-coques de <ingredient action="garnir" quantite="3"> melon </ingredient> . <operation> arroser </operation> d' un peu d' alcool et <operation> réserver </operation> au réfrigérateur . servir bien frais . tous les <ingredient quantite="3;300 gramme;5"> fruits </ingredient> de saison peuvent être <operation> ajoutés </operation> dans cette recette selon les goûts .
+</preparation>
+</recette>

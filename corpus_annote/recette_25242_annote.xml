@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25242">
+<titre>Petits gratins d'oranges</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 oranges</p>
+<p>3 oeufs</p>
+<p>135 g de sucre en poudre</p>
+<p>30 g de beurre</p>
+<p>2 cuillères à soupe de jus d'orange</p>
+</ingredients>
+<preparation>
+préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . récupérez les quartiers d' <ingredient quantite="6"> orange </ingredient> et <operation> ôtez </operation> la fine peau qui les <operation> entoure </operation> . <operation> beurrez </operation> 4 ramequins plat et <operation ingredients="oranges"> disposez </operation> les quartiers d' <ingredient action="disposer" quantite="6"> oranges </ingredient> dedans . <operation ingredients="oeufs;sucre;jus"> fouettez </operation> les <ingredient action="fouetter" quantite="3"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="135 gramme"> sucre </ingredient> en <operation> poudre </operation> et le <ingredient action="fouetter" quantite="2 cuillère à soupe"> jus </ingredient> d' orange puis <operation ingredients="fruits"> versez </operation> sur les <ingredient action="verser" quantite="6;2 cuillère à soupe"> fruits </ingredient> . <operation> enfournez </operation> pour 5 à 10 minutes de cuisson jusqu' à ce que le dessus soit bien doré .
+</preparation>
+</recette>

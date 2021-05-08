@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25309">
+<titre>Spaghetti à la tomate et aux anchois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de spaghettis</p>
+<p>4 tomates concassées</p>
+<p>6 filets d'anchois dessalés</p>
+<p>50 g d'olives noires</p>
+<p>3 gousses d'ail</p>
+<p>1 cuillère à soupe de câpres</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> mixez </operation> les <ingredient action="écraser"> anchois </ingredient> , <operation ingredients="anchois;ail;olives;câpres"> écrasez </operation> l' <ingredient action="écraser"> ail </ingredient> , <operation> hachez </operation> les <ingredient action="écraser" quantite="50 gramme"> olives </ingredient> et les <ingredient action="écraser" quantite="1 cuillère à soupe"> câpres </ingredient> . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> , <operation ingredients="anchois;gousses"> mettez </operation> - y la purée d' <ingredient action="mettre"> anchois </ingredient> et les <ingredient action="mettre" quantite="3"> gousses </ingredient> d' ail <operation> écrasées </operation> . <operation ingredients="câpres;olives;tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe"> câpres </ingredient> , les <ingredient action="ajouter" quantite="50 gramme"> olives </ingredient> et les <ingredient action="ajouter" quantite="4"> tomates </ingredient> . laissez <operation> mijoter </operation> 5 minutes . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> , <operation> égouttez </operation> - les et <operation> mélangez </operation> - les avec la sauce .
+</preparation>
+</recette>

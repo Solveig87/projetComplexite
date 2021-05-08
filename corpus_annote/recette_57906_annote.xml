@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57906">
+<titre>Farfalles aux 3 fromages</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>parmesan</p>
+<p>roquefort</p>
+<p>appenzell</p>
+<p>crème fraîche épaisse</p>
+<p>farfalle</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="farfalle"> cuire </operation> les <ingredient action="cuire" quantite=""> farfalle </ingredient> environs 15 minutes ( al dente ) . <operation ingredients="parmesan"> râper </operation> le <ingredient action="râper" quantite=""> parmesan </ingredient> et l' appenzell et <operation ingredients="roquefort"> couper </operation> le <ingredient action="couper" quantite=""> roquefort </ingredient> en petits morceaux . une fois les <ingredient action="passer"> pâtes </ingredient> <operation> cuites </operation> , les <operation ingredients="pâtes"> passer </operation> à la passoire , les <operation> remettre </operation> dans la casserole encore chaude y <operation ingredients="fromages"> ajouter </operation> les 3 <ingredient action="ajouter"> fromages </ingredient> <operation> remuer </operation> , puis y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche .
+</preparation>
+</recette>

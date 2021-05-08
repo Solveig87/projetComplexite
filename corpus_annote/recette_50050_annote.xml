@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50050">
+<titre>Salade de crevettes au vinaigre balsamique</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de crevettes</p>
+<p>1 salade (roquette de préférence)</p>
+<p>champignons de Paris</p>
+<p>2 tomates</p>
+<p>100 g de parmesan</p>
+<p>1 pamplemousse</p>
+<p>vinaigre balsamique, huile, moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> laver </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> et la <operation> disposer </operation> dans un saladier . <operation ingredients="crevettes;champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> crevettes </ingredient> <operation> décortiquées </operation> , et les <ingredient action="ajouter" quantite=""> champignons </ingredient> <operation> coupés </operation> en fines lamelles . <operation ingredients="pamplemousse"> enlever </operation> la peau du <ingredient action="enlever" quantite="1"> pamplemousse </ingredient> et le <operation> mettre </operation> en petits morceaux , <operation> ajouter </operation> au saladier . <operation ingredients="parmesan"> couper </operation> le <ingredient action="couper" quantite="100 gramme"> parmesan </ingredient> en copeaux et les <operation ingredients="salade"> incorporer </operation> à la <ingredient action="incorporer" quantite="1"> salade </ingredient> . la <ingredient action="assaisonner" quantite="1"> salade </ingredient> est enfin <operation ingredients="salade;vinaigre"> assaisonnée </operation> avec une vinaigrette à base de <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> balsamique . a déguster frais <ingredient> vin </ingredient> blanc sec ( ex : riesling )
+</preparation>
+</recette>

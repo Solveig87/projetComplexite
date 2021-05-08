@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69966">
+<titre>Salade au poulet (façon resto chinois)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la sauce :</p>
+<p>1 cuillère à soupe de sucre blanc</p>
+<p>1 cuillère à soupe d'eau</p>
+<p>2 cuillères à soupe de vinaigre blanc (vinaigre de riz)</p>
+<p>5 cuillères à soupe d'huile de tournesol</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel, poivre</p>
+<p>Pour la salade :</p>
+<p>2 petits blancs de poulet </p>
+<p>1 carotte</p>
+<p>2 grosses poignées de pousses de soja frais (évitez le soja en boîte)</p>
+<p>1 salade (type batavia ou feuille de chêne)</p>
+<p>quelques graines de sésame</p>
+</ingredients>
+<preparation>
+préparation de la sauce : <operation ingredients="vinaigre;sucre"> mettre </operation> le <ingredient action="mettre" quantite="2 cuillère à soupe"> vinaigre </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à soupe"> sucre </ingredient> dans un bol et <operation> mélanger </operation> jusqu' à ce que le <ingredient action="dissoudre" quantite="1 cuillère à soupe"> sucre </ingredient> soit <operation ingredients="sucre"> dissout </operation> . <operation ingredients="moutarde"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> moutarde </ingredient> et <operation> mélanger </operation> . <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="5 cuillère à soupe"> huile </ingredient> en filet . <operation> saler </operation> , <operation> poivrer </operation> . enfin , <operation> ajouter </operation> l' eau . préparation de la <ingredient quantite="1"> salade </ingredient> : <operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en tranches très fines ( on peut remplacer le <ingredient> poulet </ingredient> par des <ingredient> crevettes </ingredient> ) . faire <operation ingredients="poulet;huile;sésame;tournesol"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> à feu moyen dans très peu d’ <ingredient action="revenir" quantite="5 cuillère à soupe"> huile </ingredient> ( de <ingredient action="revenir"> sésame </ingredient> ou de <ingredient action="revenir"> tournesol </ingredient> ) . il ne doit pas <operation> dorer </operation> , il doit rester blanc . laisser refroidir puis <operation> mettre </operation> au frais . <operation ingredients="salade"> laver </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> et en prendre à peu près un quart . <operation> couper </operation> les feuilles en bandelette très fines . <operation ingredients="carotte"> eplucher </operation> la <ingredient action="eplucher" quantite="1"> carotte </ingredient> et la <operation> couper </operation> en julienne . dans un plat type grande assiette creuse , <operation ingredients="salade;carotte"> mettre </operation> d' abord la <ingredient action="mettre" quantite="1"> salade </ingredient> <operation> coupée </operation> puis le soja , la julienne de <ingredient action="mettre" quantite="1"> carotte </ingredient> et enfin <operation ingredients="poulet"> parsemer </operation> le <ingredient action="parsemer"> poulet </ingredient> . <operation> verser </operation> la sauce sur le tout . quelques graines de <ingredient> sésame </ingredient> pour la déco et c' est prêt ! petit conseil : plus la <ingredient quantite="1"> salade </ingredient> est fraîche meilleure elle est . n’ hésitez pas à la <operation> mettre </operation> au frigo et <operation> mettez </operation> la sauce au dernier moment . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

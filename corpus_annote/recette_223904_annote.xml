@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223904">
+<titre>Soupe de poireaux et autres légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 verts de poireaux</p>
+<p>2 pommes de terre moyennes</p>
+<p>1 oignon</p>
+<p>2 carottes</p>
+<p>30 cl de purée de tomate</p>
+<p>Thym</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 cube de bouillon de légumes</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> émincez </operation> les <ingredient action="émincez" quantite="2;1;2"> légumes </ingredient> . <operation ingredients="poireaux;pommes;carottes;oignon;bouillon;thym"> plongez </operation> les <ingredient action="plonger"> poireaux </ingredient> , les <ingredient action="plonger" quantite="2"> pommes </ingredient> de terre , les <ingredient action="plonger" quantite="2"> carottes </ingredient> et l' <ingredient action="plonger" quantite="1"> oignon </ingredient> dans de l' eau bouillante avec 1 cube de <ingredient action="plonger"> bouillon </ingredient> de légumes et le <ingredient action="plonger" quantite=""> thym </ingredient> . une fois les <ingredient quantite="2;1;2"> légumes </ingredient> <operation> cuits </operation> , <operation> mixez </operation> le tout et <operation ingredients="tomate"> ajoutez </operation> la purée de <ingredient action="ajouter"> tomate </ingredient> . puis remixez le tout une dernière fois . <operation> salez </operation> , <operation ingredients="salé"> poivrez </operation> ( attention le cub a déjà <ingredient action="poivrer"> salé </ingredient> la soupe ! ) nb : la quantité d' eau que vous <operation> mettez </operation> dans le <operation> mixer </operation> pour faire la <ingredient> soupe </ingredient> dépend de la consistance finale que vous souhaitez .
+</preparation>
+</recette>

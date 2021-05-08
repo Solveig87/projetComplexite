@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70684">
+<titre>La piade</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de farine</p>
+<p>3 cuillère à soupe d'huile d'olive</p>
+<p>1 verre d'eau</p>
+<p>4 tranches de jambon cru</p>
+<p>4 grandes feuilles de salade</p>
+<p>1 boule de mozzarella</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="200 gramme"> farine </ingredient> dan un saladier . faire un puits et y <operation ingredients="huile"> incorporer </operation> l' <ingredient action="incorporer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et l' eau pour en <operation ingredients="pâte"> faire </operation> une <ingredient action="faire"> pâte </ingredient> souple et homogène . <operation ingredients="pâte"> couper </operation> la boule de <ingredient action="couper"> pâte </ingredient> en 4 et étaler chaque morceau avec un rouleau à pâtisserie . <operation ingredients="pâte;crêpe"> cuire </operation> chaque disque de <ingredient action="cuire"> pâte </ingredient> à la <operation> poêle </operation> comme une <ingredient action="cuire"> crêpe </ingredient> . un fois que les disque de <ingredient action="cuire"> pâte </ingredient> sont <operation ingredients="pâte;mozzarella;salade"> cuits </operation> , y <operation ingredients="jambon"> mettre </operation> le <ingredient action="mettre" quantite="4 tranche"> jambon </ingredient> cru , deux tranches de <ingredient action="cuire"> mozzarella </ingredient> et une feuille de <ingredient action="cuire"> salade </ingredient> . laisser <operation> chauffer </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) environ 10 min pour que le <ingredient action="fondre"> fromage </ingredient> <operation ingredients="fromage"> fonde </operation> légèrement . dégusté <operation> enroulé </operation> !
+</preparation>
+</recette>

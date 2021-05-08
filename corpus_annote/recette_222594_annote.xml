@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222594">
+<titre>Gâteau au miel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>125 g de miel</p>
+<p>100 g de sucre</p>
+<p>10 cl d'eau chaude</p>
+<p>1 sachet de levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;miel"> mélanger </operation> le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="125 gramme"> miel </ingredient> dans l' eau chaude ( mais pas bouillante ) . <operation ingredients="farine;levure"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . <operation> enfourner </operation> 1 h 30 à 150 <operation> ° </operation> c ( thermostat 5 ) .
+</preparation>
+</recette>

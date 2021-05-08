@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59188">
+<titre>Pâte à crêpes inratable</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de farine</p>
+<p>1 oeuf</p>
+<p>15 cl de lait</p>
+</ingredients>
+<preparation>
+<operation> mélanger </operation> vite <operation ingredients="oeuf;farine"> fait </operation> l' <ingredient action="faire" quantite="1"> oeuf </ingredient> et la <ingredient action="faire" quantite="100 gramme"> farine </ingredient> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> lait </ingredient> . si la <ingredient> pâte </ingredient> est liquide avec une légère souplesse , c' est bon ! et après c' est partie pour la <operation> poêle </operation> !
+</preparation>
+</recette>

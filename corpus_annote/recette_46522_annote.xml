@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46522">
+<titre>Dip mexicain</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de haricots rouges</p>
+<p>1 oignon</p>
+<p>250 g de cheddar rouge</p>
+<p>1 avocat</p>
+<p>crème fraîche épaisse</p>
+<p>piment de cayenne</p>
+<p>jus de citron vert</p>
+<p>sel, poivre</p>
+<p>chips tortillas salées</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> cuire </operation> les <ingredient action="cuire" quantite="1"> oignons </ingredient> à feu doux , puis les <operation ingredients="haricots"> mélanger </operation> aux <ingredient action="mélanger"> haricots </ingredient> rouges avec un peu d' eau . <operation> mixer </operation> afin d' obtenir une purée <operation> lisse </operation> et <operation> réserver </operation> . <operation ingredients="avocat;crème;jus;pâte"> écraser </operation> l' <ingredient action="écraser" quantite="1"> avocat </ingredient> avec la <ingredient action="écraser" quantite=""> crème </ingredient> fraîche et le <ingredient action="écraser" quantite=""> jus </ingredient> de citron vert jusqu' à l' obtention d' une <ingredient action="écraser"> pâte </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> selon le goût de chacun et <operation> ajouter </operation> un peu de piment de cayenne , <operation> réserver </operation> . dans un plat allant au four , <operation ingredients="haricots"> mettre </operation> la purée de <ingredient action="mettre"> haricots </ingredient> rouges et <operation ingredients="fromage"> recouvrir </operation> généreusement de <ingredient action="recouvrir"> fromage </ingredient> . <operation> enfourner </operation> sous le grill quelques minutes jusqu' à ce que le <ingredient action="fondre"> fromage </ingredient> soit bien <operation ingredients="fromage"> fondu </operation> , sortir du four et <operation ingredients="avocat"> recouvrir </operation> de purée d' <ingredient action="recouvrir" quantite="1"> avocat </ingredient> . servir avec les <ingredient> chips </ingredient> .
+</preparation>
+</recette>

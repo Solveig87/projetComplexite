@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32186">
+<titre>Queue de lotte à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 grosses queues de lotte</p>
+<p>2 échalotes</p>
+<p>4 oranges</p>
+<p>1 cuillère à soupe de beurre</p>
+<p>1 verre de vin blanc sec</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>curcuma</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lottes"> mettre </operation> les queues de <ingredient action="mettre"> lottes </ingredient> ( sans la peau ) à <operation> cuire </operation> 10 minutes dans un court-bouillon . <operation ingredients="échalotes"> couper </operation> les <ingredient action="couper" quantite="2"> échalotes </ingredient> en tous petits morceaux . <operation ingredients="oranges"> prélever </operation> des zestes sur une des <ingredient action="prélever" quantite="4"> oranges </ingredient> . <operation ingredients="échalotes"> mettre </operation> les <ingredient action="mettre" quantite="2"> échalotes </ingredient> et les zestes à <operation ingredients="beurre;curcuma;sel"> revenir </operation> dans une casserole avec le <ingredient action="revenir" quantite="1 cuillère à soupe"> beurre </ingredient> , le <ingredient action="revenir" quantite=""> curcuma </ingredient> , le <ingredient action="revenir" quantite=""> sel </ingredient> et poivre . quand les <ingredient action="blanchir" quantite="2"> échalotes </ingredient> ont <operation ingredients="échalotes"> blanchi </operation> , <operation ingredients="lotte"> ajouter </operation> les queues de <ingredient action="ajouter"> lotte </ingredient> <operation> égouttées </operation> . <operation ingredients="jus;oranges"> rajouter </operation> le <ingredient action="rajouter"> jus </ingredient> des 4 <ingredient action="rajouter" quantite="4"> oranges </ingredient> , puis laisser <operation> mijoter </operation> une vingtaine de minutes . en fin de cuisson , <operation ingredients="crème"> rajouter </operation> un peu de <ingredient action="rajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche ( 2 cuillères à soupe ) . servir avec un <ingredient> riz </ingredient> blanc . ce plat peut aussi se <operation ingredients="lotte"> faire </operation> avec des queues de <ingredient action="faire"> lotte </ingredient> <operation> congelées </operation> .
+</preparation>
+</recette>

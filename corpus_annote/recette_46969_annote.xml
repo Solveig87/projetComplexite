@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46969">
+<titre>Soufflé au Beaufort</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de Beaufort</p>
+<p>60 g de beurre</p>
+<p>80 g de farine</p>
+<p>1/2 litre de lait</p>
+<p>4 oeufs</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> , y <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="80 gramme"> farine </ingredient> et <operation> mélanger </operation> . <operation ingredients="lait"> mouiller </operation> avec le <ingredient action="mouiller"> lait </ingredient> et <operation> assaisonner </operation> . faire <operation> cuire </operation> en <operation> remuant </operation> puis <operation> retirer </operation> du feu . <operation ingredients="œufs"> incorporer </operation> les jaunes d' <ingredient action="incorporer"> œufs </ingredient> , les blancs <operation> montés </operation> en neige fermes puis le <ingredient quantite="100 gramme"> beaufort </ingredient> râpé . <operation> verser </operation> dans un plat à <operation> soufflé </operation> ( ou des ramequins individuels ) bien beurré , le ( les ) <operation> remplir </operation> au 3 / 4 . <operation> mettre </operation> dans un four bien chaud à 200 <operation> ° </operation> c ( thermostat 7 ) . servir aussitôt la cuisson et le gonflement du soufflé ( le temps est <operation> ajusté </operation> suivant le plat <operation> choisi </operation> ) . c' est un <operation> soufflé </operation> çà degonfle vite alors il faut le faire <operation> cuire </operation> au dernier moment . un rouge de savoie
+</preparation>
+</recette>

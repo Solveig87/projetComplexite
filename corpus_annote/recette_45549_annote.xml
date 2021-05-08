@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45549">
+<titre>Pâtes aux épinards et à l'huile de truffe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g à 300 g de pâtes (spaghetti ou farfalle)</p>
+<p>100 g à 150 g d'épinards en branche</p>
+<p>béchamel </p>
+<p>huile d'olive parfumée à la truffe ou huile de truffe</p>
+<p>parmesan en copeaux</p>
+<p>1 poignée de lardons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans de l' eau légèrement <operation> salée </operation> . faire <operation ingredients="épinards"> cuire </operation> les <ingredient action="cuire"> épinards </ingredient> , les <operation ingredients="béchamel"> mélanger </operation> à la <ingredient action="mélanger" quantite=""> béchamel </ingredient> et <operation> assaisonner </operation> . <operation ingredients="lardons"> faire </operation> <operation> rissoler </operation> les <ingredient action="faire"> lardons </ingredient> dans une <operation> poêle </operation> . <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger"> pâtes </ingredient> et la sauce et <operation> mettre </operation> le tout dans des assiettes . <operation ingredients="parmesan;lardons;pâtes"> disposer </operation> des copeaux de <ingredient action="disposer" quantite=""> parmesan </ingredient> et les <ingredient action="disposer"> lardons </ingredient> sur les <ingredient action="disposer"> pâtes </ingredient> . <operation ingredients="huile"> verser </operation> un filet d' <ingredient action="verser" quantite=""> huile </ingredient> de truffe sur le tout .
+</preparation>
+</recette>

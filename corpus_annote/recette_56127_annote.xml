@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56127">
+<titre>Sauté de porc au cidre aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de sauté de porc en morceaux</p>
+<p>2 cuillère d'huile d'olive</p>
+<p>1 oignon moyen</p>
+<p>1 bouteille de cidre brut</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 boîte de champignon à la crème</p>
+<p>2 cuillère à soupe de miel</p>
+<p>quelques gouttes de tabasco</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . dans une sauteuse faire <operation ingredients="huile;viande"> colorer </operation> dans l' <ingredient action="colorer" quantite="2 cuillère"> huile </ingredient> les morceaux de <ingredient action="colorer"> viande </ingredient> , <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , le faire <operation> colorer </operation> puis <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> en <operation> remuant </operation> . <operation ingredients="cidre"> mouiller </operation> avec le <ingredient action="mouiller"> cidre </ingredient> en continuant à <operation> remuer </operation> , <operation> assaisonner </operation> , <operation ingredients="miel;tabasco"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> miel </ingredient> et le <ingredient action="ajouter"> tabasco </ingredient> . <operation> cuire </operation> à <operation> couvert </operation> ( petite <operation> ébullition </operation> ) . en fin de cuisson , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> . vous pouvez <operation ingredients="pommes"> ajouter </operation> 20 min avant la fin de cuisson des <ingredient action="ajouter"> pommes </ingredient> de terres à chair ferme en quartiers . <ingredient> cidre </ingredient> brut
+</preparation>
+</recette>

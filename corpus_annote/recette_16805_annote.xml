@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16805">
+<titre>Ratatouille parmesane</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 belles tomates</p>
+<p>4 gros oignons</p>
+<p>3 courgettes</p>
+<p>2 aubergines</p>
+<p>1 poivron vert</p>
+<p>5 gousses d'ail (facultatif)</p>
+<p>150 g de parmesan râpé</p>
+<p>huile d'olive</p>
+<p>vinaigre de vin</p>
+<p>sel, poivre, thym</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;aubergines;tomates;poivrons"> couper </operation> en rondelles les <ingredient action="couper" quantite="4"> oignons </ingredient> , les courgettes , les <ingredient action="couper" quantite="2"> aubergines </ingredient> , les <ingredient action="couper" quantite="8"> tomates </ingredient> , puis les <ingredient action="couper"> poivrons </ingredient> en lanières . <operation ingredients="huile"> napper </operation> le fond d' un plat à gratin d' <ingredient action="napper" quantite=""> huile </ingredient> d' olive et <operation ingredients="légumes"> superposer </operation> les rondelles de <ingredient action="superposer" quantite="8;4;2"> légumes </ingredient> en alternance , d' un côté à l' autre du plat . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="thym;ail"> parsemer </operation> de <ingredient action="parsemer" quantite=""> thym </ingredient> et d' <ingredient action="parsemer"> ail </ingredient> <operation> écrasé </operation> . <operation ingredients="huile"> ajouter </operation> sur l' ensemble un généreux filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , puis trois ou quatre cuillerées à soupe de vinaigre de vin . <operation ingredients="parmesan"> disposer </operation> sur l' ensemble le <ingredient action="disposer" quantite="150 gramme"> parmesan </ingredient> râpé . faire <operation> cuire </operation> à four chaud ( thermostat 7 / 8) , pendant 30 à 40 min . entre deux mers
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24358">
+<titre>Salade de figues au porto et Grand Marnier</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>500 g de figues</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+<p>5 cl de porto</p>
+<p>3 cl de Grand Marnier (ou de liqueur d'orange)</p>
+<p>10 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="figues"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="500 gramme"> figues </ingredient> . <operation> placez </operation> - les dans un saladier et <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> sucre </ingredient> . <operation ingredients="porto;liqueur"> arrosez </operation> de <ingredient action="arroser" quantite="5 cl"> porto </ingredient> et de <ingredient action="arroser"> liqueur </ingredient> . <operation> couvrez </operation> et laissez <operation> macérer </operation> au frais pendant 2 h au moins . servez très froid , avec de la <ingredient quantite="10 cl"> crème </ingredient> fraîche à volonté .
+</preparation>
+</recette>

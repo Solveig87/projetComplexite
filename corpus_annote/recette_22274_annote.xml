@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22274">
+<titre>Foie de veau sauce piquante</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de foie de veau</p>
+<p>6 échalotes</p>
+<p>1 verre de vin rouge</p>
+<p>1 cuillère à soupe de vinaigre de vin</p>
+<p>beurre ou margarine</p>
+<p>sel et poivre</p>
+<p>chapelure facultative</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;foie"> revenir </operation> dans le <ingredient action="revenir"> beurre </ingredient> ou margarine les 4 tranches de <ingredient action="revenir" quantite="4 tranche"> foie </ingredient> de veau . <operation> hacher </operation> menu les <ingredient quantite="6"> échalotes </ingredient> , les <operation> rajouter </operation> à la préparation . laisser <operation> revenir </operation> quelques minutes . <operation ingredients="vin"> ajouter </operation> le verre de <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> rouge . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation ingredients="viande"> mijoter </operation> doucement jusqu' à ce que la <ingredient action="mijoter" quantite="4 tranche"> viande </ingredient> soit tendre , <operation ingredients="chapelure"> rajouter </operation> éventuellement de la <ingredient action="rajouter" quantite=""> chapelure </ingredient> pour <operation> lier </operation> la sauce . peut aussi se prévoir avec du <ingredient> coeur </ingredient> de boeuf ou du <ingredient quantite="4 tranche"> foie </ingredient> de boeuf , prévoir un temps de cuisson plus long .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20670">
+<titre>Compotée de courgettes à l'oeuf et à la cannelle</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g courgettes</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 oignons</p>
+<p>2 oeufs</p>
+<p>sel, poivre, cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> emincer </operation> finement les courgettes et les <ingredient action="emincer" quantite="2"> oignons </ingredient> puis les faire <operation ingredients="huile"> fondre </operation> dans l' <ingredient action="fondre" quantite="2 cuillère à soupe"> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 15 minutes . <operation> ôter </operation> le couvercle et <operation ingredients="jus"> laisser </operation> le <ingredient action="laisser"> jus </ingredient> de cuisson s' évaporer . <operation ingredients="oeufs;sel;poivre;cannelle"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette avec du <ingredient action="battre" quantite=""> sel </ingredient> , du <ingredient action="battre" quantite=""> poivre </ingredient> et de la <ingredient action="battre" quantite=""> cannelle </ingredient> . <operation> verser </operation> dans les courgettes et <operation> remuer </operation> doucement sur feu doux jusqu' à ce que l' <ingredient action="cuire" quantite="2"> oeuf </ingredient> soit <operation ingredients="oeuf"> cuit </operation> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="2 cuillère à soupe;;;"> assaisonnement </ingredient> si nécessaire et servir .
+</preparation>
+</recette>

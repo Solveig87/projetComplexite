@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30492">
+<titre>Cotriade charentaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 oignons</p>
+<p>3 litres d'eau</p>
+<p>1,5 kg de pommes de terre </p>
+<p>1 bouquet garni</p>
+<p>2 gousses d'ail</p>
+<p>8 portions de poissons à chair ferme au choix</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation> émincez </operation> les <ingredient quantite="3"> oignons </ingredient> , <operation> pelez </operation> et <operation> coupez </operation> les <ingredient quantite="1,5 kilogramme"> pommes </ingredient> de terre en quartiers , <operation> nettoyez </operation> et <operation ingredients="poissons"> videz </operation> les <ingredient action="vider"> poissons </ingredient> . <operation ingredients="oignons"> faites </operation> <operation ingredients="matières"> revenir </operation> dans un peu de <ingredient action="revenir"> matières </ingredient> grasse les <ingredient action="faire" quantite="3"> oignons </ingredient> , <operation> mouillez </operation> avec l' eau , <operation> assaisonnez </operation> et <operation ingredients="pommes;bouquet;gousses"> ajoutez </operation> les <ingredient action="ajouter" quantite="1,5 kilogramme"> pommes </ingredient> de terre , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et les <ingredient action="ajouter" quantite="2"> gousses </ingredient> d' ail . au bout de 20 min , <operation ingredients="poisson"> rajoutez </operation> le <ingredient action="rajouter"> poisson </ingredient> et laissez <operation> cuire </operation> 10 min . servir d' un côté le <ingredient> poisson </ingredient> <operation> égoutté </operation> et les <ingredient quantite="1,5 kilogramme"> pommes </ingredient> de terre avec une vinaigrette . de l' autre , le <ingredient> bouillon </ingredient> de cuisson <operation ingredients="crème"> lié </operation> avec la <ingredient action="lier" quantite="1 cuillère à soupe"> crème </ingredient> fraîche .
+</preparation>
+</recette>

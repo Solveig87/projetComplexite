@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83000">
+<titre>Pommes poêlée à la cannelle et son caramel déglacé à la crème</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>4 pincée de cannelle</p>
+<p>4 morceaux de sucre</p>
+<p>3 cuillères à café de miel</p>
+<p>1 peu d'eau</p>
+<p>10 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> vider </operation> les <ingredient action="vider" quantite="2"> pommes </ingredient> , puis les <operation> éplucher </operation> . les <operation> émincer </operation> en petits morceaux . <operation ingredients="sucre;miel"> mettre </operation> le <ingredient action="mettre"> sucre </ingredient> et le <ingredient action="mettre" quantite="3 cuillère à café"> miel </ingredient> dans une casserole bien chaude . laisse <operation> fondre </operation> . <operation> ajouter </operation> l' eau et laisser carameliser . <operation> ajouter </operation> la crême bien <operation> remuée </operation> et <operation> mettre </operation> hors du feu . <operation ingredients="pommes;cannelle"> poêler </operation> les <ingredient action="poêler" quantite="2"> pommes </ingredient> avec la <ingredient action="poêler" quantite="4 pincée"> cannelle </ingredient> puis sortir du feu . <operation> dresser </operation> l' assiette en <operation ingredients="pommes"> mettant </operation> le caramel sur un dôme de <ingredient action="mettre" quantite="2"> pommes </ingredient> . servir aussitôt .
+</preparation>
+</recette>

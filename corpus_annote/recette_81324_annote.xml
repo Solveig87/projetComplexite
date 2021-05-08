@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81324">
+<titre>Tarte aux poivrons grillés et oignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rouleau de pâte brisée</p>
+<p>1 gros poivron vert (ou jaune selon les goûts)</p>
+<p>2 oignons</p>
+<p>3 à 4 cuillères à café de sucre</p>
+<p>250 g de chair de tomate</p>
+<p>5 cœurs d'artichauts</p>
+<p>100 g de fromage râpé</p>
+<p>4 rondelles de fromage de chèvre</p>
+<p>basilic, herbes de Provence, selon les goûts</p>
+</ingredients>
+<preparation>
+commencez par faire <operation ingredients="poivron"> revenir </operation> le <ingredient action="revenir" quantite="1"> poivron </ingredient> <operation> coupé </operation> en lamelles . <operation ingredients="oignons;sucre"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> et le <ingredient action="ajouter"> sucre </ingredient> . faites légèrement caraméliser le tout et <operation> réservez </operation> . faites ensuite <operation ingredients="chair;basilic"> revenir </operation> la <ingredient action="revenir" quantite="250 gramme"> chair </ingredient> de tomate avec le <ingredient action="revenir" quantite=""> basilic </ingredient> et les herbes de provence . dans un <operation> moule </operation> à tarte , <operation ingredients="pâte"> placez </operation> la <ingredient action="placer"> pâte </ingredient> <operation> brisée </operation> , et étalez la <ingredient quantite="250 gramme"> chair </ingredient> de tomate ( comme pour une pizza ) , en garder quelques cuillerées . <operation ingredients="poivron"> ajoutez </operation> le <operation> mélange </operation> de <ingredient action="ajouter" quantite="1"> poivron </ingredient> et oignons . <operation ingredients="artichauts"> coupez </operation> et <operation> répartissez </operation> les cœurs d' <ingredient action="couper"> artichauts </ingredient> . <operation ingredients="chair"> ajoutez </operation> maintenant les cuillerées de <ingredient action="ajouter" quantite="250 gramme"> chair </ingredient> de tomate restantes . enfin , <operation ingredients="fromage"> recouvrez </operation> de <ingredient action="recouvrir" quantite="100 gramme"> fromage </ingredient> rapé et <operation ingredients="fromage"> ajoutez </operation> le 4 rondelles de <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> de chèvre ( pour la touche finale ! ) <operation> enfournez </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 minutes .
+</preparation>
+</recette>

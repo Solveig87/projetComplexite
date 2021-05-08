@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69292">
+<titre>Gratin de semoule au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de semoule à couscous</p>
+<p>30 g de beurre</p>
+<p>50 cl de lait</p>
+<p>120 g de gruyère</p>
+<p>4 oeufs</p>
+<p>1 boîte de thon moyenne</p>
+<p>150 g de champignons</p>
+<p>2 tomates</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lait;beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> et le <ingredient action="chauffer" quantite="30 gramme"> beurre </ingredient> jusqu' à <operation> ébullition </operation> . <operation ingredients="semoule"> verser </operation> la <ingredient action="verser" quantite="125 gramme"> semoule </ingredient> , et laisser <operation> bouillir </operation> une minute . <operation ingredients="gruyère;oeufs;sel"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> gruyère </ingredient> , les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> un à un , <ingredient action="ajouter"> sel </ingredient> , poivre . <operation> etaler </operation> à la spatule dans un plat à gratin beurré . <operation ingredients="thon"> disposer </operation> dessus le <ingredient action="disposer"> thon </ingredient> <operation> égoutté </operation> et émietté , les <ingredient quantite="150 gramme"> champignons </ingredient> et les <ingredient quantite="2"> tomates </ingredient> <operation> coupées </operation> en rondelles fines . <operation ingredients="gruyère"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="120 gramme"> gruyère </ingredient> et faites <operation> cuire </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) 15 à 20 minutes . bon appétit !
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66305">
+<titre>Nappage facile au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>25 ml de lait entier</p>
+<p>250 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le beure ensemble . <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer"> lait </ingredient> . <operation> mélanger </operation> doucement et <operation ingredients="gâteau"> mettre </operation> sur le <ingredient action="mettre"> gâteau </ingredient> . très bon aussi en guise de sauce <ingredient quantite="200 gramme"> chocolat </ingredient> sur les <ingredient> glaces </ingredient> ! ! ! aucun
+</preparation>
+</recette>

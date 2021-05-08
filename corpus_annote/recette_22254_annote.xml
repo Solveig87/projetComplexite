@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22254">
+<titre>Quatre quarts aux poires enrobées de chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs de 50 g = 150 g</p>
+<p>le même poids de sucre = 150 g</p>
+<p>le même poid de farine = 150 g</p>
+<p>le même poid de beurre = 150 g</p>
+<p>1 cuillère rase de levure en poudre</p>
+<p>2 pincées de sel</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 poire</p>
+<p>du Nutella</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;farine;beurre"> mélanger </operation> les <ingredient action="mélanger"> oeufs </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> et la <ingredient action="mélanger"> farine </ingredient> , puis le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="levure;sel;sucre"> ajouter </operation> la <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter" quantite="2 pincée"> sel </ingredient> et le <ingredient action="ajouter"> sucre </ingredient> vanillé . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> dans un moulant en même temps que vous <operation ingredients="poires"> incorporez </operation> les <ingredient action="incorporer" quantite="1"> poires </ingredient> <operation ingredients="nutella"> coupées </operation> en tranches et enrobées de <ingredient action="couper" quantite=""> nutella </ingredient> . <operation> mettre </operation> au four thermostat 6 / 7 pendant 30 à 40 mn . c' est un plat très facile à réaliser , bon marché et délicieux . <ingredient> café </ingredient> , thé , etc. . .
+</preparation>
+</recette>

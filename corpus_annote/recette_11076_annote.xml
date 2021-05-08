@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11076">
+<titre>Soupe de poisson</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>30 g de poisson  (type Sole ou Merlan)</p>
+<p>1 carotte </p>
+<p>1 pomme de terre</p>
+<p>1 blanc de poireau</p>
+<p>1 tomate</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="poisson"> cuire </operation> le <ingredient action="cuire" quantite="30 gramme"> poisson </ingredient> à l' eau , prendre uniquement la <ingredient> chair </ingredient> et laisser à part . bien <operation ingredients="légumes"> nettoyer </operation> les <ingredient action="nettoyer" quantite="1;1;1"> légumes </ingredient> , épluchez- les , puis <operation> coupez </operation> - les en petits morceaux , puis <operation ingredients="sel"> mettez </operation> - les avec 50 cl d' eau et <ingredient action="mettre" quantite=""> sel </ingredient> à <operation> cuire </operation> dans une casserole . après la cuisson des <ingredient action="ajouter" quantite="1;1;1"> légumes </ingredient> , <operation ingredients="légumes;poisson"> ajoutez </operation> le <ingredient action="ajouter" quantite="30 gramme"> poisson </ingredient> et <operation> passez </operation> le tout dans un <operation> mixer </operation> . on peut remplacer le <ingredient quantite="30 gramme"> poisson </ingredient> par la <ingredient> viande </ingredient> et <operation ingredients="fromage"> ajouter </operation> dans ce cas du <ingredient action="ajouter"> fromage </ingredient> blanc ou 1 cuillère à soupe de crème fraiche . cette recette est nutritif pour un bébé de 5 mois .
+</preparation>
+</recette>

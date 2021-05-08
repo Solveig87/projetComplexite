@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28013">
+<titre>Haricots blancs frais à la tomate, au basilic et  à l'ail</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de haricots blancs à écosser</p>
+<p>2 oignons</p>
+<p>100 g de lard de poitrine fumé</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>4 gousses d'ail</p>
+<p>2 branches de basilic</p>
+<p>500 g de tomates bien mûres</p>
+<p>1 bouquet garni</p>
+<p>35 cl de bouillon de légumes ou de volaille</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;lard"> blondir </operation> les <ingredient action="blondir" quantite="2"> oignons </ingredient> <operation> émincés </operation> , le <ingredient action="blondir" quantite="100 gramme"> lard </ingredient> <operation ingredients="lardons;tomates"> coupé </operation> en <ingredient action="couper"> lardons </ingredient> et les <ingredient action="couper" quantite="500 gramme"> tomates </ingredient> <operation> pelées </operation> et <operation> concassées </operation> . laisser <operation> mijoter </operation> jusqu' à ce que la sauce soit <operation> épaissie </operation> . <operation ingredients="haricots"> verser </operation> les <ingredient action="verser" quantite="1 kilogramme"> haricots </ingredient> dans la sauce et laisser <operation> cuire </operation> à <operation> couvert </operation> 20 minutes , à feu doux et en <operation> remuant </operation> de temps en temps . faire <operation ingredients="bouillon;bouquet;gousses"> chauffer </operation> le <ingredient action="chauffer" quantite="35 cl"> bouillon </ingredient> avec le <ingredient action="chauffer" quantite="1"> bouquet </ingredient> <operation> garni </operation> et 2 <ingredient action="chauffer" quantite="4"> gousses </ingredient> d' ail <operation> pilées </operation> . <operation ingredients="haricots"> verser </operation> sur les <ingredient action="verser" quantite="1 kilogramme"> haricots </ingredient> et poursuivre la cuisson durant 1 h à <operation> couvert </operation> . <operation> saler </operation> et <operation> poivrer </operation> à mi-cuisson . <operation> rajouter </operation> un peu d' eau pendant la cuisson si besoin . <operation ingredients="gousses;basilic"> piler </operation> au mortier les <ingredient action="piler" quantite="4"> gousses </ingredient> d' ail restantes et le <ingredient action="piler"> basilic </ingredient> . <operation ingredients="huile"> incorporer </operation> peu à peu l' <ingredient action="incorporer" quantite="4 cuillère à soupe"> huile </ingredient> . <operation ingredients="haricots"> ajouter </operation> cette purée aux <ingredient action="ajouter" quantite="1 kilogramme"> haricots </ingredient> en fin de cuisson . <operation> mélanger </operation> et servir très chaud .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73549">
+<titre>Courgette farcie au chou et paprika</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou</p>
+<p>2 grosses courgettes</p>
+<p>1 paquet de lardons nature</p>
+<p>paprika</p>
+<p>huile d'olive</p>
+<p>2 ou 3 feuilles de laurier</p>
+<p>1 tomate</p>
+<p>1 oignon</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;oignon"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> sans matière grasse . puis faire <operation ingredients="chou"> cuire </operation> le <ingredient action="cuire" quantite="1"> chou </ingredient> . une fois <operation ingredients="oignon;laurier;tomate"> cuit </operation> y <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter"> lardons </ingredient> , l' <ingredient action="cuire" quantite="1"> oignon </ingredient> , les feuilles de <ingredient action="cuire"> laurier </ingredient> et la <ingredient action="cuire" quantite="1"> tomate </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> chauffer </operation> le temps de <operation> couper </operation> les courgettes en deux dans le sens de la longueur et d' <operation> enlever </operation> les pépins . les <operation> disposer </operation> dans un plat à four . ensuite , les <operation> farcir </operation> de la préparation précédente . <operation> saupoudrer </operation> les courgettes <operation ingredients="paprika"> farcies </operation> de <ingredient action="farcir" quantite=""> paprika </ingredient> et les <operation ingredients="huile"> arroser </operation> d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive . <operation ingredients="fondantes"> enfourner </operation> et laisser <operation> cuire </operation> 30 min , de manière à ce que les courgettes soient <ingredient action="enfourner"> fondantes </ingredient> .
+</preparation>
+</recette>

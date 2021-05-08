@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48674">
+<titre>Pommes de terre et poulet en salade</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes de terre</p>
+<p>1 escalope de poulet</p>
+<p>2 carottes</p>
+<p>quelques olives noires (ou vertes)</p>
+<p>2 échalotes</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamatique</p>
+<p>origan</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre dans l' eau bouillante <operation> salée </operation> . <operation ingredients="poulet"> cuire </operation> le blanc de <ingredient action="cuire"> poulet </ingredient> 10 min dans l' eau bouillante . <operation ingredients="carottes"> bouillir </operation> les <ingredient action="bouillir" quantite="2"> carottes </ingredient> 10 min , elles doivent rester fermes . <operation ingredients="pommes;carottes;poulet"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre en 8 , les <ingredient action="couper" quantite="2"> carottes </ingredient> en rondelles et le <ingredient action="couper"> poulet </ingredient> en lamelles . <operation ingredients="olives;échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="quelque"> olives </ingredient> et les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> <operation> coupées </operation> en lamelles . <operation ingredients="huile"> ajouter </operation> <ingredient action="ajouter" quantite=""> huile </ingredient> , vinaigre , origan ; <operation> saler </operation> et <operation> poivrer </operation> .
+</preparation>
+</recette>

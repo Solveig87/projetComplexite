@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91368">
+<titre>Madeleines aux framboises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de beurre</p>
+<p>3 oeufs </p>
+<p>130 g de sucre </p>
+<p>170 g farine</p>
+<p>1 sachet de levure </p>
+<p>environ 25 framboises</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> . <operation ingredients="oeufs;sucre"> fouetter </operation> les <ingredient action="fouetter" quantite="3"> oeufs </ingredient> et le <ingredient action="fouetter" quantite="130 gramme"> sucre </ingredient> jusqu' à blanchiment . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="farine;levure;beurre"> ajouter </operation> au <operation> mélange </operation> la <ingredient action="ajouter"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter" quantite="125 gramme"> beurre </ingredient> et bien <operation> mélanger </operation> . selon le style de <operation> moule </operation> que vous utilisez , le <operation> beurrer </operation> ou <ingredient quantite="170 gramme;1"> non </ingredient> et le <operation ingredients="pâte"> remplir </operation> aux 3 / 4 de <ingredient action="remplir"> pâte </ingredient> et <operation ingredients="framboise;madeleine"> mettre </operation> une <ingredient action="mettre" quantite=""> framboise </ingredient> au milieu de chaque <ingredient action="mettre"> madeleine </ingredient> . <operation> enfourner </operation> 10 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) . et voilà vos <ingredient> madeleines </ingredient> sont prêtes !
+</preparation>
+</recette>

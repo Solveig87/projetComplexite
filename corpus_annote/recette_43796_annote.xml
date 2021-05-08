@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43796">
+<titre>Tarte crevettes, poireaux, tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>200 g de crevettes décortiquées</p>
+<p>200 g de poireaux émincées</p>
+<p>4 oeufs</p>
+<p>40 cl de crème liquide</p>
+<p>2 tomates</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux;huile"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> poireaux </ingredient> avec l' <ingredient action="revenir" quantite=""> huile </ingredient> pendant 15 min , puis <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en dés pendant encore 10 min . dans un saladier <operation ingredients="oeufs;crème"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec la <ingredient action="battre" quantite="40 cl"> crème </ingredient> , les <ingredient quantite="200 gramme"> crevettes </ingredient> , les <ingredient quantite="200 gramme"> poireaux </ingredient> , et les <ingredient quantite="2"> tomates </ingredient> . <operation> assaisonner </operation> , et <operation ingredients="pâte"> verser </operation> la préparation sur la <ingredient action="verser" quantite="1"> pâte </ingredient> préalablement <operation> disposée </operation> dans un <operation> moule </operation> à tarte . laisser <operation> cuire </operation> 35 min au four , à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

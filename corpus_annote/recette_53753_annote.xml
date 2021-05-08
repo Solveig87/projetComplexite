@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53753">
+<titre>Soupe au potiron et vermicelles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de potiron (1 gros quartier par exemple)</p>
+<p>lait</p>
+<p>vermicelles</p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chair"> cuire </operation> la <ingredient action="cuire"> chair </ingredient> du potiron dans une sauteuse avec un fond d' eau . quand la <ingredient> chair </ingredient> est molle ( on peut l' <operation> écraser </operation> à la fourchette ) , la <operation> passer </operation> au <operation> mixer </operation> ou bien l' <operation> écraser </operation> . attention à ce qu' il ne reste pratiquement pas d' eau ! ! <operation ingredients="chair"> mettre </operation> la <ingredient action="mettre"> chair </ingredient> <operation> mixée </operation> dans une casserole , en <operation ingredients="lait"> ajoutant </operation> du <ingredient action="ajouter" quantite=""> lait </ingredient> pour l' <operation> éclaircir </operation> , à <operation> doser </operation> selon les goûts pour que le résultat soit plus ou moins liquide . quand le <operation> mélange </operation> bout , <operation ingredients="vermicelles"> rajouter </operation> les <ingredient action="rajouter" quantite=""> vermicelles </ingredient> , toujours selon les goûts ( plus il y en a , plus c' est épais ) . <operation ingredients="sucre"> rajouter </operation> un peu de <ingredient action="rajouter" quantite=""> sucre </ingredient> et <operation ingredients="vermicelles;fondants"> laisser </operation> <operation> cuire </operation> jusqu' à ce que les <ingredient action="laisser" quantite=""> vermicelles </ingredient> soient bien <ingredient action="laisser"> fondants </ingredient> . voilà , c' est prêt ! on peut ensuite <operation> sucrer </operation> à volonté ! c' est vraiment agréable , un soir d' hiver bien froid , en plus ça <operation ingredients="dessert"> fait </operation> office de <ingredient action="faire" quantite=""> dessert </ingredient> en même temps , avec le <ingredient quantite=""> sucre </ingredient> : )
+</preparation>
+</recette>

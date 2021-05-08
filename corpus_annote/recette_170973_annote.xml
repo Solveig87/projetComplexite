@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170973">
+<titre>Saumon à la plancha et ses petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>1 courgette</p>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune</p>
+<p>1 poivron vert</p>
+<p>2 petits pavés de saumon</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en filaments . <operation ingredients="huile"> mettre </operation> un peu d' <ingredient action="mettre"> huile </ingredient> d' olive sur la plancha et faire <operation ingredients="légumes"> revenir </operation> à feux doux les <ingredient action="revenir" quantite="2;1"> légumes </ingredient> . faire roser les <ingredient quantite="2"> pavés </ingredient> de saumon . <operation ingredients="curry;citron;pavés"> ajouter </operation> un peu de <ingredient action="ajouter"> curry </ingredient> et de <ingredient action="ajouter" quantite="1"> citron </ingredient> sur les <ingredient action="ajouter" quantite="2"> pavés </ingredient> de saumon .
+</preparation>
+</recette>

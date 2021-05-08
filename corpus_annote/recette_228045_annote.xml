@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228045">
+<titre>Gâteau Tigrés Chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la ganache au chocolat :</p>
+<p>10 cl de crème fraîche liquide</p>
+<p>1 cuillère à soupe de miel</p>
+<p>100 g de chocolat noir à 64% de cacao</p>
+<p>Pour les moelleux tigrés :</p>
+<p>2 œufs</p>
+<p>110 g de sucre en poudre</p>
+<p>2 cuillères à soupe de poudre d'amandes</p>
+<p>100 g de farine</p>
+<p>100 g de beurre</p>
+<p>60 g de vermicelles au chocolat</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="crème;miel"> bouillir </operation> la <ingredient action="bouillir" quantite="10 cl"> crème </ingredient> et le <ingredient action="bouillir" quantite="1 cuillère à soupe"> miel </ingredient> . <operation ingredients="chocolat"> verser </operation> dessus le <ingredient action="verser" quantite="100 gramme"> chocolat </ingredient> haché . <operation> mélanger </operation> délicatement . <operation> couvrir </operation> d' un film alimentaire , laisser refroidir , <operation> réserver </operation> . dans un saladier , <operation ingredients="œufs;sucre"> battre </operation> les <ingredient action="battre" quantite="2"> œufs </ingredient> et le <ingredient action="battre" quantite="110 gramme"> sucre </ingredient> . <operation ingredients="amande;farine"> ajouter </operation> la <operation> poudre </operation> d' <ingredient action="ajouter"> amande </ingredient> et la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> . <operation> mélanger </operation> à l' aide d' une spatule . <operation ingredients="beurre"> verser </operation> le <ingredient action="verser" quantite="100 gramme"> beurre </ingredient> préalablement <operation> fondu </operation> et tiède . <operation> mélanger </operation> , <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="100 gramme"> chocolat </ingredient> en vermicelles . <operation> mélanger </operation> délicatement . <operation> garnir </operation> des empreintes en silicone ( si possible <operation> forme </operation> à savarins ) . <operation> cuire </operation> au four à 160 <operation> ° </operation> c ( thermostat . 6 ) pendant 13 à 15 min . sortir du four . laisser refroidir et <operation> démouler </operation> . et <operation> garnir </operation> le centre de ganache et <operation> décorer </operation> de billes chocolatées !
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52875">
+<titre>Emincé de veau au citron et à l'estragon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de veau coupé en dés</p>
+<p>1 oignon</p>
+<p>250 g de lardons</p>
+<p>2 cuillères à soupe d'huile ou de graisse d'oie</p>
+<p>1 tasse de bouillon de boeuf</p>
+<p>1 verre vin blanc sec</p>
+<p>20 cl de crème fraîche</p>
+<p>le jus d'1 citron</p>
+<p>3 cuillères à soupe d'estragon haché (surgelé)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;lardons;graisse"> blondir </operation> l' <ingredient action="blondir" quantite="1"> oignon </ingredient> <operation> émincé </operation> et les <ingredient action="blondir" quantite="250 gramme"> lardons </ingredient> dans la <ingredient action="blondir"> graisse </ingredient> . <operation ingredients="veau;bouillon;vin"> ajouter </operation> le <ingredient action="ajouter" quantite="1 kilogramme"> veau </ingredient> en cubes , avec la tasse de <ingredient action="ajouter"> bouillon </ingredient> et le verre de <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc . <operation ingredients="lardons"> saler </operation> et <operation> poivrer </operation> ( attention , les <ingredient action="saler" quantite="250 gramme"> lardons </ingredient> sont déjà <operation> salés </operation> ) , puis laisser <operation> mijoter </operation> pendant 1 h 30 . 5 min avant de servir , <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> fraîche , le <ingredient> citron </ingredient> et l' <ingredient> estragon </ingredient> . servir avec des <ingredient> tagliatelles </ingredient> fraîches .
+</preparation>
+</recette>

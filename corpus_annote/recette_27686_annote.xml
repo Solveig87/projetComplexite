@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27686">
+<titre>Riz cantonais facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz</p>
+<p>2 oignons</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>50 g de crevettes décortiquées</p>
+<p>75 g de jambon</p>
+<p>3 cuillères à soupe de petits pois</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> et le <operation> rincer </operation> à l' eau froide . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="75 gramme"> jambon </ingredient> en dés , <operation ingredients="oignons"> émincer </operation> finement les <ingredient action="émincer" quantite="2"> oignons </ingredient> . <operation> mettre </operation> à <operation ingredients="huile"> chauffer </operation> 1 cuillère d' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> et faire <operation ingredients="oignon;pois"> revenir </operation> l' <ingredient action="revenir" quantite="2"> oignon </ingredient> avec les petits <ingredient action="revenir" quantite="3 cuillère à soupe"> pois </ingredient> ( 3 mn ) . <operation> verser </operation> le <operation> mélange </operation> dans un plat . faire une omelette et la <operation> couper </operation> en lanières . <operation> mettre </operation> à <operation ingredients="huile"> chauffer </operation> 1 cuillère d' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> et faire <operation ingredients="crevettes"> revenir </operation> 1 mn les <ingredient action="revenir" quantite="50 gramme"> crevettes </ingredient> . <operation ingredients="riz;pois"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> , petits <ingredient action="ajouter" quantite="3 cuillère à soupe"> pois </ingredient> , oignons , jambon , omelette . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> chauffer </operation> 3 mn en <operation> remuant </operation> sans cesse . servir très chaud on peut aussi y <operation ingredients="champignons;poulet"> mettre </operation> des <ingredient action="mettre"> champignons </ingredient> noirs , des morceaux de <ingredient action="mettre"> poulet </ingredient> . . .
+</preparation>
+</recette>

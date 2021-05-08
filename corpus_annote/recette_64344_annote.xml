@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64344">
+<titre>Crevettes à la créole</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de crevettes</p>
+<p>1 citron vert</p>
+<p>gingembre</p>
+<p>1 boite de lait de coco</p>
+</ingredients>
+<preparation>
+<operation ingredients="crevettes"> eplucher </operation> les <ingredient action="eplucher" quantite="100 gramme"> crevettes </ingredient> et les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> . au court de la cuisson , <operation ingredients="gingembre;jus;citron"> incorporer </operation> une pincée de <ingredient action="incorporer" quantite=""> gingembre </ingredient> et le <ingredient action="incorporer"> jus </ingredient> d' un <ingredient action="incorporer" quantite="1"> citron </ingredient> vert . garder des zestes de ce dernier . laisser <operation> mijoter </operation> pendant . 3 min . <operation ingredients="lait;citron"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> de coco et les zestes du <ingredient action="ajouter" quantite="1"> citron </ingredient> . laisser <operation> réduire </operation> un peu . servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

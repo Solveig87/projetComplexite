@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86181">
+<titre>Côtes de porc aux pêches</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtes de porc- 500 g de pêches au sirop- 20 cl de crème fraiche liquide- 1 pincée de noix de muscade- 1 oignon- sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;pêches"> revenir </operation> dans une <operation> poêle </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="500 gramme"> pêches </ingredient> , à feu doux . <operation> réserver </operation> au chaud . dans une autre <operation> poêle </operation> , faire <operation ingredients="côtes"> revenir </operation> les <ingredient action="revenir" quantite="4"> côtes </ingredient> . dès que celles-ci sont <operation> cuites </operation> , y <operation ingredients="pêche"> incorporer </operation> la préparation <ingredient action="incorporer" quantite="500 gramme"> pêche </ingredient> - oignons , et faire <operation> cuire </operation> le tout doucement , environ 10 min . en fin de cuisson , y <operation ingredients="crème;noix;sel;poivre"> incorporer </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> et la <ingredient action="incorporer" quantite="1 pincée"> noix </ingredient> de muscade , le <ingredient action="incorporer" quantite=""> sel </ingredient> et le <ingredient action="incorporer"> poivre </ingredient> . faire <operation> cuire </operation> le tout doucement 10 min .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11709">
+<titre>Salmorejo</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 grosses tomates bien mûres</p>
+<p>1 demi-poivron</p>
+<p>1 quart de concombre</p>
+<p>du pain rassis mouillé</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>huile d'olive</p>
+<p>vinaigre</p>
+<p>sel</p>
+<p>1 œuf</p>
+<p>jambon serrano</p>
+<p>un peu de pain</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;poivron;concombre;pain;oignon;ail"> mixer </operation> les <ingredient action="mixer" quantite="2"> tomates </ingredient> , le <ingredient action="mixer"> poivron </ingredient> , le <ingredient action="mixer"> concombre </ingredient> , le <ingredient action="mixer" quantite=""> pain </ingredient> rassis , l' <ingredient action="mixer" quantite="1"> oignon </ingredient> et l' <ingredient action="mixer"> ail </ingredient> . <operation ingredients="huile;vinaigre;sel"> assaisonner </operation> avec l' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive , le <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> et le <ingredient action="assaisonner" quantite=""> sel </ingredient> . allonger d' eau jusqu' à contenance d' un potage . <operation ingredients="œuf;jambon;pain"> détailler </operation> en très petits morceaux l' <ingredient action="détailler" quantite="1"> œuf </ingredient> dur , le <ingredient action="détailler" quantite=""> jambon </ingredient> serrano et du <ingredient action="détailler" quantite=""> pain </ingredient> . <operation> ajouter </operation> au potage . déguster très frais . le salmorejo est tout simplement un gazpacho auquel on ajoute de l' <ingredient> oeuf </ingredient> dur , du <ingredient quantite=""> jambon </ingredient> serrano et du <ingredient quantite=""> pain </ingredient> .
+</preparation>
+</recette>

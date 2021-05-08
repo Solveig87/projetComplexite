@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57507">
+<titre>Tartine de troll (miel-roquefort)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boule de pain</p>
+<p>150 g de roquefort ou de Bleu</p>
+<p>10 cl de miel liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> en tranches , <operation ingredients="fromage"> tartiner </operation> avec le <ingredient action="tartiner"> fromage </ingredient> et <operation ingredients="miel"> ajouter </operation> un peu de <ingredient action="ajouter" quantite="10 cl"> miel </ingredient> . <operation> mettre </operation> les tartines au four juste pour que le <ingredient action="dore"> pain </ingredient> <operation ingredients="pain"> dore </operation> et c' est prêt ! servir chaud et <operation ingredients="salade"> accompagné </operation> d' une bonne <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

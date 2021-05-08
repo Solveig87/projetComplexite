@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87365">
+<titre>Semoule à l'indienne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait- 90 g de cassonade- 80 g de semoule de blé dur fine- 3 gousses de cardamome- 1 pointe de couteau de safran- (facultatif : 1 gousse de vanille ou 1/2 cuillère à café d'arôme d'amande amer)</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousses"> ôter </operation> les graines des <ingredient action="ôter" quantite="3"> gousses </ingredient> de cardamome . faire <operation ingredients="lait;gousse;amande"> bouillir </operation> le <ingredient action="bouillir" quantite="1 l"> lait </ingredient> avec la cardamome ( et la <ingredient action="bouillir" quantite="3"> gousse </ingredient> de vanille ou l' arôme d' <ingredient action="bouillir"> amande </ingredient> amer , facultatif ) . <operation ingredients="sucre;semoule"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> , puis la <ingredient action="ajouter" quantite="80 gramme"> semoule </ingredient> . laisser <operation> cuire </operation> 5 min à feu moyen en <operation> remuant </operation> régulièrement . <operation ingredients="couteau"> ajouter </operation> une pointe de <ingredient action="ajouter"> couteau </ingredient> de safran . ( il donne une couleur orangée ) . <ingredient quantite="90 gramme"> dessert </ingredient> peu <operation> sucré </operation> , subtilement parfumé .
+</preparation>
+</recette>

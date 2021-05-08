@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88220">
+<titre>Soufflé à la bisque de homard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite boite de bisque de homard</p>
+<p>10 cl de lait</p>
+<p>6 oeufs</p>
+<p>75 g de gruyère</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="homard"> versez </operation> le contenu de la boite de bisque de <ingredient action="verser"> homard </ingredient> et <operation> chauffez </operation> en <operation ingredients="lait"> délayant </operation> avec le <ingredient action="délayer" quantite="10 cl"> lait </ingredient> . une fois chaud , <operation> retirez </operation> la casserole du feu et <operation ingredients="oeufs;gruyère"> ajoutez </operation> les 6 jaunes d' <ingredient action="ajouter" quantite="6"> oeufs </ingredient> un à un , puis le <ingredient action="ajouter" quantite="75 gramme"> gruyère </ingredient> . <operation> battez </operation> les blancs en neige bien ferme et <operation> incorporez </operation> - les au <operation> mélange </operation> . <operation> versez </operation> le tout dans un plat allant au four ayant des bords assez hauts et faites <operation> cuire </operation> au four : 10 minutes à four moyen soit 180 <operation> ° </operation> c ( thermostat 6 ) et 10 à 15 minutes à feu plus fort : 210 <operation> ° </operation> c ( thermostat 7 ) . servez avec une <ingredient> salade </ingredient> verte et régalez -vous .
+</preparation>
+</recette>

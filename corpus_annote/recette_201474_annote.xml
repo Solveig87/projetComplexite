@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201474">
+<titre>Crumble à la parisienne</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 biscuits sablés</p>
+<p>2 cuillères a café de beurre</p>
+<p>sorbet melon </p>
+<p>1 banane ou 2</p>
+<p>6 fraises (voire plus pour les gourmands) </p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+commencer par faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une casserole . <operation ingredients="biscuits"> mixer </operation> les <ingredient action="mixer" quantite="10"> biscuits </ingredient> . y <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> . <operation> mettre </operation> le <operation> mélange </operation> dans des petits ramequins et laisser <operation> reposer </operation> 2 à 3 h au réfrigérateur . <operation ingredients="banane;fraises"> couper </operation> ensuite la <ingredient action="couper" quantite="1"> banane </ingredient> et les <ingredient action="couper" quantite="6"> fraises </ingredient> en lamelles . dans une <operation> poêle </operation> , faire <operation ingredients="fruits;sucre"> revenir </operation> les <ingredient action="revenir" quantite="1;6"> fruits </ingredient> avec du <ingredient action="revenir" quantite=""> sucre </ingredient> afin d' avoir un côté caramélisé . une fois les <ingredient quantite="1;6"> fruits </ingredient> prêts et chauds , prendre les ramequins et y <operation ingredients="sorbet;melon"> déposer </operation> une couche de <ingredient action="déposer" quantite=""> sorbet </ingredient> ( sorbet <ingredient action="déposer"> melon </ingredient> est le meilleur mariage qu' il soit ) . <operation ingredients="fruits"> ajouter </operation> sur le dessus les <ingredient action="ajouter" quantite="1;6"> fruits </ingredient> chaud et déguster en prenant les 3 couches du <ingredient quantite=";"> dessert </ingredient> . en espérant que cela vous plaise . vous pouvez y <operation ingredients="chantilly;café;chocolat"> ajouter </operation> une pointe de <ingredient action="ajouter"> chantilly </ingredient> mais avec modération un <ingredient action="ajouter"> café </ingredient> ou un <ingredient action="ajouter"> chocolat </ingredient>
+</preparation>
+</recette>

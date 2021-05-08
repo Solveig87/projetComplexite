@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27434">
+<titre>Karaagé, le poulet Japonais</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de poulet (peu importe les parties, les restes feront l'affaire pourvu qu'il reste un peu de chair) </p>
+<p>100 cl de saké japonais</p>
+<p>100 cl de sauce soja</p>
+<p>une gousse de gingembre</p>
+<p>10 cuillère à soupe de farine</p>
+<p>7 tasses d'huile de tournesol</p>
+</ingredients>
+<preparation>
+<operation ingredients="soja"> mélangez </operation> le saké et la sauce <ingredient action="mélanger"> soja </ingredient> . <operation ingredients="gingembre"> ajoutez </operation> - y le <ingredient action="ajouter"> gingembre </ingredient> préalablement râpé et <operation> mélangez </operation> le tout . <operation ingredients="poulet"> découpez </operation> le <ingredient action="découper" quantite="1 kilogramme"> poulet </ingredient> en gros morceaux d' environ 3 cm de côté . ensuite <operation> plongez </operation> - les dans le <operation> mélange </operation> sak . <ingredient> soja </ingredient> et laissez <operation> mariner </operation> pendant 20 mn . sortez les morceaux de <ingredient quantite="1 kilogramme"> poulet </ingredient> , <operation> saupoudrez </operation> - les de <ingredient quantite="10 cuillère à soupe"> farine </ingredient> et faites - les <operation ingredients="huile"> frire </operation> pendant 10 mn dans une <ingredient action="frire"> huile </ingredient> <operation> chauffée </operation> à 160 <operation> degrés </operation> . il s' agit d' une spécialité japonaise qui s' <operation ingredients="riz;salade;mayonnaise"> accompagne </operation> très bien de <ingredient action="accompagne"> riz </ingredient> ou de <ingredient action="accompagne"> salade </ingredient> <ingredient action="accompagne"> mayonnaise </ingredient> . bière
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41726">
+<titre>Soupe japonaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros oignons</p>
+<p>2 carottes</p>
+<p>1/2 d'un chou chinois</p>
+<p>20 g de gingembre frais</p>
+<p>1 gousse d'ail</p>
+<p>2 feuilles de laurier</p>
+<p>30 g de champignons noirs séchés</p>
+<p>300 g de nouilles japonaises</p>
+<p>4 cuillères à soupe de sauce soja</p>
+<p>2 bouillons cube</p>
+<p>3 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> éplucher </operation> , et <operation ingredients="légumes;gingembre"> émincer </operation> finement tous les <ingredient action="émincer" quantite="2;2;30 gramme;2"> légumes </ingredient> ( même le <ingredient action="émincer"> gingembre </ingredient> ) . faire <operation ingredients="champignons"> tremper </operation> les <ingredient action="tremper" quantite="30 gramme"> champignons </ingredient> , puis les <operation> émincer </operation> . dans une grande marmite , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> , l' <ingredient> ail </ingredient> , et le <ingredient> gingembre </ingredient> dans de l' <ingredient quantite="3 cuillère à soupe"> huile </ingredient> . puis , <operation ingredients="carottes;chou"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> carottes </ingredient> et le <ingredient action="ajouter"> chou </ingredient> . faire <operation> réduire </operation> , et <operation ingredients="soja"> ajouter </operation> la sauce <ingredient action="ajouter"> soja </ingredient> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="30 gramme"> champignons </ingredient> , <operation> mélanger </operation> , et recouvrer le tout avec de l' eau . puis <operation ingredients="laurier;bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="2 feuille"> laurier </ingredient> et les cubes de <ingredient action="ajouter" quantite="2"> bouillon </ingredient> . laisser <operation> bouillir </operation> 10 min , puis laisser <operation> mijoter </operation> à feux doux ( le temps de <operation ingredients="nouilles"> préparer </operation> les <ingredient action="préparer" quantite="300 gramme"> nouilles </ingredient> ) . dans une casserole , faire <operation ingredients="nouilles"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> nouilles </ingredient> japonaises . une fois <operation> cuites </operation> , les <operation> égoutter </operation> . servir le <ingredient quantite="2"> bouillon </ingredient> dans un bol l' assiette , et y <operation ingredients="nouilles"> incorporer </operation> les <ingredient action="incorporer" quantite="300 gramme"> nouilles </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> selon votre goût .
+</preparation>
+</recette>

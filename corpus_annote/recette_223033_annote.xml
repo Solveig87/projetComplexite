@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223033">
+<titre>Duo avocat, betterave rouge</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la préparation à l'avocat :</p>
+<p>2 avocats</p>
+<p>1/4 d'oignon</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>coriandre frais ou en poudre</p>
+<p>sel</p>
+<p>Pour la préparation à la betterave rouge :</p>
+<p>2 betteraves rouges cuites moyennes</p>
+<p>1 échalote</p>
+<p>2 cuillères à soupe de crème fraiche </p>
+<p>1 cuillère à café de vinaigre de vin à l’échalote</p>
+<p>sel</p>
+<p>fleur de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair;oignon"> mixer </operation> ensemble la <ingredient action="mixer"> chair </ingredient> des avocats et l’ <ingredient action="mixer"> oignon </ingredient> . <operation ingredients="jus;coriandre;sel"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à soupe"> jus </ingredient> de citron , la <ingredient action="ajouter" quantite=""> coriandre </ingredient> et le <ingredient action="ajouter" quantite=""> sel </ingredient> . <operation> réserver </operation> cette préparation au frais . <operation ingredients="échalote;crème"> mixer </operation> les betteraves rouges <operation> épluchées </operation> , l’ <ingredient action="mixer" quantite="1"> échalote </ingredient> et la <ingredient action="mixer" quantite="2 cuillère à soupe"> crème </ingredient> . <operation ingredients="vinaigre;sel"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> vinaigre </ingredient> de vin et le <ingredient action="ajouter" quantite=""> sel </ingredient> . dans des verres , <operation ingredients="avocat"> disposer </operation> un fond de préparation à l’ <ingredient action="disposer" quantite="2"> avocat </ingredient> , puis <operation> mettre </operation> une couche de préparation à la betterave . <operation ingredients="crème;sel"> décorer </operation> avec une petite pointe de <ingredient action="décorer" quantite="2 cuillère à soupe"> crème </ingredient> et un peu de fleur de <ingredient action="décorer" quantite=""> sel </ingredient> ( facultatif ) . <operation> mettre </operation> au frais et servir frais .
+</preparation>
+</recette>

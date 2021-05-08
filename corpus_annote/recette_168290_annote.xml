@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168290">
+<titre>Langue de boeuf froide</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour les langues de boeuf :</p>
+<p>3 langues de boeuf</p>
+<p>2 oignons</p>
+<p>clous de girofle</p>
+<p>sel, poivre, herbes de Provence</p>
+<p>1 cube de bouillon culinaire</p>
+<p>Pour la sauce :</p>
+<p>persil</p>
+<p>ciboulette</p>
+<p>2 cuillère à soupe de crème fraiche épaisse</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="langues;oignons;bouillon"> mettre </operation> les <ingredient action="mettre" quantite="3"> langues </ingredient> de boeuf , les <operation> couvrir </operation> d' eau froide , <operation> saler </operation> , <operation> poivrer </operation> , <operation> mettre </operation> l' herbe de provence , les 2 <ingredient action="mettre" quantite="2"> oignons </ingredient> <operation> piquer </operation> de clous de girofle , le cube de <ingredient action="mettre"> bouillon </ingredient> culinaire . <operation> couvrir </operation> et laisser <operation> cuire </operation> 1 heure à feu fort pour l' ébulition puis feu moyen . pendant ce temps , <operation> mettre </operation> dans un blindeur les ingrédients pour la sauce . récupérer les 2 <ingredient quantite="2"> oignons </ingredient> de la cocotte ( en ayant pris soin d' avoir <operation> enlever </operation> les clous de girofle ) , les <operation> mettre </operation> dans le blindeur et actionner le pour que cela <operation ingredients="mousse"> fasse </operation> une <ingredient action="faire"> mousse </ingredient> . <operation ingredients="langues"> laisser </operation> <operation> tiédir </operation> les <ingredient action="laisser" quantite="3"> langues </ingredient> de boeuf bien <operation> égouttées </operation> , les <operation> couper </operation> en morceaux et servez - les avec la sauce . pour l' <operation> accompagnement </operation> , de bonnes frites feront l' affaire . <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49030">
+<titre>Sucettes de reblochon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 reblochon</p>
+<p>chapelure</p>
+<p>2 oeufs</p>
+<p>huile pour friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="reblochon"> découpez </operation> le <ingredient action="découper" quantite="1"> reblochon </ingredient> en 12 portions . <operation ingredients="reblochon"> mettez </operation> chaque portion de <ingredient action="mettre" quantite="1"> reblochon </ingredient> sur une pique ( type brochette ) . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette . <operation ingredients="oeuf;chapelure"> trempez </operation> votre brochette successivement dans l' <ingredient action="trempez" quantite="2"> oeuf </ingredient> puis dans la <ingredient action="trempez" quantite=""> chapelure </ingredient> ( 2 fois ) . <operation ingredients="huile"> mettez </operation> l' <ingredient action="mettre" quantite=""> huile </ingredient> à <operation> chauffer </operation> . faire <operation ingredients="huile"> frire </operation> chaque brochette 2 / 3 minutes dans l' <ingredient action="frire" quantite=""> huile </ingredient> bien chaude . servez aussitôt avec une <ingredient> salade </ingredient> verte et de la <ingredient> viande </ingredient> de grison .
+</preparation>
+</recette>

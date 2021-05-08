@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91155">
+<titre>Salade basique</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 laitue</p>
+<p>2 tomates</p>
+<p>2 carottes</p>
+<p>200 g de thon</p>
+<p>2 tranches de jambon blanc</p>
+<p>1 oeuf</p>
+<p>10 cl d´huile d´olive</p>
+<p>5 cl de vinaigre</p>
+<p>1 cuillère à café de sel</p>
+</ingredients>
+<preparation>
+d´abord <operation ingredients="laitue"> lavez </operation> bien la <ingredient action="laver" quantite="1"> laitue </ingredient> , ensuite <operation ingredients="carottes"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> carottes </ingredient> . puis faites bien <operation> cuire </operation> l´oeuf dans une casserole d' eau pendant 10 min . après , <operation ingredients="tomates;carottes;laitue"> coupez </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> , les <ingredient action="couper" quantite="2"> carottes </ingredient> , la <ingredient action="couper" quantite="1"> laitue </ingredient> et l´oeuf en petits morceaux . ensuite <operation ingredients="thon"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> thon </ingredient> et <operation ingredients="jambon"> coupez </operation> aussi le <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> blanc en petites dés . <operation ingredients="vinaigre;sel"> versez </operation> un peu d´huile d´olive , un peu de <ingredient action="verser" quantite="5 cl"> vinaigre </ingredient> et le <ingredient action="verser" quantite="1 cuillère à café"> sel </ingredient> . voilà à table !
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62216">
+<titre>Salade avocat saumon d'Enzo</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 avocats</p>
+<p>150 g de saumon fumé</p>
+<p>1 boîte de pointes d'asperges</p>
+<p>1 pomme</p>
+<p>quelques feuilles de salade verte</p>
+<p>1 demi citron</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats;pomme"> couper </operation> en dés les <ingredient action="couper" quantite="3"> avocats </ingredient> , la <ingredient action="couper" quantite="1"> pomme </ingredient> et le <ingredient action="fumer"> saumon </ingredient> <operation ingredients="saumon"> fumé </operation> ; les <operation> mélanger </operation> dans un saladier , <operation ingredients="asperges;jus;citron;crème;sel;poivre"> ajouter </operation> les pointes d' <ingredient action="ajouter"> asperges </ingredient> , le <ingredient action="ajouter"> jus </ingredient> du demi <ingredient action="ajouter" quantite="1mi"> citron </ingredient> , la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraîche , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> mélanger </operation> à nouveau le tout . servir frais sur les feuilles de <ingredient quantite="quelque feuille"> salade </ingredient> .
+</preparation>
+</recette>

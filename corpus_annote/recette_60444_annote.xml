@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60444">
+<titre>Tarte rhubarbe en crumble</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de rhubarbe</p>
+<p>Pour la pâte sablée aux amandes : </p>
+<p>250 g de farine</p>
+<p>120 g de beurre</p>
+<p>2 g de sel</p>
+<p>90 g de sucre glace</p>
+<p>30 g d'amande en poudre</p>
+<p>1 petit oeuf</p>
+<p>Pour la crème :</p>
+<p>20 cl de lait</p>
+<p>1 oeuf</p>
+<p>50 g de sucre</p>
+<p>Pour le crumble :</p>
+<p>40 g de farine</p>
+<p>40 g de sucre</p>
+<p>50 g de beurre</p>
+<p>40 g de poudre d'amande</p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="rhubarbe"> eplucher </operation> la <ingredient action="eplucher" quantite="500 gramme"> rhubarbe </ingredient> et la <operation> couper </operation> en tronçons . <operation ingredients="rhubarbe"> mettre </operation> la <ingredient action="mettre" quantite="500 gramme"> rhubarbe </ingredient> dans un saladier , <operation ingredients="sucre"> mettre </operation> 2 cuillères de <ingredient action="mettre" quantite="90 gramme+50 gramme+40 gramme"> sucre </ingredient> en <operation> poudre </operation> pour qu' elle perdre du <ingredient> jus </ingredient> . pâte sablée amande : <operation ingredients="beurre;sel;sucre;glace;amande;oeuf"> mettre </operation> dans le robot le <ingredient action="mettre" quantite="120 gramme+50 gramme"> beurre </ingredient> mou , le <ingredient action="mettre" quantite="2 gramme"> sel </ingredient> , le <ingredient action="mettre" quantite="90 gramme+50 gramme+40 gramme"> sucre </ingredient> <ingredient action="mettre"> glace </ingredient> , la <operation> poudre </operation> d' <ingredient action="mettre" quantite="30 gramme"> amande </ingredient> et l' <ingredient action="mettre" quantite="1+1"> oeuf </ingredient> . faire <operation> tourner </operation> puis <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme+40 gramme"> farine </ingredient> d' un bloc et <operation> refaire </operation> <operation> tourner </operation> . l' étaler à la main dans le <operation> moule </operation> à tarte . crème : dans un petit saladier , <operation ingredients="oeuf;sucre"> battre </operation> l' <ingredient action="battre" quantite="1+1"> oeuf </ingredient> avec 50 g de <ingredient action="battre" quantite="90 gramme+50 gramme+40 gramme"> sucre </ingredient> puis <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> . <operation ingredients="rhubarbe"> déposer </operation> les tronçons de <ingredient action="déposer" quantite="500 gramme"> rhubarbe </ingredient> <operation ingredients="pâte"> égouttés </operation> sur la <ingredient action="égoutter"> pâte </ingredient> . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> dessus et <operation> recouvrir </operation> de crumble . faire <operation> cuire </operation> 35 minutes au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

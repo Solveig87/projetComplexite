@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14892">
+<titre>Flan au micro-ondes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>3 oeufs</p>
+<p>200 g de sucre</p>
+<p>vanille, cannelle...</p>
+</ingredients>
+<preparation>
+faire le caramel au micro-ondes : faire <operation ingredients="sucre"> chauffer </operation> 100 g de <ingredient action="chauffer" quantite="200 gramme"> sucre </ingredient> et 3 cuillerées d' eau , environ 5 min à puissance maximale . le <operation> répartir </operation> dans les 6 ramequins . faire <operation ingredients="lait;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> avec 100 g de <ingredient action="chauffer" quantite="200 gramme"> sucre </ingredient> pendant 5 min à puissance maximale . <operation ingredients="oeufs"> battre </operation> les 3 <ingredient action="battre" quantite="3"> oeufs </ingredient> . <operation ingredients="lait;oeufs"> verser </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="50 cl"> lait </ingredient> et sucre sur les <ingredient action="verser" quantite="3"> oeufs </ingredient> en <operation> battant </operation> énergiquement . <operation ingredients="sucre"> ajouter </operation> le parfum éventuel ( <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> vanillé . . . ) puis <operation> verser </operation> dans les ramequins . faire <operation> cuire </operation> 2 fois 5 min à puissance maximale ou moyenne ( adapter la puissance de la cuisson en vérifiant à mi-cuisson ) . <ingredient> manger </ingredient> très frais .
+</preparation>
+</recette>

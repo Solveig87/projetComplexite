@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56471">
+<titre>Crique ardéchoise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 pommes de terre</p>
+<p>1 oignon</p>
+<p>4 oeufs</p>
+<p>sel, poivre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="5"> pommes </ingredient> de terre puis les <operation> laver </operation> . <operation ingredients="oignon"> peler </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> . <operation> râper </operation> <ingredient quantite="5"> pommes </ingredient> de terre et <ingredient quantite="1"> oignon </ingredient> . y <operation ingredients="oeufs"> ajouter </operation> 4 <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , sel et poivre . <operation> mélanger </operation> le tout . <operation ingredients="huile"> mettre </operation> un peu d' <ingredient action="mettre" quantite=""> huile </ingredient> dans la <operation> poêle </operation> . <operation> verser </operation> une louche de cette préparation . faire <operation> cuire </operation> . 4 min de chaque côté . peut se consommer soit nature soit avec du <ingredient> jus </ingredient> de citron . du bordeau / rouge
+</preparation>
+</recette>

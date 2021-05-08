@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57696">
+<titre>Poulet au coca rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>33 cl de coca</p>
+<p>1 sachet de soupe à l'oignon déshydratée</p>
+</ingredients>
+<preparation>
+<operation ingredients="soupe;coca"> mélanger </operation> le sachet de <ingredient action="mélanger"> soupe </ingredient> et le <ingredient action="mélanger" quantite="33 cl"> coca </ingredient> , <operation ingredients="poulet"> verser </operation> sur le <ingredient action="verser"> poulet </ingredient> dans une sauteuse , faire <operation> mijoter </operation> longuement à feu tout doux et à <operation> couvert </operation> . c' est délicieux , ça n' a pas du tout le goût de <ingredient quantite="33 cl"> coca </ingredient> , ça fait une sauce caramélisée , c' est très sympa ! j' ai servi ça à mes parents sans rien leur dire ( mon père déteste le <ingredient quantite="33 cl"> coca </ingredient> ) et ils se sont régalés !
+</preparation>
+</recette>

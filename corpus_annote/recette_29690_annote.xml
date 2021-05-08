@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29690">
+<titre>Salade de poulet fumé à la mangue</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 poulets fumés (à peu près 1 kg chacun)</p>
+<p>3 mangues mûres</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>1 botte de radis</p>
+<p>1 gros bocal (ou une conserve) de châtaignes pelées</p>
+<p>50 cl de mayonnaise (c'est bien sûr meilleur de la faire vous même, mais vous pouvez aussi utiliser de la mayonnaise toute prête)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+oter la peau des <ingredient quantite="2"> poulets </ingredient> , et <operation ingredients="chair"> couper </operation> la <ingredient action="couper"> chair </ingredient> en dés . garder de côté pour le moment . <operation ingredients="mangues"> eplucher </operation> les <ingredient action="eplucher" quantite="3"> mangues </ingredient> , en prenant le soin d' <operation> enlever </operation> le noyau , et les <operation> couper </operation> en cubes également . même chose avec les 2 <ingredient action="couper"> poivrons </ingredient> , que vous <operation ingredients="poivrons;mangues"> couperez </operation> un peu plus petit que les morceaux de <ingredient action="couper" quantite="3"> mangues </ingredient> . <operation ingredients="radis;châtaignes"> couper </operation> les <ingredient action="couper"> radis </ingredient> en fines tranches et les <ingredient action="couper"> châtaignes </ingredient> en petits morceaux . <operation ingredients="poulet;mayonnaise;sel;poivre"> mélanger </operation> tous ces ingrédients avec le <ingredient action="mélanger" quantite="2"> poulet </ingredient> , la <ingredient action="mélanger" quantite="50 cl"> mayonnaise </ingredient> , et un peu de <ingredient action="mélanger" quantite=""> sel </ingredient> et de <ingredient action="mélanger"> poivre </ingredient> .
+</preparation>
+</recette>

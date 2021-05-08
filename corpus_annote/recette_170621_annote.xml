@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170621">
+<titre>Potage velouté au pâtisson</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 petits pâtissons</p>
+<p>1 oignon</p>
+<p>3 gousses d'ail</p>
+<p>30 g de beurre</p>
+<p>1,5 l eau</p>
+<p>sel poivre</p>
+<p>2 tranches de pain</p>
+<p>10 cl de crême fraîche liquide</p>
+<p>persil coupé très fin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon;gousses;beurre"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> et les <ingredient action="revenir" quantite="3"> gousses </ingredient> d' ail dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="pâtissons"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> pâtissons </ingredient> après les avoir <operation> épluchés </operation> , <operation> vidés </operation> des graines à l' intérieur et <operation> émincés </operation> . laissez <operation> mijoter </operation> en <operation> mélangeant </operation> régulièrement , <operation ingredients="sel;poivre"> ajoutez </operation> ensuite l' eau , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . laissez <operation> cuire </operation> 30 minutes , puis <operation> ajoutez </operation> les 2 tartines <operation> émiettées </operation> . <operation> passez </operation> au <operation> mixer </operation> et <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche au moment de servir ainsi que du <ingredient> persil </ingredient> . ce potage est très velouté
+</preparation>
+</recette>

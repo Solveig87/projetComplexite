@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12223">
+<titre>Vite fait aux fruits</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 cuillères à soupe de farine</p>
+<p>8 cuillères à soupe de sucre</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>2 verres de lait </p>
+<p>3 oeufs (pour la pâte)</p>
+<p>1 fruit (pomme, poire, pêche, banane.......)</p>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe de sucre</p>
+</ingredients>
+<preparation>
+prendre 1 saladier , y <operation ingredients="farine;sucre;oeufs"> mettre </operation> la <ingredient action="mettre" quantite="10 cuillère à soupe"> farine </ingredient> , le <ingredient action="mettre" quantite="8 cuillère à soupe+1 cuillère à soupe"> sucre </ingredient> , les 3 <ingredient action="mettre" quantite="3+1"> oeufs </ingredient> , l' <ingredient quantite="4 cuillère à soupe"> huile </ingredient> et le <ingredient quantite="2 verre"> lait </ingredient> . <operation> remuer </operation> le tout . <operation> mettre </operation> dans un plat à tarte beurré , <operation ingredients="fruit"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> fruit </ingredient> en petits dés , puis faire <operation> cuire </operation> à four moyen . aux trois quarts de la cuisson , <operation ingredients="oeuf"> ajouter </operation> l' <ingredient action="ajouter" quantite="3+1"> oeuf </ingredient> <operation ingredients="sucre"> battu </operation> avec 4 cuillères de <ingredient action="battre" quantite="8 cuillère à soupe+1 cuillère à soupe"> sucre </ingredient> . manger tiède ou froid . idéal pour un <ingredient quantite="8 cuillère à soupe+1 cuillère à soupe"> dessert </ingredient> avec les enfants en toute saison .
+</preparation>
+</recette>

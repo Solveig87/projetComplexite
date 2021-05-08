@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90815">
+<titre>Mousse aux fraises facile</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de fraises</p>
+<p>20 cl de crème fraîche</p>
+<p>3 blancs d'œufs</p>
+<p>75 g de sucre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="fraises"> équeuter </operation> les <ingredient action="équeuter" quantite="300 gramme"> fraises </ingredient> . les <operation ingredients="sucre"> passer </operation> au mixeur avec le <ingredient action="passer" quantite="75 gramme"> sucre </ingredient> et <operation> réserver </operation> au frais . <operation> battre </operation> les blancs en neige . dans un saladier <operation ingredients="crème"> mélanger </operation> le coulis et la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> préalablement <operation> fouettée </operation> . <operation> ajouter </operation> doucement les blancs de neige à la préparation . <operation> dresser </operation> dans des verrines . <operation> réserver </operation> 1 heure avant de servir .
+</preparation>
+</recette>

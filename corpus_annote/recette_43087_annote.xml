@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43087">
+<titre>Ratatouille à la citrouille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron</p>
+<p>4 tomates</p>
+<p>1 courgette</p>
+<p>500 g de potiron</p>
+<p>1 oignon</p>
+<p>1 ou 2 gousses d'ail selon les goûts</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+<p>facultatif : une pincée de piment en poudre, herbes de provence...</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> coupez </operation> tous les <ingredient action="couper" quantite="1;4;500 gramme;1"> légumes </ingredient> en dés . <operation ingredients="huile"> mettez </operation> un fond d' <ingredient action="mettre" quantite=""> huile </ingredient> à <operation> chauffer </operation> dans une cocotte , <operation ingredients="oignon;ail"> coupez </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> et l' <ingredient action="couper"> ail </ingredient> et faites - les roussir dans l' <ingredient quantite=""> huile </ingredient> . <operation ingredients="légumes"> ajoutez </operation> les dés de <ingredient action="ajouter" quantite="1;4;500 gramme;1"> légumes </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> , quelques herbes de provence et une pincée de piment et hop , c' est parti ! <operation> couvrez </operation> , laissez <operation> cuire </operation> à feu doux aussi longtemps que vous voudrez en surveillant pour que ça n' attache pas au fond de la gamelle . je <operation ingredients="confit;légumes"> fais </operation> <operation> cuire </operation> mes ratatouilles parfois toute une après-midi , cela " <ingredient action="faire"> confit </ingredient> " les <ingredient action="faire" quantite="1;4;500 gramme;1"> légumes </ingredient> , c' est vraiment très bon , alors si vous avez du temps devant vous , essayez ! très bon juste <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

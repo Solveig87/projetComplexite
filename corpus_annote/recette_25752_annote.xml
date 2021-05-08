@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25752">
+<titre>Crème de poireau aux herbes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 poireaux</p>
+<p>25 cl de bouillon de poule</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 bouquet de ciboulette ciselé</p>
+<p>1 branche de thym</p>
+<p>30 g de beurre froid</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon;poireaux"> plonger </operation> les herbes dans le <ingredient action="plonger" quantite="25 cl"> bouillon </ingredient> avec les <ingredient action="plonger" quantite="3"> poireaux </ingredient> <operation> émincés </operation> pendant 5 min . <operation ingredients="jus"> tamiser </operation> le <ingredient action="tamiser"> jus </ingredient> de cuisson et <operation ingredients="poireaux"> mixer </operation> les <ingredient action="mixer" quantite="3"> poireaux </ingredient> . <operation ingredients="jus;crème;poireaux"> incorporer </operation> un peu de <ingredient action="incorporer"> jus </ingredient> de cuisson et de <ingredient action="incorporer" quantite="1 cuillère à soupe"> crème </ingredient> à la purée de <ingredient action="incorporer" quantite="3"> poireaux </ingredient> . <operation ingredients="jus"> réduire </operation> de moitié le <ingredient action="réduire"> jus </ingredient> de cuisson à feu doux et le <operation ingredients="beurre"> battre </operation> avec le <ingredient action="battre" quantite="30 gramme"> beurre </ingredient> <operation> coupé </operation> en petits dés . servir les <ingredient quantite="3"> poireaux </ingredient> avec la sauce à part .
+</preparation>
+</recette>

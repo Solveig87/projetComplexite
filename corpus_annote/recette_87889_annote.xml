@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87889">
+<titre>Pâtes à la tapenade de tomates et tomates séchées</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes</p>
+<p>5 tomates séchées</p>
+<p>3 c. à s. de tapenade de tomate (selon les goûts)</p>
+<p>125 ml de crème</p>
+<p>Poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> selon les indications sur leur temps de cuisson . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="5"> tomates </ingredient> séchées en petites lamelles . dans une casserole , <operation ingredients="crème"> mélanger </operation> la <ingredient action="mélanger"> crème </ingredient> et la tapenade . <operation ingredients="poivre"> laisser </operation> <operation> cuire </operation> à feu doux 5 minutes et <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite="5"> tomates </ingredient> ainsi que le <ingredient action="laisser" quantite=""> poivre </ingredient> . laisser <operation> cuire </operation> encore 5 minutes . <operation ingredients="pâtes"> napper </operation> les <ingredient action="napper" quantite="500 gramme"> pâtes </ingredient> de sauce et régalez -vous .
+</preparation>
+</recette>

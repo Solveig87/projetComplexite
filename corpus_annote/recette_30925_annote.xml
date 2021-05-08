@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30925">
+<titre>Rognons de veau flambés à la crème à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 g de beurre</p>
+<p>1 rognon de veau </p>
+<p>2 cuillerées à café de moutarde </p>
+<p>1 cuillerée à soupe de crème fraîche</p>
+<p>1 cuillerée à café de farine </p>
+<p>25 cl de bouillon de volaille </p>
+<p>2 cl de cognac</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="graisse"> ôter </operation> la <ingredient action="ôter"> graisse </ingredient> du rognon et le <operation> découper </operation> en dés . faire <operation ingredients="viande;beurre"> revenir </operation> la <ingredient action="revenir" quantite="1"> viande </ingredient> 5 min dans une <operation> poêle </operation> avec le <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> chaud . <operation ingredients="cognac"> arroser </operation> de <ingredient action="arroser" quantite="2 cl"> cognac </ingredient> , <operation> flamber </operation> et <operation ingredients="rognons"> réserver </operation> les <ingredient action="réserver" quantite="1"> rognons </ingredient> dans un plat . <operation ingredients="moutarde;farine"> mélanger </operation> la <ingredient action="mélanger"> moutarde </ingredient> et la <ingredient action="mélanger"> farine </ingredient> dans la <operation> poêle </operation> et <operation> réchauffer </operation> à feu doux en <operation> remuant </operation> régulièrement . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="25 cl"> bouillon </ingredient> chaud , <operation> assaisonner </operation> et laisser <operation> mijoter </operation> 5 min . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer"> crème </ingredient> et <operation ingredients="rognons"> placer </operation> les <ingredient action="placer" quantite="1"> rognons </ingredient> de veau à <operation> réchauffer </operation> dans la sauce sans <operation> porter </operation> à <operation> ébullition </operation> .
+</preparation>
+</recette>

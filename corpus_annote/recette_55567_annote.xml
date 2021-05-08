@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55567">
+<titre>Gratin mexicain</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120g de petites pâtes (ou de riz)</p>
+<p>500 g de boeuf haché</p>
+<p>1 oignon</p>
+<p>200 g de maïs en conserve</p>
+<p>1 grosse boîte de haricots rouges</p>
+<p>50 g d'olives noires en rondelles</p>
+<p>1 pot de sauce salsa</p>
+<p>1 pot de sauce aigre-douce</p>
+<p>12 cl de sauce tomate</p>
+<p>1 cuillère à soupe d'épices à tacos (cumin, origan, ail, chili...)</p>
+<p>100 g de fromage râpé</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="120 gramme"> pâtes </ingredient> selon les instructions . <operation> egoutter </operation> et <operation> réserver </operation> . préchauffer votre four à 180 <operation> ° </operation> c ( thermostat 6 ) . faire <operation ingredients="boeuf;oignon"> brunir </operation> le <ingredient action="brunir" quantite="500 gramme"> boeuf </ingredient> haché à la <operation> poêle </operation> avec l' <ingredient action="brunir" quantite="1"> oignon </ingredient> . <operation> mélanger </operation> tous les ingrédients , étaler dans un plat à gratin et <operation ingredients="fromage"> couvrir </operation> de <ingredient action="couvrir" quantite="100 gramme"> fromage </ingredient> . faire <operation> gratiner </operation> 15 minutes ( ou moins ) sous le gril . un gratin bien réconfortant avec une touche d' exotisme !
+</preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28609">
+<titre>Steak tartare et riz aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de steak haché</p>
+<p>mayonnaise</p>
+<p>ketchup</p>
+<p>1 oignon</p>
+<p>1 échalote</p>
+<p>1 cuillère à soupe de ciboulette hachée</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>6 câpres</p>
+<p>quelques gouttes de tabasco</p>
+<p>quelques gouttes de Cognac</p>
+<p>quelques gouttes de sauce worcestershire</p>
+<p>1 botte de radis</p>
+<p>2 fonds d'artichauts cuits</p>
+<p>200 g de riz cuit</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tartares"> préparez </operation> les <ingredient action="préparer"> tartares </ingredient> en <operation ingredients="viande;câpres;oignon;échalote;ciboulette;persil"> malaxant </operation> la <ingredient action="malaxer" quantite="300 gramme"> viande </ingredient> avec les <ingredient action="malaxer" quantite="6"> câpres </ingredient> , l' <ingredient action="malaxer" quantite="1"> oignon </ingredient> et l' <ingredient action="malaxer" quantite="1"> échalote </ingredient> <operation> hachés </operation> , la <ingredient action="malaxer" quantite="1 cuillère à soupe"> ciboulette </ingredient> et le <ingredient action="malaxer" quantite="1 cuillère à soupe"> persil </ingredient> . <operation ingredients="tabasco;cognac;sel;poivre"> assaisonnez </operation> de <ingredient action="assaisonnez"> tabasco </ingredient> , de <ingredient action="assaisonnez"> cognac </ingredient> , de worchester sauce , de <ingredient action="assaisonnez" quantite=""> sel </ingredient> et de <ingredient action="assaisonnez"> poivre </ingredient> . <operation ingredients="ketchup;mayonnaise"> ajoutez </operation> plus ou moins de <ingredient action="ajouter" quantite=""> ketchup </ingredient> et de <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> . <operation ingredients="riz;radis;artichauts"> mélangez </operation> le <ingredient action="mélanger"> riz </ingredient> avec les <ingredient action="mélanger"> radis </ingredient> <operation> coupés </operation> en rondelles et les <operation> fonds </operation> d' <ingredient action="mélanger"> artichauts </ingredient> <operation> coupés </operation> en morceaux . <operation ingredients="mayonnaise"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> et <operation> poivrez </operation> . <operation ingredients="steaks;tartares;riz"> dressez </operation> les <ingredient action="dresser" quantite="300 gramme"> steaks </ingredient> <ingredient action="dresser"> tartares </ingredient> sur les assiettes avec un dôme de <ingredient action="dresser"> riz </ingredient> aux légumes .
+</preparation>
+</recette>

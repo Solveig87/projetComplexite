@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61233">
+<titre>Lasagnes brocolis thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de brocolis surgelés</p>
+<p>1 boîte de thon (400 g) ou du thon frais </p>
+<p>1 boîte de lasagnes sans précuisson ou lasagnes fraiches</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet de basilic</p>
+<p>50 cl de béchamel liquide toute prête ou faite maison</p>
+<p>100 g de fromage râpé (gruyère, emmental, comté...)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> à la vapeur les <ingredient action="cuire" quantite="1 kilogramme"> brocolis </ingredient> environ 25 min . pendant ce temps , <operation ingredients="thon"> égoutter </operation> le <ingredient action="égoutter"> thon </ingredient> en boîte ou <operation ingredients="thon"> couper </operation> en petits morceaux le <ingredient action="couper"> thon </ingredient> frais . <operation ingredients="thon;oignon"> mélanger </operation> le <ingredient action="mélanger"> thon </ingredient> avec l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> cru finement haché , le <ingredient> basilic </ingredient> finement haché également , le <ingredient action="découper" quantite=""> sel </ingredient> , le <ingredient action="découper" quantite=""> poivre </ingredient> et l' <ingredient action="découper"> ail </ingredient> <operation ingredients="sel;poivre;ail"> découpé </operation> en petits cubes . <operation ingredients="béchamel"> préparer </operation> la <ingredient action="préparer" quantite="50 cl"> béchamel </ingredient> . lorsque les <ingredient action="cuire" quantite="1 kilogramme"> brocolis </ingredient> sont <operation ingredients="brocolis"> cuits </operation> , les <operation> écraser </operation> grossièrement à la fourchette . les <operation ingredients="thon"> mélanger </operation> à la préparation de <ingredient action="mélanger"> thon </ingredient> puis , <operation ingredients="béchamel"> mélanger </operation> 3 / 4 de la sauce <ingredient action="mélanger" quantite="50 cl"> béchamel </ingredient> à ce <operation> mélange </operation> . ( conserver le quart qui reste pour finir le plat ) <operation ingredients="brocolis"> disposer </operation> dans un plat les feuilles de lasagnes , le <operation> mélange </operation> <ingredient action="disposer" quantite="1 kilogramme"> brocolis </ingredient> / thon / béchamel , puis <operation> refaire </operation> une couche de lasagnes , préparation . . . etc et ce , jusqu' en haut du plat . . . finir par la <ingredient quantite="50 cl"> béchamel </ingredient> et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> fromage </ingredient> râpé . faire <operation> cuire </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) environ 35 à 40 min . déguster avec une <ingredient> salade </ingredient> verte ! un petit rosé bien frais
+</preparation>
+</recette>

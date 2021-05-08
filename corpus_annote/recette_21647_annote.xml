@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21647">
+<titre>Salade mélangée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>gruyère</p>
+<p>1 concombre</p>
+<p>2 poivrons verts (ou rouges, ou les deux)</p>
+<p>1 botte de radis</p>
+<p>lardons</p>
+<p>4 oeufs</p>
+<p>huile </p>
+<p>vinaigre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;radis"> lavez </operation> les <ingredient action="laver" quantite="4"> tomates </ingredient> et les <ingredient action="laver"> radis </ingredient> , <operation> coupez </operation> - les en rondelles ainsi que le <ingredient action="couper" quantite="1"> concombre </ingredient> , <operation ingredients="concombre;poivron"> coupez </operation> les <ingredient action="couper"> poivron </ingredient> en lamelles , <operation ingredients="gruyère"> coupez </operation> le <ingredient action="couper" quantite=""> gruyère </ingredient> en dés . faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite=""> lardons </ingredient> dans une <operation> poêle </operation> , laissez - les refroidir , faites <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> . <operation> disposez </operation> tous les ingredients dans un plat . faites une vinaigrette et <operation> mettez </operation> - la dans le plat .
+</preparation>
+</recette>

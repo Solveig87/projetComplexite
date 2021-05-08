@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19332">
+<titre>Tomates farcies aux pâtes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>160 g de coquillettes</p>
+<p>1 poivron</p>
+<p>8 tomates</p>
+<p>200 g de fromage blanc à 0 %</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet de basilic</p>
+<p>20 g de filet d'anchois à l'huile</p>
+<p>8 olives noires dénoyautées</p>
+<p>se, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> ' al dente ' , les <operation> rincer </operation> à l' eau froide afin qu' elles ne <operation> collent </operation> pas entre elles , puis bien les <operation> égoutter </operation> . <operation ingredients="poivron"> griller </operation> le <ingredient action="griller" quantite="1"> poivron </ingredient> , le <operation> peler </operation> , l' <operation> épépiner </operation> et le <operation> couper </operation> en lanières . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="8"> tomates </ingredient> au 2 / 3 . les <operation> évider </operation> , <operation> saler </operation> l' intérieur , les <operation> retourner </operation> et les laisser dégorger . <operation ingredients="fromage;ail;basilic;anchois;poivre"> mixer </operation> le <ingredient action="mixer" quantite="200 gramme"> fromage </ingredient> blanc , l' <ingredient action="mixer"> ail </ingredient> , le <ingredient action="mixer"> basilic </ingredient> , les <ingredient action="mixer"> anchois </ingredient> , et le <ingredient action="mixer" quantite=""> poivre </ingredient> . <operation ingredients="pâtes;poivron;olives"> ajouter </operation> les <ingredient action="ajouter"> pâtes </ingredient> , le <ingredient action="ajouter" quantite="1"> poivron </ingredient> , et les <ingredient action="ajouter" quantite="8"> olives </ingredient> <operation> concassées </operation> . en <operation ingredients="tomates"> farcir </operation> les <ingredient action="farcir" quantite="8"> tomates </ingredient> . servir bien frais .
+</preparation>
+</recette>

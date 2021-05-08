@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20287">
+<titre>Salade d'artichauts à la crème de cresson</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 fonds d'artichauts cuits</p>
+<p>4 oeufs</p>
+<p>1 citron</p>
+<p>2 tomates</p>
+<p>sel, poivre du moulin</p>
+<p>Pour la crème de cresson :</p>
+<p>200 g de fromage blanc</p>
+<p>2 jaunes d'oeufs durs</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>100 g de feuilles de cresson ou autre salade corsée</p>
+</ingredients>
+<preparation>
+<operation> cuire </operation> et écaler les <ingredient quantite="4"> oeufs </ingredient> durs , <operation ingredients="tomates"> peler </operation> et <operation> épépiner </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> , <operation> couper </operation> le tout en quartiers . <operation> emincer </operation> les <operation ingredients="artichauts"> fonds </operation> d' <ingredient action="fonds"> artichauts </ingredient> en fines lamelles . les citronner . pour faire la sauce : <operation ingredients="cresson;fromage;moutarde"> mixer </operation> le <ingredient action="mixer"> cresson </ingredient> avec le <ingredient action="mixer" quantite="200 gramme"> fromage </ingredient> blanc et la <ingredient action="mixer" quantite="1 cuillère à soupe"> moutarde </ingredient> . <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> durs grossièrement <operation> émiettés </operation> et <operation ingredients="sel;poivre"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation ingredients="oeufs;artichauts;tomates"> disposer </operation> les <ingredient action="disposer" quantite="4"> oeufs </ingredient> , les lamelles d' <ingredient action="disposer"> artichauts </ingredient> et les <ingredient action="disposer" quantite="2"> tomates </ingredient> sur un plat de service . <operation ingredients="cresson"> napper </operation> de la sauce au <ingredient action="napper"> cresson </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53285">
+<titre>Tarte salé façon calzone</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>1 petite tomate</p>
+<p>1/2 poivron jaune et rouge</p>
+<p>3 champignons frais</p>
+<p>1 poignet de gruyère</p>
+<p>tabasco</p>
+<p>sel, poivre</p>
+<p>1 jaune d'oeuf</p>
+<p>1 cuillère à moutarde</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> lavez </operation> les <ingredient action="laver" quantite="1;3"> légumes </ingredient> , <operation> coupez </operation> - les en dés , et <operation ingredients="jus;tomate"> enlevez </operation> le <ingredient action="enlever"> jus </ingredient> de la <ingredient action="enlever" quantite="1"> tomate </ingredient> . <operation ingredients="légumes;fromage"> mélangez </operation> les <ingredient action="mélanger" quantite="1;3"> légumes </ingredient> avec le <ingredient action="mélanger"> fromage </ingredient> , sel , poivre , tabasco . <operation ingredients="pâte"> disposez </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> à plat , avec le papier cuisson . sur une moitié de <ingredient action="disposer" quantite="1"> pâte </ingredient> , <operation ingredients="pâte"> disposez </operation> la garniture . puis , <operation> refermez </operation> en <operation> pinçant </operation> le bord correctement . <operation ingredients="oeuf;moutarde"> mélangez </operation> l' <ingredient action="mélanger"> oeuf </ingredient> et la <ingredient action="mélanger" quantite="1 cuillère"> moutarde </ingredient> , et <operation ingredients="pâte"> badigeonnez </operation> la <ingredient action="badigeonner" quantite="1"> pâte </ingredient> à l' aide d' un pinceau . <operation> enfournez </operation> à 160 <operation> ° </operation> c ( th . 6 ) . a mi-cuisson , <operation ingredients="pâte"> retournez </operation> la <ingredient action="retourner" quantite="1"> pâte </ingredient> et <operation> badigeonnez </operation> l' autre côté ; elle doit dorée . bien <operation ingredients="légumes;fruits;pâte"> égoutter </operation> les <ingredient action="égoutter" quantite="1;3"> légumes </ingredient> et les <ingredient action="égoutter"> fruits </ingredient> , sinon la <ingredient action="égoutter" quantite="1"> pâte </ingredient> sera humide . <ingredient> cidre </ingredient> , brouilli
+</preparation>
+</recette>

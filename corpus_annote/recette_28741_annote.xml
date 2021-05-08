@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28741">
+<titre>Rôti de porc aux champignons gratiné</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de porc d'1 kg</p>
+<p>500 g de champignons</p>
+<p>50 cl de lait</p>
+<p>100 g de fromage râpé (gruyère, comté, beaufort)</p>
+<p>50 g de farine</p>
+<p>50 g de beurre</p>
+<p>huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="viande;beurre"> dorer </operation> la <ingredient action="dorer" quantite="1;100 gramme"> viande </ingredient> à la cocotte avec du <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> . <operation> couvrez </operation> et laissez <operation> cuire </operation> à feu doux pendant 1 h. pendant ce temps , <operation ingredients="champignons"> lavez </operation> les <ingredient action="laver" quantite="500 gramme"> champignons </ingredient> , <operation> égouttez </operation> - les et faites - les <operation ingredients="huile"> cuire </operation> à la <operation> poêle </operation> dans de l' <ingredient action="cuire" quantite=""> huile </ingredient> environ 10 min . <operation> hachez </operation> - les finement . faites <operation ingredients="beurre;farine"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , et la <ingredient action="fondre" quantite="50 gramme"> farine </ingredient> et <operation> remuez </operation> . <operation ingredients="lait"> versez </operation> le <ingredient action="verser" quantite="50 cl"> lait </ingredient> et laissez <operation> épaissir </operation> à feu doux en <operation> remuant </operation> . <operation> salez </operation> , <operation> poivrez </operation> et parfumez de <ingredient> muscade </ingredient> . <operation ingredients="champignons;béchamel"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> champignons </ingredient> <operation> hachés </operation> dans la <ingredient action="ajouter"> béchamel </ingredient> . <operation ingredients="rôti"> retirez </operation> le <ingredient action="retirer" quantite="1"> rôti </ingredient> de la cocotte , <operation> tranchez </operation> - le . <operation ingredients="champignons"> etalez </operation> de la sauce aux <ingredient action="etaler" quantite="500 gramme"> champignons </ingredient> entre chaque tranche et <operation ingredients="rôti"> reformez </operation> le <ingredient action="reformer" quantite="1"> rôti </ingredient> . <operation> versez </operation> le reste de sauce dessus et <operation ingredients="fromage"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> fromage </ingredient> . faites <operation> gratiner </operation> 15 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

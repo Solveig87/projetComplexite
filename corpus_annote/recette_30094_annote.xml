@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30094">
+<titre>Quiche fondante aux asperges</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse botte de petites asperges</p>
+<p>1 pâte feuilletée</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>200 g de gruyère râpé</p>
+<p>sel, poivre, muscade et persil haché</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et faites <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire"> asperges </ingredient> 10 minutes à l' eau bouillante <operation> salée </operation> . laissez bien <operation> égoutter </operation> . <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> à tarte beurré . <operation ingredients="gruyère"> parsemez </operation> de la moitié du <ingredient action="parsemer" quantite="200 gramme"> gruyère </ingredient> râpé , puis <operation ingredients="asperges"> disposez </operation> par - dessus les <ingredient action="disposer"> asperges </ingredient> harmonieusement . <operation ingredients="oeufs;crème;sel;poivre;muscade;persil"> mélangez </operation> les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> avec la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> , un peu de <ingredient action="mélanger" quantite=""> muscade </ingredient> et du <ingredient action="mélanger"> persil </ingredient> . <operation ingredients="asperges"> versez </operation> sur les <ingredient action="verser"> asperges </ingredient> . <operation ingredients="fromage"> saupoudrez </operation> du reste de <ingredient action="saupoudrer"> fromage </ingredient> râpé , et <operation> enfournez </operation> 20 à 25 min au four à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

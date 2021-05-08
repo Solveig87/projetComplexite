@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164441">
+<titre>Gâteau pain</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 saladier de pain rassis </p>
+<p>1 litre de lait entier </p>
+<p>+ ou - 100 g de sucre selon goût </p>
+<p>1 gousse de vanille </p>
+<p>3 oeufs </p>
+<p>5 cl de rhum</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sucre"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> avec le <ingredient action="bouillir" quantite="100 gramme"> sucre </ingredient> et le bâton de vanille . <operation> enlever </operation> le bâton et <operation ingredients="lait;pain"> verser </operation> le <ingredient action="verser" quantite="1 litre"> lait </ingredient> sur le <ingredient action="verser"> pain </ingredient> . laisser <operation> ramollir </operation> . <operation ingredients="oeufs;rhum"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> et le <ingredient action="ajouter" quantite="5 cl"> rhum </ingredient> . <operation> ajouter </operation> si l' on veut des <ingredient> pommes </ingredient> , ou des <ingredient> raisins </ingredient> secs ( <operation ingredients="rhum"> trempés </operation> 10 mn dans le <ingredient action="tremper" quantite="5 cl"> rhum </ingredient> ) , ou des <ingredient> poires </ingredient> , ou des pépites de <ingredient> chocolats </ingredient> , . . . <operation> verser </operation> dans le <operation> moule </operation> beurré . au four chaud ( 200 <operation> ° </operation> ) pendant 45 mnvous pouvez <operation ingredients="fruits"> mettre </operation> les <ingredient action="mettre"> fruits </ingredient> que vous souhaitez à votre goût ou agréer de <ingredient> fruits </ingredient> <ingredient> confits </ingredient> , noix , etc.
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49538">
+<titre>Cake au roquefort et au gruyère</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>200 g de roquefort</p>
+<p>30 g de gruyère</p>
+<p>3 oeufs</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>1 sachet de levure</p>
+<p>1 pincée sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="levure"> mélanger </operation> farine , <ingredient action="mélanger"> levure </ingredient> et sel . <operation ingredients="oeufs"> incorporer </operation> les <ingredient action="incorporer" quantite="3"> oeufs </ingredient> <operation ingredients="huile"> battus </operation> et l' <ingredient action="battre" quantite="6 cuillère à soupe"> huile </ingredient> . <operation> mélanger </operation> à l' aide d' une cuillère en bois , jusqu' à obtenir une belle <ingredient> pâte </ingredient> ( plus facile avec les mains ! ) . <operation ingredients="gruyère;roquefort"> incorporer </operation> le <ingredient action="incorporer" quantite="30 gramme"> gruyère </ingredient> et le <ingredient action="incorporer" quantite="200 gramme"> roquefort </ingredient> <operation> coupé </operation> en dés . faire <operation> chauffer </operation> le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . avec un pinceau de <operation> cuisine </operation> , <operation ingredients="huile"> répartir </operation> un peu d' <ingredient action="répartir" quantite="6 cuillère à soupe"> huile </ingredient> dans le <operation> moule </operation> puis y <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> . <operation> mettre </operation> au four 30 à 40 minutes . très bon <operation ingredients="mâche"> accompagné </operation> d' une <ingredient action="accompagner"> mâche </ingredient> .
+</preparation>
+</recette>

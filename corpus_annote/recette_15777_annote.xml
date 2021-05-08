@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15777">
+<titre>Gâteau d'Eve</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 pommes</p>
+<p>60 g de farine</p>
+<p>175 g de sucre</p>
+<p>60 ml de lait</p>
+<p>45 ml d'huile</p>
+<p>2 œufs</p>
+<p>50 ml de crème fraîche</p>
+<p>1 paquet de levure</p>
+<p>1 poignée d'amandes</p>
+</ingredients>
+<preparation>
+<operation> beurrez </operation> un plat et <operation ingredients="pommes"> garnissez </operation> de quartiers de <ingredient action="garnir" quantite="5"> pommes </ingredient> . <operation ingredients="pâte;œuf"> versez </operation> la <ingredient action="verser"> pâte </ingredient> : farine , sucre , lait , huile , levure et un <ingredient action="verser" quantite="2"> œuf </ingredient> . glissez au four pendant 20 min à 180 <operation> ° </operation> c ( thermostat 6 ) . pendant ce temps , <operation ingredients="crème;sucre;œuf"> faire </operation> un gratin : 50 ml de <ingredient action="faire"> crème </ingredient> fraîche , 75 g de <ingredient action="faire" quantite="175 gramme"> sucre </ingredient> , 1 <ingredient action="faire" quantite="2"> œuf </ingredient> . <operation ingredients="amandes"> ajoutez </operation> le gratin , <operation> parsemez </operation> d' <ingredient action="ajouter"> amandes </ingredient> et <operation ingredients="gâteau"> remettez </operation> le <ingredient action="remettre"> gâteau </ingredient> 15 min au four .
+</preparation>
+</recette>

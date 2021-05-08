@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93941">
+<titre>Pâtes au scampis version porto</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poivron vert ou rouge</p>
+<p>2 tomates</p>
+<p>1 oignon rouge</p>
+<p>500 gr de scampis</p>
+<p>Fines herbes</p>
+<p>5cl de porto</p>
+<p>100 gr de crevettes grises</p>
+<p>Paprika doux</p>
+<p>Pili pili</p>
+<p>Sel et poivre</p>
+<p>2dl de crème fraîche</p>
+<p>500 gr de tagliatelles.</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron;tomates;oignon"> coupez </operation> le <ingredient action="couper"> poivron </ingredient> , les <ingredient action="couper" quantite="2"> tomates </ingredient> et l' <ingredient action="couper" quantite="1"> oignon </ingredient> en dés . faites <operation ingredients="poivron;oignon;beurre"> revenir </operation> le <ingredient action="revenir"> poivron </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans du <ingredient action="revenir"> beurre </ingredient> . une fois le <ingredient action="rajoutter"> poivron </ingredient> cuit , <operation ingredients="poivron;scampis"> rajoutter </operation> les <ingredient action="rajoutter" quantite="500 gr"> scampis </ingredient> . <operation> salez </operation> et <operation ingredients="scampis"> poivrez </operation> vos <ingredient action="poivrer" quantite="500 gr"> scampis </ingredient> . une fois que les <ingredient quantite="500 gr"> scampis </ingredient> sont devenus bien roses , <operation ingredients="porto"> ajoutez </operation> le <ingredient action="ajouter" quantite="5cl"> porto </ingredient> . faites <operation> flamber </operation> le tout . ensuite , <operation ingredients="tomates;crevettes;crème"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> , les <ingredient action="ajouter" quantite="100 gr"> crevettes </ingredient> grises et la <ingredient action="ajouter" quantite="2dl"> crème </ingredient> fraiche . <operation ingredients="paprika"> epicez </operation> le tout avec le <ingredient action="epicez" quantite=""> paprika </ingredient> , un peu de pili pili et des fines herbes . et pour finir , il n' y a plus qu' à <operation ingredients="pâtes"> verser </operation> la sauce sur vos <ingredient action="verser"> pâtes </ingredient> . vous pouvez également <operation ingredients="parmesan"> agrémenter </operation> le tout avec du <ingredient action="agrémenter"> parmesan </ingredient> . bon appétit .
+</preparation>
+</recette>

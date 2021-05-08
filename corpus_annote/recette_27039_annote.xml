@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27039">
+<titre>Poulet coco tout simple</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>30 cl de lait de coco</p>
+<p>beurre</p>
+<p>1/2 de cuillère à café de cannelle moulue</p>
+<p>1/2 de cuillère à café de coriandre moulue</p>
+<p>1 pincée de safran</p>
+<p>1 pincée de piment en poudre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> <operation> salés </operation> et <operation ingredients="beurre"> poivrés </operation> dans du <ingredient action="poivrer"> beurre </ingredient> . <operation> jeter </operation> le gras de cuisson et <operation ingredients="lait;épices"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> de coco et les <ingredient action="ajouter" quantite="1 pincée;"> épices </ingredient> . <operation ingredients="poulet"> couvrir </operation> et laisser <operation> mijoter </operation> 30 min à feu doux , jusqu' à ce que le <ingredient action="couvrir" quantite="1"> poulet </ingredient> y soit tendre . en <operation> accompagnement </operation> , selon vos goûts . . . : <ingredient> riz </ingredient> , pommes <operation> poêlées </operation> , <ingredient> bananes </ingredient> <ingredient> plantain </ingredient> frites , <ingredient> patates </ingredient> douces à la vapeur , <ingredient> semoule </ingredient> aux raisins et poivrons . . .
+</preparation>
+</recette>

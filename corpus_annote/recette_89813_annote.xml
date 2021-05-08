@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89813">
+<titre>Cupcakes à la crème de marron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120 g de beurre</p>
+<p>120 g de farine</p>
+<p>1 sachet de levure</p>
+<p>12 g de sucre</p>
+<p>2 cuillères à soupe de lait</p>
+<p>2 oeufs </p>
+<p>150 g de crème de marron</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre;sucre;oeufs;farine"> mettre </operation> le <ingredient action="mettre" quantite="120 gramme"> beurre </ingredient> , le <ingredient action="mettre" quantite="12 gramme"> sucre </ingredient> , les <ingredient action="mettre" quantite="2"> oeufs </ingredient> et la <ingredient action="mettre" quantite="120 gramme"> farine </ingredient> <operation> tamisée </operation> dans un saladier . <operation> mélanger </operation> . <operation ingredients="lait;levure"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . <operation> disposer </operation> dans des <operation> moules </operation> à muffins et laisser <operation> cuire </operation> 18 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) . quand les <ingredient action="cuire"> muffins </ingredient> sont <operation ingredients="muffins"> cuits </operation> , <operation ingredients="crème"> recouvrir </operation> le dessus des cupcakes de <ingredient action="recouvrir" quantite="150 gramme"> crème </ingredient> de marron avec une douille .
+</preparation>
+</recette>

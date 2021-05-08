@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10631">
+<titre>Lasagnes crémeuses au poulet</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>1 oignon</p>
+<p>250 g de champignons de Paris</p>
+<p>20 cl de purée de tomates</p>
+<p>20 cl de crème fraiche</p>
+<p>1 paquet de lasagnes</p>
+<p>75 g de fromage râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;poulet"> revenir </operation> dans une <operation> poêle </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et le <ingredient action="revenir"> poulet </ingredient> en dés , y <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter"> tomate </ingredient> . quand elle a un peu réduit <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . dans un plat à gratin <operation ingredients="fromage"> mettre </operation> une couche de lasagnes , une couche de préparation , une couche de lasagne une couche de préparation et dessus du <ingredient action="mettre" quantite="75 gramme"> fromage </ingredient> . cuisson 35 min thermostat . 6
+</preparation>
+</recette>

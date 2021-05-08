@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35324">
+<titre>Flan de chou-fleur</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou-fleur</p>
+<p>200 g de crème fraîche</p>
+<p>6 œufs</p>
+<p>sel, poivre</p>
+<p>sauce tomate</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chou-fleur"> blanchir </operation> le <ingredient action="blanchir" quantite="1"> chou-fleur </ingredient> dans de l' eau bouillante <operation> salée </operation> ( environ 10 min ) . <operation ingredients="chou-fleur"> mixer </operation> le <ingredient action="mixer" quantite="1"> chou-fleur </ingredient> , la <ingredient quantite="200 gramme"> crème </ingredient> fraîche et les <ingredient quantite="6"> œufs </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation> verser </operation> le tout dans un <operation> moule </operation> à cake . <operation> mettre </operation> au four dans un bain - marie . faire <operation> cuire </operation> 1 h à 150 <operation> ° </operation> c. servir avec une sauce tomate à l' <ingredient> ail </ingredient> et à l' <ingredient> huile </ingredient> d' olive .
+</preparation>
+</recette>

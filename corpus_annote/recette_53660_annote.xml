@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53660">
+<titre>Cabillaud au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de cabillaud frais</p>
+<p>5 tomates</p>
+<p>3 courgettes</p>
+<p>2 oignons</p>
+<p>1 chorizo</p>
+<p>25 cl de crème fraîche</p>
+<p>huile d'olive, sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="échalotes;huile"> revenir </operation> les <ingredient action="revenir"> échalotes </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . une fois qu' elles sont translucides , <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="5"> tomates </ingredient> <operation> coupées </operation> en rondelles et les courgettes <operation> coupées </operation> en dés . laissez <operation> revenir </operation> 10 à 15 minutes . pendant ce temps , <operation ingredients="cabillaud;huile"> cuisez </operation> les filets de <ingredient action="cuire"> cabillaud </ingredient> dans la <operation> poêle </operation> à l' <ingredient action="cuire" quantite=""> huile </ingredient> d' olive et <operation> réservez </operation> au chaud . faites <operation ingredients="chorizo;huile"> revenir </operation> les rondelles de <ingredient action="revenir" quantite="1"> chorizo </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> . une fois qu' elles sont bien <operation> saisies </operation> , <operation> incorporez </operation> la créme fraîche jusqu' à obtenir une sauce homogène . <operation ingredients="poisson;légumes"> incorporez </operation> ensuite le <ingredient action="incorporer"> poisson </ingredient> et les <ingredient action="incorporer" quantite="5;2;25 cl"> légumes </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> chauffer </operation> 5 minutes en <operation> mélangeant </operation> . servez tel quel ou avec du <ingredient> riz </ingredient> en <operation> accompagnement </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31231">
+<titre>Salade de melons au pastis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 melons charentais (à chair orangée) </p>
+<p>2 melons galia (à chair vert clair) </p>
+<p>1 concombre</p>
+<p>1 citron vert</p>
+<p>du pastis</p>
+</ingredients>
+<preparation>
+a l' aide d' une cuillère à melon , <operation ingredients="melon"> faire </operation> des petites boules de <ingredient action="faire" quantite="2+2"> melon </ingredient> . <operation ingredients="melons"> evidez </operation> ainsi les 6 <ingredient action="evider" quantite="2+2"> melons </ingredient> et <operation> mélanger </operation> délicatement les boulettes dans un saladier . <operation ingredients="concombre"> peler </operation> et <operation> épépiner </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> et le <operation ingredients="carrés"> découper </operation> en petits <ingredient action="découper"> carrés </ingredient> . <operation ingredients="concombre"> mélanger </operation> les dés de <ingredient action="mélanger" quantite="1"> concombre </ingredient> au melon . <operation ingredients="citron"> presser </operation> le <ingredient action="presser" quantite="1"> citron </ingredient> vert et le <operation> verser </operation> sur le <operation> mélange </operation> . <operation ingredients="pastis"> ajouter </operation> le <ingredient action="ajouter" quantite=""> pastis </ingredient> ( quantité selon goût ) . très frais pour l' été .
+</preparation>
+</recette>

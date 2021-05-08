@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57864">
+<titre>Savarin allemand</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 œufs</p>
+<p>200 g de sucre</p>
+<p>200 g de beurre</p>
+<p>200 g de noisettes (ou amandes ou noix)</p>
+<p>125 g de farine</p>
+<p>1 zeste de citron ou de la cannelle</p>
+<p>125 g de chocolat au lait</p>
+<p>1 cuillère à café de levure chimique</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs;sucre"> mélanger </operation> les 6 jaunes d’ <ingredient action="mélanger" quantite="6"> œufs </ingredient> et le <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> . faire <operation ingredients="beurre;noisettes"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> beurre </ingredient> et l’ <operation> ajouter </operation> , puis les <ingredient action="fondre" quantite="200 gramme"> noisettes </ingredient> <operation> moulues </operation> . <operation ingredients="chocolat"> râper </operation> le <ingredient action="râper" quantite="125 gramme"> chocolat </ingredient> ou le <operation ingredients="carrés"> couper </operation> en petits <ingredient action="couper"> carrés </ingredient> , l’ <operation ingredients="citron;cannelle;farine"> ajouter </operation> avec le zeste de <ingredient action="ajouter"> citron </ingredient> , la <ingredient action="ajouter"> cannelle </ingredient> la levure et la <ingredient action="ajouter" quantite="125 gramme"> farine </ingredient> ; bien <operation> mélanger </operation> . <operation ingredients="sel"> battre </operation> les blancs en neige avec une pincée de <ingredient action="battre"> sel </ingredient> et les <operation ingredients="pâte"> incorporer </operation> à la <ingredient action="incorporer"> pâte </ingredient> . <operation> mettre </operation> au four thermostat 6 ou 7 .
+</preparation>
+</recette>

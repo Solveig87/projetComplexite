@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22839">
+<titre>Cuisses de poulet au rhum et aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux ou 4 belles cuisses</p>
+<p>1 verre de rhum</p>
+<p>100 g de champignons de Paris</p>
+<p>4 tomates</p>
+<p>10 cl de crème</p>
+<p>40 cl de bouillon de volaille</p>
+<p>2 jaunes d'oeufs</p>
+<p>beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> grattez </operation> et <operation ingredients="champignons"> coupez </operation> les <ingredient action="couper" quantite="100 gramme"> champignons </ingredient> en 4 . faites <operation ingredients="poulet;beurre"> dorer </operation> les morceaux de <ingredient action="dorer" quantite="1"> poulet </ingredient> à la cocotte avec du <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> , <operation> remuez </operation> et <operation ingredients="rhum"> flambez </operation> avec le <ingredient action="flamber" quantite="1 verre"> rhum </ingredient> . <operation ingredients="bouillon"> ajoutez </operation> le <ingredient action="ajouter" quantite="40 cl"> bouillon </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> mijoter </operation> 30 minutes à feu moyen . <operation ingredients="tomates"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> en dés . faites - les <operation ingredients="beurre"> sauter </operation> à la <operation> poêle </operation> avec du <ingredient action="sauter"> beurre </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="oeufs;crème"> mélangez </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="10 cl"> crème </ingredient> fraîche , <operation> versez </operation> dans la cocotte et laissez à feu doux 1 minute . servez avec les <ingredient quantite="4"> tomates </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22299">
+<titre>Gratin de tomates fondant</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de tomates</p>
+<p>20 cl de crème fleurette</p>
+<p>125 g de gruyère râpé</p>
+<p>40 g de parmesan râpé</p>
+<p>1 cuillère à soupe de basilic frais haché</p>
+<p>2 cuillères à café de sucre en poudre</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1 kilogramme"> tomates </ingredient> en tranches fines . <operation> huilez </operation> un plat à gratin , et <operation ingredients="tomates"> faites </operation> une couche de <ingredient action="faire" quantite="1 kilogramme"> tomates </ingredient> . <operation ingredients="crème"> arrosez </operation> de <ingredient action="arroser" quantite="20 cl"> crème </ingredient> , <operation ingredients="gruyère;parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="125 gramme"> gruyère </ingredient> et de <ingredient action="saupoudrer" quantite="40 gramme"> parmesan </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> , et <operation ingredients="basilic;sucre"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> basilic </ingredient> et de <ingredient action="saupoudrer" quantite="2 cuillère à café"> sucre </ingredient> . répétez l' opération jusqu' à épuisement des ingrédients . <operation ingredients="huile"> arrosez </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> puis faites <operation> cuire </operation> 20 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

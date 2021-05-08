@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15216">
+<titre>Filet mignon au lait de coco facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 beau filet mignon</p>
+<p>1 boîte de lait de coco</p>
+<p>3 oignons de taille moyenne</p>
+<p>1 ou 2 poivrons rouges suivant si on aime beaucoup le poivron</p>
+</ingredients>
+<preparation>
+la veille , faire <operation> mariner </operation> le filet mignon préalablement <operation ingredients="lait"> coupé </operation> en tranches dans le <ingredient action="couper"> lait </ingredient> de coco . le lendemain , faire <operation ingredients="beurre;oignons"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> les poivrons <operation> coupés </operation> en lanières ainsi que les <ingredient action="revenir" quantite="3"> oignons </ingredient> . les <operation> ajouter </operation> au filet mignon <operation ingredients="jus"> macéré </operation> dans son <ingredient action="macérer"> jus </ingredient> , <operation> saler </operation> et <operation> cuire </operation> l' ensemble dans une cocotte fermée à feu moyen 25 min environ ( surveiller la cuisson ) . servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

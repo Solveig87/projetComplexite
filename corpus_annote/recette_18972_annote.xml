@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18972">
+<titre>Tarte au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat fondant</p>
+<p>100 g de beurre</p>
+<p>3 oeufs</p>
+<p>50 g de farine fermentante (farine avec levure)</p>
+<p>100 g de sucre glace</p>
+<p>3 cuillères à soupe de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;farine;sucre;glace"> mélanger </operation> dans un récipient : 3 <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , 50 g de <ingredient action="mélanger"> farine </ingredient> avec levure et 100 g de <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> . dans un autre plat , faire <operation ingredients="chocolat;beurre"> fondre </operation> 100 g de <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> ( au micro-ondes ) et 100 g de <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> , et <operation> mélanger </operation> . <operation ingredients="chocolat"> ajouter </operation> au <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> et beurre <operation ingredients="oeufs;glace"> fondu </operation> le <operation> mélange </operation> <ingredient action="fondre" quantite="3"> oeufs </ingredient> , farine , sucre <ingredient action="fondre"> glace </ingredient> , et bien <operation> mélanger </operation> le tout . <operation> cuire </operation> dans un <operation> moule </operation> à tarte à 180 <operation> ° </operation> c ( th 6 ) , pendant 25 min . faire <operation ingredients="chocolat;lait"> fondre </operation> les 100 g de <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> restant , avec un peu de <ingredient action="fondre" quantite="3 cuillère à soupe"> lait </ingredient> , et <operation ingredients="tarte"> napper </operation> la <ingredient action="napper"> tarte </ingredient> lorsqu' elle est refroidie . <operation> placer </operation> au frigo .
+</preparation>
+</recette>

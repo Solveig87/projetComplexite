@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81752">
+<titre>Tian au riz</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates bien mûres</p>
+<p>2 courgettes</p>
+<p>1 verre de riz</p>
+<p>75 g de gruyère râpé</p>
+<p>1 filet d'huile d'olive</p>
+</ingredients>
+<preparation>
+dans un plat allant au four , <operation ingredients="tomates"> mettre </operation> 1 bonne couche de <ingredient action="mettre" quantite="6"> tomates </ingredient> <operation> coupées </operation> en tranches , puis faire de même avec la courgette . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="riz;tomates"> etaler </operation> le verre de <ingredient action="etaler" quantite="1 verre"> riz </ingredient> , puis <operation> mettre </operation> à nouveau la courgette , puis les <ingredient action="etaler" quantite="6"> tomates </ingredient> . <operation ingredients="huile"> mettre </operation> un filet d' <ingredient action="mettre"> huile </ingredient> d' olive . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="75 gramme"> gruyère </ingredient> râpé . <operation> mettre </operation> du papier sulfurisé et <operation> mettre </operation> au four 30 min 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

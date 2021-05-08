@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26059">
+<titre>Asperges et mayonnaise aux petits-suisses</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g d'asperges blanches</p>
+<p>2 jaunes d'oeufs crus</p>
+<p>3 petits-suisses</p>
+<p>15 cl d'huile</p>
+<p>1 cuillère à soupe de jus de citron</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe de cerfeuil haché</p>
+</ingredients>
+<preparation>
+<operation ingredients="asperges"> peler </operation> les <ingredient action="peler" quantite="600 gramme"> asperges </ingredient> et les <operation> cuire </operation> pendant 20 minutes dans de l' eau bouillante <operation> salée </operation> . faire <operation ingredients="oeufs"> cuire </operation> des <ingredient action="cuire"> oeufs </ingredient> durs . puis , dans un bol , <operation ingredients="oeufs;petits-suisses"> écraser </operation> les jaunes d' <ingredient action="écraser"> oeufs </ingredient> crus avec les <ingredient action="écraser" quantite="3"> petits-suisses </ingredient> , <operation ingredients="sel;poivre"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation> fouetter </operation> en <operation ingredients="huile;mayonnaise"> versant </operation> l' <ingredient action="verser" quantite="15 cl"> huile </ingredient> en un mince filet comme pour une <ingredient action="verser"> mayonnaise </ingredient> . la sauce est terminée lorsqu' elle est bien prise et compacte . <operation ingredients="jus;cerfeuil"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> jus </ingredient> de citron et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> cerfeuil </ingredient> haché . servir les <ingredient quantite="600 gramme"> asperges </ingredient> avec la sauce à part .
+</preparation>
+</recette>

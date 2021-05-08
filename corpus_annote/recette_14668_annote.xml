@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14668">
+<titre>Bourriols (Auvergne)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poireau</p>
+<p>2 grosses pommes de terre</p>
+<p>300 g de farine de sarrasin</p>
+<p>150 g de farine de blé</p>
+<p>1 bol de lait environ</p>
+<p>15 g de levure de boulanger</p>
+<p>1 cuillerée à café de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon;poireau;pommes"> faire </operation> un <ingredient action="faire"> bouillon </ingredient> de légumes avec un <ingredient action="faire" quantite="1"> poireau </ingredient> et deux grosses <ingredient action="faire" quantite="2"> pommes </ingredient> de terre . dans une jarre en grès , <operation> mélanger </operation> tous les ingrédients petit à petit en y <operation ingredients="bouillon;pâte"> incorporant </operation> le <ingredient action="incorporer"> bouillon </ingredient> de légumes tièdes jusqu' à obtention d' une <ingredient action="incorporer"> pâte </ingredient> fluide . <operation ingredients="pommes"> ecraser </operation> les <ingredient action="ecraser" quantite="2"> pommes </ingredient> de terre selon les goûts de chacun , les <operation ingredients="pâte"> ajouter </operation> à la <ingredient action="ajouter"> pâte </ingredient> fluide et <operation> mélanger </operation> l' ensemble . laisser <operation> reposer </operation> 4 heures . la <ingredient> pâte </ingredient> va lever , peut-être doubler de volume ( prévoir donc une jarre assez grande ) au bout de ce temps y <operation ingredients="lait"> ajouter </operation> du <ingredient action="ajouter"> lait </ingredient> pour obtenir une <ingredient> pâte </ingredient> liquide et coulante . les bourriols , genre de grosses <ingredient action="cuire"> crêpes </ingredient> au sarrasin , ne sont <operation ingredients="crêpes"> cuits </operation> que d' un côté et de préférence dans une <operation> poêle </operation> en cuivre étamé appelée ' tuile ' . <ingredient> cidre </ingredient> brut
+</preparation>
+</recette>

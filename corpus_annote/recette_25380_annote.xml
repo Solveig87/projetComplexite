@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25380">
+<titre>Brochettes d'agneau marinées au yaourt épicé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'épaule d'agneau désossée</p>
+<p>1 yaourt nature</p>
+<p>1 citron</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 pincée de curcuma</p>
+<p>1 pincée de piment doux</p>
+<p>1 pincée de quatre-épices</p>
+<p>1 pincée de coriandre moulue</p>
+<p>1/2 bouquet de coriandre fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> coupez </operation> la <ingredient action="couper"> viande </ingredient> en cube . <operation ingredients="yaourt;jus;huile;épices"> mélangez </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> avec le <ingredient action="mélanger"> jus </ingredient> de citron , l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et les <ingredient action="mélanger" quantite="1 cuillère à soupe;1 pincée;1 pincée;1 pincée;;"> épices </ingredient> . <operation ingredients="coriandre"> ajoutez </operation> la moitié de la <ingredient action="ajouter" quantite="1 pincée"> coriandre </ingredient> fraîche ciselée . faites <operation ingredients="agneau"> mariner </operation> l' <ingredient action="mariner"> agneau </ingredient> dans ce <operation> mélange </operation> au moins 8 h au frais . <operation> mélangez </operation> de temps en temps pour que les morceaux s' <operation> imprègnent </operation> bien . <operation ingredients="viande"> piquez </operation> les morceaux de <ingredient action="piquer"> viande </ingredient> <operation> égouttés </operation> sur des brochettes . faites - les <operation> cuire </operation> 5 à 10 minutes en les <operation> retournant </operation> pour faire <operation> griller </operation> toutes les faces .
+</preparation>
+</recette>

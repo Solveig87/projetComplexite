@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26654">
+<titre>Filets de poisson au pineau des Charentes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>900 g de filets de poisson (colin, cabillaud, daurade...)</p>
+<p>60 g de beurre</p>
+<p>150 g de petits champignons de couche</p>
+<p>2 échalotes</p>
+<p>2 belles carottes</p>
+<p>2 tomates</p>
+<p>3 cuillères à soupe de crème fraîche épaisse</p>
+<p>20 cl de pineau des Charentes</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="échalotes"> hacher </operation> les <ingredient action="hacher" quantite="2"> échalotes </ingredient> , puis <operation ingredients="carottes;champignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> carottes </ingredient> et les <ingredient action="émincer" quantite="150 gramme"> champignons </ingredient> . <operation> peler </operation> et <operation ingredients="tomates"> concasser </operation> les <ingredient action="concasser" quantite="2"> tomates </ingredient> et les <operation> réserver </operation> . dans une cocotte <operation> beurrée </operation> , faire <operation ingredients="échalotes;champignons;carottes"> fondre </operation> le hachis d' <ingredient action="fondre" quantite="2"> échalotes </ingredient> avec les <ingredient action="fondre" quantite="150 gramme"> champignons </ingredient> et les <ingredient action="fondre" quantite="2"> carottes </ingredient> . laisser <operation> cuire </operation> 5 min sans cesser de <operation> remuer </operation> puis <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et bien <operation> mélanger </operation> . <operation> arroser </operation> ensuite de pineau , laisser <operation> cuire </operation> 10 min puis <operation ingredients="poisson"> déposer </operation> les filets de <ingredient action="déposer"> poisson </ingredient> et poursuivre la cuisson pendant 15 min à <operation> couvert </operation> à feu doux . en fin de cuisson , <operation> ajouter </operation> 3 cuillères à soupe de crème fraîche , <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> et servir .
+</preparation>
+</recette>

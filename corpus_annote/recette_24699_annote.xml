@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24699">
+<titre>Topinambours à l'aïoli</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 topinambours</p>
+<p>3 pommes de terre</p>
+<p>1 citron</p>
+<p>3 gousses d'ail</p>
+<p>20 cl d'huile</p>
+<p>1 jaune d'oeuf cru</p>
+<p>3 jaunes d'oeufs durs</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;sel"> ecraser </operation> l' <ingredient action="ecraser"> ail </ingredient> avec un peu de <ingredient action="ecraser" quantite=""> sel </ingredient> jusqu' à ce qu' il soit <operation> réduit </operation> en purée puis <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> cru . <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="20 cl"> huile </ingredient> en un mince filet et <operation ingredients="mayonnaise"> fouetter </operation> le tout afin que la sauce épaississe bien , comme pour une <ingredient action="fouetter"> mayonnaise </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et finir en <operation ingredients="jus"> ajoutant </operation> quelques gouttes de <ingredient action="ajouter"> jus </ingredient> de citron . <operation> réserver </operation> cet aïoli au frais . faire <operation ingredients="topinambours;pommes"> cuire </operation> les <ingredient action="cuire" quantite="12"> topinambours </ingredient> et les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre <operation> pelés </operation> dans l' eau bouillante <operation> salée </operation> durant 20 minutes . <operation> egoutter </operation> , <operation ingredients="citron"> arroser </operation> de <ingredient action="arroser" quantite="1"> citron </ingredient> , laisser refroidir et <operation> couper </operation> en cubes . <operation> incorporer </operation> l' aïoli , <operation ingredients="oeufs"> mélanger </operation> et saucpoudrer des jaunes d' <ingredient action="mélanger"> oeufs </ingredient> <operation> émiettés </operation> .
+</preparation>
+</recette>

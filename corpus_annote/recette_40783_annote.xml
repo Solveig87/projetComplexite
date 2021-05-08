@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40783">
+<titre>Pommes au four au thé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>1 sachet de thé (classique ou au caramel)</p>
+<p>sucre (de préférence de cannes)</p>
+<p>cannelle</p>
+<p>poivre</p>
+<p>un sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="thé;sucre;poivre;cannelle"> infuser </operation> dans un grand bol le sachet de <ingredient action="infuser"> thé </ingredient> , avec le <ingredient action="infuser" quantite=""> sucre </ingredient> , le <ingredient action="infuser" quantite=""> poivre </ingredient> , et la <ingredient action="infuser" quantite=""> cannelle </ingredient> . <operation> eplucher </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> , les <operation ingredients="pommes"> couper </operation> en 2 , et <operation ingredients="coeur"> enlever </operation> le <ingredient action="enlever"> coeur </ingredient> et le trognion . <operation> disposer </operation> les demi-pommes dans un plat allant au four . <operation> ajouter </operation> le bol de <ingredient action="infuser"> thé </ingredient> <operation ingredients="thé"> infusé </operation> . et , <operation ingredients="pommes"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="2"> pommes </ingredient> de sucre vanillé . faire <operation> cuire </operation> à feu doux , pendant environ 1 h , suivant les <ingredient quantite="2"> pommes </ingredient> , jusqu' à ce que les <ingredient quantite="2"> pommes </ingredient> soient bien tendres . a <ingredient> manger </ingredient> aussi bien chaud que froid .
+</preparation>
+</recette>

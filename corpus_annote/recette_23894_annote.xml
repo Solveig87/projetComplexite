@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23894">
+<titre>Chaudeau</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait</p>
+<p>125 g de sucre</p>
+<p>4 oeufs</p>
+<p>1 bâton de cannelle</p>
+<p>un peu de noix de muscade râpée</p>
+<p>1 gousse de vanille</p>
+<p>le zeste d'un citron vert</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;épices;citron;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="1 l"> lait </ingredient> avec les <ingredient action="chauffer" quantite="1"> épices </ingredient> , le zeste de <ingredient action="chauffer"> citron </ingredient> vert avec le <ingredient action="chauffer" quantite="125 gramme"> sucre </ingredient> jusqu' au frémissement . <operation ingredients="lait"> laisser </operation> <operation> tiédir </operation> un peu de <ingredient action="laisser" quantite="1 l"> lait </ingredient> dans un bol . casser les <ingredient quantite="4"> oeufs </ingredient> et les <operation> mélanger </operation> dans ce bol . <operation ingredients="crème"> verser </operation> dans la casserole et <operation> remuer </operation> 20 mn environ , jusqu' à ce que la <ingredient action="verser"> crème </ingredient> nappe la cuillère . <operation> cuire </operation> à feu doux pour éviter que la <ingredient> crème </ingredient> ne tourne ( séparation du <ingredient quantite="1 l"> lait </ingredient> et de l' <ingredient quantite="4"> oeuf </ingredient> cuit ) . si elle a <operation> tourné </operation> , <operation> mixer </operation> ou <operation> battre </operation> au fouet puis <operation> filtrer </operation> . recette idéale pour le soir , après un repas chargé . tisane
+</preparation>
+</recette>

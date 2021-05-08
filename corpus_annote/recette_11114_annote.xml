@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11114">
+<titre>Crème de moules au safran</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kilo de moules fraîches </p>
+<p>50 cl de vin blanc </p>
+<p>1 l de crème fraiche 35% </p>
+<p>1 pincée de sel </p>
+<p>1 pincée de poivre </p>
+<p>1 pincée de safran </p>
+<p>2 cuillères à soupe de fécule de maïs </p>
+<p>2 gousses d'ail</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="vin;ail"> cuire </operation> les <operation> moules </operation> à la vapeur avec le <ingredient action="cuire" quantite="50 cl"> vin </ingredient> blanc et l' <ingredient action="cuire"> ail </ingredient> . <operation> retirer </operation> les <operation> moules </operation> dès que les coquilles <operation> ouvrent </operation> . après environ 5 min : <operation ingredients="crème"> délayer </operation> la fécule dans la <ingredient action="délayer" quantite="1 l"> crème </ingredient> , <operation ingredients="safran"> verser </operation> dans la casserole avec une pincée de <ingredient action="verser" quantite="1 pincée"> safran </ingredient> . laisser <operation> mijoter </operation> quelques minutes jusqu' à ce que le liquide épaississe et prend une texture crémeuse . <operation> remettre </operation> les <operation> moules </operation> <operation> décortiquées </operation> dans le liquide , juste le temps de les <operation> réchauffer </operation> quelques secondes . <operation> saler </operation> et <operation> poivrer </operation> . servir chaud . si vous désirez alléger la <ingredient quantite="1 l"> crème </ingredient> de <operation> moules </operation> en remplaçant la <ingredient quantite="1 l"> crème </ingredient> par le <ingredient> lait </ingredient> , doublez la quantité de fécule . la fécule donne une texture plus raffinée et plus légère que la <ingredient> farine </ingredient> . votre <ingredient quantite="50 cl"> vin </ingredient> blanc ( sec ? ) préféré .
+</preparation>
+</recette>

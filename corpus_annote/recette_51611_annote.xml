@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51611">
+<titre>Thon à la japonaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets de thon</p>
+<p>graines de sésame</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de sauce soja</p>
+<p>1 cuillère à soupe de ciboulette hachée</p>
+<p>gros sel</p>
+<p>Pour l'accompagnement au choix : </p>
+<p>asperges vertes</p>
+<p>épinards</p>
+<p>fèves </p>
+</ingredients>
+<preparation>
+<operation ingredients="thon;sésame"> saler </operation> et <operation> poivrer </operation> les filets de <ingredient action="saler"> thon </ingredient> que l' on enrobera de graines de <ingredient action="saler"> sésame </ingredient> des deux côtés . <operation> préparer </operation> la sauce : dans un bol , <operation ingredients="jus;huile;soja;ciboulette"> mélanger </operation> le <ingredient action="mélanger" quantite="3 cuillère à soupe"> jus </ingredient> de citron , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , la sauce <ingredient action="mélanger"> soja </ingredient> ainsi que la <ingredient action="mélanger" quantite="1 cuillère à soupe"> ciboulette </ingredient> hachée . dans une <operation> poêle </operation> , faire <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive assez fort et <operation ingredients="thon"> déposer </operation> le <ingredient action="déposer"> thon </ingredient> que l' on fera <operation> cuire </operation> environ 2 minutes de chaque côté , de manière à ce qu' il reste un peu cru à l' intérieur . <operation> egoutter </operation> et <operation> poser </operation> dans les assiettes , <operation> napper </operation> de la sauce , <operation ingredients="sel"> parsemer </operation> de gros <ingredient action="parsemer" quantite=""> sel </ingredient> et déguster avec des <ingredient quantite=""> asperges </ingredient> vertes , des <ingredient quantite=""> épinards </ingredient> ou des <ingredient quantite=""> fèves </ingredient> <operation> cuites </operation> nature . c' est rapide , facile et original ! <ingredient> vin </ingredient> blanc argentin , léger
+</preparation>
+</recette>

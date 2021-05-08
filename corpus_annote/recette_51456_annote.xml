@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51456">
+<titre>Gambas au curry, lait de coco et épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>40 à 50 gambas crues</p>
+<p>1 oignon rouge</p>
+<p>huile de sésame</p>
+<p>20 cl de lait de coco</p>
+<p>3 cuillères à café de curry</p>
+<p>3 cuillères à café de pâte de gingembre ou de gingembre râpé</p>
+<p>1 cuillère à café de coriandre moulue</p>
+<p>6 gousses d'ail pilées</p>
+<p>2 citrons verts</p>
+<p>1 demi-verre de coriandre fraîche ciselée</p>
+<p>1 demi-verre de ciboulette fraîche hâchée</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> dans une grande <operation> poêle </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> rouge <operation> hâché </operation> dans l’ <ingredient action="revenir" quantite=""> huile </ingredient> de sésame jusqu’ à ce qu’ il soit blond . <operation ingredients="gambas"> ajouter </operation> les <ingredient action="ajouter" quantite="40"> gambas </ingredient> et les <operation> saisir </operation> de chaque côté jusqu’ à ce qu’ elles soient roses . <operation ingredients="curry"> saupoudrer </operation> avec le <ingredient action="saupoudrer" quantite="3 cuillère à café"> curry </ingredient> et bien <operation> mélanger </operation> . a part , <operation ingredients="pâte;jus;ail;coriandre"> mélanger </operation> la <ingredient action="mélanger" quantite="3 cuillère à café"> pâte </ingredient> de gingembre , le <ingredient action="mélanger"> jus </ingredient> des citrons verts , l’ <ingredient action="mélanger"> ail </ingredient> <operation> pilé </operation> et la <ingredient action="mélanger" quantite="1 cuillère à café"> coriandre </ingredient> moulue . <operation ingredients="gambas"> ajouter </operation> le <operation> mélange </operation> aux <ingredient action="ajouter" quantite="40"> gambas </ingredient> et bien <operation> remuer </operation> . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="20 cl"> lait </ingredient> de coco puis <operation ingredients="ciboulette;coriandre"> saupoudrer </operation> de <ingredient action="saupoudrer"> ciboulette </ingredient> et de <ingredient action="saupoudrer" quantite="1 cuillère à café"> coriandre </ingredient> fraîches . laisser <operation> mijoter </operation> à feu doux pendant 10 minutes . <operation> saler </operation> selon convenance et servir avec un <ingredient> riz </ingredient> basmati . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

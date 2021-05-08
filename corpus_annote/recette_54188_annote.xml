@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54188">
+<titre>Soupe au chou vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou vert moyen</p>
+<p>4 carottes</p>
+<p>5 pommes de terre</p>
+<p>2 navets</p>
+<p>3 saucisses fumées</p>
+<p>sel, poivre</p>
+<p>thym</p>
+<p>laurier</p>
+<p>2 cubes de Kub Or</p>
+</ingredients>
+<preparation>
+<operation> mettre </operation> de l' eau à <operation> bouillir </operation> et y <operation ingredients="chou"> blanchir </operation> le <ingredient action="blanchir" quantite="1"> chou </ingredient> 3 à 4 minutes . <operation> eplucher </operation> et <operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="1;4;5;2"> légumes </ingredient> en morceaux . une fois le <ingredient quantite="1"> chou </ingredient> refroidi , le <operation> couper </operation> en morceaux . <operation> remplir </operation> à moitié une marmite d' eau et y <operation ingredients="légumes;sel;poivre;thym;laurier;saucisses"> mettre </operation> tous les <ingredient action="mettre" quantite="1;4;5;2"> légumes </ingredient> , le <ingredient action="mettre" quantite=""> sel </ingredient> , le <ingredient action="mettre" quantite=""> poivre </ingredient> , le <ingredient action="mettre" quantite=""> thym </ingredient> , le <ingredient action="mettre" quantite=""> laurier </ingredient> et les <ingredient action="mettre" quantite="3"> saucisses </ingredient> , ainsi que les cubes de kub or . laisser <operation> mijoter </operation> 1 heure 30 . si vous avez un morceau de <ingredient> jarret </ingredient> vous pouvez le <operation> mettre </operation> .
+</preparation>
+</recette>

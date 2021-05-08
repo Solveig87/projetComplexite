@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33308">
+<titre>Tartiflette à l'Époisses</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>200 g de lardons fumés</p>
+<p>100 g de crème liquide</p>
+<p>1 fromage d'Époisses</p>
+<p>1 noix de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau <operation> coupées </operation> en grosses rondelles . les faire <operation> rissoler </operation> légèrement à la <operation> poêle </operation> pour qu' elles prennent couleur . <operation ingredients="lardons"> faire </operation> <operation> rissoler </operation> à la <operation> poêle </operation> les <ingredient action="faire"> lardons </ingredient> . <operation ingredients="pommes;crème"> beurrer </operation> 1 plat à gratin , y <operation ingredients="pommes;crème;lardons"> déposer </operation> 1 couche de <ingredient action="déposer" quantite="1 kilogramme"> pommes </ingredient> de terre , la moitié de la <ingredient action="déposer" quantite="100 gramme"> crème </ingredient> , les <ingredient action="déposer"> lardons </ingredient> , puis le reste des <ingredient action="beurrer" quantite="1 kilogramme"> pommes </ingredient> de terres , le reste de la <ingredient action="beurrer" quantite="100 gramme"> crème </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="fromage"> disposer </operation> dessus le <ingredient action="disposer" quantite="1"> fromage </ingredient> <operation> taillé </operation> en lamelles pas trop minces . faire <operation> gratiner </operation> au four th 6 / 7 environ 20 mn . bon appétit . vous pouvez remplacer l' <ingredient> epoisses </ingredient> par le soumaintrain ou l' affidélice . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37489">
+<titre>Boeuf sauté au poireau</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 poireaux</p>
+<p>3 steak de boeuf</p>
+<p>3 cuillères à soupe de sauce soja</p>
+<p>1/2 verre à moutarde de bouillon cube</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> et <operation ingredients="poireaux"> laver </operation> les <ingredient action="laver" quantite="3"> poireaux </ingredient> . les faire <operation ingredients="beurre"> revenir </operation> rapidement dans un petit peu de <ingredient action="revenir"> beurre </ingredient> , ils doivent rester un peu fermes , puis les <operation> enlever </operation> du wok ( ou de la <operation> poêle </operation> ) . <operation ingredients="boeuf"> couper </operation> le <ingredient action="couper"> boeuf </ingredient> en fines lamelles et les faire <operation> revenir </operation> rapidement , la <ingredient quantite="3"> viande </ingredient> doit rester tendre . <operation ingredients="bouillon"> ajouter </operation> la sauce de soja et le <ingredient action="ajouter"> bouillon </ingredient> pour <operation> déglacer </operation> . <operation ingredients="poireaux"> remettre </operation> les <ingredient action="remettre" quantite="3"> poireaux </ingredient> et <operation> cuire </operation> quelques minutes en <operation> remuant </operation> toujours . toute cette recette doit se faire à feu vif un peu à la facon des plats chinois . voila c' est prêt ! les proportion ce <operation> fixent </operation> en fonction du nombre de personne
+</preparation>
+</recette>

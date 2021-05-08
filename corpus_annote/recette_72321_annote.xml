@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72321">
+<titre>Salade pour gourmet</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 avocat</p>
+<p>250 g de maïs</p>
+<p>2 tomates</p>
+<p>1 demi-citron (pour assaisonner à la place de la vinaigrette)</p>
+<p>5 feuilles de salade</p>
+<p>thon en boîte</p>
+<p>mayonnaise</p>
+<p>5 œufs durs</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs"> couper </operation> les <ingredient action="couper" quantite="5"> œufs </ingredient> en deux puis <operation> retirer </operation> les jaunes et le <operation> mettre </operation> dans une assiette . <operation ingredients="mayonnaise"> mettre </operation> une <operation> dose </operation> généreuse de <ingredient action="mettre" quantite=""> mayonnaise </ingredient> , <operation ingredients="thon"> mélanger </operation> le tout avec le <ingredient action="mélanger" quantite=""> thon </ingredient> . <operation ingredients="œufs"> mettre </operation> le <operation> mélange </operation> dans les <ingredient action="mettre" quantite="5"> œufs </ingredient> . <operation ingredients="tomates;avocat"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> et l' <ingredient action="couper" quantite="1"> avocat </ingredient> en rondelles . <operation ingredients="maïs;salade"> présenter </operation> le tout avec le <ingredient action="présenter" quantite="250 gramme"> maïs </ingredient> et la <ingredient action="présenter" quantite="5 feuille"> salade </ingredient> de façon harmonieuse . <operation ingredients="citron"> assaisonner </operation> avec du <ingredient action="assaisonner"> citron </ingredient> ( ou vinaigrette ) . et voilà ! ! !
+</preparation>
+</recette>

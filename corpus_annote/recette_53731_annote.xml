@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53731">
+<titre>Crème aux speculoos</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 litre de lait</p>
+<p>3 cuillères de crème fraîche</p>
+<p>4 jaunes d'oeufs</p>
+<p>8 speculoos (+3 pour la décoration)</p>
+<p>1 cuillère à soupe de sucre roux</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;crème"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> et la <ingredient action="chauffer" quantite="3 cuillère"> crème </ingredient> ; arrêter à <operation> ébullition </operation> . <operation> mettre </operation> les speculoos dans cette préparation . pendant ce temps , <operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> avec le <ingredient action="battre" quantite="1 cuillère à soupe"> sucre </ingredient> . <operation ingredients="lait"> verser </operation> la préparation à base de <ingredient action="verser"> lait </ingredient> légèrement refroidi sur les <ingredient> oeufs </ingredient> en <operation> fouettant </operation> , à travers une passoire ( pour éviter les gros morceaux qui n' auraient pas <operation> fondu </operation> ) . <operation> verser </operation> dans des ramequins ou des petits verres et faire <operation> cuire </operation> au bain - marie pendant 25 à 30 min ( 120 <operation> ° </operation> c. th 4 ) . après refroidissement , <operation> réserver </operation> au réfrigérateur ; et juste avant de servir , <operation> répartir </operation> les derniers <ingredient action="reduits"> speculoos </ingredient> <operation ingredients="speculoos;crèmes"> reduits </operation> en miettes sur les <ingredient action="reduits" quantite="3 cuillère"> crèmes </ingredient> . cette recette a un petit goût d' enfance . . . juste un peu régressif . . .
+</preparation>
+</recette>

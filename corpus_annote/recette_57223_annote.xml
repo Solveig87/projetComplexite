@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57223">
+<titre>Omelette Moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>2 grosses tomates</p>
+<p>3 cuillères à soupe de moutarde de Dijon</p>
+<p>1 cuillère à soupe de parmesan</p>
+<p>1 cuillère à soupe de ciboulette hachée</p>
+<p>1 tranche de jambon cuit</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="jambon;huile"> rissoler </operation> la tranche de <ingredient action="rissoler"> jambon </ingredient> <operation> coupée </operation> en petits morceaux dans une <operation> poêle </operation> avec l' <ingredient action="rissoler" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="moutarde;tomates"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> moutarde </ingredient> et les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en morceaux . faire <operation> cuire </operation> à feux moyen 5 à 10 min . <operation ingredients="oeufs"> battre </operation> les 4 <ingredient action="battre" quantite="4"> oeufs </ingredient> dans un grand bol et <operation ingredients="sel;poivre"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> , <operation ingredients="parmesan;ciboulette"> rajouter </operation> le <ingredient action="rajouter" quantite="1 cuillère à soupe"> parmesan </ingredient> et la <ingredient action="rajouter" quantite="1 cuillère à soupe"> ciboulette </ingredient> . une fois que les <ingredient action="réduire" quantite="2"> tomates </ingredient> sont <operation ingredients="tomates"> réduites </operation> à l' état de purée et bien <operation ingredients="moutarde"> liées </operation> à la <ingredient action="lier" quantite="3 cuillère à soupe"> moutarde </ingredient> ( qui ne pique plus une fois cuite ) , <operation ingredients="oeufs"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> oeufs </ingredient> et diminuer le feu . laisser <operation> cuire </operation> l' omelette selon votre goût , baveuse ou bien cuite . <ingredient> vin </ingredient> rouge de table , type chansonnier
+</preparation>
+</recette>

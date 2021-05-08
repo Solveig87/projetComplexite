@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68898">
+<titre>Poêlée paysanne au poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre</p>
+<p>2 escalopes de poulet</p>
+<p>150 g de lardons</p>
+<p>1 branche de thym effleuillée</p>
+<p>1 oignon</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terres dans une casserole d' eau <operation> salée </operation> pendant 15 min . <operation> epluchez </operation> - les et <operation> coupez </operation> - les en rondelles . <operation ingredients="poulet"> détaillez </operation> le <ingredient action="détailler"> poulet </ingredient> en dés . faites <operation ingredients="lardons"> revenir </operation> ces derniers dans une grande pôele avec les <ingredient action="revenir" quantite="150 gramme"> lardons </ingredient> . <operation ingredients="pommes"> ajoutez </operation> les <ingredient action="ajouter" quantite="8"> pommes </ingredient> de terres , puis <operation ingredients="thym"> parsemez </operation> de <ingredient action="parsemer"> thym </ingredient> , puis les <ingredient action="saler" quantite="1"> oignons </ingredient> , <operation ingredients="oignons"> salez </operation> et <operation> poivrez </operation> . laissez <operation> dorer </operation> le tout environ 15 min . dégustez avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

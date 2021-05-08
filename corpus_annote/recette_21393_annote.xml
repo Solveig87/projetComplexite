@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21393">
+<titre>Soupe simple au potiron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>environ 1 kg de potiron</p>
+<p>2 carottes moyennes</p>
+<p>du beurre</p>
+<p>un bouillon de poule (cube) </p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron;carottes"> peler </operation> le <ingredient action="peler"> potiron </ingredient> et les <ingredient action="peler"> carottes </ingredient> . <operation ingredients="potiron"> couper </operation> le <ingredient action="couper"> potiron </ingredient> en cubes ( pas trop gros ) . <operation ingredients="carottes"> couper </operation> les <ingredient action="couper"> carottes </ingredient> en rondelles . dans une cocotte - minute , faire <operation ingredients="beurre"> fondre </operation> du <ingredient action="fondre" quantite=""> beurre </ingredient> . une fois le <ingredient action="revenir" quantite=""> beurre </ingredient> <operation> fondu </operation> , faire <operation ingredients="beurre;carottes"> revenir </operation> les <ingredient action="revenir"> carottes </ingredient> juste le temps qu' elles prennent un peu de couleur . <operation ingredients="potiron"> ajouter </operation> le <ingredient action="ajouter"> potiron </ingredient> et <operation> recouvrir </operation> d' eau . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube . fermer la cocotte et laisser <operation> cuire </operation> 15 mn à partir du moment où çà siffle . <operation> mixer </operation> le tout on peut <operation ingredients="crème;fromage"> ajouter </operation> de la <ingredient action="ajouter"> crème </ingredient> et du <ingredient action="ajouter"> fromage </ingredient> râpé au moment de consommer la <ingredient> soupe </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27800">
+<titre>Spaghetti crémeux à l'oignon et au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de spaghetti</p>
+<p>7 oignons moyens</p>
+<p>40 cl de crème</p>
+<p>45 g de beurre</p>
+<p>3 cuillères à soupe de curry rases</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . <operation ingredients="oignons"> emincer </operation> les <ingredient action="emincer" quantite="7"> oignons </ingredient> et les faire suer dans une <operation> poêle </operation> avec le <ingredient quantite="45 gramme"> beurre </ingredient> jusqu' à ce qu' ils soient tendres et <operation> compotés </operation> . <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer"> curry </ingredient> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> fraîche hors du feu . <operation> egoutter </operation> les <ingredient action="mélanger"> pâtes </ingredient> , les <operation ingredients="pâtes"> mélanger </operation> avec la sauce et servir .
+</preparation>
+</recette>

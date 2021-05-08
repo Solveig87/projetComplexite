@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169424">
+<titre>Croque-monsieur à l'andouille et au camembert</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-8 tranches de pain de mie </p>
+<p>-1 morceau d'andouille (16 tranches)</p>
+<p>-beurre</p>
+<p>-poivre</p>
+<p>-1 camembert bien fait</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;camembert"> beurrer </operation> le <ingredient action="beurrer"> pain </ingredient> de mie , <operation ingredients="andouille"> poser </operation> 3 tranches d' <ingredient action="poser"> andouille </ingredient> , 2 petits morceaux de <ingredient action="beurrer" quantite=""> camembert </ingredient> , <operation> poivrer </operation> , 1 tranche <ingredient> pain </ingredient> de mie <operation> beurrée </operation> , 1 tranche d' <ingredient> andouille </ingredient> et à nouveau du <ingredient quantite=""> camembert </ingredient> et du <ingredient> poivre </ingredient> . <operation> mettre </operation> au four . qantité pour 4 croques monsieur .
+</preparation>
+</recette>

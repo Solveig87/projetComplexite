@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19532">
+<titre>Noisettins   (petits fours)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>125 g beurre</p>
+<p>100 g sucre fin</p>
+<p>1 œuf</p>
+<p>1 sachet de sucre vanillé</p>
+<p>150 g farine</p>
+<p>100 g noisettes moulues</p>
+<p>Pour le décor:</p>
+<p>60 g noisettes entières</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre;sucre"> battre </operation> le <ingredient action="battre"> beurre </ingredient> et le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> en mousse . <operation ingredients="oeuf;sucre;noisettes"> ajouter </operation> l' <ingredient action="ajouter"> oeuf </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> vanillé , les <ingredient action="ajouter" quantite="60 gramme"> noisettes </ingredient> . <operation ingredients="farine"> incorporer </operation> la <ingredient action="incorporer"> farine </ingredient> . <operation> travailler </operation> le tout . <operation> disposer </operation> des petits tas sur une tôle <operation> recouverte </operation> de papier sulfurisé . <operation ingredients="noisette"> poser </operation> une <ingredient action="poser" quantite="60 gramme"> noisette </ingredient> sur chacun . faire <operation> cuire </operation> 10 mn à température moyenne ( surveiller )
+</preparation>
+</recette>

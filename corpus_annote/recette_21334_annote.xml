@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21334">
+<titre>Tarte au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>160 g de chocolat noir</p>
+<p>160 g de beurre</p>
+<p>160 g de sucre</p>
+<p>40 g de farine</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c . <operation ingredients="oeufs"> séparer </operation> les jaunes et les blancs d' <ingredient action="séparer" quantite="4"> oeufs </ingredient> . <operation ingredients="sucre;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="160 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , puis <operation> battre </operation> . faire <operation> fondre </operation> à bain - marie le <ingredient quantite="160 gramme"> beurre </ingredient> et le <ingredient quantite="160 gramme"> chocolat </ingredient> , puis l' <operation ingredients="oeuf;farine"> ajouter </operation> aux jaunes d' <ingredient action="ajouter" quantite="4"> oeuf </ingredient> , ainsi que la <ingredient action="ajouter" quantite="40 gramme"> farine </ingredient> <operation> tamisée </operation> . <operation> battre </operation> les blancs en neige , <operation ingredients="sel"> ajouter </operation> la pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> et <operation> mélanger </operation> avec les jaunes . <operation> verser </operation> le tout dans un <operation> moule </operation> à gâteau <operation> graissé </operation> et <operation> fariné </operation> , puis <operation> enfourner </operation> au four pendant 35 mn .
+</preparation>
+</recette>

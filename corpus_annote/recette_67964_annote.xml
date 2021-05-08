@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67964">
+<titre>Riz dauphinais</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>200 g de riz</p>
+<p>3 œufs  </p>
+<p>gruyère râpé</p>
+<p>beurre</p>
+<p>Sel, poivre, muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sel;poivre;noix"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> avec le <ingredient action="bouillir" quantite=""> sel </ingredient> , le <ingredient action="bouillir" quantite=""> poivre </ingredient> et une pointe de <ingredient action="bouillir"> noix </ingredient> de muscade <operation> râpée </operation> . <operation ingredients="riz"> verser </operation> alors le <ingredient action="verser" quantite="200 gramme"> riz </ingredient> en pluie et laisser <operation> cuire </operation> très doucement 30 minutes . <operation ingredients="oeufs"> séparer </operation> les jaunes des blancs d' <ingredient action="séparer"> oeufs </ingredient> . une fois le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , <operation ingredients="noix;œufs"> ajouter </operation> une <ingredient action="ajouter"> noix </ingredient> de beurre , les jaunes d' <ingredient action="ajouter" quantite="3"> œufs </ingredient> , une poignée de <ingredient quantite=""> gruyère </ingredient> râpé . <operation> battre </operation> les blancs en neige et les <operation ingredients="riz"> ajouter </operation> au <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> . <operation> mettre </operation> le tout dans un plat à gratin beurré et <operation> cuire </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 minutes , en <operation ingredients="fromage;muscade"> poudrant </operation> la surface de <ingredient action="poudrer"> fromage </ingredient> et de <ingredient action="poudrer" quantite=""> muscade </ingredient> un peu avant la fin . à servir avec une simple <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

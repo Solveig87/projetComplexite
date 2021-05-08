@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80213">
+<titre>Yaourt pomme miel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>4 cuillères à soupe de miel</p>
+<p>1 L de lait entier</p>
+<p>1 yaourt entier</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> épépiner </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> en petits dés . les <operation> mettre </operation> dans une <operation> poêle </operation> en les <operation ingredients="miel"> recouvrant </operation> du <ingredient action="recouvrir" quantite="4 cuillère à soupe"> miel </ingredient> . les faire <operation> cuire </operation> jusqu' à ce que le <ingredient action="imbibe" quantite="4 cuillère à soupe"> miel </ingredient> <operation ingredients="miel;pommes"> imbibe </operation> les <ingredient action="imbibe" quantite="4"> pommes </ingredient> . faire refroidir avant de les <operation> mettre </operation> au fond des pots . <operation ingredients="yaourt;lait"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> avec le <ingredient action="mélanger" quantite="1 l"> lait </ingredient> . <operation> verser </operation> dans les pots . laisser 10 h dans la yaourtière puis 4 h au frigo . déguster !
+</preparation>
+</recette>

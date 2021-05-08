@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167673">
+<titre>Cordon bleu express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de jambon blanc </p>
+<p>200 g de gruyère râpé </p>
+<p>2 oeufs </p>
+<p>chapelure </p>
+<p>huile</p>
+</ingredients>
+<preparation>
+1 . <operation ingredients="jambon;gruyère"> farcir </operation> les tranches de <ingredient action="farcir" quantite="8 tranche"> jambon </ingredient> avec le <ingredient action="farcir" quantite="200 gramme"> gruyère </ingredient> et les <operation> rouler </operation> en les faisant tenir avec un cure - dent . 2 . les <operation ingredients="oeuf;chapelure"> tremper </operation> dans l' <ingredient action="tremper" quantite="2"> oeuf </ingredient> <operation> battu </operation> et dans la <ingredient action="tremper" quantite=""> chapelure </ingredient> . 3 . faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> chaude jusqu' à ce qu' elles soient bien dorées . servir <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29192">
+<titre>Omelette fourrée aux poireaux</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 œufs </p>
+<p>2 poireaux coupés en morceaux</p>
+<p>1 oignon haché</p>
+<p>beurre</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="poireaux;beurre;oignon"> revenir </operation> les <ingredient action="revenir" quantite="2"> poireaux </ingredient> avec du <ingredient action="revenir"> beurre </ingredient> et l’ <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> ciselé </operation> environ 20 min . <operation> assaisonner </operation> . <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="8"> œufs </ingredient> en omelette et la faire prendre dans une <operation> poêle </operation> . <operation ingredients="poireaux;oignons;plier"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> poireaux </ingredient> et les <ingredient action="ajouter" quantite="1"> oignons </ingredient> , et <ingredient action="ajouter"> plier </ingredient> l’ omelette en deux . on peut aussi <operation ingredients="légume;lardons"> garnir </operation> l’ omelette de tout autre <ingredient action="garnir" quantite="2;1"> légume </ingredient> ou même de <ingredient action="garnir"> lardons </ingredient> , restes de <ingredient> viande </ingredient> ou de <ingredient> poisson </ingredient> . . .
+</preparation>
+</recette>

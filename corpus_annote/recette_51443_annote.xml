@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51443">
+<titre>Lapin aux cèpes et girolles</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>400 g de cèpes</p>
+<p>400 g de girolles</p>
+<p>huile d'olive à l'ail </p>
+<p>sel et poivre</p>
+<p>piment d'espelette (facultatif) </p>
+<p>50 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="cèpes;huile"> revenir </operation> les <ingredient action="revenir" quantite="400 gramme"> cèpes </ingredient> à l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive aillée , les <operation> retirer </operation> bien dorés , puis les <operation> égoutter </operation> sur du sopalin . faire <operation ingredients="lapin;huile"> dorer </operation> les morceaux de <ingredient action="dorer" quantite="1"> lapin </ingredient> dans la même <ingredient action="dorer" quantite=""> huile </ingredient> , les <operation> retirer </operation> et <operation ingredients="huile"> jeter </operation> l' <ingredient action="jeter" quantite=""> huile </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une cocotte , y <operation ingredients="girolles"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> girolles </ingredient> , faire <operation> revenir </operation> . <operation ingredients="veau"> ajouter </operation> 25 cl d' eau et le fond de <ingredient action="ajouter"> veau </ingredient> , <operation ingredients="lapin"> remettre </operation> le <ingredient action="remettre" quantite="1"> lapin </ingredient> et les cépes ; <operation> enfourner </operation> pendant 45 min au four préchauffé à 180 <operation> ° </operation> c ( th 6 ) . servir avec des <ingredient> tagliatelles </ingredient> . un bon comte de négret de fronton
+</preparation>
+</recette>

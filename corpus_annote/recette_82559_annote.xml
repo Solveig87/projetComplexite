@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82559">
+<titre>Potage au potiron et pommes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons coupés</p>
+<p>1 gousse d'ail écrasé</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>500 g de potiron (pelé et coupé en cubes)</p>
+<p>2 pommes (pelées et en cubes)</p>
+<p>50 cl de bouillon de légumes</p>
+<p>30 cl de cidre sec ou de jus de pommes</p>
+<p>2 brins de sauge</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans une casserole et <operation ingredients="oignons;ail"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="2"> oignons </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> . faitez <operation> cuire </operation> pendant 2 minutes et <operation ingredients="potiron"> ajoutez </operation> le <ingredient action="ajouter" quantite="500 gramme"> potiron </ingredient> , les <ingredient quantite="2"> pommes </ingredient> et la sauge . faites <operation> cuire </operation> pendant encore 2 minutes , <operation ingredients="sel;bouillon;cidre"> ajoutez </operation> du <ingredient action="ajouter"> sel </ingredient> et poivre à votre goût , le <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> de légumes et le <ingredient action="ajouter" quantite="30 cl"> cidre </ingredient> ou jus de pommes . faites <operation> bouillir </operation> le tout et <operation> cuire </operation> pendant 15 à 20 minutes . <operation> mixez </operation> .
+</preparation>
+</recette>

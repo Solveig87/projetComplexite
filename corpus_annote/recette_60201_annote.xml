@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60201">
+<titre>Brioches aux escargots</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 brioches individuelles</p>
+<p>2 douzaines d'escargots</p>
+<p>100 g de beurre</p>
+<p>4 gousses d'ail</p>
+<p>1 bouquet de persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre;persil;beurre;sel;poivre"> préparer </operation> un <ingredient action="préparer" quantite="100 gramme"> beurre </ingredient> aillé et persillé classique en <operation ingredients="ail"> mélangeant </operation> l' <ingredient action="mélanger"> ail </ingredient> <operation> écrasé </operation> , le <ingredient action="préparer"> persil </ingredient> haché , le <ingredient action="préparer" quantite="100 gramme"> beurre </ingredient> mou , du <ingredient action="préparer" quantite=""> sel </ingredient> et du <ingredient action="préparer" quantite=""> poivre </ingredient> . <operation ingredients="brioches"> enlever </operation> un chapeau aux <ingredient action="enlever" quantite="4"> brioches </ingredient> , les <operation> creuser </operation> un peu , les <operation ingredients="escargots"> garnir </operation> de 6 <ingredient action="garnir"> escargots </ingredient> <operation ingredients="beurre"> égouttés </operation> et de <ingredient action="égoutter" quantite="100 gramme"> beurre </ingredient> <operation> persiller </operation> . bien tasser . <operation> remettre </operation> le chapeau et <operation ingredients="brioche"> envelopper </operation> chaque <ingredient action="envelopper" quantite="4"> brioche </ingredient> dans de l' aluminium . <operation> mettre </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 20 min . servir à chacun sa papillote ! bourgogne blanc
+</preparation>
+</recette>

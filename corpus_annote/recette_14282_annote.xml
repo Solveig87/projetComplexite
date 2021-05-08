@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14282">
+<titre>Tarte aux légumes du soleil</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 fond de pâte feuilletée </p>
+<p>1 aubergine</p>
+<p>2 courgettes</p>
+<p>4 tomates</p>
+<p>1 mozzarella</p>
+<p>herbes de provence, sel poivre</p>
+<p>quelques feuilles de basilic</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="aubergine"> couper </operation> <ingredient action="couper" quantite="1"> aubergine </ingredient> et courgettes en dés sans les <operation> éplucher </operation> , puis les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> à l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . a mi-cuisson ( les <ingredient quantite="1;4"> légumes </ingredient> ont commencé à perdre leur eau ) , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> lavées </operation> et <operation> coupées </operation> en rondelles épaisses . <operation ingredients="sel"> ajouter </operation> herbes de provence , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre . <operation> tapisser </operation> le <operation> moule </operation> à tarte de pâte feuilletée , y <operation ingredients="légumes"> verser </operation> les <ingredient action="verser" quantite="1;4"> légumes </ingredient> lorsqu' ils sont dorés . <operation ingredients="mozzarella"> répartir </operation> des rondelles de <ingredient action="répartir" quantite="1"> mozzarella </ingredient> sur le dessus . <operation ingredients="basilic"> parsemer </operation> de feuilles de <ingredient action="parsemer" quantite="quelque feuille"> basilic </ingredient> <operation> ciselées </operation> . faire <operation ingredients="pâte;mozzarella"> cuire </operation> 20 mn à four chaud , jusqu' à ce que la <ingredient action="cuire"> pâte </ingredient> soit dorée et la <ingredient action="cuire" quantite="1"> mozzarella </ingredient> bien <operation> fondue </operation> .
+</preparation>
+</recette>

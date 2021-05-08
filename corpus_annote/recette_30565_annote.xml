@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30565">
+<titre>Pommes perdues</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses pommes ou 3 moyennes</p>
+<p>1 oeuf</p>
+<p>lait écrémé</p>
+<p>sucre roux</p>
+<p>cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en petits morceaux . <operation ingredients="sucre;cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> et de <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> , <operation> mélanger </operation> . <operation> mettre </operation> sur une feuille d' aluminium , faire <operation> cuire </operation> environ 15 mn jusqu' à ce que le <ingredient action="fondre" quantite=""> sucre </ingredient> soit <operation ingredients="sucre"> fondu </operation> . <operation ingredients="oeuf"> verser </operation> dessus l' <ingredient action="verser" quantite="1"> oeuf </ingredient> <operation ingredients="lait"> battu </operation> avec le <ingredient action="battre" quantite=""> lait </ingredient> , faire <operation> cuire </operation> jusqu' à ce que le <operation> mélange </operation> soit pris .
+</preparation>
+</recette>

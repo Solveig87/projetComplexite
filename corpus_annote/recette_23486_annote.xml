@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23486">
+<titre>Tartare de Daurade à la mexicaine</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de filet de daurade</p>
+<p>1 oignon</p>
+<p>2 tomates</p>
+<p>2 avocats</p>
+<p>3 citrons verts</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 pincée de poivre Cayenne</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="daurade"> détaillez </operation> le filet de <ingredient action="détailler"> daurade </ingredient> en petits dés et <operation> mettez </operation> - les dans un plat creux . <operation> arrosez </operation> - les d' <operation action="huile" ingredients="huile;jus;citrons"> huile </operation> d' olive et du <ingredient action="huile"> jus </ingredient> de deux <ingredient action="huile" quantite="3"> citrons </ingredient> . <operation ingredients="poivre"> ajoutez </operation> la pincée de piment et un peu de <ingredient action="ajouter" quantite="1 pincée"> poivre </ingredient> . laissez <operation> mariner </operation> au moins 30 mn au frais . <operation ingredients="tomates"> pelez </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> après les avoir <operation> ébouillanté </operation> 10 secondes . <operation> pelez </operation> - les , <operation> épépinez </operation> - les puis <operation> coupez </operation> - les en dés . <operation> egouttez </operation> - les soigneusement . <operation ingredients="avocats"> pelez </operation> les <ingredient action="peler" quantite="2"> avocats </ingredient> , <operation ingredients="chair"> coupez </operation> - les en deux et débitez la <ingredient action="couper"> chair </ingredient> en tranches minces . <operation> arrosez </operation> - les avec le <ingredient> jus </ingredient> du dernier <ingredient quantite="3"> citron </ingredient> . <operation ingredients="oignon"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> . au moment de servir , <operation ingredients="tomate;poisson"> mélangez </operation> les dés de <ingredient action="mélanger" quantite="2"> tomate </ingredient> avec le <ingredient action="mélanger"> poisson </ingredient> <operation> mariné </operation> , <operation> salez </operation> et <operation> disposez </operation> la préparation en dômes sur les assiettes . <operation ingredients="avocat;oignon"> décorez </operation> de tranches d' <ingredient action="décorer" quantite="2"> avocat </ingredient> en éventail et des demi-tranches d' <ingredient action="décorer" quantite="1"> oignon </ingredient> .
+</preparation>
+</recette>

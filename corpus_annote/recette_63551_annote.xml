@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63551">
+<titre>Salade de riz aux poissons et crevettes</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de poisson blanc (lotte, cabillaud...)</p>
+<p>300 g de saumon (filet ou darne)</p>
+<p>200 g de crevettes roses</p>
+<p>1 cube de court-bouillon</p>
+<p>2 verres de riz</p>
+<p>1 cuillère à soupe de moutarde forte</p>
+<p>huile d'olive</p>
+<p>jus d'un citron</p>
+<p>2 échalotes fines</p>
+<p>1 bouquet de persil ou ciboulette</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poissons"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> poissons </ingredient> au court-bouillon environ 15 min . <operation> egouttez </operation> - les . dans le même temps , faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="2 verre"> riz </ingredient> . <operation> egouttez </operation> - le . <operation ingredients="poissons"> laissez </operation> refroidir <ingredient action="laisser" quantite="300 gramme"> poissons </ingredient> et riz . puis <operation ingredients="poissons"> émiettez </operation> les <ingredient action="émietter" quantite="300 gramme"> poissons </ingredient> ( <operation> enlevez </operation> bien les arêtes ) . <operation ingredients="poissons;riz"> mélangez </operation> <ingredient action="mélanger" quantite="300 gramme"> poissons </ingredient> <operation> émiettés </operation> , <ingredient action="mélanger" quantite="2 verre"> riz </ingredient> et crevettes . <operation ingredients="échalotes"> emincez </operation> les <ingredient action="emincez" quantite="2"> échalotes </ingredient> ( ou <operation> mixez </operation> - les si vous préférez ) . <operation ingredients="persil;ciboulette"> ciselez </operation> le <ingredient action="ciseler"> persil </ingredient> ( ou la <ingredient action="ciseler"> ciboulette </ingredient> ) . <operation ingredients="persil"> mélangez </operation> <ingredient action="mélanger"> persil </ingredient> et échalotes à la préparation . <operation> préparez </operation> la sauce : <operation ingredients="moutarde;huile"> délayez </operation> une bonne cuillérée de <ingredient action="délayer" quantite="1 cuillère à soupe"> moutarde </ingredient> dans de l' <ingredient action="délayer" quantite=""> huile </ingredient> d' olive ( au fouet ) . <operation ingredients="jus;sel;poivre"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> de citron , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> mélangez </operation> bien la sauce et la préparation . <operation> réservez </operation> au frigo pendant au moins 1 h avant de servir . peut être servi en entrée ou plat principal . <ingredient> vin </ingredient> blanc d' alsace type gewurztraminer
+</preparation>
+</recette>

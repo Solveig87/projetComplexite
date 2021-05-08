@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83855">
+<titre>Gratin de ravioles, bleu et champignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 plaques de ravioles</p>
+<p>40 g de roquefort(ou équivalent)</p>
+<p>50 g de champignons de Paris</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>Emmental râpé</p>
+<p>Chapelure</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="champignons"> fondre </operation> <ingredient action="fondre" quantite="50 gramme"> champignons </ingredient> et oignon <operation> hachés </operation> fins dans une <operation> poêle </operation> sur feu doux , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> ( <operation ingredients="ail"> passé </operation> préalablement au <operation> presse </operation> - <ingredient action="passer"> ail </ingredient> ) . faire <operation ingredients="ravioles"> cuire </operation> les <ingredient action="cuire"> ravioles </ingredient> ( suivre les instructions du paquet ) . <operation ingredients="ravioles"> mélanger </operation> <ingredient action="mélanger"> ravioles </ingredient> et légumes dans un plat à gratin , puis <operation ingredients="roquefort"> ajouter </operation> le <ingredient action="ajouter" quantite="40 gramme"> roquefort </ingredient> <operation> émietté </operation> , <operation ingredients="emmental;chapelure"> couvrir </operation> d' <ingredient action="couvrir"> emmental </ingredient> râpé et de <ingredient action="couvrir" quantite=""> chapelure </ingredient> . faire <operation> cuire </operation> entre 10 et 15 minutes sous le grill du four à 200 <operation> ° </operation> c ( thermostat 6 / 7 ) .
+</preparation>
+</recette>

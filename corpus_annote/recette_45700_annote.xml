@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45700">
+<titre>Carottes râpées aux brocolis et bacon, en sauce</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 carottes (150 g)</p>
+<p>2 grosses têtes de brocolis</p>
+<p>2 tranches de bacon</p>
+<p>fromage blanc</p>
+<p>curry, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> râper </operation> les <ingredient action="râper" quantite="2"> carottes </ingredient> . <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire"> brocolis </ingredient> à la vapeur . <operation ingredients="bacon"> emincer </operation> le <ingredient action="emincer" quantite="2 tranche"> bacon </ingredient> , et le faire <operation> griller </operation> dans une <operation> poêle </operation> . <operation ingredients="brocolis"> ajouter </operation> les <ingredient action="ajouter"> brocolis </ingredient> avec un peu d' eau , <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> curry </ingredient> , et laisser <operation> mijoter </operation> jusqu' à ce que l' eau soit évaporée . <operation ingredients="fromage;sel;curry"> mélanger </operation> 2 grosses cuillères de <ingredient action="mélanger" quantite=""> fromage </ingredient> blanc , avec le <ingredient action="mélanger" quantite=""> sel </ingredient> et poivre et une petite pincée de <ingredient action="mélanger" quantite=""> curry </ingredient> . <operation ingredients="brocolis"> ajouter </operation> les <ingredient action="ajouter"> brocolis </ingredient> - bacon aux carottes , <operation> napper </operation> de sauce , <operation> mélanger </operation> et déguster . parfaite petite <ingredient> salade </ingredient> light et savoureuse . le <ingredient quantite="2 tranche"> bacon </ingredient> peut être remplacé par des miettes de <ingredient> crabe </ingredient> ou du <ingredient> thon </ingredient> . on peut aussi <operation ingredients="chèvre"> ajouter </operation> du <ingredient action="ajouter"> chèvre </ingredient> pour un plat plus complet .
+</preparation>
+</recette>

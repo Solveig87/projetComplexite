@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65475">
+<titre>Penne brocolis saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de penne (ou autres pâte type coudes, macaroni...)</p>
+<p>200 g de saumon fumé</p>
+<p>1 belle tête de brocolis</p>
+<p>4 beaux champignons de Paris</p>
+<p>10 cl de crème fraiche</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> à l' eau bouillante <operation> salée </operation> . <operation ingredients="brocolis;bouquets"> couper </operation> les <ingredient action="couper"> brocolis </ingredient> en petits <ingredient action="couper"> bouquets </ingredient> et les faire <operation> cuire </operation> à la vapeur pendant 15 min . <operation ingredients="champignons"> couper </operation> les <ingredient action="couper"> champignons </ingredient> en petits morceaux et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . y <operation ingredients="brocolis;penne;champignons;saumon;fumé"> ajouter </operation> les <ingredient action="ajouter"> brocolis </ingredient> , les <ingredient action="ajouter" quantite="400 gramme"> penne </ingredient> <operation> cuites </operation> , les <ingredient action="ajouter"> champignons </ingredient> et le <ingredient action="ajouter"> saumon </ingredient> <ingredient action="ajouter" quantite="200 gramme"> fumé </ingredient> <operation> coupé </operation> en morceaux . faire <operation> revenir </operation> 2 min et y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche . servir aussitôt . <operation ingredients="parmesan"> accompagnez </operation> de <ingredient action="accompagner"> parmesan </ingredient> râpé !
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30980">
+<titre>Velouté de potiron aux haricots blancs</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de haricots blancs frais</p>
+<p>500 g de potiron</p>
+<p>1 l d'eau</p>
+<p>1 oignon</p>
+<p>1 clou de girofle</p>
+<p>20 cl de crème fraîche épaisse</p>
+<p>une noix de beurre</p>
+<p>2 gousses d'ail </p>
+<p>1 bouquet garni</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="haricots;ail;oignon"> cuire </operation> pendant 1 h les <ingredient action="cuire" quantite="200 gramme"> haricots </ingredient> dans l' eau avec l' <ingredient action="cuire"> ail </ingredient> , l' <ingredient action="cuire" quantite="1"> oignon </ingredient> , le clou de girofle et le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> assaisonner </operation> et <operation ingredients="potiron"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> potiron </ingredient> <operation> coupé </operation> en cubes . continuer la cuisson pendant 30 min . <operation ingredients="bouquet"> retirer </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le clou de girofle , et <operation> mixer </operation> le tout . <operation ingredients="crème;beurre"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et le <ingredient action="ajouter"> beurre </ingredient> .
+</preparation>
+</recette>

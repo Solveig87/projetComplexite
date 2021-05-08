@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34857">
+<titre>Jambon braisé au cidre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de jambon braisé un peu épaisses</p>
+<p>0,5 l de cidre</p>
+<p>2 à 3 cuillères à soupe de crème</p>
+<p>300 g champignons frais</p>
+<p>sel et poivre</p>
+<p>un peu d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="jambon;huile"> revenir </operation> dans une sauteuse à feu moyen les tranches de <ingredient action="revenir" quantite="4 tranche"> jambon </ingredient> braisé avec un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . lorsqu' elles sont <operation> dorées </operation> , les <operation> réserver </operation> dans une assiette . dans la sauteuse faire <operation ingredients="champignons"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> champignons </ingredient> , frais de préfèrence ; lorsqu' ils sont <operation> cuits </operation> <operation ingredients="cidre"> mettre </operation> le <ingredient action="mettre" quantite="0,5 l"> cidre </ingredient> ( environ 2 verres ) . faire <operation> réduire </operation> puis <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter"> crème </ingredient> fraîche . <operation> salez </operation> très légèrement et <operation> poivrez </operation> . <operation> rajoutez </operation> les tranches dans la sauteuse pour les <operation> réchauffer </operation> si nécessaire . servir aussitôt . <ingredient quantite="0,5 l"> cidre </ingredient>
+</preparation>
+</recette>

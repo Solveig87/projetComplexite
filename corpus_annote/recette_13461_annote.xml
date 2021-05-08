@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13461">
+<titre>Penne aux 3 fromages et au basilic</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de penne</p>
+<p>80 g d'emmenthal</p>
+<p>30 g de parmesan</p>
+<p>70 gr de gorgonzola ou de roquefort</p>
+<p>50 cl de crème liquide</p>
+<p>1 bouquet de basilic</p>
+<p>poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> chauffer </operation> l' eau pour les <ingredient action="chauffer"> pâtes </ingredient> . pendant ce temps , <operation ingredients="crème;gorgonzola"> mettre </operation> la <ingredient action="mettre" quantite="50 cl"> crème </ingredient> liquide dans une casserole avec le <ingredient action="mettre" quantite="70 gr"> gorgonzola </ingredient> et <operation> chauffer </operation> à feu doux . <operation ingredients="penne"> plonger </operation> les <ingredient action="plonger" quantite="400 gramme"> penne </ingredient> dès que l' eau bout et laisser <operation> cuire </operation> . 5 minutes avant la fin de la cuisson des pates , <operation ingredients="emmenthal;parmesan;gorgonzola"> ajouter </operation> l' <ingredient action="ajouter" quantite="80 gramme"> emmenthal </ingredient> et le <ingredient action="ajouter" quantite="30 gramme"> parmesan </ingredient> à la creme et au <ingredient action="ajouter" quantite="70 gr"> gorgonzola </ingredient> . <operation> egoutter </operation> les pates et les <operation> mettre </operation> dans un saladier , <operation ingredients="basilic"> nappées </operation> de la sauce et du <ingredient action="napper"> basilic </ingredient> <operation> ciselé </operation> . <ingredient> côtes </ingredient> de provence ou bardolino
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21960">
+<titre>Pain perdu au vin rouge</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de pain de mie épaisses et rassises</p>
+<p>1 bouteille de vin rouge</p>
+<p>1 cuillère à café de cannelle</p>
+<p>2 oeufs</p>
+<p>50 g de sucre en poudre</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+aromatiser le <ingredient> vin </ingredient> avec la <ingredient quantite="1 cuillère à café"> cannelle </ingredient> puis en <operation ingredients="pain"> imbiber </operation> les tranches de <ingredient action="imbiber" quantite="8 tranche"> pain </ingredient> de mie . <operation ingredients="oeuf;huile"> passer </operation> les tranches dans l' <ingredient action="passer" quantite="2"> oeuf </ingredient> <operation> battu </operation> et faire <operation> frire </operation> dans l' <ingredient action="passer" quantite=""> huile </ingredient> . lorsque les tranches sont bien dorées , les <operation> égoutter </operation> sur du papier absorbant puis <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> sucre </ingredient> .
+</preparation>
+</recette>

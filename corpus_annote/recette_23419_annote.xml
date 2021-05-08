@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23419">
+<titre>Glacé de bananes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses bananes</p>
+<p>1 tablette de chocolat fondant</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> . <operation ingredients="chocolat;bananes"> tremper </operation> dans le <ingredient action="tremper"> chocolat </ingredient> les rondelles de <ingredient action="tremper" quantite="2"> bananes </ingredient> préalablement <operation> coupées </operation> . <operation> placer </operation> au congélateur . dégustez quand vous avez chaud .
+</preparation>
+</recette>

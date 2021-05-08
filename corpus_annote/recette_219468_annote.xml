@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219468">
+<titre>Poulet et petits pois à la créole</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>4 oignons</p>
+<p>2 tomates</p>
+<p>2 gousses d'ail</p>
+<p>1 curcuma</p>
+<p>800 g de petits pois extra fins</p>
+<p>sel</p>
+<p>poivre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en petits morceaux . <operation ingredients="oignons;ail"> émincer </operation> les <ingredient action="émincer" quantite="4"> oignons </ingredient> et l' <ingredient action="émincer"> ail </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en petits dés . <operation ingredients="pois"> égoutter </operation> les petits <ingredient action="égoutter"> pois </ingredient> . faire <operation ingredients="poulet;huile"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> à feu vif 5 min dans l' <ingredient action="dorer" quantite=""> huile </ingredient> , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oignons </ingredient> <operation> émincés </operation> et faire <operation> revenir </operation> 5 min . <operation ingredients="ail;sel;poivre;curcuma"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> ainsi que le <ingredient action="ajouter" quantite="1"> curcuma </ingredient> et laisser <operation> cuire </operation> 5 min . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> <operation> égouttés </operation> ainsi qu' un verre d' eau et laisser <operation> mijoter </operation> pendant 15 min environ . eau
+</preparation>
+</recette>

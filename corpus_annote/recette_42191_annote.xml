@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42191">
+<titre>Californian cheese burger</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 muffin blancs (au supermarché rayon pain de mie)</p>
+<p>2 filets de poulet</p>
+<p>du cheddar</p>
+<p>une poignée de pousses d'épinard frais</p>
+<p>curry</p>
+<p>curcuma (ou autre épice)</p>
+<p>poivre du moulin</p>
+<p>sel</p>
+<p>huile d'olive</p>
+<p>jus de citron</p>
+<p>une cuillère de mayonnaise (légère si possible)</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulets"> couper </operation> les filets de <ingredient action="couper"> poulets </ingredient> en morceaux de taille moyenne et les laisser <operation> mariner </operation> ( au moins 30 min , c' est bien , mais si vous êtes <operation> pressé </operation> , on s' en <operation ingredients="épice;huile;jus"> passe </operation> ) dans le <operation> mélange </operation> d' <ingredient action="passer" quantite=";;;;;1 cuillère"> épice </ingredient> , d' <ingredient action="passer" quantite=""> huile </ingredient> et de <ingredient action="passer" quantite=""> jus </ingredient> de citron . ensuite faites - le <operation> cuire </operation> à al <operation> poêle </operation> . pendant la cuisson du <ingredient action="faire"> poulet </ingredient> , <operation ingredients="poulet;muffin"> faites </operation> <operation> toaster </operation> les <ingredient action="faire" quantite="4"> muffin </ingredient> <operation> tranchés </operation> en deux , <operation ingredients="cheddar"> découpez </operation> une tranche de <ingredient action="découper" quantite=""> cheddar </ingredient> par sandwich . quand tout est <operation> cuit </operation> , <operation ingredients="mayonnaise;muffins;épinard;fromage;poulet"> tartinez </operation> légerement de <ingredient action="tartinez" quantite="1 cuillère"> mayonnaise </ingredient> le fond des <ingredient action="tartinez" quantite="4"> muffins </ingredient> , puis <operation> diposez </operation> les <ingredient action="tartinez"> épinard </ingredient> , le <ingredient action="tartinez"> fromage </ingredient> , et enfin le <ingredient action="tartinez"> poulet </ingredient> . <operation ingredients="muffin"> recouvrez </operation> d' une tranche de <ingredient action="recouvrir" quantite="4"> muffin </ingredient> , servez avec un épi de <ingredient> maïs </ingredient> <operation> grillé </operation> , et régalez -vous . . . c' est rapide , pas trop lourd et ça change du traditionnel <ingredient> hamburger </ingredient> . . . j' ai imité la recette d' un restaurant américain près de chez moi !
+</preparation>
+</recette>

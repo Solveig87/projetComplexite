@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34062">
+<titre>Filet de poulet au saumon et comté</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>4 tranches de saumon fumé</p>
+<p>4 tranches de comté (ou gouda) </p>
+<p>chapelure</p>
+<p>tagliatelles (500 g) Pour la sauce :</p>
+<p>roquefort 150 g</p>
+<p>crème fraîche allégée 50 cl</p>
+</ingredients>
+<preparation>
+dans le filet de <ingredient> poulet </ingredient> <operation> tranché </operation> , glisser une tranche de <ingredient> saumon </ingredient> <ingredient quantite="4 tranche"> fumé </ingredient> et une tranche de <ingredient> fromage </ingredient> de comté . <operation ingredients="poulet"> paner </operation> le filet de <ingredient action="paner"> poulet </ingredient> et le <operation> cuire </operation> à la <operation> poêle </operation> . <operation ingredients="tagliatelles;roquefort"> accompagner </operation> de <ingredient action="accompagner" quantite=""> tagliatelles </ingredient> à la sauce <ingredient action="accompagner" quantite=""> roquefort </ingredient> . tokay <ingredient> pinot </ingredient> gris
+</preparation>
+</recette>

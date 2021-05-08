@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228906">
+<titre>Bricks à la viande hachée d'agneau</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g d'agneau haché</p>
+<p>1 poivron</p>
+<p>1 oignon</p>
+<p>sel</p>
+<p>cumin</p>
+<p>huile d'olive</p>
+<p>1 paquet de feuille de brick</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon;poivron"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en lamelles et le <ingredient action="couper" quantite="1"> poivron </ingredient> en cubes puis les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive durant 10 minutes . <operation ingredients="viande"> ajouter </operation> ensuite la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> hachée pour 5 minutes puis <operation ingredients="sel;cumin"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> cumin </ingredient> . laisser refroidir le tout . <operation ingredients="brick;plier"> couper </operation> chaque feuille de <ingredient action="couper"> brick </ingredient> en deux , prendre une moitié de feuille la <ingredient> plier </ingredient> en deux dans le sens de la longueur et <operation> mettre </operation> un peu de farce sur une extrémité , puis <ingredient action="couper"> plier </ingredient> en triangle . faire de même avec le reste des ingrédients . <operation ingredients="bricks"> mettre </operation> les <ingredient action="mettre"> bricks </ingredient> dans une friteuse . 4 min .
+</preparation>
+</recette>

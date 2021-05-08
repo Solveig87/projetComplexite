@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168838">
+<titre>La raie au camembert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>-1kg de pommes de terre</p>
+<p>-300 grammes de lardons fumés </p>
+<p>-6 gros oignons</p>
+<p>-50 cl de crème fraîche </p>
+<p>-6 petits ailerons de raie</p>
+<p>-2 camemberts au lait cru</p>
+<p>-Sel et poivre</p>
+<p>-Beurre</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="lardons;oignons;beurre"> blondir </operation> les <ingredient action="blondir"> lardons </ingredient> et les <ingredient action="blondir" quantite=""> oignons </ingredient> <operation> émincés </operation> dans 20 gr de <ingredient action="blondir"> beurre </ingredient> , pendant 10 minutes . pendant ce temps <operation ingredients="pommes"> épluchez </operation> les <ingredient action="éplucher"> pommes </ingredient> de terre et les coupées en rondelles de 4 mm d’ épais . bien les lavées pour <operation> enlever </operation> l’ amidon puis les <operation> mettre </operation> à <operation> égoutter </operation> . <operation ingredients="camemberts"> coupez </operation> les deux <ingredient action="couper" quantite=""> camemberts </ingredient> en lamelles , les <operation> mettre </operation> de coté . <operation ingredients="crème;sel;poivre"> mélangez </operation> à froid la <ingredient action="mélanger"> crème </ingredient> fraîche avec le <ingredient action="mélanger"> sel </ingredient> et le <ingredient action="mélanger"> poivre </ingredient> . <operation ingredients="raies"> nettoyez </operation> les ailerons de <ingredient action="nettoyer"> raies </ingredient> . <operation> beurrez </operation> un grand plat en terre . étalez les rondelles de <ingredient> pommes </ingredient> de terre crues ( la moitié ) , <operation ingredients="lardons;oignons"> mettre </operation> la préparation <ingredient action="mettre"> lardons </ingredient> <ingredient action="mettre" quantite=""> oignons </ingredient> ( la moitié ) , <operation ingredients="camembert"> mettre </operation> une rangée de <ingredient action="mettre" quantite=""> camembert </ingredient> , puis la moitié de la <ingredient> crème </ingredient> . <operation ingredients="raie;pommes;crème;camembert"> disposez </operation> les ailerons de <ingredient action="disposer"> raie </ingredient> , terminez avec le <operation> mélange </operation> <ingredient> lardons </ingredient> <ingredient quantite=""> oignons </ingredient> , les <ingredient action="disposer"> pommes </ingredient> de terre , la <ingredient action="disposer"> crème </ingredient> et enfin les lamelles de <ingredient action="disposer" quantite=""> camembert </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> légèrement . faire <operation> cuire </operation> thermostat 7 pendant environ 1 heure . <ingredient> pinot </ingredient> gris ( tokay ) , riesling ( alsace )
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28018">
+<titre>Croque normand (version salée)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pain de mie</p>
+<p>beurre</p>
+<p>jambon fumé</p>
+<p>camembert</p>
+<p>1 œuf</p>
+<p>lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> une tranche de <ingredient action="beurrer" quantite=""> pain </ingredient> de mie . sur le côté <ingredient action="mettre" quantite=""> beurre </ingredient> , <operation ingredients="beurre;camembert;jambon;camembert"> mettre </operation> quelques lamelles de <ingredient action="mettre" quantite=""> camembert </ingredient> , puis une demi-tranche de <ingredient action="mettre" quantite=""> jambon </ingredient> <operation> fumé </operation> et à nouveau des lamelles de <ingredient action="mettre" quantite=""> camembert </ingredient> . terminer par une tranche de <ingredient quantite=""> pain </ingredient> de mie beurrée . <operation ingredients="oeuf"> tremper </operation> ce croque dans un jaune d' <ingredient action="tremper"> oeuf </ingredient> <operation ingredients="lait"> battu </operation> avec un peu de <ingredient action="battre" quantite=""> lait </ingredient> ( recto - verso ) . puis <operation> mettre </operation> à <operation ingredients="matière"> cuire </operation> dans un <operation> poêle </operation> avec <ingredient action="cuire" quantite=""> matière </ingredient> grasse bien chaude . <operation> retourner </operation> plusieurs fois : les tranches de <ingredient quantite=""> pain </ingredient> doivent être bien croustillantes et le <ingredient> fromage </ingredient> bien <operation> fondu </operation> . a servir avec une <ingredient> salade </ingredient> au vinaigre de cidre . idéal pour les soirs de flemme . dans le même esprit on peut <operation ingredients="bacon"> faire </operation> le croque anglais avec des tranches de filet de <ingredient action="faire"> bacon </ingredient> et des morceaux de chester . délicieux aussi .
+</preparation>
+</recette>

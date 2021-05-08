@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24467">
+<titre>Lapin loulou ( sauce pain d'épices)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 beau lapin</p>
+<p>4 tranches ou plus de pain d'épices</p>
+<p>1 carré de bouillon cube</p>
+<p>2 oignons</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lapin"> revenir </operation> le <ingredient action="revenir" quantite="1"> lapin </ingredient> <operation> coupé </operation> en morceaux . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> coupés </operation> en quartiers . <operation ingredients="viande"> mouiller </operation> d' eau jusqu' à hauteur de la <ingredient action="mouiller" quantite="1;1"> viande </ingredient> et <operation ingredients="pain"> mettre </operation> les tranches de <ingredient action="mettre"> pain </ingredient> d' épice . <operation ingredients="bouillon"> délayer </operation> le <ingredient action="délayer"> bouillon </ingredient> cube à part et <operation> mettre </operation> dans la sauteuse . <operation> saler </operation> , <operation> poivrer </operation> et faire <operation> cuire </operation> 1 heure . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pommes </ingredient> de terre vapeur . . . c' est étonnamment délicieux !
+</preparation>
+</recette>

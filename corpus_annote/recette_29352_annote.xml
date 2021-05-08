@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29352">
+<titre>Escalopes de veau mijotées aux olives</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de veau</p>
+<p>20 g de farine</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>10 cl de vin blanc</p>
+<p>5 cl de Porto</p>
+<p>50 g d'olives dénoyautées</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="escalopes"> fariner </operation> les <ingredient action="fariner" quantite="4"> escalopes </ingredient> de veau . les <operation> tapoter </operation> pour <operation ingredients="farine"> ôter </operation> l' excédent de <ingredient action="ôter" quantite="20 gramme"> farine </ingredient> . faire <operation ingredients="escalopes;beurre;huile"> dorer </operation> les <ingredient action="dorer" quantite="4"> escalopes </ingredient> dans le <ingredient action="dorer" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="dorer" quantite="2 cuillère à soupe"> huile </ingredient> jusqu' à ce qu' elles soient bien dorées puis <operation ingredients="vin;porto"> verser </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> et le <ingredient action="verser" quantite="5 cl"> porto </ingredient> . laisser <operation> cuire </operation> 5 minutes supplémentaires puis <operation ingredients="olives"> ajouter </operation> les <ingredient action="ajouter"> olives </ingredient> .
+</preparation>
+</recette>

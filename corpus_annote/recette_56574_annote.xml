@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56574">
+<titre>Gâteau aux pommes et à la muscade</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de sucre</p>
+<p>100 g de farine</p>
+<p>1 sachet de levure</p>
+<p>3 oeufs</p>
+<p>1/2 verre d'huile</p>
+<p>3 pommes</p>
+<p>1 cuillère à soupe de muscade</p>
+<p>facultatif : lait</p>
+</ingredients>
+<preparation>
+<operation> mélangez </operation> les ingrédients dans l' ordre de la liste en <operation ingredients="lait;pâte"> rajoutant </operation> un peu de <ingredient action="rajouter"> lait </ingredient> si nécéssaire pour que la <ingredient action="rajouter"> pâte </ingredient> soit fluide . dans votre <operation> moule </operation> beurré et <operation> fariné </operation> , <operation ingredients="pommes"> disposez </operation> 1 / 3 de <ingredient action="disposer" quantite="3"> pommes </ingredient> <operation> coupées </operation> en morceaux , <operation ingredients="pâte"> recouvrez </operation> de la <ingredient action="recouvrir"> pâte </ingredient> et <operation ingredients="pommes"> disposez </operation> le reste des <ingredient action="disposer" quantite="3"> pommes </ingredient> dessus . <operation ingredients="pommes"> mettez </operation> au four à température moyenne jusqu' à ce que les <ingredient action="mettre" quantite="3"> pommes </ingredient> du dessus soient toutes dorées . le <ingredient> lait </ingredient> permet de mieux <operation> lier </operation> les ingrédients mais il peut être remplacé par les blancs <operation> montés </operation> en neige .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27831">
+<titre>Soupe au potiron aux oignons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de potiron</p>
+<p>2 oignons</p>
+<p>sel, poivre</p>
+<p>1 noix de graisse d'oie ou de canard</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hachez </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> , faites - les <operation ingredients="graisse"> blondir </operation> dans une cocotte avec la <ingredient action="blondir"> graisse </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> puis <operation ingredients="potiron"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 kilogramme"> potiron </ingredient> <operation> pelé </operation> et <operation> détaillé </operation> en dés . <operation> mélangez </operation> et <operation> versez </operation> 1 l d' eau et laissez <operation> mijoter </operation> 1 h 30 . <operation ingredients="soupe"> passez </operation> la <ingredient action="passer"> soupe </ingredient> au mixeur et servez .
+</preparation>
+</recette>

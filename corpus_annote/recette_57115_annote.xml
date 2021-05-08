@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57115">
+<titre>Lapin à la facon de Lisette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 bon lapin de environ de 1,3 kg</p>
+<p>3 oignons</p>
+<p>2 carottes</p>
+<p>1 boite de tomates pelées</p>
+<p>1 boite de champignon coupé</p>
+<p>1 feuille de laurier</p>
+<p>sel et poivre</p>
+<p>de la farine</p>
+<p>un peu d'herbes de provence</p>
+<p>de la crème pour lier la sauce</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> couper </operation> le <ingredient action="couper" quantite="1"> lapin </ingredient> en morceaux . <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> , avant de <operation> précuire </operation> dans une <operation> poêle </operation> . <operation> saler </operation> , <operation> poivrer </operation> , laisser <operation> brunir </operation> de chaque côté . <operation> mettre </operation> dans une cocotte . dans cette <operation action="graisse" ingredients="graisse"> graisse </operation> <operation ingredients="oignons;carottes;tomates"> mettre </operation> les <ingredient action="mettre" quantite="3"> oignons </ingredient> , les <ingredient action="mettre" quantite="2"> carottes </ingredient> et les <ingredient action="mettre"> tomates </ingredient> <operation> pelées </operation> . les <operation ingredients="lapin"> verser </operation> sur les morceaux de <ingredient action="verser" quantite="1"> lapin </ingredient> . <operation ingredients="champignons;laurier"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> , les herbes de provence et la feuille de <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . laisser <operation> mijoter </operation> 1 h 30 . sortir le <ingredient quantite="1"> lapin </ingredient> , <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite=""> crème </ingredient> et <operation> lier </operation> la sauce . servir avec des frites .
+</preparation>
+</recette>

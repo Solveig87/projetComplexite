@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81393">
+<titre>Carrés de poisson au camembert et tomates façon Philippe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 carrés de poisson surgelé</p>
+<p>2 tomates</p>
+<p>1 oignon</p>
+<p>1 camembert</p>
+<p>un peu de vin blanc (facultatif)</p>
+</ingredients>
+<preparation>
+dans un plat <operation> passant </operation> au four , <operation ingredients="carrés"> disposer </operation> les <ingredient action="disposer" quantite="8"> carrés </ingredient> de poisson . sur chacun , <operation ingredients="oignon"> émincer </operation> de l' <ingredient action="émincer" quantite="1"> oignon </ingredient> , et une rondelle de <ingredient quantite="2"> tomate </ingredient> . <operation ingredients="camembert"> poser </operation> sur chacun une petite tranche de <ingredient action="poser" quantite="1"> camembert </ingredient> . <operation ingredients="vin;vin"> verser </operation> dans le plat un verre de <ingredient action="verser"> vin </ingredient> blanc ( facultatif , puisque c' est bon aussi sans le <ingredient action="verser"> vin </ingredient> blanc ) . <operation> enfourner </operation> pour 20 minutes environ à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22308">
+<titre>Fish and Chips (la vraie pâte à friture anglaise)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 verre de farine</p>
+<p>1 verre de "bonne" bière</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+prendre comme <operation> mesure </operation> un verre de 25 cl . <operation ingredients="farine;bière"> mélangez </operation> la <ingredient action="mélanger" quantite="1 verre"> farine </ingredient> et la <ingredient action="mélanger" quantite="1 verre"> bière </ingredient> . <operation ingredients="oeuf;oeuf"> ajoutez </operation> le jaune d' <ingredient action="ajouter" quantite="2"> oeuf </ingredient> , puis le blanc d' <ingredient action="ajouter" quantite="2"> oeuf </ingredient> <operation> monté </operation> en neige ferme en soulevant la masse pour ne pas le " casser " . la <ingredient> pâte </ingredient> à fish and <ingredient> chips </ingredient> est prête . <operation ingredients="poisson"> trempez </operation> les filets de <ingredient action="trempez" quantite="2"> poisson </ingredient> généreusement et faites <operation> frire </operation> à 160 <operation> ° </operation> c ou 180 <operation> ° </operation> c pendant 3 ou 4 min . cette <ingredient> pâte </ingredient> est tout simplement délicieuse , et très croustillante grâce aux blancs d' <ingredient quantite="2"> oeufs </ingredient> ! n' hésitez pas à servir les filets de <ingredient quantite="2"> poisson </ingredient> avec de belles frites dorées ! ce n' est que meilleur ! <ingredient quantite="1 verre"> bière </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223925">
+<titre>Quinoa et ses petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de quinoa</p>
+<p>2 carottes</p>
+<p>1 courgette</p>
+<p>1 grosse tomate</p>
+<p>1 grosse échalote</p>
+<p>2 gousses d'ail</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalote;ail;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="2;1;1"> légumes </ingredient> <operation> coupés </operation> en petits dés . laisser <operation> cuire </operation> en <operation> couvrant </operation> et en <operation> ajoutant </operation> de l' eau si besoin . pendant ce temps , faire <operation ingredients="quinoa"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> quinoa </ingredient> séparément dans de l' eau environ 15 min jusqu' à ce que chaque grain est libéré son germe blanc . lorsque tout est <operation> cuit </operation> , <operation ingredients="quinoa"> égoutter </operation> le <ingredient action="égoutter" quantite="200 gramme"> quinoa </ingredient> et l' <operation ingredients="légumes"> ajouter </operation> aux <ingredient action="ajouter" quantite="2;1;1"> légumes </ingredient> . on peut <operation ingredients="beurre"> mettre </operation> un morceau de <ingredient action="mettre"> beurre </ingredient> et <operation> assaisonner </operation> .
+</preparation>
+</recette>

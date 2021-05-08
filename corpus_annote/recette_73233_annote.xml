@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73233">
+<titre>Poulet aux poivrons façon tajine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 beaux morceaux de poulet (cuisse)</p>
+<p>1 poivron vert grillé</p>
+<p>1 poivron rouge grillé</p>
+<p>1 oignon</p>
+<p>épices à tajine (14 épices)</p>
+<p>1 cuillère à soupe de sucre roux</p>
+<p>semoule</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;huile"> faire </operation> <operation> rissoler </operation> le <ingredient action="faire"> poulet </ingredient> dans l' <ingredient action="faire" quantite=""> huile </ingredient> d' olive puis <operation ingredients="épices"> saupoudrer </operation> généreusement d' <ingredient action="saupoudrer" quantite=""> épices </ingredient> à tajine . <operation ingredients="poivrons;oignon"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> <operation> épépinés </operation> et <operation> épluchés </operation> , <operation> tailler </operation> en lamelles , ainsi que l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , en larges rondelles . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> sucre </ingredient> roux et laisser suer 10 min . <operation> couvrir </operation> d' eau froide et laisser <operation> mijoter </operation> jusqu' à réduction . les <ingredient> poivrons </ingredient> et l' <ingredient quantite="1"> oignon </ingredient> doivent être <operation> réduits </operation> presque en purée et le <ingredient> jus </ingredient> doit être bien jaune . <operation ingredients="semoule;légumes"> cuire </operation> la <ingredient action="cuire" quantite=""> semoule </ingredient> , y faire un puits et <operation ingredients="viande"> placer </operation> la <ingredient action="placer"> viande </ingredient> , les <ingredient action="cuire" quantite="1"> légumes </ingredient> et la sauce au centre . la principale particularité du tajine c' est qu' on peut y <operation> mettre </operation> ce que l' on veut , pourvu qu' il soit parfumé !
+</preparation>
+</recette>

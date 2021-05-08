@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24516">
+<titre>Aile de raie et beurre aux câpres</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de raie </p>
+<p>1 l de court-bouillon</p>
+<p>2 jaunes d'oeufs durs</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>2 cuillères à soupe de câpres</p>
+<p>1/2 citron</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raie"> cuire </operation> la <ingredient action="cuire" quantite="1 kilogramme"> raie </ingredient> au court-bouillon environ 20 min . <operation> égoutter </operation> , <operation> retirer </operation> la peau et <operation ingredients="raie"> réservez </operation> la <ingredient action="réserver" quantite="1 kilogramme"> raie </ingredient> au chaud . <operation ingredients="oeufs;persil"> écraser </operation> les jaunes d' <ingredient action="écraser"> oeufs </ingredient> à la fourchette avec le <ingredient action="écraser" quantite="2 cuillère à soupe"> persil </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> , les <ingredient quantite="2 cuillère à soupe"> câpres </ingredient> et le <ingredient> jus </ingredient> du citron . bien <operation> mélanger </operation> et <operation ingredients="raie"> napper </operation> la <ingredient action="napper" quantite="1 kilogramme"> raie </ingredient> de sauce .
+</preparation>
+</recette>

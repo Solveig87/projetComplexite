@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28201">
+<titre>Terrine d'épinards au torchon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g d'épinards</p>
+<p>120 g de fromage blanc épais</p>
+<p>100 g de parmesan râpé</p>
+<p>4 oeufs</p>
+<p>250 g de farine</p>
+<p>sel, poivre et noix muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="épinards;beurre"> fondre </operation> les <ingredient action="fondre" quantite="300 gramme"> épinards </ingredient> dans le <ingredient action="fondre"> beurre </ingredient> , les <operation> égoutter </operation> puis les <operation> hacher </operation> . <operation ingredients="fromage;parmesan;oeufs;épinards;sel;poivre;muscade"> mélanger </operation> le <ingredient action="mélanger" quantite="120 gramme"> fromage </ingredient> blanc avec le <ingredient action="mélanger" quantite="100 gramme"> parmesan </ingredient> , 2 <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , les <ingredient action="mélanger" quantite="300 gramme"> épinards </ingredient> , du <ingredient action="mélanger" quantite=""> sel </ingredient> , du <ingredient action="mélanger"> poivre </ingredient> et de la <ingredient action="mélanger"> muscade </ingredient> . <operation ingredients="farine;oeufs"> malaxer </operation> la <ingredient action="malaxer" quantite="250 gramme"> farine </ingredient> avec les <ingredient action="malaxer" quantite="4"> oeufs </ingredient> restant et un peu de <ingredient quantite=""> sel </ingredient> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> en rectangle et <operation> disposer </operation> le <operation> mélange </operation> dessus . <operation ingredients="pâte"> rouler </operation> la <ingredient action="rouler"> pâte </ingredient> de façon à <operation> former </operation> un boudin et <operation> envelopper </operation> dans un torchon pour éviter qu' il ne se défasse . <operation> ficeler </operation> les extrémités et faire <operation> cuire </operation> 1 heure dans l' eau bouillante <operation> salée </operation> et servir <operation> coupé </operation> en tranches .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55158">
+<titre>Rouleaux de brick au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 feuilles de brick</p>
+<p>500 g de thon</p>
+<p>75 cl de crème fraîche</p>
+<p>du fromage rapé</p>
+</ingredients>
+<preparation>
+<operation ingredients="brick"> plier </operation> la feuille de <ingredient action="plier" quantite="10 feuille"> brick </ingredient> en deux . <operation ingredients="crème"> etaler </operation> une couche de <ingredient action="etaler" quantite="75 cl"> crème </ingredient> fraîche , puis <operation ingredients="thon"> rajouter </operation> le <ingredient action="rajouter" quantite="500 gramme"> thon </ingredient> et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> fromage </ingredient> rapé . <operation> rouler </operation> cette préparation . recommencer avec les neuf autres . préchauffer le four et faire <operation> cuire </operation> 20 min à 180 <operation> ° </operation> c ( th . 6 ) sur la <operation> plaque </operation> du four . déguster chaud . vous pouvez remplacer le <ingredient quantite="500 gramme"> thon </ingredient> par du <ingredient> saumon </ingredient> <ingredient> fumé </ingredient> . vin blanc
+</preparation>
+</recette>

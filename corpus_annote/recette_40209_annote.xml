@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40209">
+<titre>Bressiflette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>400 g d'escalopes de volaille</p>
+<p>150 g de lard fumé</p>
+<p>2 Bresse Bleu</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>30 g de beurre</p>
+<p>10 cl de crème liquide</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre sans les <operation> éplucher </operation> dans de l' eau bouillante <operation> salée </operation> . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . pendant ce temps , faire <operation ingredients="beurre;lard"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> avec le <ingredient action="fondre"> lard </ingredient> préalablement <operation ingredients="lardons"> coupé </operation> en <ingredient action="couper"> lardons </ingredient> et faire <operation ingredients="volaille"> revenir </operation> la <ingredient action="revenir"> volaille </ingredient> <operation> coupée </operation> en dés . dès que la <ingredient quantite="400 gramme"> viande </ingredient> est dorée , <operation ingredients="oignon;ail"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> <operation> émincés </operation> . <operation> poivrer </operation> et poursuivre la cuisson quelques minutes . <operation> beurrer </operation> un plat à four et y <operation ingredients="pommes"> déposer </operation> les <ingredient action="déposer" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> épluchées </operation> et <operation> coupées </operation> en rondelles . <operation> mettre </operation> par dessus le <operation> mélange </operation> volaille - <ingredient> lardons </ingredient> . <operation ingredients="fromage"> recouvrir </operation> du <ingredient action="recouvrir"> fromage </ingredient> <operation> gratté </operation> et <operation> coupé </operation> en petits dés . <operation> mettre </operation> le plat au four pour 20 min en <operation ingredients="crème"> arrosant </operation> à mi-cuisson de <ingredient action="arroser" quantite="10 cl"> crème </ingredient> liquide . servir avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

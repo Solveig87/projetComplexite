@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47940">
+<titre>Salade d'endives au comté,  pommes et avocats</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 endives</p>
+<p>150 g de comté</p>
+<p>2 avocats</p>
+<p>2 ou 3 pommes granny selon la taille</p>
+<p>Pour l'assaisonnement : </p>
+<p>1 cuillère à café de moutarde</p>
+<p>huile d'olive</p>
+<p>vinaigre de noix</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="5"> endives </ingredient> en lamelles , les <operation> mettre </operation> dans un saladier . <operation ingredients="comté"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> comté </ingredient> <operation ingredients="pommes;avocats"> coupé </operation> en petits cubes , les <ingredient action="couper" quantite="2"> pommes </ingredient> et les <ingredient action="couper" quantite="2"> avocats </ingredient> <operation> coupés </operation> en dés . au moment de servir , <operation> incorporer </operation> la vinaigrette . <ingredient> salade </ingredient> à faire au dernier moment pour ne pas que les <ingredient action="noircir" quantite="2"> avocats </ingredient> et les <ingredient action="noircir" quantite="2"> pommes </ingredient> ne <operation ingredients="avocats;pommes"> noircissent </operation> . on peut y <operation ingredients="noix"> ajouter </operation> des <ingredient action="ajouter"> noix </ingredient> . vin blanc sec du jura
+</preparation>
+</recette>

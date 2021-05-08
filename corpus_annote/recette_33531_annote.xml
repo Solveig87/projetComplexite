@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33531">
+<titre>Saumon au miel et sésame</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de saumon</p>
+<p>miel liquide</p>
+<p>graines de sésame</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;sésame"> enduire </operation> le <ingredient action="enduire"> saumon </ingredient> de miel puis de graines de <ingredient action="enduire"> sésame </ingredient> . le faire <operation> cuire </operation> 4 mn sur chaque face dans une <operation> poêle </operation> anti-adhésive . <operation ingredients="pavés"> retirer </operation> les <ingredient action="retirer" quantite="4"> pavés </ingredient> de la <operation> poêle </operation> et <operation> verser </operation> 4 cuillères à soupe de crème fraîche . <operation ingredients="pavés"> napper </operation> les <ingredient action="napper" quantite="4"> pavés </ingredient> de cette sauce , servir avec une <ingredient> pomme </ingredient> <operation> cuite </operation> <operation> saupoudrée </operation> de <ingredient> cannelle </ingredient> .
+</preparation>
+</recette>

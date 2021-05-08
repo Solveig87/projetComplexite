@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88151">
+<titre>Poivrons et tomates farcis au riz et jambon de Bayonne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 g de riz</p>
+<p>2 poivrons</p>
+<p>2 tomates</p>
+<p>120 g de jambon de Bayonne</p>
+<p>60 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="120 gramme"> jambon </ingredient> en dés . <operation ingredients="riz;non"> cuire </operation> le <ingredient action="cuire" quantite="60 gramme"> riz </ingredient> dans eau bouillante <ingredient action="cuire"> non </ingredient> <operation> salée </operation> . quand le <ingredient action="cuire" quantite="60 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , le <operation> rincer </operation> et l' <operation> égoutter </operation> puis le <operation ingredients="jambon;fromage"> mélanger </operation> avec le <ingredient action="mélanger" quantite="120 gramme"> jambon </ingredient> et le <ingredient action="mélanger"> fromage </ingredient> . <operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="2;2"> légumes </ingredient> , les <operation> couper </operation> en 2 et les <operation> épépiner </operation> . <operation ingredients="légumes"> farcir </operation> les <ingredient action="farcir" quantite="2;2"> légumes </ingredient> , les <operation> déposer </operation> dans un plat et les <operation> couvrir </operation> d' une feuille d' aluminium . <operation> cuire </operation> 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> découvrir </operation> en fin de cuisson .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16932">
+<titre>Boeuf miroton</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de boeuf cuit (reste de Pot-Au-Feu)</p>
+<p>150 g de poitrine de porc fraîche</p>
+<p>2 oignons</p>
+<p>2 tomates</p>
+<p>6 cornichons au vinaigre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>1 cuillère à café de farine tamisée</p>
+<p>15 cl de bouillon de pot-au-feu</p>
+<p>7.5 cl de vin blanc sec</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poitrine;lardons"> couper </operation> la <ingredient action="couper" quantite="150 gramme"> poitrine </ingredient> en petits <ingredient action="couper"> lardons </ingredient> , le <ingredient action="éplucher" quantite="600 gramme"> boeuf </ingredient> en lamelles régulières , les <ingredient action="éplucher" quantite="2"> tomates </ingredient> en petits cubes après épluchage et épépinage et les <ingredient action="éplucher" quantite="6"> cornichons </ingredient> en rondelles , <operation ingredients="boeuf;tomates;cornichons;oignons"> éplucher </operation> et <operation> émincer </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> . <operation> réserver </operation> le tout . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer"> farine </ingredient> , <operation> mélanger </operation> le tout , <operation ingredients="bouillon"> verser </operation> <ingredient action="verser" quantite="15 cl"> bouillon </ingredient> et vin blanc puis laisser prendre la sauce . <operation ingredients="tomates;cornichons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> , le <operation> concentré </operation> , les <ingredient action="ajouter" quantite="6"> cornichons </ingredient> , puis <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="boeuf"> répartir </operation> le <ingredient action="répartir" quantite="600 gramme"> boeuf </ingredient> dans un plat allant au four , <operation> couvrir </operation> de la sauce et <operation> cuire </operation> 45 mn à four moyen à 160 <operation> ° </operation> c. nb : on peut aussi ( si on aime ) le faire <operation ingredients="chapelure;beurre"> gratiner </operation> avec de la <ingredient action="gratiner"> chapelure </ingredient> et du <ingredient action="gratiner"> beurre </ingredient> <operation> fondu </operation> .
+</preparation>
+</recette>

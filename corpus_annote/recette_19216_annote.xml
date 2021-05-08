@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19216">
+<titre>Filet de saumon en waterzooi</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>1 sachet de 500 g de julienne de légumes frais</p>
+<p>2 cubes de bouillon de poisson</p>
+<p>4 filets de saumon</p>
+<p>1 cuillère à soupe de farine</p>
+<p>2 dl de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon"> blanchir </operation> 1 <ingredient action="blanchir" quantite="1"> oignon </ingredient> haché . <operation ingredients="légumes"> ajoutez </operation> 1 sachet de 500 g de julienne de <ingredient action="ajouter" quantite="1;2 dl"> légumes </ingredient> . <operation> couvrez </operation> d' eau et <operation ingredients="bouillon"> ajoutez </operation> 2 cubes de <ingredient action="ajouter"> bouillon </ingredient> de poisson . laissez <operation> mijoter </operation> 20 mn . <operation ingredients="saumon"> salez </operation> et <operation> poivrez </operation> les 4 filets de <ingredient action="saler"> saumon </ingredient> et <operation> ajoutez </operation> - les dans la casserole et prolongez la cuisson de 10 mn . <operation ingredients="crème"> délayez </operation> 1 cuillère à soupe de farine dans 2 dl de <ingredient action="délayez" quantite="2 dl"> crème </ingredient> fraîche . <operation> versez </operation> - les dans la préparation et <operation> mélangez </operation> . <operation ingredients="poisson;pommes"> accompagnez </operation> ce waterzooi de <ingredient action="accompagner"> poisson </ingredient> de riz ou de <ingredient action="accompagner"> pommes </ingredient> frites . bon appétit ! <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

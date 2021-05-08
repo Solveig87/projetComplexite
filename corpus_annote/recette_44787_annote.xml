@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44787">
+<titre>Curry de poisson épicé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>environ 400 g de poissons : saumon, colin et limande (vendus ensemble prédécoupés et congelés)</p>
+<p>200 g de tomates concassées</p>
+<p>2 carottes</p>
+<p>3 gousses d'ail</p>
+<p>200 ml de lait de coco</p>
+<p>1 bouillon de légume</p>
+<p>1 cuillère à soupe de pâte de curry rouge (ou moins, si trop piquant)</p>
+<p>1 cuillère à café de curcuma</p>
+<p>1 cuillère à café de cumin</p>
+<p>1 cuillère à soupe de coriandre fraîche ciselée</p>
+<p>2 cuillère à soupe d'huile d'arachide</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;bouillon"> décongeler </operation> le <ingredient action="décongeler" quantite=""> poisson </ingredient> ( ici déjà en morceaux ) dans de l' eau chaude , avec le <ingredient action="décongeler" quantite="1"> bouillon </ingredient> de légume . <operation ingredients="carottes"> peler </operation> les <ingredient action="peler" quantite="2"> carottes </ingredient> . a l' aide d' un économe , <operation ingredients="carottes"> faire </operation> des lamelles de <ingredient action="faire" quantite="2"> carottes </ingredient> , et les <operation> couper </operation> ensuite en petits morceaux ( environ 1 cm ) . dans une <operation> poêle </operation> ( ou un wok ) , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> . lorsqu' elle est bien chaude , <operation ingredients="ail;curry"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> curry </ingredient> . faire <operation> sauter </operation> 1 min . ensuite , <operation ingredients="tomates;carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> tomates </ingredient> et les <ingredient action="ajouter" quantite="2"> carottes </ingredient> . 2 min après , <operation ingredients="poisson;lait;coriandre;épices"> ajouter </operation> le <ingredient action="ajouter" quantite=""> poisson </ingredient> , le <ingredient action="ajouter"> lait </ingredient> de coco , la <ingredient action="ajouter" quantite="1 cuillère à soupe"> coriandre </ingredient> et les <ingredient action="ajouter" quantite="3;1 cuillère à café;1 cuillère à café;1 cuillère à soupe;2 cuillère à soupe;"> épices </ingredient> . <operation ingredients="riz"> laisser </operation> le plat <operation> mijoter </operation> pendant la cuisson du <ingredient action="laisser"> riz </ingredient> ( environ 10 min ) . et servir , <operation ingredients="coriandre"> accompagné </operation> de feuilles de <ingredient action="accompagner" quantite="1 cuillère à soupe"> coriandre </ingredient> . rosé
+</preparation>
+</recette>

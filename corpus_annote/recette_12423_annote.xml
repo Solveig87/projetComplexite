@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12423">
+<titre>Lapin frit au riz</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>1 tomate</p>
+<p>du sel</p>
+<p>150 g de riz</p>
+<p>huile</p>
+<p>1 poivron rouge</p>
+<p>eau</p>
+</ingredients>
+<preparation>
+on <operation> coupe </operation> le <ingredient action="frire" quantite="1"> lapin </ingredient> en petit morceaux , et on le fait <operation ingredients="lapin"> frire </operation> dans l´huile . après on ajoute au <ingredient quantite="1"> lapin </ingredient> la tomate et le <ingredient> poivron </ingredient> rouge , et on fait tout <operation> frire </operation> . on <operation ingredients="sel;lapin"> verse </operation> du <ingredient action="verse" quantite=""> sel </ingredient> sur le <ingredient action="verse" quantite="1"> lapin </ingredient> , puis on le fait <operation> cuire </operation> avec les autres ingrédients pendant trente minutes . on trnsfère le <ingredient quantite="1"> lapin </ingredient> dans une grande <operation> poêle </operation> , on ajoute de l´eau ( un verre d´eau par tasse de <ingredient quantite="150 gramme"> riz </ingredient> ) et quand l´eau bout , on <operation ingredients="riz"> verse </operation> le <ingredient action="verse" quantite="150 gramme"> riz </ingredient> . laisser <operation> cuire </operation> 20 mn , puis servir chaud . recette d´hellin , en espagne <ingredient> vin </ingredient> rouge d´albatana ( albacete )
+</preparation>
+</recette>

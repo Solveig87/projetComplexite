@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42587">
+<titre>Choux de Bruxelles au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de choux de Bruxelles</p>
+<p>4 tranches de jambon</p>
+<p>250 g de lardons</p>
+<p>1 oignon</p>
+<p>1 tomate</p>
+<p>gruyère râpé</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="choux"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> choux </ingredient> de bruxelles ( 12 min à la cocotte minute , dès que la soupape s' est soulevée ) . <operation ingredients="lardons;oignon"> faire </operation> <operation> rissoler </operation> les <ingredient action="faire" quantite="250 gramme"> lardons </ingredient> avec l' <ingredient action="faire" quantite="1"> oignon </ingredient> <operation> émincé </operation> . dans un plat allant au four , <operation> verser </operation> 1 cuillère à soupe d' huile d' olive , puis <operation ingredients="jambon"> tapisser </operation> de 2 tranches de <ingredient action="tapisser" quantite="4 tranche"> jambon </ingredient> . <operation ingredients="tomate"> etaler </operation> ensuite la <ingredient action="etaler" quantite="1"> tomate </ingredient> , préalablement <operation> coupée </operation> en tranche . <operation ingredients="choux;lardons;oignon"> déposer </operation> ensuite les <ingredient action="déposer" quantite="1 kilogramme"> choux </ingredient> de bruxelles , puis les <ingredient action="déposer" quantite="250 gramme"> lardons </ingredient> et l' <ingredient action="déposer" quantite="1"> oignon </ingredient> . <operation ingredients="jambon"> couvrir </operation> des deux autres tranches de <ingredient action="couvrir" quantite="4 tranche"> jambon </ingredient> , et <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> râpé . faire <operation> gratiner </operation> au four ( environ 180 <operation> ° </operation> c - thermostat 6 ) , pendant environ 15 min . un plat qui permet enfin , de faire <ingredient> manger </ingredient> des choux de bruxelles aux enfants . . . avec plaisir ! .
+</preparation>
+</recette>

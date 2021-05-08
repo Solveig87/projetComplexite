@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62108">
+<titre>Pain perdu du matin au chocolat et épices</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>1 oeuf</p>
+<p>5 cl de lait demi écrémé</p>
+<p>5 cl de crème fraîche</p>
+<p>1 cuillère à soupe de cacao en poudre (ou plus pour les amoureux du chocolat)</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>1 cuillère à café de canelle et gingembre en poudre</p>
+<p>un peu de beurre pour la poêle</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeuf;lait"> mettre </operation> l' <ingredient action="mettre" quantite="1"> oeuf </ingredient> , le <ingredient action="mettre" quantite="5 cl"> lait </ingredient> , la <ingredient quantite="5 cl"> crème </ingredient> , les <ingredient> épices </ingredient> , le <ingredient quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient quantite="1 cuillère à soupe"> cacao </ingredient> et bien <operation> mélanger </operation> . dans un <operation> poêle </operation> antiadhésive , faire <operation ingredients="beurre"> chauffer </operation> un peu de <ingredient action="chauffer"> beurre </ingredient> . <operation ingredients="pain"> tremper </operation> les tranches de <ingredient action="tremper" quantite="8 tranche"> pain </ingredient> de mie dans la préparation du saladier ( il faut qu' elles soient bien <operation> imbibées </operation> ) . les <operation> cuires </operation> jusqu' à ce qu' elles soient joliment <operation> colorées </operation> . délicieux au petit déjeuner pour toute la famille ! ! possibilité de le servir avec un coulis de <ingredient> chocolat </ingredient> <operation ingredients="fruits"> fondu </operation> ou quelques <ingredient action="fondre"> fruits </ingredient> de saison .
+</preparation>
+</recette>

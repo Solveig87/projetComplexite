@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66170">
+<titre>Oeufs cocottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>1 tranche de jambon</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> beurrer </operation> un ramequin . <operation ingredients="jambon"> couper </operation> la tranche de <ingredient action="couper" quantite="1 tranche"> jambon </ingredient> en 2 puis <operation> déposer </operation> les 2 morceaux dans le ramquin . y <operation ingredients="oeuf"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> . <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> crème </ingredient> fraîche . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> pour terminer . <operation> enfourner </operation> et surveiller la cuisson .
+</preparation>
+</recette>

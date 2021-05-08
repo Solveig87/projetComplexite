@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63133">
+<titre>Curry de poulet à la thaïlandaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>175 g de riz basmati</p>
+<p>2 gousses d'ail finement hachées</p>
+<p>2 cuillères à soupe de pâte de curry</p>
+<p>2 cuillères à café de poudre de curry</p>
+<p>1 petit piment rouge finement coupé</p>
+<p>200 g de filet de poulet coupé en lanières</p>
+<p>1 cuillère à soupe de sauce soja claire</p>
+<p>1 cuillère à soupe de sauce de poisson thailandaise (nam pla)</p>
+<p>1 cuillère à café de sucre</p>
+<p>1 échalote finement émincée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="175 gramme"> riz </ingredient> . laisser refroidir . faire <operation ingredients="huile;pâte"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans un wok , y faire <operation ingredients="ail"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> , la <ingredient action="chauffer" quantite="2 cuillère à soupe"> pâte </ingredient> de curry et le piment pendant 2 minutes en <operation> remuant </operation> . <operation ingredients="curry;poulet"> ajouter </operation> la <operation> poudre </operation> de <ingredient action="ajouter"> curry </ingredient> et le <ingredient action="ajouter"> poulet </ingredient> , faire <operation> sauter </operation> le tout en <operation> remuant </operation> pendant 5 minutes . <operation ingredients="riz;poisson;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="175 gramme"> riz </ingredient> en <operation ingredients="soja"> incorporant </operation> la sauce <ingredient action="incorporer" quantite="1 cuillère à soupe"> soja </ingredient> , la sauce de <ingredient action="ajouter" quantite="1 cuillère à soupe"> poisson </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à café"> sucre </ingredient> . faire <operation> chauffer </operation> tous les ingrédients en <operation> mélangeant </operation> bien . <operation ingredients="échalote"> saupoudrer </operation> le plat d' <ingredient action="saupoudrer"> échalote </ingredient> <operation> ciselée </operation> . servir aussitôt . les <ingredient> produits </ingredient> tels que la <ingredient quantite="2 cuillère à soupe"> pâte </ingredient> de curry et les sauces se trouvent dans les rayons asiatiques des grandes surfaces . . .
+</preparation>
+</recette>

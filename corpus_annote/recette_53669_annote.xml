@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53669">
+<titre>Filets de poulet à la marocaine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet</p>
+<p>2 oranges</p>
+<p>1 citron</p>
+<p>3 cuillères à soupe de miel liquide</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail </p>
+<p>30 cl de bouillon de poulet</p>
+<p>1/2 cuillère à café de curcuma</p>
+<p>1/2 cuillère à café de gingembre</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+<p>maïzena</p>
+<p>100 g d'olives noires</p>
+</ingredients>
+<preparation>
+<operation ingredients="orange;citron"> presser </operation> une <ingredient action="presser" quantite="2"> orange </ingredient> et un <ingredient action="presser" quantite="1"> citron </ingredient> , puis <operation ingredients="jus"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> au miel . <operation ingredients="poulet"> verser </operation> le <operation> mélange </operation> sur le <ingredient action="verser"> poulet </ingredient> et laisser <operation> mariner </operation> plusieurs heures . <operation> emincer </operation> l’ <ingredient action="frire" quantite="1"> oignon </ingredient> et l’ <ingredient action="frire"> ail </ingredient> et les faire <operation ingredients="oignon;ail;huile"> frire </operation> dans l’ <ingredient action="frire" quantite=""> huile </ingredient> d’ olive . <operation ingredients="oignon;ail"> enlever </operation> l’ <ingredient action="enlever" quantite="1"> oignon </ingredient> et l’ <ingredient action="enlever"> ail </ingredient> et faire <operation ingredients="poulet"> brunir </operation> le <ingredient action="brunir"> poulet </ingredient> <operation ingredients="poulet"> mettre </operation> le <ingredient action="mettre"> poulet </ingredient> dans un plat à four . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="30 cl"> bouillon </ingredient> dessus , <operation ingredients="épices;sel"> rajouter </operation> la marinade , les <ingredient action="rajouter" quantite="1;;"> épices </ingredient> et le <ingredient action="rajouter" quantite=""> sel </ingredient> et poivre . <operation> couvrir </operation> le plat et <operation> mettre </operation> au four pendant 1 / 2 h. <operation ingredients="orange"> peler </operation> l’ <ingredient action="peler" quantite="2"> orange </ingredient> et <operation ingredients="olives"> faire </operation> des tranches et <operation ingredients="poulet"> rajouter </operation> au <ingredient action="rajouter"> poulet </ingredient> avec les <ingredient action="faire" quantite="100 gramme"> olives </ingredient> . si la sauce est trop liquide , l’ <operation ingredients="maïzena"> épaissir </operation> avec de la <ingredient action="épaissir" quantite=""> maïzena </ingredient> .
+</preparation>
+</recette>

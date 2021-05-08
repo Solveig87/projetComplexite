@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92455">
+<titre>Figues sur coulis de banane miel-cannelle</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 figues- 2 bananes mûres- 50g de noix de coco râpée- 2 cuillerées à soupes de miel- 1 cuillère à café de cannelle en poudre- 1 citron- 400 ml d'eau- 8 bâtons de cannelle (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="miel;cannelle"> bouillir </operation> l' eau avec le <ingredient action="bouillir"> miel </ingredient> et la <ingredient action="bouillir" quantite="1 cuillère à café"> cannelle </ingredient> en <operation> poudre </operation> pendant 10 minutes . <operation ingredients="bananes"> découper </operation> les <ingredient action="découper" quantite="2"> bananes </ingredient> en rondelles et les <operation ingredients="sirop;jus"> ajouter </operation> dans le <ingredient action="ajouter"> sirop </ingredient> avec le <ingredient action="ajouter"> jus </ingredient> de citron . <operation> cuire </operation> 10 minutes . <operation> mixer </operation> . <operation> réserver </operation> au frais pendant 2 heures . <operation ingredients="figues"> laver </operation> les <ingredient action="laver" quantite="8"> figues </ingredient> . <operation ingredients="fruits"> couper </operation> la base des <ingredient action="couper" quantite="8;2;50 gramme"> fruits </ingredient> . les <operation> couper </operation> en quartiers . <operation ingredients="banane"> déposer </operation> du coulis de <ingredient action="déposer" quantite="2"> banane </ingredient> dans chaque assiette individuelle . <operation ingredients="figues"> déposer </operation> au centre 8 quartiers de <ingredient action="déposer" quantite="8"> figues </ingredient> . <operation ingredients="cannelle;noix"> décorer </operation> avec un bâton de <ingredient action="décorer" quantite="1 cuillère à café"> cannelle </ingredient> ainsi que la <ingredient action="décorer" quantite="50 gramme"> noix </ingredient> de coco <operation> râpée </operation> .
+</preparation>
+</recette>

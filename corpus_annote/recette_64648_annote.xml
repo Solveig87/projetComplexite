@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64648">
+<titre>Scarole au chèvre frais et au cerfeuil</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade (scarole)</p>
+<p>1 botte de cerfeuil frais</p>
+<p>1/2 gousse d'ail</p>
+<p>1 crottin de Chavignol</p>
+<p>1 cuillère à soupe de jus de citron</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> préparez </operation> la <ingredient action="préparer" quantite="1"> salade </ingredient> et <operation> émincez </operation> - la finement dans le sens de la longueur . <operation ingredients="cerfeuil"> hacher </operation> le <ingredient action="hacher"> cerfeuil </ingredient> et <operation> émincez </operation> le chévre sur 1 cm de largeur . <operation ingredients="ail"> mixez </operation> l' <ingredient action="mixez"> ail </ingredient> et <operation ingredients="jus;huile;sel;poivre"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="1 cuillère à soupe"> jus </ingredient> de citron , l' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation ingredients="salade"> mélangez </operation> le tout à la <ingredient action="mélanger" quantite="1"> salade </ingredient> . <operation ingredients="chèvre;salade;cerfeuil"> ajoutez </operation> le <ingredient action="ajouter"> chèvre </ingredient> par dessus la <ingredient action="ajouter" quantite="1"> salade </ingredient> puis le <ingredient action="ajouter"> cerfeuil </ingredient> haché .
+</preparation>
+</recette>

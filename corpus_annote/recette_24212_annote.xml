@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24212">
+<titre>Tarte feuilletée verte et rouge</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouleau de pâte feuilletée pur beurre</p>
+<p>1 pot de pesto tout prêt (env 150 g) </p>
+<p>1 grosse poignée de roquette</p>
+<p>3 tomates de taille moyenne</p>
+<p>du parmesan en morceaux</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="pesto;roquette"> mixer </operation> le <ingredient action="mixer"> pesto </ingredient> avec la <ingredient action="mixer"> roquette </ingredient> . 2 ) <operation ingredients="pâte"> etaler </operation> le <operation> mélange </operation> sur la <ingredient action="etaler"> pâte </ingredient> feuilletée en laissant 1 cm sur le tour poor <operation ingredients="pâte"> replier </operation> le bord de la <ingredient action="replier"> pâte </ingredient> . 3 ) <operation ingredients="tomates"> plonger </operation> les <ingredient action="plonger" quantite="3"> tomates </ingredient> dans l' eau bouillante pour les <operation> éplucher </operation> et les <operation> couper </operation> en rondelles . les <operation> mettre </operation> à <operation> égoutter </operation> sur du papier absorbant afin qu' elles perdent le maximum d' eau . 4 ) <operation ingredients="tomates;pâte;pesto"> disposer </operation> les <ingredient action="disposer" quantite="3"> tomates </ingredient> sur la <ingredient action="disposer"> pâte </ingredient> et le <ingredient action="disposer"> pesto </ingredient> . 5 ) <operation> mettre </operation> au four 20 mn à 180 <operation> ° </operation> c. 6 ) quand c' est prêt <operation ingredients="parmesan"> couper </operation> de fines tranches de <ingredient action="couper" quantite=""> parmesan </ingredient> que vous <operation ingredients="tarte"> parsèmerez </operation> sur la <ingredient action="parsemer"> tarte </ingredient> .
+</preparation>
+</recette>

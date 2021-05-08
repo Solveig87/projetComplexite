@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44594">
+<titre>Muffins aux amandes et à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>220 g d’amandes en poudre</p>
+<p>220 g de sucre</p>
+<p>1 dl d’eau</p>
+<p>4 oeufs</p>
+<p>100 g de beurre</p>
+<p>55 g de farine</p>
+<p>1/2 sachet de levure</p>
+</ingredients>
+<preparation>
+dans une jatte , <operation ingredients="amandes;sucre"> pétrir </operation> la <operation> poudre </operation> d’ <ingredient action="pétrir"> amandes </ingredient> avec le <ingredient action="pétrir" quantite="220 gramme"> sucre </ingredient> et l’ eau . <operation ingredients="oeufs;beurre;farine;levure"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> un par un , puis le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> , la <ingredient action="ajouter" quantite="55 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . laisser <operation ingredients="pâte"> reposer </operation> la <ingredient action="reposer"> pâte </ingredient> 1 h au réfrigérateur . <operation> disposer </operation> dans les <operation> moules </operation> à muffins . <operation ingredients="ananas;pomme"> poser </operation> ensuite quelques morceaux d’ <ingredient action="poser"> ananas </ingredient> ( ou à défaut <ingredient action="poser"> pomme </ingredient> , poire ou abricot . . . ) sur chacun d’ eux . faire <operation> cuire </operation> environ 10 min au four préchauffé à 240 <operation> ° </operation> c ( th 8) . laisser refroidir avant de servir .
+</preparation>
+</recette>

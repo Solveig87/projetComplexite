@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15288">
+<titre>Grâtin de pâtes aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes (par exemple de penne)</p>
+<p>1/2 à 3/4 l de lait</p>
+<p>30g de beurre ou de margarine</p>
+<p>30 g de farine</p>
+<p>300 g de champignons de Paris</p>
+<p>1 pot de sauce tomate (400 ou 500 g)</p>
+<p>fromage râpé (selon vos goûts)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> dans de l' eau <operation> salée </operation> . <operation> eplucher </operation> et <operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="300 gramme"> champignons </ingredient> . <operation ingredients="béchamel"> préparer </operation> la <ingredient action="préparer"> béchamel </ingredient> : faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> dans un casserolle , <operation ingredients="farine"> ajouter </operation> petit à petit la <ingredient action="ajouter" quantite="30 gramme"> farine </ingredient> et bien <operation> mélanger </operation> , <operation ingredients="lait"> ajouter </operation> progressivement le <ingredient action="ajouter"> lait </ingredient> en tournant pour éviter les grumeaux ( on peut utiliser un fouet ) . <operation> ajouter </operation> les champigons <operation> coupés </operation> en morceaux ( la sauce doit être moyennement liquide donc <operation ingredients="lait"> rajouter </operation> du <ingredient action="rajouter"> lait </ingredient> si elle est trop épaisse ) . <operation> ajouter </operation> la sauce tomate . dans un plat à gratin , <operation ingredients="pâtes"> verser </operation> les <ingredient action="verser" quantite="500 gramme"> pâtes </ingredient> et la sauce en tournant pour bien la <operation> répartir </operation> . <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer" quantite=""> fromage </ingredient> et <operation> mettre </operation> au four . le gratin doit être bien doré . les enfants et les adolescents adorent ça et c' est un plat complet et nourissant qui apporte du calcium et peu de <ingredient> graisse </ingredient> . et qui impressionne !
+</preparation>
+</recette>

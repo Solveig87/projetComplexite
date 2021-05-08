@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23143">
+<titre>Tagliatelles vertes aux olives et au fenouil</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de tagliatelles vertes</p>
+<p>2 bulbes de fenouil</p>
+<p>100 g d'olives noires</p>
+<p>1 poivron rouge</p>
+<p>25 cl de crème fraîche</p>
+<p>1 cuillère à soupe de pastis</p>
+<p>du parmesan</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . <operation ingredients="fenouil;poivron"> nettoyez </operation> le <ingredient action="nettoyer"> fenouil </ingredient> et le <ingredient action="nettoyer"> poivron </ingredient> , ébouillantez - les 5 min , <operation> égouttez </operation> et <operation> émincez </operation> - les en fines lamelles . faites <operation ingredients="crème;fenouil;pastis"> chauffer </operation> la <ingredient action="chauffer" quantite="25 cl"> crème </ingredient> avec les lamelles de <ingredient action="chauffer"> fenouil </ingredient> , le <ingredient action="chauffer" quantite="1 cuillère à soupe"> pastis </ingredient> , environ 10 min . <operation> assaisonnez </operation> . <operation> egouttez </operation> les <ingredient action="mélanger"> pâtes </ingredient> , <operation ingredients="pâtes;fenouil"> mélangez </operation> - les à la sauce au <ingredient action="mélanger"> fenouil </ingredient> , <operation ingredients="olives;poivron"> ajoutez </operation> les <ingredient action="ajouter" quantite="100 gramme"> olives </ingredient> et les lamelles de <ingredient action="ajouter"> poivron </ingredient> . <operation ingredients="parmesan"> accompagnez </operation> de <ingredient action="accompagner" quantite=""> parmesan </ingredient> en copeaux ou fraîchement râpé .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52223">
+<titre>Gratin de poulet à la mozzarella</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de blancs de poulet</p>
+<p>1 grand poivron rouge</p>
+<p>10 cl de crème liquide</p>
+<p>20 cl d'eau</p>
+<p>1 paquet de soupe "velours de tomates à la mozzarella"</p>
+<p>100g de mozzarella</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> , <operation ingredients="poulet"> poivrez </operation> le <ingredient action="poivrer"> poulet </ingredient> , puis <operation> disposez </operation> - le dans un plat à gratin . <operation ingredients="poulet"> ajoutez </operation> sur le <ingredient action="ajouter"> poulet </ingredient> le poivron <operation> coupé </operation> en dés . <operation ingredients="soupe;crème"> mélangez </operation> le sachet de <ingredient action="mélanger"> soupe </ingredient> avec la <ingredient action="mélanger" quantite="10 cl"> crème </ingredient> et l' eau , et <operation ingredients="poulet"> versez </operation> le tout sur le <ingredient action="verser"> poulet </ingredient> . <operation> disposez </operation> sur le plat la <ingredient quantite="100 gramme"> mozzarella </ingredient> finement tranchée . <operation> enfourner </operation> pendant environ 25 min à 180 <operation> ° </operation> c ( thermostat 6 ) . facile et rapide , mais tout simplement délicieux . les enfants ont adoré .
+</preparation>
+</recette>

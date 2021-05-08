@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55195">
+<titre>Soupe au lard et pois cassés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pois cassés</p>
+<p>200 g de lard de poitrine fumé</p>
+<p>500 g de palette de porc</p>
+<p>3 l de bouillon de viande</p>
+<p>1 oignon piqué de 4 clous de girofle</p>
+<p>2 carottes coupés en petits dés</p>
+<p>3 branches de thym</p>
+<p>sel</p>
+<p>30 petits croûtons frits aillés</p>
+</ingredients>
+<preparation>
+<operation ingredients="pois;viandes;légumes"> placez </operation> les petits <ingredient action="placer"> pois </ingredient> cassés , les <ingredient action="placer" quantite="200 gramme;500 gramme"> viandes </ingredient> , les <ingredient action="placer" quantite="3 l;1;2"> légumes </ingredient> et le tym dans une grande marmite . <operation ingredients="bouillon"> arrosez </operation> avec le <ingredient action="arroser" quantite="3 l"> bouillon </ingredient> . amenez à <operation> ébullition </operation> à feu modéré . <operation> couvrez </operation> la marmite et faites <operation> cuire </operation> 2 heures 30 , jusqu' à ce que les <ingredient action="écraser"> pois </ingredient> s' <operation ingredients="pois"> écrasent </operation> facilement . <operation ingredients="thym;oignon"> ôtez </operation> les branches de <ingredient action="ôter"> thym </ingredient> et l' <ingredient action="ôter" quantite="1"> oignon </ingredient> . <operation ingredients="palette;lard;fumé"> coupez </operation> la <ingredient action="couper" quantite="500 gramme"> palette </ingredient> de porc et le <ingredient action="couper" quantite="200 gramme"> lard </ingredient> <ingredient action="couper"> fumé </ingredient> . <operation ingredients="pois"> versez </operation> les <ingredient action="verser"> pois </ingredient> cassés dans la soupière , <operation ingredients="viandes"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme;500 gramme"> viandes </ingredient> . servez bien chaud , avec les petits <ingredient quantite="30"> croûtons </ingredient> <operation> frits </operation> à part .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52092">
+<titre>Gratin de pommes de terre au Mont d'or</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>500 g de Mont d'or</p>
+<p>sel, poivre</p>
+<p>lardons</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau . une fois les <ingredient action="mettre" quantite="1 kilogramme"> pomme </ingredient> de terre <operation> cuites </operation> , les <operation ingredients="pomme;lardons"> mettre </operation> dans un plat à gratin avec les <ingredient action="mettre" quantite=""> lardons </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , puis <operation> recouvrir </operation> de mont d' or <operation> coupé </operation> en morceaux . <operation> mettre </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 30 min . servir dès la sortie du four , avec une <ingredient> salade </ingredient> verte . <ingredient> vin </ingredient> blanc du jura
+</preparation>
+</recette>

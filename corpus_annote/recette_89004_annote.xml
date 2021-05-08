@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89004">
+<titre>Glaçage au chocolat pour éclairs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g chocolat pâtissier</p>
+<p>50 g sucre glace</p>
+<p>30 g de beurre</p>
+<p>2 cuillères à soupe d'eau (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> avec l' eau dans une petite jatte au micro-ondes à puissance basse ( pour éviter qu' il ne brûle ) <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> et <operation> mélanger </operation> à la spatule jusqu' à ce qu' il soit <operation> incorporé </operation> et que la préparation devienne <operation> lisse </operation> . <operation ingredients="sucre;glace"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> et continuer à <operation> mélanger </operation> assez rapidement . dès que la préparation est homogène , <operation> lisse </operation> et onctueuse , vous pouvez <operation> napper </operation> vos éclairs et vos religieuses .
+</preparation>
+</recette>

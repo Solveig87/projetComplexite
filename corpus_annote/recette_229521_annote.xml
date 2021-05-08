@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229521">
+<titre>Porridge allégé au son d'avoine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 cl de lait écrémé</p>
+<p>2 cuillères à soupe de son d'avoine</p>
+<p>1 cuillère à soupe de son de blé</p>
+<p>3 cuillères à soupe d'édulcorant pour cuisson</p>
+<p>1 œuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="30 cl"> lait </ingredient> avec l' édulcorant . lorsqu' il bout , baisser le feu et y <operation ingredients="blé"> ajouter </operation> le son d' avoine et le son de <ingredient action="ajouter"> blé </ingredient> en pluie en <operation> remuant </operation> bien pour éviter que le <operation> mélange </operation> n' attache . <operation ingredients="œuf"> monter </operation> le blanc de l’ <ingredient action="monter" quantite="1"> œuf </ingredient> en neige très ferme . hors du feu , <operation ingredients="œuf"> ajouter </operation> le jaune de l’ <ingredient action="ajouter" quantite="1"> œuf </ingredient> et <operation> mélanger </operation> aussitôt . enfin , <operation> ajouter </operation> le blanc en neige et bien <operation> fouetter </operation> pour que le porridge soit homogène . je le préfère chaud ( à vous de voir ) .
+</preparation>
+</recette>

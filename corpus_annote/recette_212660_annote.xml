@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212660">
+<titre>Soupe de poissons hollandaise</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filets de poissons</p>
+<p>2 cuillères à soupe de beurre</p>
+<p>1 oignon</p>
+<p>1 carotte (épluchée et découpée en cubes)</p>
+<p>estragon</p>
+<p>safran ou curcuma</p>
+<p>2 tomates mûres coupées en des</p>
+<p>1 cuillère à soupe de farine</p>
+<p>100 g de crème épaisse</p>
+<p>150 g de crevettes ou de fruits de mer en vrac</p>
+<p>1 l de bouillon de poisson (fait avec 2 cubes)</p>
+<p>poivre et éventuellement sel.</p>
+</ingredients>
+<preparation>
+dans une cocotte faire <operation ingredients="oignon;carotte;beurre;estragon;safran"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et la <ingredient action="revenir" quantite="1"> carotte </ingredient> dans le <ingredient action="revenir" quantite="2 cuillère à soupe"> beurre </ingredient> avec l' <ingredient action="revenir" quantite=""> estragon </ingredient> et le <ingredient action="revenir" quantite=""> safran </ingredient> . après 5 minutes lorsque l' <ingredient quantite="1"> oignon </ingredient> est doré , <operation ingredients="tomates;poisson;farine"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> , le <ingredient action="ajouter"> poisson </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> . laisser <operation> cuire </operation> quelques minutes sur feu doux . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> de poissons , <operation ingredients="bouillons"> laissez </operation> <operation> cuire </operation> a petits <ingredient action="laisser" quantite="1 l"> bouillons </ingredient> pendant environ 10 minutes . <operation ingredients="crème"> ajouter </operation> ensuite la <ingredient action="ajouter" quantite="100 gramme"> crème </ingredient> épaisse , faire <operation> bouillir </operation> 1 minute . <operation ingredients="crevettes"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="150 gramme"> crevettes </ingredient> ou fruits de mer . <operation ingredients="poivre;estragon"> ajouter </operation> en touche finale le <ingredient action="ajouter"> poivre </ingredient> et un peu d' <ingredient action="ajouter" quantite=""> estragon </ingredient> . sauvignon blanc
+</preparation>
+</recette>

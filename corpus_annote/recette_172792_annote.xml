@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172792">
+<titre>Petit wrap poulet poivron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 à 18 galettes de blé</p>
+<p>6 blancs de poulet</p>
+<p>12 à 18 feuilles de salade</p>
+<p>200 g de fromage ail et fines herbes</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>3 tomates</p>
+<p>1 oignon</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> lavez </operation> la <ingredient action="laver"> salade </ingredient> . <operation ingredients="oignon"> coupez </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> , les <ingredient> poivrons </ingredient> , les <ingredient quantite="3"> tomates </ingredient> en lamelles ainsi que les blancs de <ingredient> poulet </ingredient> ( conseil : pour le <ingredient> poulet </ingredient> prenez des ciseaux ) . <operation ingredients="poulet;huile"> faites </operation> cuir le <ingredient action="faire"> poulet </ingredient> dans un peu d' <ingredient action="faire" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . faites <operation ingredients="galettes"> réchauffer </operation> les <ingredient action="réchauffer" quantite="12"> galettes </ingredient> de blé soit au micro-ondes , soit à la <operation> poêle </operation> comme indiqué sur le paquet . <operation> mettez </operation> le tout dans différents plats et chacun <operation> prépare </operation> son petit wrap . commencez par étaler le <ingredient quantite="200 gramme"> fromage </ingredient> sur la <ingredient> fajitas </ingredient> , puis <operation ingredients="salade"> mettez </operation> une feuille de <ingredient action="mettre"> salade </ingredient> , ensuite <operation ingredients="poivrons;tomates;oignon;poulet;galette"> ajoutez </operation> les <ingredient action="ajouter"> poivrons </ingredient> , les <ingredient action="ajouter" quantite="3"> tomates </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et le <ingredient action="ajouter"> poulet </ingredient> au centre de la <ingredient action="ajouter" quantite="12"> galette </ingredient> . puis remontez le bas de la <ingredient quantite="12"> galette </ingredient> vers le milieu et faites de même pour les côtés , seul le haut du wrap ne se ferme pas .
+</preparation>
+</recette>

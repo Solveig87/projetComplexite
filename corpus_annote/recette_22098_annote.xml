@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22098">
+<titre>Paupiettes de veau aux oeufs</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de veau très fines</p>
+<p>4 tranches très fines de jambon fumé</p>
+<p>2 oeufs durs</p>
+<p>3 cuillères à soupe de vin blanc sec</p>
+<p>fines herbes fraîches hachées</p>
+<p>1 bracnhe de thym</p>
+<p>sel, poivre</p>
+<p>beurre, huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalope;jambon"> recouvrir </operation> chaque <ingredient action="recouvrir" quantite="4"> escalope </ingredient> d' herbes hachées puis d' une tranche de <ingredient action="recouvrir"> jambon </ingredient> . <operation ingredients="oeuf"> poser </operation> dessus 1 / 2 <ingredient action="poser" quantite="2"> oeuf </ingredient> dur , <operation> enrouler </operation> le tout , et <operation> ficeler </operation> . faire <operation ingredients="paupiettes;huile;thym"> dorer </operation> les <ingredient action="dorer"> paupiettes </ingredient> dans une cocotte , avec un peu d' <ingredient action="dorer" quantite=""> huile </ingredient> et le <ingredient action="dorer"> thym </ingredient> . <operation> saler </operation> légèrement , bien <operation> poivrer </operation> . laisser <operation> cuire </operation> 20 minutes à feu doux . <operation ingredients="paupiettes"> retirer </operation> les <ingredient action="retirer"> paupiettes </ingredient> , <operation ingredients="vin"> déglacer </operation> la cocotte avec le <ingredient action="déglacer" quantite="3 cuillère à soupe"> vin </ingredient> blanc en <operation> grattant </operation> les sucs de cuissons . servir les <ingredient> paupiettes </ingredient> avec la sauce et du <ingredient> riz </ingredient> au légumes .
+</preparation>
+</recette>

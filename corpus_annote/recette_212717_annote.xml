@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212717">
+<titre>Verrines fraîches au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de thon à l'huile</p>
+<p>4 œufs</p>
+<p>4 cuillères à soupe de sauce béarnaise (c'est le secret !)</p>
+<p>jus de citron</p>
+<p>facultatif : cornichons, tomates, avocat</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire"> oeufs </ingredient> durs . pendant ce temps : <operation ingredients="tomates;cornichons;avocat"> couper </operation> les <ingredient action="couper" quantite=""> tomates </ingredient> , les <ingredient action="couper"> cornichons </ingredient> et l' <ingredient action="couper" quantite=""> avocat </ingredient> en dés . quand les <ingredient action="cuire" quantite="4"> œufs </ingredient> sont <operation ingredients="œufs"> cuits </operation> , les <operation> écraser </operation> dans un saladier . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite=";"> légumes </ingredient> , continuer de <operation> mélanger </operation> . <operation> mettre </operation> la sauce béarnaise et <operation> mélanger </operation> . <operation ingredients="citron"> ajouter </operation> 3 jets de sauce <ingredient action="ajouter"> citron </ingredient> ( si en bouteille ) ou 3 cuillères à café de jus de citron frais . garder au frigo minimum 20 min . servir frais en verrine . génial pour les invités car vite fait et fait son effet ! je <operation ingredients="salade;foie"> présente </operation> dans une grande assiette avec d' autres choses : <ingredient action="présente"> salade </ingredient> gasconne par exemple , ou toast <ingredient action="présente"> foie </ingredient> gras ce que vous voulez .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35160">
+<titre>Gâteau danois à la confiture et coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>200 g de sucre en poudre</p>
+<p>1/2 sachet de levure</p>
+<p>125 g de beurre</p>
+<p>200 g de farine</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>1 sachet de sucre vanillé</p>
+<p>100 g de noix de coco râpée</p>
+<p>50 g de confiture de votre choix</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;beurre;farine;sucre;levure;crème"> battre </operation> ensemble les 3 jaunes d' <ingredient action="battre" quantite="3"> oeufs </ingredient> , 100 g de <ingredient action="battre" quantite="200 gramme"> sucre </ingredient> , le <ingredient action="battre" quantite="125 gramme"> beurre </ingredient> , la <ingredient action="battre" quantite="200 gramme"> farine </ingredient> , le <ingredient action="battre" quantite="200 gramme"> sucre </ingredient> vanillé , la <ingredient action="battre"> levure </ingredient> , la <ingredient action="battre" quantite="3 cuillère à soupe"> crème </ingredient> fraîche . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> sur le fond du plat puis le <operation ingredients="gelée"> recouvrir </operation> de <ingredient action="recouvrir"> gelée </ingredient> . <operation> garnir </operation> avec 3 blancs en neige <operation ingredients="sucre;noix"> mélangés </operation> aux 100 g de <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> restant et à la <ingredient action="mélanger" quantite="100 gramme"> noix </ingredient> de coco . faire <operation> cuire </operation> à four moyen 30 mn environ . on peut <operation ingredients="confiture"> mettre </operation> plus de <ingredient action="mettre" quantite="50 gramme"> confiture </ingredient> pour les gourmands ou la remplacer par de la <ingredient> pâte </ingredient> à <operation> tartiner </operation> .
+</preparation>
+</recette>

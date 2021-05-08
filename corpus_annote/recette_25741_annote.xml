@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25741">
+<titre>Mijoté de thon à la tomate et au poivron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 tranches de thon</p>
+<p>1,2 kg de tomates bien mûres</p>
+<p>6 poivrons verts</p>
+<p>6 gousses d'ail</p>
+<p>2 oignons</p>
+<p>1 cuillère à café de thym</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="1,2 kilogramme"> tomates </ingredient> après les avoir <operation> ébouillantées </operation> , <operation> retirer </operation> les graines et les <operation> concasser </operation> . <operation ingredients="oignons;ail"> hacher </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> et l' <ingredient action="hacher"> ail </ingredient> puis <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en dés . <operation ingredients="oignon;ail;tomate;poivrons;thym"> mettre </operation> l' <ingredient action="mettre" quantite="2"> oignon </ingredient> , l' <ingredient action="mettre"> ail </ingredient> , la <ingredient action="mettre" quantite="1,2 kilogramme"> tomate </ingredient> et les <ingredient action="mettre"> poivrons </ingredient> dans une cocotte avec le <ingredient action="mettre" quantite="1 cuillère à café"> thym </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , <operation> couvrir </operation> et laisser <operation> cuire </operation> à feu doux durant 1 heure . <operation ingredients="thon"> disposer </operation> le <ingredient action="disposer" quantite="6 tranche"> thon </ingredient> dans la sauce et laisser <operation> cuire </operation> 20 minutes .
+</preparation>
+</recette>

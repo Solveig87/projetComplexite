@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80678">
+<titre>Carottes rapées fromagères</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses carottes</p>
+<p>200 g de gruyère</p>
+<p>50 g de raisins secs</p>
+<p>25 cl de crème fraîche liquide</p>
+<p>1 citron</p>
+<p>quelques brins de ciboulette</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="50 gramme"> raisins </ingredient> secs dans de l' eau chaude pour les faire <operation> gonfler </operation> . pendant ce temps , <operation ingredients="carottes;gruyère"> râper </operation> les <ingredient action="râper" quantite="4"> carottes </ingredient> et le <ingredient action="râper" quantite="200 gramme"> gruyère </ingredient> . dans un saladier , <operation ingredients="crème;jus;sel;poivre"> fouetter </operation> la <ingredient action="fouetter" quantite="25 cl"> crème </ingredient> liquide avec le <ingredient action="fouetter"> jus </ingredient> du citron , le <ingredient action="fouetter" quantite=""> sel </ingredient> et le <ingredient action="fouetter" quantite=""> poivre </ingredient> . <operation ingredients="carottes;gruyère;raisins"> verser </operation> sur les <ingredient action="verser" quantite="4"> carottes </ingredient> , le <ingredient action="verser" quantite="200 gramme"> gruyère </ingredient> et les <ingredient action="verser" quantite="50 gramme"> raisins </ingredient> <operation> égouttés </operation> . <operation> mélanger </operation> le tout et <operation ingredients="ciboulette"> décorer </operation> de <ingredient action="décorer"> ciboulette </ingredient> finement <operation> ciselée </operation> . déguster très frais .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28745">
+<titre>Riz sauce champignons et crevettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz</p>
+<p>250 g de champignons</p>
+<p>250 g de grosses crevettes</p>
+<p>50 g de lard</p>
+<p>1 gros oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>1 pincée de basilic</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> à l' eau bouillante <operation> salée </operation> ou selon votre habitude . pendant ce temps , <operation ingredients="lard"> détaillez </operation> le <ingredient action="détailler" quantite="50 gramme"> lard </ingredient> en dés . <operation ingredients="champignons"> lavez </operation> et <operation> émincez </operation> les <ingredient action="laver" quantite="250 gramme"> champignons </ingredient> , <operation> émincez </operation> les oignosn et <operation ingredients="ail"> pressez </operation> l' <ingredient action="presser"> ail </ingredient> . <operation ingredients="oignons;ail;beurre"> faites </operation> <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> , les <ingredient action="faire" quantite="1"> oignons </ingredient> et l' <ingredient action="faire"> ail </ingredient> dans du <ingredient action="faire"> beurre </ingredient> à la <operation> poêle </operation> . <operation ingredients="champignons;tomate"> ajoutez </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> et le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation> mouillez </operation> d' un peu d' eau et laissez <operation> bouillir </operation> <operation> mijoter </operation> 5 min . <operation ingredients="riz"> egouttez </operation> le <ingredient action="egouttez" quantite="300 gramme"> riz </ingredient> , <operation> diposez </operation> - le en dôme et <operation> versez </operation> la sauce au centre . <operation ingredients="crevettes"> répartissez </operation> les <ingredient action="répartir" quantite="250 gramme"> crevettes </ingredient> et servez .
+</preparation>
+</recette>

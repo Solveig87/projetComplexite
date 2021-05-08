@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10978">
+<titre>Quiche aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>3 oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>1 poireau</p>
+<p>1 gros oignon jaune</p>
+<p>100 g de petits pois précuits</p>
+<p>100 g de maïs doux</p>
+<p>1 ou 2 tranches de jambon</p>
+<p>100 g de fromage (emmental, gouda ou parmesan)</p>
+<p>sel, poivre</p>
+<p>huile</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> précuire </operation> la <ingredient action="précuire" quantite="1"> pâte </ingredient> <operation> brisée </operation> à blanc . <operation> emincer </operation> le blanc du <ingredient quantite="1"> poireau </ingredient> et l' <ingredient quantite="1"> oignon </ingredient> , et les faire <operation> revenir </operation> a la <operation> poêle </operation> avec un peu d' <ingredient quantite=""> huile </ingredient> pendant une dizaine de minutes . bien <operation> égoutter </operation> ensuite . <operation ingredients="poireau;oignon;pois;maïs;jambon"> mélanger </operation> dans un saladier le <ingredient action="mélanger" quantite="1"> poireau </ingredient> , l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> , les petits <ingredient action="mélanger"> pois </ingredient> , le <ingredient action="mélanger" quantite="100 gramme"> maïs </ingredient> et le <ingredient action="mélanger"> jambon </ingredient> <operation> coupé </operation> en petits morceaux . par ailleurs , <operation ingredients="oeufs;sel;poivre"> battre </operation> les 3 <ingredient action="battre" quantite="3"> oeufs </ingredient> dans un bol , et <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> fraîche , une pincée de <ingredient action="battre" quantite=""> sel </ingredient> et de <ingredient action="battre" quantite=""> poivre </ingredient> . <operation ingredients="fromage"> râper </operation> le <ingredient action="râper" quantite="100 gramme"> fromage </ingredient> . <operation ingredients="légumes;fromage;tarte"> mettre </operation> le <operation> mélange </operation> de <ingredient action="mettre" quantite="20 cl;1;1;100 gramme"> légumes </ingredient> et le <ingredient action="mettre" quantite="100 gramme"> fromage </ingredient> sur le fond de <ingredient action="mettre"> tarte </ingredient> , puis <operation ingredients="oeufs"> verser </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="3"> oeufs </ingredient> - crème dessus . <operation> saupoudrer </operation> d' herbes de provence . <operation> cuire </operation> au four pendant 1 / 2 heure environ . on peut aussi remplacer la <ingredient quantite="1"> pâte </ingredient> briséepar des feuilles de <ingredient> brick </ingredient> .
+</preparation>
+</recette>

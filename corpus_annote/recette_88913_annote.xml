@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88913">
+<titre>Crème brûlée à la crème de riz</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de lait</p>
+<p>25 cl de crème de riz</p>
+<p>80 g de sucre</p>
+<p>4 jaunes d'oeufs</p>
+<p>30 g de cassonade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> lait </ingredient> . dans un saladier , <operation ingredients="sucre;crème"> mélanger </operation> le <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> avec la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> de riz . <operation ingredients="lait;crème;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="25 cl"> lait </ingredient> bouillant avec la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> et le <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> . bien <operation> mélanger </operation> . laisser refroidir puis <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . <operation> passer </operation> la préparation au chinois puis <operation> verser </operation> dans un <operation> moule </operation> et <operation> enfourner </operation> 30 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) . une fois la <ingredient quantite="25 cl"> crème </ingredient> <operation> cuite </operation> <operation ingredients="cassonade"> verser </operation> de la <ingredient action="verser" quantite="30 gramme"> cassonade </ingredient> et faire carameliser au grill ou au chalumeau .
+</preparation>
+</recette>

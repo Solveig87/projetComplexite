@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27499">
+<titre>Tomates farcies au pot-au-feu</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 grosses tomates à farcir</p>
+<p>300 g de restes de boeuf d'un pot-au feu</p>
+<p>150 g de lard de poitrine ou bacon</p>
+<p>100 g de mie de pain</p>
+<p>15 cl de bouillon</p>
+<p>1 oeuf</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1/2 bouquet de persil</p>
+<p>sel, poivre</p>
+<p>beurre et huile</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="tomates"> couper </operation> le dessus des <ingredient action="couper" quantite="6"> tomates </ingredient> . les <operation> évider </operation> , <operation> saler </operation> l' intérieur et les laisser dégorger . faire <operation ingredients="bouillon"> chauffer </operation> le <ingredient action="chauffer" quantite="15 cl"> bouillon </ingredient> , y <operation ingredients="pain"> mettre </operation> la mie de <ingredient action="mettre"> pain </ingredient> et laisser <operation> gonfler </operation> . <operation ingredients="lard"> hacher </operation> le <ingredient action="hacher" quantite="150 gramme"> lard </ingredient> et les restes de pot-au-feu . <operation ingredients="oignon;ail;persil"> peler </operation> et <operation> hacher </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , l' <ingredient action="peler"> ail </ingredient> et le <ingredient action="peler"> persil </ingredient> . <operation> mélanger </operation> le tout en prenant soin d' <operation ingredients="pain"> essorer </operation> la mie de <ingredient action="essorer"> pain </ingredient> en la <operation> pressant </operation> entre les mains . <operation ingredients="oeuf;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . bien <operation ingredients="tomates"> mélanger </operation> puis <operation> farcir </operation> les <ingredient action="mélanger" quantite="6"> tomates </ingredient> . <operation ingredients="huile"> beurrer </operation> et <ingredient action="beurrer"> huile </ingredient> un plat à four , y <operation ingredients="tomates"> poser </operation> les <ingredient action="poser" quantite="6"> tomates </ingredient> <operation> farcies </operation> et recouvertes , puis faire <operation> cuire </operation> 45 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

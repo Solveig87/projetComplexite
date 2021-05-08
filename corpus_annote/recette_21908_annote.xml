@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21908">
+<titre>Poulet à l'exotique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 beau et bon poulet coupé en morceaux</p>
+<p>une boîte de lait de coco</p>
+<p>une boîte de tomates concassées</p>
+<p>1 oignon </p>
+<p>1 échalote</p>
+<p>gingembre frais</p>
+<p>curry</p>
+<p>coriandre hachée</p>
+<p>1 citron</p>
+<p>quelques petits pois</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulets;huile;oignon;échalote"> revenir </operation> les morceaux <ingredient action="revenir" quantite="1"> poulets </ingredient> dans l' <ingredient action="revenir"> huile </ingredient> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir" quantite="1"> échalote </ingredient> hachés . lorsque les morceaux sont dorés , <operation ingredients="curry"> ajoutez </operation> : le <ingredient action="ajouter" quantite=""> curry </ingredient> . le <ingredient quantite=""> sel </ingredient> . le <operation action="poivre" ingredients="poivre"> poivre </operation> . la boîte de <ingredient> tomates </ingredient> <operation> concassées </operation> . le <ingredient> gingembre </ingredient> frais ( en petits morceaux ) . la boîte de <ingredient action="remuez"> lait </ingredient> de coco . <operation ingredients="lait"> remuez </operation> le tout et laissez <operation> mijoter </operation> à feu très doux pendant une petite demi heure , à ce moment <operation ingredients="pois"> ajoutez </operation> les petits <ingredient action="ajouter" quantite="quelque"> pois </ingredient> , faites <operation> cuire </operation> encore 1 / 4 d' heure , puis <operation ingredients="coriandre;jus;citron"> incorporez </operation> la <ingredient action="incorporer" quantite=""> coriandre </ingredient> <operation> hachée </operation> ainsi que le <ingredient action="incorporer"> jus </ingredient> d' un <ingredient action="incorporer" quantite="1"> citron </ingredient> . après 10 mn de cuisson servez bien chaud <operation ingredients="riz"> accompagné </operation> d' un <ingredient action="accompagner"> riz </ingredient> blanc . bon appétiton peut également à la <operation> place </operation> des petits <ingredient quantite="quelque"> pois </ingredient> <operation ingredients="pommes"> ajoutez </operation> quelques <ingredient action="ajouter"> pommes </ingredient> de terre , ce qui en fait un plat complet délicieux <operation> réchauffé </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73080">
+<titre>Concombre crevette et bacon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros concombre</p>
+<p>10 tranches fines de bacon</p>
+<p>150 g de petite crevettes congelées</p>
+<p>pour la sauce: de l'huile, du vinaigre de vin, de la moutarde, du sel, du poivre et une cuillère à café d'aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> peler </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> et le <operation> couper </operation> en rondelles , puis le faire dégorger . pendant ce temps , faire <operation ingredients="crevettes"> décongeler </operation> les <ingredient action="décongeler" quantite="150 gramme"> crevettes </ingredient> et <operation ingredients="bacon"> griller </operation> les tranches de <ingredient action="griller"> bacon </ingredient> dans une <operation> poêle </operation> . une fois cela <operation ingredients="crevettes"> fait </operation> , <operation ingredients="bacon"> couper </operation> le <ingredient action="couper"> bacon </ingredient> en tout petits morceaux et les <operation ingredients="concombre"> mettre </operation> dans un saladier avec le <ingredient action="mettre" quantite="1"> concombre </ingredient> et les <ingredient action="faire" quantite="150 gramme"> crevettes </ingredient> <operation> décongelées </operation> . <operation> mélanger </operation> le tout avec la sauce et <operation> mettre </operation> au frigo . bon appétit ! rosé cabernet d' anjou
+</preparation>
+</recette>

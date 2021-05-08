@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29001">
+<titre>Abricots gratinés à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>16 abricots bien mûrs</p>
+<p>4 cuillères à soupe de sucre ou cassonade</p>
+<p>1 cuillère à café de cannelle moulue</p>
+<p>30 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="abricots"> dénoyauter </operation> les <ingredient action="dénoyauter"> abricots </ingredient> , les <operation ingredients="sucre;cannelle"> disposer </operation> dans un saladier avec le <ingredient action="disposer" quantite="4 cuillère à soupe"> sucre </ingredient> et la <ingredient action="disposer" quantite="1 cuillère à café"> cannelle </ingredient> . <operation> remuer </operation> et <operation ingredients="abricots"> laisser </operation> les <ingredient action="laisser"> abricots </ingredient> <operation> mariner </operation> 10 minutes . <operation ingredients="abricots"> répartir </operation> les <ingredient action="répartir"> abricots </ingredient> sur 4 feuilles d' aluminium ou de papier sulfurisé <operation> beurrées </operation> . <operation ingredients="beurre"> parsemer </operation> de morceaux de <ingredient action="parsemer" quantite="30 gramme"> beurre </ingredient> . fermer les papillotes hermétiquement et faire <operation> cuire </operation> 10 minutes sous le grill du four ou sur la <operation> grille </operation> du barbecue . <operation> retourner </operation> à mi-cuisson . laisser <operation> reposer </operation> . 3 minutes avant de servir . <operation ingredients="glace;fromage"> accompagner </operation> de <ingredient action="accompagner"> glace </ingredient> à la vanille ou de <ingredient action="accompagner"> fromage </ingredient> blanc .
+</preparation>
+</recette>

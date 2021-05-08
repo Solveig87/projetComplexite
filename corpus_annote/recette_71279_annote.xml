@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71279">
+<titre>Omelette bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>2 courgettes</p>
+<p>500 g de viande hachée</p>
+<p>1 petit oignon</p>
+<p>sauce tomate (faite maison, c'est meilleur)</p>
+<p>parmesan</p>
+<p>persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> en fines rondelles les courgettes . faire <operation ingredients="viande;oignon"> cuire </operation> séparément les courgettes ( à <operation> couvert </operation> ) et la <ingredient action="cuire" quantite="500 gramme"> viande </ingredient> hachée avec l' <ingredient action="cuire" quantite="1"> oignon </ingredient> , finement <operation> émincé </operation> . quand la <ingredient quantite="500 gramme"> viande </ingredient> est tout juste cuite , <operation> rajouter </operation> la sauce tomate , <operation> saler </operation> et <operation> poivrer </operation> . pendant ce temps , <operation ingredients="oeufs"> battre </operation> les 8 <ingredient action="battre" quantite="8"> oeufs </ingredient> dans un saladier . <operation ingredients="persil"> hacher </operation> le <ingredient action="hacher" quantite=""> persil </ingredient> . <operation> mélanger </operation> le tout dans le saladier . puis , dans une grande <operation> poêle </operation> , faire votre omelette . bon appétit ! cette recette est issue d' un <operation> mélange </operation> de restes . . . c' est souvent comme cela que les meilleures recettes naissent , paraît -il !
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22300">
+<titre>Salade aux pommes de terre et poulet</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuisses de poulet</p>
+<p>4 oeufs</p>
+<p>100 g de mayonnaise</p>
+<p>6 pommes de terre</p>
+<p>20 cornichons</p>
+<p>2 oignons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;oignon"> cuire </operation> le <ingredient action="cuire"> poulet </ingredient> dans une <operation> poêle </operation> avec l' <ingredient action="cuire" quantite="2"> oignon </ingredient> <operation> coupé </operation> très fin et un peu d' eau . faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> durs . faire <operation ingredients="pommes;oignon"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre dans de l' eau avec un <ingredient action="cuire" quantite="2"> oignon </ingredient> . <operation> couper </operation> tous les ingrédients en petits morceaux très fins . <operation ingredients="pommes"> ecraser </operation> les <ingredient action="ecraser" quantite="6"> pommes </ingredient> de terre . <operation ingredients="jus;huile"> mélanger </operation> tous les ingrédients avec le <ingredient action="mélanger"> jus </ingredient> de poulet et de l' <ingredient action="mélanger"> huile </ingredient> d' olive . <operation> assaisonner </operation> à votre convenance . servir frais .
+</preparation>
+</recette>

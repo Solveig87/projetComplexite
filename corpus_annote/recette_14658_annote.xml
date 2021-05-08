@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14658">
+<titre>Avocats au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 avocats</p>
+<p>1 boîte de thon au naturel</p>
+<p>3 cuillères à soupe de mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> coupez </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en deux . <operation> ôtez </operation> les noyaux et <operation ingredients="chair"> découpez </operation> la <ingredient action="découper"> chair </ingredient> en petits morceaux à l' aide d' une cuillère . <operation> réservez </operation> . <operation ingredients="thon"> emiettez </operation> le <ingredient action="emietter"> thon </ingredient> et <operation ingredients="chair;mayonnaise"> mélangez </operation> - le avec la <ingredient action="mélanger"> chair </ingredient> des avocats et la <ingredient action="mélanger" quantite="3 cuillère à soupe"> mayonnaise </ingredient> . <operation ingredients="avocats"> remplissez </operation> les <ingredient action="remplir" quantite="2"> avocats </ingredient> vides avec la préparation . servez . très rapide , économique et délicieux .
+</preparation>
+</recette>

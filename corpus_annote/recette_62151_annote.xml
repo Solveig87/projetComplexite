@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62151">
+<titre>Pasta végétariennes aux épinards</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de pâtes aux choix (gros spaghetti de préference)</p>
+<p>250 g d'épinards</p>
+<p>1 gros champignon de Paris</p>
+<p>1 petit oignon</p>
+<p>1 feuille de basilic</p>
+<p>1 pomme de terre moyenne</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>parmesan</p>
+<p>gros sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes;sel"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> pâtes </ingredient> dans une grande casserole d' eau bouillante <operation> salée </operation> avec un peu de gros <ingredient action="cuire" quantite=""> sel </ingredient> puis <operation> réserver </operation> . <operation ingredients="champignon;épinards"> hacher </operation> le <ingredient action="hacher" quantite="1"> champignon </ingredient> et les <ingredient action="hacher" quantite="250 gramme"> épinards </ingredient> . <operation ingredients="pommes"> découper </operation> les <ingredient action="découper" quantite="1"> pommes </ingredient> de terre en petits cubes . <operation> mettre </operation> le tout dans la <operation> poêle </operation> avec 20 cl d' eau chaude . lorque les <ingredient action="cuire" quantite="1"> pommes </ingredient> de terres sont <operation ingredients="pommes"> cuites </operation> mais encore fermes , <operation ingredients="oignon;basilic"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> haché </operation> et la feuille de <ingredient action="ajouter" quantite="1 feuille"> basilic </ingredient> . faire <operation ingredients="huile;oignons"> revenir </operation> le tout avec l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , jusqu' à ce que les <ingredient action="revenir" quantite="1"> oignons </ingredient> soient à point . <operation ingredients="pâtes"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> pâtes </ingredient> dans le tout et servir avec un peu de <ingredient quantite=""> parmesan </ingredient> rapé . avec les <ingredient quantite="250 gramme"> épinards </ingredient> , c' est toujours la surprise ! ils <operation> fondent </operation> dans la <operation> poêle </operation> donc n' ayez pas peur d' avoir la main généreuse !
+</preparation>
+</recette>

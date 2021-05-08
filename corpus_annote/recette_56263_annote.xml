@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56263">
+<titre>Délice de poulet au 3 poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 belles escalopes de poulet</p>
+<p>3 poivrons moyens (1 rouge, 1 jaune et 1 vert)</p>
+<p>6 champignons de paris frais</p>
+<p>3 cuillères à café de fond de volaille</p>
+<p>30 cl de vin blanc</p>
+<p>1 cuillère à soupe d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="3"> escalopes </ingredient> de poulet en lamelles . faire <operation> chauffer </operation> l' eau dans une sauteuse et y faire <operation ingredients="poulet"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> . <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en fines lamelles et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="6"> champignons </ingredient> . et <operation> mettre </operation> le tout à <operation ingredients="poulet"> revenir </operation> avec le <ingredient action="revenir"> poulet </ingredient> . <operation ingredients="vin;volaille"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> vin </ingredient> blanc et le fond de <ingredient action="ajouter"> volaille </ingredient> . faire <operation> réduire </operation> . 10 minute à <operation> ébullition </operation> . <operation> mettre </operation> à <operation> mijoter </operation> pendant 25 à 30 minutes en suveillant . vous pouvez <operation ingredients="légumes"> accompagner </operation> ce plat de <ingredient action="accompagner" quantite="6"> légumes </ingredient> <operation> sautés </operation> dans lesquels vous <operation ingredients="jus;viande"> ajouterez </operation> un peu de <ingredient action="ajouter"> jus </ingredient> de cuison de la <ingredient action="ajouter" quantite="3"> viande </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34801">
+<titre>Gratin de poisson sur lit de pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 portions de saumon frais ou surgelé</p>
+<p>3 pommes de terre moyennes, préalablement cuites à la vapeur</p>
+<p>1 petite boîte de champignons de Paris, ou mieux, l'équivalent en frais</p>
+<p>jus de citron</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+<p>emmental râpéPour la sauce:</p>
+<p>25 g de beurre (ou margarine) </p>
+<p>1/3 litre de lait entier</p>
+<p>1 grosse cuillerée de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;huile;sel;poivre"> cuire </operation> le <ingredient action="cuire"> poisson </ingredient> en papillote , avec un peu d' <ingredient action="cuire" quantite=""> huile </ingredient> d' olive , du <ingredient action="cuire" quantite=""> sel </ingredient> et du <ingredient action="cuire" quantite=""> poivre </ingredient> . <operation ingredients="béchamel"> préparer </operation> la <ingredient action="préparer"> béchamel </ingredient> : <operation ingredients="beurre;farine"> faire </operation> un roux avec le <ingredient action="faire" quantite="25 gramme"> beurre </ingredient> et la <ingredient action="faire"> farine </ingredient> , puis <operation ingredients="lait"> ajouter </operation> petit à petit le <ingredient action="ajouter"> lait </ingredient> . pour finir , <operation ingredients="huile;sel;poivre"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . faire <operation ingredients="champignons"> cuire </operation> les <ingredient action="cuire"> champignons </ingredient> dans une cuiller à soupe d' huile d' olive et 2 cuillers à soupe de citron . quand ils ont tout absorbé , arrêter la cuisson et les <operation ingredients="béchamel"> ajouter </operation> à la <ingredient action="ajouter"> béchamel </ingredient> , ainsi qu' une cuiller à soupe de jus de citron . sortir les papillotes du four quand le <ingredient> poisson </ingredient> est mi-cuit , et <operation ingredients="jus;béchamel"> verser </operation> le <ingredient action="verser" quantite=""> jus </ingredient> du poisson dans la <ingredient action="verser"> béchamel </ingredient> en <operation> fouettant </operation> . <operation ingredients="pommes"> préparer </operation> le lit de <ingredient action="préparer" quantite="3"> pommes </ingredient> de terre dans un plat allant au four , <operation ingredients="poisson"> émietter </operation> le <ingredient action="émietter"> poisson </ingredient> en morceaux d' environ 2 à 3 cm , <operation ingredients="béchamel"> couvrir </operation> avec la <ingredient action="couvrir"> béchamel </ingredient> aux champignons , puis <operation ingredients="emmental"> recouvrir </operation> avec l' <ingredient action="recouvrir" quantite=""> emmental </ingredient> râpé . faire <operation> gratiner </operation> 10 mn sous le grill . c' est prêt ! on peut faire ce plat dans de petites cassolettes individuelles .
+</preparation>
+</recette>

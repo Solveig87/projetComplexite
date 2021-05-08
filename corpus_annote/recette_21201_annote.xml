@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21201">
+<titre>Gratin de restes de viande aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de champignons de Paris</p>
+<p>3 échalotes</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>50 g de beurre</p>
+<p>300 à 500 g de restes de viande</p>
+<p>15 cl de vin blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons;échalote;persil"> hachez </operation> les <ingredient action="hacher" quantite="500 gramme"> champignons </ingredient> de paris avec l' <ingredient action="hacher" quantite="3"> échalote </ingredient> et le <ingredient action="hacher" quantite="1 cuillère à soupe"> persil </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation> mélangez </operation> . préchauffez le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> beurrez </operation> un plat à gratin . <operation ingredients="champignons"> recouvrez </operation> le fond du plat de la moitié du hachis de <ingredient action="recouvrir" quantite="500 gramme"> champignons </ingredient> , <operation ingredients="viande;champignons"> déposez </operation> les restes de <ingredient action="déposer"> viande </ingredient> dessus et <operation> recouvrez </operation> du reste des <ingredient action="déposer" quantite="500 gramme"> champignons </ingredient> . <operation ingredients="vin"> arrosez </operation> de <ingredient action="arroser" quantite="15 cl"> vin </ingredient> blanc et <operation ingredients="beurre"> répartissez </operation> le <ingredient action="répartir" quantite="50 gramme"> beurre </ingredient> en noisettes sur le dessus du plat . <operation> enfournez </operation> 30 minutes .
+</preparation>
+</recette>

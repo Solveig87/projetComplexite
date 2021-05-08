@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10531">
+<titre>Escalopes lucullus à la cocotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes</p>
+<p>4 tranches de bacon</p>
+<p>4 tranches de gruyère (ou du gruyère râpé)</p>
+<p>2 tomates (de saison, pour le goût)</p>
+<p>1 oignon</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> coupez </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en petits morceaux , faites <operation ingredients="oignon;beurre"> revenir </operation> les petits morceaux d' <ingredient action="revenir" quantite="1"> oignon </ingredient> avec le <ingredient action="revenir"> beurre </ingredient> dans la cocotte , <operation ingredients="escalopes"> déposez </operation> les <ingredient action="déposer" quantite="4"> escalopes </ingredient> dans la cocotte , faites - les <operation> dorer </operation> sur les 2 côtés . <operation ingredients="bacon;gruyère;escalope"> placez </operation> ensuite une tranche de <ingredient action="placer" quantite="4 tranche"> bacon </ingredient> et le <ingredient action="placer" quantite="4 tranche"> gruyère </ingredient> sur chaque <ingredient action="placer" quantite="4"> escalope </ingredient> , <operation ingredients="tomates;jus"> recouvrez </operation> le tout de morceaux de <ingredient action="recouvrir" quantite="2"> tomates </ingredient> avec leur <ingredient action="recouvrir"> jus </ingredient> sans peau , <operation ingredients="sel"> ajoutez </operation> enfin herbes de provence , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre , fermez la cocotte et laissez <operation> mijoter </operation> à feu doux une vingtaine de minutes . <operation> evacuez </operation> la vapeur , <operation> ouvrez </operation> , dégustez <operation> accompagné </operation> de <ingredient action="mettre"> riz </ingredient> sur lequel vous <operation ingredients="riz"> mettrez </operation> la sauce de la cocotte . un <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81172">
+<titre>Soupe sucrée aux fruits</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 cl d'eau</p>
+<p>2 oranges</p>
+<p>2 bananes</p>
+<p>2 pommes</p>
+<p>1 melon</p>
+<p>1 barquette de fraise</p>
+<p>3 kiwis</p>
+<p>1 zeste de citron</p>
+<p>1 pamplemousse</p>
+<p>1 ananas</p>
+<p>2 abricots</p>
+<p>100 g de sucre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> tous les <ingredient action="enlever" quantite="2;2;2;1;3;1;1;2"> fruits </ingredient> , <operation ingredients="fruits"> enlevez </operation> les pépins et les noyaux . <operation ingredients="fruits"> coupez </operation> tous les <ingredient action="couper" quantite="2;2;2;1;3;1;1;2"> fruits </ingredient> en deux . faire <operation> cuire </operation> 15 min à la vapeur . <operation ingredients="sucre"> ajoutez </operation> dans la cocotte l' eau + le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , <operation ingredients="soupe"> mélangez </operation> tout jusqu' à ce que la <ingredient action="mélanger"> soupe </ingredient> soit limpide . bon appétit ! ! vous pouvez la boire froide ou chaude . en sauce , en <ingredient> soupe </ingredient> ou en <ingredient> boisson </ingredient> .
+</preparation>
+</recette>

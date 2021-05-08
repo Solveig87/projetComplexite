@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60445">
+<titre>Fraîcheur de fraises et d'avocat, coulis de framboises</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g fraises</p>
+<p>2 avocats</p>
+<p>2 citrons</p>
+<p>1 laitue</p>
+<p>1 cuillère à soupe d'huile de noix</p>
+<p>1 cuillère à soupe d'huile de tournesol</p>
+<p>100 g de coulis de framboises</p>
+<p>1 bouquet d'estragon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises;chair"> coupez </operation> les <ingredient action="couper" quantite="250 gramme"> fraises </ingredient> en 4 et la <ingredient action="couper"> chair </ingredient> d' avocat en tranches puis les <operation ingredients="jus;citron"> arrosez </operation> avec les <ingredient action="arroser"> jus </ingredient> d' un <ingredient action="arroser" quantite="2"> citron </ingredient> . <operation> préparez </operation> la vinaigrette : <operation ingredients="sel"> versez </operation> le <ingredient action="verser" quantite=""> sel </ingredient> dans un bol et <operation ingredients="jus;citron"> mélangez </operation> avec les <ingredient action="mélanger"> jus </ingredient> du second <ingredient action="mélanger" quantite="2"> citron </ingredient> . <operation> poivrez </operation> , <operation ingredients="framboises;huiles"> ajoutez </operation> le coulis de <ingredient action="ajouter"> framboises </ingredient> puis les <ingredient action="ajouter" quantite="1 cuillère à soupe+1 cuillère à soupe"> huiles </ingredient> . <operation ingredients="avocats;fraises;laitue"> disposez </operation> les <ingredient action="disposer" quantite="2"> avocats </ingredient> et les <ingredient action="disposer" quantite="250 gramme"> fraises </ingredient> sur un lit de feuilles de <ingredient action="disposer" quantite="1"> laitue </ingredient> . <operation ingredients="estragon"> décorez </operation> avec l' <ingredient action="décorer"> estragon </ingredient> finement <operation> haché </operation> et <operation> assaisonnez </operation> avec la vinaigrette . <operation ingredients="fraises"> equeutez </operation> toujours les <ingredient action="equeutez" quantite="250 gramme"> fraises </ingredient> après les avoir <operation> lavées </operation> sans quoi elles se gorgent d' eau et perdent une partie de leur saveur .
+</preparation>
+</recette>

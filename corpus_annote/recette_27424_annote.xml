@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27424">
+<titre>Raviolis gratinés aux petits pois et curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de ravioli au boeuf ou aux légumes</p>
+<p>100 g de lanières de jambon</p>
+<p>200 g de petits pois</p>
+<p>2 jaunes d'oeufs</p>
+<p>20 cl de crème fraîche</p>
+<p>50 g de beurre</p>
+<p>1 cuillère à café de curry</p>
+<p>100 g de gruyère râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raviolis"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> raviolis </ingredient> à l' eau bouillante <operation> salée </operation> . les <operation> égoutter </operation> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , <operation ingredients="curry;jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> et le <ingredient action="ajouter"> jambon </ingredient> . <operation> saler </operation> et laisser <operation> dorer </operation> . <operation ingredients="pois"> rajouter </operation> les petits <ingredient action="rajouter" quantite="200 gramme"> pois </ingredient> , laisser <operation> mijoter </operation> 20 min . <operation ingredients="oeufs;crème"> battre </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> avec la <ingredient action="battre" quantite="20 cl"> crème </ingredient> , <operation ingredients="pois"> verser </operation> sur les petits <ingredient action="verser" quantite="200 gramme"> pois </ingredient> et <operation> remuer </operation> . <operation ingredients="raviolis"> verser </operation> cette sauce sur les <ingredient action="verser" quantite="400 gramme"> raviolis </ingredient> , <operation ingredients="fromage"> parsemer </operation> de <ingredient action="parsemer"> fromage </ingredient> et faire <operation> gratiner </operation> sous le grill du four .
+</preparation>
+</recette>

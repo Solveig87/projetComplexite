@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68155">
+<titre>Croques méditerranéens</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>85 g de beurre</p>
+<p>300 g mozzarella tranchée finement</p>
+<p>75 g tomates séchées à l'huile d olive</p>
+<p>4 tranches de jambon fumé</p>
+<p>2 oeufs</p>
+<p>10 cl de lait</p>
+<p>1 cuillère à soupe à soupe huile d olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> chaque tranche de <ingredient action="beurrer" quantite="8 tranche"> pain </ingredient> de mie de chaque côté . ( garder 25 g de <ingredient quantite="85 gramme"> beurre </ingredient> ) <operation ingredients="mozzarella;pain"> déposer </operation> les tranches de <ingredient action="déposer" quantite="300 gramme"> mozzarella </ingredient> sur 4 tranches de <ingredient action="déposer" quantite="8 tranche"> pain </ingredient> de mie . <operation ingredients="tomates;confites"> egoutter </operation> les <ingredient action="egoutter" quantite="75 gramme"> tomates </ingredient> <ingredient action="egoutter"> confites </ingredient> et les <operation> répartir </operation> sur les tranches où se trouve la <ingredient quantite="300 gramme"> mozzarella </ingredient> . <operation ingredients="jambon"> ajoutez </operation> les tranches de <ingredient action="ajouter" quantite="4 tranche"> jambon </ingredient> <operation> fumé </operation> et <operation ingredients="pain"> poser </operation> les 4 tranches de <ingredient action="poser" quantite="8 tranche"> pain </ingredient> de mie <operation> beurrées </operation> restantes . <operation ingredients="sandwiches"> tranchez </operation> les <ingredient action="trancher"> sandwiches </ingredient> en diagonales . facultatif pour des croques plus tendres mais moins croustillants : dans un assiette creuse <operation ingredients="oeufs;lait"> battre </operation> légèrement les <ingredient action="battre" quantite="2"> oeufs </ingredient> et le <ingredient action="battre" quantite="10 cl"> lait </ingredient> , <operation> tremper </operation> chaque demi croque des 2 côtés dans cette préparation . faire <operation ingredients="beurre"> chauffer </operation> l cuillère à soupe d' huile d' olive avec le reste de <ingredient action="chauffer" quantite="85 gramme"> beurre </ingredient> du début dans une grande <operation> poêle </operation> . y faire <operation> dorer </operation> les demi croque 4 minutes de chaque coté .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35074">
+<titre>Hutspot (Hollande)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre</p>
+<p>4 carottes</p>
+<p>environ 300 g de lardons maigres</p>
+<p>fromage pour le gratin (si possible du gouda vieux, mais tout fromage qui fond fera l'affaire) </p>
+<p>bouillon</p>
+<p>un peu de crème fraîche (optionnel) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;carottes;bouillon"> bouillir </operation> les <ingredient action="bouillir" quantite="8"> pommes </ingredient> de terre et les <ingredient action="bouillir" quantite="4"> carottes </ingredient> dans de l' eau et du <ingredient action="bouillir" quantite=""> bouillon </ingredient> ( un cube fera l' affaire si vous n' avez rien d' autre sous la main ) . pendant ce temps , faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> pour qu' ils perdent une partie de leur gras . quand tout est prêt , <operation ingredients="légumes"> égoutter </operation> les <ingredient action="égoutter" quantite="8;4;"> légumes </ingredient> et les <operation> réduire </operation> en purée grossière , y <operation ingredients="lardons;crème"> mélanger </operation> les <ingredient action="mélanger"> lardons </ingredient> , éventuellement de la <ingredient action="mélanger"> crème </ingredient> fraîche , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="fromage"> disposer </operation> ensuite dans un plat à gratin , <operation ingredients="fromage"> couvrir </operation> de <ingredient action="couvrir" quantite=""> fromage </ingredient> <operation> râpé </operation> et <operation> mettre </operation> au four jusqu' à ce que le <ingredient action="disposer" quantite=""> fromage </ingredient> soit bien doré . servir <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> . il s' agit d' un plat traditionnel hollandais , plutôt pour l' hiver ( surtout ceux qui pensent aller patiner sur les canaux <operation> gelés </operation> ) . on peut <operation> incorporer </operation> tous les ingrédients qui restent dans le frigo : du <ingredient> poulet </ingredient> , des <ingredient> poireaux </ingredient> , des <ingredient> raisins </ingredient> secs . . .
+</preparation>
+</recette>

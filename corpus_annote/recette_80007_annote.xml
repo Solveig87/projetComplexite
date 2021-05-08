@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80007">
+<titre>Lasagnes de la mer parfumées à la noix de coco et son coulis d'avocat</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 boîte de miettes de crabe</p>
+<p>300 g de poisson (frais ou congelé)</p>
+<p>2 poignées de champignons de Paris</p>
+<p>25 cl de lait de coco</p>
+<p>2 cuillères à soupe de noix de coco</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>3 tomates</p>
+<p>3 échalotes</p>
+<p>ciboulette</p>
+<p>feuilles de lasagnes</p>
+<p>mozzarella râpée</p>
+<p>huile d'olive</p>
+<p>Pour le coulis:</p>
+<p>2 avocats</p>
+<p>le jus d'1 citron</p>
+<p>coriandre</p>
+<p>2 cuillères à soupe de crème fraîche liquide</p>
+</ingredients>
+<preparation>
+faire suer les <ingredient quantite="3"> échalotes </ingredient> dans l' <ingredient quantite=""> huile </ingredient> d' olive et <operation ingredients="crabe;poisson"> ajouter </operation> le <ingredient action="ajouter"> crabe </ingredient> et le <ingredient action="ajouter" quantite="300 gramme"> poisson </ingredient> . puis <operation ingredients="champignons;ciboulette;lait;tomate;tomates"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> , la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> , le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> de coco , le <operation> concentré </operation> de <ingredient action="ajouter" quantite="3"> tomate </ingredient> , les <ingredient action="ajouter" quantite="3"> tomates </ingredient> . on laisse <operation> mijoter </operation> à feu doux 10 min . <operation> saler </operation> et <operation> poivrer </operation> . hors du feu , <operation ingredients="noix"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> noix </ingredient> de coco . <operation ingredients="poisson"> dresser </operation> dans un plat à lasagnes des couches successives du <operation> mélange </operation> <ingredient action="dresser" quantite="300 gramme"> poisson </ingredient> , coco , mozzarella , en commencant par les <ingredient> pâtes </ingredient> et en terminant par une fine couche de <operation> mélange </operation> et de la <ingredient quantite=""> mozzarella </ingredient> . préchauffer le four à 160 <operation> ° </operation> , thermostat . 6 , et laisser <operation> cuire </operation> 30 min puis laisser <operation> reposer </operation> 10 min au four . pour le coulis , <operation ingredients="avocats;jus;coriandre"> mixer </operation> les <ingredient action="mixer" quantite="2"> avocats </ingredient> avec le <ingredient action="mixer" quantite=""> jus </ingredient> de citron , la <ingredient action="mixer" quantite=""> coriandre </ingredient> , et la <ingredient quantite="2 cuillère à soupe"> crème </ingredient> fraîche . <operation> saler </operation> et <operation> poivrer </operation> . garder au frais jusqu' au service des lasagnes .
+</preparation>
+</recette>

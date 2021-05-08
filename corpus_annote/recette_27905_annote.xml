@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27905">
+<titre>Riz pilaf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>3 cuillères à soupe d'huile ou 40 g de beurre</p>
+<p>50 cl de bouillon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> dans une sauteuse . y <operation ingredients="riz"> jeter </operation> le <ingredient action="jeter" quantite="250 gramme"> riz </ingredient> et le laisser devenir transparent puis doré , en <operation> remuant </operation> avec une spatule . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="50 cl"> bouillon </ingredient> . faire <operation> bouillir </operation> puis <operation> couvrir </operation> et baisser le feu au minimum . laisser <operation> cuire </operation> ainsi environ 20 min . on appelle aussi cette recette " <ingredient quantite="250 gramme"> riz </ingredient> au gras " car on peut le réaliser avec n' importe quelle <ingredient quantite="3 cuillère à soupe"> matière </ingredient> grasse . le <ingredient quantite="250 gramme"> riz </ingredient> est très tendre et goûteux ainsi , pas sec du tout . on puet <operation ingredients="oignons;tomates"> ajouter </operation> des <ingredient action="ajouter"> oignons </ingredient> , des herbes et des <ingredient action="ajouter"> tomates </ingredient> <operation> hachés </operation> au début de la préparation .
+</preparation>
+</recette>

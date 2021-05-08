@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30534">
+<titre>Oeuf au plat sur omelette-crêpe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs</p>
+<p>1 cuillère à soupe de fromage blanc</p>
+<p>1 tranche de jambon (cru ou cuit, selon vos goûts)</p>
+<p>basilic (frais ou déshydraté, à défaut)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="jambon"> griller </operation> la tranche de <ingredient action="griller" quantite="1 tranche"> jambon </ingredient> . <operation ingredients="oeuf;fromage"> battre </operation> 1 <ingredient action="battre" quantite="2"> oeuf </ingredient> avec le <ingredient action="battre" quantite="1 cuillère à soupe"> fromage </ingredient> blanc , <operation ingredients="jambon"> verser </operation> sur le <ingredient action="verser" quantite="1 tranche"> jambon </ingredient> . dès que l' omelette commence à prendre , casser dessus le deuxième <ingredient quantite="2"> oeuf </ingredient> ( sans casser le jaune ) . laisser <operation> cuire </operation> . le <ingredient quantite="1 cuillère à soupe"> fromage </ingredient> blanc donne du moelleux à l' <ingredient quantite="2"> oeuf </ingredient> et apporte un goût de <ingredient> crêpe </ingredient> .
+</preparation>
+</recette>

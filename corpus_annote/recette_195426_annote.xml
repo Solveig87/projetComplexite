@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195426">
+<titre>Soupe Panade</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait</p>
+<p>50 cl d’eau</p>
+<p>1 bonne pincée de noix de muscade moulue</p>
+<p>sel et poivre</p>
+<p>300 g de pain rassis</p>
+<p>6 œufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;muscade;poivre;sel"> mélanger </operation> le <ingredient action="mélanger" quantite="1 l"> lait </ingredient> , l’ eau , la <ingredient action="mélanger"> muscade </ingredient> , le <ingredient action="mélanger"> poivre </ingredient> et le <ingredient action="mélanger" quantite=""> sel </ingredient> . <operation> mettre </operation> le tout à <operation> chauffer </operation> , pendant ce temps , <operation ingredients="pain"> couper </operation> en morceaux le <ingredient action="couper" quantite="300 gramme"> pain </ingredient> rassis et l’ <operation> ajouter </operation> au <operation> mélange </operation> . une fois le <ingredient action="ramollir" quantite="300 gramme"> pain </ingredient> <operation ingredients="pain"> ramolli </operation> et le <operation> mélange </operation> de tous les ingrédients bien chaud , <operation ingredients="œufs"> séparer </operation> les jaunes des blancs d’ <ingredient action="séparer" quantite="6"> œufs </ingredient> pour ensuite <operation ingredients="soupe"> incorporer </operation> les blancs dans la <ingredient action="incorporer"> soupe </ingredient> . la <ingredient> soupe </ingredient> est prête quand les blancs ont pris . au moment de servir <operation ingredients="œuf"> ajouter </operation> le jaune d’ <ingredient action="ajouter" quantite="6"> œuf </ingredient> en <operation> mélangeant </operation> bien . bon appétit ! ! ! recette plutôt pour les soirs d' hiver .
+</preparation>
+</recette>

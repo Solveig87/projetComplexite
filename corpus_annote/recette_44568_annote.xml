@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44568">
+<titre>La soupe du lundi soir (potiron - curry - chèvre)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de potiron (après "épluchage")</p>
+<p>2 carottes</p>
+<p>2 petites pommes de terre</p>
+<p>1 oignon</p>
+<p>1/2 bûche de chèvre "épluchée" (sans la croûte, si on peut appeler ça une croûte!)</p>
+<p>curry à volonté, selon le goût</p>
+<p>gros sel et poivre du moulin</p>
+<p>1 cuillères à soupe d'huile d'olive</p>
+<p>eau</p>
+<p>lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="400 gramme;2;2;1"> légumes </ingredient> en morceaux . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> , dans la casserole . <operation ingredients="légumes"> ajouter </operation> les autres <ingredient action="ajouter" quantite="400 gramme;2;2;1"> légumes </ingredient> . <operation> recouvrir </operation> d' eau et <operation> couvrir </operation> . laisser <operation> mijoter </operation> 30 min . <operation ingredients="légumes;bouillon"> mixer </operation> les <ingredient action="mixer" quantite="400 gramme;2;2;1"> légumes </ingredient> sans le <ingredient action="mixer"> bouillon </ingredient> , <operation ingredients="chèvre"> rajouter </operation> le <ingredient action="rajouter"> chèvre </ingredient> , le <ingredient quantite=""> curry </ingredient> et un peu de <ingredient quantite=""> lait </ingredient> . <operation> assaisonner </operation> à votre goût . servir immédiatement , avec du <ingredient> pain </ingredient> de mie <operation> grillé </operation> et beurré . . . ou des <ingredient> croûtons </ingredient> , enfin , chacun ses goûts !
+</preparation>
+</recette>

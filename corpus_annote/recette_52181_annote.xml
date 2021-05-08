@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52181">
+<titre>Chili con carne très facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>7 steaks hachés (de 100g)</p>
+<p>4 cuillères a soupe d'huile d'olive</p>
+<p>1 poivron vert</p>
+<p>2 oignons</p>
+<p>3 gousses d'ail</p>
+<p>1 boîte de 140g de double concentré de tomate</p>
+<p>1 boîte de 800g de tomates pelées (poid net)</p>
+<p>1 boîte de 500g de haricots rouge cuits (poids net égoutté)</p>
+<p>25 cl de bouillon de boeuf (1 cube)</p>
+<p>1 feuille de laurier</p>
+<p>2 pincées de cumin et d'origan</p>
+<p>4 pincées de piment de cayenne et de piment pour chili en poudre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;poivron"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> , y <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> émincés </operation> , l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> et le <ingredient action="chauffer"> poivron </ingredient> <operation> émincé </operation> , et faire <operation> dorer </operation> le tout à feu moyen . <operation ingredients="viande"> rajouter </operation> ensuite la <ingredient action="rajouter" quantite="7"> viande </ingredient> à faire <operation> brunir </operation> . <operation ingredients="tomates"> mettre </operation> les <ingredient action="mettre"> tomates </ingredient> , le double <operation ingredients="bouillon;épices"> concentré </operation> , le <ingredient action="concentrer" quantite="25 cl"> bouillon </ingredient> de boeuf et les <ingredient action="concentrer" quantite="3;1 feuille;2 pincée;"> épices </ingredient> . <operation> mélanger </operation> , <operation ingredients="bouillons"> porter </operation> à gros <ingredient action="porter" quantite="25 cl"> bouillons </ingredient> , puis <operation> couvrir </operation> et laisser <operation> cuire </operation> pendant 1 h ; <operation> remuer </operation> de temps en temps . <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter"> haricots </ingredient> rouges <operation> égouttés </operation> et <operation> rincés </operation> ; et <operation> cuire </operation> le tout 1 / 2 h à feu doux , en <operation> remuant </operation> de temps en temps . <operation> goûter </operation> et <operation> assaisonner </operation> si besoin , <operation ingredients="laurier"> enlever </operation> la feuille de <ingredient action="enlever" quantite="1 feuille"> laurier </ingredient> et servir ! <operation ingredients="riz"> accompagner </operation> d' un <ingredient action="accompagner"> riz </ingredient> parfumé et d' un peu de <ingredient> fromage </ingredient> râpé , c' est excellent ! ! !
+</preparation>
+</recette>

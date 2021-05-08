@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26064">
+<titre>Poulet au poivron, paprika et pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 belles cuisses de poulet</p>
+<p>1 poivron rouge</p>
+<p>2 tomates</p>
+<p>1 gros oignon</p>
+<p>2-3 cuillères à soupe de crème fraîche allégée</p>
+<p>4 ou 5 pommes de terre</p>
+<p>huile</p>
+<p>paprika (selon votre goût) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> à l' <ingredient action="revenir" quantite=""> huile </ingredient> ( dans une cocotte en fonte par exemple ) , <operation> saler </operation> , <operation> poivrer </operation> . le laisser <operation> cuire </operation> environ 1 heure . pendant ce temps : faire <operation ingredients="pommes"> cuire </operation> à la vapeur les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre . <operation ingredients="oignon;poivron;tomates"> couper </operation> l’ <ingredient action="couper" quantite="1"> oignon </ingredient> et le <ingredient action="couper"> poivron </ingredient> en fines lanières et les <ingredient action="couper" quantite="2"> tomates </ingredient> en quartier . quand le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> , <operation ingredients="oignon"> ajouter </operation> l’ <ingredient action="ajouter" quantite="1"> oignon </ingredient> , le faire <operation ingredients="tomates"> dorer </operation> , et procéder de même avec le <ingredient> poivron </ingredient> , puis les <ingredient action="dorer" quantite="2"> tomates </ingredient> . au bout de . 10 mn , <operation ingredients="pommes"> intégrer </operation> les <ingredient action="intégrer" quantite="4"> pommes </ingredient> de terre <operation> coupées </operation> . finir en <operation ingredients="crème"> incorporant </operation> la <ingredient action="incorporer"> crème </ingredient> fraîche <operation ingredients="paprika"> mélangée </operation> au <ingredient action="mélanger" quantite=""> paprika </ingredient> .
+</preparation>
+</recette>

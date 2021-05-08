@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11935">
+<titre>Salade d'orange et avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 romaine ou batavia</p>
+<p>1 concombre</p>
+<p>1 oignon violet</p>
+<p>2 avocats</p>
+<p>5 oranges</p>
+<p>le jus d'un citron</p>
+<p>15 cl de vinaigrette</p>
+<p>2 pincées de poudre de chili</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> lavez </operation> et <operation> essorez </operation> la <ingredient action="laver"> salade </ingredient> de votre choix . <operation ingredients="concombre"> nettoyez </operation> le <ingredient action="nettoyer" quantite="1"> concombre </ingredient> <ingredient action="peler" quantite="15 cl;2 pincée"> non </ingredient> <operation ingredients="non"> pelé </operation> . <operation> epluchez </operation> l' <ingredient quantite="1"> oignon </ingredient> . a l' aide d' un <ingredient> couteau </ingredient> bien aiguisé , <operation ingredients="oranges"> pelez </operation> les <ingredient action="peler" quantite="5"> oranges </ingredient> à vif et <operation> séparez </operation> les quartiers . <operation> réservez </operation> . <operation ingredients="concombre"> coupez </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en dés , <operation ingredients="oignon"> émincez </operation> l' <ingredient action="émincez" quantite="1"> oignon </ingredient> , <operation> épluchez </operation> et <operation ingredients="avocats"> taillez </operation> en lamelles les <ingredient action="tailler" quantite="2"> avocats </ingredient> . citronnez - les légèrement pour qu' elles ne <operation> noircissent </operation> pas . <operation> mélangez </operation> dans un saladier tous les ingrédients ainsi <operation> préparés </operation> . <operation> versez </operation> de la vinaigette et <operation> salez </operation> . <operation> assaisonnez </operation> de <operation> poudre </operation> chili . vous pouvez remplacer la <operation> poudre </operation> chili par un ou deux petits piments oiseaux <operation> coupés </operation> en rondelles .
+</preparation>
+</recette>

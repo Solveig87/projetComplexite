@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93412">
+<titre>Crumle saumon tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte à crumble :- 100 gr de beurre </p>
+<p>120 gr de farine </p>
+<p>60 gr de parmesan Pour la garniture :- 6 tomates </p>
+<p>5 cl de vinaigre balsamique </p>
+<p>2 beaux pavés de saumon</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en 4 et les faire <operation ingredients="vinaigre"> revenir </operation> dans une <operation> poêle </operation> avec le <ingredient action="revenir" quantite="5 cl"> vinaigre </ingredient> balsamique . faire <operation ingredients="tomates"> revenir </operation> quelques minutes chaque face des <ingredient action="revenir" quantite="6"> tomates </ingredient> . au bout d' une dizaine de minutes les <operation> disposer </operation> dans un plat , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en dés et les <operation ingredients="tomates"> disposer </operation> sur les <ingredient action="disposer" quantite="6"> tomates </ingredient> . <operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> à crumble en <operation ingredients="farine;parmesan;beurre"> mélangeant </operation> la <ingredient action="mélanger" quantite="120 gr"> farine </ingredient> , le <ingredient action="mélanger" quantite="60 gr"> parmesan </ingredient> et le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> . utiliser vos mimines c' est mieux ! <operation ingredients="pâte;saumon"> disposer </operation> la <ingredient action="disposer"> pâte </ingredient> sur le <ingredient action="disposer"> saumon </ingredient> . <operation> enfourner </operation> à four chaud , th 7 pendant 15 minutes .
+</preparation>
+</recette>

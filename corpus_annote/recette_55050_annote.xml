@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55050">
+<titre>Pommes farcies au camembert et lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes (gala par exemple) </p>
+<p>1 paquet de lardons</p>
+<p>1 camembert </p>
+<p>vin blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="lardons"> ebouillantez </operation> les <ingredient action="ebouillanter"> lardons </ingredient> , puis faites - les <operation> revenir </operation> à la <operation> poêle </operation> . <operation ingredients="pommes"> faites </operation> un chapeau aux <ingredient action="faire" quantite="4"> pommes </ingredient> . <operation> evidez </operation> , en gardant une épaisseur dans la paroi ( vous pouvez <operation ingredients="pommes;lardons"> mélanger </operation> le surplus de <ingredient action="mélanger" quantite="4"> pommes </ingredient> avec les <ingredient action="mélanger"> lardons </ingredient> ) . <operation ingredients="camembert"> coupez </operation> 3 / 4 du <ingredient action="couper" quantite="1"> camembert </ingredient> en petit dés , <operation ingredients="lardons"> mélangez </operation> aux <ingredient action="mélanger"> lardons </ingredient> et <operation ingredients="pommes"> fourrez </operation> les <ingredient action="fourrer" quantite="4"> pommes </ingredient> . <operation ingredients="camembert;pomme"> recouvrez </operation> de 2 tranches de <ingredient action="recouvrir" quantite="1"> camembert </ingredient> ( reste du <ingredient quantite="1"> camembert </ingredient> ) chaque <ingredient action="recouvrir" quantite="4"> pomme </ingredient> . <operation> mettre </operation> dans un plat , <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite=""> vin </ingredient> blanc dans ce plat . four 180 <operation> ° </operation> 20 min a déguster avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

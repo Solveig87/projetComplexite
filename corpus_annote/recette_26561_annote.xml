@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26561">
+<titre>Verrines de pamplemousse au crabe, sauce cocktail</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pamplemousses</p>
+<p>1 boîte de crabe</p>
+<p>1 salade verte croquante</p>
+<p>10 cl de crème fraîche</p>
+<p>1 cuillère à soupe de ketchup</p>
+<p>1 cuillère à café de Cognac</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crabe"> egoutter </operation> le <ingredient action="egoutter"> crabe </ingredient> et <operation ingredients="chair"> émietter </operation> la <ingredient action="émietter"> chair </ingredient> . <operation ingredients="pamplemousses"> peler </operation> les <ingredient action="peler" quantite="2"> pamplemousses </ingredient> à vif et <operation ingredients="chair"> découper </operation> la <ingredient action="découper"> chair </ingredient> en dés . <operation ingredients="salade"> disposez </operation> quelques feuilles de <ingredient action="disposer" quantite="1"> salade </ingredient> dans 4 verrines puis <operation ingredients="pamplemousse"> répartir </operation> dessus le <operation> mélange </operation> <ingredient action="répartir"> pamplemousse </ingredient> - crabe . <operation ingredients="crème;ketchup;cognac"> mélanger </operation> la <ingredient action="mélanger" quantite="10 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> ketchup </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à café"> cognac </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> répartir </operation> la sauce et <operation> réserver </operation> au frais .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66324">
+<titre>Cailles aux cerises</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 cailles</p>
+<p>2 citrons non traités</p>
+<p>1 bouteille de cidre</p>
+<p>1 bocal de cerises au sirop</p>
+<p>1 oignon</p>
+<p>sel et poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="cailles;citron"> farcir </operation> les <ingredient action="farcir" quantite="6"> cailles </ingredient> avec 1 quartier de <ingredient action="farcir" quantite="2"> citron </ingredient> et zester le reste . faire <operation ingredients="cailles;beurre;salées"> dorer </operation> les <ingredient action="dorer" quantite="6"> cailles </ingredient> dans du <ingredient action="dorer"> beurre </ingredient> après les avoir <ingredient action="dorer"> salées </ingredient> et poivrées . les <operation> retirer </operation> de la cocotte et <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> . <operation ingredients="cailles;sirop;citron"> remettre </operation> les <ingredient action="remettre" quantite="6"> cailles </ingredient> dans la cocotte , <operation ingredients="cerises"> ajouter </operation> les <ingredient action="ajouter"> cerises </ingredient> ( sans le <ingredient action="remettre"> sirop </ingredient> ) et le zeste de <ingredient action="remettre" quantite="2"> citron </ingredient> . <operation ingredients="cidre"> mouiller </operation> avec le <ingredient action="mouiller"> cidre </ingredient> et faire <operation> cuire </operation> environ 45 min à <operation> couvert </operation> . finir la cuisson à <operation> découvert </operation> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> . servir les <ingredient quantite="6"> cailles </ingredient> <operation ingredients="pommes"> accompagnées </operation> d' une purée de <ingredient action="accompagner"> pommes </ingredient> de terre . bon appétit à tous ! un graves ou un médoc
+</preparation>
+</recette>

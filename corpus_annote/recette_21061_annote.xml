@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21061">
+<titre>Gratin fondant aux pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>15 cl de crème fraîche</p>
+<p>2 jaunes d'oeufs</p>
+<p>60 g de gruyère râpé</p>
+<p>beurre</p>
+<p>noix de muscade</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau bouillante <operation> salée </operation> 20 à 30 minutes selon leur taille . les <operation> peler </operation> et les <operation> couper </operation> en rondelles . <operation> ranger </operation> ces rondelles dans un plat à gratin beurré . <operation ingredients="oeufs;crème;fromage;muscade"> fouetter </operation> les jaunes d' <ingredient action="fouetter"> oeufs </ingredient> avec la <ingredient action="fouetter" quantite="15 cl"> crème </ingredient> , le <ingredient action="fouetter"> fromage </ingredient> , sel , poivre et un pue de <ingredient action="fouetter"> muscade </ingredient> <operation> râpée </operation> . <operation ingredients="pommes"> verser </operation> sur les <ingredient action="verser" quantite="1 kilogramme"> pommes </ingredient> de terre et faire <operation> gratiner </operation> 30 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

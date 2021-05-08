@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33708">
+<titre>Gâteau de crêpes à la bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 crêpes</p>
+<p>800 g de viande de boeuf haché</p>
+<p>1 pot de 400 g de sauce tomate à la provencale</p>
+<p>125 g de mozzarella</p>
+<p>1 oignon</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> l' oignon puis <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="800 gramme"> viande </ingredient> . <operation> saler </operation> <operation> poivrer </operation> laisser un peu <operation ingredients="mozzarella"> revenir </operation> et <operation> ajouter </operation> la sauce tomate puis la moitiè de la <ingredient action="revenir" quantite="125 gramme"> mozzarella </ingredient> . laisser <operation> mijoter </operation> 10 mn . <operation> tapisser </operation> un <operation> moule </operation> à manqué d' un papier de cuisson et en commençant par une <ingredient quantite="8"> crêpe </ingredient> alterner avec la <ingredient quantite="800 gramme"> viande </ingredient> cuisinée . terminer par un peu de <ingredient quantite="800 gramme"> viande </ingredient> et <operation ingredients="mozzarella"> mettre </operation> sur le dessus le reste de la <ingredient action="mettre" quantite="125 gramme"> mozzarella </ingredient> . <operation> passer </operation> au four 20 mn th 5 ( 150 <operation> ° </operation> c ) . avec une petite <ingredient> salade </ingredient> voilà un petit repas pour le soir . un petit rosé
+</preparation>
+</recette>

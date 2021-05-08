@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47579">
+<titre>Poires poêlées au miel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 poires pas trop mûres</p>
+<p>10 cuillères à soupe de miel liquide</p>
+<p>beurre</p>
+<p>1 pincée de cannelle </p>
+<p>glace au chocolat</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> , <operation ingredients="coeur"> enlever </operation> le <ingredient action="enlever"> coeur </ingredient> et les pépins . les <operation> découper </operation> en tranches épaisses . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer"> beurre </ingredient> . une fois <operation> fondu </operation> , <operation ingredients="poires;côte"> mettre </operation> les tranches de <ingredient action="mettre" quantite="4"> poires </ingredient> <ingredient action="mettre"> côte </ingredient> à côte . <operation ingredients="miel"> arroser </operation> de <ingredient action="arroser" quantite="10 cuillère à soupe"> miel </ingredient> et <operation ingredients="cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 pincée"> cannelle </ingredient> . laisser <operation> cuire </operation> à feu moyen pendant 15 minutes environ . <operation ingredients="poires"> répartir </operation> les tranches de <ingredient action="répartir" quantite="4"> poires </ingredient> sur des assiettes et <operation ingredients="glace"> accompagner </operation> d' une boule de <ingredient action="accompagner" quantite=""> glace </ingredient> au chocolat .
+</preparation>
+</recette>

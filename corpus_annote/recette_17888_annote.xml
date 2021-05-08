@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17888">
+<titre>Jambon bourguignon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 échalotes</p>
+<p>vin blanc</p>
+<p>1 pot moyen de crème fraîche</p>
+<p>concentré de tomate</p>
+<p>4 tranches de jambon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes;crème;tomate"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> dans une <operation> poêle </operation> , <operation ingredients="vin"> mettre </operation> un verre de <ingredient action="mettre" quantite=""> vin </ingredient> blanc sec , la <ingredient action="revenir"> crème </ingredient> fraîche , le <operation> concentré </operation> de <ingredient action="revenir"> tomate </ingredient> , sel , poivre . bien <operation> mélanger </operation> et faire <operation> chauffer </operation> environs 5 mn . <operation ingredients="jambon"> rouler </operation> le <ingredient action="rouler" quantite="4 tranche"> jambon </ingredient> dans un plat allant au four , <operation> verser </operation> la sauce par dessus , <operation> mettre </operation> dans le four bien chaud ( 220 <operation> ° </operation> c ) environs 5 mn . servez bien chaud <operation ingredients="coquillettes"> accompagné </operation> de frites ou de petites <ingredient action="accompagner"> coquillettes </ingredient> . si vous ne voulez pas garder les <ingredient quantite="2"> échalotes </ingredient> , vous pouvez <operation> passer </operation> la sauce dans une passoire avant de la <operation> mettre </operation> au four
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62227">
+<titre>Verrines au chocolat mentholé et à la mangue</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat</p>
+<p>20 cl de crème liquide</p>
+<p>2 belles mangues</p>
+<p>12 feuilles de menthe</p>
+<p>4 petits beurres (ou autres biscuits secs)</p>
+</ingredients>
+<preparation>
+dans une casserole , faites <operation ingredients="crème"> chauffer </operation> la <ingredient action="chauffer" quantite="20 cl"> crème </ingredient> liquide . hors du feu , <operation> ajoutez </operation> les feuilles de mentes et laissez <operation> infuser </operation> quelques minutes . <operation ingredients="menthe"> retirez </operation> les feuilles de <ingredient action="retirer" quantite="12 feuille"> menthe </ingredient> . cassez le <ingredient quantite="200 gramme"> chocolat </ingredient> en morceaux et <operation ingredients="crème;menthe"> versez </operation> dessus la <ingredient action="verser" quantite="20 cl"> crème </ingredient> chaude à la <ingredient action="verser" quantite="12 feuille"> menthe </ingredient> . <operation> couvrez </operation> et attendez quelques minutes avant de <operation> mélanger </operation> . laisser tiedir . <operation ingredients="mangues"> pelez </operation> les <ingredient action="peler" quantite="2"> mangues </ingredient> et <operation> coupez </operation> - les en dés réguliers . <operation ingredients="crème"> versez </operation> un peu de <ingredient action="verser" quantite="20 cl"> crème </ingredient> au chocolat dans le fond des verres . puis <operation ingredients="mangue"> déposez </operation> des morceaux de <ingredient action="déposer" quantite="2"> mangue </ingredient> . terminez par de la <ingredient quantite="20 cl"> crème </ingredient> au chocolat . <operation ingredients="biscuits"> ecrasez </operation> grossièrement les <ingredient action="ecrasez"> biscuits </ingredient> et <operation> répartissez </operation> - les sur les verres . laissez refroidir 30 minutes minimum au réfrigérateur .
+</preparation>
+</recette>

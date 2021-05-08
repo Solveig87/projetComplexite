@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73094">
+<titre>Crème aux deux chocolats</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat noir </p>
+<p>100 g de chocolat blanc </p>
+<p>1 verre de lait</p>
+<p>un peu de Cornflakes</p>
+</ingredients>
+<preparation>
+dans un bol <operation ingredients="chocolat;chocolat;lait"> mettez </operation> le <ingredient action="mettre" quantite="100 gramme+100 gramme"> chocolat </ingredient> noir et le <ingredient action="mettre" quantite="100 gramme+100 gramme"> chocolat </ingredient> blanc ainsi que le verre de <ingredient action="mettre" quantite="1 verre"> lait </ingredient> . faites <operation> chauffer </operation> au micro-ondes 5 minutes . dès que le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> est <operation ingredients="chocolat"> fondu </operation> , <operation> pilez </operation> les cornflakes ( <operation> dosez </operation> à votre goût ) et <operation> ajoutez </operation> - les dans le <operation> mélange </operation> . vous pouvez éventuellement y <operation ingredients="noix;amandes"> ajouter </operation> de la <ingredient action="ajouter"> noix </ingredient> de coco , des <ingredient action="ajouter"> amandes </ingredient> . . . laissez refroidir environ 30 min .
+</preparation>
+</recette>

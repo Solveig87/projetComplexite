@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83344">
+<titre>Escalope de pintade aux pommes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de pintade</p>
+<p>2 ou 3 pommes</p>
+<p>1 peu de beurre ou de graisse d'oie</p>
+<p>1 poêle</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes"> dorer </operation> à feu fort les <ingredient action="dorer" quantite="2"> escalopes </ingredient> de pintade pendant 4 à 5 minutes du côté de la peau . <operation ingredients="pommes"> découper </operation> pendant ce temps les <ingredient action="découper" quantite="2"> pommes </ingredient> en petit dés . <operation> réduire </operation> le feu afin de faire <operation> mijoter </operation> . et <operation ingredients="escalopes"> tourner </operation> les <ingredient action="tourner" quantite="2"> escalopes </ingredient> de l' autre coté . <operation ingredients="pommes"> mettre </operation> directement les <ingredient action="mettre" quantite="2"> pommes </ingredient> dans la <operation> poêle </operation> et <operation> couvrir </operation> . voilà , très très simple mais très bon ! ( on peut <operation ingredients="lardons"> ajouter </operation> des <ingredient action="ajouter"> lardons </ingredient> pour les gourmands . . . ) .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32270">
+<titre>'champignons empoisonnés'</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oeufs durs</p>
+<p>1 tomate</p>
+<p>mayonnaise</p>
+</ingredients>
+<preparation>
+une fois les <ingredient action="couper" quantite="2"> oeufs </ingredient> durs <operation> cuits </operation> , <operation ingredients="oeufs"> couper </operation> un peu les 2 extrémités . <operation ingredients="oeuf"> poser </operation> un <ingredient action="poser" quantite="2"> oeuf </ingredient> debout et <operation ingredients="tomate"> poser </operation> dessus une 1 / 2 <ingredient action="poser" quantite="1"> tomate </ingredient> , <operation ingredients="mayonnaise"> faire </operation> quelques points de <ingredient action="faire" quantite=""> mayonnaise </ingredient> sur ce " chapeau " . voilà c' est tout . recette facile à réaliser par les petits .
+</preparation>
+</recette>

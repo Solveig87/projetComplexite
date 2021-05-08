@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20003">
+<titre>Pavés de kangourou</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de kangourou</p>
+<p>huile </p>
+<p>sel, poivre</p>
+<p>Pour la marinade :</p>
+<p>1/2 litre de vin rouge</p>
+<p>1 cuillère à café de grains de coriandre</p>
+<p>herbes de provence</p>
+<p>2 feuilles de lauriers</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la marinade et y <operation ingredients="pavés"> mettre </operation> les <ingredient action="mettre" quantite="4"> pavés </ingredient> pendant 48 heures . le jour du repas , sortir les <ingredient quantite="4"> pavés </ingredient> et les laisser <operation> égoutter </operation> ou les <operation> éponger </operation> avec du papier absorbant . les <operation> cuire </operation> à la <operation> poêle </operation> selon votre goût . quelques minutes suffisent si vous aimez la <ingredient> viande </ingredient> saignante . <operation> filtrer </operation> la marinade , et se servir du <ingredient> jus </ingredient> obtenu pour <operation ingredients="vin"> faire </operation> " une sauce marchand de <ingredient action="faire"> vin </ingredient> ( vigneronne ) " , trouvée sur ce site . servir chaud , <operation> nappés </operation> de cette sauce . <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

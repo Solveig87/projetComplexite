@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19871">
+<titre>Nougat glacé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>40 cl de crème fleurette</p>
+<p>120 g de sucre</p>
+<p>100 g de miel d'acacia</p>
+<p>150 g d'amandes</p>
+<p>75 g de pistaches</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pistaches;amandes"> griller </operation> les <ingredient action="griller" quantite="75 gramme"> pistaches </ingredient> et les <ingredient action="griller" quantite="150 gramme"> amandes </ingredient> dans une <operation> poêle </operation> , les <operation ingredients="sucre"> poudrer </operation> de <ingredient action="poudrer" quantite="120 gramme"> sucre </ingredient> et laisser caraméliser . <operation> séparer </operation> les blancs des jaunes . faite <operation ingredients="miel"> chauffer </operation> le <ingredient action="chauffer" quantite="100 gramme"> miel </ingredient> . <operation> fouetter </operation> les blancs en neige puis <operation ingredients="miel"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> miel </ingredient> bouillant . <operation ingredients="sucre"> ajouter </operation> le reste du <ingredient action="ajouter" quantite="120 gramme"> sucre </ingredient> aux jaunes et <operation> fouetter </operation> . <operation> incorporer </operation> les blancs . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter" quantite="40 cl"> crème </ingredient> en chantilly et l' <operation> ajouter </operation> à la 1ère préparation . puis enfin <operation ingredients="pistaches;amandes"> mettre </operation> les <ingredient action="mettre" quantite="75 gramme"> pistaches </ingredient> et les <ingredient action="mettre" quantite="150 gramme"> amandes </ingredient> <operation> concassées </operation> . <operation> mettre </operation> dans un <operation> moule </operation> à cake de préférence en silicone sinon <operation> mettre </operation> un film alimentaire au fond du <operation> moule </operation> afin de pouvoir <operation> démouler </operation> le nougat plus facilement . <operation> mettre </operation> au congélateur au moins 12 h avant de servir .
+</preparation>
+</recette>

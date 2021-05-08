@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211959">
+<titre>Bouillon de bulots</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de bulots cuits décortiqués</p>
+<p>1 litre de bouillon cube</p>
+<p>2 branches de céleri</p>
+<p>4 carottes</p>
+<p>1 petit piment oiseau (si on aime épicé)</p>
+<p>1 cuillère à café de gingembre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="céleri;carottes"> couper </operation> le <ingredient action="couper"> céleri </ingredient> et les <ingredient action="couper" quantite="4"> carottes </ingredient> en petits morceaux , les <operation ingredients="bouillon"> mettre </operation> dans le <ingredient action="mettre" quantite="1 litre"> bouillon </ingredient> . <operation ingredients="bouillon"> ajouter </operation> , à ce <ingredient action="ajouter" quantite="1 litre"> bouillon </ingredient> , les bulots <operation> décortiqués </operation> et <operation> passés </operation> à l' eau afin de les débarrasser des petits éclats de coquille . <operation ingredients="poivre"> assaisonner </operation> ( attention au <ingredient action="assaisonner" quantite=""> poivre </ingredient> , si vous optez pour le petit piment ) . laisser <operation ingredients="bouillons"> cuire </operation> 30 min à petits <ingredient action="cuire" quantite="1 litre"> bouillons </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83766">
+<titre>Soupe potiron marron simplissime</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/4 de potiron</p>
+<p>500 g de marrons en boite</p>
+<p>1 oignon</p>
+<p>1 cube de bouillon de volaille</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron"> éplucher </operation> le <ingredient action="éplucher"> potiron </ingredient> et le <operation> couper </operation> grossièrement en morceaux . le <operation ingredients="marrons;oignon"> mettre </operation> avec les <ingredient action="mettre" quantite="500 gramme"> marrons </ingredient> et l' <ingredient action="mettre" quantite="1"> oignon </ingredient> dans un casserole . <operation> recouvrir </operation> d' eau , <operation ingredients="bouillon"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> à souhait . faire <operation> cuire </operation> . planter un <ingredient> couteau </ingredient> dans le <ingredient> potiron </ingredient> . la <ingredient> soupe </ingredient> est prête lorsque le <ingredient action="enfoncer"> couteau </ingredient> s' <operation ingredients="couteau;potiron"> enfonce </operation> facilement dans le <ingredient action="enfoncer"> potiron </ingredient> . <operation> mixer </operation> le tout et déguster . cette préparation est un peu liquide : si vous préférez les <ingredient action="mettre"> soupes </ingredient> plus consistantes <operation ingredients="soupes"> mettre </operation> moins d' eau qu' indiqué dans la recette ou <operation ingredients="pommes"> ajouter </operation> à la préparation 1 ou 2 <ingredient action="ajouter"> pommes </ingredient> de terre .
+</preparation>
+</recette>

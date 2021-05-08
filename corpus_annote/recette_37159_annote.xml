@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37159">
+<titre>Gratin de pâtes au thon et aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes courtes (torsettes, penne ou coudes)</p>
+<p>500 g de sauce tomates cuisinée</p>
+<p>200 g d'emmental râpé</p>
+<p>400 g de thon au naturel</p>
+<p>2 gousses d'ail</p>
+<p>100 g de champignons frais émincés</p>
+<p>100 g d'haricots plats</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="thon;huile;gousses;champignons;haricots"> dorer </operation> le <ingredient action="dorer" quantite="400 gramme"> thon </ingredient> <operation> émietté </operation> dans une sauteuse , avec une cuillérée d' <ingredient action="dorer"> huile </ingredient> d' olive , les <ingredient action="dorer" quantite="2"> gousses </ingredient> d' ail <operation> émincées </operation> , les <ingredient action="dorer" quantite="100 gramme"> champignons </ingredient> et les <ingredient action="dorer" quantite="100 gramme"> haricots </ingredient> . <operation> mélanger </operation> , <operation> ajouter </operation> la sauce tomate , laisser <operation> mijoter </operation> pendant que les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> <operation ingredients="pâtes"> cuisent </operation> . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter" quantite="500 gramme"> pâtes </ingredient> avant qu' elles ne soient complétement <operation> cuites </operation> . <operation ingredients="gruyère"> mélanger </operation> dans un saladier avec la sauce et la moitié du <ingredient action="mélanger"> gruyère </ingredient> . <operation> verser </operation> dans un plat à gratin , <operation ingredients="gruyère"> ajouter </operation> une couche de <ingredient action="ajouter"> gruyère </ingredient> au milieu et au dessus . faire <operation> gratiner </operation> 10 min au four sous le grill . parfait pour les bouffes d' étudiants !
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35677">
+<titre>Cailles aux petits oignons et champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cailles prêtes à cuire</p>
+<p>125 g de petits oignons grelots</p>
+<p>125 g de petits champignons</p>
+<p>30 g de beurre</p>
+<p>1 cuillère d'huile</p>
+<p>10 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte <operation ingredients="beurre"> mettre </operation> le <ingredient action="mettre" quantite="30 gramme"> beurre </ingredient> . faire <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="125 gramme"> oignons </ingredient> , les <operation> retirer </operation> , à la <operation> place </operation> <operation ingredients="cailles"> colorer </operation> les <ingredient action="colorer" quantite="4"> cailles </ingredient> , les <operation> assaisonner </operation> . <operation ingredients="vin;oignons"> verser </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> blanc , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme"> champignons </ingredient> et les <ingredient action="verser" quantite="125 gramme"> oignons </ingredient> . fermer la cocotte . dès que la vapeur s' échappe , baisser le feu et laisser <operation> cuire </operation> 10 mn . servir les <ingredient quantite="4"> cailles </ingredient> <operation> entourées </operation> de la garniture de votre choix et de la sauce . nuits saint-georges
+</preparation>
+</recette>

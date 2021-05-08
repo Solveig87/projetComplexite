@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32661">
+<titre>Mon gratin de courgettes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 escalopes de dinde</p>
+<p>3 courgettes</p>
+<p>1 petit oignon</p>
+<p>1 morceau de chorizo (5 cm) </p>
+<p>1 pot de concentré de tomates</p>
+<p>2 cuillères à soupe de crème fraîche liquide</p>
+<p>1 petit paquet de gruyère râpé</p>
+<p>80 g de roquefort</p>
+<p>épices : paprika, origan, ail, sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="3"> viande </ingredient> <operation> coupée </operation> en dés dans 1 cuillère à soupe d' huile , <operation> réserver </operation> . faire <operation ingredients="chorizo"> revenir </operation> le <ingredient action="revenir"> chorizo </ingredient> <operation ingredients="matière"> coupé </operation> en dés ( sans <ingredient action="couper" quantite=""> matière </ingredient> grasse ) . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> , faire <operation> dorer </operation> . <operation> ajouter </operation> les courgettes en dés , laisser <operation> cuire </operation> 5 mn . <operation ingredients="viande"> incorporer </operation> la <ingredient action="incorporer" quantite="3"> viande </ingredient> . <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite=""> épices </ingredient> , bien <operation> mélanger </operation> . <operation> verser </operation> le <operation> mélange </operation> <operation ingredients="tomates"> concentré </operation> de <ingredient action="concentrer"> tomates </ingredient> + crème . laisser <operation> mijoter </operation> encore 5 mn sans <operation> couvrir </operation> pour <operation ingredients="jus"> réduire </operation> un peu le <ingredient action="réduire"> jus </ingredient> . <operation ingredients="gruyère"> mélanger </operation> 1 / 4 du <ingredient action="mélanger"> gruyère </ingredient> avec la préparation juste avant de <operation> mettre </operation> dans le <operation> moule </operation> . <operation ingredients="roquefort"> parsemer </operation> de miette de <ingredient action="parsemer" quantite="80 gramme"> roquefort </ingredient> , et <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir"> gruyère </ingredient> . <operation> enfourner </operation> à four chaud ( 200 <operation> ° </operation> c ) 5 mn puis au grill 5 mn . se <ingredient> mange </ingredient> seul ou <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> blanc . rouge
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19159">
+<titre>Désir  noir</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>25 cl de sucre de canne liquide</p>
+<p>200 g de beurre</p>
+<p>250 g de chocolat</p>
+<p>3 oeufs</p>
+<p>75 g de farine</p>
+<p>un sachet de levure</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="25 cl"> sucre </ingredient> de canne dans une casserole . <operation ingredients="beurre;chocolat"> découper </operation> le <ingredient action="découper" quantite="200 gramme"> beurre </ingredient> et le <ingredient action="découper" quantite="250 gramme"> chocolat </ingredient> en morceaux et les faire <operation ingredients="sucre"> fondre </operation> dans le <ingredient action="fondre" quantite="25 cl"> sucre </ingredient> chaud . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> entiers , <operation ingredients="farine;levure"> incorporer </operation> la <ingredient action="incorporer" quantite="75 gramme"> farine </ingredient> et la <ingredient action="incorporer"> levure </ingredient> . <operation> beurrer </operation> un <operation> moule </operation> à manquer et <operation> verser </operation> la préparation dans le <operation> moule </operation> . <operation> mettre </operation> au four 180 <operation> ° </operation> c pendant 25 mn , vérifier la cuisson avec la lame d' un <ingredient> couteau </ingredient> . vous pouvez <operation> incoporer </operation> à la préparation des cerneaux de <ingredient> noix </ingredient> . servir avec une <ingredient> glace </ingredient> <ingredient> vanille </ingredient> ou une <ingredient> crème </ingredient> anglaise ou un coulis de <ingredient> framboise </ingredient> . champagne
+</preparation>
+</recette>

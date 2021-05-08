@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171787">
+<titre>Loubia</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande de mouton (ou de bœuf)</p>
+<p>300 g de haricots secs</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>3 gousses d'ail</p>
+<p>1 cuillère à café de cumin en grain</p>
+<p>1 l d'eau</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+la veille , faire <operation ingredients="haricots"> tremper </operation> les <ingredient action="tremper" quantite="300 gramme"> haricots </ingredient> secs dans 1 l d' eau . le lendemain , bien les <operation> rincer </operation> . dans une cocotte , faire <operation ingredients="viande;tomate;ail;cumin"> revenir </operation> la <ingredient action="revenir" quantite="500 gramme"> viande </ingredient> et <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> haricots </ingredient> , le <operation> concentré </operation> de <ingredient action="revenir"> tomate </ingredient> , l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir" quantite="1 cuillère à café"> cumin </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . puis <operation> recouvrir </operation> d' eau et laisser <operation> mijoter </operation> environ 2 h à feu doux .
+</preparation>
+</recette>

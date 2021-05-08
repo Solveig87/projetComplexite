@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="175225">
+<titre>Blancs de poulet aux marrons et aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>400 g de marrons cuits en boîte</p>
+<p>1 oignon</p>
+<p>3 cuillères à café de miel</p>
+<p>250 g de champignons</p>
+<p>5 cl de crème liquide</p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> , <operation ingredients="poulet;champignons"> émincer </operation> les blancs de <ingredient action="émincer"> poulet </ingredient> et les <ingredient action="émincer" quantite="250 gramme"> champignons </ingredient> . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans de l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive puis <operation ingredients="poulet;champignons"> ajouter </operation> les blancs de <ingredient action="ajouter"> poulet </ingredient> et les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> . <operation ingredients="miel"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à café"> miel </ingredient> et <operation> refaire </operation> <operation> revenir </operation> . <operation ingredients="marrons;jus;crème"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> marrons </ingredient> avec leur <ingredient action="ajouter"> jus </ingredient> et la <ingredient action="ajouter" quantite="5 cl"> crème </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> réduire </operation> . <operation ingredients="gnocchis;pommes"> accompagner </operation> de <ingredient action="accompagner"> gnocchis </ingredient> ou de <ingredient action="accompagner"> pommes </ingredient> de terre . bon appétit : )
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61827">
+<titre>Longe de porc du paresseux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 filet de porc</p>
+<p>3 branches d'estragon frais</p>
+<p>3 branches de persil frais</p>
+<p>25 cl de bouillon de boeuf</p>
+<p>3 oignons</p>
+<p>4 pommes de terre moyennes</p>
+<p>sel et poivre au goût</p>
+<p>1 cuillère à thé d'huile d'olive ou de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans un chaudron . quand le <ingredient action="fondre"> beurre </ingredient> est <operation ingredients="beurre;oignons;pommes"> fondu </operation> , <operation> ajouter </operation> le reste des ingrédients , en commençant par le filet de <ingredient> porc </ingredient> , puis les herbes , les <ingredient action="fondre" quantite="3"> oignons </ingredient> et les <ingredient action="fondre" quantite="4"> pommes </ingredient> de terre . terminer par le <ingredient quantite="25 cl"> bouillon </ingredient> et l' <ingredient quantite=""> assaisonnement </ingredient> ( sel et poivre ) . laisser <operation> mijoter </operation> à feu doux pendant environ 1 heure .
+</preparation>
+</recette>

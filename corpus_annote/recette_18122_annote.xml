@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18122">
+<titre>Potage de légumes au basilic</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>3 tomates </p>
+<p>2 carottes</p>
+<p>1 branche de céleri</p>
+<p>1 courgette</p>
+<p>1 pomme de terre</p>
+<p>4 feuilles de basilic</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> coupez </operation> tous ces petits <ingredient action="couper" quantite="1;3;2;1"> légumes </ingredient> en petits cubes , la <ingredient action="mettre" quantite="3"> tomate </ingredient> <operation> ébouillantée </operation> et <operation> épluchée </operation> <operation> coupée </operation> en petits cubes , <operation ingredients="tomate"> mettez </operation> dans un faitout et <operation> couvrez </operation> largement d' eau . faites <operation> cuire </operation> , <operation> salez </operation> avant la fin de cuisson . en fin de cuisson , <operation> éteignez </operation> le feu <operation ingredients="basilic;huile"> mettre </operation> le <ingredient action="mettre" quantite="4 feuille"> basilic </ingredient> et l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . laissez <operation> infuser </operation> . on peut <ingredient> manger </ingredient> ce potage tiède ( pour le <ingredient> céleri </ingredient> <operation> mettre </operation> les feuilles , ou si on aime plus craquant <operation> mettre </operation> la branche <operation> coupée </operation> en petits cubes ) . un potage trés peu calorique rosé
+</preparation>
+</recette>

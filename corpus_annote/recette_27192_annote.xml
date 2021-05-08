@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27192">
+<titre>SANDWICH AUX POMMES DE TERRE ET AUX SAUCISSES</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>16 tranches de pain de mie carré par sandwich</p>
+<p>8 saucisses </p>
+<p>8 pommes de terre rouges</p>
+<p>4 œufs durs </p>
+<p>vinaigrette</p>
+<p>oignon</p>
+<p>persil</p>
+<p>moutarde </p>
+</ingredients>
+<preparation>
+<operation> remplir </operation> d’ eau une casserole , y <operation ingredients="saucisses"> déposer </operation> les <ingredient action="déposer" quantite="8"> saucisses </ingredient> et les faire <operation> cuire </operation> . <operation> réserver </operation> . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre en robe des champs et <operation> réserver </operation> . écaler les <ingredient quantite="4"> œufs </ingredient> durs . <operation ingredients="saucisses;pommes"> trancher </operation> les <ingredient action="trancher" quantite="8"> saucisses </ingredient> et les <ingredient action="trancher" quantite="8"> pommes </ingredient> de terre en lamelles . <operation ingredients="pommes"> napper </operation> les <ingredient action="napper" quantite="8"> pommes </ingredient> de terre de vinaigrette . <operation ingredients="oignon;persil;oeufs"> ajouter </operation> l’ <ingredient action="ajouter" quantite=""> oignon </ingredient> <operation> émincé </operation> , le <ingredient action="ajouter" quantite=""> persil </ingredient> et les <ingredient action="ajouter"> oeufs </ingredient> durs <operation> hachés </operation> . <operation ingredients="pain"> couper </operation> le <ingredient action="couper" quantite="16 tranche"> pain </ingredient> de mie en deux afin de <operation> former </operation> des triangles et les <operation ingredients="moutarde"> tartiner </operation> de <ingredient action="tartiner" quantite=""> moutarde </ingredient> . <operation ingredients="pommes;œufs;pain"> déposer </operation> les <ingredient action="déposer" quantite="8"> pommes </ingredient> de terre et les <ingredient action="déposer" quantite="4"> œufs </ingredient> sur les tranches de <ingredient action="déposer" quantite="16 tranche"> pain </ingredient> et <operation ingredients="saucisse"> recouvrir </operation> de tranches de <ingredient action="recouvrir" quantite="8"> saucisse </ingredient> . <operation ingredients="sandwichs"> refermer </operation> les <ingredient action="refermer"> sandwichs </ingredient> .
+</preparation>
+</recette>

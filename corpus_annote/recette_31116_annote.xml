@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31116">
+<titre>Poivrons aux merguez</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons rouges</p>
+<p>2 poivrons jaunes</p>
+<p>2 poivrons verts</p>
+<p>300 g de boeuf haché</p>
+<p>300 g de merguez</p>
+<p>1 oeuf</p>
+<p>1 oignon</p>
+<p>mie de pain rassie</p>
+<p>du lait</p>
+<p>1 poignée de fromage râpé</p>
+<p>ail en poudre</p>
+<p>persil </p>
+<p>sel et poivre</p>
+<p>240 g de riz</p>
+<p>1/2 cube de bouillon</p>
+</ingredients>
+<preparation>
+pour la farce : <operation ingredients="merguez"> videz </operation> les <ingredient action="vider" quantite="300 gramme"> merguez </ingredient> et <operation ingredients="viande"> mélangez </operation> - les à la <ingredient action="mélanger" quantite="300 gramme;300 gramme"> viande </ingredient> hachée . <operation ingredients="oeuf;oignon"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> haché finement , la mie de <ingredient> pain </ingredient> <operation> trempée </operation> dans du <ingredient quantite=""> lait </ingredient> et la poignée de <ingredient> fromage </ingredient> <operation> râpé </operation> . <operation ingredients="ail"> ajoutez </operation> <ingredient action="ajouter" quantite=""> ail </ingredient> , persil , sel et poivre . bien <operation> mélanger </operation> . <operation ingredients="poivrons"> coupez </operation> les <ingredient action="couper"> poivrons </ingredient> au niveau du chapeau et <operation> videz </operation> - les de leurs pépins . <operation> remplissez </operation> - les abondamment de farce . <operation ingredients="riz"> etalez </operation> du <ingredient action="etaler" quantite="240 gramme"> riz </ingredient> dans un plat à gratin et <operation ingredients="poivrons"> posez </operation> les <ingredient action="poser"> poivrons </ingredient> dessus . <operation ingredients="bouillon"> versez </operation> 2 / 3 verres d' eau et le <ingredient action="verser"> bouillon </ingredient> en cube <operation> écrasé </operation> . <operation> mettre </operation> au four à 210 <operation> ° </operation> c pendant 1 heure
+</preparation>
+</recette>

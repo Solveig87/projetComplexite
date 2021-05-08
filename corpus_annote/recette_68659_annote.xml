@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68659">
+<titre>Embeurrée de chou vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou vert frisé</p>
+<p>4 pommes de terre</p>
+<p>1 saucisson à l'ail cuit</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient quantite="4"> pommes </ingredient> de terre et les <operation> couper </operation> en tranches . <operation ingredients="chou"> couper </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> vert en 4 , <operation ingredients="côtes"> enlever </operation> les <ingredient action="enlever"> côtes </ingredient> . <operation ingredients="chou;pommes;sel"> mettre </operation> le <ingredient action="mettre" quantite="1"> chou </ingredient> et les <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre dans une grande casserole avec du gros <ingredient action="mettre" quantite=""> sel </ingredient> et <operation> couvrir </operation> d' eau froide . <operation> porter </operation> à <operation> ébullition </operation> puis <operation> cuire </operation> à feu doux pendant 20 min environ . préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . quand les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , le <ingredient quantite="1"> chou </ingredient> l' est aussi . <operation> egoutter </operation> les <ingredient quantite="1;4"> légumes </ingredient> puis les <operation> découper </operation> en petits morceaux . les <operation ingredients="beurre"> mélanger </operation> avec quelques morceaux de <ingredient action="mélanger"> beurre </ingredient> , sel et poivre . <operation> placer </operation> dans le plat allant au four . <operation ingredients="saucisson;ail"> découper </operation> le <ingredient action="découper" quantite="1"> saucisson </ingredient> à l' <ingredient action="découper"> ail </ingredient> en tranches de 1 cm et les <operation ingredients="légumes"> déposer </operation> sur les <ingredient action="déposer" quantite="1;4"> légumes </ingredient> chauds . <operation ingredients="saucisson"> placer </operation> dans le four jusqu' à ce que le <ingredient action="placer" quantite="1"> saucisson </ingredient> <operation> grille </operation> légèrement ( 20 min ) .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40065">
+<titre>Salade de champignons au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boite de thon au naturel (ou à l'huile d'olive)</p>
+<p>1 barquette de champignons de Paris frais</p>
+<p>vinaigre</p>
+<p>huile d'olive (si thon au naturel)</p>
+<p>ciboulette, persil</p>
+<p>6 échalotes</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer"> champignons </ingredient> dans un saladier . <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter"> thon </ingredient> dans le saladier . si <ingredient> thon </ingredient> au naturel : <operation ingredients="huile"> assaisonner </operation> avec un filet d' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive + vinaigre . si <ingredient action="ajouter"> thon </ingredient> à l' <ingredient action="ajouter" quantite=""> huile </ingredient> : <operation ingredients="thon;huile;vinaigre"> ajouter </operation> un filet de <ingredient action="ajouter" quantite=""> vinaigre </ingredient> . <operation> ciseler </operation> les herbes et <operation ingredients="échalote"> ajouter </operation> l' <ingredient action="ajouter" quantite="6"> échalote </ingredient> émincéemélanger le tout et servir frais ! a consommer rapidement après la préparation car les <ingredient action="noircir"> champignons </ingredient> <operation ingredients="champignons"> noircissent </operation> . . . cela reste bon mais beaucoup moins présentable devant les invités : o )
+</preparation>
+</recette>

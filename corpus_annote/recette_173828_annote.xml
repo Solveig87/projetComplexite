@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173828">
+<titre>Croque-monsieur au foie gras et au magret de canard fumé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>150 g de foie gras</p>
+<p>90 g de magret de canard fumé (en tranches)</p>
+<p>25 g de graisse de canard (ou de beurre)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> retirer </operation> la croûte des tranches du <ingredient action="retirer" quantite="8 tranche"> pain </ingredient> de mie ( pour l' esthétique ) . <operation ingredients="pain;graisse;beurre;foie"> tartiner </operation> l' extérieur des 8 tranches de <ingredient action="tartiner" quantite="8 tranche"> pain </ingredient> de mie avec la <ingredient action="tartiner" quantite="25 gramme"> graisse </ingredient> de canard ( ou le <ingredient action="tartiner"> beurre </ingredient> ) et l' intérieur avec le <ingredient action="tartiner" quantite="150 gramme"> foie </ingredient> gras en couche épaisse . sur 4 d' entre elles , <operation ingredients="magret;foie"> disposer </operation> 2 tranches de <ingredient action="disposer" quantite="90 gramme"> magret </ingredient> de canard sur le <ingredient action="disposer" quantite="150 gramme"> foie </ingredient> gras ( en diagonale ) . <operation> toaster </operation> les croque - monsieur pendant 1 min ( le temps de les <operation> dorer </operation> ) . servir sur un lit de <ingredient> salade </ingredient> ( frisée ou <ingredient> roquette </ingredient> ) . <ingredient> vin </ingredient> blanc fruité
+</preparation>
+</recette>

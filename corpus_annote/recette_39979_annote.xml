@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39979">
+<titre>Soupe à la bière</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>bouillon de volaille</p>
+<p>1 canette de bière (33cl)</p>
+<p>250 g de biscottes</p>
+<p>sel et poivre </p>
+<p>muscade</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon"> faire </operation> 1 , 5 litre de <ingredient action="faire" quantite=""> bouillon </ingredient> de volaille . <operation ingredients="bière;biscottes"> ajoutez </operation> - y la <ingredient action="ajouter"> bière </ingredient> et les <ingredient action="ajouter" quantite="250 gramme"> biscottes </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et faire <operation> cuire </operation> très doucement pendant 30 min . <operation> passez </operation> le tout au mixeur . <operation ingredients="muscade;crème"> ajoutez </operation> la <ingredient action="ajouter" quantite=""> muscade </ingredient> et la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche selon vos goût pour que la <ingredient> soupe </ingredient> devienne veloutée .
+</preparation>
+</recette>

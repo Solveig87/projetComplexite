@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24879">
+<titre>Salade d'automne sauce roquefort</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de riz cuit</p>
+<p>1/2 salade frisée</p>
+<p>1/4 de chou rouge</p>
+<p>100 g de roquefort</p>
+<p>100 g de cerneaux de noix</p>
+<p>5 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> emincez </operation> ou <operation> râpez </operation> le <ingredient action="emincez"> chou </ingredient> rouge au robot . <operation ingredients="salade"> lavez </operation> et <operation> découpez </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> . <operation ingredients="noix"> concassez </operation> les <ingredient action="concasser"> noix </ingredient> grossièrement . <operation ingredients="riz"> mélangez </operation> le tout avec le <ingredient action="mélanger"> riz </ingredient> . <operation ingredients="roquefort;huile;vinaigre;poivre"> travaillez </operation> le <ingredient action="travailler" quantite="100 gramme"> roquefort </ingredient> avec l' <ingredient action="travailler" quantite="5 cuillère à soupe"> huile </ingredient> , le <ingredient action="travailler" quantite="2 cuillère à soupe"> vinaigre </ingredient> et un peu de <ingredient action="travailler" quantite=""> poivre </ingredient> . <operation> salez </operation> si nécessaire ( au goût ) . <operation ingredients="salade"> mélangez </operation> cette sauce avec la <ingredient action="mélanger" quantite="1"> salade </ingredient> et servez bien frais . <operation ingredients="lardons;salade"> ajoutez </operation> des <ingredient action="ajouter"> lardons </ingredient> et la <ingredient action="ajouter" quantite="1"> salade </ingredient> est complète !
+</preparation>
+</recette>

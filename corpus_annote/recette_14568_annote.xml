@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14568">
+<titre>Salade de penne au pesto</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de penne rigate</p>
+<p>1 belle tomate</p>
+<p>200 g de fèves fraîches (ou surgelées)</p>
+<p>2 petits oignons blancs</p>
+<p>1 bouquet de basilic</p>
+<p>parmesan</p>
+<p>Pour la sauce :</p>
+<p>12 feuilles de basilic</p>
+<p>1 cuillère à soupe de pignons</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère de vinaigre de vin</p>
+<p>3 cuillère d'huile d'olive</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="fèves"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> fèves </ingredient> 5 à 10 mn à <operation> couvert </operation> dans de l' eau bouillante <operation> salée </operation> . <operation> egouttez </operation> - les et laissez tièdir puis otez leur fine peau . <operation ingredients="pesto;basilic;pignons;ail;huile;vinaigre;sel;poivre"> faites </operation> la sauce au <ingredient action="faire"> pesto </ingredient> : <operation> mixez </operation> en purée les feuilles de <ingredient action="faire" quantite="12 feuille"> basilic </ingredient> , les <ingredient action="faire" quantite="1 cuillère à soupe"> pignons </ingredient> , l' <ingredient action="faire"> ail </ingredient> , l' <ingredient action="faire" quantite="3 cuillère"> huile </ingredient> , le <ingredient action="faire" quantite="1 cuillère"> vinaigre </ingredient> , le <ingredient action="faire" quantite=""> sel </ingredient> et le <ingredient action="faire" quantite=""> poivre </ingredient> . <operation> ebouillantez </operation> et <operation ingredients="tomate"> pelez </operation> la <ingredient action="peler" quantite="1"> tomate </ingredient> , <operation> épépinez </operation> - la et <operation> taillez </operation> - la en dés . <operation ingredients="oignons"> pelez </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> et <operation> émincez </operation> - les . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> selon votre goût . rafraichissez - les et <operation> égouttez </operation> - les . <operation> versez </operation> - les dans un saladier . <operation ingredients="fèves;tomate;oignons"> mélangez </operation> - y les <ingredient action="mélanger" quantite="200 gramme"> fèves </ingredient> , les dés de <ingredient action="mélanger" quantite="1"> tomate </ingredient> et les <ingredient action="mélanger" quantite="2"> oignons </ingredient> . <operation ingredients="pesto;basilic"> arrosez </operation> de sauce <ingredient action="arroser"> pesto </ingredient> , <operation> parsemez </operation> de feuilles de <ingredient action="arroser" quantite="12 feuille"> basilic </ingredient> et <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . si la sauce est trop épaisse , allongez - la avec un peu d' eau .
+</preparation>
+</recette>

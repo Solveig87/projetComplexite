@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50348">
+<titre>Melon au rhum caramélisé au barbecue</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 melon</p>
+<p>50 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>2 cl de rhum ambré</p>
+<p>20 cl d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop"> préparez </operation> un <ingredient action="préparer"> sirop </ingredient> en <operation ingredients="rhum;sucres"> mélangeant </operation> l' eau , le <ingredient action="mélanger" quantite="2 cl"> rhum </ingredient> et les <ingredient action="mélanger" quantite="50 gramme"> sucres </ingredient> . <operation ingredients="melon"> coupez </operation> le <ingredient action="couper" quantite="1"> melon </ingredient> dans toute sa longueur en tranches horizontales de 3 à 4 cm d' épaisseur . <operation> ôtez </operation> les pépins . <operation ingredients="melon;sirop"> trempez </operation> les tranches de <ingredient action="trempez" quantite="1"> melon </ingredient> dans le <ingredient action="trempez"> sirop </ingredient> aromatisé au <ingredient quantite="2 cl"> rhum </ingredient> puis faites les <operation> cuire </operation> au barbecue 5 minutes de chaque côté . le temps de cuisson peut varier selon la chaleur que dégage votre barbecue .
+</preparation>
+</recette>

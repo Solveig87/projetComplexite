@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65295">
+<titre>Salade très composée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la salade :</p>
+<p>90 g de pousses de soja</p>
+<p>1 grande carotte</p>
+<p>50 g de maïs</p>
+<p>1 petit oignon</p>
+<p>6 bâtonnets de crabe (surimi)Pour la vinaigrette :</p>
+<p>1,5 cuillère à soupe de sauce soja</p>
+<p>2 cuillères à soupe de vinaigre de miel</p>
+<p>4 cuillères à soupe d'huile de tournesol</p>
+<p>1/2 cuillère à café de gingembre moulu</p>
+<p>1,5 cuillère à café de cassonade</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation ingredients="pousses"> égoutter </operation> les <ingredient action="égoutter" quantite="90 gramme"> pousses </ingredient> de soja puis les <operation> déposer </operation> dans le plat à salade . <operation> nettoyer </operation> et <operation ingredients="maïs"> égoutter </operation> le <ingredient action="égoutter" quantite="50 gramme"> maïs </ingredient> . <operation ingredients="carotte"> eplucher </operation> puis <operation> râper </operation> la <ingredient action="eplucher" quantite="1"> carotte </ingredient> . <operation ingredients="maïs;carotte"> mélanger </operation> le <ingredient action="mélanger" quantite="50 gramme"> maïs </ingredient> et la <ingredient action="mélanger" quantite="1"> carotte </ingredient> <operation> râpée </operation> puis les <operation ingredients="pousses"> déposer </operation> sur les <ingredient action="déposer" quantite="90 gramme"> pousses </ingredient> de soja dans le saladier . <operation ingredients="oignon"> hâcher </operation> très finement l' <ingredient action="hâcher" quantite="1"> oignon </ingredient> puis le <operation> déposer </operation> sur les ingrédients dans le saladier . <operation ingredients="crabe"> couper </operation> en très petits morceaux les bâtonnets de <ingredient action="couper"> crabe </ingredient> puis en <operation> recouvrir </operation> le <operation> mélange </operation> dans le saladier . <operation> mélanger </operation> tous les ingrédients prévus pour la vinaigrette jusqu' à ce que la <ingredient action="dissoudre" quantite="1,5 cuillère à café"> cassonade </ingredient> se soit bien <operation ingredients="cassonade"> dissoute </operation> puis la <operation> verser </operation> sur le <operation> mélange </operation> dans le saladier . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

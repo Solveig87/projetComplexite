@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23871">
+<titre>Escalopes de dinde panées</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de blanc de dinde</p>
+<p>100 g de miettes de pain rassis</p>
+<p>15 cl de lait</p>
+<p>2 oeufs (1 entier et 1 jaune)</p>
+<p>3 à 4 cuillères à soupe de farine</p>
+<p>3 à 4 cuillères à soupe de chapelure</p>
+<p>quelques noisettes de beurre</p>
+<p>1 citron jaune découpé en rondelles</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> réduire </operation> le <ingredient action="réduire"> pain </ingredient> rassis en miettes et le faire <operation ingredients="lait"> gonfler </operation> dans un peu de <ingredient action="gonfler" quantite="15 cl"> lait </ingredient> . puis l' <operation> égoutter </operation> . pendant ce temps , <operation ingredients="dinde"> hacher </operation> les blancs de <ingredient action="hacher"> dinde </ingredient> puis les <operation ingredients="pain;oeuf"> mélanger </operation> avec la mie de <ingredient action="mélanger"> pain </ingredient> et le jaune d' <ingredient action="mélanger" quantite="2"> oeuf </ingredient> . refaçonner le <operation> mélange </operation> en <ingredient> escalopes </ingredient> , en tassant à la main . <operation> préparer </operation> 3 assiettes : une pour contenir de <ingredient> farine </ingredient> , l' autre pour contenir l' <ingredient quantite="2"> oeuf </ingredient> entier <operation> battu </operation> et la dernière pour y <operation ingredients="chapelure"> mettre </operation> la <ingredient action="mettre"> chapelure </ingredient> . <operation ingredients="escalopes;farine;oeufs;chapelure"> rouler </operation> les <ingredient action="rouler"> escalopes </ingredient> successivement dans la <ingredient action="rouler"> farine </ingredient> , puis dans les <ingredient action="rouler" quantite="2"> oeufs </ingredient> et enfin dans la <ingredient action="rouler"> chapelure </ingredient> . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer"> beurre </ingredient> , puis <operation ingredients="escalopes"> mettre </operation> les <ingredient action="mettre"> escalopes </ingredient> <operation> panées </operation> à <operation> cuire </operation> sur feu doux pour <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire"> viande </ingredient> puis sur feu vif pour <operation ingredients="chapelure"> dorer </operation> la <ingredient action="dorer"> chapelure </ingredient> . <operation ingredients="escalopes;citron"> décorer </operation> les <ingredient action="décorer"> escalopes </ingredient> avec des rondelles de <ingredient action="décorer" quantite="1"> citron </ingredient> pour le service . déguster avec des <ingredient> tagliatelles </ingredient> fraîches et de la sauce tomate .
+</preparation>
+</recette>

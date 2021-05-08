@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89191">
+<titre>Tartine à la brousse et au pain d'épice</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oignons ou de la confiture d'oignon toute faite</p>
+<p>4 tranches de pain d'épice</p>
+<p>1 pot de brousse</p>
+<p>2 cuillères à soupe de miel</p>
+<p>20 g de beurre</p>
+<p>10 g de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> vos <ingredient quantite="4"> oignons </ingredient> , <operation> coupez </operation> - les en petits dés et faites - les <operation action="confire" ingredients="confire;beurre;sucre"> confire </operation> dans le <ingredient action="confire" quantite="20 gramme"> beurre </ingredient> et un peu d' eau et de <ingredient action="confire" quantite="10 gramme"> sucre </ingredient> à feu doux . <operation ingredients="pain"> toastez </operation> légèrement vos tranches de <ingredient action="toaster" quantite="4 tranche"> pain </ingredient> d' épice . <operation ingredients="pain;confit"> dressez </operation> dans une assiette , une tranche de <ingredient action="dresser" quantite="4 tranche"> pain </ingredient> d' épice <operation> toastée </operation> puis le <ingredient action="dresser"> confit </ingredient> d' oignons <operation ingredients="miel"> recouvert </operation> de la brousse bien fraîche et d' un filet de <ingredient action="recouvrir" quantite="2 cuillère à soupe"> miel </ingredient> . dégustez tout de suite <operation> accompagné </operation> de <ingredient> roquette </ingredient> ou de <ingredient> mesclun </ingredient> . facile , rapide et épatant .
+</preparation>
+</recette>

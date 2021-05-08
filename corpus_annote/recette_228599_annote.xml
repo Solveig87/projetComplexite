@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228599">
+<titre>Verrine de betterave à l'estragon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 belles betteraves cuites ou 3 petites (500 g)</p>
+<p>1/4 de concombre</p>
+<p>1 belle échalote</p>
+<p>2 yaourts type fjord</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique blanc</p>
+<p>estragon </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalote;concombre;yaourts"> mixer </operation> les betteraves , l' <ingredient action="mixer" quantite="1"> échalote </ingredient> , le <ingredient action="mixer"> concombre </ingredient> et les <ingredient action="mixer"> yaourts </ingredient> . <operation ingredients="sel;poivre;vinaigre;huile"> assaisonner </operation> généreusement de <ingredient action="assaisonner" quantite=""> sel </ingredient> , de <ingredient action="assaisonner" quantite=""> poivre </ingredient> , de <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> et un peu d' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive selon votre goût . <operation ingredients="concombre"> décorer </operation> de petits bâtonnets de <ingredient action="décorer"> concombre </ingredient> et servir frais .
+</preparation>
+</recette>

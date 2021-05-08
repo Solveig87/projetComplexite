@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16126">
+<titre>Flan traditionnel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>100 g de farine</p>
+<p>250 g de sucre en poudre</p>
+<p>6 oeufs</p>
+<p>1 l de lait</p>
+<p>1 gousse de vanille ou 1 à 2 gouttes d'extrait de vanille</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à soupe de sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;gousse"> bouillir </operation> le <ingredient action="bouillir" quantite="1 l"> lait </ingredient> avec la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille . le laisser refroidir ensuite <operation ingredients="pâte"> tapisser </operation> un <operation> moule </operation> de 28 cm préalablement beurré ( ou utiliserle papier sulfurisé ) de diamètre avec la <ingredient action="tapisser" quantite="1"> pâte </ingredient> <operation> brisée </operation> . <operation ingredients="pâte"> piquez </operation> la <ingredient action="piquer" quantite="1"> pâte </ingredient> avec une fourchette en divers endroits . préchauffer le four à 200 <operation> ° </operation> c. <operation ingredients="farine;sucre"> mélanger </operation> dans une terrine la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> avec le <ingredient action="mélanger" quantite="250 gramme+1 cuillère à soupe"> sucre </ingredient> en <operation> poudre </operation> . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> oeufs </ingredient> préalablement <operation> battus </operation> . <operation ingredients="lait"> incorporer </operation> ensuite le <ingredient action="incorporer" quantite="1 l"> lait </ingredient> ( il faut <operation ingredients="gousse"> retirer </operation> la <ingredient action="retirer" quantite="1"> gousse </ingredient> de vanille ) en filet . <operation> mélanger </operation> bien jusqu' à l' obtention d' un appareil <operation> lisse </operation> et homogène . <operation ingredients="pâte"> verser </operation> cette préparation sur la <ingredient action="verser" quantite="1"> pâte </ingredient> <operation> brisée </operation> . faire <operation ingredients="sucre;glace"> cuire </operation> au four à mi-hauteur pendant 30 à 35 mn à 200 <operation> ° </operation> c. a la sortie du four , le <operation> saupoudrer </operation> de <ingredient action="cuire" quantite="250 gramme+1 cuillère à soupe"> sucre </ingredient> <ingredient action="cuire"> glace </ingredient> . ce flan peut se <ingredient> manger </ingredient> tiède ou froid . il est très bon le lendemain . vous pouvez aussi <operation ingredients="raisins"> incorporer </operation> des <ingredient action="incorporer"> raisins </ingredient> secs dans le <operation> mélange </operation> . ceux - ci auront du être <operation> trempés </operation> 1 h dans du <ingredient> rhum </ingredient> avant .
+</preparation>
+</recette>

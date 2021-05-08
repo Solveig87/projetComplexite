@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195252">
+<titre>Poulet aux gombos grillés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet fermier ou 1 kg de viande de bœuf </p>
+<p>500 g de gombos frais </p>
+<p>2 oignons </p>
+<p>4 belles tomates </p>
+<p>2 piments </p>
+<p>sel </p>
+<p>2 cubes de bouillon de légumes </p>
+<p>15 cl d huile </p>
+<p>2 gousses d 'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> extraire </operation> les grains des <ingredient action="extraire" quantite="4"> tomates </ingredient> puis les <operation> couper </operation> . <operation ingredients="oignons;poulet;viande"> découper </operation> les <ingredient action="découper" quantite="2"> oignons </ingredient> , le <ingredient action="découper" quantite="1"> poulet </ingredient> ou la <ingredient action="découper"> viande </ingredient> en petits morceaux puis les <operation> saler </operation> . faire <operation ingredients="huile"> revenir </operation> à la cocotte avec l' <ingredient action="revenir" quantite="15 cl"> huile </ingredient> à feux doux pendant 10 minutes . <operation ingredients="tomates;oignons"> ajouter </operation> à cela les morceaux de <ingredient action="ajouter" quantite="4"> tomates </ingredient> et d' <ingredient action="ajouter" quantite="2"> oignons </ingredient> puis un verre d' eau . laisser <operation> mijoter </operation> 20 minutes . après <operation> ajoutez </operation> - y les gombos et les piments laisser <operation> mijoter </operation> encore 15 minutes . <operation ingredients="ail;bouillon"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et les cubes de <ingredient action="ajouter"> bouillon </ingredient> et laisser le tout <operation> cuire </operation> 5 minutes . servir chaud avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89019">
+<titre>Sauté de porc aux légumes nouveaux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de sauté de porc</p>
+<p>1 botte de carottes nouvelles</p>
+<p>1 botte de navets nouveaux</p>
+<p>1 oignon</p>
+<p>1 petit chou frisé</p>
+<p>500 ml d'eau</p>
+<p>1 cube de bouillon de volaille</p>
+<p>1 feuille de laurier</p>
+<p>sel poivre</p>
+<p>5 cl d'huile d'olive</p>
+</ingredients>
+<preparation>
+dans une sauteuse ( ou un wok ) , faire <operation ingredients="porc"> revenir </operation> le <ingredient action="revenir"> porc </ingredient> dans 1 cuillère à café d' huile d' olive . <operation ingredients="oignon;carottes"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> puis les <ingredient action="ajouter"> carottes </ingredient> et navets <operation> nettoyés </operation> , <operation> épluchés </operation> et <operation> coupés </operation> en tronçons . <operation ingredients="chou"> poser </operation> le <ingredient action="poser" quantite="1"> chou </ingredient> <operation> coupé </operation> en 4 par dessus et <operation ingredients="bouillon"> verser </operation> l' eau ainsi que le cube de <ingredient action="verser"> bouillon </ingredient> de volaille . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="laurier"> ajouter </operation> le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation> cuire </operation> à <operation> couvert </operation> et à feu doux pendant 2 h environ . a déguster avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

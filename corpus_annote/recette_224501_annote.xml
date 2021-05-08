@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224501">
+<titre>Saumon en papillotte</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pavés de saumon</p>
+<p>1 tomate</p>
+<p>huile d'olive</p>
+<p>sel</p>
+<p>poivre</p>
+<p>ciboulette</p>
+</ingredients>
+<preparation>
+préchauffez le four à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation ingredients="pavés"> placez </operation> les <ingredient action="placer" quantite="4"> pavés </ingredient> de saumon sur une grande feuille de papier d' aluminium . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="ciboulette"> mettez </operation> un peu de <ingredient action="mettre" quantite=""> ciboulette </ingredient> . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="1"> tomates </ingredient> en rondelles . <operation ingredients="tomates;saumon"> placez </operation> les rondelles de <ingredient action="placer" quantite="1"> tomates </ingredient> sur le <ingredient action="placer"> saumon </ingredient> et <operation ingredients="huile"> ajoutez </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive . fermez la papillote hermétiquement . <operation> mettez </operation> au four 45 min .
+</preparation>
+</recette>

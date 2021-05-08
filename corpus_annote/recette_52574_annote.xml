@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52574">
+<titre>Salade d'endives aux abricots secs</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 endives</p>
+<p>5 abricots secs</p>
+<p>vinaigre de noix</p>
+<p>huile "neutre" (maïs, colza, 4 graines au choix)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> enlever </operation> les feuilles externes des <ingredient action="enlever" quantite="2"> endives </ingredient> , <operation> enlever </operation> la base amère . <operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="2"> endives </ingredient> en deux , puis <operation> tailler </operation> de fines lamelles . <operation ingredients="abricots"> couper </operation> les <ingredient action="couper"> abricots </ingredient> secs très finement . <operation ingredients="endives;huile;sel;poivre"> ajouter </operation> aux <ingredient action="ajouter" quantite="2"> endives </ingredient> , <operation ingredients="vinaigre"> assaisonner </operation> d' un peu de <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> de noix , d' un peu d' <ingredient action="ajouter" quantite=""> huile </ingredient> , de <ingredient action="ajouter" quantite=""> sel </ingredient> et de <ingredient action="ajouter"> poivre </ingredient> . c' est très simple et ça change de la classique <ingredient> salade </ingredient> d' endives aux noix .
+</preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50130">
+<titre>Tarte flan aux fruits rouges meringuée</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la pâte à tarte :</p>
+<p>200 g farine</p>
+<p>50 g sucre</p>
+<p>1 oeuf</p>
+<p>5 cl de lait</p>
+<p>100 g beurre</p>
+<p>Pour la garniture :</p>
+<p>50 cl de pudding à la vanille (ou préparation pour flan)</p>
+<p>fruits rouges</p>
+<p>50 g sucre</p>
+<p>1 cuillère à soupe de farine</p>
+<p>Pour la meringue :</p>
+<p>5 blancs d'oeufs</p>
+<p>150 g sucre</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte;lait;sucre;oeuf"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> à tarte : <operation ingredients="beurre"> mélanger </operation> le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> , le <ingredient action="préparer" quantite="5 cl"> lait </ingredient> , le <ingredient action="préparer" quantite="50 gramme+50 gramme+150 gramme"> sucre </ingredient> et l' <ingredient action="préparer" quantite="1"> oeuf </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme+1 cuillère à soupe"> farine </ingredient> , bien <operation> pétrir </operation> . ( si la <ingredient> pâte </ingredient> est trop collante , <operation ingredients="farine"> ajouter </operation> de la <ingredient action="ajouter" quantite="200 gramme+1 cuillère à soupe"> farine </ingredient> , si elle est trop friable , <operation ingredients="lait"> ajouter </operation> un peu de <ingredient action="ajouter" quantite="5 cl"> lait </ingredient> ) . laisser <operation> reposer </operation> 30 min et étaler au rouleau . <operation> beurrer </operation> et <operation> fariner </operation> un <operation> moule </operation> à tarte et y <operation ingredients="pâte"> étendre </operation> la <ingredient action="étendre"> pâte </ingredient> . <operation ingredients="pâte"> verser </operation> sur la <ingredient action="verser"> pâte </ingredient> le pudding . <operation ingredients="fruits;sucre"> mixer </operation> les <ingredient action="mixer" quantite=""> fruits </ingredient> et le <ingredient action="mixer" quantite="50 gramme+50 gramme+150 gramme"> sucre </ingredient> , <operation ingredients="farine"> ajouter </operation> une cuillère de <ingredient action="ajouter" quantite="200 gramme+1 cuillère à soupe"> farine </ingredient> et faire <operation> chauffer </operation> puis <operation ingredients="pudding"> étendre </operation> ce <operation> mélange </operation> sur la couche de <ingredient action="étendre" quantite="50 cl"> pudding </ingredient> à la vanille . <operation ingredients="sel"> battre </operation> les blancs en neige avec le <ingredient action="battre" quantite="1 pincée"> sel </ingredient> . quand les blancs se <operation> raffermissent </operation> , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme+50 gramme+150 gramme"> sucre </ingredient> . une fois ferme , étaler délicatement la meringue sur les <ingredient quantite=""> fruits </ingredient> . préchauffer le fous à 200 <operation> ° </operation> c ( thermostat . 7 ) et <operation> enfourner </operation> pendant 20 min , le dessus doit être doré et l' intérieur moelleux .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30661">
+<titre>Champignons flambés au calvados</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de petits champignons</p>
+<p>50 g de beurre</p>
+<p>125 g de lardons fumés</p>
+<p>3 cl de calvados</p>
+<p>5 cl de crème fraîche</p>
+<p>sel, poivre</p>
+<p>cerfeuil</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation ingredients="champignons"> laver </operation> rapidement les <ingredient action="laver" quantite="500 gramme"> champignons </ingredient> . les faire <operation ingredients="beurre;lardons"> sauter </operation> à feu vif dans le <ingredient action="sauter" quantite="50 gramme"> beurre </ingredient> avec les <ingredient action="sauter"> lardons </ingredient> . laisser <operation> colorer </operation> . faire <operation ingredients="calvados"> chauffer </operation> le <ingredient action="chauffer" quantite="3 cl"> calvados </ingredient> , le <operation ingredients="champignons"> verser </operation> sur les <ingredient action="verser" quantite="500 gramme"> champignons </ingredient> et <operation> flamber </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="5 cl"> crème </ingredient> . bien <operation> remuer </operation> , laisser <operation> chauffer </operation> quelques minutes et servir .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22179">
+<titre>Pudding (pain au lait)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachets de pain au lait</p>
+<p>1 verre à moutarde de lait, de sucre poudre, et de chocolat en poudre poulain</p>
+<p>2 cuillères à soupe de rhum ambré</p>
+<p>6 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="pains;lait"> emiettez </operation> les <ingredient action="emiettez"> pains </ingredient> au lait , puis faire <operation> tiédir </operation> le <ingredient action="emiettez"> lait </ingredient> , puis <operation ingredients="pains"> versez </operation> sur vos <ingredient action="verser"> pains </ingredient> . <operation ingredients="sucre;oeufs;chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite=""> sucre </ingredient> et les <ingredient action="incorporer" quantite="6"> oeufs </ingredient> , plus le <ingredient action="incorporer" quantite=""> chocolat </ingredient> , puis <operation> mélanger </operation> le tout . <operation ingredients="pains"> mélangez </operation> aux <ingredient action="mélanger"> pains </ingredient> et <operation> mettre </operation> au four préalablement préchauffer sur 180 <operation> ° </operation> c / 200 <operation> ° </operation> c. très bon si l' on suit bien la recette . crémant de bourgogne
+</preparation>
+</recette>

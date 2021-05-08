@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30511">
+<titre>Omelette sucrée aux cerises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 jaunes d'oeufs</p>
+<p>500 g de cerises</p>
+<p>100 g de beurre</p>
+<p>150 g de sucre en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="cerises"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> cerises </ingredient> 5 min dans une <operation> poêle </operation> <operation> beurrée </operation> . <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes des <ingredient action="séparer"> oeufs </ingredient> , puis <operation ingredients="sucre"> battre </operation> les jaunes avec le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation> battre </operation> les blancs en neige bien ferme . les <operation> incorporer </operation> au <operation> mélange </operation> <operation> sucré </operation> , <operation ingredients="cerises"> ajouter </operation> aussi les <ingredient action="ajouter" quantite="500 gramme"> cerises </ingredient> et bien <operation> mélanger </operation> le tout . faire <operation> cuire </operation> à la <operation> poêle </operation> comme une omelette . ne surtout pas <operation ingredients="cerises"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="500 gramme"> cerises </ingredient> afin qu' elles gardent le meilleur de leur goût . vous pouvez également <operation> rajouter </operation> un peu de kirsch pour plus de goût .
+</preparation>
+</recette>

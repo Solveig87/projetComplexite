@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10556">
+<titre>Filet mignon aux amandes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon de porc</p>
+<p>1 oeuf</p>
+<p>4 cuillères à soupe d'amandes effilées</p>
+<p>15 cl de Madère</p>
+<p>1 orange</p>
+<p>sel, poivre</p>
+<p>curry</p>
+<p>gingembre</p>
+<p>cannelle</p>
+<p>20 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+prendre le filet mignon de <ingredient> porc </ingredient> , le <operation ingredients="oeuf"> badigeonner </operation> avec un blanc d' <ingredient action="badigeonner" quantite="1"> oeuf </ingredient> . le <operation ingredients="amandes"> recouvrir </operation> d' <ingredient action="recouvrir" quantite="4 cuillère à soupe"> amandes </ingredient> effilées , puis le faire <operation> dorer </operation> dans une sauteuse pendant 5 mn . <operation> réserver </operation> au chaud . <operation> déglacer </operation> la sauteuse avec du madère ( qu' on peut <operation> flamber </operation> ) , <operation ingredients="jus;orange"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' une <ingredient action="ajouter" quantite="1"> orange </ingredient> et laisser un peu <operation> réduire </operation> . <operation> saler </operation> et <operation> poivrer </operation> . personnellement j' ajoute <ingredient quantite=""> curry </ingredient> , gingembre et cannelle . en fin de réduction <operation> ajouter </operation> de la crême fraiche sans la faire trop cuire . <operation> ajouter </operation> le filet mignon jusqu' à cuisson complète , soit 20 minutes à feu doux . j' ai <operation ingredients="riz;épinards"> accompagné </operation> ce plat de 2 manières : <ingredient action="accompagner"> riz </ingredient> basmati ou <ingredient action="accompagner"> épinards </ingredient> . c' est l' adaptation d' une recette trouvée dans un magazine . le <ingredient> vin </ingredient> conseillé était différent mais la première fois je n' avais que cela sous la main . la 2ème fois , je crois que c' était un banol rouge qui est bien <operation> passé </operation> . chateauneuf du pape
+</preparation>
+</recette>

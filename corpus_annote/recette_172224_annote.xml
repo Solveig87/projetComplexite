@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172224">
+<titre>Boeuf au riz d'Antoine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>riz</p>
+<p>4 steaks hachés</p>
+<p>3 cuillères à soupe de crème fraiche</p>
+<p>1 cuillère à café bombée de moutarde</p>
+<p>1 cuillère à soupe de mayonnaise</p>
+<p>1 cuillère à soupe de ketchup</p>
+<p>2 échalotes</p>
+<p>herbe de Provence</p>
+<p>parmesan</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite=""> riz </ingredient> . <operation ingredients="steaks"> cuire </operation> les <ingredient action="cuire" quantite="4"> steaks </ingredient> avec les herbes de provence et les <operation> couper </operation> en petit morceaux . <operation ingredients="riz;échalotes"> ajouter </operation> le <ingredient action="ajouter" quantite=""> riz </ingredient> dans la <operation> poêle </operation> avec les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> <operation> coupés </operation> finement . pour la sauce : <operation ingredients="crème;moutarde;mayonnaise;ketchup;parmesan;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="3 cuillère à soupe"> crème </ingredient> fraiche avec la <ingredient action="mélanger"> moutarde </ingredient> , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> mayonnaise </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> ketchup </ingredient> , le <ingredient action="mélanger" quantite=""> parmesan </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> . tout simple , mais super bon et rapide à faire . . .
+</preparation>
+</recette>

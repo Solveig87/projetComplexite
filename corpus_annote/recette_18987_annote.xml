@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18987">
+<titre>Croque choco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 carré de chocolat noir</p>
+<p>du beurre</p>
+<p>2 tranches de pain de mie</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> les 2 tranches de <ingredient action="beurrer" quantite="2 tranche"> pain </ingredient> de mie sur une face . <operation ingredients="carrés;pain;carré"> mettre </operation> 4 <ingredient action="mettre" quantite="5"> carrés </ingredient> de chocolat au bord du <ingredient action="mettre" quantite="2 tranche"> pain </ingredient> et le dernier <ingredient action="mettre" quantite="5"> carré </ingredient> au milieu . <operation ingredients="pain"> recouvrir </operation> de l' autre tranche de <ingredient action="recouvrir" quantite="2 tranche"> pain </ingredient> et <operation> mettre </operation> à <operation> cuire </operation> dans la machine à croque monsieur . il faut la machine à croque monsieur . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

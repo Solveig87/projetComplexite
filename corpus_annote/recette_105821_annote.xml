@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105821">
+<titre>Soupe 7 légumes parfumée au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses pommes de terre</p>
+<p>2 carottes</p>
+<p>2 poireaux</p>
+<p>3 navets</p>
+<p>1 courgette</p>
+<p>1 aubergine</p>
+<p>1 poivron rouge</p>
+<p>3 litres d'eau</p>
+<p>gros sel</p>
+<p>1 cuillière à soupe de curry (selon les goûts)</p>
+</ingredients>
+<preparation>
+. <operation ingredients="pommes"> eplucher </operation> les <ingredient action="eplucher" quantite="2"> pommes </ingredient> de terre , les <ingredient action="couper" quantite="2"> carottes </ingredient> , les <ingredient action="couper" quantite="3"> navets </ingredient> puis <operation ingredients="carottes;navets;poireaux"> couper </operation> les en tronçons avec les <ingredient action="couper" quantite="2"> poireaux </ingredient> . <operation ingredients="aubergine"> couper </operation> en grosses rondelles la courgette et l' <ingredient action="couper" quantite="1"> aubergine </ingredient> . <operation ingredients="poivron"> epépiner </operation> le <ingredient action="epépiner"> poivron </ingredient> et <operation> couper </operation> le . <operation ingredients="sel;curry"> mettre </operation> l tout dans un faitout avec les 3 litres d' eau , le gros <ingredient action="mettre" quantite=""> sel </ingredient> et le <ingredient action="mettre"> curry </ingredient> . <operation> cuire </operation> le tout 40 min . une fois la cuisson terminée , <operation> mixer </operation> et déguster .
+</preparation>
+</recette>

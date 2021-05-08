@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13615">
+<titre>Gratinée de polenta au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de polenta</p>
+<p>300 g de jambon maigre</p>
+<p>1 boîte de tomates pelées</p>
+<p>150 g de gruyère râpé</p>
+<p>sel et poivre</p>
+<p>50 g de beurre</p>
+</ingredients>
+<preparation>
+<operation> cuire </operation> la polenta selon les indications données sur le paquet ( normalement 5 minutes pour la polenta à cuisson rapide ) . dans une casserole <operation ingredients="tomates"> mettre </operation> le contenu de la boîte de <ingredient action="mettre"> tomates </ingredient> , le <ingredient action="mijoter" quantite="300 gramme"> jambon </ingredient> <operation> coupé </operation> en lamelles , <operation> saler </operation> et <operation> poivrer </operation> et faire <operation ingredients="jambon"> mijoter </operation> 10 minutes . <operation> beurrer </operation> un plat à gratin , y <operation ingredients="tomate"> déposer </operation> une couche de polenta cuite , une couche de sauce à la <ingredient action="déposer"> tomate </ingredient> et jambon , une autre couche de polenta et terminer par une couche de sauce . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="150 gramme"> gruyère </ingredient> râpé , y <operation ingredients="noisettes"> déposer </operation> des <ingredient action="déposer"> noisettes </ingredient> de beurre . <operation> mettre </operation> le plat sous le gril du four et laisser <operation> gratiner </operation> une dizaine de minutes . <ingredient> vin </ingredient> rouge italien ( chianti )
+</preparation>
+</recette>

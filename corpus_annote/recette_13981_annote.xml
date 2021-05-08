@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13981">
+<titre>Filet mignon au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets mignon</p>
+<p>2 oignons</p>
+<p>1 cuillère à soupe de farine</p>
+<p>curry (selon votre goût)</p>
+<p>bouillon</p>
+<p>1 verre de vin blanc</p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> les filets mignon en morceaux , les faire <operation ingredients="oignons"> revenir </operation> dans une cocotte avec les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> . quand ils sont dorés , <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> , <operation> mélanger </operation> et <operation ingredients="bouillon"> mouiller </operation> avec du <ingredient action="mouiller" quantite=""> bouillon </ingredient> , le <ingredient quantite="1 verre"> vin </ingredient> blanc et le <ingredient quantite=""> curry </ingredient> ( le <ingredient quantite=""> bouillon </ingredient> doit juste <operation ingredients="viande"> recouvrir </operation> la <ingredient action="recouvrir"> viande </ingredient> ) . laisser <operation> mijoter </operation> environ 20 mn . en fin de cuisson <operation> épaissir </operation> la sauce avec la <ingredient quantite="2 cuillère à soupe"> crème </ingredient> fraîche . servir avec de la <ingredient> semoule </ingredient> à couscous . j' ai un faible pour le sancerre blanc
+</preparation>
+</recette>

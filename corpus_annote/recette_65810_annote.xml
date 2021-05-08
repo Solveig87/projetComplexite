@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65810">
+<titre>Bananes à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>2 cuillères à café de sucre</p>
+<p>1 cuillère à café de beurre</p>
+<p>1 orange</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> eplucher </operation> les <ingredient action="eplucher" quantite="2"> bananes </ingredient> et les <operation> couper </operation> en deux dans le sens de la longueur . <operation ingredients="orange"> presser </operation> l' <ingredient action="presser" quantite="1"> orange </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="1 cuillère à café"> beurre </ingredient> dans une <operation> poêle </operation> à feu moyen . quand il est complètement <operation> fondu </operation> , <operation ingredients="bananes"> poser </operation> les <ingredient action="poser" quantite="2"> bananes </ingredient> dans la <operation> poêle </operation> . les <operation ingredients="sucre"> saupoudrer </operation> avec le <ingredient action="saupoudrer" quantite="2 cuillère à café"> sucre </ingredient> et laisser <operation> cuire </operation> 4 min . les <operation> retourner </operation> ensuite avec une spatule . au bout de 3 minutes , <operation ingredients="jus"> verser </operation> le <ingredient action="verser"> jus </ingredient> d' orange dans la <operation> poêle </operation> . servir quand le <ingredient> jus </ingredient> est presque complètement évaporé .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30211">
+<titre>Moules à la provençale (ail et poivrons)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 kg de moules</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>4 oignons</p>
+<p>2 gousses d'ail</p>
+<p>2 tomates</p>
+<p>1 poivron rouge</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> et <operation> gratter </operation> les <operation> moules </operation> puis les <operation> réserver </operation> . <operation ingredients="gousses;oignons"> peler </operation> les <ingredient action="peler" quantite="2"> gousses </ingredient> d' ail et les <ingredient action="peler" quantite="4"> oignons </ingredient> , puis <operation ingredients="oignons;ail"> émincer </operation> les <ingredient action="émincer" quantite="4"> oignons </ingredient> et <operation> piler </operation> l' <ingredient action="émincer"> ail </ingredient> . les <operation> déposer </operation> dans un faitout <operation> huilé </operation> , puis les faire <operation> revenir </operation> jusqu' à ce qu' ils soient colorés . <operation> laver </operation> , <operation> épépiner </operation> et <operation ingredients="tomates"> concasser </operation> les <ingredient action="concasser" quantite="2"> tomates </ingredient> , puis <operation ingredients="poivron"> détailler </operation> le <ingredient action="détailler"> poivron </ingredient> en lanières . <operation ingredients="tomates;poivrons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> et les <ingredient action="ajouter"> poivrons </ingredient> dans la cocotte , puis joindre les <operation> moules </operation> e laisser <operation> cuire </operation> à feu modéré jusqu' à ce qu' elles s' <operation> ouvrent </operation> . <operation ingredients="jus"> goûter </operation> le <ingredient action="goûter"> jus </ingredient> de cuisson et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="3 cuillère à soupe;2;;"> assaisonnement </ingredient> si nécessaire . servir directement dans la cocotte et déguster .
+</preparation>
+</recette>

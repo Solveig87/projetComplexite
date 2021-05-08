@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93453">
+<titre>Soupe de lentilles MERCIMEK</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2,5 verres à moutarde de lentilles rouge</p>
+<p>1 oignon</p>
+<p>2 carottes de belle taille</p>
+<p>1 pomme de terre de taille moyenne</p>
+<p>1,5 litres d'eau</p>
+<p>1 cuillère à café rase de sel</p>
+<p>beurre fondu</p>
+<p>piment de Cayenne</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> peler </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , la <ingredient action="couper" quantite="1"> pomme </ingredient> de terre et la <ingredient action="couper" quantite="2"> carotte </ingredient> <operation ingredients="pomme;carotte"> couper </operation> le tout grossièrement . dans une casserole , <operation ingredients="lentilles;oignon;pomme;carottes;huile"> mettre </operation> les <ingredient action="mettre"> lentilles </ingredient> dans de l' eau froide , avec l' <ingredient action="mettre" quantite="1"> oignon </ingredient> , la <ingredient action="mettre" quantite="1"> pomme </ingredient> de terre , la <ingredient action="mettre" quantite="2"> carottes </ingredient> et l' <ingredient action="mettre" quantite=""> huile </ingredient> d' olive . <operation> mettre </operation> à <operation> ébullition </operation> et <operation> compter </operation> environ 30 minutes , en <operation> ajoutant </operation> de l' eau en cours de cuisson . quand les <ingredient> lentilles </ingredient> sont tendres et le <operation> mélange </operation> assez épais , <operation> passer </operation> au <operation> mixer </operation> électrique en turquie , cette <ingredient> soupe </ingredient> et traditionnellement servie avec du <ingredient> beurre </ingredient> <operation> fondu </operation> <operation> agrémenté </operation> de <operation> poudre </operation> de piment de cayenne
+</preparation>
+</recette>

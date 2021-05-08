@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19239">
+<titre>SALADE AU LARD ARDENNAISE</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de lardons fumés</p>
+<p>1 oignon</p>
+<p>les feuilles vertes (extérieures, celles que l'on jette) de 2 salades (batavia, scarole) </p>
+<p>6 pommes de terre de taille moyenne</p>
+<p>10 cl de vinaigre de vin</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre à l' eau avec leur peau . dans un faitout , faire <operation ingredients="lardons;oignon"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> . <operation ingredients="salade"> ajouter </operation> petit à petit les feuilles de <ingredient action="ajouter"> salade </ingredient> , au fur et à <operation> mesure </operation> qu' elles <operation> ramollissent </operation> . <operation ingredients="pommes;vinaigre"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> pommes </ingredient> de terre <operation> pelées </operation> et <operation> coupées </operation> en rondelles fines , puis le <ingredient action="ajouter" quantite="10 cl"> vinaigre </ingredient> de vin . <operation> saler </operation> , <operation> poivrer </operation> . c' est un plat qui est bien meilleur lorsqu' il est <operation> réchauffé </operation> ( à <operation> préparer </operation> la veille ) . <ingredient> bière </ingredient> blanche ou blonde
+</preparation>
+</recette>

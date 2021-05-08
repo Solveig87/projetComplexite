@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37258">
+<titre>Riz au lait au four (turquie)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 litre de lait</p>
+<p>3 cuillères à soupe de riz</p>
+<p>80 g de sucre</p>
+<p>2 cuillères à soupe de maïzena</p>
+<p>2 jaunes d'oeuf</p>
+<p>sucre vanillé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="3 cuillère à soupe"> riz </ingredient> dans de l' eau . <operation ingredients="sucre;lait"> dissoudre </operation> le <ingredient action="dissoudre" quantite="80 gramme"> sucre </ingredient> dans le <ingredient action="dissoudre"> lait </ingredient> , faire <operation> chauffer </operation> , y <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à soupe"> riz </ingredient> <operation> égoutté </operation> et <operation> cuire </operation> 10 min . <operation ingredients="oeufs;maïzena"> battre </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> et la <ingredient action="battre" quantite="2 cuillère à soupe"> maïzena </ingredient> ( si besoin <operation> ajouter </operation> un cuillérée d' eau ) , y <operation ingredients="lait;riz"> ajouter </operation> progressivement le <ingredient action="ajouter"> lait </ingredient> chaud et le <ingredient action="ajouter" quantite="3 cuillère à soupe"> riz </ingredient> , parfumer avec la vanille . <operation> répartir </operation> dans des ramequins individuels et <operation> mettre </operation> au bain - marie 5 min sous le grill du four . ( le dessus <operation> forme </operation> une peau caramélisée ) . servir frais .
+</preparation>
+</recette>

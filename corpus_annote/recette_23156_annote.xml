@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23156">
+<titre>Gâteau au yaourt au cacao</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt</p>
+<p>1 pot de yaourt de cacao en poudre</p>
+<p>200 g de sucre (2 pots)</p>
+<p>1/2 d'un pot d'huile</p>
+<p>200 g de farine (2 pots)</p>
+<p>3 oeufs</p>
+<p>2 gouttes de citron</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure chimique</p>
+</ingredients>
+<preparation>
+prendre les <ingredient quantite="3"> oeufs </ingredient> et <operation> séparer </operation> le blanc des jaunes . <operation> fouetter </operation> les blancs en neige et y <operation ingredients="citron;sucre"> ajouter </operation> les gouttes de <ingredient action="ajouter"> citron </ingredient> et le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> vanillé . <operation ingredients="sucre;mousse"> battre </operation> le <ingredient action="battre" quantite="200 gramme"> sucre </ingredient> et les jaunes en <ingredient action="battre"> mousse </ingredient> . <operation ingredients="cacao;huile;farine"> mettre </operation> ensuite le <ingredient action="mettre"> cacao </ingredient> , l' <ingredient action="mettre"> huile </ingredient> , la <ingredient action="mettre" quantite="200 gramme"> farine </ingredient> puis les blancs en tournant délicatement . <operation> verser </operation> dans un <operation> moule </operation> beurré et faire <operation> cuire </operation> au four à 150 <operation> ° </operation> c ( thermostat 5 ) , pendant 50 min .
+</preparation>
+</recette>

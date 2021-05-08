@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171577">
+<titre>Dinde panée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 morceaux de dinde</p>
+<p>Farine</p>
+<p>4 jaunes d'œuf</p>
+<p>Huile</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer" quantite=""> huile </ingredient> dans une <operation> poêle </operation> . <operation ingredients="œufs"> battez </operation> les jaunes d' <ingredient action="battre"> œufs </ingredient> en omelettes et <operation> réservez </operation> dans une assiette creuse . <operation ingredients="farine"> mettez </operation> de la <ingredient action="mettre" quantite=""> farine </ingredient> dans une autre assiette creuse . n' hésitez surtout pas à " amincir " vos morceaux de <ingredient> dinde </ingredient> si ceux - ci sont trop épais . <operation ingredients="dinde;œuf"> trempez </operation> votre morceau de <ingredient action="trempez"> dinde </ingredient> dans le jaune d' <ingredient action="trempez"> œuf </ingredient> ( n' y allez pas de main morte ) puis dans la <ingredient quantite=""> farine </ingredient> de façon à ce qu' il en soit complètement <operation> recouvert </operation> . faites <operation> griller </operation> votre morceau d' un côté , puis <operation> grillez </operation> - le de l' autre . recommencez ces deux dernières étapes pour tous vos morceaux de <ingredient> dinde </ingredient> .
+</preparation>
+</recette>

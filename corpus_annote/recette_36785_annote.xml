@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36785">
+<titre>Crème de courgettes au curry</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 courgettes</p>
+<p>1 pomme verte</p>
+<p>1 oignon</p>
+<p>50 cl ou 2 tasses de bouillon poulet</p>
+<p>1 poignée de riz</p>
+<p>curry (quantités selon le goût)</p>
+<p>sel et poivre</p>
+<p>huile d'oilve</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> légèrement l' <ingredient action="revenir" quantite="1"> oignon </ingredient> avec l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , puis <operation> ajouter </operation> les courgettes en rondelles . <operation> cuire </operation> 5 minutes a feu moyen-fort . <operation ingredients="pomme;riz;bouillon"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> pomme </ingredient> en morceaux , le <ingredient action="ajouter"> riz </ingredient> et le <ingredient action="ajouter"> bouillon </ingredient> . <operation> cuire </operation> 10 minutes . <operation ingredients="sel"> assaisonner </operation> au goût avec <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et curry . <operation> mixer </operation> tout et déguster .
+</preparation>
+</recette>

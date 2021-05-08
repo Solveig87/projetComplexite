@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22425">
+<titre>Omelette aux lardons, champignons....</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>125 g de lardons nature</p>
+<p>125 g de champignons frais (girolle, champignon de Paris...) </p>
+<p>5 pommes de terre cuites</p>
+<p>1 oignon</p>
+<p>sel et du poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;oignon;champignons"> coupez </operation> en morceaux : les <ingredient action="couper" quantite="5"> pommes </ingredient> de terres , l' <ingredient action="couper" quantite="1"> oignon </ingredient> et les <ingredient action="couper" quantite="125 gramme"> champignons </ingredient> . <operation ingredients="huile"> mettez </operation> le tout dans une <operation> poêle </operation> avec un filet d' <ingredient action="mettre"> huile </ingredient> d' olive . <operation ingredients="oeufs"> préparez </operation> les <ingredient action="préparer" quantite="8"> oeufs </ingredient> dans un saladier , <operation> battez </operation> - les et ensuite <operation ingredients="sel;poivre"> mettez </operation> un peu de <ingredient action="mettre" quantite=""> sel </ingredient> et de <ingredient action="mettre"> poivre </ingredient> . <operation ingredients="oeufs"> versez </operation> les <ingredient action="verser" quantite="8"> oeufs </ingredient> dans la <operation> poêle </operation> . servez - la chaude ou froide avec de la sauce tomate . vous pouvez <operation ingredients="persil"> ajouter </operation> du <ingredient action="ajouter"> persil </ingredient> . vin rouge
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49239">
+<titre>Brick de thon, Tomate, Mozzarella</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 feuilles de brick</p>
+<p>1 boite de 400g de thon</p>
+<p>2 tomates</p>
+<p>200 g de mozzarella</p>
+<p>2 œufs entiers </p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="thon"> émiettez </operation> le <ingredient action="émietter"> thon </ingredient> . <operation ingredients="oignon;ail;persil"> hachez </operation> finement l' <ingredient action="hacher" quantite="1"> oignon </ingredient> , l' <ingredient action="hacher"> ail </ingredient> et le <ingredient action="hacher" quantite=""> persil </ingredient> , puis <operation ingredients="tomates;mozzarella"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> et la <ingredient action="couper" quantite="200 gramme"> mozzarella </ingredient> en dés . <operation ingredients="thon"> mélangez </operation> le tout avec le <ingredient action="mélanger"> thon </ingredient> , puis <operation ingredients="œufs"> ajoutez </operation> les 2 <ingredient action="ajouter" quantite="2"> œufs </ingredient> entiers . <operation> salez </operation> et <operation> poivrez </operation> à votre convenance . <operation ingredients="bricks"> coupez </operation> les feuilles de <ingredient action="couper" quantite="10 feuille"> bricks </ingredient> en 2 . <operation> garnissez </operation> d' une bonne cuillère à soupe de votre préparation . <operation action="plier" ingredients="pliez"> pliez </operation> vos bricks selon la <operation> forme </operation> souhaitée . n' hésitez pas à <operation ingredients="beurre"> badigeonner </operation> avec un peu de <ingredient action="badigeonner"> beurre </ingredient> <operation> fondu </operation> pour fermer vos <ingredient quantite="10 feuille"> bricks </ingredient> . pour la cuisson , 2 possibilités : à la <operation> poêle </operation> : faites <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer"> huile </ingredient> puis <operation> dorez </operation> - les 2 minutes de chaque côté . au four : préchauffez votre four 10 min à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation> enfourner </operation> 10 à 15 minutes en les <operation> retournant </operation> de temps en temps . a servir en <ingredient> apéritif </ingredient> ou en entrée <operation ingredients="salade"> accompagné </operation> d' une petite <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

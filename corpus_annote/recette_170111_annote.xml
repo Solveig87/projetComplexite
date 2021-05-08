@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170111">
+<titre>Coulis fraise sans eau !</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de fraise</p>
+<p>100 g de sucre</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> équeuter </operation> les <ingredient action="équeuter" quantite="500 gramme"> fraises </ingredient> , les <operation> mixer </operation> ( <operation> passer </operation> au chinois si l' on veut une texture parfaitement <operation> lisse </operation> ) . <operation ingredients="sucre;fraises"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> ( plus ou moins selon l' acidité des <ingredient action="ajouter" quantite="500 gramme"> fraises </ingredient> ) . <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> jus </ingredient> de citron ( voire un deuxième si l' on veut relever le goût de la <ingredient quantite="500 gramme"> fraise </ingredient> ) . <operation> mixer </operation> à nouveau le tout : c' est prêt , <operation> mettre </operation> au frigo avant de déguster ! <operation ingredients="fraises;mûres"> choisir </operation> des <ingredient action="choisir" quantite="500 gramme"> fraises </ingredient> très mûres et des moins <ingredient action="choisir"> mûres </ingredient> également ! excellent avec un cheese - cake !
+</preparation>
+</recette>

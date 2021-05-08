@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46443">
+<titre>Gâteau créole</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 oeufs entiers </p>
+<p>75 g de sucre semoule</p>
+<p>1 sachet de sucre vanillé</p>
+<p>100 g de farine</p>
+<p>1/2 sachet de levure chimique</p>
+<p>100 g de beurre fondu</p>
+<p>100 g de raisins secs </p>
+<p>5 cl de rhum</p>
+<p>3 bananes </p>
+<p>1 boîte d'ananas en tranches, au sirop</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;rhum;pâte"> macérer </operation> les <ingredient action="macérer" quantite="100 gramme"> raisins </ingredient> dans le <ingredient action="macérer" quantite="5 cl"> rhum </ingredient> , le temps de la préparation de la <ingredient action="macérer"> pâte </ingredient> . <operation ingredients="oeufs;sucres;sel;mousseux"> battre </operation> ensemble les <ingredient action="battre" quantite="3"> oeufs </ingredient> , les <ingredient action="battre" quantite="75 gramme"> sucres </ingredient> et le <ingredient action="battre" quantite="1 pincée"> sel </ingredient> , jusqu' à obtention d' un <operation> mélange </operation> <ingredient action="battre"> mousseux </ingredient> . <operation ingredients="farine;levure;beurre"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> , et <operation> mélanger </operation> . <operation ingredients="pâte;ananas;raisins;rhum"> incorporer </operation> à la <ingredient action="incorporer"> pâte </ingredient> les bananes en rondelles et les <ingredient action="incorporer"> ananas </ingredient> <operation> égouttés </operation> et <operation> coupés </operation> en morceaux , puis en dernier les <ingredient action="incorporer" quantite="100 gramme"> raisins </ingredient> ( avec le <ingredient action="incorporer" quantite="5 cl"> rhum </ingredient> ) . <operation> verser </operation> la préparation dans un <operation> moule </operation> à manqué beurré et <operation> fariné </operation> , et faire <operation> cuire </operation> environ 45 min à four moyen ( 180 <operation> ° </operation> c / th 6 ) . ce <ingredient> gâteau </ingredient> se déguste froid et est encore excellent , voire meilleur , le lendemain !
+</preparation>
+</recette>

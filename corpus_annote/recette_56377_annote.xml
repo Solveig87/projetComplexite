@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56377">
+<titre>Soupe de légumes et chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs de poireaux</p>
+<p>6 carottes moyennes</p>
+<p>6 pommes de terre</p>
+<p>1/2 petit chou vert</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>une bonne pincée de gros sel</p>
+<p>1/2 chorizo (piquant ou non selon votre goût)</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> 5 litres d' eau <operation> salée </operation> dans une casserole ( a <operation> couvert </operation> c' est plus économique et plus écologique ) . pendant ce temps , <operation ingredients="carottes;pommes"> épluchez </operation> les <ingredient action="éplucher"> carottes </ingredient> et les <ingredient action="éplucher" quantite="6"> pommes </ingredient> de terre et les <operation> couper </operation> en petits morceaux . <operation ingredients="poireaux"> couper </operation> en rondelles les blancs de <ingredient action="couper"> poireaux </ingredient> . <operation ingredients="légumes"> relaver </operation> les <ingredient action="relaver" quantite="6"> légumes </ingredient> <operation> coupés </operation> ( surtout les <ingredient> poireaux </ingredient> ils ont tendance à être toujours sales à l' intérieur ! ) . <operation ingredients="légumes"> mettre </operation> les <ingredient action="mettre" quantite="6"> légumes </ingredient> dans l' eau bouillante , laisser <operation> mijoter </operation> à demi <operation> couvert </operation> pendant 30 minutes . pendant ce temps <operation ingredients="chou"> couper </operation> le <ingredient action="couper"> chou </ingredient> en petites feuilles . <operation ingredients="chorizo"> couper </operation> le <ingredient action="couper"> chorizo </ingredient> en rondelles . après 30 minutes de cuisson , <operation> retirer </operation> du feu et <operation> passer </operation> au <operation> mixer </operation> . <operation> remettre </operation> sur le feu et <operation> refaire </operation> <operation> bouillir </operation> , <operation ingredients="choux;chorizo"> incorporer </operation> les <ingredient action="incorporer"> choux </ingredient> et le <ingredient action="incorporer"> chorizo </ingredient> , <operation ingredients="huile"> rajouter </operation> la cuillère d' <ingredient action="rajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="bouillons"> laisser </operation> <operation> cuire </operation> 30 minutes à demi-couvert mais à gros <ingredient action="laisser"> bouillons </ingredient> . servez , c' est prêt ! un petit chablis ou sancerre blanc
+</preparation>
+</recette>

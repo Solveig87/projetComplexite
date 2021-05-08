@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229825">
+<titre>Sardines aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 sardines en conserve à l'huile ou à la tomate</p>
+<p>1 endive</p>
+<p>1 carotte</p>
+<p>7 cl d'eau</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 filet d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carottes;endives;fondantes"> cuire </operation> à l' eau les <ingredient action="cuire" quantite="1"> carottes </ingredient> et les <ingredient action="cuire" quantite="1"> endives </ingredient> , <operation> coupés </operation> en rondelles jusqu' à ce qu' elles soient <ingredient action="cuire"> fondantes </ingredient> . dans une <operation> poêle </operation> , <operation ingredients="huile"> mettre </operation> de l' <ingredient action="mettre"> huile </ingredient> d' olive puis <operation ingredients="sardines;légumes"> ajouter </operation> les <ingredient action="ajouter"> sardines </ingredient> et les <ingredient action="ajouter" quantite="1;1;2 cuillère à soupe"> légumes </ingredient> . laisser <operation> cuire </operation> 5 minutes . ensuite <operation> mettre </operation> 1 / 2 verre d' eau ou 1 verre entier si vous ne <operation ingredients="crème"> mettez </operation> pas de <ingredient action="mettre" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche . pour épicer un peu , vous pouvez <operation ingredients="cumin"> ajouter </operation> du <ingredient action="ajouter"> cumin </ingredient> ou des herbes de provence . laisser <operation> mijoter </operation> 20 min à recouvert et à feu doux . eau
+</preparation>
+</recette>

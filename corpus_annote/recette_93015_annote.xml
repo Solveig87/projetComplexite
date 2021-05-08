@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93015">
+<titre>Verrine fruits pralinoise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pot de fromage blanc</p>
+<p>1/4 d'ananas</p>
+<p>60 g de pralinoise</p>
+<p>6 gavottes </p>
+<p>30 g de sucre en poudre</p>
+<p>20 g de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> sucrez </operation> le <ingredient action="sucrez" quantite="1 pot"> fromage </ingredient> blanc et <operation> versez </operation> la moitié du pot dans chaque verre . vous pouvez le parfumer à la <ingredient quantite="20 gramme"> cannelle </ingredient> . <operation ingredients="ananas"> coupez </operation> l' <ingredient action="couper"> ananas </ingredient> en petits morceaux et les <operation ingredients="fromage"> mettre </operation> sur le <ingredient action="mettre" quantite="1 pot"> fromage </ingredient> blanc . faites <operation ingredients="pralinoise"> fondre </operation> la <ingredient action="fondre" quantite="60 gramme"> pralinoise </ingredient> . <operation> ecrasez </operation> les gravotes en miettes . <operation ingredients="pralinoise"> mélangez </operation> la <ingredient action="mélanger" quantite="60 gramme"> pralinoise </ingredient> avec les gavottes en miettes . ce <operation> mélange </operation> est la troisième couche de la verrine : <operation> versez </operation> - la sur l' <ingredient> ananas </ingredient> . <operation> réservez </operation> - la une heure au frais .
+</preparation>
+</recette>

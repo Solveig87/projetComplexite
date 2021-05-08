@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18928">
+<titre>Hot-dog Michigan sur BBQ</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pain hot dog</p>
+<p>1 saucisse</p>
+<p>1/4 tasse (65 ml) de sauce à spaghetti</p>
+<p>1 tranche de fromage, selon votre goût : cheddar, suisse, gruyère, etc </p>
+</ingredients>
+<preparation>
+. <operation ingredients="saucisse"> cuire </operation> la <ingredient action="cuire" quantite="1"> saucisse </ingredient> sur barbecue . . sur une feuille de papier d' aluminium , <operation ingredients="pain"> placer </operation> le <ingredient action="placer" quantite=""> pain </ingredient> . . <operation ingredients="saucisse"> incorporer </operation> la <ingredient action="incorporer" quantite="1"> saucisse </ingredient> <operation> cuite </operation> . . <operation ingredients="fromage"> garnir </operation> avec la sauce à spaghetti , puis le <ingredient action="garnir" quantite="1 tranche"> fromage </ingredient> . . relever le papier d' aluminium sur le côté du <ingredient quantite=""> pain </ingredient> . . <operation> placer </operation> le tout sur la <operation> grille </operation> du haut du barbecue , fermer le couvercle et <operation ingredients="fromage"> laisser </operation> <operation> chauffer </operation> jusqu' à ce que le <ingredient action="laisser" quantite="1 tranche"> fromage </ingredient> soit gratiné .
+</preparation>
+</recette>

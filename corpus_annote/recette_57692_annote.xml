@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57692">
+<titre>Tofu mariné à la sauce soja</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bloc de tofu</p>
+<p>un demi oignon</p>
+<p>ail</p>
+<p>herbes de provence</p>
+<p>6 cuillères à soupe de sauce soja</p>
+<p>sel, poivre</p>
+<p>une cuillère a café d'huile (pas obligatoire) pour la cuisson</p>
+</ingredients>
+<preparation>
+<operation ingredients="tofu"> coupez </operation> le bloc de <ingredient action="couper"> tofu </ingredient> en dés . <operation ingredients="oignons"> coupez </operation> les <ingredient action="couper" quantite="1mi"> oignons </ingredient> finement . <operation ingredients="tofu"> mélangez </operation> le <ingredient action="mélanger"> tofu </ingredient> , les <ingredient action="saler" quantite="1mi"> oignons </ingredient> l' ail , les herbes avec la sauce de soja , <operation ingredients="oignons"> salez </operation> et <operation> poivrez </operation> . laissez <operation> reposer </operation> 5 minutes puis faites <operation ingredients="huile"> revenir </operation> avec un peu d' <ingredient action="revenir"> huile </ingredient> si vous voulez à la <operation> poêle </operation> . dégustez ! vous pouvez le consommer avec du <ingredient> riz </ingredient> , du <ingredient> boulgour </ingredient> , c' est délicieux .
+</preparation>
+</recette>

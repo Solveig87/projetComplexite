@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69864">
+<titre>Yaourt maison au fromage blanc</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pot de yaourt au lait entier</p>
+<p>1 pot individuel de fromage blanc (100 g) à 20% ou 0% de matières grasses</p>
+<p>1 l de lait entier</p>
+<p>sucre (selon son goût) ou miel</p>
+<p>Facultatif : parfum au choix</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt;fromage"> mélanger </operation> le <ingredient action="mélanger" quantite="1 pot"> yaourt </ingredient> avec le <ingredient action="mélanger"> fromage </ingredient> blanc , <operation ingredients="lait;sucre;miel"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> lait </ingredient> , le <ingredient action="ajouter" quantite=""> sucre </ingredient> ou le <ingredient action="ajouter"> miel </ingredient> et éventuellement le parfum de son choix . <operation> répartir </operation> dans les pots de la yaourtière . <operation> refermer </operation> le couvercle et <operation> mettre </operation> en route . il faut <operation> compter </operation> 8 à 10 heures . conserver au réfrigérateur .
+</preparation>
+</recette>

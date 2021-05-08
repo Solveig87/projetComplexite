@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14800">
+<titre>Tarte arménienne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron coupé en petits morceaux</p>
+<p>1 oignon haché</p>
+<p>1 boîte de concentré de tomates</p>
+<p>2 steaks hachés</p>
+<p>pâte brisée salée</p>
+<p>30 cl de crème fraîche</p>
+<p>tabasco</p>
+<p>sel, poivre, cumin</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> une <ingredient action="préparer" quantite=""> pâte </ingredient> <operation> brisée </operation> <operation> salée </operation> . faire <operation ingredients="steaks;beurre"> cuire </operation> les <ingredient action="cuire" quantite="2"> steaks </ingredient> <operation> hachés </operation> dans un peu de <ingredient action="cuire"> beurre </ingredient> , puis les <operation> hacher </operation> à nouveau . faire <operation ingredients="oignon;poivron"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , puis le <ingredient action="revenir"> poivron </ingredient> . <operation ingredients="tomates;cumin;sel;poivre;tabasco;steaks"> rajouter </operation> le <operation> concentré </operation> de <ingredient action="rajouter"> tomates </ingredient> , le <ingredient action="rajouter" quantite=""> cumin </ingredient> , le <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="rajouter" quantite=""> poivre </ingredient> , le <ingredient action="rajouter" quantite=""> tabasco </ingredient> et les <ingredient action="rajouter" quantite="2"> steaks </ingredient> . faire <operation> cuire </operation> le tout 10 mn . <operation ingredients="pâte"> verser </operation> le tout sur la <ingredient action="verser" quantite=""> pâte </ingredient> <operation> brisée </operation> . <operation ingredients="crème;cumin;oeuf"> mélanger </operation> la <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> fraîche , du <ingredient action="mélanger" quantite=""> cumin </ingredient> et un jaune d' <ingredient action="mélanger"> oeuf </ingredient> . <operation ingredients="tarte"> verser </operation> sur la <ingredient action="verser"> tarte </ingredient> et faire <operation> cuire </operation> 45 mn ( à thermostat 6 ) . servir chaud . cela peut <operation ingredients="salade"> faire </operation> un plat unique le soir avec une bonne <ingredient action="faire"> salade </ingredient> craquante . cabernet
+</preparation>
+</recette>

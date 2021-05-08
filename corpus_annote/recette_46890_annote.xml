@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46890">
+<titre>Radis à la crème de fanes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bottes de radis et leurs fanes</p>
+<p>fromage blanc allégé</p>
+<p>sel, poivre</p>
+<p>ciboulette</p>
+<p>persil</p>
+<p>1 noix de beurre</p>
+<p>cuilléres à soupe de crème fraîche allégée</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation ingredients="radis"> équeuter </operation> les <ingredient action="équeuter"> radis </ingredient> . <operation> laver </operation> leurs fanes . <operation ingredients="fromage"> préparer </operation> un bol de <ingredient action="préparer" quantite=""> fromage </ingredient> blanc , en y <operation ingredients="sel"> incorporant </operation> <ingredient action="incorporer" quantite=""> sel </ingredient> , poivre , ciboulette et persil . faire <operation ingredients="noix"> revenir </operation> doucement les fanes dans une <ingredient action="revenir" quantite="1"> noix </ingredient> de beurre , y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="radis;fromage;crème"> mettre </operation> au frais les <ingredient action="mettre"> radis </ingredient> , la préparation au <ingredient action="mettre" quantite=""> fromage </ingredient> blanc , et la <ingredient action="mettre"> crème </ingredient> de fanes refroidie . servir à l' assiette , quelques <ingredient> radis </ingredient> , une cuillère de <ingredient quantite=""> fromage </ingredient> blanc et une cuillère de <ingredient> crème </ingredient> de fanes . ceci doit <operation> former </operation> un joli <operation> mélange </operation> des trois couleurs , rouge , blanc , vert !
+</preparation>
+</recette>

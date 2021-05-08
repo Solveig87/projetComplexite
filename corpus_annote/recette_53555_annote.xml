@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53555">
+<titre>Riz au lait parfumé au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait entier</p>
+<p>100 g de riz rond</p>
+<p>50 g de sucre</p>
+<p>150 g de cacao pur en poudre</p>
+<p>1 cuillère à soupe de miel</p>
+<p>1 petit flacon de crème liquide</p>
+<p>3 zestes d'orange</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="1 litre"> lait </ingredient> dans une casserole , puis <operation ingredients="riz;sucre;cacao"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> riz </ingredient> , le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> et le <ingredient action="ajouter" quantite="150 gramme"> cacao </ingredient> . laisser <operation> chauffer </operation> à feu moyen , jusqu' à ce que ça commence à <operation> bouillir </operation> . a ce moment , baisser la flamme pour que , tout doucement , le <ingredient action="cuire" quantite="100 gramme"> riz </ingredient> <operation ingredients="riz"> cuise </operation> pendant 3 / 4 d' heure . de temps à autre , <operation> remuer </operation> la préparation pour qu' elle ne brûle pas et pour aérer le <ingredient quantite="100 gramme"> riz </ingredient> . c' est <operation> cuit </operation> ! <operation> retirer </operation> la casserole du feu , <operation> remuer </operation> bien et <operation ingredients="miel;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> et la <ingredient action="ajouter"> crème </ingredient> ; <operation> mélanger </operation> pour que la consistance devienne crémeuse . avec une petite louche , <operation> verser </operation> cette monstruosité de gourmands dans des petits verres . laisser refroidir au réfrigérateur . on peut aussi le servir tiède , c' est plus crémeux . <operation> réchauffer </operation> 30 secondes au micro-ondes au moment de servir . bon appetit ! ! ! !
+</preparation>
+</recette>

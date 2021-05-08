@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172824">
+<titre>Coupe gourmande</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boule de glace à la vanille </p>
+<p>1 boule de glace au chocolat</p>
+<p>1 cookie</p>
+<p>2 parts de brownie</p>
+<p>chantilly</p>
+<p>5 cl de sauce chocolat</p>
+<p>20 g d'amandes effilées</p>
+</ingredients>
+<preparation>
+dans le fond de la <operation> coupe </operation> <operation ingredients="cookie"> émietter </operation> le <ingredient action="émietter" quantite="1"> cookie </ingredient> , <operation ingredients="glace;chocolat"> recouvrir </operation> de deux boules de <ingredient action="recouvrir"> glace </ingredient> à la vanille et une boule <ingredient action="recouvrir" quantite="5 cl"> chocolat </ingredient> . <operation ingredients="glace"> déposer </operation> les deux petites part de brownie sur la <ingredient action="déposer"> glace </ingredient> . <operation ingredients="chantilly;chocolat;amande"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> chantilly </ingredient> , de sauce au <ingredient action="recouvrir" quantite="5 cl"> chocolat </ingredient> et d' <ingredient action="recouvrir" quantite="20 gramme"> amande </ingredient> effilé , c' est prêt !
+</preparation>
+</recette>

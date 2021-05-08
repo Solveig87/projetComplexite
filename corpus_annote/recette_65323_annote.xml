@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65323">
+<titre>Salade de poulpe à la grecque</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de poulpe</p>
+<p>3 gousses d'ail</p>
+<p>1 carotte</p>
+<p>8 cl de vinaigre</p>
+<p>300 g de courgettes</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>1 petite cuillère de sucre</p>
+<p>12 olives vertes dénoyautées</p>
+<p>huile d'olive</p>
+<p>basilic, origan, persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulpe"> cuire </operation> le <ingredient action="cuire" quantite="1 kilogramme"> poulpe </ingredient> : <operation> mettez </operation> à <operation> bouillir </operation> de l' eau dans une casserole avec une cuillère à soupe de vinaigre de vin . <operation ingredients="poulpe"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 kilogramme"> poulpe </ingredient> , laissez <operation> cuire </operation> 1 heure . faites <operation> cuire </operation> légèrement les courgettes et <operation> râpez </operation> - les finement . <operation ingredients="vinaigre;basilic;origan;persil;ail;sucre;sel;poivre"> mélangez </operation> dans un grand saladier le reste du <ingredient action="mélanger" quantite="8 cl"> vinaigre </ingredient> , le <ingredient action="mélanger" quantite=""> basilic </ingredient> , l' <ingredient action="mélanger" quantite=""> origan </ingredient> , le <ingredient action="mélanger" quantite=""> persil </ingredient> , l' <ingredient action="mélanger"> ail </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> en même temps que vous <operation ingredients="huile"> versez </operation> de l' <ingredient action="verser" quantite=""> huile </ingredient> d' olive en filet . <operation ingredients="poulpe;poivrons;olives"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 kilogramme"> poulpe </ingredient> cuit et <operation> coupé </operation> en tronçons , les courgettes <operation> râpées </operation> , la <ingredient action="couper" quantite="1"> carotte </ingredient> <operation ingredients="carotte"> coupée </operation> en lamelles , les <ingredient action="ajouter"> poivrons </ingredient> <operation> coupés </operation> en dés et les <ingredient action="ajouter"> olives </ingredient> . <operation> mélangez </operation> bien le tout , <operation> couvrez </operation> le saladier et laissez <operation> reposer </operation> au réfrigérateur au moins 3 heures avant de servir . bon appétit !
+</preparation>
+</recette>

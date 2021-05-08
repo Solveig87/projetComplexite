@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64889">
+<titre>Aubergine à la bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 steak haché</p>
+<p>1 aubergine</p>
+<p>1/2 poivron</p>
+<p>1 oignon</p>
+<p>350 g de purée de tomates</p>
+<p>un peu d'ail en poudre</p>
+<p>1/2 bouillon-cube de boeuf</p>
+<p>du gruyère râpé</p>
+<p>de l'huile</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="steak"> revenir </operation> le <ingredient action="revenir" quantite="1"> steak </ingredient> haché . lorsqu' il commence à être <operation> cuit </operation> , le <operation> mettre </operation> à part . <operation ingredients="aubergine"> couper </operation> l' <ingredient action="couper" quantite="1"> aubergine </ingredient> en deux , puis en rondelles . la faire <operation ingredients="huile;olive"> revenir </operation> dans la même <operation> poêle </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> ( d' <ingredient action="revenir"> olive </ingredient> ou autre ) , à feu vif . lorsqu' elle commence à <operation> colorer </operation> et accrocher , la <operation ingredients="steak"> mettre </operation> à part avec le <ingredient action="mettre" quantite="1"> steak </ingredient> . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> et poivrons <operation> émincés </operation> . lorsqu' ils commencent à <operation ingredients="tomates"> fondre </operation> , <operation ingredients="aubergine;steak"> rajouter </operation> l' <ingredient action="rajouter" quantite="1"> aubergine </ingredient> et le <ingredient action="rajouter" quantite="1"> steak </ingredient> <operation> émietté </operation> , ainsi que la purée de <ingredient action="fondre"> tomates </ingredient> . faire <operation ingredients="bouillon"> dissoudre </operation> le demi <ingredient action="dissoudre"> bouillon </ingredient> - cube et <operation ingredients="ail"> saupoudrer </operation> d' <ingredient action="saupoudrer"> ail </ingredient> . bien <operation> mélanger </operation> et laisser <operation> cuire </operation> encore une dizaine de minutes . servir avec du <ingredient quantite=""> gruyère </ingredient> râpé .
+</preparation>
+</recette>

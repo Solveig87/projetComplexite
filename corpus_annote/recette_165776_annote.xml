@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165776">
+<titre>Tarte aux pommes et aux speculoos</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée en rouleau</p>
+<p>4 pommes</p>
+<p>10 spéculoos</p>
+<p>50 g de noisettes en poudre</p>
+<p>2 oeufs</p>
+<p>20 cl de crème</p>
+<p>2 càs de sucre</p>
+</ingredients>
+<preparation>
+1 . <operation ingredients="pâte"> mettre </operation> le rouleau de <ingredient action="mettre" quantite="1"> pâte </ingredient> dans le <operation> moule </operation> à tarte et le <operation> piquer </operation> à l' aide d' une fourchette . 2 . <operation ingredients="spéculoos"> ecraser </operation> les <ingredient action="ecraser" quantite="10"> spéculoos </ingredient> et les <operation ingredients="noisettes"> mélanger </operation> aux <ingredient action="mélanger" quantite="50 gramme"> noisettes </ingredient> , puis <operation ingredients="tarte"> déposer </operation> le <operation> mélange </operation> sur le fond de <ingredient action="déposer"> tarte </ingredient> . 3 . <operation> peler </operation> , <operation> évider </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> en fines tranches , puis les <operation> disposer </operation> sur le <operation> mélange </operation> . 4 . <operation ingredients="oeufs"> battre </operation> les 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> à l' aide d' une fourchette , <operation ingredients="crème"> mélanger </operation> avec la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> et <operation ingredients="sucre"> rajouter </operation> le <ingredient action="rajouter" quantite="2"> sucre </ingredient> ( adapter la <operation> dose </operation> à l' acidité des <ingredient quantite="4"> pommes </ingredient> ) puis <operation ingredients="pommes"> verser </operation> l' appareil sur les <ingredient action="verser" quantite="4"> pommes </ingredient> . 5 . <operation> mettre </operation> à four chaud ( 200 . 210 <operation> ° </operation> ) et laisser <operation> cuire </operation> 45 minutes .
+</preparation>
+</recette>

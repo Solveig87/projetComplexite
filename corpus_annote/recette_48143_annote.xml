@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48143">
+<titre>Gambas à la Plancha</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de gambas entières</p>
+<p>5 dl de vin blanc </p>
+<p>2 étoiles d'anis (badiane)</p>
+<p>2 feuilles de laurier</p>
+<p>1 bouquet de persil</p>
+<p>4 gousses d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="vin"> préparez </operation> une marinade avec le <ingredient action="préparer" quantite="5 dl"> vin </ingredient> blanc . <operation> ecrasez </operation> l' <ingredient> ail </ingredient> et <operation ingredients="persil"> coupez </operation> le <ingredient action="couper"> persil </ingredient> que vous <operation ingredients="vin"> mélangerez </operation> au <ingredient action="mélanger" quantite="5 dl"> vin </ingredient> blanc . <operation> ajoutez </operation> l' anis , les feuilles de <ingredient action="mélanger" quantite="2 feuille"> laurier </ingredient> et <operation ingredients="laurier"> mélangez </operation> le tout . <operation ingredients="gambas"> disposez </operation> vos <ingredient action="disposer" quantite="1 kilogramme"> gambas </ingredient> dans la marinade , et <operation> mélangez </operation> soigneusement . laissez <operation> reposer </operation> 1 nuit , à <operation> couvert </operation> , dans votre frigo . pour un repas convivial , faites - les <operation> cuire </operation> sur un grill <operation> posé </operation> en milieu de table pendant le repas . pensez à <operation> ajoutez </operation> un peu de marinade pendant la cuisson , elle donne un bon goût . vous pouvez aussi les faire <operation> cuire </operation> dans une <operation> poêle </operation> antiadhésive . <ingredient quantite="5 dl"> vin </ingredient> blanc
+</preparation>
+</recette>

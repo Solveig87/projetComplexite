@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57790">
+<titre>Paupiettes de dinde au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 paupiettes de dinde</p>
+<p>1 oignon</p>
+<p>6 champignons frais</p>
+<p>4 tranches de bacon</p>
+<p>15 cl de vin blanc</p>
+<p>sel, poivre</p>
+<p>curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="paupiettes;beurre"> revenir </operation> pendant 5 minutes les <ingredient action="revenir" quantite="2"> paupiettes </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> afin de les <operation> griller </operation> . <operation> poivrer </operation> et <operation> saler </operation> . penser à <operation ingredients="paupiettes"> tourner </operation> les <ingredient action="tourner" quantite="2"> paupiettes </ingredient> de temps en temps pour ne pas les brûler . pendant ce temps , <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> , <operation ingredients="champignons;carrés"> couper </operation> en lamelles les <ingredient action="couper" quantite="6"> champignons </ingredient> frais et <operation ingredients="bacon"> couper </operation> les tranches de <ingredient action="couper" quantite="4 tranche"> bacon </ingredient> en petits <ingredient action="couper"> carrés </ingredient> . après ces 5 minutes , <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , les <ingredient action="revenir" quantite="6"> champignons </ingredient> et le <ingredient action="revenir" quantite="4 tranche"> bacon </ingredient> et les faire <operation ingredients="champignons;bacon;paupiettes;curry"> revenir </operation> avec les <ingredient action="revenir" quantite="2"> paupiettes </ingredient> encore 5 minutes en saupoudrant à votre convenance de <ingredient action="revenir" quantite=""> curry </ingredient> . a la fin des 10 premières minutes de cuisson , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc et laisser <operation> mijoter </operation> pendant 10 minutes à feu doux . vous pouvez <operation ingredients="paupiettes"> accompagner </operation> les <ingredient action="accompagner" quantite="2"> paupiettes </ingredient> de blé .
+</preparation>
+</recette>

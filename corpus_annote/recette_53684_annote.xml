@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53684">
+<titre>Pigeons sur canape</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pigeons</p>
+<p>sel et poivre</p>
+<p>45 g de beurre</p>
+<p>3 foies de volaille</p>
+<p>3 gésiers</p>
+<p>10 cl de cognac</p>
+<p>huile d'olive</p>
+<p>2 cl de crème fraîche liquide</p>
+<p>10 cl de bouillon de volaille</p>
+<p>2 échalotes</p>
+<p>4 tranches de pain de mie</p>
+</ingredients>
+<preparation>
+faire <operation action="rôtir" ingredients="rôtir;pigeons;beurre;échalotes"> rôtir </operation> les 2 <ingredient action="rôtir" quantite="2"> pigeons </ingredient> dans une cocotte , avec 20 g de <ingredient action="rôtir" quantite="45 gramme"> beurre </ingredient> et les <ingredient action="rôtir" quantite="2"> échalotes </ingredient> . <operation ingredients="pigeons"> saler </operation> et <operation> poivrer </operation> les <ingredient action="saler" quantite="2"> pigeons </ingredient> , <operation ingredients="bouillon"> arroser </operation> avec le <ingredient action="arroser" quantite="10 cl"> bouillon </ingredient> de volaille et laisser <operation> mijoter </operation> pendant 45 min ; <operation> réserver </operation> . <operation> préparer </operation> les canapés : faire <operation ingredients="gésiers;foies;beurre"> cuire </operation> les <ingredient action="cuire" quantite="3"> gésiers </ingredient> et les <ingredient action="cuire" quantite="3"> foies </ingredient> dans une <operation> poêle </operation> avec le reste de <ingredient action="cuire" quantite="45 gramme"> beurre </ingredient> . une fois <operation> cuits </operation> , flambler avec le <ingredient quantite="10 cl"> cognac </ingredient> . <operation> mixer </operation> le tout , <operation> remettre </operation> dans la <operation> poêle </operation> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cl"> crème </ingredient> et <operation> remuer </operation> . prendre les tranches de <ingredient quantite="4 tranche"> pain </ingredient> de mie , les <operation ingredients="foies"> napper </operation> avec les <ingredient action="napper" quantite="3"> foies </ingredient> , <operation ingredients="pigeons"> couper </operation> les <ingredient action="couper" quantite="2"> pigeons </ingredient> en deux , puis les <operation> mettre </operation> sur les toasts . <operation> présenter </operation> sur un plat . <operation ingredients="foies"> mettre </operation> le reste de <ingredient action="mettre" quantite="3"> foies </ingredient> dans une saucière , et servir .
+</preparation>
+</recette>

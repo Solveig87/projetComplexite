@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24612">
+<titre>Melons garnis aux fraises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 petits melons</p>
+<p>375 g de fraises</p>
+<p>5 cuillères à soupe de sucre</p>
+<p>5 cl de kirsch</p>
+<p>300 g de fromage blanc</p>
+<p>225 g de crème fraîche </p>
+</ingredients>
+<preparation>
+<operation ingredients="melons"> découper </operation> le chapeau des <ingredient action="découper" quantite="6"> melons </ingredient> , puis les <operation> creuser </operation> , en <operation ingredients="chair"> extraire </operation> la <ingredient action="extraire"> chair </ingredient> et la <operation> détailler </operation> en petits morceaux . les <operation ingredients="fraises"> déposer </operation> dans un saladier avec les <ingredient action="déposer" quantite="375 gramme"> fraises </ingredient> <operation> lavées </operation> et <operation> équeutées </operation> , puis <operation ingredients="sucre"> saupoudrer </operation> le tout de <ingredient action="saupoudrer" quantite="5 cuillère à soupe"> sucre </ingredient> . <operation> arroser </operation> d’ un verre de kirsch , puis laisser <operation> mariner </operation> durant 1 heure . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter" quantite="225 gramme"> crème </ingredient> en chantilly et l' <operation ingredients="fromage"> incorporer </operation> délicatement au <ingredient action="incorporer" quantite="300 gramme"> fromage </ingredient> blanc puis <operation ingredients="fruits"> ajouter </operation> les <ingredient action="ajouter" quantite="6;375 gramme"> fruits </ingredient> . <operation ingredients="melons"> garnir </operation> les <ingredient action="garnir" quantite="6"> melons </ingredient> de cette préparation , puis <operation> placer </operation> au réfrigérateur et servir très frais .
+</preparation>
+</recette>

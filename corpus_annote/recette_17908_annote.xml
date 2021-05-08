@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17908">
+<titre>Tiramisu à l'amaretti</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 jaunes d'oeuf</p>
+<p>1 cuillère soupe de sucre</p>
+<p>300 g de Mascarpone</p>
+<p>100 g d'Amaretti</p>
+<p>20 cl de café fort</p>
+<p>1 petit verre apéritif de Brandy</p>
+<p>150 g de biscuits à la cuillère moyens</p>
+<p>cacao en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf;sucre"> battre </operation> les jaunes d' <ingredient action="battre"> oeuf </ingredient> avec le <ingredient action="battre"> sucre </ingredient> , <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> mascarpone </ingredient> et les amaretti <operation> concassés </operation> puis <operation> diviser </operation> la préparation en 2 parties . dans une partie , <operation ingredients="café"> mélanger </operation> environ 1 / 2 verre de <ingredient action="mélanger" quantite="20 cl"> café </ingredient> froid et dans l' autre le brandy . <operation ingredients="biscuits;café"> tremper </operation> rapidement les <ingredient action="tremper" quantite="150 gramme"> biscuits </ingredient> à la cuillère dans le <ingredient action="tremper" quantite="20 cl"> café </ingredient> . dans un plat rectangulaire , <operation ingredients="biscuits"> dresser </operation> une première couche de <ingredient action="dresser" quantite="150 gramme"> biscuits </ingredient> à la cuillère , <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir"> crème </ingredient> au café ; <operation> dresser </operation> une autre couche , <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir"> crème </ingredient> au brandy . <operation> mettre </operation> au congélateur 3 heures au moins . déplacer au réfrigérateur environ 1 heure avant de servir et <operation ingredients="cacao"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> à l' aide d' une passoire .
+</preparation>
+</recette>

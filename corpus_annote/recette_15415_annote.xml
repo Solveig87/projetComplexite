@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15415">
+<titre>Chili con carne facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de beurre</p>
+<p>2 gros oignons</p>
+<p>2 gousses d'ail écrasées</p>
+<p>500 g de bœuf haché</p>
+<p>1 cuillère à café de Chili en poudre</p>
+<p>2 cuillères à café de cumin en poudre</p>
+<p>65 g de concentré de tomate</p>
+<p>1 grosse boîte de haricots rouge égouttés</p>
+<p>30 cl de bouillon de bœuf</p>
+<p>sel, poivre, persil pour décorer</p>
+</ingredients>
+<preparation>
+dans une cocotte en fonte , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , et ensuite <operation ingredients="oignon;ail"> dorer </operation> doucement l' <ingredient action="dorer" quantite="2"> oignon </ingredient> et l’ <ingredient action="dorer"> ail </ingredient> . <operation> incorporer </operation> le bœuf <operation> haché </operation> et laisser <operation> cuire </operation> doucement 10 min . <operation> mélanger </operation> le chili , le <ingredient action="concentré" quantite="2 cuillère à café"> cumin </ingredient> , le <operation ingredients="cumin;tomates"> concentré </operation> de <ingredient action="concentré"> tomates </ingredient> , et <operation> incorporer </operation> le tout au bœuf . <operation ingredients="haricots;bouillon"> ajouter </operation> les <ingredient action="ajouter"> haricots </ingredient> , le <ingredient action="ajouter" quantite="30 cl"> bouillon </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> . <operation> couvrir </operation> , et laisser <operation> cuire </operation> 25 min au four ( thermostat 6 / 180 <operation> ° </operation> c ) . si vous ne trouvez pas de chili , vous pouvez utiliser une petite cuillère à café de poivre de cayenne . au moment de <operation> mettre </operation> au four , vérifiez que le <ingredient quantite="30 cl"> bouillon </ingredient> arrive au raz de la préparation , au besoin , <operation> rajoutez </operation> un peu d’ eau .
+</preparation>
+</recette>

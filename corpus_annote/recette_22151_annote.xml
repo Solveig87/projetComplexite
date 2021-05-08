@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22151">
+<titre>Riz au lait épicé, crème pistachée</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour le riz au lait :</p>
+<p>50 cl de lait</p>
+<p>2 oeufs</p>
+<p>zestes d'oranges</p>
+<p>75 g de sucre</p>
+<p>1/2 gousse de vanille</p>
+<p>cardamome verte</p>
+<p>poivre de séchouan</p>
+<p>Pour la crème pistachée :</p>
+<p>12.5 cl de lait</p>
+<p>2 oeufs</p>
+<p>25 g de sucre</p>
+<p>15 g pâte à pistache</p>
+</ingredients>
+<preparation>
+riz au lait : <operation ingredients="lait;épices"> faire </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="50 cl"> lait </ingredient> avec les <ingredient action="faire" quantite="1;"> épices </ingredient> . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> puis reporter à <operation> ébullition </operation> . terminer à <operation> couvert </operation> au four à 150 <operation> ° </operation> c pendant 2 . 25 min . quand c' est fait , <operation ingredients="sucre"> blanchir </operation> les jaunes avec le <ingredient action="blanchir" quantite="75 gramme+25 gramme"> sucre </ingredient> et <operation ingredients="riz"> additionner </operation> au <ingredient action="additionner"> riz </ingredient> , puis <operation> remettre </operation> sur feu très doux durant . 4 min en <operation> mélangeant </operation> et <operation ingredients="oranges"> ajouter </operation> les zestes d' <ingredient action="ajouter"> oranges </ingredient> . vous pouvez les <operation> mouler </operation> en <operation> mettant </operation> du film étirable dans des ramequins et les <operation> démouler </operation> qu' après les avoir laisser <operation> reposer </operation> durant 1 h au frais ( ne pas oublier d' <operation ingredients="épices"> enlever </operation> les <ingredient action="enlever" quantite="1;"> épices </ingredient> avant de les <operation> mouler </operation> ) . <ingredient> crème </ingredient> pistachée : faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> et y <operation ingredients="oeufs;sucre"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="2+2"> oeufs </ingredient> préalablement <operation> blanchis </operation> avec le <ingredient action="ajouter" quantite="75 gramme+25 gramme"> sucre </ingredient> . <operation ingredients="crème"> laisser </operation> <operation> épaissir </operation> ( consistance d' une <ingredient action="laisser"> crème </ingredient> anglaise ) et y <operation ingredients="pâte"> ajouter </operation> la <ingredient action="ajouter" quantite="15 gramme"> pâte </ingredient> à pistache .
+</preparation>
+</recette>

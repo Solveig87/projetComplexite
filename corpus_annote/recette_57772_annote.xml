@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57772">
+<titre>Soupe de fenouil et carotte</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 fenouils</p>
+<p>3 carottes</p>
+<p>noix de muscade</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="légumes"> rincer </operation> les <ingredient action="rincer" quantite="3;3"> légumes </ingredient> , puis <operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> carottes </ingredient> . faire <operation ingredients="fenouil;carottes"> bouillir </operation> le <ingredient action="bouillir" quantite="3"> fenouil </ingredient> et les <ingredient action="bouillir" quantite="3"> carottes </ingredient> dans un litre et demi d' eau <operation> salée </operation> pendant 20 à 30 mn . <operation> passer </operation> le tout au <operation> mixer </operation> pendant 5 minutes . au moment de servir , <operation ingredients="noix"> rajouter </operation> une pincée de <ingredient action="rajouter" quantite=""> noix </ingredient> de muscade dans chaque bol . plat très léger
+</preparation>
+</recette>

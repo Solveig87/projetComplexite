@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11496">
+<titre>Délice Poires-Chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 œufs</p>
+<p>3 poires</p>
+<p>80 g de farine</p>
+<p>40 g de maïzena</p>
+<p>30 g de cacao non sucré</p>
+<p>100 g de sucre</p>
+<p>40 cl de lait</p>
+</ingredients>
+<preparation>
+<operation> beurrer </operation> un plat à gratin , <operation> peler </operation> et <operation ingredients="poires"> couper </operation> les <ingredient action="couper" quantite="3"> poires </ingredient> en tranches fines , puis les y <operation> déposer </operation> . <operation ingredients="farine;maïzena;sucre"> mêler </operation> la <ingredient action="mêler" quantite="80 gramme"> farine </ingredient> , la <ingredient action="mêler" quantite="40 gramme"> maïzena </ingredient> et le <ingredient action="mêler" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="lait;chocolat"> faire </operation> un puit et y <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter"> oeufs </ingredient> puis le <ingredient action="faire" quantite="40 cl"> lait </ingredient> petit à petit , puis le <ingredient action="faire"> chocolat </ingredient> . <operation ingredients="poires"> verser </operation> le <operation> mélange </operation> sur les <ingredient action="verser" quantite="3"> poires </ingredient> . <operation> mettre </operation> au four à 270 <operation> ° </operation> c pendant 30 min . déguster froid ou tiède .
+</preparation>
+</recette>

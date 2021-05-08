@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23111">
+<titre>Rochers coco-banane-ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>la chair d'une noix de coco râpée (ou mixée au mixeur, ça marche aussi) </p>
+<p>5 tranches d'ananas au sirop égouttées</p>
+<p>un oeuf</p>
+<p>un demi verre à moutarde de sucre de canne</p>
+<p>un sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf;sucre"> mélangez </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> et le <ingredient action="mélanger"> sucre </ingredient> dans un saladier . <operation ingredients="noix;bananes"> ajoutez </operation> la <ingredient action="ajouter"> noix </ingredient> de coco , et les <ingredient action="ajouter" quantite="2"> bananes </ingredient> <operation> coupées </operation> en petits morceaux , <operation> malaxez </operation> le tout jusqu' à obtenir une boule à peu près homogène . <operation ingredients="ananas"> coupez </operation> les tranches d' <ingredient action="couper" quantite="5 tranche"> ananas </ingredient> en très petits dés et <operation ingredients="pâte"> incorporez </operation> les à la <ingredient action="incorporer"> pâte </ingredient> . sur une <operation> plaque </operation> , faîtes des petits rochers avec la <ingredient> pâte </ingredient> , et <operation> enfournez </operation> le tout à 200 <operation> ° </operation> c.
+</preparation>
+</recette>

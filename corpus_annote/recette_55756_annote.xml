@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55756">
+<titre>Feuilleté au jambon champenois</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes feuilletées</p>
+<p>8 tranches de jambon blanc</p>
+<p>1 boîte de champignons</p>
+<p>200 g de gruyère râpé</p>
+<p>un jaune d'oeuf</p>
+<p>Pour la sauce bechamel :</p>
+<p>50 g de beurre</p>
+<p>4 à 5 cuillères à soupe de farine</p>
+<p>50 cl de liquide (lait+eau)</p>
+<p>1 bouillon cube</p>
+<p>un peu de muscade en poudre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la bechamel : dans une casserole faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , y <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> jusqu' à obtenir un <ingredient quantite="2"> pâte </ingredient> de consistance ferme . <operation ingredients="lait;bouillon"> ajouter </operation> le liquide ( <ingredient action="ajouter"> lait </ingredient> , eau et <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube ) et <operation> remuer </operation> jusqu' à obtention d' une bechamel épaisse . <operation ingredients="sel"> assaisoner </operation> avec <ingredient action="assaisoner"> sel </ingredient> , poivre , muscade . pour le feuilleté : dans un <operation> moule </operation> à tarte , <operation ingredients="pâte"> déposer </operation> la première <ingredient action="déposer" quantite="2"> pâte </ingredient> feuilletée au fond du <operation> moule </operation> ( prendre un <operation> moule </operation> plus petit que la <ingredient quantite="2"> pâte </ingredient> pour pouvoir <operation> rabattre </operation> les bords après ) . <operation ingredients="jambon"> mettre </operation> une couche de <ingredient action="mettre" quantite="8 tranche"> jambon </ingredient> ( 4 tranches ) ; puis une couche de <ingredient> champignons </ingredient> ; puis une de <ingredient> fromage </ingredient> râpé . <operation> recouvrir </operation> de sauce bechamel ( environ la moitié ) . recommencer l' opération <ingredient quantite="8 tranche"> jambon </ingredient> puis champignon puis fromage puis la dernière couche de bechamel . <operation ingredients="pâte"> poser </operation> la deuxieme <ingredient action="poser" quantite="2"> pâte </ingredient> feuilletée sur le dessus . souder les bords des deux <ingredient quantite="2"> pâtes </ingredient> feuilletés entre eux avec un peu d' eau et les <operation> rabattre </operation> vers le centre du feuilleté en les roulant . <operation ingredients="pâte;couteau;oeuf"> faire </operation> une dessin sur le dessus de la <ingredient action="faire" quantite="2"> pâte </ingredient> avec la pointe d' un <ingredient action="faire"> couteau </ingredient> puis doré au jaune d' <ingredient action="faire"> oeuf </ingredient> et au pinceau . <operation> enfourner </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 40 à 50 minutes . servir tiède avec une <ingredient> salade </ingredient> . l' idéal est de le faire la veille car il est encore meilleur rechauffé . . . un bon petit plat de vendanges de chez nous . . . . un <ingredient> champagne </ingredient> ( type chouilly ) ou un coteau champenois rouge ( type bouzy )
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23683">
+<titre>Rillettes faciles aux deux saumons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>800 g de saumon frais</p>
+<p>3 ou 4 tranches de saumon fumé</p>
+<p>30 g d'oeufs de saumon</p>
+<p>75 g de beurre</p>
+<p>150 g de crème fleurette</p>
+<p>1 jus de citron</p>
+<p>1 bouquet d'aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> frais , l' <operation> émietter </operation> à la fourchette . <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en fines lanières . dans une terrine , faire <operation ingredients="beurre"> ramollir </operation> le <ingredient action="ramollir" quantite="75 gramme"> beurre </ingredient> , y <operation ingredients="saumons;oeufs;aneth;jus;crème"> incorporer </operation> les <ingredient action="incorporer"> saumons </ingredient> , les <ingredient action="incorporer" quantite="30 gramme"> oeufs </ingredient> , l' <ingredient action="incorporer"> aneth </ingredient> , le <ingredient action="incorporer" quantite="1"> jus </ingredient> de citron et la <ingredient action="incorporer" quantite="150 gramme"> crème </ingredient> <operation ingredients="chantilly"> battue </operation> en <ingredient action="battre"> chantilly </ingredient> . <operation ingredients="vin"> mettre </operation> dans une terrine au frais pendant 24 h. <ingredient action="mettre"> vin </ingredient> blanc sec
+</preparation>
+</recette>

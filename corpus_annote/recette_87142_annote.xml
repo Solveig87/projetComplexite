@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87142">
+<titre>Salade légère aux inspirations d'Asie</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de vermicelles de riz (plus ou moins selon les goûts)</p>
+<p>1 oignon rouge</p>
+<p>200 g de thon au naturel (selon vos goûts)</p>
+<p>4 bâtonnets de cœurs de palmier</p>
+<p>5 feuilles de chou chinois</p>
+<p>sel, poivre, gingembre râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="vermicelles"> cuire </operation> les <ingredient action="cuire" quantite="350 gramme"> vermicelles </ingredient> de riz dans l' eau bouillante pendant 5 min . <operation> égoutter </operation> et <operation> mettre </operation> rapidement sous l' eau froide . <operation ingredients="mayonnaise"> préparer </operation> un saladier avec une sauce vinaigrette légère ou un peu de <ingredient action="préparer"> mayonnaise </ingredient> maison allongée à l' eau ( si vous penchez pour la <ingredient> mayonnaise </ingredient> , <operation ingredients="thon;mayonnaise"> mélanger </operation> <ingredient action="mélanger" quantite="200 gramme"> thon </ingredient> + 1 cuillère de <ingredient action="mélanger"> mayonnaise </ingredient> avant toute chose ) . <operation ingredients="vermicelles"> verser </operation> dans le saladier les <ingredient action="verser" quantite="350 gramme"> vermicelles </ingredient> de riz <operation ingredients="thon;chou;palmier"> mélangés </operation> au <ingredient action="mélanger" quantite="200 gramme"> thon </ingredient> , oignon , émincé des feuilles de <ingredient action="mélanger" quantite="5 feuille"> chou </ingredient> chinois , cœurs de <ingredient action="mélanger"> palmier </ingredient> <operation> coupés </operation> en rondelles . <operation> assaisonner </operation> et <operation ingredients="gingembre"> saupoudrer </operation> d' une pincée de <ingredient action="saupoudrer"> gingembre </ingredient> râpé pour terminer . c' est prêt , à déguster !
+</preparation>
+</recette>

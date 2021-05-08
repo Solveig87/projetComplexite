@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62590">
+<titre>Boeuf aux épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>450 g de filet de boeuf coupé en lamelles</p>
+<p>4 cuillères à soupe d'huile de tournesol</p>
+<p>1 cuillère à soupe de sauce de soja</p>
+<p>1 cuillère à soupe de sel</p>
+<p>1 cuillère à soupe de maïzena</p>
+<p>1 oignon haché</p>
+<p>2 gousses d'ail écrasées</p>
+<p>1 cuillère à soupe de curry en poudre</p>
+<p>2 cuillères à soupe de ketchup</p>
+<p>2 cébettes</p>
+</ingredients>
+<preparation>
+<operation ingredients="boeuf;sel"> mélangez </operation> les lamelles de <ingredient action="mélanger"> boeuf </ingredient> avec 1 cuillère à soupe d' huile , la sauce de soja et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sel </ingredient> . laissez <operation> macérer </operation> 15 minutes . <operation ingredients="maïzena"> ajoutez </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> maïzena </ingredient> et <operation> remuez </operation> . <operation> chauffer </operation> 2 cuillères à soupe d' huile dans une sauteuse sur feu moyen . <operation ingredients="boeuf"> ajouter </operation> le <ingredient action="ajouter"> boeuf </ingredient> et faites - le <operation> sauter </operation> 5 minutes environ . <operation> réservez </operation> au chaud . <operation> essuyez </operation> la sauteuse et <operation ingredients="huile"> versez </operation> - y le reste de l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> . <operation ingredients="oignon;ail"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> , laissez les <operation> fondre </operation> 5 min . <operation ingredients="curry;ketchup"> incorporez </operation> le <ingredient action="incorporer" quantite="1 cuillère à soupe"> curry </ingredient> et le <ingredient action="incorporer" quantite="2 cuillère à soupe"> ketchup </ingredient> . <operation ingredients="boeuf"> remettez </operation> le <ingredient action="remettre"> boeuf </ingredient> dans la sauteuse avec les cébettes <operation> coupées </operation> en tronçons . faites <operation> cuire </operation> le tout 5 minutes et servez aussitôt . <operation ingredients="nouilles"> accompagnement </operation> : <ingredient action="accompagnement"> nouilles </ingredient> chinoises
+</preparation>
+</recette>

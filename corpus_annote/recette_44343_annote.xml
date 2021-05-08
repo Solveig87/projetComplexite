@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44343">
+<titre>Lotte sauce sucrée salée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 boîte de tomates concassées</p>
+<p>1 boîte de coulis de tomate</p>
+<p>1 blanc de poireau émincé</p>
+<p>1 ou 2 oignons</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>des gros raisins secs</p>
+<p>des pignons</p>
+<p>4 queues de lotte (ou un gros morceau)</p>
+<p>du vin rouge </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireau;oignons;huile"> revenir </operation> le <ingredient action="revenir"> poireau </ingredient> et les <ingredient action="revenir" quantite="1"> oignons </ingredient> <operation> émincés </operation> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , puis <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> et le coulis , <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> mijoter </operation> à feu doux . pendant ce temps , faire <operation ingredients="vin"> chauffer </operation> le <ingredient action="chauffer" quantite=""> vin </ingredient> rouge dans une casserole et <operation ingredients="raisins;pignons"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> raisins </ingredient> et les <ingredient action="ajouter" quantite=""> pignons </ingredient> . lorsque le <ingredient quantite=""> vin </ingredient> a bien réduit , <operation ingredients="poireau"> ajouter </operation> à la sauce tomate + <ingredient action="ajouter"> poireau </ingredient> . laisser <operation> mijoter </operation> le tout , à feu très doux pendant une bonne 1 / 2 heure . <operation ingredients="lotte"> enfourner </operation> les queues de <ingredient action="enfourner"> lotte </ingredient> à 200 <operation> ° </operation> c ( thermostat . 7 ) avec une cuillère d' <ingredient quantite="1 cuillère à soupe"> huile </ingredient> d' olive ( <operation> retirer </operation> la peau ) . vous pouvez <operation ingredients="poisson"> ajouter </operation> de la sauce sur le <ingredient action="ajouter"> poisson </ingredient> en fin de cuisson . servir avec du <ingredient> riz </ingredient> et la sauce . un brouilly ou chablis
+</preparation>
+</recette>

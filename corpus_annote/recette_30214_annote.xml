@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30214">
+<titre>Quenelles de veau maison</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de viande de veau</p>
+<p>150 g de mie de pain</p>
+<p>30 cl de lait</p>
+<p>2 oeufs</p>
+<p>30 g de beurre</p>
+<p>3 cuillères à soupe de farine</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain;lait"> tremper </operation> la mie de <ingredient action="tremper"> pain </ingredient> dans du <ingredient action="tremper" quantite="30 cl"> lait </ingredient> et l' <operation> égoutter </operation> . <operation ingredients="viande"> hacher </operation> la <ingredient action="hacher" quantite="250 gramme"> viande </ingredient> finement , puis y <operation ingredients="pain;beurre"> ajouter </operation> la mie de <ingredient action="ajouter"> pain </ingredient> <operation> essorée </operation> et le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="pâte"> former </operation> une <ingredient action="former"> pâte </ingredient> homogène ( au mixeur éventuellement ) . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> , <operation> mélanger </operation> . <operation> battre </operation> les blancs en neige et les <operation> incorporer </operation> à la préparation . <operation> former </operation> des quenelles , les <operation ingredients="farine"> passer </operation> dans la <ingredient action="passer" quantite="3 cuillère à soupe"> farine </ingredient> . faire <operation> bouillir </operation> une grande marmite d' eau <operation> salée </operation> , y <operation> jeter </operation> les quenelles et laisser <operation> cuire </operation> 1 . 15 min à petite <operation> ébullition </operation> . servir avec un coulis de <ingredient> tomates </ingredient> ou de <ingredient> poivrons </ingredient> et des <ingredient> épinards </ingredient> .
+</preparation>
+</recette>

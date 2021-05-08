@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11372">
+<titre>Tarte à la mozzarella</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>1 pâte brisée</p>
+<p>1 mozzarella</p>
+<p>sel, poivre, aromates</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="mozzarella;tomates"> coupez </operation> la <ingredient action="couper" quantite="1"> mozzarella </ingredient> en tranches ainsi que les <ingredient action="couper" quantite="4"> tomates </ingredient> . <operation ingredients="pâte"> etalez </operation> votre <ingredient action="etaler" quantite="1"> pâte </ingredient> dans votre <operation> moule </operation> , faites <operation> chauffer </operation> votre four à th 7 . <operation ingredients="pâte;tomate;mozzarella;tomate;mozzarella;tarte"> rangez </operation> sur votre <ingredient action="ranger" quantite="1"> pâte </ingredient> une tranche de <ingredient action="ranger" quantite="4"> tomate </ingredient> , une tranche de <ingredient action="ranger" quantite="1"> mozzarella </ingredient> , une tranche de <ingredient action="ranger" quantite="4"> tomate </ingredient> , une tranche de <ingredient action="ranger" quantite="1"> mozzarella </ingredient> , et ainsi de suite jusqu' à la fin de votre <ingredient action="ranger"> tarte </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> , <operation ingredients="persil"> mettez </operation> des aromates ( <ingredient action="mettre"> persil </ingredient> , herbes de provence . . . ) <operation ingredients="huile"> mettez </operation> un filet d' <ingredient action="mettre" quantite=""> huile </ingredient> d' olives . <operation> enfournez </operation> 30 minutes environs et surveillez la cuisson . servir <operation ingredients="salade;huile"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte à l' <ingredient action="accompagner" quantite=""> huile </ingredient> d' olives à peine vinaigrée . pour relever la <ingredient> tarte </ingredient> vous pouvez de temps en temps y <operation ingredients="poivrons"> ajouter </operation> une tranche de <ingredient action="ajouter"> poivrons </ingredient> ( toutes les 6 tranches consécutives minimum ) ou <operation ingredients="tarte;moutarde"> mettre </operation> sur le fond de <ingredient action="mettre"> tarte </ingredient> un peu de <ingredient action="mettre"> moutarde </ingredient> .
+</preparation>
+</recette>

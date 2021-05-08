@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70372">
+<titre>Gateau pour diabetique</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100g de farine </p>
+<p>3 oeufs </p>
+<p>125ml de lait </p>
+<p>15g de beurre </p>
+<p>20g de chocolat noir </p>
+<p>3 c. à café d'édulcorant liquide </p>
+<p>1/2 sachet de levure.</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les jaunes d' <ingredient action="battre" quantite="3"> oeufs </ingredient> avec l' édulcorant . <operation ingredients="lait;chocolat"> ajouter </operation> petit à petit le <ingredient action="ajouter" quantite="125ml"> lait </ingredient> , puis le <ingredient action="ajouter" quantite="20 gramme"> chocolat </ingredient> <operation ingredients="beurre"> fondu </operation> avec le <ingredient action="fondre" quantite="15 gramme"> beurre </ingredient> . <operation> mélanger </operation> . <operation ingredients="farine;levure"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . <operation> mélanger </operation> . <operation> incorporer </operation> délicatement les blancs en neige . <operation> enfourner </operation> 30 mn à 180 <operation> ° </operation> ( thermostat 6 ) . contrôler la cuisson avec un <ingredient> couteau </ingredient> .
+</preparation>
+</recette>

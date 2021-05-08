@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67075">
+<titre>Salmorejo (Andalousie)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates bien mûres</p>
+<p>pain dur (10cm de baguette)</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail dégermées</p>
+<p>2 oeufs durs</p>
+<p>2 tranches de jambon cru</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> , puis les <operation> couper </operation> . oter la croûte du <ingredient quantite=""> pain </ingredient> et le <operation> mouiller </operation> légèrement . <operation ingredients="oeufs"> râper </operation> les <ingredient action="râper" quantite="2"> oeufs </ingredient> dans un ramequin et <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> cru en fines lamelles puis les <operation> déposer </operation> dans un autre ramequin . <operation ingredients="tomates;pain;huile;ail"> mixer </operation> les <ingredient action="mixer" quantite="4"> tomates </ingredient> avec le <ingredient action="mixer" quantite=""> pain </ingredient> , l' <ingredient action="mixer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive et l' <ingredient action="mixer"> ail </ingredient> . servir le salmorejo dans des ramequins et chacun <operation ingredients="oeuf;jambon"> dépose </operation> un peu d' <ingredient action="dépose" quantite="2"> oeuf </ingredient> et de <ingredient action="dépose" quantite="2 tranche"> jambon </ingredient> dessus . ce plat se <ingredient> mange </ingredient> avec une cuillère à soupe . on peut faire varier la consistance du plat en diminuant ou augmentant la quantité de <ingredient quantite=""> pain </ingredient> . on peut aussi <operation> réduire </operation> ou <operation ingredients="ail"> ajouter </operation> de l' <ingredient action="ajouter"> ail </ingredient> selon ses goûts .
+</preparation>
+</recette>

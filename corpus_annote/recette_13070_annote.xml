@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13070">
+<titre>St Jacques aux pommes Granny</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de St Jacques </p>
+<p>8 pommes Granny </p>
+<p>1 Bouteille de cidre </p>
+<p>50 g de beurre</p>
+<p>farine</p>
+<p>1 oignon</p>
+<p>sel et poivre</p>
+<p>8 coquilles vides</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="8"> pommes </ingredient> granny en quatre , <operation> retirer </operation> les pépins , les faire <operation ingredients="beurre"> cuire </operation> à feu doux dans du <ingredient action="cuire" quantite="50 gramme"> beurre </ingredient> . faire <operation ingredients="beurre"> cuire </operation> les st jacques dans une poèle avec du <ingredient action="cuire" quantite="50 gramme"> beurre </ingredient> pendant 10 mn . pour la sauce : faire <operation ingredients="oignon;beurre"> revenir </operation> un peu d' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans du <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> , <operation ingredients="farine"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> farine </ingredient> et <operation ingredients="cidre"> mouiller </operation> avec le <ingredient action="mouiller"> cidre </ingredient> . <operation> verser </operation> les st jacques dans la sauce , <operation ingredients="pommes"> mettre </operation> les <ingredient action="mettre" quantite="8"> pommes </ingredient> autour dans les coquilles . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> avec sel et poivre du moulin . bon appétit , vous allez épater vos amis ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18232">
+<titre>Le cabri rôti</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>2 gigots de cabri</p>
+<p>4 gousses d'ail</p>
+<p>4 cuillerées à soupe d'huile d'olive</p>
+<p>1 cuillerée à soupe de vinaigre de vin rouge</p>
+<p>1 bouquet de persil plat</p>
+<p>1 brin de romarin</p>
+<p>sel et poivre au moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousses"> peler </operation> et <operation> hacher </operation> finement les <ingredient action="peler" quantite="4"> gousses </ingredient> d' ail . <operation ingredients="persil"> laver </operation> le <ingredient action="laver"> persil </ingredient> , l' <operation> éponger </operation> et <operation> ciseler </operation> les feuilles . <operation ingredients="persil;ail"> mélanger </operation> le <ingredient action="mélanger"> persil </ingredient> et l' <ingredient action="mélanger"> ail </ingredient> . <operation ingredients="gigots;couteau"> entailler </operation> régulièrement les <ingredient action="entailler" quantite="2"> gigots </ingredient> à l' aide d' un <ingredient action="entailler"> couteau </ingredient> pointu et faire pénétrer une petite portion de <ingredient> persillade </ingredient> dans ces incisions ( on peut <operation ingredients="lard"> reboucher </operation> ces entailles avec un peu de <ingredient action="reboucher"> lard </ingredient> gras ) . laisser <operation ingredients="viande"> reposer </operation> la <ingredient action="reposer" quantite="2"> viande </ingredient> ainsi <operation> préparée </operation> pendant 2 heures . par ailleurs , <operation ingredients="huile;vinaigre"> mélanger </operation> l' <ingredient action="mélanger"> huile </ingredient> d' olive et le <ingredient action="mélanger"> vinaigre </ingredient> dans un bol , <operation> saler </operation> et <operation> poivrer </operation> , <operation> ajouter </operation> un peu de romarin bien émietté , <operation> mélanger </operation> et laisser <operation> reposer </operation> . la cuisson , sur un feu de braises de bois du maquis , demande 20 minutes environ par livre , mais on peut aussi <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire" quantite="2"> viande </ingredient> dans un four classique . <operation ingredients="gigots"> embrocher </operation> les <ingredient action="embrocher" quantite="2"> gigots </ingredient> ou les <operation> placer </operation> dans un grand plat à rôtir légèrement <operation> huilé </operation> . <operation ingredients="gigots;rôtir"> badigeonner </operation> les <ingredient action="badigeonner" quantite="2"> gigots </ingredient> de la vinaigrette et les faire <ingredient action="badigeonner"> rôtir </ingredient> à bonne chaleur , en les <operation> arrosant </operation> souvent avec la vinaigrette . laisser <operation> reposer </operation> de 10 à 15 minutes au terme de la cuisson avant de les <operation> découper </operation> en tranches . la même recette convient pour un <ingredient quantite="2"> gigot </ingredient> d' agneau de 2 kg . servir cette <ingredient quantite="2"> viande </ingredient> avec des <ingredient> pommes </ingredient> de terre <operation> sautées </operation> et des <ingredient> haricots </ingredient> verts patrimonio
+</preparation>
+</recette>

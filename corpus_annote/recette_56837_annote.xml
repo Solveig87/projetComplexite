@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56837">
+<titre>Salade de concombre norvégienne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>150 g de saumon fumé (ou de truite fumée)</p>
+<p>4 oeufs</p>
+<p>125 g de yaourt à 0% de matières grasses</p>
+<p>1 cuillère à soupe de fines herbes hachées (aneth, ciboulette...)</p>
+<p>sel</p>
+<p>poivre aux 5 baies</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> le <operation action="concombre" ingredients="concombre"> concombre </operation> puis le <operation> couper </operation> en fines rondelles ou en petits dés , les <operation> mettre </operation> dans une passoire . <operation ingredients="sel"> ajouter </operation> 2 pincées de gros <ingredient action="ajouter" quantite=""> sel </ingredient> , <operation> mélanger </operation> et laisser dégorger pendant 2 heures . faire <operation ingredients="oeufs"> durcir </operation> les <ingredient action="durcir" quantite="4"> oeufs </ingredient> 10 min à l' eau bouillante . <operation ingredients="saumon;carrés"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en petits <ingredient action="couper"> carrés </ingredient> ( version + rapide mais + onéreuse en achetant le <ingredient> saumon </ingredient> <ingredient quantite="150 gramme"> fumé </ingredient> déjà <operation> découpé </operation> ) . rafraîchir les <ingredient quantite="4"> oeufs </ingredient> <operation> cuits </operation> et les écaler . les <operation> couper </operation> en petits cubes et les <operation ingredients="saumon"> ajouter </operation> au <ingredient action="ajouter"> saumon </ingredient> <operation> fumé </operation> . <operation ingredients="yaourt"> mélanger </operation> avec le <ingredient action="mélanger" quantite="125 gramme"> yaourt </ingredient> et les fines herbes . <operation ingredients="poivre"> assaisonner </operation> de <ingredient action="assaisonner"> poivre </ingredient> ( selon les goûts ) . attention ! ne pas <operation ingredients="sel;concombre;saumon"> ajouter </operation> de <ingredient action="ajouter" quantite=""> sel </ingredient> car le <ingredient action="ajouter" quantite="1"> concombre </ingredient> et le <ingredient action="ajouter"> saumon </ingredient> sont déjà <operation> salés </operation> ! servir bien frais .
+</preparation>
+</recette>

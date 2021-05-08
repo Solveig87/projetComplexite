@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212571">
+<titre>Escalopes de poulet sauce Porto blanc et miel</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>25 cl de crème semi épaisse (environ)</p>
+<p>2 cuillères à café de Porto blanc</p>
+<p>1 cuillère à soupe de miel</p>
+<p>un peu de ciboulette</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> couper </operation> en dés les <ingredient action="couper" quantite="2"> escalopes </ingredient> et les faire <operation> dorer </operation> dans une <operation> poêle </operation> à feu vif . <operation> saler </operation> et <operation> poivrer </operation> puis laisser <operation> cuire </operation> à feu doux , <operation> mettre </operation> un peu d' eau et <operation> couvrir </operation> . pendant la cuisson , <operation> préparer </operation> la sauce dans un bol : <operation ingredients="crème;miel;ciboulette;porto"> mélanger </operation> la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> miel </ingredient> , la <ingredient action="mélanger"> ciboulette </ingredient> ( <operation> coupée </operation> finement ) et le <ingredient action="mélanger" quantite="2 cuillère à café"> porto </ingredient> au fouet , puis <operation> saler </operation> et <operation> poivrer </operation> . <operation> incorporer </operation> le <operation> mélange </operation> à la <operation> poêle </operation> à feu doux , laisser <operation> réduire </operation> , attendre que le <operation> mélange </operation> prenne une belle couleur caramel . c' est terminé !
+</preparation>
+</recette>

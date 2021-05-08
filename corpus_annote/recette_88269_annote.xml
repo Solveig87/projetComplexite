@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88269">
+<titre>Lamelles de calamars trop facile!</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'anneaux de calamars surgelées</p>
+<p>1 grosse boîte de tomates pelées</p>
+<p>1 gros oignon</p>
+<p>ail</p>
+<p>herbes aromatiques (au choix: thym, romarin, laurier...)</p>
+<p>25 cl de vin blanc</p>
+<p>un sucre</p>
+</ingredients>
+<preparation>
+laissez <operation ingredients="calamars"> décongeler </operation> les <ingredient action="décongeler"> calamars </ingredient> et <operation> égouttez </operation> - les . faites <operation ingredients="oignon;huile;olive"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> ( d' <ingredient action="revenir"> olive </ingredient> c' est meilleur ) . <operation ingredients="calamars;tomates;jus;sucre;vin"> ajoutez </operation> les <ingredient action="ajouter"> calamars </ingredient> , les <ingredient action="ajouter"> tomates </ingredient> et leur <ingredient action="ajouter"> jus </ingredient> , un <ingredient action="ajouter" quantite="1"> sucre </ingredient> ( pour l' acidité ) et le <ingredient action="ajouter" quantite="25 cl"> vin </ingredient> blanc . <operation ingredients="sel"> assaisonnez </operation> ( <ingredient action="assaisonnez"> sel </ingredient> / poivre / herbes ) . laissez <operation> mijoter </operation> 20 min . <operation ingredients="gousse"> pressez </operation> une ( ou plusieurs ) <ingredient action="presser"> gousse </ingredient> d' ail selon vos goûts . idéalement servi avec un <ingredient> riz </ingredient> blanc , mais également délicieux avec des <ingredient> pommes </ingredient> de terre vapeur ou des <ingredient> tagliatelles </ingredient> fraiches . bon appétit ! ! un blanc
+</preparation>
+</recette>

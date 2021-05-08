@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87717">
+<titre>Crumble pêches chocolat blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de pêches au sirop</p>
+<p>3 pommes</p>
+<p>125 g de chocolat blanc</p>
+<p>125 g de farine</p>
+<p>125 g de sucre</p>
+<p>60 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;pêches"> pelez </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> puis les <operation> couper </operation> en morceaux ainsi que les <ingredient action="peler"> pêches </ingredient> . <operation ingredients="fruits"> répartissez </operation> les <ingredient action="répartir" quantite="3"> fruits </ingredient> dans un plat allant au four . <operation ingredients="chocolat;fruits"> émiettez </operation> la tablette de <ingredient action="émietter" quantite="125 gramme"> chocolat </ingredient> au dessus des <ingredient action="émietter" quantite="3"> fruits </ingredient> . <operation> réservez </operation> . dans un saladier <operation ingredients="farine;sucre"> mélangez </operation> la <ingredient action="mélanger" quantite="125 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="125 gramme"> sucre </ingredient> et <operation> incorporez </operation> - y le <ingredient quantite="60 gramme"> beurre </ingredient> en petits cubes . <operation> mélangez </operation> à la main de façon à obtenir une <ingredient> pâte </ingredient> grumeuleuse . <operation ingredients="pâte;fruits"> émiettez </operation> cette <ingredient action="émietter"> pâte </ingredient> au dessus des <ingredient action="émietter" quantite="3"> fruits </ingredient> de façon à les <operation> recouvrir </operation> . <operation> enfournez </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) , pendant 30 minutes . le <ingredient quantite="125 gramme"> chocolat </ingredient> blanc se marie très bien avec la <ingredient> pêche </ingredient>
+</preparation>
+</recette>

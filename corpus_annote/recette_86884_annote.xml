@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86884">
+<titre>Sauté de porc à la bière et au pain d'épices</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de sauté de porc- 50 cl de bière brune (type chinay)- 1 oignon émincé- 2 tranches de pain d'épices- sel et poivre</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faire <operation ingredients="porc"> revenir </operation> le sauté de <ingredient action="revenir"> porc </ingredient> puis y <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . le faire <operation> revenir </operation> et <operation ingredients="bière"> verser </operation> la <ingredient action="verser" quantite="50 cl"> bière </ingredient> , puis laisser <operation> mijoter </operation> à <operation> couvert </operation> 15 min . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="pain"> mettre </operation> les tranches de <ingredient action="mettre" quantite="2 tranche"> pain </ingredient> d' épices entières sur le reste . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 45 min . puis <operation> enlever </operation> le couvercle et laisser <operation> réduire </operation> la sauce 30 min .
+</preparation>
+</recette>

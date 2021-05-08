@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11661">
+<titre>Aillade de cheval</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 steaks de cheval</p>
+<p>8 gousses d'ail ou plus selon les goûts</p>
+<p>1 bouquet de persil</p>
+<p>60 g de beurre fondu</p>
+<p>50 g de beurre frais</p>
+<p>sel, poivre.</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre"> mettez </operation> dans une <operation> poêle </operation> 60 g de <ingredient action="mettre" quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> , <operation> chauffez </operation> vivement . <operation ingredients="steaks"> cuisez </operation> les <ingredient action="cuire" quantite="4"> steaks </ingredient> selon votre goût . <operation> assaisonnez </operation> . <operation ingredients="steaks"> retirez </operation> les <ingredient action="retirer" quantite="4"> steaks </ingredient> et tenez - les au chaud . <operation ingredients="beurre"> ajoutez </operation> dans la <operation> poêle </operation> le <ingredient action="ajouter" quantite="50 gramme"> beurre </ingredient> frais , les <ingredient quantite="8"> gousses </ingredient> d' ail <operation> écrasées </operation> et le <ingredient quantite="1"> bouquet </ingredient> de persil finement haché . <operation ingredients="steaks;jus"> laissez </operation> <operation> mijoter </operation> deux minutes puis <operation> nappez </operation> les <ingredient action="laisser" quantite="4"> steaks </ingredient> de ce <ingredient action="laisser"> jus </ingredient> parfumé .
+</preparation>
+</recette>

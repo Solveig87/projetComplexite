@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13900">
+<titre>Cari de crevettes à la noix de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>30 crevettes</p>
+<p>1 noix de coco râpée ou en boîte</p>
+<p>3 cuillères à soupe de curry</p>
+<p>2 gousses d'ail</p>
+<p>1 oignon</p>
+<p>3 tomates</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ail;oignon"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un faitout . <operation ingredients="coco"> mettre </operation> de l' eau bouillante sur le <ingredient action="mettre"> coco </ingredient> . prendre un torchon et <operation ingredients="coco"> essorer </operation> le <ingredient action="essorer"> coco </ingredient> <operation> imbibé </operation> d' eau . <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre"> lait </ingredient> de coco ainsi obtenu dans le faitout avec le carry et les <ingredient quantite="3"> tomates </ingredient> <operation> coupées </operation> en lamelles . <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="30"> crevettes </ingredient> et laisser <operation> cuire </operation> 20 min .
+</preparation>
+</recette>

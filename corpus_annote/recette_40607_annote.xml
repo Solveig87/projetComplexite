@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40607">
+<titre>Velouté de tagliatelles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tagliatelles </p>
+<p>250 ml de soupe aux légumes du soleil et au chèvre</p>
+<p>1 grosse aubergine</p>
+<p>2 cuillères de pignons écrasés</p>
+<p>basilic </p>
+<p>parmesan ou feta nature </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . <operation ingredients="soupe"> chauffer </operation> la <ingredient action="chauffer"> soupe </ingredient> à feu doux . <operation ingredients="aubergine"> couper </operation> l' <ingredient action="couper" quantite="1"> aubergine </ingredient> en grosses rondelles , les faire <operation> griller </operation> , et les faire <operation> frire </operation> , au four ou dans une sauteuse . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> . les <operation ingredients="soupe"> ajouter </operation> à la <ingredient action="ajouter"> soupe </ingredient> ( qui servira de sauce ) , <operation> mélanger </operation> , et laisser <operation> mijoter </operation> pour que les <ingredient> pâtes </ingredient> terminent leur cuisson dans la <ingredient> soupe </ingredient> . <operation ingredients="soupe;pâtes"> ajuster </operation> la quantité de <ingredient action="ajuster"> soupe </ingredient> , en fonction de la quantité de <ingredient action="ajuster"> pâtes </ingredient> , elles ne doivent pas nager dedans , et il faut qu' il y en ait assez pour servir de sauce . <operation ingredients="pignons"> verser </operation> dans le plat de service , <operation ingredients="aubergines;basilic"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> aubergines </ingredient> , le <ingredient action="ajouter" quantite=""> basilic </ingredient> , et les <ingredient action="verser" quantite="2 cuillère"> pignons </ingredient> grillés . <operation> mélanger </operation> , et <operation ingredients="parmesan;feta"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> ou de <ingredient action="saupoudrer"> feta </ingredient> <operation> émiettée </operation> .
+</preparation>
+</recette>

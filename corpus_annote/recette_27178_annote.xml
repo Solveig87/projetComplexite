@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27178">
+<titre>Brioches farcies au foie gras et à la truffe</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 petites brioches parisiennes</p>
+<p>1 truffe en boîte</p>
+<p>50 g de crème fraîche liquide</p>
+<p>1 cuillère à soupe de Cognac</p>
+<p>200 g de foie gras</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="brioches"> etêter </operation> les <ingredient action="etêter" quantite="6"> brioches </ingredient> et évidez - les . <operation> egouttez </operation> la <ingredient quantite="1"> truffe </ingredient> et <operation> hachez </operation> - la . quant au <ingredient action="mélanger"> jus </ingredient> , <operation ingredients="jus;crème;cognac"> mélangez </operation> - le à la <ingredient action="mélanger" quantite="50 gramme"> crème </ingredient> fraîche et au <ingredient action="mélanger" quantite="1 cuillère à soupe"> cognac </ingredient> . <operation ingredients="sel;poivre"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> . <operation ingredients="jus;brioche"> versez </operation> à la cuillère quelques gouttes du <ingredient action="verser"> jus </ingredient> dans chaque <ingredient action="verser" quantite="6"> brioche </ingredient> pour bien les <operation> imbiber </operation> . <operation ingredients="brioches;foie;truffe"> farcissez </operation> les <ingredient action="farcir" quantite="6"> brioches </ingredient> de dés de <ingredient action="farcir" quantite="200 gramme"> foie </ingredient> gras et de <ingredient action="farcir" quantite="1"> truffe </ingredient> hachée et servez . vous pouvez servir avec de la <ingredient> gelée </ingredient> hachée et parfumée de <ingredient quantite="1 cuillère à soupe"> cognac </ingredient> .
+</preparation>
+</recette>

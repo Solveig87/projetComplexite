@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43241">
+<titre>Blanquette de lotte au safran</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1.3 kg de lotte</p>
+<p>1 kg de moules</p>
+<p>1 verre de vin blanc</p>
+<p>1 verre de fumet de poisson</p>
+<p>3 jaunes d'oeufs</p>
+<p>12 cl de crème fraîche</p>
+<p>1 dose de safran</p>
+<p>1 bouquet garni</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="vin"> ouvrir </operation> les <operation> moules </operation> avec le <ingredient action="ouvrir" quantite="1 verre"> vin </ingredient> blanc . <operation> réserver </operation> et garder le <ingredient> jus </ingredient> de cuisson . <operation ingredients="lotte"> découper </operation> la <ingredient action="découper"> lotte </ingredient> en gros cubes , les <operation> cuire </operation> à la vapeur ( pas à l' autocuiseur ) jusqu' à ce qu' ils deviennent blancs . <operation ingredients="jus"> mettre </operation> dans une casserole le <ingredient action="mettre"> jus </ingredient> de <operation> moules </operation> <operation ingredients="poisson"> filtré </operation> et le fumet de <ingredient action="filtrer"> poisson </ingredient> réduit de moitié . <operation> porter </operation> à <operation> ébullition </operation> , <operation ingredients="lotte;safran"> ajouter </operation> les morceaux de <ingredient action="ajouter"> lotte </ingredient> et le <ingredient action="ajouter"> safran </ingredient> . <operation ingredients="crème;oeufs"> lier </operation> avec la <ingredient action="lier" quantite="12 cl"> crème </ingredient> et les jaunes d' <ingredient action="lier"> oeufs </ingredient> , ne pas laisser <operation> bouillir </operation> . <operation> ajouter </operation> les <operation> moules </operation> et servir avec du <ingredient> riz </ingredient> blanc ou des <ingredient> pommes </ingredient> vapeur . sancerres ou chably
+</preparation>
+</recette>

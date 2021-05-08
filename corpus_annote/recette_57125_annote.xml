@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57125">
+<titre>Mousse au chocolat Andréa</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs</p>
+<p>100 g de chocolat au lait</p>
+<p>100 g de chocolat noir</p>
+<p>2 cuillères à soupe de lait</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+cassez le <ingredient quantite="100 gramme+100 gramme"> chocolat </ingredient> en morceaux dans un plat supportant le chaud . puis <operation> mettre </operation> au bain - marie à feu doux avec 2 cuillères à soupe de lait et laissez <operation ingredients="chocolat"> fondre </operation> doucement le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> en <operation> remuant </operation> . <operation ingredients="oeufs"> ajoutez </operation> un à un les jaunes d' <ingredient action="ajouter" quantite="6"> oeufs </ingredient> en <operation> mélangeant </operation> avant d' <operation> incorporer </operation> le suivant . <operation ingredients="sel"> battre </operation> les blancs en neige très ferme avec une pincée de <ingredient action="battre" quantite="1 pincée"> sel </ingredient> . <operation ingredients="chocolat"> incorporer </operation> délicatement les blancs au <ingredient action="incorporer" quantite="100 gramme+100 gramme"> chocolat </ingredient> . <operation> couvrir </operation> d' un film alimentaire et <operation> mettre </operation> au frigo .
+</preparation>
+</recette>

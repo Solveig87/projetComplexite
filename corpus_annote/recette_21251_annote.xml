@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21251">
+<titre>Poulet d'automne savoureux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>1 foie ou des gésiers de poulet</p>
+<p>200 g de lardons</p>
+<p>4 tomates</p>
+<p>100 g de champignons au choix</p>
+<p>3 gros oignons</p>
+<p>3 échalotes</p>
+<p>30 cl de vin blanc sec</p>
+<p>1 bouquet garni</p>
+<p>beurre et huile</p>
+<p>estragon frais</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile;beurre"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> dans une cocotte avec de l' <ingredient action="revenir"> huile </ingredient> ou du <ingredient action="revenir"> beurre </ingredient> chaud , <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> à <operation> couvert </operation> . <operation ingredients="champignons"> emincer </operation> les <ingredient action="emincer" quantite="100 gramme"> champignons </ingredient> . <operation ingredients="échalotes;oignon"> hacher </operation> les <ingredient action="hacher" quantite="3"> échalotes </ingredient> et 1 <ingredient action="hacher" quantite="3"> oignon </ingredient> , les faire <operation> revenir </operation> dans une <operation> poêle </operation> <operation ingredients="lardons;champignons"> huilée </operation> avec les <ingredient action="huiler" quantite="200 gramme"> lardons </ingredient> frais et les <ingredient action="huiler" quantite="100 gramme"> champignons </ingredient> . <operation> emincer </operation> les 2 <ingredient quantite="3"> oignons </ingredient> restants , <operation ingredients="tomates"> détailler </operation> les <ingredient action="détailler" quantite="4"> tomates </ingredient> en dés et <operation ingredients="foie"> hacher </operation> le <ingredient action="hacher" quantite="1"> foie </ingredient> . faire <operation ingredients="beurre"> revenir </operation> ces ingrédients à la <operation> poêle </operation> dans du <ingredient action="revenir"> beurre </ingredient> , <operation ingredients="persil;estragon"> ajouter </operation> du <ingredient action="ajouter"> persil </ingredient> ou de l' <ingredient action="ajouter"> estragon </ingredient> <operation> haché </operation> selon les goûts . laisser <operation> mijoter </operation> 15 min sans <operation> couvrir </operation> . dans la cocotte du <ingredient action="mettre"> poulet </ingredient> , <operation ingredients="poulet;bouquet;vin"> mettre </operation> le contenu des 2 <operation> poêles </operation> , le <ingredient action="mettre" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le <ingredient action="mettre" quantite="30 cl"> vin </ingredient> blanc <operation> chauffé </operation> . <operation> couvrir </operation> et laisser <operation> cuire </operation> 1 h à feu doux . en fin de cuisson , <operation> découvrir </operation> et laisser <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> pendant . 10 min . servir avec des <ingredient> pommes </ingredient> de terre en papillote , des <ingredient> lentilles </ingredient> ou de la purée de <ingredient> potiron </ingredient> .
+</preparation>
+</recette>

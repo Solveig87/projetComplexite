@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39120">
+<titre>Sandwich au thon et à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 morceaux de pains (petits ou grands selon votre appétit) </p>
+<p>1/2 boîte de thon au naturel</p>
+<p>mayonnaise</p>
+<p>beurre</p>
+<p>quelques feuilles de laitue</p>
+<p>8 rondelles de tomates</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> ouvrir </operation> le <ingredient action="ouvrir"> pain </ingredient> sur le côté et <operation> beurrer </operation> l' intérieur . <operation ingredients="laitues;pain"> déposer </operation> quelques feuilles de <ingredient action="déposer" quantite="quelque feuille"> laitues </ingredient> à l' intérieur du <ingredient action="déposer"> pain </ingredient> . <operation ingredients="tomates;sandwich"> disposer </operation> 4 rondelles de <ingredient action="disposer"> tomates </ingredient> ( par <ingredient action="disposer"> sandwich </ingredient> ) par - dessus . <operation ingredients="thon"> emietter </operation> le <ingredient action="emietter"> thon </ingredient> et en <operation ingredients="tomates"> déposer </operation> la moitié sur les <ingredient action="déposer"> tomates </ingredient> . <operation ingredients="mayonnaise"> ajouter </operation> un filet sde <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> par - dessus . bon app ' !
+</preparation>
+</recette>

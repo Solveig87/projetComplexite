@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63037">
+<titre>Soupe de petits pois vite fait</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de petits pois crus</p>
+<p>2 échalotes</p>
+<p>1 reste de jambon blanc ou de charcuterie</p>
+<p>1 bouillon cube de poule</p>
+<p>sel, poivre</p>
+<p>1 portion de fromage fondu</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> <operation> hachées </operation> dans une cocotte minute avec un léger filet d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> crus et faire <operation> revenir </operation> 1 petite minute . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="jambon;charcuterie"> ajouter </operation> un reste de <ingredient action="ajouter"> jambon </ingredient> ou de <ingredient action="ajouter"> charcuterie </ingredient> . <operation ingredients="bouillon"> mettre </operation> le <ingredient action="mettre" quantite="1"> bouillon </ingredient> cube et <operation> couvrir </operation> d' eau chaude . fermer la cocotte et laisser <operation> cuire </operation> 10 à 15 minutes après le début du sifflement de la cocotte . une fois cuite , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> <operation> fondu </operation> et <operation ingredients="soupe"> mixer </operation> la <ingredient action="mixer"> soupe </ingredient> afin d' obtenir un délicieux velouté de petits <ingredient> pois </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222805">
+<titre>Marbré 3 couleurs</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt</p>
+<p>3 œufs</p>
+<p>3 pots de farine</p>
+<p>1+1/2 pot de sucre</p>
+<p>1/2 pot d'huile</p>
+<p>1/2 sachet de levure</p>
+<p>100 g de chocolat noir dessert</p>
+<p>1/2 plaquette de chocolat au lait (ou des pépites toutes faites)</p>
+<p>1/2 plaquette de chocolat blanc (ou des pépites)</p>
+<p>6 gouttes de colorants (de 2 couleurs)</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt;œufs;farine;sucre;huile;levure"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> , les 3 <ingredient action="mélanger" quantite="3"> œufs </ingredient> , les 3 pots de <ingredient action="mélanger" quantite="3 pot"> farine </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> , l' <ingredient action="mélanger"> huile </ingredient> et la <ingredient action="mélanger"> levure </ingredient> . <operation> diviser </operation> la préparation en 3 , <operation> verser </operation> chaque partie dans un saladier . faire <operation ingredients="dessert"> fondre </operation> le noir <ingredient action="fondre" quantite="100 gramme"> dessert </ingredient> , <operation ingredients="chocolat;chocolat"> réduire </operation> le <ingredient action="réduire" quantite="100 gramme"> chocolat </ingredient> au lait et le <ingredient action="réduire" quantite="100 gramme"> chocolat </ingredient> blanc en petits morceaux ( ou garder les pépites ) . <operation ingredients="dessert"> ajouter </operation> dans un saladier le noir <ingredient action="ajouter" quantite="100 gramme"> dessert </ingredient> <operation> fondu </operation> puis <operation> mélanger </operation> , dans le 2ème saladier , les pépites de <ingredient action="mélanger" quantite="100 gramme"> chocolat </ingredient> au lait puis <operation ingredients="chocolat"> mélanger </operation> . enfin dans le troisième saladier les pépites de <ingredient quantite="100 gramme"> chocolat </ingredient> blanc puis <operation> mélanger </operation> . <operation ingredients="chocolat;chocolat"> ajouter </operation> dans le saladier au <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> au lait les 6 gouttes de colorant et dans le saladier au <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> blanc les 6 dernières gouttes de colorant . dans un <operation> moule </operation> à cake , <operation ingredients="dessert"> verser </operation> la préparation avec le noir <ingredient action="verser" quantite="100 gramme"> dessert </ingredient> puis un peu d' une autre préparation en alternant les couleurs . <operation> mettre </operation> dans le four à 180 <operation> ° </operation> c 45 min puis <operation> mettre </operation> à 130 <operation> ° </operation> c environ 15 min . surveiller la cuisson en y plantant un <ingredient> couteau </ingredient> au bout de 40 min .
+</preparation>
+</recette>

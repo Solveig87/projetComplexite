@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82028">
+<titre>Soupe de tomates et courgettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates moyennes</p>
+<p>1 belle courgette</p>
+<p>1 grosse pomme de terre</p>
+<p>1 oignon</p>
+<p>1 pincée d'ail</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> la courgette et la <operation> couper </operation> en morceau . <operation ingredients="tomates"> couper </operation> en quartier et <operation> épépiner </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> . <operation ingredients="pomme;oignon"> eplucher </operation> la <ingredient action="eplucher" quantite="1"> pomme </ingredient> de terre et l' <ingredient action="eplucher" quantite="1"> oignon </ingredient> , puis , les <operation> couper </operation> en morceaux . prendre une grande casserole , <operation ingredients="huile"> mettre </operation> l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . quand celle-ci est chaude , <operation ingredients="légumes"> rissoler </operation> les <ingredient action="rissoler" quantite="6;1;1"> légumes </ingredient> . <operation ingredients="ail"> assaisonner </operation> ( <ingredient action="assaisonner" quantite="1 pincée"> ail </ingredient> , sel , poivre ) . <operation> ajouter </operation> ensuite l' équivalent de trois bols d' eau et laisser <operation> mijoter </operation> pendant une vingtaine de minutes . une fois les <ingredient quantite="6;1;1"> légumes </ingredient> <operation> cuits </operation> , <operation> mixer </operation> le tout . votre <ingredient> soupe </ingredient> est prête à être déguster . <operation ingredients="soupe;croutons"> agrémenter </operation> votre <ingredient action="agrémenter"> soupe </ingredient> d' emmental râpé ou de <ingredient action="agrémenter"> croutons </ingredient> <operation ingredients="ail"> frottés </operation> à l' <ingredient action="frotter" quantite="1 pincée"> ail </ingredient> .
+</preparation>
+</recette>

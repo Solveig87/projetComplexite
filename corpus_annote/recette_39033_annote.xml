@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39033">
+<titre>Jambon à la madrilène</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 tranches de jambon blanc</p>
+<p>500 g de chair à saucisse</p>
+<p>200 g de champignons</p>
+<p>1 oignon</p>
+<p>75 g de gruyère râpé</p>
+<p>Farine</p>
+<p>Beurre</p>
+<p>1 verre à moutarde de madère</p>
+</ingredients>
+<preparation>
+sauce : faire <operation ingredients="noix"> fondre </operation> une grosse <ingredient action="fondre"> noix </ingredient> de beurre , <operation> ajouter </operation> une cuillère à soupe de farine et <operation> verser </operation> un verre à moutarde de madère . quand la sauce est homogène , <operation ingredients="gruyère"> insérer </operation> 75 g de <ingredient action="insérer" quantite="75 gramme"> gruyère </ingredient> râpé . <operation> saler </operation> et <operation> poivrer </operation> . <ingredient quantite="10 tranche"> jambon </ingredient> : faire <operation ingredients="noix"> fondre </operation> une grosse <ingredient action="fondre"> noix </ingredient> de beurre . faire <operation ingredients="champignons;oignon;chair"> dorer </operation> les <ingredient action="dorer" quantite="200 gramme"> champignons </ingredient> <operation> hachés </operation> , l' <ingredient action="dorer" quantite="1"> oignon </ingredient> <operation> émincé </operation> et la <ingredient action="dorer" quantite="500 gramme"> chair </ingredient> à saucisse . <operation ingredients="oignon"> mélanger </operation> , une partie de la sauce , au <operation> mélange </operation> <ingredient action="mélanger" quantite="1"> oignon </ingredient> - champignons - chair à saucisse . <operation ingredients="jambon"> etaler </operation> les tranches de <ingredient action="etaler" quantite="10 tranche"> jambon </ingredient> , <operation> déposer </operation> la préparation dessus , et <operation> rouler </operation> . <operation> disposer </operation> dans un plat au four , et <operation> verser </operation> le restant de sauce . <operation> mettre </operation> au four à feu moyen , pendant environ 20 minutes . servir avec une petite purée de <ingredient> pommes </ingredient> de terre et une <ingredient> salade </ingredient> verte . rosé doux
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57030">
+<titre>Crêpes aux bananes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>100 g de farine</p>
+<p>1 oeuf</p>
+<p>50 g de sucre</p>
+<p>20 cl de lait </p>
+<p>un peu d'huile pour la cuisson</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> à crêpe en <operation ingredients="farine;oeuf;sucre;lait"> mélangent </operation> la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , la moitié du <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="20 cl"> lait </ingredient> . puis <operation ingredients="bananes"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> bananes </ingredient> et les <operation> écraser </operation> . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> et <operation> mélanger </operation> . <operation ingredients="bananes;pâte"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> bananes </ingredient> <operation> écrasées </operation> à la <ingredient action="ajouter"> pâte </ingredient> à crêpes . <operation> mélanger </operation> et <operation> mettre </operation> à <operation> cuire </operation> dans une <operation> poêle </operation> <operation> huilée </operation> . la cuisson dépend du goût de chacun . le plus dur étant de <operation ingredients="crêpe"> retourner </operation> la <ingredient action="retourner"> crêpe </ingredient> . je conseille de prendre un plat , de le <operation> poser </operation> sur la <operation> poêle </operation> et de <operation> retourner </operation> puis de glisser la <ingredient> crêpe </ingredient> sur la <operation> poêle </operation> pour <operation> cuire </operation> la deuxième face . une fois cuit <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> . ce <ingredient quantite="50 gramme"> dessert </ingredient> est le délice de mes enfants et de mon mari . facile à faire , on en <ingredient> mange </ingredient> souvent car on peut varier de <ingredient quantite="2"> fruit </ingredient> : pomme ou poire .
+</preparation>
+</recette>

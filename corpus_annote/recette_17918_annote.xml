@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17918">
+<titre>Poulet au curry et tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>1 boîte de chair à tomate</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni (persil, thym, laurier) </p>
+<p>curry, sel, poivre</p>
+<p>1 pomme</p>
+<p>25 cl de crème</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> coupez </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en dés . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> dans une <operation> poêle </operation> et faites - y <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , la <ingredient quantite="1"> gousse </ingredient> d' ail et les dés de <ingredient> poulet </ingredient> . <operation ingredients="chair;pomme;crème"> ajoutez </operation> la <ingredient action="ajouter"> chair </ingredient> de tomates , la <ingredient action="ajouter" quantite="1"> pomme </ingredient> <operation> coupée </operation> en dés et la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="bouquet;curry"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le <ingredient action="ajouter" quantite=""> curry </ingredient> . faites <operation> cuire </operation> 2 . 25 min à feu très doux . <operation ingredients="riz"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> . recette pouvant être <operation> cuite </operation> au four à micro-ondes . dans ce cas , <operation ingredients="oignon;gousse;poulet"> cuire </operation> 2 min à 750 w , l' <ingredient action="cuire" quantite="1"> oignon </ingredient> , la <ingredient action="cuire" quantite="1"> gousse </ingredient> d' ail et le <ingredient action="cuire"> poulet </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="bouquet;curry"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le <ingredient action="ajouter" quantite=""> curry </ingredient> . faites <operation> cuire </operation> 1 . 13 min à 750 w. on peut toujours <operation ingredients="pomme;huile"> rajouter </operation> quelques morceaux de <ingredient action="rajouter" quantite="1"> pomme </ingredient> <operation> cuite </operation> à part dans un peu d' <ingredient action="rajouter" quantite=""> huile </ingredient> pour <operation> décorer </operation> . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

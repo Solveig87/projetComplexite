@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223333">
+<titre>Flamusse aux pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 g de farine</p>
+<p>75 g de sucre en poudre</p>
+<p>1 pincée de sel</p>
+<p>3 œufs</p>
+<p>50 cl de lait</p>
+<p>3 ou 4 pommes (reinettes ou golden)</p>
+<p>sucre glace</p>
+<p>cassonade</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( th . 6 ) . <operation ingredients="farine;sucre;sel"> mettre </operation> la <ingredient action="mettre" quantite="60 gramme"> farine </ingredient> , le <ingredient action="mettre" quantite="75 gramme"> sucre </ingredient> et le <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> dans un saladier . <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="3"> œufs </ingredient> en omelette et les <operation> ajouter </operation> dans le saladier . <operation ingredients="pâte"> mélanger </operation> bien à l' aide d' une spatule en bois jusqu' à l' obtention d' une <ingredient action="mélanger"> pâte </ingredient> bien <operation> lisse </operation> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> petit à petit sans cesser de <operation> mélanger </operation> . <operation> beurrer </operation> une tourtière de 22 cm de diamètre ou 6 petites tourtières . <operation ingredients="pommes"> peler </operation> et <operation> couper </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> en tranches fines et les <operation> disposer </operation> en couronne en les faisant se chevaucher . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> par dessus et <operation> mettre </operation> au four pendant 45 min . <operation> démouler </operation> la flamusse quand elle est tiède et <operation ingredients="sucre;glace;cassonade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="75 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> et de <ingredient action="saupoudrer" quantite=""> cassonade </ingredient> ( pour donner un peu de <ingredient> croquant </ingredient> ) . servir tiède ou froid .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30335">
+<titre>Fromage blanc en coque de mandarine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 mandarines</p>
+<p>200 g de fromage blanc</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>8 cl de liqueur de mandarine</p>
+</ingredients>
+<preparation>
+<operation ingredients="mandarines"> couper </operation> le chapeau des <ingredient action="couper" quantite="4"> mandarines </ingredient> , puis en <operation ingredients="chair;couteau"> extraire </operation> la <ingredient action="extraire"> chair </ingredient> à l' aide de la pointe d' un <ingredient action="extraire"> couteau </ingredient> et d' une cuillère . <operation ingredients="fromage"> presser </operation> ensuite la pulpe puis la <operation> mélanger </operation> avec le <ingredient action="presser" quantite="200 gramme"> fromage </ingredient> blanc . <operation ingredients="sucre;liqueur"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> sucre </ingredient> et de <ingredient action="saupoudrer" quantite="8 cl"> liqueur </ingredient> , puis bien <operation> mélanger </operation> de nouveau . <operation ingredients="mandarines"> garnir </operation> ensuite les <ingredient action="garnir" quantite="4"> mandarines </ingredient> de fromage blanc , puis les <operation> réserver </operation> au réfrigérateur durant 1 h.
+</preparation>
+</recette>

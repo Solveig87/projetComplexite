@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21107">
+<titre>Emincé d'endives au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 endives</p>
+<p>80 g de dés de jambon</p>
+<p>8 cuillères à café de crème fraîche allégée</p>
+<p>1 cuillère à café de fond de veau</p>
+<p>1 cuillère à café d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> laver </operation> les <ingredient action="laver" quantite="2"> endives </ingredient> et les <operation> émincer </operation> . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à café"> huile </ingredient> dans une <operation> poêle </operation> , une fois bien chaude y <operation ingredients="endives"> mettre </operation> les <ingredient action="mettre" quantite="2"> endives </ingredient> . <operation> remuer </operation> et <operation ingredients="jambon"> ajouter </operation> les dés de <ingredient action="ajouter"> jambon </ingredient> . dans une tasse <operation ingredients="crème;veau"> mélanger </operation> la <ingredient action="mélanger" quantite="8 cuillère à café"> crème </ingredient> et le fond de <ingredient action="mélanger"> veau </ingredient> . <operation ingredients="endives"> verser </operation> le <operation> mélange </operation> sur les <ingredient action="verser" quantite="2"> endives </ingredient> . <operation> mélanger </operation> le tout pour bien <operation ingredients="crème;endives"> répartir </operation> la <ingredient action="répartir" quantite="8 cuillère à café"> crème </ingredient> sur les <ingredient action="répartir" quantite="2"> endives </ingredient> . <operation> cuire </operation> durant 3 à 4 mn et servir aussitôt .
+</preparation>
+</recette>

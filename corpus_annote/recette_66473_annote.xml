@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66473">
+<titre>Salade méli-mélo à ma façon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de mâche</p>
+<p>2 pommes golden</p>
+<p>1 pomme granny smith</p>
+<p>8 tomates cerise</p>
+<p>1 poivron (rouge, jaune ou vert)</p>
+<p>3 tranches de jambon serrano</p>
+<p>quelques copeaux de parmesan fraîchement râpés</p>
+<p>Pour la vinaigrette :</p>
+<p>1 cuillère à café de moutarde</p>
+<p>3 cuillères à soupe de vinaigre balsamique</p>
+<p>2 cuillères à soupe d'huile de tournesol</p>
+<p>2 cuillères à café de miel</p>
+<p>le jus d'un citron</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="mâche"> essorer </operation> la <ingredient action="essorer" quantite="250 gramme"> mâche </ingredient> puis <operation> réserver </operation> . <operation ingredients="pommes;poivron"> laver </operation> et <operation> épépiner </operation> les <ingredient action="laver" quantite="2+1"> pommes </ingredient> et le <ingredient action="laver" quantite="1"> poivron </ingredient> , puis <operation ingredients="pommes;poivron"> couper </operation> les <ingredient action="couper" quantite="2+1"> pommes </ingredient> en dés , le <ingredient action="couper" quantite="1"> poivron </ingredient> en lamelles puis <operation> réserver </operation> . <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="8"> tomates </ingredient> et <operation> réserver </operation> . dans un saladier , <operation> mélanger </operation> le tout . <operation ingredients="jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="3 tranche"> jambon </ingredient> serrano , <operation> coupé </operation> en fines lamelles . <operation ingredients="parmesan"> parsemer </operation> de copeaux de <ingredient action="parsemer"> parmesan </ingredient> <operation> râpé </operation> . dans un bol , <operation ingredients="moutarde;vinaigre;huile;miel;citron;sel;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient action="mélanger" quantite="3 cuillère à soupe"> vinaigre </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à café"> miel </ingredient> , le <ingredient action="mélanger"> citron </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> et le <ingredient action="mélanger" quantite="1 pincée"> poivre </ingredient> . servir avec la <ingredient> salade </ingredient> .
+</preparation>
+</recette>

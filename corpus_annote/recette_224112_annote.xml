@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224112">
+<titre>Brochettes de Saint-Jacques et saumon fumé au Pineau</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 noix de Saint-Jacques </p>
+<p>3 tranches de saumon fumé</p>
+<p>3 échalotes</p>
+<p>3 cuillères à soupe de crème fraiche</p>
+<p>1 petit verre de Pineau des Charentes</p>
+<p>1 filet d'huile d'olive</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="noix"> cuire </operation> les <ingredient action="cuire" quantite="8"> noix </ingredient> de saint-jacques quelques instants dans un grand volume d' eau , puis les <operation> égoutter </operation> . <operation ingredients="saumon;fumé"> faire </operation> des lamelles dans les tranches de <ingredient action="faire"> saumon </ingredient> <ingredient action="faire" quantite="3 tranche"> fumé </ingredient> . <operation ingredients="noix;saumon"> enrober </operation> les <ingredient action="enrober" quantite="8"> noix </ingredient> de saint-jacques avec les lamelles de <ingredient action="enrober"> saumon </ingredient> <operation> fumé </operation> , <operation> piquer </operation> avec un cure dent pour que le tout se tienne . faire <operation> revenir </operation> à la <operation> poêle </operation> , dès que le <ingredient> saumon </ingredient> <operation> fumé </operation> devient rosé , <operation> réserver </operation> les petites brochettes et faire <operation ingredients="échalotes"> revenir </operation> les trois <ingredient action="revenir" quantite="3"> échalotes </ingredient> hachées . lorsque les <ingredient quantite="3"> échalotes </ingredient> sont devenues légèrement translucides , <operation> déglacer </operation> avec le pineau . laisser s' évaporer l' alcool puis <operation ingredients="crème;poivre"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraiche et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> déposer </operation> les brochettes dans la sauce et laisser <operation> mijoter </operation> quelques instants .
+</preparation>
+</recette>

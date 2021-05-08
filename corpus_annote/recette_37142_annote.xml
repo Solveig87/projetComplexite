@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37142">
+<titre>Salade de chou rouge au saucisson à l'ail</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 chou rouge</p>
+<p>2 pommes</p>
+<p>1/2 saucisson à l'ail</p>
+<p>1 petit oignon</p>
+<p>1 ou 2 tomates</p>
+<p>crème fraîche, mayonnaise ou sauce maggi ou sauce soja</p>
+<p>sel et poivre </p>
+<p>1 bouquet de ciboulette</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> râpez </operation> le <ingredient action="râpez"> chou </ingredient> rouge . <operation ingredients="saucisson;pommes"> coupez </operation> le <ingredient action="couper"> saucisson </ingredient> et les <ingredient action="couper" quantite="2"> pommes </ingredient> en fines lamelles . <operation ingredients="oignon"> émincez </operation> l' <ingredient action="émincez" quantite="1"> oignon </ingredient> . <operation> mélangez </operation> le tout . pour la vinaigrette : <operation> mélangez </operation> 2 bonnes cuillères à café de mayonnaise avec 3 grosses cuillères à soupe de crème fraîche . <operation ingredients="ciboulette"> ajoutez </operation> quelques gouttes de maggi ou sauce soja et de la <ingredient action="ajouter"> ciboulette </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="salade"> mélangez </operation> la <ingredient action="mélanger"> salade </ingredient> de chou avec la sauce et <operation ingredients="tomates"> décorez </operation> avec quelques quartiers de <ingredient action="décorer" quantite="1"> tomates </ingredient> . pour la vinaigrette , on peut <operation ingredients="vinaigre"> rajouter </operation> quelques gouttes de <ingredient action="rajouter"> vinaigre </ingredient> de cidre .
+</preparation>
+</recette>

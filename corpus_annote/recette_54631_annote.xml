@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54631">
+<titre>Mayonnaise au thon et crudités</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de thon</p>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>15 cl de vinaigre balsamique</p>
+<p>30 cl d'huile de tournesol</p>
+<p>sel, poivre</p>
+<p>250 g de champignon de Paris</p>
+<p>10 carottes</p>
+<p>250 g de tomates cerise</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon;oeuf;soupe"> mettre </operation> dans un saladier la boite de <ingredient action="mettre"> thon </ingredient> <operation> égoutté </operation> , l' <ingredient action="mettre" quantite="1"> oeuf </ingredient> , la cuillère a <ingredient action="mettre"> soupe </ingredient> de moutarde . <operation ingredients="vinaigre;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vinaigre </ingredient> balsamique , une pincé de <ingredient action="ajouter" quantite=""> sel </ingredient> et une pincée de <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> mixer </operation> avec un robot en <operation ingredients="huile"> incorporant </operation> l' <ingredient action="incorporer" quantite="30 cl"> huile </ingredient> au fur et à <operation> mesure </operation> . <operation> réserver </operation> au frais . <operation ingredients="carottes"> laver </operation> et <operation ingredients="champignons"> couper </operation> les <ingredient action="couper" quantite="250 gramme"> champignons </ingredient> en grosses lamelles , les <ingredient action="laver" quantite="10"> carottes </ingredient> en bâtonnets et <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="250 gramme"> tomates </ingredient> . <operation ingredients="légumes"> mettre </operation> tous les <ingredient action="mettre" quantite="250 gramme;10;250 gramme"> légumes </ingredient> dans un plat , sortir la sauce et <operation ingredients="légumes"> tremper </operation> les <ingredient action="tremper" quantite="250 gramme;10;250 gramme"> légumes </ingredient> dedans ! régalez -vous ! vous pouvez également la servir en apéro , vous verrez c' est un régal !
+</preparation>
+</recette>

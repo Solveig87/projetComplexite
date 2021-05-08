@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47162">
+<titre>Verres aux deux chocolats</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de chocolat noir</p>
+<p>100 g de chocolat blanc</p>
+<p>40 g de beurre</p>
+<p>4 œufs</p>
+<p>6 gâteaux type Palets bretons</p>
+<p>60 g de sucre</p>
+<p>1 banane</p>
+<p>pralin (pour la déco)</p>
+<p>4 verres assez larges</p>
+</ingredients>
+<preparation>
+la <ingredient> mousse </ingredient> au chocolat noir : faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> noir avec 20 g de <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> au micro-ondes , bien <operation> mélanger </operation> . dans un autre saladier , <operation> séparer </operation> le blanc des jaunes , puis <operation ingredients="sucre;œuf"> incorporer </operation> 40 g de <ingredient action="incorporer" quantite="60 gramme"> sucre </ingredient> au jaune d' <ingredient action="incorporer" quantite="4"> œuf </ingredient> . <operation> fouetter </operation> le tout , jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="chocolat"> incorporer </operation> la préparation au <ingredient action="incorporer" quantite="100 gramme+100 gramme"> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="œuf"> battre </operation> les deux blancs d' <ingredient action="battre" quantite="4"> œuf </ingredient> en neige ferme , puis les <operation ingredients="chocolat"> incorporer </operation> délicatement au <ingredient action="incorporer" quantite="100 gramme+100 gramme"> chocolat </ingredient> , en soulevant avec une cuillère . <operation> mettre </operation> à refroidir . la <ingredient> mousse </ingredient> au chocolat blanc : procéder de même , mais <operation ingredients="sucre;œufs;gâteaux;mousse"> mettre </operation> seulement 20 g de <ingredient action="mettre" quantite="60 gramme"> sucre </ingredient> dans le <operation> mélange </operation> avec les jaunes d' <ingredient action="mettre" quantite="4"> œufs </ingredient> . <operation> mettre </operation> à refroidir . le montage : <operation> emietter </operation> les <ingredient action="mettre" quantite="6"> gâteaux </ingredient> au fond des verres . <operation ingredients="mousse;banane"> disposer </operation> une couche de <ingredient action="disposer"> mousse </ingredient> au chocolat noir , ensuite 5 rondelles de <ingredient action="disposer" quantite="1"> banane </ingredient> , puis une couche de <ingredient action="mettre"> mousse </ingredient> au chocolat blanc . <operation> saupoudrer </operation> de pralin , et <operation> mettre </operation> au frais jusqu' à la dégustation .
+</preparation>
+</recette>

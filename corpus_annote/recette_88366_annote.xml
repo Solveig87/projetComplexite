@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88366">
+<titre>Pudding de pain dur</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 baguette réduite en morceaux secs</p>
+<p>1 l de lait</p>
+<p>3 oeufs</p>
+<p>100 g de sucre en poudre</p>
+<p>50 g de chocolat en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> disposer </operation> les morceaux de <ingredient action="disposer"> pain </ingredient> dur dans un grand bol . faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="1 l"> lait </ingredient> , le <operation ingredients="pain"> verser </operation> sur le <ingredient action="verser"> pain </ingredient> . bien <operation> remuer </operation> . <operation ingredients="oeufs;sucre;chocolat"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> un par un , le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> et le <ingredient action="ajouter" quantite="50 gramme"> chocolat </ingredient> . bien <operation> mélanger </operation> . <operation> mettre </operation> le <operation> mélange </operation> dans un <operation> moule </operation> profond et beurré et faire <operation> cuire </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 45 minutes . contrôlez la cuisson avec un <ingredient> couteau </ingredient> et <operation> remettre </operation> au four si besoin .
+</preparation>
+</recette>

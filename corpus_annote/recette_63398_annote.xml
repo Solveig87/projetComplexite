@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63398">
+<titre>Soupe à la mie de pain</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de pommes de terre</p>
+<p>4 cuillères à soupe de concentré de tomate</p>
+<p>4 cuillères à soupe de mie de pain</p>
+<p>1 gousse d'ail</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="800 gramme"> pommes </ingredient> de terre , les <operation> laver </operation> , les <operation> couper </operation> en dés . dans une casserole les <operation> recouvrir </operation> de 2 litres d' eau <operation> salée </operation> , laisser <operation> bouillir </operation> 10 minutes . <operation ingredients="ail"> peler </operation> l' <ingredient action="peler"> ail </ingredient> et l' <operation> écraser </operation> . après 10 minutes d' <operation> ébullition </operation> , <operation ingredients="ail"> ajouter </operation> dans la casserole l' <ingredient action="ajouter"> ail </ingredient> , la mie de <ingredient> pain </ingredient> et le <operation> concentré </operation> de <ingredient> tomate </ingredient> <operation> dilué </operation> dans un peu d' eau de cuisson des <ingredient quantite="800 gramme"> pommes </ingredient> de terre , <operation> couvrir </operation> et <operation> réduire </operation> le feu . laisser <operation> cuire </operation> pendant 50 minutes . <operation> passer </operation> le tout au mixeur .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59938">
+<titre>Filet mignon de porc aux olives vertes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de filet mignon de porc</p>
+<p>120 g d'olives vertes</p>
+<p>1 bouquet garni</p>
+<p>3 carottes</p>
+<p>2 oignons</p>
+<p>2 gousses d ail</p>
+<p>30 cl de vin blanc</p>
+<p>huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> dorer </operation> le filet mignon à feu vif dans une cocotte avec un peu d' <ingredient action="dorer" quantite=""> huile </ingredient> , et <operation> réservez </operation> - le . dans la même cocotte , <operation ingredients="oignons"> faites </operation> <operation ingredients="carottes"> cuire </operation> les <ingredient action="cuire" quantite="3"> carottes </ingredient> ainsi que les <ingredient action="faire" quantite="2"> oignons </ingredient> <operation> coupés </operation> en petits morceaux . après une dizaine de minutes , <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre"> viande </ingredient> à <operation> cuire </operation> et <operation ingredients="vin;ail;bouquet"> ajoutez </operation> le <ingredient action="ajouter" quantite="30 cl"> vin </ingredient> ainsi que l' <ingredient action="ajouter"> ail </ingredient> et un <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> salez </operation> , <operation> poivrez </operation> , <operation> couvrez </operation> le récipient et laissez <operation> cuire </operation> 40 min à feu doux . 20 min avant la fin de cuisson , <operation ingredients="olives"> ajoutez </operation> les <ingredient action="ajouter" quantite="120 gramme"> olives </ingredient> . s' <operation ingredients="riz;pâtes"> accompagne </operation> très bien de <ingredient action="accompagne"> riz </ingredient> ou de <ingredient action="accompagne"> pâtes </ingredient> !
+</preparation>
+</recette>

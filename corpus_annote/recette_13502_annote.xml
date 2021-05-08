@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13502">
+<titre>Crème Tapioca</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 l lait</p>
+<p>3 cuillères à soupe de tapioca</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>2 œufs</p>
+<p>1 pincée de sel</p>
+<p>1 gousse de vanille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;gousse"> bouillir </operation> le <ingredient action="bouillir" quantite="1"> lait </ingredient> avec la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille fendue en deux . a l’ <operation> ébullition </operation> , <operation ingredients="tapioca"> verser </operation> le <ingredient action="verser" quantite="3 cuillère à soupe"> tapioca </ingredient> en pluie . maintenir l’ <operation> ébullition </operation> et faire <operation> cuire </operation> 3 mn en <operation> remuant </operation> bien ( pour éviter que ça ne déborde ) . arrêter l' <operation> ébullition </operation> . dans un bol , <operation ingredients="oeufs"> mélanger </operation> 2 cuillères à soupe de sucre et les 2 jaunes d' <ingredient action="mélanger"> oeufs </ingredient> . rendre plus liquide avec 1 cuillère à soupe de lait . <operation> verser </operation> dans la casserole en tournant , puis faire <operation> cuire </operation> 2 min en <operation> remuant </operation> bien . <operation> mettre </operation> hors du feu et faire refroidir en <operation> remuant </operation> de temps en temps ( pendant 30 min environ ) . faire <operation> monter </operation> les blancs en neige bien fermes et y <operation ingredients="sucre"> incorporer </operation> le reste du <ingredient action="incorporer" quantite="4 cuillère à soupe"> sucre </ingredient> . enfin , <operation> incorporer </operation> les blancs dans le <operation> mélange </operation> refroidi . laisser au frigo 2 heures avant de déguster . pour la présentation ( et le goût ! ) , vous pouvez <operation ingredients="amandes"> ajouter </operation> des <ingredient action="ajouter"> amandes </ingredient> <operation> émondées </operation> <operation ingredients="beurre;sucre"> passées </operation> dans la <operation> poêle </operation> avec un peu de <ingredient action="passer"> beurre </ingredient> et de <ingredient action="passer" quantite="4 cuillère à soupe"> sucre </ingredient> .
+</preparation>
+</recette>

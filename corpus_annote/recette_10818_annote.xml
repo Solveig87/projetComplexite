@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10818">
+<titre>Poulet fumé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de thé fumé (Lapsang Souchong) très fort </p>
+<p>4 gros blancs de poulet</p>
+<p>sel, poivre</p>
+<p>20 g de beurre</p>
+<p>1/2 citron (zeste)</p>
+</ingredients>
+<preparation>
+<operation ingredients="thé;fumé"> faire </operation> un <ingredient action="faire"> thé </ingredient> <ingredient action="faire" quantite="1 l"> fumé </ingredient> très fort . <operation ingredients="thé"> mariner </operation> les blancs dans le <ingredient action="mariner"> thé </ingredient> chaud 5 h environ . <operation> essorer </operation> les blancs , puis les faire <operation ingredients="beurre"> dorer </operation> dans le <ingredient action="dorer" quantite="20 gramme"> beurre </ingredient> . dans une cocotte <operation ingredients="thé"> verser </operation> la marinade ( le <ingredient action="verser"> thé </ingredient> ) <operation> filtrée </operation> . <operation> ajouter </operation> les blancs , <operation> saler </operation> et <operation> poivrer </operation> , puis <operation ingredients="jus"> ajouter </operation> les zestes et un trait de <ingredient action="ajouter"> jus </ingredient> de citron . laisser <operation> mijoter </operation> à feu doux 1 h. servir avec du <ingredient> riz </ingredient> et des petits <ingredient> légumes </ingredient> <operation> passé </operation> au wok . ce n' est pas un gag , c' est une idée qui m' est <operation ingredients="tête"> passée </operation> par la <ingredient action="passer"> tête </ingredient> , j' aiessayé , c' est surprenant mais délicieux !
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20393">
+<titre>Cassolette d'escargots au Chablis</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 boîte d'escargots (4 douzaines de très gros calibre)</p>
+<p>150 g de champignons de Paris</p>
+<p>150 g de cèpes coupés en morceaux</p>
+<p>40 cl de Chablis</p>
+<p>50 cl de fond de volaille</p>
+<p>2 échalotes hachées</p>
+<p>1 gousse d'ail</p>
+<p>20 g de beurre</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+• dans une sauteuse , faites <operation ingredients="échalotes;escargots"> fondre </operation> <ingredient action="fondre" quantite="2"> échalotes </ingredient> et beurre avec les <ingredient action="fondre"> escargots </ingredient> . • <operation ingredients="volaille;champignons;cèpes"> ajoutez </operation> le chablis , le fond de <ingredient action="ajouter"> volaille </ingredient> , les <ingredient action="ajouter" quantite="150 gramme"> champignons </ingredient> et les <ingredient action="ajouter" quantite="150 gramme"> cèpes </ingredient> . faites <operation> mijoter </operation> pendant 10 mn . • <operation ingredients="crème;ail"> ajoutez </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraîche et l' <ingredient action="ajouter"> ail </ingredient> . laissez <operation> mijoter </operation> encore 5 mn . • <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="1;"> assaisonnement </ingredient> . • servez dans une cassolette avec un peu de <ingredient> persil </ingredient> haché . chablis
+</preparation>
+</recette>

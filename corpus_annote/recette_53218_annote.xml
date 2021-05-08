@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53218">
+<titre>Crêpes au Porto</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 crêpes fraîches ou artisanales</p>
+<p>8 tranches de jambon</p>
+<p>une boîte de champignons en lamelles</p>
+<p>gruyère</p>
+<p>Pour la sauce :</p>
+<p>1 pot de crème fraîche</p>
+<p>1 verre de porto</p>
+<p>1 boîte de concentré de tomate</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crêpe"> etaler </operation> une <ingredient action="etaler" quantite="8"> crêpe </ingredient> et y <operation ingredients="jambon"> déposer </operation> une tranche de <ingredient action="déposer" quantite="8 tranche"> jambon </ingredient> , puis y <operation> mettre </operation> une rangée de champigons . <operation ingredients="porto"> confectionner </operation> la sauce au <ingredient action="confectionner" quantite="1 verre"> porto </ingredient> en <operation> mélangeant </operation> tous les ingrédients . pour finir , <operation ingredients="crêpe;porto;gruyère"> déposer </operation> sur chaque <ingredient action="déposer" quantite="8"> crêpe </ingredient> deux cuillères à soupe de cette sauce au <ingredient action="déposer" quantite="1 verre"> porto </ingredient> , un peu de <ingredient action="déposer" quantite=""> gruyère </ingredient> et la <operation> rouler </operation> . lorsque toutes les <ingredient action="rouler" quantite="8"> crêpes </ingredient> seront <operation ingredients="crêpes"> roulées </operation> , <operation ingredients="côte"> déposer </operation> les dans un plat <ingredient action="déposer"> côte </ingredient> à côte et <operation> mettre </operation> la sauce par dessus et enfin <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> . <operation> mettre </operation> au four à 180 <operation> ° </operation> 30 min . a servir en entrée ou en plat de résistance ! très facile et rapide à faire en cas d' inprévue et consistant pour les bons mangeurs !
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83831">
+<titre>Salade composée sucrée/salée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 concombre</p>
+<p>3 tomates grappes</p>
+<p>1 pomme (fraîche et croquante, variété Pink Lady ou Gala par exemple)</p>
+<p>2 kiwis</p>
+<p>30 grains de raisin (rouge de préférence)</p>
+<p>100 g de gruyère (ou emmental)Pour l'assaisonnement:</p>
+<p>Huile d'olive ou de noisettes</p>
+<p>Vinaigre balsamique ou de framboises</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre;pomme;kiwis"> épluchez </operation> le <ingredient action="éplucher" quantite="1"> concombre </ingredient> , la <ingredient action="éplucher" quantite="1"> pomme </ingredient> et les <ingredient action="éplucher" quantite="2"> kiwis </ingredient> . <operation ingredients="raisin"> coupez </operation> en dés tous les ingrédients ( sauf le <ingredient action="couper"> raisin </ingredient> ) . <operation> assaisonnez </operation> . a servir très frais ! vous pouvez également <operation ingredients="pignons"> rajouter </operation> des <ingredient action="rajouter"> pignons </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73757">
+<titre>PATES AU PISTOU</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 belles tomates mûres</p>
+<p>4 ou 5 grosses gousses d'ail</p>
+<p>1 beau basilic à grosses feuilles</p>
+<p>sel</p>
+<p>poivre</p>
+<p>huile d'olive</p>
+<p>pâtes pour 6 personnes</p>
+<p>parmesan râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> rincer </operation> les <ingredient action="rincer" quantite="6"> tomates </ingredient> , les <operation> couper </operation> en 2 et <operation> enlever </operation> les pépins . <operation ingredients="basilic"> enlever </operation> toutes les feuilles du <ingredient action="enlever"> basilic </ingredient> et les <operation> rincer </operation> . <operation ingredients="gousses"> enlever </operation> la chemise des <ingredient action="enlever" quantite="4"> gousses </ingredient> d' ail . <operation> mixer </operation> ensemble les <ingredient quantite="6"> tomates </ingredient> , les <ingredient action="laisser" quantite="4"> gousses </ingredient> d' ail et le <ingredient action="laisser"> basilic </ingredient> puis <operation ingredients="gousses;basilic"> laisser </operation> <operation> reposer </operation> 15 min afin d' <operation> enlever </operation> l' eau qui remonterait à la surface . <operation ingredients="huile"> assaisonner </operation> le tout avec un filet d' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive , <operation> saler </operation> et <operation> poivrer </operation> . <operation> mettre </operation> la sauce au frigo et la déguster très froide sur des <ingredient quantite=""> pâtes </ingredient> très chaudes , puis <operation ingredients="parmesan"> parsemer </operation> de <ingredient action="parsemer" quantite=""> parmesan </ingredient> . rosé de provence
+</preparation>
+</recette>

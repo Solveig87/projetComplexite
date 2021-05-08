@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167639">
+<titre>Soupe de riz au gingembre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de riz</p>
+<p>sel</p>
+<p>poivre</p>
+<p>gingembre en poudre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> . faites <operation> cuire </operation> l' eau et l' <operation ingredients="sel;poivre"> assaisonné </operation> avec les epices ainsi que le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation> egoutter </operation> le <ingredient> riz </ingredient> et <operation> placez </operation> le dans l' eau <operation> assaisonné </operation> .
+</preparation>
+</recette>

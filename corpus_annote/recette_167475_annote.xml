@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167475">
+<titre>Gâteau aux chocolats de Pâques</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolats de Pâques</p>
+<p>125 g de beurre</p>
+<p>2 cuil a soupe de farine</p>
+<p>-1/2 paquet de levure</p>
+<p>-100 g de sucre roux</p>
+<p>60 g de poudre d'amandes</p>
+<p>-3 oeufs</p>
+<p>-1 cuil a soupe de rhum agricole</p>
+<p>-sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> au bain - marie . préchauffer le four a 210 <operation> ° </operation> c ( th 7 ) <operation ingredients="sucre;farine;levure;amande;oeufs;rhum"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> , la <ingredient action="ajouter"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , la <operation> poudre </operation> d' <ingredient action="ajouter"> amande </ingredient> , les <ingredient action="ajouter" quantite=""> oeufs </ingredient> entiers et le <ingredient action="ajouter"> rhum </ingredient> . bien <operation> mélanger </operation> . <operation> verser </operation> dans un <operation> moule </operation> beurré et <operation> enfourner </operation> pendant 20 min en surveillant bien . <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> glacevous pouvez servir ce <ingredient> gâteau </ingredient> avec un peu de <ingredient> chantilly </ingredient> ou une boule de <ingredient> glace </ingredient>
+</preparation>
+</recette>

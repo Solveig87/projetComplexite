@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29200">
+<titre>Tarte aux fenouils et tomates</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros fenouil</p>
+<p>2 tomates</p>
+<p>1 rouleau de pâte brisée</p>
+<p>2 oeufs</p>
+<p>1 pot de crème liquide</p>
+<p>sel, poivre</p>
+<p>gruyère facultatif</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil;tomates"> laver </operation> le <ingredient action="laver" quantite="1"> fenouil </ingredient> et les <ingredient action="laver" quantite="2"> tomates </ingredient> . les <operation> couper </operation> en morceaux et faire <operation ingredients="fenouil"> blanchir </operation> , le <ingredient action="blanchir" quantite="1"> fenouil </ingredient> 20 mn environ . une fois le temps écoulé , l' <operation> égoutter </operation> . faite <operation ingredients="fenouil;tomates;huile"> revenir </operation> le <ingredient action="revenir" quantite="1"> fenouil </ingredient> et les <ingredient action="revenir" quantite="2"> tomates </ingredient> avec un peu d' <ingredient action="revenir"> huile </ingredient> d' olive , et les <operation> assaisonner </operation> . <operation> cuire </operation> environ 5 mn . <operation ingredients="oeufs;crème;gruyère"> préparer </operation> dans un bol , les 2 <ingredient action="préparer" quantite="2"> oeufs </ingredient> avec la <ingredient action="préparer" quantite="1 pot"> crème </ingredient> liquide et le <ingredient action="préparer" quantite=""> gruyère </ingredient> ( facultatif ) et <operation> assaisonner </operation> . <operation ingredients="pâte"> etaler </operation> votre <ingredient action="etaler"> pâte </ingredient> dans un plat beurré , la faire <operation> cuire </operation> 10 mn à 190 <operation> ° </operation> c , la sortir du four , <operation ingredients="fenouil;tomates"> mettre </operation> le <ingredient action="mettre" quantite="1"> fenouil </ingredient> et les <ingredient action="mettre" quantite="2"> tomates </ingredient> puis la préparation . <operation ingredients="tarte"> enfourner </operation> jusqu' à ce que la <ingredient action="enfourner"> tarte </ingredient> soit dorée .
+</preparation>
+</recette>

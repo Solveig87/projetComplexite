@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95206">
+<titre>Moussaka bulgare</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de chair à saucisse</p>
+<p>2 carottes</p>
+<p>1 oignon</p>
+<p>1 kg de pommes de terre</p>
+<p>1 cuill à soupe de paprika</p>
+<p>1 cuill à soupe de sarriette</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 oeuf</p>
+<p>30 cl de lait</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon;carottes"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> et les <ingredient action="émincer" quantite="2"> carottes </ingredient> . <operation> eplucher </operation> les <ingredient quantite="1 kilogramme"> pommes </ingredient> de terre et les <operation> découper </operation> en petits cubes . dans un faitout , faire <operation ingredients="oignon;carottes;huile;oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="2"> carottes </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive jusqu' à ce que l' <ingredient action="revenir" quantite="1"> oignon </ingredient> soit translucide . <operation ingredients="chair"> ajouter </operation> la <ingredient action="ajouter" quantite="500 gramme"> chair </ingredient> à saucisse et l' <operation> émietter </operation> . faire <operation> revenir </operation> 5 à 10 minutes . <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> pommes </ingredient> de terre et un 40 cl d' eau . <operation ingredients="sarriette"> ajouter </operation> <ingredient action="ajouter"> sarriette </ingredient> , paprika , sel et poivre . bien <operation> mélanger </operation> . <operation> porter </operation> à <operation> ébullition </operation> . <operation> verser </operation> le <operation> mélange </operation> dans un plat à gratin et <operation> enfourner </operation> dans un four préchauffé à 190 <operation> ° </operation> c. <operation ingredients="pommes"> laisser </operation> <operation> cuire </operation> environ 30 minutes ( jusqu' à ce les <ingredient action="laisser" quantite="1 kilogramme"> pommes </ingredient> de terre soient <operation> cuites </operation> ) dans un bol <operation ingredients="oeuf;lait"> mélanger </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> et le <ingredient action="mélanger" quantite="30 cl"> lait </ingredient> . <operation> verser </operation> le <operation> mélange </operation> sur le plat et <operation> remettre </operation> au four 10 minutes . servir avec une <ingredient> salade </ingredient> verte
+</preparation>
+</recette>

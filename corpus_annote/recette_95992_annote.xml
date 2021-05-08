@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95992">
+<titre>Soupe aux moules</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 litre de moules</p>
+<p>1/2 litre de lait</p>
+<p>1 blanc de poireau</p>
+<p>2 pommes de terre</p>
+<p>30gr de beurre</p>
+<p>1 poignée de mie de pain rassis</p>
+<p>cerfeuil, sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation> ouvrir </operation> les <operation> moules </operation> avec 1 / 2 verre d' eau . les <operation> retirer </operation> des coquilles et <operation ingredients="jus"> passer </operation> le <ingredient action="passer"> jus </ingredient> de cuisson . <operation ingredients="jus"> reserver </operation> les <operation> moules </operation> et le <ingredient action="reserver"> jus </ingredient> . faire <operation ingredients="poireau;pommes;beurre"> revenir </operation> le blanc de <ingredient action="revenir"> poireau </ingredient> et les <ingredient action="revenir" quantite="2"> pommes </ingredient> de terre <operation> coupés </operation> en dés dans le <ingredient action="revenir" quantite="30gr"> beurre </ingredient> pendant 10 mn . <operation ingredients="lait;pain"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> froid avec autant d' eau ( 1 / 2 litre ) et la mie de <ingredient action="ajouter"> pain </ingredient> . <operation> cuire </operation> 30 mn . <operation> passer </operation> au moulin à legumes ou <operation> mixer </operation> . <operation> remettre </operation> sur feu doux puis <operation ingredients="jus"> ajouter </operation> les <operation> moules </operation> et le <ingredient action="ajouter"> jus </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . servir chaud en saupoudrant de <ingredient quantite=""> cerfeuil </ingredient> haché grossierement ( facultatif )
+</preparation>
+</recette>

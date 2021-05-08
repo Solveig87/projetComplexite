@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23992">
+<titre>Poulet aux poivrons et Banyuls</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>2 poivrons rouges</p>
+<p>1 poivron jaune</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>20 cl de Banyuls</p>
+<p>une pincée de thym</p>
+</ingredients>
+<preparation>
+faites <operation> dorer </operation> les cuisses . pendant ce temps , <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en lanières et <operation ingredients="oignon;ail"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> et l' <ingredient action="émincer"> ail </ingredient> . une fois les cuisses bien dorées , les <operation> mettre </operation> de côté . a la <operation> place </operation> , faites <operation ingredients="oignon"> blondir </operation> l' <ingredient action="blondir" quantite="1"> oignon </ingredient> . <operation ingredients="poivrons;ail"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> . <operation> cuire </operation> 15 min à feu doux . <operation> ajoutez </operation> les cuisses , puis le banyuls . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="thym"> rajoutez </operation> une pincée de <ingredient action="rajouter" quantite="1 pincée"> thym </ingredient> . laissez <operation> mijotez </operation> 45 min à 1 h sur feu moyen , en <operation> remuant </operation> de temps en temps . servir avec du <ingredient> riz </ingredient> , pour <operation ingredients="oignons"> trancher </operation> avec la belle couleur des <ingredient action="trancher" quantite="1"> oignons </ingredient> . si vous ne trouvez pas de banyuls , un bon <ingredient action="faire"> vin </ingredient> cuit <operation> sucré </operation> <operation ingredients="vin"> fera </operation> l' affaire !
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80753">
+<titre>Gratin de colin aux carottes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de colin (le genre carré au rayon surgelé)</p>
+<p>carottes</p>
+<p>échalotes</p>
+<p>pommes de terre</p>
+<p>un bouquet garni</p>
+<p>un bouillon de volaille</p>
+<p>crème fraîche liquide (light pour les adeptes)</p>
+<p>gruyère rapé pour les gourmands</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pavés"> bouillir </operation> les <ingredient action="bouillir" quantite="4"> pavés </ingredient> de colin pendant 10 minutes puis laisser <operation> égoutter </operation> . <operation> découper </operation> les échalottes , les <ingredient quantite=""> carottes </ingredient> et les <ingredient quantite=""> pommes </ingredient> de terre ( en dés , en rondelles , en julienne , peu importe comme vous le sentez ) . faire <operation ingredients="légumes;huile"> revenir </operation> tous ces <ingredient action="revenir" quantite=";;;1;"> légumes </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive , puis lorsqu' ils sont dorés , <operation> verser </operation> un peu d' eau , <operation ingredients="bouquet;bouillon"> mettre </operation> le <ingredient action="mettre" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le <ingredient action="mettre" quantite="1"> bouillon </ingredient> de volaille ( ne pas ressaler , le <ingredient quantite="1"> bouillon </ingredient> suffit normalement ) et laisser <operation> mijoter </operation> une dizaine de minutes . dans un plat à gratin <operation ingredients="colin"> émietter </operation> le <ingredient action="émietter"> colin </ingredient> puis <operation ingredients="légumes;bouillon;colin"> jeter </operation> les <ingredient action="jeter" quantite=";;;1;"> légumes </ingredient> et le <ingredient action="jeter" quantite="1"> bouillon </ingredient> sur le <ingredient action="jeter"> colin </ingredient> . <operation ingredients="crème"> verser </operation> un peu de <ingredient action="verser" quantite=""> crème </ingredient> liquide sur le dessus et <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> rapé . <operation> enfourner </operation> 30 min à 200 <operation> ° </operation> c ( thermostat . 7 ) pour finir la cuison des <ingredient quantite=";;;1;"> légumes </ingredient> et que ça gratine bien au dessus . c' est prêt !
+</preparation>
+</recette>

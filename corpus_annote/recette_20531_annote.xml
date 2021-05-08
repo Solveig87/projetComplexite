@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20531">
+<titre>Tarte brocolis camembert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>1 camembert en tranches</p>
+<p>400 g de brocolis</p>
+<p>20 cl de crème fraîche</p>
+<p>2 oeufs</p>
+<p>sel, poivre</p>
+<p>muscade en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> précuire </operation> la <ingredient action="précuire" quantite="1"> pâte </ingredient> feuilletée au four . <operation ingredients="bouquets"> cuire </operation> les <ingredient action="cuire"> bouquets </ingredient> de brocolis à la vapeur pendant 25 mn . <operation ingredients="crème;oeufs"> mélanger </operation> <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche , <ingredient action="mélanger" quantite="2"> oeufs </ingredient> , sel , poivre et muscade . <operation ingredients="bouquets;pâte"> disposer </operation> les <ingredient action="disposer"> bouquets </ingredient> de brocolis sur la <ingredient action="disposer" quantite="1"> pâte </ingredient> , <operation ingredients="camembert"> recouvrir </operation> de tranches de <ingredient action="recouvrir" quantite="1"> camembert </ingredient> et <operation> verser </operation> dessus la préparation . faites <operation> cuire </operation> 30 mn au four préchauffé à 200 <operation> ° </operation> c. servir avec une salde verte
+</preparation>
+</recette>

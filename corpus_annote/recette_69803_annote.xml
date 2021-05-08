@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69803">
+<titre>Tartine de saumon au pain noir de Bibi</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de saumon fumé (ou truite fumée)</p>
+<p>1 sachet de roquette</p>
+<p>4 tranches de pain noir (allemand)</p>
+<p>1 bûche de chèvre</p>
+<p>25 cl de crème fraîche semi-liquide</p>
+<p>3 cuillères à soupe de moutarde à l'ancienne</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+<p>gingembre en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain;pain"> griller </operation> les tranches de <ingredient action="griller" quantite="4 tranche"> pain </ingredient> noir au <operation> grille </operation> - <ingredient action="griller" quantite="4 tranche"> pain </ingredient> . dans un bol , <operation ingredients="crème;moutarde"> mélanger </operation> 15 cl de <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> fraîche et la <ingredient action="mélanger" quantite="3 cuillère à soupe"> moutarde </ingredient> à l' ancienne , <operation ingredients="pain"> badigeonner </operation> chaque tranche de <ingredient action="badigeonner" quantite="4 tranche"> pain </ingredient> de cette préparation . <operation ingredients="roquette"> ajouter </operation> une petite poignée de <ingredient action="ajouter"> roquette </ingredient> . <operation ingredients="pain;saumon"> poser </operation> sur chaque <ingredient action="poser" quantite="4 tranche"> pain </ingredient> une tranche de <ingredient action="poser"> saumon </ingredient> . <operation ingredients="chèvre"> couper </operation> 8 rondelles de <ingredient action="couper"> chèvre </ingredient> et <operation ingredients="pain"> poser </operation> 2 rondelles sur chaque tranche de <ingredient action="poser" quantite="4 tranche"> pain </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> , <operation ingredients="huile"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et <operation ingredients="gingembre"> saupoudrer </operation> légèrement de <ingredient action="saupoudrer"> gingembre </ingredient> . peut aussi être <operation ingredients="vin"> accompagné </operation> par un <ingredient action="accompagner"> vin </ingredient> blanc . <ingredient> vin </ingredient> rouge , ex brouilly
+</preparation>
+</recette>

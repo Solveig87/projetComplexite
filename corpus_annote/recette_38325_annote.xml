@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38325">
+<titre>Tournedos sauce au cidre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tournedos bardés</p>
+<p>1 gros oignon</p>
+<p>35 g de beurre</p>
+<p>200 g de lardons</p>
+<p>150 g de champignons de Paris</p>
+<p>1 cuillère à soupe de farine</p>
+<p>15 cl de cidre brut</p>
+<p>1/2 cube de bouillon de boeuf</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> pelez </operation> et <operation ingredients="oignon"> hachez </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . dans une casserole , faites - le <operation ingredients="beurre"> revenir </operation> sur feux doux avec 15 g de <ingredient action="revenir" quantite="35 gramme"> beurre </ingredient> . <operation ingredients="lardons;champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> et le <ingredient action="ajouter" quantite="150 gramme"> champignons </ingredient> <operation> émincés </operation> . quand le <operation> mélange </operation> est blond , <operation ingredients="graisse"> jetez </operation> la <ingredient action="jeter"> graisse </ingredient> . <operation ingredients="oignons"> saupoudrez </operation> les <ingredient action="saupoudrer" quantite="1"> oignons </ingredient> de farine . <operation ingredients="cidre;bouillon"> versez </operation> le <ingredient action="verser" quantite="15 cl"> cidre </ingredient> et le cube de <ingredient action="verser"> bouillon </ingredient> <operation> dilué </operation> dans 12 cl d' eau chaude . <operation ingredients="tomates"> incorporez </operation> le <operation> concentré </operation> de <ingredient action="incorporer"> tomates </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . <operation> mélanger </operation> bien puis laisser <operation> mijoter </operation> 15 min sans <operation> couvrir </operation> . faites <operation ingredients="beurre"> fondre </operation> 20 g de <ingredient action="fondre" quantite="35 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et faites <operation ingredients="tournedos"> cuire </operation> vos <ingredient action="cuire" quantite="4"> tournedos </ingredient> . servez avec la sauce . vous pouvez remplacer les <ingredient quantite="4"> tournedos </ingredient> par des <ingredient> steaks </ingredient> un peu épais .
+</preparation>
+</recette>

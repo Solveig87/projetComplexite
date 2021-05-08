@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29405">
+<titre>Charlotte aux amandes et coulis de fraises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la crème :</p>
+<p>120 g de beurre</p>
+<p>140 g de sucre en poudre</p>
+<p>120 g de poudre d'amandes</p>
+<p>2 jaunes d'oeufs</p>
+<p>2 cuillères à soupe de lait</p>
+<p>Pour le coulis :</p>
+<p>500 g de fraises</p>
+<p>50 g de sucre glace</p>
+<p>40 biscuits à la cuiller</p>
+<p>3 cl de liqueur de fraise (ou rhum, attention pas trop!) </p>
+</ingredients>
+<preparation>
+préparation de la <ingredient> crème </ingredient> : faire <operation ingredients="beurre"> ramollir </operation> le <ingredient action="ramollir" quantite="120 gramme"> beurre </ingredient> , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="140 gramme+50 gramme"> sucre </ingredient> , les jaunes , les <ingredient> amandes </ingredient> , le <ingredient quantite="2 cuillère à soupe"> lait </ingredient> . <operation> mélanger </operation> . <operation> confection </operation> de la charlotte : <operation ingredients="biscuits;lait"> tapisser </operation> le <operation> moule </operation> avec les <ingredient action="tapisser" quantite="40"> biscuits </ingredient> <operation> imbibés </operation> du <operation> mélange </operation> <ingredient action="tapisser" quantite="2 cuillère à soupe"> lait </ingredient> + liqueur ( ne pas trop laisser <operation ingredients="biscuits"> tremper </operation> les <ingredient action="tremper" quantite="40"> biscuits </ingredient> ) . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> d' amandes , <operation ingredients="biscuits"> recouvrir </operation> de <ingredient action="recouvrir" quantite="40"> biscuits </ingredient> <operation> imbibés </operation> . <operation> poser </operation> un poids sur le dessus et laisser au frigo plusieurs heures . préparation du coulis : <operation ingredients="fraises;glace"> mixer </operation> <ingredient action="mixer" quantite="500 gramme"> fraises </ingredient> + sucre <ingredient action="mixer"> glace </ingredient> . <operation> mettre </operation> au frigo . au moment de servir , <operation> démouler </operation> la charlotte et <operation> napper </operation> avec le coulis ou servir le coulis à part . facile et rapide à faire . a <operation> préparer </operation> la veille de préférence . la <ingredient> crème </ingredient> semble en trop petite quantité mais en fait cela suffit , on peut <operation ingredients="biscuits"> rabattre </operation> les <ingredient action="rabattre" quantite="40"> biscuits </ingredient> qui dépassent sur le dessus .
+</preparation>
+</recette>

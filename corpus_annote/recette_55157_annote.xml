@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55157">
+<titre>Linguine aux oignons rouges</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de linguine (ou des pâtes que vous préférez)</p>
+<p>3 beaux oignons rouges</p>
+<p>5 tranches de jambon de parme</p>
+<p>vinaigre balsamique</p>
+<p>sel poivre</p>
+<p>sucre en poudre (facultatif)</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . <operation ingredients="oignons;jambon"> couper </operation> les <ingredient action="couper"> oignons </ingredient> rouges et les tranches de <ingredient action="couper" quantite="5 tranche"> jambon </ingredient> en fines lamelles . faire <operation ingredients="oignons;huile"> revenir </operation> les <ingredient action="revenir"> oignons </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> jusqu' à ce qu' ils deviennent translucides ( on peut <operation ingredients="sucre"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> sucre </ingredient> à ce moment là pour que les <ingredient action="confire"> oignons </ingredient> soient <operation ingredients="oignons"> confits </operation> ) . <operation ingredients="jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="5 tranche"> jambon </ingredient> . <operation> réserver </operation> . <operation ingredients="vinaigre"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite=""> vinaigre </ingredient> balsamique quelques minutes . <operation ingredients="pâtes;vinaigre"> ajouter </operation> les <ingredient action="ajouter"> pâtes </ingredient> une fois <operation> cuites </operation> dans le <ingredient action="ajouter" quantite=""> vinaigre </ingredient> et bien les <operation> imprégner </operation> . servir garnies du <ingredient quantite="5 tranche"> jambon </ingredient> et des <ingredient> oignons </ingredient> .
+</preparation>
+</recette>

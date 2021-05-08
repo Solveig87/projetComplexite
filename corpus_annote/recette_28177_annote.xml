@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28177">
+<titre>Salade de chou morvandelle</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit chou blanc bien pommé</p>
+<p>200 g de lard fumé coupé en lardons</p>
+<p>1 gousse d'ail</p>
+<p>moutarde</p>
+<p>huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> couper </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> en toutes fines lanières . faire une vinaigrette bien moutardée mais pas trop vinaigrée et y <operation ingredients="gousse"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail <operation> émincée </operation> . <operation ingredients="chou"> verser </operation> la vinaigrette dans le <ingredient action="verser" quantite="1"> chou </ingredient> . faire <operation ingredients="lardons;huile"> revenir </operation> des <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> avec une cuillerée d' <ingredient action="revenir" quantite=""> huile </ingredient> . quand les <ingredient action="verser"> lardons </ingredient> sont bien chauds , les <operation ingredients="lardons;salade"> verser </operation> dans la <ingredient action="verser"> salade </ingredient> de chou . <operation ingredients="vinaigre"> déglacer </operation> la <operation> poêle </operation> avec du <ingredient action="déglacer" quantite="2 cuillère à soupe"> vinaigre </ingredient> et le faire <operation> chauffer </operation> quelques instants . <operation ingredients="vinaigre;salade"> verser </operation> le <ingredient action="verser" quantite="2 cuillère à soupe"> vinaigre </ingredient> chaud sur la <ingredient action="verser"> salade </ingredient> et déguster tout de suite . cette <ingredient> salade </ingredient> doit être servie tiède .
+</preparation>
+</recette>

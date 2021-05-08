@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30221">
+<titre>Brochettes de canard aux abricots</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 gros magrets de canard</p>
+<p>8 gros abricots bien sucrés</p>
+<p>2 tranches épaisses de lard</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>2 gros oignons</p>
+<p>1 courgette</p>
+<p>1 aubergine</p>
+</ingredients>
+<preparation>
+<operation ingredients="magret;lard;légumes"> préparer </operation> des gros morceaux de <ingredient action="préparer" quantite="2"> magret </ingredient> , de <ingredient action="préparer"> lard </ingredient> , des <ingredient action="préparer" quantite="2;1"> légumes </ingredient> et <operation ingredients="abricots"> couper </operation> les <ingredient action="couper"> abricots </ingredient> en 2 . sur les pics , alterner suivant l' inspiration 1 morceau de <ingredient> canard </ingredient> , 1 / 2 <ingredient> abricot </ingredient> , 1 morceau de <ingredient> lard </ingredient> , 1 morceau de chaque <ingredient quantite="2;1"> légume </ingredient> . <operation> epicer </operation> selon l' envie , <operation ingredients="miel"> rouler </operation> dans un peu de <ingredient action="rouler"> miel </ingredient> liquide . faire <operation> griller </operation> au barbecue . pour les adeptes du sucr . <ingredient> salé </ingredient> .
+</preparation>
+</recette>

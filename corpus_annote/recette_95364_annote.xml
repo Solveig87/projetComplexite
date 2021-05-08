@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95364">
+<titre>Délice de soupe au potiron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 morceau de potiron ou une petite citrouille</p>
+<p>3 grosses pommes de terre à purée (farineuses)</p>
+<p>environ 1 litre de lait</p>
+<p>sel, poivre, muscade</p>
+<p>1 ou 2 carreaux de sucre (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> éplucher </operation> et <operation ingredients="potiron"> couper </operation> le <ingredient action="couper"> potiron </ingredient> et les <ingredient action="éplucher" quantite="3"> pommes </ingredient> de terre , les <operation> couper </operation> en cubes . <operation> mettre </operation> les cubes dans une casserole , <operation ingredients="lait"> couvrir </operation> de <ingredient action="couvrir"> lait </ingredient> . <operation ingredients="sel"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient quantite=""> poivre </ingredient> , le <ingredient> sucre </ingredient> , muscadez , et le tour est joué ! quand c' est <operation> cuit </operation> , <operation> mixer </operation> . on peut <operation ingredients="soupe;potiron"> mettre </operation> cette <ingredient action="mettre"> soupe </ingredient> dans le <ingredient action="mettre"> potiron </ingredient> <operation> vidé </operation> pour la servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227936">
+<titre>Salade de pâtes aux knackis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de pâtes</p>
+<p>200 g de lardons</p>
+<p>10 knackis</p>
+<p>100 g d'emmental râpé</p>
+<p>1 gros oignon</p>
+<p>4 tomates</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="150 gramme"> pâtes </ingredient> al dente , les <operation> égoutter </operation> et les <operation> passer </operation> sous l' eau froide . faire <operation ingredients="lardons;oignon;knackis"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> lardons </ingredient> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="10"> knackis </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en petits cubes . <operation> mélanger </operation> le tout en <operation ingredients="emmental"> ajoutant </operation> l' <ingredient action="ajouter"> emmental </ingredient> râpé . <operation> assaisonnez </operation> à votre convenance et dégustez bien frais !
+</preparation>
+</recette>

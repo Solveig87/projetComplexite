@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31042">
+<titre>Cake Mangue Banane</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de farine</p>
+<p>125 g de sucre</p>
+<p>3 oeufs moyens</p>
+<p>1/2 sachet de levure chimique</p>
+<p>10 cl d'huile d'olive</p>
+<p>10 cl de lait</p>
+<p>2 mangues</p>
+<p>2 bananes</p>
+<p>25 g de beurre</p>
+<p>25 g de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes;mangues"> préparer </operation> les <ingredient action="préparer" quantite="2"> bananes </ingredient> en rondelles et les <ingredient action="préparer" quantite="2"> mangues </ingredient> en petits cubes . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> à feu moyen , puis y <operation ingredients="fruits;sucre"> jeter </operation> les <ingredient action="jeter" quantite="2;2"> fruits </ingredient> et le <ingredient action="jeter" quantite="125 gramme+25 gramme"> sucre </ingredient> . faire caraméliser en <operation> mélangeant </operation> régulièrement . <operation> réserver </operation> . dans une terrine , <operation ingredients="sucre"> mélanger </operation> farine , <ingredient action="mélanger" quantite="125 gramme+25 gramme"> sucre </ingredient> et levure . faire un puits dans le <operation> mélange </operation> et <operation ingredients="oeufs"> incorporer </operation> les <ingredient action="incorporer" quantite="3"> oeufs </ingredient> . <operation> mélanger </operation> activement , éventuellement à l' aide d' un fouet . <operation ingredients="huile;lait"> ajouter </operation> l' <ingredient action="ajouter" quantite="10 cl"> huile </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> lait </ingredient> . <operation ingredients="fruits"> incorporer </operation> délicatement les <ingredient action="incorporer" quantite="2;2"> fruits </ingredient> caramélisés . <operation> verser </operation> la préparation dans un <operation> moule </operation> à cake <operation> recouvert </operation> de papier sulfurisé et <operation> cuire </operation> au four préchauffé à 210 <operation> ° </operation> c pendant 45 minutes . si tout se <operation> passe </operation> bien , les <ingredient quantite="2;2"> fruits </ingredient> ne devraient pas être au fond du cake .
+</preparation>
+</recette>

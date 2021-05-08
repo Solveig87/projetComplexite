@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35837">
+<titre>Cannelloni à la Florentine ( épinards et viande )</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 cannelloni à farcir</p>
+<p>350 g de viande hachée</p>
+<p>200 g d'épinard</p>
+<p>100 g de gruyère râpé</p>
+<p>25 cl de coulis de tomates</p>
+<p>1 œuf</p>
+<p>2 oignons</p>
+<p>1 bouquet de persil</p>
+<p>3 gousses d'ail</p>
+<p>sel et poivre</p>
+<p>huile d'olive (ou de pépins de raisin)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="épinards"> blanchir </operation> les <ingredient action="blanchir" quantite="200 gramme"> épinards </ingredient> en 5 minutes . pendant ce temps , faire <operation ingredients="oignon"> revenir </operation> un <ingredient action="revenir" quantite="2"> oignon </ingredient> , y <operation ingredients="viande;ail;persil"> ajouter </operation> 250 grammes de <ingredient action="ajouter" quantite="350 gramme"> viande </ingredient> hachée , ainsi que de l' <ingredient action="ajouter"> ail </ingredient> et du <ingredient action="ajouter"> persil </ingredient> . <operation ingredients="épinards;sel"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="200 gramme"> épinards </ingredient> <operation> hachés </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre , puis laisser <operation> cuire </operation> 5 minutes . faire <operation ingredients="oignons"> revenir </operation> le deuxième <ingredient action="revenir" quantite="2"> oignons </ingredient> dans une cocotte , y <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="350 gramme"> viande </ingredient> une fois <operation> revenue </operation> , puis y <operation ingredients="tomate"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomate </ingredient> . <operation ingredients="sel"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> sel </ingredient> et herbes de provence ) , puis laisser <operation> cuire </operation> 15 minutes une fois la farce cuite , la laisser refroidir un peu et y <operation ingredients="œuf"> rajouter </operation> l’ <ingredient action="rajouter" quantite="1"> œuf </ingredient> pour faire la liaison . <operation ingredients="cannelloni"> remplir </operation> les <ingredient action="remplir" quantite="12"> cannelloni </ingredient> avec la farce , les disposr dans un plat à four préalablement <operation> huilé </operation> . les <operation> recouvrir </operation> avec la sauce tomate et <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> râpé dessus . <operation> mettre </operation> au four et laisser <operation> cuire </operation> 30 minutes ( thermostat 7 / 210 <operation> ° </operation> c ) . servir avec une <ingredient> salade </ingredient> verte , de préférence une rougette de montpellier . <ingredient> côte </ingredient> de provence assez léger
+</preparation>
+</recette>

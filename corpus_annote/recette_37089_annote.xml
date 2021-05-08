@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37089">
+<titre>Banane congolaise à la poêle</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 banane </p>
+<p>1 petit sachet de gruyère râpé</p>
+<p>2 tranches de jambon</p>
+<p>moutarde</p>
+<p>facultatif : fil de cuisson</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="banane"> coupez </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> en 2 dans le sens de la longueur . <operation ingredients="banane"> badigeonnez </operation> les 2 morceaux de <ingredient action="badigeonner" quantite="1"> banane </ingredient> de moutarde ( n' hésitez pas à en <operation> mettre </operation> car le goût de la <ingredient quantite=""> moutarde </ingredient> se sent guère après la cuisson ) . <operation ingredients="jambon;bananes"> enroulez </operation> les tranches de <ingredient action="enrouler" quantite="2 tranche"> jambon </ingredient> autour des <ingredient action="enrouler" quantite="1"> bananes </ingredient> . ( facultatif ) : <operation> ficelez </operation> le tout pour que les tranches se maintiennent avec le contenu . laissez <operation> revenir </operation> dans une <operation> poêle </operation> beurrée le tout pendant 10 min couvercle fermé . pour la dernière minute de cuisson <operation> recouvrez </operation> - les de <ingredient> gruyère </ingredient> rapé . peut s' <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> blanc .
+</preparation>
+</recette>

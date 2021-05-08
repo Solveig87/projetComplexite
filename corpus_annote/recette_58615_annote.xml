@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58615">
+<titre>Compote de papaye</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 papaye bien mûre (taille moyenne)</p>
+<p>1 citron</p>
+<p>50 g de sucre </p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="papaye"> ouvrir </operation> la <ingredient action="ouvrir" quantite="1"> papaye </ingredient> en deux , <operation> enlever </operation> les pépins , et <operation ingredients="chair"> mettre </operation> la <ingredient action="mettre"> chair </ingredient> ( qui doit être <ingredient> orange </ingredient> vif ) dans un saladier . <operation ingredients="jus;sucre;sucre"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> du citron , le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> et le sachet de <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> vanillé . <operation> mixer </operation> le tout . <operation> placer </operation> au réfrigérateur pendant au moins deux heures , servir la <ingredient> compote </ingredient> bien fraîche . la pectine du <ingredient quantite="1"> fruit </ingredient> <operation> mélangée </operation> au <ingredient quantite="50 gramme"> sucre </ingredient> peut donner un aspect gélifié à la <ingredient> compote </ingredient> , c' est normal . <operation ingredients="papaye"> choisir </operation> une <ingredient action="choisir" quantite="1"> papaye </ingredient> bien mûre .
+</preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64705">
+<titre>Filet mignon à la provençale</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon de 500 g</p>
+<p>4 tomates</p>
+<p>200 g de champignons de paris</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>2 cubes de kub or</p>
+<p>20 cl de vin blanc</p>
+<p>1 cuillère à café de concentré de tomates</p>
+<p>2 morceaux de sucre</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 noix de beurre</p>
+<p>1 bouquet garni</p>
+<p>quelques brins de persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="gousse"> dégermer </operation> la <ingredient action="dégermer" quantite="1"> gousse </ingredient> d' ail , la <operation> couper </operation> en éclats et en <operation> piquer </operation> le filet mignon . dans une cocotte , faire <operation ingredients="huile;beurre"> chauffer </operation> l' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et le <ingredient action="chauffer"> beurre </ingredient> , <operation> mettre </operation> le filet à <operation> dorer </operation> sur une face . lorsqu' il est coloré , <operation> retourner </operation> sur l' autre face et <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> émincés </operation> . pendant ce temps , <operation> laver </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en dés . lorsque la 2ème face est <operation ingredients="oignons"> colorée </operation> et les <ingredient action="colorer" quantite="2"> oignons </ingredient> blondis , <operation ingredients="tomates;champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> et les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> . faire <operation ingredients="tomates;bouquet;tomates;sucre;poivre"> fondre </operation> les <ingredient action="fondre" quantite="4"> tomates </ingredient> et <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="20 cl"> vin </ingredient> blanc , le <ingredient action="fondre" quantite="1"> bouquet </ingredient> <operation> garni </operation> , le <operation> concentré </operation> de <ingredient action="fondre" quantite="4"> tomates </ingredient> , les kub or , les morceaux de <ingredient action="fondre"> sucre </ingredient> et le <ingredient action="fondre" quantite=""> poivre </ingredient> . <operation> mélanger </operation> et laisser <operation> mijoter </operation> 40 à 45 min . <operation ingredients="sel"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre selon le goût , servir avec des <ingredient> pâtes </ingredient> et <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer"> persil </ingredient> frais .
+</preparation>
+</recette>

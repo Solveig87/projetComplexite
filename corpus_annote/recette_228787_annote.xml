@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228787">
+<titre>Salade de fruit colorée : pomme, brugnon, framboise</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pomme verte</p>
+<p>3 brugnon frais </p>
+<p>100 g de framboises</p>
+<p>jus de citron jaune </p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+pour commencer , <operation ingredients="non"> épluchez </operation> [ ou <ingredient action="éplucher"> non </ingredient> ] les <ingredient quantite="1"> pommes </ingredient> , et les <ingredient quantite="3"> brugnons </ingredient> . après avoir <operation ingredients="non;fruits"> épluché </operation> [ ou <ingredient action="éplucher"> non </ingredient> ] vos <ingredient action="éplucher" quantite="1;3;100 gramme;"> fruits </ingredient> , <operation ingredients="pommes;brugnons"> mélangez </operation> d’ abord les <ingredient action="mélanger" quantite="1"> pommes </ingredient> et les <ingredient action="mélanger" quantite="3"> brugnons </ingredient> , <operation ingredients="jus"> ajoutez </operation> quelque gouttes de <ingredient action="ajouter" quantite=""> jus </ingredient> de citron [ <operation> ajouter </operation> comme vous le voulez ] puis <operation> mélangez </operation> bien . <operation ingredients="framboises"> ajoutez </operation> ensuite les <ingredient action="ajouter" quantite="100 gramme"> framboises </ingredient> , <operation> remuez </operation> à nouveau et enfin <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> sucre </ingredient> ! <operation ingredients="salade"> mettez </operation> au frais votre <ingredient action="mettre"> salade </ingredient> de fruits !
+</preparation>
+</recette>

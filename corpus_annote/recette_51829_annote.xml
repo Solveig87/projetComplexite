@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51829">
+<titre>Galettes au blé noir de sophie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de farine de blé noir</p>
+<p>100 g de farine de blé fluide</p>
+<p>2 œufs</p>
+<p>30 cl de lait</p>
+<p>25 cl d'eau tiède</p>
+<p>30 g de beurre fondu</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="farines"> mélanger </operation> les 2 <ingredient action="mélanger" quantite="150 gramme+100 gramme"> farines </ingredient> dans un saladier . <operation> incorporer </operation> en <operation ingredients="œufs;beurre"> fouettant </operation> les <ingredient action="fouetter" quantite="2"> œufs </ingredient> <operation ingredients="lait"> battus </operation> avec le <ingredient action="battre" quantite="30 cl"> lait </ingredient> , l' eau tiède , et le <ingredient action="fouetter"> beurre </ingredient> . <operation ingredients="sel"> ajouter </operation> une pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . laisser <operation> reposer </operation> une heure au frais avant de <operation ingredients="crêpes"> préparer </operation> les <ingredient action="préparer"> crêpes </ingredient> dans une <operation> poêle </operation> très chaude . vous pouvez <operation ingredients="galettes"> garnir </operation> ces <ingredient action="garnir"> galettes </ingredient> de jambon , gruyère , œuf , bolognaise . . .
+</preparation>
+</recette>

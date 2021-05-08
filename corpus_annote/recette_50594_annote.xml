@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50594">
+<titre>Salade de pâtes au cervelas et au gruyère</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 cervelas</p>
+<p>40 g de gruyère</p>
+<p>500 g de pâtes cuites</p>
+<p>1 cuillère à soupe de moutarde de Dijon</p>
+<p>sel et poivre</p>
+<p>ciboulettte et persil</p>
+<p>5 cuillères à soupe d'huile</p>
+<p>3 cuillères à soupe de vinaigre</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile;sel;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="5 cuillère à soupe"> huile </ingredient> avec le vianigre , du <ingredient action="emulsionner" quantite=""> sel </ingredient> , du <ingredient action="emulsionner"> poivre </ingredient> et les herbes <operation> ciselées </operation> . <operation ingredients="cervelas;gruyère"> coupez </operation> les <ingredient action="couper" quantite="3"> cervelas </ingredient> en rondelles et le <ingredient action="couper" quantite="40 gramme"> gruyère </ingredient> en cubes . <operation ingredients="pâtes;cervelas;gruyère"> mélangez </operation> les <ingredient action="mélanger" quantite="500 gramme"> pâtes </ingredient> avec le <ingredient action="mélanger" quantite="3"> cervelas </ingredient> , le <ingredient action="mélanger" quantite="40 gramme"> gruyère </ingredient> et la vinaigrette .
+</preparation>
+</recette>

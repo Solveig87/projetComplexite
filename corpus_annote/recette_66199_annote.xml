@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66199">
+<titre>Filet mignon de porc en cocotte de légumes caramélisés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon de porc</p>
+<p>8 carottes</p>
+<p>8 pommes de terre</p>
+<p>2 navets</p>
+<p>3 cuillères à soupe de miel</p>
+<p>25 g de beurre</p>
+<p>50 cl de bouillon de viande ou de légumes en cube</p>
+<p>1 pincée de cannelle</p>
+<p>sel, poivre, thym</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> puis <operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="8;8;2;50 cl"> légumes </ingredient> . <operation ingredients="carottes;pommes;navets"> couper </operation> les <ingredient action="couper" quantite="8"> carottes </ingredient> en rondelles , les <ingredient action="couper" quantite="8"> pommes </ingredient> de terre et les <ingredient action="couper" quantite="2"> navets </ingredient> en 4 . dans une cocotte - minute , faire <operation ingredients="miel;mousse"> fondre </operation> le <ingredient action="fondre" quantite="3 cuillère à soupe"> miel </ingredient> à feu vif , quand il <ingredient action="fondre"> mousse </ingredient> et <operation> colore </operation> légèrement , <operation ingredients="légumes"> verser </operation> tous les <ingredient action="verser" quantite="8;8;2;50 cl"> légumes </ingredient> . les <operation ingredients="miel"> enrober </operation> du caramel de <ingredient action="enrober" quantite="3 cuillère à soupe"> miel </ingredient> . <operation ingredients="bouillon"> ajouter </operation> le demi-litre de <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> , le <ingredient action="saupoudrer" quantite="25 gramme"> beurre </ingredient> , la <ingredient action="saupoudrer" quantite="1 pincée"> cannelle </ingredient> , <operation ingredients="beurre;cannelle;thym"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> thym </ingredient> puis <operation> saler </operation> . <operation> découper </operation> le filet mignon en portions et l' <operation ingredients="légumes"> ajouter </operation> à cette cocotte de <ingredient action="ajouter" quantite="8;8;2;50 cl"> légumes </ingredient> . fermer la cocotte - minute et <operation> cuire </operation> à feu doux pendant 30 à 40 min à partir du chuchotement de la soupape . <operation> poivrer </operation> en fin de cuisson . un bon plat d' hiver même apprécié des enfants .
+</preparation>
+</recette>

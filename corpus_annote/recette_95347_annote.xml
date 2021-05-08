@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95347">
+<titre>Crocq hawaïen</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 tranches de pain de mie</p>
+<p>5 tranches de jambon</p>
+<p>10 tranches d'ananas en boite</p>
+<p>10 tranches de fromage fondu (type carré de fromage pour croc monsieur)</p>
+<p>du beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> les tranches de <ingredient action="beurrer" quantite="10 tranche"> pain </ingredient> . <operation ingredients="jambon"> poser </operation> 1 / 2 tranche de <ingredient action="poser" quantite="5 tranche"> jambon </ingredient> . <operation ingredients="ananas"> poser </operation> l' <ingredient action="poser" quantite="10 tranche"> ananas </ingredient> . <operation ingredients="carré"> recouvrir </operation> aves le <ingredient action="recouvrir"> carré </ingredient> de fromage . faire <operation> chauffer </operation> le four thermostat 5 . lorsque le four est chaud , <operation> enfourner </operation> les crocqs hawaiens . dès que le <ingredient action="faire" quantite="10 tranche"> fromage </ingredient> <operation ingredients="fromage"> fait </operation> une bulle , sortir du four . <operation ingredients="salade"> accompagner </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

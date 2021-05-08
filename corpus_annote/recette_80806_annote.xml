@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80806">
+<titre>Pastis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 boîte de cuisses de confit de canard</p>
+<p>2 oignons </p>
+<p>1 boîte de salsifis</p>
+<p>2 pâtes feuilletées</p>
+<p>1 oeuf</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="confit"> dégraisser </operation> le <ingredient action="dégraisser"> confit </ingredient> et l' <operation> émietter </operation> . <operation ingredients="oignons"> hacher </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> et faire <operation ingredients="graisse"> dorer </operation> à la <operation> poêle </operation> dans un peu de <ingredient action="dorer"> graisse </ingredient> de canard . <operation ingredients="confit;salsifis"> ajouter </operation> le <ingredient action="ajouter"> confit </ingredient> puis les <ingredient action="ajouter"> salsifis </ingredient> <operation> coupés </operation> en rondelles . <operation> poivrer </operation> et laisser <operation> cuire </operation> 5 min . <operation ingredients="pâte"> dérouler </operation> une <ingredient action="dérouler" quantite="2"> pâte </ingredient> , y <operation ingredients="confit;salsifis"> mettre </operation> le <operation> mélange </operation> <ingredient action="mettre"> confit </ingredient> <ingredient action="mettre"> salsifis </ingredient> et <operation ingredients="pâte"> recouvrir </operation> d' une autre <ingredient action="recouvrir" quantite="2"> pâte </ingredient> . faire une cheminée et <operation ingredients="oeuf"> dorer </operation> au jaune d' <ingredient action="dorer" quantite="1"> oeuf </ingredient> . faire <operation> cuire </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) jusqu' à ce que ce soit doré . servir avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59178">
+<titre>Pizza végétarienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>200 g de farine</p>
+<p>1 sachet de levure de boulanger</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>Pour la garniture :</p>
+<p>1 aubergine</p>
+<p>4 grosses tomates</p>
+<p>190 g de champignons (1 boîte)</p>
+<p>100 g de pointes d'asperges (1 petite boîte)</p>
+<p>8 tranches d'emmental</p>
+<p>1/4 de poivrons</p>
+<p>6 olives noires à la grecque</p>
+<p>sel</p>
+<p>origan</p>
+</ingredients>
+<preparation>
+prévoir un temps de levée de la <ingredient> pâte </ingredient> de 2 heures . <operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> : <operation ingredients="levure"> dissoudre </operation> la <ingredient action="dissoudre"> levure </ingredient> de boulanger dans 25 cl d' eau chaude . <operation ingredients="farine;sel;huile;levure"> mélanger </operation> dans un saladier la <ingredient action="mélanger" quantite="200 gramme"> farine </ingredient> avec une pincée de <ingredient action="mélanger" quantite=""> sel </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> d' olive et la <ingredient action="mélanger"> levure </ingredient> . laisser <operation> gonfler </operation> deux heures environ . <operation ingredients="aubergine"> couper </operation> l' <ingredient action="couper" quantite="1"> aubergine </ingredient> en rondelles . <operation> saler </operation> et <operation ingredients="huile"> badigeonner </operation> d' <ingredient action="badigeonner" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . faire <operation> cuire </operation> au four pendant 15 min au four à 220 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="tomates"> ebouillanter </operation> les <ingredient action="ebouillanter" quantite="4"> tomates </ingredient> et les <operation> peler </operation> . les <operation> couper </operation> en rondelles et <operation> ôter </operation> une partie de la pulpe afin de ne pas trop <operation ingredients="pâte"> mouiller </operation> la <ingredient action="mouiller"> pâte </ingredient> . <operation ingredients="pâte;tomates;aubergine;champignons;asperges;poivron;olives"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> sur une <operation> plaque </operation> à pizza , y <operation ingredients="fromage"> disposer </operation> le <ingredient action="disposer"> fromage </ingredient> en tranches , les <ingredient action="etaler" quantite="4"> tomates </ingredient> , l' <ingredient action="etaler" quantite="1"> aubergine </ingredient> , les <ingredient action="etaler" quantite="190 gramme"> champignons </ingredient> , les pointes d' <ingredient action="etaler"> asperges </ingredient> , le <ingredient action="etaler"> poivron </ingredient> en lamelles , les <ingredient action="etaler" quantite="6"> olives </ingredient> noires . <operation> saler </operation> et <operation ingredients="origan"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite=""> origan </ingredient> . faire <operation> cuire </operation> au four préchauffée à 240 <operation> ° </operation> c ( thermostat 8) environ 30 min . on peut <operation ingredients="fromage"> rajouter </operation> du <ingredient action="rajouter"> fromage </ingredient> <operation> râpé </operation> italien sur le dessus , ainsi que des <operation> fonds </operation> d' <ingredient> artichauts </ingredient> .
+</preparation>
+</recette>

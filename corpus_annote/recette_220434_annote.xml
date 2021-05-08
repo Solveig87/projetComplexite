@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220434">
+<titre>Poulet en cocotte aux courgettes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>2 belles courgettes</p>
+<p>2 belles tomates</p>
+<p>1 barquette d'allumettes de lardons (ou lardons)</p>
+<p>4/5 gros champignons de paris</p>
+<p>20 cl de crème</p>
+<p>1 oignon pour ceux qui aiment</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> , puis faire <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> . <operation ingredients="tomates"> ajouter </operation> les courgettes et <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en rondelles . laisser <operation> cuire </operation> à feu moyen environ 15 min en <operation> remuant </operation> souvent . <operation ingredients="lardons;champignons"> ajouter </operation> les <ingredient action="ajouter"> lardons </ingredient> et les <ingredient action="ajouter" quantite="4"> champignons </ingredient> <operation> émincés </operation> , et laisser <operation> cuire </operation> encore 15 min environ . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et laisser <operation> mijoter </operation> encore 10 min . j' ajoute des herbes et <ingredient> épices </ingredient> selon ce que j' ai sous la main .
+</preparation>
+</recette>

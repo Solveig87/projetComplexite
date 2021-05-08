@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39564">
+<titre>Crèmes au chocolat et à l'écorce d'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 g de poudre d'amandes</p>
+<p>20 g de farine</p>
+<p>100 g de sucre glace</p>
+<p>50 g de beurre</p>
+<p>2 oeufs</p>
+<p>20 g de poudre de cacao</p>
+<p>50 g d'amandes effilées</p>
+<p>6 à 7 morceaux d'écorces confites d'oranges</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . dans un saladier , <operation ingredients="amandes;oeufs;sucre;glace"> mélangez </operation> la <operation> poudre </operation> d' <ingredient action="mélanger" quantite="50 gramme"> amandes </ingredient> , les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> . <operation ingredients="farine;cacao"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 gramme"> farine </ingredient> , le <ingredient action="ajouter"> cacao </ingredient> et pour finir , le <ingredient quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="oranges"> coupez </operation> les écorces d' <ingredient action="couper"> oranges </ingredient> en petits cubes , puis <operation> ajoutez </operation> - les au <operation> mélange </operation> . prenez 3 petites coupelles , et <operation> versez </operation> le <operation> mélange </operation> dedans . <operation ingredients="amandes"> parsemez </operation> d' <ingredient action="parsemer" quantite="50 gramme"> amandes </ingredient> effilées , et <operation> placez </operation> au frigo . c' est exellent , mais <operation> mélangez </operation> bien , sinon il y aura des grumeaux . pour ceux qui adorent le <operation> mélange </operation> <ingredient> chocolat </ingredient> - orange , un ajout supplémentaire d' écorces d' <ingredient> orange </ingredient> peut-être <operation> effectué </operation> .
+</preparation>
+</recette>

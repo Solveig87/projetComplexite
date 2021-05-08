@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23202">
+<titre>Ramequins au roquefort</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 portions de Roquefort</p>
+<p>béchamel</p>
+<p>4 oeufs</p>
+<p>chapelure</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="béchamel"> faire </operation> une <ingredient action="faire" quantite=""> béchamel </ingredient> assez épaisse en y <operation ingredients="roquefort"> ajoutant </operation> le <ingredient action="ajouter"> roquefort </ingredient> . <operation ingredients="oeufs"> séparer </operation> le blanc et le jaune des <ingredient action="séparer" quantite="4"> oeufs </ingredient> , <operation> monter </operation> les blancs en neige . prendre 4 ramequins , les <operation ingredients="chapelure"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> , <operation ingredients="béchamel"> verser </operation> la <ingredient action="verser" quantite=""> béchamel </ingredient> au roquefort , <operation> recouvrir </operation> avec les blanc en neige , faire un petit trou pour y <operation> insérer </operation> le jaune pour chaque ramequin . surveiller le temps de cuisson pour ne pas que les jaunes d' <ingredient action="durcir" quantite="4"> oeufs </ingredient> <operation ingredients="oeufs"> durcissent </operation> . <ingredient> mangé </ingredient> avec du <ingredient> pain </ingredient> , c' est un délice !
+</preparation>
+</recette>

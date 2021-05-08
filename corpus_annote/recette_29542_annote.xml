@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29542">
+<titre>Sorbet aux pêches blanches</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pêches blanches</p>
+<p>300 g de sucre glace</p>
+<p>le jus d'1 citron</p>
+<p>3 blancs d'oeufs</p>
+<p>5 cl de kirsch</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> , <operation> dénoyauter </operation> et <operation ingredients="pêches"> mixer </operation> les <ingredient action="mixer" quantite="1 kilogramme"> pêches </ingredient> . <operation> monter </operation> les blancs en neige et les <operation ingredients="pêche;sucre;jus"> incorporer </operation> à la purée de <ingredient action="incorporer" quantite="1 kilogramme"> pêche </ingredient> , ainsi que le <ingredient action="incorporer" quantite="300 gramme"> sucre </ingredient> et le <ingredient action="incorporer" quantite=""> jus </ingredient> de citron . <operation> verser </operation> la préparation dans un <operation> moule </operation> et <operation> placer </operation> le dans le freezer pendant 1 h. <operation> ajouter </operation> le kirsch , <operation> mixer </operation> et <operation> remettre </operation> à <operation> glacer </operation> pendant 2 h.
+</preparation>
+</recette>

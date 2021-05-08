@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19007">
+<titre>Nouilles deux couleurs sauce à la crème et au veau</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>beurre</p>
+<p>1 petit oignon haché</p>
+<p>6 tranches de bacon coupées menu</p>
+<p>250 g de veau haché</p>
+<p>1/2 cuillère thé de sel</p>
+<p>1/4 cuillère thé de poivre</p>
+<p>1/8 cuillère thé d'origan sec</p>
+<p>500 g de champignons émincés</p>
+<p>1 tasse de crème 15 % épaisse</p>
+<p>2 cuillères soupe de persil frais haché</p>
+<p>175 g de nouilles aux oeufs cuites, égouttées et gardées au chaud</p>
+<p>175 g de nouilles vertes cuites, égouttées et gardées au chaud</p>
+<p>1/2 tasse de parmesan râpé</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="beurre"> fondre </operation> 1 / 4 tasse de <ingredient action="fondre"> beurre </ingredient> . <operation ingredients="oignon;bacon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et le <ingredient action="ajouter" quantite="6 tranche"> bacon </ingredient> et faire <operation> revenir </operation> en tournant souvent pendant 6 mn . <operation ingredients="veau"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> veau </ingredient> et <operation> cuire </operation> 5 mn en <operation> remuant </operation> constamment jusqu' à <operation> dorer </operation> . <operation ingredients="sel;champignons"> ajouter </operation> <ingredient action="ajouter"> sel </ingredient> , poivre et origan ainsi que les <ingredient action="ajouter" quantite="500 gramme"> champignons </ingredient> et faire <operation> cuire </operation> 5 mn . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> , persil et <operation> mélanger </operation> . <operation> réduire </operation> le feu et <operation> cuire </operation> 5 mn , ne pas laisser <operation> bouillir </operation> . <operation ingredients="nouilles"> placer </operation> les <ingredient action="placer" quantite="175 gramme+175 gramme"> nouilles </ingredient> dans un grand plat et les <operation> mélanger </operation> . <operation> verser </operation> la sauce dessus et <operation> mélanger </operation> le tout , servir avec le <ingredient> parmesan </ingredient> .
+</preparation>
+</recette>

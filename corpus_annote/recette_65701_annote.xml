@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65701">
+<titre>Poulet au curry, ananas et lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 filets de poulet</p>
+<p>1 oignon</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>1 boîte de lait de coco (40 cl)</p>
+<p>1 cuillère à soupe de curry</p>
+<p>1 boite d'ananas en morceaux ou un ananas frais</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;oignon;poulet"> couper </operation> en morceaux les <ingredient action="couper"> poivrons </ingredient> , l' <ingredient action="couper" quantite="1"> oignon </ingredient> et les filets de <ingredient action="couper"> poulet </ingredient> . dans une <operation> poêle </operation> faire <operation ingredients="huile"> revenir </operation> avec l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> l' oignon quelque minutes . puis <operation ingredients="poivrons"> mettre </operation> les <ingredient action="mettre"> poivrons </ingredient> jusqu' à qu' ils deviennent tendres , enfin <operation ingredients="poulet"> mettre </operation> le <ingredient action="mettre"> poulet </ingredient> . laisser <operation> mijoter </operation> 5 min , <operation ingredients="curry"> mettre </operation> le <ingredient action="mettre" quantite="1 cuillère à soupe"> curry </ingredient> et laisser à nouveau <operation> mijoter </operation> 5 min . metter le <ingredient> lait </ingredient> de coco et laisser <operation> mijoter </operation> 5 min . a la fin <operation ingredients="ananas"> mettre </operation> l' <ingredient action="mettre"> ananas </ingredient> et laisser 5 min . servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23600">
+<titre>Pâtes carbonara au canard</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes</p>
+<p>2 paquets de lardons de canard</p>
+<p>un oignon</p>
+<p>poivre</p>
+<p>1 pot de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;lardons;huile"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> , puis les <ingredient action="revenir"> lardons </ingredient> de canard dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . pendant , ce temps faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> . <operation ingredients="crème;canard;oignons"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> fraîche à la fin de la cuisson du <ingredient action="ajouter"> canard </ingredient> et des <ingredient action="ajouter" quantite="1"> oignons </ingredient> , laisser <operation> mijoter </operation> 5 mn à feux doux , <operation> poivrer </operation> . ne pas <operation> saler </operation> car les <ingredient> lardons </ingredient> de canard donnent un goût <operation> salé </operation> vous pouvez éventuellement <operation ingredients="curry"> ajouter </operation> une pointe de <ingredient action="ajouter"> curry </ingredient> dans la sauce .
+</preparation>
+</recette>

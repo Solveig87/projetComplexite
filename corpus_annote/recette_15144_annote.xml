@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15144">
+<titre>Frappes</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de beurre</p>
+<p>6 oeufs</p>
+<p>400 g de sucre</p>
+<p>1 paquet de levure chimique</p>
+<p>1 paquet de sucre vanillé</p>
+<p>500 g de farine</p>
+<p>le zeste d'un citron et d'une orange</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> faire </operation> une fontaine avec la <ingredient action="faire" quantite="500 gramme"> farine </ingredient> et <operation ingredients="beurre;oeufs;sucre;sel;citron;orange;levure;sucre"> mettre </operation> au millieu le <ingredient action="mettre" quantite="125 gramme"> beurre </ingredient> ramoli , les <ingredient action="mettre" quantite="6"> oeufs </ingredient> , le <ingredient action="mettre" quantite="400 gramme"> sucre </ingredient> , un peu de <ingredient action="mettre"> sel </ingredient> , du zeste de <ingredient action="mettre"> citron </ingredient> et d' <ingredient action="mettre"> orange </ingredient> , la <ingredient action="mettre"> levure </ingredient> et le <ingredient action="mettre" quantite="400 gramme"> sucre </ingredient> vanillé . <operation> mélanger </operation> le tout jusqu' à ce que vous obteniez une <ingredient> pâte </ingredient> ferme qui ne <operation> colle </operation> pas . <operation> fariner </operation> une planche et <operation ingredients="pâte"> étendre </operation> la <ingredient action="étendre"> pâte </ingredient> au rouleau . avec une roulette , <operation ingredients="pâte"> découper </operation> dans cette <ingredient action="découper"> pâte </ingredient> de larges rectangles de 5 cm , triangles ou rubans que l' on noue . faire <operation ingredients="huile"> frire </operation> dans de l' <ingredient action="frire"> huile </ingredient> très chaude . les <operation> égoutter </operation> et les <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="400 gramme"> sucre </ingredient> . ces frappes se <ingredient> mangent </ingredient> froides .
+</preparation>
+</recette>

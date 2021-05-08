@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39705">
+<titre>Brochettes antillaises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 ananas </p>
+<p>2 oranges</p>
+<p>3 bananes fermes</p>
+<p>1 citron</p>
+<p>250 g de sucre en poudre ou de cassonade</p>
+<p>1 cuillère à soupe de cannelle en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ananas"> couper </operation> l' <ingredient action="couper" quantite="1"> ananas </ingredient> en quatre , <operation> retirer </operation> l' écorce et la partie fibreuse centrale . <operation> couper </operation> la pulpe en gros dés . <operation ingredients="oranges"> peler </operation> les <ingredient action="peler" quantite="2"> oranges </ingredient> , et <operation> détacher </operation> les quartiers . <operation ingredients="bananes"> peler </operation> les <ingredient action="peler" quantite="3"> bananes </ingredient> , les <operation> couper </operation> en grosses rondelles , et les <operation ingredients="jus"> arroser </operation> d' un peu de <ingredient action="arroser"> jus </ingredient> de citron . <operation ingredients="sucre;cannelle"> verser </operation> le <ingredient action="verser" quantite="250 gramme"> sucre </ingredient> et la <ingredient action="verser" quantite="1 cuillère à soupe"> cannelle </ingredient> dans un saladier , <operation ingredients="fruits"> ajouter </operation> les <ingredient action="ajouter" quantite="1;2;3"> fruits </ingredient> et <operation> mélanger </operation> délicatement . <operation> enfiler </operation> les morceaux sur les brochettes , en alternant les <ingredient quantite="1;2;3"> fruits </ingredient> . faire <operation> dorer </operation> au barbecue , assez loin des braises , en <operation> retournant </operation> assez souvent . termine , agréablement , un repas au barbecue . un <ingredient> punch </ingredient> léger
+</preparation>
+</recette>

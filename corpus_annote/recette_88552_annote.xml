@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88552">
+<titre>Soupe de légumes à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 grosses pommes de terre</p>
+<p>6 carottes</p>
+<p>2 grosses courgettes</p>
+<p>100 g de petits pois</p>
+<p>150 g de champignons</p>
+<p>1 paquet de lardons (125 g)</p>
+<p>2 oignons</p>
+<p>ciboulette</p>
+<p>quelques brins de persil</p>
+<p>1 cube de bouillon de volaille</p>
+<p>gros sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;carrés"> découper </operation> les <ingredient action="découper" quantite="8;6;100 gramme;150 gramme;2"> légumes </ingredient> en petits <ingredient action="découper"> carrés </ingredient> et les faire <operation ingredients="bouillon"> cuire </operation> dans une marmite d' eau bouillante <operation> salée </operation> avec le <ingredient action="cuire"> bouillon </ingredient> de cube pendant environ 30 minutes . pendant ce temps , faire <operation ingredients="champignons;lardons"> revenir </operation> dans une <operation> poêle </operation> les <ingredient action="revenir" quantite="150 gramme"> champignons </ingredient> et les <ingredient action="revenir"> lardons </ingredient> puis les <operation ingredients="légumes"> mélanger </operation> aux <ingredient action="mélanger" quantite="8;6;100 gramme;150 gramme;2"> légumes </ingredient> dans la marmite . une fois les <ingredient quantite="8;6;100 gramme;150 gramme;2"> légumes </ingredient> <operation> cuits </operation> à point , <operation> mixer </operation> le tout . laisser refroidir , c' est prêt ! pour la dégustation , vous pouvez <operation ingredients="soupe;huile;crème;lait"> accompagner </operation> cette <ingredient action="accompagner"> soupe </ingredient> d' un peu d' <ingredient action="accompagner"> huile </ingredient> d' olive , de <ingredient action="accompagner"> crème </ingredient> ou de <ingredient action="accompagner"> lait </ingredient> selon votre goût .
+</preparation>
+</recette>

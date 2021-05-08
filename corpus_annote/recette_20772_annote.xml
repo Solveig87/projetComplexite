@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20772">
+<titre>Parmentier aux brocolis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tête de brocolis</p>
+<p>250 g de viande cuite (porc ou boeuf) </p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>75 g de gruyère</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire"> brocolis </ingredient> . pendant ce temps , faire <operation ingredients="oignons;ail"> revenir </operation> à la <operation> poêle </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et l' <ingredient action="revenir"> ail </ingredient> <operation> hachés </operation> . <operation ingredients="viande"> hacher </operation> la <ingredient action="hacher" quantite="250 gramme"> viande </ingredient> et les <operation> ajouter </operation> dans la <operation> poêle </operation> . après cuisson des <ingredient action="écraser"> brocolis </ingredient> , les <operation ingredients="brocolis"> écraser </operation> , y <operation ingredients="viande"> mêler </operation> la <ingredient action="mêler" quantite="250 gramme"> viande </ingredient> . <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite="75 gramme"> gruyère </ingredient> râpé , 2 cuillères à soupe de crème fraîche . <ingredient quantite=""> sel </ingredient> , poivre . <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="75 gramme"> gruyère </ingredient> et faire <operation> gratiner </operation> . ce plat est facile et permet d' utiliser des restes de <ingredient quantite="250 gramme"> viande </ingredient> . on peut y <operation ingredients="pommes"> ajouter </operation> des <ingredient action="ajouter"> pommes </ingredient> de terre .
+</preparation>
+</recette>

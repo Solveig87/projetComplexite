@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81115">
+<titre>Brochettes de poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>150 g de riz</p>
+<p>1 demi-poivron</p>
+<p>2 tomates (de taille moyenne)</p>
+<p>1 bel oignon</p>
+<p>1 cuillère à soupe de poudre Tandoori (mélange de plusieurs épices indiennes)</p>
+<p>1 yaourt nature</p>
+<p>25 cl de crème liquide</p>
+<p>le jus d'un citron jaune</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="yaourt;jus;crème;sel"> faire </operation> le <operation> mélange </operation> des ingrédients suivants : le <ingredient action="faire" quantite="1"> yaourt </ingredient> + le <ingredient action="faire" quantite=""> jus </ingredient> de citron + la <operation> poudre </operation> tandoori + la <ingredient action="faire" quantite="25 cl"> crème </ingredient> liquide ( + <ingredient action="faire"> sel </ingredient> et poivre ) . <operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="2"> escalopes </ingredient> de poulet en morceaux ( pas de morceaux trop petits ) . <operation ingredients="poulet"> mélanger </operation> les morceaux de <ingredient action="mélanger"> poulet </ingredient> dans la préparation crémeuse . le lendemain : <operation ingredients="poivron"> préparer </operation> des brochettes avec le <ingredient action="préparer"> poivron </ingredient> , la <ingredient quantite="2"> tomate </ingredient> , l' <ingredient quantite="1"> oignon </ingredient> et le <ingredient> poulet </ingredient> . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="150 gramme"> riz </ingredient> et y <operation> mélanger </operation> ce qu' il reste de la <ingredient quantite="25 cl"> crème </ingredient> dans laquelle a <operation ingredients="poulet"> macéré </operation> le <ingredient action="macérer"> poulet </ingredient> . entre temps faire <operation ingredients="poulet"> cuire </operation> les brochettes de <ingredient action="cuire"> poulet </ingredient> . c’ est un délice . . . bon appétit
+</preparation>
+</recette>

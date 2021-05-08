@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73060">
+<titre>La vraie recette de la Panna Cotta</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>80 cl de crème liquide</p>
+<p>20 cl de lait</p>
+<p>80 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>15 g de gélatine en poudre </p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="sucre;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> avec le <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> vanillé , dans la <ingredient quantite="80 cl"> crème </ingredient> , à feu modéré et sans faire <operation> bouillir </operation> . <operation ingredients="gélatine"> ramollir </operation> pendant 5 min la <ingredient action="ramollir" quantite="15 gramme"> gélatine </ingredient> dans de l' eau froide . <operation ingredients="crème;gélatine"> ajouter </operation> à la <ingredient action="ajouter" quantite="80 cl"> crème </ingredient> le lait froid , ainsi que la <ingredient action="ajouter" quantite="15 gramme"> gélatine </ingredient> . bien <operation> mélanger </operation> et ne pas faire <operation> bouillir </operation> . <operation> verser </operation> dans le récipient et laisser <operation> reposer </operation> au frigo au moins 10 h.
+</preparation>
+</recette>

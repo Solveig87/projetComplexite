@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27215">
+<titre>Moules divines</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 litres de moules</p>
+<p>2 oignons</p>
+<p>250 g de lardons</p>
+<p>1 boîte de concentré de tomate</p>
+<p>20 cl de crème</p>
+<p>ail</p>
+<p>persil</p>
+<p>thym</p>
+</ingredients>
+<preparation>
+<operation ingredients="thym"> mettre </operation> les <operation> moules </operation> dans une grande casserole d' eau avec une branche de <ingredient action="mettre" quantite=""> thym </ingredient> , faire <operation> bouillir </operation> ; une fois que les <operation> moules </operation> baillent , les <operation> réserver </operation> ainsi que l' eau de cuisson . faire <operation ingredients="oignons;lardons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> et les <ingredient action="revenir" quantite="250 gramme"> lardons </ingredient> . <operation ingredients="tomates;jus"> rajouter </operation> le <operation> concentré </operation> de <ingredient action="rajouter"> tomates </ingredient> et le <ingredient action="rajouter"> jus </ingredient> de cuisson . faire <operation> réduire </operation> à petit feu . <operation ingredients="crème"> rajouter </operation> les <operation> moules </operation> , la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> , le <ingredient action="hacher" quantite=""> persil </ingredient> <operation ingredients="persil"> haché </operation> et l' <ingredient action="presser" quantite=""> ail </ingredient> <operation ingredients="ail"> pressé </operation> . bien <operation> mélanger </operation> . servir .
+</preparation>
+</recette>

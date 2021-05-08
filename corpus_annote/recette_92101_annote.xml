@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92101">
+<titre>Tomates fraîches d'été</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates à farcir- une boule de mozzarella- 4 oeufs-gruyère rapé- sel, poivre-huile d'olive</p>
+</ingredients>
+<preparation>
+<operation> chauffer </operation> le four à 180 <operation> ° </operation> . <operation ingredients="tomates"> vider </operation> les <ingredient action="vider" quantite="4"> tomates </ingredient> , <operation ingredients="oeuf;mozzarella"> mettre </operation> l' <ingredient action="mettre"> oeuf </ingredient> cru dedans et par dessus une tranche de <ingredient action="mettre"> mozzarella </ingredient> , <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer"> gruyère </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="huile"> mettre </operation> un filet d' <ingredient action="mettre"> huile </ingredient> d' olive . <operation> enfourner </operation> 20 min .
+</preparation>
+</recette>

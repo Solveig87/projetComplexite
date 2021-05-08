@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59592">
+<titre>Croque-monsieur de la mer</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie</p>
+<p>1 tranche de saumon fumé</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 rondelle de tomate</p>
+<p>20 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;moutarde"> badigonner </operation> légèrement les tranches de <ingredient action="badigonner" quantite="2 tranche"> pain </ingredient> de mie avec la <ingredient action="badigonner" quantite="1 cuillère à café"> moutarde </ingredient> . <operation ingredients="saumon;fumé;tomate"> déposer </operation> une tranche de <ingredient action="déposer"> saumon </ingredient> <ingredient action="déposer" quantite="1 tranche"> fumé </ingredient> , une rondelle de <ingredient action="déposer"> tomate </ingredient> , <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="20 gramme"> gruyère </ingredient> . <operation ingredients="pain"> recouvrir </operation> de <ingredient action="recouvrir" quantite="2 tranche"> pain </ingredient> et faire à <operation> cuire </operation> 3 minutes au croque - monsieur . bon appétit ! ! !
+</preparation>
+</recette>

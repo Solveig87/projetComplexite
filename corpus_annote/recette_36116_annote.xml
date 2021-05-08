@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36116">
+<titre>Riz au mouton de ma grand-mère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 épaule d'agneau en morceaux (environ 1,2 kg)</p>
+<p>5 gousses d'ail</p>
+<p>3 échalotes</p>
+<p>1 grosse boîte de tomates pelées</p>
+<p>1 verre de vin blanc sec</p>
+<p>thym</p>
+<p>piment</p>
+<p>1 verre de bouillon de boeuf</p>
+<p>1 cuillère à café de fond de veau</p>
+<p>riz (environ 250-300 g)</p>
+<p>safran</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="agneau;huile"> revenir </operation> les morceaux d' <ingredient action="revenir"> agneau </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="gousses;échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> gousses </ingredient> d' ail en chemise ( entières <ingredient action="peler" quantite="1;1;;1 cuillère à café"> non </ingredient> <operation ingredients="non"> pelées </operation> ) et les <ingredient action="ajouter" quantite="3"> échalotes </ingredient> <operation> émincées </operation> . lorsque c' est <operation> cuit </operation> , sortir le tout et <operation ingredients="vinaigre"> déglacer </operation> la cocotte au <ingredient action="déglacer"> vinaigre </ingredient> . <operation ingredients="tomates;vin;sel;poivre;thym"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation ingredients="jus"> pelées </operation> avec leur <ingredient action="peler"> jus </ingredient> , le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc , du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> , le <ingredient action="ajouter" quantite=""> thym </ingredient> , du piment . <operation> cuire </operation> 10 min . <operation ingredients="bouillon;veau"> mouiller </operation> à hauteur avec de l' eau , le <ingredient action="mouiller" quantite="1 verre"> bouillon </ingredient> de boeuf et le fond de <ingredient action="mouiller"> veau </ingredient> <operation> dilué </operation> dans 1 verre d' eau . <operation> cuire </operation> 45 min . <operation ingredients="riz;safran"> ajouter </operation> le <ingredient action="ajouter" quantite=""> riz </ingredient> et le <ingredient action="ajouter" quantite=""> safran </ingredient> . terminer de <operation> cuire </operation> 15 à 20 min . peut se <operation> préparer </operation> d' avance . se réchauffe très bien .
+</preparation>
+</recette>

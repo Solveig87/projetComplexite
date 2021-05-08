@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88330">
+<titre>Riz à l'amande danois</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 cl d'eau</p>
+<p>60 g de riz rond</p>
+<p>40 cl de lait entier</p>
+<p>1/2 bâton de vanille ou 2 sachets de sucre vanillé</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>10 amandes épluchées et coupées en petits morceaux</p>
+<p>1 amande entière</p>
+<p>30 cl de crème liquide</p>
+<p>1 coulis de cerise</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> l' eau dans une casserole à fond épais . <operation ingredients="riz"> verser </operation> le <ingredient action="verser" quantite="60 gramme"> riz </ingredient> et <operation> remuer </operation> pendant 2 minutes ( l' eau va s' évaporer ) . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="40 cl"> lait </ingredient> et le bâton de vanille . <operation> porter </operation> à <operation> ébullition </operation> en <operation> remuant </operation> , puis laisser <operation> cuire </operation> à feu doux , à <operation> couvert </operation> , pendant 35 minutes environ en <operation> remuant </operation> de temps en temps . laisser refroidir . <operation> mélanger </operation> dans le <ingredient action="cuire" quantite="60 gramme"> riz </ingredient> <operation ingredients="riz;sucre;amandes"> cuit </operation> , le <ingredient action="cuire" quantite="2 cuillère à soupe"> sucre </ingredient> et les <ingredient action="cuire" quantite="1"> amandes </ingredient> . <operation ingredients="crème;riz"> monter </operation> la <ingredient action="monter" quantite="30 cl"> crème </ingredient> à <operation> fouetter </operation> et la <operation> mélanger </operation> avec le <ingredient action="monter" quantite="60 gramme"> riz </ingredient> . <operation> mettre </operation> au frais et servir dans des coupelles avec un coulis à la <ingredient> cerise </ingredient> chaud <operation> versé </operation> par dessus .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50231">
+<titre>Tomates farcies au thon minceur</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 Tomates</p>
+<p>1 boîte de thon de 130 g (poids égoutté)</p>
+<p>100 g de fromage blanc à 0%</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> videz </operation> les <ingredient action="vider" quantite="4"> tomates </ingredient> : <operation> couper </operation> la partie supérieure . dans un bol , <operation ingredients="fromage;huile"> fouettez </operation> le <ingredient action="fouetter" quantite="100 gramme"> fromage </ingredient> blanc avec l' <ingredient action="fouetter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive puis <operation ingredients="sel;poivre"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation ingredients="thon"> incorporez </operation> le <ingredient action="incorporer"> thon </ingredient> <operation> émietté </operation> . <operation ingredients="tomates"> farcissez </operation> les <ingredient action="farcir" quantite="4"> tomates </ingredient> de cette préparation et servez frais . pour donner plus de goût , vous pouvez <operation ingredients="épices"> rajouter </operation> des <ingredient action="rajouter" quantite="1 cuillère à soupe;;"> épices </ingredient> : curry , cumin ou herbes de provence .
+</preparation>
+</recette>

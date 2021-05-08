@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95683">
+<titre>Tarte moutarde, poulet au curry</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>4 tomates</p>
+<p>3 blancs de poulet</p>
+<p>20 cl de crème fraiche</p>
+<p>2 oeufs</p>
+<p>3 cuillères à soupe de lait</p>
+<p>1 oignon</p>
+<p>3 cuillères à soupe de moutarde</p>
+<p>curry</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;curry;oignon"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> avec du <ingredient action="revenir" quantite=""> curry </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> , <operation ingredients="moutarde"> mettre </operation> la <ingredient action="mettre" quantite="3 cuillère à soupe"> moutarde </ingredient> , <operation ingredients="poulet"> repartir </operation> le <ingredient action="repartir"> poulet </ingredient> sur le fond de la pate . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en rondelles et les <operation ingredients="poulet"> disposer </operation> sur le <ingredient action="disposer"> poulet </ingredient> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette , <operation ingredients="lait"> ajouter </operation> la creme fraiche et le <ingredient action="ajouter" quantite="3 cuillère à soupe"> lait </ingredient> puis <operation> saler </operation> et <operation> poivrer </operation> . <operation> mettre </operation> au four à 200 <operation> ° </operation> et <operation> cuire </operation> environ 40 min
+</preparation>
+</recette>

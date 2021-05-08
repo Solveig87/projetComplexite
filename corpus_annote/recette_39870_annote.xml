@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39870">
+<titre>Mille feuilles de miettes de crabe à la tomate et à l'oeuf</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 boîtes de miettes de crabe</p>
+<p>4 tomates</p>
+<p>4 oeufs</p>
+<p>un peu de mayonnaise</p>
+<p>4 cuillères à soupe de vinaigre balsamique</p>
+<p>8 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel, poivre </p>
+<p>pétales de fleurs de ciboulette (pour la déco)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> dans de l' eau bouillante , pendant 10 mn . <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="4"> tomates </ingredient> , et les <operation> couper </operation> en tranches fines . <operation ingredients="oeufs"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> durs , en tranches fines également . dans un bol , bien <operation ingredients="crabe;mayonnaise"> mélanger </operation> les miettes de <ingredient action="mélanger"> crabe </ingredient> avec un peu de <ingredient action="mélanger"> mayonnaise </ingredient> ( mais pas trop ! ) . dans un autre bol , <operation ingredients="sel;poivre"> verser </operation> un peu de <ingredient action="verser" quantite=""> sel </ingredient> , de <ingredient action="verser" quantite=""> poivre </ingredient> , la <ingredient quantite="1 cuillère à soupe"> moutarde </ingredient> , le <ingredient quantite="4 cuillère à soupe"> vinaigre </ingredient> balsamique , et l' <ingredient quantite="8 cuillère à soupe"> huile </ingredient> . dans une assiette , <operation ingredients="tomate;oeuf"> disposer </operation> une tranche de <ingredient action="disposer" quantite="4"> tomate </ingredient> , une cuillère à soupe de crabe , et une tranche d' <ingredient action="disposer" quantite="4"> oeuf </ingredient> dur . renouveler l' opération , et terminer par une rondelle de <ingredient quantite="4"> tomate </ingredient> . <operation ingredients="mille"> verser </operation> quelques gouttes de vinaigrette , par dessus le <ingredient action="verser"> mille </ingredient> feuilles et autour . <operation ingredients="ciboulette"> parsemer </operation> de quelques fleurs de <ingredient action="parsemer"> ciboulette </ingredient> . entrée très fraîche , et qui <operation> présente </operation> très bien .
+</preparation>
+</recette>

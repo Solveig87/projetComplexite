@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14184">
+<titre>Paté au poulet</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>1/4 de tasse (100 g) de piment vert et de piment rouge haché</p>
+<p>1/4 tasse (100 g) de carottes en dés</p>
+<p>1/2 tasse (200 g) d'oignon haché</p>
+<p>1/2 tasse (200 g) de céleri haché</p>
+<p>1/4 (100 g) de tasse de pommes de terre en dés</p>
+<p>Sel et poivre</p>
+<p>3 cuillères à café de beurre</p>
+<p>3 cuillères à café de farine</p>
+<p>1 boîte de crème de poulet (ou de champignons ou de céleri)</p>
+<p>1 poulet cuit désossé</p>
+<p>1 boîte de bouillon de poulet</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;bouillon"> cuire </operation> les <ingredient action="cuire"> légumes </ingredient> 5 minutes dans le <ingredient action="cuire"> bouillon </ingredient> de poulet . dans une autre casserole , <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="3 cuillère à café"> beurre </ingredient> et <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à café"> farine </ingredient> . brasser et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> de poulet . <operation> cuire </operation> en brassant . <operation ingredients="légumes;poulet"> mêler </operation> avec les <ingredient action="mêler"> légumes </ingredient> et le <ingredient action="mêler" quantite="1"> poulet </ingredient> cuit . <operation> assaisonner </operation> . foncer un plat d' une abaisse de <ingredient quantite="1"> pâte </ingredient> et y <operation ingredients="poulet"> déposer </operation> le <operation> mélange </operation> du <ingredient action="déposer" quantite="1"> poulet </ingredient> . <operation ingredients="pâte"> recouvrir </operation> d' une autre <ingredient action="recouvrir" quantite="1"> pâte </ingredient> . <operation ingredients="oeuf"> badigeonner </operation> d' un <ingredient action="badigeonner"> oeuf </ingredient> <operation> battu </operation> . <operation> cuire </operation> 20 mn à 425 <operation> ° </operation> f ( 220 <operation> ° </operation> c ) , puis 30 mn à 350 <operation> ° </operation> f ( 180 <operation> ° </operation> c ) .
+</preparation>
+</recette>

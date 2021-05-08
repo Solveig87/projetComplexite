@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20444">
+<titre>Haricots cocos vinaigrette aux olives</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de haricots cocos frais écossés</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à soupe de ciboulette hachée</p>
+<p>4 tomates</p>
+<p>100 g d'olives noires</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> haricots </ingredient> à l' eau bouillante pendant 15 min environ en <operation> salant </operation> à mi-cuisson . <operation> egouttez </operation> - les et laissez - les refroidir . <operation ingredients="huile;vinaigre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="3 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> , l' <ingredient action="piler"> ail </ingredient> <operation ingredients="ail;ciboulette;sel;poivre"> pilé </operation> , la <ingredient action="piler" quantite="2 cuillère à soupe"> ciboulette </ingredient> , du <ingredient action="piler" quantite=""> sel </ingredient> et du <ingredient action="piler"> poivre </ingredient> . <operation ingredients="haricots;olives"> melez </operation> les <ingredient action="melez" quantite="400 gramme"> haricots </ingredient> aux tomates tranchées et aux <ingredient action="melez" quantite="100 gramme"> olives </ingredient> puis <operation> arrosez </operation> de vinaigrette .
+</preparation>
+</recette>

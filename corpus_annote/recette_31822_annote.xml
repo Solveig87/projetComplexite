@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31822">
+<titre>Gâteau aux raisins secs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>225 g de farine</p>
+<p>1 pincée de sel</p>
+<p>1 paquet de levure</p>
+<p>100 g de beurre ramolli</p>
+<p>100 g de sucre</p>
+<p>125 g de raisins secs</p>
+<p>2 gros oeufs (ou 3 petits) </p>
+<p>1/2 verre de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="sel;farine;levure"> mêlez </operation> le <ingredient action="mêler" quantite="1 pincée"> sel </ingredient> , la <ingredient action="mêler" quantite="225 gramme"> farine </ingredient> et la <ingredient action="mêler"> levure </ingredient> . <operation ingredients="beurre;sucre;raisins;oeufs"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , les <ingredient action="ajouter" quantite="125 gramme"> raisins </ingredient> puis les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> . <operation ingredients="lait"> ajoutez </operation> petit à petit le <ingredient action="ajouter"> lait </ingredient> pour obtenir une <ingredient> pâte </ingredient> homogène . <operation> versez </operation> dans un <operation> moule </operation> préalablement beurré ou <operation> chemisé </operation> de papier sulfurisé . <operation> lissez </operation> le dessus . faites <operation> cuire </operation> à 200 <operation> ° </operation> c pendant 3 / 4 d' heure maximum . on peut remplacer les <ingredient quantite="125 gramme"> raisins </ingredient> secs par des <ingredient quantite="125 gramme"> fruits </ingredient> <ingredient> confits </ingredient> . thé
+</preparation>
+</recette>

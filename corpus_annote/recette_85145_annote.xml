@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85145">
+<titre>Nuggets poulet sésame</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poulet (environ 400 g)- 1 gros oeuf (ou 2 petits)- 3 cuillères à soupe de graines de sésame- miettes de pain d'épices rassi (ou passé au four) : facultatif- chapelure- Sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> coupez </operation> les filets de <ingredient action="couper"> poulet </ingredient> en dés . <operation ingredients="chapelure;sésame;pain"> mélangez </operation> la <ingredient action="mélanger"> chapelure </ingredient> , le <ingredient action="mélanger"> sésame </ingredient> et quelques miettes de <ingredient action="mélanger"> pain </ingredient> d' épices . <operation ingredients="œuf"> battez </operation> l' <ingredient action="battre"> œuf </ingredient> . <operation ingredients="poulet"> trempez </operation> les dés de <ingredient action="trempez"> poulet </ingredient> et <operation ingredients="chapelure"> roulez </operation> - les dans la préparation de <ingredient action="rouler"> chapelure </ingredient> . faites <operation> frire </operation> à la <operation> poêle </operation> . <operation> salez </operation> et <operation> poivrez </operation> . c' est fini ! laissez les enfants en <operation> cuisine </operation> !
+</preparation>
+</recette>

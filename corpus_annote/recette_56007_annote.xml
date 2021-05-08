@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56007">
+<titre>Petite douceur mangue coco</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 mangue bien mûre</p>
+<p>25 cl de lait de coco</p>
+<p>30 g de tapioca</p>
+<p>4 cuillère à soupe pleines de sucre glace</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;glace;lait"> mélanger </operation> le <ingredient action="mélanger"> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> et le <ingredient action="mélanger" quantite="25 cl"> lait </ingredient> de coco dans une petite casserole puis <operation ingredients="tapioca"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> tapioca </ingredient> et <operation> cuire </operation> à feu doux 10 à 15 minutes en <operation> remuant </operation> ( très ) souvent . <operation> mettre </operation> la préparation dans un bol au réfrigerateur . <operation ingredients="mangue"> eplucher </operation> la <ingredient action="eplucher" quantite="1"> mangue </ingredient> et la <operation> couper </operation> en petits dès avant de la <operation> mettre </operation> au réfrigerateur ( vous pouver aussi la <operation> mettre </operation> 1 h au réfrigérateur avant de la <operation> découper </operation> , l' important c' est qu' elle soit bien fraîche ) . <operation ingredients="mangue"> mettre </operation> ensuite les petits morceaux de <ingredient action="mettre" quantite="1"> mangue </ingredient> dans un verre transparent et <operation ingredients="lait"> recouvrir </operation> de <ingredient action="recouvrir" quantite="25 cl"> lait </ingredient> de coco au tapioca . déguster bien frais .
+</preparation>
+</recette>

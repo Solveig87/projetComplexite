@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81804">
+<titre>Boulettes à la sauce au champignons de Jérémy</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de viande hachée (environ)</p>
+<p>25 cl de crème fraîche</p>
+<p>champignons (conserves ou frais)</p>
+<p>1 gros oignon</p>
+<p>150 g de lardons fumés</p>
+</ingredients>
+<preparation>
+tout d' abord , <operation ingredients="viande"> composez </operation> les boulettes de <ingredient action="composer" quantite="800 gramme"> viande </ingredient> hachée et <operation> mettez </operation> - les sur une assiette . <operation> beurrez </operation> votre <operation> poêle </operation> et <operation> mettez </operation> vos boulettes dedans . <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="25 cl"> crème </ingredient> fraîche sur les boulettes . <operation ingredients="oignon"> coupez </operation> votre <ingredient action="couper" quantite="1"> oignon </ingredient> . <operation ingredients="champignons;lardons;fumés"> préparez </operation> les <ingredient action="préparer" quantite=""> champignons </ingredient> et les <ingredient action="préparer"> lardons </ingredient> <ingredient action="préparer" quantite="150 gramme"> fumés </ingredient> . <operation> versez </operation> le tout dans la <operation> poêle </operation> . après environ 1 . 15 min , <operation> coupez </operation> le feu et servez . vous pouvez <operation ingredients="pommes"> accompagner </operation> les boulettes avec des <ingredient action="accompagner"> pommes </ingredient> de terre que vous pouvez <operation> cuire </operation> avec la préparation . du blanc
+</preparation>
+</recette>

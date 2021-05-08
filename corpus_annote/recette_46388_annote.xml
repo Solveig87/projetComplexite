@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46388">
+<titre>Compote de potiron</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>580 g de potiron, poids brut (ou 400 g sans la peau)</p>
+<p>50 g de sucre en poudre (ou de l'édulcorant, convenant à la cuisson)</p>
+<p>200 g de jus d'orange</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron"> epluchez </operation> le <ingredient action="eplucher" quantite="580 gramme"> potiron </ingredient> , et <operation ingredients="chair"> coupez </operation> la <ingredient action="couper"> chair </ingredient> en morceaux . faites <operation ingredients="potiron;jus;sucre"> cuire </operation> le <ingredient action="cuire" quantite="580 gramme"> potiron </ingredient> avec le <ingredient action="cuire" quantite="200 gramme"> jus </ingredient> d' orange et le <ingredient action="cuire" quantite="50 gramme"> sucre </ingredient> , pendant 20 min , à feu doux et à <operation> couvert </operation> , en <operation> remuant </operation> de temps en temps . <operation> ôtez </operation> le couvercle et poursuivez la cuisson , en <operation> remuant </operation> de temps en temps , durant 10 min supplémentaires . <operation> passez </operation> au <operation> mixer </operation> et <operation ingredients="compote"> versez </operation> la <ingredient action="verser"> compote </ingredient> dans un compotier ou dans 5 petits ramequins individuels <operation> remplis </operation> aux 2 / 3 . laissez refroidir , <operation ingredients="pain"> réservez </operation> au réfrigérateur et dégustez froid ( seul ou sur du <ingredient action="réserver"> pain </ingredient> ) . c' est vraiment délicieux et très sain !
+</preparation>
+</recette>

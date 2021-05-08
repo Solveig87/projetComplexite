@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83954">
+<titre>Chou vert pomme de terre et fromage à raclette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre moyennes</p>
+<p>1 chou vert</p>
+<p>300 g de fromage à raclette</p>
+<p>75 g de lardons fumés allumette</p>
+<p>1 gousse d'ail</p>
+<p>gruyère râpé</p>
+<p>sel</p>
+<p>poivre ou 5 baies à moudre</p>
+</ingredients>
+<preparation>
+préparation de la chouflette : faire <operation ingredients="pommes;chou"> cuire </operation> à la vapeur les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre et le <ingredient action="cuire" quantite="1"> chou </ingredient> . pendant ce temps , faire <operation ingredients="lardons;ail"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> avec l' <ingredient action="revenir"> ail </ingredient> finement haché . dans un plat à gratin , étaler les <ingredient quantite="8"> pommes </ingredient> de terre <operation> coupées </operation> en dés pour en <operation> garnir </operation> le fond . <operation ingredients="fromage"> recouvrir </operation> ensuite d' une première couche de <ingredient action="recouvrir" quantite="300 gramme"> fromage </ingredient> à raclette ( fines lamelles ) . étaler alors les <ingredient> lardons </ingredient> , puis <operation ingredients="chou"> tapisser </operation> le tout de feuilles de <ingredient action="tapisser" quantite="1"> chou </ingredient> ( 2 couches recouvrantes ) . enfin , <operation ingredients="fromage"> découper </operation> à nouveau des lamelles de <ingredient action="découper" quantite="300 gramme"> fromage </ingredient> à raclette à <operation ingredients="chou"> disposer </operation> sur le <ingredient action="disposer" quantite="1"> chou </ingredient> , que l' on <operation ingredients="gruyère"> recouvrira </operation> de <ingredient action="recouvrir" quantite=""> gruyère </ingredient> râpé ( pour <operation> gratiner </operation> ) . <operation> saler </operation> et <operation> poivrer </operation> à votre guise durant la préparation . <operation> mettre </operation> au four à 200 <operation> ° </operation> c ( thermostat 6 / 7 ) pendant 20 min . la chouflette peut se servir avec une <ingredient> salade </ingredient> verte ainsi qu' une chiffonnade de <ingredient> jambon </ingredient> cru . rouge ( <ingredient> côte </ingredient> du rhône type crozes hermitage )
+</preparation>
+</recette>

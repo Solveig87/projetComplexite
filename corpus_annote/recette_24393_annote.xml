@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24393">
+<titre>Quiche aux poireaux</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée ou feuilletée</p>
+<p>250 g de poireaux</p>
+<p>25 cl de crème fraîche</p>
+<p>20 cl de lait</p>
+<p>4 oeufs</p>
+<p>50 g de beurre</p>
+<p>noix de muscade</p>
+<p>chapelure</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="poireaux"> coupez </operation> les blancs de <ingredient action="couper" quantite="250 gramme"> poireaux </ingredient> en tronçons . faites - les <operation ingredients="beurre"> cuire </operation> dans une sauteuse <operation> couverte </operation> avec le <ingredient action="cuire" quantite="50 gramme"> beurre </ingredient> et un peu d' eau environ 20 minutes . une fois <operation> cuits </operation> , <operation> travaillez </operation> - les en purée à la fourchette . <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> , piquez - la à la fourchette . <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> et étalez la purée de <ingredient quantite="250 gramme"> poireaux </ingredient> . <operation ingredients="oeufs;crème;lait;muscade"> battez </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec la <ingredient action="battre" quantite="25 cl"> crème </ingredient> et le <ingredient action="battre" quantite="20 cl"> lait </ingredient> , sel , poivre et une pincée de <ingredient action="battre"> muscade </ingredient> . <operation ingredients="poireaux"> versez </operation> sur les <ingredient action="verser" quantite="250 gramme"> poireaux </ingredient> et <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> . faites <operation> cuire </operation> 40 min au four préchauffé à 220 <operation> ° </operation> c ( thermostat . 8) .
+</preparation>
+</recette>

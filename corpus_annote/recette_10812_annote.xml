@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10812">
+<titre>Misérable</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la meringue : </p>
+<p>6 blancs d'oeufs</p>
+<p>1 pincée de sel</p>
+<p>180 g d'amandes en poudre</p>
+<p>180 g de sucre semoule</p>
+<p>Pour la crème : </p>
+<p>3 jaunes d'oeufs</p>
+<p>1 cuillère à soupe de café</p>
+<p>1 cuillère à soupe d'eau</p>
+<p>100 g de sucre impalpable</p>
+<p>200 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sel"> fouettez </operation> les blancs d' <ingredient action="fouetter"> oeufs </ingredient> fermement avec le <ingredient action="fouetter" quantite="1 pincée"> sel </ingredient> en <operation ingredients="amandes;sucre"> incorporant </operation> les <ingredient action="incorporer" quantite="180 gramme"> amandes </ingredient> et le <ingredient action="incorporer" quantite="180 gramme+100 gramme"> sucre </ingredient> . <operation> mettez </operation> cette meringue dans une <operation> poche </operation> à douille et <operation> déposez </operation> - la sur des <operation> plaques </operation> <operation> beurrées </operation> et <operation> farinées </operation> en <operation> formant </operation> 2 disques de 22 cm de diamètre . faites <operation> cuire </operation> ces disques à four doux ( 100 <operation> ° </operation> c ) pendant une heure . d' autre part , <operation ingredients="crème"> préparez </operation> la <ingredient action="préparer"> crème </ingredient> . <operation ingredients="café"> délayez </operation> le <ingredient action="délayez" quantite="1 cuillère à soupe"> café </ingredient> dans l' eau . dans un poelon , <operation ingredients="oeufs;sucre;café"> mettez </operation> les jaunes d' <ingredient action="mettre"> oeufs </ingredient> , le <ingredient action="mettre" quantite="180 gramme+100 gramme"> sucre </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à soupe"> café </ingredient> . <operation> placez </operation> le récipient au bain - marie et <operation> fouettez </operation> au fouet électrique jusqu' à ce que le <operation> mélange </operation> devienne <operation> lisse </operation> . <operation> retirez </operation> du feu , laissez refroidir puis <operation ingredients="beurre"> incorporez </operation> le <ingredient action="incorporer" quantite="200 gramme"> beurre </ingredient> par parcelles , toujours au fouet électrique . <operation ingredients="crème"> garnissez </operation> les disques de meringue de <ingredient action="garnir"> crème </ingredient> en les <operation> superposant </operation> . <operation> mettez </operation> au frais . <operation ingredients="sucre;glace"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="180 gramme+100 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> au moment de servir .
+</preparation>
+</recette>

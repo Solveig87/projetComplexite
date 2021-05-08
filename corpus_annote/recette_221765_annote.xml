@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221765">
+<titre>Lasagnes aux fruits rouges</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour les lasagnes :</p>
+<p>600 g de fruits rouges (surgelés)</p>
+<p>4x3 plaques de lasagnes</p>
+<p>2 à 3 cuillers à soupe de sucre glace (selon préférence)</p>
+<p>1 à 2 cuillère à café de miel (selon préférence)Pour le crumble :</p>
+<p>100 g de farine</p>
+<p>50 g de beurre salé</p>
+<p>50 g de sucre </p>
+<p>1 jaune d’œuf</p>
+</ingredients>
+<preparation>
+préchauffer le four tout le temps de la préparation . faire <operation ingredients="fruits"> chauffer </operation> les <ingredient action="chauffer" quantite="600 gramme"> fruits </ingredient> rouges , y <operation ingredients="sucre;glace;miel"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> et le <ingredient action="ajouter"> miel </ingredient> . pendant ce temps -là , <operation> préparer </operation> le crumble en <operation ingredients="sucre"> mélangeant </operation> le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> , la <ingredient quantite="100 gramme"> farine </ingredient> , le <ingredient quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> et le jaune d’ <ingredient> œuf </ingredient> ( avec un fouet électrique c' est plus efficace ) . le blanc de l’ <ingredient> œuf </ingredient> peut-être <operation ingredients="fruits"> ajouté </operation> aux <ingredient action="ajouter" quantite="600 gramme"> fruits </ingredient> rouges pour éviter de le perdre . ensuite , dans un plat allant au four , alterner une couche de <ingredient quantite="600 gramme"> fruits </ingredient> avec une couche de lasagnes ( commencer par les <ingredient quantite="600 gramme"> fruits </ingredient> pour éviter aux lasagnes de <operation> coller </operation> dans le fond du plat ! ) . il faut 4 étages minimum pour plus tenue dans l' assiette lors du service . terminer par une couche de <ingredient quantite="600 gramme"> fruits </ingredient> rouges et <operation ingredients="pâte"> saupoudrer </operation> de <ingredient action="saupoudrer"> pâte </ingredient> à crumble puis <operation> enfourner </operation> pour environ 30 min à 100 <operation> ° </operation> c. thermostat 4 ( tout dépend du four . . . ) . bon tiède mais étonnamment , c' est meilleur froid ou à température ambiante ! <ingredient> café </ingredient> noir ou <ingredient> jus </ingredient> de fruits jaunes
+</preparation>
+</recette>

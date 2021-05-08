@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66260">
+<titre>Colin aux piments</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 darnes de colin</p>
+<p>3 oignons</p>
+<p>2 piments forts</p>
+<p>4 tomates</p>
+<p>2 poivrons</p>
+<p>100 g de farine</p>
+<p>huile d'arachide</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="colin"> épongez </operation> les darnes de <ingredient action="éponger"> colin </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> - les . <operation ingredients="farine"> passez </operation> - les légèrement dans la <ingredient action="passer" quantite="100 gramme"> farine </ingredient> et faites - les <operation ingredients="huile"> dorer </operation> dans une <operation> poêle </operation> avec un peu d’ <ingredient action="dorer" quantite=""> huile </ingredient> . <operation> egouttez </operation> et <operation> réservez </operation> . faire <operation ingredients="oignons;poivrons"> fondre </operation> les <ingredient action="fondre" quantite="3"> oignons </ingredient> et les <ingredient action="fondre" quantite="2"> poivrons </ingredient> <operation> émincés </operation> . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> épluchées </operation> , <operation> égrainées </operation> et <operation> coupées </operation> en petits morceaux et les piments entiers . laissez <operation> cuire </operation> 10 minutes . <operation> salez </operation> , <operation> poivrez </operation> , <operation> mouillez </operation> avec 1 verre d’ eau . faites <operation> cuire </operation> doucement à <operation> couvert </operation> pendant 10 minutes puis <operation ingredients="colin"> ajoutez </operation> les tranches de <ingredient action="ajouter"> colin </ingredient> . laissez <operation> mijoter </operation> encore 5 à 8 min .
+</preparation>
+</recette>

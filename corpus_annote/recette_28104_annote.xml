@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28104">
+<titre>Velouté de carottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de carottes</p>
+<p>2 échalotes</p>
+<p>1 litre d'eau</p>
+<p>2 bouillon-cubes de volaille dégraissés</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>sel poivre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="1 kilogramme"> carottes </ingredient> et les <operation> couper </operation> en grosses lamelles . <operation ingredients="échalotes"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> échalotes </ingredient> et les <operation> émincer </operation> . faire <operation ingredients="échalotes;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> sans les faire <operation> colorer </operation> . <operation ingredients="carottes;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> carottes </ingredient> , puis le <ingredient action="ajouter" quantite="2"> bouillon </ingredient> de volaille chaud ( que l' on aura réalisé avec le litre d' eau et les <ingredient quantite="2"> bouillon </ingredient> - cubes ) . <operation> saler </operation> <operation> poivrer </operation> à <operation> ébullition </operation> , laisser <operation> cuire </operation> 20 mn . <operation> mixer </operation> <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> fraîche . et voilà c' est prêt et c' est tout bon !
+</preparation>
+</recette>

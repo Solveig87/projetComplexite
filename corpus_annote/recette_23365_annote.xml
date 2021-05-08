@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23365">
+<titre>Sorbet ou granité au melon</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1.2 kg g de melon bien mûr</p>
+<p>37.5 cl d'eau</p>
+<p>375 g de sucre en poudre</p>
+<p>1 citron</p>
+<p>2 oranges</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre"> mettre </operation> l' eau et le <ingredient action="mettre" quantite="375 gramme"> sucre </ingredient> à <operation> bouillir </operation> pendant 10 minutes puis laisser refroidir . <operation ingredients="chair"> mixer </operation> la <ingredient action="mixer"> chair </ingredient> des melons . <operation ingredients="sirop;jus;oranges"> ajouter </operation> le <ingredient action="ajouter"> sirop </ingredient> froid , le <ingredient action="ajouter"> jus </ingredient> de citron et des <ingredient action="ajouter" quantite="2"> oranges </ingredient> . faire prendre en sorbetière ou bien <operation> placer </operation> au congélateur pendant 4 heures en <operation> remuant </operation> toutes les 30 minutes pour éviter la cristallisation .
+</preparation>
+</recette>

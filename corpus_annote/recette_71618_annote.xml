@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71618">
+<titre>Mozza-nectarine</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boule de bonne mozzarella (di biffala ou burrata si vous trouvez)</p>
+<p>1 nectarine</p>
+<p>gros sel, poivre</p>
+<p>huile d'olive, vinaigre balsamique</p>
+<p>menthe et basilic</p>
+</ingredients>
+<preparation>
+. <operation ingredients="nectarine"> peler </operation> la <ingredient action="peler" quantite="1"> nectarine </ingredient> , <operation> couper </operation> en tranches puis <operation> disposer </operation> sur une assiette . <operation ingredients="mozzarella"> egoutter </operation> la <ingredient action="egoutter"> mozzarella </ingredient> et <operation> poser </operation> dans l' assiette telle quelle . <operation ingredients="nectarine;sel;huile"> assaisonner </operation> juste la <ingredient action="assaisonner" quantite="1"> nectarine </ingredient> avec gros <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre , huile , vinaigre , menthe et basilic <operation> ciselé </operation> puis la mozza avec un filet d' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive . c' est prêt .
+</preparation>
+</recette>

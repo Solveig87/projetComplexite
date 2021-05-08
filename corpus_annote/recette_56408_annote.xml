@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56408">
+<titre>Pâtes saumon curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 à 4 belles darnes de saumon frais</p>
+<p>3 poireaux</p>
+<p>10 petits champignons de Paris frais</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>15 cl de vin blanc</p>
+<p>400 g de linguine (ou toute autre sorte de pâtes)</p>
+<p>épices indiennes mélangées ou curry simple</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon"> couper </operation> les darnes de <ingredient action="couper"> saumon </ingredient> en cubes et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> . une fois le <ingredient> saumon </ingredient> revenu , <operation ingredients="poireaux;champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> poireaux </ingredient> en rondelles et les <ingredient action="ajouter" quantite="10"> champignons </ingredient> <operation> émincés </operation> . laisser <operation> cuire </operation> 10 minutes . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc et faire <operation> réduire </operation> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="crème;épices"> mettre </operation> la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> , les <ingredient action="mettre" quantite=""> épices </ingredient> et faire <operation> épaissir </operation> la sauce . faire <operation ingredients="pâtes"> cuire </operation> l' eau pour les <ingredient action="cuire"> pâtes </ingredient> . une fois <operation> cuites </operation> , <operation> égoutter </operation> et <operation> ajouter </operation> à la sauce . <operation ingredients="persil;parmesan"> parsemer </operation> d' un peu de <ingredient action="parsemer"> persil </ingredient> et de <ingredient action="parsemer"> parmesan </ingredient> .
+</preparation>
+</recette>

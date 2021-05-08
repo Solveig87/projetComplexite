@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50051">
+<titre>Poulet au curry et au philadelphia</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron vert et 1 poivron rouge</p>
+<p>1 carotte</p>
+<p>100 g de pousses de soja</p>
+<p>2 oignons</p>
+<p>400 g de filets de poulet</p>
+<p>2 cuillères à soupe d'huile de sésame</p>
+<p>25 cl de bouillon de légumes</p>
+<p>200 g de Philadelphia nature ou ail et fines herbes</p>
+<p>sel, poivre et curry</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="1;100 gramme;2;25 cl"> légumes </ingredient> . <operation ingredients="poivrons;carottes;oignons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> , les <ingredient action="couper" quantite="1"> carottes </ingredient> et les <ingredient action="couper" quantite="2"> oignons </ingredient> ; <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en lamelles de 5 cm . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> , et y faire <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire"> viande </ingredient> . <operation ingredients="légumes;pousses"> ajouter </operation> les <ingredient action="ajouter" quantite="1;100 gramme;2;25 cl"> légumes </ingredient> , à l' exception des <ingredient action="ajouter" quantite="100 gramme"> pousses </ingredient> de soja , et les faire étuver rapidement ; ils doivent rester <ingredient> croquants </ingredient> . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> bouillon </ingredient> et laisser <operation> mijoter </operation> le tout . <operation> ajouter </operation> le philadelphia , et laisser <operation> fondre </operation> à feu doux sans cesser de <operation> remuer </operation> . <operation ingredients="pousses"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme"> pousses </ingredient> de soja avec précaution , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="curry"> ajouter </operation> le <ingredient action="ajouter"> curry </ingredient> . <operation ingredients="tagliatelles"> accompagner </operation> de <ingredient action="accompagner"> tagliatelles </ingredient> . en milieu de cuisson , <operation ingredients="ail"> saupoudrez </operation> une pincée de <operation> poudre </operation> d' <ingredient action="saupoudrer"> ail </ingredient> . un délice !
+</preparation>
+</recette>

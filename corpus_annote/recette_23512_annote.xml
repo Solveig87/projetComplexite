@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23512">
+<titre>Avocats aux crevettes et au pamplemousse</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 avocats</p>
+<p>1/2 citron</p>
+<p>1/2 pamplemousse</p>
+<p>150 g de crevettes cuites et décortiquées</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>1 pincée de paprika</p>
+<p>Feuilles de laitue</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> coupez </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en deux et <operation ingredients="chair"> retirez </operation> la <ingredient action="retirer"> chair </ingredient> sans abîmer l' écorce . <operation ingredients="chair"> découpez </operation> la <ingredient action="découper"> chair </ingredient> en dés et <operation ingredients="citron"> arrosez </operation> de <ingredient action="arroser"> citron </ingredient> . a l' aide d' une cuillère , <operation ingredients="chair"> recupérez </operation> la <ingredient action="recupérer"> chair </ingredient> du pamplemousse . <operation ingredients="chair;mayonnaise;paprika"> melez </operation> la <ingredient action="melez"> chair </ingredient> d' avocat au pamplemousse , à la <ingredient action="melez" quantite="2 cuillère à soupe"> mayonnaise </ingredient> et au <ingredient action="melez" quantite="1 pincée"> paprika </ingredient> . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="2 cuillère à soupe;1 pincée"> assaisonnement </ingredient> et <operation ingredients="avocat"> remplissez </operation> les écorces d' <ingredient action="remplir" quantite="2"> avocat </ingredient> de ce <operation> mélange </operation> . servez sur un lit de <ingredient> laitue </ingredient> .
+</preparation>
+</recette>

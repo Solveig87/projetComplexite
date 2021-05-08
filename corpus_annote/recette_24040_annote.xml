@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24040">
+<titre>Poireaux vinaigrette aux oeufs</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de poireaux</p>
+<p>2 oeufs durs</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>1 cuillère à café de moutarde</p>
+<p>ciboulette et persil frais</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="poireaux"> rincez </operation> les <ingredient action="rincer" quantite="1 kilogramme"> poireaux </ingredient> , <operation> retirez </operation> les premières feuilles . faites - les <operation> cuire </operation> 20 min à la vapeur . <operation> egouttez </operation> - les sur un linge et laissez refroidir . <operation> ecrasez </operation> les <ingredient quantite="2"> oeufs </ingredient> durs à la fourchette . <operation ingredients="moutarde;huile;vinaigre"> mélangez </operation> la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> , l' <ingredient action="mélanger" quantite="6 cuillère à soupe"> huile </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> vinaigre </ingredient> , sel et poivre . <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> écrasés </operation> et <operation ingredients="poireaux"> versez </operation> la sauce sur les <ingredient action="verser" quantite="1 kilogramme"> poireaux </ingredient> . <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer"> persil </ingredient> et ciboulette hachés .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33934">
+<titre>Croques chipolatas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grandes tranches de pain de mie</p>
+<p>4 chipolatas</p>
+<p>4 oeuf</p>
+<p>8 tranches de fromage (chimay) </p>
+<p>poivre, sel</p>
+<p>beurre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="chipolatas;beurre"> cuire </operation> les <ingredient action="cuire"> chipolatas </ingredient> dans un peu de <ingredient action="cuire"> beurre </ingredient> / huile . <operation ingredients="pain"> beurrez </operation> légèrement les tranches de <ingredient action="beurrer"> pain </ingredient> , <operation ingredients="fromage"> mettre </operation> sur chacune 2 tranches de <ingredient action="mettre" quantite="8 tranche"> fromage </ingredient> puis 1 chipolata <operation> coupée </operation> en deux . <operation> placer </operation> dans le four , si possible en position grill ; surveillez la cuisson : le <ingredient quantite="8 tranche"> fromage </ingredient> doit commencer à <operation> fondre </operation> . <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> au plat et les <operation> poser </operation> sur les croques . servir avec une <ingredient> salade </ingredient> <operation> accompagnée </operation> d' une vinaigrette ( <ingredient quantite=""> huile </ingredient> d' olive / vinaigre balsamique ) .
+</preparation>
+</recette>

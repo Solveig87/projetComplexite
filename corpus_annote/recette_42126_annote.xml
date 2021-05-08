@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42126">
+<titre>Cake saumon et noix</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 cl d'huile d'olive</p>
+<p>5 cl d'huile de tournesol </p>
+<p>15 cl de vin blanc sec </p>
+<p>1 cuillère à soupe de crème allégée (5%)</p>
+<p>200 g de farine </p>
+<p>4 oeufs </p>
+<p>150 g de gruyère râpé </p>
+<p>1 paquet de levure </p>
+<p>1 pincée de sel</p>
+<p>250 g de saumon frais (filet)</p>
+<p>125 g de noix</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> en omelette . <operation ingredients="vin;crème;huile;sel;farine"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> , la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> , l' <ingredient action="ajouter" quantite="5 cl+5 cl"> huile </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , puis la <ingredient action="ajouter" quantite="200 gramme"> farine </ingredient> ( dans laquelle on a <operation ingredients="levure"> incorporé </operation> la <ingredient action="incorporer"> levure </ingredient> ) . <operation ingredients="gruyère"> incorporer </operation> le <ingredient action="incorporer" quantite="150 gramme"> gruyère </ingredient> râpé , puis le <ingredient action="passer"> saumon </ingredient> préalablement <operation ingredients="saumon;farine"> passé </operation> dans la <ingredient action="passer" quantite="200 gramme"> farine </ingredient> . <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme"> noix </ingredient> . faire <operation> cuire </operation> dans un <operation> moule </operation> à cake pendant 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) . on peut aussi <operation> déposer </operation> la préparation dans des petits <operation> moules </operation> à muffins , et les <operation> cuire </operation> 20 à 25 min .
+</preparation>
+</recette>

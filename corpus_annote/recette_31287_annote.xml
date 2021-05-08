@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31287">
+<titre>Ch'ti glacé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de glace vanille</p>
+<p>8 spéculoos</p>
+<p>des grains de chicorée</p>
+<p>compote de rhubarbe</p>
+<p>4 gaufres vergoise (type Rita) </p>
+<p>une cuillère de sucre en poudre ou vergoise</p>
+</ingredients>
+<preparation>
+dans une casserole faites <operation ingredients="sucre"> revenir </operation> les grains de chicorée avec le <ingredient action="revenir" quantite="1 cuillère"> sucre </ingredient> . dans une assiette , <operation ingredients="compote"> placer </operation> une cuillère de <ingredient action="placer" quantite=""> compote </ingredient> de rhubarbe bien froide , <operation ingredients="pain"> faites </operation> <operation> chauffer </operation> au <operation> grille </operation> - <ingredient action="faire"> pain </ingredient> la gaufre vergoise . <operation ingredients="spéculoos;glace;vanille"> émietter </operation> deux <ingredient action="émietter" quantite="8"> spéculoos </ingredient> sur la <ingredient action="émietter" quantite="1 litre"> glace </ingredient> <ingredient action="émietter"> vanille </ingredient> et <operation> confectionner </operation> deux boules , les <operation ingredients="gaufre"> placer </operation> sur la <ingredient action="placer" quantite="4"> gaufre </ingredient> chaude <operation ingredients="compote"> coupée </operation> en deux ( <operation> disposée </operation> dans l' assiette , prés de la <ingredient action="couper" quantite=""> compote </ingredient> ) . <operation ingredients="confits"> décorer </operation> avec des grains de chicorée <ingredient action="décorer"> confits </ingredient> . une tranche de <ingredient> pain </ingredient> d' épices peut remplacer la <ingredient quantite="4"> gaufre </ingredient> .
+</preparation>
+</recette>

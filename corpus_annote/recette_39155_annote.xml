@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39155">
+<titre>Salade de concombre au yaourt</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 yaourt nature</p>
+<p>1 moitié de poivron vert</p>
+<p>jus de citron</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> laver </operation> et <operation> éplucher </operation> le <ingredient action="laver" quantite="1"> concombre </ingredient> , le <operation> couper </operation> en rondelles et le laisser <operation ingredients="sel"> égoutter </operation> avec un peu de <ingredient action="égoutter" quantite=""> sel </ingredient> . <operation ingredients="poivron"> laver </operation> le <ingredient action="laver"> poivron </ingredient> et le <operation> couper </operation> en petits dés . dans un saladier : <operation ingredients="yaourt"> verser </operation> le <ingredient action="verser" quantite="1"> yaourt </ingredient> , <operation> poivrer </operation> , citronner , et <operation> ajouter </operation> quelques herbes de provence ( ne pas hésiter à <operation> goûter </operation> la sauce pour vérifier l' <ingredient quantite=";"> assaisonnement </ingredient> ) . <operation ingredients="concombre;poivron"> mélanger </operation> le tout avec le <ingredient action="mélanger" quantite="1"> concombre </ingredient> et le <ingredient action="mélanger"> poivron </ingredient> .
+</preparation>
+</recette>

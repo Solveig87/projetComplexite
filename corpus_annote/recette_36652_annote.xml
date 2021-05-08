@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36652">
+<titre>Escalope de dinde au poivron facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de dinde </p>
+<p>1 poivron de la couleur de votre choix</p>
+<p>2 à 3 cuilléres à soupe de crème fraîche   </p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>poivre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes;matière;huile"> cuire </operation> vos <ingredient action="cuire" quantite="2"> escalopes </ingredient> de dinde avec un peu de <ingredient action="cuire"> matière </ingredient> grasse ( <ingredient action="cuire"> huile </ingredient> , margarine ou beurre selon le goût ) . <operation ingredients="poivron"> couper </operation> le <ingredient action="couper" quantite="1"> poivron </ingredient> en morceaux et les <operation ingredients="escalopes"> ajouter </operation> aux <ingredient action="ajouter" quantite="2"> escalopes </ingredient> , laisser <operation> cuire </operation> à feu doux . <operation ingredients="crème;moutarde"> mélanger </operation> dans un bol la <ingredient action="mélanger"> crème </ingredient> fraîche à la <ingredient action="mélanger" quantite="1 cuillère à soupe"> moutarde </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="viande;poivron"> rajouter </operation> à la <ingredient action="rajouter" quantite="2"> viande </ingredient> et au <ingredient action="rajouter" quantite="1"> poivron </ingredient> et laisser <operation> chauffer </operation> quelques instant . c' est prêt !
+</preparation>
+</recette>

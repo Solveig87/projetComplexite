@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32888">
+<titre>Tarte aux fruits de la passion</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte sablée toute prête</p>
+<p>6 fruits de la passion</p>
+<p>6 oeufs</p>
+<p>250 g de sucre</p>
+<p>100 g de beurre</p>
+<p>1 grosse cuillère à café de maïzéna diluée dans un peu d'eau</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> cuire </operation> à blanc la <ingredient action="cuire" quantite="1"> pâte </ingredient> sablée . <operation ingredients="fruits"> vider </operation> les <ingredient action="vider" quantite="6"> fruits </ingredient> de la passion . bien <operation ingredients="oeufs;sel;sucre;maïzéna;fruits"> mélanger </operation> les <ingredient action="mélanger" quantite="6"> oeufs </ingredient> , la pincée de <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> , le <ingredient action="mélanger" quantite="250 gramme"> sucre </ingredient> , la <ingredient action="mélanger"> maïzéna </ingredient> <operation> diluée </operation> et la pulpe des <ingredient action="mélanger" quantite="6"> fruits </ingredient> de la passion dans une casserole . faire <operation> chauffer </operation> à feu doux en <operation> remuant </operation> constamment . quand le <operation> mélange </operation> épaissit , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> . une fois le <ingredient action="verser" quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> , <operation ingredients="beurre;pâte"> verser </operation> la garniture sur la <ingredient action="verser" quantite="1"> pâte </ingredient> <operation> cuite </operation> à blanc . <operation> mettre </operation> au frigo .
+</preparation>
+</recette>

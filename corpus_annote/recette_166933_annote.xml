@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166933">
+<titre>Tarte soleil au couscous épicé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 Pâte feuilletée</p>
+<p>3 grosses tomates</p>
+<p>2 courgettes</p>
+<p>2 boules de mozzarella</p>
+<p>1 sachet de couscous épicé</p>
+<p>huile d'olive</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+étaler la <ingredient quantite="1"> pâte </ingredient> dans le plat à tarte . <operation ingredients="tomates;mozzarella"> couper </operation> les courgettes , les <ingredient action="couper" quantite="3"> tomates </ingredient> et les boules de <ingredient action="couper"> mozzarella </ingredient> en tranches . <operation ingredients="tarte"> garnir </operation> le fond de <ingredient action="garnir"> tarte </ingredient> de couscous épicé en couche peu épaisse , mais assez pour que cela absorbe l' eau rejetée par les <ingredient quantite="3"> légumes </ingredient> et la <ingredient> mozzarella </ingredient> . ne pas hésiter à " <operation ingredients="pâte"> enfoncer </operation> " un petit peu les grains dans la <ingredient action="enfoncer" quantite="1"> pâte </ingredient> . <operation ingredients="légumes"> disposer </operation> successivement les tranches de <ingredient action="disposer" quantite="3"> légumes </ingredient> et mozzarella : tomates courgettes mozzarella et ainsi de suite . . . <operation ingredients="huile"> arroser </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive <operation> saupoudrer </operation> d' herbes de provence <operation> enfourner </operation> au four et laisser <operation> cuire </operation> environ 30 minutes . a servir tiède avec une <ingredient> salade </ingredient>
+</preparation>
+</recette>

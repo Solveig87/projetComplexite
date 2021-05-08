@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72691">
+<titre>Salade de radis façon sylvie</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 botte de radis</p>
+<p>2 tomates cerises</p>
+<p>huile</p>
+<p>vinaigre</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="radis"> couper </operation> les <ingredient action="couper"> radis </ingredient> en rondelles . dans un robot , <operation ingredients="tomates;cerises;vinaigre"> mixer </operation> les <ingredient action="mixer" quantite="2"> tomates </ingredient> <ingredient action="mixer"> cerises </ingredient> avec 2 cuillères à soupe d' huile et une de <ingredient action="mixer" quantite=""> vinaigre </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> selon les goûts . <operation ingredients="radis"> verser </operation> la vinaigrette sur les <ingredient action="verser"> radis </ingredient> ; servir très frais . les enfants adorent : les <ingredient action="piquer"> radis </ingredient> <operation ingredients="radis"> piquent </operation> moins avec la " sauce rouge " .
+</preparation>
+</recette>

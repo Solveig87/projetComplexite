@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22748">
+<titre>Salade colorée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes</p>
+<p>4 tomates</p>
+<p>1 boîte de thon</p>
+<p>100 g de Feta</p>
+<p>basilic</p>
+<p>1 cuiller à soupe d'huile d'olive</p>
+<p>1/2 cuiller à soupe de vinaigre de vin</p>
+<p>1/2 cuiller à soupe de vinaigre balsamique</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> les courgettes , <operation> couper </operation> - les en dés et <operation> plonger </operation> - les 5 mn dans l' eau bouillante <operation> salée </operation> puis laisser - les <operation> égoutter </operation> et refroidir pendant que vous <operation> préparez </operation> le reste . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en dés , <operation ingredients="thon;feta"> émiettez </operation> le <ingredient action="émietter"> thon </ingredient> et la <ingredient action="émietter" quantite="100 gramme"> feta </ingredient> . <operation> mélanger </operation> tout dans un saladier et <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> . <operation ingredients="huile;vinaigres"> ajouter </operation> l' <ingredient action="ajouter"> huile </ingredient> et les <ingredient action="ajouter"> vinaigres </ingredient> . servir frais . pour plus de couleur encore , vous pouvez <operation ingredients="olives"> ajouter </operation> quelques <ingredient action="ajouter"> olives </ingredient> noires ou une <ingredient action="raper"> carotte </ingredient> <operation ingredients="carotte"> rapée </operation> . rosé
+</preparation>
+</recette>

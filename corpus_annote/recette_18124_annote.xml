@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18124">
+<titre>Penne au quatre fromages</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de mozzarella</p>
+<p>200 g de parmesan</p>
+<p>200 g de gruyère (ou comté)</p>
+<p>200 g de gorgonzola (ou encore fourme d'ambert ou bresse bleu, mais préférez néanmoins le Gorgonzola!)</p>
+<p>500 g de penne</p>
+<p>1 et 1/2 gros pots de crème fraîche</p>
+<p>1 noisette de beurre</p>
+<p>1 morceau de pain (pour saucer en fin de repas, c'est le meilleur)</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromages"> couper </operation> tous les <ingredient action="couper"> fromages </ingredient> en touts petits morceaux , puis les <operation> mélanger </operation> dans un saladier . faite <operation ingredients="noisette"> fondre </operation> une <ingredient action="fondre" quantite="1"> noisette </ingredient> de beurre dans une casserole avec un peu d' eau . a partir de maintenant , il vous faut être patient . <operation ingredients="fromages"> ajouter </operation> un peu du <operation> mélange </operation> de <ingredient action="ajouter"> fromages </ingredient> et <operation> mélanger </operation> tout doucement sans vous arrêter pour que le <ingredient action="fondre"> fromage </ingredient> <operation ingredients="fromage"> fonde </operation> doucement , ensuite <operation ingredients="crème"> ajouter </operation> un peu de <ingredient action="ajouter"> crème </ingredient> fraîche pour liquéfier la sauce . <operation ingredients="fromage;crème"> remettre </operation> un peu de <ingredient action="remettre"> fromage </ingredient> , reliquéfier avec la <ingredient action="remettre"> crème </ingredient> fraîche , et ainsi de suite . la sauce doit etre épaisse . <operation ingredients="penne"> mélanger </operation> la sauce aux <ingredient action="mélanger" quantite="500 gramme"> penne </ingredient> que vous aurez fait <operation> cuire </operation> al dente , puis servir !
+</preparation>
+</recette>

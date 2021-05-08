@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22039">
+<titre>Mignon de porc à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de filet mignon de porc</p>
+<p>1 boîte moyenne de champignons de Paris coupés</p>
+<p>250 g de crème fraîche</p>
+<p>moutarde</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> découpez </operation> les filets en rondelles . <operation ingredients="moutarde"> badigeonnez </operation> chaque côté de <ingredient action="badigeonner" quantite=""> moutarde </ingredient> . faites <operation ingredients="beurre"> dorez </operation> à la <operation> poêle </operation> dans un peu de <ingredient action="dorer"> beurre </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="champignons;crème"> ajoutez </operation> les <ingredient action="ajouter"> champignons </ingredient> et la <ingredient action="ajouter" quantite="250 gramme"> crème </ingredient> fraîche . servez immédiatement . pour un repas complet , <operation ingredients="riz"> accompagnez </operation> de <ingredient action="accompagner"> riz </ingredient> basmati ou thai .
+</preparation>
+</recette>

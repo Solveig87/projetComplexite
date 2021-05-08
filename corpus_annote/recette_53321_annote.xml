@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53321">
+<titre>Risotto à la courge et aux lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite tranche de courge</p>
+<p>1 oignon rouge</p>
+<p>100 g de lardons</p>
+<p>1 gousse d'ail</p>
+<p>1 brin de romarin</p>
+<p>bouillon de légume</p>
+<p>150 g de riz arborio</p>
+<p>10 cl de crème</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="courge"> cuire </operation> la <ingredient action="cuire"> courge </ingredient> à la vapeur . faites <operation ingredients="oignon;lardons"> revenir </operation> dans une casserole , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> . <operation ingredients="riz;ail"> ajoutez </operation> le romarin , le <ingredient action="ajouter"> riz </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> ; <operation> remuez </operation> et laissez <operation> revenir </operation> 5 min . <operation ingredients="bouillon"> ajoutez </operation> une louche de <ingredient action="ajouter" quantite=""> bouillon </ingredient> de légumes . une fois qu' il a été absorbé , <operation ingredients="riz"> ajoutez </operation> de nouveau une autre louche et ainsi de suite jusqu' à ce que le <ingredient action="ajouter"> riz </ingredient> soit tendre . <operation ingredients="courge;crème"> ajoutez </operation> la <ingredient action="ajouter"> courge </ingredient> en morceaux , puis la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> , et <operation> assaisonnez </operation> .
+</preparation>
+</recette>

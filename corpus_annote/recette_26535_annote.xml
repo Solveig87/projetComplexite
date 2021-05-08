@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26535">
+<titre>Tagliatelles à la crème de basilic</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de tagliatelles aux oeufs</p>
+<p>1 bouquet de basilic</p>
+<p>2 gousses d'ail</p>
+<p>30 cl de crème fraîche</p>
+<p>150 g de parmesan râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " ( . 4 min si ce sont des <ingredient> pâtes </ingredient> fraîches ) . <operation ingredients="basilic;ail"> rincez </operation> le <ingredient action="rincer"> basilic </ingredient> , <operation> hachez </operation> - le avec l' <ingredient action="rincer"> ail </ingredient> <operation> écrasé </operation> . <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> , <operation> mélangez </operation> , <operation> salez </operation> et <operation> poivrez </operation> . <operation> egouttez </operation> les <ingredient action="mélanger"> pâtes </ingredient> , <operation ingredients="pâtes"> mélangez </operation> - les avec la sauce et <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="150 gramme"> parmesan </ingredient> avant de servir .
+</preparation>
+</recette>

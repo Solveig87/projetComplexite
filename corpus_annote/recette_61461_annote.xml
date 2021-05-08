@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61461">
+<titre>Spaghetti aux oeufs durs et au gruyère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs durs</p>
+<p>250 g de spaghetti</p>
+<p>2 poignées de gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> spaghetti </ingredient> en les <operation> remuant </operation> tout au long de la cuisson . <operation ingredients="oeufs"> râper </operation> les <ingredient action="râper" quantite="4"> oeufs </ingredient> durs et les <operation ingredients="gruyère"> mélanger </operation> au <ingredient action="mélanger"> gruyère </ingredient> . en <operation ingredients="spaghetti"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="250 gramme"> spaghetti </ingredient> <operation> égouttés </operation> et bien chauds puis déguster . pour l´aspect esthétique , <operation ingredients="spaghetti"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="250 gramme"> spaghetti </ingredient> une fois qu´ils sont dans les assiettes .
+</preparation>
+</recette>

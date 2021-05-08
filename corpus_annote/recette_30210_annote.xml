@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30210">
+<titre>Pâte à pizza de Rémi</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 cube de levure de boulanger (40 g)</p>
+<p>5 cl d'eau tiède</p>
+<p>60 g + 700 g de farine</p>
+<p>1 pincée de sel</p>
+<p>3 cuillères a soupes d'huile d'olive</p>
+<p>30 cl d'eau </p>
+</ingredients>
+<preparation>
+<operation ingredients="levain"> préparer </operation> le <ingredient action="préparer"> levain </ingredient> : <operation ingredients="levure"> diluer </operation> la <ingredient action="diluer"> levure </ingredient> de boulanger dans l' eau tiède , <operation ingredients="farine"> ajouter </operation> 50 g de <ingredient action="ajouter"> farine </ingredient> . <operation> mélanger </operation> et laisser <operation> reposer </operation> une petite heure à l' abris des courants d' air . <operation ingredients="farine"> former </operation> une fontaine dans les 700 g de <ingredient action="former"> farine </ingredient> restants et y <operation ingredients="levain;sel"> déposer </operation> le <ingredient action="déposer"> levain </ingredient> et 1 pincée de <ingredient action="déposer" quantite="1 pincée"> sel </ingredient> . commencer a <operation> pétrir </operation> . <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter"> huile </ingredient> d' olive et les 30 cl d' eau ( <operation> ajouter </operation> petit à petit ) . <operation> pétrir </operation> pendant environ 10 minutes . en faire une boule , la <operation> fariner </operation> , et la laisser doubler de volume pendant 1 h 30 dans une jatte , à <operation> couvert </operation> , au chaud et à l' abris des courants d' air . la <operation> pétrir </operation> alors pendant 1 minute , puis lui donner la <operation> forme </operation> voulue . avec cette <ingredient> pâte </ingredient> , vous pouvez réaliser pizza ou flammenkuche .
+</preparation>
+</recette>

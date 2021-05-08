@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91298">
+<titre>Pavé de thon caponata</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de thon </p>
+<p>1 belle aubergine</p>
+<p>1/2 poivron jaune</p>
+<p>1/2 poivron rouge</p>
+<p>1/2 poivron vert</p>
+<p>15 olives niçoises dénoyautées</p>
+<p>1 oignon</p>
+<p>1 branche de céleri</p>
+<p>sel, poivre</p>
+<p>3 cuillères d'huile d'olive</p>
+<p>Basilic frais</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation ingredients="aubergine"> couper </operation> l' <ingredient action="couper" quantite="1"> aubergine </ingredient> en dés et faire <operation ingredients="huile"> revenir </operation> avec l' <ingredient action="revenir" quantite="3 cuillère"> huile </ingredient> dans une <operation> poêle </operation> . <operation> laver </operation> , <operation> couper </operation> les 3 demi <operation> poivrons </operation> en dés , et faire <operation ingredients="oignon"> revenir </operation> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="huile"> émincé </operation> avec l' <ingredient action="émincer" quantite="3 cuillère"> huile </ingredient> dans une <operation> poêle </operation> . réunir le contenu des deux <operation> poêles </operation> dans un plat et <operation ingredients="basilic"> parsemer </operation> de <ingredient action="parsemer" quantite=""> basilic </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation> réserver </operation> au chaud . faire <operation ingredients="pavés"> revenir </operation> les <ingredient action="revenir" quantite="4"> pavés </ingredient> de thon . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="légumes"> disposer </operation> sur le lit de <ingredient action="disposer" quantite="1;1"> légumes </ingredient> .
+</preparation>
+</recette>

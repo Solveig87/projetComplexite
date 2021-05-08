@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29251">
+<titre>Traditionnel gâteau breton</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de beurre demi-sel mou</p>
+<p>100 g de sucre</p>
+<p>3 jaunes d'oeufs</p>
+<p>100 g de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> battre </operation> 4 jaunes d' <ingredient action="battre"> oeufs </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> jusqu' à blanchiment . <operation ingredients="beurre;farine"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation> ramolli </operation> et <operation> coupé </operation> en morceaux , puis la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> . <operation ingredients="pâte"> pétrir </operation> la <ingredient action="pétrir"> pâte </ingredient> à la main , puis létaler dans un <operation> moule </operation> à manqué beurré , de manière à <operation ingredients="galette"> former </operation> une grosse <ingredient action="former"> galette </ingredient> épaisse . <operation ingredients="oeuf"> badigeonner </operation> de jaune d' <ingredient action="badigeonner"> oeuf </ingredient> avec un pinceau . <operation> décorer </operation> en <operation ingredients="pâte"> faisant </operation> des dessins dans la <ingredient action="faire"> pâte </ingredient> selon l' inspiration . faire <operation> cuire </operation> au four préchauffé à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 25 minutes . baisser à 150 <operation> ° </operation> c ( thermostat 5 ) puis poursuivre la cuisson pour 20 minutes environ . laisser refroidir et <operation> démouler </operation> .
+</preparation>
+</recette>

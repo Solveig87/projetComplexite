@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25944">
+<titre>Poire confite au chocolat et son caramel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat pâtissier</p>
+<p>4 poires mûres de taille moyenne</p>
+<p>1/2 litre d'eau</p>
+<p>200 g de cassonade</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> en conservant la queue . dans une casserole à bords hauts , faire <operation ingredients="chocolat;sucre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> en morceaux avec l' eau et le <ingredient action="fondre"> sucre </ingredient> , <operation> porter </operation> à <operation> ébullition </operation> . quand le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> est bien <operation ingredients="chocolat"> fondu </operation> , <operation> réduire </operation> le feu et <operation ingredients="poires"> mettre </operation> les <ingredient action="mettre" quantite="4"> poires </ingredient> pendant 45 mn à petits frémissements . sortir les <ingredient quantite="4"> poires </ingredient> , les <operation> égoutter </operation> soigneusement et les <operation> mettre </operation> au réfrigérateur dans les assiettes de service . au moment de servir , faire <operation> bouillir </operation> le liquide de cuisson en faisant attention à ce qu' il ne déborde pas . aux premiers signes de caramélisation , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et <operation> refaire </operation> <operation> bouillir </operation> quelques instants . <operation ingredients="chocolat;poires"> verser </operation> ce caramel au <ingredient action="verser" quantite="200 gramme"> chocolat </ingredient> chaud sur les <ingredient action="verser" quantite="4"> poires </ingredient> froides et déguster . <ingredient> champagne </ingredient>
+</preparation>
+</recette>

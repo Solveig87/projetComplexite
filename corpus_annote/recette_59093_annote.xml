@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59093">
+<titre>Aumonière de crevette à la ciboulette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte à crêpes</p>
+<p>20 tiges de ciboulette</p>
+<p>15 cl de crème</p>
+<p>12 crevettes</p>
+<p>5 cl de vin blanc</p>
+<p>sel</p>
+<p>poivre</p>
+<p>curry (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crevettes"> revenir </operation> <ingredient action="revenir" quantite="12"> crevettes </ingredient> <operation ingredients="poivre"> décortiquées </operation> dans une <operation> poêle </operation> 5 min , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="5 cl"> vin </ingredient> blanc , laisser évaporer , <operation ingredients="curry;sel"> ajouter </operation> le <ingredient action="ajouter" quantite=""> curry </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="décortiquer" quantite=""> poivre </ingredient> . <operation> réserver </operation> . <operation ingredients="crêpes;ciboulette;curry"> faire </operation> des <ingredient action="faire"> crêpes </ingredient> avec de la <ingredient action="faire"> ciboulette </ingredient> ( la moitié ) et une pincée de <ingredient action="faire" quantite=""> curry </ingredient> par crêpe . <operation ingredients="crêpe"> mettre </operation> la préparation dans la <ingredient action="mettre"> crêpe </ingredient> , fermer par un cure dent . servir . bon appétit . rapide et simple . un <ingredient quantite="5 cl"> vin </ingredient> blanc sec ( grave blanc , aligoté )
+</preparation>
+</recette>

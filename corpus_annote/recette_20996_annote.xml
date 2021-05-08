@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20996">
+<titre>Glace à la fraise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 cl de lait</p>
+<p>1/2 gousse de vanille</p>
+<p>2 jaunes d'oeufs</p>
+<p>300 g de fraises + fraises pour accompagnez la glace</p>
+<p>130 g de sucre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="lait"> porter </operation> le <ingredient action="porter" quantite="30 cl"> lait </ingredient> et la vanille à <operation> ébullition </operation> . <operation ingredients="œufs;sucre;mousse"> battre </operation> les jaunes d' <ingredient action="battre"> œufs </ingredient> et 50 g de <ingredient action="battre" quantite="130 gramme"> sucre </ingredient> jusqu' à l’ obtention d’ une <ingredient action="battre"> mousse </ingredient> homogène . <operation ingredients="lait;mousse"> incorporer </operation> le <ingredient action="incorporer" quantite="30 cl"> lait </ingredient> à la <ingredient action="incorporer"> mousse </ingredient> et faire <operation> épaissir </operation> l’ ensemble à feu doux sans <operation> porter </operation> à <operation> ébullition </operation> . laisser refroidir . <operation ingredients="fraises;sucre"> mixer </operation> les <ingredient action="mixer" quantite="300 gramme"> fraises </ingredient> et 150 g de <ingredient action="mixer" quantite="130 gramme"> sucre </ingredient> . <operation> incorporer </operation> délicatement à la précédente préparation et faire <operation> glacer </operation> en sorbetière .
+</preparation>
+</recette>

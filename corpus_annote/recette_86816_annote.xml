@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86816">
+<titre>Gâteau banane express simplissime</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 bananes bien mûres</p>
+<p>2 oeufs</p>
+<p>100 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure chimique</p>
+<p>100 g de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes;oeufs;sucre"> mixer </operation> les <ingredient action="mixer" quantite="3"> bananes </ingredient> avec les <ingredient action="mixer" quantite="2"> oeufs </ingredient> et le <ingredient action="mixer" quantite="100 gramme"> sucre </ingredient> juqu' à obtenir une <ingredient> mousse </ingredient> . <operation> rajouter </operation> petit à petit les autres ingrédients . transférer la préparation dans un <operation> moule </operation> à cake et <operation> enfourner </operation> 35 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) . suivant l' humeur du jour , on peut <operation ingredients="coco;chocolat"> rajouter </operation> du <ingredient action="rajouter"> coco </ingredient> râpé et / ou du <ingredient action="rajouter"> chocolat </ingredient> <operation> fondu </operation> .
+</preparation>
+</recette>

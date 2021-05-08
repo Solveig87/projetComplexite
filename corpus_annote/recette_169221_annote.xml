@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169221">
+<titre>Risotto Poulet-Citron</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tasses à expresso de riz rond</p>
+<p>une cs d'huile d'olive</p>
+<p>5cl de vin blanc</p>
+<p>1 cube pour bouillon</p>
+<p>7 tasses à expresso d'eau</p>
+<p>deux escalopes de poulet</p>
+<p>un demi citron</p>
+<p>une cs de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation> verser </operation> l' eau dans une casserole , la faire <operation> chauffer </operation> puis <operation> dissoudre </operation> le cube . <operation ingredients="jus;citron"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' un demi <ingredient action="ajouter" quantite="1mi"> citron </ingredient> . <operation ingredients="riz;rond"> verser </operation> en même temps le <ingredient action="verser"> riz </ingredient> <ingredient action="verser"> rond </ingredient> dans un faitout puis <operation ingredients="huile"> ajouter </operation> la cuiller d' <ingredient action="ajouter"> huile </ingredient> d' olive . <operation ingredients="riz"> remuer </operation> jusqu' à ce que le <ingredient action="remuer"> riz </ingredient> soit translucide . <operation> mettre </operation> sur feu fort puis <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="5cl"> vin </ingredient> blanc . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser"> bouillon </ingredient> petit à petit . <operation ingredients="riz"> ajuster </operation> la <operation> dose </operation> d' eau dans le <ingredient action="ajuster"> riz </ingredient> jusqu' à ce qu' il soit <operation> cuit </operation> . faire <operation ingredients="escalope"> cuire </operation> une <ingredient action="cuire" quantite=""> escalope </ingredient> et demi puis la <operation> hacher </operation> . <operation ingredients="escalope"> cuire </operation> la demi <ingredient action="cuire" quantite=""> escalope </ingredient> restante puis la <operation> couper </operation> en dés . lorsque le <ingredient action="cuire"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , et toujours sur le feu , <operation ingredients="crème;poulet"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraiche puis le <ingredient action="ajouter"> poulet </ingredient> haché . servir avec les dés de <ingredient> poulet </ingredient> .
+</preparation>
+</recette>

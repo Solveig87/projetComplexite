@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22672">
+<titre>Hachis à la Milanaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de boeuf haché</p>
+<p>200 g de nouilles</p>
+<p>2 oignons</p>
+<p>75 g de beurre</p>
+<p>1 boîte de sauce tomate (concentré ou coulis) </p>
+<p>75 g de gruyère</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> ( fin ) . faire <operation ingredients="nouilles"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> nouilles </ingredient> . faire <operation ingredients="viande;oignons"> revenir </operation> la <ingredient action="revenir" quantite="500 gramme"> viande </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> ( ensemble ) pendant 10 mn environ . <operation> saler </operation> et <operation> poivrer </operation> + <operation ingredients="noix"> ajouter </operation> de la <ingredient action="ajouter"> noix </ingredient> de muscade . <operation ingredients="nouilles"> mettre </operation> les <ingredient action="mettre" quantite="200 gramme"> nouilles </ingredient> dans un plat à gratin . <operation ingredients="viande;oignons"> mettre </operation> dessus la <ingredient action="mettre" quantite="500 gramme"> viande </ingredient> et les <ingredient action="mettre" quantite="2"> oignons </ingredient> . <operation> napper </operation> de sauce tomate . <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite="75 gramme"> gruyère </ingredient> dessus . faire <operation> gratiner </operation> au four .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26785">
+<titre>Poires pochées au vin et sauce chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 poires</p>
+<p>25 cl de vin rouge</p>
+<p>125 g de chocolat</p>
+<p>200 g de sucre</p>
+<p>25 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="vin;sucre"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> vin </ingredient> , le <ingredient action="bouillir" quantite="200 gramme"> sucre </ingredient> et 50 cl d' eau . <operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="6"> poires </ingredient> et les faire <operation ingredients="vin"> cuire </operation> dans le <ingredient action="cuire" quantite="25 cl"> vin </ingredient> environ 30 min . les <operation> égoutter </operation> et les <operation> disposer </operation> sur un plat . faire <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de cuisson de moitié et le <operation ingredients="poires"> verser </operation> sur les <ingredient action="verser" quantite="6"> poires </ingredient> . au moment de servir , faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> . <operation ingredients="poires"> napper </operation> les <ingredient action="napper" quantite="6"> poires </ingredient> <operation> pochées </operation> et servir .
+</preparation>
+</recette>

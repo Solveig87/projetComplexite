@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220209">
+<titre>Papillote de filet mignon au camembert et aux pommes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon de porc</p>
+<p>1/2 camembert</p>
+<p>4 pommes</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat 7 ) . <operation> disposer </operation> le filet mignon sur une grande feuille d' aluminium . <operation> saler </operation> un petit peu . <operation ingredients="camembert"> couper </operation> le <ingredient action="couper" quantite="1"> camembert </ingredient> en tranches et <operation> parsemer </operation> ces tranches sur le filet mignon . <operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="4"> pommes </ingredient> et les <operation> couper </operation> en quartier . les <operation> disposer </operation> autour du filet mignon . <operation> refermer </operation> la papillote et <operation> enfourner </operation> à 200 <operation> ° </operation> c pendant 35 à 45 min environ ( bien surveiller à partir de 30 min de cuisson ) .
+</preparation>
+</recette>

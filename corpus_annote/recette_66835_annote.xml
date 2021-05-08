@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66835">
+<titre>Lasagnes simplissimo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande hachée</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>2 x 500 g de purée de tomates</p>
+<p>60 cl de crème fraîche liquide</p>
+<p>basilic</p>
+<p>sel et poivre</p>
+<p>feuilles de lasagne</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient> ail </ingredient> et les <ingredient action="revenir" quantite="1"> oignons </ingredient> , les faire <operation ingredients="oignons;huile"> revenir </operation> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> hachée , <operation> mélanger </operation> le tout . ne pas attendre que la <ingredient action="cuire" quantite="500 gramme"> viande </ingredient> soit <operation ingredients="viande"> cuite </operation> pour <operation ingredients="tomates"> ajouter </operation> la purée de <ingredient action="ajouter"> tomates </ingredient> . ( possible de remplacer une brique de purée de <ingredient> tomates </ingredient> par des <ingredient> tomates </ingredient> <operation> pelées </operation> ou 3 vrai <ingredient> tomates </ingredient> ) . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> , laisser <operation> mijoter </operation> à feu doux . <operation> mettre </operation> une couche de lasagnes au fond du plat , <operation ingredients="crème;viande"> recouvrir </operation> de <ingredient action="recouvrir" quantite="60 cl"> crème </ingredient> fraiche liquide , puis de <ingredient action="recouvrir" quantite="500 gramme"> viande </ingredient> et sa sauce . <operation> réitérer </operation> l' opération jusqu' en haut du plat . <operation ingredients="parmesan;gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer"> parmesan </ingredient> ou de <ingredient action="saupoudrer"> gruyère </ingredient> , au choix . faire <operation> cuire </operation> au four préchauffé à 160 <operation> ° </operation> c ( thermostat . 6 ) pendant 1 h. <operation> préparer </operation> à l' avance , et <operation> réchauffer </operation> , c' est vraiment meilleur .
+</preparation>
+</recette>

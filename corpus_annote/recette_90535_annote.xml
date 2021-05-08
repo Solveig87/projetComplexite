@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90535">
+<titre>Panna cotta du chef</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de crème liquide entière</p>
+<p>5 feuilles de gélatine </p>
+<p>150 g de sucre</p>
+<p>Un bouchon de concentré de vanille</p>
+<p>50 cl de coulis de votre choix</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> ramollir </operation> les feuilles de <ingredient action="ramollir" quantite="5 feuille"> gélatine </ingredient> dans de l' eau froide . pendant ce temps faire <operation> bouillir </operation> la <ingredient quantite="1 litre"> crème </ingredient> , le <ingredient quantite="150 gramme"> sucre </ingredient> et la vanille . <operation> éteindre </operation> le feu et <operation> essorer </operation> les feuilles <operation> ramollies </operation> , les <operation> incorporer </operation> à l' appareil et bien <operation> dissoudre </operation> . <operation> verser </operation> dans des récipients laissez prendre au réfrigérateur plusieurs heures ( la veille c' est idéal ) . une fois prise <operation> ajouter </operation> le coulis de votre choix sur la panna cotta .
+</preparation>
+</recette>

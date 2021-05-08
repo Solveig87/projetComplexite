@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25220">
+<titre>Spaghetti à la napolitaine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de spaghetti</p>
+<p>400 g de tomates</p>
+<p>125 g de mozzarella</p>
+<p>50 g de thon</p>
+<p>4 anchois</p>
+<p>4 olives noires</p>
+<p>5 cl d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " . <operation ingredients="tomates"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="400 gramme"> tomates </ingredient> en petits cubes . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="5 cl"> huile </ingredient> d' olive , <operation ingredients="tomates"> mettez </operation> - y les <ingredient action="mettre" quantite="400 gramme"> tomates </ingredient> à <operation> fondre </operation> . <operation ingredients="thon"> hachez </operation> le <ingredient action="hacher" quantite="50 gramme"> thon </ingredient> , les <ingredient action="ajouter" quantite="4"> anchois </ingredient> les olives , <operation ingredients="anchois;mozzarella"> ajoutez </operation> la <ingredient action="ajouter" quantite="125 gramme"> mozzarella </ingredient> <operation> découpée </operation> en dés . <operation ingredients="pâtes"> versez </operation> la sauce tomate sur les <ingredient action="verser"> pâtes </ingredient> <operation> égoutter </operation> , <operation> mélangez </operation> et <operation ingredients="thon;mozzarella"> ajoutez </operation> la préparation au <ingredient action="ajouter" quantite="50 gramme"> thon </ingredient> et à la <ingredient action="ajouter" quantite="125 gramme"> mozzarella </ingredient> . assaissonez et servez .
+</preparation>
+</recette>

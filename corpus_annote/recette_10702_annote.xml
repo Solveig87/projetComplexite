@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10702">
+<titre>Côtelettes d'agneau sauce espagnole</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 côtelettes d'agneau</p>
+<p>40g de beurre</p>
+<p>1 carotte</p>
+<p>1 oignon</p>
+<p>1 branche de céleri</p>
+<p>1 tranche de lard</p>
+<p>1/2 l de fond de boeuf</p>
+<p>1 cuillères à soupe de concentré de tomates</p>
+<p>50 g de champignons</p>
+<p>1 feuille de laurier</p>
+<p>3 branches de persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la sauce : <operation ingredients="carotte;oignon"> éplucher </operation> et <operation> hacher </operation> la <ingredient action="éplucher" quantite="1"> carotte </ingredient> et l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> . <operation ingredients="céleri"> nettoyer </operation> et <operation> hacher </operation> le <ingredient action="nettoyer"> céleri </ingredient> . oter la couenne du <ingredient quantite="1 tranche"> lard </ingredient> et <operation> couper </operation> celui-ci en petits morceaux . faire <operation ingredients="beurre"> fondre </operation> 10 g de <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> dans une casserole et y faire <operation ingredients="carotte"> revenir </operation> <ingredient action="revenir" quantite="1"> carotte </ingredient> , oignon , céleri , lard et champignons . <operation ingredients="boeuf"> arroser </operation> de fond de <ingredient action="arroser"> boeuf </ingredient> , <operation ingredients="tomate"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et laisser <operation> mijoter </operation> pendant 15 min . <operation ingredients="beurre"> ajouter </operation> 30 g de <ingredient action="ajouter" quantite="40 gramme"> beurre </ingredient> , <operation> mélanger </operation> . <operation> passer </operation> ensuite au <operation> mixer </operation> . <operation> reverser </operation> dans la casserole et laisser <operation> mijoter </operation> jusqu' à épaississement . faire <operation ingredients="côtelettes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="12"> côtelettes </ingredient> dans un peu de <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> pendant quelques minutes , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="côtelettes"> dresser </operation> 3 <ingredient action="dresser" quantite="12"> côtelettes </ingredient> en <operation> forme </operation> de couronne sur chaque assiette . <operation> napper </operation> celles-ci de sauce et <operation ingredients="légumes;tomates"> décorer </operation> avec des <ingredient action="décorer" quantite="1;1;50 gramme"> légumes </ingredient> <operation> rissolés </operation> ( tranches de courgettes ou rondelles de <ingredient action="décorer"> tomates </ingredient> . . . ) . saint-estèphe ou graves
+</preparation>
+</recette>

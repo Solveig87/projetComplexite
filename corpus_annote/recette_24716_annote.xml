@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24716">
+<titre>Crème glacée à la pistache</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>75 g d'amandes</p>
+<p>225 g de pistaches</p>
+<p>75 cl de lait</p>
+<p>9 jaunes d'oeufs</p>
+<p>300 g de sucre</p>
+<p>150 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="amandes;pistaches"> moudre </operation> les <ingredient action="moudre" quantite="75 gramme"> amandes </ingredient> et les <ingredient action="moudre" quantite="225 gramme"> pistaches </ingredient> puis les <operation> mettre </operation> à <operation ingredients="lait"> infuser </operation> dans le <ingredient action="infuser" quantite="75 cl"> lait </ingredient> . amener à <operation> ébullition </operation> puis <operation> couper </operation> le feu , laisser refroidir puis <operation> filtrer </operation> . <operation ingredients="oeufs;sucre"> fouetter </operation> les jaunes d' <ingredient action="fouetter"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="300 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="lait"> incorporer </operation> progressivement le <ingredient action="incorporer" quantite="75 cl"> lait </ingredient> puis <operation> remettre </operation> sur feu doux et laisser <operation> épaissir </operation> en <operation> remuant </operation> sans cesse . ne pas faire <operation> bouillir </operation> . lorsque le <operation> mélange </operation> est froid , <operation ingredients="crème;chantilly"> incorporer </operation> la <ingredient action="incorporer" quantite="150 gramme"> crème </ingredient> <operation> fouettée </operation> en <ingredient action="incorporer"> chantilly </ingredient> . <operation> verser </operation> dans la sorbetière et laisser prendre .
+</preparation>
+</recette>

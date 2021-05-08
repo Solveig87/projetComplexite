@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23223">
+<titre>Ratatouille</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>350 g d'aubergines</p>
+<p>350 g de courgettes</p>
+<p>350 g de poivrons de couleur rouge et vert</p>
+<p>350 g d'oignons</p>
+<p>500 g de tomates bien mûres</p>
+<p>3 gousses d'ail</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>1 brin de thym</p>
+<p>1 feuille de laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="500 gramme"> tomates </ingredient> <operation ingredients="aubergines"> pelées </operation> en quartiers , les <ingredient action="peler" quantite="350 gramme"> aubergines </ingredient> et les courgettes en rondelles . <operation ingredients="poivrons;oignon"> emincez </operation> les <ingredient action="emincez" quantite="350 gramme"> poivrons </ingredient> en lamelles et l' <ingredient action="emincez" quantite="350 gramme"> oignon </ingredient> en rouelles . <operation> chauffez </operation> 2 cuillères à soupe d' huile dans une <operation> poêle </operation> et faites - y <operation ingredients="oignons;poivrons"> fondre </operation> les <ingredient action="fondre" quantite="350 gramme"> oignons </ingredient> et les <ingredient action="fondre" quantite="350 gramme"> poivrons </ingredient> . lorsqu' ils sont tendres , <operation ingredients="tomates;ail;thym;laurier"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> tomates </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> , le <ingredient action="ajouter"> thym </ingredient> et le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> mijoter </operation> doucement à <operation> couvert </operation> durant 45 minutes . pendant ce temps , <operation ingredients="aubergines"> préparez </operation> les <ingredient action="préparer" quantite="350 gramme"> aubergines </ingredient> et les courgettes . faites les <operation ingredients="huile"> cuire </operation> séparemment dans l' <ingredient action="cuire" quantite="6 cuillère à soupe"> huile </ingredient> d' olive pendant 15 minutes . vérifiez la cuisson des <ingredient quantite="350 gramme;350 gramme;350 gramme;500 gramme"> légumes </ingredient> pour qu' ils ne soient plus fermes . <operation ingredients="tomates"> ajoutez </operation> les alors au <operation> mélange </operation> de <ingredient action="ajouter" quantite="500 gramme"> tomates </ingredient> et prolongez la cuisson sur tout petit feu pendant 10 min . <operation> salez </operation> et <operation> poivrez </operation> si besoin . très bon chaud mais peut aussi se servir froid .
+</preparation>
+</recette>

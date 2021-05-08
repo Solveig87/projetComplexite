@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44995">
+<titre>Omelette palermitaine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 œufs</p>
+<p>60 g de raisins secs</p>
+<p>40 g de pignons</p>
+<p>40 g de pain rassis</p>
+<p>140 g de concentré de tomate</p>
+<p>1 gousse d'ail</p>
+<p>1 sucre</p>
+<p>25 cl d'eau</p>
+<p>huile</p>
+<p>thym, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate;ail;sucre;thym"> préparer </operation> une sauce tomate , dans une grande <operation> poêle </operation> , avec le <operation> concentré </operation> de <ingredient action="préparer"> tomate </ingredient> , l' <ingredient action="préparer"> ail </ingredient> , l' eau , le <ingredient action="préparer" quantite="1"> sucre </ingredient> , le <ingredient action="préparer" quantite=""> thym </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> et laisser <operation> mijoter </operation> à feu doux . pendant ce temps <operation ingredients="pain"> râper </operation> le <ingredient action="râper" quantite="40 gramme"> pain </ingredient> rassis , <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="8"> œufs </ingredient> , puis y <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter" quantite="60 gramme"> raisins </ingredient> secs préalablement <operation ingredients="pain"> trempés </operation> à l’ eau tiède et le <ingredient action="tremper" quantite="40 gramme"> pain </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . faire <operation ingredients="huile"> chauffer </operation> un peu d’ <ingredient action="chauffer" quantite=""> huile </ingredient> dans une <operation> poêle </operation> moyenne , y faire <operation ingredients="pignons"> dorer </operation> les <ingredient action="dorer" quantite="40 gramme"> pignons </ingredient> , puis y <operation> verser </operation> l’ appareil et faire <operation> cuire </operation> l' omelette des 2 côtés . l' omelette étant <operation> cuite </operation> des 2 côtés , la <operation> verser </operation> dans la <operation> poêle </operation> contenant la sauce tomate et laisser <operation> mijoter </operation> encore 2 à 3 min .
+</preparation>
+</recette>

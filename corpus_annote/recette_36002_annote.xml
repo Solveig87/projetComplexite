@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36002">
+<titre>Maquereaux au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 maquereaux</p>
+<p>1 belle tomate</p>
+<p>1 oignon</p>
+<p>1 bouillon de pot au feu</p>
+<p>huile d'olive</p>
+<p>poivre</p>
+<p>herbes de provence</p>
+<p>eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="maquereaux"> vider </operation> les <ingredient action="vider" quantite="2"> maquereaux </ingredient> et les <operation> déposer </operation> dans un plat allant au four . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en lamelles et les <operation ingredients="poissons"> disposer </operation> autour des <ingredient action="disposer" quantite="2"> poissons </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="1"> tomates </ingredient> en quartier et les <operation> disposer </operation> dans le plat . <operation ingredients="maquereaux;huile"> arroser </operation> les <ingredient action="arroser" quantite="2"> maquereaux </ingredient> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive . <operation ingredients="bouillon;maquereaux"> emietter </operation> le <ingredient action="emietter" quantite="1"> bouillon </ingredient> sur les <ingredient action="emietter" quantite="2"> maquereaux </ingredient> et dans le plat . <operation> poivrer </operation> à votre convenance . <operation> mouiller </operation> avec de l' eau de manière à ce qu' elle atteigne la moitié des <ingredient quantite="2"> poissons </ingredient> . <operation> enfourner </operation> et <operation> cuire </operation> à 120 <operation> ° </operation> c ( thermostat 4 ) pendant 20 minutes ( surveiller le niveau d' eau de temps en temps s' il en manque en <operation> rajouter </operation> ) . s' <operation ingredients="riz"> accompagne </operation> de <ingredient action="accompagne"> riz </ingredient> , pâtes voire de frites .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23027">
+<titre>Salade de pâtes au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes (Farfale) </p>
+<p>4 petits chèvres frais </p>
+<p>3-4 tomates</p>
+<p>1 bouquet de basilic</p>
+<p>1 citron</p>
+<p>huile d'olive</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+1 ) faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> . <operation> passez </operation> - les sous l' eau froide et <operation> égouttez </operation> - les . 2 ) <operation ingredients="chèvres"> emiettez </operation> les petits <ingredient action="emietter" quantite="4"> chèvres </ingredient> en morceaux . laisser <operation ingredients="chèvres;pâtes"> fondre </operation> les petits <ingredient action="fondre" quantite="4"> chèvres </ingredient> sur les <ingredient action="fondre" quantite="400 gramme"> pâtes </ingredient> chaudes . 3 ) <operation ingredients="tomates"> lavez </operation> et <operation> découpez </operation> les <ingredient action="laver" quantite="3"> tomates </ingredient> en petits dés . <operation> ajoutez </operation> - les aux <ingredient quantite="400 gramme"> pâtes </ingredient> . 4 ) <operation ingredients="huile;jus;poivre;sel;basilic"> préparez </operation> la sauce avec l' <ingredient action="préparer" quantite=""> huile </ingredient> d' olive , le <ingredient action="préparer"> jus </ingredient> de citron , le <ingredient action="préparer"> poivre </ingredient> , le <ingredient action="préparer"> sel </ingredient> et le <ingredient action="préparer"> basilic </ingredient> haché . <operation ingredients="pâtes"> versez </operation> la sauce sur les <ingredient action="verser" quantite="400 gramme"> pâtes </ingredient> et <operation> mélangez </operation> . 5 ) servez frais .
+</preparation>
+</recette>

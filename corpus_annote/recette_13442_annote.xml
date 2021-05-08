@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13442">
+<titre>Omelette norvégienne</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/2 litre de glace à la vanille</p>
+<p>1 fond de génoise</p>
+<p>100 g de fruits confits</p>
+<p>3 cuillères à soupe de kirsch</p>
+<p>Pour la meringue :</p>
+<p>3 blancs d'oeufs</p>
+<p>75 g de sucre glace</p>
+<p>75 g de sucre semoule</p>
+<p>Pour le sirop de sucre :</p>
+<p>150 g de sucre</p>
+<p>2,5 dl d'eau</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="fruits;confits"> macérer </operation> les <ingredient action="macérer"> fruits </ingredient> <ingredient action="macérer" quantite="100 gramme"> confits </ingredient> dans la moitié du kirsch , pendant une heure au réfrigérateur . <operation ingredients="fruits;confits;glace"> mélangez </operation> les <ingredient action="mélanger"> fruits </ingredient> <ingredient action="mélanger" quantite="100 gramme"> confits </ingredient> et le kirsch à la <ingredient action="mélanger"> glace </ingredient> à la vanille . puis <operation> mettre </operation> au congélateur . <operation ingredients="sirop"> préparez </operation> le <ingredient action="préparer"> sirop </ingredient> de sucre en <operation ingredients="sucre"> mettant </operation> dans une casserole l' eau et le <ingredient action="mettre" quantite="75 gramme+75 gramme+150 gramme"> sucre </ingredient> à feu doux , <operation> tournez </operation> avec une spatule en bois pour que le <ingredient action="fondre" quantite="75 gramme+75 gramme+150 gramme"> sucre </ingredient> <operation ingredients="sucre"> fonde </operation> . <operation ingredients="sirop;bouillon"> retirez </operation> le <ingredient action="retirer"> sirop </ingredient> dès le premier <ingredient action="retirer"> bouillon </ingredient> . aromatisez - le avec le kirsch lorsqu' il est refroidi . <operation> découpez </operation> la génoise dans le sens de l' épaisseur . a l' aide d' un pinceau , <operation> imbibez </operation> les 2 moitiés avec le <ingredient> sirop </ingredient> parfumé au kirsch . <operation> mettez </operation> au congélateur au moins une heure . <operation ingredients="glace"> moulez </operation> la <ingredient action="moudre"> glace </ingredient> en <operation> forme </operation> d' omelette ovale et <operation> posez </operation> - la sur la moitié de la génoise qui <operation> couvre </operation> le fond du plat de service . <operation> façonnez </operation> la génoise restante pour qu' elle <operation ingredients="glace"> recouvre </operation> complètement la <ingredient action="recouvrir"> glace </ingredient> . <operation ingredients="fruits;confits"> décorez </operation> avec des <ingredient action="décorer"> fruits </ingredient> <ingredient action="décorer" quantite="100 gramme"> confits </ingredient> et <operation> remettez </operation> au congélateur pendant au moins 3 h. <operation> préparez </operation> la meringue : <operation> battez </operation> les blancs en neige ferme en <operation ingredients="sucres"> incorporant </operation> peu à peu le <operation> mélange </operation> des 2 <ingredient action="incorporer" quantite="75 gramme+75 gramme+150 gramme"> sucres </ingredient> . <operation> chauffez </operation> le four au maximum . a l' aide d' une spatule , <operation> recouvrez </operation> toute la surface de la génoise avec la meringue . <operation> passez </operation> le plat au four juste pour <operation> dorer </operation> la meringue , 5 mn avant de servir . recette facile mais délicate .
+</preparation>
+</recette>

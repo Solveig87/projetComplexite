@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72251">
+<titre>Pennes en risotto</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de pennes</p>
+<p>200 g de tomates cerises</p>
+<p>50 cl de bouillon de volaille</p>
+<p>4 tranches fines de jambon de pays</p>
+<p>150 g d'olives vertes dénoyautées</p>
+<p>50 g de parmesan </p>
+<p>10 cl d'huile d'olive</p>
+<p>1 bouquet de basilic frais</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="olives"> couper </operation> les <ingredient action="couper"> olives </ingredient> en deux et les <operation> réserver </operation> dans un saladier . y <operation ingredients="jambon;parmesan"> ajouter </operation> le <ingredient action="ajouter"> jambon </ingredient> <operation> coupé </operation> en fines lanières , le <ingredient action="ajouter" quantite="50 gramme"> parmesan </ingredient> <operation ingredients="basilic"> coupé </operation> en lanières à l' aide d' un économe et le <ingredient action="couper"> basilic </ingredient> frais <operation> émincé </operation> . <operation> mettre </operation> de côté . dans une sauteuse ou un wok , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="10 cl"> huile </ingredient> et y <operation ingredients="pennes"> verser </operation> les <ingredient action="verser" quantite="250 gramme"> pennes </ingredient> . quand celles-ci sont bien <operation> enrobées </operation> , <operation ingredients="tomates;cerises"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> tomates </ingredient> <ingredient action="ajouter"> cerises </ingredient> <operation> coupées </operation> en deux et laissez sur feu vif pendant 5 min . <operation ingredients="bouillon;pennes"> mouiller </operation> avec le <ingredient action="mouiller" quantite="50 cl"> bouillon </ingredient> de volaille au fur et à <operation> mesure </operation> jusqu' a cuisson des <ingredient action="mouiller" quantite="250 gramme"> pennes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation> mettre </operation> dans un plat de service et <operation> ajouter </operation> par dessus le contenu du saladier . <operation> mélanger </operation> au dernier moment . bon appétit !
+</preparation>
+</recette>

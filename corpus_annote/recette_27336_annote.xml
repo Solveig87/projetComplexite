@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27336">
+<titre>Joue de porc au poivre vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de joue de cochon</p>
+<p>1 petite boîte de tomates pelées ou 3 petites tomates fraîches</p>
+<p>1 gousse d'ail écrasée</p>
+<p>1 verre à liqueur de vin blanc</p>
+<p>poivre vert écrasé</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>sel </p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> sur toutes ses faces , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , les <ingredient> tomates </ingredient> ( s' il sagit d' une boîte ne <operation ingredients="jus;sel;poivre;vin"> mettez </operation> pas le <ingredient action="mettre"> jus </ingredient> ) , le <ingredient action="mettre" quantite=""> sel </ingredient> , un peu de <ingredient action="mettre" quantite=""> poivre </ingredient> et le <ingredient action="mettre"> vin </ingredient> blanc . <operation> couvrir </operation> et laisser <operation> mijoter </operation> pendant 45 mn . <operation ingredients="poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> poivre </ingredient> vert et laisser <operation> réduire </operation> 15 mn . avant de servir <operation ingredients="crème;persil"> mélanger </operation> la <ingredient action="mélanger" quantite="1 cuillère à soupe"> crème </ingredient> et le <ingredient action="mélanger" quantite=""> persil </ingredient> . est délicieux servi avec des <ingredient> galettes </ingredient> de pommes de terre au <ingredient> munster </ingredient> . fleury ( <ingredient> côte </ingredient> de beujolais )
+</preparation>
+</recette>

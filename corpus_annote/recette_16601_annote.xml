@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16601">
+<titre>Magrets de canard au cidre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 magrets de canard</p>
+<p>3 échalotes moyennes</p>
+<p>1 verre de vin blanc</p>
+<p>1 litre de cidre</p>
+<p>baies rose</p>
+<p>crème liquide</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="magrets"> cuire </operation> les <ingredient action="cuire" quantite="8"> magrets </ingredient> à la <operation> poêle </operation> , en commençant par le côté peau , laisser <operation> dorer </operation> et <operation> saisir </operation> légèrement côté viande . <operation ingredients="échalotes"> emincer </operation> les <ingredient action="emincer" quantite="3"> échalotes </ingredient> , les faire <operation> revenir </operation> dans une casserole , <operation ingredients="vin"> mettre </operation> le <ingredient action="mettre" quantite="1 verre"> vin </ingredient> blanc et laisser <operation> réduire </operation> . <operation ingredients="cidre;crème"> mettre </operation> le <ingredient action="mettre" quantite="1 litre"> cidre </ingredient> et la <ingredient action="mettre" quantite=""> crème </ingredient> selon votre goût et laisser <operation> réduire </operation> jusqu' à ce que la sauce soit homogène . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="magrets"> couper </operation> les <ingredient action="couper" quantite="8"> magrets </ingredient> en lamelles , les <operation> cuire </operation> à souhait dans un four très chaud . les <operation> disposer </operation> dans les assiettes , <operation ingredients="cidre"> recouvrir </operation> de sauce au <ingredient action="recouvrir" quantite="1 litre"> cidre </ingredient> et <operation> parsemer </operation> de baies roses . si le goût du <ingredient action="faire" quantite="1 litre"> cidre </ingredient> se <operation ingredients="cidre"> fait </operation> trop sentir n' ayait pas peur de <operation ingredients="crème"> remettre </operation> de la <ingredient action="remettre" quantite=""> crème </ingredient> .
+</preparation>
+</recette>

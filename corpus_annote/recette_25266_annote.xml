@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25266">
+<titre>Soupe carotte pomme de terre à la mozzarella</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>6 pommes de terre</p>
+<p>6 carottes</p>
+<p>1 cube de bouillon de viande</p>
+<p>60 g de beurre</p>
+<p>5 cuillères à soupe d'huile</p>
+<p>1 poivron</p>
+<p>250 g de mozzarella</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="carottes;pommes"> cuire </operation> les <ingredient action="cuire" quantite="6"> carottes </ingredient> et les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre <operation> coupées </operation> en cubes dans l' eau bouillante <operation> salée </operation> durant environ 20 minutes puis <operation> réduisez </operation> - les en purée . faites <operation ingredients="oignons;beurre;huile"> fondre </operation> les <ingredient action="fondre" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> et l' <ingredient action="fondre" quantite="5 cuillère à soupe"> huile </ingredient> puis <operation> ajoutez </operation> la purée . <operation> versez </operation> 2 litres d' eau , <operation> salez </operation> , <operation ingredients="bouillon;poivron"> ajoutez </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> et le <ingredient action="ajouter" quantite="1"> poivron </ingredient> <operation> coupé </operation> en petits dés . <operation> cuire </operation> 15 minutes puis <operation ingredients="mozzarella"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> mozzarella </ingredient> <operation> détaillée </operation> en cubes . laissez <operation> fondre </operation> dans le liquide bouillant quelques minutes puis servez .
+</preparation>
+</recette>

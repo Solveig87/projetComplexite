@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21777">
+<titre>Filets de soles à la sauce blanche</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 soles vidées, écaillées</p>
+<p>10 cl de vin blanc sec</p>
+<p>1 oignon piqué d'un clou de girofle</p>
+<p>1 bouquet garni</p>
+<p>1 carotte</p>
+<p>1 citron</p>
+<p>1 poignée de fines herbes hachées</p>
+<p>farine</p>
+<p>beurre</p>
+<p>sel</p>
+<p>poivre en grains</p>
+</ingredients>
+<preparation>
+faites lever les filets de <ingredient> sole </ingredient> par le poissonier , récupérez les <ingredient> têtes </ingredient> et les arêtes . faites <operation ingredients="vin;oignon;bouquet;poisson;sel;poivre"> chauffer </operation> 1 l d' eau avec le <ingredient action="chauffer" quantite="10 cl"> vin </ingredient> blanc , l' <ingredient action="chauffer" quantite="1"> oignon </ingredient> , le <ingredient action="chauffer" quantite="1"> bouquet </ingredient> <operation> garni </operation> , la <ingredient action="peler" quantite="1"> carotte </ingredient> <operation ingredients="carotte"> pelée </operation> et <operation> coupée </operation> en rondelles , les déchets de <ingredient action="chauffer"> poisson </ingredient> , du <ingredient action="chauffer" quantite=""> sel </ingredient> et du <ingredient action="chauffer" quantite=""> poivre </ingredient> . <operation> portez </operation> à <operation> ébullition </operation> et maintenez 30 minutes . laissez refroidir . <operation ingredients="sole"> déposez </operation> les filets de <ingredient action="déposer"> sole </ingredient> dans le court-bouillon , <operation> portez </operation> à <operation> ébullition </operation> . dès celle-ci , <operation ingredients="soles"> retirez </operation> les <ingredient action="retirer"> soles </ingredient> qui doivent être <operation> cuites </operation> à point . <operation> egouttez </operation> - les et <operation> réservez </operation> au chaud . <operation> filtrez </operation> le court-bouillon en <operation ingredients="têtes;légumes"> pressant </operation> bien les <ingredient action="presser"> têtes </ingredient> de poissons et les <ingredient action="presser" quantite="1;1;1"> légumes </ingredient> pour exprimer les sucs . faites <operation> réduire </operation> le court-bouillon de moitié . <operation ingredients="beurre;farine"> travaillez </operation> 20 g de <ingredient action="travailler"> beurre </ingredient> et de <ingredient action="travailler" quantite=""> farine </ingredient> en une pommade <operation> lisse </operation> . <operation> ajoutez </operation> - la dans le court-bouillon réduit en <operation> fouettant </operation> . <operation> nappez </operation> les <ingredient action="arroser"> soles </ingredient> de sauce , <operation ingredients="soles;citron"> arrosez </operation> de <ingredient action="arroser" quantite="1"> citron </ingredient> et <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer"> persil </ingredient> . <operation ingredients="pommes;riz;légumes"> accompagnez </operation> de <ingredient action="accompagner"> pommes </ingredient> de terre rissolées , <ingredient action="accompagner"> riz </ingredient> ou petits <ingredient action="accompagner" quantite="1;1;1"> légumes </ingredient> <operation> sautés </operation> .
+</preparation>
+</recette>

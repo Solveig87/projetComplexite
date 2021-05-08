@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22571">
+<titre>Poulet  au vin blanc et oignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses et hauts de poulet</p>
+<p>2 oignons</p>
+<p>20 cl de vin blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> retirer </operation> la peau des morceaux de <ingredient action="retirer"> poulet </ingredient> . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> ou utiliser des <ingredient quantite="2"> oignons </ingredient> surgelés . <operation ingredients="oignons"> disposer </operation> dans un plat un lit d' <ingredient action="disposer" quantite="2"> oignons </ingredient> . <operation ingredients="poulet"> poser </operation> les morceaux de <ingredient action="poser"> poulet </ingredient> dessus . <operation ingredients="vin"> arroser </operation> avec le <ingredient action="arroser" quantite="20 cl"> vin </ingredient> blanc . <operation ingredients="sel;thym"> ajouter </operation> <ingredient action="ajouter"> sel </ingredient> , poivre et toutes herbes à votre convenance ( <ingredient action="ajouter"> thym </ingredient> , laurier ou basilic ) . <operation> mettre </operation> au four pendant 50 min , <operation ingredients="jus"> arroser </operation> de temps en temps avec le <ingredient action="arroser"> jus </ingredient> de cuisson . il est possible de <operation ingredients="tomates;oignons"> rajouter </operation> quelques rondelles de <ingredient action="rajouter"> tomates </ingredient> sur le lit d' <ingredient action="rajouter" quantite="2"> oignons </ingredient> . servez avec une purée .
+</preparation>
+</recette>

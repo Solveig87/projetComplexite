@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42171">
+<titre>Haricots verts, sauce soja et graines de sésame</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de haricots verts surgelés</p>
+<p>1 gros oignon</p>
+<p>ail (suivant les goûts)</p>
+<p>gingembre en poudre</p>
+<p>6 cuillères à café de sauce soja</p>
+<p>3 cuillères à soupe de graines de sésame </p>
+<p>huile </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="haricots"> décongeler </operation> les <ingredient action="décongeler"> haricots </ingredient> verts , au micro-ondes . <operation ingredients="oignons;ail"> hacher </operation> finement les <ingredient action="hacher" quantite="1"> oignons </ingredient> et l' <ingredient action="hacher" quantite=""> ail </ingredient> . et les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> , avec l' <ingredient action="revenir" quantite=""> huile </ingredient> . <operation ingredients="haricots;gingembre;sel;poivre"> rajouter </operation> les <ingredient action="rajouter"> haricots </ingredient> verts <operation> décongelés </operation> , le <ingredient action="rajouter"> gingembre </ingredient> en <operation> poudre </operation> , le <ingredient action="rajouter" quantite=""> sel </ingredient> et le <ingredient action="rajouter" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> pendant 10 / 15 minutes . <operation> rajouter </operation> de l' eau si necessaire , pour éviter que ça attache . <operation ingredients="soja"> rajouter </operation> la sauce <ingredient action="rajouter"> soja </ingredient> , et faire <operation> cuire </operation> 5 min . en fin de cuisson , <operation ingredients="sésame"> rajouter </operation> les graines de <ingredient action="rajouter"> sésame </ingredient> , et faire <operation> cuire </operation> 2 ou 3 minutes . servir chaud . j' aime bien <operation> accompagner </operation> ce plat de purée .
+</preparation>
+</recette>

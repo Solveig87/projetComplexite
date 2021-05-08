@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36539">
+<titre>Pizza des lendemains de poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza</p>
+<p>Restes de poulet rôti</p>
+<p>20 cl de sauce tomate</p>
+<p>un peu de crème fraîche</p>
+<p>quelques olives</p>
+<p>herbes de Provence</p>
+<p>30 g de gruyère râpé</p>
+<p>2 pommes de terre</p>
+<p>quelques lardons non fumés</p>
+<p>quelques tranches de raclette</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> cuisez </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre en robe des champs . <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> sur une <operation> plaque </operation> ( vous <operation> retournerez </operation> les bords à la fin ) et <operation> piquez </operation> légèrement avec une fourchette . <operation ingredients="crème"> etalez </operation> la sauce tomate et un peu de <ingredient action="etaler"> crème </ingredient> fraîche . <operation ingredients="gruyère"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="30 gramme"> gruyère </ingredient> et d' herbes de provence . <operation ingredients="pommes;poulet;lardons;olives"> déposez </operation> les <ingredient action="déposer" quantite="2"> pommes </ingredient> de terre en rondelles , les petits morceaux de <ingredient action="déposer"> poulet </ingredient> , quelques <ingredient action="déposer" quantite="quelque"> lardons </ingredient> , quelques <ingredient action="déposer" quantite="quelque"> olives </ingredient> . <operation> recouvrez </operation> de tranches fines de raclette . <operation ingredients="pâte"> retournez </operation> les bords de la <ingredient action="retourner" quantite="1"> pâte </ingredient> sur la préparation . <operation> mettre </operation> au four préchauffé à thermostat 7 / 8 ( 230 <operation> ° </operation> c ) environ 15 à 20 min .
+</preparation>
+</recette>

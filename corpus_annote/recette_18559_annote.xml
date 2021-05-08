@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18559">
+<titre>Barquette de concombre au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>1 grande boîte de thon</p>
+<p>de la mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> peler </operation> les <ingredient action="peler" quantite="2"> concombres </ingredient> puis <operation> couper </operation> dans le sens de la longueur . <operation> évider </operation> les demi-concombres pour avoir des barquettes ; si besoin <operation ingredients="concombres"> saler </operation> les <ingredient action="saler" quantite="2"> concombres </ingredient> et <operation> poivrer </operation> . <operation ingredients="thon"> écraser </operation> le <ingredient action="écraser"> thon </ingredient> et <operation ingredients="mayonnaise"> mélanger </operation> avec de la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> selon votre convenance . <operation ingredients="concombres"> répartir </operation> dans les <ingredient action="répartir" quantite="2"> concombres </ingredient> . <operation> mettre </operation> au réfrigérateur pendant 30 min . puis servir . très apprécié par les enfants .
+</preparation>
+</recette>

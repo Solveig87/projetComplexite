@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18000">
+<titre>Poulet sauté</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>4 tomates</p>
+<p>2 oignons</p>
+<p>des frites (surgelées c'est bien)</p>
+<p>2 c de persil haché</p>
+<p>1 gousse d'ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en morceaux . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="tomates"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> tomates </ingredient> et les <operation ingredients="carrés"> couper </operation> en <ingredient action="couper"> carrés </ingredient> . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> en rondelles . dans une <operation> poêle </operation> , <operation ingredients="huile"> mettez </operation> un peu d' <ingredient action="mettre"> huile </ingredient> et faire <operation ingredients="poulet"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> , faire <operation> dorer </operation> et y <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> et l' <ingredient action="concasser"> ail </ingredient> <operation ingredients="ail"> concassé </operation> . faire <operation> cuire </operation> 4 minutes et <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> . vérifier le <ingredient quantite=""> sel </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 10 min . faire les frites . au bout de 10 mn , <operation ingredients="poulet"> ajouter </operation> les frites à la préparation du <ingredient action="ajouter"> poulet </ingredient> , n' oubliez pas le <ingredient> persil </ingredient> et servir immédiatement . <operation ingredients="riz"> accompagner </operation> du <ingredient action="accompagner"> riz </ingredient> . plat péruvien .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166066">
+<titre>Pamplemousse ivre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 pomelos rose</p>
+<p>30 g de sucre</p>
+<p>40 cl d'armagnac</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="pamplemousses"> pelez </operation> la peau des <ingredient action="peler"> pamplemousses </ingredient> . <operation ingredients="pamplemousse;sucre"> saupoudrez </operation> chaque <ingredient action="saupoudrer"> pamplemousse </ingredient> de 6 g de <ingredient action="saupoudrer" quantite="30 gramme"> sucre </ingredient> . <operation ingredients="pamplemousse"> arrosez </operation> chaque <ingredient action="arroser"> pamplemousse </ingredient> d' armagnac . faites <operation> chauffer </operation> au four à 180 c ° pendant 15 minutes . vous pouvez <operation> changer </operation> d' agrumes et d' alcool mais gardez toujours un alcool à plus de 30 <operation> degrés </operation> . surveillez la cuisson sans partir car ça varie selon les fours .
+</preparation>
+</recette>

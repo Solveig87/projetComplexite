@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61905">
+<titre>Soupe froide d'Avocat avec tartare de petites crevettes roses</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la soupe :</p>
+<p>5 avocats pelés, sans noyaux et coupés en morceaux</p>
+<p>48 cl de cube de bouillon de légumes froid</p>
+<p>12 cl de lait froid</p>
+<p>1 gousse d'ail hachée</p>
+<p>sel, poivre</p>
+<p>Pour le tartare :</p>
+<p>200 g de petites crevettes roses cuites à l'eau et refroidies</p>
+<p>4 cuillères à soupe de ciboulette finement coupée</p>
+<p>1 citron</p>
+<p>2 tomates pelées et coupées en petits morceaux</p>
+<p>25 g de mayonnaise</p>
+<p>50 g tasse de yaourt nature</p>
+<p>tabasco à volonté (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="soupe"> préparer </operation> la <ingredient action="préparer"> soupe </ingredient> : <operation ingredients="avocats;bouillon;lait;ail"> mixer </operation> les <ingredient action="mixer" quantite="5"> avocats </ingredient> , le <ingredient action="mixer"> bouillon </ingredient> , le <ingredient action="mixer" quantite="12 cl"> lait </ingredient> et l' <ingredient action="mixer"> ail </ingredient> . <operation> battre </operation> au plus fort , jusqu' à ce que le <operation> mélange </operation> devienne homogène . <operation> assaisonner </operation> et <operation> verser </operation> dans un saladier . <operation> recouvrir </operation> de cellophane et <operation> mettre </operation> au frais . <operation ingredients="tartare"> préparer </operation> le <ingredient action="préparer"> tartare </ingredient> : <operation ingredients="crevettes"> détailler </operation> les <ingredient action="détailler"> crevettes </ingredient> en petits dés . dans un autre saladier , <operation ingredients="tartare"> mélanger </operation> tous les ingrédients du <ingredient action="mélanger"> tartare </ingredient> et <operation> assaisonner </operation> . dans de belles coupelles , <operation ingredients="soupe"> verser </operation> la <ingredient action="verser"> soupe </ingredient> d' avocat très fraîche et , sur la superficie ( au milieu ) , <operation> mettre </operation> 1 à 2 cuillères à soupe de tartare . servir aussitôt . . . peut aussi servir comme plat principal . . . l' été , c' est délicieux très froid .
+</preparation>
+</recette>

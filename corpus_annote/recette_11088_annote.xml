@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11088">
+<titre>Croque au saumon</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de saumon fumé</p>
+<p>8 tranches de pain de mie</p>
+<p>1 noix de beurre</p>
+<p>4 cuillères à soupe de crème</p>
+<p>1 pincée de gruyère râpé</p>
+<p>4 grains de cumin</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> les bords du <ingredient action="couper" quantite="8 tranche"> pain </ingredient> de mie . <operation> beurrer </operation> une face . <operation ingredients="saumon;cumin"> mettre </operation> dessus une tranche de <ingredient action="mettre"> saumon </ingredient> et gruyère râpé , grain de <ingredient action="mettre"> cumin </ingredient> . <operation ingredients="crème"> mettre </operation> un peu de <ingredient action="mettre" quantite="4 cuillère à soupe"> crème </ingredient> fraîche sur 2ème face , <operation ingredients="gruyère"> mettre </operation> un peu de <ingredient action="mettre" quantite="1 pincée"> gruyère </ingredient> sur le dessus . glisser sous le grill du four . 4 mm . c' est chic et bon ! un verre de <ingredient> vodka </ingredient> ou blanc très sec
+</preparation>
+</recette>

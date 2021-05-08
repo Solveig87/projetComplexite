@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83729">
+<titre>Cacasse de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boites de boeuf</p>
+<p>8 pommes de terres</p>
+<p>1 boite de haricots à la tomate</p>
+<p>1 oignon</p>
+<p>Sel, poivre et thym</p>
+<p>1/2 cuillères à café de farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;margarine"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> avec de la <ingredient action="dorer"> margarine </ingredient> . <operation> éplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="8"> pommes </ingredient> de terre en longueur . <operation ingredients="pommes;oignons"> mettre </operation> les <ingredient action="mettre" quantite="8"> pommes </ingredient> de terre avec les <ingredient action="mettre" quantite="1"> oignons </ingredient> , <operation> ajouter </operation> de l' eau , les <operation> recouvrir </operation> . <operation ingredients="sel;thym"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> le poivre et le <ingredient action="ajouter"> thym </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> pour <operation> épaissir </operation> la sauce . laisser <operation> cuire </operation> 30 min environ , quand les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terres sont <operation ingredients="pommes"> cuites </operation> , <operation ingredients="viande;haricots"> ajouter </operation> la <ingredient action="ajouter"> viande </ingredient> et les <ingredient action="ajouter"> haricots </ingredient> , attention à ne pas faire trop <operation ingredients="viande"> bouillir </operation> sinon la <ingredient action="bouillir"> viande </ingredient> se démonte . a déguster bien chaud avec des <ingredient> cornichons </ingredient> . . .
+</preparation>
+</recette>

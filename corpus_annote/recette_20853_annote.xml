@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20853">
+<titre>Salade poulet avocat et basilic</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet cuit</p>
+<p>4 avocats</p>
+<p>5 oeufs durs</p>
+<p>4 tomates</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>4 cuillères à soupe de jus de citron</p>
+<p>1 bouquet de basilic ciselé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair"> coupez </operation> la <ingredient action="couper"> chair </ingredient> du poulet en morceaux . <operation ingredients="avocats"> emincez </operation> les <ingredient action="emincez" quantite="4"> avocats </ingredient> en lamelles et citronnez - les pour qu' elles ne <operation> noircissent </operation> pas . ecalez les <ingredient quantite="5"> oeufs </ingredient> , <operation> coupez </operation> - les en 4 . <operation ingredients="tomates"> lavez </operation> et <operation> coupez </operation> les <ingredient action="laver" quantite="4"> tomates </ingredient> en quartiers , <operation> épépinez </operation> - les . <operation ingredients="huile;vinaigre;sel;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="6 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner"> vinaigre </ingredient> , du <ingredient action="emulsionner" quantite=""> sel </ingredient> et du <ingredient action="emulsionner" quantite=""> poivre </ingredient> . <operation ingredients="basilic"> ajoutez </operation> le <ingredient action="ajouter"> basilic </ingredient> . <operation ingredients="tomates"> mélangez </operation> délicatement les <ingredient action="mélanger" quantite="4"> tomates </ingredient> , les <ingredient action="arroser" quantite="5"> oeufs </ingredient> , les lamelles d' <ingredient action="arroser" quantite="4"> avocat </ingredient> et les morceaux de <ingredient action="arroser" quantite="1"> poulet </ingredient> , puis <operation ingredients="oeufs;avocat;poulet"> arrosez </operation> de vinaigrette .
+</preparation>
+</recette>

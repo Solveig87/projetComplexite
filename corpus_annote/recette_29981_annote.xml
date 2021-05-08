@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29981">
+<titre>Maïs en beignets</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de maïs en grains</p>
+<p>2 oeufs</p>
+<p>20 g de beurre</p>
+<p>24 cl de lait</p>
+<p>400 g de farine</p>
+<p>1 cuillère à soupe de levure en poudre</p>
+<p>sel et poivre</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;levure;sel;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="400 gramme"> farine </ingredient> avec la <ingredient action="mélanger" quantite="1 cuillère à soupe"> levure </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger"> poivre </ingredient> . a côté , <operation ingredients="oeufs"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> , le <ingredient quantite="24 cl"> lait </ingredient> et le <ingredient quantite="20 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="maïs"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> maïs </ingredient> <operation> égoutté </operation> . <operation> mélanger </operation> les deux préparations . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> puis y <operation ingredients="pâte"> verser </operation> des cuillères de <ingredient action="verser"> pâte </ingredient> . laisser <operation> cuire </operation> jusqu' à ce qu' ils soient dorés et <operation> égoutter </operation> sur un papier absorbant avant de servir .
+</preparation>
+</recette>

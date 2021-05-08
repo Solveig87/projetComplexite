@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24829">
+<titre>Omelette tomate poivrons oignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 oeufs</p>
+<p>2 oignons</p>
+<p>2 gousses d’ail</p>
+<p>4 cuillères à soupe d’huile d’olive</p>
+<p>4 tomates pelées</p>
+<p>1 poivron rouge</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oignon"> émincer </operation> l’ <ingredient action="émincer" quantite="2"> oignon </ingredient> , puis <operation> laver </operation> , <operation> épépiner </operation> et <operation ingredients="tomates;poivron"> détailler </operation> les <ingredient action="détailler" quantite="4"> tomates </ingredient> et le <ingredient action="détailler"> poivron </ingredient> en fines lamelles . dans une <operation> poêle </operation> <operation> huilée </operation> , faire <operation ingredients="oignon;ail"> revenir </operation> l’ <ingredient action="revenir" quantite="2"> oignon </ingredient> avec l’ <ingredient action="revenir"> ail </ingredient> <operation> écrasé </operation> , puis y <operation ingredients="poivrons;tomates"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et les <ingredient action="ajouter" quantite="4"> tomates </ingredient> . laisser <operation> mijoter </operation> 10 à 15 minutes sur feu moyen en <operation> remuant </operation> régulièrement . dans un saladier , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> en omelette et <operation ingredients="sel;poivre"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> à votre guise . <operation ingredients="oeufs"> verser </operation> ensuite les <ingredient action="verser" quantite="12"> oeufs </ingredient> <operation ingredients="légumes"> battus </operation> sur les <ingredient action="battre" quantite="2;4"> légumes </ingredient> et <operation> cuire </operation> l’ omelette .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11901">
+<titre>Feuilleté d'andouille sauce au cidre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>18 tranches d'andouille épaisses</p>
+<p>6 ronds de pâte feuilletée de 10 cm de diamètre</p>
+<p>3 pommes</p>
+<p>Pour la sauce : </p>
+<p>50 cl de cidre </p>
+<p>20 cl de crème fraîche</p>
+<p>sel, poivre</p>
+<p>30 g de beurre</p>
+<p>30 g de farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="cidre"> réduire </operation> le <ingredient action="réduire" quantite="50 cl"> cidre </ingredient> de moitié , <operation ingredients="crème;farine;beurre"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et le <operation> mélange </operation> de <ingredient action="ajouter" quantite="30 gramme"> farine </ingredient> et de <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> . faire <operation ingredients="ronds"> cuire </operation> 5 min les <ingredient action="cuire" quantite="6"> ronds </ingredient> de pâte feuilleté au four 10 mn à thermostat 7 jusqu' à leur montée . faire <operation ingredients="pommes;beurre"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> 5 min en morceaux dans une poele avec du <ingredient action="cuire" quantite="30 gramme"> beurre </ingredient> . faire ensuite <operation ingredients="andouille"> chauffer </operation> l' <ingredient action="chauffer" quantite="18 tranche"> andouille </ingredient> sur un coté pour eviter quelles se défasse . <operation ingredients="ronds"> couper </operation> les <ingredient action="couper" quantite="6"> ronds </ingredient> en deux <operation ingredients="pommes;andouille"> poser </operation> les <ingredient action="poser" quantite="3"> pommes </ingredient> puis les rondelles d' <ingredient action="poser" quantite="18 tranche"> andouille </ingredient> . <operation> napper </operation> de sauce et <operation ingredients="rond"> reposer </operation> le dessus du <ingredient action="reposer" quantite="6"> rond </ingredient> . servir chaud . <ingredient quantite="50 cl"> cidre </ingredient>
+</preparation>
+</recette>

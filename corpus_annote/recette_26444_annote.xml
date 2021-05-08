@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26444">
+<titre>Omelette farcie aux 3 poivrons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 oeufs</p>
+<p>60 g de beurre</p>
+<p>2 poivrons verts</p>
+<p>2 poivrons rouges</p>
+<p>2 poivrons jaunes</p>
+<p>6 cuillères à soupe d’huile d’olive</p>
+<p>2 gousse d’ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> détailler </operation> les <ingredient action="détailler"> poivrons </ingredient> en dés et <operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> . les <operation> mettre </operation> à <operation ingredients="huile"> fondre </operation> dans l' <ingredient action="fondre"> huile </ingredient> à <operation> couvert </operation> durant 30 minutes . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> en omelette , <operation> saler </operation> , <operation> poivrer </operation> et <operation> cuire </operation> . <operation ingredients="poivrons"> garnir </operation> l' omelette nature de <ingredient action="garnir"> poivrons </ingredient> et servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16342">
+<titre>Tarte au café</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte brisée surgelée</p>
+<p>2 cuillères à café d'extrait de café</p>
+<p>100 g de sucre</p>
+<p>200 g d'amande en poudre</p>
+<p>4 oeufs</p>
+<p>40 g de beurre pour le moule</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> <operation> brisée </operation> , la plcer dans un <operation> moule </operation> à tarte beurré . <operation> piquer </operation> le fond à la fourchette . dans une casserole , faire <operation ingredients="sucre;café"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> sucre </ingredient> avec 2 cuillerées d' eau et l' extrait de <ingredient action="fondre"> café </ingredient> . faire <operation> bouillir </operation> 5 mn . laisser <operation> tiédir </operation> . <operation ingredients="sirop"> versez </operation> ce <ingredient action="verser"> sirop </ingredient> dans une terrine , <operation ingredients="amandes;oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> amandes </ingredient> et les jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> . <operation> mélanger </operation> le tout . <operation ingredients="tarte"> versez </operation> la préparation dans le fond de <ingredient action="verser"> tarte </ingredient> . <operation> enfournez </operation> à four chaud 230 <operation> ° </operation> c ( thermostat 7 ) 25 mn . laisser refroidir avant de servir . <ingredient> café </ingredient>
+</preparation>
+</recette>

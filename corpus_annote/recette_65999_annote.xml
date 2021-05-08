@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65999">
+<titre>Parmentier tricolore</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de steak haché de boeuf</p>
+<p>200 g de chair à saucisse porc/veau</p>
+<p>1 potimarron</p>
+<p>1 sachet de purée de pommes de terre déshydratée</p>
+<p>50 cl d'eau</p>
+<p>25 cl de lait</p>
+<p>1 échalote</p>
+<p>2 gousses d'ail</p>
+<p>emmental râpé (facultatif)</p>
+<p>beurre, huile d'olive</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation> vider </operation> et <operation ingredients="potimarron"> peler </operation> le <ingredient action="peler" quantite="1"> potimarron </ingredient> , le <operation> couper </operation> en gros dés et le faire <operation> cuire </operation> dans un peu d' eau <operation> salée </operation> pendant 30 min . <operation> egoutter </operation> soigneusement . <operation> peler </operation> , <operation ingredients="échalote;ail"> hacher </operation> l' <ingredient action="hacher" quantite="1"> échalote </ingredient> et l' <ingredient action="hacher"> ail </ingredient> . <operation ingredients="persil"> hacher </operation> le <ingredient action="hacher" quantite=""> persil </ingredient> pas trop fin . dans une <operation> poêle </operation> , avec un peu d' <ingredient action="fondre" quantite=""> huile </ingredient> d' olive , faire <operation ingredients="huile"> fondre </operation> sans <operation ingredients="échalote"> dorer </operation> <ingredient action="dorer" quantite="1"> échalote </ingredient> et ail , <operation ingredients="viandes"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme;200 gramme"> viandes </ingredient> prélablement <operation> mélangées </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> <operation> haché </operation> . <operation> verser </operation> dans un plat à gratin légèrement <operation> huilé </operation> . <operation ingredients="potimarron;sel"> mixer </operation> le <ingredient action="mixer" quantite="1"> potimarron </ingredient> avec un peu de <ingredient action="mixer" quantite=""> sel </ingredient> et poivre . <operation> préparer </operation> la purée en sachet selon la recette et la parfumer avec un peu de <ingredient> noix </ingredient> de muscade <operation> râpée </operation> . <operation ingredients="viandes;potimarron;pommes"> couvrir </operation> les <ingredient action="couvrir" quantite="300 gramme;200 gramme"> viandes </ingredient> de purée de <ingredient action="couvrir" quantite="1"> potimarron </ingredient> , puis de purée de <ingredient action="couvrir"> pommes </ingredient> de terre . <operation> lisser </operation> et <operation ingredients="fromage"> couvrir </operation> de <ingredient action="couvrir"> fromage </ingredient> râpé . <operation> cuire </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 30 min . servir bien chaud ! les enfants adoreront le goût <operation> sucré </operation> du <ingredient quantite="1"> potimarron </ingredient> , les 3 couleurs , et le gratiné dessus ! ! !
+</preparation>
+</recette>

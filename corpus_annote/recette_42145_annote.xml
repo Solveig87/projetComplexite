@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42145">
+<titre>Sauté de porc aux noix de cajou</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de viande de porc pour sauté</p>
+<p>1 petit poivron jaune</p>
+<p>1 petit poivron rouge</p>
+<p>1 poignée de noix de cajou grillées</p>
+<p>2 oignons</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>1/4 de litre de cidre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;poivrons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="1+1"> poivrons </ingredient> <operation> coupés </operation> en fine lamelles . <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter" quantite="300 gramme"> viande </ingredient> <operation> coupée </operation> en petits cubes , et faites - la <operation ingredients="légumes"> revenir </operation> avec les <ingredient action="revenir" quantite="1+1;2"> légumes </ingredient> . <operation ingredients="viande"> laissez </operation> la <ingredient action="laisser" quantite="300 gramme"> viande </ingredient> <operation> dorer </operation> . <operation ingredients="cidre"> ajoutez </operation> le <ingredient action="ajouter"> cidre </ingredient> , et <operation ingredients="bouillon;noix"> émiettez </operation> le cube de <ingredient action="émietter"> bouillon </ingredient> de boeuf , et les <ingredient action="émietter"> noix </ingredient> de cajou . laissez <operation> réduire </operation> 10 à 15 min .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67434">
+<titre>Lasagne saumon et julienne de légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 feuilles de lasagne (en fonction du plat utilisé)</p>
+<p>500 g de saumon frais cru émietté grossièrement</p>
+<p>600 g julienne de légumes congelés ou maison</p>
+<p>1 oignon émincé très fin</p>
+<p>1 petite branche de thym</p>
+<p>1 cuillerée à soupe d'huile d'olive</p>
+<p>50 cl de béchamel</p>
+<p>quelques pincée de noix de muscade</p>
+<p>sel et poivre selon goût</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> fondre </operation> l' <ingredient action="fondre" quantite="1"> oignon </ingredient> <operation> émincé </operation> sans coloration dans une casserole . <operation ingredients="légumes"> ajouter </operation> la julienne de <ingredient action="ajouter" quantite="1"> légumes </ingredient> et <operation> cuire </operation> doucement 15 min ( si julienne maison , la <operation> blanchir </operation> auparavant ) . <operation ingredients="béchamel;légumes;fromage;béchamel;saumon"> déposer </operation> par couches successives quelques cuilères de <ingredient action="déposer" quantite="50 cl"> béchamel </ingredient> dans un plat beurré , puis les feuilles de lasagne , la julienne de <ingredient action="déposer" quantite="1"> légumes </ingredient> , le <ingredient action="déposer"> fromage </ingredient> râpé , la <ingredient action="déposer" quantite="50 cl"> béchamel </ingredient> , le <ingredient action="déposer"> saumon </ingredient> cru émietté etc. . . terminer par les feuilles de lasagne et la <ingredient quantite="50 cl"> béchamel </ingredient> . <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir"> fromage </ingredient> râpé . <operation> mettre </operation> au four préchauffé à 180 <operation> ° </operation> c ( thermostat 6 ) environ 40 min . ce plat peut être <operation> préparé </operation> la veille et <operation> cuit </operation> avant le repas . délicieux avec une <ingredient> salade </ingredient> <ingredient> mesclun </ingredient> . vin blanc sec
+</preparation>
+</recette>

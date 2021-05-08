@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29994">
+<titre>Champignons au jambon gratinés au chèvre chaud</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 gros champignons de Paris à farcir</p>
+<p>100 g de fines tranches de jambon cru</p>
+<p>4 petits fromages de chèvre mi-affinés</p>
+<p>1 petit crottin de chèvre très sec</p>
+<p>quelques petites olives noires</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> chauffez </operation> le grill du four . <operation ingredients="champignons"> nettoyez </operation> les <ingredient action="nettoyer" quantite="4"> champignons </ingredient> puis <operation ingredients="pied"> séparez </operation> le <ingredient action="séparer"> pied </ingredient> des chapeaux . <operation> posez </operation> ces derniers côté bombé sur le fond dans un plat à four <operation> huilé </operation> . <operation ingredients="champignons;huile"> arrosez </operation> les <ingredient action="arroser" quantite="4"> champignons </ingredient> d' un peu d' <ingredient action="arroser" quantite=""> huile </ingredient> puis faites - les <operation> griller </operation> au four 3 minutes . <operation ingredients="crottin"> râpez </operation> le petit <ingredient action="râpez" quantite="1"> crottin </ingredient> en fins copeaux . <operation ingredients="jambon;champignon"> coupez </operation> les tranches de <ingredient action="couper"> jambon </ingredient> de la taille des chapeaux de <ingredient action="couper" quantite="4"> champignon </ingredient> si besoin . <operation ingredients="jambon;champignon"> posez </operation> une tranche de <ingredient action="poser"> jambon </ingredient> sur chaque <ingredient action="poser" quantite="4"> champignon </ingredient> puis <operation ingredients="fromage"> déposez </operation> un petit <ingredient action="déposer" quantite="4"> fromage </ingredient> de chèvre dessus . faites à nouveau <operation> griller </operation> 3 minutes . <operation ingredients="huile;chèvre;poivre"> arrosez </operation> d' un peu d' <ingredient action="arroser" quantite=""> huile </ingredient> , <operation> parsemez </operation> de copeaux de <ingredient action="arroser"> chèvre </ingredient> et de <ingredient action="arroser" quantite=""> poivre </ingredient> . <operation ingredients="olives"> décorez </operation> d' <ingredient action="décorer" quantite="quelque"> olives </ingredient> et servez .
+</preparation>
+</recette>

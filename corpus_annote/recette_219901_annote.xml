@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219901">
+<titre>Pâtes au vin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>spaghetti</p>
+<p>3 oignons</p>
+<p>200 g de lard fumé en tranche épaisse</p>
+<p>10 saucisses snack</p>
+<p>200 g de talon de jambon</p>
+<p>70 g de concentré de tomate</p>
+<p>2 cuillères à café de 4 épices et d'herbes de Provence</p>
+<p>sel</p>
+<p>poivre</p>
+<p>35 cl de vin rouge corsé de préférence</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> blondir </operation> les <ingredient action="blondir" quantite="3"> oignons </ingredient> , les <operation ingredients="jambon"> retirer </operation> et <operation ingredients="lard"> mettre </operation> le <ingredient action="mettre" quantite="200 gramme"> lard </ingredient> <operation> coupé </operation> en morceau , <operation> retirer </operation> et faire de même avec le <ingredient action="retirer"> jambon </ingredient> <operation> coupé </operation> . <operation ingredients="vin;tomate"> mélanger </operation> le <ingredient action="mélanger" quantite="35 cl"> vin </ingredient> et le <operation> concentré </operation> de <ingredient action="mélanger"> tomate </ingredient> et <operation ingredients="viande;épices"> verser </operation> sur la <ingredient action="verser" quantite="200 gramme;10"> viande </ingredient> avec les <ingredient action="verser" quantite="2 cuillère à café"> épices </ingredient> . <operation> porter </operation> a <operation> ébullition </operation> pour évaporer le <ingredient quantite="35 cl"> vin </ingredient> quelques instants . baisser le feu et laisser <operation> cuire </operation> 40 min . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> et les <operation ingredients="viande"> mélanger </operation> à la <ingredient action="mélanger" quantite="200 gramme;10"> viande </ingredient> et enfin , servir aussitôt . c' est une recette toute simple pour toute la famille car cela n' a pas le gout du <ingredient quantite="35 cl"> vin </ingredient> malgré l' intitulé . <ingredient quantite="35 cl"> vin </ingredient> rouge
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33759">
+<titre>Gambas au safran et à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>24 gambas</p>
+<p>1/2 citron</p>
+<p>3 oranges</p>
+<p>2 gousses d'ail</p>
+<p>2 tomates</p>
+<p>huile d'olive</p>
+<p>1 pincée de pistils de safran</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+débarrasser les <ingredient quantite="24"> gambas </ingredient> de leur carapace en laissant le dernier tronçon juste avant la queue . <operation ingredients="jus;orange;citron"> presser </operation> le <ingredient action="presser"> jus </ingredient> de l' <ingredient action="presser" quantite="3"> orange </ingredient> et celui du <ingredient action="presser"> citron </ingredient> . <operation> eplucher </operation> puis <operation ingredients="ail"> émincer </operation> finement l' <ingredient action="émincer"> ail </ingredient> . <operation ingredients="tomates"> ebouillanter </operation> les <ingredient action="ebouillanter" quantite="2"> tomates </ingredient> 20 secondes <operation> peler </operation> - les , <operation> couper </operation> - les en 2 et <operation> enlever </operation> la peau et les pépins , puis <operation> couper </operation> - les en dés . dans une grande <operation> poêle </operation> , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> avant d' y précipiter les <ingredient quantite="24"> gambas </ingredient> , laisser - les <operation> cuire </operation> environ 3 mn , <operation> assaisonnez </operation> - les et <operation> retirez </operation> - les . a leur <operation> place </operation> , <operation ingredients="ail"> mettre </operation> les pétales d' <ingredient action="mettre"> ail </ingredient> , le <ingredient action="laisser"> jus </ingredient> d' orange et le <ingredient action="laisser"> safran </ingredient> , <operation ingredients="jus;safran"> laisser </operation> <operation> réduire </operation> un peu puis <operation ingredients="tomates"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> . attendre que la sauce épaississe , <operation> saler </operation> et <operation> poivrer </operation> . y <operation ingredients="gambas"> mettre </operation> les <ingredient action="mettre" quantite="24"> gambas </ingredient> à <operation> réchauffer </operation> et <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de citron . servir avec du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

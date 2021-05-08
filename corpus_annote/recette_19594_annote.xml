@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19594">
+<titre>Daube Avignonnaise</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gigot d'agneau de 2 kg</p>
+<p>300 g de petit salé (en lardons) </p>
+<p>200 g de lard</p>
+<p>200 g de couenne</p>
+<p>200 g de barde de lard</p>
+<p>1 bouquet garni (laurier, thym, persil, céleri) </p>
+<p>écorce d'orange</p>
+<p>1 litre de vin rouge type Chateauneuf du Pape</p>
+<p>2 carottes</p>
+<p>4 oignons moyens</p>
+<p>8 gousses d'ail</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gigot"> désosser </operation> le <ingredient action="désosser" quantite="1"> gigot </ingredient> et le <operation> couper </operation> en morceaux d' environ 100 g. <operation ingredients="viande;lardon"> piquer </operation> chaque morceau de <ingredient action="piquer" quantite="1;300 gramme;200 gramme"> viande </ingredient> d' un <ingredient action="piquer"> lardon </ingredient> . faire <operation ingredients="vin;huile;carottes;oignons;gousses;bouquet;orange"> mariner </operation> les morceaux 2 heures dans le <ingredient action="mariner" quantite="1 litre"> vin </ingredient> , un trait d' <ingredient action="mariner"> huile </ingredient> d' olive , les <ingredient action="mariner" quantite="2"> carottes </ingredient> , 2 des 4 <ingredient action="mariner" quantite="4"> oignons </ingredient> , 4 des 8 <ingredient action="mariner" quantite="8"> gousses </ingredient> d' ail , le <ingredient action="mariner" quantite="1"> bouquet </ingredient> <operation> garni </operation> et l' écorce d' <ingredient action="mariner"> orange </ingredient> . <operation ingredients="oignons;gousses"> hacher </operation> les 2 <ingredient action="hacher" quantite="4"> oignons </ingredient> et les 4 <ingredient action="hacher" quantite="8"> gousses </ingredient> d' ail restants . <operation ingredients="lard"> couper </operation> la couenne et le <ingredient action="couper" quantite="200 gramme"> lard </ingredient> , et les faire <operation ingredients="salé"> blanchir </operation> avec le petit <ingredient action="blanchir" quantite="300 gramme"> salé </ingredient> restant . <operation> garnir </operation> une terrine en terre de barde en couche fine . alterner les morceaux de <ingredient quantite="1"> gigot </ingredient> avec le hachis d' <ingredient quantite="4"> oignon </ingredient> / ail / couenne / <ingredient quantite="200 gramme"> lard </ingredient> , en plusieurs couches . <operation> arroser </operation> avec la marinade <operation> filtrée </operation> au chinois . <operation> couvrir </operation> de bardes . faire <operation> cuire </operation> pendant 3 heures à feu doux . avant de servir ( dans la terrine ) , <operation> enlever </operation> la barde et le surplus de gras . bon appétit !
+</preparation>
+</recette>

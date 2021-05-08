@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27530">
+<titre>Lapin sur un lit de poivrons rouges</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de lapin (ou autres morceaux selon préférence) </p>
+<p>3 gros poivrons rouges</p>
+<p>moutarde à l'ancienne (avec des grains) </p>
+<p>huile d'olive</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> tapisser </operation> le fond d' un grand plat à gratin de <ingredient action="tapisser" quantite="3"> poivrons </ingredient> rouges <operation> coupés </operation> en lamelles . <operation ingredients="lapin"> badigeonner </operation> les cuisses de <ingredient action="badigeonner"> lapin </ingredient> de moutarde à l' ancienne . les <operation ingredients="poivrons;sel"> déposer </operation> sur les <ingredient action="déposer" quantite="3"> poivrons </ingredient> rouges et <operation> assaisonner </operation> de <ingredient action="déposer" quantite=""> sel </ingredient> et poivre . <operation ingredients="huile"> verser </operation> un peu d' <ingredient action="verser" quantite=""> huile </ingredient> d' olive sur la préparation . <operation> mettre </operation> au four ( environ 200 <operation> ° </operation> c / 250 <operation> ° </operation> c ) pendant environ 1 h / 1 h 15 . <operation ingredients="lapin"> retourner </operation> régulièrement les cuisses de <ingredient action="retourner"> lapin </ingredient> pour les faire <operation> dorer </operation> de chaque côté . en fin de cuisson , <operation ingredients="crème"> mettre </operation> de la <ingredient action="mettre" quantite=""> crème </ingredient> dans le plat , <operation> remuer </operation> pour faire prendre et <operation> remettre </operation> au four 2 / 3 mn . le plat est prêt ! ce plat peut être <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

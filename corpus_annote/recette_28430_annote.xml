@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28430">
+<titre>Pain frotté à la tomate et serrano</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de campagne</p>
+<p>4 tranches de jambon serrano</p>
+<p>2 tomates</p>
+<p>ail</p>
+<p>huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;pain"> griller </operation> le <ingredient action="griller" quantite="4 tranche"> pain </ingredient> ou four ou au <operation> grille </operation> - <ingredient action="griller" quantite="4 tranche"> pain </ingredient> . <operation ingredients="pain;gousse"> frottez </operation> le <ingredient action="frotter" quantite="4 tranche"> pain </ingredient> avec une <ingredient action="frotter"> gousse </ingredient> d' ail selon votre convenance . <operation ingredients="tomate"> frottez </operation> une <ingredient action="frotter" quantite="2"> tomate </ingredient> dessus ( elle doit être bien mûre ) . <operation ingredients="huile"> ajoutez </operation> une filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , <operation> salez </operation> . <operation ingredients="jambon;pain"> déposez </operation> - y une tranche de <ingredient action="déposer" quantite="4 tranche"> jambon </ingredient> par tranche de <ingredient action="déposer" quantite="4 tranche"> pain </ingredient> et dégustez . c' est une super entrée que l' on <ingredient> mange </ingredient> dans tous les <ingredient> bars </ingredient> à " tapas " d' espagne , vous pouvez aussi proposer ce plat en apéro en <operation ingredients="pain"> coupant </operation> le <ingredient action="couper" quantite="4 tranche"> pain </ingredient> en petits morceaux .
+</preparation>
+</recette>

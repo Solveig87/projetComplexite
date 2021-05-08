@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224166">
+<titre>Riz japonais au poulet au rice cooker</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 mesures de riz rond japonais</p>
+<p>50 ml de sauce soja</p>
+<p>20 g de sucre</p>
+<p>4 cuillères à soupe de Mirin (vin de riz)</p>
+<p>600 ml d'eau</p>
+<p>1 demie carotte</p>
+<p>5 champignons</p>
+<p>200 g de poulet</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> laver </operation> le <ingredient action="laver"> riz </ingredient> puis le laisser <operation> tremper </operation> 15 minutes dans de l' eau froide . <operation ingredients="poulet;carotte;champignons"> couper </operation> le <ingredient action="couper" quantite="200 gramme"> poulet </ingredient> , la <ingredient action="couper" quantite="1"> carotte </ingredient> et les <ingredient action="couper" quantite="5"> champignons </ingredient> . dans le rice cooker , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> , la sauce <ingredient> soja </ingredient> , le mirin , le <ingredient quantite="20 gramme"> sucre </ingredient> , l' eau , les <ingredient quantite="5"> champignons </ingredient> et la <ingredient quantite="1"> carotte </ingredient> . <operation> mélanger </operation> . <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> poulet </ingredient> sur le dessus sans <operation> mélanger </operation> . allumer le rice cooker .
+</preparation>
+</recette>

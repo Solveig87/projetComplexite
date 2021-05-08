@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21452">
+<titre>Lapin sauce pain d'épices</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin coupé en morceau</p>
+<p>2 verres de vin blanc</p>
+<p>2 verres d'eau</p>
+<p>4 tranches de pain d'épices</p>
+<p>2 échalotes</p>
+<p>1 noix de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+1 ) faire <operation ingredients="beurre"> chauffer </operation> du <ingredient action="chauffer"> beurre </ingredient> dans une cocotte et y faire <operation ingredients="lapin"> revenir </operation> le <ingredient action="revenir" quantite="1"> lapin </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . 2 ) <operation ingredients="vin;échalotes"> verser </operation> le <ingredient action="verser" quantite="2 verre"> vin </ingredient> blanc et les <ingredient action="verser" quantite="2"> échalotes </ingredient> <operation> coupées </operation> . <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="pain"> ajouter </operation> 2 verres d' eau ansi que les tranches de <ingredient action="ajouter" quantite="4 tranche"> pain </ingredient> d' épices finement <operation> émiettées </operation> . 3 ) laisser <operation> cuire </operation> environ 30 mn , et servir avec des <ingredient> pâtes </ingredient> fraîches , ou de la polenta . . .
+</preparation>
+</recette>

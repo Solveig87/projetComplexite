@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81660">
+<titre>Côtes de veau aux girolles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 côtes de veau</p>
+<p>100 g de girolles</p>
+<p>une échalote</p>
+<p>une demi-gousse d'ail</p>
+<p>une noix de beurre</p>
+<p>huile</p>
+<p>du sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="côtes;huile"> revenir </operation> dans une <operation> poêle </operation> les 2 <ingredient action="revenir" quantite="2"> côtes </ingredient> de veau , dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> . pendant ce temps , <operation ingredients="girolles;couteau"> gratter </operation> les <ingredient action="gratter" quantite="100 gramme"> girolles </ingredient> à l' aide d' un <ingredient action="gratter"> couteau </ingredient> pour <operation> enlever </operation> les impuretés , <operation> couper </operation> le bout des queues et les <operation ingredients="noix;ail;échalote"> mettre </operation> dans une autre <operation> poêle </operation> , à feu doux avec une <ingredient action="mettre" quantite="1"> noix </ingredient> de beurre , la demi-gousse d' <ingredient action="mettre"> ail </ingredient> et l' <ingredient action="mettre" quantite="1"> échalote </ingredient> <operation> coupée </operation> fine . <operation> remuer </operation> souvent . <operation> retirer </operation> après environ 5 min . <operation ingredients="côtes"> retourner </operation> les <ingredient action="retourner" quantite="2"> côtes </ingredient> de veau de temps en temps et <operation ingredients="sel"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> sel </ingredient> . <operation> retirer </operation> après environ 15 min . <operation> préparer </operation> une assiette , <operation ingredients="girolles;côtes"> disposer </operation> les <ingredient action="disposer" quantite="100 gramme"> girolles </ingredient> et les <ingredient action="disposer" quantite="2"> côtes </ingredient> de veau , et régalez -vous !
+</preparation>
+</recette>

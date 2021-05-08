@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16456">
+<titre>Chiche-kebab</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de steak haché</p>
+<p>200 g d'agneau haché</p>
+<p>1 gousse ail</p>
+<p>1 oignon</p>
+<p>1 citron</p>
+<p>2 cuillères à soupe d'huile olive</p>
+<p>1 yaourt type bulgare</p>
+<p>menthe fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail"> peler </operation> et <operation> hacher </operation> très fin <ingredient action="peler"> ail </ingredient> et oignon . les <operation ingredients="jus;yaourt;huile;viandes;sel"> mettre </operation> dans une jatte avec le <ingredient action="mettre"> jus </ingredient> de citron , le <ingredient action="mettre" quantite="1"> yaourt </ingredient> , l' <ingredient action="mettre" quantite="2 cuillère à soupe"> huile </ingredient> , les <ingredient action="mettre" quantite="200 gramme;200 gramme"> viandes </ingredient> hachées , <ingredient action="mettre" quantite=""> sel </ingredient> et poivre . laisser <operation> mariner </operation> 10 minutes puis <operation> façonner </operation> des boulettes allongées à <operation ingredients="baguettes"> piquer </operation> sur des <ingredient action="piquer"> baguettes </ingredient> en bois . <operation> griller </operation> 5 minutes au grill ou au barbecue , en <operation> retournant </operation> régulièrement . servir avec la marinade <operation> assaisonnée </operation> avec la <ingredient quantite=""> menthe </ingredient> fraîche .
+</preparation>
+</recette>

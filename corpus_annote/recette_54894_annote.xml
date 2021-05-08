@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54894">
+<titre>Choucroute alsacienne sans saindoux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,8 kg de choux "CRU"</p>
+<p>6 clous de girofle</p>
+<p>2 gousses d'ail</p>
+<p>50 cl de vin blanc sec ou une bière blonde</p>
+<p>poivre</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>6 saucisses fumées</p>
+<p>6 saucisses viennoises</p>
+<p>3 jarrets de porc</p>
+<p>6 grosses tranches de lard fumé</p>
+<p>1 kg de pomme de terre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="choux"> blanchir </operation> le <ingredient action="blanchir" quantite="1,8 kilogramme"> choux </ingredient> cru dans de l' eau , bien l' <operation> égoutter </operation> , <operation> réserver </operation> . faire <operation ingredients="ail"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> <operation ingredients="huile;viandes"> pressé </operation> dans l' <ingredient action="presser" quantite="3 cuillère à soupe"> huile </ingredient> plus toutes les <ingredient action="presser" quantite="6+6;3"> viandes </ingredient> puis les <operation> retirer </operation> de la cocotte . <operation ingredients="choux;vin;bière"> rajouter </operation> le <ingredient action="rajouter" quantite="1,8 kilogramme"> choux </ingredient> , le <ingredient action="rajouter" quantite="50 cl"> vin </ingredient> blanc ou la <ingredient action="rajouter"> bière </ingredient> , compléter avec de l' eau à ras . faire <operation> mijoter </operation> environ 2 heures à <operation ingredients="saucisses;fumées;lard;jarrets"> découvert </operation> avec les <ingredient action="découvrir" quantite="6+6"> saucisses </ingredient> <ingredient action="découvrir"> fumées </ingredient> , le <ingredient action="découvrir"> lard </ingredient> , les <ingredient action="découvrir" quantite="3"> jarrets </ingredient> . <operation ingredients="pommes"> rajouter </operation> les <ingredient action="rajouter" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> épluchées </operation> , <operation> rajouter </operation> de l' eau si besoin , continuer la cuisson pendant 1 h. <operation> rajouter </operation> les viennoises et laisser <operation> mijoter </operation> , laisser tout refroidir et <operation> réchauffer </operation> . plus elle sera <operation> réchauffer </operation> , meilleure elle sera . bon appétit .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23347">
+<titre>Crème glacée au caramel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 jaunes d'oeufs</p>
+<p>350 g de sucre</p>
+<p>75 cl de lait</p>
+<p>1 citron</p>
+<p>150 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre"> oeufs </ingredient> avec 150 g de <ingredient action="battre" quantite="350 gramme"> sucre </ingredient> . <operation ingredients="lait"> porter </operation> le <ingredient action="porter" quantite="75 cl"> lait </ingredient> à <operation> ébullition </operation> . pendant ce temps , <operation ingredients="crème;chantilly"> fouetter </operation> la <ingredient action="fouetter" quantite="150 gramme"> crème </ingredient> fraîche en <ingredient action="fouetter"> chantilly </ingredient> . dans une casserole à part , <operation ingredients="sucre;jus"> mettre </operation> 200 g <ingredient action="mettre" quantite="350 gramme"> sucre </ingredient> et quelques gouttes de <ingredient action="mettre"> jus </ingredient> de citron , et faire <operation> chauffer </operation> jusqu’ à l' obtention d' un caramel doré . y <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer" quantite="75 cl"> lait </ingredient> et <operation ingredients="oeufs"> verser </operation> le tout sur les <ingredient action="verser"> oeufs </ingredient> . faire <operation> chauffer </operation> à feu doux jusqu' à ce que la préparation épaississe . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="150 gramme"> crème </ingredient> fraîche et faire prendre en sorbetière .
+</preparation>
+</recette>

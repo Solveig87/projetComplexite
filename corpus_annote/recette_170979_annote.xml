@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170979">
+<titre>Salade Salsa</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 gr de thon </p>
+<p>150 gr de maïs</p>
+<p>3 tomates </p>
+<p>1 ou 2 avocat(s)</p>
+<p>sel, poivre</p>
+<p>Pour la sauce Salsa personnalisée : </p>
+<p>vinaigre</p>
+<p>huile</p>
+<p>persil </p>
+<p>menthe (à votre goût)</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la sauce salsa en commençant par <operation ingredients="vinaigre;huile;sel;poivre;vinaigre"> mélanger </operation> le <ingredient action="mélanger" quantite=""> vinaigre </ingredient> , l' <ingredient action="mélanger" quantite=""> huile </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> et le <ingredient action="mélanger" quantite=""> vinaigre </ingredient> . <operation ingredients="persil;menthe"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite=""> persil </ingredient> et la <ingredient action="ajouter" quantite=""> menthe </ingredient> à votre convenance . <operation ingredients="tomates;avocats"> couper </operation> les <ingredient action="couper" quantite="3"> tomates </ingredient> et les <ingredient action="couper" quantite="1"> avocats </ingredient> en rondelles , puis <operation ingredients="thon;maïs"> mettre </operation> petit à petit le <ingredient action="mettre" quantite="100 gr"> thon </ingredient> et le <ingredient action="mettre" quantite="150 gr"> maïs </ingredient> . <operation> mettre </operation> au frigo 10 min . vous pouvez aussi <operation ingredients="épices"> ajouter </operation> des <ingredient action="ajouter" quantite=";;;;;"> épices </ingredient> provençales . rouge de bourgogne
+</preparation>
+</recette>

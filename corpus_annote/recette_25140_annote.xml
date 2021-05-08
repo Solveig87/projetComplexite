@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25140">
+<titre>Poulet aux champignons et olives</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>150 g de champignons</p>
+<p>4 tomates</p>
+<p>100 g d'olives vertes</p>
+<p>3 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>15 lc de vin blanc sec</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>1 bouquet garni</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> pelez </operation> , <operation> épépinez </operation> et <operation> concassez </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> . <operation ingredients="champignons;olives"> emincez </operation> les <ingredient action="emincez" quantite="150 gramme"> champignons </ingredient> , <operation> ébouillantez </operation> les <ingredient action="emincez" quantite="100 gramme"> olives </ingredient> 2 min . faites <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer" quantite="1"> poulet </ingredient> <operation ingredients="huile"> découpé </operation> en morceaux dans une cocotte avec l' <ingredient action="découper" quantite="3 cuillère à soupe"> huile </ingredient> . <operation> retirez </operation> - les une fois dorés et <operation ingredients="échalotes;ail"> mettez </operation> - y les <ingredient action="mettre" quantite="3"> échalotes </ingredient> et l' <ingredient action="mettre"> ail </ingredient> <operation> hachés </operation> . laissez <operation> blondir </operation> et <operation ingredients="poulet"> remettez </operation> le <ingredient action="remettre" quantite="1"> poulet </ingredient> . <operation ingredients="tomates;tomates;bouquet;sel"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> , le <operation> concentré </operation> de <ingredient action="ajouter" quantite="4"> tomates </ingredient> , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="15"> vin </ingredient> blanc et laissez <operation> cuire </operation> 25 min . <operation ingredients="champignons;olives"> rajoutez </operation> les <ingredient action="rajouter" quantite="150 gramme"> champignons </ingredient> et les <ingredient action="rajouter" quantite="100 gramme"> olives </ingredient> . laissez <operation> cuire </operation> encore 15 min et servez .
+</preparation>
+</recette>

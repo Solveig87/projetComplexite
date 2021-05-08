@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88176">
+<titre>Salade de semoule à la saucisse de volaille</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de semoule</p>
+<p>4 oeufs durs</p>
+<p>10 saucisses de volaille cuites</p>
+<p>1 boîte de maïs de taille moyenne</p>
+<p>Pour la vinaigrette</p>
+<p>herbes à salade (ciboulette, persil...)</p>
+<p>2.5 cl de vinaigre de cidre</p>
+<p>2.5 cl de vinaigre balsamique</p>
+<p>15 cl d'huile d'olive</p>
+<p>5 cl d'eau</p>
+<p>1 gousse d'ail écrasée</p>
+<p>sel et poivre à volonté</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;saucisses"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> en morceaux et les <ingredient action="couper" quantite="10"> saucisses </ingredient> en rondelles . faites <operation ingredients="semoule"> cuire </operation> la <ingredient action="cuire" quantite="500 gramme"> semoule </ingredient> et laissez - la refroidir . <operation ingredients="oeufs;saucisses;maïs"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , les <ingredient action="ajouter" quantite="10"> saucisses </ingredient> et le <ingredient action="ajouter"> maïs </ingredient> <operation> égoutté </operation> . <operation> préparez </operation> la vinaigrette en <operation> émulsionnant </operation> l' ensemble des ingrédients . <operation ingredients="salade"> arrosez </operation> -en la <ingredient action="arroser"> salade </ingredient> et <operation> mélangez </operation> . <operation> disposez </operation> au réfrigérateur et servir frais .
+</preparation>
+</recette>

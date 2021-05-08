@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71327">
+<titre>Poulet antillais au barbecue</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>33 cl de limonade sucrée</p>
+<p>2 citrons vert </p>
+<p>1 cuillère à café de piment doux en poudre </p>
+<p>1 cuillère à soupe de paprika en poudre</p>
+<p>1 cuillère à café d'ail en poudre (moins fort que le frais)</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la marinade : <operation ingredients="limonade"> verser </operation> la <ingredient action="verser" quantite="33 cl"> limonade </ingredient> dans un plat , <operation ingredients="jus"> ajouter </operation> 1 <ingredient action="ajouter"> jus </ingredient> de citron vert + 1 cuillère à café de <operation> poudre </operation> de piment doux + 1 cuillère à café d' ail en <operation> poudre </operation> . <operation ingredients="citron"> découper </operation> le 2ème <ingredient action="découper" quantite="2"> citron </ingredient> vert en tranches et les <operation> ajouter </operation> au reste de la préparation . <operation> plonger </operation> les cuisses dans cette marinade et laisser <operation> reposer </operation> 3 h. au bout de 3 heures <operation> ôter </operation> les cuisses , les <operation ingredients="paprika"> saupoudrer </operation> légèrement de piment en <operation> poudre </operation> et de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> paprika </ingredient> . faire <operation> cuire </operation> sur le barbecue environ 15 min , ou sous le gril du four environ 30 min ( en <operation> retournant </operation> les cuisses régulièrement ) . <ingredient> punch </ingredient>
+</preparation>
+</recette>

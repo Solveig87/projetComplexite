@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44789">
+<titre>Tomates farcies à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 belles tomates à farcir</p>
+<p>1 gousse d'ail</p>
+<p>1 gousse d'échalote</p>
+<p>2 cuillères à soupe de persil </p>
+<p>50 g de lardons fumés</p>
+<p>1 boîte de filets d'anchois à l'huile</p>
+<p>2 grandes tranches de pain de mie</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>25 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;chair"> evidez </operation> les <ingredient action="evider" quantite="4"> tomates </ingredient> de leur <ingredient action="evider"> chair </ingredient> . a part , <operation> hachez </operation> ensemble l' <ingredient> ail </ingredient> , l' <ingredient> échalote </ingredient> , le <ingredient quantite="2 cuillère à soupe"> persil </ingredient> , le <ingredient> pain </ingredient> de mie , les <ingredient> anchois </ingredient> et la <ingredient> chair </ingredient> des tomates ( avec un hachoir électrique , c' est l' idéal ! ) . faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> , quelques minutes , selon votre goût ; puis <operation> hachez </operation> - les également . <operation> mélangez </operation> l' ensemble de votre préparation dans un grand bol , et <operation ingredients="crème"> ajoutez </operation> votre <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche . <operation> mélangez </operation> bien . <operation ingredients="tomates"> remplissez </operation> vos <ingredient action="remplir" quantite="4"> tomates </ingredient> avec cette préparation , et <operation ingredients="gruyère"> parsemez </operation> de <ingredient action="parsemer" quantite="25 gramme"> gruyère </ingredient> . <operation> enfournez </operation> environ 25 à 30 min , à 180 <operation> ° </operation> c ( th 6 ) . pour les <operation> amateurs </operation> de goûts relevés !
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212234">
+<titre>Brochette de la mer exotique</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 grosse boîte de fruit exotiques au sirop</p>
+<p>20 cl de crème de noix de coco</p>
+<p>24 belles crevettes</p>
+<p>24 belles noix de saint jacques</p>
+<p>8 pavés de saumon</p>
+<p>4 cuillères à soupe de crème fraîche bombée</p>
+<p>50 g de sucre roux</p>
+</ingredients>
+<preparation>
+faire une marinade en <operation ingredients="fruit;jus"> versant </operation> la boîte de <ingredient action="verser" quantite="24"> fruit </ingredient> exotique et son <ingredient action="verser"> jus </ingredient> dans un grand saladier , y <operation ingredients="crème;sucre"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl+4 cuillère à soupe"> crème </ingredient> de noix de coco et le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> , <operation> mélanger </operation> et <operation> réserver </operation> au frais . <operation ingredients="crevettes"> décortiquer </operation> les <ingredient action="décortiquer" quantite="24"> crevettes </ingredient> et <operation ingredients="saumon;pavés"> découper </operation> 3 dès de <ingredient action="découper"> saumon </ingredient> dans les <ingredient action="découper" quantite="8"> pavés </ingredient> . <operation ingredients="crevettes;noix;saumon"> mettre </operation> les <ingredient action="mettre" quantite="24"> crevettes </ingredient> , les <ingredient action="mettre" quantite="24"> noix </ingredient> de saint jacques et le <ingredient action="mettre"> saumon </ingredient> dans la marinade . laisser <operation> reposer </operation> une nuit au frigo . <operation ingredients="fruits;saumon;noix;crevette;fruits"> préparer </operation> les brochettes : 2 <ingredient action="préparer" quantite="24"> fruits </ingredient> exotique , 1 morceau de <ingredient action="préparer"> saumon </ingredient> , 1 <ingredient action="préparer" quantite="24"> noix </ingredient> de saint jacques , 1 <ingredient action="préparer" quantite="24"> crevette </ingredient> et 2 <ingredient action="préparer" quantite="24"> fruits </ingredient> exotique , répéter l' opération encore 2 fois pour <operation> composer </operation> une brochette . ensuite , les faire <operation> cuire </operation> une dizaine de minutes au barbecue . avec la marinade faire une sauce genre smoothie' s à servir en <operation> accompagnement </operation> , chaude ou froide si vous voulez faire un contraste . pour cela <operation ingredients="fruits;crème;jus"> mixer </operation> les <ingredient action="mixer" quantite="24"> fruits </ingredient> avec la <ingredient action="mixer" quantite="20 cl+4 cuillère à soupe"> crème </ingredient> fraîche et un peu de <ingredient action="mixer"> jus </ingredient> , jusqu’ à obtention d' une texture velouté . <operation ingredients="jus"> ajouter </operation> du <ingredient action="ajouter"> jus </ingredient> si nécessaire pour <operation> délayer </operation> . <operation> réserver </operation> au frigo ou <operation> réchauffer </operation> à la casserole selon votre choix ! prendre un <ingredient> saumon </ingredient> à la <ingredient> chair </ingredient> bien ferme .
+</preparation>
+</recette>

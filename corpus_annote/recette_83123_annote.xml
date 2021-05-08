@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83123">
+<titre>Soupe slovaque à la choucroute</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de choucroute</p>
+<p>1 chorizo doux</p>
+<p>quelques cèpes séchées</p>
+<p>poivre, sel</p>
+<p>1 feuille de laurier</p>
+<p>vinaigre</p>
+<p>1 grosse pomme de terre (facultatif)</p>
+<p>120 g de petites pâtes</p>
+</ingredients>
+<preparation>
+dans une grande casserole , faire <operation ingredients="choucroute"> cuire </operation> avec un peu d' eau de la <ingredient action="cuire" quantite="250 gramme"> choucroute </ingredient> pendant 10 minutes . ensuite , <operation> ajouter </operation> de l' eau , jusqu' à 2 litres . laisser <operation> cuire </operation> . après 10 minutes , <operation ingredients="chorizo"> mettre </operation> un <ingredient action="mettre"> chorizo </ingredient> entier , <operation> ajouter </operation> de l' eau pour le <operation> couvrir </operation> , s' il le faut . <operation ingredients="laurier"> ajouter </operation> une feuille de <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation ingredients="pomme"> mettre </operation> une <ingredient action="mettre" quantite="1"> pomme </ingredient> de terre <operation> coupée </operation> en dés ( si vous en voulez ) . après 40 minutes , <operation ingredients="cèpes;poivre;sel"> ajouter </operation> une poignée de <ingredient action="ajouter" quantite="quelque"> cèpes </ingredient> sèches , du <ingredient action="ajouter" quantite=""> poivre </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> . laisser <operation> cuire </operation> encore environ 15 minutes , <operation> goûter </operation> . si la <ingredient> soupe </ingredient> n' est pas assez acide , <operation ingredients="vinaigre"> ajouter </operation> du <ingredient action="ajouter" quantite=""> vinaigre </ingredient> . a la fin , avant d' arrêter la cuisson , <operation ingredients="farine"> préparer </operation> dans un verre le <operation> mélange </operation> d' eau avec de la <ingredient action="préparer"> farine </ingredient> , l' <operation ingredients="soupe"> ajouter </operation> dans la <ingredient action="ajouter"> soupe </ingredient> pour la rendre plus dense . avant de servir de la <ingredient> soupe </ingredient> , sortir le <ingredient> chorizo </ingredient> et le <operation> découper </operation> en rondelles . les <ingredient action="mettre" quantite="120 gramme"> pâtes </ingredient> <operation> préparées </operation> en avance , les <operation ingredients="pâtes"> mettre </operation> dans l' assiette , <operation ingredients="chorizo"> ajouter </operation> quelques rondelles de <ingredient action="ajouter"> chorizo </ingredient> et par dessus <operation ingredients="soupe"> verser </operation> de la <ingredient action="verser"> soupe </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40507">
+<titre>Moules à la grecque</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 kg de moules</p>
+<p>2 oignons</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>1 verre d'huile</p>
+<p>3 verres de vin blanc</p>
+<p>1 citron</p>
+<p>3 cuillères à soupe de tomate</p>
+<p>thym, laurier, 30 g de coriandre, persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> , l' <ingredient action="dorer" quantite="2"> oignon </ingredient> , l' <ingredient action="dorer" quantite="2"> échalote </ingredient> , persil et les faire <operation ingredients="oignon;échalote;huile"> dorer </operation> dans l' <ingredient action="dorer" quantite="1 verre"> huile </ingredient> . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="3 verre"> vin </ingredient> , la <ingredient action="cuire" quantite="3 cuillère à soupe"> tomate </ingredient> , thym , laurier , poivre , coriandre , jus du citron , puis <operation ingredients="tomate"> cuire </operation> 20 min . <operation> laver </operation> les <operation> moules </operation> les faire <operation> ouvrir </operation> et les <operation> mettre </operation> dans un plat . <operation ingredients="jus"> filtrer </operation> la moitié du <ingredient action="filtrer"> jus </ingredient> , puis l' <operation> ajouter </operation> à la sauce et faire <operation> revenir </operation> 5 min feu doux . <operation> verser </operation> la sauce sur les <operation> moules </operation> . laisser refroidir et servir très frais .
+</preparation>
+</recette>

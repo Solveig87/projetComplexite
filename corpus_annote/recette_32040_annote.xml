@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32040">
+<titre>Emincé de poulet sauté au rhum</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>5 cl de rhum</p>
+<p>40 cl de lait de coco</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>ciboulette, persil, sel et poivre</p>
+<p>1 cuillère à soupe de fond de volaille</p>
+<p>1 cuillère à soupe de colombo</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper"> poulet </ingredient> en lanières . le faire <operation ingredients="oignon;ail;ciboulette;persil"> revenir </operation> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , l' <ingredient action="revenir"> ail </ingredient> , la <ingredient action="revenir" quantite=""> ciboulette </ingredient> et le <ingredient action="revenir" quantite=""> persil </ingredient> jusqu' à ce qu' il soit doré . <operation ingredients="rhum"> flamber </operation> avec le <ingredient action="flamber" quantite="5 cl"> rhum </ingredient> . <operation ingredients="lait"> mouiller </operation> avec le <ingredient action="mouiller" quantite="40 cl"> lait </ingredient> de coco . <operation ingredients="volaille"> rajouter </operation> le colombo et le fond de <ingredient action="rajouter"> volaille </ingredient> . laisser <operation> mijoter </operation> à <operation> couvert </operation> pendant 30 minutes . a servir avec du <ingredient> riz </ingredient> créole . un rosé bien frais
+</preparation>
+</recette>

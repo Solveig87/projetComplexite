@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50889">
+<titre>Tiramisu à l'orange sanguine (sans oeufs)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 yaourts à l'orange sanguine</p>
+<p>100 g de sucre</p>
+<p>1 cuillère à café de sucre vanillé</p>
+<p>500 g de mascarpone</p>
+<p>25 cl de crème</p>
+<p>Cointreau (ou Grand Marnier)</p>
+<p>biscuits à la cuillère</p>
+<p>4 oranges sanguines ou 15 cl de jus d'orange sanguine</p>
+</ingredients>
+<preparation>
+<operation ingredients="yogourts;sucres;mascarpone"> mélanger </operation> les <ingredient action="mélanger"> yogourts </ingredient> , les <ingredient action="mélanger" quantite="100 gramme+1 cuillère à café"> sucres </ingredient> et le <ingredient action="mélanger" quantite="500 gramme"> mascarpone </ingredient> . <operation ingredients="crème"> battre </operation> la <ingredient action="battre" quantite="25 cl"> crème </ingredient> jusqu' à qu' elle soit bien épaisse et <operation> ajouter </operation> à la masse . <operation ingredients="biscuits"> couvrir </operation> le fond d' un plat à gratin de <ingredient action="couvrir" quantite=""> biscuits </ingredient> à la cuillère . <operation ingredients="jus;cointreau"> verser </operation> dessus le <ingredient action="verser"> jus </ingredient> des oranges sanguines et environ 4 cuillères à soupe de grandmarnier ou de <ingredient action="verser" quantite=""> cointreau </ingredient> . <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir" quantite="25 cl"> crème </ingredient> . option : <operation ingredients="orange"> garnir </operation> de zeste d' <ingredient action="garnir" quantite="4"> orange </ingredient> . dessert assez léger et rapide .
+</preparation>
+</recette>

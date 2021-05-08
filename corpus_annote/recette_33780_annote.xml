@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33780">
+<titre>Scampis à la diable</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>20 gros scampis</p>
+<p>huile d'olive (1 bonne cuillère à soupe ) </p>
+<p>crème fleurette (allégée ou non) </p>
+<p>sel</p>
+<p>poivre de cayenne</p>
+<p>basilic frais et séché</p>
+<p>concentré de tomates (1 cuillère à café ) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="scampis"> revenir </operation> les 20 <ingredient action="revenir" quantite="20"> scampis </ingredient> <operation ingredients="huile"> décortiqués </operation> dans de l' <ingredient action="décortiquer" quantite=""> huile </ingredient> d' olive . une fois qu' ils sont <operation> cuits </operation> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> fleurette non allégée ( ou si allégée , <operation ingredients="maïzena"> rajouter </operation> de la <ingredient action="rajouter"> maïzena </ingredient> pour <operation> épaissir </operation> la sauce en fin de cuisson ) . <operation> saler </operation> et <operation ingredients="poivre;basilic"> ajouter </operation> une bonne <operation> dose </operation> de <ingredient action="ajouter" quantite=""> poivre </ingredient> de cayenne ainsi que le <ingredient action="ajouter" quantite=""> basilic </ingredient> séché . laisser <operation> mijoter </operation> . <operation ingredients="tomate"> rajouter </operation> 1 cuillère à café de <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite=";;;"> assaisonnement </ingredient> si nécessaire . <operation ingredients="basilic"> garnir </operation> avec des feuilles de <ingredient action="garnir" quantite=""> basilic </ingredient> frais . ce plat peut être encore plus relevé en <operation ingredients="cognac;épices"> ajoutant </operation> un doigt de <ingredient action="ajouter"> cognac </ingredient> en même temps que les <ingredient action="ajouter" quantite=";;;"> épices </ingredient> .
+</preparation>
+</recette>

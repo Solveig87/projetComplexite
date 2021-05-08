@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93505">
+<titre>Croissant à la viande hachée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilleté</p>
+<p>300g de viande hachée</p>
+<p>1 oignon</p>
+<p>gruyère râpé</p>
+<p>1 Œuf</p>
+</ingredients>
+<preparation>
+~faire <operation ingredients="oignon;épices;paprika;cumin"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans une <operation> poêle </operation> ( avec des <ingredient action="revenir"> épices </ingredient> si vous le désirez <ingredient action="revenir"> paprika </ingredient> <ingredient action="revenir"> cumin </ingredient> . . . ) jusqu' à qu' il soit bien doré . ~faire <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire" quantite="300 gramme"> viande </ingredient> hachée dans une <operation> poêle </operation> puis <operation ingredients="oignons"> mélanger </operation> les <ingredient action="mélanger" quantite="1"> oignons </ingredient> avec . ~déroulez votre <ingredient quantite="1"> pâte </ingredient> feuilleté , <operation ingredients="gâteau"> coupé </operation> la en 8 part égales ( en <operation> forme </operation> de triangle comme des parts de <ingredient action="couper"> gâteau </ingredient> ) . ~y <operation ingredients="viande;pâte"> déposer </operation> le <operation> mélange </operation> de <ingredient action="déposer" quantite="300 gramme"> viande </ingredient> et oignon en haut au milieu de votre part de <ingredient action="déposer" quantite="1"> pâte </ingredient> , puis <operation ingredients="gruyère"> parsemez </operation> d' un peu de <ingredient action="parsemer" quantite=""> gruyère </ingredient> . ~rabattre le coté droit et gauche sur le <operation> mélange </operation> puis <operation> rouler </operation> ( vous devez obtenir une <operation> forme </operation> de <ingredient> croissant </ingredient> ) . ~une fois tous les <ingredient action="battre"> croissants </ingredient> <operation> mis </operation> en <operation> forme </operation> , <operation ingredients="croissants;œuf"> battre </operation> un <ingredient action="battre" quantite="1"> œuf </ingredient> puis avec un pinceau de <operation> cuisine </operation> <operation ingredients="croissant;pâte"> badigeonnez </operation> votre <ingredient action="badigeonner"> croissant </ingredient> avec , afin que la <ingredient action="badigeonner" quantite="1"> pâte </ingredient> ne soit pas dure et qu' elle soit doré ! ! ! ~enfournez le tout environ 30 min et dégustez avec une <ingredient> salade </ingredient> ! ! !
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23332">
+<titre>Filets d'églefin et leur sauce onctueuse à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de filets d'églefin</p>
+<p>15 cl de vin blanc sec</p>
+<p>1 échalote</p>
+<p>Pour la sauce :</p>
+<p>2 jaunes d'oeuf</p>
+<p>2,5 cuillères à soupe de jus de cuisson du poisson</p>
+<p>1 filet de jus de citron</p>
+<p>25 g de beurre</p>
+<p>1 belle tomate rouge bien mûre</p>
+<p>25 g de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="vin"> mettez </operation> le <ingredient action="mettre" quantite="15 cl"> vin </ingredient> à <operation ingredients="échalotes"> chauffer </operation> avec les <ingredient action="chauffer" quantite="1"> échalotes </ingredient> hachées menues . lorsqu' il bout , faites - y <operation ingredients="poisson"> pocher </operation> les filets de <ingredient action="pocher"> poisson </ingredient> pendant 10 minutes . <operation> egouttez </operation> - les et <operation> réservez </operation> - les au chaud entre deux assiettes . <operation ingredients="jus"> portez </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="2,5 cuillère à soupe"> jus </ingredient> de cuisson et faites <operation> réduire </operation> jusqu' à ce qu' il ne reste plus que . 3 cuillères à soupe de liquide . <operation ingredients="jus"> préparez </operation> la sauce : sur feu doux , <operation ingredients="oeuf;jus;poisson"> fouettez </operation> les jaunes d' <ingredient action="fouetter"> oeuf </ingredient> avec le <ingredient action="fouetter" quantite="2,5 cuillère à soupe"> jus </ingredient> de cuisson du <ingredient action="fouetter"> poisson </ingredient> , le <ingredient action="préparer" quantite="2,5 cuillère à soupe"> jus </ingredient> de citron puis <operation ingredients="beurre"> incorporez </operation> le <ingredient action="incorporer" quantite="25 gramme"> beurre </ingredient> <operation> coupé </operation> en dés . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite=""> assaisonnement </ingredient> . <operation ingredients="crème;tomates"> incorporez </operation> la <ingredient action="incorporer" quantite="25 gramme"> crème </ingredient> fraîche puis les <ingredient action="incorporer" quantite="1"> tomates </ingredient> <operation> pelées </operation> , épépinées et <operation> coupées </operation> en dés . <operation ingredients="poisson"> réchauffez </operation> le <ingredient action="réchauffer"> poisson </ingredient> dans la sauce pendant 1 minute et servez .
+</preparation>
+</recette>

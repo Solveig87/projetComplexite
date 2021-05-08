@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43352">
+<titre>Côtelettes d'agneau Californiennes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 côtelettes d'agneau</p>
+<p>huile d'olive pour la cuisson</p>
+<p>1 orange à couper en rondelles</p>
+<p>1 citron à couper en rondelles</p>
+<p>50 g sucre roux</p>
+<p>5 cuillères à dessert de vinaigre d'alcool coloré</p>
+<p>1/4 cuillère à café gingembre</p>
+<p>1 cuillère à café sel</p>
+<p>poivre noir</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="côtelettes"> brunir </operation> les <ingredient action="brunir" quantite="8"> côtelettes </ingredient> à la pôele . dans un bol , <operation ingredients="sel;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="1 cuillère à café"> sel </ingredient> , poivre , vinaigre , gingembre et le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> . <operation ingredients="côtelettes"> verser </operation> cette préparation sur les <ingredient action="verser" quantite="8"> côtelettes </ingredient> . <operation ingredients="fruits;côtelettes"> placer </operation> les rondelles des <ingredient action="placer" quantite="1"> fruits </ingredient> sur les <ingredient action="placer" quantite="8"> côtelettes </ingredient> . baisser le feu et laisser <operation> cuire </operation> environ 30 minutes . recette anglaise malgré son nom ! excellente avec des frites faites maison !
+</preparation>
+</recette>

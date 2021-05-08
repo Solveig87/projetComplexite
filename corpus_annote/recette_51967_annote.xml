@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51967">
+<titre>Lotte au gingembre et autres épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1,5 kg de lotte</p>
+<p>80 g de gingembre frais râpé</p>
+<p>30 g de curcuma en poudre, dilué dans 2 cuillères à soupe d'eau</p>
+<p>1 kg de tomates</p>
+<p>2 oignons</p>
+<p>1 verre à liqueur de pastis</p>
+<p>1/2 bouquet de coriandre</p>
+<p>50 cl de lait</p>
+<p>4 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> . quand ils sont translucides , <operation ingredients="gingembre;curcuma"> rajouter </operation> le <ingredient action="rajouter"> gingembre </ingredient> et le <ingredient action="rajouter" quantite="30 gramme"> curcuma </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="1 kilogramme"> tomates </ingredient> <operation> pelées </operation> en dés , les <operation> ajouter </operation> à la préparation et laisser <operation> mijoter </operation> 15 min . a feu très doux , <operation ingredients="lait;lotte"> rajouter </operation> le <ingredient action="rajouter" quantite="50 cl"> lait </ingredient> et la <ingredient action="rajouter" quantite="1,5 kilogramme"> lotte </ingredient> ; laisser <operation> mijoter </operation> 15 min . hors du feu , <operation> saler </operation> , <operation ingredients="coriandre"> ajouter </operation> la <ingredient action="ajouter"> coriandre </ingredient> <operation> lavée </operation> et <operation> ciselée </operation> , puis le <ingredient> pastis </ingredient> . servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

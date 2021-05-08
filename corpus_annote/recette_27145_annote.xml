@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27145">
+<titre>Oeufs au vin et aux oignons frits</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 oeufs pochés</p>
+<p>4 tranches de pain de mie</p>
+<p>4 oignons</p>
+<p>1 gousse d'ail</p>
+<p>100 g de lardons</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe de farine</p>
+<p>75 cl de vin rouge</p>
+<p>1 pointe de muscade</p>
+<p>1 bouquet garni</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> jusqu' à ce qu' ils soient dorés . dans une cocotte , <operation ingredients="oignons"> faire </operation> une fondue avec les <ingredient action="faire" quantite="4"> oignons </ingredient> <operation> coupés </operation> en rondelles , l’ <ingredient> ail </ingredient> <operation> ciselé </operation> et les <ingredient quantite="100 gramme"> lardons </ingredient> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="75 cl"> vin </ingredient> et <operation> assaisonner </operation> . <operation ingredients="muscade"> saupoudrer </operation> de <ingredient action="saupoudrer"> muscade </ingredient> et <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . faire <operation> mijoter </operation> 30 minutes . faire <operation ingredients="oignons"> frire </operation> les <ingredient action="frire" quantite="4"> oignons </ingredient> l' huile . <operation ingredients="beurre;farine"> mélanger </operation> le <ingredient action="mélanger" quantite="20 gramme"> beurre </ingredient> avec la <ingredient action="mélanger" quantite="2 cuillère à soupe"> farine </ingredient> et <operation ingredients="jus"> verser </operation> dans le <ingredient action="verser"> jus </ingredient> de cuisson . bien <operation> mélanger </operation> et <operation> porter </operation> la sauce à <operation> ébullition </operation> . faire <operation ingredients="pain;pain"> dorer </operation> les tranches de <ingredient action="dorer" quantite="4 tranche"> pain </ingredient> dans un <operation> grille </operation> - <ingredient action="dorer" quantite="4 tranche"> pain </ingredient> . y <operation ingredients="oignons"> déposer </operation> les <ingredient action="déposer" quantite="4"> oignons </ingredient> <operation> frits </operation> , les <ingredient quantite="4"> oeufs </ingredient> <operation> pochés </operation> et la sauce .
+</preparation>
+</recette>

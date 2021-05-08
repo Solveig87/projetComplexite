@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33520">
+<titre>TIRAMISU AUX MARRONS</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de langues de chat</p>
+<p>1 jaune d'oeuf</p>
+<p>1 tasse de café fort (ou de chocolat) </p>
+<p>1 boîte de mascarpone (250 g) </p>
+<p>250 g de crème de marrons vanillé</p>
+<p>cacao en poudre (Van Houten) </p>
+<p>éventuellement 1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="mascarpone;oeuf;crème;sucre"> mélanger </operation> le <ingredient action="mélanger"> mascarpone </ingredient> , le jaune d' <ingredient action="mélanger"> oeuf </ingredient> , la <ingredient action="mélanger" quantite="250 gramme"> crème </ingredient> de marrons , et éventuellement le <ingredient action="mélanger"> sucre </ingredient> vanillé . dans un petit plat : <operation ingredients="côte"> disposer </operation> <ingredient action="disposer"> côte </ingredient> à côte les langues de chat <operation ingredients="café"> trempées </operation> dans le <ingredient action="tremper"> café </ingredient> au fond du plat . <operation ingredients="cacao"> saupoudrer </operation> avec une passoire de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> . <operation ingredients="oeuf"> recouvrir </operation> d' une couche de <operation> mélange </operation> mascarpone , <ingredient action="recouvrir"> oeuf </ingredient> , crème de marrons . <operation ingredients="cacao"> saupoudrer </operation> avec une passoire de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> . <operation ingredients="langues"> ajouter </operation> de nouveau des <ingredient action="ajouter"> langues </ingredient> de chat <operation ingredients="café"> trempées </operation> dans le <ingredient action="tremper"> café </ingredient> + cacao + crème + cacao + gâteau . servir bien frais . très facile et délicieux même pour les <ingredient quantite="1+1;1;1;;"> non </ingredient> <operation> amateurs </operation> de <ingredient quantite="250 gramme"> crème </ingredient> de marrons
+</preparation>
+</recette>

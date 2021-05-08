@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27735">
+<titre>Salade chinoise au crabe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>150 g de chair de crabe</p>
+<p>400 g de crevettes roses</p>
+<p>1 laitue</p>
+<p>1 oignon</p>
+<p>2 branches de menthe fraîche</p>
+<p>4 champignons noirs</p>
+<p>150 g de pousses de bambou</p>
+<p>1 cuillère à soupe de sucre en poudre</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>1 cuillère à soupe de vinaigre de cidre</p>
+<p>4 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+faire <operation> tremper </operation> 30 mn les champigons noirs . <operation ingredients="crevettes"> décortiquer </operation> les <ingredient action="décortiquer" quantite="400 gramme"> crevettes </ingredient> et <operation ingredients="chair"> égoutter </operation> la <ingredient action="égoutter" quantite="150 gramme"> chair </ingredient> de crabe + pousses de bambou ( les <operation> émincer </operation> ) . <operation ingredients="laitue"> couper </operation> en 2 les feuilles de <ingredient action="couper" quantite="1"> laitue </ingredient> + <operation ingredients="menthe"> émincer </operation> les feuilles de <ingredient action="émincer"> menthe </ingredient> . dans un bol , <operation ingredients="vinaigre"> mélanger </operation> la sauce + <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> + huile + sucre . <operation ingredients="champignons"> couper </operation> les <ingredient action="couper" quantite="4"> champignons </ingredient> noirs en petits morceaux ( les <operation> égoutter </operation> avant ) . sur un plat , <operation ingredients="salade"> disposer </operation> la <ingredient action="disposer"> salade </ingredient> et les divers ingrédients . un <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

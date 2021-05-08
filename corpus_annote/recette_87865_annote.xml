@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87865">
+<titre>Pitas de saumon à la provençale</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pains pitas</p>
+<p>2 pavés de saumon frais ou surgelés</p>
+<p>500 g de légumes pour ratatouille : aubergines, poivrons, oignons, tomates, courgettes </p>
+<p>1 bocal de sauce tomate à la provençale type panzani</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+préparation de la farce : faire <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> au four 10 à 15 min à 210 <operation> ° </operation> c ( thermostat 8) . faire <operation ingredients="légumes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> légumes </ingredient> surgelés dans un wok et <operation ingredients="légumes"> retirer </operation> l' eau des <ingredient action="retirer" quantite="500 gramme"> légumes </ingredient> en milieu de cuisson . sortir le <ingredient> saumon </ingredient> du four et le faire <operation> revenir </operation> dans le wok en l' <operation> émiettant </operation> tout en terminant la cuisson des <ingredient quantite="500 gramme"> légumes </ingredient> . préparation des <ingredient> pitas </ingredient> : <operation ingredients="pains;pitas"> mettre </operation> les <ingredient action="mettre" quantite="4"> pains </ingredient> <ingredient action="mettre"> pitas </ingredient> au four 5 à 10 min à 180 <operation> ° </operation> c ( thermostat 6 ) sans les <operation> ouvrir </operation> ! ( très important , pour conserver le moelleux des <ingredient quantite="4"> pains </ingredient> ) sortir les <ingredient quantite="4"> pains </ingredient> puis les <operation> ouvrir </operation> en 2 immédiatement . <operation ingredients="pain;saumon"> fourrer </operation> chaque <ingredient action="fourrer" quantite="4"> pain </ingredient> de la préparation <ingredient action="fourrer"> saumon </ingredient> / légumes et servir .
+</preparation>
+</recette>

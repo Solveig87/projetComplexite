@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170284">
+<titre>Soupe de poissons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 carottes</p>
+<p>5 pommes de terres</p>
+<p>2 oignons</p>
+<p>2 tomates fraiches</p>
+<p>4 girelles</p>
+<p>3 rougets</p>
+<p>2 sars</p>
+<p>2 perches de mers</p>
+<p>5 serrans</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 cube de bouillon aux herbes </p>
+<p>2 gousses d'ail</p>
+<p>25 cl de crème liquide légère</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>25 cl vin blanc</p>
+<p>jus d'un citron</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="3;5;2;2;25 cl"> légumes </ingredient> grossièrement . <operation ingredients="poissons"> préparer </operation> les <ingredient action="préparer" quantite="2"> poissons </ingredient> en les écaillant , <operation ingredients="têtes"> enlever </operation> les <ingredient action="enlever"> têtes </ingredient> et les nageoires . dans une grande casserole ( ou autre ) , <operation ingredients="légumes;poissons"> déposer </operation> l' ensemble des <ingredient action="déposer" quantite="3;5;2;2;25 cl"> légumes </ingredient> et la moitié des <ingredient action="déposer" quantite="2"> poissons </ingredient> . <operation ingredients="bouillon;huile;vin"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> , une cuillère d' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et <operation> recouvrir </operation> d' eau et de 25 cl de <ingredient action="ajouter" quantite="25 cl"> vin </ingredient> blanc . laisser <operation> cuire </operation> pendant 20 min . les <ingredient quantite="2"> poissons </ingredient> vont se défaire . sortir la préparation du feu , garder l' eau de cuisson , <operation> mixer </operation> le reste de la préparation . <operation> ajouter </operation> l' eau au fur et à <operation> mesure </operation> en fonction de l' épaisseur que vous souhaitez . <operation> passer </operation> la préparation afin d' <operation> éliminer </operation> les petits morceaux d' arêtes . <operation ingredients="crème;jus"> ajouter </operation> les 25 cl de <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> liquide et le <ingredient action="ajouter" quantite=""> jus </ingredient> de citron . <operation> réserver </operation> le mixage . dans une <operation> poêle </operation> , faire <operation ingredients="poissons"> revenir </operation> l' autre moitié des <ingredient action="revenir" quantite="2"> poissons </ingredient> . une fois <operation> cuit </operation> <operation> découper </operation> en morceaux . <operation ingredients="soupe;poisson"> ajouter </operation> à la <ingredient action="ajouter"> soupe </ingredient> les morceaux de <ingredient action="ajouter" quantite="2"> poisson </ingredient> . a servir avec des <ingredient> croutons </ingredient> de pain et de la <ingredient> rouille </ingredient> .
+</preparation>
+</recette>

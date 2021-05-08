@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228917">
+<titre>Lapin au pistou</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin d'environ 1,2 Kg</p>
+<p>6 gousses d'ail</p>
+<p>3 tomates </p>
+<p>3 branches de basilic </p>
+<p>10 cl d'huile  </p>
+<p>1 kg de cèpes </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousses"> éplucher </operation> les <ingredient action="éplucher" quantite="6"> gousses </ingredient> d' ail et les <operation> mixer </operation> ; <operation ingredients="tomate;carrés"> couper </operation> 1 <ingredient action="couper" quantite="3"> tomate </ingredient> en tout petit <ingredient action="couper"> carrés </ingredient> . <operation ingredients="ail;tomate"> mélanger </operation> l' <ingredient action="mélanger"> ail </ingredient> et la <ingredient action="mélanger" quantite="3"> tomate </ingredient> , y <operation ingredients="huile;sel;poivre"> ajouter </operation> les 10 cl d' <ingredient action="ajouter" quantite="10 cl"> huile </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> ; bien <operation> écraser </operation> le tout avec une fourchette . <operation ingredients="lapin"> placer </operation> le <ingredient action="placer" quantite="1"> lapin </ingredient> que vous aurez préalablement <operation> découpé </operation> dans un plat à four et le <operation ingredients="ail"> recouvrir </operation> de la préparation à base d' <ingredient action="recouvrir"> ail </ingredient> ; <operation> réserver </operation> au frais . dans une casserole , <operation ingredients="tomates;basilic"> couper </operation> 2 <ingredient action="couper" quantite="3"> tomates </ingredient> en gros puis <operation> mixer </operation> les 3 branches de <ingredient action="couper"> basilic </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> et <operation> mettre </operation> le tout à <operation> cuire </operation> à feu doux pendant 10 min ( sans oublier de <operation> remuer </operation> de temps en temps ) ; au bout de 10 min , <operation ingredients="champignons"> incorporer </operation> les <ingredient action="incorporer"> champignons </ingredient> préalablement <operation ingredients="tomates;basilic"> rincés </operation> aux <ingredient action="rincer" quantite="3"> tomates </ingredient> et au <ingredient action="rincer"> basilic </ingredient> et laisser <operation> cuire </operation> 10 min de plus et laisser <operation> reposer </operation> à température ambiante . <operation> mettre </operation> le four à préchauffer à 160 <operation> ° </operation> c ( thermostat 5 ) et y <operation ingredients="lapin"> placer </operation> le plat de <ingredient action="placer" quantite="1"> lapin </ingredient> pendant 1 h ; à mi-cuisson , y <operation ingredients="basilic"> incorporer </operation> le <ingredient action="incorporer"> basilic </ingredient> , les <ingredient quantite="3"> tomates </ingredient> , les <ingredient> champignons </ingredient> , et laisser finir de <operation> cuire </operation> les 30 min restantes . <ingredient> vin </ingredient> rouge , de préférence un <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

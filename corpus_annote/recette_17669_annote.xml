@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17669">
+<titre>Gâteau au chocolat sans farine et sans beurre</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tablettes de chocolat à croquer</p>
+<p>100 g de sucre</p>
+<p>4 oeufs</p>
+<p>100 g d'amandes en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> au bain - marie . <operation ingredients="oeufs"> séparer </operation> les jaunes d' <ingredient action="séparer" quantite="4"> oeufs </ingredient> des blancs . <operation ingredients="sucre;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="4"> oeufs </ingredient> puis <operation ingredients="amande;chocolat"> ajouter </operation> la <operation> poudre </operation> d' <ingredient action="ajouter" quantite="100 gramme"> amande </ingredient> et le <ingredient action="ajouter"> chocolat </ingredient> . <operation> battre </operation> les blancs en neige et <operation> ajouter </operation> à la préparation ( sans casser les blancs ) . <operation> huiler </operation> un <operation> moule </operation> à cake , y <operation> verser </operation> la préparation et <operation> enfourner </operation> à 200 <operation> degrés </operation> pendant 45 mn / 1 h
+</preparation>
+</recette>

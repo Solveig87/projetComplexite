@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68537">
+<titre>Salade nenette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 avocats</p>
+<p>3 tomates</p>
+<p>6 petits fromages de chèvre frais</p>
+<p>3 cuillères à soupe huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre balsamique</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient quantite="4"> avocats </ingredient> , <operation> retirer </operation> le noyau et <operation> couper </operation> grossièrement . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="3"> tomates </ingredient> en dés . <operation ingredients="tomates"> mélanger </operation> les <ingredient action="mélanger" quantite="3"> tomates </ingredient> et avocats puis <operation ingredients="chèvres"> émietter </operation> les <ingredient action="émietter"> chèvres </ingredient> au dessus . <operation ingredients="huile;vinaigre;sel;poivre"> assaisonner </operation> d' <ingredient action="assaisonner" quantite="3 cuillère à soupe"> huile </ingredient> , de <ingredient action="assaisonner" quantite="1 cuillère à soupe"> vinaigre </ingredient> , de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . rosé
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70423">
+<titre>Tiramisu aux Fruits</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>une pomme et une orange ou des fruits rouges</p>
+<p>2 dl de jus d'oranges sanguines</p>
+<p>4 boudoirs</p>
+<p>200 g de mascarpone ou ricotta</p>
+<p>2 oeufs</p>
+<p>2 càs de café</p>
+<p>1 càc de sucre de canne</p>
+<p>1 sachet de sucre vanillé</p>
+<p>quelques gouttes d'arôme d'amandes</p>
+<p>cacao en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;oeufs;café;sucre;sucre;amande"> mélanger </operation> le <ingredient action="mélanger"> fromage </ingredient> blanc avec les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="2"> café </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> de canne , le <ingredient action="mélanger"> sucre </ingredient> vanillé et l' arôme d' <ingredient action="mélanger"> amande </ingredient> et <operation ingredients="mousseux"> battre </operation> avec un fouet jusqu' à obtention d' un <operation> mélange </operation> <ingredient action="battre"> mousseux </ingredient> . <operation> battre </operation> fermement les blancs en neiges et <operation ingredients="fromage"> incorporer </operation> au <ingredient action="incorporer"> fromage </ingredient> blanc . <operation ingredients="fruits"> remplir </operation> une flûte à champagne avec les morceaux de <ingredient action="remplir" quantite="1;2 dl"> fruits </ingredient> <operation> choisis </operation> jusqu' à 1 / 3 du verre . <operation ingredients="jus"> verser </operation> le <ingredient action="verser" quantite="2 dl"> jus </ingredient> d' orange sanguine jusqu' à ce que les morceaux soient <operation> recouverts </operation> . planter un <ingredient quantite="4"> boudoir </ingredient> et <operation ingredients="fromage"> verser </operation> le <operation> mélange </operation> avec le <ingredient action="verser"> fromage </ingredient> blanc . <operation ingredients="cacao"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> .
+</preparation>
+</recette>

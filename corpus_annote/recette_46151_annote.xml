@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46151">
+<titre>Tajine poulet tomates miel et amandes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>2 kg de tomates</p>
+<p>100 g beurre </p>
+<p>1 cuillère à café de poivre</p>
+<p>1 cuillère à moka de safran</p>
+<p>2 oignons hachés</p>
+<p>6 cuillères à soupe de miel épais</p>
+<p>1 cuillère à soupe de cannelle</p>
+<p>100 g d'amandes émondées</p>
+<p>1 cuillère à soupe de sésame grillé</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> , <operation> épépiner </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2 kilogramme"> tomates </ingredient> en morceaux . <operation ingredients="poulet"> mettre </operation> le <ingredient action="mettre"> poulet </ingredient> dans une cocotte , <operation ingredients="tomates"> verser </operation> les <ingredient action="verser" quantite="2 kilogramme"> tomates </ingredient> . <operation> saler </operation> <operation> poivrer </operation> , <operation ingredients="beurre;safran;oignons"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> , le <ingredient action="ajouter"> safran </ingredient> et les <ingredient action="ajouter" quantite="2"> oignons </ingredient> . laisser <operation> cuire </operation> à feu vif . <operation> remuer </operation> souvent . quand le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> , <operation> réserver </operation> au chaud . garder la cocotte sur le feu , <operation ingredients="beurre;confit"> laisser </operation> <operation> réduire </operation> jusqu' à évaporation de l' eau et réapparition du <ingredient action="laisser"> beurre </ingredient> de cuisson ( <ingredient action="laisser"> confit </ingredient> de tomates ) <operation ingredients="miel;cannelle"> ajouter </operation> le <ingredient action="ajouter" quantite="6 cuillère à soupe"> miel </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> cannelle </ingredient> . <operation ingredients="poulet"> remettre </operation> le <ingredient action="remettre"> poulet </ingredient> . faire <operation ingredients="amandes;huile"> frire </operation> les <ingredient action="frire" quantite="100 gramme"> amandes </ingredient> dans un peu d' <ingredient action="frire"> huile </ingredient> . <operation ingredients="poulet;confit"> dresser </operation> le <ingredient action="dresser"> poulet </ingredient> dans un plat avec le <ingredient action="dresser"> confit </ingredient> de tomates dessus . <operation ingredients="sésame;amandes"> décorer </operation> avec les graines de <ingredient action="décorer" quantite="1 cuillère à soupe"> sésame </ingredient> grillées et les <ingredient action="décorer" quantite="100 gramme"> amandes </ingredient> . servir avec de la <ingredient> semoule </ingredient> fine ou du <ingredient> boulgour </ingredient> .
+</preparation>
+</recette>

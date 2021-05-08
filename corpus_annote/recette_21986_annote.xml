@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21986">
+<titre>Riz au lait à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de riz rond</p>
+<p>1 litre de lait écrémé</p>
+<p>3 cuillères à soupe de sucre (ou fructose) </p>
+<p>16 g de sucre vanillé</p>
+<p>1 pincée de sel</p>
+<p>cannelle en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sucre;sel;sucre;cannelle"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> avec le <ingredient action="bouillir" quantite="3 cuillère à soupe+16 gramme"> sucre </ingredient> , le <ingredient action="bouillir" quantite="1 pincée"> sel </ingredient> , le <ingredient action="bouillir" quantite="3 cuillère à soupe+16 gramme"> sucre </ingredient> vanillé et la <ingredient action="bouillir" quantite=""> cannelle </ingredient> ( plus ou moins suivant les goûts . <operation ingredients="riz"> laver </operation> le <ingredient action="laver" quantite="100 gramme"> riz </ingredient> , puis <operation ingredients="lait"> jetez </operation> le en pluie dans le <ingredient action="jeter" quantite="1 litre"> lait </ingredient> . <operation> mettre </operation> à très petit feu . laisser <operation ingredients="riz;lait"> cuire </operation> jusqu' à ce que le <ingredient action="cuire" quantite="100 gramme"> riz </ingredient> affleure le <ingredient action="cuire" quantite="1 litre"> lait </ingredient> . c' est en refroidissant qu' il finira l' absorbtion du <ingredient quantite="1 litre"> lait </ingredient> . cette préparation se consomme froide ou à peine tiède .
+</preparation>
+</recette>

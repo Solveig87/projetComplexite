@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20196">
+<titre>Poulet aux épices d'Orient</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>1 cube de bouillon de poule</p>
+<p>1 ou 2 oignons</p>
+<p>1 cuillère à soupe de curry</p>
+<p>1 cuillère à soupe de gingembre râpé</p>
+<p>1 cuillère à soupe de cannelle</p>
+<p>2 cuillères à soupe de coriandre en grains</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> coupez </operation> en dés les blancs de <ingredient action="couper"> poulet </ingredient> . faire <operation ingredients="oignons;huile"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="poulet;bouillon"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> avec le <ingredient action="ajouter"> bouillon </ingredient> de poule ainsi qu' un verre d' eau . au bout de 10 min , quand le <ingredient> poulet </ingredient> est presque cuit , <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe;1 cuillère à soupe;2 cuillère à soupe;;"> épices </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation> couvrir </operation> à demi pendant 20 min environ . servir avec du <ingredient> riz </ingredient> bien chaud . ce plat peut aussi se <operation ingredients="porc"> faire </operation> avec du <ingredient action="faire"> porc </ingredient> <operation> coupé </operation> en dés .
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55666">
+<titre>Poulet sauté aux brocolis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>2 cuillères à soupe d'huile végétale</p>
+<p>2 cuillères à soupe de gingembre frais râpé</p>
+<p>2 oignons émincés</p>
+<p>250 g de brocolis</p>
+<p>250 g de carottes coupées en rondelles</p>
+<p>250 g de champignons de Paris émincés</p>
+<p>1 verre de bouillon de poulet</p>
+<p>2 cuillères à soupe de xérès</p>
+<p>2 cuillères à café de sauce soja</p>
+<p>2 cuillères à café de Maïzena</p>
+<p>2 cuillères à soupe d'eau</p>
+<p>1 bol de chou chinois émincé</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en fines lanières . <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> à feu vif dans un wok . faire <operation ingredients="poulet;gingembre"> sauter </operation> les lanières de <ingredient action="sauter"> poulet </ingredient> et la moitié du <ingredient action="sauter"> gingembre </ingredient> pendant 2 minutes . <operation> retirer </operation> du wok . <operation> réserver </operation> . faire <operation ingredients="oignons"> sauter </operation> les <ingredient action="sauter" quantite="2"> oignons </ingredient> 2 minutes et les <operation ingredients="poulet"> ajouter </operation> au <ingredient action="ajouter"> poulet </ingredient> . faire <operation ingredients="brocolis;carottes;champignons;gingembre"> sauter </operation> 5 minutes le <ingredient action="sauter" quantite="250 gramme"> brocolis </ingredient> , les <ingredient action="sauter" quantite="250 gramme"> carottes </ingredient> , les <ingredient action="sauter" quantite="250 gramme"> champignons </ingredient> et le reste du <ingredient action="sauter"> gingembre </ingredient> . <operation> ajouter </operation> un peu d' eau si nécessaire . dans un petit bol , <operation ingredients="bouillon;soja"> mélanger </operation> ensemble le <ingredient action="mélanger" quantite="1 verre"> bouillon </ingredient> de poulet , le xérès et la sauce <ingredient action="mélanger"> soja </ingredient> , <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="2;250 gramme;250 gramme;250 gramme;1 verre"> légumes </ingredient> . <operation> couvrir </operation> et laisser étuver 5 minutes . <operation ingredients="oignons;poulet"> incorporer </operation> les <ingredient action="incorporer" quantite="2"> oignons </ingredient> et le <ingredient action="incorporer"> poulet </ingredient> <operation> réservé </operation> . <operation ingredients="maïzena"> mélanger </operation> ensemble la <ingredient action="mélanger" quantite="2 cuillère à café"> maïzena </ingredient> et l' eau . <operation> verser </operation> le <operation> mélange </operation> dans le wok et amener à <operation> ébullition </operation> . <operation ingredients="chou"> ajouter </operation> le <ingredient action="ajouter"> chou </ingredient> chinois , <operation> mélanger </operation> et <operation ingredients="croquant"> cuire </operation> 1 minute jusqu' à ce qu' il soit tendre mais encore <ingredient action="cuire"> croquant </ingredient> . servir aussitôt , c' est un délice !
+</preparation>
+</recette>

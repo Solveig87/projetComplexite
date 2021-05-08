@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10541">
+<titre>Coq au Vin facile</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>10 blancs de volailles</p>
+<p>200 gr de lardons sans couennes</p>
+<p>500 g de champignons de Paris</p>
+<p>75 cl de vin rouge</p>
+<p>2 cubes dégraissés de bouillon de volaille</p>
+<p>sel, poivre </p>
+<p>herbes de provence</p>
+<p>10 cl de cognac</p>
+<p>10 cl de Porto</p>
+<p>1 morceau de sucre</p>
+<p>2 cuillères à soupe de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="volaille;beurre"> dorer </operation> les blancs de <ingredient action="dorer"> volaille </ingredient> dans le <ingredient action="dorer" quantite="2 cuillère à soupe"> beurre </ingredient> bien chaud . <operation ingredients="cognac"> ajouter </operation> le verre de <ingredient action="ajouter" quantite="10 cl"> cognac </ingredient> . <operation ingredients="bouillon;porto;vin"> flamber </operation> ( facultatif ) <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gr"> lardons </ingredient> , sel , poivre , cubes de <ingredient action="flamber"> bouillon </ingredient> , herbes , <ingredient action="flamber" quantite="10 cl"> porto </ingredient> , et la bouteille de <ingredient action="flamber" quantite="75 cl"> vin </ingredient> . laisser <operation> mijoter </operation> 40 minutes ( pas plus , sinon la <ingredient quantite="200 gr"> viande </ingredient> se défait ) . <operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="500 gramme"> champignons </ingredient> , les <operation> couper </operation> en 2 ou en 4 . les faire <operation ingredients="beurre"> dorer </operation> dans 1 cas de <ingredient action="dorer" quantite="2 cuillère à soupe"> beurre </ingredient> . pour <operation> lier </operation> la sauce , <operation ingredients="beurre"> faire </operation> un <ingredient action="faire" quantite="2 cuillère à soupe"> beurre </ingredient> manié , c' est à dire même quantité de <ingredient quantite="2 cuillère à soupe"> beurre </ingredient> que de <ingredient> farine </ingredient> . . . le <ingredient quantite="2 cuillère à soupe"> beurre </ingredient> doit être bien mou pour cela . bien <operation> mélanger </operation> avec une fourchette dans un bol . <operation ingredients="viande;champignons;lardons"> mettre </operation> la <ingredient action="mettre" quantite="200 gr"> viande </ingredient> , les <ingredient action="mettre" quantite="500 gramme"> champignons </ingredient> et les <ingredient action="mettre" quantite="200 gr"> lardons </ingredient> dans un plat de service . faire <operation> réchauffer </operation> la sauce . y <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> beurre </ingredient> manié . bien <operation> fouetter </operation> . se sert avec des mini-croquettes de <ingredient> pommes </ingredient> de terre ou de la purée . saint emilion
+</preparation>
+</recette>

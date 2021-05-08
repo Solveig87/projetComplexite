@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14888">
+<titre>Sorbet facile aux pêches ou aux poires</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de fruits pelés et denoyautés </p>
+<p>400 g de sucre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="fruits"> peler </operation> les <ingredient action="peler" quantite="1 kilogramme"> fruits </ingredient> . <operation> mixer </operation> en purée . <operation ingredients="sucre;fruits"> rajouter </operation> 400 g de <ingredient action="rajouter" quantite="400 gramme"> sucre </ingredient> pour 1 kg de <ingredient action="rajouter" quantite="1 kilogramme"> fruits </ingredient> . bien <operation> mélanger </operation> . <operation> mettre </operation> dans recipient et <operation> placer </operation> au congélateur . super simple et super bon .
+</preparation>
+</recette>

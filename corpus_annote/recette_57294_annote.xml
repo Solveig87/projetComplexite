@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57294">
+<titre>Compotée de légumes au chorizo et aux pois chiches</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>1 poivron</p>
+<p>1 chorizo</p>
+<p>1 courgette</p>
+<p>1 aubergine</p>
+<p>2 tomates</p>
+<p>400 g de pois chiches</p>
+<p>200 g de semoule crue</p>
+<p>huile d'olive, cumin en poudre, sucre, sel, poivre</p>
+</ingredients>
+<preparation>
+dans un wok , faire <operation ingredients="oignon"> revenir </operation> dans 2 cuillères à soupe d' huile , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> grossièrement haché , puis <operation ingredients="chorizo;aubergine;tomate"> ajouter </operation> , en <operation ingredients="poivron"> laissant </operation> <operation> revenir </operation> à chaque nouvel ingrédient , le <ingredient action="laisser" quantite="1"> poivron </ingredient> en morceaux , le <ingredient action="ajouter" quantite="1"> chorizo </ingredient> en rondelles ( si possible sans la peau ) , la courgette et l' <ingredient action="ajouter" quantite="1"> aubergine </ingredient> en petits cubes et enfin la <ingredient action="ajouter" quantite="2"> tomate </ingredient> , également en cubes . <operation ingredients="sel;poivre;chorizo"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , de <ingredient action="assaisonner" quantite=""> poivre </ingredient> ( attention si le <ingredient action="assaisonner" quantite="1"> chorizo </ingredient> est déjà piquant . . . ) , de <ingredient quantite=""> cumin </ingredient> ( ne pas hésiter , ça parfume bien . . . ) et une pincée de <ingredient quantite=""> sucre </ingredient> ( à cause de la <ingredient quantite="2"> tomate </ingredient> ) . <operation> couvrir </operation> et laisser <operation> mijoter </operation> à feu doux jusqu' à ce que les <ingredient action="cuire" quantite="1;1;1;2;400 gramme"> légumes </ingredient> soient <operation ingredients="légumes"> cuits </operation> . pendant ce temps , faire <operation ingredients="semoule;semoule"> gonfler </operation> la <ingredient action="gonfler" quantite="200 gramme"> semoule </ingredient> ( normalement , un verre d' eau chaude pour un verre de <ingredient action="gonfler" quantite="200 gramme"> semoule </ingredient> ) . lorsque la ratatouille est <operation> cuite </operation> , <operation ingredients="semoule;pois;chiches"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme"> semoule </ingredient> cuite et les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter" quantite="400 gramme"> chiches </ingredient> . servir bien chaud .
+</preparation>
+</recette>

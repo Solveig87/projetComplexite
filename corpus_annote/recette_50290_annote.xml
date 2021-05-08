@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50290">
+<titre>Gâteau fin à la rhubarbe</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de rhubarbe </p>
+<p>150 g de sucre</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1 sachet de levure</p>
+<p>100 g de farine</p>
+<p>15 cl de lait</p>
+</ingredients>
+<preparation>
+préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="rhubarbe"> coupez </operation> la <ingredient action="couper" quantite="500 gramme"> rhubarbe </ingredient> en dés et <operation ingredients="sucre"> saupoudrez </operation> - la de 50 g de <ingredient action="saupoudrer" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="farine;levure;oeufs"> mélangez </operation> la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> avec la <ingredient action="mélanger"> levure </ingredient> , les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> , le <ingredient quantite="150 gramme"> sucre </ingredient> , l' <ingredient quantite="2 cuillère à soupe"> huile </ingredient> et le <ingredient quantite="15 cl"> lait </ingredient> . lorsque la <ingredient action="lisse"> pâte </ingredient> est <operation ingredients="pâte"> lisse </operation> et homogène , <operation ingredients="rhubarbe"> incorporez </operation> les morceaux de <ingredient action="incorporer" quantite="500 gramme"> rhubarbe </ingredient> . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> à tarte beurré et <operation> enfournez </operation> 25 à 30 minutes .
+</preparation>
+</recette>

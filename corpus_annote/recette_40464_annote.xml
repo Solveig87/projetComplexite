@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40464">
+<titre>Pastilla aux fruits de mer</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fruits de mer</p>
+<p>1 oignon</p>
+<p>1 poivron</p>
+<p>100 g de vermicelles de soja</p>
+<p>50 g d'olives verte dénoyautées</p>
+<p>10 feuilles de brick</p>
+<p>50 g de beurre</p>
+<p>1 cuillère à café rase de sel</p>
+<p>poivre</p>
+<p>1/2 cuillère à café de safran</p>
+<p>1/2 cuillère à café de cumin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;poivron"> revenir </operation> avec un peu d' <ingredient action="revenir"> huile </ingredient> l' oignon et le <ingredient action="revenir" quantite="1"> poivron </ingredient> <operation> coupés </operation> en petits dés , <operation ingredients="olives"> ajouter </operation> les <ingredient action="ajouter"> olives </ingredient> <operation> coupées </operation> en deux , puis <operation ingredients="fruits;épices"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> fruits </ingredient> de mer et les <ingredient action="ajouter" quantite=""> épices </ingredient> . laisser <operation> revenir </operation> 5 minutes . dans une casserole , faire <operation> bouillir </operation> de l' eau et y <operation ingredients="vermicelles"> plonger </operation> les <ingredient action="plonger" quantite="100 gramme"> vermicelles </ingredient> . laisser <operation> cuire </operation> 2 minutes et les sortir , puis les <operation> mélanger </operation> au reste . dans un plat <ingredient> rond </ingredient> , étaler un peu de <ingredient quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> et <operation ingredients="brick"> mettre </operation> en profondeur deux feuilles de <ingredient action="mettre" quantite="10 feuille"> brick </ingredient> , puis <operation ingredients="brick"> faire </operation> le contour du plat avec les feuilles de <ingredient action="faire" quantite="10 feuille"> brick </ingredient> ( les laisser dépasser du plat ) . au milieu , <operation> mettre </operation> la préparation et <operation> refermer </operation> avec les feuilles qui dépassent puis <operation> rajouter </operation> des feuilles pour maintenir la pastilla en une <operation> forme </operation> <ingredient> ronde </ingredient> . <operation ingredients="beurre"> badigeonner </operation> chaque feuille de <ingredient action="badigeonner" quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation> mettre </operation> au four pendant 20 minutes au four préchauffé à thermostat 6 / 7 ( 200 <operation> ° </operation> c ) .
+</preparation>
+</recette>

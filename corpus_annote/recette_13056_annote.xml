@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13056">
+<titre>Colombo de poulet (Antilles)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à café de poudre à colombo</p>
+<p>1 cuillère à soupe de rhum blanc ou vieux (facultatif)</p>
+<p>3 pommes de terre moyenne</p>
+<p>persil frais</p>
+<p>le jus d'un citron</p>
+<p>mélange quatre épices</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;oignon;rhum;épice;sel;poivre;jus"> mariner </operation> le <ingredient action="mariner"> poulet </ingredient> dans un récipient avec 1 <ingredient action="mariner" quantite="2"> oignon </ingredient> <operation> coupé </operation> en dé , le <ingredient action="mariner" quantite="1 cuillère à soupe"> rhum </ingredient> , 1 cuillère de colombo , du quatre <ingredient action="mariner" quantite="1;;"> épice </ingredient> , du <ingredient action="mariner" quantite=""> sel </ingredient> et du <ingredient action="mariner"> poivre </ingredient> et le <ingredient action="mariner" quantite=""> jus </ingredient> de citron . ne pas y toucher durant 4 à 5 heures . <operation ingredients="poulet"> faire </operation> doré le <ingredient action="faire"> poulet </ingredient> dans une sauteuse . puis le <operation> mettre </operation> de côté . dans la même sauteuse , faire <operation ingredients="oignons;pommes;gousse"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="3"> pommes </ingredient> de terre <operation> coupées </operation> en petits dés , ainsi que la <ingredient action="revenir" quantite="1"> gousse </ingredient> d' ail <operation> hachée </operation> . <operation ingredients="poulet;persil"> rajouter </operation> le <ingredient action="rajouter"> poulet </ingredient> , le colombo , et le <ingredient action="rajouter" quantite=""> persil </ingredient> haché . <operation> couvrir </operation> d' eau et laisser <operation> mijoter </operation> 10 mn en <operation> recouvrant </operation> . au moment de servir , <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1;;"> assaisonnement </ingredient> . servir de préférence avec du <ingredient> riz </ingredient> . vin rouge
+</preparation>
+</recette>

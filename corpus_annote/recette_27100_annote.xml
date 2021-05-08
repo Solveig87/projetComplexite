@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27100">
+<titre>Beignets aux raisins</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 litre de lait</p>
+<p>4 oeufs entiers</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 cuillère à soupe de sucre de canne</p>
+<p>1 paquet de levure chimique</p>
+<p>500 g de farine</p>
+<p>100 g de raisins secs</p>
+<p>100 g de sucre glace</p>
+<p>1 zeste d'orange ou de citron</p>
+<p>10 cl de rhum</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> . pendant ce temps <operation> battres </operation> les <ingredient quantite="4"> oeufs </ingredient> en <operation ingredients="sucre"> incorporant </operation> le paquet de <ingredient action="incorporer" quantite="1 cuillère à soupe+100 gramme"> sucre </ingredient> vanillé , la cuillère à soupe de sucre de canne et le zeste de citon . <operation ingredients="lait;oeufs"> verser </operation> le <ingredient action="verser"> lait </ingredient> bouillant sur les <ingredient action="verser" quantite="4"> oeufs </ingredient> en <operation> fouettant </operation> vivement . continuer à <operation> battre </operation> en <operation ingredients="farine;levure;raisins"> incorporant </operation> la <ingredient action="incorporer" quantite="500 gramme"> farine </ingredient> , le paquet de <ingredient action="incorporer"> levure </ingredient> et les <ingredient action="incorporer" quantite="100 gramme"> raisins </ingredient> secs préalablement <operation ingredients="rhum"> macérés </operation> dans du <ingredient action="macérer" quantite="10 cl"> rhum </ingredient> jusqu' à obtenir une <ingredient> pâte </ingredient> onctueuse . laisser <operation> reposer </operation> 3 heures . faire <operation ingredients="noix"> frire </operation> par boulettes de la grosseur d' une grosse <ingredient action="frire"> noix </ingredient> , <operation> retourner </operation> le beignet quant il monte à la surface , et laisser <operation> cuire </operation> jusqu' à ce qu' il soit bien doré . <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe+100 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> sitôt <operation> retiré </operation> de la friture . déguster encore tiède . pour <operation> confectionner </operation> les boulettes utiliser une cuillère à café et avec le doigt <operation> mouillé </operation> faire glisser au dessus de la friture . blanquette de limoux ou de die
+</preparation>
+</recette>

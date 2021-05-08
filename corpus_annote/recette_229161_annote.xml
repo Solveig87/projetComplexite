@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229161">
+<titre>Cake au carrés de chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>30 cl de crème fraiche</p>
+<p>4 oeufs</p>
+<p>1 sachet de levure chimique</p>
+<p>50 g de chocolat noir</p>
+<p>125 g de sucre</p>
+<p>3 cuillères à soupe de cacao en poudre</p>
+</ingredients>
+<preparation>
+faites préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . dans un saladier <operation ingredients="farine;levure"> mélangez </operation> la <ingredient action="mélanger" quantite="300 gramme"> farine </ingredient> et la <ingredient action="mélanger"> levure </ingredient> . puis <operation ingredients="œufs;sucre;crème;cacao"> incorporez </operation> les <ingredient action="incorporer"> œufs </ingredient> , le <ingredient action="incorporer" quantite="125 gramme"> sucre </ingredient> , la <ingredient action="incorporer" quantite="30 cl"> crème </ingredient> fraîche et le <ingredient action="incorporer" quantite="3 cuillère à soupe"> cacao </ingredient> . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> préalablement beurré . <operation ingredients="chocolats;pâte"> disposez </operation> les carreaux de <ingredient action="disposer" quantite="50 gramme"> chocolats </ingredient> sur le dessus de la <ingredient action="disposer"> pâte </ingredient> et <operation> enfournez </operation> pour 40 minutes de cuisson .
+</preparation>
+</recette>

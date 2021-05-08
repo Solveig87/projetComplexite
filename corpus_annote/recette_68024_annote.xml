@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68024">
+<titre>Lasagne végétarienne avec cottage cheese</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>4 carottes</p>
+<p>2 poireaux</p>
+<p>200 gr de petits pois en conserve</p>
+<p>400 gr de haricots verts</p>
+<p>500 gr de cottage cheese</p>
+<p>plaques de lasagne</p>
+<p>farine, beurre, fromage et lait pour la béchamel</p>
+<p>50 gr de fromage rapé pour garnir</p>
+</ingredients>
+<preparation>
+dans une grande casserole , faire <operation ingredients="oignons;huile;beurre"> cuire </operation> les <ingredient action="cuire" quantite="1"> oignons </ingredient> dans un peu d' <ingredient action="cuire"> huile </ingredient> ou de <ingredient action="cuire"> beurre </ingredient> . <operation ingredients="carottes;haricots"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> carottes </ingredient> <operation> coupées </operation> en petits morceaux , puis les <ingredient action="ajouter" quantite="400 gr"> haricots </ingredient> , les <ingredient quantite="2"> poireaux </ingredient> et en dernier <ingredient> lieu </ingredient> les petits <ingredient> pois </ingredient> ( qui sont déjà <operation> cuits </operation> et doivent donc juste être <operation> réchauffés </operation> ) . préchauffer le four à 200 <operation> ° </operation> c ( thermostat 6 / 7 ) . <operation ingredients="béchamel;beurre"> préparer </operation> une <ingredient action="préparer"> béchamel </ingredient> ( sans trop de <ingredient action="préparer"> beurre </ingredient> pour ne pas qu' elle soit trop lourde ) . dans un grand plat , commencer par étaler une couche de <ingredient> pâtes </ingredient> puis une couche de <ingredient quantite="1;4;2;400 gr"> légumes </ingredient> . <operation ingredients="pâtes"> ajouter </operation> ensuite une couche de <ingredient action="ajouter"> pâtes </ingredient> puis étaler une couche de <ingredient quantite="500 gr"> cottage </ingredient> cheese . <operation ingredients="pâtes;légumes;béchamel;fromage"> remettre </operation> une couche de <ingredient action="remettre"> pâtes </ingredient> et une couche de <ingredient action="remettre" quantite="1;4;2;400 gr"> légumes </ingredient> et terminer par la <ingredient action="remettre"> béchamel </ingredient> et un peu de <ingredient action="remettre" quantite="+50 gr"> fromage </ingredient> rapé . <operation> mettre </operation> au four pendant environ 15 min , le temps de <operation ingredients="fromage"> faire </operation> <operation> réchauffer </operation> le tout et <operation> gratiner </operation> le <ingredient action="faire" quantite="+50 gr"> fromage </ingredient> . facile à faire . pour être encore plus simple , il suffit de prendre des <ingredient quantite="1;4;2;400 gr"> légumes </ingredient> surgelés ( <ingredient quantite="2"> poireaux </ingredient> ) et en conserve ( petits <ingredient> pois </ingredient> ) . mais rien n' est meilleur que le frais !
+</preparation>
+</recette>

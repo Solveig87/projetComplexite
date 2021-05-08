@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71808">
+<titre>Gâteau basque maison</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>200 g de beurre mou</p>
+<p>1 oeuf</p>
+<p>2 jaunes d'oeufs</p>
+<p>200 g de sucre</p>
+<p>300 g de farine</p>
+<p>1 pincée de sel</p>
+<p>Pour la crème :</p>
+<p>25 cl de lait</p>
+<p>1 oeuf</p>
+<p>1 jaune d'oeuf</p>
+<p>50 g de farine</p>
+<p>65 g de sucre</p>
+<p>1 cuillère à café de rhum</p>
+<p>1/2 gousse de vanille</p>
+</ingredients>
+<preparation>
+pour la <ingredient> pâte </ingredient> : <operation ingredients="farine;sucre"> faire </operation> un puits avec la <ingredient action="faire" quantite="300 gramme+50 gramme"> farine </ingredient> et le <ingredient action="faire" quantite="200 gramme+65 gramme"> sucre </ingredient> , <operation ingredients="oeufs;oeuf;sel;beurre"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="1+1"> oeufs </ingredient> , l' <ingredient action="ajouter" quantite="1+1"> oeuf </ingredient> entier , le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> et le <ingredient action="ajouter" quantite="200 gramme"> beurre </ingredient> . bien <operation> malaxer </operation> . pour la <ingredient> crème </ingredient> : <operation ingredients="farine"> mélanger </operation> avec un fouet la <ingredient action="mélanger" quantite="300 gramme+50 gramme"> farine </ingredient> , le <ingredient quantite="200 gramme+65 gramme"> sucre </ingredient> , les jaunes d' <ingredient quantite="1+1"> oeufs </ingredient> , le <ingredient quantite="1 cuillère à café"> rhum </ingredient> , la vanille et le <ingredient quantite="25 cl"> lait </ingredient> . <operation ingredients="crème"> porter </operation> à <operation> ébullition </operation> jusqu’ à épaississement de la <ingredient action="porter"> crème </ingredient> . dans un <operation> moule </operation> beurré , <operation ingredients="pâte"> mettre </operation> la moitié de la <ingredient action="mettre"> pâte </ingredient> aplatie au rouleau . <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir"> crème </ingredient> et étaler dessus l’ autre moitié de la <ingredient> pâte </ingredient> . <operation ingredients="oeuf"> dorer </operation> le dessus avec un <ingredient action="dorer" quantite="1+1"> oeuf </ingredient> <operation> battu </operation> , rayer à la fourchette . faire <operation> cuire </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) , durant 25 minutes .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36929">
+<titre>Gateau chocolat gingembre (micro-onde)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat dessert</p>
+<p>100 g de beurre</p>
+<p>100 g de sucre</p>
+<p>3 oeufs</p>
+<p>2 cuillères à soupe de farine</p>
+<p>1/2 sachet de levure</p>
+<p>1/2 cuillère à café de gingembre moulu</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> + le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> au micro-ondes ( ou sur le feu ) . <operation ingredients="sucre;oeufs;gingembre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> puis les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , le <ingredient action="ajouter"> gingembre </ingredient> moulu , la <ingredient> levure </ingredient> et la <ingredient quantite="2 cuillère à soupe"> farine </ingredient> . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> <operation> passant </operation> au four à micro-ondes préalablement beurré . faire <operation> cuire </operation> pendant 4 à 5 min à la puissance maximale ( 900 w ) . si votre four est moins puissant <operation> ajoutez </operation> une à deux minute . vous pouvez <operation ingredients="crème"> accompagner </operation> le gateau <operation> fondant </operation> avec une <ingredient action="accompagner"> crème </ingredient> anglaise .
+</preparation>
+</recette>

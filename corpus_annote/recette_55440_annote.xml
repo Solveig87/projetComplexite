@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55440">
+<titre>Lapin à la bière et aux épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>1 oignon</p>
+<p>75 cl de bouillon de volaille</p>
+<p>15 cl de bière aux épices (de préférence)</p>
+<p>bouillon</p>
+<p>anis étoilé</p>
+<p>coriandre en poudre</p>
+<p>3 ou 4 feuilles de cari</p>
+<p>huile, sel</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="oignon"> revenir </operation> un <ingredient action="revenir" quantite="1"> oignon </ingredient> finement <operation ingredients="huile"> coupé </operation> dans un peu d' <ingredient action="couper" quantite=""> huile </ingredient> . <operation ingredients="lapin"> couper </operation> le <ingredient action="couper" quantite="1"> lapin </ingredient> en morceaux , <operation> saler </operation> et faire <operation> dorer </operation> dans la cocotte . pendant ce temps , <operation ingredients="bouillon"> préparer </operation> un <ingredient action="préparer" quantite="75 cl"> bouillon </ingredient> en y <operation ingredients="épices"> ajoutant </operation> les <ingredient action="ajouter" quantite=";;"> épices </ingredient> . <operation ingredients="bouillon;épices"> verser </operation> <ingredient action="verser" quantite="75 cl"> bouillon </ingredient> chaud et <ingredient action="verser" quantite=";;"> épices </ingredient> dans la cocotte . <operation ingredients="bière"> rajouter </operation> la <ingredient action="rajouter" quantite="15 cl"> bière </ingredient> . faire <operation> cuire </operation> à feux moyen pendant 50 minutes à 1 heure . servir avec des <ingredient> pâtes </ingredient> ou des <ingredient> pommes </ingredient> de terre vapeur . j' ai utilisé une <ingredient quantite="15 cl"> bière </ingredient> de noël aux <ingredient quantite=";;"> épices </ingredient> dans la composition de laquelle on trouvait badiane , coriande et écorce d' <ingredient> orange </ingredient> . j' ai voulu utiliser les mêmes <ingredient quantite=";;"> épices </ingredient> . n' ayant pas d' <ingredient> orange </ingredient> sous la main , j' ai <operation> mis </operation> quelques feuilles de cari au parfum légèrement citronné . la même <ingredient quantite="15 cl"> bière </ingredient> que celle ayant servi à la préparation du plat
+</preparation>
+</recette>

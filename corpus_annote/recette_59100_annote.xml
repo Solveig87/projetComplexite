@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59100">
+<titre>Gâteau aux 2 chocolats sans oeufs, sans cuisson</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de biscuits</p>
+<p>150 g de chocolat noir</p>
+<p>150 g de chocolat au lait</p>
+<p>150 g de miel</p>
+<p>100 g de beurre doux</p>
+<p>100 g d'abricots sec</p>
+<p>60 g de noix de pécan</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteaux"> emietter </operation> les <ingredient action="emietter"> gâteaux </ingredient> . faire <operation ingredients="chocolats;beurre;miel"> fondre </operation> les 2 <ingredient action="fondre" quantite="150 gramme+150 gramme"> chocolats </ingredient> , le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="150 gramme"> miel </ingredient> . <operation> mettre </operation> le tout dans un saladier , <operation ingredients="abricots;noix"> ajouter </operation> les <ingredient action="ajouter"> abricots </ingredient> <operation> coupés </operation> et les <ingredient action="ajouter" quantite="60 gramme"> noix </ingredient> de pécan et <operation> mélanger </operation> . <operation> mettre </operation> dans un plat et laisser au réfrigérateur jusqu' à durcissement ( pendant 1 heure environ ) .
+</preparation>
+</recette>

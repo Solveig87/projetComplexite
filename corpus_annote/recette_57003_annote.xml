@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57003">
+<titre>Steak au bresse bleu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 steaks hachés</p>
+<p>2 tranches de bresse bleu</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="bleu"> faire </operation> d' abord <operation ingredients="steak"> cuire </operation> les <ingredient action="cuire" quantite="2"> steak </ingredient> à feu fort puis , sur un coté de la <operation> poêle </operation> , faire <operation> cuire </operation> le bresse <ingredient action="faire" quantite="2 tranche"> bleu </ingredient> des 2 côtés et le <operation ingredients="steak"> mettre </operation> sur le <ingredient action="mettre" quantite="2"> steak </ingredient> <operation> haché </operation> et faire <operation> cuire </operation> à petit feu . dans une autre <operation> poêle </operation> , faire <operation ingredients="oeufs"> cuire </operation> les 2 <ingredient action="cuire" quantite="2"> oeufs </ingredient> et les <operation ingredients="steak;bleu"> poser </operation> sur le <ingredient action="poser" quantite="2"> steak </ingredient> <operation> haché </operation> et le bresse <ingredient action="poser" quantite="2 tranche"> bleu </ingredient> et le tour est joué . bon appétit à vous tous ! très bon et très consistant !
+</preparation>
+</recette>

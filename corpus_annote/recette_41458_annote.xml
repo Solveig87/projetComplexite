@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41458">
+<titre>Gratin d'Halloween</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit morceau de courge</p>
+<p>2 carottes</p>
+<p>50 g de riz blanc</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 pincée de muscade</p>
+<p>4 tranches de jambon blanc</p>
+<p>du fromage râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="courge;carottes"> cuire </operation> au cuit - vapeur la <ingredient action="cuire"> courge </ingredient> et les <ingredient action="cuire" quantite="2"> carottes </ingredient> pendant 20 minutes . <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> blanc . <operation ingredients="jambon"> mixer </operation> le <ingredient action="mixer" quantite="4 tranche"> jambon </ingredient> blanc . <operation ingredients="crème;sel;poivre;muscade"> ajouter </operation> dans le bol du <operation ingredients="courge;carottes"> mixer </operation> la <ingredient action="mixer"> courge </ingredient> et les <ingredient action="mixer" quantite="2"> carottes </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche , le <ingredient action="ajouter"> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> et la <ingredient action="ajouter" quantite="1 pincée"> muscade </ingredient> . <operation> mixer </operation> . <operation> verser </operation> dans un plat à gratin <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter"> riz </ingredient> , <operation> mélanger </operation> . faire <operation> gratiner </operation> pendant 5 à 10 minutes au four sous le grill .
+</preparation>
+</recette>

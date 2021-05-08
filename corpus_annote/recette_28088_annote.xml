@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28088">
+<titre>Salade de fraises aux bananes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fraises</p>
+<p>2 bananes</p>
+<p>1 orange</p>
+<p>1 demi-citron</p>
+<p>80 g de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> lavez </operation> les <ingredient action="laver" quantite="500 gramme"> fraises </ingredient> , séchez - les puis <operation> équeutez </operation> - les . <operation ingredients="fraises"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> fraises </ingredient> en deux ou en quatre si elles sont grosses . <operation ingredients="bananes"> pelez </operation> les <ingredient action="peler" quantite="2"> bananes </ingredient> et <operation> découpez </operation> - les en fines tranches . <operation ingredients="bananes;jus"> arosez </operation> les <ingredient action="arosez" quantite="2"> bananes </ingredient> avec le <ingredient action="arosez"> jus </ingredient> de citron . <operation ingredients="orange"> pressez </operation> l' <ingredient action="presser" quantite="1"> orange </ingredient> . dans un saladier , <operation ingredients="fraises;bananes;jus;sucre"> mélangez </operation> les <ingredient action="mélanger" quantite="500 gramme"> fraises </ingredient> , les <ingredient action="mélanger" quantite="2"> bananes </ingredient> , le <ingredient action="mélanger"> jus </ingredient> d' orange et le <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> . <operation> mettez </operation> au réfrigérateur jusqu' au service . <ingredient> jus </ingredient> de fruit
+</preparation>
+</recette>

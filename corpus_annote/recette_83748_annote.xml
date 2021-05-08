@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83748">
+<titre>Crapets aux pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>400 g de farine</p>
+<p>3 oeufs</p>
+<p>Un peu de lait</p>
+<p>Sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> épluchez </operation> les <ingredient action="éplucher" quantite="4"> pommes </ingredient> , <operation> ôtez </operation> les trognons et <operation> coupez </operation> les en fines rondelles ; cassez les <ingredient quantite="3"> oeufs </ingredient> et <operation> battez </operation> - les . <operation ingredients="farine"> ajoutez </operation> une cuiller à soupe de sucre puis la <ingredient action="ajouter" quantite="400 gramme"> farine </ingredient> . <operation> mélangez </operation> - bien . <operation ingredients="lait;pâte;pâte"> ajoutez </operation> doucement du <ingredient action="ajouter"> lait </ingredient> jusqu' à obtention d' une <ingredient action="ajouter"> pâte </ingredient> un peu plus épaisse que la <ingredient action="ajouter"> pâte </ingredient> à crêpes . faites <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> dans une <operation> poêle </operation> . <operation ingredients="pommes;pâte"> trempez </operation> lez rondelles de <ingredient action="trempez" quantite="4"> pommes </ingredient> dans la <ingredient action="trempez"> pâte </ingredient> puis les faire <operation> cuire </operation> des deux cotés . <operation> réservez </operation> sur un plat et <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> . se déguste chaud ou froid .
+</preparation>
+</recette>

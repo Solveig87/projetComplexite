@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65212">
+<titre>Saumonette à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de saumonette tranchée en 4 morceaux</p>
+<p>1 à 2 cuillères à soupe de moutarde</p>
+<p>10 cl de fromage blanc ou de crème fraîche</p>
+<p>1 paquet de lardons</p>
+<p>beurre, huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson;beurre"> dorer </operation> , à la <operation> poêle </operation> , les tranches de <ingredient action="dorer"> poisson </ingredient> , dans un <operation> mélange </operation> huile - <ingredient action="dorer" quantite=""> beurre </ingredient> <operation> fondu </operation> ( 1 cuillère à soupe de chaque ) . laisser <operation> cuire </operation> à feu moyen , 5 min environ , en <operation> retournant </operation> les tranches à mi-cuisson . pendant ce temps , faire <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer"> lardons </ingredient> dans une sauteuse , <operation ingredients="moutarde;fromage"> ajouter </operation> la <ingredient action="ajouter"> moutarde </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> fromage </ingredient> blanc et <operation> réchauffer </operation> à feu doux . dans le plat de service <operation ingredients="poisson"> enrober </operation> le <ingredient action="enrober"> poisson </ingredient> avec la sauce et servir . on peut <operation ingredients="riz;pommes"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pommes </ingredient> de terre à la vapeur .
+</preparation>
+</recette>

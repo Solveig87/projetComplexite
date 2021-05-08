@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25018">
+<titre>Gratin bicolore au potimarron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>700 g de potimarron</p>
+<p>600 g de pommes de terre</p>
+<p>10 cl de lait</p>
+<p>1 oeuf</p>
+<p>50 g de beurre</p>
+<p>200 g de gruyère râpé</p>
+<p>noix de muscade</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;potimarron"> cuire </operation> les <ingredient action="cuire" quantite="600 gramme"> pommes </ingredient> de terre et le <ingredient action="cuire" quantite="700 gramme"> potimarron </ingredient> à l' eau bouillante ou à la vapeur . <operation> eplucher </operation> chacun , <operation ingredients="pommes;lait;oeuf;sel"> écrasez </operation> les <ingredient action="écraser" quantite="600 gramme"> pommes </ingredient> de terre en purée avec un peu de <ingredient action="écraser" quantite="10 cl"> lait </ingredient> , l' <ingredient action="écraser" quantite="1"> oeuf </ingredient> <operation> battu </operation> , <ingredient action="écraser" quantite=""> sel </ingredient> , poivre et muscade . <operation ingredients="potimarron"> couper </operation> le <ingredient action="couper" quantite="700 gramme"> potimarron </ingredient> en cubes . <operation ingredients="potiron"> mélanger </operation> la purée avec les dés de <ingredient action="mélanger"> potiron </ingredient> , <operation> verser </operation> dans un plat à gratin et <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="200 gramme"> gruyère </ingredient> râpé . <operation ingredients="noix"> parsemer </operation> de <ingredient action="parsemer" quantite=""> noix </ingredient> de beurre et faire <operation> gratiner </operation> 20 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

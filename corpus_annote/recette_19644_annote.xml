@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19644">
+<titre>Gambas à l'armoricaine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 gambas</p>
+<p>1/2 verre de Cognac ou Whisky</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>10 cl de crème fraîche</p>
+<p>15 cl de coulis de tomate</p>
+<p>1 verre de vin blanc</p>
+<p>1 échalote</p>
+<p>1 oignon</p>
+<p>3 gousses d'ail</p>
+<p>persil haché</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gambas;échalote;oignon;huile"> revenir </operation> les <ingredient action="revenir" quantite="24"> gambas </ingredient> , l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> hachés </operation> à feu vif dans de l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="whisky;cognac"> flambez </operation> au <ingredient action="flamber"> whisky </ingredient> ou au <ingredient action="flamber"> cognac </ingredient> hors du feu . <operation> remettre </operation> à feu doux et <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="1 verre"> vin </ingredient> blanc , <operation ingredients="ail;persil;tomate;crème"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> pilé </operation> , le <ingredient action="ajouter" quantite=""> persil </ingredient> haché , le coulis de <ingredient action="ajouter"> tomate </ingredient> et la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> à feu doux 20 min . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pâtes </ingredient> . toute la maison sent bon la bretagne ! ! ! ! <ingredient> muscadet </ingredient> sur <operation> lie </operation>
+</preparation>
+</recette>

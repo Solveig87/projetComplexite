@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27789">
+<titre>Crème frangipane de Zouzou</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>25 g de beurre</p>
+<p>60 g d'amandes effilées</p>
+<p>500 ml de lait</p>
+<p>65 g de farine</p>
+<p>1/2 sachet de sucre vanillé</p>
+<p>1 oeuf entier</p>
+<p>2 jaunes d'oeuf</p>
+<p>75 g de sucre semoule</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> ramollir </operation> le <ingredient action="ramollir" quantite="25 gramme"> beurre </ingredient> . <operation ingredients="lait;sucre"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> dans une casserole avec le <ingredient action="chauffer" quantite="75 gramme"> sucre </ingredient> vanillé . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="1"> oeufs </ingredient> entiers avec les jaunes dans une terrine . <operation ingredients="sucre;sel"> ajouter </operation> 60 g de <ingredient action="ajouter" quantite="75 gramme"> sucre </ingredient> et une pincée de <ingredient action="ajouter" quantite=""> sel </ingredient> . <operation ingredients="farine"> incorporer </operation> la <ingredient action="incorporer" quantite="65 gramme"> farine </ingredient> en <operation> mélangeant </operation> , puis <operation ingredients="lait"> verser </operation> le <ingredient action="verser"> lait </ingredient> bouillant sans cesser de <operation> remuer </operation> . <operation ingredients="crème"> verser </operation> cette <ingredient action="verser"> crème </ingredient> dans une casserole et faire <operation ingredients="bouillon"> cuire </operation> sur feu doux jusqu' au premier <ingredient action="cuire"> bouillon </ingredient> . <operation> retirer </operation> du feu . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="25 gramme"> beurre </ingredient> <operation ingredients="amandes"> ramolli </operation> , les <ingredient action="ramollir" quantite="60 gramme"> amandes </ingredient> en <operation> poudre </operation> et bien <operation> mélanger </operation> . <operation ingredients="crème;sucre"> poudrer </operation> la <ingredient action="poudrer"> crème </ingredient> encore chaude avec le reste de <ingredient action="poudrer" quantite="75 gramme"> sucre </ingredient> semoule pour éviter la formation d' une peau , pendant qu' elle refroidit .
+</preparation>
+</recette>

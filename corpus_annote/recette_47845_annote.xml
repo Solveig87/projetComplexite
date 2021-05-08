@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47845">
+<titre>Poulet provençal à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gros poulet coupé en morceaux</p>
+<p>1 petite tranche épaisse de jambon cru découenné</p>
+<p>8 rondelles de chorizo</p>
+<p>1 poivron jaune</p>
+<p>1 poivron rouge</p>
+<p>1 courgette</p>
+<p>4 tomates</p>
+<p>2 oignons</p>
+<p>quelques olives noires</p>
+<p>brins de thym et de coriandre fraîche</p>
+<p>huile d'olive</p>
+<p>15 cl de vin blanc sec</p>
+<p>3 gousses d'ail</p>
+<p>sel et poivre</p>
+<p>un peu de piment d'Espelette</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> et les <operation> concasser </operation> , <operation ingredients="poivrons"> nettoyer </operation> les <ingredient action="nettoyer"> poivrons </ingredient> et la courgette . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper"> jambon </ingredient> cru en lanières , <operation ingredients="oignons"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> et les <operation> couper </operation> en rondelles . <operation ingredients="olives"> rincer </operation> les <ingredient action="rincer" quantite="quelque"> olives </ingredient> et les <operation> égoutter </operation> . dans une cocotte , faire <operation ingredients="huile;poulet"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> . puis les <operation> ôter </operation> , et à la <operation> place </operation> faites <operation ingredients="oignons;poivrons;jambon"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir"> poivrons </ingredient> avec le <ingredient action="revenir"> jambon </ingredient> cru . <operation ingredients="poulet"> remettre </operation> les morceaux de <ingredient action="remettre" quantite="1"> poulet </ingredient> dans la cocotte et <operation ingredients="chorizo;olives;tomates"> ajouter </operation> les rondelles de <ingredient action="ajouter"> chorizo </ingredient> , les <ingredient action="ajouter" quantite="quelque"> olives </ingredient> noires , les <ingredient action="ajouter" quantite="4"> tomates </ingredient> et la courgette . <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="15 cl"> vin </ingredient> blanc , le <ingredient action="éplucher"> thym </ingredient> et la <ingredient action="éplucher"> coriandre </ingredient> , l' <ingredient action="éplucher"> ail </ingredient> <operation ingredients="thym;coriandre;ail"> épluché </operation> . <operation> saler </operation> et <operation> poivrer </operation> et <operation> ajouter </operation> un peu de piment d' espelette ( selon les goûts ) . laisser <operation> mijoter </operation> environ 25 min . ce plat est simple et délicieux et il sera encore meilleur si vous le faîtes la veille et est <operation> réchauffé </operation> . ne <operation ingredients="jambon;chorizo"> salez </operation> pas trop à cause du <ingredient action="saler"> jambon </ingredient> cru , et du <ingredient action="saler"> chorizo </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45634">
+<titre>Crêpes aux pommes fondantes (journée de la crêpe)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour les crèpes :</p>
+<p>500 g de farine</p>
+<p>4 oeufs</p>
+<p>1 litre de lait</p>
+<p>beurre</p>
+<p>Pour la garniture :</p>
+<p>1 pomme golden par personne</p>
+<p>beurre</p>
+<p>sirop de caramel toffee (rayon sirop)</p>
+<p>vergeoise</p>
+<p>chantilly</p>
+</ingredients>
+<preparation>
+pour les crèpes : <operation ingredients="oeufs"> mélanger </operation> ensemble farine et <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , puis <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer" quantite="1 litre"> lait </ingredient> petit à petit afin d' obtenir une <ingredient> pâte </ingredient> <operation> lisse </operation> . faire <operation ingredients="beurre"> cuire </operation> dans une <operation> poêle </operation> bien chaude , avec un morceau de <ingredient action="cuire"> beurre </ingredient> . la garniture : <operation> eplucher </operation> les <ingredient action="couper" quantite="1"> pommes </ingredient> , les <operation ingredients="pommes"> couper </operation> en 4 et <operation ingredients="coeur"> retirer </operation> le <ingredient action="retirer"> coeur </ingredient> , puis <operation> couper </operation> chaque quartier en 3 ou 4 tranches . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> fondre </operation> un gros morceau de <ingredient action="fondre"> beurre </ingredient> . quand il est bien chaud , <operation ingredients="pommes"> jeter </operation> les <ingredient action="jeter" quantite="1"> pommes </ingredient> dedans et les faire <operation> dorer </operation> de chaque côté . <operation ingredients="sirop"> recouvrir </operation> avec le <ingredient action="recouvrir" quantite=""> sirop </ingredient> de caramel , et les <operation> retourner </operation> doucement pour qu' elles s' en <operation> imprègnent </operation> bien . après 2 min , <operation ingredients="pommes"> verser </operation> les <ingredient action="verser" quantite="1"> pommes </ingredient> sur les crèpes , <operation action="plier" ingredients="plier"> plier </operation> les bords en <operation ingredients="pommes"> laissant </operation> apparaître les <ingredient action="laisser" quantite="1"> pommes </ingredient> au centre , puis <operation ingredients="chantilly"> déposer </operation> un dôme de <ingredient action="déposer" quantite=""> chantilly </ingredient> et <operation> parsemer </operation> de vergeoise . . . déguster immédiatement ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

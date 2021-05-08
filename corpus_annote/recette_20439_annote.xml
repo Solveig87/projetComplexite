@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20439">
+<titre>Tagliatelles thon et artichauts</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de tagliatelles fraîches</p>
+<p>1 petite boîte de thon</p>
+<p>1 petite boîte de 1/2 artichauts</p>
+<p>une gousse d'ail, persil</p>
+<p>1/2 verre de vin blanc</p>
+<p>1 échalote</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalote;ail;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , <operation ingredients="persil;artichauts;thon"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> et les <ingredient action="ajouter"> artichauts </ingredient> <operation> émincés </operation> puis le <ingredient action="ajouter"> thon </ingredient> <operation> égoutté </operation> . <operation ingredients="vin"> couvrir </operation> avec le <ingredient action="couvrir"> vin </ingredient> blanc , <operation> saler </operation> et laisser <operation> mijoter </operation> 5 min . pendant ce temps , faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> fraîches selon le temps indiqué sur le paquet . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> et les <operation> mélanger </operation> à la préparation , puis servir de suite . une variante des <ingredient quantite="500 gramme"> tagliatelles </ingredient> à la modeste , pour faire <operation ingredients="artichauts"> goûter </operation> les <ingredient action="goûter"> artichauts </ingredient> aux enfants .
+</preparation>
+</recette>

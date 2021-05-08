@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15378">
+<titre>Harrira (soupe marocaine)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de viande de boeuf et de mouton coupée en petits dés (1X1),</p>
+<p>1 oignon</p>
+<p>3 grosses tomates (on peut utiliser de la tomate en conserve avec son jus)</p>
+<p>persil, céleri et coriandre</p>
+<p>50 g de lentilles</p>
+<p>100 g de pois chiches</p>
+<p>sel et poivre</p>
+<p>2 l d'eau</p>
+<p>3 cuillères à soupe de farine</p>
+<p>2 œufs</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> dans une casserole et y faire <operation ingredients="viande;oignon;tomates"> revenir </operation> la <ingredient action="revenir" quantite="150 gramme"> viande </ingredient> , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="3"> tomates </ingredient> <operation> pelées </operation> et <operation> hachées </operation> finement . <operation ingredients="persil"> incorporer </operation> le <ingredient action="incorporer" quantite=""> persil </ingredient> , le <ingredient quantite=""> céleri </ingredient> et la <ingredient> coriandre </ingredient> <operation> hachés </operation> finement . faire <operation> revenir </operation> le tout puis <operation ingredients="lentilles;pois;chiches"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> lentilles </ingredient> et les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter" quantite="100 gramme"> chiches </ingredient> . <operation ingredients="sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> et l' eau . laissez <operation> cuire </operation> à feux doux pendant 3 h environ . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> farine </ingredient> <operation> délayée </operation> dans un peu d' eau froide et laisser <operation> cuire </operation> une demie - heure encore . au moment de servir , compléter par 2 jaunes d' <ingredient> oeufs </ingredient> <operation> battus </operation> en omelette et <operation ingredients="jus"> incorporer </operation> le <ingredient action="incorporer"> jus </ingredient> du citron au dernier moment . cette <ingredient> soupe </ingredient> se sert traditionnellement lors du ramadan .
+</preparation>
+</recette>

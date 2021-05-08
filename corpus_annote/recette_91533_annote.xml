@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91533">
+<titre>Tartine aux courgettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petite courgette (environ 250g)</p>
+<p>2 gousses d'ail</p>
+<p>8 filets d'anchois à l'huile</p>
+<p>1/2 cuillère à café de moutarde </p>
+<p>8 tranches de pain grillées moyennes(format flûte)</p>
+<p>1/2 cuillère à café de sel</p>
+<p>Poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> équeuter </operation> et <operation> détailler </operation> en petits cubes la courgette , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , et <operation> porter </operation> à <operation> ébullition </operation> pendant 5 minutes dans un peu d' eau . <operation> egoutter </operation> . <operation ingredients="anchois;moutarde;sel;poivre"> mixer </operation> la préparation avec les <ingredient action="mixer"> anchois </ingredient> , la <ingredient action="mixer"> moutarde </ingredient> , le <ingredient action="mixer"> sel </ingredient> , le <ingredient action="mixer" quantite=""> poivre </ingredient> et <operation> réserver </operation> au réfrigérateur . 5 minutes avant de servir , <operation ingredients="pain"> toastez </operation> les tartines au <operation> grille </operation> <ingredient action="toastez" quantite="8 tranche"> pain </ingredient> , <operation> nappez </operation> avec la préparation et servez . vous pouvez <operation ingredients="olives;persil"> décorer </operation> avec des <ingredient action="décorer"> olives </ingredient> noires et du <ingredient action="décorer"> persil </ingredient> . bon appétit .
+</preparation>
+</recette>

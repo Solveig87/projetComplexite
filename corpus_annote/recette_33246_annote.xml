@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33246">
+<titre>Songe</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte 4/4 de poires au sirop</p>
+<p>1 boîte 4/4 d’abricots au sirop (ou pêches) </p>
+<p>200 ml de lait de coco</p>
+<p>1 demi-verre d’alcool de lychee (type Soho) </p>
+<p>10 feuilles de gélatine</p>
+<p>10 cl de jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits;sirop;lait"> mixer </operation> les <ingredient action="mixer" quantite="10 cl"> fruits </ingredient> avec le <ingredient action="mixer"> sirop </ingredient> d’ une des boîtes , l’ alcool de lychee et le <ingredient action="mixer"> lait </ingredient> de coco . <operation ingredients="gélatine;jus"> dissoudre </operation> les feuilles de <ingredient action="dissoudre" quantite="10 feuille"> gélatine </ingredient> dans un fond d’ eau chaude et le <ingredient action="dissoudre" quantite="10 cl"> jus </ingredient> de citron . <operation ingredients="gélatine"> ajouter </operation> la <ingredient action="ajouter" quantite="10 feuille"> gélatine </ingredient> aux fruits , et <operation> mélanger </operation> au mixeur . <operation> mettre </operation> au frigo pendant 4 heures ( une nuit , c’ est encore mieux ) . le <ingredient> dessert </ingredient> est léger ( peu <operation> sucré </operation> ) et idéal pour un soir d’ été . pour être parfait , la <ingredient> gelée </ingredient> doit avoir bien pris en masse . on peut <operation ingredients="fruits"> décorer </operation> la surface avec des <ingredient action="décorer" quantite="10 cl"> fruits </ingredient> rouges .
+</preparation>
+</recette>

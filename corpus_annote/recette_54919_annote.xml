@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54919">
+<titre>Soufflé à l'avocat</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 avocat mûr</p>
+<p>1 cuillère à soupe de crème fraiche</p>
+<p>1 oeuf</p>
+<p>1 poignée de gruyère rapé</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat"> ouvrir </operation> l' <ingredient action="ouvrir" quantite="1"> avocat </ingredient> , <operation> retirer </operation> le noyau et <operation ingredients="avocat"> vider </operation> l' <ingredient action="vider" quantite="1"> avocat </ingredient> dans un saladier . bien l' <operation> écraser </operation> à la fourchette d' où l' importance de prendre un <ingredient quantite="1"> avocat </ingredient> <ingredient> mûr </ingredient> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> fraiche et le guyère rapé . <operation ingredients="oeuf"> ajouter </operation> le jaune de l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> . <operation ingredients="oeuf"> battre </operation> le blanc d' <ingredient action="battre" quantite="1"> oeuf </ingredient> en neige assez ferme et l' <operation ingredients="avocat"> incorporer </operation> à la préparation à l' <ingredient action="incorporer" quantite="1"> avocat </ingredient> . <operation> beurrer </operation> des petits <operation> moules </operation> à souflés ( enfin des petits ramequins ! ) . <operation> verser </operation> la préparation . <operation> mettre </operation> à four doux environ 2 . 25 minutes . servez chaud .
+</preparation>
+</recette>

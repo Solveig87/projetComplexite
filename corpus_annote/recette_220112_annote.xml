@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220112">
+<titre>Tajine de poulet façon séverine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>1 poivron vert</p>
+<p>1 poivrons rouge</p>
+<p>1 poivrons jaune ou orange</p>
+<p>2 courgettes</p>
+<p>1 oignons</p>
+<p>4 carottes</p>
+<p>2 cuillères à soupe de raz el hanout</p>
+<p>1 cuillère à soupe de cumin</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;poivrons;carottes;oignon"> couper </operation> les <ingredient action="couper" quantite="1;4"> légumes </ingredient> , les <ingredient action="couper"> poivrons </ingredient> en lanières , les courgettes en 4 puis en 2 ( gros morceaux ) , les <ingredient action="couper" quantite="4"> carottes </ingredient> pareil en 4 puis en 2 , l' <ingredient action="couper" quantite="1"> oignon </ingredient> en rondelles . pendant ce temps , faire <operation> dorer </operation> les cuisses dans 2 cuillères à soupe d' huile d' olive dans une cocotte . une fois dorées , <operation ingredients="légumes;sel"> mettre </operation> les <ingredient action="mettre" quantite="1;4"> légumes </ingredient> les épices et du <ingredient action="mettre"> sel </ingredient> . laisser <operation> cuire </operation> 1 h 20 à feu doux . servir avec une <ingredient> semoule </ingredient> épicée . un rosé ou un rouge
+</preparation>
+</recette>

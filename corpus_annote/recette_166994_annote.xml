@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166994">
+<titre>Rôti de veau en papillote</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg de rôti de veau</p>
+<p>16 tranches de gruyère </p>
+<p>16 tranches de bacon </p>
+<p>40 g de beurre </p>
+<p>4 cuillerées à soupe d'huile d’olive</p>
+<p>8 carottes </p>
+<p>2 oignons </p>
+<p>1 gousse d'ail </p>
+<p>300 g de champignons de Paris</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="rôti"> dorer </operation> le <ingredient action="dorer" quantite="1,5 kilogramme"> rôti </ingredient> sur toutes les faces . <operation ingredients="rôti"> couper </operation> le <ingredient action="couper" quantite="1,5 kilogramme"> rôti </ingredient> en tranches de 2 cm d’ épaisseur . <operation ingredients="rôti"> reformer </operation> le <ingredient action="reformer" quantite="1,5 kilogramme"> rôti </ingredient> en <operation ingredients="fromage;bacon"> intercalant </operation> entre chaque tranche du <ingredient action="intercaler"> fromage </ingredient> et du <ingredient action="intercaler" quantite="16 tranche"> bacon </ingredient> . a part : . <operation ingredients="champignons"> couper </operation> grossièrement les <ingredient action="couper" quantite="300 gramme"> champignons </ingredient> et les faire <operation ingredients="beurre"> revenir </operation> à feu doux dans du <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> , <operation ingredients="ail"> rajouter </operation> l’ <ingredient action="rajouter"> ail </ingredient> <operation> écrasé </operation> . <operation ingredients="carottes;plier"> couper </operation> les <ingredient action="couper" quantite="8"> carottes </ingredient> en lamelles et les <operation ingredients="huile;oignons"> cuire </operation> à l’ <ingredient action="cuire"> huile </ingredient> d’ olive avec les <ingredient action="cuire" quantite="2"> oignons </ingredient> prendre une très grande longueur de papier d’ aluminium et la <ingredient action="couper"> plier </ingredient> pour obtenir un morceau suffisant pour <operation ingredients="rôti"> envelopper </operation> le <ingredient action="envelopper" quantite="1,5 kilogramme"> rôti </ingredient> . <operation ingredients="carottes;champignons"> etaler </operation> les <ingredient action="etaler" quantite="8"> carottes </ingredient> , puis les <ingredient action="etaler" quantite="300 gramme"> champignons </ingredient> et <operation> poser </operation> par - dessus le <ingredient quantite="1,5 kilogramme"> rôti </ingredient> recomposé . <operation> former </operation> une papillote très épaisse et surtout bien étanche . <operation> poser </operation> la papillote dans un plat allant au four , <operation ingredients="côte"> mettre </operation> 2 cm d’ eau et <operation> enfourner </operation> à 180 <operation> ° </operation> c pendant 1 h. haute <ingredient action="mettre"> côte </ingredient> de nuit
+</preparation>
+</recette>

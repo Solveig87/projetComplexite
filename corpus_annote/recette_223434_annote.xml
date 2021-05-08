@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223434">
+<titre>Soupe de légumes fabuleuse</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes</p>
+<p>4 pomme de terres moyennes</p>
+<p>1 poireau</p>
+<p>1 navet rond</p>
+<p>1 cube de bouillon</p>
+<p>100 g d'allumette au jambon</p>
+<p>1 oignon</p>
+<p>10 cl de crème fraîche liquide</p>
+<p>1 portion de fromage frais (facultatif)</p>
+</ingredients>
+<preparation>
+pour commencer , faire <operation> bouillir </operation> de l' eau . ensuite , <operation ingredients="carottes;navet;rond"> éplucher </operation> <ingredient action="éplucher" quantite="4"> carottes </ingredient> et pomme de terre , <ingredient action="éplucher" quantite="1"> navet </ingredient> <ingredient action="éplucher"> rond </ingredient> , oignon et poireau . puis les <operation> couper </operation> en petits morceaux et les <operation> mettre </operation> dans l' eau bouillante . <operation ingredients="bouillon"> ajouter </operation> un cube de <ingredient action="ajouter"> bouillon </ingredient> . puis , faire <operation> revenir </operation> les allumettes . ensuite les <operation> verser </operation> dans l' eau bouillante . faire <operation> bouillir </operation> environ 1 h. une fois les <ingredient quantite="4;4;1;1;1;10 cl"> légumes </ingredient> <operation> cuits </operation> , les <operation> mixer </operation> et y <operation ingredients="crème"> ajouter </operation> 10 cl de <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche . vous pouvez également y <operation ingredients="fromage"> ajouter </operation> une portion de <ingredient action="ajouter"> fromage </ingredient> frais pour la rendre plus onctueuse . bon appétit à vous ! eau
+</preparation>
+</recette>

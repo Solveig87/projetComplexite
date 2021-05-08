@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223567">
+<titre>Tagliatelles aux petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de tagliatelles fraiches</p>
+<p>1 courgette</p>
+<p>1 poivron</p>
+<p>2 tomates</p>
+<p>200 g de lardons</p>
+<p>1 petite échalote</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel</p>
+<p>poivre</p>
+<p>thym</p>
+</ingredients>
+<preparation>
+pour commencer , <operation ingredients="échalote"> émincez </operation> l’ <ingredient action="émincer" quantite="1"> échalote </ingredient> , faites - la <operation ingredients="lardons"> revenir </operation> avec les <ingredient action="revenir" quantite="200 gramme"> lardons </ingredient> . <operation ingredients="tomates;poivron"> coupez </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en dés , la courgette en lamelles et le <ingredient action="couper" quantite="1"> poivron </ingredient> en petits morceaux . <operation ingredients="légumes"> ajoutez </operation> les <ingredient action="ajouter" quantite="1;2;1"> légumes </ingredient> à la base de la préparation en <operation ingredients="huile"> ajoutant </operation> une cuillère d' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="lardons"> salez </operation> ( un peu car les <ingredient action="saler" quantite="200 gramme"> lardons </ingredient> sont déjà <operation> salés </operation> ) , <operation> poivrez </operation> et <operation ingredients="thym"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> thym </ingredient> au <operation> mélange </operation> . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 20 min en <operation> remuant </operation> de temps en temps . <operation ingredients="tagliatelles"> faites </operation> <operation> bouillir </operation> de l' eau pour les <ingredient action="faire" quantite="400 gramme"> tagliatelles </ingredient> . une fois prêtes , <operation> égouttez </operation> les et <operation ingredients="légumes"> ajoutez </operation> y les <ingredient action="ajouter" quantite="1;2;1"> légumes </ingredient> . <operation> mélangez </operation> et dégustez ! je n' ai pas <operation ingredients="crème"> ajouté </operation> de <ingredient action="ajouter"> crème </ingredient> car en <operation ingredients="légumes"> recouvrant </operation> les <ingredient action="recouvrir" quantite="1;2;1"> légumes </ingredient> pendant la cuisson , j' ai conservé leur <ingredient> jus </ingredient> ce qui était vraiment excellent !
+</preparation>
+</recette>

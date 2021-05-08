@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39519">
+<titre>Griesknepfle (croquettes de semoule alsaciennes)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait</p>
+<p>250 g de semoule de blé tendre (rayon pâtisserie)</p>
+<p>1 pincée de sel</p>
+<p>50 g de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sel;sucre"> bouillir </operation> le <ingredient action="bouillir" quantite="1 l"> lait </ingredient> avec le <ingredient action="bouillir" quantite="1 pincée"> sel </ingredient> et le <ingredient action="bouillir" quantite="50 gramme"> sucre </ingredient> , et <operation ingredients="semoule"> verser </operation> la <ingredient action="verser" quantite="250 gramme"> semoule </ingredient> en pluie . <operation> epaissir </operation> , à feu doux . <operation> retirer </operation> du feu , et <operation> verser </operation> sur une planche de bois , <operation> recouverte </operation> de papier sulfurisé . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> . elle doit avoir une épaisseur de 2 cm ( avec une deuxième feuille de papier sulfurisé dessus , c' est plus facile ) . laisser refroidir un peu , et <operation ingredients="carrés"> découper </operation> des <ingredient action="découper"> carrés </ingredient> de 5 cm sur 5 . faire <operation ingredients="carrés"> dorer </operation> ces <ingredient action="dorer"> carrés </ingredient> , dans une <operation> poêle </operation> chaude et <operation> graissée </operation> . avant de servir , <operation ingredients="sucre;cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> sucre </ingredient> et de <ingredient action="saupoudrer"> cannelle </ingredient> , et servir avec de la <ingredient> compote </ingredient> de pommes . thé
+</preparation>
+</recette>

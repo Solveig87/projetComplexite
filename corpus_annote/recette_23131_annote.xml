@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23131">
+<titre>Pizza aux aubergines</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza</p>
+<p>2 oignons</p>
+<p>1 ou 2 aubergines</p>
+<p>1 petit pot de coulis de tomate</p>
+<p>1 boule de mozzarella</p>
+<p>quelques olives noires</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> couper </operation> les <ingredient action="couper" quantite="1"> aubergines </ingredient> en fines lamelles ( avec ou sans la peau ) . faire <operation ingredients="aubergines;huile;fondantes"> revenir </operation> les <ingredient action="revenir" quantite="1"> aubergines </ingredient> , à feu moyen , dans de l' <ingredient action="revenir"> huile </ingredient> d' olive , jusqu' à ce qu' elles soient vraiment <ingredient action="revenir"> fondantes </ingredient> et colorées . les <operation> réserver </operation> entre du papier absorbant . faire <operation ingredients="oignons;huile;aubergines"> fondre </operation> les <ingredient action="fondre" quantite="2"> oignons </ingredient> dans l' <ingredient action="fondre"> huile </ingredient> de cuisson des <ingredient action="fondre" quantite="1"> aubergines </ingredient> , pour qu' ils <operation> colorent </operation> un peu . <operation ingredients="pâte"> abaisser </operation> la <ingredient action="abaisser" quantite="1"> pâte </ingredient> à pizza . la <operation ingredients="tomates"> recouvrir </operation> de coulis de <ingredient action="recouvrir"> tomates </ingredient> jusqu' à environ 2 cm du bord . <operation ingredients="oignons;aubergines"> disposer </operation> les <ingredient action="disposer" quantite="2"> oignons </ingredient> , puis les <ingredient action="disposer" quantite="1"> aubergines </ingredient> , et <operation ingredients="mozzarella"> recouvrir </operation> de fines tranches de <ingredient action="recouvrir"> mozzarella </ingredient> . <operation ingredients="olives"> disposer </operation> des <ingredient action="disposer" quantite="quelque"> olives </ingredient> noires par dessus pour la déco . <operation> enfourner </operation> dans un four chaud ( 240 <operation> ° </operation> c. th 8) , jusqu' à ce que ça croustille ! bon appétit . vous pouvez remplacer les <ingredient quantite="quelque"> olives </ingredient> par des <ingredient> anchois </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32552">
+<titre>Gratin de poireaux et pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 blancs de poireaux</p>
+<p>2 pommes de terre</p>
+<p>2 tranches de jambon</p>
+<p>1 oeuf</p>
+<p>20 cl de crème liquide</p>
+<p>poivre</p>
+<p>gruyère râpé pour gratiner</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux"> cuire </operation> ( 20 mn à la cocotte - minute ) les <ingredient action="cuire"> poireaux </ingredient> et pommes de terre après les avoir <operation> découpés </operation> en petits morceaux . <operation ingredients="jambon"> découper </operation> les tranches de <ingredient action="découper" quantite="2 tranche"> jambon </ingredient> en fines lamelles et les faire <operation ingredients="noix"> revenir </operation> quelques minutes dans une <operation> poêle </operation> avec 1 <ingredient action="revenir"> noix </ingredient> de margarine puis les étaler dans le fond d' un plat allant au four . y <operation ingredients="poireaux"> ajouter </operation> les <ingredient action="ajouter"> poireaux </ingredient> et pommes de terre <operation> cuites </operation> . dans un bol , <operation ingredients="oeuf;crème;poivre"> mélanger </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> liquide et le <ingredient action="mélanger" quantite=""> poivre </ingredient> puis <operation> déposer </operation> le <operation> mélanger </operation> dans le plat . <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> gruyère </ingredient> râpé et faire <operation> gratiner </operation> 15 mn à four moyen ( environ 175 <operation> ° </operation> c ) . servir aussitôt . . .
+</preparation>
+</recette>

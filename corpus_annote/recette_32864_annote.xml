@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32864">
+<titre>Tagliatelles au poisson et scampis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de tagliatelles</p>
+<p>150 g de cabillaud (ou autre poisson blanc congelé) </p>
+<p>100 g de scampis épluchés</p>
+<p>2 jeunes oignons </p>
+<p>1 échalote</p>
+<p>1 cube de poisson dégraissé</p>
+<p>poudre de zeste de citron (1/4 de citron) </p>
+<p>un peu de vin blanc (pour déglacer) </p>
+<p>sauce blanche allégée (délayer deux cuillères à soupe de farine dans 40 cl de lait chaud + sel + poivre + muscade) </p>
+</ingredients>
+<preparation>
+faites <operation ingredients="scampis"> cuire </operation> les <ingredient action="cuire" quantite="100 gramme"> scampis </ingredient> puis <operation> réservez </operation> - les . faites <operation ingredients="poisson"> cuire </operation> le <ingredient action="cuire" quantite="150 gramme"> poisson </ingredient> puis <operation> réservez </operation> - le . dans la même <operation> poêle </operation> , <operation ingredients="oignons;échalote;vin"> cuire </operation> les jeunes <ingredient action="cuire" quantite="2"> oignons </ingredient> et l' <ingredient action="cuire" quantite="1"> échalote </ingredient> puis <operation> déglacez </operation> au <ingredient action="cuire"> vin </ingredient> au blanc . quand ils ont <operation> blondis </operation> , <operation ingredients="citron;poisson"> ajoutez </operation> le zeste de <ingredient action="ajouter"> citron </ingredient> et le cube de <ingredient action="ajouter" quantite="150 gramme"> poisson </ingredient> ainsi qu' un peu d' eau pour qu' il se <operation> dilue </operation> bien . en parallèle faites la sauce blanche . <operation ingredients="pâtes"> mettez </operation> l' eau à <operation> bouillir </operation> pour les <ingredient action="mettre"> pâtes </ingredient> . quand la sauce blanche est prête , <operation ingredients="scampis;poisson;oignon"> versez </operation> les <ingredient action="verser" quantite="100 gramme"> scampis </ingredient> , le <ingredient action="verser" quantite="150 gramme"> poisson </ingredient> ainsi que le <operation> mélange </operation> cube - <ingredient action="verser" quantite="2"> oignon </ingredient> - zeste . <operation ingredients="pâtes"> versez </operation> le <operation> mélange </operation> sur les <ingredient action="verser"> pâtes </ingredient> et servez ! <operation ingredients="citron"> dosez </operation> le <ingredient action="doser"> citron </ingredient> selon votre goût . vous pouvez également <operation ingredients="beurre"> faire </operation> une sauce blanche classique ( <ingredient action="faire"> beurre </ingredient> , farine , lait ) . <ingredient> vin </ingredient> blanc australien
+</preparation>
+</recette>

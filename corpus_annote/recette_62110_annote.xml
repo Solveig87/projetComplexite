@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62110">
+<titre>Aubergine à la carbonara</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 aubergines</p>
+<p>200 g de lardons fumés</p>
+<p>20 cl de crème fraîche liquide semi-épaisse</p>
+<p>sel et poivre</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="aubergines"> peler </operation> les <ingredient action="peler" quantite="2"> aubergines </ingredient> et les <operation> couper </operation> en tranches pas trop épaisses . les <operation> fariner </operation> et les faire <operation ingredients="huile;olive"> frire </operation> dans une <operation> poêle </operation> à l' <ingredient action="frire"> huile </ingredient> <ingredient action="frire"> olive </ingredient> . bien les <operation> égoutter </operation> dans du papier absorbant . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> les <operation> égoutter </operation> eux aussi . <operation ingredients="lardons;matière"> remettre </operation> les <ingredient action="remettre"> lardons </ingredient> dans la <operation> poêle </operation> sans <ingredient action="remettre"> matière </ingredient> grasse et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . a ébulition , baisser le feu et laisser <operation> épaissir </operation> . <operation ingredients="aubergines"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> aubergines </ingredient> et servir avec du <ingredient quantite=""> parmesan </ingredient> . croze hermitage ( chapoutier )
+</preparation>
+</recette>

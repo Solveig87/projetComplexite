@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55331">
+<titre>Tartines provençales au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pain de campagne</p>
+<p>6 tomates</p>
+<p>6 tranches de jambon cru</p>
+<p>1 pot de tapenade d'olives noires</p>
+<p>3 buches de chèvre</p>
+<p>herbes de Provence</p>
+<p>huile d'olives</p>
+<p>Pour l'accompagnement : </p>
+<p>salade </p>
+<p>huile</p>
+<p>vinaigre </p>
+</ingredients>
+<preparation>
+faites préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="pain"> coupez </operation> 6 tranches de <ingredient action="couper" quantite="1"> pain </ingredient> de campagne ( pas trop fines ) . <operation ingredients="tomates;chèvres"> découpez </operation> les six <ingredient action="découper" quantite="6"> tomates </ingredient> et les trois <ingredient action="découper"> chèvres </ingredient> en tranches . <operation> tartinez </operation> les tranches de <ingredient quantite="1"> pain </ingredient> de tapenade d' <ingredient> olives </ingredient> . <operation ingredients="jambon;tomate;chèvre;tomate;chèvre"> disposez </operation> 1 tranche de <ingredient action="disposer" quantite="6 tranche"> jambon </ingredient> cru sur chaque tranche , puis alternativement 1 tranche de <ingredient action="disposer" quantite="6"> tomate </ingredient> , 1 tranche de <ingredient action="disposer"> chèvre </ingredient> et ainsi de suite sur chaque tartine ( à raison d’ environ 1 <ingredient action="disposer" quantite="6"> tomate </ingredient> et 1 demi <ingredient action="disposer"> chèvre </ingredient> par tartine ) . <operation> saupoudrez </operation> d' herbes de provence et <operation ingredients="huile"> arrosez </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive . <operation> placez </operation> vos tartine dans le four et laissez <operation> cuire </operation> pendant environ 20 minutes , en surveillant de temps en temps . servez chaud <operation ingredients="salade"> accompagné </operation> d’ une <ingredient action="accompagner" quantite=""> salade </ingredient> . bon appétit . idéal pour les repas léger .
+</preparation>
+</recette>

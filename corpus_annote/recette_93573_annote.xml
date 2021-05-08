@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93573">
+<titre>Salade vivie</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>-1 barquette de salade mesclun, </p>
+<p>-2 boules de mozzarella, </p>
+<p>-8 tranches de bacon,</p>
+<p>-basilic,</p>
+<p>-sel et poivre,</p>
+<p>-5 c à soupe d'huile d'olive,</p>
+<p>-2 c à soupe de vinaigre balsamique,</p>
+<p>-2 belles tomates coupées en tranches.</p>
+</ingredients>
+<preparation>
+la veille <operation ingredients="mozzarella"> mettez </operation> la <ingredient action="mettre"> mozzarella </ingredient> <operation> coupée </operation> en tranches à <operation ingredients="poivre;huile;basilic"> mariner </operation> dans la vinaigrette <operation ingredients="vinaigre;sel"> faite </operation> avec le <ingredient action="faire"> vinaigre </ingredient> balsamique , le <ingredient action="faire"> sel </ingredient> , le <ingredient action="mariner"> poivre </ingredient> , l' <ingredient action="mariner"> huile </ingredient> d' olive et le <ingredient action="mariner"> basilic </ingredient> . sur les assiettes <operation ingredients="salades"> montez </operation> les <ingredient action="monter"> salades </ingredient> de la façon suivante : <operation ingredients="tomate;mozzarella;bacon;tomate;mozzarella;bacon"> mettez </operation> une tranche de <ingredient action="mettre" quantite=""> tomate </ingredient> , une de <ingredient action="mettre"> mozzarella </ingredient> , une de <ingredient action="mettre"> bacon </ingredient> , à nouveau une de <ingredient action="mettre" quantite=""> tomate </ingredient> , une de <ingredient action="mettre"> mozzarella </ingredient> , une de <ingredient action="mettre"> bacon </ingredient> et finissez avec le chapeau de la <ingredient quantite=""> tomate </ingredient> . <operation ingredients="mesclun"> mettez </operation> de la <ingredient action="mettre"> mesclun </ingredient> tout autour et <operation> versez </operation> de la vinaigrette . bon appétit !
+</preparation>
+</recette>

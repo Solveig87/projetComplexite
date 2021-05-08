@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23132">
+<titre>Fricassée de poulet au vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>40 cl de vin blanc</p>
+<p>3 échalotes</p>
+<p>200 g de champignons</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>huile</p>
+<p>beurre</p>
+<p>piment en poudre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;huile"> chauffer </operation> 30 g de <ingredient action="chauffer"> beurre </ingredient> et 2 cuillerées d' <ingredient action="chauffer" quantite=""> huile </ingredient> dans une cocotte . y faire <operation ingredients="poulet"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="40 cl"> vin </ingredient> blanc . <operation ingredients="échalotes;champignons;persil;tomate"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> échalotes </ingredient> , les <ingredient action="rajouter" quantite="200 gramme"> champignons </ingredient> et le <ingredient action="rajouter" quantite="3 cuillère à soupe"> persil </ingredient> <operation> hachés </operation> , ainsi que le <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> . <operation> saupoudrer </operation> de piment et laisser <operation> mijoter </operation> 30 min à feu très doux .
+</preparation>
+</recette>

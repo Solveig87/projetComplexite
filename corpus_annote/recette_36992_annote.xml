@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36992">
+<titre>Base pour salade chinoise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 chou chinois</p>
+<p>1 botte de ciboules (oignons chinois entre oignons et petits poireaux)</p>
+<p>50 g d'amandes effilées</p>
+<p>1 paquet de nouilles chinoises (environ 250 g)</p>
+<p>huile de noisette (ou de noix...)Pour l'assaisonement:</p>
+<p>2 cuillères à soupe d'huile de sésame</p>
+<p>2 cuillères à soupe de vinaigre de vin</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>2 cuillères à café de sucre brun en poudre</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="amandes;nouilles"> revenir </operation> les <ingredient action="revenir" quantite="50 gramme"> amandes </ingredient> et les <ingredient action="revenir"> nouilles </ingredient> <ingredient action="cuire" quantite="1;1;2 cuillère à soupe"> non </ingredient> <operation ingredients="non"> cuites </operation> <operation ingredients="huile"> émiettées </operation> dans un peu d' <ingredient action="émietter" quantite="+2 cuillère à soupe"> huile </ingredient> de noisette . laisser <operation> griller </operation> un peu puis <operation> réserver </operation> dans un boîte en plastique . <operation ingredients="chou;oignons"> couper </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> chinois en lamelles tout comme les <ingredient action="couper"> oignons </ingredient> chinois . <operation ingredients="crevettes;poulet"> ajouter </operation> de grosses <ingredient action="ajouter"> crevettes </ingredient> <operation> décortiquées </operation> ou tout autre ingrédient selon le goût ( <ingredient action="ajouter"> poulet </ingredient> , canard . . . ) les <ingredient> crevettes </ingredient> se marient assez bien avec le <ingredient> poulet </ingredient> . enfin <operation ingredients="amandes;nouilles"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> amandes </ingredient> et les <ingredient action="ajouter"> nouilles </ingredient> chinoises . <operation> assaisonner </operation> puis laisser un peu <operation> reposer </operation> .
+</preparation>
+</recette>

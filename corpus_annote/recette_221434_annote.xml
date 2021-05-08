@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221434">
+<titre>Gâteau au yaourt, poires et framboises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt nature</p>
+<p>3 œufs</p>
+<p>2 pots à yaourt de sucre</p>
+<p>3 pots à yaourt de farine</p>
+<p>1 sachet de levure chimique</p>
+<p>1 pot à yaourt de lait concentré</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 pincée de sel</p>
+<p>2 poires</p>
+<p>200 g de framboises</p>
+<p>10 g de noix de coco râpée</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="yaourt;œufs;sucre"> versez </operation> le <ingredient action="verser" quantite="1+2 pot+3 pot"> yaourt </ingredient> , les <ingredient action="verser" quantite="3"> œufs </ingredient> et le <ingredient action="verser"> sucre </ingredient> . <operation> mélangez </operation> longtemps aux fouets . il faut que la patte s' <operation> éclaircisse </operation> un peu et que le <operation> mélange </operation> soit assez fluide . <operation ingredients="farine;levure"> ajoutez </operation> ensuite la <ingredient action="ajouter"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . bien <operation> mélangez </operation> , à nouveau . ensuite , <operation ingredients="lait"> versez </operation> le <ingredient action="verser"> lait </ingredient> <operation ingredients="sucre;sel"> concentré </operation> , le <ingredient action="concentrer"> sucre </ingredient> vanillé et le <ingredient action="concentrer" quantite="1 pincée"> sel </ingredient> . <operation> touillez </operation> pendant quelques minutes , énergiquement . <operation> mélangez </operation> bien . préchauffez le four à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation ingredients="poires"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> poires </ingredient> , et <operation> coupez </operation> - les en lamelles . dans un <operation> moule </operation> <operation> recouvert </operation> de papier sulfurisé , <operation ingredients="pâte"> versez </operation> la moitié de la <ingredient action="verser"> pâte </ingredient> . <operation ingredients="poires;framboises"> disposez </operation> les <ingredient action="disposer" quantite="2"> poires </ingredient> , puis les <ingredient action="disposer" quantite="200 gramme"> framboises </ingredient> . <operation ingredients="pâte"> recouvrez </operation> du reste de la <ingredient action="recouvrir"> pâte </ingredient> . <operation ingredients="noix"> saupoudrez </operation> le <operation> mélange </operation> de <ingredient action="saupoudrer" quantite="10 gramme"> noix </ingredient> de coco . <operation> mettez </operation> au four pour 40 minutes de cuisson . un <ingredient> gâteau </ingredient> simple , et très bon !
+</preparation>
+</recette>

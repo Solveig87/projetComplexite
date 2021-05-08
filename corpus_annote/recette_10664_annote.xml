@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10664">
+<titre>Perdreaux au verjus</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 perdreaux</p>
+<p>1 grappe de raisins verts</p>
+<p>15 cl de marc d'Arbois</p>
+<p>450 g de raisins verts pressés</p>
+</ingredients>
+<preparation>
+<operation ingredients="perdreaux;raisins"> farcir </operation> l' intérieur des <ingredient action="farcir" quantite="2"> perdreaux </ingredient> de quelques <ingredient action="farcir" quantite="450 gramme"> raisins </ingredient> verts , puis les faire <operation ingredients="beurre"> dorer </operation> au <ingredient action="dorer"> beurre </ingredient> , en cocotte . <operation> ajouter </operation> un verre de marc d' arbois et <operation> flamber </operation> . continuer la cuisson . <operation ingredients="perdreaux"> retirer </operation> les <ingredient action="retirer" quantite="2"> perdreaux </ingredient> sur un plat chaud . <operation ingredients="jus;raisins"> ajouter </operation> dans la cocotte le <ingredient action="ajouter"> jus </ingredient> d' une livre de <ingredient action="ajouter" quantite="450 gramme"> raisins </ingredient> verts <operation> pressés </operation> . laisser <operation ingredients="perdreaux"> chauffer </operation> et <operation> napper </operation> les <ingredient action="chauffer" quantite="2"> perdreaux </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50118">
+<titre>Soupe de mangues et de melon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 mangue bien mûre</p>
+<p>2 petits melons</p>
+<p>basilic</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>15 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> la <ingredient quantite="1"> mangue </ingredient> et la <operation> couper </operation> en morceaux . <operation ingredients="melon"> ouvrir </operation> le <ingredient action="ouvrir" quantite="2"> melon </ingredient> en deux et <operation> retirer </operation> les pépins . <operation ingredients="melon"> tailler </operation> 6 tranches fines sur un des <ingredient action="tailler" quantite="2"> melon </ingredient> , et les <operation> réserver </operation> au frais . <operation ingredients="melons"> retirer </operation> la peau du reste des <ingredient action="retirer" quantite="2"> melons </ingredient> et <operation ingredients="chair"> couper </operation> la <ingredient action="couper"> chair </ingredient> en dés . <operation ingredients="melon"> placer </operation> tous les ingrédients , sauf les tranches de <ingredient action="placer" quantite="2"> melon </ingredient> , dans le bol d' un mixeur ; faire <operation ingredients="soupe"> tourner </operation> jusqu' à l' obtention d' une <ingredient action="tourner"> soupe </ingredient> fine . la <operation ingredients="soupe"> verser </operation> dans un saladier et <operation> placer </operation> au frais pendant au moins 2 h. au moment de servir , <operation ingredients="soupe"> répartir </operation> la <ingredient action="répartir"> soupe </ingredient> dans les assiettes et <operation ingredients="melon"> ajouter </operation> une tranche de <ingredient action="ajouter" quantite="2"> melon </ingredient> et quelques glaçons . pour une <ingredient action="verser"> soupe </ingredient> minute , <operation ingredients="glace"> ajouter </operation> de la <ingredient action="ajouter"> glace </ingredient> <operation> pilée </operation> dans le mixeur . la <ingredient action="glacer"> soupe </ingredient> sera <operation ingredients="soupe"> glacée </operation> tout de suite .
+</preparation>
+</recette>

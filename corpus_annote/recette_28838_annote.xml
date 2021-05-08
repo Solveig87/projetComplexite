@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28838">
+<titre>Collier d'agneau à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg 200 de collier d'agneau</p>
+<p>750 g de haricots mi-sec (ou en conserve) </p>
+<p>4 carottes</p>
+<p>2 grosses cuillerées à soupe de moutarde</p>
+<p>1 litre de bouillon de viande</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> revenir </operation> les tranches de collier dans de l' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="moutarde;bouillon;haricots;carottes"> ajouter </operation> les cuillerées de <ingredient action="ajouter"> moutarde </ingredient> , le <ingredient action="ajouter" quantite="1 litre"> bouillon </ingredient> , puis les <ingredient action="ajouter" quantite="750 gramme"> haricots </ingredient> et les <ingredient action="ajouter" quantite="4"> carottes </ingredient> . faire <operation> mijoter </operation> très lentement pendant 1 heure 1 / 2 . si vous utilisez des <ingredient quantite="750 gramme"> haricots </ingredient> en boîte , ne les <operation> ajouter </operation> qu' un quart - d' heure avant la fin de cuisson . servir très chaud
+</preparation>
+</recette>

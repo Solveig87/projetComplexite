@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88149">
+<titre>Paëlla express et diététique</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>240 g blancs de poulet coupés en lanières</p>
+<p>180 g moules décortiquées</p>
+<p>10-12 de crevettes</p>
+<p>200 g de riz</p>
+<p>4 cuillères à soupe huile olive</p>
+<p>100 g petits pois</p>
+<p>200 g poivrons coupés en lanières</p>
+<p>200 g haricots verts</p>
+<p>1 oignon émincé</p>
+<p>1/2 boite de tomates pelées</p>
+<p>2 doses de safran</p>
+<p>1 cuillère à café curcuma</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> . dans une sauteuse , faire <operation ingredients="oignon;olive"> revenir </operation> <ingredient action="revenir" quantite="1"> oignon </ingredient> + poivron + poulet dans huile <ingredient action="revenir"> olive </ingredient> quand poulet est doré , <operation ingredients="tomates;pois;safran"> ajouter </operation> <ingredient action="ajouter"> tomates </ingredient> + jus + haricots + petits <ingredient action="ajouter" quantite="100 gramme"> pois </ingredient> + 1 <operation> dose </operation> <ingredient action="ajouter"> safran </ingredient> + sel + poivre + curcuma + herbes . laisser <operation> mijoter </operation> 15 minutes . dans une autre <operation> poêle </operation> , faire <operation ingredients="crevettes"> revenir </operation> moules + <ingredient action="revenir"> crevettes </ingredient> + safran + riz . enfin <operation> mélanger </operation> les 2 préparations et <operation ingredients="assaisonnement"> rectifier </operation> <ingredient action="rectifier" quantite="1 cuillère à café;;"> assaisonnement </ingredient> . veiller à ne pas trop <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> sinon la paëlla va <operation> tourner </operation> à la <operation> colle </operation> . . . un bandol rosé bien frais
+</preparation>
+</recette>

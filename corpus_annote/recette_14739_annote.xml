@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14739">
+<titre>Escalopes de veau flambées au calvados</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 escalopes d'environ 150 g chacune</p>
+<p>40 g de beurre</p>
+<p>200 g de champignons de paris</p>
+<p>4 cuillerées à soupe de calvados</p>
+<p>4 cuillerées à soupe de crème fraiche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="40 gramme"> beurre </ingredient> dans une sauteuse et y faire <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="6"> escalopes </ingredient> de veau . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> <operation> préparés </operation> , <operation> lavés </operation> et <operation> émincés </operation> . <operation ingredients="calvados"> verser </operation> le <ingredient action="verser"> calvados </ingredient> et <operation> flamber </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> . vérifier l' <ingredient quantite=";"> assaisonnement </ingredient> et servir bien chaud .
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172820">
+<titre>Fricassée de poulet facile et rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon de taille moyenne, coupé en petits morceaux</p>
+<p>2 gousses d'ail, écrasées</p>
+<p>4 blancs de poulet coupés en dés</p>
+<p>sel et poivre</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 verre de vin blanc</p>
+<p>15 cl de bouillon de poule</p>
+<p>fines herbes ou autre</p>
+<p>2 cuillères à café de moutarde</p>
+<p>225 g de champignons, en lamelles</p>
+<p>15 cl de lait</p>
+<p>2 cuillères à soupe de fromage blanc à 0% (ou crème allégée ou équivalent)</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans une sauteuse jusqu' a ce qu' il soit tendre , <operation ingredients="ail;poulet"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> poulet </ingredient> , <operation> assaisonner </operation> et <operation ingredients="poulet"> cuire </operation> pendant 2 à 3 minutes jusqu' à ce que le <ingredient action="cuire"> poulet </ingredient> soit ' blanc ' . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> , bien <operation> mélanger </operation> , puis faire <operation> cuire </operation> pendant 1 minute . <operation ingredients="vin;bouillon;moutarde;champignons;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc et le <ingredient action="ajouter" quantite="15 cl"> bouillon </ingredient> , petit à petit , puis ensuite la <ingredient action="ajouter" quantite="2 cuillère à café"> moutarde </ingredient> , les <ingredient action="ajouter" quantite="225 gramme"> champignons </ingredient> et le <ingredient action="ajouter" quantite="15 cl"> lait </ingredient> . faire <operation> mijoter </operation> environ 15 minutes jusqu' à ce que la sauce épaississe et que le <ingredient action="cuire"> poulet </ingredient> soit <operation ingredients="poulet"> cuit </operation> . la sauce ne <operation> réduit </operation> pas beaucoup et reste assez liquide . <operation> enlever </operation> la sauteuse de la source de chaleur , <operation ingredients="fromage;persil"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> fromage </ingredient> blanc et le <ingredient action="ajouter" quantite=""> persil </ingredient> , puis servir immédiatement . a déguster avec du <ingredient> riz </ingredient>
+</preparation>
+</recette>

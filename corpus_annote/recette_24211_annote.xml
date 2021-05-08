@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24211">
+<titre>Riz au lait tout simple</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de riz</p>
+<p>75 cl de lait</p>
+<p>1/2 gousse de vanille</p>
+<p>100 g de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> rincer </operation> le <ingredient action="rincer" quantite="150 gramme"> riz </ingredient> , le <operation> mettre </operation> dans une casserole et <operation> couvrir </operation> d' eau . <operation> saler </operation> et <operation> porter </operation> à <operation> ébullition </operation> . 4 minutes . faire <operation ingredients="lait;sucre;gousse"> bouillir </operation> le <ingredient action="bouillir" quantite="75 cl"> lait </ingredient> avec le <ingredient action="bouillir" quantite="100 gramme"> sucre </ingredient> et la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille fendue en 2 . <operation ingredients="riz;lait"> jeter </operation> le <ingredient action="jeter" quantite="150 gramme"> riz </ingredient> <operation> égoutté </operation> dans le <ingredient action="jeter" quantite="75 cl"> lait </ingredient> , laisser <operation> bouillir </operation> et baisser le feu . faire <operation> cuire </operation> 40 min à feu très doux en <operation> remuant </operation> souvent . <operation> retirer </operation> du feu , <operation ingredients="gousse"> retirer </operation> la <ingredient action="retirer" quantite="1"> gousse </ingredient> de vanille et laisser refroidir .
+</preparation>
+</recette>

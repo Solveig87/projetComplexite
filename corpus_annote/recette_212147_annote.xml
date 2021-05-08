@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212147">
+<titre>Salade de fraise et ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 ananas bien mur</p>
+<p>1 kg de fraises </p>
+<p>1 cuillère à café de cannelle</p>
+<p>du sucre en fonction des goûts</p>
+</ingredients>
+<preparation>
+<operation ingredients="ananas"> découper </operation> l' <ingredient action="découper"> ananas </ingredient> en petit morceaux . <operation ingredients="fraises"> laver </operation> les <ingredient action="laver" quantite="1 kilogramme"> fraises </ingredient> et les <operation> couper </operation> en morceaux . <operation ingredients="cannelle;sucre"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> cannelle </ingredient> et le <ingredient action="ajouter" quantite=""> sucre </ingredient> et <operation> mélanger </operation> . déguster immédiatement ou laisser <operation ingredients="dessert"> reposer </operation> au frigo pour un <ingredient action="reposer" quantite=""> dessert </ingredient> encore plus rafraîchissant .
+</preparation>
+</recette>

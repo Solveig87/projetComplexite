@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="214972">
+<titre>Grandes tartines au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 petites tomates pelées</p>
+<p>4 grandes tranches de pain de campagne</p>
+<p>2 gousses d'ail</p>
+<p>1 gros oignon</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>200 g de miettes de thon à l'huile en boîte</p>
+<p>50 g de filets d'anchois</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;pain"> dorer </operation> les tranches de <ingredient action="dorer"> pain </ingredient> de campagne au <operation> grille </operation> <ingredient action="dorer"> pain </ingredient> . <operation ingredients="gousses"> frottez </operation> - les sur une face avec les <ingredient action="frotter" quantite="2"> gousses </ingredient> d' ail <operation> pelées </operation> . <operation ingredients="oignon"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> . dans une <operation> poêle </operation> , faites <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> sur feu moyen dans 3 l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . baissez le feu et <operation ingredients="tomates"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> pelées </operation> en quartier . <operation ingredients="thon;anchois"> déposez </operation> le <ingredient action="déposer"> thon </ingredient> et les <ingredient action="déposer"> anchois </ingredient> sur du papier absorbant . étalez le <ingredient> thon </ingredient> sur les tranches de <ingredient> pain </ingredient> . ensuite , <operation ingredients="tomates;oignons"> placez </operation> sur chacune 2 quartiers de <ingredient action="placer" quantite="4"> tomates </ingredient> et quelques <ingredient action="placer" quantite="1"> oignons </ingredient> puis <operation ingredients="anchois"> mettez </operation> 2 <ingredient action="mettre"> anchois </ingredient> en croix et <operation> poivrez </operation> . laissez 2 min sous le grill au four .
+</preparation>
+</recette>

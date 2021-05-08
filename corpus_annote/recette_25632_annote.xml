@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25632">
+<titre>Salade d'automne aux endives</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 endives</p>
+<p>3 pommes (de préférence golden) </p>
+<p>1 citron</p>
+<p>2 oeufs</p>
+<p>250 g de gruyère</p>
+<p>100 g de cerneaux de noix</p>
+<p>1 cuillère à soupe de moutarde à l'ancienne</p>
+<p>5 cuillères à soupe d'huile de tournesol</p>
+</ingredients>
+<preparation>
+la sauce : <operation ingredients="mayonnaise;oeuf;moutarde"> préparez </operation> une <ingredient action="préparer"> mayonnaise </ingredient> et avec les 2 jaunes d' <ingredient action="préparer" quantite="2"> oeuf </ingredient> , la <ingredient action="préparer" quantite="1 cuillère à soupe"> moutarde </ingredient> ; <operation> battez </operation> au fouet électrique ( ou à la main avec un fouet classique ) et <operation ingredients="huile"> incorporez </operation> au fur et à <operation> mesure </operation> l' <ingredient action="incorporer" quantite="5 cuillère à soupe"> huile </ingredient> jusqu' à ce que le <operation> mélange </operation> prenne . <operation ingredients="jus"> pressez </operation> le <ingredient action="presser"> jus </ingredient> du citron et <operation ingredients="mayonnaise"> incorporez </operation> le peu à peu à votre <ingredient action="incorporer"> mayonnaise </ingredient> en continuant de <operation ingredients="sel;poivre"> fouetter </operation> , <operation> assaisonez </operation> avec du <ingredient action="fouetter"> sel </ingredient> et du <ingredient action="fouetter"> poivre </ingredient> . <operation ingredients="salade;noix"> préparez </operation> la <ingredient action="préparer"> salade </ingredient> : <operation ingredients="endives"> coupez </operation> vos <ingredient action="couper" quantite="3"> endives </ingredient> en fines lanières , <operation ingredients="pommes"> épluchez </operation> les <ingredient action="éplucher" quantite="3"> pommes </ingredient> et <operation> coupez </operation> - les en cubes , <operation ingredients="gruyère"> coupez </operation> en cubes le <ingredient action="couper" quantite="250 gramme"> gruyère </ingredient> et <operation ingredients="noix"> mettez </operation> les cerneaux de <ingredient action="mettre"> noix </ingredient> entiers , puis <operation ingredients="mayonnaise"> assaisonnez </operation> avec la sauce <ingredient action="assaisonner"> mayonnaise </ingredient> au citron . <operation> mélangez </operation> et dégustez rapidement . les cerneaux de <ingredient action="préparer"> noix </ingredient> sont facultatifs . cette <ingredient> salade </ingredient> s' adresse particulièrement aux personnes un peu fâchées avec les <ingredient quantite="3"> endives </ingredient> du fait de leur amertume .
+</preparation>
+</recette>

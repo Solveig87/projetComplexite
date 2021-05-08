@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229089">
+<titre>Sorbet exotique pamplemousse banane coco</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pamplemousse</p>
+<p>1 citron</p>
+<p>1 banane</p>
+<p>4 cuillères à soupe de miel</p>
+<p>5 cuillères à soupe de noix de coco râpée</p>
+</ingredients>
+<preparation>
+<operation ingredients="citron"> râper </operation> le zeste du <ingredient action="râper" quantite="1"> citron </ingredient> dans un saladier , <operation ingredients="citron"> ajouter </operation> sa pulpe et celle du <ingredient action="ajouter" quantite="1"> citron </ingredient> . <operation ingredients="banane"> couper </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> en morceaux et la <operation ingredients="fruits"> mettre </operation> dans le saladier avec le reste des <ingredient action="mettre" quantite="1;1;5 cuillère à soupe"> fruits </ingredient> . <operation ingredients="miel;noix"> ajouter </operation> le <ingredient action="ajouter" quantite="4 cuillère à soupe"> miel </ingredient> et la <ingredient action="ajouter" quantite="5 cuillère à soupe"> noix </ingredient> de coco avec 10 cl d' eau . <operation> mixer </operation> le tout et <operation> verser </operation> dans un bac à glace avant de le <operation> mettre </operation> au congélateur . <ingredient> jus </ingredient> d' orange
+</preparation>
+</recette>

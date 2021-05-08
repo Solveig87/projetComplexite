@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31712">
+<titre>Poulet mijoté à la grecque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>60 g de beurre</p>
+<p>4 oignons</p>
+<p>3 échalotes</p>
+<p>4 gousses d'ail</p>
+<p>3 tomates</p>
+<p>2 poivrons (1 rouge, 1 vert) </p>
+<p>2 verres de vin blanc</p>
+<p>200 g de raisins sec</p>
+<p>1 cuillerée à soupe de sucre</p>
+<p>1 cuillerée à soupe de curry</p>
+<p>1 pincée de safran + le sel</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="échalotes"> hacher </operation> les <ingredient action="hacher" quantite="3"> échalotes </ingredient> , oignons et gousses d' ail ; <operation ingredients="tomates;poivrons"> peler </operation> les <ingredient action="peler" quantite="3"> tomates </ingredient> , les <operation> couper </operation> ainsi que les <ingredient action="peler" quantite="2"> poivrons </ingredient> . 2 ) <operation ingredients="poulet"> rouler </operation> les cuisses de <ingredient action="rouler"> poulet </ingredient> dans une assiette contenant le <ingredient> curry </ingredient> , les faire <operation ingredients="beurre"> dorer </operation> à feu vif dans 30 g de <ingredient action="dorer" quantite="60 gramme"> beurre </ingredient> , les <operation> égoutter </operation> et les <operation> mettre </operation> de côté . 3 ) <operation> jeter </operation> la sauce de la cocotte , la <operation> remettre </operation> sur le feu sans la <operation ingredients="beurre;oignons"> laver </operation> avec les 30 g de <ingredient action="laver" quantite="60 gramme"> beurre </ingredient> , <operation> ajouter </operation> le hachis : <ingredient action="laver" quantite="4"> oignons </ingredient> , échalotes , tomates , ail , poivrons , laisser <operation> cuire </operation> doucement pendant 15 mn . 4 ) <operation ingredients="poulet;vin;safran;raisins;sucre"> ajouter </operation> ensuite le <ingredient action="ajouter"> poulet </ingredient> , le <ingredient action="ajouter" quantite="2 verre"> vin </ingredient> blanc , <ingredient action="ajouter"> safran </ingredient> et sel , les <ingredient action="ajouter" quantite="200 gramme"> raisins </ingredient> sec et le <ingredient action="ajouter"> sucre </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 1 h environ . 5 ) <operation ingredients="riz"> accompagner </operation> le tout de <ingredient action="accompagner"> riz </ingredient> créole .
+</preparation>
+</recette>

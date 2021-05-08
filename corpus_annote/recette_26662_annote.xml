@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26662">
+<titre>Poulet aux fruits secs</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 morceaux de poulet (avec os) </p>
+<p>1 gros oignon</p>
+<p>1 poignée de raisins secs</p>
+<p>1 poignée d'amandes</p>
+<p>1 poignée de pruneaux</p>
+<p>2 verres de vin cuit</p>
+<p>1 piment sec</p>
+</ingredients>
+<preparation>
+<operation ingredients="raisins"> mettre </operation> les <ingredient action="mettre"> raisins </ingredient> secs à <operation ingredients="vin"> tremper </operation> dans un verre de <ingredient action="tremper" quantite="2 verre"> vin </ingredient> . <operation ingredients="poulet"> fariner </operation> les morceaux de <ingredient action="fariner"> poulet </ingredient> , les faire <operation ingredients="huile"> dorer </operation> dans de l' <ingredient action="dorer"> huile </ingredient> , puis <operation> réserver </operation> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et le faire <operation> revenir </operation> doucement dans une cocotte , jusqu' à ce qu' il soit translucide . <operation ingredients="poulet"> ajouter </operation> alors le <ingredient action="ajouter"> poulet </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> , <operation> émietter </operation> le piment . <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="2 verre"> vin </ingredient> , <operation ingredients="fruits"> ajouter </operation> 2 ou 3 verres d' eau puis les <ingredient action="ajouter"> fruits </ingredient> secs . laisser <operation> mijoter </operation> 1 / 2 heure environ ( ou plus si vous aimez que la <ingredient> viande </ingredient> tombe toute seule des os ) . servir avec du <ingredient> riz </ingredient> ( que l' on peut <operation ingredients="raisins;abricots;amandes"> agrémenter </operation> avec des <ingredient action="agrémenter"> raisins </ingredient> et des <ingredient action="agrémenter"> abricots </ingredient> secs et des <ingredient action="agrémenter"> amandes </ingredient> <operation> effilées </operation> <operation> grillées </operation> ) .
+</preparation>
+</recette>

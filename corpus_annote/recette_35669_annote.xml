@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35669">
+<titre>Chili rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande hachée</p>
+<p>1 poivron vert </p>
+<p>1 poivron rouge</p>
+<p>2 gros oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 petite boîte de tomates pelées</p>
+<p>1 grosse boîte de haricots rouges</p>
+<p>piment ou Tabasco </p>
+<p>poudre à chili</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> finement . une fois bien blonds , <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> <operation> coupés </operation> en fines lamelles . faire <operation> revenir </operation> 5 bonnes minutes . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> et <operation> remuer </operation> . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> peléées et <operation> assaisonner </operation> . <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter"> haricots </ingredient> rouges , l' <ingredient action="peler"> ail </ingredient> <operation ingredients="ail"> pelé </operation> et le piment ou la <operation> poudre </operation> de chili ( <operation> dose </operation> selon si on aime épicé ou <ingredient quantite="1;1;1+1;;"> non </ingredient> ) . laisser <operation> mijoter </operation> . attention : plus la cuisson se poursuit , plus les <ingredient quantite="2"> épices </ingredient> et piments <operation ingredients="hot"> font </operation> ressortir leurs arômes et leurs côtés " <ingredient action="faire"> hot </ingredient> " !
+</preparation>
+</recette>

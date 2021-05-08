@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30386">
+<titre>Salade poivron, pomme, tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 poivrons verts ou rouges</p>
+<p>3 pommes aigres</p>
+<p>3 tiges de céleri</p>
+<p>4 grosses tomates mûres</p>
+<p>450 g de mayonnaise</p>
+<p>1 cuillère à café de sucre</p>
+<p>2 cuillères de vinaigre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 cuillère à café de curry</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="vinaigre;sucre;curry;huile"> mélanger </operation> le <ingredient action="mélanger" quantite="2 cuillère"> vinaigre </ingredient> avec le <ingredient action="mélanger" quantite="1 cuillère à café"> sucre </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à café"> curry </ingredient> et l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> huile </ingredient> puis <operation ingredients="mayonnaise"> incorporer </operation> ce <operation> mélange </operation> à la <ingredient action="incorporer" quantite="450 gramme"> mayonnaise </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> : <operation> inciser </operation> la peau en croix , les <operation> plonger </operation> dans l' eau bouillante 30 secondes puis les rafraîchir sous un filet d' eau froide . la peau s' <operation> enlève </operation> alors facilement . les <operation> vider </operation> de leurs graines . <operation ingredients="poivrons;tomates;pommes;céleri"> détailler </operation> les <ingredient action="détailler"> poivrons </ingredient> , les <ingredient action="détailler" quantite="4"> tomates </ingredient> , les <ingredient action="détailler" quantite="3"> pommes </ingredient> en dés , le <ingredient action="détailler"> céleri </ingredient> en petits tronçons . <operation ingredients="légumes;mayonnaise"> incorporer </operation> les <ingredient action="incorporer" quantite="3;4"> légumes </ingredient> à la <ingredient action="incorporer" quantite="450 gramme"> mayonnaise </ingredient> et servir frais .
+</preparation>
+</recette>

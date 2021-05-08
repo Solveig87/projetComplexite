@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65536">
+<titre>Curry de chou au poulet et lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou de milan ou chou vert</p>
+<p>4 escalopes de poulet</p>
+<p>20 cl de lait de coco</p>
+<p>1 cube de bouillon de légumes</p>
+<p>2 cuillères à soupe de curry moulu</p>
+<p>1 cuillère à soupe de gingembre râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> couper </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> en lamelles et bien le <operation> laver </operation> . faire <operation ingredients="bouillon"> fondre </operation> le <ingredient action="fondre"> bouillon </ingredient> de légume dans 70 cl d' eau , <operation ingredients="chou"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> chou </ingredient> . <operation> couvrir </operation> et laisser <operation ingredients="chou"> cuire </operation> le <ingredient action="cuire" quantite="1"> chou </ingredient> environ 20 min . <operation> remuer </operation> de temps en temps et vérifier qu' il y ait toujours de l' eau , sinon en <operation> remettre </operation> . lorsque le <ingredient action="cuire" quantite="1"> chou </ingredient> est <operation ingredients="chou"> cuit </operation> , <operation ingredients="lait;épices"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco et les <ingredient action="ajouter" quantite="2 cuillère à soupe"> épices </ingredient> selon vos goûts . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en dé , le <operation ingredients="chou"> plonger </operation> dans le <ingredient action="plonger" quantite="1"> chou </ingredient> , puis laisser <operation> cuire </operation> encore 15 min . ce plat est encore meilleur <operation> réchauffé </operation> .
+</preparation>
+</recette>

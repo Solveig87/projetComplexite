@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16860">
+<titre>Fondue des Marolles (cheddar - Gueuze)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>60 cl de bière gueuze Lambic</p>
+<p>800 g de cheddar</p>
+<p>2 cuillères à soupe de fécule de pommes de terre</p>
+<p>2 cuillères à soupe de lait</p>
+<p>sel de céleri</p>
+<p>poivre</p>
+<p>tranches épaisses de pain de campagne</p>
+<p>1 céleri blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> découper </operation> le <ingredient action="découper"> fromage </ingredient> en cubes . <operation> verser </operation> dans un poêlon . <operation ingredients="sel;poivre"> ajouter </operation> la gueuze , le <ingredient action="ajouter" quantite=""> sel </ingredient> de céleri et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation ingredients="céleri"> nettoyer </operation> le <ingredient action="nettoyer" quantite="1"> céleri </ingredient> . <operation ingredients="côtes"> couper </operation> les <ingredient action="couper"> côtes </ingredient> en tronçons d' environ 2 cm . <operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> en cubes . <operation ingredients="lait"> délayer </operation> la fécule dans le <ingredient action="délayer" quantite="2 cuillère à soupe"> lait </ingredient> . <operation> incorporer </operation> à la fondue pour <operation> lier </operation> . <operation> verser </operation> la fondue dans le caquelon et <operation> poser </operation> sur le réchaud . <operation ingredients="pain"> piquer </operation> un morceau de céléri et un morceau de <ingredient action="piquer"> pain </ingredient> . <operation> tremper </operation> dans la fondue .
+</preparation>
+</recette>

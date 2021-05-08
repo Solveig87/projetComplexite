@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57985">
+<titre>Gâteau à la poudre de cacao en boite jaune</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de poudre de cacao (j'utilise celle en boite jaune)</p>
+<p>250 g de farine</p>
+<p>3 oeufs</p>
+<p>1 pincée de sel</p>
+<p>50 ou 100 g de sucre</p>
+<p>une cuillérée d'huile</p>
+<p>1 sachet de sucre vanillé et 1 de levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="cacao"> verser </operation> la <operation> poudre </operation> de <ingredient action="verser"> cacao </ingredient> , <operation> écraser </operation> toutes les petite boules . <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="250 gramme"> farine </ingredient> , bien <operation> mélanger </operation> . casser les 3 <ingredient quantite="3"> oeufs </ingredient> , <operation> mélanger </operation> . <operation ingredients="sucre;sucre;levure"> rajouter </operation> le <ingredient action="rajouter"> sucre </ingredient> avec le <ingredient action="rajouter"> sucre </ingredient> vanillé et la <ingredient action="rajouter"> levure </ingredient> ( en même temps ) . <operation ingredients="sel"> mettre </operation> le <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> et <operation> mélanger </operation> le tout . <operation> cuire </operation> au four pendant 35 min .
+</preparation>
+</recette>

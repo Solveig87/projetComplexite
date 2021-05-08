@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84554">
+<titre>Délice au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de biscuits avec une face au chocolat, type pépito</p>
+<p>6 œufs</p>
+<p>100 g de sucre</p>
+<p>400 g de mascarpone</p>
+<p>2 cuillères à café d'extrait de café</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;café"> séparez </operation> le blanc des jaunes d' <ingredient action="séparer"> oeufs </ingredient> et <operation ingredients="sucre"> battez </operation> le jaune avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> et l' extrait de <ingredient action="séparer"> café </ingredient> . puis <operation ingredients="mascarpone"> rajoutez </operation> le <ingredient action="rajouter" quantite="400 gramme"> mascarpone </ingredient> . <operation> fouettez </operation> les blancs en neige et les <operation> rajoutez </operation> au <operation> mélange </operation> . pour servir , <operation> versez </operation> un peu de la préparation dans des verres , <operation ingredients="biscuit"> rajoutez </operation> un <ingredient action="rajouter"> biscuit </ingredient> <operation ingredients="café"> coupé </operation> en deux et <operation> trempé </operation> dans du <ingredient action="couper"> café </ingredient> , <operation> reversez </operation> un peu de la préparation . avant de servir , <operation ingredients="biscuits"> écrasez </operation> quelque <ingredient action="écraser"> biscuits </ingredient> et <operation ingredients="dessert"> mettre </operation> sur le <ingredient action="mettre" quantite=";100 gramme"> dessert </ingredient> ( on peut utiliser des <ingredient> cookies </ingredient> ) . bonne dégustation .
+</preparation>
+</recette>

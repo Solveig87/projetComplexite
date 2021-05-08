@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167888">
+<titre>Verrine riz au lait et mangue</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de lait entier</p>
+<p>20cl de crème liquide</p>
+<p>150g de riz rond</p>
+<p>120g  de sucre</p>
+<p>1 gousse de vanille</p>
+<p>1 mangue</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="lait"> mettez </operation> le <ingredient action="mettre" quantite="25 cl"> lait </ingredient> à <operation ingredients="crème;sucre"> chauffer </operation> avec la <ingredient action="chauffer" quantite="20cl"> crème </ingredient> liquide et la moitié du <ingredient action="chauffer" quantite="120 gramme"> sucre </ingredient> , à feu moyen . <operation ingredients="riz"> rincez </operation> rapidement le <ingredient action="rincer" quantite="150 gramme"> riz </ingredient> à l’ eau froide et <operation> égouttez </operation> - le . <operation ingredients="riz;lait"> ajoutez </operation> le <ingredient action="ajouter" quantite="150 gramme"> riz </ingredient> à la préparation <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> - crème . <operation ingredients="gousse"> fendez </operation> la <ingredient action="fendre" quantite="1"> gousse </ingredient> de vanille en deux dans le sens de la longueur , avec une petite cuillère <operation> grattez </operation> les grains au dessus de la casserole . <operation ingredients="gousse"> ajoutez </operation> aussi la <ingredient action="ajouter" quantite="1"> gousse </ingredient> . laissez <operation> cuire </operation> à feu doux 30 minutes . puis laissez refroidir . <operation ingredients="riz"> laissez </operation> le <ingredient action="laisser" quantite="150 gramme"> riz </ingredient> au moins 1 heure au frais avant de <operation> monter </operation> les verrines . <operation> montez </operation> les verrines : <operation ingredients="mangue;riz"> mettez </operation> un fond de <ingredient action="mettre" quantite="1"> mangue </ingredient> , <operation> remplissez </operation> - les aux 3 / 4 de <ingredient action="mettre" quantite="150 gramme"> riz </ingredient> au lait . <operation ingredients="mangue"> recouvrez </operation> avec des petis morceaux de <ingredient action="recouvrir" quantite="1"> mangue </ingredient>
+</preparation>
+</recette>

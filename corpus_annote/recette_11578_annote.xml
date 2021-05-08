@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11578">
+<titre>Gibelotte de lapin</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>beurre</p>
+<p>farine</p>
+<p>10 cl d'eau de vie</p>
+<p>vin blanc sec</p>
+<p>bouillon</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>200 g de lardons</p>
+<p>24 petits oignons blancs</p>
+<p>sel, poivre</p>
+<p>croûtons</p>
+</ingredients>
+<preparation>
+<operation> dépouillez </operation> , <operation> videz </operation> , <operation ingredients="lapin"> coupez </operation> le <ingredient action="couper" quantite="1"> lapin </ingredient> en morceaux . essuyez , puis <operation> salez </operation> et <operation> poivrez </operation> les morceaux . dans une cocotte , <operation ingredients="beurre"> mettre </operation> moitié <ingredient action="mettre" quantite=""> beurre </ingredient> et moitié huile , faites <operation> dorer </operation> les morceaux . <operation> farinez </operation> légèrement et faites roussir tout en <operation> remuant </operation> à la spatule . <operation> ajoutez </operation> l' eau de vie , <operation> chauffez </operation> puis enflammez . ensuite , <operation ingredients="vin;bouillon"> mouillez </operation> à mi-hauteur de moitié <ingredient action="mouiller" quantite=""> vin </ingredient> blanc sec et moitié <ingredient action="mouiller" quantite=""> bouillon </ingredient> . <operation ingredients="ail;bouquet"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> portez </operation> à <operation> ébullition </operation> , <operation> couvrez </operation> et faites <operation> cuire </operation> 30 minutes sur feu doux . <operation ingredients="lardons;oignons"> ajoutez </operation> alors les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> <operation> blanchis </operation> et les petits <ingredient action="ajouter" quantite="24"> oignons </ingredient> . faites <operation> cuire </operation> encore 30 minutes . servez avec des <ingredient quantite=""> croûtons </ingredient> frits .
+</preparation>
+</recette>

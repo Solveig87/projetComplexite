@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81266">
+<titre>Pâtes à la provençale</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>1/2 poivron vert</p>
+<p>1/2 poivron rouge</p>
+<p>1/2 poivron jaune</p>
+<p>4 grosses tomates</p>
+<p>herbes de Provence</p>
+<p>basilic frais</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+<p>500 g de pâtes aux choix (de préférence torsades)</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> dans une casserole . pour la sauce : faites <operation ingredients="oignons;poivrons;carrés;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir"> poivrons </ingredient> <operation> coupés </operation> en petits <ingredient action="revenir"> carrés </ingredient> dans suffisamment d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . attendez que les <ingredient action="ramollir"> poivrons </ingredient> <operation ingredients="poivrons"> ramollissent </operation> avant de <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> tomates </ingredient> sans leur peau et , elles aussi , <operation> coupées </operation> en petits dés . <operation> couvrir </operation> et laisser <operation> cuire </operation> à feu moyen pendant 20 min <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> frais et beaucoup d' herbes de provence et <operation> saler </operation> et <operation> poivrer </operation> . une recette simplissime , testée sur 3 garçons affamés . succès garanti !
+</preparation>
+</recette>

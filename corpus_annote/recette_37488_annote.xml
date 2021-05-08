@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37488">
+<titre>Tarte à la tomate et au chèvre façon stéph</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de tomates</p>
+<p>1 à 2 chèvres (bûche)</p>
+<p>1 pâte feuilletée</p>
+<p>chapelure fine</p>
+<p>gros sel</p>
+<p>herbes de provence</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="1 kilogramme"> tomates </ingredient> , les <operation> couper </operation> en fines tranches . <operation ingredients="chèvre"> couper </operation> le <ingredient action="couper" quantite="1"> chèvre </ingredient> en tranches . <operation ingredients="pâte;tomates;chèvre;tomates"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> feuilletée : <operation ingredients="chapelure"> mettre </operation> une couche ni trop fine ni trop épaisse de <ingredient action="mettre" quantite=""> chapelure </ingredient> , une couche de <ingredient action="etaler" quantite="1 kilogramme"> tomates </ingredient> , une couche de <ingredient action="etaler" quantite="1"> chèvre </ingredient> et une couche de <ingredient action="etaler" quantite="1 kilogramme"> tomates </ingredient> . <operation ingredients="sel;huile"> parsemer </operation> de gros <ingredient action="parsemer" quantite=""> sel </ingredient> et d' un filet d' <ingredient action="parsemer" quantite=""> huile </ingredient> d' olive . <operation> mettre </operation> au four pendant environ 20 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

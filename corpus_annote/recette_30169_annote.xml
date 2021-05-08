@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30169">
+<titre>Aubergine aux oeufs</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 aubergine</p>
+<p>1 oignon</p>
+<p>2 oeufs</p>
+<p>quelques feuilles de salade</p>
+<p>huile d'olive</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+<p>Pour l'accompagnement : </p>
+<p>riz </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;aubergine;huile;sel;poivre"> revenir </operation> à la <operation> poêle </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> haché et l' <ingredient action="revenir" quantite="1"> aubergine </ingredient> <operation> coupée </operation> en petits cubes avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , des herbes de provence , un peu de <ingredient action="revenir" quantite=""> sel </ingredient> et de <ingredient action="revenir" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> ( sans <operation> griller </operation> ) pendant environ 20 mn , puis <operation> réserver </operation> . <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite=""> riz </ingredient> . faire <operation ingredients="oeufs"> pocher </operation> les <ingredient action="pocher" quantite="2"> oeufs </ingredient> ( petite astuce : utiliser une louche et y <operation ingredients="oeuf"> mettre </operation> l' <ingredient action="mettre" quantite="2"> oeuf </ingredient> avant de le glisser délicatement dans l' eau frémissante préalablement vinaigrée ) . <operation ingredients="salade"> préparez </operation> dans les assiettes un peu de <ingredient action="préparer" quantite="quelque feuille"> salade </ingredient> , <operation ingredients="riz;aubergines"> ajouter </operation> le <ingredient action="ajouter" quantite=""> riz </ingredient> d' un côté , les <ingredient action="ajouter" quantite="1"> aubergines </ingredient> et <operation ingredients="oeuf"> déposer </operation> délicatement un <ingredient action="déposer" quantite="2"> oeuf </ingredient> <operation> poché </operation> . plat léger pour le soir ou pour un brunch l' été . on peut varier , par exemple en <operation ingredients="champignons;aubergine;oignon"> ajoutant </operation> quelques <ingredient action="ajouter"> champignons </ingredient> avec l' <ingredient action="ajouter" quantite="1"> aubergine </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> .
+</preparation>
+</recette>

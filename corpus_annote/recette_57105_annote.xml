@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57105">
+<titre>Tajine poulet, courgettes, lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un blanc de poulet par personne</p>
+<p>une courgette par personne</p>
+<p>échalotes</p>
+<p>curry, cannelle en poudre</p>
+<p>une brique de lait de coco</p>
+<p>amandes effilées</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> revenir </operation> les blancs de <ingredient action="revenir"> poulet </ingredient> <operation ingredients="échalotes"> coupés </operation> en morceaux et les <ingredient action="couper" quantite=""> échalotes </ingredient> <operation> émincées </operation> . <operation> saupoudrer </operation> d' une cuillère à café de curry et d' une cuillère à café de cannelle . <operation> mélanger </operation> et <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> de coco . laisser <operation> mijoter </operation> au moins 20 minutes . <operation> saler </operation> et <operation> poivrer </operation> . <operation> ajouter </operation> les courgettes <operation> coupées </operation> en dés et laisser encore <operation> cuire </operation> 10 minutes à feu doux . <operation ingredients="amandes"> ajouter </operation> les <ingredient action="ajouter" quantite=""> amandes </ingredient> <operation> effilées </operation> au moment de servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11004">
+<titre>Tomates farcies au carré frais</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuillers à soupe d'huile d'olive</p>
+<p>un peu de persil</p>
+<p>sel, poivre</p>
+<p>1 gousse d'ail</p>
+<p>8 tomates</p>
+<p>300 g de carré frais</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="tomates"> essuyer </operation> les <ingredient action="essuyer" quantite="8"> tomates </ingredient> , <operation> enlever </operation> le dessus , <operation> retirer </operation> la pulpe . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> huiler </operation> un plat allant au four . dans un bol , <operation ingredients="persil"> mélanger </operation> le <ingredient action="mélanger"> persil </ingredient> <operation> haché </operation> , la <ingredient quantite="1"> gousse </ingredient> d' ail <operation> pilée </operation> , la pulpe de <ingredient quantite="8"> tomates </ingredient> et le <ingredient> carré </ingredient> frais . <operation ingredients="tomates"> garnir </operation> les <ingredient action="garnir" quantite="8"> tomates </ingredient> avec cette préparation , <operation> mettre </operation> le chapeau <operation> découpé </operation> dessus et <operation> disposer </operation> dans le plat , <operation ingredients="huile"> arroser </operation> d' <ingredient action="arroser"> huile </ingredient> d' olive et faire <operation> cuire </operation> au four 15 minutes . servir de suite .
+</preparation>
+</recette>

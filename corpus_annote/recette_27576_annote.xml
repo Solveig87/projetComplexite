@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27576">
+<titre>Cannelés aux fruits de mer</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 grosses crevettes</p>
+<p>10 moules</p>
+<p>10 noix de pétoncles</p>
+<p>70 g de farine</p>
+<p>1 cuillère à café de levure</p>
+<p>2 yaourts</p>
+<p>1 œuf</p>
+<p>2 cuillères à soupe de miel</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits;beurre"> poêler </operation> les <ingredient action="poêler" quantite="10"> fruits </ingredient> de mer dans un peu de <ingredient action="poêler"> beurre </ingredient> , les <operation> couper </operation> en morceaux ( si nécessaire ) . <operation ingredients="farine;levure"> mélanger </operation> la <ingredient action="mélanger" quantite="70 gramme"> farine </ingredient> , la <ingredient action="mélanger" quantite="1 cuillère à café"> levure </ingredient> , l' <ingredient action="poivrer"> oeuf </ingredient> , les <ingredient action="poivrer" quantite="2"> yaourts </ingredient> et le <ingredient action="poivrer" quantite="2 cuillère à soupe"> miel </ingredient> <operation> saler </operation> <operation ingredients="oeuf;yaourts;miel"> poivrer </operation> <operation ingredients="fruits"> ajouter </operation> les <ingredient action="ajouter" quantite="10"> fruits </ingredient> de mer . <operation> mettre </operation> 12 h au frais . <operation> cuire </operation> 25 min à th 6 ( 180 <operation> ° </operation> c ) .
+</preparation>
+</recette>

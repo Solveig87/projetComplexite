@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15235">
+<titre>Tarte roquefort, artichauts et jambon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>1 boîte de fonds d'artichauts</p>
+<p>125 g de roquefort</p>
+<p>1 tranche épaisse de jambon (1/2 cm)</p>
+<p>3 œufs</p>
+<p>20 cl de crème fraîche</p>
+<p>1 verre de lait</p>
+<p>sel, poivre et moutarde</p>
+</ingredients>
+<preparation>
+étaler et <operation ingredients="tarte"> piquer </operation> le fond de <ingredient action="piquer"> tarte </ingredient> . <operation ingredients="artichauts;jambon;roquefort"> couper </operation> en dés les <operation> fonds </operation> d' <ingredient action="couper"> artichauts </ingredient> , le <ingredient action="couper"> jambon </ingredient> et le <ingredient action="couper" quantite="125 gramme"> roquefort </ingredient> . <operation ingredients="œufs;moutarde;poivre;sel"> battre </operation> les <ingredient action="battre" quantite="3"> œufs </ingredient> avec la <ingredient action="battre"> moutarde </ingredient> , le <ingredient action="battre"> poivre </ingredient> et un petit peu de <ingredient action="battre" quantite=""> sel </ingredient> ( attention , le <ingredient> bleu </ingredient> est salé ) . <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> lait </ingredient> et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> , bien <operation> battre </operation> . <operation> verser </operation> et <operation> mettre </operation> au four ( thermostat 180 <operation> ° </operation> c ) pendant 35 / 40 min . servir chaud ou tiède , avec de la <ingredient> salade </ingredient> . entrée ou plat principal . original et vite <operation> préparé </operation> !
+</preparation>
+</recette>

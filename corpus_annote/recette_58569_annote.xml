@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58569">
+<titre>Wok de poulet au miel et romarin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>1 carotte</p>
+<p>1/4 de fenouil</p>
+<p>1 petite courgette</p>
+<p>1 tomate</p>
+<p>2 cuillières à soupe de vinaigre balsamique</p>
+<p>1 cuillière à soupe de miel</p>
+<p>1 branche de romarin</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;aiguillettes;légumes"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en petites <ingredient action="couper"> aiguillettes </ingredient> et les <ingredient action="couper" quantite="1;1"> légumes </ingredient> en rondelles fines ( si vous avez une mandoline , c' est parfait ) . faire <operation ingredients="huile"> chauffer </operation> de l' <ingredient action="chauffer"> huile </ingredient> dans le wok et y <operation ingredients="poulet;carottes"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> et les <ingredient action="revenir" quantite="1"> carottes </ingredient> 5 min . <operation> ajouter </operation> ensuite les autres ingrédients , <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> cuire </operation> en <operation> remuant </operation> souvent pendant 10 min . il faut que les <ingredient quantite="1;1"> légumes </ingredient> restent croquants . vous pouvez servir ce plat avec de la <ingredient> semoule </ingredient> pour en faire un plat complet .
+</preparation>
+</recette>

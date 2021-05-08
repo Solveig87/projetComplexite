@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23172">
+<titre>Wok de porc aux germes de soja</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de filet de porc</p>
+<p>500 g de germes de soja frais</p>
+<p>10 g de champignons noirs </p>
+<p>1 gros oignon</p>
+<p>huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="champignons"> tremper </operation> les <ingredient action="tremper" quantite="10 gramme"> champignons </ingredient> noirs . <operation ingredients="viande;oignon"> emincer </operation> la <ingredient action="emincer"> viande </ingredient> et l' <ingredient action="emincer" quantite="1"> oignon </ingredient> en lamelles . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> au wok ou à la <operation> poêle </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> , <operation ingredients="porc"> ajouter </operation> le <ingredient action="ajouter"> porc </ingredient> et <operation> mélanger </operation> . <operation> saler </operation> , <operation> poivrer </operation> , et <operation> mouiller </operation> d' un verre d' eau . laisser <operation> cuire </operation> 10 min à feu moyen . <operation ingredients="champignons"> rajouter </operation> les germes de soja frais te les <ingredient action="rajouter" quantite="10 gramme"> champignons </ingredient> noirs <operation> égoutté </operation> et <operation> coupés </operation> en morceaux . laisser <operation> revenir </operation> 10 min et servir . on peut <operation> ajouter </operation> 3 g de glutamate pour renforcer l' accent asiatique mais ce n' est pas indispensable . <operation ingredients="nouilles"> ajoutez </operation> des <ingredient action="ajouter"> nouilles </ingredient> <operation> sautées </operation> et vous aurez un plat bien complet .
+</preparation>
+</recette>

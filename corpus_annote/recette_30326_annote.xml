@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30326">
+<titre>Salade verte aux deux kiwis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>quelques feuilles de salade verte au choix</p>
+<p>1 kiwi gold</p>
+<p>1 kiwi vert</p>
+<p>3 feuilles de menthe fraîche</p>
+<p>1 cuillère à café d'huile d'olive</p>
+<p>1/2 cuillère à café de vinaigre balsamique</p>
+<p>des copeaux de parmesan</p>
+</ingredients>
+<preparation>
+dans une assiete <operation ingredients="salade"> ciseler </operation> la <ingredient action="ciseler" quantite="quelque feuille"> salade </ingredient> . <operation ingredients="kiwis"> peler </operation> et <operation> couper </operation> les <ingredient action="peler" quantite="1"> kiwis </ingredient> en tranches fines , les <operation ingredients="salade"> disposer </operation> sur la <ingredient action="disposer" quantite="quelque feuille"> salade </ingredient> . <operation ingredients="huile;vinaigre"> arroser </operation> d' <ingredient action="arroser" quantite="1 cuillère à café"> huile </ingredient> et de <ingredient action="arroser"> vinaigre </ingredient> , puis <operation ingredients="menthe"> parsemer </operation> de feuilles de <ingredient action="parsemer" quantite="3 feuille"> menthe </ingredient> <operation ingredients="parmesan"> ciselées </operation> et de copeaux de <ingredient action="ciseler"> parmesan </ingredient> . petite entrée très fraîche <operation> sucrée </operation> / <operation> salée </operation> , très agréable pour une mise en bouche ! !
+</preparation>
+</recette>

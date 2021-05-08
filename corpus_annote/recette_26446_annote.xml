@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26446">
+<titre>Daube de jarret de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 jarret de boeuf</p>
+<p>1 bouteille de vin rouge</p>
+<p>1 oignon piqué de 5 clous de girofle</p>
+<p>1 branche de céleri</p>
+<p>1 échalote</p>
+<p>300 g de lard</p>
+<p>2 brins de thym</p>
+<p>1 bouquet de persil</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="jarret"> mettre </operation> le <ingredient action="mettre" quantite="1"> jarret </ingredient> dans un plat haut . <operation ingredients="vin"> mouiller </operation> de <ingredient action="mouiller"> vin </ingredient> à hauteur . <operation ingredients="thym"> ajouter </operation> le <ingredient action="ajouter"> thym </ingredient> , le <ingredient> persil </ingredient> , 150 g de <ingredient quantite="300 gramme"> lard </ingredient> <operation ingredients="lardons"> coupé </operation> en <ingredient action="couper"> lardons </ingredient> , le <ingredient> céleri </ingredient> <operation> coupé </operation> en morceaux , l' <ingredient quantite="1"> oignon </ingredient> clouté de girofle et l' <ingredient quantite="1"> échalote </ingredient> <operation> coupée </operation> en 4 . laisser <operation> mariner </operation> 24 heures . le jour même : <operation> egoutter </operation> la <ingredient quantite="1;300 gramme"> viande </ingredient> . la <operation ingredients="lard"> recouvrir </operation> du reste du <ingredient action="recouvrir" quantite="300 gramme"> lard </ingredient> <operation> coupé </operation> en fines tranches et maintenir à l' aide de <ingredient> ficelle </ingredient> . faire <operation ingredients="viande;huile"> revenir </operation> la <ingredient action="revenir" quantite="1;300 gramme"> viande </ingredient> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> chaude . <operation ingredients="légumes;lard"> recouvrir </operation> de la marinade avec les <ingredient action="recouvrir" quantite="1;1"> légumes </ingredient> et le <ingredient action="recouvrir" quantite="300 gramme"> lard </ingredient> . <operation ingredients="oignon"> ôtez </operation> les clous de girofle de l' <ingredient action="ôter" quantite="1"> oignon </ingredient> . laisser <operation> cuire </operation> 2 heures à <operation> couvert </operation> .
+</preparation>
+</recette>

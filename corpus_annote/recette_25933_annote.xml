@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25933">
+<titre>Crêpes farcies à la méditerranéenne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte à crêpe :</p>
+<p>200 g de farine</p>
+<p>4 œufs</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel et poivre</p>
+<p>1 pincée de sucre</p>
+<p>50 cl de lait</p>
+<p>Pour la farce :</p>
+<p>100 g d'olives noires dénoyautées</p>
+<p>1 poivron vert</p>
+<p>8 tomates</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> faire </operation> la <ingredient action="faire"> pâte </ingredient> à crêpe en <operation> mélangeant </operation> tous les ingrédients . les <operation> cuire </operation> à la <operation> poêle </operation> 1 min par farce . les garder au chaud en les <operation> plaçant </operation> au dessus d' une casserole d' eau chaude et <operation> couvertes </operation> d' une feuille de papier aluminium . <operation ingredients="oignon;ail"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et l' <ingredient action="hacher"> ail </ingredient> . <operation ingredients="poivron"> couper </operation> le <ingredient action="couper"> poivron </ingredient> en fines lanières et <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="8"> tomates </ingredient> . <operation> cuire </operation> la farce en commençant par faire <operation ingredients="oignon;ail;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans un peu d' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="poivron;tomates"> ajouter </operation> le <ingredient action="ajouter"> poivron </ingredient> et les <ingredient action="ajouter" quantite="8"> tomates </ingredient> . laisser <operation> réduire </operation> quelques minutes , <operation> assaisonner </operation> et <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="8"> tomates </ingredient> . <operation ingredients="crêpes"> garnir </operation> les <ingredient action="garnir"> crêpes </ingredient> de farce , les <operation> rouler </operation> et les <operation> disposer </operation> dans un plat pour le service .
+</preparation>
+</recette>

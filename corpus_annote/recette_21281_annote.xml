@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21281">
+<titre>CHAUD FROID DE POULET</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>1 bouquet garni, sel, poivre</p>
+<p>1 sachet de gelée</p>
+<p>2 jaunes d'oeufs</p>
+<p>100 g fromage blanc 0 %</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;bouquet"> cuire </operation> le <ingredient action="cuire" quantite="1"> poulet </ingredient> 1 h 15 environ , juste <operation> recouvert </operation> d' eau <operation> salée </operation> , <operation> poivrée </operation> , avec le <ingredient action="cuire" quantite="1"> bouquet </ingredient> <operation> garni </operation> . la peau et les os doivent s' <operation> enlever </operation> facilement . otez - les délicatement et <operation> découpez </operation> pour obtenir au moins 8 morceaux . les laisser bien refroidir . <operation ingredients="gelée;bouillon"> préparer </operation> la <ingredient action="préparer"> gelée </ingredient> en la mouillant avec le <ingredient action="préparer"> bouillon </ingredient> de cuisson mais en n' en <operation> mettant </operation> que 1 / 4 de litre . dès qu' elle est tiède , <operation ingredients="fromage;citron"> ajouter </operation> le <operation> mélange </operation> jaunes , <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> blanc et <ingredient action="ajouter"> citron </ingredient> . <operation> verser </operation> cette sauce sur chaque morceau tres froid , la sauce nappe les morceaux . <operation> remettre </operation> au froid . <operation ingredients="tomate;citron;estragon"> décorer </operation> avec des petits morceaux de peaux de <ingredient action="décorer"> tomate </ingredient> et de <ingredient action="décorer"> citron </ingredient> , <operation> coupés </operation> en fleur , et de l' <ingredient action="décorer"> estragon </ingredient> . <operation ingredients="salade"> présenter </operation> sur des feuilles de <ingredient action="présenter"> salade </ingredient> . c' est fin et vous pouvez <operation> préparer </operation> le plat 1 jour à l' avance et le garder au frais .
+</preparation>
+</recette>

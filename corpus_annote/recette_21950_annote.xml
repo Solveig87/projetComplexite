@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21950">
+<titre>Tomates à l'aïoli</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 jaune d'oeuf</p>
+<p>2 gousse d'ail</p>
+<p>huile d'olive</p>
+<p>8 tomates</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="8"> tomates </ingredient> aprés les avoir <operation> ébouillantées </operation> , <operation> découper </operation> en quartiers <operation> retirer </operation> les pépins , <operation> saler </operation> légérement et <operation> mettre </operation> en attente . <operation ingredients="ail"> préparer </operation> un bon aïoli avec l' <ingredient action="préparer"> ail </ingredient> <operation ingredients="oeuf;huile"> pilé </operation> le jaune d' <ingredient action="piler"> oeuf </ingredient> et l' <ingredient action="piler" quantite=""> huile </ingredient> d' olive . quand l' aïoli est bien ferme <operation ingredients="tomates"> mélanger </operation> aux quartiers de <ingredient action="mélanger" quantite="8"> tomates </ingredient> , cela va faire une sauce au goût merveilleux . <operation> mettre </operation> au frais avant de déguster . rosé de provence
+</preparation>
+</recette>

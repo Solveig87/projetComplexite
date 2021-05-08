@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69186">
+<titre>Rôti de porc au bacon et au gruyère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de porc </p>
+<p>12 tranches de bacon</p>
+<p>gruyère rapé</p>
+<p>sel, poivre</p>
+<p>-fond pour rôti</p>
+</ingredients>
+<preparation>
+<operation ingredients="rôti"> insisser </operation> des tranches dans le <ingredient action="insisser" quantite="1"> rôti </ingredient> de porc . <operation ingredients="bacons"> ajouter </operation> les tranche des <ingredient action="ajouter" quantite="12 tranche"> bacons </ingredient> à l' intérieur , en <operation ingredients="bacon"> intercalant </operation> <ingredient action="intercaler" quantite="12 tranche"> bacon </ingredient> et rôti . <operation ingredients="gruyère"> parsemer </operation> l' ensemble de <ingredient action="parsemer" quantite=""> gruyère </ingredient> rapé et <operation> saler </operation> , <operation> poivrer </operation> à votre goût . dans un plat <operation ingredients="rôti"> verser </operation> le fond pour <ingredient action="verser" quantite="1"> rôti </ingredient> et <operation ingredients="rôti"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> rôti </ingredient> . laisser <operation> cuire </operation> pendant 1 h environ à 180 ( thermostat 6 )
+</preparation>
+</recette>

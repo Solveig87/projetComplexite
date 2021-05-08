@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60667">
+<titre>Gâteau aux courgettes et chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de courgettes épluchées et coupées en dés</p>
+<p>60 g de chocolat pâtissier</p>
+<p>200 g de farine</p>
+<p>300 g de sucre</p>
+<p>50 g de beurre</p>
+<p>12,5 cl d'huile neutre</p>
+<p>12,5 cl de lait</p>
+<p>2 oeufs</p>
+<p>8 cuillères à café de cacao en poudre non sucré</p>
+<p>1 sachet de levure</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>1 cuillère à café de vanille liquide</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="beurre;huile;sucre"> mélangez </operation> le <ingredient action="mélanger" quantite="50 gramme"> beurre </ingredient> , l' <ingredient action="mélanger" quantite="12,5 cl"> huile </ingredient> et le <ingredient action="mélanger" quantite="300 gramme"> sucre </ingredient> . puis , <operation ingredients="oeufs;lait"> ajoutez </operation> la vanille , les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> et le <ingredient action="ajouter" quantite="12,5 cl"> lait </ingredient> . dans un autre saladier , <operation ingredients="farine;cacao;levure;cannelle"> tamisez </operation> la <ingredient action="tamiser" quantite="200 gramme"> farine </ingredient> , le <ingredient action="tamiser" quantite="8 cuillère à café"> cacao </ingredient> , la <ingredient action="tamiser"> levure </ingredient> et la <ingredient action="tamiser" quantite="1 cuillère à café"> cannelle </ingredient> . <operation> mélangez </operation> les deux saladier ensemble . puis <operation> ajoutez </operation> les dés de courgette . <operation ingredients="farine"> versez </operation> dans un plat rectangulaire beurré et <operation> saupoudré </operation> de <ingredient action="verser" quantite="200 gramme"> farine </ingredient> . puis <operation ingredients="chocolat"> déposez </operation> le <ingredient action="déposer" quantite="60 gramme"> chocolat </ingredient> <operation> coupé </operation> en petits cubes . faites <operation> cuire </operation> 40 à 45 minutes au four à 160 <operation> ° </operation> c ( thermostat . 6 ) .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30924">
+<titre>Tarte au chocolat et aux noix</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte sablée (du commerce ou faite maison) </p>
+<p>3 oeufs</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>100 g de sucre</p>
+<p>150 g de noix</p>
+<p>1 tablette de chocolat noir pâtissier (200 g) </p>
+<p>1 tablette de chocolat praliné (ou au choix chocolat blanc ou au lait) </p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> disposez </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> sablée au fond d' un plat à tarte . <operation ingredients="oeufs;crème;sucre;noix"> battez </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> , la <ingredient action="battre" quantite="3 cuillère à soupe"> crème </ingredient> fraîche le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> et les <ingredient action="battre" quantite="150 gramme"> noix </ingredient> <operation> mixées </operation> et <operation ingredients="tarte"> versez </operation> sur le fond de <ingredient action="verser"> tarte </ingredient> . <operation> enfournez </operation> 20 mn à 180 <operation> ° </operation> c. faites <operation ingredients="chocolat;praliné"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> <ingredient action="fondre"> praliné </ingredient> au bain marie et <operation ingredients="tarte"> versez </operation> sur la <ingredient action="verser"> tarte </ingredient> refroidie . faites <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> noir au bain marie et <operation ingredients="tarte"> versez </operation> sur la <ingredient action="verser"> tarte </ingredient> . servir bien frais pour les fondus de <ingredient> chocolat </ingredient> !
+</preparation>
+</recette>

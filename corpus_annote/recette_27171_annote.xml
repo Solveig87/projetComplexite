@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27171">
+<titre>Mouton mijoté au vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de morceaux de moutons</p>
+<p>3 carottes</p>
+<p>7 oignons</p>
+<p>1 bouquet garni</p>
+<p>4 gousses d’ail</p>
+<p>4 cuillères à soupe de farine</p>
+<p>3 tomates pelées</p>
+<p>60 cl de vin blanc</p>
+<p>15 cl de bouillon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="carottes"> détailler </operation> les <ingredient action="détailler" quantite="3"> carottes </ingredient> en rondelles , puis <operation ingredients="gousses"> écraser </operation> les <ingredient action="écraser" quantite="4"> gousses </ingredient> d’ ail . <operation ingredients="oignons"> peler </operation> et <operation> émincer </operation> les <ingredient action="peler" quantite="7"> oignons </ingredient> , puis les faire <operation> revenir </operation> dans une <operation> poêle </operation> <operation> beurrée </operation> . faire <operation ingredients="huile"> chauffer </operation> un peu d’ <ingredient action="chauffer"> huile </ingredient> dans une cocotte , puis y <operation ingredients="viande;carottes"> ajouter </operation> les morceaux de <ingredient action="ajouter"> viande </ingredient> avec les rondelles de <ingredient action="ajouter" quantite="3"> carottes </ingredient> , la fondue d’ <ingredient quantite="7"> oignon </ingredient> et l’ <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> . <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="4 cuillère à soupe"> farine </ingredient> puis bien <operation> mélanger </operation> . laisser <operation> cuire </operation> 10 minutes à <operation> couvert </operation> sur feu modéré , puis <operation> retirer </operation> le couvercle et <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> <operation> pelées </operation> . dans une casserole , faire <operation ingredients="vin;bouillon"> chauffer </operation> le <ingredient action="chauffer" quantite="60 cl"> vin </ingredient> avec le <ingredient action="chauffer" quantite="15 cl"> bouillon </ingredient> , puis <operation ingredients="viande"> arroser </operation> la <ingredient action="arroser"> viande </ingredient> et laisser <operation> cuire </operation> 1 heure à <operation> couvert </operation> sur feu doux , en <operation> remuant </operation> régulièrement . <operation> goûter </operation> et <operation ingredients="assaisonnement"> rectifier </operation> l’ <ingredient action="rectifier" quantite="4;;"> assaisonnement </ingredient> si nécessaire , puis servir .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84313">
+<titre>Filets de rougets sur lit de tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 filets de rougets (ou 8 selon la taille) (frais ou surgelés)</p>
+<p>1 boîte de tomates coupés en dés (ou tomates fraîches)</p>
+<p>du basilic ciselé</p>
+<p>1 échalote</p>
+<p>le jus d'1/2 citron</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+dans un plat allant au four , <operation ingredients="tomate"> verser </operation> la <ingredient action="verser"> tomate </ingredient> , <operation ingredients="échalote;basilic;huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> coupée </operation> finement , le <ingredient action="ajouter" quantite=""> basilic </ingredient> , un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , sel et poivre . <operation ingredients="rouget"> poser </operation> dessus les filets de <ingredient action="poser"> rouget </ingredient> . <operation> saler </operation> et <operation ingredients="huile;jus"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et le <ingredient action="ajouter" quantite=""> jus </ingredient> de citron . <operation> enfourner </operation> à four chaud ( 200 <operation> ° </operation> c , thermostat . 8) pendant 20 min environ . très rapide et facile . servir avec des <ingredient> brocolis </ingredient> , ou du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

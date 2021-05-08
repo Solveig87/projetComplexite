@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35347">
+<titre>Rôti de porc au boursin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de rôti de porc casserole</p>
+<p>1/2 verre à vin de vin blanc</p>
+<p>1 boursin au poivre</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1 cuillère à soupe de ketchup</p>
+<p>20 cl de crème fraîche</p>
+<p>sel poivre</p>
+<p>un peu d'ail en poudre ou 1 gousse d'ail écrasée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> brunir </operation> la <ingredient action="brunir" quantite="1 kilogramme"> viande </ingredient> des 2 côtés puis <operation ingredients="poivre;sel"> assaisonner </operation> de <ingredient action="assaisonner"> poivre </ingredient> <ingredient action="assaisonner" quantite=""> sel </ingredient> et ail . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter"> vin </ingredient> blanc , la <ingredient quantite="1 cuillère à soupe"> moutarde </ingredient> , le <ingredient quantite="1 cuillère à soupe"> ketchup </ingredient> , le <ingredient quantite="1"> boursin </ingredient> et laisser <operation> mijoter </operation> 1 heure . <operation ingredients="rôti"> retirer </operation> le <ingredient action="retirer" quantite="1 kilogramme"> rôti </ingredient> de la casserole , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="rôti"> remettre </operation> le <ingredient action="remettre" quantite="1 kilogramme"> rôti </ingredient> dans la casserole et servir bien chaud . on peut le <operation> préparer </operation> avec + de sauce , dans ce cas j' augmente la <operation> dose </operation> de <ingredient quantite="1 cuillère à soupe"> moutarde </ingredient> et de <ingredient> vin </ingredient> et j' ajoute un <ingredient quantite="1"> boursin </ingredient> , les invités en rafollent .
+</preparation>
+</recette>

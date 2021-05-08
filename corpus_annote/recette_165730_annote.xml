@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165730">
+<titre>Mon fameux gâteau coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pour la couche coco :</p>
+<p>-2 œufs</p>
+<p>-150 grammes de sucre</p>
+<p>-20cl de crème liquide</p>
+<p>-150 grammes de noix de coco</p>
+<p>-10 cl de lait</p>
+<p>pour la couche biscuit :</p>
+<p>-150 grammes de sucre</p>
+<p>-2 œufs</p>
+<p>-200 grammes de farine</p>
+<p>-1 sachet de levure</p>
+<p>-150 ml de lait</p>
+<p>-130 grammes de beurre fondu</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="coco"> mélanger </operation> les ingrédients de la couche <ingredient action="mélanger"> coco </ingredient> , <operation> mettre </operation> a <operation> chauffer </operation> et laisser <operation> épaissir </operation> environ 5 minutes à feu doux . <operation> réserver </operation> . dans un saladier , <operation ingredients="biscuit"> mélanger </operation> les ingrédients de la couche <ingredient action="mélanger"> biscuit </ingredient> , <operation> mélanger </operation> afin d' obtenir une <ingredient> pâte </ingredient> homogène . dans un plat beurré préalablement , <operation ingredients="pâte"> verser </operation> tout d' abord la <ingredient action="verser"> pâte </ingredient> à biscuit , puis <operation ingredients="pâte;coco"> répartisser </operation> sur le dessus de la <ingredient action="répartisser"> pâte </ingredient> la couche <ingredient action="répartisser"> coco </ingredient> . <operation> mettre </operation> au four 40 à 50 minutes à 180 <operation> degrés </operation> et régalez vous .
+</preparation>
+</recette>

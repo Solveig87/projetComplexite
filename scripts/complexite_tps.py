@@ -1,9 +1,11 @@
 import json
 import re
 from bs4 import BeautifulSoup
-
 import spacy
 from spacy import displacy
+from .utils import *
+from collections import defaultdict
+# chargement du modèle spacy
 nlp = spacy.load('fr_core_news_md')
 
 import argparse
@@ -16,36 +18,21 @@ with open(file=args.file, encoding = "utf8") as file:
     content = file.readlines()
     content = "".join(content)
     bs_content = BeautifulSoup(content, "xml")
-    
-"""Extraction de la liste d'ingrédients"""
-float = re.compile(r"^[0-9]+ ?[-,] ?[0-9]+")
-ingredients = []
-for ingredient in bs_content.find_all('p'):
-    ingredient = ingredient.getText()
-    ingredient = re.sub(r"\([^\)]+\)", "", ingredient)
-    ingredient = ingredient.strip()
-    if not ingredient.startswith("Pour") and ingredient != "" :
-        if "," in ingredient and len(float.findall(ingredient)) == 0:
-            ingredient = ingredient.split(", ")
-            ingredients.extend([ingr for ingr in ingredient if ingr != ""])
-        elif "-" in ingredient and len(float.findall(ingredient)) == 0:
-            ingredient = ingredient.split("- ")
-            ingredients.extend([ingr for ingr in ingredient if ingr != ""])
-        else:
-            ingredients.append(ingredient)
 
+"""Extraction de la liste d'ingrédients"""
+ingredients = get_ingredients_bruts(bs_content)
 
 """Formatage de la liste d'ingrédient (ingrédient : quantité)"""
-nombre = re.compile(r"^[0-9]+|^quelque|^[0-9]+ ?[-,] ?[0-9]+")
-quantite = re.compile(r"^(?:[0-9]+|quelque|[0-9]+, ?[0-9]+) (?:pincée|cuillère à (?:soupe|café)|pot|verre|tranche|feuille|gramme|litre|[mcdk]?[gl]) de")
+
+quantite = re.compile(r"^(?:[0-9]+, ?[0-9]+|quelque|[0-9]+)(?: ?(?:pincée|demi|cuillère(?: à (?:soupe|café))?|pot|verre|tranche|feuille|gramme|kilogramme|litre|[mcdk]?[gl](?:r)?)(?: de)? )?")
 
 ingr_info = {}
 for ingredient in ingredients:
-    ingredient = " ".join([token.lemma_ for token in nlp(ingredient) if token.pos_ != "ADJ"])
-    if len(quantite.findall(ingredient)) == 1:
-        quant = quantite.findall(ingredient)[0]
-    elif len(nombre.findall(ingredient)) == 1:
-        quant = nombre.findall(ingredient)[0]
+    ingredient = " ".join([token.lemma_ for token in nlp(ingredient)])
+    ingredient = re.sub(r"^un", "1", ingredient)
+    quantite = quantite.findall(ingredient)
+    if len(quantite) == 1:
+        quant = quantite[0]
     else:
         quant = ""
     ingredient = re.sub(quant, "", ingredient)
@@ -92,9 +79,9 @@ for ingredient, action in ingredients.items():
             nb_ingr = 1
 
     actions[action] += nb_ingr
-    
+
 print(actions)
-    
+
 complexite = len(actions)/sum(actions.values())
 
 print(f"La complexité de cette recette est de {complexite}.")

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61101">
+<titre>Ragoût de chataîgnes, pommes de terre et  banane plantain</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 petites pommes de terre nouvelles</p>
+<p>1/2 bocal de chataîgnes</p>
+<p>1/2 banane plantain</p>
+<p>1 cuillère à soupe d'échalote en poudre</p>
+<p>1/2 cuillère à soupe de mélange ail et fines herbes en poudre</p>
+<p>thym, laurier (facultatif)</p>
+<p>huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une sauteuse faire <operation ingredients="bananes"> frire </operation> les <ingredient action="frire"> bananes </ingredient> <ingredient action="couper"> plantain </ingredient> préalablement <operation ingredients="plantain;huile"> coupées </operation> en gros morceaux dans une quantité d' <ingredient action="couper" quantite=""> huile </ingredient> suffisante . les <operation> réserver </operation> . <operation ingredients="jus"> mettre </operation> à <operation ingredients="pommes"> dorer </operation> les <ingredient action="dorer" quantite="6"> pommes </ingredient> de terre , une fois dorées <operation> ajouter </operation> de l' eau ainsi que les arômates au <ingredient action="mettre"> jus </ingredient> de cuisson . <operation> couvrir </operation> et laisser <operation> mijoter </operation> jusqu' à ce que les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre soient presque <operation ingredients="pommes"> cuites </operation> . <operation> ajouter </operation> les chataîgnes et éventuellement un peu d' eau . lorsque les chataîgnes commencent à <operation> réduire </operation> en purée , <operation ingredients="bananes"> ajouter </operation> les <ingredient action="ajouter"> bananes </ingredient> sans <operation> couvrir </operation> . <operation> saler </operation> , <operation> poivrer </operation> et servir très chaud . vous pouvez également <operation ingredients="vin"> déglacer </operation> la sauce avec un peu de <ingredient action="déglacer"> vin </ingredient> blanc .
+</preparation>
+</recette>

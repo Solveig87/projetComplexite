@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83996">
+<titre>Potée de légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/2 chou blanc</p>
+<p>5 carottes moyennes</p>
+<p>5 pommes de terre à chair ferme</p>
+<p>2 navets</p>
+<p>1/2 céleri</p>
+<p>5 poireaux entiers</p>
+<p>1/2 pâtisson</p>
+<p>2 panais</p>
+<p>250 g de haricots blancs</p>
+<p>250 g de boulgour gros</p>
+<p>5 oignons</p>
+<p>1 gousse d'ail</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+la veille , faire <operation ingredients="haricot"> tremper </operation> les <ingredient action="tremper" quantite="250 gramme"> haricot </ingredient> blanc dans un grand saladier d' eau . faire <operation ingredients="non"> bouillir </operation> 1 , 5 litre d' eau ( casserole <operation> couverte </operation> + eau <ingredient action="bouillir" quantite="1+1+1;5;2"> non </ingredient> <operation> salée </operation> = plus rapide ! ) . <operation> laver </operation> , <operation ingredients="pommes;navets;céleri;pâtisson"> éplucher </operation> , <operation ingredients="oignons;carottes"> détailler </operation> les <ingredient action="détailler" quantite="5"> oignons </ingredient> , les <ingredient action="détailler"> carottes </ingredient> , les <ingredient action="éplucher" quantite="5"> pommes </ingredient> de terre , les <ingredient action="éplucher" quantite="2"> navets </ingredient> , le <ingredient action="éplucher"> céleri </ingredient> , le <ingredient action="éplucher"> pâtisson </ingredient> , et les panais en dés grossiers . <operation> laver </operation> , et <operation ingredients="chou"> séparer </operation> les feuilles du <ingredient action="séparer"> chou </ingredient> , <operation> trancher </operation> les plus grandes . <operation ingredients="poireaux"> laver </operation> les <ingredient action="laver" quantite="5"> poireaux </ingredient> , préalablement <operation> couper </operation> en tronçons de 10 cm pour les parties blanches , et en petits morceaux pour les parties vertes ( plus filandreuses ) . <operation ingredients="chou;haricots"> plonger </operation> dans l' eau bouillante le <ingredient action="plonger"> chou </ingredient> , puis les <ingredient action="plonger" quantite="250 gramme"> haricots </ingredient> blancs <operation> rincés </operation> , <operation ingredients="légumes"> ajouter </operation> ensuite le reste des <ingredient action="ajouter" quantite="5;2;5;250 gramme;5"> légumes </ingredient> . <operation> saler </operation> généreusement , <operation> poivrer </operation> à votre convenance . <operation ingredients="légumes"> ajuster </operation> le volumes d' eau pour que tous les <ingredient action="ajuster" quantite="5;2;5;250 gramme;5"> légumes </ingredient> soient dans l' eau , et laisser <operation> mijoter </operation> à feu doux 45 minutes ( minimum ) , casserole <operation> couverte </operation> . 10 minutes avant de servir , <operation ingredients="boulgour"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> boulgour </ingredient> à la potée . servir chaud . il n' est pas nécessaire de <operation ingredients="légumes"> mettre </operation> tout les <ingredient action="mettre" quantite="5;2;5;250 gramme;5"> légumes </ingredient> qui sont parfois difficile à se procurer ( <ingredient> panais </ingredient> , pâtisson notamment ) . vous pouvez <operation ingredients="épices"> ajouter </operation> une multitude d' <ingredient action="ajouter" quantite="1;"> épices </ingredient> en fonction de vos préférences , attention à ne pas trop masquer le goût des <ingredient quantite="5;2;5;250 gramme;5"> légumes </ingredient> . . . rouge de caractère
+</preparation>
+</recette>

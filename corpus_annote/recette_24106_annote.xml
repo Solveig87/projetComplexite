@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24106">
+<titre>Oeufs pochés à la béchamel rose</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de crème fraîche</p>
+<p>60 g de beurre</p>
+<p>8 oeufs</p>
+<p>150 g de concentré de tomate</p>
+<p>30 cl de lait</p>
+<p>1 cuillerée à soupe de farine</p>
+<p>un peu de vinaigre</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> plonger </operation> les <ingredient action="plonger" quantite="8"> oeufs </ingredient> dans une casserole d' eau frémissante vinaigrée et les faire <operation> pocher </operation> 3 min . <operation> égoutter </operation> et laisser refroidir . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> dans une casserole sans le <operation> colorer </operation> . hors du feu , <operation ingredients="farine;béchamel"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> et faire <operation> cuire </operation> à feu doux en <operation> fouettant </operation> sans cesse . <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer" quantite="30 cl"> lait </ingredient> peu à peu tout en <operation> remuant </operation> , jusqu' a épaississement de la sauce <ingredient action="ajouter"> béchamel </ingredient> . <operation ingredients="crème;tomate"> incorporer </operation> la <ingredient action="incorporer" quantite="100 gramme"> crème </ingredient> fraîche et le <operation> concentré </operation> de <ingredient action="incorporer"> tomate </ingredient> . <operation> assaisonner </operation> et laisser refroidir . <operation ingredients="œufs"> placer </operation> les <ingredient action="placer"> œufs </ingredient> sur un plat et <operation> recouvrir </operation> de sauce . laisser refroidir au réfrigérateur et servir .
+</preparation>
+</recette>

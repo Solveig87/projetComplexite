@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55163">
+<titre>Casserole de légumes aux lentilles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon jaune</p>
+<p>200 g de lentilles corail</p>
+<p>3 carottes en rondelles</p>
+<p>6 pommes de terre moyenne en dés</p>
+<p>2 courgettes en rondelles</p>
+<p>cumin</p>
+<p>paprika</p>
+<p>huile d'olive</p>
+<p>origan</p>
+<p>1 litre de bouillon de légumes</p>
+<p>coulis de tomate</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oignon </ingredient> <operation ingredients="huile"> coupé </operation> dans un peu d' <ingredient action="couper" quantite=""> huile </ingredient> d' olive . une fois l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> doré , <operation ingredients="oignon;cumin;paprika"> ajouter </operation> du <ingredient action="ajouter" quantite=""> cumin </ingredient> et du <ingredient action="ajouter" quantite=""> paprika </ingredient> ( selon votre goût ) et faire <operation> cuire </operation> 2 min . ensuite <operation ingredients="bouillon"> ajouter </operation> à cela 1 litre de <ingredient action="ajouter" quantite="1 litre"> bouillon </ingredient> de légumes . puis <operation ingredients="pommes;carottes"> incorporer </operation> les <ingredient action="incorporer" quantite="6"> pommes </ingredient> de terre en dés et <ingredient action="incorporer" quantite="3"> carottes </ingredient> en rondelles . laisser <operation> cuire </operation> environ 10 min à feu vif . <operation ingredients="lentilles"> ajouter </operation> les courgettes en rondelles et les <ingredient action="ajouter" quantite="200 gramme"> lentilles </ingredient> . <operation> couvrez </operation> et laisser <operation> cuire </operation> encore 10 min . finalement <operation ingredients="tomates;sel"> verser </operation> le coulis de <ingredient action="verser"> tomates </ingredient> , 1 cuillère à café d' origan et le <ingredient action="verser" quantite=""> sel </ingredient> et laisser <operation> cuire </operation> encore 5 min . servir juste après . pour les enfants , <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

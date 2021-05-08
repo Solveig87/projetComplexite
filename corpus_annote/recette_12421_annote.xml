@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12421">
+<titre>Scampis à l'italienne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>24 scampis</p>
+<p>4 grandes tranches de jambon italien</p>
+<p>vin blanc (et un peu d'eau si nécessaire)</p>
+<p>une petite boîte de concentré de tomates</p>
+<p>crème fraîche</p>
+<p>poivre</p>
+<p>un peu d'ail pressé</p>
+</ingredients>
+<preparation>
+<operation ingredients="scampis;jambon"> enrouler </operation> les <ingredient action="enrouler" quantite="24"> scampis </ingredient> avec le <ingredient action="enrouler"> jambon </ingredient> italien . les <operation ingredients="ail;vin"> saisir </operation> des deux côtés puis <operation ingredients="poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> poivre </ingredient> , l' <ingredient action="saisir"> ail </ingredient> , le <ingredient action="saisir" quantite=""> vin </ingredient> blanc . <operation> cuire </operation> quelques minutes . <operation ingredients="tomates;crème"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> et puis la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche . laisser <operation> épaissir </operation> selon le goût et <operation ingredients="persil"> garnir </operation> l' assiette avec un peu de <ingredient action="garnir"> persil </ingredient> <operation> hâché </operation> . servir avec une <ingredient> baguette </ingredient> . vin blanc sec
+</preparation>
+</recette>

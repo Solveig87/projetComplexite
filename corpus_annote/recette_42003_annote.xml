@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42003">
+<titre>Pâté de viande au micro-onde</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande hâchée</p>
+<p>20 cl de crème</p>
+<p>1 sachet de soupe à l'oignon</p>
+<p>1 petite boîte de champignons émincés</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;crème;soupe"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> viande </ingredient> , la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> et le sachet de <ingredient action="mélanger"> soupe </ingredient> , puis <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> . faire <operation> cuire </operation> 10 min au micro-onde . laisser <operation> reposer </operation> 5 min puis <operation> cuire </operation> à nouveau 10 min . laisser <operation> reposer </operation> 10 min avant de <operation> démouler </operation> . surveiller la 2ème cuisson pour éviter que le <ingredient> pâté </ingredient> ne brûle . se <ingredient> mange </ingredient> chaud ou froid . blanc sec
+</preparation>
+</recette>

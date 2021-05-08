@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13443">
+<titre>Potée champenoise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de lard de poitrine maigre demi-sel</p>
+<p>500g de carré de porc demi-sel</p>
+<p>1 chou pommé</p>
+<p>4 carottes</p>
+<p>4 navets</p>
+<p>1 kg de pommes de terre à chair ferme.</p>
+<p>8 saucisses</p>
+<p>1 tranche épaisse de jambon fumé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lard;carré"> mettez </operation> le <ingredient action="mettre" quantite="1 kilogramme"> lard </ingredient> et le <ingredient action="mettre" quantite="500 gramme"> carré </ingredient> à dessaler . faites <operation ingredients="chou"> bouillir </operation> le <ingredient action="bouillir" quantite="1"> chou </ingredient> <operation> coupé </operation> en quatre , pendant 10 mn . <operation> egouttez </operation> - le . dans l' autocuiseur , <operation ingredients="lard;carré"> cuisez </operation> le <ingredient action="cuire" quantite="1 kilogramme"> lard </ingredient> et le <ingredient action="cuire" quantite="500 gramme"> carré </ingredient> avec 3 litres d' eau . fermez l' autocuiseur . laissez <operation> bouillir </operation> pendant 15 mn à partir de la mise en pression . <operation ingredients="carottes"> ajoutez </operation> ensuite <ingredient action="ajouter" quantite="4"> carottes </ingredient> , navets et chou . continuez la cuisson pendant 15 mn à partir de la mise en pression . <operation ingredients="pommes;saucisses;fumé"> ajoutez </operation> enfin <ingredient action="ajouter" quantite="1 kilogramme"> pommes </ingredient> de terre , <ingredient action="ajouter" quantite="8"> saucisses </ingredient> et jambon <ingredient action="ajouter"> fumé </ingredient> <operation ingredients="carrés"> coupé </operation> en <ingredient action="couper" quantite="500 gramme"> carrés </ingredient> . <operation> salez </operation> légèrement et <operation> poivrez </operation> . prolongez la cuisson de 12 mn sous pression . <operation ingredients="bouillon;pain"> versez </operation> le <ingredient action="verser"> bouillon </ingredient> de la potée dans une soupière <operation> garnie </operation> de tranches de <ingredient action="verser"> pain </ingredient> de campagne . la <ingredient action="présenter" quantite="1 kilogramme;500 gramme;8"> viande </ingredient> et les <ingredient action="présenter" quantite="1;4;4;1 kilogramme"> légumes </ingredient> seront <operation ingredients="viande;légumes"> présentés </operation> en même temps , mais à part , dans un plat creux .
+</preparation>
+</recette>

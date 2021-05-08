@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27668">
+<titre>Salade composée au cervelas simple</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 cervelas</p>
+<p>125 g de gruyère</p>
+<p>1/2 concombre</p>
+<p>150 g de champignons de Paris</p>
+<p>2 tomates</p>
+<p>1/2 botte de radis</p>
+<p>1/2 citron</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de ciboulette ciselée</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre;gruyère;cervelas"> coupez </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> , le <ingredient action="couper" quantite="125 gramme"> gruyère </ingredient> et le <ingredient action="couper" quantite="1"> cervelas </ingredient> en dés . <operation ingredients="champignons;jus"> lavez </operation> et <operation> émincez </operation> les <ingredient action="laver" quantite="150 gramme"> champignons </ingredient> en lamelles , <operation> arrosez </operation> - les de <ingredient action="laver"> jus </ingredient> de citron . <operation ingredients="radis"> coupez </operation> les <ingredient action="couper"> radis </ingredient> en rondelles . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en quartiers . <operation> mélangez </operation> tous les ingrédients . <operation ingredients="huile;vinaigre;moutarde;ciboulette"> préparez </operation> la vinaigrette avec l' <ingredient action="préparer" quantite="6 cuillère à soupe"> huile </ingredient> , le <ingredient action="préparer" quantite="2 cuillère à soupe"> vinaigre </ingredient> , la <ingredient action="préparer" quantite="1 cuillère à soupe"> moutarde </ingredient> et la <ingredient action="préparer" quantite="2 cuillère à soupe"> ciboulette </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="salade"> versez </operation> la vinaigrette sur la <ingredient action="verser"> salade </ingredient> , <operation> mélangez </operation> et servez .
+</preparation>
+</recette>

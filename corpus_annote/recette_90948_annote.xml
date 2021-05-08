@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90948">
+<titre>Mousse aux pruneaux</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pruneaux</p>
+<p>80 g de sucre </p>
+<p>250 g de mascarpone</p>
+<p>3 œufs</p>
+<p>3 à 4 cuillères à soupe de cognac ou armagnac</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pruneaux"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pruneaux </ingredient> dans de l’ eau 1 / 4 d’ heure , les sortir avec un écumoire <operation> retirer </operation> les noyaux à l’ aide d’ une fourchette , <operation ingredients="jus"> réserver </operation> un peu de <ingredient action="réserver"> jus </ingredient> de cuisson . <operation ingredients="pruneaux"> remettre </operation> les <ingredient action="remettre" quantite="400 gramme"> pruneaux </ingredient> à <operation ingredients="jus;sucre"> cuire </operation> dans la casserole avec leur <ingredient action="cuire"> jus </ingredient> de cuisson et 30 g de <ingredient action="cuire" quantite="80 gramme"> sucre </ingredient> pendant 1 / 4 d’ heure pour obtenir une <ingredient> compote </ingredient> . <operation ingredients="œufs"> séparer </operation> les blancs des jaunes d’ <ingredient action="séparer" quantite="3"> œufs </ingredient> . <operation ingredients="sucre;mascarpone;cognac;armagnac;pruneaux"> mélanger </operation> les jaunes avec le reste du <ingredient action="mélanger" quantite="80 gramme"> sucre </ingredient> , le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> et le <ingredient action="mélanger"> cognac </ingredient> ou l’ <ingredient action="mélanger"> armagnac </ingredient> , puis les <ingredient action="mélanger" quantite="400 gramme"> pruneaux </ingredient> refroidis . <operation> monter </operation> les blancs en neige bien ferme . <operation> mélanger </operation> délicatement les blancs au reste de la préparation , <operation> verser </operation> dans des ramequins et <operation> mettre </operation> au frigo pendant 5 heures .
+</preparation>
+</recette>

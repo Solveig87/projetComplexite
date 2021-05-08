@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30594">
+<titre>Rognons de veau francilien</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 rognons de veau</p>
+<p>500 g petits oignons</p>
+<p>250 g de champignons de Paris</p>
+<p>125 g de lardons</p>
+<p>100 g de beurre</p>
+<p>20 cl de vin blanc sec</p>
+<p>du persil haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;champignons;lardons"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> oignons </ingredient> , les <ingredient action="revenir" quantite="250 gramme"> champignons </ingredient> et les <ingredient action="revenir" quantite="125 gramme"> lardons </ingredient> dans un <operation> poêle </operation> . <operation ingredients="rognons"> mettre </operation> les <ingredient action="mettre" quantite="2"> rognons </ingredient> à <operation ingredients="beurre"> dorer </operation> dans une cocotte avec du <ingredient action="dorer" quantite="100 gramme"> beurre </ingredient> . <operation ingredients="légumes;lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme;250 gramme"> légumes </ingredient> et les <ingredient action="ajouter" quantite="125 gramme"> lardons </ingredient> . <operation> assaisonner </operation> et <operation ingredients="vin"> mouiller </operation> de <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> blanc . laissez <operation> mijoter </operation> 20 min à feu doux . <operation ingredients="rognons;champignons;lardons;oignons"> placer </operation> les <ingredient action="placer" quantite="2"> rognons </ingredient> dans un plat avec les <ingredient action="placer" quantite="250 gramme"> champignons </ingredient> , les <ingredient action="placer" quantite="125 gramme"> lardons </ingredient> et les <ingredient action="placer" quantite="500 gramme"> oignons </ingredient> . <operation ingredients="beurre"> lier </operation> la sauce avec du <ingredient action="lier" quantite="100 gramme"> beurre </ingredient> manié et en <operation ingredients="rognons"> recouvrir </operation> les <ingredient action="recouvrir" quantite="2"> rognons </ingredient> . <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> haché .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26426">
+<titre>Steak d'autruche sauce poivre vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 steaks d'autruche </p>
+<p>10 cl de vin blanc sec</p>
+<p>10 cl de crème fraîche épaisse</p>
+<p>2 cuillères à soupe de poivre vert moulu</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , <operation ingredients="steak"> saisir </operation> le <ingredient action="saisir" quantite="4"> steak </ingredient> <operation ingredients="beurre"> assaisonné </operation> dans du <ingredient action="assaisonner"> beurre </ingredient> chaud . <operation> réserver </operation> au chaud . <operation> déglacer </operation> les sucs de la <operation> poêle </operation> en y <operation ingredients="vin"> versant </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> blanc . <operation ingredients="poivre;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> poivre </ingredient> vert et la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> . laisser <operation> épaissir </operation> . servir tel quel . il n' y a pas vraiment de préparation . . . à moins que vous <operation> comptiez </operation> le temps de faire les courses pour acheter les ingrédients !
+</preparation>
+</recette>

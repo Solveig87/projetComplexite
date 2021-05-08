@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165650">
+<titre>Lasagne avec les restes de votre Pot au Feu</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 Plaques de Pâtes à Lasagne </p>
+<p>bouillon du pot-au-feu</p>
+<p>Parmesan râpéPour la sauce Bolognaise:</p>
+<p>500 g Bœuf de votre Pot-au-feu</p>
+<p>100 g Carottes de votre Pot-au-feu</p>
+<p>Une Brique de Coulis de Tomate</p>
+<p>De l'Huile d'Olive</p>
+<p>Un Oignon</p>
+<p>Un Bouquet Garnis (Thym, romarin)</p>
+<p>Basilic fraiche</p>
+<p>Pour la sauce Blanche:</p>
+<p>100 g de Farine</p>
+<p>0,5 l de Lait</p>
+<p>50 g de Beurre</p>
+<p>Sel, Poivre, Noix de Muscade</p>
+<p>Citron (de préférence non traité)</p>
+</ingredients>
+<preparation>
+préparation de la sauce bolognaise : <operation> hachez </operation> finement le bœuf et <operation ingredients="carottes"> coupez </operation> en petit dés les <ingredient action="couper" quantite="100 gramme"> carottes </ingredient> . <operation> hachez </operation> l' <ingredient quantite="1"> oignon </ingredient> très très finement . <operation> hachez </operation> grosièrement la <ingredient quantite=""> basilic </ingredient> . faites <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="oignon;carottes;bouquet"> ajoutez </operation> à l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> le boeuf , puis les <ingredient action="ajouter" quantite="100 gramme"> carottes </ingredient> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garnis </operation> . <operation ingredients="tomate"> ajoutez </operation> ensuite le coulis de <ingredient action="ajouter"> tomate </ingredient> et un verre d' eau et laissez <operation> mijoter </operation> une heure . préparation de la sauce blanche : <operation ingredients="lait"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="0,5 l"> lait </ingredient> . <operation ingredients="lait"> ajoutez </operation> au <ingredient action="ajouter" quantite="0,5 l"> lait </ingredient> la farine et <operation> remuez </operation> au fouet jusqu' à avoir une sauce épaisse . prenez le zeste d' un <ingredient quantite=""> citron </ingredient> . <operation ingredients="sel;poivre;noix;citron"> ajoutez </operation> à la sauce : le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> , la <ingredient action="ajouter" quantite=""> noix </ingredient> de muscade et le zeste de <ingredient action="ajouter" quantite=""> citron </ingredient> . préparation des <ingredient> pâtes </ingredient> : <operation ingredients="jus"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire"> jus </ingredient> du pot-au-feu . faire <operation ingredients="jus"> cuire </operation> les <operation> plaques </operation> dans le <ingredient action="cuire"> jus </ingredient> bouillant 3 min , il faut qu' elles ne soient pas al' dente mais ferme . montage des lasagnes : préchauffez le four à 200 <operation> ° </operation> dans un plat , <operation> superposez </operation> une couche de <ingredient> pâte </ingredient> à lasagne , une couche de sauce bolognaise , une couche <ingredient quantite=""> parmesan </ingredient> , une couche de <ingredient> pâtes </ingredient> , une couche de sauce blanche , une couche de <ingredient quantite=""> parmesan </ingredient> et une couche de <ingredient> pâte </ingredient> . <operation> mettre </operation> au four 30 min . dégustez chaud .
+</preparation>
+</recette>

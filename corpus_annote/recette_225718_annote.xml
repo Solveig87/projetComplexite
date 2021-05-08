@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225718">
+<titre>Verrine champignons de Paris et crème de roquefort</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 champignons de Paris moyens</p>
+<p>75 g de Roquefort</p>
+<p>20 cl de crème semi-épaisse</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 cuillère à café de fond de veau</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="champignons;sel;poivre;veau"> émincer </operation> les <ingredient action="émincer" quantite="12"> champignons </ingredient> avec du <ingredient action="émincer" quantite="1 pincée"> sel </ingredient> , du <ingredient action="émincer" quantite="1 pincée"> poivre </ingredient> et le fond de <ingredient action="émincer"> veau </ingredient> . faire <operation ingredients="roquefort"> fondre </operation> le <ingredient action="fondre" quantite="75 gramme"> roquefort </ingredient> au micro-ondes à puissance moyenne . <operation ingredients="crème;roquefort"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> avec le <ingredient action="mélanger" quantite="75 gramme"> roquefort </ingredient> <operation> fondu </operation> . <operation ingredients="champignons"> remplir </operation> les verrines à mi-hauteur avec les <ingredient action="remplir" quantite="12"> champignons </ingredient> puis <operation ingredients="crème"> recouvrir </operation> avec la <ingredient action="recouvrir" quantite="20 cl"> crème </ingredient> de roquefort . attendre que le tout soit froid pour déguster .
+</preparation>
+</recette>

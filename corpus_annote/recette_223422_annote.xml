@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223422">
+<titre>Risotto aux poivrons et thon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>240g de riz à risotto</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 poivron jaune</p>
+<p>300 g de thon au naturel</p>
+<p>1 oignon</p>
+<p>1 l de bouillon de légumes</p>
+<p>parmesan</p>
+<p>huile d’olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon;poivrons"> ciseler </operation> l’ <ingredient action="ciseler" quantite="1"> oignon </ingredient> et les <ingredient action="ciseler"> poivrons </ingredient> , les faire <operation ingredients="huile"> fondre </operation> dans un peu l’ <ingredient action="fondre" quantite=""> huile </ingredient> d’ olive puis <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="240 gramme"> riz </ingredient> , <operation> mélanger </operation> et attendre qu’ il devienne translucide . pendant ce temps , faire <operation ingredients="bouillon;légumes"> chauffer </operation> le <ingredient action="chauffer" quantite="1 l"> bouillon </ingredient> <ingredient action="chauffer" quantite="1;1 l"> légumes </ingredient> et l’ <operation> ajouter </operation> louche par louche en prenant le soin d’ attendre qu’ il soit totalement absorbé entre chaque louche . une fois le <ingredient action="cuire" quantite="240 gramme"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> thon </ingredient> , lorsqu’ il est bien <operation> incorporé </operation> <operation ingredients="parmesan"> ajouter </operation> du <ingredient action="ajouter" quantite=""> parmesan </ingredient> selon vos goûts , laisser <operation> fondre </operation> à couvercle 5 min et servir sans attendre . vous pouvez remplacez le <ingredient quantite="300 gramme"> thon </ingredient> par des lanières de <ingredient> poulet </ingredient> et remplacez le <ingredient quantite="1 l"> bouillon </ingredient> de légumes par un de <ingredient> boeuf </ingredient> ou de <ingredient> poule </ingredient> . vin blanc
+</preparation>
+</recette>

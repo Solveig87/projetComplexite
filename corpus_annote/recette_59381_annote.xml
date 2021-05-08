@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59381">
+<titre>Rôti de porc express aux épices et aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rôti de porc de 500 g environ</p>
+<p>1 cuillère à soupe huile d'olive</p>
+<p>1 cuillère à café de mélange aux 5 épices</p>
+<p>1 cuillère à café de gingembre moulu</p>
+<p>1/2 cuillère à café de piment chili en poudre (selon convenance)</p>
+<p>100 g de champignons de Paris émincés</p>
+<p>30 cl d'eau</p>
+</ingredients>
+<preparation>
+dans une cocotte minute , faire <operation ingredients="rôti;huile"> dorer </operation> le <ingredient action="dorer" quantite="1"> rôti </ingredient> de porc sur toutes ses faces avec la cuillère d' <ingredient action="dorer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . une fois que le <ingredient action="ajouter" quantite="1"> rôti </ingredient> est bien doré , <operation ingredients="rôti;épices;champignons"> ajouter </operation> l' eau , puis les <ingredient action="ajouter" quantite="1 cuillère à soupe"> épices </ingredient> et enfin les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> . fermer la cocotte en mode cuisson et <operation> compter </operation> 20 min . l' <operation> accompagnement </operation> est au choix <ingredient quantite="100 gramme"> légumes </ingredient> , pâtes , gratin dauphinois etc. . .
+</preparation>
+</recette>

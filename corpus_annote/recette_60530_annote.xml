@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60530">
+<titre>Tartine brie miel noix</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tranche épaisse de pain de campagne</p>
+<p>100 g de brie bien fait</p>
+<p>1 cuillère à café de miel (selon les goûts)</p>
+<p>5 cerneaux de noix</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> passer </operation> la tranche de <ingredient action="passer"> pain </ingredient> de campagne au <operation> grille </operation> - <ingredient> pain </ingredient> pour que celle-ci soit légérement croustillante , puis <operation ingredients="brie"> découper </operation> des tranches de <ingredient action="découper" quantite="100 gramme"> brie </ingredient> d' environ 5 mm d' épaisseur . <operation ingredients="brie;pain"> répartir </operation> les tranches de <ingredient action="répartir" quantite="100 gramme"> brie </ingredient> sur le <ingredient action="répartir"> pain </ingredient> encore chaud , <operation ingredients="miel"> arroser </operation> de <ingredient action="arroser" quantite="1 cuillère à café"> miel </ingredient> et <operation ingredients="noix"> disperser </operation> les <ingredient action="disperser"> noix </ingredient> en morceaux . la tranche de <ingredient> pain </ingredient> légérement chaude permettra au <ingredient> fromage </ingredient> de <operation> tiédir </operation> . toutes les proportions sont à adapter selon les goûts de chacun . bon appétit ! ! !
+</preparation>
+</recette>

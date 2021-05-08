@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223957">
+<titre>Dessert à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>100 g de sucre</p>
+<p>25 cl de crème liquide</p>
+<p>350 g d'ananas</p>
+<p>4 feuilles de gélatine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine;jus"> fondre </operation> la <ingredient action="fondre" quantite="4 feuille"> gélatine </ingredient> dans un peu de <ingredient action="fondre"> jus </ingredient> d' ananas . <operation ingredients="ananas"> mixer </operation> l' <ingredient action="mixer" quantite="350 gramme"> ananas </ingredient> . <operation ingredients="gélatine"> incorporer </operation> la <ingredient action="incorporer" quantite="4 feuille"> gélatine </ingredient> , puis <operation ingredients="oeufs"> ajouter </operation> les 3 jaunes d' <ingredient action="ajouter"> oeufs </ingredient> <operation ingredients="sucre"> battus </operation> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="crème"> ajouter </operation> délicatement la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> <operation ingredients="chantilly"> montée </operation> en <ingredient action="monter"> chantilly </ingredient> puis les blancs <operation> battus </operation> en neige . <operation> mettre </operation> au frigo . après 1 h environ , quand le <operation> mélange </operation> commence à prendre , <operation> mélanger </operation> à nouveau , puis <operation> mettre </operation> en ramequin individuel .
+</preparation>
+</recette>

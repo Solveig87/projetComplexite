@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220689">
+<titre>Crêpe jambon de dinde et avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 crêpes </p>
+<p>12 tranches de jambon de dinde fumé</p>
+<p>12 feuilles de laitue</p>
+<p>2 avocats</p>
+<p>15 cl de mayonnaise</p>
+<p>1 gousse d'ail</p>
+<p>3 cornichons</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> découper </operation> les <ingredient action="découper" quantite="2"> avocats </ingredient> de façon à obtenir 12 quartiers . <operation ingredients="crêpe;jambon;avocat"> mettre </operation> la <ingredient action="mettre" quantite="12"> crêpe </ingredient> sur le plan de travail , <operation ingredients="laitue"> poser </operation> dessus la feuille de <ingredient action="poser" quantite="12 feuille"> laitue </ingredient> , puis la tranche de <ingredient action="mettre" quantite="12 tranche"> jambon </ingredient> de dinde , puis un quartier d' <ingredient action="mettre" quantite="2"> avocat </ingredient> et <operation ingredients="crêpe"> rouler </operation> la <ingredient action="rouler" quantite="12"> crêpe </ingredient> . <operation> disposer </operation> dans votre plat de service et <operation ingredients="mayonnaise"> poser </operation> au centre un bol de <ingredient action="poser" quantite="15 cl"> mayonnaise </ingredient> auquel vous aurez <operation ingredients="ail;cornichons"> ajouté </operation> un peu d' <ingredient action="ajouter"> ail </ingredient> et quelques <ingredient action="ajouter" quantite="3"> cornichons </ingredient> <operation> coupés </operation> très fin . succès assuré .
+</preparation>
+</recette>

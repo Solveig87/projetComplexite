@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50355">
+<titre>Brochette abricot mozzarella au romarin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 abricots</p>
+<p>1 mozzarella "di buffala" (au lait de bufflone)</p>
+<p>quelques branches de romarin frais</p>
+<p>beurre</p>
+<p>4 pics en bois pour brochette</p>
+</ingredients>
+<preparation>
+<operation ingredients="abricots;mozzarella"> couper </operation> les <ingredient action="couper" quantite="6"> abricots </ingredient> en 2 et la <ingredient action="couper" quantite="1"> mozzarella </ingredient> en 8 morceaux . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> avec les branches de romarin puis y <operation ingredients="abricots"> dorer </operation> les oreillons d' <ingredient action="dorer" quantite="6"> abricots </ingredient> de chaque côté pendant quelques minutes . <operation> préparer </operation> les brochettes en <operation ingredients="abricot;mozzarella;mozzarella"> intercalant </operation> oreillon d' <ingredient action="intercaler" quantite="6"> abricot </ingredient> et morceau de <ingredient action="intercaler" quantite="1"> mozzarella </ingredient> , soit 3 demi-abricot et 2 morceaux de <ingredient action="intercaler" quantite="1"> mozzarella </ingredient> par brochette . <operation ingredients="abricots;mozzarella;abricots"> parsemer </operation> les <ingredient action="parsemer" quantite="6"> abricots </ingredient> de morceaux de romarin et servir , la <ingredient action="parsemer" quantite="1"> mozzarella </ingredient> fond doucement au contact des <ingredient action="parsemer" quantite="6"> abricots </ingredient> chauds . <ingredient> vin </ingredient> blanc doux .
+</preparation>
+</recette>

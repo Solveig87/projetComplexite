@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34484">
+<titre>Soupe aux asperges et petits pois</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande boîte de petits pois (ou des petits pois frais) </p>
+<p>1 bocal d'asperges (ou des asperges fraîches) </p>
+<p>1 petit oignon</p>
+<p>1 fromage ail et fines herbes (type Rondelé ou Boursin) </p>
+<p>1 bouillon cube de volaille</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> de l' eau dans une grande casserole , <operation ingredients="bouillon;pois"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube puis les petits <ingredient action="ajouter"> pois </ingredient> , les <ingredient> asperges </ingredient> et l' <ingredient quantite="1"> oignon </ingredient> . laisser <operation> cuire </operation> 20 mn ( ou plus si vous avez utilisé des <ingredient quantite="1;1"> légumes </ingredient> frais du marché ! ) . en dehors du feu , <operation ingredients="fromage;ail"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> fromage </ingredient> <ingredient action="ajouter"> ail </ingredient> et fines herbes et <operation> mixez </operation> pour obtenir un velouté . c' est prêt !
+</preparation>
+</recette>

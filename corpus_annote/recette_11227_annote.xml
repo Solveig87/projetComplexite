@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11227">
+<titre>Chaud-froid baltique</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 pommes de terre type charlotte (petites)</p>
+<p>8 tranches de saumon fumé</p>
+<p>crème fraîche </p>
+<p>persil frais haché finement </p>
+<p>citron</p>
+<p>aneth</p>
+<p>8 grosses crevettes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre à la vapeur . pendant ce temps , <operation ingredients="crème"> mettez </operation> un pot de <ingredient action="mettre" quantite=""> crème </ingredient> fraîche dans un bol . <operation ingredients="persil"> hachez </operation> finement le <ingredient action="hacher"> persil </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="aneth;noix"> ajoutez </operation> un peu d' <ingredient action="ajouter" quantite=""> aneth </ingredient> , ainsi qu' un peu de <ingredient action="ajouter"> noix </ingredient> de muscade si vous en avez . <operation> mélangez </operation> , puis gardez au réfrigérateur . au moment de servir , <operation ingredients="saumon;citron;pommes;crevettes;pommes"> présentez </operation> sur l' assiette 2 fines tranches de <ingredient action="présenter"> saumon </ingredient> avec un petit filet de <ingredient action="présenter" quantite=""> citron </ingredient> , deux petites <ingredient action="présenter" quantite="8"> pommes </ingredient> de terre chaude les 2 <ingredient action="présenter" quantite="8"> crevettes </ingredient> <operation> réparties </operation> dans l' assiette , et au dernier moment une cuillère à soupe de crème fraîche soit sur les <ingredient action="présenter" quantite="8"> pommes </ingredient> de terre , soit à côté . c' est rapide et délicieux .
+</preparation>
+</recette>

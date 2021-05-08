@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64873">
+<titre>Rouille d'encornet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1kg d'encornets (grosses lamelles)</p>
+<p>8 petites pommes de terre</p>
+<p>10 cl de cognac</p>
+<p>10 cl de vin blanc</p>
+<p>4 tomates</p>
+<p>1 cuillère à soupe de concentré de tomates</p>
+<p>3 gousses d'ail</p>
+<p>1 dose de safran</p>
+<p>Pour la rouille :</p>
+<p>1 jaune d'oeuf</p>
+<p>3 gousses d'ail</p>
+<p>30 cl d'huile d'olive</p>
+<p>1 dose de safran</p>
+</ingredients>
+<preparation>
+<operation ingredients="encornet"> ôter </operation> la fine peau des lamelles d' <ingredient action="ôter" quantite="1 kilogramme"> encornet </ingredient> , ensuite les <operation> couper </operation> en deux puis les faire <operation> bouillir </operation> 5 min et rejeter l' eau . les faire <operation> revenir </operation> dans 2 cuillères à soupe d' huile d' olive . les <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite="10 cl"> cognac </ingredient> , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc , les <ingredient action="écraser" quantite="4"> tomates </ingredient> <operation> pelées </operation> et <operation> coupées </operation> en dés , l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="tomates;ail"> écrasé </operation> , le <operation ingredients="tomates;safran"> concentré </operation> de <ingredient action="concentré" quantite="4"> tomates </ingredient> , le <ingredient action="concentré"> safran </ingredient> , <operation> poivrer </operation> et <operation> saler </operation> . <operation> cuire </operation> 25 min à <operation> couvert </operation> . <operation ingredients="rouille;oeuf;huile"> monter </operation> la <ingredient action="monter"> rouille </ingredient> avec le jaune d' <ingredient action="monter"> oeuf </ingredient> et l' <ingredient action="monter" quantite="30 cl"> huile </ingredient> d' olive , <operation ingredients="ail;safran"> incorporer </operation> l' <ingredient action="incorporer"> ail </ingredient> <operation> haché </operation> , le <ingredient action="incorporer"> safran </ingredient> et <operation> poivrer </operation> legèrement . pour finir , <operation ingredients="rouille"> ajouter </operation> la <ingredient action="ajouter"> rouille </ingredient> aux encornets et servir aussitôt avec des <ingredient quantite="8"> pommes </ingredient> de terre vapeur . conseils : pour la cuisson , vérifiez que les <ingredient quantite="1 kilogramme"> encornets </ingredient> sont bien tendre et <operation> rectifiez </operation> l' <ingredient quantite="3+3;30 cl"> assaisonnement </ingredient> si nécessaire .
+</preparation>
+</recette>

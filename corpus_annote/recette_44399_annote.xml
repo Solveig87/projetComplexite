@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44399">
+<titre>Cabillaud au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pavés de cabillaud surgelés ou frais</p>
+<p>1 cube de bouillon poissons et crustacés</p>
+<p>20 cl d'eau</p>
+<p>20 g de beurre</p>
+<p>jus d'1/2 citron jaune</p>
+<p>1 échalote</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon"> fondre </operation> le <ingredient action="fondre"> bouillon </ingredient> dans de l' eau , dans une casserole , à feu doux . <operation ingredients="citron;beurre"> ajouter </operation> le <ingredient action="ajouter"> citron </ingredient> et le <ingredient action="ajouter" quantite="20 gramme"> beurre </ingredient> . <operation> porter </operation> à légère <operation> ébullition </operation> tout en <operation> mélangeant </operation> de temps en temps . <operation ingredients="poisson"> disposer </operation> le <ingredient action="disposer"> poisson </ingredient> dans un plat allant au four , avec l' echalote <operation> coupée </operation> en rondelles . <operation ingredients="bouillon;citron"> recouvrir </operation> le tout du <operation> mélange </operation> <ingredient action="recouvrir"> bouillon </ingredient> / eau / <ingredient action="recouvrir"> citron </ingredient> / beurre . faire <operation> cuire </operation> à 230 <operation> ° </operation> c ( th . 8) , pendant 30 à 40 min . ce plat s' <operation ingredients="riz"> accompagne </operation> avec du <ingredient action="accompagne"> riz </ingredient> . on peut utiliser un autre <ingredient> poisson </ingredient> blanc en <ingredient quantite="2"> pavé </ingredient> .
+</preparation>
+</recette>

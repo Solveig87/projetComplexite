@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85001">
+<titre>Truite aux amandes farcies aux oignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 truites entières vidées</p>
+<p>50 amandes</p>
+<p>1 oignon</p>
+<p>huile d'olive</p>
+<p>sel,poivre</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient quantite="1"> oignon </ingredient> et en <operation ingredients="truites"> garnir </operation> les <ingredient action="garnir" quantite="2"> truites </ingredient> avec la moitié . <operation> emincer </operation> les <ingredient quantite="50"> amandes </ingredient> . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> dans une <operation> poêle </operation> . faire <operation ingredients="amandes;oignon"> revenir </operation> les <ingredient action="revenir" quantite="50"> amandes </ingredient> ainsi que le reste de l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . <operation ingredients="truites"> mettre </operation> les <ingredient action="mettre" quantite="2"> truites </ingredient> dans la <operation> poêle </operation> et les faire <operation> cuire </operation> en les <operation> retournant </operation> de temps en temps tout en <operation> remuant </operation> la garniture . une fois les <ingredient action="réserver" quantite="2"> truites </ingredient> <operation> cuites </operation> , les <operation ingredients="truites"> réserver </operation> au chaud . <operation ingredients="amandes"> faire </operation> caraméliser l' <ingredient quantite="1"> oignon </ingredient> et les <ingredient action="faire" quantite="50"> amandes </ingredient> en <operation> rajoutant </operation> un peu d' eau sur feu doux . <operation ingredients="truites"> verser </operation> sur les <ingredient action="verser" quantite="2"> truites </ingredient> au moment de servir .
+</preparation>
+</recette>

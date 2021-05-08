@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47256">
+<titre>Sauté de boeuf au basilic</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de boeuf très finement coupé (bien tendre)</p>
+<p>2 gros oignons</p>
+<p>1 gros bouquet de basilic thaï</p>
+<p>sel et poivre</p>
+<p>sauce d'huître (oyster sauce)</p>
+<p>2 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> emincer </operation> grossièrement les <ingredient action="emincer" quantite="2"> oignons </ingredient> , <operation ingredients="basilic"> laver </operation> et <operation> effeuiller </operation> le <ingredient action="laver"> basilic </ingredient> . <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans un wok , puis <operation ingredients="boeuf;sel"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> boeuf </ingredient> <operation> coupé </operation> en très fines tranches , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre ; puis <operation> remuer </operation> . <operation ingredients="huître"> verser </operation> la sauce d' <ingredient action="verser" quantite=""> huître </ingredient> ( environ 10 cuillères à soupe ) . si vous en avez trop <operation> mis </operation> , allonger la sauce avec de l' eau ; la cuisson doit être rapide ! a la fin , <operation ingredients="basilic"> incorporer </operation> les feuilles de <ingredient action="incorporer"> basilic </ingredient> thaï . servir de suite , avec du <ingredient> riz </ingredient> nature , jasmin , ou basmati . recette très rapide ! ! ! la cuisson doit être à feu vif et ne doit pas depasser 5 min ! ! ! ! <operation ingredients="riz"> préparer </operation> le <ingredient action="préparer"> riz </ingredient> avant la cuisson du sauté .
+</preparation>
+</recette>

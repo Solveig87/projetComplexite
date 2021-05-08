@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26368">
+<titre>Croquettes de poisson, sauce poisson</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de filets de merlan</p>
+<p>2 oeufs</p>
+<p>80 g de mie de pain</p>
+<p>un peu de lait</p>
+<p>2 gousses d’ail</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 pincée de noix de muscade</p>
+<p>1 petit bouquet de persil</p>
+<p>Pour la sauce :</p>
+<p>200 g bouillon de poisson</p>
+<p>15 cl de vin blanc sec</p>
+<p>2 tomates </p>
+<p>10 cl d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> mettre </operation> la mie de <ingredient action="mettre"> pain </ingredient> à <operation ingredients="lait"> tremper </operation> dans du <ingredient action="tremper"> lait </ingredient> pour qu’ elle gonfle . <operation ingredients="chair"> ecraser </operation> la <ingredient action="ecraser"> chair </ingredient> du poisson , puis la <operation ingredients="pain;ail;sel;poivre"> mélanger </operation> avec la mie de <ingredient action="mélanger"> pain </ingredient> , l' <ingredient action="mélanger"> ail </ingredient> <operation> haché </operation> , le <ingredient action="mélanger"> sel </ingredient> et le <ingredient action="mélanger"> poivre </ingredient> . <operation ingredients="oeuf;persil"> battre </operation> 1 <ingredient action="battre" quantite="2"> oeuf </ingredient> avec le <ingredient action="battre"> persil </ingredient> <operation ingredients="moutarde"> haché </operation> et la <ingredient action="hacher" quantite="1 cuillère à café"> moutarde </ingredient> , puis <operation ingredients="noix"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 pincée"> noix </ingredient> de muscade . <operation ingredients="chair"> ajouter </operation> ce <operation> mélange </operation> à la <ingredient action="ajouter"> chair </ingredient> de poisson et bien <operation> mélanger </operation> pour obtenir une préparation parfaitement homogène . <operation> fariner </operation> vos mains , puis <operation ingredients="pâte"> former </operation> des boulettes avec la <ingredient action="former"> pâte </ingredient> obtenue . <operation ingredients="farine"> rouler </operation> successivement les boulettes dans la <ingredient action="rouler"> farine </ingredient> , l’ <ingredient action="plonger" quantite="2"> oeuf </ingredient> <operation> battu </operation> puis les <operation ingredients="oeuf;huile"> plonger </operation> dans un bain d’ <ingredient action="plonger"> huile </ingredient> de friture bouillante , jusqu’ à ce qu’ elles soient bien dorées . <operation> préparer </operation> enfin la sauce : <operation ingredients="tomates"> laver </operation> et <operation> découper </operation> les <ingredient action="laver" quantite="2"> tomates </ingredient> en quartiers et les <operation> réserver </operation> . <operation ingredients="soupe;vin"> délayer </operation> la <ingredient action="délayer"> soupe </ingredient> de poisson avec le <ingredient action="délayer" quantite="15 cl"> vin </ingredient> blanc puis l’ eau et y <operation ingredients="tomate"> ajouter </operation> les quartiers de <ingredient action="ajouter" quantite="2"> tomate </ingredient> . <operation> porter </operation> à <operation> ébullition </operation> et laisser <operation> chauffer </operation> 15 minutes sur feu doux , <operation> tamiser </operation> la sauce , puis la <operation> verser </operation> dans la saucière . servir les boulettes de <ingredient quantite="2"> poisson </ingredient> avec la sauce en saucière et déguster .
+</preparation>
+</recette>

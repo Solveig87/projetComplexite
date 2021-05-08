@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222455">
+<titre>Croque camembert et pomme</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 ou 2 pommes granny smith</p>
+<p>beurre à tartiner</p>
+<p>6 quartiers de Camembert</p>
+<p>6 tranches de pain de mie</p>
+</ingredients>
+<preparation>
+sur 1 tranche de <ingredient action="mettre" quantite="6 tranche"> pain </ingredient> de mie , <operation ingredients="pain;camembert;pommes"> mettre </operation> 2 quartiers de <ingredient action="mettre"> camembert </ingredient> et des quartiers de <ingredient action="mettre" quantite="1"> pommes </ingredient> . ensuite sur l' autre tranche de <ingredient quantite="6 tranche"> pain </ingredient> de mie , étaler le <ingredient> beurre </ingredient> sur le dessus de la tranche et <operation> recouvrir </operation> l' autre tranche <operation> garnie </operation> , <operation> enfourner </operation> pendant 20 min environ . servir chaud avec en <operation> accompagnement </operation> une <ingredient> salade </ingredient> par exemple . <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

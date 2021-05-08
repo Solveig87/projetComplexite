@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25758">
+<titre>Côtes de porc au vin blanc et olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtes de porc</p>
+<p>1 grand verre de vin blanc sec</p>
+<p>20 olives dénoyautées</p>
+<p>amandes</p>
+<p>bouillon</p>
+<p>romarin</p>
+<p>sel, poivre, beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="olives;amandes"> fourrez </operation> les <ingredient action="fourrer"> olives </ingredient> avec les <ingredient action="fourrer" quantite=""> amandes </ingredient> . dans une <operation> poêle </operation> avec du <ingredient action="dorer"> beurre </ingredient> faites <operation ingredients="beurre;côtes;vin"> dorer </operation> les <ingredient action="dorer" quantite="4"> côtes </ingredient> 10 min , puis les <operation> réserver </operation> hors du feu . avec le <ingredient action="dorer"> vin </ingredient> blanc <operation> déglacez </operation> la <operation> poêle </operation> et <operation ingredients="olives"> jetez </operation> dedans les <ingredient action="jeter"> olives </ingredient> <operation ingredients="amandes"> farcies </operation> aux <ingredient action="farcir" quantite=""> amandes </ingredient> . laisser <operation> bouillir </operation> quelques secondes puis <operation> ajouter </operation> le romarin et <operation> assaisonnez </operation> . <operation> dressez </operation> un plat , <operation ingredients="côtes"> disposez </operation> les <ingredient action="disposer" quantite="4"> côtes </ingredient> et <operation> versez </operation> la sauce .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13987">
+<titre>Ardéchois rapide</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de marrons au naturel</p>
+<p>125 g de sucre</p>
+<p>150 g de chocolat à croquer</p>
+<p>300 g de crème fraîche</p>
+<p>3 paquets de sucre vanillé</p>
+<p>75 g de sucre semoule</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="sucre"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme+75 gramme"> sucre </ingredient> dans un fond d' eau . <operation ingredients="chocolat"> ajoutez </operation> le <ingredient action="ajouter" quantite="150 gramme"> chocolat </ingredient> en morceau et <operation ingredients="crème;sucre"> ramolli </operation> , la moitié de la <ingredient action="ramollir" quantite="300 gramme"> crème </ingredient> fraîche , 2 paquets de <ingredient action="ramollir" quantite="125 gramme+75 gramme"> sucre </ingredient> vanillé . <operation> passez </operation> le tout au <operation ingredients="marrons"> mixer </operation> avec la purée de <ingredient action="mixer" quantite="1 kilogramme"> marrons </ingredient> . <operation ingredients="sucre"> versez </operation> dans un <operation> moule </operation> <operation> huilé </operation> et <operation> saupoudré </operation> de <ingredient action="verser" quantite="125 gramme+75 gramme"> sucre </ingredient> . <operation> mettez </operation> au frais pendant une demi-journée . avec le reste de <ingredient quantite="300 gramme"> crème </ingredient> , 45 g de <ingredient quantite="125 gramme+75 gramme"> sucre </ingredient> semoule et le dernier sachet de <ingredient quantite="125 gramme+75 gramme"> sucre </ingredient> vanillé , <operation ingredients="crème;chantilly"> faites </operation> une <ingredient action="faire" quantite="300 gramme"> crème </ingredient> <ingredient action="faire"> chantilly </ingredient> pour <operation ingredients="gâteau"> décorer </operation> le <ingredient action="décorer"> gâteau </ingredient> .
+</preparation>
+</recette>

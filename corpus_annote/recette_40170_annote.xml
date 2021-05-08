@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40170">
+<titre>Salade de boeuf grillé au soja</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>130 g de rumsteack (ou autre morceau de boeuf maigre)</p>
+<p>250 g de germes de soja frais</p>
+<p>6 cuillères à soupe de sauce soja</p>
+<p>1 coeur de salade</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>quelques grains de coriandre</p>
+</ingredients>
+<preparation>
+<operation ingredients="rumsteack"> tailler </operation> le <ingredient action="tailler" quantite="130 gramme"> rumsteack </ingredient> en tranches fines . <operation> laver </operation> le soja et <operation ingredients="salade"> préparer </operation> la <ingredient action="préparer"> salade </ingredient> . <operation ingredients="rumsteack;huile"> saisir </operation> le <ingredient action="saisir" quantite="130 gramme"> rumsteack </ingredient> 2 min à la <operation> poêle </operation> , dans de l' <ingredient action="saisir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="rumsteack"> retirer </operation> les tranches de <ingredient action="retirer" quantite="130 gramme"> rumsteack </ingredient> , et <operation ingredients="soja"> mettre </operation> le soja , la sauce <ingredient action="mettre"> soja </ingredient> et l' <ingredient quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans la <operation> poêle </operation> . faire <operation> chauffer </operation> 30 secondes , puis <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre" quantite="130 gramme;1"> viande </ingredient> . servir aussitôt avec la <ingredient> salade </ingredient> et <operation ingredients="coriandre"> parsemer </operation> de quelques graines de <ingredient action="parsemer"> coriandre </ingredient> . vous pouvez <operation ingredients="sésame"> ajouter </operation> quelques graines de <ingredient action="ajouter"> sésame </ingredient> .
+</preparation>
+</recette>

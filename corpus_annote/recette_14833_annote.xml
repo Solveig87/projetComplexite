@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14833">
+<titre>Tomates Pompei</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse tomate bien mûre</p>
+<p>1 boule de mozzarella</p>
+<p>sel, poivre</p>
+<p>basilic</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> laver </operation> la <ingredient action="laver" quantite="1"> tomate </ingredient> . la <operation> couper </operation> en rondelles et les <operation> déposer </operation> dans une assiette ne craignant pas la chaleur . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="basilic;tomate"> émincer </operation> le <ingredient action="émincer" quantite=""> basilic </ingredient> sur les rondelles de <ingredient action="émincer" quantite="1"> tomate </ingredient> . <operation ingredients="mozzarella"> couper </operation> la <ingredient action="couper"> mozzarella </ingredient> en tranches . les <operation ingredients="tomate"> déposer </operation> sur les rondelles de <ingredient action="déposer" quantite="1"> tomate </ingredient> . <operation ingredients="huile"> ajouter </operation> un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive . glisser immédiatement au micro-ondes ( si possible avec gril ) , position faible , jusqu' à ce que le <ingredient action="fondre"> fromage </ingredient> soit <operation ingredients="fromage"> fondu </operation> et un peu coloré . la <ingredient quantite="1"> tomate </ingredient> ne doit pas <operation> cuire </operation> afin qu' elle reste suffisamment ferme . déguster tiède en entrée , ne pas laisser <operation ingredients="fromage"> durcir </operation> le <ingredient action="durcir"> fromage </ingredient> avant consommation . rosé de provence
+</preparation>
+</recette>

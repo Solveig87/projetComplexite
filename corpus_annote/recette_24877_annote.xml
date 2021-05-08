@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24877">
+<titre>Fricassée d'artichauts, poireaux et tomates</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 petits artichauts pointus</p>
+<p>2 blancs de poireaux</p>
+<p>3 oignons nouveaux</p>
+<p>1 grande boîte de tomates concassées</p>
+<p>10 cl de vin blanc sec</p>
+<p>10 cl de bouillon</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>beurre, huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="artichauts"> retirez </operation> les premières feuilles des <ingredient action="retirer" quantite="6"> artichauts </ingredient> , <operation> coupez </operation> le hauts et <operation> retirez </operation> le foin . <operation ingredients="artichauts"> coupez </operation> les <ingredient action="couper" quantite="6"> artichauts </ingredient> en 4 . <operation ingredients="oignons;poireaux"> pelez </operation> , <operation> nettoyez </operation> et <operation> émincez </operation> les <ingredient action="pelez" quantite="3"> oignons </ingredient> , et les <ingredient action="pelez"> poireaux </ingredient> finements . faites <operation ingredients="beurre;huile"> chauffer </operation> une cocotte avec un bon morceau de <ingredient action="chauffer"> beurre </ingredient> et une cuillère d' <ingredient action="chauffer" quantite=""> huile </ingredient> . <operation ingredients="légumes"> mettez </operation> - y les <ingredient action="mettre" quantite="6;3;10 cl"> légumes </ingredient> et laissez - le suer quelques minutes . <operation ingredients="tomates;vin;bouillon"> rajoutez </operation> les <ingredient action="rajouter"> tomates </ingredient> <operation> égouttées </operation> , le <ingredient action="rajouter" quantite="10 cl"> vin </ingredient> , le <ingredient action="rajouter" quantite="10 cl"> bouillon </ingredient> . <operation> pilez </operation> l' <ingredient action="ajouter"> ail </ingredient> , <operation ingredients="ail;bouquet"> ajoutez </operation> - le ainsiq que le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> salez </operation> et <operation> poivrez </operation> , puis <operation> couvrez </operation> . laissez <operation> mijoter </operation> 30 minutes , <operation ingredients="tomates"> rajoutez </operation> un peu du ju des <ingredient action="rajouter"> tomates </ingredient> si la préparation se dessèche . <operation ingredients="bouquet"> retirez </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> avant de servir .
+</preparation>
+</recette>

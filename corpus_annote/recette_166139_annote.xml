@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166139">
+<titre>Cookies au Nutella</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250g de farine</p>
+<p>1 sachet de levure</p>
+<p>75g de sucre blanc</p>
+<p>75g de sucre de canne (roux)</p>
+<p>125g de beurre fondu</p>
+<p>2 oeufs</p>
+<p>1 sachet de sucre vanillé</p>
+<p>Nutella</p>
+<p>Pépites de chocolats</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="levure"> mélanger </operation> farine , <ingredient action="mélanger"> levure </ingredient> , sucres ( roux , blanc et vanillé ) dans un bol , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> et y <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> <operation ingredients="oeufs"> mettre </operation> la préparation <ingredient action="mettre" quantite="2"> oeufs </ingredient> et beurre <operation ingredients="farine"> fondu </operation> dans la préparation de <ingredient action="fondre" quantite="250 gramme"> farine </ingredient> etc. <operation ingredients="nutella"> ajouter </operation> en suite le <ingredient action="ajouter" quantite=""> nutella </ingredient> , 3 cs , une à une en <operation> mélangeant </operation> puis <operation ingredients="chocolats"> ajouter </operation> les pépites de <ingredient action="ajouter"> chocolats </ingredient> et <operation> mélanger </operation> avec une cuillèr en bois préchauffer le four à 240 <operation> ° </operation> <operation ingredients="cookies"> faire </operation> des <ingredient action="faire"> cookies </ingredient> d' environ 5 / 6 centimetre de diametre <operation> disposer </operation> sur une <operation> plaque </operation> <operation> recouverte </operation> de papier sulfuriséenfourner pendant environ 8 min
+</preparation>
+</recette>

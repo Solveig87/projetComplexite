@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33075">
+<titre>Soupe haricots blancs chorizo</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon finement émincé</p>
+<p>2 gousses d'ail finement émincées</p>
+<p>1 boîte de 800 g de haricots blancs égouttés et rincés</p>
+<p>1 litre de bouillon de volaille</p>
+<p>75 g de chorizo fort détaillé en rondelles coupées en 4 </p>
+<p>jus d'1/2 citron</p>
+<p>persil finement ciselé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oignon </ingredient> dans de l' <ingredient action="cuire"> huile </ingredient> d' olive sans le laisser <operation> colorer </operation> . <operation ingredients="ail;haricots"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et les <ingredient action="ajouter"> haricots </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 litre"> bouillon </ingredient> et <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="bouillon"> mixer </operation> la moitié du <operation> mélange </operation> <ingredient action="mixer" quantite="1 litre"> bouillon </ingredient> - haricots . <operation> mélanger </operation> à nouveau le tout . <operation ingredients="chorizo;jus;persil"> ajouter </operation> le <ingredient action="ajouter"> chorizo </ingredient> , le <ingredient action="ajouter" quantite=""> jus </ingredient> de citron ( peut-être pas d' un seul coup pour tester l' acidité ) et le <ingredient action="ajouter" quantite=""> persil </ingredient> . vérifier l' <ingredient quantite="2;"> assaisonnement </ingredient> ( je trouve personnellement que <ingredient quantite="1 litre"> bouillon </ingredient> et chorizo suffisent à relever cette <ingredient> soupe </ingredient> ) . c' est encore meilleur <operation> réchauffé </operation> ! plat <operation> préparé </operation> lors de la 13ème rencontre marmiton .
+</preparation>
+</recette>

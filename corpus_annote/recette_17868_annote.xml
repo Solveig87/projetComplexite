@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17868">
+<titre>Riz sauce au roquefort et blancs de poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une barquette de Roquefort</p>
+<p>un pot de crème fraîche</p>
+<p>6 poireaux</p>
+<p>4 blancs de poulet</p>
+<p>ciboulette</p>
+<p>sel, poivre</p>
+<p>riz basmati (2 sachets) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="roquefort;crème"> chauffer </operation> à feu doux le <ingredient action="chauffer"> roquefort </ingredient> avec la <ingredient action="chauffer" quantite="1 pot"> crème </ingredient> fraîche . faire <operation ingredients="poireaux;huile"> revenir </operation> les <ingredient action="revenir" quantite="6"> poireaux </ingredient> <operation> coupés </operation> en rondelles dans un filet d' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="poulet"> découper </operation> les blancs de <ingredient action="découper"> poulet </ingredient> en cube , les <operation> saisir </operation> dans une <operation> poêle </operation> , baisser le feu jusqu' à cuisson de la <ingredient> viande </ingredient> . <operation ingredients="poireaux;roquefort"> mélanger </operation> les <ingredient action="mélanger" quantite="6"> poireaux </ingredient> avec la sauce au <ingredient action="mélanger"> roquefort </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="ciboulette"> rajouter </operation> la <ingredient action="rajouter" quantite=""> ciboulette </ingredient> . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite=""> riz </ingredient> . <operation ingredients="poulets"> disposer </operation> la sauce dans un récipient , ainsi que les cubes de <ingredient action="disposer"> poulets </ingredient> . <operation> disposer </operation> sur la table et bon appêtit blanc sec
+</preparation>
+</recette>

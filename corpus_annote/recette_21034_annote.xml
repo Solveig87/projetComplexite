@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21034">
+<titre>Boulettes de boeuf à la sauce épicée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de boeuf haché</p>
+<p>1 piment vert frais épépiné et haché</p>
+<p>3 cuillères à soupe de coriandre fraîche hachée</p>
+<p>1 cuillère à café de garam massala (mélange d'épices)</p>
+<p>1 oeuf battu</p>
+<p>sel, poivre</p>
+<p>huile</p>
+<p>Pour la sauce :</p>
+<p>1 boîte de tomates pelées (400 g)</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 bâton de cannelle de 2 cm</p>
+<p>10 clous de girofle</p>
+<p>1 oignon haché</p>
+<p>2 gousses d'ail hachées</p>
+<p>5 cm de gingembre frais haché</p>
+<p>1 cuillère à soupe de cumin moulu</p>
+<p>2 cuillères à soupe de grains de coriandre moulus</p>
+<p>1 cuillère à café de piment moulu</p>
+</ingredients>
+<preparation>
+commencez par <operation> préparer </operation> la sauce : faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="+3 cuillère à soupe"> huile </ingredient> dans une sauteuse . faites - y <operation ingredients="cannelle"> dorer </operation> la <ingredient action="dorer"> cannelle </ingredient> et les clous de girofle 30 secondes . <operation ingredients="oignon"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et laissez - le suer quelques minutes . <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient> gingembre </ingredient> , le <ingredient quantite="1 cuillère à soupe"> cumin </ingredient> , la <ingredient quantite="3 cuillère à soupe"> coriandre </ingredient> , le piment et laissez <operation> revenir </operation> 2 minutes à feu doux . <operation> salez </operation> et <operation> mouillez </operation> d' un peu d' eau si le <operation> mélange </operation> devient sec . <operation ingredients="tomates;jus"> ajoutez </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> et leur <ingredient action="ajouter"> jus </ingredient> , écrasez - les avec une cuillère en bois . <operation> couvrez </operation> et laissez <operation> mijoter </operation> sur feu doux environ 30 minutes . <operation> préparez </operation> les boulettes : <operation ingredients="viande;coriandre;sel"> malaxez </operation> la <ingredient action="malaxer" quantite="750 gramme"> viande </ingredient> avec les autres ingrédients ( piment , <ingredient action="malaxer" quantite="3 cuillère à soupe"> coriandre </ingredient> , oeuf , garam massala , <ingredient action="malaxer" quantite=""> sel </ingredient> et poivre ) puis <operation> façonnez </operation> environ 20 belles boulettes . faites - les <operation ingredients="huile"> dorer </operation> dans une <operation> poêle </operation> avec un peu d' <ingredient action="dorer" quantite="+3 cuillère à soupe"> huile </ingredient> sur toutes les faces . <operation> déposez </operation> - les ensuite dans la sauce tomate et laissez <operation> mijoter </operation> environ 20 minutes en <operation> remuant </operation> de temps en temps .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64694">
+<titre>Fenouil braisé au boeuf</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 fenouils</p>
+<p>2 steaks hachés de boeuf</p>
+<p>1 oignon</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>1 grand verre d'eau</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;matière"> revenir </operation> dans une sauteuse , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> avec un peu de <ingredient action="revenir"> matière </ingredient> grasse . <operation ingredients="steaks"> mettre </operation> les <ingredient action="mettre" quantite="2"> steaks </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> , et laisser le temps de cuisson désiré . <operation> eplucher </operation> , <operation> laver </operation> et <operation ingredients="fenouils"> couper </operation> en morceaux les <ingredient action="couper" quantite="3"> fenouils </ingredient> . <operation ingredients="steaks"> retirer </operation> les <ingredient action="retirer" quantite="2"> steaks </ingredient> et remplacer par les <ingredient quantite="3"> fenouils </ingredient> . laisser <operation> cuire </operation> 10 min en <operation> remuant </operation> . <operation ingredients="bouillon;poivre"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> de boeuf , le verre d' eau , le <ingredient action="ajouter" quantite=""> poivre </ingredient> et laisser <operation> cuire </operation> 15 à 20 min sur feu doux . en fin de cuisson , <operation ingredients="steaks;fenouil"> réchauffer </operation> les <ingredient action="réchauffer" quantite="2"> steaks </ingredient> 2 min au dessus du <ingredient action="réchauffer" quantite="3"> fenouil </ingredient> . <operation ingredients="pomme;pommes"> accompagner </operation> d' une <ingredient action="accompagner"> pomme </ingredient> de terre vapeur ou de <ingredient action="accompagner"> pommes </ingredient> de terre roussies . <operation ingredients="endives"> faites </operation> la même recette avec des <ingredient action="faire"> endives </ingredient> . vous pouvez remplacer les <ingredient quantite="2"> steaks </ingredient> par de la <ingredient quantite="2"> viande </ingredient> hachée et la laisser <operation ingredients="légumes"> cuire </operation> avec les <ingredient action="cuire" quantite="3;1"> légumes </ingredient> .
+</preparation>
+</recette>

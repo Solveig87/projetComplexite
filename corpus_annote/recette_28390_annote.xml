@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28390">
+<titre>Douillons normands aux pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 pommes à cuire</p>
+<p>pâte feuilletée en rouleau</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>20 g de beurre</p>
+<p>Pour le sirop :</p>
+<p>150 g de sucre</p>
+<p>1 jus de citron</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> les <ingredient action="enlever" quantite="6"> pommes </ingredient> , <operation ingredients="pommes;coeur"> enlevez </operation> le <ingredient action="enlever"> coeur </ingredient> . péparez un <ingredient> sirop </ingredient> avec un peu d' eau , 150 g de <ingredient quantite="2 cuillère à soupe+150 gramme"> sucre </ingredient> , et le <ingredient quantite="1"> jus </ingredient> de citron . dès que le <ingredient action="mettre"> sirop </ingredient> bout <operation ingredients="sirop;pommes"> mettez </operation> les <ingredient action="mettre" quantite="6"> pommes </ingredient> . laissez <operation> cuire </operation> à feu doux jusqu' à ce que les <ingredient action="cuire" quantite="6;1"> fruits </ingredient> soient à moitié <operation ingredients="fruits"> cuits </operation> . laissez refroidir . <operation ingredients="carrés"> découper </operation> des <ingredient action="découper"> carrés </ingredient> de pâte pour pouvoir <operation ingredients="fruits"> envelopper </operation> les <ingredient action="envelopper" quantite="6;1"> fruits </ingredient> . <operation ingredients="pomme"> rassemblez </operation> les 4 pointes vers le sommet de la <ingredient action="rassembler" quantite="6"> pomme </ingredient> en <operation ingredients="pâte"> collant </operation> la <ingredient action="coller" quantite=""> pâte </ingredient> avec de l' eau . <operation ingredients="oeuf"> badigeonner </operation> à l' <ingredient action="badigeonner" quantite="1"> oeuf </ingredient> <operation> battu </operation> et <operation ingredients="pâte"> mettre </operation> au four th 6 jusqu' à ce que la <ingredient action="mettre" quantite=""> pâte </ingredient> soit dorée . <ingredient> cidre </ingredient>
+</preparation>
+</recette>

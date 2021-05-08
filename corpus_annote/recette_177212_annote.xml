@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="177212">
+<titre>Salade gourmande de queue de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 beaux morceaux de queue de bœuf bien charnus</p>
+<p>Pour le court-bouillon :</p>
+<p>1 carotte</p>
+<p>1 poireau</p>
+<p>1 branche de céleri</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail, thym, laurier, poivre en grains</p>
+<p>1 poignée de gros sel</p>
+<p>8 à 10 pommes de terre à chair ferme</p>
+<p>2 poignées de pousses d'épinard</p>
+<p>quelques cornichons</p>
+<p>1 oignon rouge</p>
+<p>Pour la vinaigrette : </p>
+<p>3 cuillères à soupe de vinaigre</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de moutarde à l'ancienne si on aime</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> le court-bouillon pour la cuisson de la queue de bœuf : <operation ingredients="légumes"> mettre </operation> dans une grande marmite les <ingredient action="mettre" quantite="1;1;1+1;8;quelque"> légumes </ingredient> <operation> épluchés </operation> , <operation ingredients="carotte;céleri;poireau;oignon"> coupés </operation> en gros tronçons pour la <ingredient action="couper" quantite="1"> carotte </ingredient> , le <ingredient action="couper"> céleri </ingredient> et le <ingredient action="couper" quantite="1"> poireau </ingredient> , en deux pour l' <ingredient action="couper" quantite="1+1"> oignon </ingredient> . <operation ingredients="ail;bouquet;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter"> bouquet </ingredient> <operation> garni </operation> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> et les morceaux de bœuf . <operation> recouvrir </operation> d' eau froide . <operation> mettre </operation> à <operation> cuire </operation> sur feu moyen . <operation> écumer </operation> si nécessaire . quand l' eau arrive à <operation> ébullition </operation> , baisser un peu le feu pour laisser bouillotter . laisser <operation> cuire </operation> 3 h. quand le bœuf est <operation> cuit </operation> , le laisser un peu refroidir ( dans le <ingredient> bouillon </ingredient> , c' est encore mieux si on n' est pas trop <operation> pressé </operation> ) , puis <operation ingredients="chair"> effilocher </operation> la <ingredient action="effilocher"> chair </ingredient> avec les doigts et la <operation> mettre </operation> de côté . c' est la seule opération un peu longue mais ça vaut la peine ! faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre à l' eau froide environ 20 minutes ( tester avec la pointe d' un <ingredient> couteau </ingredient> ) . les <operation> éplucher </operation> encore chaudes , les <operation> couper </operation> en rondelles un peu épaisses et les <operation> mettre </operation> dans un saladier . <operation> émietter </operation> dessus les morceaux de queue de bœuf , <operation ingredients="pousses;oignon"> ajouter </operation> les <ingredient action="ajouter"> pousses </ingredient> d' épinard et les trois quarts de l' <ingredient action="ajouter" quantite="1+1"> oignon </ingredient> rouge en fines lamelles . enfin , <operation ingredients="oignon"> préparer </operation> la vinaigrette en <operation> mélangeant </operation> tous les ingrédients ainsi que le reste de l' <ingredient action="préparer" quantite="1+1"> oignon </ingredient> grossièrement haché . <operation ingredients="salade"> ajouter </operation> à la <ingredient action="ajouter"> salade </ingredient> , bien <operation ingredients="salade"> mélanger </operation> et servir aussitôt car cette <ingredient action="mélanger"> salade </ingredient> est délicieuse tiède . la recette peut se <operation> préparer </operation> la veille sans problème . un rouge bien charpenté
+</preparation>
+</recette>

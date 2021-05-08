@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58824">
+<titre>Smoothie au concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 beaux concombres</p>
+<p>25 cl de fromage blanc 0%</p>
+<p>8 carrés frais 0%</p>
+<p>1 beau bouquet de feuilles de menthe fraîche</p>
+<p>1 cuillère à soupe de piment d'Espelette</p>
+<p>2 gousses d'ail</p>
+<p>sel</p>
+<p>12 à 18 queues de crevette rose épluchées</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> laver </operation> les <ingredient action="laver"> concombres </ingredient> et les <operation> peler </operation> . <operation ingredients="concombres"> couper </operation> les <ingredient action="couper"> concombres </ingredient> en petits morceaux . <operation> enlever </operation> la moitié des pépins du milieu , laisser l' autre moitié pour que le smoothie soit liquide . <operation ingredients="concombres"> mettre </operation> les <ingredient action="mettre"> concombres </ingredient> en morceaux dans un récipient . y <operation ingredients="fromage;carrés"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> fromage </ingredient> blanc , les <ingredient action="ajouter"> carrés </ingredient> frais , l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;menthe"> pressé </operation> , les feuilles de <ingredient action="presser"> menthe </ingredient> <operation> ciselées </operation> . <operation> mixer </operation> le tout de façon à obtenir une préparation liquide et homogène . <operation ingredients="sel"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> , le piment d' espelette ( ne pas hésiter à <operation> goûter </operation> pour adapter l' <ingredient quantite="2;"> assaisonnement </ingredient> ! ) pour la présentation : servez dans des verres , avec 2 ou 3 queues de <ingredient> crevette </ingredient> sur le dessus et une pincée de piment d' espelette .
+</preparation>
+</recette>

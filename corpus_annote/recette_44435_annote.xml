@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44435">
+<titre>Andouillettes à la crème et aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 andouillettes</p>
+<p>4 échalotes</p>
+<p>500 g de champignons de Paris</p>
+<p>sel, poivre</p>
+<p>1/4 bouteille de vin blanc</p>
+<p>1 gros pot de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes"> revenir </operation> les <ingredient action="revenir" quantite="4"> échalotes </ingredient> , <operation> coupées </operation> fines dans une <operation> poêle </operation> . puis <operation ingredients="champignons"> mettre </operation> les <ingredient action="mettre" quantite="500 gramme"> champignons </ingredient> de paris <operation> émincés </operation> . faire <operation> cuire </operation> , puis <operation ingredients="vin"> mettre </operation> un peu de <ingredient action="mettre"> vin </ingredient> blanc . a côté faire <operation ingredients="andouillettes"> cuire </operation> les <ingredient action="cuire" quantite="4"> andouillettes </ingredient> dans une <operation> poêle </operation> . <operation ingredients="échalotes"> mettre </operation> le mèlange <ingredient action="mettre" quantite="4"> échalotes </ingredient> et champignons dans une cocotte et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche , <operation> mélanger </operation> le tout sur feu très doux , puis <operation ingredients="andouillettes"> poser </operation> les <ingredient action="poser" quantite="4"> andouillettes </ingredient> sur le tout . servir chaud .
+</preparation>
+</recette>

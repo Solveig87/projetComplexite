@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51073">
+<titre>Forêt noire</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gâteau au chocolat</p>
+<p>125 g de crème fraîche épaisse (important) </p>
+<p>2 cuillères à soupe d'eau </p>
+<p>50 g de sucre glace</p>
+<p>1 grande boîte de cerises</p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteau"> coupez </operation> le <ingredient action="couper" quantite="1"> gâteau </ingredient> au chocolat en deux . <operation ingredients="chantilly"> préparez </operation> une <ingredient action="préparer"> chantilly </ingredient> : <operation ingredients="crème"> versez </operation> dans une <operation> coupe </operation> froide la <ingredient action="verser" quantite="125 gramme"> crème </ingredient> fraîche avec l' eau froide puis <operation ingredients="sucre;glace;sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> et le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> vanillé . <operation ingredients="mousseux"> battez </operation> au fouet en <operation> mélange </operation> <ingredient action="battre"> mousseux </ingredient> qui se tient . <operation ingredients="chantilly;gâteau"> versez </operation> la <ingredient action="verser"> chantilly </ingredient> sur la base du <ingredient action="verser" quantite="1"> gâteau </ingredient> puis <operation ingredients="cerises"> placez </operation> - y les <ingredient action="placer"> cerises </ingredient> et replacez la deuxieme partie du <ingredient quantite="1"> gâteau </ingredient> . <operation ingredients="gâteau"> etalez </operation> éventuellement un glaçage sur le <ingredient action="etaler" quantite="1"> gâteau </ingredient> .
+</preparation>
+</recette>

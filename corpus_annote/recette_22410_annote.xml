@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22410">
+<titre>Riz au thon et à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120 g de riz</p>
+<p>1 petite tomate</p>
+<p>20 cl de sauce tomate (1 petit pot) </p>
+<p>150 g de miettes de thon</p>
+<p>5 cl de vin rouge</p>
+<p>50 g de gruyère râpé</p>
+<p>basilic</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> découper </operation> la <ingredient action="découper" quantite="1"> tomate </ingredient> en petits morceaux et <operation> ôter </operation> les pépins . faire <operation ingredients="riz;tomate"> cuire </operation> le <ingredient action="cuire" quantite="120 gramme"> riz </ingredient> avec les morceaux de <ingredient action="cuire" quantite="1"> tomate </ingredient> à la vapeur ( dans le panier de la cocotte - minute ) . dans une <operation> poêle </operation> , <operation ingredients="thon"> délayer </operation> le <ingredient action="délayer"> thon </ingredient> et la sauce tomate à feu doux . <operation ingredients="riz;tomate"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> riz </ingredient> et les morceaux de <ingredient action="ajouter" quantite="1"> tomate </ingredient> dans la <operation> poêle </operation> . bien <operation> mélanger </operation> . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="5 cl"> vin </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite="50 gramme"> gruyère </ingredient> râpé ( selon le goût de chacun , c' est pour la cohésion du plat ) . bien <operation> mélanger </operation> pour <operation ingredients="gruyère"> répartir </operation> le <ingredient action="répartir" quantite="50 gramme"> gruyère </ingredient> . <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> et les herbes de provence . <operation> mélanger </operation> . laisser <operation> mijoter </operation> encore 1 mn . servir chaud . <operation ingredients="salade"> accompagner </operation> d' une <ingredient action="accompagner"> salade </ingredient> .
+</preparation>
+</recette>

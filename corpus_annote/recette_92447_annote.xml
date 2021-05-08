@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92447">
+<titre>Gâteau aux pommes de ma grand mère</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 cuillères à soupe farine</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>3 cuillères à soupe de lait</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1 oeuf</p>
+<p>sel</p>
+<p>2 pommes</p>
+<p>1/2 sachet de levure</p>
+<p>Pour la crème:</p>
+<p>50 g de beurre</p>
+<p>100 g de sucre</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre;levure;sel;lait;oeuf;huile"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> , le <ingredient action="mélanger" quantite="4 cuillère à soupe+100 gramme"> sucre </ingredient> , la <ingredient action="mélanger"> levure </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> puis le <ingredient action="mélanger" quantite="3 cuillère à soupe"> lait </ingredient> , l' <ingredient action="mélanger" quantite="1+1"> oeuf </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> . <operation ingredients="pommes"> couvrir </operation> de <ingredient action="couvrir" quantite="2"> pommes </ingredient> et <operation> mettre </operation> au four 25 min thermosta 4 . la creme : faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , <operation ingredients="sucre;oeuf"> ajouter </operation> le <ingredient action="ajouter" quantite="4 cuillère à soupe+100 gramme"> sucre </ingredient> et l' <ingredient action="ajouter" quantite="1+1"> oeuf </ingredient> . quand le gateau commence à <operation> dorer </operation> <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre"> crème </ingredient> et terminer la cuisson .
+</preparation>
+</recette>

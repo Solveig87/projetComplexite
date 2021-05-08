@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167750">
+<titre>Base pour glace</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-8 jaune d'oeuf</p>
+<p>-200 gr sucre</p>
+<p>-1 gousse de vanille</p>
+<p>-500 ml de créme liquide</p>
+<p>-500 ml de lait entier</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="lait;gousse"> chauffez </operation> le <ingredient action="chauffer"> lait </ingredient> , la créme et la <ingredient action="chauffer" quantite=""> gousse </ingredient> de vanille <operation> fondu </operation> en deux . laissez infusioner pendant 10 minutes . entre temps que tout <operation ingredients="oeuf;sucre"> chauffe </operation> <operation> blanchire </operation> les jaune d' <ingredient action="chauffe"> oeuf </ingredient> avec le <ingredient action="chauffe"> sucre </ingredient> . sortire la <ingredient quantite=""> gousse </ingredient> de vanille de la casserole et raquler les grains à l' interieure et les <operation ingredients="lait"> rajouter </operation> dans le <ingredient action="rajouter"> lait </ingredient> . garder la <ingredient quantite=""> gousse </ingredient> de vanille pour <operation ingredients="sucre"> faire </operation> du <ingredient action="faire"> sucre </ingredient> vanillé . ( <operation ingredients="gousse;sucre"> poser </operation> la <ingredient action="poser" quantite=""> gousse </ingredient> dans un récipient avec le <ingredient action="poser"> sucre </ingredient> et laissez pendant 2 jours et vous optenez un <ingredient> sucre </ingredient> vanillé parfait . ) <operation ingredients="lait;oeuf"> rajouter </operation> le <ingredient action="rajouter"> lait </ingredient> chaud sur le <operation> mélange </operation> d' <ingredient action="rajouter"> oeuf </ingredient> et sucre en fouéttant constament . <operation> transvaser </operation> de nouveau dans la casserole et faite chauffez a feux doux jusqu' a ce que le liquide devient cémeux . attention pas trop <operation> chauffé </operation> risque d' omlette . . ) <operation ingredients="sel"> poser </operation> la casserolle dans un bain marie <ingredient> glacé </ingredient> ( eau + glacon + <ingredient action="poser"> sel </ingredient> ) et refoidisez <operation> tourner </operation> dans un appareille à glace vous optenez une <ingredient> glace </ingredient> <ingredient> vanille </ingredient> parfaite a vous de <operation> rajouter </operation> les gouts désirer . ( coulis de frais , <ingredient> framboise </ingredient> , jus de citron , compote de pomme , cacao , etc . . . . . . ) que l' été viens et bon appetitpeux être parfumé avec tout goût désiré <ingredient> sauterne </ingredient>
+</preparation>
+</recette>

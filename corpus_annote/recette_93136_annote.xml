@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93136">
+<titre>Verrines de mousse de concombre, poivron et feta</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre- 1 poivron jaune- 1/2 bloc de fêta- 2 cuillères à soupe de crème liquide- 2 cuillères à soupe d'huile d'olive- 1 cuillère à soupe de vinaigre de vin- Basilic frais- Sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> epelucher </operation> le <ingredient action="epelucher"> concombre </ingredient> <operation> couper </operation> grossièrement en dés le <operation action="concombre" ingredients="concombre;poivron"> concombre </operation> , le <ingredient action="concombre"> poivron </ingredient> , et la fêta <operation ingredients="huile;basilic;sel;poivre"> mettre </operation> le tout dans un mixeur avec l' <ingredient action="mettre"> huile </ingredient> d' olive , le <ingredient action="mettre"> basilic </ingredient> , le <ingredient action="mettre"> sel </ingredient> et le <ingredient action="mettre" quantite=""> poivre </ingredient> . <operation> mixer </operation> <operation ingredients="crème;vinaigre"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraiche et le <ingredient action="ajouter"> vinaigre </ingredient> puis remixer . servir très frais dans des verrines .
+</preparation>
+</recette>

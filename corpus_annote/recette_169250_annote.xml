@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169250">
+<titre>Wok de légumes sauce aigre-douce</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la sauce aigre-douce :</p>
+<p>2 tomates</p>
+<p>10 cl de bouillon de légumes</p>
+<p>1 cuillère à café de sauce soja</p>
+<p>2 cuillères à coupe de sucre en poudre</p>
+<p>1 cuillère à soupe de vinaigre de vin</p>
+<p>1 cuillère à soupe de vinaigre de riz</p>
+<p>Pour les légumes :</p>
+<p>carotte</p>
+<p>poivron</p>
+<p>courgette</p>
+<p>oignon</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="2;10 cl;;;;"> légumes </ingredient> , puis les <operation> couper </operation> en dés ( pas trop petits ) . <operation> réserver </operation> . commencer la sauce : <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> et les <operation> détailler </operation> en petits dés . faire <operation ingredients="bouillon"> chauffer </operation> le <ingredient action="chauffer" quantite="10 cl"> bouillon </ingredient> de légumes dans une casserole . lorsque ça bout , <operation ingredients="tomates;soja;sucre;vinaigres"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> , la sauce <ingredient action="ajouter"> soja </ingredient> , le <ingredient action="ajouter"> sucre </ingredient> , les <ingredient action="ajouter" quantite="1 cuillère à soupe+1 cuillère à soupe"> vinaigres </ingredient> , bien <operation> mélanger </operation> . laisser <operation> cuire </operation> une dizaine de minutes en <operation> remuant </operation> régulièrement . <operation> eteindre </operation> le feu et <operation> mixer </operation> cette sauce pour rendre la sauce homogène . dans une <operation> poêle </operation> , <operation ingredients="huile"> mettre </operation> de l' <ingredient action="mettre"> huile </ingredient> d' olive à <operation> chauffer </operation> à feu vif , et y <operation ingredients="légumes"> jeter </operation> les <ingredient action="jeter" quantite="2;10 cl;;;;"> légumes </ingredient> <operation> coupés </operation> en dés . <operation> remuer </operation> régulièrement et <operation> ajouter </operation> un peu d' eau si nécessaire , pour éviter que les <ingredient quantite="2;10 cl;;;;"> légumes </ingredient> ne brulent trop . laisser 5 bonnes minutes . baisser ensuite le feu , et laisser <operation> cuire </operation> une dizaine minutes en surveillant . la cuisson des <ingredient quantite="2;10 cl;;;;"> légumes </ingredient> est propre à chacun , <ingredient> croquants </ingredient> ou fondants . une fois ces <ingredient quantite="2;10 cl;;;;"> légumes </ingredient> <operation> cuits </operation> , <operation> ajouter </operation> la sauce aigre douce , en <operation> remuant </operation> doucement . laisser quelques minutes sur le feu , c' est un plat qui se <ingredient> mange </ingredient> bien chaud . servez ! ces <ingredient action="accompagner" quantite="2;10 cl;;;;"> légumes </ingredient> sauce aigre douce <operation ingredients="légumes;nouilles"> accompagnent </operation> très bien des <ingredient action="accompagner"> nouilles </ingredient> chinoises .
+</preparation>
+</recette>

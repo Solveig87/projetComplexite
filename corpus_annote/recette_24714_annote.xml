@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24714">
+<titre>Tomates froides  farcies au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates de bon calibre</p>
+<p>2 boîtes de thon</p>
+<p>mayonnaise</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> egoutter </operation> le <ingredient action="saler"> thon </ingredient> , l' <operation> émietter </operation> et le <operation ingredients="mayonnaise"> mélanger </operation> à la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> , <operation ingredients="thon"> salez </operation> et <operation> poivrez </operation> . vous pouvez églement <operation ingredients="citron"> ajouter </operation> un peu de <ingredient action="ajouter"> citron </ingredient> si votre <ingredient quantite=""> mayonnaise </ingredient> n' en comporte pas . <operation ingredients="tomates"> décalotter </operation> les <ingredient action="décalotter" quantite="4"> tomates </ingredient> , les <operation> vider </operation> . <operation ingredients="tomates;thon"> remplir </operation> les <ingredient action="remplir" quantite="4"> tomates </ingredient> avec la " farce de <ingredient action="remplir"> thon </ingredient> " . <operation ingredients="tomates"> remettre </operation> le couvercle sur les <ingredient action="remettre" quantite="4"> tomates </ingredient> , <operation> mettre </operation> au régrigérateur pendant 2 heures environ .
+</preparation>
+</recette>

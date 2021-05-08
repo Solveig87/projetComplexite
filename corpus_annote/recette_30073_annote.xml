@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30073">
+<titre>Asperges et mayonnaise mousseuse</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,500 kg d'asperges</p>
+<p>1 jaune d'oeuf cru + 2 jaunes d'oeufs durs</p>
+<p>1 cuillère à café de jus de citron</p>
+<p>20 cl d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> cuire </operation> des <ingredient action="cuire"> oeufs </ingredient> durs . <operation ingredients="asperges"> peler </operation> et <operation> cuire </operation> les <ingredient action="peler" quantite="1,500 kilogramme"> asperges </ingredient> dans une grande casserole d' eau bouillante durant 2 . 25 minutes . <operation ingredients="oeufs"> passer </operation> les jaunes d' <ingredient action="passer"> oeufs </ingredient> durs au tamis fin . <operation ingredients="oeuf;jus"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> cru , puis le <ingredient action="ajouter" quantite="1 cuillère à café"> jus </ingredient> de citron et <operation> assaisonner </operation> . <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="20 cl"> huile </ingredient> au fur et à <operation> mesure </operation> en <operation ingredients="mayonnaise"> fouettant </operation> comme pour une <ingredient action="fouetter"> mayonnaise </ingredient> . <operation ingredients="sel;poivre;jus"> ajouter </operation> si besoin du <ingredient action="ajouter" quantite=""> sel </ingredient> , du <ingredient action="ajouter"> poivre </ingredient> ou du <ingredient action="ajouter" quantite="1 cuillère à café"> jus </ingredient> de citron . <operation ingredients="oeuf"> battre </operation> le blanc d' <ingredient action="battre"> oeuf </ingredient> en neige et l' <operation> incorporer </operation> délicatement . servir les <ingredient quantite="1,500 kilogramme"> asperges </ingredient> bien <operation> égouttées </operation> , avec la sauce à part .
+</preparation>
+</recette>

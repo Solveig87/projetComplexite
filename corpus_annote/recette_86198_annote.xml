@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86198">
+<titre>Sauté de dinde au bleu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 belle cuisse de dinde</p>
+<p>100 g de bleu d'auvergne</p>
+<p>20 cl de crème</p>
+<p>1 oignon emincé</p>
+<p>1 cuillère à soupe de maïzena</p>
+<p>huile  </p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="dinde"> désosser </operation> la cuisse de <ingredient action="désosser"> dinde </ingredient> et la <operation> couper </operation> en dés . faire <operation ingredients="oignon;viande;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> emincé et la <ingredient action="revenir"> viande </ingredient> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> . laisser <operation> colorer </operation> sans <operation> griller </operation> . <operation ingredients="maïzena"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> maïzena </ingredient> et <operation> ajouter </operation> 1 verre d' eau . faire <operation ingredients="crème;bleu"> chauffer </operation> la <ingredient action="chauffer" quantite="20 cl"> crème </ingredient> dans une casserole et la <operation> mélanger </operation> avec le <ingredient action="chauffer" quantite="100 gramme"> bleu </ingredient> <operation> émietté </operation> . <operation> poivrer </operation> la sauce et la <operation> verser </operation> dans la cocotte . laisser <operation> mijoter </operation> a feu très doux pendant 15 minutes . servir ce plat avec des <ingredient> pommes </ingredient> de terre et des <ingredient> carottes </ingredient> vapeur . <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27907">
+<titre>Gratin de sardines à l'huile d'olive</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de filets de sardine ou 6 boîtes de sardines à l'huile</p>
+<p>1/2 bouquet de persil</p>
+<p>3 gousses d'ail</p>
+<p>2 tranches de pain de mie</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="persil;ail;pain"> faire </operation> un hachis avec le <ingredient action="faire"> persil </ingredient> , l' <ingredient action="faire"> ail </ingredient> et le <ingredient action="faire" quantite="2 tranche"> pain </ingredient> de mie . dans un plat à gratin , alterner les couches de gratins et de hachis en salant et <operation> poivrant </operation> à chaque fois . terminer par une couche de hachis . <operation ingredients="huile"> arroser </operation> d' un filet d' <ingredient action="arroser" quantite="2 cuillère à soupe"> huile </ingredient> d' olive et <operation> enfourner </operation> à four chaud à 220 <operation> ° </operation> pendant 20 min .
+</preparation>
+</recette>

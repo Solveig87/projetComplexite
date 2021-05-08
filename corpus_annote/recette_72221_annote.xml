@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72221">
+<titre>Salade de roquette aux tomates confites et copeaux de parmesan</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 sachet de salade roquette</p>
+<p>1 bocal de tomates confites (attention pas tomates séchées) </p>
+<p>100 à 150 g de parmesan en copeaux</p>
+<p>olives noires</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="huile;vinaigre;sel"> préparer </operation> une vinaigrette avec de l' <ingredient action="préparer" quantite=""> huile </ingredient> d' olive et du <ingredient action="préparer" quantite=""> vinaigre </ingredient> balsamique , <ingredient action="préparer" quantite=""> sel </ingredient> et poivre . <operation ingredients="salade"> ajouter </operation> la <ingredient action="ajouter"> salade </ingredient> de roquette et <operation> mélanger </operation> . <operation ingredients="salade"> disposer </operation> la <ingredient action="disposer"> salade </ingredient> sur chaque assiette . <operation ingredients="tomates;confites"> couper </operation> les <ingredient action="couper"> tomates </ingredient> <ingredient action="couper"> confites </ingredient> en petits morceaux et les <operation ingredients="salade"> disposer </operation> sur le <ingredient action="disposer"> salade </ingredient> ( 7 à 8 par assiette , plus si vous en avez assez ) . <operation ingredients="parmesan"> parsemer </operation> de copeaux de <ingredient action="parsemer"> parmesan </ingredient> , <operation ingredients="olive"> décorer </operation> le centre d' une <ingredient action="décorer" quantite=""> olive </ingredient> noire . servir sans attendre . gardez le sachet de <ingredient> roquette </ingredient> au frais jusqu' à préparation ainsi que les <ingredient> tomates </ingredient> séchées et le <ingredient> parmesan </ingredient> : <operation> montez </operation> les assiettes au dernier moment .
+</preparation>
+</recette>

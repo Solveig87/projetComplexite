@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52977">
+<titre>Soupe de légumes au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 carottes</p>
+<p>4 pommes de terre</p>
+<p>1 blanc de poireau</p>
+<p>1 courgette</p>
+<p>4 ou 5 petit chèvre frais</p>
+<p>1 grand verre de lait (facultatif)</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="6;4"> légumes </ingredient> , puis les <operation> mettre </operation> dans une casserole <operation> recouverts </operation> d' eau . <operation ingredients="légumes"> laisser </operation> <operation> cuire </operation> environ 20 min , jusqu' à ce que les <ingredient action="laisser" quantite="6;4"> légumes </ingredient> soit tendres . <operation ingredients="légumes"> mixer </operation> les <ingredient action="mixer" quantite="6;4"> légumes </ingredient> avec l' eau de cuisson , <operation ingredients="chèvre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="4"> chèvre </ingredient> et le verre de <ingredient action="ajouter"> lait </ingredient> . servir chaud , avec des <ingredient> croûtons </ingredient> , une cuillère de <ingredient> crème </ingredient> épaisse ou du <ingredient> gruyère </ingredient> râpé . . .
+</preparation>
+</recette>

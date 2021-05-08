@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36777">
+<titre>Tourte de riz à l'émiliane</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 poignées de riz pour risotto</p>
+<p>300 g de ricotta</p>
+<p>2 courgettes râpées</p>
+<p>50 g de parmesan</p>
+<p>2 oeufs</p>
+<p>chapelure</p>
+<p>un peu d'huile</p>
+<p>sel</p>
+<p>lait froid</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> à l' eau jusqu' à mi-cuisson , soit environ 10 minutes . <operation> egoutter </operation> et <operation> incorporer </operation> tous les ingrédients , sauf la <ingredient quantite=""> chapelure </ingredient> . le <operation> mélange </operation> doit être très moelleux , au besoin <operation ingredients="lait"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> lait </ingredient> . <operation ingredients="chapelure"> parsemer </operation> de <ingredient action="parsemer" quantite=""> chapelure </ingredient> un <operation> moule </operation> à gratin beurré , y <operation> mettre </operation> le <operation> mélange </operation> et <operation ingredients="chapelure"> saupoudrer </operation> d' un peu de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> sur le dessus . <operation> cuire </operation> 20 min au four à 180 . 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte , c' est excellent pour un repas du soir .
+</preparation>
+</recette>

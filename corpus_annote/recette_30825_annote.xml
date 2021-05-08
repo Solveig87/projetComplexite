@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30825">
+<titre>Demi-avocats au fromage blanc pimenté</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 avocats</p>
+<p>1 citron (jus + zeste)</p>
+<p>100 g de fromage blanc</p>
+<p>1 échalote</p>
+<p>1 cuillère à soupe de ciboulette hachée</p>
+<p>sel</p>
+<p>1 pincée de harissa ou de piment en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> fendez </operation> les <ingredient action="fendre" quantite="3"> avocats </ingredient> en deux , <operation> retirez </operation> les noyaux . <operation ingredients="chair"> passez </operation> un demi-citron sur la <ingredient action="passer"> chair </ingredient> des avocats pour ne pas qu' elle <operation> noircisse </operation> . <operation ingredients="jus;fromage"> versez </operation> l' autre moitié du <ingredient action="verser"> jus </ingredient> dans le <ingredient action="verser" quantite="100 gramme"> fromage </ingredient> blanc , <operation ingredients="sel"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de piment . <operation ingredients="échalote;ciboulette"> ajoutez </operation> ensuite l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> ciboulette </ingredient> finement <operation> hachées </operation> . <operation ingredients="fromage;avocats"> déposez </operation> une volute de <ingredient action="déposer" quantite="100 gramme"> fromage </ingredient> blanc au piment au creux des <ingredient action="déposer" quantite="3"> avocats </ingredient> . <operation ingredients="citron;ciboulette;tomate"> décorez </operation> de zeste de <ingredient action="décorer" quantite="1"> citron </ingredient> , de <ingredient action="décorer" quantite="1 cuillère à soupe"> ciboulette </ingredient> , et éventuellement d' une rondelle de <ingredient action="décorer"> tomate </ingredient> .
+</preparation>
+</recette>

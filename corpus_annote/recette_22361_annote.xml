@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22361">
+<titre>Magret de canard épicé à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 magret de canard</p>
+<p>jus d'une orange</p>
+<p>1 cuillère à café de miel</p>
+<p>1 brique de lait de coco</p>
+<p>Pour la marinade :</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à café de gingembre</p>
+<p>1 cuillère à soupe de sauce au soja</p>
+<p>harissa</p>
+</ingredients>
+<preparation>
+préparation de la marinade : <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre"> viande </ingredient> à <operation> mariner </operation> quelques heures et <operation> retourner </operation> de temps en temps . cuisson : dans une <operation> poêle </operation> très chaude , côté gras faire <operation> cuire </operation> 2 à 3 mn , puis <operation> retourner </operation> et laisser <operation> cuire </operation> à feu moins fort 5 mn environ . <operation ingredients="magret"> mettre </operation> le <ingredient action="mettre" quantite="1"> magret </ingredient> sur une assiette et <operation ingredients="graisse"> retirer </operation> l' excès de <ingredient action="retirer"> graisse </ingredient> . <operation ingredients="jus;miel;lait"> mettre </operation> la marinade dans la <operation> poêle </operation> , ainsi que le <ingredient action="mettre" quantite=""> jus </ingredient> d' orange , le <ingredient action="mettre" quantite="1 cuillère à café"> miel </ingredient> et éventuellement le <ingredient action="mettre"> lait </ingredient> de coco . faire <operation> mijoter </operation> 5 mn à feu doux . <operation ingredients="magret"> couper </operation> le <ingredient action="couper" quantite="1"> magret </ingredient> en tranches et <operation> remettre </operation> dans la <operation> poêle </operation> . servir simplement avec du <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

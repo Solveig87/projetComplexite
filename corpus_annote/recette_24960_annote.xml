@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24960">
+<titre>Lotte crémeuse aux poireaux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de lotte coupée en morceaux</p>
+<p>75 cl d'eau</p>
+<p>75 cl de vin blanc</p>
+<p>3 oignons piqués d'1 clou de girofle</p>
+<p>1 bouquet garni</p>
+<p>8 poireaux</p>
+<p>15 cl de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="vin;oignons;bouquet;sel;poivre"> préparer </operation> le court-bouillon en faisant <operation> bouillir </operation> pendant 20 minutes le <ingredient action="préparer" quantite="75 cl"> vin </ingredient> et l' eau avec les <ingredient action="préparer" quantite="3"> oignons </ingredient> , le <ingredient action="préparer" quantite="1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="préparer" quantite=""> sel </ingredient> et du <ingredient action="préparer"> poivre </ingredient> . <operation> emincer </operation> les <ingredient quantite="8"> poireaux </ingredient> . <operation ingredients="lotte;bouillon"> plonger </operation> les morceaux de <ingredient action="plonger" quantite="1,2 kilogramme"> lotte </ingredient> dans le <ingredient action="plonger"> bouillon </ingredient> chaud pendant 15 minutes en <operation ingredients="poireaux"> ajoutant </operation> les <ingredient action="ajouter" quantite="8"> poireaux </ingredient> pour les 5 dernières minutes de cuisson . <operation> egoutter </operation> et <operation> réserver </operation> au chaud pendant la préparation de la sauce . <operation ingredients="bouillon"> passer </operation> le <ingredient action="passer"> bouillon </ingredient> à la passoire pour le <operation> débarasser </operation> de sa garniture et le faire <operation> réduire </operation> sur feu vif . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="15 cl"> crème </ingredient> puis en <operation> napper </operation> le plat .
+</preparation>
+</recette>

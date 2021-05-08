@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80110">
+<titre>Gâteau aux boudoirs de mémé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 boudoirs</p>
+<p>rhum</p>
+<p>eau</p>
+<p>Pour la crème pâtissière:</p>
+<p>50 cl de lait </p>
+<p>2 oeufs </p>
+<p>60 g de farine </p>
+<p>80 g de sucre</p>
+</ingredients>
+<preparation>
+tout d' abord , <operation ingredients="crème"> préparer </operation> la <ingredient action="préparer"> crème </ingredient> patissière . faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> avec le parfum <operation> choisi </operation> ( vanille ou autre ) . <operation ingredients="oeufs;sucre"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> et le <ingredient action="battre" quantite="80 gramme"> sucre </ingredient> ; <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="60 gramme"> farine </ingredient> . <operation ingredients="lait"> verser </operation> dessus le <ingredient action="verser" quantite="50 cl"> lait </ingredient> chaud . <operation> remettre </operation> à feu doux pour faire <operation> épaissir </operation> en <operation> remuant </operation> très soigneusement pendant 5 à 10 min . pour les <ingredient quantite="30"> boudoirs </ingredient> , <operation ingredients="rhum"> mettre </operation> dans une tasse 1 / 4 de <ingredient action="mettre" quantite=""> rhum </ingredient> et le reste d' eau ( vous pouvez <operation ingredients="rhum"> mettre </operation> plus de <ingredient action="mettre" quantite=""> rhum </ingredient> bien sûr , selon les goûts ) . <operation> remuer </operation> . sur un plat assez large , étaler les <ingredient quantite="30"> boudoirs </ingredient> ( une rangée de 10 par exemple ) puis les <operation> imbiber </operation> du <operation> mélange </operation> <ingredient quantite=""> rhum </ingredient> / eau . <operation ingredients="crème"> mettre </operation> une couche de <ingredient action="mettre"> crème </ingredient> patissière puis <operation ingredients="boudoirs"> remettre </operation> une couche de 10 <ingredient action="remettre" quantite="30"> boudoirs </ingredient> , les <operation> imbiber </operation> , une couche de <ingredient> crème </ingredient> pâtissière et ainsi de suite . a la fin , faire <operation ingredients="chocolat"> fondre </operation> du <ingredient action="fondre"> chocolat </ingredient> pâtissier et <operation> verser </operation> dessus . <operation> mettre </operation> au frigo 2 h.
+</preparation>
+</recette>

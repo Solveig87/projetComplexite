@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54932">
+<titre>Tarte montagnarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>7 pommes de terre</p>
+<p>6 tranches de reblochon</p>
+<p>1 paquet de lardons </p>
+<p>2 grosses cuillères à soupe de crème</p>
+<p>3 gros oeufs</p>
+<p>une cuillère à soupe de farine</p>
+<p>1/2 cuillère à café de gingembre</p>
+<p>1/2 cuillère à café de curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="7"> pommes </ingredient> de terre 20 minutes . pendant ce temps , faire <operation ingredients="lardons"> cuire </operation> les <ingredient action="cuire"> lardons </ingredient> et <operation ingredients="fromage"> couper </operation> en 2 les tranches de <ingredient action="couper"> fromage </ingredient> . quand les <ingredient action="cuire" quantite="7"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , les <operation> peler </operation> et les <operation> couper </operation> en rondelles pas trop fines , les étaler sur le fond de la <ingredient quantite="1"> pâte </ingredient> feuilletée . <operation ingredients="lardons"> ajouter </operation> par dessus les <ingredient action="ajouter"> lardons </ingredient> puis <operation ingredients="oeufs"> verser </operation> les <ingredient action="verser" quantite="3"> oeufs </ingredient> <operation> battus </operation> que vous avez préalablement <operation ingredients="épices"> fouetté </operation> avec les <ingredient action="fouetter" quantite=";"> épices </ingredient> , la <ingredient quantite="1 cuillère à soupe"> farine </ingredient> et la <ingredient> crème </ingredient> sur les <ingredient> lardons </ingredient> et les <ingredient quantite="7"> pommes </ingredient> de terre puis pour finir <operation ingredients="tarte;fromage"> disposer </operation> équitablement sur la surface de la <ingredient action="disposer"> tarte </ingredient> les tranches de <ingredient action="disposer"> fromage </ingredient> . a servir chaud <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

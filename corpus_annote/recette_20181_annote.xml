@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20181">
+<titre>Gâteau allégé à la vanille</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>130 g de sucre</p>
+<p>3 oeufs</p>
+<p>25 cl de crème fraîche liquide ou semi épaisse allégée</p>
+<p>un pot de yaourt à la vanille </p>
+<p>un paquet de levure (ne pas l'oublier, sinon, c'est inmangeable !)</p>
+<p>2 cuillères à soupe de vanille liquide</p>
+<p>2 sachets de sucre vanillé</p>
+<p>1 cuillère à café de vanille moulue</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les 3 <ingredient action="battre" quantite="3"> oeufs </ingredient> entiers . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="130 gramme"> sucre </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="farine;crème"> ajouter </operation> ensuite la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> , la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche , la vanille liquide et moulue , le <ingredient quantite="130 gramme"> sucre </ingredient> vanillé , le <ingredient quantite="1 pot"> yaourt </ingredient> et la <ingredient> levure </ingredient> . <operation> verser </operation> la préparation dans un <operation> moule </operation> beurré et <operation> enfourner </operation> dans un four préchauffé à 180 <operation> ° </operation> c. <operation> cuire </operation> environ 35 mn , surveiller .
+</preparation>
+</recette>

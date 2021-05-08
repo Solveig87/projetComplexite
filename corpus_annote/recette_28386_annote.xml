@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28386">
+<titre>Riz pilaf au poulet et petits pois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>375 g de riz</p>
+<p>1 poulet cuit</p>
+<p>75 cl de bouillon</p>
+<p>2 oignons</p>
+<p>350 g de petits pois frais ou surgelés</p>
+<p>1 pincée de safran</p>
+<p>3 cuillères à soupe de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> désossez </operation> et <operation ingredients="chair"> découpez </operation> la <ingredient action="découper"> chair </ingredient> du poulet en petits morceaux . <operation ingredients="oignons"> emincez </operation> les <ingredient action="emincez" quantite="2"> oignons </ingredient> . faites <operation> chauffer </operation> 2 cuillères à soupe de beurre dans une cocotte , faites - y <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="2"> oignons </ingredient> . <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter" quantite="375 gramme"> riz </ingredient> et laissez - le devenir transparent et légèrement brun en <operation> remuant </operation> pendant 2 minutes . <operation ingredients="chair;bouillon"> rajoutez </operation> alors la <ingredient action="rajouter"> chair </ingredient> de poulet et le <ingredient action="rajouter" quantite="75 cl"> bouillon </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="safran"> saupoudrez </operation> le <ingredient action="saupoudrer" quantite="1 pincée"> safran </ingredient> . <operation> remuez </operation> et <operation> portez </operation> à <operation> ébullition </operation> , puis baissez le feu , <operation> couvrez </operation> et laissez <operation> cuire </operation> 10 min à feu doux . <operation ingredients="pois;beurre"> rajoutez </operation> les petits <ingredient action="rajouter" quantite="350 gramme"> pois </ingredient> dans la cocotte et le reste de <ingredient action="rajouter" quantite="3 cuillère à soupe"> beurre </ingredient> . <operation> mélangez </operation> , <operation> couvrez </operation> et laissez <operation> mijoter </operation> 10 min à feu doux jusqu' à ce que le <ingredient quantite="375 gramme"> riz </ingredient> ait absorbé le <ingredient quantite="75 cl"> bouillon </ingredient> et que les petits <ingredient action="cuire" quantite="350 gramme"> pois </ingredient> soient <operation ingredients="pois"> cuits </operation> . servez bien chaud .
+</preparation>
+</recette>

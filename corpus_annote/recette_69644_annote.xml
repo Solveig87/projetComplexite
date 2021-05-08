@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69644">
+<titre>Crevettes piquantes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de crevettes décortiquées</p>
+<p>1 cuillère à soupe de gingembre frais râpé</p>
+<p>1.5 cuillère à soupe d'ail écrasé </p>
+<p>1 poireau coupé en rondelles</p>
+<p>Pour la sauce:</p>
+<p>2 cuillères à soupe de Ketchup</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>1 bouillon de poisson ou poulet</p>
+<p>9 cl d'eau pour dissoudre le bouillon</p>
+<p>pâte de piment (nécessaire, mais je vous laisse mettre la quantité selon votre goût)</p>
+<p>huile de tournesol</p>
+<p>1 cuillère à soupe de maïzena ou d'amidon en poudre pour mélanger avec les crevettes</p>
+</ingredients>
+<preparation>
+dans une friteuse , faire <operation ingredients="crevettes"> frire </operation> les <ingredient action="frire" quantite="500 gramme"> crevettes </ingredient> préalablement <operation ingredients="maïzena"> mélangées </operation> avec l' amidon ou <ingredient action="mélanger" quantite="1 cuillère à soupe"> maïzena </ingredient> pendant quelques secondes . <operation> mettre </operation> de côté . <operation ingredients="huile"> mettre </operation> quelques gouttes d' <ingredient action="mettre" quantite=""> huile </ingredient> dans une <operation> poêle </operation> et faire <operation ingredients="légumes;poireau"> revenir </operation> les <ingredient action="revenir" quantite="1"> légumes </ingredient> ( gingembre , ail et enfin <ingredient action="revenir"> poireau </ingredient> ) pendant quelques minutes . <operation ingredients="bouillon;sucre;ketchup"> mélanger </operation> l' eau , le <ingredient action="mélanger" quantite="1"> bouillon </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sucre </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> ketchup </ingredient> et le piment puis <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="1"> légumes </ingredient> . laisser <operation> mijoter </operation> le tout quelques minutes puis <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> crevettes </ingredient> . laisser <operation ingredients="crevettes"> cuire </operation> <ingredient action="cuire" quantite="500 gramme"> crevettes </ingredient> et sauce pendant 1 minute . si la sauce est trop liquide <operation> ajouter </operation> un peu d' amidon <operation> dilué </operation> avec un peu d' eau . servir chaud avec du <ingredient> riz </ingredient> . rosé
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54420">
+<titre>Tarte aux pommes à la réglisse</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée (ou brisée)</p>
+<p>5 pommes canada grises</p>
+<p>10 g de réglisse (bonbon)</p>
+<p>20 cl crème fraîche</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+<p>2 oeufs</p>
+<p>15 cl d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="réglisse"> fondre </operation> les morceaux de <ingredient action="fondre" quantite="10 gramme"> réglisse </ingredient> dans l' eau très chaude ( c' est long à <operation> fondre </operation> ) . <operation ingredients="pâte"> garnir </operation> un plat à tarte de 30 cm de diamètre avec la <ingredient action="garnir" quantite="1"> pâte </ingredient> . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="5"> pommes </ingredient> en lamelles et les agencer joliment sur la <ingredient quantite="1"> pâte </ingredient> . dans un petit saladier ou un bol , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette , <operation ingredients="sucre;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> en <operation> poudre </operation> puis la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . bien <operation> fouetter </operation> le tout . <operation ingredients="réglisse"> ajouter </operation> alors la <ingredient action="ajouter" quantite="10 gramme"> réglisse </ingredient> <operation ingredients="crème"> fondue </operation> à cette <ingredient action="fondre" quantite="20 cl"> crème </ingredient> . <operation ingredients="pommes"> verser </operation> cette préparation sur les <ingredient action="verser" quantite="5"> pommes </ingredient> . faire <operation> cuire </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 30 min . j' utilise de la <ingredient quantite="10 gramme"> réglisse </ingredient> en morceaux ( type zan ) . il existe de la <ingredient quantite="10 gramme"> réglisse </ingredient> en <operation> poudre </operation> et ce doit être plus facile à <operation> manipuler </operation> . dans ce cas il n' est pas nécessaire de la <operation> diluer </operation> dans de l' eau . je pense que la proportion peut rester identique .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16478">
+<titre>Fondue creusoise (version rapide)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>camemberts durs</p>
+<p>farine</p>
+<p>lait</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+il s' agit de ne pas <operation ingredients="fromage"> jeter </operation> les vieux morceaux de <ingredient action="jeter"> fromage </ingredient> mais de les faire <operation ingredients="lait"> fondre </operation> dans un fond de <ingredient action="fondre" quantite=""> lait </ingredient> , à la casserole , et de <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> ( plus ou moins liquide , suivant la quantité de <ingredient quantite=""> lait </ingredient> et le goût de chacun ) , sur les <ingredient> patates </ingredient> <operation> cuites </operation> . ma grand mère <operation ingredients="farine"> ajoutait </operation> de la <ingredient action="ajouter" quantite=""> farine </ingredient> pour <operation> épaissir </operation> la fondue . essayez , c' est très bon . a paris ( ou à limoges ) , chez les gents biens , on peut la <operation ingredients="fromages;non"> faire </operation> avec des <ingredient action="faire"> fromages </ingredient> <ingredient action="faire"> non </ingredient> vieux et plus cher , ce n' est pas moins bon mais c' est plus creusois . la fondue creusoise existe grace au soucis permanent d' économie des paysans de cette région où la terre est difficile et où rien ne se perd .
+</preparation>
+</recette>

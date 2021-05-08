@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25727">
+<titre>Boeuf braisé aux échalotes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de boeuf (rôti)</p>
+<p>500 g d'échalotes</p>
+<p>50 g de beurre</p>
+<p>25 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="viande;beurre"> revenir </operation> la <ingredient action="revenir" quantite="1,2 kilogramme"> viande </ingredient> sur toutes les faces dans la moitié du <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> chaud jusqu' à ce qu' elle soit dorée . <operation ingredients="viande"> retirez </operation> la <ingredient action="retirer" quantite="1,2 kilogramme"> viande </ingredient> de la cocotte et <operation ingredients="beurre"> jetez </operation> le <ingredient action="jeter" quantite="50 gramme"> beurre </ingredient> de cuisson . <operation> epluchez </operation> les <ingredient quantite="500 gramme"> échalotes </ingredient> et <operation> réduisez </operation> - les en purée au robot . <operation ingredients="beurre"> remettez </operation> du <ingredient action="remettre" quantite="50 gramme"> beurre </ingredient> dans la cocotte et faites <operation ingredients="échalote"> revenir </operation> l' <ingredient action="revenir" quantite="500 gramme"> échalote </ingredient> jusqu' à ce qu' elle soit bien colorée . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="25 cl"> vin </ingredient> blanc et <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre" quantite="1,2 kilogramme"> viande </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . <operation> mélangez </operation> le tout . <operation ingredients="viande"> couvrez </operation> hermétiquement et laissez <operation> mijoter </operation> pendant 3 bonnes heures selon l' épaisseur de la <ingredient action="couvrir" quantite="1,2 kilogramme"> viande </ingredient> . <operation ingredients="viande"> retourner </operation> la <ingredient action="retourner" quantite="1,2 kilogramme"> viande </ingredient> de temps en temps . vérifiez la cuisson de la <ingredient quantite="1,2 kilogramme"> viande </ingredient> et servez .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26420">
+<titre>Carottes au vin doux et à la coriandre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de jeunes carottes</p>
+<p>50 cl de vin blanc doux</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>20 cl d'eau</p>
+<p>3 pincées de coriandre en grains</p>
+<p>1 bouquet garni</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> gratter </operation> et <operation ingredients="carottes"> peler </operation> les <ingredient action="peler" quantite="1 kilogramme"> carottes </ingredient> , les <operation> couper </operation> en rondelles . les <operation ingredients="vin"> mettre </operation> dans une cocotte avec le <ingredient action="mettre" quantite="50 cl"> vin </ingredient> blanc <operation ingredients="huile"> mélangé </operation> à l' eau et l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="bouquet;coriandre"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et la <ingredient action="ajouter" quantite="3 pincée"> coriandre </ingredient> . faire <operation> cuire </operation> 20 à 30 min . sortir les <ingredient quantite="1 kilogramme"> carottes </ingredient> de la cocotte à l' aide d' une écumoire . faire <operation ingredients="jus"> réduire </operation> le <ingredient action="réduire"> jus </ingredient> de cuisson quelques minutes à feu vif et le <operation> filtrer </operation> . <operation ingredients="jus;carottes"> verser </operation> le <ingredient action="verser"> jus </ingredient> réduit sur les <ingredient action="verser" quantite="1 kilogramme"> carottes </ingredient> , <operation> réserver </operation> au frais jusqu' au moment de servir .
+</preparation>
+</recette>

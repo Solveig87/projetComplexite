@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72785">
+<titre>Salade de vincent</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade</p>
+<p>1 blanc de poulet</p>
+<p>1 avocat</p>
+<p>50 g de farfalles (pour une personne)</p>
+<p>2 tranches de pain grillés</p>
+<p>25 g de beurre</p>
+<p>1 cuillère à soupe d'épices créoles (colombo)</p>
+<p>50 g de graines de sésame</p>
+<p>Pour la sauce:</p>
+<p>1 cuillère à soupe de vinaigre balsamique</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="farfalles"> cuire </operation> les <ingredient action="cuire" quantite="50 gramme"> farfalles </ingredient> comme indiqué sur le paquet . <operation ingredients="poulet"> couper </operation> les blancs de <ingredient action="couper"> poulet </ingredient> en morceaux et les faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . <operation> saler </operation> et <operation> poivrer </operation> . <operation> réserver </operation> . <operation ingredients="pain"> couper </operation> les tranches de <ingredient action="couper" quantite="2 tranche"> pain </ingredient> <operation> grillées </operation> en petits morceaux et les faire <operation ingredients="beurre"> revenir </operation> à la <operation> poêle </operation> dans un bon morceau de <ingredient action="revenir" quantite="25 gramme"> beurre </ingredient> . <operation ingredients="farfalles;poulet;pain"> mélanger </operation> les <ingredient action="mélanger" quantite="50 gramme"> farfalles </ingredient> , le <ingredient action="mélanger"> poulet </ingredient> , les morceaux de <ingredient action="mélanger" quantite="2 tranche"> pain </ingredient> <operation> grillés </operation> dans un saladier . y <operation> ajouter </operation> deux cuillères de colombo et laisser refroidir un peu . <operation ingredients="avocat;salade;sésame"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> avocat </ingredient> <operation> coupé </operation> en morceaux , la <ingredient action="ajouter" quantite="1"> salade </ingredient> et des graines de <ingredient action="ajouter"> sésame </ingredient> . <operation ingredients="vinaigre;huile"> préparer </operation> la sauce au <ingredient action="préparer" quantite="1 cuillère à soupe"> vinaigre </ingredient> balsamique et <ingredient action="préparer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . servir !
+</preparation>
+</recette>

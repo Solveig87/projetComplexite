@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224468">
+<titre>Kneples farcies (pâtes farcies)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>850 g de farine</p>
+<p>4 œufs</p>
+<p>30 cl de lait</p>
+<p>1 cuillère à café de sel</p>
+<p>Pour la farce :</p>
+<p>2 oignons émincés</p>
+<p>250 g de lardons fumés</p>
+<p>4 tranches de pain coupées en cubes</p>
+<p>1 grand bouquet de persil</p>
+<p>1,5 kg de pommes de terres en robe des champs pressées </p>
+<p>4 œufs battus</p>
+<p>20 cl de crème</p>
+<p>sel </p>
+<p>poivre</p>
+<p>Pour la sauce :</p>
+<p>10 cl de crème par personne</p>
+<p>quelques croûtons de pains</p>
+<p>Éventuellement 25 g de lardons par personne</p>
+<p>1 cube de bouillon</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la farce : faire <operation ingredients="oignons;lardons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir"> lardons </ingredient> ; <operation ingredients="pains;persil;pommes;œufs;crème"> ajouter </operation> les cubes de <ingredient action="ajouter" quantite="4 tranche"> pains </ingredient> , le <ingredient action="ajouter"> persil </ingredient> , les <ingredient action="ajouter" quantite="1,5 kilogramme"> pommes </ingredient> de terre <operation> pressées </operation> , les <ingredient action="ajouter" quantite="4+4"> œufs </ingredient> <operation> battus </operation> et la <ingredient action="ajouter" quantite="20 cl+10 cl"> crème </ingredient> . <operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> : <operation> mélanger </operation> tous les ingrédients et bien <operation> pétrir </operation> . étaler la <ingredient> pâte </ingredient> par petite portion en rectangle . <operation ingredients="pâte"> disposer </operation> des petits tas de farce à espace régulier sur la moitié de la surface de la <ingredient action="disposer"> pâte </ingredient> , <operation> mouiller </operation> au pinceau autour de la farce , <operation ingredients="pâte"> replier </operation> la <ingredient action="replier"> pâte </ingredient> sur les petits tas et <operation> appuyer </operation> légèrement autour des petits tas de farce . <operation ingredients="ronds"> découper </operation> avec un verre des <ingredient action="découper"> ronds </ingredient> (= les kneples ) . continuer jusqu’ à ne plus avoir de <ingredient> pâte </ingredient> . <operation ingredients="bouillon"> préparer </operation> un grand bain d’ eau <operation> salée </operation> avec du <ingredient action="préparer"> bouillon </ingredient> déshydraté . faire <operation> cuire </operation> les kneples 15 à 20 min dans le bain d’ eau bouillanteégoutter les kneples et les <operation> mettre </operation> dans un plat . <operation ingredients="crème"> préparer </operation> la sauce à la <ingredient action="préparer" quantite="20 cl+10 cl"> crème </ingredient> et servir !
+</preparation>
+</recette>

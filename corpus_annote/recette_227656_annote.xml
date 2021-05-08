@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227656">
+<titre>Sandwichs mexicains</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tortillas de blé (ou de mais selon votre goût)</p>
+<p>1 fromage frais (genre St Moret)</p>
+<p>8 tranches de jambon blanc</p>
+<p>8 cuillères à soupe de guacamole</p>
+<p>1 concombre</p>
+<p>3 carottes</p>
+<p>8 feuilles de salade</p>
+</ingredients>
+<preparation>
+<operation ingredients="tortillas"> disposer </operation> la <ingredient action="disposer" quantite="8"> tortillas </ingredient> dans une assiette , la <operation> tartiner </operation> de guacamole . <operation ingredients="jambon"> poser </operation> une tranche de <ingredient action="poser" quantite="8 tranche"> jambon </ingredient> . <operation ingredients="jambon"> tartiner </operation> le <ingredient action="tartiner" quantite="8 tranche"> jambon </ingredient> de fromage frais . <operation ingredients="salade"> poser </operation> quelques feuilles et <ingredient action="poser" quantite="8 feuille"> salade </ingredient> . <operation ingredients="carottes;concombre"> couper </operation> les <ingredient action="couper" quantite="3"> carottes </ingredient> et le <ingredient action="couper" quantite="1"> concombre </ingredient> en lamelles . <operation ingredients="concombre;carottes"> mettre </operation> des lamelles de <ingredient action="mettre" quantite="1"> concombre </ingredient> et de <ingredient action="mettre" quantite="3"> carottes </ingredient> sur la préparation . <operation ingredients="tortillas"> rabattre </operation> les 2 côtés de la <ingredient action="rabattre" quantite="8"> tortillas </ingredient> . <operation ingredients="tortillas"> couper </operation> la <ingredient action="couper" quantite="8"> tortillas </ingredient> en 2 . selon votre goût vous pouvez remplacer les <ingredient quantite="3"> carottes </ingredient> par des <ingredient> tomates </ingredient> . rosé
+</preparation>
+</recette>

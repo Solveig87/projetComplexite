@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22993">
+<titre>Emincé de Poulet Thaï</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de blanc de poulet</p>
+<p>6 échalotes</p>
+<p>5 citrons verts</p>
+<p>100 g de noix de cajou</p>
+<p>30 g de gingembre frais</p>
+<p>1 piment frais</p>
+<p>4 cuillères à soupe de nuoc-mam (ou sauce soja, à défaut)</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>quelques feuilles de menthe</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> sans le faire <operation> griller </operation> . <operation ingredients="noix;échalotes;gingembre"> hacher </operation> les <ingredient action="hacher" quantite="100 gramme"> noix </ingredient> de cajou , les <ingredient action="hacher" quantite="6"> échalotes </ingredient> , et le <ingredient action="hacher"> gingembre </ingredient> . <operation> couper </operation> le piment en fines rondelles . <operation ingredients="poulet;soja"> hacher </operation> le <ingredient action="hacher"> poulet </ingredient> <operation> cuit </operation> et <operation> ajouter </operation> le nuoc - mam ( ou la sauce <ingredient action="hacher"> soja </ingredient> ) , les <ingredient action="recuire"> jus </ingredient> des citrons , les <ingredient action="recuire" quantite="6"> échalotes </ingredient> , les <ingredient action="recuire" quantite="100 gramme"> noix </ingredient> de cajou , le piment et le <ingredient action="recuire"> gingembre </ingredient> ( hors du feu , ne pas faire <operation ingredients="jus;échalotes;noix;gingembre"> recuire </operation> ) . <operation ingredients="menthe"> parsemer </operation> de <ingredient action="parsemer" quantite="quelque feuille"> menthe </ingredient> <operation> ciselée </operation> . servir tiède ou froid . <operation ingredients="riz"> accompagner </operation> d' un peu de <ingredient action="accompagner"> riz </ingredient> basmati .
+</preparation>
+</recette>

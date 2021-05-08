@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95706">
+<titre>Panccotta au chocolat et lait de soja</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500ml de lait de soja</p>
+<p>2 cc de chocolat non sucré en poudre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>2 cc de miel</p>
+<p>2 pincées de cannelle en poudre</p>
+<p>1 pincée de gingembre en poudre</p>
+<p>1 sachet de gélatine en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;sucre;miel"> mettre </operation> le <ingredient action="mettre" quantite="500ml"> lait </ingredient> de soja dans une casserole , <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter"> chocolat </ingredient> , le <ingredient action="mettre"> sucre </ingredient> vanillé , le <ingredient action="mettre"> miel </ingredient> , la <ingredient quantite="2 pincée"> cannelle </ingredient> en <operation> poudre </operation> et le <ingredient quantite="1 pincée"> gingembre </ingredient> en <operation> poudre </operation> puis faire <operation> chauffé </operation> en <operation> remuant </operation> pendant 5 minutes . pendant ce temps <operation ingredients="gélatine"> mettre </operation> la <ingredient action="mettre"> gélatine </ingredient> dans 2 cs d’ eau et l’ <operation ingredients="lait"> ajouter </operation> au <ingredient action="ajouter" quantite="500ml"> lait </ingredient> chocolaté quand il est chaud hors du feu , puis <operation> mélanger </operation> de nouveau . <operation> remplir </operation> des verrines avec ce <operation> mélange </operation> et <operation> mettre </operation> au frais pendant au moins 4 heures . <ingredient> cidre </ingredient>
+</preparation>
+</recette>

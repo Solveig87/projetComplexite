@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57602">
+<titre>Poulet gratiné à la bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>1 oignon</p>
+<p>1 échalote</p>
+<p>20 cl de vin blanc</p>
+<p>20 cl de crème</p>
+<p>100 g de gruyère</p>
+<p>1 ou 2 cuillères à soupe de moutarde.</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> revenir </operation> à la sauteuse les cuisses de <ingredient action="revenir"> poulet </ingredient> . une fois dorées , les <operation> réserver </operation> . faire <operation ingredients="oignon;échalote"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir" quantite="1"> échalote </ingredient> . <operation ingredients="poulets"> rajouter </operation> les cuisses <ingredient action="rajouter"> poulets </ingredient> puis laisser <operation> cuire </operation> pendant 10 min . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> blanc puis laisser <operation> cuire </operation> 5 min de plus . <operation ingredients="crème;moutarde"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> , puis la <ingredient action="ajouter"> moutarde </ingredient> . laisser <operation> mijoter </operation> pendant 10 min . <operation> saler </operation> , <operation> poivrer </operation> à votre gout . pendant ce temps , dans un plat à gratin <operation ingredients="gruyère"> parsemer </operation> le <operation> fonds </operation> de la moitié du <ingredient action="parsemer" quantite="100 gramme"> gruyère </ingredient> . <operation ingredients="poulet"> verser </operation> y les cuisses de <ingredient action="verser"> poulet </ingredient> ainsi que la sauce . <operation ingredients="gruyère"> recouvrez </operation> le tout avec le reste du <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> . faire <operation> gratiner </operation> le tout .
+</preparation>
+</recette>

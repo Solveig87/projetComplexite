@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14713">
+<titre>Tarte poires et chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>3 poires bien mûres (poires Williams)</p>
+<p>100 g de chocolat pâtissier</p>
+<p>1 oeuf</p>
+<p>30 cl de lait (ou de crème liquide)</p>
+<p>2 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> à feu très doux . si besoin , <operation> rajouter </operation> un peu d' eau pour qu' il soit bien <operation> lisse </operation> . <operation> peler </operation> et <operation ingredients="poires"> couper </operation> les <ingredient action="couper" quantite="3"> poires </ingredient> en lamelles . absorber leur <ingredient> jus </ingredient> avec un sopalin . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite="1"> pâte </ingredient> feuilletée dans un <operation> moule </operation> à tarte . <operation ingredients="chocolat"> etaler </operation> le <ingredient action="etaler" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> sur le fond . <operation ingredients="poires"> disposer </operation> à sa guise les lamelles de <ingredient action="disposer" quantite="3"> poires </ingredient> . <operation> enfourner </operation> 10 mn à 180 <operation> ° </operation> c. pendant ce temps , dans un bol , <operation ingredients="oeuf"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> . y <operation ingredients="lait;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> . <operation ingredients="tarte"> retirer </operation> la <ingredient action="retirer"> tarte </ingredient> du four et y <operation> ajouter </operation> cette ' migaine ' . <operation> réenfourner </operation> 2 . 30 mn à 180 <operation> ° </operation> c. voici une recette très simple et succulente .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80690">
+<titre>Soupe glacée de melon à l'anis</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 melon</p>
+<p>40 cl d'eau de source</p>
+<p>5 cl d'anisette</p>
+<p>1 brin de menthe</p>
+<p>4 étoiles de badiane (facultatif)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair;melon;anisette"> prélevez </operation> la <ingredient action="prélever"> chair </ingredient> d' un <ingredient action="prélever" quantite="1"> melon </ingredient> et <operation> placez </operation> - la dans le bol d' un mixeur avec l' <ingredient action="prélever" quantite="5 cl"> anisette </ingredient> et l' eau . <operation> réduisez </operation> en purée bien <operation> lisse </operation> . avec le reste du <ingredient quantite="1"> melon </ingredient> faire des petites boules à l' aide d' une cuillère . <operation ingredients="soupe;melon"> répartissez </operation> la <ingredient action="répartir"> soupe </ingredient> dans des verres ou des bols ainsi que les boules de <ingredient action="répartir" quantite="1"> melon </ingredient> ; <operation> couvrez </operation> et laissez <operation> reposer </operation> 1 h au réfrigérateur . au moment de servir , <operation> salez </operation> et <operation> poivrez </operation> légèrement . <operation ingredients="menthe"> décorez </operation> avec une feuille de <ingredient action="décorer"> menthe </ingredient> plantée dans une boule de <ingredient quantite="1"> melon </ingredient> ou d' une étoile de badiane . cette recette peut être servie comme mise en bouche en attente du <ingredient> dessert </ingredient> . recette légère , rafraîchissante et idéale lorsqu' on surveille sa ligne .
+</preparation>
+</recette>

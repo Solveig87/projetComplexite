@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27964">
+<titre>Bourguignon de volaille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de dinde sans os</p>
+<p>1 oignon</p>
+<p>100 g de lardons fumés</p>
+<p>1 boîte de 400 g de champignons</p>
+<p>une petite branche de romarin</p>
+<p>1/2 bouteille de bordeaux rouge</p>
+</ingredients>
+<preparation>
+dans un auto-cuiseur faire <operation ingredients="viande;lardons;oignon"> dorer </operation> la <ingredient action="dorer" quantite="800 gramme"> viande </ingredient> avec les <ingredient action="dorer"> lardons </ingredient> et l' <ingredient action="dorer" quantite="1"> oignon </ingredient> <operation> coupé </operation> fin , dans un fond huile . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> de paris en lamelles et <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer"> farine </ingredient> . <operation> mélanger </operation> et laisser <operation> dorer </operation> 5 mn . <operation ingredients="vin"> recouvrir </operation> de <ingredient action="recouvrir"> vin </ingredient> rouge , <operation> saler </operation> , <operation> poivrer </operation> et <operation> ajouter </operation> la branche de romarin . laisser <operation> cuire </operation> 25 mn à partir du chuchotement de la soupape . bon appétit . le même que celui de la cuisson
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22512">
+<titre>Filet de dindonneau sauce sucré-salé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boursins au poivre</p>
+<p>25 cl de crème fraîche</p>
+<p>4 poires cuites</p>
+<p>4 filets de dindonneau ou filets de poulet</p>
+<p>4 tranches d'ananas</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="dindonneau;matière"> brunir </operation> les filets de <ingredient action="brunir"> dindonneau </ingredient> dans un peu de <ingredient action="brunir"> matière </ingredient> grasse , <operation> salez </operation> et <operation> poivrez </operation> . quand ils sont <operation> cuits </operation> , <operation> réservez </operation> . dans le <ingredient action="fondre"> jus </ingredient> de cuisson , faites <operation ingredients="jus;boursins"> fondre </operation> les <ingredient action="fondre" quantite="2"> boursins </ingredient> au poivre et <operation ingredients="crème;poires;ananas"> rajoutez </operation> ensuite la <ingredient action="rajouter" quantite="25 cl"> crème </ingredient> fraîche + les dés de <ingredient action="rajouter"> poires </ingredient> et d' <ingredient action="rajouter" quantite="4 tranche"> ananas </ingredient> . lorsque la sauce est terminée , <operation ingredients="dindonneau"> trempez </operation> les filets de <ingredient action="trempez"> dindonneau </ingredient> dedans et <operation> dressez </operation> sur l' assiette . <operation ingredients="tagliatelles"> accompagnez </operation> de <ingredient action="accompagner"> tagliatelles </ingredient> .
+</preparation>
+</recette>

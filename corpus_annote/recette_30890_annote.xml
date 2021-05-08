@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30890">
+<titre>Rôti de veau aux oignons et au vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de rôti de veau</p>
+<p>2 tomates</p>
+<p>1 oignon </p>
+<p>50 cl de vin blanc </p>
+<p>500 g de petits oignons</p>
+<p>1 pincée de sucre en poudre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite="800 gramme"> viande </ingredient> à <operation ingredients="beurre"> dorer </operation> sur chaque côté dans une casserole avec du <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="oignon;tomates"> ajouter </operation> l' <ingredient action="ajouter" quantite="1+500 gramme"> oignon </ingredient> <operation> émincé </operation> et les <ingredient action="ajouter" quantite="2"> tomates </ingredient> mondées et en morceaux . <operation> assaisonner </operation> et <operation ingredients="vin"> verser </operation> un peu d’ eau et le <ingredient action="verser" quantite="50 cl"> vin </ingredient> blanc . laisser <operation> mijoter </operation> 30 min à feu doux . <operation ingredients="oignons"> éplucher </operation> les petits <ingredient action="éplucher" quantite="1+500 gramme"> oignons </ingredient> et les faire <operation ingredients="beurre;sucre"> revenir </operation> dans une casserole avec du <ingredient action="revenir"> beurre </ingredient> et le <ingredient action="revenir" quantite="1 pincée"> sucre </ingredient> . laisser <operation> mijoter </operation> à feu doux jusqu’ à ce qu’ ils <operation> dorent </operation> . <operation ingredients="jus;vin"> déglacer </operation> le <ingredient action="déglacer"> jus </ingredient> avec du <ingredient action="déglacer" quantite="50 cl"> vin </ingredient> blanc et <operation ingredients="viande"> verser </operation> cette sauce sur la <ingredient action="verser" quantite="800 gramme"> viande </ingredient> finement <operation> tranchée </operation> . servir avec les petits <ingredient quantite="1+500 gramme"> oignons </ingredient> .
+</preparation>
+</recette>

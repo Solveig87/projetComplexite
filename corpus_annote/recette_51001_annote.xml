@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51001">
+<titre>Soupe de poisson au lait de coco</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>3 oignons finement hachés</p>
+<p>3 gouses d'ail écrasées</p>
+<p>4 piments verts finement hachés</p>
+<p>125 g de crevettes séchées finement hachées</p>
+<p>250 g de cacahuètes grillées écrasées</p>
+<p>75 g de semoule de maïs (jaune, pas fécule)</p>
+<p>65 cl d'eau</p>
+<p>1 cuillère à café de sel, poivre</p>
+<p>60 g de beurre</p>
+<p>500 g de filets de poisson de mer genre mulet</p>
+<p>500 g de crevettes roses ou grises décortiquées</p>
+<p>1 l de lait de coco</p>
+</ingredients>
+<preparation>
+<operation ingredients="poisson"> couper </operation> le <ingredient action="couper"> poisson </ingredient> en dés de 2 à 3 cm de côté . faire <operation ingredients="ail;oignons;huile"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> , les <ingredient action="revenir" quantite="3"> oignons </ingredient> et les piments dans l' <ingredient action="revenir" quantite="4 cuillère à soupe"> huile </ingredient> pendant 5 à 7 minutes , en tournant souvent . les <ingredient quantite="3"> oignons </ingredient> doivent être transparents , <ingredient quantite="3;4;65 cl;500 gramme"> non </ingredient> roussis . <operation ingredients="crevettes;cacahuètes;semoule"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme+500 gramme"> crevettes </ingredient> séchées , les <ingredient action="ajouter" quantite="250 gramme"> cacahuètes </ingredient> et la <ingredient action="ajouter" quantite="75 gramme"> semoule </ingredient> de maïs . <operation ingredients="lait;sel;poivre"> verser </operation> progressivement le <ingredient action="verser" quantite="1 l"> lait </ingredient> de coco , l' eau , le <ingredient action="verser" quantite="1 cuillère à café"> sel </ingredient> et le <ingredient action="verser" quantite=""> poivre </ingredient> en tournant constamment . <operation> porter </operation> à <operation> ébullition </operation> puis <operation> réduire </operation> le feu , <operation> couvrir </operation> et laisser <operation> mijoter </operation> durant 15 minutes . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> à part , y faire <operation ingredients="poisson;crevettes"> revenir </operation> le <ingredient action="revenir"> poisson </ingredient> et les <ingredient action="revenir" quantite="125 gramme+500 gramme"> crevettes </ingredient> pendant 5 minutes en <operation> remuant </operation> constamment . <operation> retirer </operation> du feu et transférer dans la <ingredient> soupe </ingredient> avec une écumoire . poursuivre la cuisson encore 20 minutes . servir immédiatement dans une soupière chaude . avec du <ingredient> riz </ingredient> à part , cela peut faire un plat principal léger . on peut <operation> réduire </operation> le nombre de piments .
+</preparation>
+</recette>

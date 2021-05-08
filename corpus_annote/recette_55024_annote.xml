@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55024">
+<titre>Croques monsieur panés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>4 tranches de jambon blanc</p>
+<p>4 champignons</p>
+<p>100 g de chapelure</p>
+<p>50 g de gruyère</p>
+<p>2 oeufs</p>
+<p>15 g de beurre</p>
+</ingredients>
+<preparation>
+prendre deux tranches de <ingredient quantite="8 tranche"> pain </ingredient> de mie et <operation ingredients="oeuf"> plonger </operation> une des faces de chaque tranche quelques secondes dans l' <ingredient action="plonger" quantite="2"> oeuf </ingredient> <operation> battu </operation> à la fourchette . une fois cette opération réalisée , <operation ingredients="chapelure"> mettre </operation> les tranches dans la <ingredient action="mettre" quantite="100 gramme"> chapelure </ingredient> puis les <operation> beurrer </operation> . sur l' autre face , <operation ingredients="gruyère;champignon"> ajouter </operation> du <ingredient action="ajouter" quantite="50 gramme"> gruyère </ingredient> , un <ingredient action="ajouter" quantite="4"> champignon </ingredient> <operation> coupé </operation> en rondelles , une tranche de <ingredient quantite="4 tranche"> jambon </ingredient> blanc , une nouvelle fois du guyère , puis , <operation ingredients="pain"> recouvrir </operation> le tout de la tranche de <ingredient action="recouvrir" quantite="8 tranche"> pain </ingredient> de mie restante . pour finir , faire <operation> dorer </operation> les deux côtés du croque monsieur . renouveler l' opération pour les autres croque - monsieur . servir avec de la <ingredient> salade </ingredient> . il est possible d' <operation ingredients="tomate;oeuf"> ajouter </operation> une tranche de <ingredient action="ajouter"> tomate </ingredient> et / ou un <ingredient action="ajouter" quantite="2"> oeuf </ingredient> sur le plat dans le croque monsieur .
+</preparation>
+</recette>

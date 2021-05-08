@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31154">
+<titre>Poivrons à la marocaine</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons rouges</p>
+<p>2 poivrons verts</p>
+<p>coriandre fraîche</p>
+<p>persil</p>
+<p>jus d'1 citron</p>
+<p>huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poivrons"> griller </operation> les <ingredient action="griller"> poivrons </ingredient> sous le grill du four pour les <operation> éplucher </operation> plus facilement . les <operation> couper </operation> en petites lanières . <operation ingredients="jus;huile;sel;coriandre;persil"> mélanger </operation> le <ingredient action="mélanger" quantite=""> jus </ingredient> du citron , l' <ingredient action="mélanger" quantite=""> huile </ingredient> d' olive , le <ingredient action="mélanger" quantite=""> sel </ingredient> , les feuilles de <ingredient action="mélanger" quantite=""> coriandre </ingredient> et le <ingredient action="mélanger" quantite=""> persil </ingredient> ( les herbes sont à utiliser en quantité importante ) . <operation ingredients="poivrons"> mélanger </operation> aux <ingredient action="mélanger"> poivrons </ingredient> , et laisser <operation> mariner </operation> 30 mn au minimum . servez bien frais . et voilà ! rosé ( boulaouane , ou tavel )
+</preparation>
+</recette>

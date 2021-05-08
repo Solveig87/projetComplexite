@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17714">
+<titre>Fondue à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de beurre</p>
+<p>1 petit oignon haché</p>
+<p>2 gousses d'ail écrasées</p>
+<p>1 boîte (800 g) de tomates pelées</p>
+<p>1 pincée d'origan</p>
+<p>1 cuillère à café de paprika</p>
+<p>2 cuillères à café de basilic haché</p>
+<p>30 cl de vin blanc sec</p>
+<p>sel et poivre</p>
+<p>500 g de gruyère</p>
+<p>cubes de baguettes ou de mie de pain pour servir</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans le caquelon à fondue et faites <operation ingredients="oignon;ail"> revenir </operation> doucement l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> . <operation ingredients="tomates"> egouttez </operation> soigneusement les <ingredient action="egouttez"> tomates </ingredient> , puis <operation> réduisez </operation> - les en purée , <operation ingredients="origan;paprika;basilic;vin"> ajoutez </operation> - les dans le caquelon ainsi que l' <ingredient action="ajouter" quantite="1 pincée"> origan </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à café"> paprika </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à café"> basilic </ingredient> et le <ingredient action="ajouter" quantite="30 cl"> vin </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> cuire </operation> doucement 10 mn . <operation ingredients="fromage"> incorporez </operation> peu à peu le <ingredient action="incorporer"> fromage </ingredient> et laissez <operation> cuire </operation> à feu doux jusqu' à ce qu' il soit <operation> fondu </operation> . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="2;1 pincée;1 cuillère à café;2 cuillère à café;"> assaisonnement </ingredient> et servez . pour la dégustez , <operation> plongez </operation> - y les cubes de <ingredient> pain </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80294">
+<titre>Glace au chocolat facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat pâtissier</p>
+<p>50 g de beurre</p>
+<p>50 g de sucre</p>
+<p>3 œufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="oeuf;sucre"> battre </operation> les 3 jaunes d' <ingredient action="battre"> oeuf </ingredient> avec le <ingredient action="battre" quantite="50 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> et <operation> mélanger </operation> . <operation> battre </operation> les blancs en neige puis les <operation> incorporer </operation> délicatement à la préparation . <operation> placer </operation> au congélateur environ 3 à 4 h , en fonction de votre gourmandise . bonne dégustation ! vous pouvez <operation ingredients="chocolat"> ajouter </operation> au <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> pâtissier une goutte de vanille , et un peu de <ingredient> lait </ingredient> si vous le trouvez trop fort au goût . n' hésitez pas à <operation ingredients="chocolat"> ajouter </operation> selon vos envies et / ou humeur copeaux de <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> , noix de coco <operation> rappée </operation> , ou encore utiliser <ingredient quantite="100 gramme"> chocolat </ingredient> blanc ou au <ingredient> lait </ingredient> .
+</preparation>
+</recette>

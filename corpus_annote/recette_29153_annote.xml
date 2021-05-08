@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29153">
+<titre>Thon à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>huile d'olive</p>
+<p>2 oignons</p>
+<p>2 poivrons</p>
+<p>1 boîte de thon (185 g égouttés) </p>
+<p>100 g olives vertes</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>10 cl de crème fraîche</p>
+<p>200 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;huile"> revenir </operation> dans une sauteuse les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> avec l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . quand les <ingredient quantite="2"> oignons </ingredient> sont translucides , <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> poivrons </ingredient> . quand ces derniers sont moelleux , <operation ingredients="thon;olives;crème"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> <operation> égoutté </operation> , les <ingredient action="ajouter" quantite="100 gramme"> olives </ingredient> , le <operation> concentré </operation> et la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche . <operation> mélanger </operation> , laisser <operation> chauffer </operation> . <operation> verser </operation> dans un plat à four . <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="200 gramme"> gruyère </ingredient> et faire <operation> gratiner </operation> au four . encore meilleur <operation> préparé </operation> la veille .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25482">
+<titre>Jardinière de légumes de printemps</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de petits pois</p>
+<p>250 g de pommes de terre </p>
+<p>150 g de haricots verts</p>
+<p>40 g de beurre</p>
+<p>1 laitue</p>
+<p>1 botte de carottes </p>
+<p>1/2 botte de navets</p>
+<p>25 cl d'eau</p>
+<p>persil haché</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;haricots;navets;carottes;laitue;persil"> revenir </operation> le <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> dans une sauteuse et y <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter" quantite="500 gramme"> pois </ingredient> , les <ingredient action="revenir" quantite="150 gramme"> haricots </ingredient> verts , les <ingredient action="revenir"> navets </ingredient> <operation> émincés </operation> , les <ingredient action="revenir"> carottes </ingredient> <operation> coupées </operation> en rondelles , la <ingredient action="revenir" quantite="1"> laitue </ingredient> , l' eau et le <ingredient action="revenir" quantite=""> persil </ingredient> haché . <operation> assaisonner </operation> et laisser <operation> mijoter </operation> 20 min à feu doux . <operation ingredients="pommes"> incorporer </operation> les <ingredient action="incorporer" quantite="250 gramme"> pommes </ingredient> de terre <operation> coupées </operation> en dés et continuer la cuisson pendant 35 minutes . hors du feu , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> fraîche et servir .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23304">
+<titre>Tajine de poulet au potiron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gros poulet fermier</p>
+<p>3 oignons</p>
+<p>1 gousse d'ail</p>
+<p>1 kg de potiron</p>
+<p>50 g de beurre</p>
+<p>sel, poivre</p>
+<p>une cuillerée à café de safran</p>
+<p>2 cuilleres à soupe d'huile d'olive</p>
+<p>50 g de raisins secs</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> le <ingredient action="couper" quantite="1"> poulet </ingredient> en morceaux et les faire <operation ingredients="huile"> dorer </operation> dans l' <ingredient action="dorer"> huile </ingredient> dans une cocotte . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oignons </ingredient> <operation> émincés </operation> , l' <ingredient action="piler"> ail </ingredient> <operation ingredients="ail;raisins"> pilé </operation> et les <ingredient action="piler" quantite="50 gramme"> raisins </ingredient> secs . quand les morceaux de <ingredient quantite="1"> poulet </ingredient> sont dorés , <operation ingredients="sel;safran"> verser </operation> un verre d' eau , du <ingredient action="verser" quantite=""> sel </ingredient> et le <ingredient action="verser"> safran </ingredient> , puis laisser <operation> cuire </operation> jusqu' à ce que la <ingredient action="détache"> chair </ingredient> se <operation ingredients="chair"> détache </operation> des os ( environ 1 h ) . pendant ce temps , <operation ingredients="potiron"> éplucher </operation> le <ingredient action="éplucher" quantite="1 kilogramme"> potiron </ingredient> , le <operation> couper </operation> en petits cubes . dans une autre cocotte , faire <operation ingredients="potiron;beurre"> dorer </operation> les cubes de <ingredient action="dorer" quantite="1 kilogramme"> potiron </ingredient> dans le <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> . quand ils sont bien dorés , <operation> saler </operation> légèrement et <operation> ajouter </operation> une cuillère à soupe de sucre . laisser caraméliser légèrement , puis <operation> couvrir </operation> pour achever la cuisson , jusqu' à ce que toute l' eau soit évaporée . <operation ingredients="potiron;poulet"> rajouter </operation> le <ingredient action="rajouter" quantite="1 kilogramme"> potiron </ingredient> dans la sauce du <ingredient action="rajouter" quantite="1"> poulet </ingredient> , <operation> mélanger </operation> doucement et laisser <operation> cuire </operation> 5 minutes . servir chaud .
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11838">
+<titre>Lapin sauté chasseur</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>beurre</p>
+<p>farine</p>
+<p>10 échalotes</p>
+<p>2 tomates</p>
+<p>2 gousses d'ail</p>
+<p>1 bouquet garni</p>
+<p>vin blanc sec</p>
+<p>1 bouillon de volaille</p>
+<p>sel, poivre</p>
+<p>200 g de champignons</p>
+<p>120 g de lardons facultatif</p>
+<p>estragon</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> découpez </operation> le <ingredient action="découper" quantite="1"> lapin </ingredient> en morceaux . <operation> assaisonnez </operation> - les , <operation> farinez </operation> - les . faites - les <operation ingredients="beurre"> rissoler </operation> en cocotte dans du <ingredient action="rissoler"> beurre </ingredient> <operation> fondu </operation> . <operation> farinez </operation> légèrement , <operation> remuez </operation> et <operation> passez </operation> au four à <operation> découvert </operation> 5 minutes . <operation ingredients="échalotes;champignons"> ajoutez </operation> alors les <ingredient action="ajouter" quantite="10"> échalotes </ingredient> hachées , les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> <operation> émincés </operation> , les <ingredient action="mettre" quantite="120 gramme"> lardons </ingredient> <operation> blanchis </operation> ( si vous en <operation ingredients="lardons"> mettez </operation> ) et faites suer à feu doux . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> pelées </operation> , <operation> épépinées </operation> , <operation> concassées </operation> . <operation ingredients="vin;bouillon"> mouillez </operation> de moitié <ingredient action="mouiller" quantite=""> vin </ingredient> blanc et moitié <ingredient action="mouiller" quantite="1"> bouillon </ingredient> à mi-hauteur . <operation ingredients="ail;bouquet"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> portez </operation> à <operation> ébullition </operation> , puis <operation> cuire </operation> doucement à <operation> couvert </operation> . a cuisson , <operation ingredients="bouquet"> retirez </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="2;;;"> assaisonnement </ingredient> , <operation ingredients="estragon"> saupoudrez </operation> d' <ingredient action="saupoudrer" quantite=""> estragon </ingredient> <operation> ciselé </operation> et servez .
+</preparation>
+</recette>

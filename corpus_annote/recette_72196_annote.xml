@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72196">
+<titre>Poulet ultra facile au fromage</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros poulet jaune </p>
+<p>50 cl de vin blanc sec</p>
+<p>300 g de fromage à pâte dure au choix (comté, gruyère...)</p>
+<p>3 cuillères à soupe de moutarde à l'ancienne</p>
+<p>1 cuillère à soupe d'herbe de Provence</p>
+</ingredients>
+<preparation>
+faire <operation action="rôtir" ingredients="rôtir"> rôtir </operation> le poulet . pendant ce temps , <operation ingredients="fromage"> préparer </operation> la sauce au <ingredient action="préparer" quantite="300 gramme"> fromage </ingredient> : <operation ingredients="fromage"> couper </operation> en dés le <ingredient action="couper" quantite="300 gramme"> fromage </ingredient> et le faire <operation> chauffer </operation> dans une casserole en <operation> remuant </operation> . dés que le <ingredient quantite="300 gramme"> fromage </ingredient> fond un peu , <operation ingredients="vin;moutarde"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> vin </ingredient> blanc et la <ingredient action="ajouter" quantite="3 cuillère à soupe"> moutarde </ingredient> et <operation> remuer </operation> jusqu' à ce que le <ingredient action="fondre" quantite="300 gramme"> fromage </ingredient> soit complètement <operation ingredients="fromage"> fondu </operation> ( l' ensemble donne l' aspect d' une fondue savoyarde ) . 10 min avant la fin de la cuisson du <ingredient quantite="1"> poulet </ingredient> , <operation ingredients="poulet"> verser </operation> la totalité de la sauce sur le <ingredient action="verser" quantite="1"> poulet </ingredient> ainsi que les herbes de provence . <operation ingredients="fromage"> remettre </operation> le tout au four pendant 10 min pour que le <ingredient action="remettre" quantite="300 gramme"> fromage </ingredient> gratine légèrement . mes 4 enfants adorent avec des <ingredient> pâtes </ingredient> fraîches ou des <ingredient> pommes </ingredient> de terre en papillotes , et en plus ça le fait toujours pour peu d' effort !
+</preparation>
+</recette>

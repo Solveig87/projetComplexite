@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56849">
+<titre>Salade d'endives au saumon et pamplemousse</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3-4 endives</p>
+<p>1 pamplemousse rose</p>
+<p>2 tranches de saumon fumé</p>
+<p>1 échalote</p>
+<p>huile, vinaigre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> découper </operation> les <ingredient action="découper" quantite="3"> endives </ingredient> en fines lanières . <operation ingredients="pamplemousse"> eplucher </operation> le <ingredient action="eplucher" quantite="1"> pamplemousse </ingredient> à vif , <operation> retirer </operation> les quartiers et les <operation> couper </operation> en petits morceaux . <operation ingredients="saumon"> découper </operation> les tranches de <ingredient action="découper"> saumon </ingredient> <operation> fumé </operation> en fines lanières . <operation> préparer </operation> une vinaigrette et y <operation ingredients="échalote"> ajouter </operation> une <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> hachée </operation> . <operation> mélanger </operation> le tout , c' est prêt ! <ingredient> salade </ingredient> fraîche pour l' été .
+</preparation>
+</recette>

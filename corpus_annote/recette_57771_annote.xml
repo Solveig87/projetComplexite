@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57771">
+<titre>Salade de carottes au gingembre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 carottes</p>
+<p>3 cm de gingembre frais</p>
+<p>cuillères à soupe de demi-crème</p>
+<p>2 cuillères d'huile d'olive</p>
+<p>1 cuillère à café bien remplie de sucre</p>
+<p>2 pincées de sel</p>
+<p>1 citron</p>
+<p>2 pommes (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;gingembre"> peler </operation> et <operation> râper </operation> les <ingredient action="peler" quantite="8"> carottes </ingredient> et le <ingredient action="peler"> gingembre </ingredient> . " <operation ingredients="jus;huile;sucre;sel"> arroser </operation> " de <ingredient action="arroser"> jus </ingredient> de citron , de l' <ingredient action="arroser" quantite="2 cuillère"> huile </ingredient> d' olive , de demi-crème , de <ingredient action="arroser"> sucre </ingredient> et de <ingredient action="arroser" quantite="2 pincée"> sel </ingredient> . ( <operation ingredients="pommes;carrelets"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> pommes </ingredient> en petits <ingredient action="ajouter"> carrelets </ingredient> ) et <operation> mélanger </operation> le tout . servir le plus rapidement possible ( vitamines ) ?
+</preparation>
+</recette>

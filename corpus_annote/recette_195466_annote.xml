@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195466">
+<titre>Farce de cannelloni revisitée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de ricotta</p>
+<p>10 palets d'épinard surgelés (ou des épinards frais ou en conserve)</p>
+<p>2 escalopes milanaises de votre boucher</p>
+<p>30 g de parmesan râpé</p>
+<p>sel</p>
+<p>poivre</p>
+<p>10 cuillères à soupe de chapelure</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="épinards"> cuire </operation> les palets <ingredient action="cuire"> épinards </ingredient> une fois <operation> décongelé </operation> , <operation ingredients="parmesan"> ajouter </operation> la ricotta , le <ingredient action="ajouter" quantite="30 gramme"> parmesan </ingredient> . <operation> écraser </operation> les milanaises dans un assiette et <operation> ajouter </operation> au reste . <operation ingredients="chapelure"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cuillère à soupe"> chapelure </ingredient> . laisser refroidir la farce . reste plus qu' à <operation ingredients="cannellonis"> farcir </operation> les <ingredient action="farcir"> cannellonis </ingredient> , et les <operation> déposer </operation> dans un plat . <operation ingredients="gruyère"> recouvrir </operation> de sauce bolognaise , de <ingredient action="recouvrir"> gruyère </ingredient> râpé et <operation> enfourner </operation> pendant 40 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

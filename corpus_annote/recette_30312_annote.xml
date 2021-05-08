@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30312">
+<titre>Asperges sauce mousseline et jambon cru</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 belles asperges blanches</p>
+<p>2 oeufs entiers + 2 blancs</p>
+<p>1 cuillère à café de moutarde</p>
+<p>25 cl d'huile  </p>
+<p>4 tranches de jambon cru</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="asperges"> pelez </operation> les <ingredient action="peler" quantite="24"> asperges </ingredient> , <operation> liez </operation> - les en bottillons , puis faites - les <operation> cuire </operation> à l' eau bouillante <operation> salée </operation> pendant 20 à 30 minutes . vérifiez la cuisson de la pointe du <ingredient> couteau </ingredient> , les <ingredient quantite="24"> asperges </ingredient> doivent être tendres . <operation ingredients="oeufs"> séparez </operation> les jaunes des blancs d' <ingredient action="séparer" quantite="2"> oeufs </ingredient> . <operation ingredients="oeufs;moutarde"> mélangez </operation> les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="huile"> versez </operation> l' <ingredient action="verser" quantite="25 cl"> huile </ingredient> en un mince filet tout . <operation> mélangez </operation> constamment à l' aide d' un fouet afin de <operation ingredients="mayonnaise"> monter </operation> la sauce en <ingredient action="monter"> mayonnaise </ingredient> . <operation ingredients="sel"> montez </operation> les blancs en neige avec une pincée de <ingredient action="monter" quantite=""> sel </ingredient> et les <operation> incorporer </operation> délicatement à la sauce . <operation ingredients="asperges;jambon"> présentez </operation> les <ingredient action="présenter" quantite="24"> asperges </ingredient> chaudes recouvertes de <ingredient action="présenter" quantite="4 tranche"> jambon </ingredient> cru et <operation> entourée </operation> d' un cordon de sauce . tenez la sauce à <operation> disposition </operation> dans une saucière .
+</preparation>
+</recette>

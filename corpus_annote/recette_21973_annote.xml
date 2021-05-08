@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21973">
+<titre>Moelleux à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oranges coupées en rondelles fines</p>
+<p>1/4 de l d'eau</p>
+<p>100 g de sucre</p>
+<p>1 génoise</p>
+<p>crème pâtissière</p>
+</ingredients>
+<preparation>
+<operation ingredients="orange"> cuire </operation> les rondelles d' <ingredient action="cuire" quantite="2"> orange </ingredient> 20 mn dans l' eau . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , <operation> cuire </operation> 20 mn ( <operation> ajouter </operation> de l' eau si nécessaire ) . dans un <operation> moule </operation> amovible <operation> huilé </operation> <operation ingredients="orange"> disposer </operation> les rondelles d' <ingredient action="disposer" quantite="2"> orange </ingredient> , <operation ingredients="sirop"> couvrir </operation> de la moitié de la génoise <operation> trempée </operation> du <ingredient action="couvrir"> sirop </ingredient> de cuisson . <operation ingredients="crème"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> crème </ingredient> pâtissière . terminer par la deuxième moitié de génoise <operation> imbibée </operation> du <ingredient> sirop </ingredient> de cuisson . <operation> poser </operation> un poids dessus et tenir au frais . <operation> démouler </operation> .
+</preparation>
+</recette>

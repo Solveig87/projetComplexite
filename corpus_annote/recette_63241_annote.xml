@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63241">
+<titre>Salade paysanne express</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 belle pomme de terre</p>
+<p>200 g de haricots verts</p>
+<p>1 œuf dur</p>
+<p>2 tranches de jambon de pays</p>
+<p>5 cornichons</p>
+<p>3 feuilles de salade</p>
+<p>quelques dés de comté</p>
+<p>huile d'olive, vinaigre de votre choix</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="pomme"> couper </operation> en dés la <ingredient action="couper" quantite="1"> pomme </ingredient> de terre puis la faire <operation> cuire </operation> 10 minutes dans une casserole d' eau bouillante . dans le même temps faire <operation ingredients="oeuf"> cuire </operation> l' <ingredient action="cuire"> oeuf </ingredient> . <operation ingredients="jambon;cornichons"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> et les <ingredient action="couper" quantite="5"> cornichons </ingredient> en petits morceaux . <operation ingredients="haricots;jambon;comté;cornichons;salade"> mélanger </operation> les <ingredient action="mélanger" quantite="200 gramme"> haricots </ingredient> , le <ingredient action="mélanger" quantite="2 tranche"> jambon </ingredient> , les dés de <ingredient action="mélanger"> comté </ingredient> , les <ingredient action="mélanger" quantite="5"> cornichons </ingredient> et la <ingredient action="mélanger" quantite="3 feuille"> salade </ingredient> . <operation ingredients="pommes;oeuf"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> pommes </ingredient> de terre et l' <ingredient action="ajouter"> oeuf </ingredient> dur . <operation> saler </operation> , <operation> poivrer </operation> , <operation> assaisonner </operation> selon votre goût . bon appétit ! on peut naturellement modifier l' <ingredient quantite=";"> assaisonnement </ingredient> mais simplement <operation ingredients="huile;vinaigre"> arrosée </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et de quelques gouttes de <ingredient action="arroser" quantite=""> vinaigre </ingredient> cette recette est déjà savoureuse . les ingrédients sont indiqués pour une <ingredient quantite="3 feuille"> salade </ingredient> individuelle . . . à décliner selon le nombre de personnes !
+</preparation>
+</recette>

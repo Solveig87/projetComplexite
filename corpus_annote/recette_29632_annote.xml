@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29632">
+<titre>Brochettes de mouton au safran</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>900 g de mouton</p>
+<p>15 cl d'huile</p>
+<p>6 grains de poivre concassés</p>
+<p>1 cuillère à café bombée de safran</p>
+<p>1 pincée de sel </p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="900 gramme"> viande </ingredient> en dés et la <operation> mettre </operation> dans un plat . <operation ingredients="safran;poivre;sel"> saupoudrer </operation> de <ingredient action="saupoudrer"> safran </ingredient> , de <ingredient action="saupoudrer" quantite="1 pincée"> poivre </ingredient> , de <ingredient action="saupoudrer" quantite="1 pincée"> sel </ingredient> et <operation ingredients="huile"> recouvrir </operation> d' <ingredient action="recouvrir" quantite="15 cl"> huile </ingredient> . <operation> mélanger </operation> et laisser <operation> mariner </operation> durant 2 heures . <operation> confectionner </operation> les brochettes et les faire <operation> griller </operation> durant 10 minutes .
+</preparation>
+</recette>

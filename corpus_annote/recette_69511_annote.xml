@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69511">
+<titre>Poulet aux carottes, sauce safran</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>4 carottes</p>
+<p>6 cuillères a soupes de crème fraîche</p>
+<p>2 pincées de safran</p>
+<p>1 échalotte</p>
+<p>beurre</p>
+<p>sel , poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> revenir </operation> l' échalotte <operation> hachée </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="poulet"> couper </operation> les escaloppes de <ingredient action="couper"> poulet </ingredient> en dés et les joindre à la préparation . pendant ce temps , <operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="4"> carottes </ingredient> , les <operation> couper </operation> en rondelles et les <operation> mettre </operation> dans une casserole avec de l' eau et les <operation> cuire </operation> 5 min après <operation> ébullition </operation> . joindre les <ingredient quantite="4"> carottes </ingredient> à la préparation avec la <ingredient> crème </ingredient> fraîche , le <ingredient quantite="2 pincée"> safran </ingredient> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31168">
+<titre>Tomates farcies chèvre-tapenade</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses tomates</p>
+<p>1 pot de Chavroux 0% (ou autre fromage de chèvre frais)</p>
+<p>1 petit pot de tapenade</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> un chapeau aux <ingredient action="couper" quantite="2"> tomates </ingredient> , les <operation> vider </operation> , <operation> saler </operation> l' intérieur et laisser dégorger . pendant ce temps , <operation> préparer </operation> la farce : <operation ingredients="chèvre;basilic"> mélanger </operation> à la fourchette le <ingredient action="mélanger"> chèvre </ingredient> frais , le <ingredient action="mélanger" quantite=""> basilic </ingredient> et la tapenade . la quantité de tapenade dépend de la saveur que l' on souhaite faire le plus ressortir . plus il y en a , moins on sent le <ingredient> chèvre </ingredient> . <operation ingredients="tomates"> farcir </operation> les <ingredient action="farcir" quantite="2"> tomates </ingredient> , <operation> ajouter </operation> le petit chapeau , faire <operation> cuire </operation> à environ 200 <operation> ° </operation> c pendant environ 30 mn . servir avec une <ingredient> salade </ingredient> verte aux <ingredient> noix </ingredient> , ou des <ingredient> pâtes </ingredient> au basilic .
+</preparation>
+</recette>

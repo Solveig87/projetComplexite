@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25046">
+<titre>Compote de pommes citronnée et meringuée</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 pommes</p>
+<p>150 ml de sucre</p>
+<p>3 oeufs</p>
+<p>1/2 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;sucre;pommes"> réduire </operation> les <ingredient action="réduire" quantite="6"> pommes </ingredient> en compotes avec un peu de <ingredient action="réduire"> sucre </ingredient> ( selon l' acidité des <ingredient action="réduire" quantite="6"> pommes </ingredient> ) . <operation> préparer </operation> la meringue en <operation ingredients="oeufs;sucre"> battant </operation> les blancs d' <ingredient action="battre" quantite="3"> oeufs </ingredient> en neige avec les 150 ml de <ingredient action="battre"> sucre </ingredient> . quand la <ingredient action="cuire"> compote </ingredient> est <operation ingredients="compote"> cuite </operation> , lui <operation ingredients="oeuf;jus"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="3"> oeuf </ingredient> , le zeste et <ingredient action="ajouter"> jus </ingredient> du demi-citron . <operation ingredients="compote"> mettre </operation> dans un plat la <ingredient action="mettre"> compote </ingredient> puis <operation> répartir </operation> dessus la meringue et faire <operation> cuire </operation> au four à 175 <operation> ° </operation> c pour que la meringue soit bien dorée .
+</preparation>
+</recette>

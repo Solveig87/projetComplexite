@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68000">
+<titre>Poulet peanuts paprika ananas</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filets de poulet</p>
+<p>1 petit ananas ou une boîte de 340g (poids net)</p>
+<p>1 oignon</p>
+<p>1 grosse tomate</p>
+<p>125 g de cacahuètes grillées</p>
+<p>paprika</p>
+<p>riz pour accompagner</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> découper </operation> l' <ingredient action="découper" quantite="1"> oignon </ingredient> en lamelles , puis le faire <operation ingredients="huile"> dorer </operation> dans un wok avec un peu d' <ingredient action="dorer"> huile </ingredient> . <operation ingredients="poulet"> découper </operation> en dés les filets de <ingredient action="découper"> poulet </ingredient> et les <operation ingredients="oignon"> ajouter </operation> à l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . laisser <operation> dorer </operation> encore . <operation ingredients="cacahuètes;paprika"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme"> cacahuètes </ingredient> et le <ingredient action="ajouter" quantite=""> paprika </ingredient> . <operation> couvrir </operation> la préparation et laisser <operation> cuire </operation> 10 minutes avant d' y <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> . <operation ingredients="ananas"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> ananas </ingredient> en dernier . laisser encore sur feu moyen 10 à 15 minutes . la préparation s' <operation ingredients="riz"> accompagne </operation> de <ingredient action="accompagne" quantite=""> riz </ingredient> thaï ou basmati .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60423">
+<titre>Salade Poulet Mozzarella</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boule de mozzarella</p>
+<p>2 tomates</p>
+<p>2 filets de Poulet</p>
+<p>1 courgettes</p>
+<p>1 échalote</p>
+<p>1 salade verte</p>
+<p>Pour la vinaigrette</p>
+<p>huile d'olive</p>
+<p>citron</p>
+<p>vinaigre balsamique</p>
+<p>sel, poivre</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient quantite="1"> échalote </ingredient> et la faire <operation ingredients="huile"> dorer </operation> avec un peu d' <ingredient action="dorer" quantite=""> huile </ingredient> d' olive . <operation> ajouter </operation> la courgette en petits cubes . lorsque la courgette est presque <operation> cuite </operation> , <operation ingredients="poulet"> ajouter </operation> les filet de <ingredient action="ajouter"> poulet </ingredient> <operation> émincés </operation> , <operation> saler </operation> , <operation> poivrer </operation> . pendant ce temps , <operation ingredients="mozzarella;tomates"> couper </operation> la <ingredient action="couper"> mozzarella </ingredient> et les <ingredient action="couper" quantite="2"> tomates </ingredient> en très petits cubes . <operation ingredients="salade"> répartir </operation> la <ingredient action="répartir" quantite="1"> salade </ingredient> dans de grandes assiettes creuses , <operation ingredients="tomates;mozzarella"> ajouter </operation> les cubes de <ingredient action="ajouter" quantite="2"> tomates </ingredient> et de <ingredient action="ajouter"> mozzarella </ingredient> , puis <operation> arroser </operation> de vinaigrette . enfin , <operation ingredients="poulet;salade"> ajouter </operation> la préparation de <ingredient action="ajouter"> poulet </ingredient> et courgettes chaude sur la <ingredient action="ajouter" quantite="1"> salade </ingredient> . servir . c' est un régal !
+</preparation>
+</recette>

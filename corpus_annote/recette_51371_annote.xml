@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51371">
+<titre>Gâteau aux noisettes et pépites de chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>300 g de sucre</p>
+<p>4 oeufs (blancs à part)</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure chimique</p>
+<p>250 g de noisettes en poudre</p>
+<p>pépites de chocolat noir</p>
+<p>1 verre d'eau </p>
+<p>1 verre d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucres"> battre </operation> les jaunes d' <ingredient action="battre" quantite="4"> oeufs </ingredient> avec les <ingredient action="battre" quantite="300 gramme"> sucres </ingredient> , jusqu' à que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="farine;levure;huile"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> chimique et ensuite le verre d' eau et d' <ingredient action="ajouter" quantite="1 verre"> huile </ingredient> ; bien <operation> mélanger </operation> . <operation ingredients="chocolat;noisettes"> ajouter </operation> les pépites de <ingredient action="ajouter"> chocolat </ingredient> et les <ingredient action="ajouter" quantite="250 gramme"> noisettes </ingredient> en <operation> poudre </operation> . <operation> incorporer </operation> les blancs <operation> battus </operation> en neige . pour les pépites de <ingredient> chocolat </ingredient> , <operation> râper </operation> du <ingredient> chocolat </ingredient> noir pâtissier !
+</preparation>
+</recette>

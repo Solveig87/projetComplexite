@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18888">
+<titre>Pizza chèvre et miel</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza </p>
+<p>4 petits chèvres frais </p>
+<p>1 Rocamadour (ou 1 petit brebis bien fait) </p>
+<p>Miel</p>
+<p>Gruyère râpé</p>
+<p>Sel, poivre</p>
+<p>Pour la sauce :</p>
+<p>concentré tomate </p>
+<p>1 cuillère à soupe de sucre </p>
+<p>eau</p>
+</ingredients>
+<preparation>
+étaler la <ingredient quantite="1"> pâte </ingredient> . <operation ingredients="tomate"> huiler </operation> et <operation> fariner </operation> un <operation> moule </operation> à tarte . <operation ingredients="pâte"> répartir </operation> la <ingredient action="répartir" quantite="1"> pâte </ingredient> , la <ingredient action="huiler"> tomate </ingredient> puis <operation ingredients="chèvres"> disposer </operation> les petits <ingredient action="disposer" quantite="4"> chèvres </ingredient> <operation ingredients="rocamadour"> coupés </operation> en 2 dans la largeur et le <ingredient action="couper" quantite="1"> rocamadour </ingredient> en petits morceaux . <operation> ajouter </operation> 1 ou 2 cuillères à café de miel liquide ou s' il est solide , un peu <operation> fondu </operation> . <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter" quantite=""> gruyère </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation> enfourner </operation> à 200 <operation> ° </operation> c pour 30 mn ou plus . <ingredient> côte </ingredient> du rhône ou un <ingredient> vin </ingredient> des cévennes .
+</preparation>
+</recette>

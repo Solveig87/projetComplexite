@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55419">
+<titre>Pâte à crêpes simplissime</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de farine</p>
+<p>3 oeufs</p>
+<p>du lait</p>
+<p>du rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> versez </operation> la <ingredient action="verser" quantite="200 gramme"> farine </ingredient> dans un saladier . <operation ingredients="lait"> ajouter </operation> du <ingredient action="ajouter" quantite=""> lait </ingredient> et <operation> battre </operation> au fouet . la <ingredient> pâte </ingredient> doit être <operation> lisse </operation> ( <operation ingredients="lait;oeufs"> mettre </operation> le <ingredient action="mettre" quantite=""> lait </ingredient> avant les <ingredient action="mettre" quantite="3"> oeufs </ingredient> évite les grumeaux ) . <operation ingredients="oeufs;rhum"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> un à un puis le <ingredient action="ajouter" quantite=""> rhum </ingredient> . moi , j' en <operation> mets </operation> une bonne cuillère à soupe . en règle générale , à ce stade la <ingredient action="rajoute"> pâte </ingredient> est trop épaisse alors je <operation ingredients="pâte;lait"> rajoute </operation> du <ingredient action="rajoute" quantite=""> lait </ingredient> jusqu' à la consistance souhaitée .
+</preparation>
+</recette>

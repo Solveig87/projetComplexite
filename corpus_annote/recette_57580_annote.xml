@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57580">
+<titre>Salade de fraises au jus d'agrumes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de fraises</p>
+<p>2 oranges</p>
+<p>3 à 4 cuillères à soupe de sucre</p>
+<p>1 cuillère à soupe de cointreau</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation ingredients="fraises"> équeuter </operation> les <ingredient action="équeuter" quantite="1 kilogramme"> fraises </ingredient> et les <operation> couper </operation> en 2 ou en 4 dans la longueur . les <operation> mettre </operation> dans un saladier . <operation ingredients="oranges"> presser </operation> les 2 <ingredient action="presser" quantite="2"> oranges </ingredient> pour en obtenir le <ingredient> jus </ingredient> , <operation> incorporer </operation> le <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> cointreau </ingredient> <operation ingredients="cointreau;fraises"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="1 kilogramme"> fraises </ingredient> de sucre ( vous en <operation> mettez </operation> plus ou moins selon votre goût ) . <operation> verser </operation> le <operation ingredients="jus"> mélanger </operation> <ingredient action="mélanger"> jus </ingredient> d' orange / cointreau . laisser <operation> macérer </operation> au frais au moins 1 heure .
+</preparation>
+</recette>

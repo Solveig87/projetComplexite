@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50309">
+<titre>Mon pudding aux biscottes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>160 g de biscottes</p>
+<p>50 cl de lait</p>
+<p>4 oeufs entiers</p>
+<p>4 cuillères à soupe de sucre poudre </p>
+<p>1 pomme</p>
+<p>1 banane</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sucre"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> 2 minutes au micro-ondes avec le <ingredient action="chauffer" quantite="4 cuillère à soupe"> sucre </ingredient> . <operation ingredients="biscottes;lait"> emietter </operation> les <ingredient action="emietter" quantite="160 gramme"> biscottes </ingredient> dans le <ingredient action="emietter" quantite="50 cl"> lait </ingredient> <operation> sucré </operation> chaud et <operation> mélanger </operation> énergiquement avec une cuillère . <operation ingredients="oeufs;fruits"> incorporez </operation> les <ingredient action="incorporer" quantite="4"> oeufs </ingredient> puis les <ingredient action="incorporer" quantite="1;1"> fruits </ingredient> <operation> coupés </operation> en petits morceaux . <operation> verser </operation> la préparation dans un <operation> moule </operation> à cake allant au micro-ondes . <operation> couvrir </operation> avec un film étirable et faire quelques trous . faire <operation> cuire </operation> 8 minutes au micro-ondes puissance maximum . <operation> démouler </operation> tiède sur un plat et servir froid avec une <ingredient> crème </ingredient> anglaise ou un coulis de <ingredient quantite="1;1"> fruits </ingredient> . toutes les variantes sont possible avec la base sans les <ingredient quantite="1;1"> fruits </ingredient> : <operation ingredients="chocolat"> ajouter </operation> du <ingredient action="ajouter"> chocolat </ingredient> , de la <ingredient> noix </ingredient> de coco <operation> râpée </operation> , . . . <ingredient> vin </ingredient> liquoreux .
+</preparation>
+</recette>

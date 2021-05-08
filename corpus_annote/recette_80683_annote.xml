@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80683">
+<titre>Escalopes de poulet panées au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>100 g de chapelure</p>
+<p>30 cl de crème fraîche</p>
+<p>500 g de champignons de Paris</p>
+<p>4 tomates</p>
+<p>150 de gruyère râpé</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> paner </operation> les <ingredient action="paner" quantite="6"> escalopes </ingredient> en les <operation ingredients="chapelure"> badigeonnant </operation> de <ingredient action="badigeonner" quantite="100 gramme"> chapelure </ingredient> et les faire <operation> revenir </operation> dans une <operation> poêle </operation> . <operation ingredients="escalopes"> disposer </operation> les <ingredient action="disposer" quantite="6"> escalopes </ingredient> dans un plat à gratin . faire <operation ingredients="champignons"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> champignons </ingredient> , les <operation> saler </operation> et les <operation> poivrer </operation> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en rondelles . <operation ingredients="champignons;tomates;escalopes"> mettre </operation> les <ingredient action="mettre" quantite="500 gramme"> champignons </ingredient> puis les <ingredient action="mettre" quantite="4"> tomates </ingredient> sur les <ingredient action="mettre" quantite="6"> escalopes </ingredient> , <operation ingredients="crème;gruyère"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> fraîche et le <ingredient action="ajouter" quantite="150"> gruyère </ingredient> et <operation> mettre </operation> au four à 200 <operation> ° </operation> c pendant 15 min et laisser <operation> gratiner </operation> 5 min .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34426">
+<titre>Croque-Monsieur a la poele (grilled cheese sandwich)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie (blanc et bien moelleux, à l'anglaise) </p>
+<p>1 tranche de fromage (gruyère, emmental, cheddar...) </p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;fromage;pain"> assembler </operation> le croque : 1 tranche de <ingredient action="assembler" quantite="2 tranche"> pain </ingredient> , 1 tranche de <ingredient action="assembler" quantite="1 tranche"> fromage </ingredient> , 1 tranche de <ingredient action="assembler" quantite="2 tranche"> pain </ingredient> . faire <operation ingredients="noix"> chauffer </operation> une <ingredient action="chauffer"> noix </ingredient> de beurre à la <operation> poêle </operation> . <operation> poser </operation> le croque dans la <operation> poêle </operation> ( <operation ingredients="beurre"> imbiber </operation> de <ingredient action="imbiber"> beurre </ingredient> des deux côtés ) . <operation> cuire </operation> à feu moyen-fort jusqu' à ce que les deux côtés soient bien dorés et que le <ingredient action="fondre" quantite="1 tranche"> fromage </ingredient> soit bien <operation ingredients="fromage"> fondu </operation> . <operation> couper </operation> en triangle ! c' est tellement délicieux qu' il faut absolument essayer ! evidemment vous pouvez <operation ingredients="jambon;fromages"> rajouter </operation> les ingrédients de votre choix ( <ingredient action="rajouter"> jambon </ingredient> , autres <ingredient action="rajouter" quantite="1 tranche"> fromages </ingredient> . . . ) . moi je suis végétarienne , et je trouve ce plat parfait dans sa simplicité extrême !
+</preparation>
+</recette>

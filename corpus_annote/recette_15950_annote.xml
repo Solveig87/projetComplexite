@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15950">
+<titre>Cari de poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet en morceaux ou des des morceaux de poulet (cuisse, blanc, pignon)</p>
+<p>3 gousses d'ail</p>
+<p>1 gros oignon</p>
+<p>1 morceau de gingembre</p>
+<p>sel et poivre</p>
+<p>1 poivron</p>
+<p>thym, curcuma</p>
+<p>un peu d'huile d'olive</p>
+<p>1 tomate(facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;poulet"> frire </operation> dans un peu d' <ingredient action="frire"> huile </ingredient> les morceaux de <ingredient action="frire" quantite="1"> poulet </ingredient> ( ils doivent être bien dorés ) . faire <operation ingredients="ail;oignon;gingembre"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> <operation> écrasé </operation> , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> haché </operation> fin et le <ingredient action="revenir"> gingembre </ingredient> <operation> écrasé </operation> . c' est à ce moment qu' il faut <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> émincée </operation> ( facultatif ) . <operation ingredients="curcuma"> ajouter </operation> le <ingredient action="ajouter" quantite=""> curcuma </ingredient> ainsi que 25 cl d' eau . faire <operation ingredients="poulet"> mijoter </operation> le <operation> mélange </operation> avec les morceaux de <ingredient action="mijoter" quantite="1"> poulet </ingredient> , <operation ingredients="thym"> ajouter </operation> une branche de <ingredient action="ajouter" quantite=""> thym </ingredient> frais , <operation> saler </operation> , <operation> couvrir </operation> et laisser <operation> cuire </operation> encore 20 mn . ce plat ce déguste avec du <ingredient> riz </ingredient> blanc . st joseph rouge
+</preparation>
+</recette>

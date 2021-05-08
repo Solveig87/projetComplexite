@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57416">
+<titre>Pain de thon aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de thon</p>
+<p>2 oeufs</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>2 cuillères à soupe de concentrée de tomates</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poivrons"> cuire </operation> les <ingredient action="cuire"> poivrons </ingredient> dans une <operation> poêle </operation> . pendant ce temps : <operation ingredients="thon"> emiettez </operation> le <ingredient action="emiettez" quantite="500 gramme"> thon </ingredient> dans un plat . <operation ingredients="oeufs;sel;poivre"> battez </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> avec le <ingredient action="battre" quantite=""> sel </ingredient> , le <ingredient action="battre" quantite=""> poivre </ingredient> et le <operation> concentré </operation> . <operation ingredients="thon;oeufs"> mélangez </operation> le <ingredient action="mélanger" quantite="500 gramme"> thon </ingredient> et les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> . laissez <operation> reposer </operation> pendant que les <ingredient action="cuire"> poivrons </ingredient> <operation ingredients="poivrons"> cuisent </operation> et faire préchauffer le four au maxi . une fois les <ingredient> poivrons </ingredient> <operation> cuits </operation> , <operation> mélangez </operation> le tout . <operation> mettre </operation> à <operation> cuire </operation> 30 min à 18 . 200 <operation> ° </operation> dans un plat à cake . vous pouvez <operation ingredients="épices"> rajouter </operation> des <ingredient action="rajouter" quantite=";"> épices </ingredient> à votre mixture avant de la faire <operation ingredients="curry"> cuire </operation> ( <ingredient action="cuire"> curry </ingredient> , épices d' inde ) et / ou des herbes ! se <ingredient> mange </ingredient> aussi bien chaud en plat , que froid en entrée ! <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

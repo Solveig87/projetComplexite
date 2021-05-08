@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28307">
+<titre>Poulet au curry de joela</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet coupé en morceaux</p>
+<p>4 petits oignons (ou 2 gros) </p>
+<p>1 gousse d'ail</p>
+<p>1/2 citron</p>
+<p>2 yaourts veloutés</p>
+<p>50 g de cacahuètes</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de curry</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>1 pincée de cannelle</p>
+<p>1 pincée de muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> dans l' <ingredient action="revenir" quantite="4 cuillère à soupe"> huile </ingredient> pendant 10 mn . <operation ingredients="ail;oignons;cacahuètes"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et les <ingredient action="ajouter" quantite="4"> oignons </ingredient> <operation> émincés </operation> finement , ainsi que les <ingredient action="ajouter" quantite="50 gramme"> cacahuètes </ingredient> <operation> mixées </operation> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> porter </operation> doucement à <operation> ébullition </operation> . <operation ingredients="curry;muscade;cannelle;tomate"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> curry </ingredient> , la <ingredient action="ajouter" quantite="1 pincée"> muscade </ingredient> , la <ingredient action="ajouter" quantite="1 pincée"> cannelle </ingredient> et le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> . <operation> couvrer </operation> et laisser <operation> mijoter </operation> sur feu doux durant 1 h 30 . <operation ingredients="yaourts"> rajouter </operation> les deux <ingredient action="rajouter" quantite="2"> yaourts </ingredient> 20 minutes avant la fin de cuisson . <operation ingredients="jus"> incorporer </operation> le <ingredient action="incorporer"> jus </ingredient> de citron . servir avec du <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

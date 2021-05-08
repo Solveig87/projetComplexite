@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56243">
+<titre>Pizza pomme de terre raclette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza</p>
+<p>4 tomates</p>
+<p>1 oignon</p>
+<p>2 gousses ail</p>
+<p>10 fines tranche de poitrine fumée</p>
+<p>4 pommes de terre (moyenne)</p>
+<p>180 g de fromage à raclette</p>
+<p>crème fraîche</p>
+<p>ciboulette</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="4"> pommes </ingredient> de terre à l' eau ( départ eau froide , cuisson environ 20 min selon leur taille ) . <operation ingredients="oignon;ail"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et l' <ingredient action="hacher"> ail </ingredient> , les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> avec de l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="tomates"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> émincées </operation> ( <operation> pelées </operation> et épépinées si possible ) . laisser <operation> cuire </operation> environs 5 min à feu doux en <operation> remuant </operation> , le <ingredient> jus </ingredient> doit s' évaporer au maximum . <operation ingredients="ciboulette"> préparer </operation> une sauce avec 6 cuillères à soupe de crème et autant de <ingredient action="préparer" quantite=""> ciboulette </ingredient> que vous le souhaitez . <operation> saler </operation> et <operation> poivrer </operation> . préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="tomate;pâte"> etaler </operation> la sauce aux <ingredient action="etaler" quantite="4"> tomate </ingredient> sur la <ingredient action="etaler" quantite="1"> pâte </ingredient> , ensuite <operation ingredients="poitrine;fumée"> mettre </operation> une couche de <ingredient action="mettre"> poitrine </ingredient> <ingredient action="mettre"> fumée </ingredient> . <operation ingredients="crème"> recouvrir </operation> d' une couche de sauce <ingredient action="recouvrir" quantite=""> crème </ingredient> fraîche ciboulette , puis <operation ingredients="pommes"> mettre </operation> une couche de <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre ( <operation> pelées </operation> et <operation> coupées </operation> en lamelles ) . <operation ingredients="crème"> rajouter </operation> une couche de sauce <ingredient action="rajouter" quantite=""> crème </ingredient> fraiche ciboulette . enfin <operation ingredients="fromage"> disposer </operation> les tranche de <ingredient action="disposer" quantite="180 gramme"> fromage </ingredient> à raclette . <operation> enfourner </operation> 15 à 20 min . c' est trop bon ! un grand succès !
+</preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72926">
+<titre>Gâteau Royal au Chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la génoise: </p>
+<p>300 g de farine</p>
+<p>250 g de sucre en poudre</p>
+<p>1 verre d'huile olive</p>
+<p>1 verre de lait</p>
+<p>1 sachet de levure chimique </p>
+<p>2 sachets de sucre vanillé</p>
+<p>6 oeufs</p>
+<p>Pour la garniture et le glaçage:</p>
+<p>1 boîte de crème dessert Mont Blanc Chocolat</p>
+<p>125 g de chocolat pâtissier</p>
+<p>1 cuillère à soupe d'eau</p>
+<p>50 g de beurre</p>
+<p>100 g de sucre glace</p>
+<p>décor de vermicelles</p>
+</ingredients>
+<preparation>
+préparation de la génoise : 1 ) <operation ingredients="sucre;oeufs;levure"> mélanger </operation> <ingredient action="mélanger" quantite="250 gramme+100 gramme"> sucre </ingredient> + huile + lait + jaunes d' <ingredient action="mélanger" quantite="6"> oeufs </ingredient> + sucre vanillé + <ingredient action="mélanger"> levure </ingredient> . 2 ) <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> farine </ingredient> <operation> tamisée </operation> et bien <operation> mélanger </operation> . 3 ) <operation ingredients="oeufs"> monter </operation> les blancs d' <ingredient action="monter" quantite="6"> oeufs </ingredient> en neige et les <operation ingredients="pâte"> incorporer </operation> à la <ingredient action="incorporer"> pâte </ingredient> . 4 ) <operation> cuire </operation> 30 min à 200 <operation> ° </operation> , thermostat . 7 . 5 ) a la sortie du four , <operation> démouler </operation> et laisser refroidir . préparation du glaçage : 1 ) faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> avec l' eau et le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> ( au bain - marie de préférence ) . 2 ) <operation ingredients="sucre;glace"> incorporer </operation> le <ingredient action="incorporer" quantite="250 gramme+100 gramme"> sucre </ingredient> <ingredient action="incorporer"> glace </ingredient> à l' aide d' une spatule . montage du <ingredient action="couper"> gâteau </ingredient> : 1 ) <operation ingredients="gâteau"> couper </operation> la génoise en 2 horizontalement pour obtenir 2 disques . 2 ) <operation ingredients="crème;dessert"> garnir </operation> le 1 er disque de génoise de <ingredient action="garnir"> crème </ingredient> <ingredient action="garnir" quantite="250 gramme+100 gramme;125 gramme"> dessert </ingredient> et <operation> recouvrir </operation> avec le 2ème disque . 3 ) <operation ingredients="gâteau;chocolat"> napper </operation> le <ingredient action="napper"> gâteau </ingredient> avec le glaçage au <ingredient action="napper" quantite="125 gramme"> chocolat </ingredient> et <operation ingredients="vermicelles"> parsemer </operation> de <ingredient action="parsemer"> vermicelles </ingredient> multicolores . 4 ) <operation> réserver </operation> au frigo ( si possible la veille pour que le glaçage durcisse ) . recette de ma grand-mère qui nous <operation ingredients="gâteau"> préparait </operation> ce <ingredient action="préparer"> gâteau </ingredient> pour les anniversaires . . . un souvenir divin . . . pour vous simplifier la vie , commander la génoise à votre boulanger . . .
+</preparation>
+</recette>

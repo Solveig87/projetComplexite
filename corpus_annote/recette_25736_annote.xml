@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25736">
+<titre>Taboulé de mémé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de semoule moyenne</p>
+<p>1 concombre</p>
+<p>3 tomates moyennes</p>
+<p>1 poivron vert</p>
+<p>1 oignon</p>
+<p>1 citron</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="semoule"> placez </operation> 200 g de <ingredient action="placer" quantite="200 gramme"> semoule </ingredient> dans un saladier , <operation ingredients="concombre"> râpez </operation> le <ingredient action="râper" quantite="1"> concombre </ingredient> . <operation> mixez </operation> l' <ingredient quantite="1"> oignon </ingredient> et le <ingredient> poivron </ingredient> ( pas en <ingredient> jus </ingredient> ) . <operation ingredients="tomates"> pelez </operation> les <ingredient action="peler" quantite="3"> tomates </ingredient> et <operation> coupez </operation> - les en tous petits dés . <operation> mélangez </operation> le tout , <operation ingredients="huile;jus"> ajoutez </operation> 5 cuillères d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive et le <ingredient action="ajouter"> jus </ingredient> du citron , <operation> salez </operation> et <operation> poivrez </operation> . <operation> mettez </operation> au réfrigérateur pendant 1 nuit . pour <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="3"> tomates </ingredient> facilement , <operation> plongez </operation> - les dans l' eau bouillante 5 secondes .
+</preparation>
+</recette>

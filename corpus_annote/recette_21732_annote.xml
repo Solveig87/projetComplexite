@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21732">
+<titre>Brohettes de rognons de veau et tomates grillées</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 rognons de veau</p>
+<p>3 tomates</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>1 cuillère à café de thym</p>
+<p>6 tomates</p>
+<p>sel et  poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="rognons"> découper </operation> les <ingredient action="découper" quantite="3"> rognons </ingredient> en deux et les <operation ingredients="huile;thym"> plonger </operation> dans un saladier avec l' <ingredient action="plonger" quantite="6 cuillère à soupe"> huile </ingredient> et le <ingredient action="plonger" quantite="1 cuillère à café"> thym </ingredient> . <operation> assaisonner </operation> et laisser <operation> macérer </operation> 30 min en les <operation> retournant </operation> toutes les 10 min . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="3+6"> tomates </ingredient> en deux et les <operation ingredients="huile"> recouvrir </operation> d’ <ingredient action="recouvrir" quantite="6 cuillère à soupe"> huile </ingredient> de macération . <operation ingredients="viande"> égoutter </operation> la <ingredient action="égoutter" quantite="3"> viande </ingredient> sur un papier absorbant , les <operation> rouler </operation> et les <operation> embrocher </operation> . <operation ingredients="viande;tomates"> enfourner </operation> la <ingredient action="enfourner" quantite="3"> viande </ingredient> et les <ingredient action="enfourner" quantite="3+6"> tomates </ingredient> sur le lèche - vitre position grill pendant 20 min , avec le four ouvert , en <operation ingredients="viande"> retournant </operation> la <ingredient action="retourner" quantite="3"> viande </ingredient> de temps en temps . fermer et <operation> éteindre </operation> le four , en finissant la cuisson dans la chaleur du four pendant 5 min . servir les <ingredient quantite="3"> rognons </ingredient> avec des frites et les <ingredient quantite="3+6"> tomates </ingredient> grillées .
+</preparation>
+</recette>

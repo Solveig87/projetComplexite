@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10729">
+<titre>Assiette de blinis au Carré frai aux saveurs exotiques</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blinis</p>
+<p>4 Carrés frais</p>
+<p>2 tranches d'ananas</p>
+<p>une noix de beurre</p>
+<p>4 feuilles de salade</p>
+<p>10 cl de crème liquide</p>
+<p>6 cerneaux de noix</p>
+<p>10 cl de miel</p>
+<p>1 cuiller à café d'herbes de Provence</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ananas;noix"> dorer </operation> les 2 tranches d' <ingredient action="dorer" quantite="2 tranche"> ananas </ingredient> <operation> coupées </operation> en dés dans une poële avec la <ingredient action="dorer" quantite="1"> noix </ingredient> de beurre . faire <operation ingredients="blinis"> dorer </operation> également les 4 <ingredient action="dorer" quantite="4"> blinis </ingredient> au four . dans une casseroles <operation> chauffer </operation> à feu doux la crême avec les herbes de provence , une pincée de <ingredient quantite=""> sel </ingredient> et quelque tour de moulin de <ingredient> poivre </ingredient> . <operation ingredients="salade;blinis"> déposer </operation> 2 feuilles de <ingredient action="déposer" quantite="4 feuille"> salade </ingredient> puis 2 <ingredient action="déposer" quantite="4"> blinis </ingredient> dans chaque assiette préalablement <operation> chauffée </operation> . <operation ingredients="carré;blini"> ajouter </operation> un <ingredient action="ajouter"> carré </ingredient> frais sur chaque <ingredient action="ajouter" quantite="4"> blini </ingredient> . <operation ingredients="ananas;blinis"> disposer </operation> les dés d' <ingredient action="disposer" quantite="2 tranche"> ananas </ingredient> dorés sur les <ingredient action="disposer" quantite="4"> blinis </ingredient> et autours . puis <operation ingredients="crème;miel"> parsemer </operation> successivement de <ingredient action="parsemer" quantite="10 cl"> crème </ingredient> provençale et de <ingredient action="parsemer" quantite="10 cl"> miel </ingredient> . <operation> déposer </operation> pour finir 3 cerneaux de <ingredient quantite="1"> noix </ingredient> par assiette selon la présentation que vous préférez . cette recette et simple et délicieuse . bon appétit !
+</preparation>
+</recette>

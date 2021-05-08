@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38696">
+<titre>Sauté de mines (nouilles) chinoises</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 paquet de mines chinoises (nouilles)</p>
+<p>1 carotte</p>
+<p>1 petit poivron vert</p>
+<p>200 g de pousses de soja</p>
+<p>100 g d'haricots vert</p>
+<p>300 g d'escalope de poulet (variante possible avec du veau, boeuf, crevette...)</p>
+<p>2 oeufs</p>
+<p>sauce soja</p>
+<p>huile</p>
+<p>sel, poivre</p>
+<p>3 gousses d'ail et 2 cm de gingembre</p>
+<p>ail chinois et oignon vert (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="nouilles"> cuire </operation> les <ingredient action="cuire"> nouilles </ingredient> dans de l' eau bouillante pendant 8 min . <operation ingredients="légumes;poivron;haricots"> lavez </operation> vos <ingredient action="laver" quantite="1;1;200 gramme;100 gramme"> légumes </ingredient> , <operation ingredients="carotte"> coupez </operation> la <ingredient action="couper" quantite="1"> carotte </ingredient> en julienne , le <ingredient action="laver" quantite="1"> poivron </ingredient> en lanières , les <ingredient action="laver" quantite="100 gramme"> haricots </ingredient> vert en deux . <operation ingredients="nouilles;soja"> passez </operation> vos <ingredient action="passer"> nouilles </ingredient> , <operation> arrosez </operation> - les de 2 cuillères à soupe de sauce <ingredient action="passer"> soja </ingredient> et <operation> réservez </operation> . <operation ingredients="escalopes"> coupez </operation> vos <ingredient action="couper" quantite="300 gramme"> escalopes </ingredient> en lanières , <operation> salez </operation> , <operation ingredients="ail;gingembre"> poivrez </operation> , <operation> hachez </operation> l' <ingredient action="poivrer"> ail </ingredient> et le <ingredient action="poivrer"> gingembre </ingredient> que vous <operation ingredients="escalopes"> mélangerez </operation> aux <ingredient action="mélanger" quantite="300 gramme"> escalopes </ingredient> avec 2 cuillères à soupe de sauce de soja . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> pour en faire une omelettes que vous <operation> couperez </operation> en lanières . dans un wok , à feu vif , faites <operation ingredients="légumes;huile"> sauter </operation> tous les <ingredient action="sauter" quantite="1;1;200 gramme;100 gramme"> légumes </ingredient> un par un avec un peu d' <ingredient action="sauter" quantite=""> huile </ingredient> pendant 1 minute . <operation ingredients="nouilles"> réservez </operation> avec les <ingredient action="réserver"> nouilles </ingredient> . dans le wok ou une <operation> poêle </operation> , <operation> versez </operation> 2 cuillères à soupe d' huile , à feu vif faites - y <operation ingredients="escalopes"> sauté </operation> vos <ingredient action="sauter" quantite="300 gramme"> escalopes </ingredient> pendant 4 minutes . <operation ingredients="nouilles;légumes;escalopes"> mélangez </operation> les <ingredient action="mélanger"> nouilles </ingredient> , les <ingredient action="mélanger" quantite="1;1;200 gramme;100 gramme"> légumes </ingredient> et les <ingredient action="mélanger" quantite="300 gramme"> escalopes </ingredient> sur feu doux pendant 1 minute . servez chaud , <operation ingredients="ail;oignons"> parsemé </operation> de lanières d' omelette et de quelques lanières d' <ingredient action="parsemer"> ail </ingredient> chinois et d' <ingredient action="parsemer"> oignons </ingredient> vert si possible . a <operation> accompagner </operation> d' un piment chinois ou d' un rougail tomate .
+</preparation>
+</recette>

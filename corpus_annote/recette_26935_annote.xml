@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26935">
+<titre>Spaghetti végétal</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>une courgette 'spaghetti'</p>
+<p>400 g de dés de lardons fumés</p>
+<p>2 gros oignons</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> la courgette sphaghetti pendant 30 mn dans l' eau bouillante pour la rendre molle . pendant ce temps , <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> et les faire <operation> revenir </operation> dans une <operation> poêle </operation> à feu doux , pour ne pas les caraméliser . <operation ingredients="lardons"> faire </operation> de même avec les <ingredient action="faire"> lardons </ingredient> sur feu vif . une fois la courgette <ingredient action="couper"> spaghetti </ingredient> <operation> cuite </operation> , la <operation ingredients="spaghetti"> couper </operation> en deux dans le sens de la longueur . <operation> enlever </operation> d' abord les pépins puis ensuite à l' aide d' une cuillère à soupe , <operation> racler </operation> les parois pour en <operation ingredients="spaghettis"> extraire </operation> les <ingredient action="extraire"> spaghettis </ingredient> . pour finir , <operation ingredients="oignons;lardons;spaghettis"> mélanger </operation> la fondue d' <ingredient action="mélanger" quantite="2"> oignons </ingredient> avec les dés de <ingredient action="mélanger"> lardons </ingredient> et les <ingredient action="mélanger"> spaghettis </ingredient> dans une sauteuse , faire <operation> revenir </operation> une dernière fois et servir chaud .
+</preparation>
+</recette>

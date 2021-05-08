@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12999">
+<titre>Galette de goumeau (Franche-Comté)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>1 oeuf</p>
+<p>50g de sucre</p>
+<p>6 cuillères à soupe de crème épaisse ou de peau de lait</p>
+<p>1 dl de lait</p>
+<p>1/2 cuillère à café de sel</p>
+<p>15g de levure de bière</p>
+<p>1 cuillère à soupe d'eau de fleur d'oranger</p>
+<p>200g de farine</p>
+<p>Pour le goumeau :</p>
+<p>5 cuillères à soupe rases de crème fraiche épaisse</p>
+<p>1 jaune d'oeuf</p>
+<p>5 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="levure"> délayez </operation> la <ingredient action="délayer" quantite="15 gramme"> levure </ingredient> dans 3 cuillères à soupe de lait à peine tiède . dans une terrine , <operation ingredients="oeuf;sucre;crème;lait;farine"> mélangez </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> entier avec le <ingredient action="mélanger" quantite="50 gramme+5 cuillère à soupe"> sucre </ingredient> puis <operation ingredients="sel"> ajouter </operation> le <ingredient action="ajouter"> sel </ingredient> , la <ingredient action="mélanger" quantite="6 cuillère à soupe"> crème </ingredient> , l' eau d' oranger , le reste de <ingredient action="mélanger" quantite="1 dl"> lait </ingredient> tiède et enfin la <ingredient action="mélanger" quantite="200 gramme"> farine </ingredient> ( parfois un peu plus de 200 g ) pour obtenir une <ingredient> pâte </ingredient> assez molle . <operation ingredients="lieu;lait"> ajouter </operation> en dernier <ingredient action="ajouter"> lieu </ingredient> la levure <operation> délayée </operation> dans le <ingredient action="ajouter" quantite="1 dl"> lait </ingredient> . <operation> pétrir </operation> à la main quelques minutes . <operation> beurrer </operation> et <operation> fariner </operation> un <operation> moule </operation> à tarte à fond plein , puis étaler la <ingredient> pâte </ingredient> à la main dans ce <operation> moule </operation> ( environ 1 , 5 cm épaisseur ) . laisser lever au tiède pendant 2 à 3 heures . juste avant la cuisson , <operation> préparer </operation> le goumeau en <operation ingredients="crème;sucre"> mélangeant </operation> la <ingredient action="mélanger" quantite="6 cuillère à soupe"> crème </ingredient> , le jaune d' oeurf et le <ingredient action="mélanger" quantite="50 gramme+5 cuillère à soupe"> sucre </ingredient> . <operation ingredients="crème;pâte"> etendre </operation> cette <ingredient action="etendre" quantite="6 cuillère à soupe"> crème </ingredient> sur la <ingredient action="etendre"> pâte </ingredient> et faire <operation> cuire </operation> à four chaud . immédiatement à la sortie du four , <operation ingredients="gâteau"> soupoudrer </operation> le <ingredient action="soupoudrer"> gâteau </ingredient> de sucre en <operation> poudre </operation> . on peut servir la <ingredient> galette </ingredient> de goumeau avec de la <ingredient> glace </ingredient> à la vanille .
+</preparation>
+</recette>

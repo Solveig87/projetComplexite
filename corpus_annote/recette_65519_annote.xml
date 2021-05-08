@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65519">
+<titre>Boulette d'agneau à la libanaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>700 g de haché d'agneau</p>
+<p>1 tasse de semoule de couscous ou boulgour trempé (couscous + eau bouillante)</p>
+<p>beurre</p>
+<p>2 jaunes d'oeuf</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail hachée</p>
+<p>4 cuillères à soupe de menthe fraîche hachée</p>
+<p>2 cuillères à café de cumin en poudre</p>
+<p>1 cuillère à soupe de paprika en poudre</p>
+<p>2 cuillères à soupe de raisins secs</p>
+<p>sel, poivre</p>
+<p>farine</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon;beurre"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> haché </operation> dans le <ingredient action="revenir"> beurre </ingredient> <operation> fondu </operation> . laissez - le un peu refroidir et <operation> mélangez </operation> - le avec le haché d' <ingredient action="cuire"> agneau </ingredient> , les jaunes d' <ingredient action="cuire"> oeuf </ingredient> , le couscous <operation ingredients="agneau;oeuf;menthe"> cuit </operation> et la <ingredient action="cuire" quantite="4 cuillère à soupe"> menthe </ingredient> . <operation ingredients="sel;poivre;cumin;paprika"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , de <ingredient action="assaisonner" quantite=""> poivre </ingredient> , de <ingredient action="assaisonner" quantite="2 cuillère à café"> cumin </ingredient> et de <ingredient action="assaisonner" quantite="1 cuillère à soupe"> paprika </ingredient> . <operation ingredients="raisins"> ajoutez </operation> les <ingredient action="ajouter" quantite="2 cuillère à soupe"> raisins </ingredient> secs . faites -en des boulettes de 3 à 4 cm de diamètre et <operation ingredients="farine"> passez </operation> - les dans la <ingredient action="passer" quantite=""> farine </ingredient> . <operation ingredients="beurre"> laissez </operation> - les <operation> dorer </operation> environ 20 minutes à feux doux , à la <operation> poêle </operation> , dans un peu de <ingredient action="laisser"> beurre </ingredient> <operation ingredients="huile"> fondu </operation> ou <ingredient action="fondre"> huile </ingredient> d' olive . <operation ingredients="pâtes;riz"> accompagnez </operation> ce plat de <ingredient action="accompagner"> pâtes </ingredient> ou de <ingredient action="accompagner"> riz </ingredient> . plat rapide , original et plaisant aux petits comme aux grands .
+</preparation>
+</recette>

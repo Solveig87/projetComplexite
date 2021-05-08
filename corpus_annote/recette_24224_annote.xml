@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24224">
+<titre>Poule au blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poule à bouillir</p>
+<p>1 botte de poireaux</p>
+<p>céleri</p>
+<p>2 oignons</p>
+<p>3 carottes</p>
+<p>2 citrons</p>
+<p>1 tablette de concentré de poule</p>
+<p>feuille de laurier</p>
+<p>sel, poivre</p>
+<p>1 boîte de champignons</p>
+<p>beurre</p>
+<p>farine</p>
+<p>lait</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="poule"> mettre </operation> la <ingredient action="mettre" quantite="1"> poule </ingredient> dans une grande casserole d' eau froide . faire <operation> chauffer </operation> l' eau et <operation ingredients="poule"> écumer </operation> au fur et à <operation> mesure </operation> que la <ingredient action="écumer" quantite="1"> poule </ingredient> cuit . quand plus rien de sale ne <operation> revient </operation> à la surface , <operation ingredients="légumes"> ajouter </operation> tous les <ingredient action="ajouter" quantite=";2;3;2;"> légumes </ingredient> pour <operation ingredients="bouillon"> faire </operation> un <ingredient action="faire"> bouillon </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> une 1 h. <operation ingredients="bouillon;lait"> faire </operation> une sauce blanche avec moitié <ingredient action="faire"> bouillon </ingredient> , moitié <ingredient action="faire" quantite=""> lait </ingredient> . <operation ingredients="jus;citron;crème;champignons"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d'1 / 2 <ingredient action="ajouter" quantite="2"> citron </ingredient> , la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche et les <ingredient action="ajouter"> champignons </ingredient> . . la sauce doit être semi-liquide <operation ingredients="riz"> accompagner </operation> ce plat de <ingredient action="accompagner"> riz </ingredient>
+</preparation>
+</recette>

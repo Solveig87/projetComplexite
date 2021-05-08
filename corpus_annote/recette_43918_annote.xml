@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43918">
+<titre>Pécan pie</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>1 tasse (250 ml) de sirop de maïs</p>
+<p>2 cuillères à café (30 g) de beurre fondu</p>
+<p>1 cuillère à thé (5 ml) de vanille</p>
+<p>3/4 tasse (170 g) de sucre</p>
+<p>sel</p>
+<p>1 tasse (250 ml) de noix de pécan</p>
+<p>1 pâte à tarte</p>
+</ingredients>
+<preparation>
+<operation ingredients="noix"> mélanger </operation> tous les ingrédients sauf les <ingredient action="mélanger"> noix </ingredient> de pécan . <operation ingredients="noix;pâte"> mettre </operation> les <ingredient action="mettre"> noix </ingredient> de pécan au fond de la <ingredient action="mettre" quantite="1"> pâte </ingredient> . <operation> verser </operation> le <operation> mélange </operation> dessus . <operation> cuire </operation> au four à 180 <operation> ° </operation> c ( th 6 ) , durant 50 min . laisser <operation> reposer </operation> un peu , et déguster à température ambiante . selon moi , c' est une excellente recette . vous pouvez la déguster avec de la <ingredient> crème </ingredient> , une boule de <ingredient> glace </ingredient> <ingredient> vanille </ingredient> , ou seule !
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29402">
+<titre>Lapin sauce moutarde</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 petit lapin</p>
+<p>30 cl de vin blanc sec</p>
+<p>3 cuillères à soupe de moutarde forte</p>
+<p>60 g de beurre</p>
+<p>2 oignons</p>
+<p>10 cl de crème</p>
+<p>30 g de farine</p>
+<p>1 cuillère à soupe rase de persil haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> couper </operation> le <ingredient action="couper" quantite="1"> lapin </ingredient> et <operation> saler </operation> , <operation> poivrer </operation> et <operation> fariner </operation> les morceaux . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et y faire à peine <operation ingredients="viande"> dorer </operation> la <ingredient action="dorer" quantite="1"> viande </ingredient> . <operation> emincer </operation> les <ingredient quantite="2"> oignons </ingredient> , les <operation> ajouter </operation> dans la <operation> poêle </operation> et faire suer . <operation ingredients="vin"> recouvrir </operation> de <ingredient action="recouvrir" quantite="30 cl"> vin </ingredient> blanc et au moment de l' <operation> ébullition </operation> , <operation ingredients="moutarde"> mettre </operation> la <ingredient action="mettre" quantite="3 cuillère à soupe"> moutarde </ingredient> . <operation> cuire </operation> sous couvercle à feu doux pendant 1 h. en toute fin de cuisson , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> , vérifier l' <ingredient quantite="3 cuillère à soupe;"> assaisonnement </ingredient> et <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer"> persil </ingredient> .
+</preparation>
+</recette>

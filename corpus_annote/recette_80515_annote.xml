@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80515">
+<titre>La tartine nordique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain noir</p>
+<p>8 filets de harengs marinés</p>
+<p>4 tranches de jambon cru</p>
+<p>1 pomme</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> les tranches de <ingredient action="griller" quantite="8 tranche"> pain </ingredient> noir . <operation ingredients="pomme"> râper </operation> la <ingredient action="râper" quantite="1"> pomme </ingredient> . <operation ingredients="hareng"> disposer </operation> sur chaque tranche un filet de <ingredient action="disposer"> hareng </ingredient> , <operation ingredients="jambon"> effilocher </operation> un peu de <ingredient action="effilocher" quantite="4 tranche"> jambon </ingredient> cru dessus et <operation ingredients="pomme"> saupoudrer </operation> le tout de copeaux de <ingredient action="saupoudrer" quantite="1"> pomme </ingredient> . cette tartine peut , <operation ingredients="salade"> accompagnée </operation> d' une <ingredient action="accompagner"> salade </ingredient> , faire office de plat principal . dans le nord de l' allemagne , il s' agit surtout d' un en - cas ou d' un petit-déjeuner reconstituant après une soirée trop <operation> arrosée </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13031">
+<titre>Hamburger au tofu</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un bloc de tofu </p>
+<p>6 cas de sauce soja </p>
+<p>6 cas d'amandes entières</p>
+<p>6 cas de graines de sésame</p>
+<p>3 cas de noisettes moulues</p>
+<p>1 oeuf</p>
+<p>8 cas de farine</p>
+<p>poivre, sel, chili en poudre, paprika...</p>
+<p>-huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="tofu"> couper </operation> le <ingredient action="couper"> tofu </ingredient> en morceaux . le <operation ingredients="soja"> mixer </operation> avec la sauce <ingredient action="mixer"> soja </ingredient> . <operation ingredients="amandes"> hâcher </operation> grossièrement les <ingredient action="hâcher"> amandes </ingredient> . <operation ingredients="huile"> ajouter </operation> tout le reste , sauf l' <ingredient action="ajouter"> huile </ingredient> . <operation> mélanger </operation> et <operation> assaisonner </operation> selon vos goûts et couleurs . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une <operation> poêle </operation> . <operation> prélever </operation> des portions à l' aide d' une cuillère à glace et les <operation> mette </operation> dans la <operation> poêle </operation> , puis les <operation> aplatir </operation> . <operation ingredients="hamburgers"> saisir </operation> brièvement les <ingredient action="saisir"> hamburgers </ingredient> de chaque côté et les laisser <operation> tiédir </operation> . servir dans un <ingredient> pain </ingredient> spécial hamburger avec des <ingredient> tomates </ingredient> , de la <ingredient> salade </ingredient> , des <ingredient> oignons </ingredient> , de gros <ingredient> cornichons </ingredient> et <operation ingredients="ketchup"> napper </operation> de <ingredient action="napper"> ketchup </ingredient> ou moutarde selon les envies du moment ! pas de risque de vache folle ! chianti
+</preparation>
+</recette>

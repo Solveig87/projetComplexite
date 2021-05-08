@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26272">
+<titre>Thon en sauce aigre-douce</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 tranche de thon frais de 600 g</p>
+<p>30 cl de vin blanc sec</p>
+<p>2 grosses tomates</p>
+<p>6 petits oignons</p>
+<p>1 citron</p>
+<p>1 gousse d'ail</p>
+<p>3 cuillerées d'huile d'olive</p>
+<p>1 feuille de laurier</p>
+<p>1 brin de thym</p>
+<p>1 cuillerée à soupe de curry</p>
+<p>1 pointe de couteau de safran</p>
+<p>1 pointe de couteau de Cayenne</p>
+<p>1 cuillerée à soupe de miel</p>
+<p>2 pincées d'herbes de Provence émiettées</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon;vin;laurier;thym;sel;poivre"> déposer </operation> le <ingredient action="déposer" quantite="1 tranche"> thon </ingredient> dans un plat avec le <ingredient action="déposer" quantite="30 cl"> vin </ingredient> blanc , le <ingredient action="déposer" quantite="1 feuille"> laurier </ingredient> , le <ingredient action="déposer"> thym </ingredient> , du <ingredient action="déposer" quantite=""> sel </ingredient> et du <ingredient action="déposer" quantite=""> poivre </ingredient> . laisser <operation> mariner </operation> environ 1 h en le retournant de temps en temps . <operation ingredients="tomates"> peler </operation> et <operation> couper </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> en dés . <operation ingredients="oignons"> peler </operation> les petits <ingredient action="peler" quantite="6"> oignons </ingredient> . <operation ingredients="citron"> peler </operation> le <ingredient action="peler" quantite="1"> citron </ingredient> à vif . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une cocotte . y faire <operation ingredients="tomates"> revenir </operation> les <ingredient action="revenir" quantite="2"> tomates </ingredient> à feu doux , <operation ingredients="oignons;citron;gousse"> ajouter </operation> les petits <ingredient action="ajouter" quantite="6"> oignons </ingredient> , le <ingredient action="ajouter" quantite="1"> citron </ingredient> et la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail <operation> écrasée </operation> . <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer"> curry </ingredient> , safran , cayenne . <operation ingredients="miel"> rajouter </operation> le <ingredient action="rajouter"> miel </ingredient> et les herbes de provence . <operation> mélanger </operation> , <operation> goûter </operation> et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1;1 feuille;;"> assaisonnement </ingredient> . <operation ingredients="thon;légumes"> poser </operation> le <ingredient action="poser" quantite="1 tranche"> thon </ingredient> dans la cocotte sur les <ingredient action="poser" quantite="2;6;1"> légumes </ingredient> , <operation> verser </operation> un peu de sa marinade et faire <operation> cuire </operation> à feu doux environ 1 h. servir bien chaud <operation ingredients="riz;pommes"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pommes </ingredient> de terre au four .
+</preparation>
+</recette>

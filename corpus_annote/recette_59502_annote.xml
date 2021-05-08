@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59502">
+<titre>Pâtes fraîches aux courgettes sauce coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>750 g de tagliatelles fraîches</p>
+<p>4 courgettes</p>
+<p>100 g de lardons alumettes fumés</p>
+<p>20 cl de lait de coco</p>
+<p>20 cl de crème fraîche</p>
+<p>2 oignons</p>
+<p>huile</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation ingredients="huile"> coupés </operation> dans un peu d' <ingredient action="couper" quantite=""> huile </ingredient> dans une sauteuse . y <operation ingredients="poivre"> ajouter </operation> les courgettes <operation> coupées </operation> en lamelles fines , avec le <ingredient action="ajouter" quantite=""> poivre </ingredient> . lorsqu' elles sont <operation> dorées </operation> , <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter"> lardons </ingredient> , la <ingredient quantite="20 cl"> crème </ingredient> fraîche et le <ingredient quantite="20 cl"> lait </ingredient> de coco . laisser <operation> mijoter </operation> jusqu' à ce que le <operation> mélange </operation> soit bien chaud . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> fraîches 3 minutes dans l' eau bouillante <operation> salée </operation> . lorsqu' elles sont <operation> cuites </operation> , les <operation> égoutter </operation> et les <operation> napper </operation> de sauce .
+</preparation>
+</recette>

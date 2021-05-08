@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166430">
+<titre>Soupe de légumes à l'ancienne</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poireau</p>
+<p>3 carottes</p>
+<p>5 belles pommes de terres</p>
+<p>1 navet</p>
+<p>3 CS d'huiles d'olives</p>
+<p>1 oignon</p>
+<p>sel/poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> , <operation> éplucher </operation> et <operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="1;3;5;1;1"> légumes </ingredient> en petits morceaux . <operation> emincer </operation> l' <ingredient quantite="1"> oignons </ingredient> . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> d' olives dans un faitout et faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> jusqu' à ce qu' il soit <operation> fondant </operation> . <operation ingredients="légumes"> ajouter </operation> tous les <ingredient action="ajouter" quantite="1;3;5;1;1"> légumes </ingredient> et y faire <operation> revenir </operation> le tout pendant 15 minutes tout en <operation> remuant </operation> de temps en temps , jusqu' à ce que les morceaux de <ingredient action="fondre" quantite="1"> poireaux </ingredient> soit <operation ingredients="poireaux"> fondant </operation> . <operation ingredients="légumes"> verser </operation> de l' eau jusqu' à ce que les <ingredient action="verser" quantite="1;3;5;1;1"> légumes </ingredient> soit tous juste recouvert . <operation> saler </operation> , <operation> poivrer </operation> et <operation> mettre </operation> sur le feu le plus fort . <operation> porter </operation> à <operation> ébullition </operation> , et ensuite <operation> remettre </operation> sur feux doux et <operation> cuire </operation> 2 h en <operation> mettant </operation> une petite <operation> ébullition </operation> . au bout des 2 heure soit vous pouvez <ingredient> manger </ingredient> votre soupe tel qu' elle ou bien la <operation> passer </operation> au moulin à soupe pour faire un potage . si trop épaisse une fois <operation> passée </operation> au moulin , <operation> rajouter </operation> un peu d' eau chaude et réajuster l' <ingredient quantite=""> assaisonnement </ingredient> avant de servir .
+</preparation>
+</recette>

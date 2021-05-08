@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50575">
+<titre>Cappellini aux tomates confites</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de cappellini ou autres pâtes</p>
+<p>1 boule de mozzarella</p>
+<p>150 g de tomates confites à l'huile d'olive</p>
+<p>4 tranches de jambon cru</p>
+<p>2 gousses d'ail</p>
+<p>copeaux de parmesan</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> 3 min dans l' eau bouillante <operation> salée </operation> . pendant ce temps , <operation ingredients="mozzarella"> couper </operation> en cubes la <ingredient action="couper"> mozzarella </ingredient> et <operation ingredients="tomates;jambon"> détailler </operation> en morceaux les <ingredient action="détailler" quantite="150 gramme"> tomates </ingredient> et le <ingredient action="détailler" quantite="4 tranche"> jambon </ingredient> cru . <operation ingredients="ail"> presser </operation> l' <ingredient action="presser"> ail </ingredient> . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> et <operation ingredients="huile"> incorporer </operation> une partie de l' <ingredient action="incorporer"> huile </ingredient> des tomates dedans . <operation ingredients="mozzarella;tomates;jambon"> ajouter </operation> la <ingredient action="ajouter"> mozzarella </ingredient> , les <ingredient action="ajouter" quantite="150 gramme"> tomates </ingredient> et le <ingredient action="ajouter" quantite="4 tranche"> jambon </ingredient> aux pâtes et servir aussitôt <operation ingredients="ail;parmesan"> accompagné </operation> de l' <ingredient action="accompagner"> ail </ingredient> et des copeaux de <ingredient action="accompagner"> parmesan </ingredient> .
+</preparation>
+</recette>

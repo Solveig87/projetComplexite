@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80950">
+<titre>Poisson aux deux fromages</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poisson (merlan, cabillaud etc...)</p>
+<p>2 oignons</p>
+<p>1 citron</p>
+<p>8 tranches de mimolette</p>
+<p>100 g de fromage râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> huiler </operation> un plat allant au four . y <operation ingredients="mimolette"> déposer </operation> les tranches de <ingredient action="déposer" quantite="8 tranche"> mimolette </ingredient> <operation> séparées </operation> , <operation ingredients="poisson"> déposer </operation> sur chacune d' elle les filets de <ingredient action="déposer"> poisson </ingredient> <operation> repliés </operation> sur eux - mêmes . les <operation ingredients="fromage"> recouvrir </operation> d' une autre tranche de <ingredient action="recouvrir" quantite="100 gramme"> fromage </ingredient> . <operation ingredients="oignons"> recouvrir </operation> avec les <ingredient action="recouvrir" quantite="2"> oignons </ingredient> <operation> pelés </operation> et <operation> coupés </operation> en rondelles . <operation ingredients="jus"> arroser </operation> du <ingredient action="arroser"> jus </ingredient> de citron . vous pouvez , selon vos goûts , <operation ingredients="anchois"> ajouter </operation> <ingredient action="ajouter"> anchois </ingredient> , tomates en morceaux . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer"> gruyère </ingredient> râpé et <operation> mettre </operation> au four 30 min . servir avec un <ingredient> riz </ingredient> blanc ou encore mieux des petites <ingredient> pommes </ingredient> de terre .
+</preparation>
+</recette>

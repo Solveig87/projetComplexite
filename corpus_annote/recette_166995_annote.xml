@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166995">
+<titre>Amandier</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour le gâteau sec en pâte :</p>
+<p>250 g de farine</p>
+<p>125 g de beurre</p>
+<p>125 g de sucre</p>
+<p>1 oeuf</p>
+<p>Pour la garniture :</p>
+<p>250 g d'amandes(broyées ou effilées ou en poudre)</p>
+<p>250 g de sucre</p>
+<p>8 blancs d'oeufs(montés en neige)</p>
+<p>100 g amandes effilées pour recouvrir l'amandier.</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteau;pâte"> faire </operation> le <ingredient action="faire"> gâteau </ingredient> sec en <ingredient action="faire"> pâte </ingredient> : <operation ingredients="farine;sucre;oeuf;beurre"> mélanger </operation> la <ingredient action="mélanger" quantite="250 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="125 gramme+250 gramme"> sucre </ingredient> , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> et le <ingredient action="mélanger" quantite="125 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> assez fin et la <operation> piquer </operation> avec une fourchette . laisser en attente . <operation> préparer </operation> la garniture : <operation ingredients="oeufs"> monter </operation> les 8 blancs d' <ingredient action="monter" quantite="1"> oeufs </ingredient> en neige . <operation> mettre </operation> en attente . dans un saladier , <operation ingredients="amandes;sucre"> mélanger </operation> les <ingredient action="mélanger" quantite="250 gramme+100 gramme"> amandes </ingredient> avec le <ingredient action="mélanger" quantite="125 gramme+250 gramme"> sucre </ingredient> puis <operation> incorporer </operation> les blancs en neige . <operation ingredients="gâteau"> etaler </operation> cette garniture sur le <ingredient action="etaler"> gâteau </ingredient> avec 1 / 2 cm de moins de chaque côté ( afin que cela ne déborde pas ) . <operation ingredients="amandes"> parsemer </operation> les <ingredient action="parsemer" quantite="250 gramme+100 gramme"> amandes </ingredient> effilées sur votre amandier et <operation> mettre </operation> au four therm . 6 pendant 1 / 2 à 3 / 4 d' heure .
+</preparation>
+</recette>

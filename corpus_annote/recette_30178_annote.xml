@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30178">
+<titre>Crumble pomme-poire et noix de coco</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 pommes rouges et 2 poires</p>
+<p>facultatif : quelques fruits rouges (un peu gelée groseille ou de framboise en option)</p>
+<p>125 g de noix de coco râpée</p>
+<p>125 g de poudre d'amande</p>
+<p>75 g de farine</p>
+<p>75 g de sucre roux en cassonade</p>
+<p>125 à 150 g de beurre (quantité à ajuster selon votre goût)</p>
+<p>cannelle en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> et poires et les <operation> couper </operation> en morceaux assez petits . les <operation> disposer </operation> dans le <operation> moule </operation> beurré , en y <operation ingredients="fruits;gelée"> disposant </operation> quelques <ingredient action="disposer" quantite="3;125 gramme"> fruits </ingredient> rouges ou de la <ingredient action="disposer"> gelée </ingredient> de groseille ( en option ) . <operation ingredients="farine;sucre;amande;noix;cannelle"> mettre </operation> dans un saladier la <ingredient action="mettre" quantite="75 gramme"> farine </ingredient> , le <ingredient action="mettre" quantite="75 gramme"> sucre </ingredient> , la <operation> poudre </operation> d' <ingredient action="mettre"> amande </ingredient> , la <ingredient action="mettre" quantite="125 gramme"> noix </ingredient> de coco <operation> râpée </operation> et la <ingredient action="mettre" quantite=""> cannelle </ingredient> . <operation> remuer </operation> le tout et y <operation ingredients="beurre"> incorporer </operation> le <ingredient action="incorporer"> beurre </ingredient> en petit dès jusqu' à obtenir un <ingredient> sablé </ingredient> de bonne consistance , pas trop fin ( <operation> mettre </operation> un gant jetable évite bien de s' en <operation> coller </operation> partout sur les doigts ) . <operation ingredients="fruits;sablé"> recouvrir </operation> les <ingredient action="recouvrir" quantite="3;125 gramme"> fruits </ingredient> uniformément avec le <ingredient action="recouvrir"> sablé </ingredient> . <operation ingredients="cassonade;cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer"> cassonade </ingredient> et de <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> . <operation> mettre </operation> au four à thermostat 4 / 5 pendant 30 min , à vérifier régulièrement jusqu' à avoir une surface juste brune ( ne pas trop <operation ingredients="noix"> cuire </operation> , ou la <ingredient action="cuire" quantite="125 gramme"> noix </ingredient> de coco se dénature ) . servir de préférence tiède .
+</preparation>
+</recette>

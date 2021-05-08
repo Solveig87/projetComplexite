@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71822">
+<titre>Pâtes aux asperges et poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 botte d'asperges vertes</p>
+<p>2 oignons</p>
+<p>tomates cerises</p>
+<p>400 g de champignons</p>
+<p>400 g de pâtes (papillons ou tagliatelles)</p>
+<p>parmesan</p>
+<p>pignons de pin</p>
+<p>20 cl de crème semi-épaisse</p>
+<p>4 escalopes de poulet</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+après lavage , faites <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire"> asperges </ingredient> à la vapeur . pendant ce temps , <operation ingredients="escalopes;oignons;champignons"> découpez </operation> les <ingredient action="découper" quantite="4"> escalopes </ingredient> en morceaux , les <ingredient action="découper" quantite="2"> oignons </ingredient> , les <ingredient action="découper" quantite="400 gramme"> champignons </ingredient> ( en quatre ) . faites <operation ingredients="escalopes;oignons;huile"> dorer </operation> les <ingredient action="dorer" quantite="4"> escalopes </ingredient> et les <ingredient action="dorer" quantite="2"> oignons </ingredient> à l' <ingredient action="dorer"> huile </ingredient> d' olive , <operation ingredients="champignons"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="400 gramme"> champignons </ingredient> . pendant ce temps faites <operation ingredients="pâtes"> cuire </operation> vos <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> . une fois les <ingredient> asperges </ingredient> <operation> cuites </operation> , <operation> dorez </operation> - les à l' <operation action="huile" ingredients="huile"> huile </operation> d' olive . enfin , <operation ingredients="crème;poulet"> versez </operation> la <ingredient action="verser" quantite="20 cl"> crème </ingredient> dans la préparation <ingredient action="verser"> poulet </ingredient> / oignons / champignon , <operation ingredients="tomates;cerises"> jetez </operation> - y quelques <ingredient action="jeter" quantite=""> tomates </ingredient> <ingredient action="jeter"> cerises </ingredient> et <operation> assaisonnez </operation> . <operation ingredients="pâtes"> dressez </operation> dans les assiettes avec les <ingredient action="dresser" quantite="400 gramme"> pâtes </ingredient> , la préparation , les <ingredient action="saupoudrer"> asperges </ingredient> vertes et <operation ingredients="asperges;persil;pignons;parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> , de <ingredient action="saupoudrer" quantite=""> pignons </ingredient> et de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . vous pouvez remplacer le <ingredient> poulet </ingredient> par des dés de <ingredient> saumon </ingredient> , des lanières de <ingredient> saumon </ingredient> <ingredient> fumé </ingredient> ou par du <ingredient> jambon </ingredient> cru un tavel frais ( rosé )
+</preparation>
+</recette>

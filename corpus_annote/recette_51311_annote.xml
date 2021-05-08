@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51311">
+<titre>Salade de pâtes à la roquette et au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800g de pâtes (fusillis ou farfalles)</p>
+<p>3 tomates coupées en dés</p>
+<p>1 oignon rouge haché</p>
+<p>1 bocal de tomates séchées d'environ 300g</p>
+<p>200 g de mozzarella coupée en dés</p>
+<p>2 cuillèrse à soupe de pignons de pin</p>
+<p>1/2 chorizo coupé en dés</p>
+<p>100 g de roquette</p>
+<p>copeaux de parmesan</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="800 gramme"> pâtes </ingredient> puis les <operation> égoutter </operation> et les laisser refroidir . pendant ce temps <operation ingredients="tomates;mozzarella"> découpez </operation> les <ingredient action="découper" quantite="3"> tomates </ingredient> et la <ingredient action="découper" quantite="200 gramme"> mozzarella </ingredient> en dés et <operation ingredients="oignon"> hachez </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . <operation ingredients="huile;pignons;tomates;chorizo"> mélangez </operation> dans un saladier avec l' <ingredient action="mélanger" quantite="4 cuillère à soupe"> huile </ingredient> d' olive , les <ingredient action="mélanger"> pignons </ingredient> , les <ingredient action="mélanger" quantite="3"> tomates </ingredient> séchées et le <ingredient action="mélanger"> chorizo </ingredient> . <operation ingredients="pâtes"> versez </operation> les <ingredient action="verser" quantite="800 gramme"> pâtes </ingredient> froides , <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="roquette"> ajoutez </operation> la <ingredient action="ajouter" quantite="100 gramme"> roquette </ingredient> . <operation> mélangez </operation> , <operation ingredients="parmesan"> ajoutez </operation> le <ingredient action="ajouter"> parmesan </ingredient> et servir bien frais . délicieux l' été ! parfait pour <operation> accompagner </operation> vos barbecues ! <ingredient> vin </ingredient> rosé
+</preparation>
+</recette>

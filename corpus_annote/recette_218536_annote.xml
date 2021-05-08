@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218536">
+<titre>Salade de blé, haddock fumé et concombre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>250 g de blé précuit</p>
+<p>2 à 3 tranches de haddock fumé</p>
+<p>sauce soja sucré</p>
+<p>1 citron vert</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1/2 échalote</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="blé"> cuire </operation> le <ingredient action="cuire"> blé </ingredient> dans l' eau bouillante 10 min ( ou selon indication sur la boîte ) , l' <operation> égoutter </operation> et le refroidir . bien le laisser <operation> égoutter </operation> . <operation ingredients="concombre"> peler </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> , le <operation> couper </operation> en 2 dans le sens de la longueur , <operation> enlever </operation> la partie centrale ( moins digeste et qui rend l' eau ) et le <operation> couper </operation> en tronçon d'1 / 2 cm . <operation ingredients="moutarde;sel;haddock;salé;poivre"> préparer </operation> la sauce : <ingredient action="préparer" quantite="1 cuillère à soupe"> moutarde </ingredient> , jus du citron , 2 cuillères à soupe de soja <operation> sucré </operation> , très peu de <ingredient action="préparer" quantite=""> sel </ingredient> ( le <ingredient action="préparer"> haddock </ingredient> <operation> fumé </operation> est <ingredient action="préparer"> salé </ingredient> ) , un peu de <ingredient action="préparer" quantite=""> poivre </ingredient> ( facultatif ) et l’ <ingredient action="émincer"> échalote </ingredient> finement <operation ingredients="échalote"> émincée </operation> . <operation ingredients="blé"> mélanger </operation> le <ingredient action="mélanger"> blé </ingredient> froid , le <operation action="concombre" ingredients="concombre;haddock"> concombre </operation> <operation> coupé </operation> et les tranches de <ingredient action="concombre"> haddock </ingredient> effilochées . <operation> mettre </operation> au frais au moins 15 min et servir avec un filet de sauce soja supplémentaire . un rosé fruité
+</preparation>
+</recette>

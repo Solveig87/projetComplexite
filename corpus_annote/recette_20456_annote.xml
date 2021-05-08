@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20456">
+<titre>Riz à la chair à saucisse et tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de chair à saucisse</p>
+<p>800 g de tomates</p>
+<p>ail </p>
+<p>persil</p>
+<p>riz </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chair;huile"> revenir </operation> la <ingredient action="revenir" quantite="250 gramme"> chair </ingredient> à saucisse dans un peu d' <ingredient action="revenir"> huile </ingredient> , l' <operation> émietter </operation> en tous petits morceaux . <operation ingredients="ail;persil"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> ail </ingredient> et le <ingredient action="ajouter" quantite=""> persil </ingredient> <operation> hachés </operation> finement . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> tomates </ingredient> <operation> coupées </operation> en quartier . faire <operation ingredients="tomates"> mijoter </operation> doucement jusqu' à ce que les <ingredient action="mijoter" quantite="800 gramme"> tomates </ingredient> soient bien cuites . il doit y avoir beaucoup de sauce . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite=""> riz </ingredient> à l' eau ; à moitié de sa cuisson normale , l' <operation> égoutter </operation> et finir de le <operation ingredients="chair;tomates"> cuire </operation> dans la <ingredient action="cuire" quantite="250 gramme"> chair </ingredient> à saucisse et les <ingredient action="cuire" quantite="800 gramme"> tomates </ingredient> . cela fait un peu tambouille mais les enfants adorent . rosé
+</preparation>
+</recette>

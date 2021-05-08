@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165545">
+<titre>Soupe 7 légumes au curry</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poireau</p>
+<p>5 carottes</p>
+<p>1 navet</p>
+<p>2 courgettes moyennes</p>
+<p>2 tomates</p>
+<p>3 pommes de terre</p>
+<p>1 branche de céleri</p>
+<p>2 échalotes</p>
+<p>sel et poivre</p>
+<p>beurre</p>
+<p>1 cube de bouillon de volaille dégraissé</p>
+<p>CURRY ou Curcuma</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="légumes"> éplucher </operation> tous les <ingredient action="éplucher" quantite="1;5;1;2;3;2;"> légumes </ingredient> ! bon courage ! les <operation> couper </operation> en morceaux . <operation> emincer </operation> les échalottes et faites - les <operation ingredients="poireau;beurre"> revenir </operation> avec les tronçons de <ingredient action="revenir" quantite="1"> poireau </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> dans votre fait - tout à feu moyen . quand les <ingredient action="recouvrir" quantite="1"> poireaux </ingredient> sont translucides , <operation ingredients="légumes"> rajoutez </operation> tous les autres <ingredient action="rajouter" quantite="1;5;1;2;3;2;"> légumes </ingredient> . <operation ingredients="poireaux"> recouvrez </operation> d' eau , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="curry"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> curry </ingredient> en <operation> poudre </operation> ( suivant la sensibilité des papilles des convives ! ) . laissez <operation> mijoter </operation> 1 h à feu doux . <operation> mixer </operation> avec un petit robot <operation> plongeant </operation> . <operation ingredients="crème"> rajouter </operation> un peu de <ingredient action="rajouter" quantite=""> crème </ingredient> fraîche au dernier moment . c' est prêt , à table !
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20344">
+<titre>Raie sauce à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 aile de raie de 800 g environ</p>
+<p>1 carotte</p>
+<p>1 oignon piqué de trois clous de girofle</p>
+<p>1 bouquet garni</p>
+<p>1 gousse d'ail pelée</p>
+<p>20 cl de vin blanc sec</p>
+<p>5/6 gouttes de pastis</p>
+<p>20 cl de crème fraîche</p>
+<p>2 jaunes d'oeufs</p>
+<p>1 bouquet de persil plat</p>
+<p>sel, poivre du moulin et en grains</p>
+</ingredients>
+<preparation>
+<operation ingredients="carotte"> lavez </operation> et <operation ingredients="raie"> essuyez </operation> l' aile de <ingredient action="essuyer"> raie </ingredient> , <operation> épluchez </operation> la <ingredient action="laver" quantite="1"> carotte </ingredient> . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="20 cl"> vin </ingredient> et 1 litre d' eau dans une cocotte minute . <operation ingredients="pastis;carotte;ail;oignon;bouquet;sel;poivre"> ajoutez </operation> le <ingredient action="ajouter"> pastis </ingredient> , la <ingredient action="ajouter" quantite="1"> carotte </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> piqué </operation> des clous de girofle , le <ingredient action="ajouter" quantite="1+1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et quelques grains de <ingredient action="ajouter" quantite=""> poivre </ingredient> <operation> concassés </operation> . <operation> plongez </operation> - y l' aile de <ingredient> raie </ingredient> , fermez la cocotte minute . dès la mise sous pression , laissez <operation> cuire </operation> 8 mn . pendant ce temps , <operation> lavez </operation> , <operation> essuyez </operation> , et <operation ingredients="persil"> hachez </operation> le <ingredient action="hacher"> persil </ingredient> . <operation ingredients="crème;persil;sel;poivre"> mettez </operation> la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> dans une petite casserole , <operation> incorporez </operation> - y le <ingredient action="mettre"> persil </ingredient> , un peu de <ingredient action="mettre" quantite=""> sel </ingredient> et de <ingredient action="mettre" quantite=""> poivre </ingredient> . faites <operation> chauffer </operation> à feu doux jusqu' à ce que la sauce soit bien <operation> liée </operation> mais en évitant de la faire <operation> bouillir </operation> . hors du feu , <operation ingredients="oeufs"> incorporez </operation> les jaunes d' <ingredient action="incorporer"> oeufs </ingredient> l' un après l' autre . gardez au besoin la sauce dans un bain - marie chaud <operation> retiré </operation> du feu . hors du feu , faites tomber la pression et <operation ingredients="raie"> retirez </operation> l' aile de <ingredient action="retirer"> raie </ingredient> . <operation ingredients="raie"> ôtez </operation> les deux peaux de la <ingredient action="ôter"> raie </ingredient> et <operation ingredients="chair"> effilochez </operation> la <ingredient action="effilocher"> chair </ingredient> . <operation ingredients="chair;raie"> posez </operation> la <ingredient action="poser"> chair </ingredient> de la <ingredient action="poser"> raie </ingredient> sur un plat chaud et sevez - la nappée de la sauce au <ingredient> persil </ingredient> . <operation ingredients="pommes"> accompagnez </operation> ce plat de <ingredient action="accompagner"> pommes </ingredient> de terre vapeur .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55087">
+<titre>Boeuf à l'africaine rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de viande de boeuf</p>
+<p>500 g d'épinards surgelés</p>
+<p>10 cuillères d’huile (arachide ou tournesol)</p>
+<p>1 boîte de tomates pelées</p>
+<p>2 oignons</p>
+<p>sel et piment</p>
+<p>2 cuillères à soupe de pâte d’arachide</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> couper </operation> la <ingredient action="couper" quantite="1 kilogramme"> viande </ingredient> en lamelles . faire <operation ingredients="huile"> chauffer </operation> l’ <ingredient action="chauffer"> huile </ingredient> dans une casserole . faire <operation ingredients="viande"> frire </operation> les morceaux de <ingredient action="frire" quantite="1 kilogramme"> viande </ingredient> . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , tomates , sel et un peu d’ eau . laisser <operation> mijoter </operation> pendant 1 à 2 heures à feu doux . faire <operation ingredients="épinards"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> épinards </ingredient> dans de l' eau <operation> salée </operation> , <operation> égoutter </operation> et <operation> ajouter </operation> dans la sauce . <operation ingredients="pâte"> diluer </operation> la <ingredient action="diluer" quantite="2 cuillère à soupe"> pâte </ingredient> d’ arachide dans un peu d' eau et <operation> ajouter </operation> dans la cuisson . servir avec du <ingredient> riz </ingredient> , manioc ou banane <ingredient> plantain </ingredient> .
+</preparation>
+</recette>

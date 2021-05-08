@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25530">
+<titre>Omelette au vert, lardons et pommes de terre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 oeufs</p>
+<p>150 g de lardons</p>
+<p>75 g de beurre</p>
+<p>3 pommes de terre</p>
+<p>1 bouquet de cerfeuil</p>
+<p>1/2 bouquet d'oseille</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="3"> pommes </ingredient> de terre en rondelles , <operation ingredients="oseille;cerfeuil"> hacher </operation> finement l' <ingredient action="hacher"> oseille </ingredient> et le <ingredient action="hacher"> cerfeuil </ingredient> . faire <operation ingredients="pommes;beurre;lardons"> dorer </operation> les <ingredient action="dorer" quantite="3"> pommes </ingredient> de terre dans le <ingredient action="dorer" quantite="75 gramme"> beurre </ingredient> avec les <ingredient action="dorer" quantite="150 gramme"> lardons </ingredient> . lorsqu' ils ont pris de la couleur , <operation ingredients="cerfeuil;oseille"> ajouter </operation> le <ingredient action="ajouter"> cerfeuil </ingredient> et l' <ingredient action="ajouter"> oseille </ingredient> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> en omelette , <operation> saler </operation> , <operation> poivrer </operation> et <operation> verser </operation> dans la <operation> poêle </operation> . servir dès que les <ingredient quantite="12"> oeufs </ingredient> sont pris .
+</preparation>
+</recette>

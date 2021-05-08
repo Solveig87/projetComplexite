@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72847">
+<titre>Omelette printanière</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>400 à 500 g de petits pois à écosser</p>
+<p>2 carottes</p>
+<p>2 tomates</p>
+<p>1/2 botte d'oignons nouveaux</p>
+<p>1 noix de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+. <operation ingredients="pois"> ecosser </operation> les petits <ingredient action="ecosser"> pois </ingredient> . <operation> eplucher </operation> et <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="2"> carottes </ingredient> en petits dés . faire <operation ingredients="pois"> cuire </operation> petits <ingredient action="cuire"> pois </ingredient> et carottes 10 bonnes minutes dans de l' eau bouillante <operation> salée </operation> . <operation> egoutter </operation> . dans une <operation> poêle </operation> , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et faire <operation ingredients="oignons"> blondir </operation> les <ingredient action="blondir"> oignons </ingredient> <operation> émincés </operation> pendant quelques minutes . <operation ingredients="pois"> ajouter </operation> petits <ingredient action="ajouter"> pois </ingredient> et carottes . faire <operation> revenir </operation> 5 min à feu doux . <operation> ebouillanter </operation> puis <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="2"> tomates </ingredient> . les <operation> tailler </operation> en dés ( en évacuant le <ingredient> jus </ingredient> ) . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> au <operation> mélange </operation> précédent . faire <operation> revenir </operation> 5 min à feu doux . <operation> saler </operation> , <operation> poivrer </operation> . dans un saladier , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="8"> oeufs </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="oeufs"> verser </operation> les <ingredient action="verser" quantite="8"> oeufs </ingredient> <operation ingredients="légumes"> battus </operation> sur le <operation> mélange </operation> de <ingredient action="battre" quantite="2;2"> légumes </ingredient> . faire prendre l' omelette à feu moyen en <operation> remuant </operation> doucement avec une cuillère en bois . plat idéal pour un soir , <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

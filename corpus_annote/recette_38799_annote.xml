@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38799">
+<titre>Velouté froid de concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 yaourt grec</p>
+<p>1 cuillère à soupe d'estragon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> éplucher </operation> le <ingredient action="éplucher" quantite="1"> concombre </ingredient> et le <operation> couper </operation> en morceaux . <operation ingredients="yaourt;estragon"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> grec , l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> estragon </ingredient> , sel , poivre et <operation> mixer </operation> le tout . servir très frais .
+</preparation>
+</recette>

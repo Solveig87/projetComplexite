@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25526">
+<titre>Boulettes de poulet au fromage et aux amandes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de poulet cuit (restes)</p>
+<p>3 oeufs</p>
+<p>1 oignon</p>
+<p>100 g de fromage fondu (cheddar ou autre)</p>
+<p>4 cuillères à soupe d'amandes effilées</p>
+<p>4 cuillères à soupe de chapelure</p>
+<p>2 cuillères à soupe de farine</p>
+<p>50 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="beurre"> haché </operation> avec 15 g de <ingredient action="hacher" quantite="50 gramme"> beurre </ingredient> pendant 3 min . <operation ingredients="poulet"> hachez </operation> le <ingredient action="hacher" quantite="400 gramme"> poulet </ingredient> , <operation ingredients="oignon;fromage"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> <operation ingredients="oeuf"> coupé </operation> en morceaux et 1 <ingredient action="couper" quantite="3"> oeuf </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation> formez </operation> des boulettes . <operation ingredients="farine;oeufs"> roulez </operation> les boulettes dans la <ingredient action="rouler" quantite="2 cuillère à soupe"> farine </ingredient> , puis dans les 2 <ingredient action="rouler" quantite="3"> oeufs </ingredient> restants <operation> battus </operation> . <operation ingredients="chapelure;amandes"> passez </operation> - les dans la <ingredient action="passer" quantite="4 cuillère à soupe"> chapelure </ingredient> et les <ingredient action="passer" quantite="4 cuillère à soupe"> amandes </ingredient> <operation> mélangées </operation> . faites <operation ingredients="beurre"> dorer </operation> les croquettes dans le <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> restant à la <operation> poêle </operation> en la <operation> secouant </operation> pour qu' elles soient bien dorées de toute part . servez bien chaud . <operation ingredients="riz"> accompagnez </operation> avec du <ingredient action="accompagner"> riz </ingredient> , de la purée ou bien de la ratatouille .
+</preparation>
+</recette>

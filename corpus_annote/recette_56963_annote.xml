@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56963">
+<titre>Wok aux petits légumes et au veau</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 steacks hachés de veau </p>
+<p>6/7 carottes</p>
+<p>2 cébettes </p>
+<p>2 courgettes</p>
+<p>2 endives</p>
+<p>1 gousse d'ail</p>
+<p>curry, gingembre en poudre</p>
+<p>sauce soja</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> détailler </operation> les <ingredient action="détailler"> carottes </ingredient> en bâtonnets , ainsi que les courgettes sans les <operation> peler </operation> . <operation ingredients="endives;oignons"> couper </operation> menu les <ingredient action="couper" quantite="2"> endives </ingredient> et les <ingredient action="couper"> oignons </ingredient> . <operation> verser </operation> dans le wok une cuillère à soupe d' huile d' olive , faire <operation ingredients="carottes"> cuire </operation> les <ingredient action="cuire"> carottes </ingredient> de façon vive , et <operation ingredients="gousse"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail hachée et un demi verre d' eau . laisser <operation> cuire </operation> . 4 min . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="3"> viande </ingredient> de veau <operation> émiettée </operation> , bien <operation> remuer </operation> en continuant la cuisson . <operation ingredients="légumes"> ajouter </operation> les autres <ingredient action="ajouter" quantite="2"> légumes </ingredient> . après quelques min de cuisson , <operation ingredients="curry"> ajouter </operation> une pointe de <ingredient action="ajouter" quantite=""> curry </ingredient> , une pointe de <ingredient> gingembre </ingredient> en <operation> poudre </operation> et une cuillère à soupe de sauce <ingredient> soja </ingredient> , puis un demi verre d' eau . laisser <operation> cuire </operation> encore 2 min et servir aussitôt avec un <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30868">
+<titre>Chausson chèvre et lardons de PAC</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>1 bûchette de chèvre cendré</p>
+<p>100 g de lardons</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>basilic</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer" quantite="100 gramme"> lardons </ingredient> dans une <operation> poêle </operation> . <operation ingredients="chèvre"> ecraser </operation> le <ingredient action="ecraser"> chèvre </ingredient> à la fourchette et y <operation ingredients="huile;basilic"> mélanger </operation> la crême fraiche + l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> d' olive + le <ingredient action="mélanger" quantite=""> basilic </ingredient> . bien <operation ingredients="pâte"> mélanger </operation> l' ensemble et <operation> disposer </operation> le tout ( de façon uniforme ) sur 1 / 2 <ingredient action="mélanger" quantite="1"> pâte </ingredient> feuilletée . <operation ingredients="lardons"> rajouter </operation> vos <ingredient action="rajouter" quantite="100 gramme"> lardons </ingredient> <operation> grillés </operation> sur le dessus et <operation ingredients="pâte"> rabattre </operation> la seconde moitié de votre <ingredient action="rabattre" quantite="1"> pâte </ingredient> feuilletée sur l' ensemble ( vous obtenez ainsi la <operation> forme </operation> d' un <ingredient> chausson </ingredient> ) . <operation ingredients="oeuf;chausson"> badigeonnez </operation> de jaune d' <ingredient action="badigeonner"> oeuf </ingredient> le dessus de votre <ingredient action="badigeonner"> chausson </ingredient> et <operation> mettez </operation> au four 20 mn . servez chaud avec une <ingredient> salade </ingredient> ! ! !
+</preparation>
+</recette>

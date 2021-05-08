@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12752">
+<titre>Gâteau aux patates douces</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg 500 de patates douces</p>
+<p>4 ou 5 oeufs (selon la grosseur)</p>
+<p>175 g de beurre</p>
+<p>250 g de sucre</p>
+<p>1 gousse de vanille</p>
+<p>3 cuillères à soupe de rhum (ou de Marie Brizard)</p>
+</ingredients>
+<preparation>
+<operation ingredients="patates"> eplucher </operation> les <ingredient action="eplucher"> patates </ingredient> et les faire <operation> cuire </operation> à l' eau jusqu' à ce qu' elles soient tendres , les <operation> égouter </operation> et les <operation> réduire </operation> en purée lorsqu' elles sont chaudes . <operation ingredients="oeufs;sucre"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> entiers ( légèrement <operation> battus </operation> ) avec le <ingredient action="ajouter" quantite="250 gramme"> sucre </ingredient> , le <ingredient action="ramollir" quantite="175 gramme"> beurre </ingredient> <operation ingredients="beurre"> ramolli </operation> , la vanille <operation> coupée </operation> en petits morceaux et l' alcool . <operation> verser </operation> dans un <operation> moule </operation> à bord hauts beurré . <operation ingredients="gâteau"> cuire </operation> à four chaud pendant une heure jusqu' à ce que le <ingredient action="cuire"> gâteau </ingredient> soit doré .
+</preparation>
+</recette>

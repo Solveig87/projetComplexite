@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86872">
+<titre>Foie de veau miel et gingembre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de foie de veau- 1 cuillère à soupe de miel- 1 cuillère à soupe d'huile de sésame- 1 petit morceau de gingembre (selon convenance)- 1 morceau d'ail (selon les goûts)- 2 cuillères à café de jus de citron vert</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ail;gingembre;huile"> chauffer </operation> l' <ingredient action="chauffer"> ail </ingredient> et le <ingredient action="chauffer"> gingembre </ingredient> <operation> coupés </operation> en petits morceaux dans l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> de sésame sans laisser <operation> brunir </operation> . <operation ingredients="foie"> ajouter </operation> les tranches de <ingredient action="ajouter" quantite="2 tranche"> foie </ingredient> de veau , <operation> cuire </operation> 30 sec de chaque côté . <operation ingredients="miel;jus"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> et un peu de <ingredient action="ajouter" quantite="2 cuillère à café"> jus </ingredient> de citron vert . faire <operation> réduire </operation> en <operation ingredients="foie"> retournant </operation> le <ingredient action="retourner" quantite="2 tranche"> foie </ingredient> pour qu' il s' <operation> imprègne </operation> . très simple et dépaysant . servir avec du <ingredient> riz </ingredient> ou des <ingredient> légumes </ingredient> .
+</preparation>
+</recette>

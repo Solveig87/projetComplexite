@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65708">
+<titre>Bisque de homard maison</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>500 g de caracasses de homard (têtes, pinces, pattes, anneaux, queue)</p>
+<p>1 blanc de poireau</p>
+<p>1 oignon</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>80 g de farine</p>
+<p>3 gousses d'ail</p>
+<p>1 l de fumet de poisson</p>
+<p>40 cl de vin blanc sec</p>
+<p>10 cl de Pineau des Charentes</p>
+<p>piment d'espelette et bouquet garni</p>
+<p>huile d'olive, sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="homards"> concassez </operation> les carcasses de <ingredient action="concasser"> homards </ingredient> et faites - les <operation ingredients="huile"> revenir </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive pendant 5 bonnes minutes à feu vif . <operation ingredients="poireau;oignon"> rajoutez </operation> le blanc de <ingredient action="rajouter"> poireau </ingredient> et l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> <operation> émincés </operation> et faites <operation> revenir </operation> 5 bonnes minutes de plus . <operation ingredients="farine"> saupoudrez </operation> avec la <ingredient action="saupoudrer" quantite="80 gramme"> farine </ingredient> puis <operation> mélangez </operation> . <operation ingredients="poisson;vin"> mouillez </operation> aussitôt avec le fumet de <ingredient action="mouiller"> poisson </ingredient> , le <ingredient action="mouiller" quantite="40 cl"> vin </ingredient> blanc et le pineau . <operation ingredients="gousses;tomate;bouquet"> rajoutez </operation> les <ingredient action="rajouter" quantite="3"> gousses </ingredient> d' ail <operation> pressées </operation> , le <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> , le <ingredient action="rajouter"> bouquet </ingredient> <operation> garni </operation> , le piment d' espelette ( à <operation> doser </operation> en fonction des goûts ) . <operation> salez </operation> , <operation> poivrez </operation> , <operation> mélangez </operation> bien le tout et laissez <operation> mijoter </operation> une bonne demi heure sur feu doux ( <operation> remuez </operation> à mi cuisson ) . <operation> passez </operation> ensuite dans une passoire en <operation ingredients="légumes"> pressant </operation> bien sur les <ingredient action="presser" quantite="1"> légumes </ingredient> et carcasses . servez aussitôt . recette idéale pour utiliser les carcasses après avoir <operation ingredients="chair"> fait </operation> une recette à base de <ingredient action="faire"> chair </ingredient> de homard .
+</preparation>
+</recette>

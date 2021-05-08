@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21491">
+<titre>Beignets au coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuillères à soupe de farine</p>
+<p>4 cuillères à soupe de noix de coco fraîche râpée</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+<p>1 oeuf</p>
+<p>25 g de beurre fondu</p>
+<p>1/2 cuillère à café de levure chimique</p>
+<p>noix de muscade (ou extrait de vanille naturelle en poudre)</p>
+</ingredients>
+<preparation>
+dans une jatte , <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="4 cuillère à soupe"> farine </ingredient> , le <ingredient action="mélanger"> coco </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> sucre </ingredient> , la <ingredient action="mélanger"> levure </ingredient> , la <ingredient action="mélanger"> muscade </ingredient> et / ou la vanille puis <operation ingredients="coco;sucre;levure;muscade"> mélanger </operation> . <operation ingredients="oeufs"> battre </operation> les deux <ingredient action="battre" quantite="1"> oeufs </ingredient> puis y <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> . faire un puits et <operation ingredients="oeufs"> mettre </operation> les <ingredient action="mettre" quantite="1"> oeufs </ingredient> <operation> battus </operation> . <operation> mélanger </operation> à la main jusqu' à obtenir une <ingredient> pâte </ingredient> ni trop souple , ni trop dure . si la <ingredient> pâte </ingredient> est trop dure , <operation ingredients="lait"> rajouter </operation> un peu de <ingredient action="rajouter"> lait </ingredient> de coco et <operation> travailler </operation> jusqu' à obtenir une <ingredient> pâte </ingredient> <operation> lisse </operation> qui ne <operation> colle </operation> plus aux doigts . laisser <operation> reposer </operation> 45 mn . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> au rouleau puis à l' aide d' un <operation> emporte </operation> - pièce , <operation ingredients="carrés"> découpez </operation> des <ingredient action="découper"> carrés </ingredient> de 3 ou 4 cm de côté . <operation> jeter </operation> dans un bain de friture bien chaud . <operation> egoutter </operation> . <operation> présenter </operation> dans un plat et déguster .
+</preparation>
+</recette>

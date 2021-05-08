@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25939">
+<titre>Endives au saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'endives</p>
+<p>8-10 tranches de saumon fumé</p>
+<p>béchamel (environ 50 g de beurre, 50 g de farine, 1/2 l de lait) </p>
+<p>200 g de d'emmental râpé</p>
+<p>une pincé de muscade</p>
+<p>poivre, sel</p>
+</ingredients>
+<preparation>
+dans un premier temps faire <operation ingredients="endives"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> endives </ingredient> à la vapeur durant environ 30 mn ( il faut que l' on puisse facilement traverser l' <ingredient quantite="1 kilogramme"> endive </ingredient> avec la pointe d' un <ingredient> couteau </ingredient> ) . pendant ce temps <operation ingredients="béchamel"> préparer </operation> la <ingredient action="préparer" quantite=""> béchamel </ingredient> : faire tout d' abord <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> ensuite y <operation ingredients="farine;lait"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> <operation> remuer </operation> sans discontinuer et <operation> rajouter </operation> par petites quantitées le <ingredient action="ajouter"> lait </ingredient> . <operation> poivrez </operation> , <operation> salez </operation> et <operation ingredients="muscade"> ajoutez </operation> la <ingredient action="ajouter"> muscade </ingredient> . une fois les <ingredient action="couper" quantite="1 kilogramme"> endives </ingredient> <operation> cuites </operation> et la <ingredient action="couper" quantite=""> béchamel </ingredient> terminée , <operation ingredients="endives;béchamel;endives"> couper </operation> en deux les <ingredient action="couper" quantite="1 kilogramme"> endives </ingredient> ( si elles sont trop grosses ) et les <operation ingredients="saumon"> enrouler </operation> dans les tranches de <ingredient action="enrouler"> saumon </ingredient> . les <operation> disposer </operation> dans un plat à gratin , <operation ingredients="béchamel"> recouvrez </operation> de <ingredient action="recouvrir" quantite=""> béchamel </ingredient> et pour finir de <ingredient> fromage </ingredient> râpé . faire <operation> cuire </operation> th 7 / 8 pendant environ 30 à 45 mn .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45575">
+<titre>Pancakes à la banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>50 cl de lait </p>
+<p>1 banane très mûre</p>
+<p>3 oeufs</p>
+<p>1 cuillères à soupe de levure</p>
+<p>1 pincée de sucre</p>
+<p>30 g de beurre fondu</p>
+</ingredients>
+<preparation>
+dans un blender , <operation ingredients="oeufs;banane;farine;sel;levure;lait;beurre"> mélanger </operation> rapidement les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , la <ingredient action="mélanger" quantite="1"> banane </ingredient> , la <ingredient action="mélanger" quantite="250 gramme"> farine </ingredient> , 2 pincées de <ingredient action="mélanger"> sel </ingredient> , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> levure </ingredient> , le <ingredient action="mélanger" quantite="50 cl"> lait </ingredient> et le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> . laisser <operation> reposer </operation> 30 min . faites <operation> chauffer </operation> une <operation> poêle </operation> à crêpes . <operation ingredients="pâte"> verser </operation> des petites louches de <ingredient action="verser"> pâte </ingredient> , dès que les bulles apparaissent , <operation> retourner </operation> le pancake et laisser le <operation> cuire </operation> quelques secondes . servir tiède , <operation ingredients="sirop;beurre"> accompagné </operation> de <ingredient action="accompagner"> sirop </ingredient> d' érable ou de <ingredient action="accompagner"> beurre </ingredient> .
+</preparation>
+</recette>

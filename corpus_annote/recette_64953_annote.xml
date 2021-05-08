@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64953">
+<titre>Poulet au riz sauce moutarde et vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>1 petit poivron</p>
+<p>1 oignon</p>
+<p>125 g de riz</p>
+<p>1 verre de vin blanc (environ 15 cl)</p>
+<p>2 grandes cuillères à soupe de moutarde</p>
+<p>Sel, poivre</p>
+<p>Huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> pendant 10 minutes le <ingredient action="cuire" quantite="125 gramme"> riz </ingredient> dans un grand volume d' eau bouillante <operation> salée </operation> . pendant ce temps , <operation ingredients="escalopes"> couper </operation> les 2 <ingredient action="couper" quantite="2"> escalopes </ingredient> de poulet en lamelles et les faire <operation> dorer </operation> dans une <operation> poêle </operation> . dans un wok , faire <operation ingredients="poivron;oignon"> cuire </operation> le <ingredient action="cuire" quantite="1"> poivron </ingredient> et l' <ingredient action="cuire" quantite="1"> oignon </ingredient> <operation> coupés </operation> eux aussi en lamelles très fines . quand le tout prend une jolie couleur caramélisée , <operation ingredients="vin"> mettre </operation> le <ingredient action="mettre" quantite="1 verre"> vin </ingredient> blanc . laisser <operation> revenir </operation> 5 minutes et enfin <operation ingredients="moutarde"> verser </operation> la <ingredient action="verser"> moutarde </ingredient> . <operation ingredients="poulet"> ajoutez </operation> au wok le <ingredient action="ajouter"> poulet </ingredient> . quand le <ingredient action="cuire" quantite="125 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , l' ajoutezr à la préparation , <operation ingredients="huile"> verser </operation> de l' <ingredient action="verser" quantite=""> huile </ingredient> d' olive , <operation> saler </operation> et <operation> poivrer </operation> . servir chaud dans un joli service et déguster . bon appétit !
+</preparation>
+</recette>

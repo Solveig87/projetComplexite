@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18429">
+<titre>Jambon sauce cardinal</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 échalotes</p>
+<p>400 g de champignons en morceaux</p>
+<p>2 cuillerées à soupe de concentré de tomate</p>
+<p>2 cuillerées de farine</p>
+<p>1 tablette de bouillon</p>
+<p>1 morceau de sucre</p>
+<p>22 cl d'eau</p>
+<p>20 cl de crème fraîche</p>
+<p>200 g de gruyère</p>
+<p>6 tranches de jambon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes;tomate;sucre;farine;bouillon"> revenir </operation> les <ingredient action="revenir" quantite="3"> échalotes </ingredient> finement <operation> hachées </operation> , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> champignons </ingredient> <operation> égouttés </operation> , le <operation> concentré </operation> de <ingredient action="revenir"> tomate </ingredient> , le <ingredient action="revenir"> sucre </ingredient> , la <ingredient action="revenir"> farine </ingredient> , la tablette de <ingredient action="revenir"> bouillon </ingredient> et l' eau . laisser <operation> bouillir </operation> 2 à 3 mn . <operation> enlever </operation> du feu et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . <operation> mélanger </operation> . dans un plat à gratin , <operation> rouler </operation> et <operation ingredients="jambon"> ranger </operation> les tranches de <ingredient action="ranger" quantite="6 tranche"> jambon </ingredient> , <operation> verser </operation> la sauce obtenue par dessus . <operation> passer </operation> à four moyen jusqu' à ce que çà gratine .
+</preparation>
+</recette>

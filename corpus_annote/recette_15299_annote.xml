@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15299">
+<titre>Pancakes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>30 g de sucre</p>
+<p>2 œufs</p>
+<p>1 sachet de levure traditionnelle</p>
+<p>65 g de beurre</p>
+<p>1 pincée de sel</p>
+<p>30 cl de lait</p>
+</ingredients>
+<preparation>
+prévoir 1 h de repos . <operation ingredients="farine;levure;sucre"> mettez </operation> la <ingredient action="mettre" quantite="250 gramme"> farine </ingredient> , la <ingredient action="mettre"> levure </ingredient> et le <ingredient action="mettre" quantite="30 gramme"> sucre </ingredient> dans un saladier . <operation ingredients="œufs"> rajoutez </operation> ensuite les <ingredient action="rajouter" quantite="2"> œufs </ingredient> entiers et <operation> mélangez </operation> . <operation ingredients="beurre"> ajoutez </operation> ensuite le <ingredient action="ajouter" quantite="65 gramme"> beurre </ingredient> que vous aurez préalablement fait <operation ingredients="lait"> fondre </operation> , puis <operation> délayez </operation> progressivement le <operation> mélange </operation> avec le <ingredient action="fondre" quantite="30 cl"> lait </ingredient> afin d' éviter les grumeaux . laissez <operation> reposer </operation> au minimum 1 h au réfrigérateur . faire <operation ingredients="crêpes"> cuire </operation> comme des <ingredient action="cuire"> crêpes </ingredient> , mais en les faisant plus petites . ce plat est supposé être dégusté au petit déjeuner mais convient aussi comme <ingredient quantite="30 gramme"> dessert </ingredient> . les pancakes sont traditionnellement <operation ingredients="sirop;noix"> accommodés </operation> avec du <ingredient action="accommoder"> sirop </ingredient> d' érable et une <ingredient action="accommoder"> noix </ingredient> de beurre mais rien n' empêche de les dévorer au <ingredient quantite="30 gramme"> sucre </ingredient> , au <ingredient> jus </ingredient> de citron ou au <ingredient> nutella </ingredient> .
+</preparation>
+</recette>

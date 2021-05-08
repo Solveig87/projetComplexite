@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30080">
+<titre>Tarte aux brocolis à la moutarde</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouleau de pâte feuilletée</p>
+<p>25 cl de crème fraîche</p>
+<p>4 cuillères à soupe de moutarde</p>
+<p>250 g de brocolis frais ou surgelés</p>
+<p>3 oeufs</p>
+<p>gruyère râpé selon le goûut</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> brocolis </ingredient> ( à la vapeur ou à l' eau ) et les <operation> mettre </operation> de côté . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . dans un <operation> moule </operation> , étaler et <operation ingredients="tarte"> piquer </operation> le fond de <ingredient action="piquer"> tarte </ingredient> . dans un saladier <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="25 cl"> crème </ingredient> fraîche , les <ingredient quantite="3"> oeufs </ingredient> , la <ingredient quantite="4 cuillère à soupe"> moutarde </ingredient> , le <ingredient quantite=""> sel </ingredient> , le <ingredient> poivre </ingredient> et le <ingredient quantite=""> gruyère </ingredient> râpé . <operation ingredients="brocolis"> mettre </operation> les <ingredient action="mettre" quantite="250 gramme"> brocolis </ingredient> au fond du <operation> moule </operation> et <operation> recouvrir </operation> de la préparation . <operation ingredients="gruyère"> remettre </operation> du <ingredient action="remettre" quantite=""> gruyère </ingredient> par dessus pour faire <operation> gratiner </operation> . <operation> cuire </operation> au four pendant 30 mn . la <ingredient> tarte </ingredient> est meilleure le lendemain car elle est plus compacte et donc plus facile à <operation> découper </operation> .
+</preparation>
+</recette>

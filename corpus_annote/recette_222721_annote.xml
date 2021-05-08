@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222721">
+<titre>Mousse à la noix de coco et chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de chocolat</p>
+<p>10 cl de lait</p>
+<p>10 cl de lait de coco</p>
+<p>20 cl de crème liquide</p>
+<p>1 cuillère à café de sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="10 cl+10 cl"> lait </ingredient> au bain - marie , la <operation> mélange </operation> doit être <operation> lisse </operation> et brillant . le <operation> verser </operation> dans le fond des 2 verres dans lequel on va servir par la suite . <operation ingredients="lait;crème;sucre"> mettre </operation> dans un siphon le <ingredient action="mettre" quantite="10 cl+10 cl"> lait </ingredient> de coco , la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à café"> sucre </ingredient> . fermer et <operation> remuer </operation> le siphon , <operation> mettre </operation> le gaz et <operation> mettre </operation> au frais . quand le <ingredient quantite="50 gramme"> chocolat </ingredient> est frais , <operation ingredients="mousse;coco"> ajouter </operation> la <ingredient action="ajouter"> mousse </ingredient> <ingredient action="ajouter"> coco </ingredient> et <operation ingredients="chocolat"> décorer </operation> avec des copeaux de <ingredient action="décorer" quantite="50 gramme"> chocolat </ingredient> , réalisés avec un économe par exemple .
+</preparation>
+</recette>

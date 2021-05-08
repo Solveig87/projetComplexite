@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22406">
+<titre>Pâté de saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs</p>
+<p>1 boîte de saumon</p>
+<p>1 boîte moyenne de champignons de Paris</p>
+<p>3 biscottes</p>
+<p>sel, poivre</p>
+<p>un gros bouquet de persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;champignons"> mettre </operation> à <operation ingredients="biscottes"> tremper </operation> les <ingredient action="tremper" quantite="3"> biscottes </ingredient> dans l' eau du <ingredient action="mettre"> saumon </ingredient> et des <ingredient action="mettre"> champignons </ingredient> . les <operation> presser </operation> pour <operation> retirer </operation> l' eau , bien les <operation> écraser </operation> . <operation ingredients="bouquet;champignons;biscottes;oeufs;sel"> mélanger </operation> un gros <ingredient action="mélanger" quantite="1"> bouquet </ingredient> de persil , les <ingredient action="mélanger"> champignons </ingredient> , les <ingredient action="mélanger" quantite="3"> biscottes </ingredient> <operation> écrasées </operation> et les <ingredient action="mélanger" quantite="6"> oeufs </ingredient> , <operation> battus </operation> en omelette , <ingredient action="mélanger" quantite=""> sel </ingredient> , poivre . <operation ingredients="saumon"> ajouter </operation> le <ingredient action="ajouter"> saumon </ingredient> à la préparation et ne <operation> remuer </operation> qu' une fois . <operation> verser </operation> le tout dans un <operation> moule </operation> à cake <operation> huilé </operation> et chaud . <operation> mettre </operation> au four une heure thermostat 6 / 7 ( 195 <operation> ° </operation> c ) . servir froid blanc sec
+</preparation>
+</recette>

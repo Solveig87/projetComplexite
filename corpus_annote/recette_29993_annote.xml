@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29993">
+<titre>Aubergines au basilic et au citron</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 aubergines moyennes</p>
+<p>2 oeufs</p>
+<p>2 citrons</p>
+<p>1 gousse d'ail</p>
+<p>3 branches de basilic</p>
+<p>sel et poivre</p>
+<p>10 cl de mayonnaise</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="aubergines"> coupez </operation> les <ingredient action="couper" quantite="4"> aubergines </ingredient> en gros dés . faites les <operation> cuire </operation> 5 minutes dans l' eau bouillante . <operation> egouttez </operation> puis <operation ingredients="jus"> arrosez </operation> de <ingredient action="arroser"> jus </ingredient> de citron . <operation> hachez </operation> l' <ingredient action="saupoudrer"> ail </ingredient> et le <ingredient action="saupoudrer"> basilic </ingredient> , <operation ingredients="ail;basilic;aubergines"> saupoudrez </operation> -en les <ingredient action="saupoudrer" quantite="4"> aubergines </ingredient> . <operation> poivrez </operation> et <operation> remuez </operation> délicatement . laissez <operation> macérer </operation> 30 minutes . faites <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="2"> oeufs </ingredient> durs , <operation> hachez </operation> et <operation> émiettez </operation> - les . <operation ingredients="mayonnaise;oeufs"> ajoutez </operation> ensuite la <ingredient action="ajouter" quantite="10 cl"> mayonnaise </ingredient> aux aubergines ainsi que les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> durs <operation> hachés </operation> .
+</preparation>
+</recette>

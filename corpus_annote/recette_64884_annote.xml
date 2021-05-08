@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64884">
+<titre>Salade de haricots verts et concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de haricots verts</p>
+<p>1 oignon rouge</p>
+<p>1 concombre</p>
+<p>50 g de levure de bière</p>
+<p>1 cuillère à soupe de pignons grillés</p>
+<p>4 cuillère à soupe d'huile d'olive</p>
+<p>2 cuillère à soupe de vinaigre de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> equeuter </operation> les <ingredient quantite="400 gramme"> haricots </ingredient> verts et les <operation> cuire </operation> à la vapeur ( ou à l' eau ) . il faut qu' ils soit un peu <ingredient> croquants </ingredient> . <operation> eplucher </operation> et <operation> couper </operation> en petits morceaux le <operation action="concombre" ingredients="concombre"> concombre </operation> . <operation> eplucher </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> , <operation> mélanger </operation> ces trois ingrédients . <operation ingredients="pignons;huile;vinaigre"> rajouter </operation> les <ingredient action="rajouter" quantite="1 cuillère à soupe"> pignons </ingredient> grillés , les cuillères d' <ingredient action="rajouter" quantite="4 cuillère à soupe"> huile </ingredient> et de <ingredient action="rajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> puis <operation ingredients="levure"> ajouter </operation> la <ingredient action="ajouter" quantite="50 gramme"> levure </ingredient> de bière . bien <operation> mélanger </operation> .
+</preparation>
+</recette>

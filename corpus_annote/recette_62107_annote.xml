@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62107">
+<titre>Soupe de vermicelles ultra rapide</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>2 poignées de vermicelles (ou autres petites pâtes)</p>
+<p>1 cube de bouillon de poule</p>
+<p>1 noix de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> emincez </operation> l' <ingredient action="emincez" quantite="1"> oignon </ingredient> et faites <operation ingredients="beurre"> dorer </operation> dans une petite casserole avec le <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="bouillon"> ajoutez </operation> 1 litre d' eau dans la casserole puis le cube de <ingredient action="ajouter"> bouillon </ingredient> . une fois que l' eau bout , laissez <operation> cuire </operation> encore 10 bonne min . <operation> mixez </operation> le tout . <operation ingredients="soupe"> réchauffez </operation> la <ingredient action="réchauffer"> soupe </ingredient> sur le feu et <operation ingredients="vermicelles"> ajoutez </operation> les <ingredient action="ajouter"> vermicelles </ingredient> quelques minutes à attendre et c' est prêt !
+</preparation>
+</recette>

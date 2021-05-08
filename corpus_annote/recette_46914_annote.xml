@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46914">
+<titre>Amour d'ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte d'ananas en tranches au sirop</p>
+<p>4 boules de glace au marsala</p>
+<p>beurre</p>
+<p>cassonade ou sucre</p>
+<p>1 kiwi</p>
+<p>chantilly</p>
+<p>noix de coco en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ananas;beurre"> revenir </operation> les tranches d' <ingredient action="revenir"> ananas </ingredient> à la <operation> poêle </operation> , avec un petit de <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="cassonade"> rajouter </operation> une pincée de <ingredient action="rajouter" quantite=""> cassonade </ingredient> pour les faire caraméliser . <operation ingredients="kiwi"> découper </operation> le <ingredient action="découper" quantite="1"> kiwi </ingredient> en petit dés . <operation ingredients="ananas"> déposer </operation> une tranche d' <ingredient action="déposer"> ananas </ingredient> par assiete , <operation ingredients="glace;rhum"> mettre </operation> dessus une boule de <ingredient action="mettre"> glace </ingredient> de marsala ( ou <ingredient action="mettre"> rhum </ingredient> / raisins ) , et <operation ingredients="kiwi"> rajouter </operation> quelques dés de <ingredient action="rajouter" quantite="1"> kiwi </ingredient> . terminer avec un dôme de <ingredient quantite=""> chantilly </ingredient> sur le dessus ( très peu ) , et <operation ingredients="noix"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> noix </ingredient> de coco en <operation> poudre </operation> . une petite goutte de <ingredient> rhum </ingredient> ou d' alcool de <ingredient> poire </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212747">
+<titre>Purée 3 fleurettes pour bébé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de bouquets mélangés brocoli, chou fleur, chou romanesco </p>
+<p>1/2 pomme golden</p>
+<p>3 cl de lait infantile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="légumes;pomme;légumes"> cuire </operation> les <ingredient action="cuire" quantite=""> légumes </ingredient> et la 1 / 2 <ingredient action="cuire"> pomme </ingredient> à la vapeur ( je <operation> mets </operation> 20 minutes parce que j' utilise des surgelés , en <ingredient action="cuire" quantite=""> légumes </ingredient> frais , c' est plutôt 7 à 10 minutes je pense ) . <operation ingredients="légumes"> mixer </operation> les <ingredient action="mixer" quantite=""> légumes </ingredient> , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cl"> lait </ingredient> infantile et <operation> mélanger </operation> .
+</preparation>
+</recette>

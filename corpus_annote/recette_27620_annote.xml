@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27620">
+<titre>Velouté de potiron à la crème</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de potiron</p>
+<p>3 pommes de terre farineuses de taille moyenne</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>20 cl de crème fraîche</p>
+<p>75 cl de lait</p>
+<p>30 g de beurre</p>
+<p>1 jaunes d'oeufs</p>
+<p>1 pincée de noix de muscade râpée</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> . <operation ingredients="potiron;pommes"> pelez </operation> et <operation> coupez </operation> le <ingredient action="peler" quantite="500 gramme"> potiron </ingredient> et les <ingredient action="peler" quantite="3"> pommes </ingredient> de terre en dés . <operation ingredients="oignons;beurre"> faites </operation> <operation> colorer </operation> les <ingredient action="faire" quantite="1"> oignons </ingredient> dans une cocotte avec le <ingredient action="faire" quantite="30 gramme"> beurre </ingredient> chaud . <operation ingredients="potiron;pommes"> ajoutez </operation> le <ingredient action="ajouter" quantite="500 gramme"> potiron </ingredient> et les <ingredient action="ajouter" quantite="3"> pommes </ingredient> de terre , <operation> salez </operation> , <operation> poivrez </operation> , parfumez de mucade <operation> râpée </operation> et <operation> mouillez </operation> d' un verre d' eau . <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> , <operation> couvrez </operation> et laissez <operation> mijoter </operation> 30 min à feu doux . <operation ingredients="soupe"> moulinez </operation> la <ingredient action="mouliner"> soupe </ingredient> et <operation ingredients="lait"> ajoutez </operation> peu à peu le <ingredient action="ajouter" quantite="75 cl"> lait </ingredient> bouillant en <operation> remuant </operation> bien . <operation ingredients="oeufs;crème"> fouettez </operation> les 2 jaunes d' <ingredient action="fouetter"> oeufs </ingredient> et la <ingredient action="fouetter" quantite="20 cl"> crème </ingredient> avec 1 louche de potage . <operation ingredients="soupe"> mélangez </operation> avec le reste de la <ingredient action="mélanger"> soupe </ingredient> et servez bien chaud . vous pouvez <operation ingredients="lait"> mettre </operation> moins de <ingredient action="mettre" quantite="75 cl"> lait </ingredient> et le remplacer par du <ingredient> bouillon </ingredient> .
+</preparation>
+</recette>

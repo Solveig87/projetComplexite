@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52001">
+<titre>Potage de fin de mois</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de velouté de tomates</p>
+<p>250 g de macédoine de légumes</p>
+<p>100 g de coquillettes</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> faites </operation> <operation> cuires </operation> les <ingredient action="faire"> pâtes </ingredient> . <operation ingredients="tomates"> réchauffez </operation> dans une casserole le velouté de <ingredient action="réchauffer"> tomates </ingredient> en y <operation ingredients="macédoine"> ajoutant </operation> la <ingredient action="ajouter" quantite="250 gramme"> macédoine </ingredient> de légumes , veillez à maintenir un feu très doux . une fois les <ingredient action="ajouter" quantite="100 gramme"> coquillettes </ingredient> prêtes , <operation ingredients="coquillettes"> ajoutez </operation> - les au potage . <operation> assaisonnez </operation> et <operation> goûtez </operation> . c' est prêt !
+</preparation>
+</recette>

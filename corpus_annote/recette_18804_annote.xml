@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18804">
+<titre>Mousse au chocolat toblerone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de Toblerone (emballage noir ou beige) </p>
+<p>8 oeufs (blancs et jaunes)</p>
+<p>1 cuillère à soupe d'eau</p>
+<p>1 cuillère à soupe de sucre</p>
+</ingredients>
+<preparation>
+faire <operation> fondre </operation> au bain - marie le toblerone avec 1 cuillère à soupe d' eau . <operation ingredients="sucre;oeufs"> rajouter </operation> le <ingredient action="rajouter" quantite="1 cuillère à soupe"> sucre </ingredient> et les jaunes d' <ingredient action="rajouter" quantite="8"> oeufs </ingredient> un à un . laisser refroidir un peu . <operation ingredients="oeufs"> battre </operation> les blancs d' <ingredient action="battre" quantite="8"> oeufs </ingredient> en neige et les <operation> mélanger </operation> délicatement avec la préparation . <operation> mettre </operation> au frais . a faire la veille de préférence .
+</preparation>
+</recette>

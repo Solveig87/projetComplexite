@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55276">
+<titre>Poêlée de riz et courgette au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courgette</p>
+<p>1 verre de riz</p>
+<p>1 escalope de poulet</p>
+<p>curry</p>
+<p>crème fraîche liquide</p>
+<p>menthe</p>
+<p>1 échalote</p>
+<p>1 gousse d'ail</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+pendant que le <ingredient action="cuire" quantite="1 verre"> riz </ingredient> <operation ingredients="riz"> cuit </operation> dans l' eau , <operation ingredients="escalope"> couper </operation> la courgette et l' <ingredient action="couper" quantite="1"> escalope </ingredient> en dés . faire <operation ingredients="échalote;ail;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir"> ail </ingredient> <operation> émincés </operation> dans une cuillère d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> et la courgette . <ingredient quantite=""> sel </ingredient> , poivre , curry , menthe . quand le <ingredient action="cuire" quantite="1 verre"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , le <operation> mettre </operation> dans la <operation> poêle </operation> et <operation> mélanger </operation> le tout . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> fraiche . <operation> rectifier </operation> si nécessaire . servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52895">
+<titre>Velouté de citrouille au lait de coco</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>environ 1 kg de citrouille (potiron, potimarron ou autre courge)</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>20 cl de lait de coco</p>
+<p>1 bouillon cube</p>
+<p>1/2 cuillère à café de cannelle</p>
+</ingredients>
+<preparation>
+<operation> epépinez </operation> et <operation ingredients="citrouille"> enlevez </operation> la peau de la <ingredient action="enlever"> citrouille </ingredient> , <operation> coupez </operation> - la en cubes . <operation ingredients="échalote;ail"> pelez </operation> l' <ingredient action="peler" quantite="2"> échalote </ingredient> et l' <ingredient action="peler"> ail </ingredient> , <operation> coupez </operation> - les en morceaux . <operation ingredients="échalote;ail;bouillon"> placez </operation> les cubes citrouille , l' <ingredient action="placer" quantite="2"> échalote </ingredient> , l' <ingredient action="placer"> ail </ingredient> et le <ingredient action="placer" quantite="1"> bouillon </ingredient> cube dans une casserole . <operation> couvrez </operation> d' eau aux 2 / 3 , et faites <operation> bouillir </operation> . <operation> couvrez </operation> et laissez <operation> cuire </operation> 20 min à feu moyen . <operation> passez </operation> ensuite au <operation> mixer </operation> , <operation ingredients="lait;cannelle"> ajoutez </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco et la <ingredient action="ajouter"> cannelle </ingredient> .
+</preparation>
+</recette>

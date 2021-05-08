@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27851">
+<titre>Fondue au poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 blancs de poulet coupés en dés</p>
+<p>chapelure</p>
+<p>3 oeufs</p>
+<p>huile à fondue</p>
+</ingredients>
+<preparation>
+<operation ingredients="chapelure;oeufs"> mettre </operation> sur la table un bol de <ingredient action="mettre" quantite=""> chapelure </ingredient> et un bol d' <ingredient action="mettre" quantite="3"> oeufs </ingredient> <operation> battus </operation> pour 2 personnes . <operation ingredients="poulet;chapelure"> mettre </operation> un morceau de <ingredient action="mettre"> poulet </ingredient> sur un pic à <operation> fondue </operation> , le <operation ingredients="oeuf"> tremper </operation> dans l' <ingredient action="tremper" quantite="3"> oeuf </ingredient> , puis la <ingredient action="mettre" quantite=""> chapelure </ingredient> et le <operation> mettre </operation> à <operation> frire </operation> . chacun fait sa <operation> cuisine </operation> c' est génial et excellent , les enfants adorent . ça ressemble aux nuggets de <ingredient> poulet </ingredient> mais en mieux .
+</preparation>
+</recette>

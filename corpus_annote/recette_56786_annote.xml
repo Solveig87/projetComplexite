@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56786">
+<titre>Hachis parmentier aux haricots princesses</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de hachis de porc et de boeuf mélangés</p>
+<p>500 g de purée de pommes de terre</p>
+<p>350 g de haricots princesses</p>
+<p>1 gros oignon</p>
+<p>2 gousses d'ail</p>
+<p>ciboulette (pas obligatoire)</p>
+<p>3 noix de beurre</p>
+<p>chapelure</p>
+<p>25 cl lait</p>
+<p>2 cuillères à soupe de maïzena (ou de farine)</p>
+<p>poivre, sel, noix de muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;ail;beurre"> cuire </operation> légèrement les <ingredient action="cuire" quantite="1"> oignons </ingredient> et l' <ingredient action="cuire"> ail </ingredient> dans une <operation> poêle </operation> avec la moitié du <ingredient action="cuire"> beurre </ingredient> et <operation> réserver </operation> . <operation ingredients="viande;oignons;ail"> cuire </operation> la <ingredient action="cuire" quantite="3"> viande </ingredient> dans la <operation> poêle </operation> avec la moitié des <ingredient action="cuire" quantite="1"> oignons </ingredient> et l' <ingredient action="cuire"> ail </ingredient> revenus et <operation> mélanger </operation> régulièrement . <operation> réserver </operation> <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="25 cl"> lait </ingredient> , le reste des <ingredient quantite="1"> oignons </ingredient> et de l' <ingredient> ail </ingredient> dans la <operation> poêle </operation> . faire <operation ingredients="poivre;noix"> chauffer </operation> jusqu' à l' ébuilition , <operation ingredients="sel"> rajouter </operation> du <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="chauffer" quantite=""> poivre </ingredient> et la <ingredient action="chauffer" quantite="3"> noix </ingredient> de muscade . puis tout en <operation> remuant </operation> , <operation ingredients="maïzena;farine"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> maïzena </ingredient> ( ou la <ingredient action="ajouter"> farine </ingredient> ) . dès que la sauce est homogène , <operation ingredients="haricots"> verser </operation> les <ingredient action="verser" quantite="350 gramme"> haricots </ingredient> et <operation> cuire </operation> 2 minutes sur le feu . dans un plat pour le four , <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite="3"> viande </ingredient> dans le fond , <operation ingredients="haricots"> couvrir </operation> avec les <ingredient action="couvrir" quantite="350 gramme"> haricots </ingredient> et finir par la purée . <operation ingredients="chapelure"> saupoudrer </operation> la <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> sur la purée , <operation ingredients="noix"> ajouter </operation> deux <ingredient action="ajouter" quantite="3"> noix </ingredient> de beurre dessus et <operation> enfourner </operation> le plat environ 10 minutes à 180 <operation> ° </operation> . et c' est prêt ! bon appétit !
+</preparation>
+</recette>

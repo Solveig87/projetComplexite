@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12586">
+<titre>Poulet massalé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>500 g d'oignons</p>
+<p>500 g de tomates</p>
+<p>4 cuillères à soupe de massalé</p>
+<p>1 cuillère à soupe de cumin</p>
+<p>sel</p>
+<p>poivre</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;huile"> dorer </operation> les <ingredient action="dorer" quantite="500 gramme"> oignons </ingredient> <operation> émincés </operation> dans l' <ingredient action="dorer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="massalé;cumin"> saupoudrer </operation> avec le <ingredient action="saupoudrer" quantite="4 cuillère à soupe"> massalé </ingredient> et le <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> cumin </ingredient> . <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> poulet </ingredient> <operation> coupé </operation> en morceaux . <operation> saler </operation> , <operation> poivrer </operation> et <operation> ajouter </operation> l' <ingredient action="piler"> ail </ingredient> <operation ingredients="ail"> pilé </operation> . <operation ingredients="poulet;tomates"> retirer </operation> le <ingredient action="retirer" quantite="1"> poulet </ingredient> quand il est doré et le remplaver par les <ingredient action="retirer" quantite="500 gramme"> tomates </ingredient> <operation> coupées </operation> en quartiers . laisser <operation> cuire </operation> 10 à 15 minutes . <operation ingredients="poulet"> disposer </operation> le <ingredient action="disposer" quantite="1"> poulet </ingredient> dans un plat allant au four et <operation> couvrir </operation> de la sauce . terminer la cuisson . on peut faire <operation ingredients="oignons;lardons"> dorer </operation> les <ingredient action="dorer" quantite="500 gramme"> oignons </ingredient> avec des <ingredient action="dorer"> lardons </ingredient> , <operation ingredients="sucre"> ajouter </operation> un ou deux morceaux de <ingredient action="ajouter"> sucre </ingredient> et faire caraméliser au four .
+</preparation>
+</recette>

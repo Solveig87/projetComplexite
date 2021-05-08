@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20164">
+<titre>Salade de carottes râpées aux amandes et au thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 belles carottes</p>
+<p>1 boîte de thon</p>
+<p>1 citron</p>
+<p>150 g d'amandes entières</p>
+<p>2 cuillères à soupe de coriandre hachée</p>
+<p>2 gousses d'ail</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> râper </operation> les <ingredient action="râper" quantite="5"> carottes </ingredient> , <operation ingredients="thon;amandes;coriandre;ail;huile"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> , les <ingredient action="ajouter" quantite="150 gramme"> amandes </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à soupe"> coriandre </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> finement <operation> hachés </operation> , un filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , <operation> saler </operation> et <operation> poivrer </operation> . on peut <operation ingredients="huile;thon;citron"> éliminer </operation> l' <ingredient action="éliminer" quantite=""> huile </ingredient> d' olive pour en faire un plat vraiment léger : l' eau du <ingredient action="éliminer"> thon </ingredient> et le <ingredient action="éliminer" quantite="1"> citron </ingredient> suffisent pour éviter un aspect trop sec . du <ingredient> persil </ingredient> peut remplasser la <ingredient quantite="2 cuillère à soupe"> coriandre </ingredient>
+</preparation>
+</recette>

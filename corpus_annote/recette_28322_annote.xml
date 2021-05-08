@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28322">
+<titre>Risotto parfumé à la sauge</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de riz rond</p>
+<p>1 oignon </p>
+<p>100 g de beurre</p>
+<p>200 g de chair à saucisse </p>
+<p>4 feuilles de sauge</p>
+<p>20 cl de vin blanc sec </p>
+<p>250 g de tomates concassées</p>
+<p>sel, poivre</p>
+<p>1 l de bouillon</p>
+<p>100 g de parmesan râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> emincer </operation> finement l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et les feuilles de sauge . faire <operation ingredients="noix"> chauffer </operation> une grosse <ingredient action="chauffer"> noix </ingredient> de beurre dans une casserole à fond épais et y faire <operation ingredients="oignon"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> , puis <operation ingredients="chair"> ajouter </operation> la sauge et la <ingredient action="ajouter" quantite="200 gramme"> chair </ingredient> à saucisse . au bout de 2 min , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="400 gramme"> riz </ingredient> et le faire <operation> revenir </operation> jusqu' à ce qu' il devienne translucide . <operation ingredients="vin"> mouiller </operation> alors de <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> , <operation> mélanger </operation> et laisser évaporer . lorsqu' il n' y a plus de liquide , <operation ingredients="tomate"> verser </operation> la <ingredient action="verser" quantite="250 gramme"> tomate </ingredient> puis <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> louche après louche . attendre que le <ingredient quantite="400 gramme"> riz </ingredient> ait absorbé le liquide entre chaque louche . procéder ainsi jusqu' à la cuisson complète du <ingredient quantite="400 gramme"> riz </ingredient> , environ 20 min , sans cesser de <operation> remuer </operation> hors du feu , <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> restant , le <ingredient action="saler" quantite="100 gramme"> parmesan </ingredient> râpé , <operation ingredients="parmesan"> saler </operation> et <operation> poivrer </operation> .
+</preparation>
+</recette>

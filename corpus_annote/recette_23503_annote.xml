@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23503">
+<titre>Spaghetti au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 paquet de spaghetti blé complet</p>
+<p>1 briquette de coulis de tomate</p>
+<p>2 petits palets de chèvre frais à cuire</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans de l' eau bouillante <operation> salée </operation> . pendant ce temps , <operation ingredients="chèvre"> placer </operation> les palets de <ingredient action="placer"> chèvre </ingredient> dans un petit bol . <operation ingredients="tomates"> verser </operation> juste assez de coulis de <ingredient action="verser"> tomates </ingredient> pour <operation> recouvrir </operation> les palets et <operation> poivrer </operation> généreusement . <operation> mélanger </operation> les palets et le coulis à la fourchette ( ça va mieux pour <operation ingredients="fromage"> écraser </operation> le <ingredient action="écraser"> fromage </ingredient> ) . <operation ingredients="pâtes"> egoutter </operation> les <ingredient action="egoutter"> pâtes </ingredient> , <operation> reverser </operation> dans la casserole et <operation ingredients="tomate"> incorporer </operation> le coulis de <ingredient action="incorporer"> tomate </ingredient> au chèvre qui <operation ingredients="pâtes"> fond </operation> alors de bonheur de se trouver bien au chaud sur son lit de <ingredient action="fondre"> pâtes </ingredient> . . .
+</preparation>
+</recette>

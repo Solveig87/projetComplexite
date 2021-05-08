@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91658">
+<titre>Tomates Catalanes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 grosses tomates</p>
+<p>4 oeufs</p>
+<p>4 tranches de jambon</p>
+<p>4 cuillerée de mayonnaise (de préférence faite maison)</p>
+<p>1 morceau de concombre de 8 cm</p>
+<p>1 grosse poignée de persil</p>
+<p>6 anchois à l'huile (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> durs . <operation ingredients="tomates"> couper </operation> les chapeaux des <ingredient action="couper" quantite="6"> tomates </ingredient> puis <operation> videz </operation> - les . <operation ingredients="tomates"> saupoudrez </operation> l' interieur des <ingredient action="saupoudrer" quantite="6"> tomates </ingredient> de sel et <operation> retournez </operation> - les pour dégorger . <operation ingredients="oeufs;jambon;mayonnaise;persil;anchois;concombre"> mélangez </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> durs et le <ingredient action="mélanger" quantite="4 tranche"> jambon </ingredient> tout deux <operation> coupés </operation> en petits dés avec la <ingredient action="mélanger"> mayonnaise </ingredient> , le <ingredient action="mélanger"> persil </ingredient> <operation> hachés </operation> , les <ingredient action="mélanger" quantite="6"> anchois </ingredient> <operation> hachés </operation> également et le <ingredient action="mélanger"> concombre </ingredient> <operation> coupés </operation> en tout petits dés . <ingredient> sel </ingredient> , poivre , moutarde si nécessaire . <operation ingredients="tomates"> remplir </operation> les <ingredient action="remplir" quantite="6"> tomates </ingredient> de la préparation . <operation> mettre </operation> quelques minutes au frigo puis servez bien frais . peut être servi avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

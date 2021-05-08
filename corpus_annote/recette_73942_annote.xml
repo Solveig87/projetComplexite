@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73942">
+<titre>Nuggets aromatisés</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de blanc de poulet (ou autre morceau cru sans peau) </p>
+<p>25 à 30 g de chapelure</p>
+<p>du ketchup ou autre sauce aromatisée (barbecue, chili,...)</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> coupez </operation> le <ingredient action="couper"> poulet </ingredient> en petits cubes de la taille voulue . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="chapelure"> mettez </operation> la <ingredient action="mettre"> chapelure </ingredient> dans un petit bol et la sauce dans un autre . <operation ingredients="poulet;chapelure"> trempez </operation> tous les morceaux de <ingredient action="trempez"> poulet </ingredient> dans la sauce puis dans la <ingredient action="trempez"> chapelure </ingredient> . faites <operation ingredients="huile"> dorer </operation> les nuggets dans une <operation> poêle </operation> avec un peu d' <ingredient action="dorer"> huile </ingredient> pendant environ 5 min de chaque coté . vous pouvez varier la recette à l' infini en remplaçant le <ingredient quantite=""> ketchup </ingredient> par une autre sauce . attention les nuggets sont plus faciles à réaliser avec du <ingredient quantite=""> ketchup </ingredient> qu' avec la sauce barbecue !
+</preparation>
+</recette>

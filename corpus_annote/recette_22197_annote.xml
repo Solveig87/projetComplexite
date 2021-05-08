@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22197">
+<titre>Tarte pommes poires</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>2 poires</p>
+<p>25 g de raisins secs</p>
+<p>25 g d'amandes</p>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe de farine</p>
+<p>50 g de sucre</p>
+<p>2 dl de lait</p>
+<p>1 pâte brisée</p>
+</ingredients>
+<preparation>
+dans une jatte , <operation ingredients="oeuf;farine;sucre"> mélanger </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> avec la <ingredient action="mélanger" quantite="1 cuillère à soupe"> farine </ingredient> et le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> . <operation ingredients="lait"> délayer </operation> avec le <ingredient action="délayer" quantite="2 dl"> lait </ingredient> . <operation ingredients="pâte"> garnir </operation> le plat de la <ingredient action="garnir" quantite="1"> pâte </ingredient> <operation> brisée </operation> . <operation> piquer </operation> le fond à l' aide d' une fourchette . <operation ingredients="pommes;poires"> peler </operation> et <operation> couper </operation> les <ingredient action="peler" quantite="2"> pommes </ingredient> et les <ingredient action="peler" quantite="2"> poires </ingredient> en morceaux . les étaler sur la <ingredient quantite="1"> pâte </ingredient> . <operation ingredients="raisins;amandes"> parsemer </operation> les <ingredient action="parsemer" quantite="25 gramme"> raisins </ingredient> secs et les <ingredient action="parsemer" quantite="25 gramme"> amandes </ingredient> . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> et <operation> enfourner </operation> à 200 <operation> ° </operation> c.
+</preparation>
+</recette>

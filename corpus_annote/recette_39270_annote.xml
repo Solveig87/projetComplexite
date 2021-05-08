@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39270">
+<titre>Riz Mangue Crevettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de crevettes roses cuites</p>
+<p>1 mangue</p>
+<p>1 cuillère à café de curry</p>
+<p>2 cubes saveur ail/persil</p>
+<p>25 g de beurre</p>
+<p>25 cl de crème fraîche</p>
+<p>2 cl de jus de citron</p>
+<p>500 g de riz</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> chauffer </operation> l' eau pour le <ingredient action="chauffer" quantite="500 gramme"> riz </ingredient> . <operation ingredients="crevettes"> décortiquer </operation> les <ingredient action="décortiquer" quantite="400 gramme"> crevettes </ingredient> . <operation ingredients="mangue"> peler </operation> la <ingredient action="peler" quantite="1"> mangue </ingredient> et la <operation> couper </operation> en fines lamelles . <operation ingredients="riz"> mettre </operation> le <ingredient action="mettre" quantite="500 gramme"> riz </ingredient> à <operation> cuire </operation> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> dans une <operation> poêle </operation> . faire <operation ingredients="mangue"> revenir </operation> les lamelles de <ingredient action="revenir" quantite="1"> mangue </ingredient> . <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> crevettes </ingredient> . faire <operation ingredients="ail"> fondre </operation> les 2 cubes <ingredient action="fondre"> ail </ingredient> / persil . <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cl"> jus </ingredient> des citrons . <operation ingredients="curry"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> . faire <operation> revenir </operation> le tout à feu vif pendant 2 mn , puis laisser <operation> mijoter </operation> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche . <operation ingredients="riz"> egoutter </operation> le <ingredient action="egoutter" quantite="500 gramme"> riz </ingredient> et le <operation ingredients="mangue"> mélanger </operation> à la préparation <ingredient action="mélanger" quantite="1"> mangue </ingredient> - crevettes . servir immédiatement . tokay <ingredient> pinot </ingredient> gris d' alsace bien frais
+</preparation>
+</recette>

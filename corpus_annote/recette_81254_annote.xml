@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81254">
+<titre>Salade rose</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 endives</p>
+<p>1/2 pied de céleri</p>
+<p>2 avocats</p>
+<p>1 pot de mayonnaise Lesieur</p>
+<p>1 petite boîte de tomate concentrée</p>
+<p>paprika</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="4"> endives </ingredient> en petits morceaux , les <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de citron . les <operation ingredients="jus"> laisser </operation> <operation> macérer </operation> 1 / 4 d' heure dans le <ingredient action="laisser"> jus </ingredient> de citron en les tournant de temps à autre . <operation ingredients="céleri"> laver </operation> le <ingredient action="laver"> céleri </ingredient> et le <operation> couper </operation> en petits bâtons . <operation ingredients="avocats"> couper </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en deux . <operation ingredients="chair;avocat"> détacher </operation> délicatement la <ingredient action="détacher"> chair </ingredient> de l' <ingredient action="détacher" quantite="2"> avocat </ingredient> sans abîmer la peau . <operation ingredients="chair"> couper </operation> la <ingredient action="couper"> chair </ingredient> en cubes . <operation ingredients="mayonnaise;tomate"> ajouter </operation> à la <ingredient action="ajouter" quantite="1 pot"> mayonnaise </ingredient> un peu de <ingredient action="ajouter"> tomate </ingredient> <operation ingredients="paprika"> concentrée </operation> et un peu de <ingredient action="concentrer" quantite=""> paprika </ingredient> . <operation ingredients="mayonnaise"> mélanger </operation> la <ingredient action="mélanger" quantite="1 pot"> mayonnaise </ingredient> avec avocats , céleri et endives et <operation> garnir </operation> les demi-avocats vides avec le <operation> mélange </operation> .
+</preparation>
+</recette>

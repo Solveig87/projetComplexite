@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52289">
+<titre>Soupe de winnie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>lait</p>
+<p>pâtes en formes d'alphabet ou des étoiles</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire doucement <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite=""> lait </ingredient> et le <operation> saler </operation> légèrement . <operation ingredients="pâtes"> incorporer </operation> les <ingredient action="incorporer" quantite=""> pâtes </ingredient> , <operation> remuer </operation> , vérifier la cuisson . <operation ingredients="manger"> verser </operation> dans un bol et <ingredient action="verser"> manger </ingredient> . plat unique pour tout âge ! faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite=""> pâtes </ingredient> comme à votre habitude comme si elles étaient dans de l' eau .
+</preparation>
+</recette>

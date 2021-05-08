@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29812">
+<titre>Gratin de blettes express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 kg de blettes</p>
+<p>80 g de fromage râpé</p>
+<p>1 à 2 pincées de persil haché</p>
+<p>2 jaunes d'oeuf</p>
+<p>40 cl de crème épaisse</p>
+<p>1 pincée de noix de muscade</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="blettes"> blanchir </operation> les <ingredient action="blanchir" quantite="2 kilogramme"> blettes </ingredient> à l' eau bouillante pendant 20 à 25 min , et <operation> égouttez </operation> . <operation ingredients="blettes"> disposez </operation> une couche de <ingredient action="disposer" quantite="2 kilogramme"> blettes </ingredient> dans un plat à gratin <operation> huilé </operation> , et <operation ingredients="muscade;sel"> assaisonnez </operation> avec <ingredient action="assaisonner"> muscade </ingredient> <operation> râpée </operation> , <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre . <operation ingredients="fromage;persil"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="80 gramme"> fromage </ingredient> <operation> râpé </operation> et d' une pincée de <ingredient action="saupoudrer"> persil </ingredient> haché . . . <operation ingredients="blettes"> remplir </operation> le plat à gratin de plusieurs couches de <ingredient action="remplir" quantite="2 kilogramme"> blettes </ingredient> et fromage . <operation ingredients="oeuf;crème"> faites </operation> une sauce épaisse avec les 2 jaunes d' <ingredient action="faire"> oeuf </ingredient> <operation> battus </operation> et la <ingredient action="faire" quantite="40 cl"> crème </ingredient> fraîche . <operation ingredients="blettes"> versez </operation> - la sur les <ingredient action="verser" quantite="2 kilogramme"> blettes </ingredient> . <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer"> chapelure </ingredient> et faites <operation> gratiner </operation> à four chaud pendant 15 min .
+</preparation>
+</recette>

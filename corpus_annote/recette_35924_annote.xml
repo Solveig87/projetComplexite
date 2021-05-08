@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35924">
+<titre>Saumon et merlan au reblochon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 filet de saumon </p>
+<p>1 filet de merlan</p>
+<p>1 tranche de reblochon</p>
+<p>aneth </p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon"> etaler </operation> le filet de <ingredient action="etaler"> saumon </ingredient> , <operation ingredients="merlan;reblochon"> mettre </operation> dessus le filet de <ingredient action="mettre"> merlan </ingredient> et la tranche de <ingredient action="mettre" quantite="1 tranche"> reblochon </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="aneth"> mettre </operation> un peu d' <ingredient action="mettre" quantite=""> aneth </ingredient> . <operation> rouler </operation> le tout dans une feuille d’ aluminium et <operation> mettre </operation> au four 20 min environ à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="endives"> accompagner </operation> avec des <ingredient action="accompagner"> endives </ingredient> braisées .
+</preparation>
+</recette>

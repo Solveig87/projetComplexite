@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62555">
+<titre>Yaourt maison au café</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait 1/2 écrémé</p>
+<p>2 cuillères à soupe de café lyophilisé</p>
+<p>1 yaourt nature</p>
+</ingredients>
+<preparation>
+dans un pichet de contenance plus de 1 litre , <operation ingredients="yaourt;café"> battre </operation> au fouet le <ingredient action="battre" quantite="1"> yaourt </ingredient> nature avec le <ingredient action="battre" quantite="2 cuillère à soupe"> café </ingredient> en <operation> poudre </operation> . <operation ingredients="lait"> ajouter </operation> progressivement le litre de <ingredient action="ajouter" quantite="1 l"> lait </ingredient> . <operation> mettre </operation> en pot et en yaourtière pendant le temps indiqué . 1 nuit en moyenne . les <operation> sucrer </operation> à la dégustation selon le goût de chacun .
+</preparation>
+</recette>

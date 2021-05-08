@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25086">
+<titre>Salade de chou chinois, poivrons et avocats</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de chou chinois</p>
+<p>2 oignons doux </p>
+<p>1 coeur de céleri blanc</p>
+<p>2 poivrons rouge</p>
+<p>1 poivron vert</p>
+<p>1 avocat</p>
+<p>1 citron vert</p>
+<p>3 oeufs durs </p>
+<p>5 cl de sauce aigre-douce</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon;céleri"> laver </operation> et <operation ingredients="chou"> émincer </operation> le <ingredient action="émincer" quantite="600 gramme"> chou </ingredient> chinois , puis l’ <ingredient action="laver" quantite="2"> oignon </ingredient> et le <ingredient action="laver"> céleri </ingredient> blanc . les <operation> déposer </operation> dans un saladier et les <operation> mélanger </operation> . <operation ingredients="poivrons"> détailler </operation> les <ingredient action="détailler"> poivrons </ingredient> en fines lanières puis <operation ingredients="chair;avocat"> découper </operation> la <ingredient action="découper"> chair </ingredient> de l’ <ingredient action="découper" quantite="1"> avocat </ingredient> en petits dés . <operation ingredients="avocats"> arroser </operation> les dés d’ <ingredient action="arroser" quantite="1"> avocats </ingredient> de jus de citron afin d’ éviter qu’ ils ne <operation> noircissent </operation> , puis les <operation ingredients="légumes"> mélanger </operation> avec les autres <ingredient action="mélanger" quantite="600 gramme;2;1;1;1"> légumes </ingredient> . <operation ingredients="salade"> napper </operation> la <ingredient action="napper"> salade </ingredient> de sauce aigre - douce et <operation ingredients="oeufs"> décorer </operation> des <ingredient action="décorer" quantite="3"> oeufs </ingredient> durs <operation> coupés </operation> en quartiers . servir bien frais .
+</preparation>
+</recette>

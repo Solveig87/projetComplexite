@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26330">
+<titre>Petits flans au café</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuillères à café de café soluble</p>
+<p>200 g de sucre semoule</p>
+<p>4 oeufs</p>
+<p>75 cl de lait </p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="lait;café"> bouillir </operation> le <ingredient action="bouillir" quantite="75 cl"> lait </ingredient> avec le <ingredient action="bouillir" quantite="2 cuillère à café"> café </ingredient> soluble . <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> et le laisser <operation> fondre </operation> en <operation> remuant </operation> . dans un saladier , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> et y <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer" quantite="75 cl"> lait </ingredient> chaud en continuant de bien <operation> mélanger </operation> . <operation> préparer </operation> un bain - marie . <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> ainsi obtenue dans des ramequins allant au four et faire <operation> cuire </operation> le tout à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 30 min . bien laisser refroidir dans le bain - marie puis <operation> réserver </operation> au réfrigérateur . servir et déguster très frais .
+</preparation>
+</recette>

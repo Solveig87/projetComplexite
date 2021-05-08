@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81966">
+<titre>Riz gratiné</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de riz</p>
+<p>1 petite boîte de champignons émincés</p>
+<p>200 g de lardons</p>
+<p>100 g de petits pois surgelés</p>
+<p>3 noisettes de beurre</p>
+<p>1 oignon</p>
+<p>100 g de gruyère râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;noisette"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> <operation> émincés </operation> dans une sauteuse , avec une <ingredient action="revenir" quantite="3"> noisette </ingredient> de beurre . <operation ingredients="lardons;champignons"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> et les <ingredient action="ajouter"> champignons </ingredient> . faire <operation> dorer </operation> . <operation ingredients="lardons"> enlever </operation> la préparation aux <ingredient action="enlever" quantite="200 gramme"> lardons </ingredient> , la <operation> réserver </operation> . faire <operation ingredients="noisette"> fondre </operation> une <ingredient action="fondre" quantite="3"> noisette </ingredient> de beurre . <operation ingredients="riz"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="500 gramme"> riz </ingredient> en pluie en <operation> mélangeant </operation> bien . <operation ingredients="riz"> ajouter </operation> de l' eau une fois que le <ingredient action="ajouter" quantite="500 gramme"> riz </ingredient> est translucide . <operation ingredients="lardons;champignons;oignon;pois"> rajouter </operation> les <ingredient action="rajouter" quantite="200 gramme"> lardons </ingredient> , les <ingredient action="rajouter"> champignons </ingredient> et l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> , puis les petits <ingredient action="rajouter" quantite="100 gramme"> pois </ingredient> surgelés . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> mijoter </operation> à feu doux avec un couvercle pendant environ 20 minutes en veillant à ce que le <ingredient quantite="500 gramme"> riz </ingredient> n' attache pas . <operation ingredients="riz"> goûter </operation> le <ingredient action="goûter" quantite="500 gramme"> riz </ingredient> pour s' assurer qu' il soit <operation> cuit </operation> . si ce n' est pas le cas et qu' il n' y a plus d' eau , en <operation> rajouter </operation> . une fois le <ingredient action="cuire" quantite="500 gramme"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , <operation> beurrer </operation> un <operation> moule </operation> à gratin , puis <operation> verser </operation> la préparation dedans . <operation ingredients="gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> râpé puis <operation> enfourner </operation> au four pendant 10 minutes jusqu' à ce que ça gratine . vous pouvez <operation ingredients="curry"> rajouter </operation> du <ingredient action="rajouter"> curry </ingredient> au moment de <operation> mettre </operation> de l' eau , pour donner un goût un peu plus épicé .
+</preparation>
+</recette>

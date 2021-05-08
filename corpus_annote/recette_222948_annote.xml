@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222948">
+<titre>Salade Coleslaw</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 chou blanc</p>
+<p>2 carottes</p>
+<p>3 cuillères à soupe de raisins secs</p>
+<p>3 cuillères à soupe de vinaigre de vin </p>
+<p>1 yaourt nature</p>
+<p>1/2 pot de mayonnaise</p>
+<p>aneth</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="raisins"> réhydrater </operation> les <ingredient action="réhydrater" quantite="3 cuillère à soupe"> raisins </ingredient> secs dans l' eau chaude . <operation ingredients="carottes"> râper </operation> les <ingredient action="râper" quantite="2"> carottes </ingredient> ; les <operation ingredients="chou"> peler </operation> ainsi que le <ingredient action="peler"> chou </ingredient> blanc . <operation ingredients="yaourt;vinaigre;mayonnaise;aneth;raisins"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> avec le <ingredient action="mélanger" quantite="3 cuillère à soupe"> vinaigre </ingredient> , la <ingredient action="mélanger"> mayonnaise </ingredient> , l' <ingredient action="mélanger" quantite=""> aneth </ingredient> et les <ingredient action="mélanger" quantite="3 cuillère à soupe"> raisins </ingredient> secs . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="2"> légumes </ingredient> .
+</preparation>
+</recette>

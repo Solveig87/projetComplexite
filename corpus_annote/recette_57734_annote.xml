@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57734">
+<titre>Béret Basque (gâteau mousse au chocolat)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>100 g de beurre</p>
+<p>5 oeufs</p>
+<p>40 g de sucre fin</p>
+<p>2 cuillères à soupe de farine</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> au bain marie . dans un saladier , <operation ingredients="oeufs;sucre"> mélanger </operation> les 5 jaunes d' <ingredient action="mélanger" quantite="5"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="40 gramme"> sucre </ingredient> jusqu' à ce que la texture <operation> blanchisse </operation> . <operation ingredients="chocolat;beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> , bien <operation> mélanger </operation> . <operation> monter </operation> les blancs en neige sans oublier la pincée de <ingredient quantite="1 pincée"> sel </ingredient> ! <operation> incorporer </operation> les blancs progressivement au précédent <operation> mélange </operation> . prendre un tiers de cette préparation et la <operation> mettre </operation> au frais . <operation> ajouter </operation> 2 cuillère à soupe de farine au restant , <operation> mettre </operation> dans un <operation> moule </operation> beurré et faire <operation> cuire </operation> 20 minutes au four à 210 <operation> ° </operation> c ( thermostat 7 ) . laisser refroidir puis <operation> recouvrir </operation> avec la <ingredient> mousse </ingredient> et faire des picots . <operation> remettre </operation> au frais , sortir un peu avant de servir . <operation ingredients="noix"> ajouter </operation> un peu de <ingredient action="ajouter"> noix </ingredient> de coco râpée avant de servir et <operation ingredients="glace;crème"> accompagner </operation> d' une boule de <ingredient action="accompagner"> glace </ingredient> à la <ingredient action="accompagner"> crème </ingredient> brûlée .
+</preparation>
+</recette>

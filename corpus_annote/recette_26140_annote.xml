@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26140">
+<titre>Tourte au lapin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>deux pâtes brisées</p>
+<p>2 kg de lapin</p>
+<p>1 bouteille de bon vin rouge</p>
+<p>2 gros oignons</p>
+<p>100 g de lardons</p>
+<p>thym</p>
+<p>laurier</p>
+<p>persil haché</p>
+<p>2 gousses d'ail</p>
+<p>sel, poivre gris</p>
+<p>1 jaune d'oeuf</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+le matin , <operation ingredients="lapin"> détailler </operation> le <ingredient action="détailler" quantite="2 kilogramme"> lapin </ingredient> en morceaux et le <operation> désosser </operation> , le faire <operation ingredients="vin"> mariner </operation> plusieurs heures dans le <ingredient action="mariner"> vin </ingredient> avec thym , laurier , poivre . la veille , au soir , <operation ingredients="persil;ail;oignons"> hacher </operation> finement le <ingredient action="hacher" quantite=""> persil </ingredient> , l' <ingredient action="hacher"> ail </ingredient> , les <ingredient action="hacher" quantite="2"> oignons </ingredient> . faire <operation ingredients="lapin;huile;lardons"> cuire </operation> le <ingredient action="cuire" quantite="2 kilogramme"> lapin </ingredient> dans l' <ingredient action="cuire" quantite="2 cuillère à soupe"> huile </ingredient> d' olive avec le hachis et les <ingredient action="cuire" quantite="100 gramme"> lardons </ingredient> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";;;2;;;2 cuillère à soupe"> assaisonnement </ingredient> en sel et poivre . une fois <operation> cuit </operation> , <operation> mettre </operation> au frais . le lendemain , <operation ingredients="pâte"> mettre </operation> une <ingredient action="mettre" quantite=""> pâte </ingredient> <operation> brisée </operation> au fond d' une tourtière . étaler le <ingredient quantite="2 kilogramme"> lapin </ingredient> cuit sur la <ingredient quantite=""> pâte </ingredient> en <operation> formant </operation> un monticule au milieu . <operation ingredients="pâte"> poser </operation> la deuxième <ingredient action="poser" quantite=""> pâte </ingredient> , souder les bords avec la première . <operation ingredients="oeuf"> dorer </operation> avec le jaune d' <ingredient action="dorer"> oeuf </ingredient> . <operation> décorer </operation> à la fourchette . <operation> mettre </operation> au four à 180 <operation> ° </operation> c pendant 30 mn .
+</preparation>
+</recette>

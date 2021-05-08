@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55097">
+<titre>Fondant double chocolat à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat noir</p>
+<p>100 g de chocolat au lait (type milka)</p>
+<p>100 g de beurre</p>
+<p>150 g de sucre</p>
+<p>1 cuillère à soupe de farine </p>
+<p>3 oeufs</p>
+<p>1 petit ananas</p>
+<p>1 sachet de sucre vanillé, un peu de beurre et du sucre glace pour le moule</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> noir et le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> au lait ensemble avec le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> au micro onde . <operation ingredients="oeufs;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger" quantite="3"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> et y <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> . <operation> monter </operation> les blancs en neige . <operation ingredients="oeufs"> mélanger </operation> les blancs en neige avec la préparation jaunes d' <ingredient action="mélanger" quantite="3"> oeufs </ingredient> / sucre / farine . une fois tout ça <operation> mélangé </operation> , y <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme+100 gramme"> chocolat </ingredient> . <operation> beurrer </operation> le <operation> moule </operation> , le <operation ingredients="sucre;glace;sucre"> tapisser </operation> de <ingredient action="tapisser" quantite="150 gramme"> sucre </ingredient> <ingredient action="tapisser"> glace </ingredient> et le <operation> saupoudrer </operation> de <ingredient action="tapisser" quantite="150 gramme"> sucre </ingredient> vanillé . une fois l' <ingredient quantite="1"> ananas </ingredient> <operation> coupé </operation> en tranches d' au moins 1 cm , <operation> disposer </operation> les rondelles au fond du <operation> moule </operation> à gâteau et <operation ingredients="gâteau"> mettre </operation> ensuite la préparation du <ingredient action="mettre"> gâteau </ingredient> sur le dessus . bon plaisir . une fois le <ingredient> gâteau </ingredient> <operation> cuit </operation> et refroidi , je vous conseille de le <operation> retourner </operation> sur un plat et de le servir avec les rondelles d' <ingredient quantite="1"> ananas </ingredient> aparentes , petite touche finale : quelques feuilles de l' <ingredient quantite="1"> ananas </ingredient> sur le dessus . . .
+</preparation>
+</recette>

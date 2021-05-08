@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83728">
+<titre>Filet mignon à la sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 filet mignon de porc</p>
+<p>1 l de vin blanc</p>
+<p>1 boite de tomate pelée</p>
+<p>1 boite de concentré de tomate</p>
+<p>1 noisette de beurre</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> dedans . <operation ingredients="sel;poivre"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . quand la <ingredient action="cuire"> viande </ingredient> est presque <operation ingredients="viande"> cuite </operation> <operation ingredients="tomate"> ajouter </operation> la boite de <ingredient action="ajouter"> tomate </ingredient> <operation ingredients="vin"> pelée </operation> et la moitie de la bouteille de <ingredient action="peler" quantite="1 l"> vin </ingredient> blanc et un verre d' eau . laisser <operation> mijoter </operation> 45 min . <operation ingredients="tomate"> ajouter </operation> ensuite le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et servir .
+</preparation>
+</recette>

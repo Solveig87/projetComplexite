@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14193">
+<titre>Papillotes de tomates au barbecue</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tomates</p>
+<p>1 ramequin d'huile d'olive</p>
+<p>gros sel ou sel fin</p>
+<p>herbes de Provence</p>
+<p>papier aluminium</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="8"> tomates </ingredient> sous l' eau puis <operation ingredients="couteau"> enlever </operation> l' opercule du milieu à l' aide de la pointe d' un <ingredient action="enlever"> couteau </ingredient> . <operation ingredients="tomate"> piquer </operation> votre <ingredient action="piquer" quantite="8"> tomate </ingredient> avec une fourchette et la <operation ingredients="huile"> tremper </operation> dans le ramequin d' <ingredient action="tremper"> huile </ingredient> d' olive , puis <operation> saupoudrer </operation> d' herbes de provence . <operation> saler </operation> et <operation> envelopper </operation> dans une feuille d' aluminium puis <operation> poser </operation> sur la <operation> grille </operation> de votre barbecue pour la cuisson . un rosé de provence
+</preparation>
+</recette>

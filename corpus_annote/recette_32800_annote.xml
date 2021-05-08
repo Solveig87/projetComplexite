@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32800">
+<titre>Quiche brocolis et saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>500 g de fleurettes de brocoli</p>
+<p>150 g de dés de saumon fumé</p>
+<p>25 cl de crème liquide</p>
+<p>3 oeufs et 1 jaune d'oeuf</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> les fleurettes de <ingredient action="cuire"> brocolis </ingredient> à la vapeur ( le <ingredient> brocoli </ingredient> doit être légèrement <ingredient> croquant </ingredient> à la fin de la cuisson ) . <operation ingredients="crème;oeufs;oeuf"> mélanger </operation> la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> liquide avec les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> et le jaune d' <ingredient action="mélanger" quantite="3"> oeuf </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> selon votre goût . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> à tarte ; y <operation ingredients="brocolis;saumon"> mettre </operation> les fleurettes de <ingredient action="mettre"> brocolis </ingredient> refroidis et les dés de <ingredient action="mettre"> saumon </ingredient> . <operation ingredients="crème"> verser </operation> par dessus la <ingredient action="verser" quantite="25 cl"> crème </ingredient> . <operation> enfourner </operation> dans un four chaud à 180 <operation> ° </operation> c pendant 45 mn environ .
+</preparation>
+</recette>

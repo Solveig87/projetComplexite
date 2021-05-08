@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55205">
+<titre>Tomme de Savoie au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 tomme de Savoie</p>
+<p>vin blanc sec de Savoie</p>
+<p>poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomme"> gratter </operation> la croûte de la surface de la <ingredient action="gratter" quantite="1"> tomme </ingredient> . avec un <operation ingredients="pomme"> évide </operation> - <ingredient action="évide"> pomme </ingredient> <operation ingredients="tomme"> percer </operation> une vingtaine de trous profonds dans la <ingredient action="percer" quantite="1"> tomme </ingredient> . <operation ingredients="vin"> remplir </operation> chaque trou de <ingredient action="remplir" quantite=""> vin </ingredient> blanc . <operation ingredients="poivre"> parsemer </operation> de <ingredient action="parsemer" quantite=""> poivre </ingredient> noir . <operation ingredients="tomme"> entourer </operation> le tour de la <ingredient action="entourer" quantite="1"> tomme </ingredient> de papier aluminium ( surtout pas le dessus ) . <operation> mettre </operation> dans un plat qui <operation ingredients="tomme"> entoure </operation> bien la <ingredient action="entoure" quantite="1"> tomme </ingredient> pour <operation> évider </operation> qu' elle se répande . savourez au bout de 45 min environ de cuisson , avec du <ingredient> pain </ingredient> <operation> trempé </operation> dedans , de la <ingredient> charcuterie </ingredient> et des <ingredient> pommes </ingredient> de terre . blanc de savoie
+</preparation>
+</recette>

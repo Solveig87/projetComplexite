@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36156">
+<titre>Clafoutis à la groseille</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>700 g de groseilles</p>
+<p>4 cuillères à soupe bombées de farine</p>
+<p>3 oeufs</p>
+<p>4 cuillères à soupe bombées de sucre cristallisé</p>
+<p>20 cl de lait</p>
+<p>2 cuillères à soupe de crème</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;oeufs;sel"> delayer </operation> la <ingredient action="delayer"> farine </ingredient> avec les <ingredient action="delayer" quantite="3"> oeufs </ingredient> , le <ingredient action="delayer" quantite="1 pincée"> sel </ingredient> et sucre . <operation ingredients="lait;crème"> ajouter </operation> peu à peu le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> et la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> , puis les <ingredient quantite="700 gramme"> groseilles </ingredient> <operation> épépinées </operation> . <operation> beurrer </operation> un <operation> moule </operation> , haut de 5 cm environ et le <operation> mettre </operation> vide dans le four . quand il est bouillant , le <operation> retirer </operation> et y <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> . faire <operation> cuire </operation> au four 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64712">
+<titre>Soupe de légumes racines</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 belles carottes</p>
+<p>1 gros panais</p>
+<p>2 gros navets</p>
+<p>3 pommes de terre </p>
+<p>1 tranche de lard fumé</p>
+<p>sel et poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> tous les <ingredient quantite="3;1;2;3"> légumes </ingredient> et les <operation> couper </operation> en dés . les <operation> mettre </operation> dans une casserole pleine d' eau , <operation ingredients="lard;sel;poivre;muscade"> ajouter </operation> le morceau de <ingredient action="ajouter"> lard </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> , du <ingredient action="ajouter"> poivre </ingredient> , de la <ingredient action="ajouter" quantite=""> muscade </ingredient> et <operation> mettre </operation> à feu moyen jusqu' à ce que tous les <ingredient action="cuire" quantite="3;1;2;3"> légumes </ingredient> soient <operation ingredients="légumes"> cuits </operation> . <operation> mixer </operation> ( en <operation ingredients="lard"> enlevant </operation> le morceau de <ingredient action="enlever"> lard </ingredient> ) et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> . onctueuse et très douce , elle est parfaite pour les enfants .
+</preparation>
+</recette>

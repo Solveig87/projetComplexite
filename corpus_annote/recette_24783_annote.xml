@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24783">
+<titre>Quenelles de chèvre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de lait</p>
+<p>4 oeufs</p>
+<p>200 g de farine</p>
+<p>200 g de beurre</p>
+<p>100 g de fromage de chèvre mi-frais</p>
+<p>50 g de ciboulette hachée</p>
+<p>noix de muscade</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> lait </ingredient> dans une casserole . puis y <operation ingredients="beurre;ciboulette;noix"> incorporer </operation> la moitié du <ingredient action="incorporer" quantite="200 gramme"> beurre </ingredient> ( 100 g ) , la <ingredient action="incorporer" quantite="50 gramme"> ciboulette </ingredient> et la <ingredient action="incorporer" quantite=""> noix </ingredient> de muscade . <operation> assaisonner </operation> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme"> farine </ingredient> et faire <operation> cuire </operation> à feu doux , en <operation> remuant </operation> sans cesse . hors du feu , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> de chèvre <operation ingredients="oeufs"> mixé </operation> et les <ingredient action="mixer" quantite="4"> oeufs </ingredient> . laisser <operation> reposer </operation> pendant 30 min . <operation> porter </operation> à <operation> ébullition </operation> de l' eau <operation> salée </operation> . y <operation ingredients="pâte"> faire </operation> <operation> pocher </operation> des quenelles de <ingredient action="faire"> pâte </ingredient> , <operation> façonnées </operation> à la cuillère . les <operation> égoutter </operation> et les servir nappées de <ingredient quantite="200 gramme"> beurre </ingredient> <operation ingredients="ciboulette"> fondu </operation> et de <ingredient action="fondre" quantite="50 gramme"> ciboulette </ingredient> .
+</preparation>
+</recette>

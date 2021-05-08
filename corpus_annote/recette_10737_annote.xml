@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10737">
+<titre>Blancs de poulet aux oignons nouveaux</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>500 g d’oignons nouveaux</p>
+<p>10 cl de vin blanc sec</p>
+<p>1 bouquet d’estragon</p>
+<p>40 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> peler </operation> et <operation> couper </operation> les <ingredient action="peler"> oignons </ingredient> en deux puis les faire <operation> revenir </operation> quelques minutes , <operation> réserver </operation> . <operation ingredients="poulet"> ouvrir </operation> les blancs de <ingredient action="ouvrir"> poulet </ingredient> en deux et les faire <operation ingredients="beurre"> dorer </operation> sur les deux faces à feu vif pendant 10 min dans du <ingredient action="dorer" quantite="40 gramme"> beurre </ingredient> . les <operation> assaisonner </operation> et les <operation> retirer </operation> de la <operation> poêle </operation> . <operation ingredients="vin"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite="10 cl"> vin </ingredient> blanc et <operation ingredients="poulet;estragon;oignons"> remettre </operation> les blancs de <ingredient action="remettre"> poulet </ingredient> avec les feuilles d’ <ingredient action="remettre"> estragon </ingredient> et les <ingredient action="remettre"> oignons </ingredient> . <operation> assaisonner </operation> de nouveau . servir avec un <ingredient> riz </ingredient> au safran rosé
+</preparation>
+</recette>

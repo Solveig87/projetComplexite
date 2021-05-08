@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173064">
+<titre>Boeuf bourguignon régime</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de bœuf bourguignon</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe de Maïzena</p>
+<p>laurier, persil, sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte ( ou cocotte minute ) , faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> et le faire <operation> revenir </operation> . <operation> jeter </operation> de l' eau dans la cocotte sans noyer la <ingredient> viande </ingredient> , puis <operation ingredients="ail"> rajouter </operation> <ingredient action="rajouter"> ail </ingredient> + persil + laurier . laisser <operation ingredients="viande"> cuire </operation> 2 à 3 h selon la souplesse de la <ingredient action="cuire"> viande </ingredient> souhaitée . seulement sur la fin de la cuisson , <operation ingredients="maïzena"> ajouter </operation> <ingredient action="ajouter" quantite="1 cuillère à soupe"> maïzena </ingredient> et <operation> mélanger </operation> . ps : pour le régime , ne pas <operation ingredients="vin"> rajouter </operation> de <ingredient action="rajouter"> vin </ingredient> comme dans la vraie recette . si vous le souhaitez , <operation ingredients="champignons"> rajoutez </operation> des <ingredient action="rajouter"> champignons </ingredient> , carottes au début de la cuisson pour que ça s' <operation> imbibe </operation> de la sauce .
+</preparation>
+</recette>

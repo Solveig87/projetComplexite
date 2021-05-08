@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88398">
+<titre>Poulet au cumin et au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 filets de poulet</p>
+<p>40 cl de crème de coco</p>
+<p>2 cuillères à café de curry en poudre</p>
+<p>1 cuillère à café de cumin en poudre</p>
+<p>2 oignons</p>
+<p>2 petites courgettes jaunes</p>
+<p>1 pincée de piment en poudre</p>
+<p>2 cuillères à soupe de crème</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> détailler </operation> les filets de <ingredient action="détailler"> poulet </ingredient> en petits morceaux . les <operation ingredients="huile"> cuire </operation> dans un wok avec de l' <ingredient action="cuire"> huile </ingredient> d' olive . les <operation> réserver </operation> . <operation ingredients="oignons"> emincer </operation> les <ingredient action="emincer" quantite="2"> oignons </ingredient> , <operation> éplucher </operation> et <operation> couper </operation> les courgettes en dés . faire <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="2"> oignons </ingredient> dans un wok , <operation> ajouter </operation> les dés de courgettes . faire <operation> cuire </operation> le tout à feu doux pendant environ 30 minutes . dans le wok , <operation ingredients="poulet;crème;cumin;curry"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> , 40 cl de <ingredient action="ajouter" quantite="40 cl+2 cuillère à soupe"> crème </ingredient> de coco , 40 cl d' eau , du <ingredient action="ajouter" quantite="1 cuillère à café"> cumin </ingredient> et du <ingredient action="ajouter" quantite="2 cuillère à café"> curry </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , <operation> saupoudrer </operation> de piment . laisser <operation> cuire </operation> le tout à feu doux et sous un couvercle pendant 1 h 30 . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl+2 cuillère à soupe"> crème </ingredient> et servir avec du <ingredient> riz </ingredient> . blanc
+</preparation>
+</recette>

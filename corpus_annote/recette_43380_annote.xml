@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43380">
+<titre>Rougail aux 2 saucisses et boucané</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 saucisses de toulouse</p>
+<p>3 saucisses fumées</p>
+<p>200 g de poitrine fumée</p>
+<p>6 tomates</p>
+<p>3 gros oignons</p>
+<p>1 petit poivron</p>
+<p>persil haché</p>
+<p>1 petit morceau de gingembre</p>
+<p>2 cuillères à café de curcuma (ou safran)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saucisses;poitrine;fumée"> bouillir </operation> les <ingredient action="bouillir" quantite="3+3"> saucisses </ingredient> ( après les avoir <operation> piquées </operation> ) et la <ingredient action="bouillir" quantite="200 gramme"> poitrine </ingredient> <ingredient action="bouillir"> fumée </ingredient> . <operation ingredients="saucisse"> couper </operation> le tout en tronçons ( 6 morceaux par <ingredient action="couper" quantite="3+3"> saucisse </ingredient> ) . faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> chaude . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="3"> oignon </ingredient> <operation> émincé </operation> . laisser <operation> dorer </operation> . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> tomates </ingredient> <operation> coupées </operation> en petits cubes . <operation ingredients="poivron;gingembre"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> poivron </ingredient> <operation ingredients="curcuma;safran"> coupé </operation> en lanières , le <ingredient action="couper" quantite="2 cuillère à café"> curcuma </ingredient> ( ou <ingredient action="couper"> safran </ingredient> ) et le <ingredient action="ajouter"> gingembre </ingredient> finement rapé . laisser <operation> cuire </operation> pendant 1 heures à feu doux .
+</preparation>
+</recette>

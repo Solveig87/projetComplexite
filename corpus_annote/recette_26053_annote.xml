@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26053">
+<titre>Croquettes de saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 à 400 g de restes de saumon cuit</p>
+<p>3 tranches de pain de mie rassis</p>
+<p>10 cl de lait</p>
+<p>1 oeuf</p>
+<p>2 citrons</p>
+<p>1 cuillère à café d'estragon ou d'aneth haché</p>
+<p>1 pincée de muscade</p>
+<p>chapelure</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> tremper </operation> le <ingredient action="tremper" quantite="3 tranche"> pain </ingredient> <operation ingredients="lait"> coupé </operation> en morceaux dans le <ingredient action="couper" quantite="10 cl"> lait </ingredient> . <operation ingredients="saumon"> emietter </operation> le <ingredient action="emietter"> saumon </ingredient> à la fourchette . <operation ingredients="pain"> ajouter </operation> le <ingredient action="ajouter" quantite="3 tranche"> pain </ingredient> <operation> essoré </operation> , le jaune d' <ingredient quantite="1"> oeuf </ingredient> , du <ingredient quantite=""> sel </ingredient> , du <ingredient quantite=""> poivre </ingredient> , l' <ingredient quantite="1 cuillère à café"> estragon </ingredient> et la <ingredient quantite="1 pincée"> muscade </ingredient> . <operation> incorporer </operation> le blanc <operation> battu </operation> en neige . <operation> former </operation> des boulette ou des petits boudins , les <operation ingredients="chapelure"> passer </operation> dans la <ingredient action="passer" quantite=""> chapelure </ingredient> . faire <operation ingredients="huile;beurre"> dorer </operation> les croquette dans une sauteuse avec de l' <ingredient action="dorer"> huile </ingredient> ou du <ingredient action="dorer"> beurre </ingredient> chaud . servir avec des quartiers de <ingredient quantite="2"> citron </ingredient> . <operation ingredients="brocolis"> accompagner </operation> de purée de <ingredient action="accompagner"> brocolis </ingredient> ou de courgettes <operation> sautées </operation> .
+</preparation>
+</recette>

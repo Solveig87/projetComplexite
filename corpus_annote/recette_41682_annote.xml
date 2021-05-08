@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41682">
+<titre>Salade de fruits façon crumble</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 mangue bien mûre</p>
+<p>2 grosses bananes bien mûres</p>
+<p>1 à 2 grosse(s) poignée(s) de framboises</p>
+<p>3 cuillères à soupe de rhum</p>
+<p>3 ou 4 palets bretons (ou sablés)</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="mangue"> couper </operation> la <ingredient action="couper" quantite="1"> mangue </ingredient> en petits morceaux , <operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> en rondelles et faire <operation ingredients="framboises"> décongeler </operation> les <ingredient action="décongeler"> framboises </ingredient> si besoin . <operation> couvrir </operation> et <operation> mettre </operation> le tout dans un saladier . <operation ingredients="rhum"> verser </operation> le <ingredient action="verser" quantite="3 cuillère à soupe"> rhum </ingredient> par dessus , et <operation> réserver </operation> au frigo ( 24 h c' est encore meilleur , les <ingredient action="imprégner" quantite="1;2"> fruits </ingredient> sont bien <operation ingredients="fruits"> imprégnés </operation> ) . le moment venu , <operation> répartir </operation> dans des verres , <operation> saupoudrer </operation> des palets ou sablés préalablement <operation> émiettés </operation> . déguster ! peut aussi se déguster avec un <ingredient> yaourt </ingredient> nature ou du <ingredient> fromage </ingredient> blanc . on peut <operation ingredients="rhum;fruits;mûrs"> ajouter </operation> du canadou avec le <ingredient action="ajouter" quantite="3 cuillère à soupe"> rhum </ingredient> ( mais si les <ingredient action="ajouter" quantite="1;2"> fruits </ingredient> sont bien <ingredient action="ajouter"> mûrs </ingredient> , pas besoin ) .
+</preparation>
+</recette>

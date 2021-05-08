@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69007">
+<titre>Potage de patate douce au lait de coco et au gingembre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de patates douce</p>
+<p>1 carotte </p>
+<p>1 blanc de poireau</p>
+<p>1 branche de céleri</p>
+<p>50 cl de bouillon de volaille</p>
+<p>1 boite de lait de coco</p>
+<p>1 cuillère à soupe d'huile ordinaire</p>
+<p>1 cuillère à café de gingembre </p>
+<p>1 cuillère à café de cardamome</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="poireau"> revenir </operation> le <ingredient action="revenir"> poireau </ingredient> et la branche de celéri <operation> émincés </operation> . <operation ingredients="patate;carotte;gingembre"> ajouter </operation> la <ingredient action="ajouter" quantite="400 gramme"> patate </ingredient> douce et la <ingredient action="ajouter" quantite="1"> carotte </ingredient> en morceaux , le <ingredient action="ajouter" quantite="1 cuillère à café"> gingembre </ingredient> et la cardamome . bien <operation> remuer </operation> et <operation ingredients="bouillon;lait"> mouiller </operation> avec le <ingredient action="mouiller" quantite="50 cl"> bouillon </ingredient> et le <ingredient action="mouiller"> lait </ingredient> de coco . laisser <operation> cuire </operation> et <operation> écraser </operation> des la cuisson des aliments . cette <ingredient action="sucrer"> soupe </ingredient> est <operation ingredients="soupe"> sucrée </operation> il n' y a donc pas besoin de <ingredient> sel </ingredient> !
+</preparation>
+</recette>

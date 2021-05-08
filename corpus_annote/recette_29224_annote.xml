@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29224">
+<titre>Cocotte de morue à la portugaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de morue dessalée</p>
+<p>3 oignons</p>
+<p>6 pommes de terre</p>
+<p>2 gousses d'ail</p>
+<p>poivre</p>
+<p>15 cl d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;ail"> hacher </operation> les <ingredient action="hacher" quantite="3"> oignons </ingredient> avec l' <ingredient action="hacher"> ail </ingredient> . <operation> huiler </operation> une cocote et <operation> déposer </operation> ce hachis au fond . <operation ingredients="morue;pommes"> recouvrir </operation> de <ingredient action="recouvrir" quantite="500 gramme"> morue </ingredient> émiéttée et des <ingredient action="recouvrir" quantite="6"> pommes </ingredient> de terre <operation> coupées </operation> en rondelles . <operation> poivrer </operation> et <operation ingredients="huile"> arroser </operation> d' <ingredient action="arroser" quantite="15 cl"> huile </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> à feu doux durant 30 minutes .
+</preparation>
+</recette>

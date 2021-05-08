@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23719">
+<titre>Gaspacho guacamole et sorbet citron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 boules de sorbet au citron vert</p>
+<p>Pour le guacamole :</p>
+<p>2 cuillère à soupe d'huile d'olive</p>
+<p>1 cuil à soupe de jus de citron</p>
+<p>2 avocats</p>
+<p>fleur de sel</p>
+<p>poivre</p>
+<p>piment de Cayenne</p>
+<p>Pour le gaspacho :</p>
+<p>4 tomates</p>
+<p>1 petit concombre</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à café de vinaigre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats;jus;huile;sel;poivre"> coupez </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en 2 , <operation> mixez </operation> -en la pulpe avec le <ingredient action="couper"> jus </ingredient> de citron , l' <ingredient action="couper" quantite="2 cuillère à soupe+1 cuillère à soupe"> huile </ingredient> d' olive , du <ingredient action="couper"> sel </ingredient> , du <ingredient action="couper" quantite=""> poivre </ingredient> et une pincée de piment de cayenne . gardez au frais . <operation ingredients="tomates"> plongez </operation> les <ingredient action="plonger" quantite="4"> tomates </ingredient> 30 secondes dans l' eau bouillante . <operation> egouttez </operation> , <operation> retirez </operation> la peau . <operation ingredients="gousses;huile;sel;poivre"> coupez </operation> la pulpe en morceaux ( en <operation> ôtant </operation> les pépins ) , puis <operation> mixez </operation> en purée fine avec les <ingredient action="couper" quantite="2"> gousses </ingredient> d' ail <operation ingredients="vinaigre"> écrasés </operation> , le <ingredient action="écraser" quantite="1 cuillère à café"> vinaigre </ingredient> , l' <ingredient action="couper" quantite="2 cuillère à soupe+1 cuillère à soupe"> huile </ingredient> d' olive , du <ingredient action="couper"> sel </ingredient> et du <ingredient action="couper" quantite=""> poivre </ingredient> . <operation ingredients="concombre"> pelez </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> , <operation> coupez </operation> - le en 2 , <operation> retirez </operation> les pépins , <operation ingredients="chair"> détaillez </operation> la <ingredient action="détailler"> chair </ingredient> en petits dés . <operation ingredients="tomates"> mélangez </operation> - les à la purée de <ingredient action="mélanger" quantite="4"> tomates </ingredient> , puis gardez au frais . <operation> répartissez </operation> dans 4 verres le gaspacho et le quacamole . <operation ingredients="sorbet"> déposez </operation> une boule de <ingredient action="déposer"> sorbet </ingredient> , puis <operation> saupoudrez </operation> d' un peu de piment de cayenne .
+</preparation>
+</recette>

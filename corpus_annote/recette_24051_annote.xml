@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24051">
+<titre>Gambas au lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>30 gambas grises</p>
+<p>400 ml de lait de coco</p>
+<p>3 feuilles de laurier</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à café de curry bombée </p>
+<p>1 cuillère à café de curcuma bombée </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une grande cassorole , faire <operation ingredients="gambas"> revenir </operation> les <ingredient action="revenir" quantite="30"> gambas </ingredient> <operation ingredients="huile"> décortiquées </operation> dans l' <ingredient action="décortiquer" quantite="2 cuillère à soupe"> huile </ingredient> ( 2 à 3 mn ) . lorsqu' elles sont <operation> cuites </operation> , <operation ingredients="lait;curcuma;curry;laurier"> verser </operation> le <ingredient action="verser"> lait </ingredient> de coco , le <ingredient action="verser" quantite="1 cuillère à café"> curcuma </ingredient> , le <ingredient action="verser" quantite="1 cuillère à café"> curry </ingredient> et les fueilles de <ingredient action="verser" quantite="3 feuille"> laurier </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation ingredients="lait"> cuire </operation> à feu moyen jusqu' à ce que le <ingredient action="cuire"> lait </ingredient> de coco soit bien jaune ( 7 à 10 min ) . <operation ingredients="laurier"> retirer </operation> les feuille de <ingredient action="retirer" quantite="3 feuille"> laurier </ingredient> et servir aussitôt <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> blanc . cette recette a beaucoup de succès et ne nécessite pas d' être un véritable cordon <ingredient> bleu </ingredient> pour la réussir ! alors à vos casseroles . . . et bon appétit ! <ingredient> vin </ingredient> rosé ou gris ( reuilly par exemple )
+</preparation>
+</recette>

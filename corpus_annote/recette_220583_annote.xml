@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220583">
+<titre>Velouté de butternut à la cannelle</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 butternut</p>
+<p>1 oignon</p>
+<p>1 cube de bouillon</p>
+<p>1 ou 2 cuillères à soupe de crème fraiche</p>
+<p>1 pincée de cannelle</p>
+</ingredients>
+<preparation>
+<operation ingredients="butternut"> couper </operation> le <ingredient action="couper" quantite="1"> butternut </ingredient> en gros cubes . <operation ingredients="oignon"> couper </operation> grossièrement l' <ingredient action="couper" quantite="1"> oignon </ingredient> . faire <operation ingredients="oignon;butternut;beurre"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et le <ingredient action="revenir" quantite="1"> butternut </ingredient> dans un fond de <ingredient action="revenir"> beurre </ingredient> . <operation> remuer </operation> régulièrement ( il ne faut pas que l' <ingredient quantite="1"> oignon </ingredient> roussisse ) . une fois que les <ingredient quantite="1;1"> légumes </ingredient> sont bien revenus , <operation> émietter </operation> un cube de <ingredient> bouillon </ingredient> au-dessus . bien <operation> remuer </operation> pour <operation ingredients="légumes"> laisser </operation> les <ingredient action="laisser" quantite="1;1"> légumes </ingredient> s' <operation ingredients="bouillon"> imprégner </operation> du <ingredient action="imprégner"> bouillon </ingredient> . <operation ingredients="légumes"> recouvrir </operation> d' eau bouillante , juste au-dessus des <ingredient action="recouvrir" quantite="1;1"> légumes </ingredient> . laisser <operation ingredients="butternut"> cuire </operation> jusque que le <ingredient action="cuire" quantite="1"> butternut </ingredient> soit cuit ( planter un <ingredient> couteau </ingredient> pour vérifier la cuisson ) . <operation> mixer </operation> . <operation ingredients="crème"> ajouter </operation> une ou deux cuillères de <ingredient action="ajouter"> crème </ingredient> fraiche . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="cannelle"> ajouter </operation> un soupçon de <ingredient action="ajouter" quantite="1 pincée"> cannelle </ingredient> . c' est prêt et c' est délicieux !
+</preparation>
+</recette>

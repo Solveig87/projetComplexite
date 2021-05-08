@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20236">
+<titre>Sauté de veau aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de viande de veau en morceaux</p>
+<p>250 g de champignons</p>
+<p>50 g d'oignons hachés</p>
+<p>30 g de beurre</p>
+<p>30 g de farine</p>
+<p>30 cl de vin blanc</p>
+<p>1 bouquet garni</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>70 g de purée de tomates</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte à fond épais , faire <operation ingredients="veau"> dorer </operation> les morceaux de <ingredient action="dorer"> veau </ingredient> . <operation ingredients="oignons;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> oignons </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="30 gramme"> farine </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="vin"> mouiller </operation> de <ingredient action="mouiller" quantite="30 cl"> vin </ingredient> blanc , <operation ingredients="tomate;sel"> assaisonner </operation> de <ingredient action="assaisonner"> tomate </ingredient> , de <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> cuire </operation> 1 h à <operation> couvert </operation> . au bout de ce temps , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> et laisser <operation> mijoter </operation> encore 15 min .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14160">
+<titre>Gâteau léger chocolat et banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de chocolat noir</p>
+<p>un peu de lait</p>
+<p>100 g de farine + levure</p>
+<p>1 oeuf</p>
+<p>1 cuillère a café de miel</p>
+<p>1/2 cuillère à café de cannelle</p>
+<p>1 banane coupée en tranches</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="chocolat;lait;miel"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> chocolat </ingredient> avec le <ingredient action="fondre"> lait </ingredient> et le <ingredient action="fondre"> miel </ingredient> . le <operation> verser </operation> dans un saladier . <operation ingredients="oeuf;farine;levure;cannelle"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> entier , la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> et la <ingredient action="ajouter"> cannelle </ingredient> . bien <operation> mélanger </operation> ( <operation ingredients="lait"> rajouter </operation> du <ingredient action="rajouter"> lait </ingredient> si nécessaire ) et <operation ingredients="banane"> mettre </operation> les tranches de <ingredient action="mettre"> banane </ingredient> . <operation> beurrer </operation> ou <operation> huiler </operation> un <operation> moule </operation> a cake , <operation> verser </operation> la préparation et faire <operation> cuire </operation> a four chaud ( 180 <operation> ° </operation> c ) pendant 20 a 25 minutes . une recette très facile a réaliser et sans <ingredient> matière </ingredient> grasse ! surveillez bien la cuisson .
+</preparation>
+</recette>

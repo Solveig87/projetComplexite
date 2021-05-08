@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10971">
+<titre>Soupe à la farine rôtie (Bâle, Suisse)</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 cuillères à soupe de farine</p>
+<p>60 g de beurre ou de margarine</p>
+<p>1 oignon coupé en lanières</p>
+<p>1 l de bouillon de viande froid</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+dans une marmite , faites <operation action="rôtir" ingredients="rôtir"> rôtir </operation> la farine en <operation ingredients="noisette"> remuant </operation> jusqu' à couleur <ingredient action="remuer"> noisette </ingredient> , laissez refroidir un peu . <operation ingredients="beurre"> ajoutez </operation> le <ingredient action="ajouter" quantite="60 gramme"> beurre </ingredient> ( margarine ) , <operation ingredients="farine"> mélangez </operation> à la <ingredient action="mélanger" quantite="5 cuillère à soupe"> farine </ingredient> . <operation ingredients="oignon"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et faites <operation> revenir </operation> quelques minutes <operation> ajoutez </operation> et <operation> portez </operation> à <operation> ébullition </operation> en <operation ingredients="bouillon"> remuant </operation> le <ingredient action="remuer" quantite="1 l"> bouillon </ingredient> de viande . laissez <operation> mijoter </operation> 20 min , en <operation> remuant </operation> de temps en temps . présentation : <operation ingredients="soupe"> versez </operation> la <ingredient action="verser"> soupe </ingredient> dans des assiettes chaudes et <operation ingredients="fromage"> saupoudrez </operation> de <ingredient action="saupoudrer"> fromage </ingredient> <operation> râpé </operation> ou le servir à part . conseil : juste avant de servir , <operation ingredients="vin;soupe"> ajoutez </operation> un peu de <ingredient action="ajouter"> vin </ingredient> rouge à la <ingredient action="ajouter"> soupe </ingredient> .
+</preparation>
+</recette>

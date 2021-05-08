@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68850">
+<titre>Croque-monsieur mangue brie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie complet</p>
+<p>2 lamelles de brie pasteurisé (1/2 cm d'épaisseur environ)</p>
+<p>1 grosse cuillère à café de chutney de mangue</p>
+<p>100 g de mangue bien mûre (ou à défaut en boîte) coupée en lamelles</p>
+<p>beurre ou margarine au choix</p>
+<p>fleur de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> une face de chaque tranche de <ingredient action="beurrer" quantite="2 tranche"> pain </ingredient> de mie et <operation ingredients="sel"> saupoudrer </operation> cette face de fleur de <ingredient action="saupoudrer"> sel </ingredient> . sur une des tranches , étaler le <ingredient> chutney </ingredient> sur la face <ingredient action="beurrer" quantite="2;1;"> non </ingredient> <operation ingredients="non"> beurrée </operation> et la <operation> mettre </operation> côté beurré dans une <operation> poêle </operation> préchauffée . <operation ingredients="brie;mangue"> déposer </operation> dessus les tranches de <ingredient action="déposer"> brie </ingredient> dessus , puis les lamelles de <ingredient action="déposer" quantite="100 gramme"> mangue </ingredient> . <operation ingredients="pain;beurre"> recouvrir </operation> avec l' autre tranche de <ingredient action="recouvrir" quantite="2 tranche"> pain </ingredient> de mie , côté <ingredient action="recouvrir" quantite=""> beurre </ingredient> au dessus . faire <operation> dorer </operation> à feux doux sur les 2 faces et ce jusqu' à ce que le <ingredient action="fondre"> brie </ingredient> soit <operation ingredients="brie"> fondu </operation> . servir avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

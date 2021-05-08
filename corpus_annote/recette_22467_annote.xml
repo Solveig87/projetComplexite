@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22467">
+<titre>BANANES CHOCOLAT</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 6 bananes</p>
+<p>1 tasse de café fort</p>
+<p>125 g de chocolat</p>
+<p>1 cuillère à soupe de vanille liquide</p>
+<p>50 g de crème fraîche</p>
+<p>3 cuillères à soupe de sucre en poudre</p>
+<p>2 cuillères à soupe de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> bananes </ingredient> et les <operation> couper </operation> en rondelles dans un saladier , les <operation> saupoudrer </operation> de 2 cuillères à soupe de sucre et de 2 cuillères à soupe de rhum , <operation> remuer </operation> délicatement . casser le <ingredient quantite="125 gramme"> chocolat </ingredient> dans une casserole et faire <operation> fondre </operation> à feux doux avec une goutte d' eau . quand le <ingredient action="forme" quantite="125 gramme"> chocolat </ingredient> <operation ingredients="chocolat;pâte"> forme </operation> une <ingredient action="forme"> pâte </ingredient> <operation> lisse </operation> <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="50 gramme"> crème </ingredient> fraîche , 1 cuillère à soupe de sucre , la tasse de <ingredient> café </ingredient> fort , la vanille . <operation> remuer </operation> le tout et <operation ingredients="bananes"> verser </operation> cette préparation sur les <ingredient action="verser" quantite="4"> bananes </ingredient> . <operation> mettre </operation> au frigo . se déguste bien frais
+</preparation>
+</recette>

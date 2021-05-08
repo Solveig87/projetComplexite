@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63334">
+<titre>Fondue creusoise aux lardons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>40 g de beurre</p>
+<p>90 g de farine</p>
+<p>60 cl de lait</p>
+<p>40 cl d'eau</p>
+<p>camembert, gruyère, bleu</p>
+<p>400 g de lardons</p>
+<p>500 g de pommes de terre</p>
+<p>sel, poivre, muscade</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre à l' eau . pendant ce temps , faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> dans une casserole . <operation ingredients="farine"> ajoutez </operation> la <ingredient action="ajouter" quantite="90 gramme"> farine </ingredient> , de sorte à <operation> former </operation> une boule . <operation ingredients="lait"> délayez </operation> avec le <ingredient action="délayez" quantite="60 cl"> lait </ingredient> et l' eau puis joignez - y vos <ingredient quantite=";;"> épices </ingredient> . quand le <operation> mélange </operation> commence à s' <operation> épaissir </operation> , <operation ingredients="fromages"> ajoutez </operation> les différents <ingredient action="ajouter"> fromages </ingredient> ( tous vos vieux restes . . . ) . dans une <operation> poêle </operation> , faites <operation ingredients="lardons;citron"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> lardons </ingredient> avec un soupçon de <ingredient action="cuire" quantite="1"> citron </ingredient> ( pas obligatoire ) . <operation> dégraissez </operation> - les et <operation> ajoutez </operation> - les à la fondue . <operation> mélangez </operation> le tout . <operation> epluchez </operation> vos <ingredient> patates </ingredient> et servir ! dégustez . . . <ingredient> bordeaux </ingredient> . côtes de bourg
+</preparation>
+</recette>

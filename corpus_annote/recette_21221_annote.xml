@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21221">
+<titre>Flan printanier aux fines herbes</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de poireaux</p>
+<p>150 g de blettes</p>
+<p>100 g d'oignons verts</p>
+<p>6 oeufs</p>
+<p>2 cuillerées à soupe de farine</p>
+<p>20 cl de lait</p>
+<p>50 g de coriandre</p>
+<p>50 g de persil</p>
+<p>20 g d'aneth</p>
+<p>20 g de menthe</p>
+<p>2 pincées de noix de muscade rapée</p>
+<p>beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poireaux"> laver </operation> les <ingredient action="laver" quantite="200 gramme"> poireaux </ingredient> , les <ingredient action="hacher" quantite="150 gramme"> blettes </ingredient> et les <ingredient action="hacher" quantite="100 gramme"> oignons </ingredient> , les <operation ingredients="blettes;oignons"> hacher </operation> grossièrement . les <operation> précuire </operation> 15 minutes à la vapeur . préchauffer le four à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation ingredients="oeufs;farine;lait;muscade"> battre </operation> les <ingredient action="battre" quantite="6"> oeufs </ingredient> avec la <ingredient action="battre"> farine </ingredient> , le <ingredient action="battre" quantite="20 cl"> lait </ingredient> , la <ingredient action="battre"> muscade </ingredient> , sel et poivre . <operation ingredients="légumes"> mixer </operation> les <ingredient action="mixer" quantite="200 gramme;150 gramme;100 gramme"> légumes </ingredient> précuits et les <operation> ajouter </operation> , ainsi que les herbes <operation> rincées </operation> et <operation> ciselées </operation> . <operation ingredients="rond"> verser </operation> dans un <operation> moule </operation> <ingredient action="verser"> rond </ingredient> à bord haut et faire <operation> cuire </operation> 30 min au four dans un bain - marie .
+</preparation>
+</recette>

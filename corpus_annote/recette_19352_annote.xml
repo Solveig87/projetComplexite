@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19352">
+<titre>Salades de lentilles et saucisses</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros bol de lentilles vertes</p>
+<p>1 gros oignon</p>
+<p>8 saucisses de volailles ou 2 saucisses de Morteau</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+<p>cumin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lentilles"> cuire </operation> les <ingredient action="cuire"> lentilles </ingredient> dans de l' eau bouillante , et les <operation> égoutter </operation> . en attendant , <operation ingredients="oignon;saucisses"> découper </operation> finement l' <ingredient action="découper" quantite="1"> oignon </ingredient> et les <ingredient action="découper" quantite="8"> saucisses </ingredient> en petites rondelles ; <operation> mélanger </operation> le tout . <operation ingredients="huile;épices"> ajouter </operation> <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive , et <ingredient action="ajouter" quantite=";;;"> épices </ingredient> . laisser refroidir un peu avant de servir , c' est un délice .
+</preparation>
+</recette>

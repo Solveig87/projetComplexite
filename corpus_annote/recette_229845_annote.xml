@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229845">
+<titre>Poêlée de pâtisson au thon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâtisson</p>
+<p>280 g de thon</p>
+<p>4 tomates </p>
+<p>2 gousses d'ail</p>
+<p>1 branche de persil frais</p>
+<p>1 cuillère à soupe de crème fraiche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtisson"> cuire </operation> 10 min le <ingredient action="cuire" quantite="1"> pâtisson </ingredient> à la cocotte minute , puis l' <operation> éplucher </operation> et le <operation> couper </operation> en dès . <operation ingredients="ail"> écraser </operation> l' <ingredient action="écraser"> ail </ingredient> et le faire <operation> revenir </operation> dans une grande <operation> poêle </operation> puis y <operation ingredients="pâtisson"> ajouter </operation> les dès de <ingredient action="ajouter" quantite="1"> pâtisson </ingredient> . faire une sauce tomate ( <operation> mettre </operation> 2 min au micro-ondes si on est <operation> pressé </operation> ) . <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter" quantite="280 gramme"> thon </ingredient> dans la <operation> poêle </operation> , continuer à faire <operation> revenir </operation> , puis <operation> ajouter </operation> la sauce tomate . <operation ingredients="persil"> couper </operation> le <ingredient action="couper"> persil </ingredient> et l' <operation> ajouter </operation> . faire <operation> cuire </operation> quelques minutes , <operation ingredients="crème"> mettre </operation> la cuillère de <ingredient action="mettre" quantite="1 cuillère à soupe"> crème </ingredient> fraîche , bien <operation> mélanger </operation> . <operation> saler </operation> et <operation> poivrer </operation> .
+</preparation>
+</recette>

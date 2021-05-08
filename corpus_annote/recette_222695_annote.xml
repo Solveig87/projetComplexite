@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222695">
+<titre>Poulet pané aux pistaches</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>200 g de pistaches</p>
+<p>100 g de farine</p>
+<p>1 œuf</p>
+<p>3 cuillères à soupe d'estragon </p>
+<p>1 bouquet de persil</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>2 citrons</p>
+</ingredients>
+<preparation>
+avec un rouleau à pâtisserie , <operation ingredients="escalopes"> aplatissez </operation> les <ingredient action="aplatir" quantite="6"> escalopes </ingredient> de poulet . <operation ingredients="escalopes"> coupez </operation> les <ingredient action="couper" quantite="6"> escalopes </ingredient> en aiguillettes . <operation ingredients="farine"> versez </operation> la <ingredient action="verser" quantite="100 gramme"> farine </ingredient> dans une assiette creuse . <operation ingredients="œuf"> battez </operation> l’ <ingredient action="battre" quantite="1"> œuf </ingredient> dans une deuxième assiette . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="pistaches"> pilez </operation> les <ingredient action="piler" quantite="200 gramme"> pistaches </ingredient> en petits morceaux mais pas en <operation> poudre </operation> . <operation ingredients="estragon;persil"> placez </operation> les dans une troisième assiette avec l' <ingredient action="placer" quantite="3 cuillère à soupe"> estragon </ingredient> et le <ingredient action="placer"> persil </ingredient> . <operation ingredients="aiguillettes;farine;œuf;pistaches"> passez </operation> les <ingredient action="passer"> aiguillettes </ingredient> dans la <ingredient action="passer" quantite="100 gramme"> farine </ingredient> puis dans l’ <ingredient action="passer" quantite="1"> œuf </ingredient> <operation> battu </operation> et dans la préparation ( <ingredient action="passer" quantite="200 gramme"> pistaches </ingredient> , estragon et persil ) . faîtes <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive dans une <operation> poêle </operation> puis faîtes <operation ingredients="aiguillettes"> dorer </operation> les <ingredient action="dorer"> aiguillettes </ingredient> 5 min de chaque côté à feu moyen . servez les <ingredient> aiguillettes </ingredient> avec un quartier de <ingredient quantite="2"> citron </ingredient> .
+</preparation>
+</recette>

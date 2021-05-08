@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30477">
+<titre>Soufflé au riz et aux lardons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120 g de riz</p>
+<p>100 g de lardons</p>
+<p>4 oeufs</p>
+<p>60 g de gruyère</p>
+<p>25 cl de lait</p>
+<p>25 g de farine</p>
+<p>50 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="120 gramme"> riz </ingredient> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> . <operation ingredients="béchamel;lardons;riz;fromage"> préparer </operation> une <ingredient action="préparer"> béchamel </ingredient> ( beurre , farine et lait ) , puis y <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , les <ingredient action="préparer" quantite="100 gramme"> lardons </ingredient> , le <ingredient action="préparer" quantite="120 gramme"> riz </ingredient> , le <ingredient action="préparer"> fromage </ingredient> rapé . <operation> battre </operation> les blancs en neige et les <operation> incorporer </operation> . <operation> beurrer </operation> et <operation> fariner </operation> le <operation> moule </operation> , y verserle <operation> mélange </operation> et <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="60 gramme"> gruyère </ingredient> râpé . <operation> cuire </operation> 40 minutes à thermostat 6 ( 180 <operation> ° </operation> c ) . ce plat peut être aussi une entrée <operation ingredients="salade"> accompagnée </operation> de <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

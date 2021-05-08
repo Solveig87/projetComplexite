@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11361">
+<titre>Pavé de saumon safrané</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de saumon</p>
+<p>50 g de beurre</p>
+<p>40 cl de crème fraîche</p>
+<p>1 blanc de poireau</p>
+<p>1 carotte</p>
+<p>100 g de crevettes décortiquées</p>
+<p>4 g de safran</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saumon;beurre"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> dans le <ingredient action="cuire" quantite="50 gramme"> beurre </ingredient> . dans une autre casserole , faire <operation ingredients="poireau;carotte"> revenir </operation> le <ingredient action="revenir"> poireau </ingredient> et la <ingredient action="revenir" quantite="1"> carotte </ingredient> <operation> coupés </operation> très finement . une fois que les <ingredient action="cuire" quantite="40 cl;1"> légumes </ingredient> sont bien <operation ingredients="légumes"> cuits </operation> , <operation ingredients="crème;safran"> incorporer </operation> la <ingredient action="incorporer" quantite="40 cl"> crème </ingredient> fraîche et le <ingredient action="incorporer" quantite="4 gramme"> safran </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="saumon"> verser </operation> cette sauce sur le <ingredient action="verser"> saumon </ingredient> . utiliser les <ingredient quantite="100 gramme"> crevettes </ingredient> en décoration . condrieu
+</preparation>
+</recette>

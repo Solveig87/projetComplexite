@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64358">
+<titre>Potiron farci au Beaufort</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit potiron, plus ou moins gros suivant le nombre de personnes</p>
+<p>du beaufort à volonté</p>
+<p>des champignons (de Paris, ou autres, mais pas trop forts en goût), au moins 150 g par personne</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron"> enlever </operation> le chapeau du <ingredient action="enlever" quantite="1"> potiron </ingredient> et <operation ingredients="chair"> évider </operation> la <ingredient action="évider"> chair </ingredient> en la conservant . n' <operation> ouvrir </operation> que le haut ! <operation ingredients="potiron;chair;beaufort"> farcir </operation> le <ingredient action="farcir" quantite="1"> potiron </ingredient> avec le <operation> mélange </operation> de <ingredient action="farcir"> chair </ingredient> , de <ingredient action="farcir" quantite=""> beaufort </ingredient> <operation ingredients="champignons"> coupé </operation> en dés et de <ingredient action="couper" quantite=""> champignons </ingredient> <operation> émincés </operation> . bien <operation> poivrer </operation> régulièrement au fur et à <operation> mesure </operation> du remplissage . <operation> saler </operation> . <operation ingredients="potiron"> remettre </operation> le chapeau du <ingredient action="remettre" quantite="1"> potiron </ingredient> , <operation> envelopper </operation> de papier d' alu , et <operation> mettre </operation> au four . le temps de cuisson est à contrôler , il dépend de la taille du <ingredient quantite="1"> potiron </ingredient> . quand c' est prêt , <operation> enlever </operation> simplement l' aluminium . . . le <ingredient quantite="1"> potiron </ingredient> sert de soupière !
+</preparation>
+</recette>

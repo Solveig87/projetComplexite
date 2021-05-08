@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60670">
+<titre>Salade de fruits exotiques aux fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>30 fraises gariguettes</p>
+<p>4 kiwis</p>
+<p>1 petite boîte d'ananas au sirop en morceaux (400 g environ)</p>
+<p>un peu de jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="ananas;sirop"> vider </operation> la boîte d' <ingredient action="vider"> ananas </ingredient> et son <ingredient action="vider"> sirop </ingredient> dans un grand saladier . <operation ingredients="bananes;kiwis;fraises"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> , les <ingredient action="couper" quantite="4"> kiwis </ingredient> et les <ingredient action="couper" quantite="30"> fraises </ingredient> en rondelles . tout <operation> mélanger </operation> dans le saladier . <operation ingredients="jus"> rajouter </operation> le <ingredient action="rajouter"> jus </ingredient> de citron pour éviter que les <ingredient action="noircir" quantite="2"> bananes </ingredient> <operation ingredients="bananes"> noircissent </operation> .
+</preparation>
+</recette>

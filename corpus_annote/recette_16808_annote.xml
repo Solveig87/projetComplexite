@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16808">
+<titre>Carbonade flamande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>750 g de boeuf pour carbonade</p>
+<p>2 cubes de bouillon de viande corsé</p>
+<p>1 verre de bière (gueuze de préférence)</p>
+<p>5 oignons</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>1 tranche de pain</p>
+<p>50 g de saindoux ou beurre</p>
+<p>maïzena</p>
+<p>1 cuillère à soupe de moutarde, sucre, vinaigre </p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> détailler </operation> la <ingredient action="détailler" quantite="750 gramme"> viande </ingredient> en morceaux de ± 100 gr . faire <operation ingredients="viande;saindoux;beurre"> revenir </operation> la <ingredient action="revenir" quantite="750 gramme"> viande </ingredient> avec le <ingredient action="revenir" quantite="50 gramme"> saindoux </ingredient> ou le <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer" quantite="750 gramme"> viande </ingredient> et la remplacer par les <ingredient quantite="5"> oignons </ingredient> <operation> émincés </operation> . quant ils sont <operation> attendris </operation> <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre" quantite="750 gramme"> viande </ingredient> et asperger de <ingredient quantite=""> vinaigre </ingredient> . <operation ingredients="ail;bouquet;bouillon"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , les 2 cubes de <ingredient action="ajouter"> bouillon </ingredient> <operation> dilués </operation> dans un peu d' eau . <operation ingredients="bière"> couvrir </operation> d' une <ingredient action="couvrir" quantite="1 verre"> bière </ingredient> <operation ingredients="moutarde;sucre"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> et le <ingredient action="ajouter" quantite=""> sucre </ingredient> quand la préparation bout , <operation> couvrir </operation> et laisser <operation> mijoter </operation> pendant 2 heures à feu doux . 1 / 4 d' heure avant la fin de la cuisson , <operation ingredients="maïzena"> ajouter </operation> la <ingredient action="ajouter" quantite=""> maïzena </ingredient> <operation> diluée </operation> dans un peu d' eau . <operation> rectifier </operation> éventuellement l' asaisonnement .
+</preparation>
+</recette>

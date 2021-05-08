@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20986">
+<titre>Gratin de coquillettes au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de coquillettes (ou autres)</p>
+<p>2 petits cervelas (facultatif)</p>
+<p>1 paquet d'allumettes de jambon</p>
+<p>100 g de gruyère râpé</p>
+<p>3 oeufs</p>
+<p>15 cl de lait</p>
+<p>50 cl de crème fraîche</p>
+<p>sel, muscade </p>
+<p>20 g de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="coquillettes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> coquillettes </ingredient> dans de l' eau bouillante <operation> salée </operation> et <operation> huilée </operation> , selon le temps indiqué sur le paquet . les <operation> égoutter </operation> , les <operation> rincer </operation> ensuite à l' eau froide dans une passoire , puis les <operation> égoutter </operation> à nouveau . pendant la cuisson des <ingredient action="ôter"> pâtes </ingredient> , <operation ingredients="pâtes;cervelas"> ôter </operation> la peau des <ingredient action="ôter" quantite="2"> cervelas </ingredient> , les <operation> couper </operation> en deux dans le sens de la longueur , puis en tranches fines . casser les <ingredient quantite="3"> oeufs </ingredient> séparément dans une tasse , puis bien les <operation ingredients="lait;crème"> battre </operation> dans un bol avec le <ingredient action="battre" quantite="15 cl"> lait </ingredient> et la <ingredient action="battre" quantite="50 cl"> crème </ingredient> ; <operation> assaisonner </operation> . <operation ingredients="cervelas;jambon"> beurrer </operation> un <operation> moule </operation> et y <operation ingredients="pâtes"> disposer </operation> successivement les <ingredient action="disposer"> pâtes </ingredient> , le <ingredient action="beurrer" quantite="2"> cervelas </ingredient> , les allumettes de <ingredient action="beurrer"> jambon </ingredient> et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> râpé . <operation ingredients="lait"> napper </operation> avec le <operation> mélange </operation> <ingredient action="napper" quantite="15 cl"> lait </ingredient> - crème - oeufs et <operation ingredients="beurre"> disperser </operation> quelques morceaux de <ingredient action="disperser" quantite="20 gramme"> beurre </ingredient> . faire <operation> gratiner </operation> au four préchauffé pendant 20 min à 220 <operation> ° </operation> c ( th . 8) .
+</preparation>
+</recette>

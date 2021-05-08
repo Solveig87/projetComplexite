@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30021">
+<titre>Muesli aux fruits frais</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 grosses pommes</p>
+<p>250 g de fruits de saison</p>
+<p>4 cuillères à soupe de flocons d'avoine</p>
+<p>10 cl de lait concentré sucré</p>
+<p>3 cuillères à soupe de noisettes ou d'amandes en poudre</p>
+<p>un demi-citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> diluez </operation> le <ingredient action="diluer" quantite="10 cl"> lait </ingredient> <operation> concentré </operation> dans un peu d' eau puis <operation> ajoutez </operation> les flocons d' avoine . laissez <operation> gonfler </operation> quelques heures . <operation ingredients="pommes"> lavez </operation> les <ingredient action="laver" quantite="4"> pommes </ingredient> , <operation ingredients="coeur"> retirez </operation> le <ingredient action="retirer"> coeur </ingredient> à l' aide d' un vide-pomme et <operation> râpez </operation> - les avec leur peau sur les flocons d' avoine . <operation ingredients="citron"> arrosez </operation> de <ingredient action="arroser"> citron </ingredient> pour ne pas qu' elles <operation> noircissent </operation> . <operation ingredients="fruits"> ajoutez </operation> les autres <ingredient action="ajouter" quantite="250 gramme"> fruits </ingredient> <operation> coupés </operation> en dés , <operation> mélangez </operation> , puis <operation ingredients="noisettes;amandes"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="3 cuillère à soupe"> noisettes </ingredient> ou d' <ingredient action="saupoudrer"> amandes </ingredient> en <operation> poudre </operation> . servez frais au petit déjeuner ou en <ingredient> dessert </ingredient> avec un peu de <ingredient> crème </ingredient> <ingredient> chantilly </ingredient> . au moment de servir , on peut <operation ingredients="fraises;framboises"> ajouter </operation> 150 g de <ingredient action="ajouter"> fraises </ingredient> et de <ingredient action="ajouter"> framboises </ingredient> <operation> mélangées </operation> , <operation> écrasées </operation> au pilon .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69396">
+<titre>Salade Royale</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>saumon fumé (quantité selon le goût)</p>
+<p>2 avocats</p>
+<p>1 boîte de thon naturel</p>
+<p>1 petite boîte de maïs</p>
+<p>2 kiwis</p>
+<p>salade verte au choix</p>
+<p>1 petite poignée d'olives noires ou vertes</p>
+<p>sel, poivre</p>
+<p>facultarif: 3 oeufs dur</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;avocats;kiwis"> couper </operation> en petits morceaux le <ingredient action="couper"> saumon </ingredient> , les <ingredient action="couper" quantite="2"> avocats </ingredient> et les <ingredient action="couper" quantite="2"> kiwis </ingredient> préalablement <operation> épluchés </operation> . les <operation ingredients="thon;maïs"> mélanger </operation> avec le <ingredient action="mélanger"> thon </ingredient> et le <ingredient action="mélanger"> maïs </ingredient> et <operation ingredients="sel;poivre"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> mettre </operation> cette préparation au centre d' une grande assiette , autour <operation ingredients="salade"> mettre </operation> les feuilles de <ingredient action="mettre" quantite=""> salade </ingredient> verte <operation> coupées </operation> et <operation ingredients="oeufs"> rajouter </operation> les <ingredient action="rajouter"> oeufs </ingredient> durs <operation> coupés </operation> en 2 . et par - dessus le tout <operation ingredients="olives"> parsemer </operation> de quelques <ingredient action="parsemer"> olives </ingredient> . pour l’ <ingredient action="mettre" quantite=";"> assaisonnement </ingredient> <operation ingredients="assaisonnement;huile"> mettre </operation> soit de l' <ingredient action="mettre"> huile </ingredient> d' olive soit de la vinaigrette achetée toute prête . bon appétit ! ! une recette qui peut être varié au goût des personne , on peut y <operation> ajouter </operation> ce que l' on veut ou remplacer certains ingrédients .
+</preparation>
+</recette>

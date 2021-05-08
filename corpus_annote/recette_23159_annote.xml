@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23159">
+<titre>Escalopes jurassiennes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de veau fines</p>
+<p>4 tranches de jambon</p>
+<p>4 tranches fines de comté</p>
+<p>chapelure</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> etaler </operation> les <ingredient action="etaler" quantite="4"> escalopes </ingredient> et bien les <operation> aplatir </operation> ( au rouleau ) . entre 2 morceaux d' <ingredient quantite="4"> escalope </ingredient> , <operation ingredients="jambon;comté"> intercaler </operation> 1 tranche de <ingredient action="intercaler" quantite="4 tranche"> jambon </ingredient> et 1 tranche de <ingredient action="intercaler"> comté </ingredient> . <operation ingredients="chapelure"> rouler </operation> le tout dans la <ingredient action="rouler" quantite=""> chapelure </ingredient> . faire <operation ingredients="beurre"> cuire </operation> à la <operation> poêle </operation> dans du <ingredient action="cuire"> beurre </ingredient> <operation> fondu </operation> à feu doux . attention , brûle facilement à la cuisson .
+</preparation>
+</recette>

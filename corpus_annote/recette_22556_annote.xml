@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22556">
+<titre>Poulet sauté aux noix de cajou et au chou</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>75 g de noix de cajou</p>
+<p>250 g de chou</p>
+<p>250 g de pousses de soja</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>15 cl de vin</p>
+<p>2 cuillères à soupe de sauce de soja</p>
+<p>2 cuillères à soupe de Maïzena</p>
+<p>2 cubes de bouillon</p>
+<p>huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="gousse;huile"> frire </operation> la <ingredient action="frire" quantite="1"> gousse </ingredient> d' ail dans un fond d' <ingredient action="frire" quantite=""> huile </ingredient> dans une cocotte . une fois dorée , <operation ingredients="gousse"> retirez </operation> la <ingredient action="retirer" quantite="1"> gousse </ingredient> d' ail et <operation ingredients="poulet"> mettez </operation> le <ingredient action="mettre" quantite="1"> poulet </ingredient> à <operation> dorer </operation> dans la cocotte 10 minutes . <operation ingredients="oignon;chou"> ajoutez </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et le <ingredient action="ajouter" quantite="250 gramme"> chou </ingredient> <operation> émincés </operation> et le soja . <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> mijotez </operation> 15 min . <operation ingredients="vin;bouillon;maïzena"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="15 cl"> vin </ingredient> avec 25 cl d' eau , les cubes de <ingredient action="faire"> bouillon </ingredient> , la <ingredient action="faire" quantite="2 cuillère à soupe"> maïzena </ingredient> et la sauce de soja . laissez légèrement <operation> épaissir </operation> et <operation ingredients="poulet;légumes"> versez </operation> la sauce sur le <ingredient action="verser" quantite="1"> poulet </ingredient> et les <ingredient action="verser" quantite="250 gramme;250 gramme;1"> légumes </ingredient> . <operation ingredients="noix"> parsemez </operation> de <ingredient action="parsemer" quantite="75 gramme"> noix </ingredient> de cajou et servez .
+</preparation>
+</recette>

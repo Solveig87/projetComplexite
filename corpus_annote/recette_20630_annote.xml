@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20630">
+<titre>Tagiatelles à la carbonara facile</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de tagliatelles</p>
+<p>350 g de lardons</p>
+<p>6 jaunes d'oeufs</p>
+<p>100 g de gruyère râpé</p>
+<p>200 g de crème fraîche</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;matière"> revenir </operation> les <ingredient action="revenir" quantite="350 gramme"> lardons </ingredient> dans une <operation> poêle </operation> sans <ingredient action="revenir"> matière </ingredient> grasse . <operation ingredients="tagliatelles"> plonger </operation> les <ingredient action="plonger" quantite="500 gramme"> tagliatelles </ingredient> dans une casserole d' eau bouillante <operation> salée </operation> . les <operation> cuire </operation> le temps indiqué sur l' emballage et les <operation> égoutter </operation> . <operation ingredients="pâtes"> disposer </operation> les <ingredient action="disposer"> pâtes </ingredient> dans les assiettes , <operation> creuser </operation> un puits comme un petit nid , y <operation ingredients="oeuf"> placer </operation> un jaune d' <ingredient action="placer"> oeuf </ingredient> et une cuillère à café de crème fraîche , et <operation> assaisonner </operation> . <operation ingredients="lardons;gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="350 gramme"> lardons </ingredient> et de <ingredient action="parsemer" quantite="100 gramme"> gruyère </ingredient> .
+</preparation>
+</recette>

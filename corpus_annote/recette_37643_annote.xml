@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37643">
+<titre>Velouté de brocoli</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bouquet de brocolis</p>
+<p>1 poireau</p>
+<p>2 pommes de terre</p>
+<p>1 verre de lait</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>30 g de cheddar ou de parmesan</p>
+<p>sel, poivre </p>
+<p>cumin</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="1;2;2 cuillère à soupe"> légumes </ingredient> en morceaux et les faire <operation ingredients="sel;poivre;cumin"> cuire </operation> dans une casserole d' eau bouillante avec le <ingredient action="cuire" quantite=""> sel </ingredient> , le <ingredient action="cuire" quantite=""> poivre </ingredient> et le <ingredient action="cuire" quantite=""> cumin </ingredient> ( pas plus d' une cuillère à café ) . quand les <ingredient action="cuire" quantite="1;2;2 cuillère à soupe"> légumes </ingredient> sont bien <operation ingredients="légumes"> cuits </operation> , <operation> retirer </operation> du feu et <operation> ajouter </operation> en <operation ingredients="lait;crème"> remuant </operation> le <ingredient action="remuer" quantite="1 verre"> lait </ingredient> et la <ingredient action="remuer" quantite="2 cuillère à soupe"> crème </ingredient> . <operation> mixer </operation> le tout , et servir avec des copeaux de <ingredient quantite="30 gramme"> cheddar </ingredient> ou de <ingredient> parmesan </ingredient> .
+</preparation>
+</recette>

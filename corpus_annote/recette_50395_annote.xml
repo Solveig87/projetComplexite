@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50395">
+<titre>Sandwich yaya des fjords</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain complet</p>
+<p>50 g de fromage blanc à 20 ou 0% de matière grasse</p>
+<p>1 petit oignon</p>
+<p>2 cuillères à café de moutarde</p>
+<p>1 grosse tomate</p>
+<p>5 cornichons</p>
+<p>sel, poivre, ciboulette</p>
+<p>2 tranches de saumon ou truite fumée</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> le <ingredient action="griller" quantite="4 tranche"> pain </ingredient> au <operation> toaster </operation> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et le <operation ingredients="fromage"> mélanger </operation> au <ingredient action="mélanger" quantite="50 gramme"> fromage </ingredient> banc . <operation ingredients="moutarde;cornichons;ciboulette;sel;poivre"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à café"> moutarde </ingredient> , les <ingredient action="ajouter" quantite="5"> cornichons </ingredient> en dés , la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation ingredients="saumon;pain"> mettre </operation> le <ingredient action="mettre" quantite="2 tranche"> saumon </ingredient> sur une tranche de <ingredient action="mettre" quantite="4 tranche"> pain </ingredient> grillé , puis <operation ingredients="tomate;saumon"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> coupée </operation> en rondelle sur le <ingredient action="ajouter" quantite="2 tranche"> saumon </ingredient> . enfin , <operation ingredients="fromage"> tartiner </operation> la préparation au <ingredient action="tartiner" quantite="50 gramme"> fromage </ingredient> blanc . <operation ingredients="sandwich"> refermer </operation> le <ingredient action="refermer"> sandwich </ingredient> et bon appétit ! on peut également <operation ingredients="chèvre"> écraser </operation> du <ingredient action="écraser"> chèvre </ingredient> frais et l' <operation ingredients="fromage"> incorporer </operation> au <ingredient action="incorporer" quantite="50 gramme"> fromage </ingredient> blanc . délicieux ! <ingredient> vin </ingredient> blanc suédois
+</preparation>
+</recette>

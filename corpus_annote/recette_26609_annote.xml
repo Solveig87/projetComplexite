@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26609">
+<titre>Salade exotique</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de riz</p>
+<p>1 concombre</p>
+<p>1 boîte d'ananas</p>
+<p>1 grande boîte de maïs</p>
+<p>1 boîte de 300 g de thon</p>
+<p>Pour la sauce :</p>
+<p>1 grande cuillerée à soupe de moutarde</p>
+<p>1 cuillerée à soupe de vinaigre</p>
+<p>1/2 verre de sauce de soja</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> 500 g de <ingredient action="cuire" quantite="500 gramme"> riz </ingredient> . lorsqu' il est <operation> cuit </operation> , faites le refroidir au réfrigérateur . <operation> epluchez </operation> un <operation action="concombre" ingredients="concombre"> concombre </operation> , <operation> coupez </operation> - le en petits dés . <operation ingredients="ananas"> ouvrez </operation> une grande boîte d' <ingredient action="ouvrir"> ananas </ingredient> en morceaux et récupérez -en le <ingredient> jus </ingredient> dans un verre . egoutez les morceaux d' <ingredient> ananas </ingredient> , ainsi que le contenu d' une grande boîte de <ingredient> maïs </ingredient> et d' une grande boîte de <ingredient> thon </ingredient> que vous <operation> réduirez </operation> en miettes . <operation> mettez </operation> l' ensemble des ingrédients dans un grand saladier et <operation> ajoutez </operation> - y le <ingredient quantite="500 gramme"> riz </ingredient> . <operation> préparez </operation> la sauce : <operation ingredients="moutarde"> mélangez </operation> <ingredient action="mélanger"> moutarde </ingredient> et vinaigre . <operation ingredients="jus"> ajoutez </operation> le <ingredient action="ajouter"> jus </ingredient> d' ananas ainsi que le soja . <operation ingredients="salade"> versez </operation> le tout sur la <ingredient action="verser"> salade </ingredient> .
+</preparation>
+</recette>

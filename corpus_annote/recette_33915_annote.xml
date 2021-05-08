@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33915">
+<titre>Minestrone de fruits rouges au basilic</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de fruits rouges ou fruits des bois surgelés (500 g) </p>
+<p>1/2 litre de vin rouge un peu corsé</p>
+<p>100 g de cassonade</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>1/2 cuillère à café de muscade</p>
+<p>1/2 cuillère à café de poivre blanc</p>
+<p>2 clous de girofle</p>
+<p>2 feuilles de basilic frais ou surgelé</p>
+</ingredients>
+<preparation>
+laisser <operation ingredients="fruits"> décongeler </operation> les <ingredient action="décongeler"> fruits </ingredient> dans une passoire et <operation ingredients="jus"> recueillir </operation> le <ingredient action="recueillir"> jus </ingredient> . <operation ingredients="jus;vin;sucre;épices"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> de décongélation avec le <ingredient action="mélanger"> vin </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> et les <ingredient action="mélanger" quantite="1 cuillère à café;2 feuille"> épices </ingredient> , <operation> porter </operation> le tout à <operation> ébullition </operation> pendant quelques minutes . <operation> retirer </operation> les clous de girofle . <operation ingredients="fruits"> répartir </operation> les <ingredient action="répartir"> fruits </ingredient> dans des <operation> coupes </operation> individuelles et <operation> verser </operation> dessus le liquide chaud . <operation ingredients="basilic"> parsemer </operation> chaque <operation> coupe </operation> de <ingredient action="parsemer" quantite="2 feuille"> basilic </ingredient> finement <operation> ciselé </operation> . servir à température ambiante . on peut <operation ingredients="orange"> ajouter </operation> pour le décor et le parfum une fine spirale de pelure d' <ingredient action="ajouter"> orange </ingredient> <operation> brunie </operation> au four . le même que celui de la marinade
+</preparation>
+</recette>

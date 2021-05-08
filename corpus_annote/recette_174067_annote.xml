@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174067">
+<titre>Filet de cabillaud à l'indienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 beaux filets de cabillaud (ou autre poisson selon vos goûts)</p>
+<p>1 oignon</p>
+<p>1 morceau de gingembre frais (plus ou moins gros selon vos goûts)</p>
+<p>1 ou 2 cuillères à café de curry</p>
+<p>1 grosse pomme</p>
+<p>2 tomates</p>
+<p>4 bulbes de fenouil</p>
+<p>huile d'olives</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil;tomates;pomme"> détaillez </operation> le <ingredient action="détailler"> fenouil </ingredient> en petits dés ainsi que les <ingredient action="détailler" quantite="2"> tomates </ingredient> et la <ingredient action="détailler" quantite="1"> pomme </ingredient> . <operation> hachez </operation> l' <ingredient quantite="1"> oignon </ingredient> et <operation> râpez </operation> le <ingredient> gingembre </ingredient> . faites <operation ingredients="huile;oignon;gingembre;curry"> revenir </operation> dans une <operation> poêle </operation> avec un filet d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olives , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , le <ingredient action="revenir"> gingembre </ingredient> et le <ingredient action="revenir"> curry </ingredient> . <operation ingredients="fenouil;pommes"> ajoutez </operation> ensuite le <ingredient action="ajouter"> fenouil </ingredient> et les dés de <ingredient action="ajouter" quantite="1"> pommes </ingredient> , faites les <operation> sauter </operation> quelques minutes , <operation> salez </operation> , puis <operation> versez </operation> un petit verre d' eau . <operation> couvrir </operation> et laissez <operation> cuire </operation> 10 min . <operation ingredients="tomates"> ajoutez </operation> ensuite les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> . poursuivre la cuisson 5 min . <operation ingredients="cabillaud"> salez </operation> les filets de <ingredient action="saler"> cabillaud </ingredient> puis <operation ingredients="légumes"> posez </operation> - les sur les <ingredient action="poser" quantite="1;1;2"> légumes </ingredient> . <operation> couvrir </operation> et laissez <operation> cuire </operation> 5 min . servir avec un <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

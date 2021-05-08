@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28332">
+<titre>Purée de lentilles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>375 g de lentilles</p>
+<p>65 g de carottes</p>
+<p>1 oignon piqué d'1 clou de girofle</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>40 g de beurre</p>
+<p>40 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="65 gramme"> carottes </ingredient> en dés . <operation ingredients="lentilles;carottes;bouquet;oignon"> mettre </operation> les <ingredient action="mettre" quantite="375 gramme"> lentilles </ingredient> dans l' eau froide avec les <ingredient action="mettre" quantite="65 gramme"> carottes </ingredient> , le <ingredient action="mettre" quantite="1"> bouquet </ingredient> <operation> garni </operation> et l' <ingredient action="mettre" quantite="1"> oignon </ingredient> . amener à <operation> ébullition </operation> et laisser <operation ingredients="bouillons"> cuire </operation> à petits <ingredient action="cuire"> bouillons </ingredient> durant 40 minutes . <operation> saler </operation> en fin de cuisson . <operation ingredients="lentilles"> egoutter </operation> les <ingredient action="egoutter" quantite="375 gramme"> lentilles </ingredient> . <operation ingredients="bouquet"> retirer </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le clou de girofle . <operation ingredients="lentilles"> passer </operation> les <ingredient action="passer" quantite="375 gramme"> lentilles </ingredient> au moulin à légumes . <operation> remettre </operation> la purée sur feu doux . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="40 gramme"> beurre </ingredient> <operation ingredients="crème"> coupé </operation> en dés et la <ingredient action="couper" quantite="40 gramme"> crème </ingredient> . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1"> assaisonnement </ingredient> et servir .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223344">
+<titre>Soupe épicée (pomme de terre, carotte)</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre</p>
+<p>8 carottes </p>
+<p>2 oignons </p>
+<p>25 cl de crème liquide </p>
+<p>1 cuillère à café de purée de piment (plus ou moins fort) </p>
+<p>3 pincées de gingembre moulu </p>
+<p>sel </p>
+<p>poivre </p>
+<p>bouquet garni (thym, persil, laurier) </p>
+<p>2 tomates </p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> puis les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d olive avec la cuillère de purée de piment . pendant ce temps , <operation ingredients="pommes;tomates"> éplucher </operation> les <ingredient action="éplucher" quantite="8"> pommes </ingredient> de terre , <ingredient action="éplucher" quantite="2"> tomates </ingredient> et carottes et les <operation> couper </operation> en morceaux . <operation ingredients="épices;sel"> ajouter </operation> les <ingredient action="ajouter" quantite=";;"> épices </ingredient> aux oignons ( bouquet <operation> garni </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre , gingembre ) . faire <operation ingredients="légumes"> revenir </operation> les <ingredient action="revenir" quantite="8;8;2;25 cl;2"> légumes </ingredient> pendant 10 min en <operation> remuant </operation> de temps en temps . <operation ingredients="légumes"> ajouter </operation> de l' eau jusqu' à hauteur des <ingredient action="ajouter" quantite="8;8;2;25 cl;2"> légumes </ingredient> puis laisser <operation> mijoter </operation> pendant 20 min . <operation> mixer </operation> le tout une première fois puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> liquide , <operation> mixer </operation> à nouveau jusqu’ à homogénéité . <operation> ajouter </operation> de l' eau et remixer si pas assez fluide .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24259">
+<titre>Riz à la vanille.</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz</p>
+<p>200 g de sucre en poudre</p>
+<p>1 litre lait</p>
+<p>1 jaune d'oeuf</p>
+<p>vanille liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz;lait"> verser </operation> dans une casserole le <ingredient action="verser" quantite="200 gramme"> riz </ingredient> avec le <ingredient action="verser" quantite="1 litre"> lait </ingredient> . laisser <operation> cuire </operation> 20 mn . <operation> eteindre </operation> le feu et <operation> rajouter </operation> tout en <operation ingredients="sucre;oeuf"> remuant </operation> le <ingredient action="remuer" quantite="200 gramme"> sucre </ingredient> + jaune d' <ingredient action="remuer"> oeuf </ingredient> + vanille liquide . <operation> mettre </operation> au frais .
+</preparation>
+</recette>

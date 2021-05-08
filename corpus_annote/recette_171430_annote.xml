@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171430">
+<titre>Spaghettis carbonara très simples</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de spaghettis</p>
+<p>300 g de lardons</p>
+<p>4 cuillères à soupe de parmesan râpé</p>
+<p>30 cl de crème fraîche</p>
+<p>1 jaune d'oeuf </p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> le temps indiqué sur le paquet . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite="300 gramme"> lardons </ingredient> sans matière grasse dans une <operation> poêle </operation> anti-adhésive . une fois les <ingredient quantite="300 gramme"> lardons </ingredient> <operation> cuits </operation> , y <operation ingredients="crème;parmesan"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> fraîche et le <ingredient action="ajouter" quantite="4 cuillère à soupe"> parmesan </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> réduire </operation> une quinzaine de minutes à feu moyen en <operation> mélangeant </operation> de temps en temps afin que la <ingredient quantite="30 cl"> crème </ingredient> n' attache pas . une fois que la sauce a la consistance voulue ( c' est- . dire dès qu' elle nappe la cuillère ) , la rétirer du feu . <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> <operation> battu </operation> et <operation> mélanger </operation> énergiquement . <operation ingredients="pâtes"> ajouter </operation> à ce <operation> mélange </operation> les <ingredient action="ajouter"> pâtes </ingredient> <operation> égouttées </operation> ( tout en conservant un tout petit peu d' eau de cuisson ) . <operation> mélanger </operation> le tout et servir ! le <ingredient quantite="4 cuillère à soupe"> parmesan </ingredient> peut être remplacé par de l' <ingredient> emmental </ingredient> râpé pour une sauce plus <ingredient> fondante </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53765">
+<titre>Salade de pois chiches pimentée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse boîte de pois chiches (ou pois chiches cuits au préalable)</p>
+<p>1 tomate</p>
+<p>1 oignon (blanc ou cébette de préférence)</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>huile d'olive</p>
+<p>piment de cayenne en poudre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation> ouvrir </operation> et <operation ingredients="pois;chiches"> égoutter </operation> la boîte de <ingredient action="égoutter"> pois </ingredient> <ingredient action="égoutter"> chiches </ingredient> et la <operation> mettre </operation> dans un saladier . <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> en petits morceaux . <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en deux , l' <operation> épépiner </operation> et la <operation> couper </operation> en petits morceaux également . <operation ingredients="tomate;oignon"> verser </operation> la <ingredient action="verser" quantite="1"> tomate </ingredient> et l' <ingredient action="verser" quantite="1"> oignon </ingredient> dans le saladier contenant les <ingredient> pois </ingredient> <ingredient> chiches </ingredient> . <operation ingredients="tomate"> ajouter </operation> 1 ou 2 cuillère à café de <operation> concentré </operation> de <ingredient action="ajouter" quantite="1"> tomate </ingredient> ( selon le goût ) . <operation ingredients="lentilles"> couvrir </operation> les <ingredient action="couvrir"> lentilles </ingredient> d' huile d' olive ; <operation> mélanger </operation> et <operation> saler </operation> . <operation> ajouter </operation> le piment de cayenne en <operation> poudre </operation> ( attention : mieux vaut en <operation> mettre </operation> un peu et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> par la suite ) . <operation> mélanger </operation> et <operation> mettre </operation> au frigo . sortir environ 20 à 30 min avant de servir . excellent , en <ingredient> apéritif </ingredient> ou en entrée .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37789">
+<titre>Terrine aux deux saumons facile (20ème rencontre Marmiton)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pavés de saumon (environ 150g)</p>
+<p>100 g de saumon fumé</p>
+<p>2 sachets de gelée au madère</p>
+<p>4 oeufs</p>
+<p>200 g de mayonnaise</p>
+<p>1 petite boîte de concentré de tomates (70 g)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> à votre convenance ( moi je le fais <operation> cuire </operation> au bain marie encore surgelé et encore dans son sachet environ 20 min ) . faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> pour qu' ils soient durs . <operation ingredients="saumon;oeufs"> ecraser </operation> grossièremnt à la fourchette le <ingredient action="ecraser"> saumon </ingredient> et les <ingredient action="ecraser" quantite="4"> oeufs </ingredient> durs . les <operation ingredients="tomates"> mettre </operation> dans le bol du <operation ingredients="mayonnaise"> mixer </operation> avec la <ingredient action="mixer" quantite="200 gramme"> mayonnaise </ingredient> et le <operation> concentré </operation> de <ingredient action="mettre"> tomates </ingredient> . <operation> mixer </operation> finement . <operation> ajouter </operation> le <ingredient action="couper"> saumon </ingredient> <ingredient action="couper" quantite="100 gramme"> fumé </ingredient> <operation ingredients="saumon;fumé"> coupé </operation> en petits bouts . faire <operation ingredients="gelée;gelée"> chauffer </operation> légèrement 1 / 2 l d' eau et <operation> délayer </operation> dedans les deux sachets de <ingredient action="chauffer"> gelée </ingredient> au madère ( attention sur les instructions du paquet de <ingredient action="chauffer"> gelée </ingredient> il est écrit 1 / 2 l d' eau pour 1 sachet mais ici c' est bien 2 ) <operation ingredients="gelée"> verser </operation> la <ingredient action="verser"> gelée </ingredient> dans un saladier et <operation ingredients="saumon;oeufs"> mélanger </operation> avec le <ingredient action="mélanger"> saumon </ingredient> et les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> <operation> mixés </operation> . <operation> tapisser </operation> un <operation> moule </operation> à cake avec du film ( votre film adhèrera mieux si vous <operation> mouillez </operation> légèrement votre <operation> moule </operation> ) et <operation> verser </operation> le <operation> mélange </operation> . <operation> mettre </operation> au réfrigérateur au moins 3 h. <operation> démouler </operation> .
+</preparation>
+</recette>

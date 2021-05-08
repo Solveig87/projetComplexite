@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20899">
+<titre>Galettes bretonnes complètes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine de blé noir</p>
+<p>150 g de farine de froment</p>
+<p>1 oeuf</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>2 cuillères à café de sel</p>
+<p>1,5 litre d'eau Pour la garniture :</p>
+<p>15 tranches de jambon</p>
+<p>30 oeufs</p>
+<p>300 g de gruyère</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> hacher </operation> le <ingredient action="hacher" quantite="15 tranche"> jambon </ingredient> . <operation ingredients="farine;huile;oeuf;sel"> malaxer </operation> la <ingredient action="malaxer" quantite="500 gramme+150 gramme"> farine </ingredient> avec l' <ingredient action="malaxer" quantite="2 cuillère à soupe"> huile </ingredient> , l' <ingredient action="malaxer" quantite="1+30"> oeuf </ingredient> et le <ingredient action="malaxer" quantite="2 cuillère à café"> sel </ingredient> puis <operation> verser </operation> l' eau petit à petit . la <ingredient> pâte </ingredient> doit être fluide . laisser <operation> reposer </operation> 1 heure puis les <operation> cuire </operation> dans une <operation> poêle </operation> bien chaude légèrement <operation> graissée </operation> . <operation ingredients="crêpe"> retourner </operation> la <ingredient action="retourner"> crêpe </ingredient> et casser un <ingredient quantite="1+30"> oeuf </ingredient> dessus . <operation ingredients="jambon;gruyère"> ajouter </operation> l' équivalent d'1 / 2 tranche de <ingredient action="ajouter" quantite="15 tranche"> jambon </ingredient> et 10 g de <ingredient action="ajouter" quantite="300 gramme"> gruyère </ingredient> . lorsque le blanc d' <ingredient action="cuire" quantite="1+30"> oeuf </ingredient> est <operation ingredients="oeuf"> cuit </operation> , <operation ingredients="crêpes"> repliez </operation> les côtés de la <ingredient action="replier"> crêpes </ingredient> vers le centre . <operation> saler </operation> , <operation> poivrer </operation> et servir .
+</preparation>
+</recette>

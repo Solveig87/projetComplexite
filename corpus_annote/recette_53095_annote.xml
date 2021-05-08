@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53095">
+<titre>Lapin mariné au vinaigre balsamique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 morceaux de lapin (cuisses, épaules, rables...)</p>
+<p>4 grains d’ail</p>
+<p>2 feuilles de laurier</p>
+<p>2 branches de romarin frais (les aiguilles) </p>
+<p>1/2 verre de vinaigre balsamique (10 cl) </p>
+<p>1/2 verre d’huile d’olive (5 à 10 cl)</p>
+<p>1 verre de vin blanc fruité</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="vin"> mettre </operation> tous les ingrédients ( sauf le <ingredient action="mettre" quantite="1 verre"> vin </ingredient> blanc ) , à <operation ingredients="lapin;ail;sel"> mariner </operation> avec le <ingredient action="mariner"> lapin </ingredient> dans un plat ( <ingredient action="mariner"> ail </ingredient> et romarin <operation> hachés </operation> , <ingredient action="mariner"> sel </ingredient> et poivre ) . le jour même : <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc et <operation> enfourner </operation> à 120 <operation> ° </operation> c ( th 4 ) pendant 3 h , en <operation> retournant </operation> les morceaux régulièrement ; <operation> couvrir </operation> à la fin , si nécessaire , avec un papier sulfurisé . <operation> dégraisser </operation> la sauce avant de servir , en la versant dans un verre doseur ; l’ <ingredient> huile </ingredient> remonte à la surface et il est plus facile de l’ <operation> enlever </operation> .
+</preparation>
+</recette>

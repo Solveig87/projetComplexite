@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47441">
+<titre>Le Veau Vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de sauté de veau coupé en dés</p>
+<p>4 échalotes grises</p>
+<p>1 verre de bouillon de légumes</p>
+<p>200 g d’oseille</p>
+<p>1 petite botte ou une poignée de toutes les herbes fraîches et printanières que vous trouverez : persil, cerfeuil, estragon,  menthe, sauge, etc.</p>
+<p>250 g de crème fraîche</p>
+<p>beurre et huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="veau;échalotes"> revenir </operation> les dés de <ingredient action="revenir"> veau </ingredient> et les <ingredient action="revenir" quantite="4"> échalotes </ingredient> <operation ingredients="beurre;huile"> émincées </operation> dans un <operation> mélange </operation> de <ingredient action="émincer"> beurre </ingredient> et d’ <ingredient action="émincer"> huile </ingredient> . quand ils sont bien <operation> rissolés </operation> les <operation> saler </operation> . les <operation ingredients="bouillon"> mouiller </operation> avec le verre de <ingredient action="mouiller" quantite="1 verre"> bouillon </ingredient> . <operation> couvrir </operation> et faire <operation> mijoter </operation> à feux doux 55 min . <operation ingredients="oseille"> ajouter </operation> l’ <ingredient action="ajouter"> oseille </ingredient> et les autres herbes <operation> hachées </operation> mais <ingredient action="mixer" quantite="1 kilogramme;200 gramme;1;;"> non </ingredient> <operation ingredients="non"> mixées </operation> , les faire tomber sans trop les <operation> cuire </operation> pour ne pas atténuer leur goût délicat . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> crème </ingredient> fraîche et <operation> poivrer </operation> . donner un <ingredient quantite="1 verre"> bouillon </ingredient> avant de servir . pour accentuer le côté frais et vert de ce <ingredient> veau </ingredient> printanier , il est agréable de l’ <operation ingredients="épinards"> accompagner </operation> d’ <ingredient action="accompagner"> épinards </ingredient> en branche .
+</preparation>
+</recette>

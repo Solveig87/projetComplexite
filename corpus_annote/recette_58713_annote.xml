@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58713">
+<titre>Saumon au curry et à la crème de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 morceaux de saumon sans la peau</p>
+<p>3 petits oignons rouges ou jaunes </p>
+<p>10 g de margarine</p>
+<p>20 cl de crème de coco</p>
+<p>1 cuillère à soupe de curry en poudre</p>
+<p>50 g de petits pois surgelés</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;oignons"> couper </operation> en petits cubes le <ingredient action="couper"> saumon </ingredient> , <operation> éplucher </operation> et <operation> émincer </operation> les <ingredient action="couper" quantite="3"> oignons </ingredient> . faire <operation ingredients="margarine;saumon"> revenir </operation> dans la <ingredient action="revenir" quantite="10 gramme"> margarine </ingredient> les oignons et le <ingredient action="revenir"> saumon </ingredient> puis <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> curry </ingredient> . <operation ingredients="crème;pois"> incorporer </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> de coco et les petits <ingredient action="incorporer" quantite="50 gramme"> pois </ingredient> encore surgelés . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> 20 minutes en surveillant la cuisson et servir avec du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

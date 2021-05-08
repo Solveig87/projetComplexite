@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60790">
+<titre>Salade de blé aux légumes et au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 verres de grains de blé</p>
+<p>4 tomates</p>
+<p>2 courgettes</p>
+<p>1 boîte de conserve de thon en miette</p>
+<p>1 poivron vert</p>
+<p>50 g de champignons frais</p>
+<p>sel et poivre</p>
+<p>quelques feuilles de persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="blé"> cuire </operation> pendant 10 minutes dans de l' eau bouillante , les grains de <ingredient action="cuire"> blé </ingredient> . <operation> eplucher </operation> les courgettes et les <operation> couper </operation> en petit dés . <operation ingredients="tomates;poivron"> faire </operation> de même pour les <ingredient action="faire" quantite="4"> tomates </ingredient> et le <ingredient action="faire"> poivron </ingredient> . <operation> emincer </operation> les <ingredient quantite="50 gramme"> champignons </ingredient> . <operation> mettre </operation> dans un saladier tous les ingrédients <operation> découpés </operation> . <operation> egoutter </operation> et faire refroidir les grains de <ingredient> blés </ingredient> puis les <operation> incorporer </operation> au reste de la préparation . <operation ingredients="poivre;persil"> mélanger </operation> et <operation ingredients="sel"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> ainsi que le <ingredient action="mélanger"> poivre </ingredient> et le <ingredient action="mélanger" quantite="quelque feuille"> persil </ingredient> finement haché . <operation> assaisonner </operation> à votre goût et laisser au réfrigérateur ( à consommer bien frais ! ! ! ) . a consommer bien frais . sauvignon blanc
+</preparation>
+</recette>

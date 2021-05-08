@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12050">
+<titre>Courgettes soufflées au coulis de tomates</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes moyennes coupées en rondelles </p>
+<p>farine</p>
+<p>chapelure</p>
+<p>3 oeufs    </p>
+<p>6 tomates pelées (fraîches ou en boîte)</p>
+<p>thym, sel, poivre</p>
+<p>1 sucre</p>
+</ingredients>
+<preparation>
+<operation> couper </operation> les courgettes en tranches , les <operation ingredients="farine;oeuf;chapelure"> passer </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> le blanc d' <ingredient action="passer" quantite="3"> oeuf </ingredient> et la <ingredient action="passer" quantite=""> chapelure </ingredient> . <operation ingredients="tomate;tomates;thym;sel;poivre;sucre"> préparer </operation> le coulis de <ingredient action="préparer" quantite="6"> tomate </ingredient> en faisant <operation> mijoter </operation> les <ingredient action="préparer" quantite="6"> tomates </ingredient> avec 1 cuillère à soupe d' huile d' olive , du <ingredient action="préparer" quantite=""> thym </ingredient> , du <ingredient action="préparer" quantite=""> sel </ingredient> , du <ingredient action="préparer" quantite=""> poivre </ingredient> et le <ingredient action="préparer" quantite="1"> sucre </ingredient> . faire <operation> rissoler </operation> les courgettes et servir chaud <operation> accompagnées </operation> du coulis . peut être servi comme plat principal , avec un morceau de <ingredient> saumon </ingredient> . côtes du rhone
+</preparation>
+</recette>

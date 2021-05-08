@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95838">
+<titre>Chakchouka à l'escalope de dinde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escaloppes de dinde coupées en dés</p>
+<p>6 tomates coupées en dés</p>
+<p>4 piments verts coupés en petits morceaux</p>
+<p>2 gousses d'ail</p>
+<p>1/2 CAS de paprika</p>
+<p>1/2 cuiellére à café de poivre noir</p>
+<p>-1/2 c à café de curcuma </p>
+<p>2 CAS d'huile d'olive</p>
+<p>du sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> cuire </operation> les dés d' escaloppe dans une casserole avec un petit peu d' <ingredient action="cuire"> huile </ingredient> d' olive , <operation ingredients="curcuma;poivre"> ajouter </operation> le <ingredient action="ajouter"> curcuma </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> noir ( 15 min ) . en même temps faire <operation ingredients="tomates;huile;gousses"> cuire </operation> les <ingredient action="cuire" quantite="6"> tomates </ingredient> dans une autre casserole avec un petit peu d' <ingredient action="cuire"> huile </ingredient> et <operation ingredients="sel;paprika"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> et la <ingredient action="ajouter"> paprika </ingredient> ( 15 min ) et les <ingredient action="cuire" quantite="2"> gousses </ingredient> d' ail <operation> pressée </operation> . faire <operation ingredients="huile"> cuire </operation> les piments dans une troisième casserole avec un petit peu d' <ingredient action="cuire"> huile </ingredient> ( 15 min ) . enfin <operation> mélanger </operation> tout dans une même casserole et <operation> cuire </operation> 5 min à feu doux .
+</preparation>
+</recette>

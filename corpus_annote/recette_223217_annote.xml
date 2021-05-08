@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223217">
+<titre>Carpaccio de noix de Saint-Jacques et crevettes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 noix de st jacques</p>
+<p>15 crevettes</p>
+<p>4 tranches de saumons fumé</p>
+<p>1 avocat mûre</p>
+<p>huile de noisette</p>
+<p>vinaigre balsamique</p>
+<p>sauce soja</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<ingredient action="couper"> carpaccio </ingredient> : <operation ingredients="carpaccio;noix;crevettes"> couper </operation> finement les <ingredient action="couper" quantite="8"> noix </ingredient> de st jacques et les <ingredient action="couper" quantite="15"> crevettes </ingredient> puis les <operation> mettre </operation> dans un saladier . <operation ingredients="avocat"> couper </operation> en petits dés , l' <ingredient action="couper" quantite="1"> avocat </ingredient> et l' <operation> ajouter </operation> dans le saladier . <operation ingredients="huile;soja"> mettre </operation> un filet de vinaigrette balsamique , d' <ingredient action="mettre" quantite=""> huile </ingredient> de noisette et de sauce <ingredient action="mettre"> soja </ingredient> . <operation ingredients="assaisonnement"> ajuster </operation> l' <ingredient action="ajuster" quantite=";;;"> assaisonnement </ingredient> en sel et poivre . <operation> réserver </operation> au frais . dressage : dans les assiettes , <operation> mettre </operation> des <operation> emporte </operation> - pièces et <operation ingredients="saumon"> placer </operation> les tranches de <ingredient action="placer"> saumon </ingredient> au fond , puis <operation ingredients="carpaccio"> ajouter </operation> le <ingredient action="ajouter"> carpaccio </ingredient> . <operation> aplatir </operation> un peu avec une cuillère pour que ça se tienne correctement . <operation> réserver </operation> au frais . <operation> retirer </operation> l' <operation> emporte </operation> - pièce seulement au moment de servir . vous pouvez <operation ingredients="crème;ciboulette"> accompagner </operation> cette entrée avec une <ingredient action="accompagner"> crème </ingredient> <ingredient action="accompagner"> ciboulette </ingredient> . un verre de <ingredient> vin </ingredient> blanc <operation> sucré </operation>
+</preparation>
+</recette>

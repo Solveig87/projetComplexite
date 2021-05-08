@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20319">
+<titre>Gâteau pralinoise et écorces d'oranges</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>180 g de chocolat pralinoise (poulain 1848 ) </p>
+<p>200 g de farine</p>
+<p>125 g de beurre</p>
+<p>150 g de sucre</p>
+<p>4 oeufs</p>
+<p>40 g d'écorces d'oranges confites</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="180 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> au bain - marie . dans un saladier , <operation ingredients="farine;sucre;oeufs"> mélanger </operation> la <ingredient action="mélanger" quantite="200 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="4"> oeufs </ingredient> . <operation> mélanger </operation> les 2 préparations ( la <ingredient> pâte </ingredient> est alors très compacte ) . <operation> monter </operation> les blancs en neige et les <operation ingredients="pâte"> incorporer </operation> délicatement à la <ingredient action="incorporer"> pâte </ingredient> . <operation ingredients="oranges"> ajouter </operation> les écorces d' <ingredient action="ajouter"> oranges </ingredient> . <operation> verser </operation> dans un <operation> moule </operation> et laisser <operation> cuire </operation> 45 mn à 175 <operation> ° </operation> c ( <operation> couvrir </operation> avec un papier alu au bout de 30 mn ) .
+</preparation>
+</recette>

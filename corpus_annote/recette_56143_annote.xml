@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56143">
+<titre>Holiday's burger</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pains pour hamburger</p>
+<p>2 tranches de mozzarella</p>
+<p>4 cuillères à café de moutarde</p>
+<p>4 cuillères à café de mayonnaise</p>
+<p>2 steaks hachés</p>
+<p>quelques feuilles de laitue (coeur)</p>
+<p>1 oignon</p>
+<p>4 cornichons forts</p>
+<p>herbes aromatiques</p>
+</ingredients>
+<preparation>
+pour la sauce : dans un récipient <operation ingredients="cornichons;moutarde;mayonnaise"> mettre </operation> les <ingredient action="mettre" quantite="4"> cornichons </ingredient> finement <operation> coupés </operation> en lamelles ainsi que la <ingredient action="mettre" quantite="4 cuillère à café"> moutarde </ingredient> et la <ingredient action="mettre" quantite="4 cuillère à café"> mayonnaise </ingredient> , <operation> mélanger </operation> le tout . pendant que les <ingredient action="cuire" quantite="2"> steaks </ingredient> <operation ingredients="steaks"> cuisent </operation> , <operation ingredients="pain;mozzarella;oignons"> garnir </operation> le <ingredient action="garnir" quantite="2"> pain </ingredient> à hamburger de salade , de la <ingredient action="garnir" quantite="2 tranche"> mozzarella </ingredient> et des <ingredient action="garnir" quantite="1"> oignons </ingredient> préalablement <operation> coupés </operation> en tranches de 2 mm environ . <operation ingredients="steak"> mettre </operation> le <ingredient action="mettre" quantite="2"> steak </ingredient> puis <operation ingredients="pain"> mettre </operation> la sauce sur l' autre tranche de <ingredient action="mettre" quantite="2"> pain </ingredient> et <operation> refermer </operation> .
+</preparation>
+</recette>

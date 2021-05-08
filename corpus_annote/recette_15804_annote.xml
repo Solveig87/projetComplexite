@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15804">
+<titre>Velouté de brocolis simple</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 carotte</p>
+<p>1 blanc de poireau</p>
+<p>1 pomme de terre</p>
+<p>2 échalotes</p>
+<p>800 g de brocolis</p>
+<p>35 cl de lait</p>
+<p>25 cl de bouillon de boeuf</p>
+<p>sel et poivre</p>
+<p>20 g de beurre</p>
+</ingredients>
+<preparation>
+<operation> nettoyez </operation> les <ingredient quantite="1;1;2;800 gramme;25 cl"> légumes </ingredient> . <operation> epluchez </operation> la <ingredient quantite="1"> carotte </ingredient> et la <ingredient quantite="1"> pomme </ingredient> de terre . <operation ingredients="légumes"> coupez </operation> les <ingredient action="couper" quantite="1;1;2;800 gramme;25 cl"> légumes </ingredient> en morceaux , puis faites - les <operation ingredients="beurre;échalotes"> revenir </operation> avec le <ingredient action="revenir" quantite="20 gramme"> beurre </ingredient> et les deux <ingredient action="revenir" quantite="2"> échalotes </ingredient> pendant 5 mn environ . <operation ingredients="bouillon"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="25 cl"> bouillon </ingredient> et faites <operation> cuire </operation> pendant une vingtaine de minutes à l' étouffée . <operation> mixez </operation> la préparation . <operation ingredients="lait"> ajoutez </operation> le <ingredient action="ajouter" quantite="35 cl"> lait </ingredient> et <operation> assaisonnez </operation> selon votre goût .
+</preparation>
+</recette>

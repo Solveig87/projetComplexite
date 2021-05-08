@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80554">
+<titre>Tiramisu menthe chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat noir</p>
+<p>50 g de sucre</p>
+<p>150 g de mascarpone</p>
+<p>3 oeufs</p>
+<p>20 biscuits à la cuiller</p>
+<p>10 cl de liqueur de menthe</p>
+<p>10 cl d'eau</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> . <operation ingredients="sucre;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="3"> oeufs </ingredient> jusqu' à ce qu' ils deviennent <ingredient> mousseux </ingredient> . <operation ingredients="mascarpone;chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> mascarpone </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> et <operation> fouetter </operation> . <operation ingredients="oeufs;sel"> battre </operation> les blancs d' <ingredient action="battre" quantite="3"> oeufs </ingredient> en neige avec une pincée de <ingredient action="battre" quantite=""> sel </ingredient> et les <operation> incorporer </operation> au <operation> mélange </operation> précédent . <operation ingredients="liqueur"> diluer </operation> la <ingredient action="diluer" quantite="10 cl"> liqueur </ingredient> avec l' eau dans un récipient plat . pour <operation> dresser </operation> dans les verres : <operation ingredients="biscuits;liqueur"> mettre </operation> une couche de <ingredient action="mettre" quantite="20"> biscuits </ingredient> <operation> trempés </operation> dans la <ingredient action="mettre" quantite="10 cl"> liqueur </ingredient> . puis <operation ingredients="chocolat"> mettre </operation> une couche de <operation> mélange </operation> au <ingredient action="mettre" quantite="100 gramme"> chocolat </ingredient> d' environ 1 , 5 cm . recommencer l' opération 3 fois au moins en fonction de la hauteur des verres . <operation> mettre </operation> au réfrigérateur pendant 4 h au moins .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32000">
+<titre>Crevettes façon Patty</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de crevettes roses</p>
+<p>1 petit oignon</p>
+<p>1 à 2 g d'ail</p>
+<p>1 poivron rouge (pour la couleur)</p>
+<p>1 verre de Martini blanc</p>
+<p>sel et poivre</p>
+<p>jus d'1 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="crevettes"> précuire </operation> les <ingredient action="précuire" quantite="500 gramme"> crevettes </ingredient> 5 mn dans de l' eau légèrement <operation> salée </operation> . <operation> emincer </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> , <operation ingredients="oignon;poivron;ail"> couper </operation> en petits dés le <ingredient action="couper"> poivron </ingredient> et l' <ingredient action="couper"> ail </ingredient> et les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> , ils doivent rester légèrement <ingredient> croquants </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="martini;jus"> arroser </operation> avec le <ingredient action="arroser" quantite="1 verre"> martini </ingredient> et le <ingredient action="arroser" quantite=""> jus </ingredient> de citron . <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> crevettes </ingredient> et les <operation> réchauffer </operation> . servir avec des tranches de <ingredient> citron </ingredient> et des toasts . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

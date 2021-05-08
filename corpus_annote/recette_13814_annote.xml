@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13814">
+<titre>Souris d'agneau confite en daube douce</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 souris d'agneau individuelles</p>
+<p>1 bouteille de vin corsé</p>
+<p>6 gousses d'ail</p>
+<p>1 écorce d'orange</p>
+<p>1 cuillère à soupe de miel</p>
+<p>Romarin</p>
+<p>Bouquet garni</p>
+<p>Margarine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="agneau;margarine"> revenir </operation> les souris d' <ingredient action="revenir"> agneau </ingredient> dans la <ingredient action="revenir" quantite=""> margarine </ingredient> . <operation> jeter </operation> le gras puis <operation ingredients="gousses;vin;miel;bouquet"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> gousses </ingredient> d' ail en chemise , le <ingredient action="ajouter"> vin </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> , le romarin et le <ingredient action="ajouter" quantite=""> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="viande"> laisser </operation> <operation> mijoter </operation> 2 heures environ en tournant souvent la <ingredient action="laisser"> viande </ingredient> . <operation ingredients="orange"> ajouter </operation> le zeste d' <ingredient action="ajouter"> orange </ingredient> en ruban . finir la cuisson encore 30 minutes . servir avec des <ingredient> pâtes </ingredient> fraîches . il faut une cuisson douce pour <operation ingredients="agneau"> confire </operation> la chair des souris d' <ingredient action="confire"> agneau </ingredient> qui doit , en fin de cuisson , se <operation> détacher </operation> de l' os et pouvoir être <ingredient> mangée </ingredient> à la petite cuillère .
+</preparation>
+</recette>

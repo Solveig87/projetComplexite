@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18602">
+<titre>Concombre au Vinaigre Balsamique</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 oignon rouge</p>
+<p>vinaigre balsamique</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre;oignon"> découpez </operation> le <ingredient action="découper" quantite="1"> concombre </ingredient> en rondelles fines , ainsi que l' <ingredient action="découper" quantite="1"> oignon </ingredient> rouge ( la moitié suffira ) . <operation ingredients="concombre;oignon"> disposez </operation> les rondelles de <ingredient action="disposer" quantite="1"> concombre </ingredient> et d' <ingredient action="disposer" quantite="1"> oignon </ingredient> dans une assiette creuse . <operation ingredients="vinaigre"> remplir </operation> l' assiette de <ingredient action="remplir" quantite=""> vinaigre </ingredient> balsamique et laissez " <operation> tremper </operation> " 25 mn . <operation ingredients="vinaigre;concombre"> videz </operation> l' assiette du <ingredient action="vider" quantite=""> vinaigre </ingredient> et savourez le <ingredient action="vider" quantite="1"> concombre </ingredient> <operation> imbibé </operation> !
+</preparation>
+</recette>

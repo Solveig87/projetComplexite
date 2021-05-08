@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39023">
+<titre>Pâtes mascarpone sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de pâtes (torsades)</p>
+<p>100 g de mascarpone</p>
+<p>4 tranches de jambon</p>
+<p>1 oignon</p>
+<p>1 boîte de concentré de tomate</p>
+<p>Sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> pâtes </ingredient> pendant 7 minutes . bien les <operation> égoutter </operation> . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="4 tranche"> jambon </ingredient> en petit morceaux , et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . dans une casserole , faire <operation ingredients="mascarpone"> fondre </operation> la <ingredient action="fondre" quantite="100 gramme"> mascarpone </ingredient> et <operation> remuer </operation> avec un fouet . <operation ingredients="tomates"> incorporer </operation> le <operation> concentré </operation> de <ingredient action="incorporer"> tomates </ingredient> puis <operation> mélanger </operation> ( toujours avec le fouet ) . dans un plat au four , <operation ingredients="pâtes;jambon;oignons"> mettre </operation> les <ingredient action="mettre" quantite="250 gramme"> pâtes </ingredient> , le <ingredient action="mettre" quantite="4 tranche"> jambon </ingredient> et les <ingredient action="mettre" quantite="1"> oignons </ingredient> , la sauce et bien <operation> mélanger </operation> le tout . <operation> enfourner </operation> pendant environ 15 min . selon les goûts , vous pouvez également <operation ingredients="gruyère"> rajouter </operation> un peu de <ingredient action="rajouter"> gruyère </ingredient> râpé , avant de <operation> mettre </operation> au four .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27313">
+<titre>Ananas flambé au rhum et au miel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande boîte de tranches d'ananas au sirop</p>
+<p>2 cuillères à soupe de jus de citron</p>
+<p>100 g de miel</p>
+<p>un peu de cannelle ou de vanille en poudre</p>
+<p>1 verre de rhum</p>
+<p>20 g de raisins secs</p>
+</ingredients>
+<preparation>
+faire <operation> chauffer </operation> le gril du four . faire <operation ingredients="rhum;raisins"> chauffer </operation> le <ingredient action="chauffer" quantite="1 verre"> rhum </ingredient> à feu doux avec les <ingredient action="chauffer" quantite="20 gramme"> raisins </ingredient> . <operation ingredients="ananas"> disposer </operation> les tranches d' <ingredient action="disposer"> ananas </ingredient> <operation> égouttées </operation> dans un plat allant au four . <operation ingredients="jus;miel"> arroser </operation> avec le <ingredient action="arroser" quantite="2 cuillère à soupe"> jus </ingredient> de citron et le <ingredient action="arroser" quantite="100 gramme"> miel </ingredient> puis <operation ingredients="cannelle"> saupoudrez </operation> de <ingredient action="saupoudrer"> cannelle </ingredient> ou de vanille . faire <operation> dorer </operation> sous le grill en surveillant , cela peut prendre plus ou moins de temps . lorsque le <ingredient action="ôter" quantite="1 verre"> rhum </ingredient> est chaud , <operation ingredients="rhum;raisins"> ôter </operation> les <ingredient action="ôter" quantite="20 gramme"> raisins </ingredient> . a la sortie du four , <operation ingredients="ananas"> arroser </operation> l' <ingredient action="arroser"> ananas </ingredient> de rhum et <operation> flamber </operation> . <operation ingredients="raisins"> décorer </operation> avec les <ingredient action="décorer" quantite="20 gramme"> raisins </ingredient> et servir immédiatement .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39407">
+<titre>Fricassée de champignons et quinoa</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de champignons de Paris</p>
+<p>2 verres de quinoa / 4 verres d´eau</p>
+<p>ail</p>
+<p>vin rouge</p>
+<p>1 brique de sauce sauce tomate</p>
+<p>1 pincée de paprika</p>
+<p>huile d´olive</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="quinoa"> cuire </operation> le <ingredient action="cuire" quantite="2 verre"> quinoa </ingredient> : <operation> versez </operation> une cuillère à soupe d´huile , dans une casserole . <operation ingredients="quinoa"> faites </operation> <operation> rissoler </operation> le <ingredient action="faire" quantite="2 verre"> quinoa </ingredient> , et <operation> ajoutez </operation> l´eau . laissez <operation> mijoter </operation> à feu moyen , jusqu´à ce que les graines aient doublée de volume ( 15 min ) . pendant ce temps , <operation ingredients="champignons"> émincez </operation> les <ingredient action="émincez" quantite="500 gramme"> champignons </ingredient> . faites les <operation> revenir </operation> , dans une <operation> poêle </operation> , avec de l´huile d´olive . <operation ingredients="gousses"> ajoutez </operation> 3 à 4 <ingredient action="ajouter"> gousses </ingredient> d´ail <operation> écrasées </operation> . laissez <operation> mijoter </operation> 5 min . puis <operation ingredients="vin"> déglacer </operation> , avec un peu de <ingredient action="déglacer" quantite=""> vin </ingredient> rouge . <operation ingredients="paprika"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 pincée"> paprika </ingredient> , puis <operation> verser </operation> la sauce tomate . servir . bon appétit . le <ingredient quantite="2 verre"> quinoa </ingredient> est idéal pour les intolérants au gluten , qui ne tolèrent ni <ingredient> pâtes </ingredient> , ni <ingredient> semoule </ingredient> de blé .
+</preparation>
+</recette>

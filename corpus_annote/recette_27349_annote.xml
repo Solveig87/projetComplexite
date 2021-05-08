@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27349">
+<titre>Sorbet de groseilles à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de groseilles rouges</p>
+<p>15 cl d'eau</p>
+<p>150 g de sucre en poudre</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>3 demi-oranges</p>
+</ingredients>
+<preparation>
+<operation> mixer </operation> et <operation ingredients="groseilles"> tamiser </operation> les <ingredient action="tamiser" quantite="400 gramme"> groseilles </ingredient> . <operation ingredients="jus"> presser </operation> le <ingredient action="presser" quantite="3 cuillère à soupe"> jus </ingredient> des oranges . dans une casserole , <operation ingredients="sucre"> diluer </operation> l' eau et le <ingredient action="diluer" quantite="150 gramme"> sucre </ingredient> et <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="groseille;jus;jus"> incorporer </operation> la pulpe de <ingredient action="incorporer" quantite="400 gramme"> groseille </ingredient> , le <ingredient action="incorporer" quantite="3 cuillère à soupe"> jus </ingredient> de citron et le <ingredient action="incorporer" quantite="3 cuillère à soupe"> jus </ingredient> d' orange au sirop refroidi et faire <operation> glacer </operation> en sorbetière .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170087">
+<titre>Verrines de fruits façon charlotte</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 biscuits à la cuillère</p>
+<p>10 cl d’eau	</p>
+<p>1 cuillère à soupe de rhum</p>
+<p>12 cuillères à soupe de fromage blanc</p>
+<p>8 cuillères à soupe de sucre en poudre</p>
+<p>3 bananes</p>
+<p>3 kiwis</p>
+<p>1 cuillère à café de cannelle</p>
+</ingredients>
+<preparation>
+dans une assiette à soupe , <operation ingredients="rhum"> verser </operation> l’ eau et le <ingredient action="verser" quantite="1 cuillère à soupe"> rhum </ingredient> . <operation ingredients="biscuits"> tremper </operation> les <ingredient action="tremper" quantite="12"> biscuits </ingredient> pour <operation> tapisser </operation> le fond des verrines . dans un saladier , <operation ingredients="fromage;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="12 cuillère à soupe"> fromage </ingredient> blanc et le <ingredient action="mélanger" quantite="8 cuillère à soupe"> sucre </ingredient> . <operation> mettre </operation> une couche de ce <operation> mélange </operation> dans les verrines . <operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="3"> bananes </ingredient> en rondelles , les <operation> écraser </operation> à la fourchette pour <operation> former </operation> une sorte de purée , <operation ingredients="cannelle"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> cannelle </ingredient> et <operation> mélanger </operation> . <operation> mettre </operation> une couche de ce <operation> mélange </operation> dans les verrines . <operation ingredients="biscuits;fromage"> remettre </operation> une couche de <ingredient action="remettre" quantite="12"> biscuits </ingredient> , puis une de <ingredient action="remettre" quantite="12 cuillère à soupe"> fromage </ingredient> blanc . <operation ingredients="kiwis"> couper </operation> les <ingredient action="couper" quantite="3"> kiwis </ingredient> en petits morceaux et les <operation> déposer </operation> sur les verrines . <operation> mettre </operation> au réfrigérateur 1 h.
+</preparation>
+</recette>

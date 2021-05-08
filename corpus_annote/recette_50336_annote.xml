@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50336">
+<titre>Carrés feuilletés pomme-poire</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 carrés de pâte feuilletée</p>
+<p>1 pomme</p>
+<p>1 poire</p>
+<p>2 cuillères à soupe de cassonade brune</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>2 cuillères à soupe de rhum brun</p>
+<p>50 g de raisins secs</p>
+<p>2 cuillères à soupe de crème liquide</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="pomme;poire"> peler </operation> et <operation> couper </operation> en dés la <ingredient action="peler" quantite="1"> pomme </ingredient> et la <ingredient action="peler" quantite="1"> poire </ingredient> . <operation ingredients="raisins;rhum;cassonade;crème"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> raisins </ingredient> secs , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> rhum </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à soupe"> cassonade </ingredient> et la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> liquide . <operation> mélanger </operation> bien le tout pour que les <ingredient action="imprégner" quantite="1;1;50 gramme"> fruits </ingredient> s' <operation ingredients="fruits;rhum"> imprègnent </operation> du <ingredient action="imprégner" quantite="2 cuillère à soupe"> rhum </ingredient> . <operation ingredients="fruits;carré"> disposer </operation> le <operation> mélange </operation> de <ingredient action="disposer" quantite="1;1;50 gramme"> fruits </ingredient> au centre de chaque <ingredient action="disposer" quantite="6"> carré </ingredient> et <operation> refermer </operation> les ensuite soigneusement pour ne pas que le <ingredient> jus </ingredient> coule . <operation ingredients="oeuf;sucre"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> avec le <ingredient action="battre" quantite="2 cuillère à soupe"> sucre </ingredient> et <operation ingredients="carrés"> badigeonner </operation> les <ingredient action="badigeonner" quantite="6"> carrés </ingredient> de ce <operation> mélange </operation> . <operation> enfourner </operation> pour 20 minutes de cuisson et servir tiède avec une boule de <ingredient> glace </ingredient> . muscat
+</preparation>
+</recette>

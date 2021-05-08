@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66175">
+<titre>Kneidel</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>bouillon de volaille ou cubes de bouillon de volaille</p>
+<p>50 g de margarine ou de graisse d'oie</p>
+<p>sel, poivre, gingembre</p>
+<p>3 oeufs</p>
+<p>8 cuillères à soupe de farine azyme (on trouve dans les épiceries bio ou cacher)</p>
+<p>6 cuillères à soupe d'eau chaude</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="margarine;bouillon"> ramollir </operation> la <ingredient action="ramollir" quantite="50 gramme"> margarine </ingredient> puis <operation> mélanger </operation> tous les ingrédients ( sauf le <ingredient action="ramollir" quantite=""> bouillon </ingredient> ) . <operation> former </operation> des boulettes en se <operation> mouillant </operation> les mains . <operation> mettre </operation> de l' eau à <operation> bouillir </operation> . dans l' eau frémissante , <operation> mettre </operation> les boulettes qui doivent remonter à la surface . laisser <operation> cuire </operation> entre 30 et 45 min selon la grosseur des boulettes ( elles doivent être <operation> cuites </operation> à l' intérieur et être bien <operation> gonflées </operation> ) . dans une autre marmite , <operation ingredients="bouillon"> mettre </operation> le <ingredient action="mettre" quantite=""> bouillon </ingredient> de poulet à <operation> bouillir </operation> et quand les boulettes sont <operation> cuites </operation> , <operation> jeter </operation> l' eau de cuisson qui a <operation> recueilli </operation> le gras et <operation> mettre </operation> les boulettes dans l' autre marmite qui contient le <ingredient quantite=""> bouillon </ingredient> chaud . en entrée d' hiver , se réchauffe facilement .
+</preparation>
+</recette>

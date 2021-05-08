@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30792">
+<titre>Lapin aux câpres et aux olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>un petit pot de câpres au vinaigre</p>
+<p>un pot d'olives vertes</p>
+<p>une branche de thym</p>
+<p>un oignon</p>
+<p>un peu d'ail</p>
+<p>de la farine</p>
+<p>2 verres à moutarde de vinaigre de vin</p>
+<p>3 verres d'eau</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> fariner </operation> chaque morceau de <ingredient action="fariner" quantite="1"> lapin </ingredient> . les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive sans trop les faire <operation> brunir </operation> . <operation> remettre </operation> tous les morceaux dans la cocotte . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> haché , l' <ingredient action="saler" quantite="1"> ail </ingredient> , <operation ingredients="ail"> saler </operation> et <operation> poivrer </operation> . faire <operation> blondir </operation> . <operation ingredients="vinaigre"> déglacer </operation> avec un verre de <ingredient action="déglacer"> vinaigre </ingredient> . <operation ingredients="vinaigre;câpres;olives;thym"> ajouter </operation> l' eau , le reste de <ingredient action="ajouter"> vinaigre </ingredient> , les <ingredient action="ajouter"> câpres </ingredient> et les <ingredient action="ajouter" quantite="1 pot"> olives </ingredient> , le <ingredient action="ajouter"> thym </ingredient> . laisser <operation> mijoter </operation> 1 heure . servir avec des <ingredient> pâtes </ingredient> fraîches .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54636">
+<titre>Goûter rapide à la banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 banane mûre</p>
+<p>sucre (nature ou vanillé)</p>
+<p>baguette (pain viennois, pain de mie ou pain brioché)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> le <ingredient action="couper"> pain </ingredient> en rondelles . <operation ingredients="banane"> ecraser </operation> la <ingredient action="ecraser" quantite="1"> banane </ingredient> dans une petite assiette à l' aide d' une fourchette pour obtenir une sorte de purée . <operation ingredients="sucre"> mélanger </operation> ensuite avec un peu de <ingredient action="mélanger" quantite=""> sucre </ingredient> , puis <operation ingredients="banane;pain"> tartiner </operation> un peu de purée de <ingredient action="tartiner" quantite="1"> banane </ingredient> sur une rondelle de <ingredient action="tartiner"> pain </ingredient> . vous pouvez aussi <ingredient> manger </ingredient> la purée juste à la cuillère . bon appétit . [ ndchef : toutes les variantes sont possibles comme <operation ingredients="cacao;cannelle;confiture;miel;chocolat"> ajouter </operation> du <ingredient action="ajouter"> cacao </ingredient> en pourde , de la <ingredient action="ajouter"> cannelle </ingredient> , un petit suisse et de la <ingredient action="ajouter"> confiture </ingredient> de framboises , du <ingredient action="ajouter"> miel </ingredient> , du <ingredient action="ajouter"> chocolat </ingredient> . . . c' est encore meilleur sur des <ingredient> biscottes </ingredient> ou de la <ingredient> brioche </ingredient> <operation> grillée </operation> ]
+</preparation>
+</recette>

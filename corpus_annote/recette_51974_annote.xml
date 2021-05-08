@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51974">
+<titre>Pleurotes poêlés</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de pleurotes</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 botte de persil</p>
+<p>3 gousses d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="pleurotes"> couper </operation> les <ingredient action="couper" quantite="250 gramme"> pleurotes </ingredient> en lamelles puis <operation ingredients="ail"> éplucher </operation> l' <ingredient action="éplucher"> ail </ingredient> et <operation ingredients="persil"> séparer </operation> les feuilles de <ingredient action="séparer"> persil </ingredient> des tiges . a l' aide d' un hachoir , <operation ingredients="ail;persil"> mélanger </operation> l' <ingredient action="mélanger"> ail </ingredient> et le <ingredient action="mélanger"> persil </ingredient> . <operation ingredients="huile"> verser </operation> 3 cuillères d' <ingredient action="verser" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et laisser <operation> chauffer </operation> 2 minutes à feu vif , <operation ingredients="ail;persil"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> persil </ingredient> puis laisser <operation> dorer </operation> à feu moyen . <operation ingredients="pleurotes"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> pleurotes </ingredient> et laisser <operation> cuire </operation> pendant 8 minutes . <operation> saler </operation> et <operation> poivrer </operation> à la fin de la cuisson . ce plat peut s' <operation ingredients="viande;poulet"> accompagner </operation> avec de la <ingredient action="accompagner"> viande </ingredient> rouge ou un <ingredient action="accompagner"> poulet </ingredient> .
+</preparation>
+</recette>

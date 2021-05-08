@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10809">
+<titre>Tomates ardennaises</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates moyennes</p>
+<p>4 oeufs durs</p>
+<p>1 saucisson ardennais (ou à défaut, un saucisson sec)</p>
+<p>1 botte de persil</p>
+<p>15 cl de mayonnaise maison</p>
+<p>une échalote</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> evidez </operation> les <ingredient action="evider" quantite="4"> tomates </ingredient> , <operation ingredients="saucisson;échalote"> hachez </operation> le <ingredient action="hacher" quantite="1"> saucisson </ingredient> , <operation ingredients="oeufs"> écrasez </operation> les <ingredient action="écraser" quantite="4"> oeufs </ingredient> , <operation ingredients="persil"> hachez </operation> le <ingredient action="hacher"> persil </ingredient> et l' <ingredient action="hacher" quantite="1"> échalote </ingredient> . <operation ingredients="mayonnaise"> mélangez </operation> le tout avec votre <ingredient action="mélanger" quantite="15 cl"> mayonnaise </ingredient> et <operation ingredients="tomates"> remplissez </operation> les <ingredient action="remplir" quantite="4"> tomates </ingredient> . servez frais comme entrée avant un barbecue . rose frais ou beaujolais
+</preparation>
+</recette>

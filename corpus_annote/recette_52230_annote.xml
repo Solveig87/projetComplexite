@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52230">
+<titre>Salade de fruits au cacao</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oranges</p>
+<p>2 pommes</p>
+<p>1/2 ananas</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>1 cuillère à café de cacao en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;ananas"> coupez </operation> en petits morceaux les <ingredient action="couper" quantite="2"> pommes </ingredient> et l' <ingredient action="couper"> ananas </ingredient> . débitez les <ingredient quantite="3"> oranges </ingredient> en quartiers et <operation> coupez </operation> les quartiers en deux . <operation ingredients="fruits"> mettez </operation> tous les <ingredient action="mettre" quantite="3;2"> fruits </ingredient> dans un grand saladier , en y <operation ingredients="jus"> versant </operation> aussi un peu de <ingredient action="verser"> jus </ingredient> des oranges . <operation> assaisonnez </operation> d' une petite cuillère à café de cannelle moulue et d' une bonne cuillère à café de cacao amer en <operation> poudre </operation> . <operation> mélangez </operation> et <operation> mettez </operation> au réfrégirateur au moins une heure avant de consommer la <ingredient> salade </ingredient> de fruits . vous pouvez <operation ingredients="amandes"> ajouter </operation> des <ingredient action="ajouter"> amandes </ingredient> éffilées sur le dessus .
+</preparation>
+</recette>

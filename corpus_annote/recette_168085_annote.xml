@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168085">
+<titre>Gâteau au chocolat noir et aux cigarettes croustillantes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300g de farine</p>
+<p>350g de lait</p>
+<p>135g de sucre</p>
+<p>15g de sucre vanillé</p>
+<p>1 sachet de levure chimique</p>
+<p>100g de chocolat noir</p>
+<p>5 cigarettes croustillantes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> et le <ingredient action="fondre"> beurre </ingredient> , au micro-ondes ou au bain - marie . <operation ingredients="farine;levure;sucre"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme"> farine </ingredient> , la <ingredient action="mélanger"> levure </ingredient> et le <ingredient action="mélanger" quantite="135 gramme+15 gramme"> sucre </ingredient> . puis <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="350 gramme"> lait </ingredient> jusqu’ à une consistance assez liquide . pour finir , <operation ingredients="chocolat"> incorporez </operation> le <operation> mélange </operation> <ingredient action="incorporer" quantite="100 gramme"> chocolat </ingredient> et beurre <operation> fondu </operation> , puis <operation> mélangez </operation> . <operation> enfourner </operation> à 200 <operation> ° </operation> c pendant 30 minutes . enfin <operation ingredients="sucre;glace"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="135 gramme+15 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> .
+</preparation>
+</recette>

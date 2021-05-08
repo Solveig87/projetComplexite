@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57061">
+<titre>Soupe de pois cassés au chorizo</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pois cassés</p>
+<p>2 litres d'eau</p>
+<p>4 gousses d'ail</p>
+<p>un chorizo (200 g)</p>
+<p>2 cubes pour bouillon</p>
+</ingredients>
+<preparation>
+<operation ingredients="pois"> mettre </operation> les <ingredient action="mettre"> pois </ingredient> , l' <ingredient action="trancher"> ail </ingredient> <operation> épluché </operation> , le <ingredient action="trancher" quantite="1"> chorizo </ingredient> <operation ingredients="ail;chorizo;bouillon"> tranché </operation> dans une cocotte avec 2 litres d' eau et les cubes <ingredient action="trancher"> bouillon </ingredient> . faire <operation> cuire </operation> 1 heure ( attention , au-delà , l' eau s' évapore et il faut en <operation> remettre </operation> ) . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="4"> assaisonnement </ingredient> et <operation> mouliner </operation> . c' est le <ingredient quantite="1"> chorizo </ingredient> qui relève les <ingredient> pois </ingredient> un peu fades . plus le <ingredient quantite="1"> chorizo </ingredient> sera pimenté , plus votre <ingredient> soupe </ingredient> sera relevée . <ingredient> vin </ingredient> rouge un peu relevé ( <ingredient> côte </ingredient> de bourg par exemple )
+</preparation>
+</recette>

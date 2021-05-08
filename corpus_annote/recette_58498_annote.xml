@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58498">
+<titre>Asperges à la parmesane</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>asperges</p>
+<p>sel</p>
+<p>beurre</p>
+<p>fromage râpé (suivant le nombre d'asperges)</p>
+<p>parmesan (suivant le nombre d'asperges)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire" quantite=""> asperges </ingredient> à l' eau bouillante <operation> salée </operation> et les <operation> égoutter </operation> . dans un saladier <operation ingredients="fromage;parmesan;beurre"> mélanger </operation> le <ingredient action="mélanger" quantite=""> fromage </ingredient> râpé , le <ingredient action="mélanger" quantite=""> parmesan </ingredient> et le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> . sur un plat allant au four , <operation ingredients="fromages;beurre;asperges"> faire </operation> un lit du <operation> mélange </operation> <ingredient action="faire" quantite=""> fromages </ingredient> <ingredient action="faire" quantite=""> beurre </ingredient> puis un lit d' <ingredient action="faire" quantite=""> asperges </ingredient> et ainsi de suite mais terminer par un lit de la préparation . <operation> passer </operation> au four le temps de laisser prendre couleur .
+</preparation>
+</recette>

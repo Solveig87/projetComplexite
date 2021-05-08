@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51060">
+<titre>Tarte au saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 boites de saumon</p>
+<p>1 boite de bisque de homard</p>
+<p>1 pâte brisée</p>
+<p>3 oeufs entiers</p>
+<p>50 cl de crème liquide</p>
+<p>30 g de farine</p>
+<p>30 g de beurre</p>
+<p>50 cl de lait</p>
+<p>1 à 2 cuillères à soupe de persil haché</p>
+</ingredients>
+<preparation>
+préchauffer le four à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="saumon;pâte"> emietter </operation> les 3 boîtes de <ingredient action="emietter"> saumon </ingredient> sur la <ingredient action="emietter" quantite="1"> pâte </ingredient> . dans un saladier , <operation ingredients="homard;oeufs"> mélanger </operation> la bisque de <ingredient action="mélanger"> homard </ingredient> , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , la <ingredient quantite="50 cl"> crème </ingredient> liquide , du <ingredient> sel </ingredient> et du <ingredient> poivre </ingredient> . <operation ingredients="béchamel"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> : <operation ingredients="farine"> mélanger </operation> la <ingredient action="mélanger" quantite="30 gramme"> farine </ingredient> au beurre <operation> fondu </operation> sur feu doux puis <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> progressivement sans cesser de <operation> remuer </operation> , la sauce <ingredient> béchamel </ingredient> est prête lorsqu' elle a épaissi . <operation ingredients="béchamel"> ajouter </operation> la <ingredient action="ajouter"> béchamel </ingredient> au <operation> mélange </operation> précédent puis <operation ingredients="saumon"> verser </operation> sur le <ingredient action="verser"> saumon </ingredient> . <operation> saupoudrer </operation> de <ingredient action="hacher"> persil </ingredient> <operation ingredients="persil"> haché </operation> et <operation> enfourner </operation> pour 30 à 35 minutes de cuisson .
+</preparation>
+</recette>

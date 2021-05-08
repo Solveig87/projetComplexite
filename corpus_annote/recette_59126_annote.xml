@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59126">
+<titre>Gratin de dernière minute</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de thon</p>
+<p>1 boite de champignons de Paris</p>
+<p>12 olives vertes</p>
+<p>4 tranches de jambon cuit</p>
+<p>20 cl de béchamel</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon;champignons"> ouvrir </operation> la boîte de <ingredient action="ouvrir"> thon </ingredient> et la boite de <ingredient action="ouvrir"> champignons </ingredient> , que vous pouvez ou <ingredient action="rincer" quantite="1;1;4 tranche"> non </ingredient> <operation ingredients="non"> rincer </operation> . <operation> mettez </operation> ces ingrédients dans un plat allant au four et <operation ingredients="jambon"> rajoutez </operation> le <ingredient action="rajouter"> jambon </ingredient> que vous aurez préalablement <operation> découpé </operation> selon votre goût . ensuite <operation ingredients="béchamel"> préparez </operation> votre <ingredient action="préparer" quantite="20 cl"> béchamel </ingredient> avec beurre , gruyère , farine , lait . pour ma part , je <operation ingredients="lait"> fais </operation> moitié <ingredient action="faire"> lait </ingredient> moitié eau , la <ingredient quantite="20 cl"> béchamel </ingredient> est moins grasse . <operation ingredients="béchamel;gruyère"> mélangez </operation> la <ingredient action="mélanger" quantite="20 cl"> béchamel </ingredient> à vos ingrédients puis <operation> parsemez </operation> de <ingredient action="mélanger"> gruyère </ingredient> avant d' <operation> enfourner </operation> . bon appétit ! ce plat se fait en 10 minutes , si on manque d' idée ou si l' on n' apas grand chose dans le réfrigérateur . <ingredient> vin </ingredient> <ingredient> côte </ingredient> du rhone rouge
+</preparation>
+</recette>

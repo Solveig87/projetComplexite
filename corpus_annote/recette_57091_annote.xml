@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57091">
+<titre>Pâte à crêpes au beurre qui chante</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tasses de farine</p>
+<p>2 oeufs entier</p>
+<p>1 cuillère à café de levure</p>
+<p>25 g de beurre</p>
+<p>30 cl de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> verser </operation> la <ingredient action="verser"> farine </ingredient> dans un recipient . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> , puis <operation> melanger </operation> avec un fouet . <operation ingredients="oeufs"> ajouter </operation> 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> , <operation> mélanger </operation> à nouveau . <operation> ajouter </operation> 1 cuillère à café de levure , <operation> mélanger </operation> . faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="25 gramme"> beurre </ingredient> dans une casserole jusqu' à ce qu' il chante , puis le <operation ingredients="pâte"> rajouter </operation> à la <ingredient action="rajouter"> pâte </ingredient> et <operation> mélanger </operation> . si la <ingredient> pâte </ingredient> est un peu épaisse , <operation ingredients="lait"> rajouter </operation> du <ingredient action="rajouter" quantite="30 cl"> lait </ingredient> . laissez <operation> reposer </operation> 1 heure . c' est prêt .
+</preparation>
+</recette>

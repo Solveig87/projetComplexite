@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170799">
+<titre>Sorbet aux casseilles</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>25 cl d'eau</p>
+<p>200 g de sucre en poudre</p>
+<p>250 g à 300 g de jus et pulpe de casseilles (hybrides de cassis et de groseilles)</p>
+<p>1 blanc d'oeuf</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop;sucre"> préparer </operation> un <ingredient action="préparer"> sirop </ingredient> : faire <operation> bouillir </operation> l' eau et le <ingredient action="préparer" quantite="200 gramme"> sucre </ingredient> , puis faire complètement refroidir le <operation> mélange </operation> . <operation ingredients="oeuf;sel"> monter </operation> le blanc d' <ingredient action="monter"> oeuf </ingredient> en neige avec une pincée de <ingredient action="monter" quantite="1 pincée"> sel </ingredient> . faire <operation ingredients="fruits"> chauffer </operation> les <ingredient action="chauffer"> fruits </ingredient> pour pouvoir les <operation> écraser </operation> plus facilement dans un chinois . c' est l' étape la plus longue car on essaie de récupérer le plus possible de pulpe . <operation ingredients="jus;sirop;oeuf"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> et la pulpe avec le <ingredient action="mélanger"> sirop </ingredient> puis le blanc d' <ingredient action="mélanger"> oeuf </ingredient> . faire prendre en sorbetière pendant 1 h à 1 h 15 .
+</preparation>
+</recette>

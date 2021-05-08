@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58804">
+<titre>Salade de chou blanc et de carottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 demi-chou blanc (ou un entier selon la quantité)</p>
+<p>4 carottes (ou plus 8 pour le chou entier)</p>
+<p>sauce blanche</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> hacher </operation> le <ingredient action="hacher"> chou </ingredient> ( + un demi-chou encore si besoin ) puis le <operation> mettre </operation> dans un saladier . <operation ingredients="carottes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> carottes </ingredient> et les <operation> couper </operation> en lamelles . les <operation ingredients="chou"> ajouter </operation> au <ingredient action="ajouter"> chou </ingredient> haché . <operation> ajouter </operation> une sauce blanche ( par blanche je veux dire avec du <ingredient> yaourt </ingredient> par exemple ) et voilà votre bonne <ingredient> salade </ingredient> est faite !
+</preparation>
+</recette>

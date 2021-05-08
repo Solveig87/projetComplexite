@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229856">
+<titre>Gâteau roulé aux framboises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour le biscuit :</p>
+<p>3 œufs</p>
+<p>100 g de sucre fin</p>
+<p>100 g de farine</p>
+<p>1 zeste de citron</p>
+<p>Pour la crème de framboises :</p>
+<p>300 g de crème fraiche</p>
+<p>75 g de sucre glace</p>
+<p>400 g de framboises</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> séparez </operation> les jaunes des blancs d' <ingredient action="séparer"> oeufs </ingredient> . <operation ingredients="biscuit"> préparez </operation> un <ingredient action="préparer"> biscuit </ingredient> en <operation ingredients="oeufs;sucre;mousseux"> travaillant </operation> 3 jaunes d' <ingredient action="travailler"> oeufs </ingredient> avec 100 g de <ingredient action="travailler" quantite="100 gramme+75 gramme"> sucre </ingredient> semoule en <operation> mélange </operation> <ingredient action="travailler"> mousseux </ingredient> , <operation ingredients="farine"> ajoutez </operation> 100 g de <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> peu à peu , parfumez avec 1 zeste de <ingredient> citron </ingredient> <operation> râpé </operation> . <operation ingredients="œufs"> incorporez </operation> délicatement les 3 blancs des <ingredient action="incorporer" quantite="3"> œufs </ingredient> <operation> battus </operation> en neige . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> sur 1 cm d' épaisseur sur une <operation> plaque </operation> ( lèche - frite du four par exemple ) <operation> tapissée </operation> de papier de cuisson , <operation> lissez </operation> à la spatule . faites <operation> cuire </operation> 10 à 12 min à four chaud ( 200 <operation> ° </operation> c. thermostat 6 ) . <operation ingredients="biscuit;sucre"> retournez </operation> le <ingredient action="retourner"> biscuit </ingredient> sur un linge humide <operation> saupoudré </operation> de <ingredient action="retourner" quantite="100 gramme+75 gramme"> sucre </ingredient> . <operation> recouvrez </operation> d' un autre linge humide , laissez un peu <operation> tiédir </operation> puis <operation> roulez </operation> - le . maintenez - le serré dans un linge . <operation ingredients="crème;sucre;glace"> fouettez </operation> la <ingredient action="fouetter" quantite="300 gramme"> crème </ingredient> fraîche avec le <ingredient action="fouetter" quantite="100 gramme+75 gramme"> sucre </ingredient> <ingredient action="fouetter"> glace </ingredient> , <operation ingredients="framboises"> ajoutez </operation> les <ingredient action="ajouter" quantite="400 gramme"> framboises </ingredient> <operation> coupées </operation> en 2 ou 3 . <operation ingredients="biscuit"> déroulez </operation> le <ingredient action="dérouler"> biscuit </ingredient> avec précaution et <operation ingredients="crème"> garnissez </operation> - le de <ingredient action="garnir" quantite="300 gramme"> crème </ingredient> aux framboises . <operation ingredients="crème;framboises"> décorez </operation> de <ingredient action="décorer" quantite="300 gramme"> crème </ingredient> et de <ingredient action="décorer" quantite="400 gramme"> framboises </ingredient> . bon appétit !
+</preparation>
+</recette>

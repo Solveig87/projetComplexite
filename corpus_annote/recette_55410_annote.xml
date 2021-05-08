@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55410">
+<titre>Velouté de légumes lealien</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 carottes</p>
+<p>3 pommes de terre</p>
+<p>2 courgettes</p>
+<p>1 oignon</p>
+<p>1 navet</p>
+<p>1 poireau</p>
+<p>2 tomates</p>
+<p>2 cubes de bouillon pot-au-feu</p>
+<p>Crème fraîche</p>
+<p>30 g de boursin</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;tomates"> lavez </operation> et <operation> épluchez </operation> tous les <ingredient action="laver" quantite="5;3;1;1;1;2;"> légumes </ingredient> ( même les courgettes et les <ingredient action="laver" quantite="2"> tomates </ingredient> desquelles il faut aussi <operation> ôter </operation> les pépins ) . les <operation> mettre </operation> dans une cocotte , les <operation> couvrir </operation> d' eau , <operation ingredients="bouillon"> rajouter </operation> 2 cubes de <ingredient action="rajouter"> bouillon </ingredient> pot-au-feu . lorsque les <ingredient quantite="5;3;1;1;1;2;"> légumes </ingredient> sont bien mous , les <operation> mixer </operation> puis <operation ingredients="fromage;crème"> rajouter </operation> le <ingredient action="rajouter"> fromage </ingredient> et un peu de <ingredient action="rajouter" quantite=""> crème </ingredient> fraîche . a déguster sans modération . attention à la quantité d' eau . n' hésitez pas à en <operation> rajouter </operation> ou à en <operation> enlever </operation> juste avant de <operation> mixer </operation> .
+</preparation>
+</recette>

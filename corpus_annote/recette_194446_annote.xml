@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194446">
+<titre>Farce à l'italienne pour légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 brins de persil plat</p>
+<p>500 g de bœuf haché</p>
+<p>75 g de parmesan râpé</p>
+<p>le jus d'un demi citron</p>
+<p>1 œuf</p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="persil;ail"> hachez </operation> le <ingredient action="hacher"> persil </ingredient> et l' <ingredient action="hacher"> ail </ingredient> , <operation ingredients="parmesan;jus;sel;poivre;œuf"> mettez </operation> les dans un bol avec le bœuf haché , le <ingredient action="mettre" quantite="75 gramme"> parmesan </ingredient> , le <ingredient action="mettre" quantite=""> jus </ingredient> de citron , le <ingredient action="mettre"> sel </ingredient> , le <ingredient action="mettre"> poivre </ingredient> et l' <ingredient action="mettre" quantite="1"> œuf </ingredient> . <operation> mélangez </operation> les ingrédients jusqu' à ce que ce soit homogène . vérifiez l' <ingredient quantite="1"> assaisonnement </ingredient> . voila ! il n' y a plus qu' à <operation ingredients="tomate;champignon"> farcir </operation> la <ingredient action="farcir"> tomate </ingredient> ou le <ingredient action="farcir"> champignon </ingredient> .
+</preparation>
+</recette>

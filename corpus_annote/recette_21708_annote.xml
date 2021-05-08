@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21708">
+<titre>Soufflé à la banane</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>20 cl de lait</p>
+<p>70 g de sucre</p>
+<p>2 cuillères à soupe de farine</p>
+<p>30 g de beurre</p>
+<p>3 jaunes d'oeufs + 4 blancs</p>
+<p>2 cuillères à soupe de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> en rondelles , les <operation ingredients="rhum"> arroser </operation> de <ingredient action="arroser" quantite="2 cuillère à soupe"> rhum </ingredient> et laisser <operation> mariner </operation> . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="farine"> délayer </operation> la <ingredient action="délayer" quantite="2 cuillère à soupe"> farine </ingredient> dans 2 cuillères à soupe de lait froid . amener le reste du <ingredient quantite="20 cl"> lait </ingredient> à <operation> ébullition </operation> avec le <ingredient quantite="70 gramme"> sucre </ingredient> et <operation> verser </operation> d' un seul coup le <operation> mélange </operation> farine - <ingredient quantite="20 cl"> lait </ingredient> tout en <operation> remuant </operation> . laisser <operation> épaissir </operation> 2 minutes puis , hors du feu , <operation ingredients="beurre;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> et les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . <operation ingredients="bananes;oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> bananes </ingredient> et les blancs d' <ingredient action="ajouter"> oeufs </ingredient> <operation> montés </operation> en neige . <operation> verser </operation> dans un <operation> moule </operation> beurré . <operation> cuire </operation> 20 minutes , servir dès la sortie du four .
+</preparation>
+</recette>

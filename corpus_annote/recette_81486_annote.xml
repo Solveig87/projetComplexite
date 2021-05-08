@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81486">
+<titre>Champignons farcis à la ricotta, thon, tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 gros champignons </p>
+<p>1 petite boîte de thon</p>
+<p>250 g de ricotta = 1 pot</p>
+<p>2 cuillères à souep de concentré de tomates</p>
+<p>basilic, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> coupez </operation> les queues de <ingredient action="couper" quantite="8"> champignons </ingredient> , <operation ingredients="pied"> ôtez </operation> le <ingredient action="ôter"> pied </ingredient> et <operation> émincez </operation> les queues en rondelles . <operation> epluchez </operation> les chapeaux . <operation ingredients="thon;tomates;champignons;basilic"> mélangez </operation> la ricotta , le <ingredient action="mélanger"> thon </ingredient> <operation> égoutté </operation> , le <operation> concentré </operation> de <ingredient action="mélanger"> tomates </ingredient> , les queues de <ingredient action="mélanger" quantite="8"> champignons </ingredient> , le <ingredient action="mélanger" quantite=""> basilic </ingredient> , sel et poivre . <operation ingredients="coques"> garnissez </operation> les <ingredient action="garnir"> coques </ingredient> . <operation> enfournez </operation> environ 40 min à 210 <operation> ° </operation> c ( thermostat 7 ) .
+</preparation>
+</recette>

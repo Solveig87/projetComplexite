@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72081">
+<titre>Bananes flambées simples et très rapides</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes bien mûres</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 petit verre de rhum (ou de Grand Marnier)</p>
+<p>2 noisettes de beurre</p>
+<p>1 briquet ou une allumette</p>
+</ingredients>
+<preparation>
+faites <operation> chauffer </operation> une <operation> poêle </operation> , faites - y <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> et <operation ingredients="bananes"> ajoutez </operation> - y les <ingredient action="ajouter" quantite="2"> bananes </ingredient> <operation> coupées </operation> en long , faites <operation> dorer </operation> de chaque côté . <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer"> sucre </ingredient> vanillé , <operation ingredients="rhum"> versez </operation> le <ingredient action="verser"> rhum </ingredient> et faites <operation> flamber </operation> : lorsqu' il n' y aura plus de flammes , servez ! vous pouvez aussi <operation ingredients="chocolat"> ajouter </operation> un filet de coulis de <ingredient action="ajouter"> chocolat </ingredient> avant de servir .
+</preparation>
+</recette>

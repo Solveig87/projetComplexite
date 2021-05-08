@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54220">
+<titre>Civet de biche à la gelée de framboises</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de civet de biche</p>
+<p>2 oignons</p>
+<p>1 bouquet garni</p>
+<p>25 cl vin blanc</p>
+<p>200 g de gelée de framboises</p>
+<p>40 cl de crème</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation action="rôtir" ingredients="rôtir;oignons"> rôtir </operation> la biche avec les <ingredient action="rôtir" quantite="2"> oignons </ingredient> et le <ingredient action="garnir" quantite="1"> bouquet </ingredient> <operation ingredients="bouquet;sel"> garnit </operation> et <operation> assaisonner </operation> de <ingredient action="garnir" quantite=""> sel </ingredient> et poivre . ensuite <operation ingredients="vin;gelée"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> vin </ingredient> blanc et la <ingredient action="ajouter" quantite="200 gramme"> gelée </ingredient> de framboise et laisser <operation> mijoter </operation> 30 min . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> et <operation> passer </operation> la sauce au chinois pour <operation ingredients="oignon;bouquet"> retirer </operation> l' <ingredient action="retirer" quantite="2"> oignon </ingredient> et le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="viande"> réchauffer </operation> la <ingredient action="réchauffer"> viande </ingredient> dans la sauce et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> fraîche . servir ce plat avec des pâches et des <ingredient> poires </ingredient> aux airelles et des croquettes de <ingredient> pommes </ingredient> de terres . hernest et julios gallos
+</preparation>
+</recette>

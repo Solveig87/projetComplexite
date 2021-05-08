@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20429">
+<titre>Moussaka à la grecque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 aubergines</p>
+<p>300 g de boeuf haché</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>25 cl de sauce béchamel au fromage</p>
+</ingredients>
+<preparation>
+<operation> pelez </operation> et <operation ingredients="aubergines"> coupez </operation> les <ingredient action="couper" quantite="4"> aubergines </ingredient> en tranches . <operation ingredients="sel"> saupoudrez </operation> de gros <ingredient action="saupoudrer"> sel </ingredient> et laissez dégorger pendant 30 minutes . faites <operation ingredients="viande;huile;oignon;ail;persil;sel;poivre"> revenir </operation> la <ingredient action="revenir" quantite="300 gramme"> viande </ingredient> à l' <ingredient action="revenir"> huile </ingredient> d' olive avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et l' <ingredient action="revenir"> ail </ingredient> <operation> hachés </operation> , le <ingredient action="revenir" quantite="1 cuillère à soupe"> persil </ingredient> , du <ingredient action="revenir"> sel </ingredient> et du <ingredient action="revenir"> poivre </ingredient> . <operation ingredients="tomates"> ajoutez </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> et laissez <operation> cuire </operation> 30 minutes . préchauffez le four à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="aubergines"> rincez </operation> les <ingredient action="rincer" quantite="4"> aubergines </ingredient> et <operation> essuyez </operation> - les soigneusement . <operation ingredients="aubergines;viande"> disposez </operation> les <ingredient action="disposer" quantite="4"> aubergines </ingredient> et la <ingredient action="disposer" quantite="300 gramme"> viande </ingredient> en couches alternées dans un plat à four . terminez par des <ingredient action="nappez" quantite="4"> aubergines </ingredient> , <operation ingredients="aubergines;béchamel"> nappez </operation> de sauce <ingredient action="nappez" quantite="25 cl"> béchamel </ingredient> au fromage et <operation> enfournez </operation> 3 . 35 jusqu' à ce que le dessus soit gratiné .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12433">
+<titre>Caille farcie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 ou 2 cailles par personnes</p>
+<p>1 barquette de lardons</p>
+<p>1 petit suisse par personne</p>
+<p>sel, poivre</p>
+<p>persil frais haché</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+en fait , on peut <operation ingredients="cailles"> farcir </operation> les <ingredient action="farcir" quantite="1"> cailles </ingredient> de plusieurs façons , je les <operation> prépare </operation> comme suit . . . <operation ingredients="lardons;persil;poivre;sel"> mélanger </operation> dans une terrine les <ingredient action="mélanger"> lardons </ingredient> , les petits suisses , le <ingredient action="mélanger"> persil </ingredient> et du <ingredient action="mélanger" quantite=""> poivre </ingredient> , un peu de <ingredient action="mélanger" quantite=""> sel </ingredient> si nécessaire . <operation ingredients="cailles"> farcir </operation> les <ingredient action="farcir" quantite="1"> cailles </ingredient> avec la préparation , les <operation> disposer </operation> dans un plat à four et <operation> mettre </operation> à cuir au four pendant 4 . 50 minutes ( thermostat 7 ) . <operation ingredients="caille"> disposer </operation> sur chaque <ingredient action="disposer" quantite="1"> caille </ingredient> une noisette de beurre et <operation> arroser </operation> en cours de cuisson pour éviter que les <ingredient quantite="1"> cailles </ingredient> ne sèchent . ndlr : une idée pour votre recette de noel .
+</preparation>
+</recette>

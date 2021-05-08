@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51883">
+<titre>Ccrêpes à l'ancienne</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>1 bonne pincée de sel</p>
+<p>un peu de cannelle</p>
+<p>1/2 paquet de sucre vanillé</p>
+<p>3 œufs</p>
+<p>25 cl de lait</p>
+<p>25 cl d'eau</p>
+<p>25 g de levure fraîche</p>
+<p>1 cuillère à soupe de sucre fin</p>
+<p>75 g de beurre</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1,5 cuillère à soupe de rhum</p>
+</ingredients>
+<preparation>
+dans un grand récipient , <operation ingredients="cannelle"> mélanger </operation> la <ingredient action="mélanger"> cannelle </ingredient> , la <ingredient quantite="250 gramme"> farine </ingredient> , le <ingredient> sel </ingredient> et le <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> vanillé . <operation ingredients="œufs;lait"> délayer </operation> les <ingredient action="délayer" quantite="3"> œufs </ingredient> puis le liquide ( eau + <ingredient action="délayer" quantite="25 cl"> lait </ingredient> ) . dans un bol : <operation ingredients="levure;sucre"> préparer </operation> la <ingredient action="préparer" quantite="25 gramme"> levure </ingredient> avec le <ingredient action="préparer" quantite="1 cuillère à soupe"> sucre </ingredient> fin et un peu du liquide ( à peine tiède ) et le <operation> verser </operation> dans la marmite . puis <operation ingredients="beurre;huile;rhum"> verser </operation> le <ingredient action="verser" quantite="75 gramme"> beurre </ingredient> <operation> fondu </operation> , l' <ingredient action="verser" quantite="2 cuillère à soupe"> huile </ingredient> et le <ingredient action="verser" quantite="1,5 cuillère à soupe"> rhum </ingredient> . bien <operation> battre </operation> et laisser <operation> reposer </operation> environ une heure avec un torchon au dessus du récipient . attention , la <ingredient> pâte </ingredient> gonfle beaucoup .
+</preparation>
+</recette>

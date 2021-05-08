@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39976">
+<titre>Tartines thon et avocat</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 avocat bien mûr</p>
+<p>1 petit pot de tapenade d'olives noires</p>
+<p>1 boîte de thon à l'huile</p>
+<p>4 grandes tranches de pain</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> tartiner </operation> les tranches de <ingredient action="tartiner"> pain </ingredient> de tapenade . <operation ingredients="avocat"> écraser </operation> l' <ingredient action="écraser" quantite="1"> avocat </ingredient> en purée et étaler sur la tapenade en essayant de ne pas <operation> mélanger </operation> ( couleur bizarre ) . <operation ingredients="thon"> ajouter </operation> par dessus le <ingredient action="ajouter"> thon </ingredient> <operation> émietté </operation> . super bon et pourtant il n' y a pas de <ingredient> fromage </ingredient> , ce qui reste assez rare pour des tartines !
+</preparation>
+</recette>

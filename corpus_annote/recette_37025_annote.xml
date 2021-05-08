@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37025">
+<titre>Cake au thon à la tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>25 cl de lait</p>
+<p>100 g de gruyère râpé</p>
+<p>3 cuillères à soupe de farine</p>
+<p>150 g de thon au naturel</p>
+<p>100 g de thon à la tomate</p>
+<p>3 oeufs</p>
+<p>1 sachet de levure chimique</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> . <operation ingredients="levure"> placer </operation> les ingrédients dans un saladier , sauf la <ingredient action="placer"> levure </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="oeufs"> incorporer </operation> les <ingredient action="incorporer" quantite="3"> oeufs </ingredient> <operation> battus </operation> , bien <operation> mélanger </operation> , puis <operation ingredients="levure"> rajouter </operation> la <ingredient action="rajouter"> levure </ingredient> . <operation> placer </operation> le tout dans une <operation> moule </operation> à cake bien beurré . <operation> mettre </operation> au four bien chaud ( préchauffé à thermostat 5 / 6 , soit 165 <operation> ° </operation> c ) environ 50 min . servir avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

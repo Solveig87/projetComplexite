@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15911">
+<titre>Soupe au riz</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros oignon</p>
+<p>1 branche de thym,</p>
+<p>1 feuille de laurier</p>
+<p>1 tasse de riz blanc</p>
+<p>1 cuillère à soupe de beurre</p>
+<p>sel, poivre</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>1 l de bouillon de volaille</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en morceaux , le faire <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir" quantite="1 cuillère à soupe"> beurre </ingredient> <operation> fondu </operation> . lorsqu' il commence à devenir transparent , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="bouillon;thym;laurier"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . <operation> poivrer </operation> . <operation ingredients="tomates"> diluer </operation> le <operation> concentré </operation> de <ingredient action="diluer"> tomates </ingredient> et laisser <operation> cuire </operation> une vingtaine de minutes . <operation> saler </operation> . <operation ingredients="persil"> garnir </operation> les bols de pluches de <ingredient action="garnir" quantite=""> persil </ingredient> . c' est une <ingredient> soupe </ingredient> que me faisait ma grand-mère . nourrissante en hiver et peu onéreuse .
+</preparation>
+</recette>

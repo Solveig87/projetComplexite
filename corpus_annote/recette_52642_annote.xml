@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52642">
+<titre>Soupe de légumes aux épices</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron</p>
+<p>2 courgettes</p>
+<p>1 échalote</p>
+<p>2 pommes de terre</p>
+<p>3 gros champignons</p>
+<p>safran</p>
+<p>cumin</p>
+<p>coriandre</p>
+<p>crème fraîche</p>
+<p>gros sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="1;1;2;3;"> légumes </ingredient> en petits morceaux , les <operation> mettre </operation> dans une marmite et les <operation> recouvrir </operation> d' eau . laisser <operation> bouillir </operation> pendant 30 min , puis <operation> mixer </operation> . <operation ingredients="coriandre;cumin;sel"> ajouter </operation> 2 cuillères à soupe de crème fraîche , 1 cuillère à café de safran , 1 pincée de <ingredient action="ajouter" quantite=""> coriandre </ingredient> , 2 pincées de <ingredient action="ajouter" quantite=""> cumin </ingredient> et 2 pincées de gros <ingredient action="ajouter" quantite=""> sel </ingredient> . bien <operation> mélanger </operation> .
+</preparation>
+</recette>

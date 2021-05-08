@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21131">
+<titre>Soupe glacée au concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de fromage blanc à 0 %</p>
+<p>50 ml de lait écrémé</p>
+<p>500 g de concombre</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>quelques feuilles de menthe</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de paprika</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> epluchez </operation> le <ingredient action="eplucher" quantite="500 gramme"> concombre </ingredient> , <operation> épépinez </operation> - le et <operation> découpez </operation> - le en fines lamelles . dans une passoire , <operation ingredients="concombre"> déposez </operation> le <ingredient action="déposer" quantite="500 gramme"> concombre </ingredient> et <operation ingredients="sel"> ajoutez </operation> 1 cuillère à soupe de gros <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> ; <operation> mélangez </operation> et laissez dégorger une heure . dans le bol du mixeur , <operation ingredients="lait;fromage;huile;menthe;paprika;sel"> mélangez </operation> le <ingredient action="mélanger"> lait </ingredient> écrémé , le <ingredient action="mélanger" quantite="300 gramme"> fromage </ingredient> blanc , l' <ingredient action="mélanger" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , la <ingredient action="mélanger" quantite="quelque feuille"> menthe </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> paprika </ingredient> , et le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> . <operation ingredients="concombre"> pressez </operation> le <ingredient action="presser" quantite="500 gramme"> concombre </ingredient> avec les mains pour <operation> retirer </operation> toute l' eau , et <operation> ajoutez </operation> - le dans le bol du mixeur ; <operation> mixez </operation> le tout et <operation> réservez </operation> au froid . <operation> présentez </operation> dans des assiettes creuses , <operation ingredients="menthe"> décorées </operation> de feuilles de <ingredient action="décorer" quantite="quelque feuille"> menthe </ingredient> fraîche .
+</preparation>
+</recette>

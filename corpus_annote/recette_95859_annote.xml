@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95859">
+<titre>Pizza (map) jambon raclette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte à pizza :- 250g de farine  </p>
+<p>1 pincée de sel</p>
+<p>4 cs d'huile d'olive</p>
+<p>15cl d'eau tiède</p>
+<p>1 sachet de levure de boulanger sèche</p>
+<p>Pour la garniture : - 6 tranches de raclette (env. 130g)</p>
+<p>150g d'allumettes de jambon </p>
+<p>6 rondelles de tomates </p>
+<p>1 filet d'huile d'olive</p>
+<p>poivre (facultatif)</p>
+<p>origan</p>
+</ingredients>
+<preparation>
+<ingredient> pâte </ingredient> à pizza : <operation ingredients="huile;farine;levure"> mettre </operation> les ingrédients dans la machine à pain dans l' ordre suivant : l' eau , l' <ingredient action="mettre"> huile </ingredient> d' olive , sel , la <ingredient action="mettre"> farine </ingredient> et la <ingredient action="mettre"> levure </ingredient> . <operation> mettre </operation> sur le programme pâte et laisser minimum une demi heure . <operation> passez </operation> ce temps , <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> sur un plan <operation> fariné </operation> et l' <operation> aplatir </operation> doucement au rouleau en rectangle . sur un <operation> plaque </operation> rectangulaire , <operation> mettre </operation> du papier sulfurisé et <operation ingredients="pâte"> déposer </operation> la <ingredient action="déposer"> pâte </ingredient> . garniture : <operation ingredients="pâte"> poser </operation> les 6 tranches de raclette , sans croûte , sur la <ingredient action="poser"> pâte </ingredient> en les espaçant un peu ( en 2 rangées de 3 ) . <operation ingredients="tomates;fromage;origan;huile"> poivrez </operation> légèrement et <operation ingredients="jambon"> ajouter </operation> les allumettes de <ingredient action="ajouter"> jambon </ingredient> , les rondelles de <ingredient action="poivrer"> tomates </ingredient> sur chaque <ingredient action="poivrer"> fromage </ingredient> , l' <ingredient action="poivrer" quantite=""> origan </ingredient> et le filet d' <ingredient action="poivrer"> huile </ingredient> d' olive . <operation> enfournez </operation> 15 mn à 210 <operation> ° </operation> c. vous pouvez <operation ingredients="oignon;fromage"> ajouter </operation> un <ingredient action="ajouter"> oignon </ingredient> sur le <ingredient action="ajouter"> fromage </ingredient> . attention à la cuisson car 15 min elle reste tendre et moelleuse mais à partir de 20 min elle sèche !
+</preparation>
+</recette>

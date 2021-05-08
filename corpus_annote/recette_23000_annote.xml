@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23000">
+<titre>Cassolettes de St Jacques</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 assiette pleine de carottes râpées</p>
+<p>1 assiette pleine de champignons émincés</p>
+<p>1 assiette pleine de céleri râpé</p>
+<p>5-6 feuilles d'estragon, hachées finements</p>
+<p>1 oeuf</p>
+<p>80 g de beurre</p>
+<p>1 petit verre de Porto</p>
+<p>1 sachet de noix de St Jacques</p>
+<p>2 grosses cuillerées de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="80 gramme"> beurre </ingredient> , <operation ingredients="carottes"> mettre </operation> les <ingredient action="mettre"> carottes </ingredient> et laisser <operation> cuire </operation> 3 mn . <operation ingredients="céleri;champignons"> ajouter </operation> le <ingredient action="ajouter"> céleri </ingredient> , laisser <operation> cuire </operation> 3 mn , puis les <ingredient action="ajouter"> champignons </ingredient> . <operation ingredients="estragon"> mettre </operation> l' <ingredient action="mettre"> estragon </ingredient> , le <ingredient> porto </ingredient> . <operation> mélanger </operation> et <operation> cuire </operation> 2 mn . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche , le jaune d' <ingredient action="cuire" quantite="1"> oeuf </ingredient> et <operation ingredients="oeuf"> cuire </operation> 5 mn . a la fin , <operation ingredients="noix"> mettre </operation> les <ingredient action="mettre"> noix </ingredient> de st jacques et laisser <operation> cuire </operation> 5 mn . peut être <operation> préparé </operation> à l' avance et <operation> réchauffé </operation> au four , <operation> couvert </operation> avec un aluminium .
+</preparation>
+</recette>

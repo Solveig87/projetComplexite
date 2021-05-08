@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65812">
+<titre>Potage poireaux-carottes-pommes de terre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 poireaux</p>
+<p>5 pommes de terre</p>
+<p>3 carottes</p>
+<p>1 oignon</p>
+<p>1 L d'eau</p>
+<p>50 cl de lait</p>
+<p>2 cubes de bouillon de volaille</p>
+<p>50 g de beurre</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> les <ingredient quantite="4"> poireaux </ingredient> et <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une marmite et y faire <operation ingredients="poireaux;oignon"> revenir </operation> les <ingredient action="revenir" quantite="4"> poireaux </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . <operation> laver </operation> , <operation ingredients="pommes;carottes"> éplucher </operation> et <operation> couper </operation> en petits morceaux les <ingredient action="éplucher" quantite="5"> pommes </ingredient> de terre et les <ingredient action="éplucher" quantite="3"> carottes </ingredient> puis les <operation> rajouter </operation> dans la marmite . <operation ingredients="lait;bouillons;poivre"> ajouter </operation> l' eau , le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> , les 2 cubes de <ingredient action="ajouter"> bouillons </ingredient> de volaille et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> 30 min dans la marmite ( ou 15 min dans une cocotte minute ) . <operation> mixer </operation> le tout . . . c' est prêt !
+</preparation>
+</recette>

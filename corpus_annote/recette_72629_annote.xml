@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72629">
+<titre>Spaghetti aux asperges, artichauts et pignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>spaghetti (500 g)</p>
+<p>coeurs d'artichaut (1 boîte)</p>
+<p>pointes d'asperges vertes (1 boîte)</p>
+<p>pignons de pin (20 g environ)</p>
+<p>huile d'olive</p>
+<p>basilic</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . pendant ce temps , faites <operation ingredients="pignons;huile"> griller </operation> les <ingredient action="griller" quantite=""> pignons </ingredient> de pin à l' <ingredient action="griller" quantite=""> huile </ingredient> d' olive dans une <operation> poêle </operation> . <operation ingredients="asperges;coeurs"> egouttez </operation> bien les <ingredient action="egouttez"> asperges </ingredient> et les <ingredient action="egouttez" quantite=""> coeurs </ingredient> d' artichaut et <operation> coupez </operation> - les en morceaux si besoin . <operation ingredients="artichauts;asperges;pignons"> saisissez </operation> les <ingredient action="saisir"> artichauts </ingredient> et les <ingredient action="saisir"> asperges </ingredient> dans la <operation> poêle </operation> avec les <ingredient action="saisir" quantite=""> pignons </ingredient> pendant 1 min ( pas plus ) . <operation> assaisonnez </operation> . <operation ingredients="pâtes"> versez </operation> les <ingredient action="verser"> pâtes </ingredient> dans la <operation> poêle </operation> et faites " <operation> revenir </operation> " 1 à 2 min . <operation ingredients="basilic;parmesan"> ajoutez </operation> du <ingredient action="ajouter" quantite=""> basilic </ingredient> et du <ingredient action="ajouter" quantite=""> parmesan </ingredient> si vous aimez .
+</preparation>
+</recette>

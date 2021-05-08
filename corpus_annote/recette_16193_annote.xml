@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16193">
+<titre>Gaspacho (Andalousie)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>9 tomates bien mûres</p>
+<p>1.5 poivron rouge</p>
+<p>1.5 poivron vert</p>
+<p>1.5 concombre</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>4 oignons nouveaux</p>
+<p>2 cuillères à soupe de vinaigre de Xérès</p>
+<p>1 tranche de pain de mie</p>
+<p>2 œufs durs</p>
+<p>basilic frais</p>
+<p>huile d'olive, sel poivre et piment</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="9"> tomates </ingredient> , 1 <ingredient action="passer"> poivron </ingredient> vert et un rouge , 1 <ingredient action="passer"> concombre </ingredient> , l' <ingredient action="passer" quantite="1+4"> oignon </ingredient> et l' <ingredient action="passer"> ail </ingredient> , <operation ingredients="poivron;concombre;oignon;ail"> passer </operation> le tout au <operation> mixer </operation> . <operation ingredients="pain"> ajouter </operation> le <ingredient action="ajouter" quantite="1 tranche"> pain </ingredient> de mie , <operation> mixer </operation> une nouvelle fois . <operation ingredients="sel"> assaisonner </operation> avec <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre , 4 cuillères à soupe d' huile d' olive , 2 cuillères à soupe de vinaigre de xérès et de piment ( selon les goûts ) . laisser <operation> reposer </operation> au frais au minimum 2 heures . <operation ingredients="poivrons;oignons"> détailler </operation> en petits dés <ingredient action="détailler"> poivrons </ingredient> et concombre restants ainsi que les <ingredient action="détailler" quantite="1+4"> oignons </ingredient> nouveaux . <operation ingredients="oeufs"> ecraser </operation> les <ingredient action="ecraser"> oeufs </ingredient> durs à la fourchette . <operation ingredients="soupe"> parsemer </operation> la <ingredient action="parsemer"> soupe </ingredient> de basilic <operation> ciselé </operation> . <operation> disposer </operation> les garnitures dans des ramequins et chacun <operation> accommodera </operation> son gaspacho selon ses goûts . personnellement , je préfère avec plus de <ingredient quantite="2 cuillère à soupe"> vinaigre </ingredient> de xérès .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23858">
+<titre>Sole à l'indienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>8 filets de sole</p>
+<p>1 petit oignon frais</p>
+<p>1 gousse d'ail</p>
+<p>1 tomate</p>
+<p>1 yaourt nature et demi</p>
+<p>1 cuillère à café de gingembre en poudre</p>
+<p>1/2 cuillère à café de cumin en poudre</p>
+<p>1 pincée de sucre</p>
+<p>4 gouttes de tabasco</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> ebouillantez </operation> la <ingredient action="ebouillanter" quantite="1"> tomate </ingredient> , <operation> égouttez </operation> - la et <operation> pelez </operation> - la . <operation> coupez </operation> - la en deux , puis <operation> pressez </operation> - la doucement pour <operation> ôter </operation> les graines . dans le bol d' un robot mixeur , réunissez la <ingredient quantite="1"> tomate </ingredient> , l' <ingredient quantite="1"> oignon </ingredient> et l' <ingredient action="peler"> ail </ingredient> <operation ingredients="ail"> pelé </operation> <operation> mixez </operation> pour <operation> lissez </operation> le <operation> mélange </operation> . <operation ingredients="yaourt;poivre;sel;épices;sucre;tabasco"> incorporez </operation> ensuite le <ingredient action="incorporer" quantite="1"> yaourt </ingredient> et demi , le <ingredient action="incorporer"> poivre </ingredient> , le <ingredient action="incorporer" quantite=""> sel </ingredient> , les <ingredient action="incorporer" quantite="1;1 cuillère à café;"> épices </ingredient> , le <ingredient action="incorporer" quantite="1 pincée"> sucre </ingredient> et le <ingredient action="incorporer"> tabasco </ingredient> . <operation> remettez </operation> la sauce au réfrigérateur . pendant ce temps , faites <operation ingredients="sole"> cuire </operation> les filets de <ingredient action="cuire"> sole </ingredient> à la vapeur , que vous servirez nappés de cette sauce bien fraîche . servez avec du <ingredient> riz </ingredient> blanc ou des <ingredient quantite="1"> tomates </ingredient> <operation> concassées </operation> , <operation ingredients="poireaux"> accompagnées </operation> de <ingredient action="accompagner"> poireaux </ingredient> <operation> émincés </operation> et étuvés en cocotte . ce plat peut aussi se <operation ingredients="poisson"> préparer </operation> avec n' importe quel filet de <ingredient action="préparer"> poisson </ingredient> .
+</preparation>
+</recette>

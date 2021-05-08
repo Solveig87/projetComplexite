@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22486">
+<titre>Tarte au citron meringuée (rapide)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte sucrée</p>
+<p>une boîte de lait concentré sucré</p>
+<p>3 oeufs</p>
+<p>2 citrons</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> cuire </operation> la <ingredient action="cuire" quantite=""> pâte </ingredient> à blanc pendant 15 mn à 250 <operation> ° </operation> c. dans un saladier <operation ingredients="lait;jus;citrons"> mélanger </operation> la boîte de <ingredient action="mélanger"> lait </ingredient> <operation> concentré </operation> <operation> sucré </operation> avec le zeste et le <ingredient action="mélanger"> jus </ingredient> des 2 <ingredient action="mélanger" quantite="2"> citrons </ingredient> , <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter" quantite="3"> oeufs </ingredient> . <operation> monter </operation> les blancs en neige <operation ingredients="sucre;glace"> ajouter </operation> du <ingredient action="ajouter" quantite=""> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> . <operation ingredients="tarte;crème"> garnir </operation> le fond de <ingredient action="garnir"> tarte </ingredient> avec la <ingredient action="garnir"> crème </ingredient> et <operation ingredients="oeufs"> recouvrir </operation> avec les blancs d' <ingredient action="recouvrir" quantite="3"> oeufs </ingredient> . <operation> cuire </operation> à nouveau pendant 15 mn à 150 <operation> ° </operation> c de façon à <operation> colorer </operation> la meringue .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83555">
+<titre>Tomates surprise au chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>1 buche de fromage de chèvre</p>
+<p>4 œufs</p>
+<p>1 grosse échalote</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> vider </operation> les <ingredient action="vider" quantite="4"> tomates </ingredient> en <operation> réservant </operation> les chapeaux . <operation ingredients="tomate;chèvre"> placer </operation> dans chaque <ingredient action="placer" quantite="4"> tomate </ingredient> une rondelle de buche de <ingredient action="placer"> chèvre </ingredient> , <operation ingredients="échalotes"> parsemer </operation> d' <ingredient action="parsemer" quantite="1"> échalotes </ingredient> , <operation> émincées </operation> et <operation ingredients="tomate;œuf"> remplir </operation> chaque <ingredient action="remplir" quantite="4"> tomate </ingredient> avec l' <ingredient action="remplir" quantite="4"> œuf </ingredient> <operation> battu </operation> en omelette . <operation ingredients="tomate"> recouvrir </operation> chaque <ingredient action="recouvrir" quantite="4"> tomate </ingredient> avec son chapeau et <operation> enfourner </operation> 15 min dans un four à 160 <operation> ° </operation> c ( thermostat 5 ) .
+</preparation>
+</recette>

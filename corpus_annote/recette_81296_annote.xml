@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81296">
+<titre>Croque Jura</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de filet de bacon</p>
+<p>4 tranches de pain de campagne</p>
+<p>4 tranches de comté</p>
+<p>50 g de bleu</p>
+<p>25 g de beurre</p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;gousse"> frottez </operation> les tranches de <ingredient action="frotter" quantite="4 tranche"> pain </ingredient> avec la <ingredient action="frotter" quantite="1"> gousse </ingredient> d' ail , <operation> beurrez </operation> - les , <operation ingredients="bacon"> garnissez </operation> - les des tranches de <ingredient action="garnissez"> bacon </ingredient> . <operation ingredients="comté;bleu"> recouvrez </operation> avec une tranches de <ingredient action="recouvrir" quantite="4 tranche"> comté </ingredient> et du <ingredient action="recouvrir" quantite="50 gramme"> bleu </ingredient> <operation> émietté </operation> , puis <operation> mettez </operation> sous le gril . servez les tartines bien dorées et <operation ingredients="salade"> accompagnées </operation> de quelques feuilles de <ingredient action="accompagner"> salade </ingredient> . pour étoffer le plat , <operation ingredients="têtes"> rajoutez </operation> des <ingredient action="rajouter"> têtes </ingredient> de champignons de paris <operation> gratinés </operation> , <operation ingredients="oignon"> coupez </operation> finement 1 <ingredient action="couper"> oignon </ingredient> cru . <operation> déposez </operation> le tout dans l' assiette .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38131">
+<titre>Gnocchi sauce muscade</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>des gnocchi vendus au rayon frais (200/250g)</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>gruyère ou parmesan rapé</p>
+<p>2 ou 3 pincées de muscade râpée</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gnocchis"> cuire </operation> les <ingredient action="cuire" quantite=""> gnocchis </ingredient> selon le mode de cuisson indiqué sur l' emballage ( le plus souvent , 1 min dans l' eau bouillante ) . les <operation> retirer </operation> de l' eau lorsqu' ils remontent à la surface . les <operation ingredients="muscade;fromage;sel;poivre"> remettre </operation> dans la casserole et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche , la <ingredient action="remettre"> muscade </ingredient> , un peu du <ingredient action="remettre"> fromage </ingredient> , le <ingredient action="remettre" quantite=""> sel </ingredient> et le <ingredient action="remettre"> poivre </ingredient> . <operation> mélanger </operation> . <operation> verser </operation> le tout dans un plat allant au four et <operation ingredients="fromage;gruyère;parmesan"> parsemer </operation> du restant de <ingredient action="parsemer"> fromage </ingredient> ( un peu de <ingredient action="parsemer" quantite=""> gruyère </ingredient> et de <ingredient action="parsemer"> parmesan </ingredient> , c' est encore meilleur ! ! ! ) <operation> passer </operation> sous le grill du four de 3 à 5 min pour <operation> gratiner </operation> . servir bien chaud et croustillant avec une <ingredient> salade </ingredient> verte . pour un soir , c' est extra ! ! ! blanc
+</preparation>
+</recette>

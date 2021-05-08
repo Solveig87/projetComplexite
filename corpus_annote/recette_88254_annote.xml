@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88254">
+<titre>Crème de ma grand-mère au chocolat blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat blanc à cuisiner</p>
+<p>150 g de sucre</p>
+<p>50 g de farine</p>
+<p>2 oeufs entiers</p>
+<p>3 jaunes d'oeuf</p>
+<p>1 litre de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> faites </operation> <operation> bouillir </operation> le <ingredient action="faire" quantite="1 litre"> lait </ingredient> . pendant ce temps , <operation ingredients="oeufs;sucre;farine"> mélangez </operation> les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> puis avec la <ingredient action="mélanger" quantite="50 gramme"> farine </ingredient> . quand le <ingredient quantite="1 litre"> lait </ingredient> bout , y <operation> ajouter </operation> ce <operation> mélange </operation> en <operation> remuant </operation> bien et <operation ingredients="bouillons"> remettre </operation> sur le feu jusqu' aux premiers <ingredient action="remettre"> bouillons </ingredient> . attendre quelques secondes après les premiers <ingredient> bouillons </ingredient> pour que la <ingredient> crème </ingredient> épaississe . sortir du feu , <operation ingredients="chocolat;carrés"> mettre </operation> le <ingredient action="mettre" quantite="200 gramme"> chocolat </ingredient> blanc en <ingredient action="mettre"> carrés </ingredient> et <operation> remuer </operation> jusqu' à ce qu' il <operation> fonde </operation> entièrement . <operation> verser </operation> dans un plat ou dans des petits ramequins . laisser refroidir la <ingredient> crème </ingredient> avant de la consommer . <ingredient> sauternes </ingredient> , monbazillac , jurançon . . . . tous les blancs <operation> sucrés </operation>
+</preparation>
+</recette>

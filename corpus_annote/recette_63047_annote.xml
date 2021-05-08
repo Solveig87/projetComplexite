@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63047">
+<titre>Purée de légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courgette</p>
+<p>4 carottes</p>
+<p>2 poireaux</p>
+<p>1 navet</p>
+<p>1 cube de bouillon de boeuf dégraissé</p>
+<p>125 ml de soja cuisine</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> nettoyer </operation> les <ingredient action="nettoyer" quantite="4;2;1"> légumes </ingredient> , les <operation> couper </operation> en morceaux ou rondelles . pour les <ingredient quantite="2"> poireaux </ingredient> , <operation> retirer </operation> le maximun de vert . <operation ingredients="légumes;bouillon;sel"> mettre </operation> les <ingredient action="mettre" quantite="4;2;1"> légumes </ingredient> dans un fait - tout avec le <ingredient action="mettre"> bouillon </ingredient> et du gros <ingredient action="mettre"> sel </ingredient> , <operation ingredients="légumes"> recouvrir </operation> les <ingredient action="recouvrir" quantite="4;2;1"> légumes </ingredient> d' eau et laisser <operation> cuire </operation> 40 minutes . vérifier que les <ingredient action="cuire" quantite="4;2;1"> légumes </ingredient> sont <operation ingredients="légumes;couteau"> cuits </operation> en les piquant avec la pointe d' un <ingredient action="cuire"> couteau </ingredient> . les <operation> mixer </operation> avec le soja . servir chaud . recette light qu' on peut faire lorsqu' on est au régime . . .
+</preparation>
+</recette>

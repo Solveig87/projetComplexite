@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21327">
+<titre>Crêpe chaud froid</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 cuillère d'alcool de poire</p>
+<p>1 crêpe</p>
+<p>1 poire</p>
+<p>sucre vanillé</p>
+<p>1 cuillère à café de beurre</p>
+<p>1 cuillère à soupe de chantilly</p>
+<p>2 boules de glace raisins-rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="crêpe"> faire </operation> une <ingredient action="faire" quantite="1"> crêpe </ingredient> . <operation> eplucher </operation> la <ingredient action="enlever" quantite="1"> poire </ingredient> , <operation ingredients="poire"> enlever </operation> les pépins , la <operation> couper </operation> en petits cubes , la <operation ingredients="beurre;sucre"> mettre </operation> dans la <operation> poêle </operation> avec le <ingredient action="mettre" quantite="1 cuillère à café"> beurre </ingredient> et le <ingredient action="mettre" quantite=""> sucre </ingredient> . faire <operation> revenir </operation> le tout comme pour la <ingredient> tarte </ingredient> tatin 5 mn ; <operation ingredients="sucre"> incorporer </operation> le <ingredient action="incorporer" quantite=""> sucre </ingredient> vanillé dans la composition . prendre le tout , le <operation ingredients="crêpe"> mettre </operation> dans la <ingredient action="mettre" quantite="1"> crêpe </ingredient> et <operation> refermer </operation> comme une aumonière . <operation ingredients="glace"> préparez </operation> la veille des boules de <ingredient action="préparer"> glace </ingredient> sur un film qu' on <operation> met </operation> au congélateur . <operation ingredients="crêpe"> mettre </operation> la <ingredient action="mettre" quantite="1"> crêpe </ingredient> <operation> garnie </operation> dans une assiette à dessert ; <operation ingredients="glace;chantilly"> décorez </operation> les boules de <ingredient action="décorer"> glace </ingredient> avec la <ingredient action="décorer" quantite="1 cuillère à soupe"> chantilly </ingredient> . <operation ingredients="poire"> chauffer </operation> l' alcool de <ingredient action="chauffer" quantite="1"> poire </ingredient> pour <operation ingredients="crêpes"> flamber </operation> les <ingredient action="flamber" quantite="1"> crêpes </ingredient> et servir de suite . peut se <operation ingredients="fruits"> faire </operation> avec tout les <ingredient action="faire" quantite="1"> fruits </ingredient> . champagne
+</preparation>
+</recette>

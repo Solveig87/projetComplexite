@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37600">
+<titre>Pâtes au cognac</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 grosse boîte de tomates pelées</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1/2 carotte</p>
+<p>1 petit morceau de branche de céleri</p>
+<p>1 petit verre (digestif) de cognac</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>parmesan</p>
+<p>1 paquet de spaghetti</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , <operation ingredients="céleri;carotte"> rajouter </operation> le <ingredient action="rajouter"> céleri </ingredient> et la <ingredient action="rajouter"> carotte </ingredient> <operation> coupés </operation> en tous petits dés . <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter"> tomates </ingredient> également <operation> coupées </operation> en morceaux et l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> . en faire une sauce tomate . faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire"> spaghetti </ingredient> le temps inscrit sur le paquet . une fois la sauce <operation> réduite </operation> , <operation ingredients="cognac;crème;parmesan"> rajouter </operation> le <ingredient action="rajouter"> cognac </ingredient> , la <ingredient action="rajouter" quantite="4 cuillère à soupe"> crème </ingredient> et le <ingredient action="rajouter" quantite=""> parmesan </ingredient> . <operation ingredients="spaghetti"> egoutter </operation> les <ingredient action="egoutter"> spaghetti </ingredient> , <operation> ajouter </operation> la sauce . servir très chaud en saupoudrant de <ingredient> basilic </ingredient> frais haché . chianti
+</preparation>
+</recette>

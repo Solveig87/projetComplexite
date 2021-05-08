@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16115">
+<titre>Alicuit</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>abats de canard ou d'oie (ailerons, cou, carcarcasse)</p>
+<p>1 oignon</p>
+<p>3 carottes (coupées en rondelles)</p>
+<p>1 navet (coupé en tranche fines)</p>
+<p>champignons secs (à faire tremper dans eau chaude)</p>
+<p>1 petit sachet d'olives</p>
+<p>5 pommes de terre</p>
+<p>1 cuillère à soupe de farine</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite=""> viande </ingredient> avec 1 cuillère à soupe de farine et <operation> remuer </operation> . faire <operation ingredients="viande"> dorer </operation> la <ingredient action="dorer" quantite=""> viande </ingredient> . <operation> délayer </operation> ensuite avec un verre d' eau puis <operation> recouvrir </operation> d' eau chaude . pendant que la <ingredient action="cuire" quantite=""> viande </ingredient> <operation ingredients="viande"> cuit </operation> , faire <operation ingredients="oignon"> dorer </operation> <ingredient action="dorer" quantite="1"> oignon </ingredient> , carottes , navet , dans une poële puis les <operation> ajouter </operation> dans la cocotte où <operation ingredients="viande"> cuit </operation> la <ingredient action="cuire" quantite=""> viande </ingredient> . y <operation ingredients="champignons;jus;olives;jus"> incorporer </operation> les <ingredient action="incorporer" quantite=""> champignons </ingredient> et leur <ingredient action="incorporer"> jus </ingredient> , ainsi que les <ingredient action="incorporer"> olives </ingredient> ( sans le <ingredient action="incorporer"> jus </ingredient> ) . laisser <operation> cuire </operation> le tout pendant 1 heure . <operation ingredients="pommes"> rajouter </operation> les <ingredient action="rajouter" quantite="5"> pommes </ingredient> de terre <operation> coupées </operation> en gros morceaux et finir de <operation ingredients="pommes"> cuire </operation> jusqu' à la cuisson des <ingredient action="cuire" quantite="5"> pommes </ingredient> de terre .
+</preparation>
+</recette>

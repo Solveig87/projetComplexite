@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73024">
+<titre>Laissez-vous séduire par un délicieux Salmorejo!</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 tomates</p>
+<p>150 g de pain rassis </p>
+<p>1 poivron vert</p>
+<p>4 oeufs durs</p>
+<p>4 tranches de jambon Serrano bien sec</p>
+<p>25 cl d'huile d'olive</p>
+<p>2 gousses d'ail</p>
+<p>1/3 de verre de vinaigre de Xérès</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> une casserole d' eau , y <operation ingredients="tomates;poivron"> plonger </operation> les <ingredient action="plonger" quantite="6"> tomates </ingredient> et le <ingredient action="plonger"> poivron </ingredient> pendant environ 3 à 5 min . les <operation> peler </operation> , les <operation> épépiner </operation> et les <operation> couper </operation> en petits morceaux . <operation ingredients="ail"> emincer </operation> l' <ingredient action="emincer"> ail </ingredient> , <operation ingredients="pain"> émietter </operation> le <ingredient action="émietter" quantite="150 gramme"> pain </ingredient> . <operation ingredients="tomates;poivron;ail;pain;huile;vinaigre"> mettre </operation> les <ingredient action="mettre" quantite="6"> tomates </ingredient> , le <ingredient action="mettre"> poivron </ingredient> , l' <ingredient action="mettre"> ail </ingredient> et le <ingredient action="mettre" quantite="150 gramme"> pain </ingredient> dans un grand saladier avec l' <ingredient action="mettre" quantite="25 cl"> huile </ingredient> d' olive et le <ingredient action="mettre"> vinaigre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> reposer </operation> le tout pendant 2 h au réfrigérateur . <operation> mixer </operation> la préparation . le salmorejo est une <ingredient> soupe </ingredient> épaisse , donc ne soyez pas étonné par la consistance . servir la <ingredient> soupe </ingredient> froide dans 4 bols . <operation ingredients="oeuf;jambon"> emietter </operation> un <ingredient action="emietter" quantite="4"> oeuf </ingredient> dur sur chaque bol avec une tranche de <ingredient action="emietter" quantite="4 tranche"> jambon </ingredient> <operation> coupée </operation> en fines lanières . déguster !
+</preparation>
+</recette>

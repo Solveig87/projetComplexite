@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30399">
+<titre>Frito à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 5 pommes de terre (à frites)</p>
+<p>5 tomates bien mûres (ou 1 grosse boîte de tomates pelées)</p>
+<p>1 ou 2 poivrons verts</p>
+<p>2 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>4 filets de dinde (ou autre viande blanche)</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="4"> pommes </ingredient> de terre en frites et les faire <operation> précuire </operation> , <operation> réserver </operation> . <operation> emincer </operation> les <ingredient action="mettre" quantite="1"> poivrons </ingredient> , les <operation ingredients="poivrons"> mettre </operation> à <operation> dorer </operation> ( prendre une sauteuse assez profonde ) dans l' <ingredient quantite=""> huile </ingredient> d' olive , <operation> réserver </operation> . faire <operation ingredients="dinde"> dorer </operation> les filets de <ingredient action="dorer"> dinde </ingredient> . <operation ingredients="huile"> mettre </operation> dans la même <ingredient action="mettre" quantite=""> huile </ingredient> ( en <operation ingredients="échalotes;ail"> ajouter </operation> si nécessaire ) les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> , puis laisser <operation> fondre </operation> et <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite="5"> tomates </ingredient> . laisser <operation> mijoter </operation> jusqu' à obtention d' une sorte de coulis . <operation> assaisoner </operation> . ( vous pouvez <operation ingredients="tomate"> mixer </operation> la <ingredient action="mixer" quantite="5"> tomate </ingredient> pour obtenir une sauce plus onctueuse ) <operation ingredients="poivrons"> mettre </operation> dans cette sauce les <ingredient action="mettre" quantite="1"> poivrons </ingredient> , les filets de <ingredient> dinde </ingredient> et les <ingredient quantite="4"> pommes </ingredient> de terre . faire <operation> mijoter </operation> le tout . servir chaud . un <ingredient> vin </ingredient> d' espagne
+</preparation>
+</recette>

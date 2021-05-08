@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67529">
+<titre>Veau maisonnette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de sauté de veau</p>
+<p>1 oignon émincé</p>
+<p>100 g de lardons salés</p>
+<p>4 tomates</p>
+<p>50 g champignons de Paris (frais, en boîte, surgelés...)</p>
+<p>1 verre de vin blanc (20 cl)</p>
+<p>1 poivron</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;lardons"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> et les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> dans une cocotte minute , les <operation> retirer </operation> et les <operation> mettre </operation> dans une assiette . faire <operation ingredients="veau"> revenir </operation> le <ingredient action="revenir"> veau </ingredient> <operation> coupé </operation> en gros morceaux dans la cocotte . quand les morceaux sont bien dorés , <operation ingredients="oignon"> rajouter </operation> les <ingredient action="rajouter" quantite="1"> oignon </ingredient> et lardons . <operation ingredients="tomates;poivron"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> coupées </operation> grossièrement et le <ingredient action="ajouter" quantite="1"> poivron </ingredient> <operation ingredients="vin"> coupé </operation> en lamelles ainsi que le <ingredient action="couper" quantite="1 verre"> vin </ingredient> et les herbes . <operation> rajouter </operation> un peu d' eau et fermer la cocotte . laisser <operation> cuire </operation> 30 minutes dès que la soupape chuchote , en baissant le feu . en fin de cuisson <operation ingredients="champignons"> rajouter </operation> les <ingredient action="rajouter" quantite="50 gramme"> champignons </ingredient> . goutter , <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> , et servir . vous pouvez aussi <operation ingredients="crème"> rajouter </operation> de la <ingredient action="rajouter"> crème </ingredient> fraîche en fin de cuisson . <operation ingredients="pâtes"> accompagner </operation> de <ingredient action="accompagner"> pâtes </ingredient> , riz , purée . . .
+</preparation>
+</recette>

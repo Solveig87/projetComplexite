@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80949">
+<titre>Salade de fruits agrumes banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 kiwis</p>
+<p>2 oranges</p>
+<p>1 banane</p>
+<p>arôme de fleur d'oranger</p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> tous les <ingredient quantite="2;2;1"> fruits </ingredient> et une seule <ingredient quantite="2"> orange </ingredient> en veillant à ne <operation ingredients="chair;orange"> laisser </operation> que la <ingredient action="laisser"> chair </ingredient> de l' <ingredient action="laisser" quantite="2"> orange </ingredient> . <operation ingredients="fruits"> découper </operation> les <ingredient action="découper" quantite="2;2;1"> fruits </ingredient> en quartiers et rondelles . dans un saladier , <operation ingredients="fruits;jus;orange"> mélanger </operation> délicatement les <ingredient action="mélanger" quantite="2;2;1"> fruits </ingredient> avec le <ingredient action="mélanger"> jus </ingredient> de la deuxième <ingredient action="mélanger" quantite="2"> orange </ingredient> . <operation> ajouter </operation> 3 cuillères à soupe de fleur d' oranger . enfin , <operation> ajouter </operation> deux cuillères à soupe de sucre en <operation> poudre </operation> . on peut remplacer le <ingredient quantite=""> sucre </ingredient> par du <ingredient> miel </ingredient> ou l' arôme fleur d' oranger par de la vanille .
+</preparation>
+</recette>

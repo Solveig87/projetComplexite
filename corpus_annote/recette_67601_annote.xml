@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67601">
+<titre>Tagliatelles au thon, tomates et olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de tagliatelles</p>
+<p>1 boîte de thon à l'huile d'olive</p>
+<p>200 g de tomates </p>
+<p>100 g d'olives vertes</p>
+<p>100 g d'olives noires</p>
+<p>1 oignon </p>
+<p>2 cuillères d'huile d'olive</p>
+<p>sel &amp; poivre du moulin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> avec l' <ingredient action="revenir" quantite="2 cuillère"> huile </ingredient> l' oignon haché . <operation ingredients="olives;tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="100 gramme+100 gramme"> olives </ingredient> <operation> coupés </operation> en rondelles et les <ingredient action="ajouter" quantite="200 gramme"> tomates </ingredient> en dés puis <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="thon"> ajoutez </operation> le <ingredient action="ajouter"> thon </ingredient> à la sauce . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> selon le temps indiqué , puis <operation> mélangez </operation> - les à la sauce et servez . [ ndchef : <operation ingredients="gousse"> rajoutez </operation> une <ingredient action="rajouter"> gousse </ingredient> d' ail <operation ingredients="parmesan"> écrasée </operation> et des copeaux de <ingredient action="écraser"> parmesan </ingredient> ] vin blanc type ventoux
+</preparation>
+</recette>

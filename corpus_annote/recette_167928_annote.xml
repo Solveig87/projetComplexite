@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167928">
+<titre>Tarte au brocolis, camembert et poulet</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>500 g de brocolis</p>
+<p>1 camembert</p>
+<p>20 cl de crème fraiche épaisse</p>
+<p>3 œufs </p>
+<p>150 g d'émincés de poulet grillé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="brocolis"> cuire </operation> à la vapeur les fleurettes de <ingredient action="cuire" quantite="500 gramme"> brocolis </ingredient> . faire pr . <operation ingredients="pâte"> cuire </operation> la <ingredient action="cuire" quantite="1"> pâte </ingredient> feuilletée 10 minutes . <operation ingredients="poulet;brocolis;pâte"> disposer </operation> les morceaux de <ingredient action="disposer"> poulet </ingredient> et les <ingredient action="disposer" quantite="500 gramme"> brocolis </ingredient> sur la <ingredient action="disposer" quantite="1"> pâte </ingredient> . <operation ingredients="oeufs;crème;sel;poivre"> mélanger </operation> les <ingredient action="mélanger"> oeufs </ingredient> , la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> ( n' hésitez pas à bien relever l' appareil ) . <operation ingredients="brocolis;poulet"> verser </operation> ce <operation> mélange </operation> dans le <operation> moule </operation> , sur les <ingredient action="verser" quantite="500 gramme"> brocolis </ingredient> et le <ingredient action="verser"> poulet </ingredient> . <operation ingredients="camembert"> parsemer </operation> de tranches de <ingredient action="parsemer" quantite="1"> camembert </ingredient> épaisses ( sans la croute ) . pour l' aspect gratiné , il est possible d' <operation ingredients="gruyère"> ajouter </operation> une petite poignée de <ingredient action="ajouter"> gruyère </ingredient> rapé . <operation> enfourner </operation> 30 minutes à four chaud 180 <operation> ° </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17285">
+<titre>Mousse au champagne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12,5 cl de champagne (1 flûte)</p>
+<p>2 cuillères à café de jus de citron</p>
+<p>2 jaunes d'oeufs</p>
+<p>60 g de sucre</p>
+<p>3 feuilles de gélatine</p>
+<p>200 g de crème fraîche</p>
+<p>1 pincée de poudre de cacao</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="champagne;jus"> chauffer </operation> à feu doux le <ingredient action="chauffer" quantite="12,5 cl"> champagne </ingredient> et le <ingredient action="chauffer" quantite="2 cuillère à café"> jus </ingredient> de citron . <operation ingredients="gélatine"> déposer </operation> la <ingredient action="déposer" quantite="3 feuille"> gélatine </ingredient> dans un récipient d’ eau froide . <operation ingredients="oeufs;sucre"> fouetter </operation> les jaunes d’ <ingredient action="fouetter"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="60 gramme"> sucre </ingredient> , puis <operation ingredients="champagne"> verser </operation> le <ingredient action="verser" quantite="12,5 cl"> champagne </ingredient> chaud en <operation> remuant </operation> . <operation> remettre </operation> sur le feu , sans faire <operation> bouillir </operation> , pendant 5 minutes . <operation ingredients="gélatine"> incorporez </operation> la <ingredient action="incorporer" quantite="3 feuille"> gélatine </ingredient> <operation> égouttée </operation> , <operation> mélanger </operation> et laisser refroidir . <operation ingredients="crème"> fouetter </operation> le tout avec la <ingredient action="fouetter" quantite="200 gramme"> crème </ingredient> fraîche bien froide . <operation ingredients="cacao"> parsemez </operation> de <operation> poudre </operation> de <ingredient action="parsemer"> cacao </ingredient> , puis <operation> mettre </operation> au frais 2 heures . cette recette est très facile à réaliser . on y consacre peu de temps , <operation> préparer </operation> avant un repas pendant lequel le <ingredient quantite="60 gramme;200 gramme"> dessert </ingredient> repose tranquillement . . . <ingredient quantite="12,5 cl"> champagne </ingredient>
+</preparation>
+</recette>

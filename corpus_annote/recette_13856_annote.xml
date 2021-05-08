@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13856">
+<titre>Soupe chinoise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l d'eau</p>
+<p>3 branche de céleri</p>
+<p>un cube de bouillon</p>
+<p>4 oeufs</p>
+<p>sauce soja</p>
+<p>1 oignon</p>
+<p>cresson de fontaine (ou à défaut cressonette)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon"> bouillir </operation> l' eau avec le cube de <ingredient action="bouillir"> bouillon </ingredient> , pendant ce temps , <operation> émincer </operation> les branches de céléri , l' <ingredient action="nettoyer" quantite="1"> oignon </ingredient> , <operation ingredients="oignon;cresson"> nettoyer </operation> le <ingredient action="nettoyer" quantite=""> cresson </ingredient> et <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> en omelette . lorsque l' eau bout , y <operation> jeter </operation> le céléri <operation> émincé </operation> , l' <ingredient quantite="1"> oignon </ingredient> , la sauce <ingredient> soja </ingredient> . laisser <operation> bouillir </operation> 4 mn . ensuite , <operation ingredients="cresson"> ajouter </operation> le <ingredient action="ajouter" quantite=""> cresson </ingredient> . après une minute de cuisson , <operation ingredients="oeufs;oeuf"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> <operation> battus </operation> en omelette par cuillerée , afin que l' <ingredient action="ajouter" quantite="4"> oeuf </ingredient> <operation> forme </operation> des sortes de ' voiles ' . servir bien chaud . ultra facile , rapide et toujours délicieux . aussi bon avec du <ingredient> bouillon </ingredient> de boeuf ou de <ingredient> poulet </ingredient> .
+</preparation>
+</recette>

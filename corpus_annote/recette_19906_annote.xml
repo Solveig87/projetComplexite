@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19906">
+<titre>Lotte au rhum et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de filets de lottes </p>
+<p>25 cl de crème épaisse </p>
+<p>5 cl de rhum </p>
+<p>2 gousses d'ail </p>
+<p>30 cl d'eau tiède</p>
+<p>1 oignon </p>
+<p>2 tomates </p>
+<p>1 carotte </p>
+<p>1 branchette de thym</p>
+<p>2 feuilles de laurier</p>
+<p>1 cuillère à soupe de farine</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et la <ingredient action="ciseler" quantite="1"> carotte </ingredient> <operation ingredients="carotte"> ciselés </operation> avec de l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , et y <operation ingredients="farine"> incorporer </operation> la <ingredient action="incorporer" quantite="1 cuillère à soupe"> farine </ingredient> . <operation> arroser </operation> d' eau et <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="tomates;thym;laurier;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en morceaux , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite="2 feuille"> laurier </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> haché . <operation> assaisonner </operation> et laisser <operation> mijoter </operation> 10 min . <operation> tamiser </operation> la sauce et y <operation ingredients="rhum;crème"> incorporer </operation> le <ingredient action="incorporer" quantite="5 cl"> rhum </ingredient> et la <ingredient action="incorporer" quantite="25 cl"> crème </ingredient> fraîche . <operation ingredients="lotte"> placer </operation> la <ingredient action="placer"> lotte </ingredient> dans une terrine <operation> beurrée </operation> et <operation> assaisonner </operation> . <operation> recouvrir </operation> de sauce et <operation> enfourner </operation> pendant 15 min à 180 <operation> ° </operation> ( thermostat 6 ) . servir <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

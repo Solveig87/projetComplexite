@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59490">
+<titre>Potage poireaux épinards</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>huile d'olive</p>
+<p>2 poireaux</p>
+<p>300 g d'épinards</p>
+<p>4 pommes de terre</p>
+<p>1 oignon haché</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à café de thym</p>
+<p>2 cubes de bouillon de poule</p>
+<p>poivre</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+dans l' <operation action="huile" ingredients="huile"> huile </operation> d' olive chaude , <operation ingredients="ail;thym"> faire </operation> <operation ingredients="oignon"> mijoter </operation> l' <ingredient action="mijoter" quantite="1"> oignon </ingredient> , l' <ingredient action="faire"> ail </ingredient> et le <ingredient action="faire" quantite="1 cuillère à café"> thym </ingredient> 2 à 3 minutes . <operation ingredients="poireaux"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> poireaux </ingredient> finement <operation> émincés </operation> et laisser <operation> cuire </operation> 3 à 4 minutes . <operation ingredients="épinards;pommes;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> épinards </ingredient> , les <ingredient action="ajouter" quantite="4"> pommes </ingredient> de terres <operation> détaillées </operation> en morceaux , les cubes de <ingredient action="ajouter"> bouillon </ingredient> et <operation> couvrir </operation> d' eau . lorsque les <ingredient quantite="4"> pommes </ingredient> de terres sont tendres , <operation ingredients="soupe"> mixer </operation> la <ingredient action="mixer"> soupe </ingredient> et <operation> poivrer </operation> . avant de servir , <operation ingredients="citron;citron"> ajouter </operation> un filet de <ingredient action="ajouter" quantite="1"> citron </ingredient> dans chaque bol et une tranche de <ingredient action="ajouter" quantite="1"> citron </ingredient> pour <operation> décorer </operation> . ce potage peut se consommer chaud ou froid après être resté plusieurs heures au frigo . on peut y <operation ingredients="lait;crème"> ajouter </operation> un peu de <ingredient action="ajouter"> lait </ingredient> ou de <ingredient action="ajouter"> crème </ingredient> fraîche .
+</preparation>
+</recette>

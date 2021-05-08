@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67121">
+<titre>Pâte à tartiner de tante Rachel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g chocolat noir</p>
+<p>125 g de poudre de noisette</p>
+<p>50 cl de crème fraîche allégée</p>
+<p>1 boîte de lait concentré sucré à 0% mg</p>
+<p>15 g de maïzena</p>
+<p>1/2 cuillère à café de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="noisette"> dorer </operation> la <operation> poudre </operation> de <ingredient action="dorer"> noisette </ingredient> dans une <operation> poêle </operation> . faire <operation ingredients="crème;chocolat"> chauffer </operation> la <ingredient action="chauffer" quantite="50 cl"> crème </ingredient> et le <ingredient action="chauffer" quantite="100 gramme"> chocolat </ingredient> noir dans une casserole . <operation ingredients="noisette;crème;chocolat"> verser </operation> la <operation> poudre </operation> de <ingredient action="verser"> noisette </ingredient> dans la <ingredient action="verser" quantite="50 cl"> crème </ingredient> et le <ingredient action="verser" quantite="100 gramme"> chocolat </ingredient> puis faire <operation> cuire </operation> 10 min à feu doux . <operation> passer </operation> au chinois très fin la préparation . <operation> remettre </operation> la préparation dans une casserole , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> <operation ingredients="maïzena;sel"> concentré </operation> , la <ingredient action="concentrer" quantite="15 gramme"> maïzena </ingredient> et le <ingredient action="concentrer"> sel </ingredient> . faire <operation> épaissir </operation> 5 min . <operation> remplir </operation> les pots et déguster . recette très légère et recommandée avec des <ingredient> gaufres </ingredient> maison .
+</preparation>
+</recette>

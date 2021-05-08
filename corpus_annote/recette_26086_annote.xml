@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26086">
+<titre>Salade thaïlandaise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pamplemousses roses</p>
+<p>20 grosses crevettes roses entières cuites</p>
+<p>4 brins de coriandre fraîche</p>
+<p>Pour la sauce :</p>
+<p>4 cuillères à soupe de jus de citron vert</p>
+<p>2 cuillères à café de sucre en poudre</p>
+<p>2 échalotes</p>
+<p>2 gousses d’ail</p>
+<p>2 pincées de sel</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la sauce : <operation ingredients="sucre;jus"> mélanger </operation> le <ingredient action="mélanger" quantite="2 cuillère à café"> sucre </ingredient> et le <ingredient action="mélanger" quantite="4 cuillère à soupe"> jus </ingredient> de citron , jusqu’ à ce que le <ingredient action="fondre" quantite="2 cuillère à café"> sucre </ingredient> <operation ingredients="sucre"> fonde </operation> . <operation ingredients="ail;échalote"> ajouter </operation> l’ <ingredient action="ajouter"> ail </ingredient> et l’ <ingredient action="ajouter" quantite="2"> échalote </ingredient> hachés . la sauce peut être <operation> préparée </operation> à l’ avance . <operation ingredients="pamplemousses"> peler </operation> les <ingredient action="peler" quantite="2"> pamplemousses </ingredient> à vif ( en gardant autant que possible les quartiers en bon état ) , <operation> répartir </operation> les quartiers dans 4 coupelles . <operation> eplucher </operation> les <ingredient> crevettes </ingredient> , en <operation> disposer </operation> 5 dans chaque coupelle . <operation> napper </operation> de sauce , <operation ingredients="coriandre"> parsemer </operation> de <ingredient action="parsemer"> coriandre </ingredient> <operation> ciselée </operation> et servir immédiatement . blanc sec ou <ingredient> bière </ingredient> thaïlandaise
+</preparation>
+</recette>

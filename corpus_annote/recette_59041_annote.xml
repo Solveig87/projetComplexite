@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59041">
+<titre>Paella valenciana (sans fruits de mer)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet en morceaux</p>
+<p>500 g de lapin</p>
+<p>200 g de haricots cocos</p>
+<p>200 g de haricots blancs judions</p>
+<p>1 poivron vert</p>
+<p>3 tomates</p>
+<p>600 g de riz rond</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>safran</p>
+<p>sel et poivre</p>
+<p>2,5 litres de bouillon de poule (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;lapin;huile"> dorer </operation> dans une grande <operation> poêle </operation> les morceaux de <ingredient action="dorer" quantite="1"> poulet </ingredient> et de <ingredient action="dorer" quantite="500 gramme"> lapin </ingredient> avec l' <ingredient action="dorer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="haricots;cocos;haricots;poivron"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme+200 gramme"> haricots </ingredient> <ingredient action="ajouter"> cocos </ingredient> <operation> coupés </operation> en tranches , les <ingredient action="ajouter" quantite="200 gramme+200 gramme"> haricots </ingredient> blancs , le <ingredient action="ajouter"> poivron </ingredient> <operation> émincé </operation> et faire <operation> revenir </operation> 5 min . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> <operation> coupées </operation> en morceaux et faire <operation> revenir </operation> 5 min . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="2,5 litre"> bouillon </ingredient> de poule ( ou à défaut de l' eau ) bouillant et laisser <operation> cuire </operation> à feu vif , puis à feu doux , pendant 40 min . <operation ingredients="safran;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> safran </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="600 gramme"> riz </ingredient> et faire <operation> cuire </operation> jusqu' à que le <ingredient quantite="600 gramme"> riz </ingredient> ait absorbé toute l' eau .
+</preparation>
+</recette>

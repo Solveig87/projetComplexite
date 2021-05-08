@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24491">
+<titre>Rôti de veau à la sauce au thon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de rôti de veau</p>
+<p>300 g de thon conservé à l'huile</p>
+<p>40 cl de vin blanc sec</p>
+<p>20 cl de vinaigre</p>
+<p>20 cl d'eau</p>
+<p>8 filets d'anchois</p>
+<p>2 carottes</p>
+<p>1 oignon</p>
+<p>50 cl d'huile</p>
+<p>4 jaunes d'œufs</p>
+<p>1 cuillère à soupe de câpres</p>
+<p>sel poivre </p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="rôti;thon;anchois;oignon;vin;vinaigre;sel;poivre"> mettre </operation> le <ingredient action="mettre" quantite="800 gramme"> rôti </ingredient> , le <ingredient action="mettre" quantite="300 gramme"> thon </ingredient> , les filets d' <ingredient action="mettre"> anchois </ingredient> , l' <ingredient action="mettre" quantite="1"> oignon </ingredient> et la <ingredient action="émincer" quantite="2"> carotte </ingredient> <operation ingredients="carotte"> émincés </operation> , le <ingredient action="mettre" quantite="40 cl"> vin </ingredient> , le <ingredient action="mettre" quantite="20 cl"> vinaigre </ingredient> , l' eau , le <ingredient action="mettre" quantite=""> sel </ingredient> et le <ingredient action="mettre"> poivre </ingredient> à <operation> mijoter </operation> pendant 1 h à feu doux . <operation ingredients="rôti"> égoutter </operation> le <ingredient action="égoutter" quantite="800 gramme"> rôti </ingredient> et <operation ingredients="jus"> tamiser </operation> le <ingredient action="tamiser"> jus </ingredient> de cuisson . dans un bol , <operation ingredients="œufs;huile"> battre </operation> les jaunes d' <ingredient action="battre"> œufs </ingredient> et l' <ingredient action="battre" quantite="50 cl"> huile </ingredient> . <operation ingredients="câpres;jus"> incorporer </operation> les <ingredient action="incorporer" quantite="1 cuillère à soupe"> câpres </ingredient> et un peu de <ingredient action="incorporer"> jus </ingredient> de cuisson . <operation ingredients="rôti"> découper </operation> le <ingredient action="découper" quantite="800 gramme"> rôti </ingredient> en tranches et le <operation> napper </operation> de sauce . <operation> réserver </operation> au frais jusqu' au service .
+</preparation>
+</recette>

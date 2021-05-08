@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30413">
+<titre>Jambon roulé à la compotée de légumes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de jambon</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>6 tomates</p>
+<p>3 poivrons verts</p>
+<p>2 brins de thym</p>
+<p>1 feuille de laurier</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;ail;huile"> fondre </operation> les <ingredient action="fondre" quantite="2"> oignons </ingredient> et l' <ingredient action="fondre"> ail </ingredient> <operation> hachés </operation> dans l' <ingredient action="fondre" quantite="2 cuillère à soupe"> huile </ingredient> d' olive puis <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="6"> tomates </ingredient> <operation> pelées </operation> <operation> concassées </operation> . <operation ingredients="poivrons;thym;laurier;sel;poivre"> incorporez </operation> les <ingredient action="incorporer"> poivrons </ingredient> <operation> coupés </operation> en dés , le <ingredient action="incorporer"> thym </ingredient> , le <ingredient action="incorporer" quantite="1 feuille"> laurier </ingredient> et <operation> assaisonnez </operation> de <ingredient action="incorporer" quantite=""> sel </ingredient> et de <ingredient action="incorporer"> poivre </ingredient> . laissez <operation> mijoter </operation> 45 minutes puis laissez refroidir . <operation ingredients="jambon"> garnissez </operation> les tranches de <ingredient action="garnir" quantite="4 tranche"> jambon </ingredient> de cette préparation froide et servez le reste de la compoté de <ingredient quantite="2;6"> légumes </ingredient> à part . <operation ingredients="salade"> accompagnez </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

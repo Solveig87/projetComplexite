@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20526">
+<titre>Gâteau au yaourt,poire chocolat amande</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt</p>
+<p>2 pot de sucre</p>
+<p>1 pot de farine</p>
+<p>2 pots d'amande en poudre</p>
+<p>3 oeufs</p>
+<p>1 sachet de levure chimique</p>
+<p>100 g de pépites de chocolat</p>
+<p>1 boîte de poires au sirop</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> , le <ingredient quantite="2 pot"> sucre </ingredient> , la <ingredient quantite="1 pot"> farine </ingredient> , l' <ingredient quantite="2 pot"> amande </ingredient> , la <ingredient> levure </ingredient> et les <ingredient quantite="3"> oeufs </ingredient> . <operation ingredients="poires"> couper </operation> les <ingredient action="couper"> poires </ingredient> en dés , les <operation ingredients="chocolat"> ajouter </operation> à la préparation avec le <ingredient action="ajouter"> chocolat </ingredient> . faire <operation> cuire </operation> 3 . 40 mn à 200 <operation> ° </operation> c.
+</preparation>
+</recette>

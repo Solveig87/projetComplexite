@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164751">
+<titre>Gâteau au yahourt noisettes-framboises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 g de beurre</p>
+<p>130 g de farine</p>
+<p>125 g de noisettes en poudre</p>
+<p>3 oeufs</p>
+<p>150 g de sucre en poudre</p>
+<p>1 yaourt nature type Velouté</p>
+<p>1/2 de sachet de levure chimique</p>
+<p>150 g de framboises (si vous utilisez des framboises surgelées, faites les décongeler avant, et retirez le jus)</p>
+</ingredients>
+<preparation>
+dans un saladier , faites <operation ingredients="oeufs;sucre"> mousser </operation> les <ingredient action="mousser" quantite="3"> oeufs </ingredient> et le <ingredient action="mousser" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="beurre;yaourt"> ajoutez </operation> le <ingredient action="ajouter" quantite="30 gramme"> beurre </ingredient> <operation> fondu </operation> et le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> . <operation> mélangez </operation> bien . dans un plat à part , <operation ingredients="farine;levure;noisettes"> mélangez </operation> la <ingredient action="mélanger" quantite="130 gramme"> farine </ingredient> , la <ingredient action="mélanger"> levure </ingredient> et les <ingredient action="mélanger" quantite="125 gramme"> noisettes </ingredient> en <operation> poudre </operation> . puis <operation> incorporez </operation> - les petit à petit au <operation> mélange </operation> précédent . préchauffer votre four à 180 <operation> ° </operation> c ( thermostat 6 ) . dans un <operation> moule </operation> à tarte <operation> recouvert </operation> de papier sulfurisé , <operation> versez </operation> la moitié de la préparation . <operation ingredients="framboises"> disposez </operation> les <ingredient action="disposer" quantite="150 gramme"> framboises </ingredient> , puis <operation> recouvrez </operation> de la fin de la préparation . <operation> enfournez </operation> pendant environ 30 min ( <operation ingredients="couteau"> piquez </operation> avec un <ingredient action="piquer"> couteau </ingredient> , il doit ressortir sec et net ) .
+</preparation>
+</recette>

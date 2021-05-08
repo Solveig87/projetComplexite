@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48395">
+<titre>Tarte aux concombres</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>3 concombres</p>
+<p>1 oignon</p>
+<p>25 g de farine</p>
+<p>1 boîte de concentré de tomate</p>
+<p>100 g de gruyère râpé</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>sel, poivre, ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> couper </operation> les <ingredient action="couper" quantite="3"> concombres </ingredient> en tranches fines , et les faire dégorger 1 h au <ingredient quantite=""> sel </ingredient> . faire <operation ingredients="oignon;tomate;persil;ail;poivre"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , <operation ingredients="farine;concombres"> ajouter </operation> la <ingredient action="ajouter" quantite="25 gramme"> farine </ingredient> , les <ingredient action="ajouter" quantite="3"> concombres </ingredient> , le concenté de <ingredient action="revenir"> tomate </ingredient> , le <ingredient action="revenir" quantite="1 cuillère à soupe"> persil </ingredient> , l' <ingredient action="revenir" quantite=""> ail </ingredient> et le <ingredient action="revenir" quantite=""> poivre </ingredient> . <operation> cuire </operation> à feu doux pendant 1 h. <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> râpé , puis <operation ingredients="pâte"> disposer </operation> le tout sur la <ingredient action="disposer" quantite="1"> pâte </ingredient> <operation> brisée </operation> . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( th 6 ) pendant 30 min . un peu long à faire , mais délicieux à la dégustation !
+</preparation>
+</recette>

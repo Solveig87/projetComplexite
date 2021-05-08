@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55152">
+<titre>Sandwich au thon - tunafish salad sandwich</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de thon (en conserve et égouttée)</p>
+<p>1 cuillère à soupe de persil frais coupé en morceaux</p>
+<p>30 g de céleri coupé en morceaux</p>
+<p>12 cl de mayonnaise</p>
+<p>1/2 cuillère à café de jus de citron</p>
+<p>40 g d'oignon en petits morceaux</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée d'ail en poudre</p>
+<p>Tranches de pain de mie (toastées ou pas)</p>
+<p>Feuilles de salade (éventuellement)</p>
+</ingredients>
+<preparation>
+dans un grand bol , <operation ingredients="thon;céleri;oignon;jus;persil;ail;sel;poivre"> mélanger </operation> le <ingredient action="mélanger"> thon </ingredient> , le <ingredient action="mélanger"> céleri </ingredient> , l' <ingredient action="mélanger" quantite="40 gramme"> oignon </ingredient> , le <ingredient action="mélanger"> jus </ingredient> de citron , le <ingredient action="mélanger"> persil </ingredient> , l' <ingredient action="mélanger" quantite="1 pincée"> ail </ingredient> en <operation> poudre </operation> , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> et le <ingredient action="mélanger" quantite="1 pincée"> poivre </ingredient> . <operation> mettre </operation> au frigo jusqu' à ce que la préparation soit froide . servir cette préparation entre des tranches de <ingredient> pain </ingredient> où l' on aura éventuellement glissé une feuille de <ingredient> salade </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69699">
+<titre>Pain feuilleté d'épinards</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>4 tranches de jambon</p>
+<p>1 sachet d'épinards hachés surgelés</p>
+<p>100 g de gruyère rapé</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="épinards"> cuire </operation> les <ingredient action="cuire"> épinards </ingredient> , les <operation ingredients="crème"> mélanger </operation> à un peu de <ingredient action="mélanger"> crème </ingredient> fraîche . <operation ingredients="pâte"> dérouler </operation> la <ingredient action="dérouler" quantite="1"> pâte </ingredient> feuilletée , y <operation ingredients="jambon;gruyère"> déposer </operation> les tranches de <ingredient action="déposer" quantite="4 tranche"> jambon </ingredient> , le <ingredient action="déposer" quantite="100 gramme"> gruyère </ingredient> . <operation> egoutter </operation> les <ingredient action="déposer"> épinards </ingredient> , les <operation ingredients="épinards"> déposer </operation> en les étalant bien sur le <ingredient quantite="100 gramme"> gruyère </ingredient> . <operation> rouler </operation> le tout , fermer avec le jaune d' <ingredient> oeuf </ingredient> , <operation> mettre </operation> au four pendant 20 min .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56095">
+<titre>Toasts savoyards</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie</p>
+<p>2 tranches de jambon</p>
+<p>1 oeuf</p>
+<p>1 grosse cuillérée à soupe de crème fraîche épaisse</p>
+<p>75 g de gruyère râpé</p>
+<p>50 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> les 4 tranches de <ingredient action="griller" quantite="4 tranche"> pain </ingredient> de mie puis les laisser refroidir . <operation ingredients="jambon"> hacher </operation> le <ingredient action="hacher" quantite="2 tranche"> jambon </ingredient> . <operation ingredients="oeuf"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> au fouet à main ou à la fourchette . <operation ingredients="jambon"> mélanger </operation> le <ingredient action="mélanger" quantite="2 tranche"> jambon </ingredient> haché , la <ingredient> crème </ingredient> fraîche , l' <ingredient quantite="1"> oeuf </ingredient> et le <ingredient quantite="75 gramme"> gruyère </ingredient> râpé en continuant de <operation> battre </operation> pour obtenir une préparation homogène et assez constante . <operation ingredients="pain"> tartiner </operation> les tranches de <ingredient action="tartiner" quantite="4 tranche"> pain </ingredient> avec cette préparation . <operation> ranger </operation> les toasts sur une <operation> plaque </operation> à pâtisserie , les faire <operation> dorer </operation> et <operation> gratiner </operation> dans le four thermostat . 8 ( 230 <operation> ° </operation> c ) pendant 10 à 15 min . cette recette est assez sèche et je conseille de l' <operation ingredients="salade"> accompagner </operation> avec une bonne <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88782">
+<titre>Salade de poulet au curry simplissime</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 à 8 filets de poulet</p>
+<p>25 cl de mayonnaise légère ou allégée</p>
+<p>2 cuillères à soupe de curry</p>
+<p>1 cube de bouillon</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> pocher </operation> le <ingredient action="pocher"> poulet </ingredient> dans beaucoup d' eau bouillante <operation ingredients="bouillon"> additionnée </operation> du cube de <ingredient action="additionner"> bouillon </ingredient> durant environ 20 minutes . <operation> egoutter </operation> et laisser refroidir . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en morceaux dans un saladier , <operation ingredients="mayonnaise;curry"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> mayonnaise </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> curry </ingredient> ( en <operation> mettre </operation> plus ou moins selon les goûts ) . <operation> mettre </operation> au réfrigérateur et servir bien froid . simple et top miamissime ! mayo light parce que sinon . . . . aïe aïe aïe ! pour un pique-nique , un buffet canadien ou même avec des <ingredient> pâtes </ingredient> ! !
+</preparation>
+</recette>

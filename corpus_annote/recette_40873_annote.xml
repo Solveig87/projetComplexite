@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40873">
+<titre>Carpaccio de betteraves à la crème d'ail et au hareng fumé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 betterave rouges cuites</p>
+<p>6 filets de hareng fumé doux</p>
+<p>2 gousses d'ail</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+la <ingredient quantite="20 cl"> crème </ingredient> à l' <ingredient> ail </ingredient> : <operation ingredients="gousses"> presser </operation> les <ingredient action="presser" quantite="2"> gousses </ingredient> d' ail , et <operation ingredients="ail;crème"> incorporer </operation> la purée d' <ingredient action="incorporer"> ail </ingredient> à la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> fraîche . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> au refrigerateur ( 3 / 4 d' heure ) . le <ingredient> carpaccio </ingredient> : <operation> découper </operation> les betteraves en fines tranches . <operation ingredients="hareng"> decouper </operation> les filet de <ingredient action="decouper"> hareng </ingredient> en fines tranches . dans chaque assiette , <operation ingredients="crème;ail"> mettre </operation> de la <ingredient action="mettre" quantite="20 cl"> crème </ingredient> à l' <ingredient action="mettre"> ail </ingredient> dans le fond , et <operation> disposer </operation> les tranche de betterave par dessus . <operation ingredients="poisson"> ajouter </operation> les tranches de <ingredient action="ajouter"> poisson </ingredient> . <operation ingredients="crème"> ajouter </operation> quelques gouttes de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . servir frais .
+</preparation>
+</recette>

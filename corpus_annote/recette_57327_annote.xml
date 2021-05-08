@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57327">
+<titre>Pizza au maïs</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>maïs</p>
+<p>pâte à pizza</p>
+<p>camembert (non obligatoire)</p>
+<p>de la sauce tomate</p>
+<p>jambon (non obligatoire)</p>
+<p>gruyère</p>
+<p>olives (non obligatoire)</p>
+<p>crème fraîche (non obligatoire)</p>
+<p>sel</p>
+<p>poivre</p>
+<p>origan</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite=""> pâte </ingredient> à pizza . <operation ingredients="tomates"> ouvrir </operation> une boîte de <ingredient action="ouvrir"> tomates </ingredient> et la <operation> verser </operation> dans un plat <operation ingredients="sel;poivre;origan"> mettre </operation> un peu de <ingredient action="mettre" quantite=""> sel </ingredient> , de <ingredient action="mettre" quantite=""> poivre </ingredient> et assez d' <ingredient action="mettre" quantite=""> origan </ingredient> . <operation> remuer </operation> . <operation> etaler </operation> la sauce tomate sur la pizza . <operation ingredients="jambon"> mettre </operation> du <ingredient action="mettre" quantite=""> jambon </ingredient> ( non obligatoire ) . <operation ingredients="maïs"> mettre </operation> le <ingredient action="mettre" quantite=""> maïs </ingredient> . <operation ingredients="gruyère"> mettre </operation> le <ingredient action="mettre" quantite=""> gruyère </ingredient> . <operation ingredients="camembert;olives;crème;non"> mettre </operation> du <ingredient action="mettre" quantite=""> camembert </ingredient> ( non obligatoire ) , des <ingredient action="mettre" quantite=""> olives </ingredient> ( non obligatoire ) et la <ingredient action="mettre" quantite=""> crème </ingredient> fraîche ( <ingredient action="mettre" quantite=""> non </ingredient> obligatoire ) .
+</preparation>
+</recette>

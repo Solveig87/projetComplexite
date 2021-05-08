@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14592">
+<titre>Escalope valaisanne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de dinde</p>
+<p>1 petit pot de concentré de tomates</p>
+<p>1/2 reblochon</p>
+<p>1/2 bouteille de vin blanc (type Apremont)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="4"> escalopes </ingredient> à la <operation> poêle </operation> . <operation> assaisonez </operation> et arrêter la cuisson avent qu' elles ne <operation> dorent </operation> . les <operation> placer </operation> dans un plat de façon à ce qu' elle ne se chevauchent pas . <operation ingredients="tomates"> tartiner </operation> chacunes d' entre elles avec du coulis de <ingredient action="tartiner"> tomates </ingredient> . <operation ingredients="reblochon"> couper </operation> le <ingredient action="couper" quantite="1"> reblochon </ingredient> en tranches et <operation ingredients="escalopes"> placer </operation> sur les <ingredient action="placer" quantite="4"> escalopes </ingredient> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser"> vin </ingredient> blanc . faire <operation> gratiner </operation> au four 5 mn et servir aussitôt . se marie très bien avec un <ingredient> légume </ingredient> au naturel ou simplement des <ingredient> pommes </ingredient> vapeur car , grâce au <ingredient> vin </ingredient> , on récolte de la sauce . cotes du rhône ou autres rouges
+</preparation>
+</recette>

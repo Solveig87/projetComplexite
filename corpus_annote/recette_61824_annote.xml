@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61824">
+<titre>Assiette Pichangeaise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 belles feuilles de salade verte</p>
+<p>4 fines tranches de jambon cru</p>
+<p>1 avocat bien mûr</p>
+<p>1 pomme</p>
+<p>1 fromage de chèvre</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre de xérès</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> puis <operation ingredients="salade"> essorer </operation> les feuilles de <ingredient action="essorer"> salade </ingredient> . <operation ingredients="jambon"> couper </operation> en fines lanières le <ingredient action="couper"> jambon </ingredient> cru . <operation ingredients="avocat;pomme;fromage"> couper </operation> en dés l' <ingredient action="couper" quantite="1"> avocat </ingredient> , la <ingredient action="couper" quantite="1"> pomme </ingredient> et le <ingredient action="couper" quantite="1"> fromage </ingredient> de chèvre . dans les deux assiettes , <operation ingredients="salade"> disposez </operation> les feuilles de <ingredient action="disposer"> salade </ingredient> puis les autres ingrédients . <operation ingredients="huile;vinaigre;sel;poivre"> emulsionner </operation> l' <ingredient action="emulsionner" quantite="4 cuillère à soupe"> huile </ingredient> et le <ingredient action="emulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> avec du <ingredient action="emulsionner" quantite=""> sel </ingredient> et du <ingredient action="emulsionner"> poivre </ingredient> puis en <operation ingredients="salade"> assaisonner </operation> la <ingredient action="assaisonner"> salade </ingredient> . n' hésitez pas à <operation ingredients="salade"> laisser </operation> cette <ingredient action="laisser"> salade </ingredient> 1 / 2 heure au réfrigérateur avant de la déguster , elle n' en sera que meilleure ! astuce : pour que l' <ingredient quantite="1"> avocat </ingredient> mûrisse plus rapidement , <operation> disposez </operation> - le au milieu de plusieurs <ingredient quantite="1"> pommes </ingredient> toute 1 journée !
+</preparation>
+</recette>

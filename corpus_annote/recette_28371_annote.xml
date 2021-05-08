@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28371">
+<titre>Haddock aux pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un filet de haddock</p>
+<p>lait</p>
+<p>oignons piqué de clous de girofle</p>
+<p>thym et laurier</p>
+<p>persil</p>
+<p>ail</p>
+<p>gros sel</p>
+<p>pommes de terre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="haddock;bouillon;lait;sel"> cuire </operation> le <ingredient action="cuire"> haddock </ingredient> dans un court <ingredient action="cuire"> bouillon </ingredient> à base de <ingredient action="cuire" quantite=""> lait </ingredient> avec thym , laurier , oignons , clous de girofle et gros <ingredient action="cuire" quantite=""> sel </ingredient> . faire <operation ingredients="pommes"> cuire </operation> des <ingredient action="cuire" quantite=""> pommes </ingredient> de terre à l' eau avec la peau , dès qu' elles sont <operation> cuites </operation> les <operation> éplucher </operation> . sortir le <ingredient> haddock </ingredient> du lait dès qu' il est <operation> cuit </operation> . <operation ingredients="ail"> éplucher </operation> l' <ingredient action="éplucher" quantite=""> ail </ingredient> et l' <operation> écraser </operation> , <operation ingredients="persil"> hacher </operation> le <ingredient action="hacher" quantite=""> persil </ingredient> . dans un plat <operation ingredients="pommes;ail"> mettre </operation> une couche de <ingredient action="mettre" quantite=""> pommes </ingredient> de terre <operation> coupées </operation> en rondelles avec <ingredient action="mettre" quantite=""> ail </ingredient> et persil , un couche de <ingredient> haddock </ingredient> <operation> émietté </operation> et ainsi de suite . <operation ingredients="lait;poisson"> arroser </operation> avec un peu de <ingredient action="arroser" quantite=""> lait </ingredient> de cuisson du <ingredient action="arroser"> poisson </ingredient> . pour conserver au chaud <operation> mettre </operation> le plat au bain - marie . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

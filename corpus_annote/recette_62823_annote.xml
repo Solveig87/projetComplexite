@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62823">
+<titre>Salade de papaye</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>1 papaye</p>
+<p>1 mangue</p>
+<p>3 fruits de la passion</p>
+<p>1 demi ananas</p>
+<p>2 cuillères à soupe de sirop de grenadine</p>
+<p>1 cuillère à soupe de rhum</p>
+<p>un peu de sucre selon les fruits qu'on utilise pour cette recette</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> couper </operation> les <ingredient action="couper" quantite="3"> fruits </ingredient> en dés . récupérer la <ingredient> chair </ingredient> des fruits de la passion . <operation ingredients="fruits"> mélanger </operation> tous les <ingredient action="mélanger" quantite="3"> fruits </ingredient> , <operation ingredients="sirop;rhum"> rajouter </operation> le <ingredient action="rajouter" quantite="2 cuillère à soupe"> sirop </ingredient> plus le <ingredient action="rajouter" quantite="1 cuillère à soupe"> rhum </ingredient> et <operation> mettre </operation> au frais . on peut <operation ingredients="fruits"> changer </operation> les <ingredient action="changer" quantite="3"> fruits </ingredient> selon les saisons et varier avec de l' alcool de <ingredient> coco </ingredient> .
+</preparation>
+</recette>

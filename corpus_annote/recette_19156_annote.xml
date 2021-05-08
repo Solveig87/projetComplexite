@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19156">
+<titre>Potage au potiron</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 potiron de taille moyenne</p>
+<p>4 tomates</p>
+<p>6 carottes</p>
+<p>3 oignons</p>
+<p>sel et poivre</p>
+<p>piment (d'Espelette) </p>
+<p>3 bouillons cube aux légumes dégraissés</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron"> coupez </operation> le <ingredient action="couper" quantite="1"> potiron </ingredient> en morceau , <operation> enlevez </operation> les pépins et les filaments . <operation ingredients="tomates;carottes"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en 4 et <operation> pelez </operation> les <ingredient action="couper" quantite="6"> carottes </ingredient> , puis <operation> coupez </operation> - les en rondelles grossières . <operation ingredients="oignons"> pelez </operation> les <ingredient action="peler" quantite="3"> oignons </ingredient> et <operation> coupez </operation> - les . <operation> mettez </operation> tous les <ingredient quantite="1;4;6;3;3"> légumes </ingredient> dans l' auto-cuiseur . <operation> rajoutez </operation> de l' eau afin de <operation ingredients="légumes"> couvrir </operation> largement les <ingredient action="couvrir" quantite="1;4;6;3;3"> légumes </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> à votre goût . <operation ingredients="bouillons"> rajoutez </operation> le piment et les <ingredient action="rajouter" quantite="3"> bouillons </ingredient> cube . dès sortie de la vapeur , laissez <operation> cuire </operation> une dizaine de minutes . <operation> mixez </operation> et servez . n' hésitez pas à <operation ingredients="crème;croûtons"> ajouter </operation> de la <ingredient action="ajouter"> crème </ingredient> ou des <ingredient action="ajouter"> croûtons </ingredient> .
+</preparation>
+</recette>

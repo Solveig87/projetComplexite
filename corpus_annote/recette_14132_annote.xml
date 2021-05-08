@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14132">
+<titre>Salade de moules au melon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de moules</p>
+<p>1 salade trévisse</p>
+<p>1 salade frisée</p>
+<p>1 melon d'Israel</p>
+<p>1 dl de crème fraîche</p>
+<p>2 g de safran</p>
+<p>1 botte de ciboulette</p>
+<p>50 g d'épinards frais</p>
+<p>50 g de tomates</p>
+</ingredients>
+<preparation>
+<operation ingredients="épinards"> laver </operation> les <ingredient action="laver" quantite="50 gramme"> épinards </ingredient> et les <operation> émincer </operation> . <operation ingredients="tomates"> préparer </operation> les dés de <ingredient action="préparer" quantite="50 gramme"> tomates </ingredient> <operation> émondées </operation> . <operation> laver </operation> et <operation> cuire </operation> les <operation> moules </operation> . <operation ingredients="melon"> couper </operation> le <ingredient action="couper" quantite="1"> melon </ingredient> en dés également . avec le <ingredient action="faire"> jus </ingredient> des <operation> moules </operation> , <operation ingredients="jus"> faire </operation> une vinaigrette , puis y <operation ingredients="crème;safran"> ajouter </operation> la <ingredient action="ajouter" quantite="1 dl"> crème </ingredient> et le <ingredient action="ajouter" quantite="2 gramme"> safran </ingredient> . <operation ingredients="épinards"> mettre </operation> la frisée et les <ingredient action="mettre" quantite="50 gramme"> épinards </ingredient> dans les assiettes , <operation> disposer </operation> dessus les <operation> moules </operation> avec une demi-coquille , puis <operation ingredients="tomates;melon"> parsemer </operation> de dés de <ingredient action="parsemer" quantite="50 gramme"> tomates </ingredient> et de dés de <ingredient action="parsemer" quantite="1"> melon </ingredient> . <operation> napper </operation> de sauce et <operation ingredients="ciboulette"> parsemer </operation> de <ingredient action="parsemer"> ciboulette </ingredient> finement <operation> ciselée </operation> . <ingredient> vin </ingredient> blanc du roussillon
+</preparation>
+</recette>

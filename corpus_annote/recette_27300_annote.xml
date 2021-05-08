@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27300">
+<titre>Langoustines à l'estragon et au beurre citronné</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 langoustines</p>
+<p>1 cuillères à soupe d'huile d'olive</p>
+<p>1 bouquet d'estragon</p>
+<p>7 cl de vin blanc</p>
+<p>1 citron vert</p>
+<p>35 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="estragon"> hacher </operation> l' <ingredient action="hacher"> estragon </ingredient> . <operation ingredients="langoustines"> décortiquer </operation> les <ingredient action="décortiquer" quantite="12"> langoustines </ingredient> puis les <operation ingredients="huile"> saisir </operation> dans l' <ingredient action="saisir" quantite="1 cuillère à soupe"> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="7 cl"> vin </ingredient> blanc et <operation ingredients="estragon"> ajouter </operation> l' <ingredient action="ajouter"> estragon </ingredient> . laisser <operation> cuire </operation> 10 minutes . pendant ce temps , faire <operation> chauffer </operation> 3 cuillères à soupe d' eau et <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="35 gramme"> beurre </ingredient> <operation> coupé </operation> en dés en <operation> fouettant </operation> afin d' obtenir une sauce onctueuse . <operation ingredients="jus;langoustines"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> de citron vert et en <operation> napper </operation> les <ingredient action="ajouter" quantite="12"> langoustines </ingredient> .
+</preparation>
+</recette>

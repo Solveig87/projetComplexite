@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229379">
+<titre>Haddock et ratatouille à l'indienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros filets de Haddock (600g)</p>
+<p>25 cl de lait</p>
+<p>1 gros oignon</p>
+<p>3 courgettes</p>
+<p>2 aubergines</p>
+<p>1 poivron rouge</p>
+<p>400 g de tomates pelées ou concassées (ou des tomates mondées pour les courageux)</p>
+<p>40 cl de lait de coco</p>
+<p>huile d'olive</p>
+<p>curry indien</p>
+<p>graines de moutarde, feuilles de curry, graines de coriandre, cardamome, fenugrec (en fonction de ce que vous avez dans vos placards)</p>
+<p>1 feuille de laurier</p>
+<p>1 gousse d'ail</p>
+<p>feuilles de coriandre</p>
+</ingredients>
+<preparation>
+commencez par faire <operation ingredients="haddock"> pocher </operation> le <ingredient action="pocher"> haddock </ingredient> : à froid , <operation ingredients="haddock;lait"> mettez </operation> dans une casserole le <ingredient action="mettre"> haddock </ingredient> avec le <ingredient action="mettre" quantite="25 cl+40 cl"> lait </ingredient> et 25 cl d' eau . <operation ingredients="laurier"> ajoutez </operation> la feuille de <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> et <operation> portez </operation> doucement à <operation> ébullition </operation> . a ce moment , <operation> retirez </operation> du feu et <operation> comptez </operation> 10 min . <operation> égouttez </operation> et <operation> mettez </operation> de côté . pendant ce temps , <operation ingredients="oignon;poivron;aubergines"> préparez </operation> la ratatouille : <operation> émincez </operation> l' <ingredient action="préparer" quantite="1"> oignon </ingredient> , les courgettes , le <ingredient action="préparer"> poivron </ingredient> et <operation> coupez </operation> en dés les <ingredient action="préparer" quantite="2"> aubergines </ingredient> . <operation> ecrasez </operation> la <ingredient quantite="1"> gousse </ingredient> d' ail . faites <operation ingredients="huile;curry"> revenir </operation> les courgettes à feu vif dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , <operation> assaisonnez </operation> et <operation> poudrez </operation> de <ingredient action="revenir" quantite=""> curry </ingredient> . quand elles sont juste dorées , <operation ingredients="tomates;lait"> mettez </operation> dans une grande cocotte avec les <ingredient action="mettre" quantite="400 gramme"> tomates </ingredient> et le <ingredient action="mettre" quantite="25 cl+40 cl"> lait </ingredient> de coco . <operation ingredients="oignon;poivron;aubergines"> faites </operation> de même ensuite avec l' <ingredient action="faire" quantite="1"> oignon </ingredient> et le <ingredient action="faire"> poivron </ingredient> puis les <ingredient action="faire" quantite="2"> aubergines </ingredient> ( <operation ingredients="huile;curry"> saisir </operation> dans l' <ingredient action="saisir" quantite=""> huile </ingredient> , <operation> assaisonnez </operation> , <ingredient action="saisir" quantite=""> curry </ingredient> et hop , dans la cocotte ) . <operation ingredients="ail;épices"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> et les <ingredient action="ajouter" quantite=";;1 feuille;1"> épices </ingredient> indiennes ( l' équivalent d' une cuillère à café ) que vous aurez <operation> mis </operation> dans une chaussette à thé ou une boule à épices . faites <operation> cuire </operation> à feu moyen pendant au moins 30 min . a la fin de la cuisson , <operation ingredients="haddock"> posez </operation> dessus les filets de <ingredient action="poser"> haddock </ingredient> dont vous aurez préalablement <operation> ôté </operation> la peau . <operation ingredients="coriandre"> parsemez </operation> de feuilles de <ingredient action="parsemer"> coriandre </ingredient> . servez bien chaud dans la cocotte . <ingredient> vin </ingredient> blanc : <ingredient> côte </ingredient> de gascogne bien fruité
+</preparation>
+</recette>

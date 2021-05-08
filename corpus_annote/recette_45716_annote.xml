@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45716">
+<titre>Filets de poisson parfumés au gingembre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 beaux filets de poisson (au choix, colin, lieu perche)</p>
+<p>4 belles tomates</p>
+<p>1 oignon</p>
+<p>1 morceau de gingembre frais (ou gingembre en poudre)</p>
+<p>curry</p>
+<p>sel et poivre</p>
+<p>coriandre fraîche</p>
+</ingredients>
+<preparation>
+oter la peau des <ingredient quantite="4"> tomates </ingredient> , et les <operation> couper </operation> en petits cubes . <operation> emincer </operation> l' <ingredient quantite="1"> oignons </ingredient> , et <operation ingredients="gingembre"> raper </operation> le <ingredient action="raper"> gingembre </ingredient> . dans une sauteuse , faire <operation ingredients="oignon;curry"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , puis <operation ingredients="gingembre"> rajouter </operation> le <ingredient action="rajouter"> gingembre </ingredient> haché , et le <ingredient action="revenir" quantite=""> curry </ingredient> . <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> tomates </ingredient> , <operation> couvrir </operation> , et laisser <operation> cuire </operation> 5 min . <operation ingredients="poisson"> ajouter </operation> les filets de <ingredient action="ajouter"> poisson </ingredient> ( entier ou en morceaux ) , laisser <operation> cuire </operation> 10 min ( suivant l' épaisseur du <ingredient> poisson </ingredient> ) . et lorsque le <ingredient action="cuire"> poisson </ingredient> est <operation ingredients="poisson"> cuit </operation> , <operation ingredients="coriandre"> ajouter </operation> la <ingredient action="ajouter" quantite=""> coriandre </ingredient> hachée , et servir avec un <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

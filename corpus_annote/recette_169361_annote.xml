@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169361">
+<titre>Gâteau au yaourt pomme banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pot de yaourt</p>
+<p>3 pots de farine</p>
+<p>3 oeufs</p>
+<p>1 pot de sucre semoule</p>
+<p>1 demi pot d'huile</p>
+<p>1 demi sachet de levure</p>
+<p>1 sachet de sucre vanillé</p>
+<p>2 pommes</p>
+<p>1 banane</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> . <operation ingredients="yaourt"> verser </operation> dans un saladier , le pot de <ingredient action="verser" quantite="1 pot"> yaourt </ingredient> . <operation ingredients="sucre;levure;farine;huile;sucre;oeufs"> ajoutez </operation> le pot de <ingredient action="ajouter" quantite="1 pot"> sucre </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , la <ingredient action="ajouter" quantite="3 pot"> farine </ingredient> , l' <ingredient action="ajouter"> huile </ingredient> , le <ingredient action="ajouter" quantite="1 pot"> sucre </ingredient> vanillé et les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> . <operation> mélangez </operation> le tout . <operation ingredients="pommes"> lavez </operation> les deux <ingredient action="laver" quantite="2"> pommes </ingredient> <operation> épluchez </operation> les et <operation> couper </operation> les en petit morceaux . <operation ingredients="pâte"> incorporez </operation> les dans la <ingredient action="incorporer"> pâte </ingredient> . <operation ingredients="banane"> faite </operation> de même avec la <ingredient action="faire" quantite="1"> banane </ingredient> . une fois le <operation> mélange </operation> prêt . <operation> huilez </operation> votre <operation> moule </operation> et <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dedans . le four préchauffez <operation> enfourner </operation> a 180 pendant 15 min environ . a la sortie <operation ingredients="sucre"> soupoudrez </operation> de <ingredient action="soupoudrez" quantite="1 pot"> sucre </ingredient> glaçe .
+</preparation>
+</recette>

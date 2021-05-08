@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17010">
+<titre>Mousse au chocolat et aux noisettes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>100 g de beurre</p>
+<p>40 g de sucre en poudre</p>
+<p>3 oeufs</p>
+<p>40 g de noisettes décortiquées</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à soupe de sucre glace</p>
+</ingredients>
+<preparation>
+cassez le <ingredient quantite="200 gramme"> chocolat </ingredient> en morceaux , <operation> mettez </operation> - le dans un saladier <operation> posé </operation> sur un bain - marie . quand le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> est <operation ingredients="chocolat"> fondu </operation> , <operation> mélangez </operation> . hors du feu , <operation ingredients="beurre"> ajoutez </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> en petits morceaux , <operation> mélangez </operation> et <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="40 gramme+1 cuillère à soupe"> sucre </ingredient> en <operation> poudre </operation> puis les jaunes . faites <operation ingredients="noisettes"> griller </operation> les <ingredient action="griller"> noisettes </ingredient> . <operation ingredients="oeufs;sel"> battez </operation> les blancs d' <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="1 pincée"> sel </ingredient> puis <operation ingredients="sucre;glace"> versez </operation> le <ingredient action="verser" quantite="40 gramme+1 cuillère à soupe"> sucre </ingredient> <ingredient action="verser"> glace </ingredient> . <operation ingredients="chocolat;noisettes"> incorporez </operation> les blancs en neige à la préparation au <ingredient action="incorporer" quantite="200 gramme"> chocolat </ingredient> et les <ingredient action="incorporer"> noisettes </ingredient> <operation> grillées </operation> . <operation> versez </operation> dans des coupelles et conservez 2 h au frais .
+</preparation>
+</recette>

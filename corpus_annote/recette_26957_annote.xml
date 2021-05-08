@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26957">
+<titre>Soupe de fèves au lard</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1.5 kg de fèves fraîches</p>
+<p>1 petite laitue</p>
+<p>10 oignons nouveaux</p>
+<p>3 tomates</p>
+<p>3 tiges de céleri</p>
+<p>200 g de lard de poitrine</p>
+<p>1 bouquet garni</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> ebouillanter </operation> rapidement les <ingredient action="ebouillanter" quantite="3"> tomates </ingredient> , les <operation> peler </operation> et les <operation> épépiner </operation> , puis les <operation> couper </operation> en morceaux . <operation ingredients="fèves"> ecosser </operation> les <ingredient action="ecosser"> fèves </ingredient> , si elles sont trop grosses , <operation> retirer </operation> la peau qui les <operation> recouvre </operation> . <operation> emincer </operation> les <ingredient quantite="10"> oignons </ingredient> nouveaux , <operation ingredients="céleri;laitue"> couper </operation> le <ingredient action="couper"> céleri </ingredient> en rondelles et les feuilles de <ingredient action="couper" quantite="1"> laitue </ingredient> en fines lanières . <operation ingredients="poitrine;lardons"> détailler </operation> la <ingredient action="détailler"> poitrine </ingredient> de porc en petits <ingredient action="détailler"> lardons </ingredient> , les faire <operation ingredients="tomates;bouquet"> revenir </operation> dans une cocotte avec 1 cuillère à soupe d' huile d' olive puis <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="10"> oignons </ingredient> , les <ingredient action="revenir" quantite="3"> tomates </ingredient> en morceaux , le céléri et le <ingredient action="revenir" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> verser </operation> de l' eau bouillante à mi-hauteur , <operation ingredients="fèves;laitue"> ajouter </operation> les <ingredient action="ajouter"> fèves </ingredient> et la <ingredient action="ajouter" quantite="1"> laitue </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> et laisser <operation> mijoter </operation> durant 40 minutes . servir très chaud .
+</preparation>
+</recette>

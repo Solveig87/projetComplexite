@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61688">
+<titre>Pommes au chocolat et à la crème patissière</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes</p>
+<p>8 carrés de chocolat à cuire</p>
+<p>1 l de lait</p>
+<p>4 oeufs entiers</p>
+<p>150 g de sucre</p>
+<p>125 g de farine</p>
+<p>poudre de vanille</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="pommes"> creuser </operation> l' intérieur des 8 <ingredient action="creuser" quantite="8"> pommes </ingredient> . <operation ingredients="crème"> préparer </operation> la <ingredient action="préparer"> crème </ingredient> patissière : <operation ingredients="oeufs;sucre"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> et le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> jusqu' à obtenir un <operation> mélange </operation> blanchâtre , puis <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="125 gramme"> farine </ingredient> ainsi qu' une pincée de <operation> poudre </operation> de vanille . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> lait </ingredient> bouilant très doucement et par petite quantité à la préparation tout en tournant , puis <operation> remettre </operation> sur le feu en <operation> remuant </operation> jusqu' à <operation> ébullition </operation> . laisser refroidir 5 minutes faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> avec un peu d' eau pour le liquéfier . ensuite <operation ingredients="pommes;crème"> garnir </operation> les <ingredient action="garnir" quantite="8"> pommes </ingredient> avec la <ingredient action="garnir"> crème </ingredient> patissière et <operation ingredients="chocolat"> recouvrir </operation> de <ingredient action="recouvrir"> chocolat </ingredient> liquide . <operation> mettre </operation> au réfrigirateur environ 1 heure pour <operation> refaire </operation> <operation ingredients="chocolat;pommes"> durcir </operation> le <ingredient action="durcir"> chocolat </ingredient> autour des <ingredient action="durcir" quantite="8"> pommes </ingredient> . servir avec une <ingredient> crème </ingredient> anglaise dans le fond de l' assiette .
+</preparation>
+</recette>

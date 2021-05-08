@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49162">
+<titre>Cannelloni au pesto et à la ricotta</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de filet de poulet</p>
+<p>250 g de ricotta</p>
+<p>plaque de lasagne fraîche ou rouleau de cannelloni</p>
+<p>pesto rouge</p>
+<p>échalotes</p>
+<p>tomates sechées</p>
+<p>olives</p>
+<p>fromage râpé</p>
+<p>coulis de tomate</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;pesto;tomates;olives"> dorer </operation> les blancs de <ingredient action="dorer"> poulet </ingredient> <operation ingredients="huile"> coupés </operation> en petits dés dans de l' <ingredient action="couper"> huile </ingredient> d' olive dans une <operation> poêle </operation> , y <operation ingredients="échalote"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> échalote </ingredient> , le <ingredient action="dorer" quantite=""> pesto </ingredient> , les <ingredient action="dorer" quantite=""> tomates </ingredient> séchées et les <ingredient action="dorer" quantite=""> olives </ingredient> <operation> coupées </operation> en 2 ainsi que la ricotta . prendre une <operation> plaque </operation> à lasagne , la <operation> couper </operation> en 2 ou en 4 selon la grandeur . <operation> farcir </operation> avec la préparation et la <operation> rouler </operation> . prendre un plat pour le four , <operation ingredients="tomate"> verser </operation> dans le fond votre coulis de <ingredient action="verser" quantite=""> tomate </ingredient> , puis <operation> disposer </operation> ensuite les rouleaux et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> fromage </ingredient> râpé . faire <operation> cuire </operation> 20 à 25 minutes à 200 <operation> ° </operation> c ( thermostat 6 / 7 ) .
+</preparation>
+</recette>

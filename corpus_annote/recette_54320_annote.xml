@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54320">
+<titre>Encornets farcis au merlu</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 gros tubes d'encornets</p>
+<p>2 petites boîtes de tomates concassées</p>
+<p>2 filets de merlu</p>
+<p>1 tablette de court-bouillon</p>
+<p>3 cuilléres à soupe d'huile d'olive</p>
+<p>50 g d'oignons émincés</p>
+<p>50 g d'ail haché</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="encornets"> cuire </operation> les tubes d' <ingredient action="cuire"> encornets </ingredient> avec la tablette de court-bouillon dans de l' eau 10 min à partir du frémissement . a la <operation> poêle </operation> , faire <operation ingredients="oignons;ail;huile"> revenir </operation> les <ingredient action="revenir" quantite="50 gramme"> oignons </ingredient> <operation> émincés </operation> et l' <ingredient action="revenir"> ail </ingredient> <operation> haché </operation> dans 2 cuilléres d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> concassées </operation> , laisser <operation> cuire </operation> 5 min . <operation ingredients="merlu"> incorporer </operation> le <ingredient action="incorporer"> merlu </ingredient> grossièrement haché , <operation> assaisonner </operation> , <operation> mélanger </operation> et laisser <operation> mijoter </operation> 10 min . <operation ingredients="encornets"> farcir </operation> les tubes d' <ingredient action="farcir"> encornets </ingredient> avec la préparation . les <operation> disposer </operation> dans 1 plat allant au four , les <operation ingredients="huile"> arroser </operation> avec 1 cuillère d' <ingredient action="arroser"> huile </ingredient> d' olive et les <operation> passer </operation> sous le grill de votre four 10 min . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

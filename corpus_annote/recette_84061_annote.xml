@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84061">
+<titre>Hachis parmentier fermier</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la farce:</p>
+<p>4 grosses saucisses préalablement séchées au frigo pendant 8 jours.</p>
+<p>1 petite carotte</p>
+<p>1 grosse échalote</p>
+<p>1 tomate</p>
+<p>Thym frais</p>
+<p>Pour la purée(en sachet ou en pommes de terre écrasées):</p>
+<p>1/2 l de lait</p>
+<p>1 pincée de curry</p>
+<p>1 pincée de muscade</p>
+<p>100 g de gruyère râpé</p>
+<p>1 tranche de maroilles</p>
+</ingredients>
+<preparation>
+la farce : dans un robot , <operation ingredients="saucisses"> couper </operation> les <ingredient action="couper" quantite="4"> saucisses </ingredient> , l' <ingredient quantite="1"> échalote </ingredient> , la <ingredient quantite="1"> carotte </ingredient> , la <ingredient quantite="1"> tomate </ingredient> , le <ingredient> thym </ingredient> , un bon coup de moulin de <ingredient> poivre </ingredient> ou 5 baies . <operation> hacher </operation> le tout . dans une <operation> poêle </operation> , faire <operation> revenir </operation> la farce sans trop la <operation> cuire </operation> , la <ingredient quantite="4"> viande </ingredient> doit rester onctueuse . <operation> déposer </operation> la farce cuite dans le fond d' un plat . la purée : dans une casserole , faire <operation ingredients="lait"> chauffer </operation> à feu doux le <ingredient action="chauffer"> lait </ingredient> , <operation> enlever </operation> du feu et <operation> rajouter </operation> le sachet de purée , la pincée de <ingredient action="fondre" quantite="1 pincée"> curry </ingredient> et celle de <ingredient action="fondre" quantite="1 pincée"> muscade </ingredient> , le <ingredient action="fondre"> fromage </ingredient> <operation> râpé </operation> et le <ingredient action="fondre" quantite="1 tranche"> maroilles </ingredient> <operation> coupé </operation> en dés , afin qu' il <operation ingredients="curry;muscade;fromage;maroilles"> fonde </operation> rapidement . <operation> mélanger </operation> . garder , comme la farce , une purée onctueuse . il faut garder à l' esprit que le tout va continuer à <operation> cuire </operation> dans le four ! <operation> napper </operation> la purée sur la farce , puis <operation> mettre </operation> le tout 15 minutes au four à 180 <operation> ° </operation> c ( thermostat 6 ) . servir avec une <ingredient> salade </ingredient> de mâche . cabernet d' anjou
+</preparation>
+</recette>

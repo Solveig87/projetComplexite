@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56514">
+<titre>Tarte bananes-poires</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte sablée</p>
+<p>4 bananes</p>
+<p>2 poires</p>
+<p>4 blancs d'oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite=""> pâte </ingredient> au fond d' un <operation> moule </operation> beurré , <operation ingredients="bananes"> déposer </operation> dessus 2 <ingredient action="déposer" quantite="4"> bananes </ingredient> <operation> coupées </operation> en rondelles et <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite=""> pâte </ingredient> à <operation> précuire </operation> . < bt > <operation ingredients="poires;bananes"> mixer </operation> les <ingredient action="mixer" quantite="2"> poires </ingredient> et le reste de <ingredient action="mixer" quantite="4"> bananes </ingredient> . faire <operation> monter </operation> les blancs en neige . <operation ingredients="fruits"> mélanger </operation> soigneusement les <ingredient action="mélanger" quantite="4;2"> fruits </ingredient> et les blancs et les <operation ingredients="pâte;bananes"> verser </operation> sur la <ingredient action="verser" quantite=""> pâte </ingredient> et les <ingredient action="verser" quantite="4"> bananes </ingredient> . <operation> mettre </operation> au four à 180 <operation> ° </operation> c entre 20 et 30 min , jusqu' à ce que le dessus soit bien doré .
+</preparation>
+</recette>

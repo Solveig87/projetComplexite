@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27826">
+<titre>Toast au cheddar et à la bière</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 tranches de pain de mie anglais</p>
+<p>75 g de beurre</p>
+<p>300 g de cheddar</p>
+<p>18 cl de bière brune</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+préchauffer le grill du four . dans une casserole , faire <operation ingredients="beurre;fromage"> fondre </operation> le <ingredient action="fondre" quantite="75 gramme"> beurre </ingredient> et le <ingredient action="fondre"> fromage </ingredient> . <operation ingredients="bière"> arroser </operation> de <ingredient action="arroser" quantite="18 cl"> bière </ingredient> et bien <operation> mélanger </operation> à la spatule en <operation> formant </operation> de huit dans la casserole . <operation ingredients="moutarde"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> et <operation> assaisonner </operation> . faire <operation ingredients="pain;pain"> griller </operation> les tranches de <ingredient action="griller" quantite="12 tranche"> pain </ingredient> de mie au <operation> grille </operation> - <ingredient action="griller" quantite="12 tranche"> pain </ingredient> et les <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir"> fromage </ingredient> . <operation> enfourner </operation> position grill pendant quelques minutes et servir une fois le <ingredient> fromage </ingredient> doré .
+</preparation>
+</recette>

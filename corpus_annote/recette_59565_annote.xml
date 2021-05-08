@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59565">
+<titre>Crevettes à l'infusion de tilleul</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>12 crevettes d'eau douce</p>
+<p>15 g de tilleul séché</p>
+<p>1 oignon</p>
+<p>1 carotte</p>
+<p>1 cuillère à soupe de fumet de poisson déshydraté</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>1 cuillère à soupe de gros sel</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . <operation ingredients="carotte"> peler </operation> la <ingredient action="peler" quantite="1"> carotte </ingredient> et la <operation> couper </operation> en rondelles . faire <operation ingredients="oignon;carottes;poisson;sel"> cuire </operation> l' <ingredient action="cuire" quantite="1"> oignon </ingredient> et les rondelles de <ingredient action="cuire" quantite="1"> carottes </ingredient> dans 1 , 5 litre d' eau avec le fumet de <ingredient action="cuire"> poisson </ingredient> et le gros <ingredient action="cuire" quantite="1 cuillère à soupe"> sel </ingredient> pendant 15 minutes à petits frémissements . <operation ingredients="crevettes"> ajouter </operation> le tilleul et les <ingredient action="ajouter" quantite="12"> crevettes </ingredient> . <operation> retirer </operation> du feu dès que l' <operation> ébullition </operation> reprend , <operation> couvrir </operation> et attendre 10 minutes . <operation ingredients="crevettes"> décortiquer </operation> les <ingredient action="décortiquer" quantite="12"> crevettes </ingredient> en conservant un dernier anneau et la queue . <operation ingredients="bouillon"> recueillir </operation> 50 cl du <ingredient action="recueillir"> bouillon </ingredient> après l' avoir <operation> filtré </operation> par une mousseline dans une casserole . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> et vérifier l' <ingredient quantite="1 cuillère à soupe"> assaisonnement </ingredient> . faire <operation> bouillir </operation> à feu vif pendant 1 minute . <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="12"> crevettes </ingredient> et <operation> retirer </operation> la casserole du feu . <operation ingredients="bouillon;crevettes"> répartir </operation> le <ingredient action="répartir"> bouillon </ingredient> - infusion et les <ingredient action="répartir" quantite="12"> crevettes </ingredient> dans des assiettes creuses préalablement <operation> chauffées </operation> et servir . pour en <operation ingredients="riz"> faire </operation> un plat principal cette préparation peut être completée par du <ingredient action="faire"> riz </ingredient> nature .
+</preparation>
+</recette>

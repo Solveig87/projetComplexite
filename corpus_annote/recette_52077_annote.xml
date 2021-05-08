@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52077">
+<titre>Tarte aux pommes, aux poires et au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte sablée ou feuilletée</p>
+<p>80 g de chocolat noir</p>
+<p>3 oeufs</p>
+<p>3 pommes ( golden ou granit)</p>
+<p>2 poires</p>
+<p>Compote de pomme</p>
+<p>70 g de sucre</p>
+<p>1 verre à moutarde de lait</p>
+<p>2 sachet de sucre vanillé</p>
+<p>Un pot de crème fraîche de 25 cl</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="80 gramme"> chocolat </ingredient> à feu doux en <operation ingredients="lait;crème"> incorporant </operation> le <ingredient action="incorporer"> lait </ingredient> et la moitié du pot de <ingredient action="incorporer" quantite="1 pot"> crème </ingredient> . <operation ingredients="pâte"> etaller </operation> la <ingredient action="etaller" quantite="1"> pâte </ingredient> sablée ou feuilletée , la <operation ingredients="compote"> piquer </operation> à l' aide d' une fourchette , puis étaller sur celle-ci la <ingredient action="piquer" quantite=""> compote </ingredient> , environ 1 centimètre d' épaisseur . <operation ingredients="pommes;poires"> eplucher </operation> les <ingredient action="eplucher" quantite="3"> pommes </ingredient> et les <ingredient action="eplucher" quantite="2"> poires </ingredient> , les <operation ingredients="carré"> couper </operation> en <ingredient action="couper"> carré </ingredient> et les <operation ingredients="compote"> disposer </operation> sur la <ingredient action="disposer" quantite=""> compote </ingredient> . <operation ingredients="oeufs;sucre;sucre;crème"> mélanger </operation> dans un saladier , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="70 gramme"> sucre </ingredient> , le <ingredient action="mélanger" quantite="70 gramme"> sucre </ingredient> vanillé et le restant du pot de <ingredient action="mélanger" quantite="1 pot"> crème </ingredient> . <operation> battre </operation> le tout avec un fouet . <operation ingredients="chocolat;pommes;poires;compote"> verser </operation> le <ingredient action="verser" quantite="80 gramme"> chocolat </ingredient> tiède sur les <ingredient action="verser" quantite="3"> pommes </ingredient> et les <ingredient action="verser" quantite="2"> poires </ingredient> et la <ingredient action="verser" quantite=""> compote </ingredient> , et terminer en <operation> versant </operation> le <operation> mélange </operation> du saladier . <operation> enfourner </operation> ( 200 <operation> ° </operation> ) pour une durée d' environ 30 min . bonne appétit ! ne pas dépasser la quantité de <ingredient quantite="80 gramme"> chocolat </ingredient> ceci donnerait un goût amer à la <ingredient> tarte </ingredient> .
+</preparation>
+</recette>

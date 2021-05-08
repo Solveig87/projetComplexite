@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43954">
+<titre>Salade de chou aux crevettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un chou moyen pommé</p>
+<p>200 g de crevettes décortiquées (surgelées)</p>
+<p>une petite boîte de maïs</p>
+<p>2 carottes rapées </p>
+<p>mayonnaise citronnée et aillée</p>
+<p>un pamplemousse rose pelé </p>
+<p>quelques gouttes de tabasco</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crevettes"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> crevettes </ingredient> . <operation ingredients="bouillon"> eteindre </operation> au premier <ingredient action="eteindre"> bouillon </ingredient> . <operation ingredients="chou"> emincer </operation> finement le <ingredient action="emincer" quantite="1"> chou </ingredient> , et <operation ingredients="carottes"> raper </operation> les <ingredient action="raper"> carottes </ingredient> . dans un grand saladier , <operation ingredients="chou"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> chou </ingredient> , les <ingredient quantite="200 gramme"> crevettes </ingredient> refroidies , les <ingredient> carottes </ingredient> et le <ingredient> maïs </ingredient> . <operation ingredients="mayonnaise;tabasco"> ajouter </operation> la <ingredient action="ajouter" quantite=""> mayonnaise </ingredient> et 3 gouttes de <ingredient action="ajouter"> tabasco </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="pamplemousse"> décorer </operation> avec les quatiers de <ingredient action="décorer" quantite="1"> pamplemousse </ingredient> <operation> pelés </operation> à vif . servir bien frais . possibilité de <operation ingredients="tomates"> décorer </operation> avec des demi tranches de <ingredient action="décorer"> tomates </ingredient> , s' il n' y a pas de <ingredient quantite="1"> pamplemousse </ingredient> . rosé
+</preparation>
+</recette>

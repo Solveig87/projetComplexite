@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68282">
+<titre>Sauté de boeuf sauce caramel lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de boeuf pour faire de la daube</p>
+<p>10 dl d'eau + 20 cuillères à soupe (pour le caramel)</p>
+<p>10 cuillères à café de fond de veau</p>
+<p>2 cuillères à soupe de lait</p>
+<p>20 cl de lait de coco</p>
+<p>15 morceaux de sucre</p>
+<p>de l'huile d'olive, du sel, du poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="boeuf;huile"> revenir </operation> le <ingredient action="revenir" quantite="500 gramme"> boeuf </ingredient> avec un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="veau;viande"> ajouter </operation> 10 dl d' eau et le fond de <ingredient action="ajouter"> veau </ingredient> dans la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> . pendant ce temps <operation ingredients="sucre"> faire </operation> le caramel avec les 15 morceaux de <ingredient action="faire"> sucre </ingredient> et les 20 cuillères à soupe d' eau ( si le caramel ne <operation> bruni </operation> pas c' est qu' il y a trop d' eau , pas de panique il faut attendre un peu que l' eau s' évapore ) . quand le caramel a <operation> bruni </operation> , toujours sur le feu <operation> ajouter </operation> 2 cuillères à soupe de lait et <operation> remuer </operation> énergiquement . <operation> verser </operation> le caramel dans la préparation et <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe+20 cl"> lait </ingredient> de coco . il faut que la <ingredient quantite="500 gramme"> viande </ingredient> cuise pendant 2 h minimum . c' est le principe d' une daube , plus ça <operation> cuit </operation> plus c' est bon !
+</preparation>
+</recette>

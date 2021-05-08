@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171506">
+<titre>Salade légère de pâtes, miettes de crabe et tomates cerises</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 œufs</p>
+<p>20 tomates cerise</p>
+<p>200 g de miettes de crabe</p>
+<p>quelques cornichons</p>
+<p>1 verre de coquillettes</p>
+<p>3 à 4 cuillères de fromage blanc</p>
+<p>1 cuillère à café de moutarde</p>
+<p>1 cuillère à café d'huile d'olive</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="œufs;pâtes"> cuire </operation> les <ingredient action="cuire" quantite="2"> œufs </ingredient> et les <ingredient action="cuire"> pâtes </ingredient> . <operation ingredients="crabe;tomates;cerises;cornichons"> mélanger </operation> les miettes de <ingredient action="mélanger"> crabe </ingredient> , les <ingredient action="mélanger" quantite="20"> tomates </ingredient> <ingredient action="mélanger"> cerises </ingredient> <operation> coupées </operation> en quartiers , les <ingredient action="mélanger" quantite="quelque"> cornichons </ingredient> <operation> coupés </operation> en rondelles . pour la sauce , <operation ingredients="fromage;moutarde;huile;sel;poivre"> mélanger </operation> le <ingredient action="mélanger"> fromage </ingredient> blanc , la <ingredient action="mélanger" quantite="1 cuillère à café"> moutarde </ingredient> , l' <ingredient action="mélanger" quantite="1 cuillère à café"> huile </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> . vous pouvez <operation ingredients="épices"> ajouter </operation> des <ingredient action="ajouter" quantite="1 cuillère à café;1 cuillère à café;;"> épices </ingredient> si vous le souhaitez . dans un saladier , <operation ingredients="œufs"> émietter </operation> les <ingredient action="émietter" quantite="2"> œufs </ingredient> et <operation ingredients="crabe"> ajouter </operation> le <ingredient action="ajouter"> crabe </ingredient> , les <ingredient quantite="20"> tomates </ingredient> et les <ingredient quantite="quelque"> cornichons </ingredient> , les <ingredient> pâtes </ingredient> et la sauce . un plat tout simple à partir des restes du frigo . nombreuses variantes possibles .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58244">
+<titre>Sauté de dinde aux salsifis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de dinde</p>
+<p>1 boîte de petits salsifis</p>
+<p>1 gros oignon</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre.</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> emincez </operation> finement les <ingredient action="emincez" quantite="6"> escalopes </ingredient> ainsi que les <ingredient action="saler" quantite="1"> oignons </ingredient> , <operation ingredients="oignons"> salez </operation> et <operation> poivrez </operation> . <operation> egouttez </operation> les <ingredient> salsifis </ingredient> et <operation> réservez </operation> de côté . <operation ingredients="huile;huile"> chauffez </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans un wook , une fois l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> chaude faites - y <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer" quantite="1"> oignons </ingredient> à feu moyen . <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter" quantite="6"> viande </ingredient> , laissez <operation> dorer </operation> légèrement . <operation ingredients="salsifis"> ajoutez </operation> les <ingredient action="ajouter"> salsifis </ingredient> et laissez <operation> cuire </operation> à feu doux . servez chaud . plat rapide et peu cher . pour les plus gourmand , <operation ingredients="crème;curry"> rajouter </operation> de la <ingredient action="rajouter"> crème </ingredient> fraîche avec du <ingredient action="rajouter"> curry </ingredient> , <operation> porter </operation> à ébulition puis servir . <operation ingredients="riz"> acompagner </operation> d' un <ingredient action="acompagner"> riz </ingredient> de préférence .
+</preparation>
+</recette>

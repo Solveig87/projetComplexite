@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71029">
+<titre>Poulet de Louisiane</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de blancs de poulet découpés en lanières</p>
+<p>300 g de haricots verts cuits et refroidis</p>
+<p>2 grosses tomates coupées en dés</p>
+<p>2 oeufs cuits durs</p>
+<p>150 g de maïs doux</p>
+<p>3 cuillères à soupe de miel</p>
+<p>mayonnaise allégée au citron (faite maison c'est meilleur)</p>
+<p>un peu de paprika (selon votre goût)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;miel"> brunir </operation> les lanières de <ingredient action="brunir"> poulet </ingredient> avec le <ingredient action="brunir" quantite="3 cuillère à soupe"> miel </ingredient> jusqu' à cuisson complète . <operation ingredients="haricots;tomates;oeufs;poulet;mayonnaise"> mélanger </operation> les <ingredient action="mélanger" quantite="300 gramme"> haricots </ingredient> , les <ingredient action="mélanger" quantite="2"> tomates </ingredient> , le mais , les <ingredient action="mélanger"> oeufs </ingredient> durs et le <ingredient action="mélanger"> poulet </ingredient> tiède avec la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> , <operation ingredients="paprika"> saupoudrer </operation> d' un peu de <ingredient action="saupoudrer" quantite="1"> paprika </ingredient> . <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> froid . facile et agréable par temps de chaleur
+</preparation>
+</recette>

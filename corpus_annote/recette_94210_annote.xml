@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94210">
+<titre>Fondue aux fruits d'Automne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat noir</p>
+<p>10 cl de crème liquide</p>
+<p>100 g de noisettes</p>
+<p>100 g de noix</p>
+<p>4 figues rouges</p>
+<p>1 grappe de raisin blanc</p>
+<p>1 grappe de raisin noir</p>
+<p>2 pommes </p>
+<p>2 poires</p>
+<p>1 pincée de cannelle</p>
+<p>1 pincée de muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> préalablement cassé en morceaux au bain marie ( pendant environ 10 min ) . pendant ce temps , <operation ingredients="fruits;pommes;poires"> laver </operation> les <ingredient action="laver" quantite="100 gramme;100 gramme;4;2;2"> fruits </ingredient> , <operation ingredients="figues"> couper </operation> les <ingredient action="couper" quantite="4"> figues </ingredient> , les <ingredient action="laver" quantite="2"> pommes </ingredient> et les <ingredient action="laver" quantite="2"> poires </ingredient> en morceaux . <operation> réserver </operation> au frais . <operation ingredients="noix;noisettes"> hacher </operation> séparément les <ingredient action="hacher" quantite="100 gramme"> noix </ingredient> et les <ingredient action="hacher" quantite="100 gramme"> noisettes </ingredient> à l' aide d' un <operation> mixer </operation> . <operation ingredients="crème;chocolat;épices"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> liquide au <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> <operation> fondu </operation> , puis les <ingredient action="ajouter" quantite="1 pincée;1 pincée"> épices </ingredient> . allumer l' appareil à <operation> fondue </operation> et <operation ingredients="chocolat"> transvaser </operation> le <ingredient action="transvaser" quantite="200 gramme"> chocolat </ingredient> dans son récipient . <operation ingredients="fruits;noisettes;noix"> dresser </operation> les <ingredient action="dresser" quantite="100 gramme;100 gramme;4;2;2"> fruits </ingredient> <operation> coupés </operation> dans chaque assiette , avec une coupelle de <ingredient action="dresser" quantite="100 gramme"> noisettes </ingredient> et une coupelle de <ingredient action="dresser" quantite="100 gramme"> noix </ingredient> hachées . chaque convive trempe les <ingredient quantite="100 gramme;100 gramme;4;2;2"> fruits </ingredient> frais dans la fondue de <ingredient quantite="200 gramme"> chocolat </ingredient> à l' aide d' un pique , puis dans une coupelle de <ingredient quantite="100 gramme;100 gramme;4;2;2"> fruits </ingredient> secs hachés !
+</preparation>
+</recette>

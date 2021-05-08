@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93331">
+<titre>Samoussa sucré</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poire- 1 pomme- 1 cs miel- 1 cs sucre roux- 2 feuilles de brique- Nutella- De l'huile ou du beurre</p>
+</ingredients>
+<preparation>
+. <operation ingredients="fruits"> eplucher </operation> les <ingredient action="eplucher" quantite="1;1"> fruits </ingredient> , les <operation> couper </operation> en morceaux et les faire <operation> cuire </operation> jusqu' à ce qu' ils soient bien <operation> ramollis </operation> . les <operation ingredients="miel;sucre"> mixer </operation> grossièrement avec le <ingredient action="mixer" quantite="1"> miel </ingredient> et le <ingredient action="mixer" quantite="1"> sucre </ingredient> . laisser refroidir . <operation> couper </operation> les feuilles de brique en deux . <operation ingredients="fruits"> remplir </operation> avec les <ingredient action="remplir" quantite="1;1"> fruits </ingredient> <operation> cuits </operation> et <operation> former </operation> les samoussas ( vous trouverez la technique sur plein de sites , c' est facile ! ) dans une poèle , faire <operation ingredients="huile;beurre"> chauffer </operation> un peu d' <ingredient action="chauffer" quantite=""> huile </ingredient> ( ou du <ingredient action="chauffer"> beurre </ingredient> ) et faire <operation> rissoler </operation> les samoussas jusqu' à ce qu' ils soient dorés sur les deux faces . attendre qu' ils soient un peu refroidis , c' est meilleur ! et <operation ingredients="nutella;nutella"> tremper </operation> dans du <ingredient action="tremper" quantite=""> nutella </ingredient> ( variante pour les grands gourmands de <ingredient action="tremper" quantite=""> nutella </ingredient> , vous pouvez en <operation> mettre </operation> à l' intérieur du samoussa ! )
+</preparation>
+</recette>

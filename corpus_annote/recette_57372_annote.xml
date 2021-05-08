@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57372">
+<titre>Pâtes au citron et coeurs d'artichauts</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pâtes fusilli</p>
+<p>1 oignon</p>
+<p>3 citrons</p>
+<p>1 boîte de conserve de coeur d'artichaut</p>
+<p>30 cl de crème</p>
+<p>sel et poivre</p>
+<p>noix de muscade</p>
+<p>parmesan râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pâtes </ingredient> . pendant la cuisson <operation> préparer </operation> la sauce : commencer par <operation ingredients="oignon;citrons"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> et <operation> râper </operation> le zeste de 2 <ingredient action="émincer" quantite="3"> citrons </ingredient> . <operation> mettre </operation> le tout à <operation ingredients="sel;poivre"> revenir </operation> dans une casserole avec du <ingredient action="revenir" quantite=""> sel </ingredient> et du <ingredient action="revenir"> poivre </ingredient> . <operation ingredients="crème;noix"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> et <operation> râper </operation> une petite quantité de <ingredient action="ajouter" quantite=""> noix </ingredient> de muscade . <operation ingredients="coeurs"> couper </operation> finement les <ingredient action="couper"> coeurs </ingredient> d' artichauts et en <operation> mettre </operation> la moitié dans la sauce . une fois les <ingredient action="mélanger" quantite="1 kilogramme"> pâtes </ingredient> <operation> cuites </operation> et la sauce prête , <operation ingredients="pâtes"> mélanger </operation> le tout dans la casserole . avant de servir , <operation ingredients="coeurs"> ajouter </operation> le restant des <ingredient action="ajouter"> coeurs </ingredient> d' artichaut et <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> frais râpé .
+</preparation>
+</recette>

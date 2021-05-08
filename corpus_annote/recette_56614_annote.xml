@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56614">
+<titre>Râble de lapin en rôti provençal</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 râble de lapin</p>
+<p>8 gousses d'ail</p>
+<p>3 cuillères à soupe de tapenade</p>
+<p>3 tomates confites</p>
+<p>20 cl de vin blanc sec</p>
+<p>romarin et thym</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lapin"> désosser </operation> le râble de <ingredient action="désosser"> lapin </ingredient> en <operation> enlevant </operation> la colonne vertébrale . <operation ingredients="viande"> etaler </operation> la <ingredient action="etaler"> viande </ingredient> et <operation> badigeonner </operation> avec la tapenade , <operation ingredients="tomates;confites"> mettre </operation> les <ingredient action="mettre" quantite="3"> tomates </ingredient> <ingredient action="mettre"> confites </ingredient> en les étalant sur la largeur , <operation ingredients="gousses;thym;sel;poivre"> ajouter </operation> 4 <ingredient action="ajouter" quantite="8"> gousses </ingredient> d' ail <operation> émincées </operation> , du <ingredient action="ajouter"> thym </ingredient> et du romarin , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="rôti"> rouler </operation> le râble en <ingredient action="rouler"> rôti </ingredient> et le <operation> ficeler </operation> . le faire <operation ingredients="vin"> colorer </operation> en cocotte puis <operation ingredients="gousses;thym"> ajouter </operation> 4 <ingredient action="ajouter" quantite="8"> gousses </ingredient> d' ail en chemise , <ingredient action="ajouter"> thym </ingredient> et romarin , et le verre de <ingredient action="colorer" quantite="20 cl"> vin </ingredient> blanc , <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> environ 20 minutes . a la fin , <operation> déglacer </operation> le plat . servir en médaillons , <operation> accompagnés </operation> de cubes de polenta <operation ingredients="huile"> frits </operation> dans l' <ingredient action="frire"> huile </ingredient> d' olive , <operation ingredients="jus"> verser </operation> le <ingredient action="verser"> jus </ingredient> du plat autour . rosé du ventoux ou <ingredient> côtes </ingredient> du rhône
+</preparation>
+</recette>

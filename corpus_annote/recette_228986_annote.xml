@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228986">
+<titre>Briquette aux lardons et chevre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>100 g d’allumettes de lardons fumées</p>
+<p>70 g de gruyère râpé</p>
+<p>20 c de crème fraiche</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 branche de persil</p>
+<p>1 fromage de chèvre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons"> cuire </operation> les <ingredient action="cuire"> lardons </ingredient> dans une <operation> poêle </operation> , les laisser bien <operation> frire </operation> . <operation ingredients="lardons;crème"> verser </operation> les <ingredient action="verser"> lardons </ingredient> dans un bol avec la <ingredient action="verser"> crème </ingredient> fraiche , le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> , le <ingredient action="mélanger" quantite="1 pincée"> poivre </ingredient> et le <ingredient action="mélanger"> beurre </ingredient> , <operation ingredients="sel;poivre;beurre"> mélanger </operation> le tout . prendre la <ingredient quantite="1"> pâte </ingredient> feuilletée et la <operation> couper </operation> en quatre . <operation ingredients="carré"> disposer </operation> sur chaque <ingredient action="disposer"> carré </ingredient> la préparation , ensuite <operation ingredients="gruyère;chèvre"> mettre </operation> un peu de <ingredient action="mettre" quantite="70 gramme"> gruyère </ingredient> râpé et de rondelles de <ingredient action="mettre"> chèvre </ingredient> . fermer bien la <ingredient quantite="1"> pâte </ingredient> et <operation> replier </operation> sur les côtés . <operation> mettre </operation> 20 à 30 min au four à 250 <operation> ° </operation> c en surveillant régulièrement .
+</preparation>
+</recette>

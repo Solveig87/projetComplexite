@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13715">
+<titre>5-4-3-2-1</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 cuillères à ssoupe de farine</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>3 pommes </p>
+<p>3 cuillères à soupe de lait</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>2 oeufs</p>
+<p>1 paquet de levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre;lait;huile;oeufs;levure"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> , le <ingredient action="mélanger" quantite="4 cuillère à soupe"> sucre </ingredient> , le <ingredient action="mélanger" quantite="3 cuillère à soupe"> lait </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> , les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et la <ingredient action="mélanger"> levure </ingredient> dans un saladier puis <operation> mettre </operation> le tout daans un <operation> moule </operation> . <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="3"> pommes </ingredient> en quartiers et les <operation ingredients="pâte"> poser </operation> sur la <ingredient action="poser"> pâte </ingredient> . <operation> mettre </operation> au four thermostat 5 pendant 40 mn . <operation ingredients="sucre;glace"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite="4 cuillère à soupe"> sucre </ingredient> <ingredient action="soupoudrer"> glace </ingredient> à la sortie du four . <ingredient> vin </ingredient> moelleux
+</preparation>
+</recette>

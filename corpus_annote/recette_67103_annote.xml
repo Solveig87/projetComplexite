@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67103">
+<titre>Canard façon Orloff</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 magrets de canard</p>
+<p>6 tranches d'emmental (ou gruyère, ou autre)</p>
+<p>4 tranches de lard fumé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromages;magrets"> placez </operation> les tranches de <ingredient action="placer"> fromages </ingredient> entre les 2 <ingredient action="placer" quantite="2"> magrets </ingredient> côté viande . <operation> salez </operation> , <operation> poivrez </operation> , <operation> refermez </operation> , et <operation ingredients="lard"> entourez </operation> avec quelques tranches de <ingredient action="entourer"> lard </ingredient> . fisselez le tout avec la <ingredient> ficelle </ingredient> de cuisson . <operation> enfournez </operation> dans le four préchauffé pendant 25 minutes environ , selon votre goût . . . <operation> ajouter </operation> un peu d' eau durant la cuisson et <operation ingredients="magrets"> arroser </operation> les <ingredient action="arroser" quantite="2"> magrets </ingredient> . <operation> découpez </operation> en tranches . . . régalez -vous !
+</preparation>
+</recette>

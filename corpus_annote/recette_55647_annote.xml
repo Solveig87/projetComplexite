@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55647">
+<titre>Raviolette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de ravioles en plaque (parfum de votre choix)</p>
+<p>150 g de lardons salés ou fumés</p>
+<p>1 gros oignon</p>
+<p>100 g de gruyère râpé ou autre fromage de votre choix</p>
+<p>20 cl de crème fleurette</p>
+<p>20 cl de sauce tomate</p>
+<p>persil, herbes de Provence</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;lardons;huile"> revenir </operation> séparément dans deux <operation> poêles </operation> le gros <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> et les <ingredient action="revenir" quantite="150 gramme"> lardons </ingredient> dans un fond d' <ingredient action="revenir"> huile </ingredient> d' olive . dans un plat à gratin , sur un filet d ' <ingredient> huile </ingredient> d' olive , <operation ingredients="ravioles;lardons;oignon;crème;tomates"> étendre </operation> une couche de <ingredient action="étendre" quantite="500 gramme"> ravioles </ingredient> en <operation> plaque </operation> telles quelles , la moitié des <ingredient action="étendre" quantite="150 gramme"> lardons </ingredient> , la moitié de l' <ingredient action="étendre" quantite="1"> oignon </ingredient> , la moitié du liquide ( <ingredient action="étendre" quantite="20 cl"> crème </ingredient> + coulis de <ingredient action="étendre"> tomates </ingredient> ) , quelques herbes . on continue par une autre couche de <ingredient quantite="500 gramme"> ravioles </ingredient> comme précédemment puis les autres ingrédients et on termine par les dernières <ingredient quantite="500 gramme"> ravioles </ingredient> s' il en reste . on arrose d' un filet d' <ingredient> huile </ingredient> d' olive et crème fleurette . on <operation ingredients="fromage;fromage"> parsème </operation> le <ingredient action="parsemer"> fromage </ingredient> <operation> râpé </operation> ou autre <ingredient action="parsemer"> fromage </ingredient> en <operation> plaque </operation> comme pour la tartiflette . <operation ingredients="fromage"> mettre </operation> au four 20 à 25 min le temps que le <ingredient action="mettre"> fromage </ingredient> gratine . j' ai appelé ce plat " raviolette " car je l' ai conçu sur le modèle de la tartiflette un jour que mon fils m' en réclamait une et que j' étais en panne de <ingredient> pommes </ingredient> de terre . il fallait simplement penser à <operation> rajouter </operation> un liquide pour <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> fraîches directement au four .
+</preparation>
+</recette>

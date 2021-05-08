@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169540">
+<titre>Les roches en noir et blanc</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>un paquet de cookies (du super marché)</p>
+<p>de préférence qu'ils soient tous chocolat</p>
+<p>de la crème </p>
+<p>100 g de chocolat blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="cookies"> émiettez </operation> les <ingredient action="émietter"> cookies </ingredient> <operation ingredients="crème"> montez </operation> la <ingredient action="monter" quantite=""> crème </ingredient> faites <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> et <operation ingredients="crème;crème"> incorporez </operation> le avec la <ingredient action="incorporer" quantite=""> crème </ingredient> jusqu' à l' obtention d' une <ingredient action="incorporer" quantite=""> crème </ingredient> homogène le dressage prenez un verre <operation ingredients="cookies"> déposez </operation> les <ingredient action="déposer"> cookies </ingredient> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> <operation ingredients="chocolat"> ajouter </operation> au dessus un peu de <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> noir <operation> rapée </operation>
+</preparation>
+</recette>

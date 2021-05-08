@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22020">
+<titre>Pizza crevettes poivron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de pâte à pizza</p>
+<p>300 g de crevettes décortiquées</p>
+<p>1 poivron rouge, 1 vert et 1 jaune</p>
+<p>300 g de concentré de tomates</p>
+<p>200 g de jambon cuit</p>
+<p>200 g de champignons</p>
+<p>2 gousses d'ail hachées</p>
+<p>8 olives vertes</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 branchette de thym</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> tous les <ingredient> poivrons </ingredient> en rondelles et les faire <operation ingredients="jambon;ail"> revenir </operation> avec le <ingredient action="revenir"> jambon </ingredient> <operation> coupé </operation> en dès et l' <ingredient action="revenir"> ail </ingredient> dans deux cuillères à soupe d' huile d' olive . préchauffer le four à 240 <operation> ° </operation> c ( thermostat 8) . <operation ingredients="tomate;pâte"> etaler </operation> le <operation> concentré </operation> de <ingredient action="etaler"> tomate </ingredient> sur la <ingredient action="etaler" quantite="400 gramme"> pâte </ingredient> puis , <operation ingredients="poivrons;jambon;champignons"> répartir </operation> dessus les <ingredient action="répartir"> poivrons </ingredient> , le <ingredient action="répartir"> jambon </ingredient> , les <ingredient action="répartir" quantite="200 gramme"> champignons </ingredient> , les <ingredient quantite="8"> olives </ingredient> dénoyautées et <operation> coupées </operation> en deux et les <ingredient quantite="300 gramme"> crevettes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="thym"> parsemer </operation> de <ingredient action="parsemer"> thym </ingredient> . <operation ingredients="huile"> ajouter </operation> 2 ou 3 filets d' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> d' olive et <operation> enfourner </operation> pour 20 min .
+</preparation>
+</recette>

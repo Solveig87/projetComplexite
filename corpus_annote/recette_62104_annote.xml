@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62104">
+<titre>Blancs de poulets éxotiques</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>4 bananes</p>
+<p>1 oignon</p>
+<p>1 tomate</p>
+<p>1 cuillère à café de curry en poudre</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>quelques feuilles de coriandre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;oignons;bananes"> couper </operation> la <ingredient action="couper" quantite="1"> tomates </ingredient> en dés , les <ingredient action="couper" quantite="1"> oignons </ingredient> en dés et les <ingredient action="couper" quantite="4"> bananes </ingredient> en rondelles . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une sauteuse et y faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . <operation ingredients="viande;bananes;tomates;curry"> ajouter </operation> la <ingredient action="ajouter"> viande </ingredient> , les <ingredient action="ajouter" quantite="4"> bananes </ingredient> , les <ingredient action="ajouter" quantite="1"> tomates </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 20 min . <operation ingredients="coriandre"> parsemer </operation> de feuilles de <ingredient action="parsemer" quantite="quelque feuille"> coriandre </ingredient> et servir aussitôt avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

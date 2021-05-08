@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32720">
+<titre>Soupe thaïlandaise aux crevettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de crevettes roses</p>
+<p>40 cl de lait de coco</p>
+<p>60 cl de bouillon de légumes (cubes) </p>
+<p>1 boîtes de minis maïs</p>
+<p>100 g de pois gourmands</p>
+<p>jus de citron vert</p>
+<p>4 brins de coriandre</p>
+<p>2 échalotes hachées</p>
+<p>4 cm de gingembre</p>
+<p>2 gousses d'ail</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faites <operation ingredients="échalotes;gingembre;gousses"> revenir </operation> dans une cuillère à soupe d' huile , les <ingredient action="revenir" quantite="2"> échalotes </ingredient> , le <ingredient action="revenir"> gingembre </ingredient> en morceau et les <ingredient action="revenir" quantite="2"> gousses </ingredient> d' ail . <operation ingredients="lait;bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="40 cl"> lait </ingredient> de coco et le <ingredient action="ajouter" quantite="60 cl"> bouillon </ingredient> de légumes et <operation> porter </operation> à <operation> ébullition </operation> . puis <operation> ajouter </operation> 10 minis maïs <operation ingredients="pois"> coupés </operation> en 2 dans la longueur et les <ingredient action="couper"> pois </ingredient> gourmands effilés et laisser <operation> cuire </operation> 5 mn . y <operation ingredients="crevettes;jus;coriandre"> mettre </operation> les <ingredient action="mettre" quantite="500 gramme"> crevettes </ingredient> <operation> décortiquées </operation> , le <ingredient action="mettre" quantite=""> jus </ingredient> de citron vert et la <ingredient action="mettre"> coriandre </ingredient> <operation> effeuillée </operation> ; laisser <operation> cuire </operation> 5 mn .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37958">
+<titre>"Gâteau galette" aux pommes, noisettes, chocolat et brousse</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 pommes</p>
+<p>200 g de brousse</p>
+<p>15 cl de lait </p>
+<p>2 oeufs</p>
+<p>100 g de sucre roux</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 sachet de levure</p>
+<p>50 g de poudre de noisettes</p>
+<p>50 g de chocolat</p>
+<p>150 g de farine de blé noir</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="5"> pommes </ingredient> en morceaux , les <operation ingredients="beurre;sucre"> mettre </operation> dans une sauteuse avec un morceau de <ingredient action="mettre"> beurre </ingredient> et une cuillérée de <ingredient action="mettre" quantite="100 gramme"> sucre </ingredient> , faire <operation> compoter </operation> . <operation ingredients="oeufs;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> + sucre vanillé . <operation ingredients="noisettes;chocolat;cannelle"> ajouter </operation> la brousse , la <operation> poudre </operation> de <ingredient action="ajouter"> noisettes </ingredient> , le <ingredient action="ajouter" quantite="50 gramme"> chocolat </ingredient> en pépites , <ingredient action="ajouter"> cannelle </ingredient> . <operation> mélanger </operation> . <operation ingredients="farine;levure"> ajouter </operation> la <ingredient action="ajouter" quantite="150 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . <operation ingredients="lait;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> lait </ingredient> et les blancs d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> battus </operation> . <operation> mélanger </operation> . <operation ingredients="compote"> incorporer </operation> la <ingredient action="incorporer"> compote </ingredient> et <operation> mélanger </operation> délicatement . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans une <operation> poêle </operation> beurrée assez large et à bords hauts . <operation> cuire </operation> à feu très doux jusqu' à ce que le fond soit bien pris . <operation> passer </operation> ensuite la <operation> poêle </operation> au four pour <operation ingredients="galette"> cuire </operation> le dessus de la <ingredient action="cuire"> galette </ingredient> , environ un 1 / 4 h. sortir la <operation> poêle </operation> , <operation ingredients="galette"> retourner </operation> la <ingredient action="retourner"> galette </ingredient> en s' aidant d' une assiette plate , afin de <operation> cuire </operation> dans la <operation> poêle </operation> sur feu doux , la face du dessus . servir tiède . assez fastidieux à <operation> cuire </operation> mais très bon et très moelleux
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24866">
+<titre>Omelette parmesan et salami</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 œufs</p>
+<p>120 g de salami coupé en tranches épaisses</p>
+<p>2 cuillères à soupe de parmesan en poudre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salami"> détailler </operation> le <ingredient action="détailler" quantite="120 gramme"> salami </ingredient> en dés , puis les faire <operation> revenir </operation> dans une <operation> poêle </operation> antiadhésive bien chaude . pendant ce temps , <operation ingredients="œufs;sel"> battre </operation> les <ingredient action="battre" quantite="8"> œufs </ingredient> en omelette avec un peu de <ingredient action="battre" quantite=""> sel </ingredient> et poivre , puis <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> parmesan </ingredient> . une fois la préparation bien homogène , la <operation ingredients="salami"> verser </operation> dans le <operation> poêle </operation> sur le <ingredient action="verser" quantite="120 gramme"> salami </ingredient> , puis laisser l’ omelette prendre . la <operation> retourner </operation> à l’ aide d’ une spatule pour la faire <operation> dorer </operation> de l’ autre côté . servir tiède ou froid et <operation ingredients="salade"> accompagner </operation> d’ une <ingredient action="accompagner"> salade </ingredient> verte aux herbes .
+</preparation>
+</recette>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86743">
+<titre>Salade de chou cru au saumon fumé et roquefort</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 chou pomme vert cru- 150 g de roquefort- 4 tranches de saumon fumé- 15 cl de crème fraiche allégée- 1 cuillère à soupe de mayonnaise- poivre et sel selon les goûts</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou;pomme"> détailler </operation> le <ingredient action="détailler" quantite="1"> chou </ingredient> <ingredient action="détailler"> pomme </ingredient> en fines lamelles . <operation ingredients="roquefort"> découper </operation> le <ingredient action="découper" quantite="150 gramme"> roquefort </ingredient> en petits cubes . <operation ingredients="saumon"> découper </operation> également le <ingredient action="découper"> saumon </ingredient> <operation> fumé </operation> en fines lamelles ( ou à défaut , prendre des dés de <ingredient> saumon </ingredient> <operation> fumé </operation> ) . <operation> mélanger </operation> le tout . <operation ingredients="crème;mayonnaise"> mettre </operation> la <ingredient action="mettre" quantite="15 cl"> crème </ingredient> fraiche puis la <ingredient action="mettre" quantite="1 cuillère à soupe"> mayonnaise </ingredient> . <operation> poivrer </operation> et <operation> saler </operation> si besoin .
+</preparation>
+</recette>

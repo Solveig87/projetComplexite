@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170770">
+<titre>Pizza aux légumes etau thon très délicieuse promis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 oignon</p>
+<p>1 courgette</p>
+<p>1 grosse tomate</p>
+<p>1 boule de mozzarella</p>
+<p>huile d'olive</p>
+<p>150 g de thon en boîte </p>
+<p>1 rouleau de pâte à pizza</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="légumes;tomate;huile"> frire </operation> séparément les <ingredient action="frire" quantite="1;1"> légumes </ingredient> ( sauf la <ingredient action="frire" quantite="1"> tomate </ingredient> ) dans l' <ingredient action="frire" quantite=""> huile </ingredient> d' olive . <operation ingredients="tomate"> eplucher </operation> et <operation> épépiner </operation> la <ingredient action="eplucher" quantite="1"> tomate </ingredient> , puis la <operation> poser </operation> sur du papier absorbant . <operation ingredients="thon"> emietter </operation> le <ingredient action="emietter" quantite="150 gramme"> thon </ingredient> , <operation ingredients="mozzarella"> couper </operation> la <ingredient action="couper"> mozzarella </ingredient> en dés . puis <operation ingredients="pâte"> poser </operation> tous les ingrédients sur la <ingredient action="poser"> pâte </ingredient> . ensuite <operation> enfourner </operation> la pizza au four température 170 <operation> ° </operation> , thermostat 6 , pendant 10 min .
+</preparation>
+</recette>

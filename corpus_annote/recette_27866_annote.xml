@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27866">
+<titre>Filet de perche en papillote</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 beau filet de perche</p>
+<p>Pour la sauce :</p>
+<p>4 cuillères à soupe de crème fraîche allégée</p>
+<p>1 tomate</p>
+<p>1/2 oignon</p>
+<p>1 trait de vin blanc sec</p>
+<p>sel, poivre</p>
+<p>basilic sec</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate"> enlever </operation> la peau de la <ingredient action="enlever" quantite="1"> tomate </ingredient> en la <operation> plongeant </operation> quelques secondes dans de l' eau bouillante . la <operation> couper </operation> en petits quartiers et <operation ingredients="oignon"> émincer </operation> la moitié de l' <ingredient action="émincer"> oignon </ingredient> . dans un bol , <operation> mélangez </operation> tous les ingrédients de la sauce . <operation ingredients="perche"> couper </operation> le filet de <ingredient action="couper"> perche </ingredient> en deux et <operation> placer </operation> chaque moitié dans une feuille aluminium , <operation> recouvrir </operation> de sauce et fermer hermétiquement chaque papillote . <operation> mettre </operation> au four à 240 <operation> ° </operation> c pendant 30 mn .
+</preparation>
+</recette>

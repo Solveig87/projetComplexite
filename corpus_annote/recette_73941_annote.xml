@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73941">
+<titre>Carpaccio de boeuf aux aubergines</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>24 tranches de carpaccio de boeuf</p>
+<p>12 tranches d'aubergines grillées surgelées</p>
+<p>vinaigre balsamique</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+sur un plat , <operation ingredients="aubergine;carpaccio"> intercaler </operation> une demie tranche d' <ingredient action="intercaler" quantite="12 tranche"> aubergine </ingredient> , <operation> coupée </operation> dans la longueur , entre chaque tranche de <ingredient action="intercaler" quantite="24 tranche"> carpaccio </ingredient> de boeuf . <operation ingredients="vinaigre"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> balsamique et d' herbes de provence . en général , je propose un assortiment de <ingredient quantite="24 tranche"> carpaccio </ingredient> : aux <ingredient quantite="12 tranche"> aubergines </ingredient> , au <ingredient> pesto </ingredient> ( voir la recette sur le site marmiton ) , et " <ingredient> citron </ingredient> + huile d' olive + basilic " <operation ingredients="olives"> décoré </operation> d' <ingredient action="décorer"> olives </ingredient> . . .
+</preparation>
+</recette>

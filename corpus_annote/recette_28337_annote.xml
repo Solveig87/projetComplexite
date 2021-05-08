@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28337">
+<titre>Poêlée de pommes de terre nouvelles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre bien régulières</p>
+<p>3 cuillères à soupe de ciboulette hachée</p>
+<p>30 g de beurre</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> laver </operation> les <ingredient action="laver" quantite="1 kilogramme"> pommes </ingredient> de terre . les sécher dans un torchon . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> dans une sauteuse . y <operation ingredients="pommes"> mettre </operation> les <ingredient action="mettre" quantite="1 kilogramme"> pommes </ingredient> de terre et <operation> secouer </operation> la casserole pour les <operation ingredients="beurre"> enrober </operation> de <ingredient action="enrober" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="ciboulette"> saupoudrer </operation> la <ingredient action="saupoudrer" quantite="3 cuillère à soupe"> ciboulette </ingredient> hachée , <operation> saler </operation> , <operation> poivrer </operation> et <operation> mouiller </operation> d' un 1 / 2 verre d' eau . laisser <operation ingredients="pommes"> cuire </operation> à feu très doux environ 20 min selon la taille des <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre . dès qu' elles sont tendres à coeur , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> . <operation> remuer </operation> , <operation> chauffer </operation> à feu vif et servir aussitôt .
+</preparation>
+</recette>

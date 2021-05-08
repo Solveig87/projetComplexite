@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22695">
+<titre>Papillotes d'ailes de raie aux poires</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 ailes de raie (soit 300 g environ)</p>
+<p>2 poires</p>
+<p>1 pêche</p>
+<p>1 citron</p>
+<p>10 cl de lait</p>
+<p>2 oignons</p>
+<p>1 bâton de cannelle</p>
+<p>1 étoile de badiane</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poires;pêche;cannelle"> pocher </operation> les deux <ingredient action="pocher" quantite="2"> poires </ingredient> et la <ingredient action="pocher" quantite="1"> pêche </ingredient> pendant 15 mn dans une casserole d' eau avec la badiane et la <ingredient action="pocher"> cannelle </ingredient> . <operation ingredients="fruits"> déposer </operation> les <ingredient action="déposer" quantite="2;1"> fruits </ingredient> <operation> pochés </operation> , préalablement tranchés finement , dans un plat allant au four , dans du papier sulfurisé . <operation ingredients="raie;oignons"> placer </operation> les ailes de <ingredient action="placer"> raie </ingredient> , puis les <ingredient action="placer" quantite="2"> oignons </ingredient> en tranches ; <operation ingredients="jus;lait"> arroser </operation> du <ingredient action="arroser"> jus </ingredient> de citron , et de <ingredient action="arroser" quantite="10 cl"> lait </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , puis <operation> placer </operation> au four à 200 <operation> ° </operation> c pendant 30 minutes . le <ingredient quantite="10 cl"> lait </ingredient> n' est pas indispensable , mais il adoucit le goût du plat . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

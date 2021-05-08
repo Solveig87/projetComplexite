@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167106">
+<titre>Soupe à l'ail d'ours</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 à 200g d'ail d'ours (selon l'intensité du goût de l'ail)</p>
+<p>1 pomme-de-terre farineuse</p>
+<p>2 oignons</p>
+<p>beurre</p>
+<p>1/2 litre de bouillon</p>
+<p>200g de crème fraîche liquide</p>
+<p>sel, poivre, 1 peu de jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hacher </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> , <operation ingredients="pomme"> couper </operation> en dés la <ingredient action="couper"> pomme </ingredient> de terre . les faire <operation ingredients="beurre;olive"> revenir </operation> dans le <ingredient action="revenir"> beurre </ingredient> ( ou l' uile d' <ingredient action="revenir"> olive </ingredient> ) . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> et laisser <operation> cuire </operation> 10 min . <operation> mixer </operation> le tout . <operation ingredients="ail"> blanchir </operation> l' <ingredient action="blanchir"> ail </ingredient> d' ours prestement et le <operation> mettre </operation> ensuite dans de l' eau <operation> glacée </operation> pour qu' il ne perde pas sa couleur verte . <operation ingredients="soupe;crème;jus"> ajouter </operation> à la <ingredient action="ajouter"> soupe </ingredient> l' ail d' ours , la <ingredient action="ajouter" quantite="200 gramme"> crème </ingredient> et un peu de <ingredient action="ajouter"> jus </ingredient> de citron . <operation> mixer </operation> le tout et servir . c' est un repas pas cher si on va dans la forêt pour chercher l' <ingredient> ail </ingredient> d' ours .
+</preparation>
+</recette>

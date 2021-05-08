@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16323">
+<titre>Spaghetti à l'ail et au basilic</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de spaghetti</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>2 belles tomates</p>
+<p>1 gros bouquet de basilic</p>
+<p>2 ou 3 gousses d'ail, selon vos goûts</p>
+</ingredients>
+<preparation>
+<operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> spaghetti </ingredient> al dente . pendant ce temps , <operation ingredients="tomates;ail;basilic"> mixer </operation> les <ingredient action="mixer" quantite="2"> tomates </ingredient> , l' <ingredient action="mixer"> ail </ingredient> et le <ingredient action="mixer"> basilic </ingredient> . <operation ingredients="huile;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="pâtes"> mettre </operation> la sauce dans les <ingredient action="mettre"> pâtes </ingredient> , puis <operation> mélanger </operation> . vous pouvez <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter"> gruyère </ingredient> si vous aimez . ce plat peut se <ingredient> manger </ingredient> chaud ou froid . si vous le dégustez froid , <operation ingredients="beurre;spaghetti"> ajoutez </operation> du <ingredient action="ajouter"> beurre </ingredient> après la cuisson des <ingredient action="ajouter" quantite="400 gramme"> spaghetti </ingredient> . côtes de provence rouge ou rosé
+</preparation>
+</recette>

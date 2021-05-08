@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14127">
+<titre>Riz aux petits pois et au citron</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 verres de riz basmati </p>
+<p>1 citron </p>
+<p>1 boîte de 500 g de petits pois</p>
+<p>2 oignons</p>
+<p>1 pincée de cardamome</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;citron"> revenir </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> les oignons <operation> émincés </operation> avec 1 / 2 <ingredient action="revenir" quantite="1"> citron </ingredient> <operation> coupé </operation> en petits dés ( bien le <operation> laver </operation> et laisser l' écorce ) . pendant ce temps , faire <operation ingredients="riz"> bouillir </operation> l' eau pour le <ingredient action="bouillir" quantite="2 verre"> riz </ingredient> . quand le <ingredient action="cuire" quantite="2 verre"> riz </ingredient> <operation ingredients="riz"> cuit </operation> depuis 5 minutes , <operation ingredients="pois;oignons"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> à la préparation <ingredient action="ajouter" quantite="2"> oignons </ingredient> - citron . quand le <ingredient action="cuire" quantite="2 verre"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , l' <operation> égoutter </operation> puis l' <operation> ajouter </operation> au reste dans la <operation> poêle </operation> . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="jus;citron"> ajouter </operation> la cardamome et le <ingredient action="ajouter"> jus </ingredient> du 1 / 2 <ingredient action="ajouter" quantite="1"> citron </ingredient> restant . laisser les saveurs se <operation> mélanger </operation> quelques minutes .
+</preparation>
+</recette>

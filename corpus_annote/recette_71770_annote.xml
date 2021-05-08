@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71770">
+<titre>Burritos fajitas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 galettes de blé</p>
+<p>500 g de viande hachée</p>
+<p>2 oignons</p>
+<p>3 tomates</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>épices mexicaines</p>
+<p>un peu de piment d'espelette en poudre</p>
+<p>sel, poivre</p>
+<p>beurre</p>
+<p>fromage râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;beurre"> revenir </operation> vos deux <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> hâchés </operation> avec un peu de <ingredient action="revenir"> beurre </ingredient> . une fois <operation> saisis </operation> , <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter" quantite="500 gramme"> viande </ingredient> hachée . quand la <ingredient action="cuire" quantite="500 gramme"> viande </ingredient> est presque totalement <operation ingredients="viande"> cuite </operation> , <operation ingredients="tomates;poivrons"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> et les 2 <ingredient action="ajouter"> poivrons </ingredient> <operation> coupés </operation> en petits morceaux . laissez <operation> cuire </operation> à feu doux pendant 10 min . <operation ingredients="épices;sel;poivre"> assaisonnez </operation> d' <ingredient action="assaisonner" quantite=""> épices </ingredient> mexicaines , de piment d' espelette avec un peu de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation ingredients="tortillas"> réchauffez </operation> les <ingredient action="réchauffer"> tortillas </ingredient> au micro-ondes , <operation> incorporez </operation> la préparation dans vos <ingredient quantite="8"> galettes </ingredient> de blé et <operation ingredients="fromage"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite=""> fromage </ingredient> râpé avant de déguster ! ! ! bon appétit !
+</preparation>
+</recette>

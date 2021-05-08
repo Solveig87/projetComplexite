@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42325">
+<titre>Poulet aux concombres</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 escalope de poulet (ou dinde) par personne (ou cuisses), coupées en dés</p>
+<p>1 carotte en dés</p>
+<p>2 oignons</p>
+<p>2 concombres en bâtonnets</p>
+<p>1 cuillère à soupe d'épices mexicaines </p>
+<p>200 g de champignons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;oignons;carottes;huile"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> , les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="1"> carottes </ingredient> , dans l' <ingredient action="revenir"> huile </ingredient> d' olive . faire <operation ingredients="champignons"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> en lamelles , <operation> mêler </operation> le tout , <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe"> épices </ingredient> . <operation ingredients="concombres"> rajouter </operation> les <ingredient action="rajouter" quantite="2"> concombres </ingredient> . <operation> cuire </operation> durant 15 min , <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1 cuillère à soupe"> assaisonnement </ingredient> . la cuisson est très courte ainsi la <ingredient quantite="1"> viande </ingredient> reste tendre et les <ingredient quantite="2"> concombres </ingredient> <ingredient> croquants </ingredient> . le <ingredient> jus </ingredient> des concombres suffit largement pour obtenir une sauce onctueuse . vite fait , et meilleur <operation> réchauffé </operation> . rosé sec
+</preparation>
+</recette>

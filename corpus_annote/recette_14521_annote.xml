@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14521">
+<titre>Crème de noisettes à la vanille</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 oeufs</p>
+<p>1 l de lait</p>
+<p>de 80 à 100g de sucre en poudre (selon le goût)</p>
+<p>1 bâton de vanille</p>
+<p>200 g de noisettes hachées</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème;lait;sucre;oeufs"> confectionner </operation> une <ingredient action="confectionner"> crème </ingredient> anglaise avec le <ingredient action="confectionner" quantite="1 l"> lait </ingredient> , la vanille , le <ingredient action="confectionner"> sucre </ingredient> et les jaunes d' <ingredient action="confectionner" quantite="6"> oeufs </ingredient> . faire <operation ingredients="noisettes"> blondir </operation> les <ingredient action="blondir" quantite="200 gramme"> noisettes </ingredient> au four ou à la <operation> poêle </operation> ( à sec ) et les <operation> réduire </operation> en <operation> poudre </operation> fine . <operation ingredients="crème"> incorporer </operation> cette <operation> poudre </operation> à la <ingredient action="incorporer"> crème </ingredient> lorsqu' elle est encore tiède et maintenir au réfrigérateur au moins 1 h avant de servir .
+</preparation>
+</recette>

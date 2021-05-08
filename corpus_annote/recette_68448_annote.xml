@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68448">
+<titre>Aiguillettes de poulet à la crème de poivron</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 à 8 aiguillettes de poulet</p>
+<p>1 poivron</p>
+<p>5 cuillères à soupe de crème fraiche allégée</p>
+<p>6 pommes de terre moyennes (en accompagnement)</p>
+<p>fromage râpé</p>
+<p>chapelure</p>
+<p>sel, poivre</p>
+<p>thym</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre environ 20 min dans de l' eau bouillante <operation> salée </operation> . pendant ce temps , dans une <operation> poêle </operation> , faire <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation> réserver </operation> . <operation ingredients="poivron"> mixer </operation> le <ingredient action="mixer" quantite="1"> poivron </ingredient> , le faire <operation ingredients="beurre;thym"> revenir </operation> avec un peu de <ingredient action="revenir"> beurre </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et y <operation> incorporer </operation> un peu de <ingredient action="revenir" quantite=""> thym </ingredient> ( selon les goûts ) , puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="5 cuillère à soupe"> crème </ingredient> fraiche . <operation> remuer </operation> le tout et laisser <operation> cuire </operation> quelques instants jusqu' à ce que le <operation> mélange </operation> devienne onctueux . lorsque les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , les <operation> égoutter </operation> et les <operation> disposer </operation> dans un plat à gratin préalablement beurré . <operation ingredients="aiguillettes"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> aiguillettes </ingredient> de poulet , <operation ingredients="crème"> couvrir </operation> le tout de la <ingredient action="couvrir" quantite="5 cuillère à soupe"> crème </ingredient> de poivron et <operation ingredients="gruyère;chapelure"> parsemer </operation> d' un peu de <ingredient action="parsemer"> gruyère </ingredient> râpé et de <ingredient action="parsemer" quantite=""> chapelure </ingredient> . <operation> enfourner </operation> 20 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) , jusqu' à ce que ce soit bien gratiné .
+</preparation>
+</recette>

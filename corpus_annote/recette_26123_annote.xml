@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26123">
+<titre>Pavés de saumon grillés et légumes  relevés</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pavés de saumon</p>
+<p>6 grosses endives</p>
+<p>2 poivrons rouges</p>
+<p>4 tomates</p>
+<p>poivre</p>
+<p>paprika</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="endives"> cuire </operation> les <ingredient action="cuire" quantite="6"> endives </ingredient> à l' eau ou à la vapeur et bien les <operation> égoutter </operation> ensuite . faire <operation ingredients="pavés;matière"> griller </operation> à la <operation> poêle </operation> les <ingredient action="griller" quantite="4"> pavés </ingredient> dans de la <ingredient action="griller"> matière </ingredient> grasse . faire <operation ingredients="poivrons;beurre"> revenir </operation> les <ingredient action="revenir"> poivrons </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> et y <operation ingredients="tomates"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="4"> tomates </ingredient> et faire <operation> cuire </operation> environ 10 mn ; <operation ingredients="poivre"> ajouter </operation> ensuite un peu de <ingredient action="ajouter" quantite=""> poivre </ingredient> et 2 cuillères de pakrika , bien <operation> remuer </operation> le tout . <operation ingredients="endives;poivron;tomates"> disposer </operation> dans chaque assiette une couche d' <ingredient action="disposer" quantite="6"> endives </ingredient> <operation> recouverte </operation> d' un peu de <operation> mélange </operation> ( <ingredient action="disposer"> poivron </ingredient> <ingredient action="disposer" quantite="4"> tomates </ingredient> . . . ) et <operation ingredients="pavé"> disposer </operation> dessus un <ingredient action="disposer" quantite="4"> pavé </ingredient> de saumon plat peu calorique . <ingredient> vin </ingredient> blanc aligoté ou bandol rosé
+</preparation>
+</recette>

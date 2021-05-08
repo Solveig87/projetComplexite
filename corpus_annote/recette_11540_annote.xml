@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11540">
+<titre>Placek (gâteau polonais)</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>5 cuillères à soupe de sucre</p>
+<p>30 g de de beurre</p>
+<p>10 cl de lait</p>
+<p>2 oeufs</p>
+<p>5 g de levure fraîche</p>
+<p>1 paquet de levure</p>
+</ingredients>
+<preparation>
+<operation ingredients="levain"> préparer </operation> d' abord un <ingredient action="préparer"> levain </ingredient> : <operation ingredients="levure;lait"> mélanger </operation> la <ingredient action="mélanger" quantite="5 gramme"> levure </ingredient> avec le <ingredient action="mélanger" quantite="10 cl"> lait </ingredient> chaud . <operation ingredients="farine"> ajouter </operation> 50 gr de <ingredient action="ajouter" quantite="300 gramme"> farine </ingredient> . laisser <operation> reposer </operation> 1 / 2 h. <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> , le <ingredient quantite="5 cuillère à soupe"> sucre </ingredient> , le <ingredient quantite="30 gramme"> beurre </ingredient> <operation ingredients="farine"> ramolli </operation> et la <ingredient action="ramollir" quantite="300 gramme"> farine </ingredient> . bien <operation> mélanger </operation> . bien <operation ingredients="pâte"> travailler </operation> la <ingredient action="travailler"> pâte </ingredient> . <operation> mettre </operation> dans un <operation> moule </operation> préalablement beurré ( de préférence large et rectangulaire ) et laisser <operation> monter </operation> 1 h au chaud ( la <ingredient> pâte </ingredient> doit doubler de volume ) . <operation ingredients="pâte"> parsemer </operation> de <ingredient action="parsemer"> pâte </ingredient> râpée <operation> préparée </operation> de la manière suivante : bien <operation ingredients="farine;beurre;sucre"> mélanger </operation> 50 g de <ingredient action="mélanger" quantite="300 gramme"> farine </ingredient> avec 40 g de <ingredient action="mélanger" quantite="30 gramme"> beurre </ingredient> et 50 g de <ingredient action="mélanger" quantite="5 cuillère à soupe"> sucre </ingredient> , puis <operation ingredients="pâte"> râper </operation> la <ingredient action="râper"> pâte </ingredient> obtenue avec une <operation> râpe </operation> à gros trous . <operation> mettre </operation> à four chaud ( th . 7 ) environ 45 minutes . se <ingredient> mange </ingredient> froid .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25002">
+<titre>Rognons de porc à la Leffe et moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 rognons de porc</p>
+<p>1 oignon</p>
+<p>1 canette de Leffe</p>
+<p>75 g de crème fraîche</p>
+<p>1 cuillère à soupe de moutarde</p>
+</ingredients>
+<preparation>
+<operation> emincez </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> en petits <ingredient action="revenir"> carrés </ingredient> , le faire <operation ingredients="oignon;carrés;beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> . une fois qu' il est bien doré , <operation ingredients="rognons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> rognons </ingredient> prealablement <operation> coupés </operation> en cubes . faites <operation> dorer </operation> , une fois que les <ingredient action="saisir" quantite="2"> rognons </ingredient> sont bien <operation ingredients="rognons"> saisis </operation> , <operation> ajouter </operation> 15 cl de leffe , <operation> couvrir </operation> environ 10 mn puis <operation ingredients="crème;moutarde"> ajouter </operation> la <ingredient action="ajouter" quantite="75 gramme"> crème </ingredient> fraîche et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> moutarde </ingredient> . laisser <operation> mijoter </operation> à feu doux pendant quelques minutes puis servir <operation ingredients="bière"> accompagné </operation> de frites et de <ingredient action="accompagner"> bière </ingredient> . si vous voyez que le plat est trop liquide , <operation ingredients="farine"> ajoutez </operation> une pincée de <ingredient action="ajouter"> farine </ingredient> mais attention : n' en <operation> mettez </operation> pas trop sinon le plat sera très épais . <ingredient> bière </ingredient> légère ( leffe , chti , st landelain . . . )
+</preparation>
+</recette>

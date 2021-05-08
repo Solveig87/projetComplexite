@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27993">
+<titre>Avocat façon Séverine</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 avocats</p>
+<p>100 g de crevettes grises</p>
+<p>12 bâtonnets de surimi</p>
+<p>3 tranches d'ananas</p>
+<p>sauce cocktail</p>
+<p>1 pincée de curry</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> vider </operation> les <ingredient action="vider" quantite="4"> avocats </ingredient> en <operation ingredients="chair"> coupant </operation> la <ingredient action="couper"> chair </ingredient> en gros morceaux . <operation ingredients="ananas;surimi"> couper </operation> les tranches d' <ingredient action="couper" quantite="3 tranche"> ananas </ingredient> et les bâtonnets de <ingredient action="couper"> surimi </ingredient> en petits morceaux . <operation ingredients="avocats;mayonnaise"> mélanger </operation> <ingredient action="mélanger" quantite="4"> avocats </ingredient> , ananas , surimi et crevettes avec la sauce cocktail ( <ingredient action="mélanger"> mayonnaise </ingredient> + ketchup + whisky ) . <operation ingredients="curry"> ajouter </operation> une pointe de <ingredient action="ajouter" quantite="1 pincée"> curry </ingredient> , puis <operation ingredients="avocats"> remettre </operation> le <operation> mélange </operation> dans les <ingredient action="remettre" quantite="4"> avocats </ingredient> . servir très frais .
+</preparation>
+</recette>

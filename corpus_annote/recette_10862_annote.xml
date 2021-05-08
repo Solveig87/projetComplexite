@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10862">
+<titre>Mousse de thon aux fines herbes</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de thon au naturel</p>
+<p>20 cl de crème fraîche</p>
+<p>10 cl de gelée</p>
+<p>2 cuillères à café de jus de citron</p>
+<p>2 cuillères à café d’huile d’olive extra vierge</p>
+<p>2 cuillères à soupe de ciboulette </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="gelée"> fondre </operation> la <ingredient action="fondre" quantite="10 cl"> gelée </ingredient> sur feu doux , puis laissez - la refroidir . <operation ingredients="thon"> passez </operation> le <ingredient action="passer" quantite="500 gramme"> thon </ingredient> , les herbes et l’ <ingredient action="mixer"> huile </ingredient> au <operation ingredients="huile"> mixer </operation> jusqu’ à obtention d’ une purée fine . <operation ingredients="crème"> fouettez </operation> la <ingredient action="fouetter" quantite="20 cl"> crème </ingredient> . <operation ingredients="gelée;jus"> ajoutez </operation> la <ingredient action="ajouter" quantite="10 cl"> gelée </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à café"> jus </ingredient> de citron au thon . <operation> salez </operation> . <operation> poivrez </operation> . <operation ingredients="crème"> ajoutez </operation> délicatement la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> à ce <operation> mélange </operation> . <operation ingredients="mousse"> mettez </operation> la <ingredient action="mettre"> mousse </ingredient> dans une terrine et <operation> mettez </operation> au réfrigérateur pendant au moins quatre heures . servez avec des toasts chauds , du <ingredient> beurre </ingredient> et des <ingredient> câpres </ingredient> .
+</preparation>
+</recette>

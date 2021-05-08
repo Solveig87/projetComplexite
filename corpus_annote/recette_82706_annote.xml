@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82706">
+<titre>Potage à la tomate et aux bananes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons  </p>
+<p>240 g tomate pelées avec leur jus</p>
+<p>15 cl de bouillon de poule</p>
+<p>3 bananes</p>
+<p>1 cuillère à café de curry</p>
+<p>15 cl de crème fraiche</p>
+<p>Facultatif : 1 pointe de poivre de Cayenne</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> pelez </operation> et <operation> hachez </operation> grossièrement les <ingredient action="peler" quantite="2"> oignons </ingredient> . faites <operation> revenir </operation> dans un faitout , lorsqu' ils deviennent transparents , <operation ingredients="tomates;jus;bouillon;bananes;curry"> ajoutez </operation> les <ingredient action="ajouter" quantite="240 gramme"> tomates </ingredient> , le <ingredient action="ajouter"> jus </ingredient> , le <ingredient action="ajouter" quantite="15 cl"> bouillon </ingredient> , 2 <ingredient action="ajouter" quantite="3"> bananes </ingredient> ( <operation> pelées </operation> et <operation> découpées </operation> ) , le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> , sel , poivre . laissez <operation> mijoter </operation> . <operation> mixez </operation> le tout , <operation ingredients="crème;poivre"> ajoutez </operation> la <ingredient action="ajouter" quantite="15 cl"> crème </ingredient> fraiche , et éventuellement le <ingredient action="ajouter" quantite=""> poivre </ingredient> de cayenne . <operation ingredients="bananes"> décorez </operation> de rondelles de <ingredient action="décorer" quantite="3"> bananes </ingredient> .
+</preparation>
+</recette>

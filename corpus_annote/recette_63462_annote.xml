@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63462">
+<titre>Salade gourmande au poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>environ 400 g de blanc de poulet</p>
+<p>8 tranches d'ananas</p>
+<p>4 oeufs dur</p>
+<p>400 g de salade mixte (frisée, mâche...)</p>
+<p>200 g de petits lardons salé</p>
+<p>20 cl de crème fraîche</p>
+<p>sel et poivre</p>
+<p>1 pincée de cannelle</p>
+<p>vinaigrette ou mayonnaise</p>
+</ingredients>
+<preparation>
+commencez par faire <operation ingredients="poulet"> cuire </operation> les blancs de <ingredient action="cuire"> poulet </ingredient> à la sauteuse ( ou au four ) . ensuite laissez - les refroidir . pendant ce temps , dans un grand plat , <operation ingredients="salade;oeufs;ananas"> mettez </operation> la <ingredient action="mettre" quantite="400 gramme"> salade </ingredient> , les <ingredient action="mettre" quantite="4"> oeufs </ingredient> et les <ingredient action="mettre" quantite="8 tranche"> ananas </ingredient> <operation> coupés </operation> en morceaux . quand les blancs de <ingredient> poulet </ingredient> sont tièdes , <operation> coupez </operation> - les en petits morceaux ( pour ma part , je le fais à la main ) et <operation> rajoutez </operation> - les a la <ingredient quantite="400 gramme"> salade </ingredient> . <operation ingredients="mayonnaise"> mettez </operation> 1 bonne cuillère de vinaigrette ou de <ingredient action="mettre"> mayonnaise </ingredient> et <operation> mélangez </operation> une première fois le tout . faire <operation ingredients="lardons;matière"> cuire </operation> les petits <ingredient action="cuire" quantite="200 gramme"> lardons </ingredient> à la <operation> poêle </operation> avec un peu de <ingredient action="cuire"> matière </ingredient> grasse . lorsqu' ils sont bien dorés , <operation ingredients="crème;sel;poivre;cannelle"> versez </operation> la <ingredient action="verser" quantite="20 cl"> crème </ingredient> fraîche par dessus avec une pincée de <ingredient action="verser" quantite=""> sel </ingredient> , de <ingredient action="verser"> poivre </ingredient> et de <ingredient action="verser" quantite="1 pincée"> cannelle </ingredient> ( celle-ci relève le goût du <ingredient> poulet </ingredient> ) . attendez que la <ingredient action="bouillir" quantite="20 cl"> crème </ingredient> <operation ingredients="crème"> bouillisse </operation> un peu et ensuite <operation ingredients="lardons;salade"> versez </operation> les <ingredient action="verser" quantite="200 gramme"> lardons </ingredient> avec la sauce sur la <ingredient action="verser" quantite="400 gramme"> salade </ingredient> . <operation> mélangez </operation> immédiatement le tout et servez dans les assiettes . il ne vous reste plus qu' à déguster . bon appétit . on peut remplacer l' <ingredient quantite="8 tranche"> ananas </ingredient> par de la <ingredient> pomme </ingredient> ou même des quartiers de <ingredient> mandarines </ingredient> ! j' ai essayé et c' est délicieux ! !
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57262">
+<titre>Saucisses de Francfort au paprika rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un sachet de riz</p>
+<p>un poivron</p>
+<p>une courgette</p>
+<p>une brique de coulis de tomates</p>
+<p>10 saucisses de francfort (ou strasbourg)</p>
+<p>sel, poivre, paprika</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> plongez </operation> le <ingredient action="plonger"> riz </ingredient> dans de l' eau bouillante <operation> salée </operation> . pendant ce temps , <operation> lavez </operation> et <operation ingredients="poivron"> coupez </operation> le <ingredient action="couper" quantite="1"> poivron </ingredient> et la courgette en petits morceaux . faites - les <operation ingredients="margarine"> revenir </operation> dans de la <ingredient action="revenir"> margarine </ingredient> quelques minutes à feu moyen . <operation ingredients="tomates"> incorporez </operation> ensuite le coulis de <ingredient action="incorporer"> tomates </ingredient> , <operation> assaisonnez </operation> à votre goût et laissez <operation> cuires </operation> 20 à 30 minutes . quelques minutes avant la fin de la cuisson , <operation ingredients="saucisses"> ajoutez </operation> les <ingredient action="ajouter" quantite="10"> saucisses </ingredient> <operation> coupées </operation> en rondelles . servir aussitôt <operation ingredients="riz"> accompagné </operation> du <ingredient action="accompagner"> riz </ingredient> . vous pouvez <operation ingredients="oignon"> rajouter </operation> un <ingredient action="rajouter"> oignon </ingredient> , et <operation ingredients="tomates"> mettre </operation> des dés de <ingredient action="mettre"> tomates </ingredient> fraîches .
+</preparation>
+</recette>

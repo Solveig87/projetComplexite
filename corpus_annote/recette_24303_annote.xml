@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24303">
+<titre>Poisson jaune</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de poisson</p>
+<p>1 oignon émincé</p>
+<p>safran</p>
+<p>sel, poivre</p>
+<p>farine</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poisson"> couper </operation> les filets de <ingredient action="couper"> poisson </ingredient> en émincé . les <operation ingredients="farine"> passer </operation> légèrement à la <ingredient action="passer" quantite=""> farine </ingredient> . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> dans une <operation> poêle </operation> contenant un peu d' <ingredient quantite=""> huile </ingredient> d' olive . <operation ingredients="poisson"> ajouter </operation> le <ingredient action="ajouter"> poisson </ingredient> , <operation ingredients="safran"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> safran </ingredient> . lorsque le <ingredient action="saisir"> poisson </ingredient> est <operation ingredients="poisson"> saisi </operation> de tous côtés , <operation> déglacer </operation> à l' eau . <operation> saler </operation> , <operation> poivrer </operation> , <operation> couvrir </operation> et laisser <operation> mijoter </operation> quelques minutes à petit feu . plat très facile et très rapide à <operation> préparer </operation> . se réchauffe très bien . je le sers avec du <ingredient> riz </ingredient> ou des <ingredient> tagliatelles </ingredient> fraîches .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47009">
+<titre>Poêlée de pommes au pain d'épices</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pomme (golden)</p>
+<p>2 tranches de pain d'épices un peu rassi</p>
+<p>30 g de beurre</p>
+<p>1 cuillère à soupe de sucre roux</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="pomme"> couper </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en tranches assez fines . <operation ingredients="pain;carrés"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> pain </ingredient> d' épices en petits <ingredient action="couper"> carrés </ingredient> . faire <operation ingredients="beurre"> chauffer </operation> ( sans <operation> noircir </operation> ) le <ingredient action="chauffer" quantite="30 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et y <operation ingredients="pomme;pain"> mettre </operation> les tranches de <ingredient action="mettre" quantite="1"> pomme </ingredient> et le <ingredient action="mettre" quantite="2 tranche"> pain </ingredient> d' épices pendant 5 min en <operation> retournant </operation> à la spatule pour que ça <operation> dore </operation> de tous côtés . <operation ingredients="sucre"> rajouter </operation> le <ingredient action="rajouter" quantite="1 cuillère à soupe"> sucre </ingredient> et laisser caraméliser 1 minute en surveillant . servir chaud , <operation ingredients="glace;vanille"> accompagné </operation> d' une boule de <ingredient action="accompagner"> glace </ingredient> <ingredient action="accompagner"> vanille </ingredient> . pour <operation> présenter </operation> joliment , on peut <operation ingredients="pomme"> disposer </operation> les tranches de <ingredient action="disposer" quantite="1"> pomme </ingredient> en rosace , le <ingredient quantite="2 tranche"> pain </ingredient> d' épice à côté ou autour et la <ingredient> glace </ingredient> au centre . une idée que j' ai eue en cherchant comment finir du " vieux " <ingredient quantite="2 tranche"> pain </ingredient> d' épices !
+</preparation>
+</recette>

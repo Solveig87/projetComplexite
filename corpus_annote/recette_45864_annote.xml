@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45864">
+<titre>Curry de poulet aux mangues</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>450 g de poulet ou de dinde</p>
+<p>2 belles mangues</p>
+<p>20 cl de lait de coco non sucré</p>
+<p>2 gros oignons (rouges si possibles : plus doux)</p>
+<p>50 g de noix de cajou</p>
+<p>curry en poudre</p>
+<p>huile d’olive</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;huile"> dorer </operation> puis suer les <ingredient action="dorer" quantite="2"> oignons </ingredient> dans une sauteuse avec de l’ <ingredient action="dorer" quantite=""> huile </ingredient> d’ olive . <operation ingredients="viande"> découper </operation> la <ingredient action="découper" quantite="50 gramme"> viande </ingredient> en morceaux et la faire <operation> dorer </operation> également . <operation ingredients="curry"> ajouter </operation> le <ingredient action="ajouter" quantite=""> curry </ingredient> à votre convenance ( vous pourrez <operation> rectifier </operation> par la suite ) <operation ingredients="mangues"> peler </operation> les <ingredient action="peler" quantite="2"> mangues </ingredient> et les <operation> couper </operation> en morceaux ( pas trop petits ) . les <operation ingredients="lait;non"> ajouter </operation> à la préparation ainsi que le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco <ingredient action="ajouter" quantite=""> non </ingredient> <operation> sucré </operation> . laisser <operation> mijoter </operation> une vingtaine de minutes . <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="50 gramme"> noix </ingredient> de cajou au dernier moment ( elles garderont leur coté <ingredient> croquant </ingredient> ) . <operation> saler </operation> et <operation> poivrer </operation> . cette préparation s' <operation ingredients="riz"> accompagne </operation> très bien avec un <ingredient action="accompagne"> riz </ingredient> basmati nature ou légèrement safrané . un rouge léger
+</preparation>
+</recette>

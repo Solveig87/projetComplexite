@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10864">
+<titre>Poisson et légumes au four</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 filets de poisson (cabillaud, colin...)</p>
+<p>200 g de courgettes (1 courgette)</p>
+<p>200 g de brocolis</p>
+<p>200 g de carottes (5 carottes)</p>
+<p>25 cl de bouillon de légumes</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;carottes;brocolis"> mettre </operation> dans un plat à gratin une couche de <ingredient action="mettre" quantite="200 gramme;200 gramme;25 cl"> légumes </ingredient> crus ( <ingredient action="mettre" quantite="200 gramme"> carottes </ingredient> en rondelles , <ingredient action="mettre" quantite="200 gramme"> brocolis </ingredient> , courgettes . . . ) <operation ingredients="poisson"> coupés </operation> en petits morceaux , une couche de filets de <ingredient action="couper"> poisson </ingredient> ( cabillaud . . . ) , puis une nouvelle couche de <ingredient quantite="200 gramme;200 gramme;25 cl"> légumes </ingredient> . <operation ingredients="bouillon"> arroser </operation> d' une tasse de <ingredient action="arroser" quantite="25 cl"> bouillon </ingredient> de légumes , <operation> saler </operation> , <operation> poivrer </operation> . <operation> recouvrir </operation> de papier aluminium et faire <operation> cuire </operation> à 180 <operation> ° </operation> c au four pendant 1 h environ . servir avec du <ingredient> riz </ingredient> . vous pouvez <operation> mettre </operation> autant de couches que vous voulez , mais il faut finir par les <ingredient quantite="200 gramme;200 gramme;25 cl"> légumes </ingredient> .
+</preparation>
+</recette>

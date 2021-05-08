@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36082">
+<titre>Terrine fraiche lasagnes &amp; carottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 carottes</p>
+<p>2 cuillères à soupe de crème fraîche et /ou de parmesan</p>
+<p>2 jaunes d'oeufs</p>
+<p>cumin</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+<p>beurre</p>
+<p>feuilles de lasagne</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carottes;huile"> revenir </operation> les <ingredient action="revenir" quantite="6"> carottes </ingredient> dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation> plonger </operation> les feuilles de lasagne dans le l' eau bouillante pendant 20 min . <operation ingredients="carottes"> mixer </operation> les <ingredient action="mixer" quantite="6"> carottes </ingredient> une fois dorées . <operation ingredients="crème;parmesan;oeuf;cumin;carottes"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et / ou le <ingredient action="ajouter"> parmesan </ingredient> , les jaunes d' <ingredient action="ajouter"> oeuf </ingredient> et le <ingredient action="ajouter" quantite=""> cumin </ingredient> à la purée de <ingredient action="ajouter" quantite="6"> carottes </ingredient> . dans un <operation> moule </operation> à cake beurré , <operation ingredients="carottes"> poser </operation> : feuilles de lasagne , préparation de <ingredient action="poser" quantite="6"> carottes </ingredient> . . . et ainsi de suite ! <operation> poser </operation> quelque chose de lourd sur le dessus de la terrine pour tasser et <operation> réserver </operation> au frais plusieurs heures . cette recette peut se <operation ingredients="carottes;épinards"> faire </operation> avec des <ingredient action="faire" quantite="6"> carottes </ingredient> , mais aussi avec des <ingredient action="faire"> épinards </ingredient> <operation> mélangés </operation> avec de la ricotta , etc.
+</preparation>
+</recette>

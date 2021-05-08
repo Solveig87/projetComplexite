@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54699">
+<titre>Saumon poêlé mariné au citron</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pavés de saumon frais</p>
+<p>1 citron</p>
+<p>poivre, sel</p>
+<p>persil</p>
+<p>crème fraîche</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+laissez <operation ingredients="pavés;jus"> mariner </operation> les <ingredient action="mariner" quantite="2"> pavés </ingredient> de saumon plusieurs heures dans le <ingredient action="mariner"> jus </ingredient> de citron . cuisson : faites <operation ingredients="pavés;huile"> saisir </operation> les <ingredient action="saisir" quantite="2"> pavés </ingredient> quelques minutes de chaque côté avec un peu d' <ingredient action="saisir" quantite=""> huile </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> , puis <operation> réduisez </operation> le feu . a feu très doux , <operation ingredients="crème"> mettez </operation> la <ingredient action="mettre" quantite=""> crème </ingredient> fraîche et <operation> posez </operation> un couvercle , <operation ingredients="persil"> rajoutez </operation> du <ingredient action="rajouter" quantite=""> persil </ingredient> . c' est prêt ! normalement le <ingredient> saumon </ingredient> a un goût prononcé de <ingredient quantite="1"> citron </ingredient> : c' est délicieux !
+</preparation>
+</recette>

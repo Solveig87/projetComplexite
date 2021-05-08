@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24833">
+<titre>Canapés de sardines</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de sardines à l'huile (120 g chaque) </p>
+<p>une noix de beurre</p>
+<p>1/10 de lait</p>
+<p>100 g de gruyère râpé</p>
+<p>4 biscottes</p>
+<p>une tomate</p>
+<p>un oignon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+oter les arêtes et <operation ingredients="sardines"> gratter </operation> légérement la peau des <ingredient action="gratter"> sardines </ingredient> . <operation> ecrasez </operation> - les en <operation ingredients="lait;beurre"> ajoutant </operation> le <ingredient action="ajouter"> lait </ingredient> et le <ingredient action="ajouter"> beurre </ingredient> mou de manière à <operation ingredients="pâte"> constituer </operation> une <ingredient action="constituer"> pâte </ingredient> homogène . <operation ingredients="gruyère"> incorporer </operation> un peu de <ingredient action="incorporer" quantite="100 gramme"> gruyère </ingredient> <operation ingredients="sel"> râpe </operation> , <ingredient action="râpe" quantite=""> sel </ingredient> et poivre . <operation ingredients="biscottes"> tartiner </operation> cette préparation sur les <ingredient action="tartiner" quantite="4"> biscottes </ingredient> . puis y <operation ingredients="tomate;oignon"> déposer </operation> une tranche de <ingredient action="déposer" quantite="1"> tomate </ingredient> , une tranche d' <ingredient action="déposer" quantite="1"> oignon </ingredient> . <operation ingredients="gruyère"> recouvrir </operation> le tout de <ingredient action="recouvrir" quantite="100 gramme"> gruyère </ingredient> râpé . <operation> passer </operation> au four th 180 <operation> ° </operation> c. servir <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11657">
+<titre>Tourte au saumon facile</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pâtes feuilletées </p>
+<p>2 boites de saumon</p>
+<p>1 boite de concentré de tomates</p>
+<p>3 oeufs entiers</p>
+<p>1 jaune d'oeuf</p>
+<p>300 g de gruyère râpé</p>
+<p>20 cl de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="saumon"> mélanger </operation> <ingredient action="mélanger"> saumon </ingredient> émietté ( sans peau , sans arêtes ) , <operation ingredients="tomates;œufs;gruyère;crème;sel"> concentré </operation> de <ingredient action="concentrer"> tomates </ingredient> , les 3 <ingredient action="concentrer"> œufs </ingredient> entiers , le <ingredient action="concentrer" quantite="300 gramme"> gruyère </ingredient> , la <ingredient action="concentrer" quantite="20 cl"> crème </ingredient> fraîche , <ingredient action="concentrer" quantite=""> sel </ingredient> , poivre . sur un <operation> moule </operation> à tarte , étaler la première <ingredient quantite="2"> pâte </ingredient> feuilletée . <operation> piquer </operation> la surface avec une fourchette . <operation> disposer </operation> le <operation> mélange </operation> dessus . <operation ingredients="pâte"> recouvrir </operation> de la deuxième <ingredient action="recouvrir" quantite="2"> pâte </ingredient> feuilletée . sceller les bord de la tourte avec du jaune d’ <ingredient> œuf </ingredient> . <operation> piquer </operation> le dessus du feuilleté avec une fourchette . <operation ingredients="oeuf"> quadriller </operation> au pinceau le dessus avec du jaune d' <ingredient action="quadriller" quantite="3"> oeuf </ingredient> . <operation ingredients="salade"> cuire </operation> 25 min à 250 <operation> ° </operation> c. avec une <ingredient action="cuire"> salade </ingredient> verte , c' est un repas facile à faire blanc sec
+</preparation>
+</recette>

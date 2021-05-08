@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34660">
+<titre>Gratin d'andouillette et pomme de terre au four</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 andouillettes</p>
+<p>8 pommes de terre moyennes</p>
+<p>1 pot de crème fraîche</p>
+<p>2-3 cuillères de moutarde</p>
+<p>1 oignon</p>
+<p>1 paquet de gruyère râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="andouillettes"> griller </operation> les <ingredient action="griller" quantite="4"> andouillettes </ingredient> de chaque côté et laissez les refroidir . une fois refroidies , <operation> coupez </operation> - les en rondelles . faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre , les <operation> éplucher </operation> et les <operation> couper </operation> en rondelles . <operation> hachez </operation> l’ <ingredient quantite="1"> oignon </ingredient> et <operation> mélangez </operation> - le à la <ingredient quantite="1 pot"> crème </ingredient> fraîche et à la <ingredient> moutarde </ingredient> . dans un plat allant au four <operation ingredients="pommes;andouillette"> mettre </operation> une couche de <ingredient action="mettre" quantite="8"> pommes </ingredient> de terre , une couche d’ <ingredient action="mettre" quantite="4"> andouillette </ingredient> . <operation ingredients="crème;fromage"> recouvrez </operation> avec la préparation « <ingredient action="recouvrir" quantite="1 pot"> crème </ingredient> – moutarde – oignon » et <operation> parsemez </operation> de <ingredient action="recouvrir"> fromage </ingredient> <operation> râpé </operation> . <operation> mettez </operation> à four chaud pendant environ 45 mn et dégustez .
+</preparation>
+</recette>

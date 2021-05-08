@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25360">
+<titre>Riz au chou et à la coriandre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>1 kg de chou vert</p>
+<p>2 gros oignons</p>
+<p>20 grains de coriandre</p>
+<p>2 pincée de gingembre en poudre</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou;oignons"> hacher </operation> finement le <ingredient action="hacher" quantite="1 kilogramme"> chou </ingredient> et les <ingredient action="hacher" quantite="2"> oignons </ingredient> . <operation ingredients="oignons;coriandre"> mettre </operation> les <ingredient action="mettre" quantite="2"> oignons </ingredient> dans une cocotte avec un fond d' eau , faire <operation> cuire </operation> quelques minutes , puis <operation ingredients="chou"> rajouter </operation> le <ingredient action="rajouter" quantite="1 kilogramme"> chou </ingredient> , un peu d' eau et les grains de <ingredient action="mettre"> coriandre </ingredient> . laisser <operation> cuire </operation> environ 20 min à feu très doux . faire <operation ingredients="riz;riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> à l' eau bouillante <operation> salée </operation> ( 2 fois le volume de <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> en eau , soit environ 50 cl ) , environ 20 min à feu doux . le <ingredient quantite="250 gramme"> riz </ingredient> doit avoir absorbé toute l' eau . <operation ingredients="riz;chou"> mélanger </operation> le <ingredient action="mélanger" quantite="250 gramme"> riz </ingredient> avec le <ingredient action="mélanger" quantite="1 kilogramme"> chou </ingredient> <operation> cuit </operation> , <operation ingredients="gingembre;huile"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 pincée"> gingembre </ingredient> et <operation> arroser </operation> d' un trait d' <ingredient action="saupoudrer" quantite=""> huile </ingredient> d' olive . <operation> saler </operation> , <operation> poivrer </operation> et servir .
+</preparation>
+</recette>

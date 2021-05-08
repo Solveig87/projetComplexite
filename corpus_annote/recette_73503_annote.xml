@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73503">
+<titre>Salade de riz au surimi et aux crevettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de riz (trois riz)</p>
+<p>sel pour la cuisson du riz</p>
+<p>3 sachets de miettes à la chair de crabe (surimi)</p>
+<p>3 pamplemousses rouges</p>
+<p>200 g de grosses crevettes cuites et décortiquées</p>
+<p>1 petit pot de mayonnaise (rayon frais)</p>
+<p>curry</p>
+<p>environ 20 brins de ciboulette</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="400 gramme"> riz </ingredient> , l' <operation> égoutter </operation> et le laisser refroidir . <operation ingredients="pamplemousses"> couper </operation> les <ingredient action="couper" quantite="3"> pamplemousses </ingredient> en 2 et <operation> enlever </operation> les filets , les <operation> égoutter </operation> et en <operation> préserver </operation> 4 cuillères à soupe de jus . <operation ingredients="mayonnaise;jus;curry"> fouetter </operation> la <ingredient action="fouetter"> mayonnaise </ingredient> avec le <ingredient action="fouetter"> jus </ingredient> de pamplemousse et le <ingredient action="fouetter" quantite=""> curry </ingredient> . <operation ingredients="riz;surimi;crevettes;pamplemousses;ciboulette;mayonnaise"> mélanger </operation> le <ingredient action="mélanger" quantite="400 gramme"> riz </ingredient> avec les miettes de <ingredient action="mélanger"> surimi </ingredient> , les <ingredient action="mélanger" quantite="200 gramme"> crevettes </ingredient> , les <ingredient action="mélanger" quantite="3"> pamplemousses </ingredient> , la <ingredient action="mélanger"> ciboulette </ingredient> <operation> coupée </operation> aux ciseaux , ainsi que la <ingredient action="mélanger"> mayonnaise </ingredient> . <operation> ajouter </operation> un demi-poivron rouge finement <operation> coupé </operation> en dés .
+</preparation>
+</recette>

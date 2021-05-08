@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45911">
+<titre>Compote pommes bananes et noix de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 pommes Golden</p>
+<p>2 bananes</p>
+<p>2 sachets de sucre vanillé</p>
+<p>2 cuillères à soupe de noix de coco en poudre</p>
+<p>2 verres d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="5"> pommes </ingredient> et les <operation> couper </operation> en dés . <operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> en rondelles . <operation ingredients="pommes;banane;sucre;noix"> mettre </operation> les dés de <ingredient action="mettre" quantite="5"> pommes </ingredient> , les rondelles de <ingredient action="mettre" quantite="2"> banane </ingredient> , les deux sachets de <ingredient action="mettre"> sucre </ingredient> vanillée , et les deux cuillères de <ingredient action="mettre" quantite="2 cuillère à soupe"> noix </ingredient> de coco en <operation> poudre </operation> dans une casserole . <operation> ajouter </operation> les deux verres d' eau , et laisser <operation> réduire </operation> pendant 1 heure , à feu doux ( <operation> remuer </operation> de temps en temps ) . une fois <operation> cuit </operation> , on peut la <operation> mixer </operation> ( ou <ingredient quantite="2;2 verre"> non </ingredient> ) , selon les goûts car il reste quelques morceaux dans la casserole . laisser refroidir , et déguster avec des <ingredient> galettes </ingredient> saint-michel ou tout autre <operation> accompagnement </operation> . un petit <ingredient> cidre </ingredient> doux !
+</preparation>
+</recette>

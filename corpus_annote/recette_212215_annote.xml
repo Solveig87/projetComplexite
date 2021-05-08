@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212215">
+<titre>Délice chocolat-café</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la panacotta au chocolat:</p>
+<p>15 cl de lait</p>
+<p>45 cl de crème liquide</p>
+<p>120 g de chocolat</p>
+<p>50 g de sucre</p>
+<p>2 g d'agar-agar</p>
+<p>Pour la chantilly au café :</p>
+<p>20 cl de crème fraîche bien froide</p>
+<p>1 petite tasse de café fort</p>
+<p>20 g de sucre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la panacotta . faire <operation ingredients="crème;lait"> bouillir </operation> la <ingredient action="bouillir" quantite="45 cl+20 cl"> crème </ingredient> et le <ingredient action="bouillir" quantite="15 cl"> lait </ingredient> . <operation ingredients="chocolat;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> chocolat </ingredient> et le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> sucre </ingredient> . une fois qu' il est bien <operation> fondu </operation> , <operation ingredients="agar"> ajouter </operation> l' <ingredient action="ajouter" quantite="2 gramme"> agar </ingredient> - agar que vous aurez <operation ingredients="lait"> dilué </operation> dans un peu de <ingredient action="diluer" quantite="15 cl"> lait </ingredient> . laisser sur le feu environ 2 min en <operation> remuant </operation> . <operation> répartir </operation> le <operation> mélange </operation> dans 4 verrines . laisser refroidir puis <operation> placer </operation> au frais . au moment de servir , <operation ingredients="crème"> monter </operation> la <ingredient action="monter" quantite="45 cl+20 cl"> crème </ingredient> en chantilly puis , lorsqu' elle a bien épaissi , <operation ingredients="café;sucre"> ajouter </operation> le <ingredient action="ajouter"> café </ingredient> et le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> sucre </ingredient> . <operation> battre </operation> jusqu' à une consistance onctueuse . <operation ingredients="chantilly;chocolat"> dresser </operation> la <ingredient action="dresser"> chantilly </ingredient> sur la panacotta au <ingredient action="dresser" quantite="120 gramme"> chocolat </ingredient> . déguster aussitôt . le <ingredient> café </ingredient> et le <ingredient quantite="120 gramme"> chocolat </ingredient> se marient très bien ensemble . le contraste entre les deux textures , l' onctuosité de la <ingredient> chantilly </ingredient> et la fermeté de la panacotta , est intéressant . un bon petit <ingredient quantite="45 cl+20 cl;120 gramme;50 gramme+20 gramme"> dessert </ingredient> léger . .
+</preparation>
+</recette>

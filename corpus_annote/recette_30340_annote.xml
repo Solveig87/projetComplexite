@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30340">
+<titre>Poêlée de bananes sauce chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 bananes</p>
+<p>100 g de chocolat fondant</p>
+<p>25 g de beurre plus une noix à ajouter pour daire fondre le chocolat</p>
+<p>5 cl d'eau</p>
+<p>3 cl de rhum</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="chocolat;noix"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> dans l' eau avec la <ingredient action="fondre" quantite="25 gramme"> noix </ingredient> de beurre . <operation ingredients="rhum"> ajoutez </operation> y le <ingredient action="ajouter" quantite="3 cl"> rhum </ingredient> quand le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> est <operation ingredients="chocolat"> fondu </operation> . <operation ingredients="beurre"> mettez </operation> le <ingredient action="mettre"> beurre </ingredient> dans une <operation> poêle </operation> pour le faire <operation> chauffer </operation> . faites y <operation ingredients="bananes"> dorer </operation> ensuite les <ingredient action="dorer" quantite="2"> bananes </ingredient> <operation> coupées </operation> en deux dans le sens de la longueur . <operation ingredients="bananes;fruits;chocolat"> disposez </operation> joliment les <ingredient action="disposer" quantite="2"> bananes </ingredient> dans un plat et <operation> nappez </operation> les <ingredient action="disposer" quantite="2;25 gramme"> fruits </ingredient> encore chaud de sauce au <ingredient action="disposer" quantite="100 gramme"> chocolat </ingredient> . <operation ingredients="bananes"> flambez </operation> les <ingredient action="flamber" quantite="2"> bananes </ingredient> au rhum si vous le souhaitez mais faites le avant de les <operation ingredients="chocolat"> napper </operation> de sauce au <ingredient action="napper" quantite="100 gramme"> chocolat </ingredient> .
+</preparation>
+</recette>

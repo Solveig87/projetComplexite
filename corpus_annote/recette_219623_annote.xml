@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="219623">
+<titre>Rôti de veau aux tomates et aux olives</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de veau dans l'épaule (900 g environ)</p>
+<p>1 kg de tomates</p>
+<p>125 g d'olives dénoyautées</p>
+<p>4 cuillerées d'huile d'olive</p>
+<p>2 gousses d'ail</p>
+<p>1 pincée de feuilles séchées d'estragon </p>
+<p>poivre </p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="rôti;huile"> revenir </operation> le <ingredient action="revenir" quantite="1"> rôti </ingredient> dans une cocote avec l' <ingredient action="revenir"> huile </ingredient> d' olive . <operation> assaisonnez </operation> , <operation> salez </operation> et <operation> poivrez </operation> . <operation> ajouter </operation> un peu d' eau , <operation> couvrez </operation> et laissez <operation> cuire </operation> 1 h en <operation> retournant </operation> souvent . pendant ce temps , <operation> hachez </operation> l' <ingredient> ail </ingredient> . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="1 kilogramme"> tomates </ingredient> en morceaux puis <operation> ajoutez </operation> - les à la <ingredient action="ajouter" quantite="1"> viande </ingredient> , <operation ingredients="viande;estragon"> ajoutez </operation> l' <ingredient action="ajouter"> estragon </ingredient> . au bout d' une heure <operation ingredients="olives;ail"> ajouter </operation> les <ingredient action="ajouter"> olives </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> et laisser <operation> mijoter </operation> 15 min . servir le tout avec du <ingredient> riz </ingredient> basmati ou du <ingredient> riz </ingredient> parfumé . <ingredient> vin </ingredient> rouge : madiran
+</preparation>
+</recette>

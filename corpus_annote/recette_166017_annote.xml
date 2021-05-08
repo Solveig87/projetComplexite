@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166017">
+<titre>Sandwichs sucrés</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 quatre-quarts au beurre Ker Cadélac</p>
+<p>De la confiture de fraise</p>
+<p>De la pâte à tartiner </p>
+<p>Du chocolat noir fondu </p>
+<p>Des noisettes </p>
+<p>Des myrtilles </p>
+<p>Des poires </p>
+<p>Des feuilles de menthe</p>
+</ingredients>
+<preparation>
+sandwich <operation> sucré </operation> aux baies : <operation ingredients="quatre-quarts"> coupez </operation> 2 tranches de <ingredient action="couper" quantite="1"> quatre-quarts </ingredient> . <operation ingredients="confiture"> tartinez </operation> le dessus de la tranche du haut de <ingredient action="tartinez" quantite=""> confiture </ingredient> de fraise . <operation ingredients="confiture"> tartinez </operation> le dessus de la tranche du bas de <ingredient action="tartinez" quantite=""> confiture </ingredient> de fraise puis <operation ingredients="myrtilles"> mettez </operation> des <ingredient action="mettre" quantite=""> myrtilles </ingredient> ou des autres petites baies . <operation ingredients="menthe"> mettez </operation> une feuille de <ingredient action="mettre"> menthe </ingredient> pour <operation> décorer </operation> le tout . <ingredient> sandwich </ingredient> <operation> sucré </operation> nutella - noisette : <operation ingredients="quatre-quarts"> coupez </operation> 2 tranches de <ingredient action="couper" quantite="1"> quatre-quarts </ingredient> . <operation ingredients="nutella"> tartinez </operation> le dessus de <ingredient action="tartinez"> nutella </ingredient> de chaque de tranche . <operation ingredients="noisettes;sandwich"> concassez </operation> les <ingredient action="concasser" quantite=""> noisettes </ingredient> et mettez- en à l' intérieur du <ingredient action="concasser"> sandwich </ingredient> et sur le dessus . <ingredient> sandwich </ingredient> <operation> sucré </operation> choco - <ingredient quantite="1"> poire </ingredient> ( mon préféré ) : <operation ingredients="quatre-quarts"> coupez </operation> 2 tranches de <ingredient action="couper" quantite="1"> quatre-quarts </ingredient> . faites <operation ingredients="chocolat"> fondre </operation> votre <ingredient action="fondre" quantite=""> chocolat </ingredient> au bain marie . quand votre <ingredient action="fondre" quantite=""> chocolat </ingredient> est <operation ingredients="chocolat;chocolat"> fondu </operation> , <operation> tartinez </operation> le dessus de chaque tranche de <ingredient action="fondre" quantite=""> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="poire"> coupez </operation> des rondelles de <ingredient action="couper" quantite="1"> poire </ingredient> et <operation ingredients="sandwich"> mettez </operation> -en à l' intérieur du <ingredient action="mettre"> sandwich </ingredient> et sur le dessus . <operation ingredients="sandwichs"> faites </operation> autant de <ingredient action="faire"> sandwichs </ingredient> <operation> sucrés </operation> que vous voulez et régalez -vous . vous pouvez remplacez tous ces ingrédients par ce que vous voulez ! un <ingredient> bordeaux </ingredient> blanc
+</preparation>
+</recette>

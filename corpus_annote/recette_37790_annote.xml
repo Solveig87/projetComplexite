@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37790">
+<titre>Fondue au vin rouge</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg de viande de boeuf pour fondue</p>
+<p>1 l de bon vin rouge</p>
+<p>200 g de champignons émincés</p>
+<p>200 g de lardons fumés</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>1 cube de bouillon de volaille</p>
+<p>cumin</p>
+<p>4 épices</p>
+<p>thym</p>
+<p>feuilles de laurier</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans le caquelon , faire <operation ingredients="lardons;beurre;champignons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> avec les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> vin </ingredient> rouge , les <ingredient action="laisser" quantite="4"> épices </ingredient> , <operation ingredients="épices"> laisser </operation> <operation> mijoter </operation> 45 à 50 min avant de commencer la fondue . n' hésitez pas à déguster les <ingredient quantite="200 gramme"> champignons </ingredient> et les <ingredient> lardons </ingredient> avec la <ingredient quantite="1,5 kilogramme"> viande </ingredient> . vous pourrez aussi les utiliser ensuite pour une omelette ou une cassolette de <ingredient quantite="200 gramme"> champignons </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28766">
+<titre>Neige de fromage blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de fromage blanc</p>
+<p>225 g de sucre</p>
+<p>2 sachets de sucre vanillé</p>
+<p>3 oeufs</p>
+<p>15 cl de crème entière très froide</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;sucres;oeufs"> mélangez </operation> le <ingredient action="mélanger" quantite="300 gramme"> fromage </ingredient> blanc avec les <ingredient action="mélanger" quantite="225 gramme"> sucres </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="3"> oeufs </ingredient> . <operation ingredients="crème;oeufs"> montez </operation> la <ingredient action="monter" quantite="15 cl"> crème </ingredient> en chantilly et les <ingredient action="monter" quantite="3"> oeufs </ingredient> en neige puis <operation> incorporez </operation> - les délicatement au <operation> mélange </operation> précédent . <operation ingredients="fromage"> répartissez </operation> la neige de <ingredient action="répartir" quantite="300 gramme"> fromage </ingredient> blanc dans des <operation> coupes </operation> et servez bien frais .
+</preparation>
+</recette>

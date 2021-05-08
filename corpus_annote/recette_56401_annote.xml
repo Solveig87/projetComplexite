@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56401">
+<titre>Soupe de brocolis au lait de coco</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de brocolis</p>
+<p>15 cl de lait de coco</p>
+<p>1 cube de bouillon de volaille</p>
+<p>1/2 oignon</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir"> oignon </ingredient> <operation ingredients="huile"> émincé </operation> dans de l' <ingredient action="émincer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="bouillon"> verser </operation> 1 l d' eau froide dans la même casserole et le <ingredient action="verser"> bouillon </ingredient> cube . pendant ce temps , <operation> détacher </operation> et <operation ingredients="bouquets"> mettre </operation> à part les petits <ingredient action="mettre"> bouquets </ingredient> du brocolis et <operation> émincer </operation> la tige en petits morceaux . quand le <ingredient> bouillon </ingredient> bout , <operation> rajouter </operation> la tige dans la casserole . <operation> couvrir </operation> , <operation> porter </operation> à <operation> ébullition </operation> et laisser <operation> mijoter </operation> à feu doux 15 minutes . ensuite , <operation ingredients="bouquets;bouquets"> rajouter </operation> les <ingredient action="rajouter"> bouquets </ingredient> , bien <operation> remuer </operation> , <operation> couvrir </operation> et laisser <operation> mijoter </operation> 10 minutes , jusqu' à ce que les <ingredient action="rajouter"> bouquets </ingredient> soient tendres et s' <operation> écrasent </operation> bien à la cuillère . hors du feu , <operation ingredients="lait"> rajouter </operation> le <ingredient action="rajouter" quantite="15 cl"> lait </ingredient> de coco et <operation> mixer </operation> . vous obtiendrez une <ingredient> soupe </ingredient> veloutée et très douce au palais !
+</preparation>
+</recette>

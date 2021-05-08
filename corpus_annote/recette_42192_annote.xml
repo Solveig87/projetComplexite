@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42192">
+<titre>Parmentier aux légumes et chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un reste de ratatouille</p>
+<p>3 grosses pommes de terres</p>
+<p>1/2 bûche de chèvre</p>
+<p>150 g de viande hachée</p>
+<p>huile d'olive</p>
+<p>épices et condiments au choix</p>
+<p>fromage rapé</p>
+<p>50 cl de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre après les avoir <operation> pelées </operation> . en attendant faire <operation ingredients="viande"> revenir </operation> dans une <operation> poêle </operation> la <ingredient action="revenir" quantite="150 gramme"> viande </ingredient> hachée . <operation> assaisonner </operation> . <operation> tapisser </operation> le fond d' un plat avec le reste de ratatouille . quand les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terres sont bien <operation ingredients="pommes"> cuites </operation> , les <operation> réduire </operation> en purée dans laquelle on <operation ingredients="chèvre;lait"> rajoute </operation> le <ingredient action="rajoute"> chèvre </ingredient> émietté et le <ingredient action="rajoute" quantite="50 cl"> lait </ingredient> . bien <operation> mélanger </operation> et <operation> saler </operation> . quand la <ingredient action="rajouter" quantite="150 gramme"> viande </ingredient> est dorée , la <operation ingredients="viande"> rajouter </operation> dans le plat sur la couche de ratatouille . finir avec une couche de la purée au <ingredient> chèvre </ingredient> . <operation ingredients="fromage"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite=""> fromage </ingredient> rapé et <operation> enfourner </operation> quelques minutes .
+</preparation>
+</recette>

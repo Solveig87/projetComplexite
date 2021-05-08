@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195617">
+<titre>Salade avocat tomate et tomme de brebis</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 avocats bien mûrs</p>
+<p>2 tomates</p>
+<p>1 oignon doux</p>
+<p>tomme de brebis</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats;tomates"> coupez </operation> en dés les <ingredient action="couper" quantite="2"> avocats </ingredient> et les <ingredient action="couper" quantite="2"> tomates </ingredient> . <operation ingredients="oignon"> emincez </operation> l' <ingredient action="emincez" quantite="1"> oignon </ingredient> , <operation ingredients="tomme"> coupez </operation> la <ingredient action="couper" quantite=""> tomme </ingredient> de brebis en cubes et <operation> mélangez </operation> tous les ingrédients dans un saladier . <operation ingredients="sel;poivre"> préparez </operation> une vinaigrette : 1 cuillère à soupe de vinaigre balsamique , 1 cuillère à soupe d' huile , du <ingredient action="préparer"> sel </ingredient> , du <ingredient action="préparer"> poivre </ingredient> . vite fais , frais et original !
+</preparation>
+</recette>

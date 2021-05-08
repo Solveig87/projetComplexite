@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21653">
+<titre>Gâteau à la banane rapide</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la génoise:</p>
+<p>3 oeufs (blancs en neige) </p>
+<p>1 paquet sucre vanille</p>
+<p>1 paquet 1/2 cuillerée à soupe d'eau tiède</p>
+<p>90 g de farine</p>
+<p>90 g de sucre</p>
+<p>1 peu de levure chimique</p>
+<p>Pour la crème faire un pudding avec:</p>
+<p>1/2 litre de lait</p>
+<p>1 paquet 1/2 de poudre à flan</p>
+<p>1 oeuf</p>
+<p>125 g de beurre</p>
+<p>125 g de margarine</p>
+<p>125 g de sucre glace</p>
+<p>2 cuillerées à soupe de Rhum</p>
+<p>Pour le chocolat:</p>
+<p>20 cl de crème fraîche</p>
+<p>200 g de chocolat noir</p>
+<p>3 cuillerées à soupe de sucre glace</p>
+</ingredients>
+<preparation>
+pour la génoise : <operation> battre </operation> les blancs en neige . <operation ingredients="oeufs;sucre;sucre;vanille"> battre </operation> les jaunes d' <ingredient action="battre" quantite="3+1"> oeufs </ingredient> avec le <ingredient action="battre" quantite="90 gramme+125 gramme"> sucre </ingredient> et le <ingredient action="battre" quantite="90 gramme+125 gramme"> sucre </ingredient> <ingredient action="battre"> vanille </ingredient> , <operation ingredients="farine;levure"> ajoutez </operation> l' eau tiède , la <ingredient action="ajouter" quantite="90 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> chimique et pour finir les blancs en neige . <operation> mettre </operation> dans un <operation> moule </operation> à charnière de 27 cm de diamètre environ et <operation> cuire </operation> pendant 20 mn sur th 5 . laisser refroidir la génoise . pour la <ingredient quantite="20 cl"> crème </ingredient> : <operation ingredients="pudding;lait"> faire </operation> le <ingredient action="faire"> pudding </ingredient> avec le <ingredient action="faire"> lait </ingredient> . laisser refroidir . <operation ingredients="oeuf;sucre;glace;beurre;margarine"> mélanger </operation> l' <ingredient action="mélanger" quantite="3+1"> oeuf </ingredient> avec le <ingredient action="mélanger" quantite="90 gramme+125 gramme"> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> , le <ingredient action="mélanger" quantite="125 gramme"> beurre </ingredient> et la <ingredient action="mélanger" quantite="125 gramme"> margarine </ingredient> . <operation ingredients="rhum"> ajoutez </operation> le <ingredient action="ajouter"> rhum </ingredient> et pour finir <operation> ajoutez </operation> le <ingredient> pudding </ingredient> refroidi . <operation ingredients="crème"> mettre </operation> un peu de <ingredient action="mettre" quantite="20 cl"> crème </ingredient> sur la génoise puis <operation ingredients="bananes;crème"> mettre </operation> 3 à 4 <ingredient action="mettre"> bananes </ingredient> <operation> coupées </operation> horizontalement sur cette <ingredient action="mettre" quantite="20 cl"> crème </ingredient> puis <operation ingredients="bananes"> recouvrir </operation> les <ingredient action="recouvrir"> bananes </ingredient> de crème . pour le <ingredient quantite="200 gramme"> chocolat </ingredient> : faire <operation ingredients="chocolat"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> chocolat </ingredient> , la <ingredient quantite="20 cl"> crème </ingredient> fraîche et le <ingredient quantite="90 gramme+125 gramme"> sucre </ingredient> <ingredient> glace </ingredient> . après que le <ingredient quantite="200 gramme"> chocolat </ingredient> soit refroidi , le faire couler sur le <ingredient> gâteau </ingredient> . pour le décor : quelques <ingredient> vermicelles </ingredient> multicolores .
+</preparation>
+</recette>

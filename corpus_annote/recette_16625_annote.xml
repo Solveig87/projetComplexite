@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16625">
+<titre>Toasts hawaïens</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain</p>
+<p>un peu de beurre</p>
+<p>4 tranches de jambon</p>
+<p>4 tranches de fromage</p>
+<p>4 tranches d'ananas</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> les tranches de <ingredient action="beurrer" quantite="4 tranche"> pain </ingredient> . <operation ingredients="jambon;ananas;pains"> mettre </operation> 1 tranche de <ingredient action="mettre" quantite="4 tranche"> jambon </ingredient> et 1 tranche d' <ingredient action="mettre" quantite="4 tranche"> ananas </ingredient> sur chacun des <ingredient action="mettre" quantite="4 tranche"> pains </ingredient> . <operation ingredients="fromage"> poser </operation> le <ingredient action="poser" quantite="4 tranche"> fromage </ingredient> dessus . <operation> cuire </operation> au four 5 à 10 minutes ( le temps que le <ingredient action="fondre" quantite="4 tranche"> fromage </ingredient> <operation ingredients="fromage"> fonde </operation> et gratine un peu ! ) .
+</preparation>
+</recette>

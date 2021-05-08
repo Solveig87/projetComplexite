@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25419">
+<titre>Salade lyonnaise au saucisson</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 saucisson à cuire aux pistaches</p>
+<p>une salade (chicorée frisée)</p>
+<p>150 g de lardons fumés</p>
+<p>50 g de cerneaux de noix</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> un grand volume d' eau dans une casserole , y faire <operation ingredients="saucisson"> cuire </operation> le <ingredient action="cuire" quantite="1"> saucisson </ingredient> 30 minutes . pendant ce temps , <operation ingredients="salade"> nettoyer </operation> et <operation> éplucher </operation> la <ingredient action="nettoyer" quantite="1"> salade </ingredient> . faire <operation ingredients="lardons;matière"> dorer </operation> les <ingredient action="dorer"> lardons </ingredient> à la <operation> poêle </operation> avec un peu de <ingredient action="dorer" quantite="3 cuillère à soupe"> matière </ingredient> grasse . <operation ingredients="moutarde;moutarde;vinaigre;huile"> préparer </operation> une vinaigrette à la <ingredient action="préparer" quantite="1 cuillère à café"> moutarde </ingredient> avec la <ingredient action="préparer" quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient action="préparer" quantite="1 cuillère à soupe"> vinaigre </ingredient> et l' <ingredient action="préparer" quantite="3 cuillère à soupe"> huile </ingredient> , la <operation ingredients="salade"> verser </operation> sur la <ingredient action="verser" quantite="1"> salade </ingredient> et <operation> mélanger </operation> . <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter"> lardons </ingredient> , le <ingredient action="parsemer" quantite="1"> saucisson </ingredient> <operation> coupé </operation> en rondelles et <operation ingredients="saucisson;noix"> parsemer </operation> de cerneaux de <ingredient action="parsemer"> noix </ingredient> .
+</preparation>
+</recette>

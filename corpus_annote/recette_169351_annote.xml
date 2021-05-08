@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169351">
+<titre>Crumble de rouget</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 tomates moyennes</p>
+<p>1 gros oignon</p>
+<p>8 filets de rouget</p>
+<p>100g de beurre</p>
+<p>50g de poudre de noisette</p>
+<p>50g de farine</p>
+<p>2 cuil. à soupe de persil haché</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;tomates"> compoter </operation> dans une cocotte avec un peu d' <ingredient action="compoter"> huile </ingredient> d' olive , les <ingredient action="compoter" quantite="5"> tomates </ingredient> <operation ingredients="oignon"> épluchées </operation> et <operation> épépinées </operation> avec l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> haché . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="noisette;beurre;persil"> préparer </operation> le crumble en <operation ingredients="farine"> mélangeant </operation> la <ingredient action="mélanger" quantite="50 gramme"> farine </ingredient> , la <operation> poudre </operation> de <ingredient action="préparer"> noisette </ingredient> , le <ingredient action="préparer" quantite="100 gramme"> beurre </ingredient> et le <ingredient action="préparer"> persil </ingredient> haché . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="tomate;oignon"> répartir </operation> la compotée de <ingredient action="répartir" quantite="5"> tomate </ingredient> et d' <ingredient action="répartir" quantite="1"> oignon </ingredient> dans des ramequins ( type ramequin à crème brûlée ) <operation ingredients="rouget"> déposer </operation> dans chaque ramequin deux filets de <ingredient action="déposer"> rouget </ingredient> et <operation ingredients="noisette"> parsemer </operation> de crumble à la <ingredient action="parsemer"> noisette </ingredient> . <operation> mettre </operation> au four à 180 <operation> ° </operation> pendant 6 à 7 minutes . servir chaud
+</preparation>
+</recette>

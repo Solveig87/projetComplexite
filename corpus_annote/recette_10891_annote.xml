@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10891">
+<titre>Soupe à l'oignon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 gros oignons</p>
+<p>50 g de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 cuillère à soupe de farine</p>
+<p>25 cl de vin blanc</p>
+<p>1 l d'eau</p>
+<p>sel, poivre, </p>
+<p>6 tranches de pains de mie</p>
+<p>100 g de comté râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> pelez </operation> et <operation> émincez </operation> les <ingredient action="peler" quantite="4"> oignons </ingredient> , faites - les <operation ingredients="beurre"> revenir </operation> dans le <operation> mélange </operation> <ingredient action="revenir"> beurre </ingredient> , huile . <operation ingredients="farine"> saupoudrez </operation> le <operation> mélange </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> , <operation ingredients="vin"> mouillez </operation> d' eau chaude et de <ingredient action="mouiller" quantite="25 cl"> vin </ingredient> blanc et <operation> assaisonnez </operation> . <operation> couvrez </operation> et laissez bouillonner doucement pendant 20 minutes . faites <operation ingredients="pain"> grillez </operation> le <ingredient action="griller" quantite="6 tranche"> pain </ingredient> , <operation> disposez </operation> chaque tranche dans le fond de 4 petits bols individuels supportant le passage au four . <operation ingredients="fromage"> saupoudrez </operation> d' un peu de <ingredient action="saupoudrer"> fromage </ingredient> râpé . <operation ingredients="soupe"> versez </operation> la <ingredient action="verser"> soupe </ingredient> par - dessus . <operation ingredients="fromage"> saupoudrez </operation> à nouveau de <ingredient action="saupoudrer"> fromage </ingredient> et faites <operation> gratiner </operation> . <ingredient quantite="25 cl"> vin </ingredient> blanc : mercurey
+</preparation>
+</recette>

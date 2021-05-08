@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48281">
+<titre>Colombo de thon</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de thon rouge</p>
+<p>1 cuillère à soupe de colombo</p>
+<p>2 citrons</p>
+<p>gingembre frais (2cm)</p>
+<p>2 gousses d'ail</p>
+<p>2 oignons</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>200 g de riz</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> couper </operation> le <ingredient action="couper" quantite="600 gramme"> thon </ingredient> en gros cubes , <operation ingredients="jus"> presser </operation> le <ingredient action="presser"> jus </ingredient> des citrons et le <operation> mélanger </operation> avec le colombo . <operation ingredients="jus;thon"> verser </operation> le <ingredient action="verser"> jus </ingredient> sur le <ingredient action="verser" quantite="600 gramme"> thon </ingredient> puis <operation ingredients="gingembre;ail"> ajouter </operation> le <ingredient action="ajouter"> gingembre </ingredient> <operation> râpé </operation> et l’ <ingredient action="ajouter"> ail </ingredient> haché . faire <operation> mariner </operation> le tout pendant 30 minutes . <operation ingredients="oignons"> éplucher </operation> et <operation> couper </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> en rondelles . les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> dans une sauteuse ou une <operation> poêle </operation> . <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter" quantite="600 gramme"> thon </ingredient> et sa marinade , puis laisser <operation> cuire </operation> à petit feu 15 minutes . pendant ce temps , faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> à l' eau <operation> salée </operation> , <operation ingredients="tomates"> éplucher </operation> les <ingredient action="éplucher"> tomates </ingredient> et les <operation> couper </operation> en petits dés . servir le <ingredient quantite="600 gramme"> thon </ingredient> avec le <ingredient quantite="200 gramme"> riz </ingredient> <operation> entouré </operation> des petits dés de <ingredient> tomates </ingredient> . attention : ne pas trop faire <operation ingredients="thon"> cuire </operation> le <ingredient action="cuire" quantite="600 gramme"> thon </ingredient> car sinon il <operation> durcit </operation> .
+</preparation>
+</recette>

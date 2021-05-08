@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87822">
+<titre>Crozets au sarrasin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de crozets</p>
+<p>2 paquets de lardons</p>
+<p>4 tranches de jambon blanc</p>
+<p>1 oignon </p>
+<p>1 reblochon</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> les crozets dans 1 l d' eau pendant 20 minutes . pendant ce temps , <operation ingredients="reblochon"> couper </operation> les tranches de <ingredient action="couper" quantite="1"> reblochon </ingredient> en lamelles . faire <operation ingredients="lardons"> cuire </operation> les <ingredient action="cuire"> lardons </ingredient> et suer l' <ingredient quantite="1"> oignon </ingredient> . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="4 tranche"> jambon </ingredient> en dés . <operation> mélanger </operation> le tout et le <operation> mettre </operation> dans un plat . <operation ingredients="reblochon"> ajouter </operation> les lamelles de <ingredient action="ajouter" quantite="1"> reblochon </ingredient> sur le dessus et <operation> enfourner </operation> pendant 20 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

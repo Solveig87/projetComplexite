@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30596">
+<titre>Brownies light</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>170 g de chocolat noir</p>
+<p>4 blancs d'oeuf</p>
+<p>160 g de sucre</p>
+<p>1 cuillerée à café de levure chimique</p>
+<p>12 cl d’eau</p>
+<p>1 petite cuillerée à café de vanille en poudre</p>
+<p>160 g de farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="170 gramme"> chocolat </ingredient> en petits morceaux . <operation ingredients="oeuf;chocolat"> mélanger </operation> les blancs d’ <ingredient action="mélanger"> oeuf </ingredient> , la vanille et le <ingredient action="mélanger" quantite="170 gramme"> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="sucre;farine;levure"> ajouter </operation> le <ingredient action="ajouter" quantite="160 gramme"> sucre </ingredient> , la <ingredient action="ajouter" quantite="160 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . <operation ingredients="pâte"> détendre </operation> la <ingredient action="détendre"> pâte </ingredient> avec l' eau . <operation ingredients="carré"> verser </operation> la préparation dans un <operation> moule </operation> <ingredient action="verser"> carré </ingredient> <operation> recouvert </operation> de papier sulfurisé ( beurré ) . faire <operation> cuire </operation> à four moyen pendant 20 mn . laisser <operation> reposer </operation> quelques instants hors du four et <operation ingredients="carrés"> découper </operation> en <ingredient action="découper"> carrés </ingredient> .
+</preparation>
+</recette>

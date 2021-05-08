@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12204">
+<titre>Tarte Brighton aux asperges</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750g d'asperges vertes</p>
+<p>150g de cheddar râpé (que l'on peut remplacer par du gruyère râpé)</p>
+<p>1 fond de pâte brisée</p>
+<p>3 oeufs</p>
+<p>25cl de crème fraiche</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire" quantite="750 gramme"> asperges </ingredient> vertes dans de l' eau bouillante <operation> salée </operation> pendant 20 mn ( vous pouvez utiliser des <ingredient quantite="750 gramme"> asperges </ingredient> en boîte ou en conserve ) . <operation> egouttez </operation> - les , <operation> mixez </operation> - les et <operation ingredients="oeufs;crème;fromage"> mélangez </operation> - les à 3 <ingredient action="mélanger" quantite="3"> oeufs </ingredient> <operation> battus </operation> , 25 cl de <ingredient action="mélanger" quantite="25cl"> crème </ingredient> fraiche et au <ingredient action="mélanger"> fromage </ingredient> râpé . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="tarte"> etalez </operation> le fond de <ingredient action="etaler"> tarte </ingredient> et <operation> garnissez </operation> avec la préparation précédente . <operation> enfournez </operation> à thermostat 6 ( 180 <operation> ° </operation> c ) pendant 35 mn . servez chaud ou tiède . peut être servi aussi en entrée .
+</preparation>
+</recette>

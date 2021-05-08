@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86977">
+<titre>Pommes de terre aux aromates</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre (calibre grenaille)</p>
+<p>200 g de carottes</p>
+<p>3 échalotes</p>
+<p>1 oignon de Roscoff</p>
+<p>3 feuilles de laurier</p>
+<p>thym</p>
+<p>1 tête d'ail</p>
+<p>gros sel, poivre</p>
+</ingredients>
+<preparation>
+brossez et <operation ingredients="pommes"> lavez </operation> les <ingredient action="laver" quantite="1 kilogramme"> pommes </ingredient> de terre . les <operation> déposer </operation> avec leur peau dans l' eau froide , puis <operation ingredients="oignon;échalotes;laurier;thym;ail"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , les <ingredient action="ajouter" quantite="3"> échalotes </ingredient> , le <ingredient action="ajouter" quantite="3 feuille"> laurier </ingredient> , le <ingredient action="ajouter" quantite=""> thym </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> <operation> hachés </operation> grossièrement . <operation ingredients="carottes"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme"> carottes </ingredient> <operation> coupées </operation> en petits dés . <operation> portez </operation> à <operation> ébullition </operation> et laissez <operation> cuire </operation> pendant 15 min . <operation> egouttez </operation> le tout à l' aide d' une passoire . dans une sauteuse , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> puis faire <operation> colorer </operation> le tout à feu doux . <operation ingredients="sel"> salez </operation> au gros <ingredient action="saler" quantite=""> sel </ingredient> et <operation> poivrez </operation> au dernier moment . servez chaud .
+</preparation>
+</recette>

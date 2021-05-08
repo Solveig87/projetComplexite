@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29906">
+<titre>Mijotée de lapin au citron</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin découpé en morceaux</p>
+<p>50 g de beurre</p>
+<p>3 citrons</p>
+<p>10 cl de bouillon</p>
+<p>4 oignons</p>
+<p>1 bouquet garni</p>
+<p>40 g de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lapin;beurre"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> lapin </ingredient> dans le <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> jusqu' à ce qu' ils soient dorés sur toutes les faces . <operation> salez </operation> et <operation> poivrez </operation> puis <operation> retirez </operation> - les de la cocotte . <operation ingredients="citron"> prélevez </operation> le zeste d'1 / 2 <ingredient action="prélever" quantite="3"> citron </ingredient> . faites <operation ingredients="oignons"> blondir </operation> les <ingredient action="blondir" quantite="4"> oignons </ingredient> <operation> émincés </operation> dans la cocotte puis <operation ingredients="bouillon"> mouillez </operation> de <ingredient action="mouiller" quantite="10 cl"> bouillon </ingredient> et laissez <operation> mijoter </operation> 5 minutes en <operation> remuant </operation> . <operation ingredients="lapin"> remettez </operation> les morceaux de <ingredient action="remettre" quantite="1"> lapin </ingredient> dans cette sauce , <operation ingredients="bouquet;citron"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le zeste de <ingredient action="ajouter" quantite="3"> citron </ingredient> . <operation ingredients="jus;citrons"> pressez </operation> le <ingredient action="presser"> jus </ingredient> de 2 <ingredient action="presser" quantite="3"> citrons </ingredient> , <operation> versez </operation> - le dans la cocotte et laissez <operation> cuire </operation> 45 minutes à <operation> couvert </operation> . <operation ingredients="citron"> coupez </operation> le dernier <ingredient action="couper" quantite="3"> citron </ingredient> en rondelles . quand le <ingredient action="cuire" quantite="1"> lapin </ingredient> est <operation ingredients="lapin"> cuit </operation> , <operation> égouttez </operation> les morceaux , <operation> mettez </operation> - les dans le plat de service et <operation ingredients="citron"> décorer </operation> de rondelles de <ingredient action="décorer" quantite="3"> citron </ingredient> .
+</preparation>
+</recette>

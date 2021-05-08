@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20222">
+<titre>Salade de Castres</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade verte</p>
+<p>2 oranges</p>
+<p>20 noix</p>
+<p>5 figues séchées</p>
+<p>1 oignon</p>
+<p>1 tomate</p>
+<p>50 g de Roquefort</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> faire </operation> un lit de <ingredient action="faire" quantite="1"> salade </ingredient> verte . <operation ingredients="oranges"> mettre </operation> les <ingredient action="mettre" quantite="2"> oranges </ingredient> en quartier . casser les <ingredient quantite="20"> noix </ingredient> en petits bouts . <operation ingredients="figues"> couper </operation> les <ingredient action="couper" quantite="5"> figues </ingredient> en petits bouts . <operation ingredients="roquefort;tomates"> faire </operation> des dés de <ingredient action="faire" quantite="50 gramme"> roquefort </ingredient> et de <ingredient action="faire" quantite="1"> tomates </ingredient> <operation> pelées </operation> . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="1"> oignons </ingredient> en fines lamelles . pour la vinaigrette : un peu d' <ingredient> huile </ingredient> de noix + vinaigre balsamique + <ingredient> huile </ingredient> de tournesol + sel et poivre
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222664">
+<titre>Carbonnade Flamande de Belle-Maman</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gousse d’ail</p>
+<p>75 cl de bière blonde</p>
+<p>1 kg de boeuf</p>
+<p>1 bouquet garni</p>
+<p>1 cuillère à soupe de cassonade</p>
+<p>2 cuillères à soupe d’huile de tournesol</p>
+<p>25 g de beurre</p>
+<p>4 cuillères à soupe de moutarde forte</p>
+<p>350 g d’oignons</p>
+<p>4 tranches de pain rassis</p>
+<p>sel</p>
+<p>poivre</p>
+<p>2 cuillères à soupe de vinaigre de vin</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> détailler </operation> la <ingredient action="détailler" quantite="1 kilogramme"> viande </ingredient> en gros cubes . <operation ingredients="oignons"> peler </operation> et <operation> couper </operation> les <ingredient action="peler"> oignons </ingredient> en fines rondelles . <operation> peler </operation> et <operation ingredients="gousse"> écraser </operation> la <ingredient action="écraser" quantite="1"> gousse </ingredient> d’ ail . dans une cocotte , faire <operation ingredients="huile"> chauffer </operation> l’ <ingredient action="chauffer"> huile </ingredient> . faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="1 kilogramme"> viande </ingredient> pendant 5 min . <operation> saler </operation> et <operation> poivrer </operation> . <operation> réserver </operation> . dans la même cocotte , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> et <operation ingredients="oignons"> dorer </operation> les <ingredient action="dorer"> oignons </ingredient> pendant 15 min . lorsqu’ ils sont bien colorés , <operation ingredients="vinaigre;cassonade"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> vinaigre </ingredient> et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> cassonade </ingredient> . laisser <operation> cuire </operation> environ 10 min . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="1 kilogramme"> viande </ingredient> , l’ <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> , le <ingredient action="mouiller" quantite="1"> bouquet </ingredient> <operation> garni </operation> et <operation ingredients="bouquet;bière"> mouiller </operation> à la <ingredient action="mouiller" quantite="75 cl"> bière </ingredient> qui doit arriver au niveau de la <ingredient quantite="1 kilogramme"> viande </ingredient> . <operation ingredients="moutarde;pain"> badigeonner </operation> de <ingredient action="badigeonner" quantite="4 cuillère à soupe"> moutarde </ingredient> les tranches de <ingredient action="badigeonner" quantite="4 tranche"> pain </ingredient> de chaque côté . <operation ingredients="pain"> mettre </operation> le <ingredient action="mettre" quantite="4 tranche"> pain </ingredient> dans la cocotte . <operation> porter </operation> à <operation> ébullition </operation> . aux premiers <ingredient> bouillons </ingredient> , <operation> couvrir </operation> et baisser le feu . laisser <operation> mijoter </operation> à feu doux pendant 3 heures . servir <operation ingredients="pommes"> accompagné </operation> de frites ou de <ingredient action="accompagner"> pommes </ingredient> de terre . <ingredient quantite="75 cl"> bière </ingredient>
+</preparation>
+</recette>

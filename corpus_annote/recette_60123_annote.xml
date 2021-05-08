@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60123">
+<titre>Poivrons rouges à la tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 poivrons rouges</p>
+<p>2 boites de chair de tomate</p>
+<p>2 gousses d'ail</p>
+<p>quelques feuilles de basilic</p>
+<p>sel et poivre</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> d' olive dans une sauteuse . <operation ingredients="poivrons"> lavez </operation> epepinez et <operation> coupez </operation> les <ingredient action="laver"> poivrons </ingredient> en lamelles de 1 cm d' epaisseur , faites - les <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> chaude , <operation> salez </operation> <operation> poivrez </operation> . au bout de 5 minutes , <operation ingredients="ail;basilic;tomates"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> , le <ingredient action="ajouter" quantite="quelque feuille"> basilic </ingredient> et les <ingredient action="ajouter"> tomates </ingredient> . <operation ingredients="tomates"> laissez </operation> <operation> mijoter </operation> 15 à 20 minutes sans <operation> couvrir </operation> et sur feu doux ( si les <ingredient action="laisser"> tomates </ingredient> sont un peu acides , vous pouvez <operation ingredients="carré"> ajouter </operation> un <ingredient action="ajouter"> carré </ingredient> de sucre . )
+</preparation>
+</recette>

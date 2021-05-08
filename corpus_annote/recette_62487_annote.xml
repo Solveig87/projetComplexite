@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62487">
+<titre>Tiramisù choco banane</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la crème banane :</p>
+<p>3 bananes bien mûres</p>
+<p>1 cuillère à soupe de sucre en poudre </p>
+<p>1/2 citron</p>
+<p>150 g de crème fraîche</p>
+<p>1 cuillère à soupe de lait </p>
+<p>Pour le biscuit :</p>
+<p>environ 500 g de boudoirs</p>
+<p>2 bols de chocolats chaud</p>
+<p>200 g de chocolat noir</p>
+<p>un peu de lait</p>
+<p>cacao en poudre</p>
+</ingredients>
+<preparation>
+pour la <ingredient quantite="150 gramme"> crème </ingredient> banane : <operation ingredients="bananes"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> bananes </ingredient> et les <operation> mixer </operation> ( on peut les <operation> écraser </operation> si l' on a pas de mixeur ) . <operation ingredients="sucre;jus"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> sucre </ingredient> et le <ingredient action="ajouter"> jus </ingredient> de citron et <operation> mélanger </operation> . <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> lait </ingredient> et la <ingredient action="ajouter" quantite="150 gramme"> crème </ingredient> fraîche , <operation> mixer </operation> ou <operation> battre </operation> au fouet . pour les <ingredient action="tremper"> biscuits </ingredient> , les <operation ingredients="biscuits;chocolat"> tremper </operation> dans les bols de <ingredient action="tremper" quantite="200 gramme"> chocolat </ingredient> et <operation> disposer </operation> dans le plat . <operation ingredients="crème;banane;biscuits"> recouvrir </operation> d' une couche de <ingredient action="recouvrir" quantite="150 gramme"> crème </ingredient> à la <ingredient action="recouvrir" quantite="3"> banane </ingredient> , puis d' une autre couche de <ingredient action="recouvrir"> biscuits </ingredient> <operation> imbibés </operation> . faire <operation ingredients="chocolat;lait"> fondre </operation> une tablette de <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> avec du <ingredient action="fondre" quantite="1 cuillère à soupe"> lait </ingredient> , en <operation ingredients="biscuit"> recouvrir </operation> les <ingredient action="recouvrir"> biscuit </ingredient> puis <operation ingredients="crème"> remettre </operation> une couche de <ingredient action="remettre" quantite="150 gramme"> crème </ingredient> et <operation ingredients="cacao"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> . <operation> mettre </operation> au frais .
+</preparation>
+</recette>

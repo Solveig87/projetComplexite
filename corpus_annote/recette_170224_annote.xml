@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170224">
+<titre>Bavarois poire et praliné</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de pralinoise (praliné en tablette)</p>
+<p>130 g de gavottes (crêpes dentelles)</p>
+<p>30 cl de crème fraiche</p>
+<p>800 g de poires au sirop</p>
+<p>2 cuillères à soupe bombées de sucre</p>
+<p>5 feuilles de gélatine</p>
+<p>1 carré de chocolat noir (pour la décoration)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pralinoise"> fondre </operation> la <ingredient action="fondre" quantite="200 gramme"> pralinoise </ingredient> et la <operation ingredients="crêpes"> mélanger </operation> aux <ingredient action="mélanger"> crêpes </ingredient> <operation> écrasées </operation> . faire <operation ingredients="gélatine"> ramollir </operation> la <ingredient action="ramollir" quantite="5 feuille"> gélatine </ingredient> dans de l' eau froide . <operation ingredients="poires;sirop"> mixer </operation> deux tiers des <ingredient action="mixer" quantite="800 gramme"> poires </ingredient> sans le <ingredient action="mixer"> sirop </ingredient> . faire <operation> chauffer </operation> la moitié de cette purée ; une fois chaude , y <operation ingredients="gélatine"> incorporer </operation> la <ingredient action="incorporer" quantite="5 feuille"> gélatine </ingredient> pour la faire <operation> fondre </operation> . <operation ingredients="sucre"> ajouter </operation> le reste de purée et le <ingredient action="ajouter"> sucre </ingredient> . <operation> réserver </operation> . <operation ingredients="crème;chantilly"> monter </operation> la <ingredient action="monter" quantite="30 cl"> crème </ingredient> fraîche en <ingredient action="monter"> chantilly </ingredient> et l' <operation> incorporer </operation> au précédent <operation> mélange </operation> refroidi . <operation ingredients="poires"> couper </operation> le reste des <ingredient action="couper" quantite="800 gramme"> poires </ingredient> en dés . ( en conserver une pour la décoration . ) dans un <operation> moule </operation> ( 22 cm de diamètre ) , <operation> mettre </operation> du film transparent au fond et sur les côtés ( pour pouvoir le <operation> démouler </operation> ) . ou sinon prendre un <operation> cercle </operation> à pâtisserie et le <operation> placer </operation> directement sur le plat de service . <operation ingredients="crêpes"> etaler </operation> la feuillantine ( pralinoise et <ingredient action="etaler"> crêpes </ingredient> ) au fond . <operation> verser </operation> la moitié du bavarois dessus , <operation ingredients="poires"> mettre </operation> les dés de <ingredient action="mettre" quantite="800 gramme"> poires </ingredient> et <operation> verser </operation> le reste du bavarois . bien <operation> lisser </operation> et <operation> mettre </operation> au frais ( minimum 4 h ) . ensuite , pour le <operation> cercle </operation> à pâtisserie ; <operation ingredients="couteau"> passer </operation> un <ingredient action="passer"> couteau </ingredient> le long et <operation> enlever </operation> le <operation> cercle </operation> . pour le <operation> moule </operation> , <operation> retourner </operation> - le . <operation> retirer </operation> le film transparent et <operation> retourner </operation> le bavarois sur le plat de service . <operation ingredients="poire;carré"> mettre </operation> la <ingredient action="mettre" quantite="800 gramme"> poire </ingredient> restante dessus et <operation> râper </operation> un <ingredient action="mettre" quantite="1"> carré </ingredient> de chocolat noir .
+</preparation>
+</recette>

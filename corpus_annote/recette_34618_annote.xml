@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34618">
+<titre>Steaks sauce trois fromages de Maheud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 minis (ou 2 gros) steaks hachés (ou non haché) </p>
+<p>1 saint marcellin</p>
+<p>4 kiris</p>
+<p>50 g de feta</p>
+<p>1 brique de 20 cl de crème fraîche</p>
+<p>une pincée de cannelle</p>
+<p>un peu de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fromages"> fondre </operation> les trois <ingredient action="fondre"> fromages </ingredient> dans une petite casserole ( le mieux c’ est de le faire dans une casserole avec revêtement anti-adhésif ) . faites <operation ingredients="viande"> cuire </operation> dans une <operation> poêle </operation> la <ingredient action="cuire"> viande </ingredient> suivant vos goûts . une fois le <ingredient> fromage </ingredient> <operation> fondu </operation> , <operation ingredients="crème;cannelle"> rajouter </operation> la <ingredient action="rajouter"> crème </ingredient> et la <ingredient action="rajouter" quantite="1 pincée"> cannelle </ingredient> . si la sauce est trop épaisse ( ou si vous avez l’ impression de ne pas en avoir assez ) <operation ingredients="lait"> rajouter </operation> un peu de <ingredient action="rajouter"> lait </ingredient> . <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre"> viande </ingredient> dans les assiettes et <operation> napper </operation> de sauce . un régal également avec des <ingredient> gnocchis </ingredient> ou un autre féculent .
+</preparation>
+</recette>

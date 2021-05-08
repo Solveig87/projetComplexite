@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87808">
+<titre>Soupe chinoise au wok</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 carottes</p>
+<p>1 gros oignon</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>2 endives</p>
+<p>200 g de germes de soja</p>
+<p>bouillon (750 ml)</p>
+<p>sauce soja</p>
+<p>Curry ou piment</p>
+<p>poivre</p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> verts et rouges en lamelles après les avoir <operation> pelés </operation> et <operation> vidés </operation> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> . dans un peu d' <ingredient action="revenir"> huile </ingredient> , faire <operation ingredients="huile;poivrons;oignons"> revenir </operation> les <ingredient action="revenir"> poivrons </ingredient> et les <ingredient action="revenir" quantite="1"> oignons </ingredient> pendant quelques minutes . pendant ce temps , <operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="2"> endives </ingredient> en quatre dans le sens de la longueur et <operation ingredients="carottes"> découper </operation> les <ingredient action="découper" quantite="3"> carottes </ingredient> en cubes de 1 cm . <operation ingredients="bouillon;endives;soja"> ajouter </operation> le <ingredient action="ajouter" quantite=""> bouillon </ingredient> de volaille , les <ingredient action="ajouter" quantite="2"> endives </ingredient> <operation> coupées </operation> , les germes de <ingredient action="ajouter"> soja </ingredient> , les dés de <ingredient quantite="3"> carottes </ingredient> . <operation> porter </operation> une minute à ebullition , puis <operation> réduire </operation> le feu et laisser <operation> mijoter </operation> encore 10 minutes . pendant la cuisson , <operation ingredients="soja;poivre;sucre;curry"> assaisonner </operation> avec la sauce <ingredient action="assaisonner"> soja </ingredient> , le <ingredient action="assaisonner" quantite=""> poivre </ingredient> , le <ingredient action="assaisonner" quantite=""> sucre </ingredient> et le piment ou le <ingredient action="assaisonner" quantite=""> curry </ingredient> selon votre goût .
+</preparation>
+</recette>

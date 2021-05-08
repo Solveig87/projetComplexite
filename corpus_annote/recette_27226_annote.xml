@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27226">
+<titre>Petit salé aux lentilles et aux saucisses</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 tasses à café de lentilles</p>
+<p>1 gros oignon</p>
+<p>4 saucisses de Francfort</p>
+<p>100 g de lardons</p>
+<p>1 talon de jambon</p>
+<p>1 ou 2 carottes</p>
+<p>1 branche de céleri</p>
+<p>du laurier et du thym</p>
+</ingredients>
+<preparation>
+dans 1 litre d' eau , <operation ingredients="lentilles;oignon"> mettre </operation> les <ingredient action="mettre"> lentilles </ingredient> , l' <ingredient action="mettre" quantite="1"> oignon </ingredient> <operation> épluché </operation> et <operation> coupé </operation> en deux , la <ingredient quantite="1"> carotte </ingredient> épluchée et <operation ingredients="céleri"> coupé </operation> en rondelles et le <ingredient action="couper"> céleri </ingredient> <operation> coupé </operation> . <operation ingredients="laurier;thym;jambon"> ajouter </operation> le <ingredient action="ajouter" quantite=""> laurier </ingredient> et le <ingredient action="ajouter"> thym </ingredient> ainsi que le talon de <ingredient action="ajouter"> jambon </ingredient> . laisser <operation> cuire </operation> pendant environ 1 heure et <operation> rajouter </operation> de l' eau si besoin en cours de cuisson . <operation ingredients="lardons"> rajouter </operation> les <ingredient action="rajouter" quantite="100 gramme"> lardons </ingredient> . une fois les <ingredient action="ajouter"> lentilles </ingredient> bien <operation> cuites </operation> , <operation ingredients="lentilles;saucisses"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> saucisses </ingredient> de francfort , et laisser <operation> cuire </operation> encore 10 mn à feu très doux . c' est prêt . ne pas <operation> saler </operation> car les <ingredient action="saler" quantite="4"> saucisses </ingredient> , les <ingredient action="saler" quantite="100 gramme"> lardons </ingredient> et le <ingredient action="saler"> jambon </ingredient> <operation ingredients="saucisses;lardons;jambon"> salent </operation> suffisamment
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61123">
+<titre>Croque Kitty</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>16 tranches de pain de mie</p>
+<p>2 grandes tranches de jambon blanc</p>
+<p>1 tomate</p>
+<p>gruyère rapé ou autre (moi je prends de toastinettes)</p>
+</ingredients>
+<preparation>
+<operation ingredients="gruyère;pain"> disposez </operation> du <ingredient action="disposer" quantite=""> gruyère </ingredient> sur 8 tranches de <ingredient action="disposer" quantite="16 tranche"> pain </ingredient> de mie . <operation ingredients="jambon"> coupez </operation> 4 morceaux dans chaque tranches de <ingredient action="couper"> jambon </ingredient> et <operation ingredients="pain;gruyère"> posez </operation> - les sur le <ingredient action="poser" quantite="16 tranche"> pain </ingredient> et le <ingredient action="poser" quantite=""> gruyère </ingredient> . <operation ingredients="gruyère;jambon"> remettez </operation> un peu de <ingredient action="remettre" quantite=""> gruyère </ingredient> sur le <ingredient action="remettre"> jambon </ingredient> et fermez les croques avec une autre tranche de <ingredient quantite="16 tranche"> pain </ingredient> . faites <operation ingredients="huile"> chauffez </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> dans une <operation> poêle </operation> et <operation> mettez </operation> - y les croques . <operation> retournez </operation> - les très souvent pour ne pas qu' ils soient trop <operation> cuits </operation> . <operation> retirez </operation> - les quand le <ingredient action="fondre"> fromage </ingredient> est <operation ingredients="fromage"> fondu </operation> ( si il ne fond pas j' <operation> enlève </operation> le couvercle et je le <operation ingredients="fromage"> retourne </operation> côté <ingredient action="retourne"> fromage </ingredient> ; ) ) <operation ingredients="tomate"> coupez </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en fines rondelles et <operation> placez </operation> -en une dans ou au dessus de chaque croque . j' appelle ça kitty parce que j' ai vu qu' elle les faisait <operation> cuire </operation> à la <operation> poêle </operation> dans " that 70's show " .
+</preparation>
+</recette>

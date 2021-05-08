@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56116">
+<titre>Mousse au chocolat forte en cacao</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g chocolat à 70% cacao</p>
+<p>2 jaunes oeufs</p>
+<p>6 blancs oeufs</p>
+<p>5 g de beurre</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> en carrés au micro-ondes avec une <ingredient> noisette </ingredient> de beurre . laisser refroidir un peu le <ingredient quantite="200 gramme"> chocolat </ingredient> et y <operation ingredients="oeufs"> ajouter </operation> un à un les jaunes d' <ingredient action="ajouter" quantite="2+6"> oeufs </ingredient> . <operation ingredients="oeufs;sel"> monter </operation> en neige les blancs d' <ingredient action="monter" quantite="2+6"> oeufs </ingredient> avec une pincée de <ingredient action="monter" quantite="1 pincée"> sel </ingredient> puis les <operation ingredients="chocolat"> incorporer </operation> délicatement au <operation> mélange </operation> de <ingredient action="incorporer" quantite="200 gramme"> chocolat </ingredient> . <operation> verser </operation> dans des verres ( c' est plus joli ) et <operation> mettre </operation> au frais au moins 4 heures . pas besoin de <ingredient> sucre </ingredient> ! du <ingredient quantite="200 gramme"> chocolat </ingredient> , rien que du <ingredient quantite="200 gramme"> chocolat </ingredient> !
+</preparation>
+</recette>

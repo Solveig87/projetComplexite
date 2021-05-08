@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="6801">
+<titre>Toasts surprise à ma façon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie</p>
+<p>100 g de Carré Frais</p>
+<p>4 tranches de jambon fumé</p>
+<p>1 échalote</p>
+<p>un petit bouquet de persil</p>
+<p>2 gousses d'ail</p>
+<p>2 kiwis</p>
+<p>sel, poivre, paprika</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain"> griller </operation> légèrement les tranches de <ingredient action="griller" quantite="4 tranche"> pain </ingredient> de mie . <operation ingredients="carré;gousses;échalote;sel;poivre;paprika"> mélangez </operation> dans un bol le <ingredient action="mélanger"> carré </ingredient> frais , les <ingredient action="mélanger" quantite="2"> gousses </ingredient> d' ail et l' <ingredient action="mélanger" quantite="1"> échalote </ingredient> finement hâchées , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> , et le <ingredient action="mélanger" quantite=""> paprika </ingredient> . <operation> déposez </operation> ce <operation> mélange </operation> 1 / 4 h au réfrigérateur . <operation> tartinez </operation> les toasts <operation> grillés </operation> de ce <operation> mélange </operation> . <operation ingredients="jambon"> garnissez </operation> avec une tranche de <ingredient action="garnir" quantite="4 tranche"> jambon </ingredient> <operation> fumé </operation> <operation> roulée </operation> , dans laquelle vous aurez " caché " des petits morceaux de <ingredient quantite="2"> kiwi </ingredient> . <operation ingredients="persil"> décorez </operation> avec du <ingredient action="décorer"> persil </ingredient> .
+</preparation>
+</recette>

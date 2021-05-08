@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16255">
+<titre>Crêpes diététiques</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>2 œufs</p>
+<p>1/2 l de lait écrémé (ou demi-écrémé)</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>1 pincée de sel</p>
+<p>arôme ou sucre (facultatif)</p>
+</ingredients>
+<preparation>
+dans le <ingredient action="ajouter"> lait </ingredient> , <operation ingredients="lait;œufs;farine;sel;sucre;huile"> ajouter </operation> petit à petit les <ingredient action="ajouter" quantite="2"> œufs </ingredient> , la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , le <ingredient action="ajouter"> sucre </ingredient> , l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> ) . bien <operation> mixer </operation> , puis faire <operation ingredients="crêpe"> dorer </operation> chaque face à la <operation> poêle </operation> , comme pour toute <ingredient action="dorer"> crêpe </ingredient> . sans <ingredient> sucre </ingredient> , il est vrai que cette recette est <operation> salée </operation> , mais pour les plus gourmands , on peut toujours étaler sur les <ingredient> crêpes </ingredient> <operation> cuites </operation> un peu de <ingredient> confiture </ingredient> light !
+</preparation>
+</recette>

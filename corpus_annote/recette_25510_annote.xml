@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25510">
+<titre>Risotto nature</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 bel os à moelle</p>
+<p>3 oignons</p>
+<p>2 pincées de safran</p>
+<p>1 bouquet garni</p>
+<p>6 tasses de riz</p>
+<p>15 cl de vin blanc sec</p>
+<p>100 à 150 g de parmesan râpé</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+dans une casserole , <operation> porter </operation> de l' eau à <operation> ébullition </operation> et y <operation ingredients="bouquet"> plonger </operation> les os à moelle et le <ingredient action="plonger" quantite="1"> bouquet </ingredient> <operation> garni </operation> . lorsque les os sont <operation> cuits </operation> , les <operation> déposer </operation> dans une cocotte et <operation ingredients="jus"> réserver </operation> le <ingredient action="réserver"> jus </ingredient> de cuisson . <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="3"> oignons </ingredient> et les faire <operation ingredients="moelle"> revenir </operation> avec la <ingredient action="revenir"> moelle </ingredient> . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> et <operation ingredients="jus"> laisser </operation> <operation> mijoter </operation> 30 min , en mouillant avec le un peu de <ingredient action="laisser"> jus </ingredient> de cuisson . en fin de cuisson , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc sec et <operation> assaisonner </operation> . <operation ingredients="fromage;safran"> incorporer </operation> le <ingredient action="incorporer"> fromage </ingredient> <operation> râpé </operation> et le <ingredient action="incorporer" quantite="2 pincée"> safran </ingredient> délicatement . servir chaud .
+</preparation>
+</recette>

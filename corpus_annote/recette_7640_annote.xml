@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7640">
+<titre>Artichauts farcis au Carré Frais</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 fonds d'artichaut (frais, surgelés, conserves : au choix)</p>
+<p>4 Carrés frais</p>
+<p>4 magrets de canard fumés</p>
+<p>ail </p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="artichauts"> cuire </operation> les <ingredient action="cuire"> artichauts </ingredient> . <operation ingredients="ail;carrés"> mélanger </operation> ensemble <ingredient action="mélanger" quantite=""> ail </ingredient> , fines herbes , <ingredient action="mélanger"> carrés </ingredient> frais ; et <operation ingredients="artichauts"> remplir </operation> les <operation> fonds </operation> d' <ingredient action="remplir"> artichauts </ingredient> avec la préparation . <operation ingredients="magret"> déposer </operation> le <ingredient action="déposer" quantite="4"> magret </ingredient> de canard sur la préparation . <operation ingredients="ciboulette"> décorer </operation> d' un brin de <ingredient action="décorer"> ciboulette </ingredient> . servir en <operation> accompagnement </operation> de <ingredient> viandes </ingredient> grillées .
+</preparation>
+</recette>

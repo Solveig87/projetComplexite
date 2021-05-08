@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68195">
+<titre>Salade de radis noir et betterave crue au kiwi</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g radis noir</p>
+<p>150 g betterave crue</p>
+<p>1 kiwi</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre de framboise</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="radis"> peler </operation> et <operation> râper </operation> le <ingredient action="peler"> radis </ingredient> noir et la betterave . <operation> préparer </operation> la vinaigrette : <operation ingredients="vinaigre;sel;poivre"> mélanger </operation> le <ingredient action="mélanger" quantite="2 cuillère à soupe"> vinaigre </ingredient> avec le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> puis <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="2 cuillère à soupe"> huile </ingredient> . bien <operation> émulsionner </operation> . <operation ingredients="kiwi"> peler </operation> le <ingredient action="peler" quantite="1"> kiwi </ingredient> , <operation> couper </operation> la moitié en petits dès et l' autre en tranches fines . <operation ingredients="kiwi"> incorporer </operation> le <ingredient action="incorporer" quantite="1"> kiwi </ingredient> en dès à la vinaigrette , puis <operation ingredients="radis"> verser </operation> sur la betterave et le <ingredient action="verser"> radis </ingredient> . <operation ingredients="kiwis"> décorer </operation> avec les lamelles de <ingredient action="décorer" quantite="1"> kiwis </ingredient> .
+</preparation>
+</recette>

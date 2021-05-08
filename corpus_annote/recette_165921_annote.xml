@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165921">
+<titre>Croûtes aux agrumes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de pain brioché</p>
+<p>1 citron</p>
+<p>1 blanc d'oeuf </p>
+<p>20 grammes de beurre </p>
+<p>100 grammes de sucre </p>
+<p>100 grammes de poudre d'amande </p>
+<p>2 cuillères à soupe de zeste d'agrumes confits </p>
+<p>De la glace à la vanille</p>
+</ingredients>
+<preparation>
+1 ) préchauffez votre four thermostat 7 , 210 <operation> degrés </operation> . <operation ingredients="citron"> pressez </operation> le <ingredient action="presser" quantite="1"> citron </ingredient> et <operation ingredients="confits"> hachez </operation> le zeste de vos agrumes <ingredient action="hacher"> confits </ingredient> . 2 ) <operation ingredients="oeuf;sucre"> battez </operation> le blanc d' <ingredient action="battre"> oeuf </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> puis <operation ingredients="amande;jus;confit"> incorporez </operation> votre <operation> poudre </operation> d' <ingredient action="incorporer"> amande </ingredient> , votre <ingredient action="incorporer"> jus </ingredient> de citron et votre zeste <ingredient action="incorporer"> confit </ingredient> . 3 ) <operation ingredients="pain"> tartinez </operation> votre <ingredient action="tartinez" quantite="4 tranche"> pain </ingredient> brioché de votre préparation . <operation> beurrez </operation> la <operation> plaque </operation> de votre four , puis <operation ingredients="pain"> enfournez </operation> vos tranches de <ingredient action="enfourner" quantite="4 tranche"> pain </ingredient> brioché pour 10 minutes . 4 ) a la sortie de vos croûtes aux agrumes , laissez <operation> tiédir </operation> puis servez avec une boule de <ingredient quantite=""> glace </ingredient> à la vanille . vous pouvez échanger la <ingredient quantite=""> glace </ingredient> à la vanille par celle au <ingredient quantite="1"> citron </ingredient> ou à la <ingredient> pistache </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30103">
+<titre>Gratin aux fraises et au melon</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>450 g de fraises</p>
+<p>1 bon gros melon</p>
+<p>3 jaunes d'oeuf</p>
+<p>225 g de crème fraîche épaisse</p>
+<p>90 g de sucre en poudre</p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> puis <operation ingredients="fraises"> couper </operation> les <ingredient action="couper" quantite="450 gramme"> fraises </ingredient> en 2 . <operation> peler </operation> , <operation> égrener </operation> et <operation ingredients="melon"> couper </operation> le <ingredient action="couper" quantite="1"> melon </ingredient> en tranches de 1 à 2 cm d' épaisseur . préchauffer le grill du four . <operation> tapisser </operation> les <operation> fonds </operation> de petits <operation> moules </operation> ou petites cassolettes beurré ( e ) s allant au four avec les <ingredient quantite="450 gramme;1"> fruits </ingredient> . <operation ingredients="sucres;oeuf"> fouetter </operation> les <ingredient action="fouetter" quantite="90 gramme"> sucres </ingredient> avec les jaunes d' <ingredient action="fouetter"> oeuf </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> puis <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="225 gramme"> crème </ingredient> fraîche . lorsque le <operation> mélange </operation> est homogène , en <operation> napper </operation> les <ingredient quantite="450 gramme;1"> fruits </ingredient> . faire <operation> gratiner </operation> sous le grill du four et servir bien chaud .
+</preparation>
+</recette>

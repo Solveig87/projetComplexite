@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80220">
+<titre>Feuilletés aux deux saumons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de saumon fumé</p>
+<p>300 g de saumon frais</p>
+<p>250 g d'épinards</p>
+<p>250 g de pâte feuilletée</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 cuillère à soupe de crème épaisse</p>
+<p>quelques oeufs de saumon (facultatif)</p>
+<p>1 cuillère à soupe de crème liquide</p>
+<p>1 jaune d'oeuf</p>
+<p>1 citron</p>
+<p>aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon"> découper </operation> le <ingredient action="découper"> saumon </ingredient> en cubes . les faire <operation ingredients="huile;épinards"> revenir </operation> 3 min dans de l' <ingredient action="revenir"> huile </ingredient> avec les <ingredient action="revenir" quantite="250 gramme"> épinards </ingredient> , puis <operation ingredients="crème;farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe+1 cuillère à soupe"> crème </ingredient> liquide et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> en fin de cuisson . <operation ingredients="pâte"> découper </operation> la <ingredient action="découper" quantite="250 gramme"> pâte </ingredient> en 4 rectangles de 25 cm x 10 cm . <operation> répartir </operation> la préparation sur les rectangles et <operation ingredients="chaussons"> refermer </operation> en <ingredient action="refermer"> chaussons </ingredient> . <operation ingredients="oeuf"> badigeonner </operation> au jaune d' <ingredient action="badigeonner" quantite="quelque"> oeuf </ingredient> et <operation> enfourner </operation> 20 min à 210 <operation> ° </operation> , thermostat 7 . sortir les <ingredient> chaussons </ingredient> du four , <operation ingredients="chaussons;saumon"> disposer </operation> sur le dessus des <ingredient action="disposer"> chaussons </ingredient> une tranche de <ingredient action="disposer"> saumon </ingredient> <operation> fumé </operation> . <operation ingredients="crème;oeufs;jus"> mélanger </operation> la <ingredient action="mélanger" quantite="1 cuillère à soupe+1 cuillère à soupe"> crème </ingredient> liquide , les <ingredient action="mélanger" quantite="quelque"> oeufs </ingredient> de saumon , le <ingredient action="mélanger"> jus </ingredient> de citron , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="saumon"> déposer </operation> de la sauce sur chaque tranche de <ingredient action="déposer"> saumon </ingredient> . <operation ingredients="aneth"> décorer </operation> d' un brin d' <ingredient action="décorer" quantite=""> aneth </ingredient> . servir chaud ou tiède . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

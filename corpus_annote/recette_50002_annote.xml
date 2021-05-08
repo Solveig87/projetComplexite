@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50002">
+<titre>Salade de pâtes aux tomates cerise et roquette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de Philadelphia Salad'</p>
+<p>500 g de pâtes Fusilli</p>
+<p>500 g de tomates cerise</p>
+<p>100 g de pignons de pin</p>
+<p>50 g de roquette</p>
+<p>basilic</p>
+<p>huile d'olive </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> fusilli dans un grand volume d' eau bouillante <operation> salée </operation> , puis les laisser refroidir . faire <operation ingredients="pignons;huile"> griller </operation> les <ingredient action="griller" quantite="100 gramme"> pignons </ingredient> de pin dans une <operation> poêle </operation> , sans <ingredient action="griller" quantite=""> huile </ingredient> . <operation ingredients="pâtes;huile"> assaisonner </operation> les <ingredient action="assaisonner" quantite="500 gramme"> pâtes </ingredient> avec 4 à 5 cuillères d' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive , <operation> saler </operation> et <operation> poivrer </operation> ; <operation ingredients="basilic"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> basilic </ingredient> frais et <operation> ciselé </operation> et <operation ingredients="roquette"> ajouter </operation> la <ingredient action="ajouter" quantite="50 gramme"> roquette </ingredient> . <operation ingredients="tomates;cerise"> incorporer </operation> ensuite les <ingredient action="incorporer" quantite="500 gramme"> tomates </ingredient> <ingredient action="incorporer"> cerise </ingredient> <operation> coupées </operation> en deux , puis <operation> agrémenter </operation> la préparation avec du philadelphia salad ' <operation> coupé </operation> en dés . <operation> mélanger </operation> et servir aussitôt . astuce : pour obtenir une touche encore plus méditerranéenne , <operation ingredients="tomates;olives"> ajouter </operation> des <ingredient action="ajouter" quantite="500 gramme"> tomates </ingredient> séchées et quelques <ingredient action="ajouter"> olives </ingredient> vertes .
+</preparation>
+</recette>

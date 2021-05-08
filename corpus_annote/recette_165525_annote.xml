@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165525">
+<titre>Mon couscous marocain</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800g de viande (gîte de bœuf, agneau, poulet)et 2 merguez</p>
+<p>8 carottes</p>
+<p>8 oignons</p>
+<p>8 navets</p>
+<p>2 poivrons vert</p>
+<p>2 poivrons rouge</p>
+<p>chou blanchi</p>
+<p>8 courgettes</p>
+<p>4 morceau de citrouille</p>
+<p>1 boîte de tomates pelées (on garde le jus aussi)</p>
+<p>des pois chiches (quantité à adapter)</p>
+</ingredients>
+<preparation>
+méthode : faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="8"> oignons </ingredient> et les <operation> retirer </operation> quand ils sont dorés faire <operation ingredients="viandes;merguez"> revenir </operation> toutes les <ingredient action="revenir" quantite="800 gramme"> viandes </ingredient> , sauf les <ingredient action="revenir"> merguez </ingredient> , que l' on <operation> cuira </operation> au dernier moment . <operation> réserver </operation> . dans le faitout , <operation ingredients="huile"> ajouter </operation> un peu d' <ingredient action="ajouter"> huile </ingredient> d' olive et faire <operation ingredients="légumes"> revenir </operation> tous les <ingredient action="revenir" quantite="8;8;8;;"> légumes </ingredient> sauf les courgettes et les <ingredient action="cuire" quantite=""> pois </ingredient> <ingredient action="cuire"> chiches </ingredient> s' ils sont <operation ingredients="pois;chiches"> cuits </operation> / en conserve . <operation ingredients="tomates;jus"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> coupées </operation> , puis leur <ingredient action="ajouter"> jus </ingredient> . a ce stade , on ajoute les <ingredient> épices </ingredient> , dont la quantité est à <operation> ajuster </operation> au goût de chacun . . . mais on trouve des <ingredient> épices </ingredient> à couscous tout prêts pour nous : <ingredient> cumin </ingredient> , paprika , safran , 4 <ingredient> épices </ingredient> , ras el hanout , <ingredient action="couvrir"> gingembre </ingredient> et un soupçon de <ingredient action="couvrir"> cannelle </ingredient> ensuite , on <operation ingredients="gingembre;cannelle;bouillon"> couvre </operation> de <ingredient action="couvrir"> bouillon </ingredient> de viande corsé , et on laisse <operation ingredients="bouillons"> cuire </operation> 1 h 30 à petits <ingredient action="cuire"> bouillons </ingredient> . 10 minutes avant la fin de la cuisson , on <operation ingredients="pois;chiches"> rajoute </operation> les courgettes et éventuellement les <ingredient action="rajoute" quantite=""> pois </ingredient> <ingredient action="rajoute"> chiches </ingredient> . voilà pour le plat , maintenant , il faut s' occuper de la graine . . . et sil y a une très bonne recette sur le site ! http : / / www . marmiton . org / recettes / recette_le - couscous - d - ahmed - et - nadia - maroc_32003 . aspxles recettes de couscous varient en fonction des saisons ( <ingredient quantite="8;8;8;;"> légumes </ingredient> de la garniture en accord ) , des régions , voire des villes ( à / aux <ingredient quantite="800 gramme"> viandes </ingredient> . jamais de <ingredient> porc </ingredient> , bien sûr- , au <ingredient> poisson </ingredient> , version dessert , etc ) et il y a autant de recettes de couscous que de familles ! ! !
+</preparation>
+</recette>

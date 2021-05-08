@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73082">
+<titre>Flan de sardines</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de sardines</p>
+<p>2 yaourts</p>
+<p>2 œufs</p>
+<p>gousses d'ail à volonté</p>
+<p>curcuma en poudre</p>
+<p>câpres à volonté</p>
+</ingredients>
+<preparation>
+<operation ingredients="sardines;yaourts;gousses"> mixer </operation> ensemble les <ingredient action="mixer"> sardines </ingredient> , les <ingredient action="mixer" quantite="2"> yaourts </ingredient> , les <ingredient action="mixer" quantite=""> gousses </ingredient> d' ail ( on peut en <operation> mettre </operation> plus ou moins selon le goût , à titre d' exemple , <operation> compter </operation> 2 <ingredient quantite=""> gousses </ingredient> par personne ) . <operation ingredients="œufs;câpres;curcuma"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> œufs </ingredient> <operation> battus </operation> , puis les <ingredient action="ajouter" quantite=""> câpres </ingredient> et le <ingredient action="ajouter" quantite=""> curcuma </ingredient> ( 4 ou 5 pincées ) . <operation> verser </operation> la préparation dans des ramequins et <operation> cuire </operation> au four à 180 <operation> ° </operation> pendant 20 min environ . laisser refroidir et servir frais avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

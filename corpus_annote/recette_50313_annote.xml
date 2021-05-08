@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50313">
+<titre>Friands aux légumes et à la viande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courgette</p>
+<p>3 tomates</p>
+<p>400g de viande de boeuf hachée</p>
+<p>1 poivron</p>
+<p>1 gousse d'ail hachée</p>
+<p>1 pincée de sel</p>
+<p>2 pâtes feuilletées</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> découpez </operation> les <ingredient action="découper" quantite="3;1"> légumes </ingredient> en petits cubes . faites <operation ingredients="légumes;viande"> revenir </operation> les <ingredient action="revenir" quantite="3;1"> légumes </ingredient> et la <ingredient action="revenir" quantite="400 gramme"> viande </ingredient> dans la même <operation> poêle </operation> , <operation ingredients="ail;sel"> assaisonnez </operation> d' <ingredient action="assaisonner"> ail </ingredient> et de <ingredient action="assaisonner" quantite="1 pincée"> sel </ingredient> . <operation ingredients="viande"> laissez </operation> sur le feu jusqu' à ce que la <ingredient action="laisser" quantite="400 gramme"> viande </ingredient> soit cuite puis laissez refroidir . préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="pâtes"> découpez </operation> les <ingredient action="découper" quantite="2"> pâtes </ingredient> feuilletées en 2 . <operation ingredients="pâte"> répartissez </operation> la farce sur une moitié des morceaux de <ingredient action="répartir" quantite="2"> pâte </ingredient> puis <operation> refermez </operation> - les de façon à ce qu' ils soient hermétiquement fermés . <operation ingredients="friands"> déposez </operation> les <ingredient action="déposer"> friands </ingredient> sur une <operation> plaque </operation> à four et <operation> enfournez </operation> pour 15 minutes de cuisson , les <ingredient> friands </ingredient> doivent être bien dorés . cette recette peut être réalisée sans <ingredient quantite="400 gramme"> viande </ingredient> pour les végétariens .
+</preparation>
+</recette>

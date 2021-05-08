@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54735">
+<titre>Charlotte au riz au lait et à la compote de pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait</p>
+<p>200 g de riz rond</p>
+<p>4 morceaux de sucre</p>
+<p>1 noix de beurre</p>
+<p>1 oeuf</p>
+<p>35 biscuits la cuillère</p>
+<p>kirsch</p>
+<p>1 boîte de compote de pommes (800 g) ou compote de pomme maison</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz;lait;bouillons;sucre"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> dans le <ingredient action="cuire" quantite="1 l"> lait </ingredient> à petits <ingredient action="cuire"> bouillons </ingredient> avec le <ingredient action="cuire"> sucre </ingredient> , pendant 30 min en surveillant . hors du feu <operation ingredients="beurre;oeuf"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> et l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> <operation> battu </operation> . <operation ingredients="biscuits"> garnir </operation> un <operation> moule </operation> à charlotte ( diamètre 21 c m ) de <ingredient action="garnir" quantite="35"> biscuits </ingredient> <operation> imbibées </operation> de kirsch , sur le fond et les pourtours . commencer par une couche de <ingredient quantite="200 gramme"> riz </ingredient> puis une couche de <ingredient> compote </ingredient> . terminer par de la <ingredient> compote </ingredient> et <operation ingredients="biscuits"> émietter </operation> le reste de <ingredient action="émietter" quantite="35"> biscuits </ingredient> . <operation> poser </operation> une assiette et bien tasser avec une conserve de 1 kg . a faire la veille et <operation> mettre </operation> au frigo . <operation> démouler </operation> et servir très frais . rebatisé le " gateau dans l' assiette " par les petits . . . a notre mamé
+</preparation>
+</recette>

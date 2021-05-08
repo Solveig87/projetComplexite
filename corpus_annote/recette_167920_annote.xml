@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167920">
+<titre>Salade de fruits au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 bananes.</p>
+<p>-2 kiwis. </p>
+<p>-une brique de 25 cl de lait de coco.</p>
+</ingredients>
+<preparation>
+<operation ingredients="kiwis"> pelez </operation> les 2 <ingredient action="peler"> kiwis </ingredient> et <operation> coupez </operation> - les en morceaux . <operation ingredients="bananes"> faites </operation> pareil pour les 2 <ingredient action="faire" quantite="2"> bananes </ingredient> . <operation ingredients="fruits"> mettez </operation> les <ingredient action="mettre" quantite="2"> fruits </ingredient> dans un saladier et <operation ingredients="lait"> versez </operation> à peu près la moitié de la brique de <ingredient action="verser"> lait </ingredient> de coco . <operation> mettez </operation> ensuite , une demi-heure au réfrigérateur .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27339">
+<titre>Crêpe aux raisins secs et aux noix</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de sucre</p>
+<p>2 oeufs</p>
+<p>100 g de farine</p>
+<p>1 dl de lait</p>
+<p>50 g de noix grossièrement hachées</p>
+<p>50 g de raisins secs</p>
+<p>beurre pour la poêle</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins"> gonfler </operation> les <ingredient action="gonfler" quantite="50 gramme"> raisins </ingredient> secs dans de l' eau tiède . <operation ingredients="oeufs;sucre"> mélanger </operation> les 2 jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="farine;lait"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> , puis le <ingredient action="ajouter" quantite="1 dl"> lait </ingredient> . <operation> incorporer </operation> les blancs <operation> battus </operation> en neige . <operation> ajouter </operation> en <operation ingredients="raisins;noix"> remuant </operation> délicatement les <ingredient action="remuer" quantite="50 gramme"> raisins </ingredient> secs et le <ingredient action="remuer" quantite="50 gramme"> noix </ingredient> hachées . <operation> verser </operation> dans une grande <operation> poêle </operation> <operation> beurrée </operation> . faire <operation> cuire </operation> à feu très doux environ 10 mn . faire glisser la <ingredient> crêpe </ingredient> sur une assiette et la <operation> retourner </operation> dans la <operation> poêle </operation> . faire <operation> cuire </operation> l' autre face environ 10 mn à feu très doux . <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> . se <ingredient> mange </ingredient> tiède ou froid .
+</preparation>
+</recette>

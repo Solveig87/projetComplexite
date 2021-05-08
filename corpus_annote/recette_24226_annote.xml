@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24226">
+<titre>Haricots verts à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de haricots verts</p>
+<p>60 g de beurre</p>
+<p>400 g de tomates</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>quelques feuilles de sauge</p>
+<p>20 cl de bouillon</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="600 gramme"> haricots </ingredient> verts dans l' eau bouillante <operation> salée </operation> pendant 10 min . ils doivent être encore <ingredient> croquants </ingredient> . <operation> peler </operation> , <operation> épépiner </operation> et <operation ingredients="tomates"> concasser </operation> les <ingredient action="concasser" quantite="400 gramme"> tomates </ingredient> . faire <operation ingredients="ail;beurre"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et les feuilles de sauge dans le <ingredient action="revenir" quantite="60 gramme"> beurre </ingredient> puis <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter" quantite="600 gramme"> haricots </ingredient> <operation> égouttés </operation> . laisser <operation> chauffer </operation> puis <operation ingredients="tomates;jus"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> tomates </ingredient> avec leur <ingredient action="ajouter"> jus </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> bouillon </ingredient> petit à petit . laisser <operation> cuire </operation> 25 à 30 min .
+</preparation>
+</recette>

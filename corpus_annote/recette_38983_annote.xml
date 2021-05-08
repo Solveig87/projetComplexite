@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38983">
+<titre>Poivron farci au crabe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pour 1 poivron :</p>
+<p>1 poivron jaune</p>
+<p>50 g de crabe en conserve égoutté</p>
+<p>2 oeufs</p>
+<p>1 tomate séchée</p>
+<p>Herbes de provence</p>
+<p>Gros sel</p>
+<p>Huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron"> couper </operation> le <ingredient action="couper" quantite=""> poivron </ingredient> en 2 , dans la longueur . <operation ingredients="huile;sel"> verser </operation> un peu d' <ingredient action="verser" quantite=""> huile </ingredient> et du gros <ingredient action="verser" quantite=""> sel </ingredient> dans le fond d' un plat . <operation> mettre </operation> au four , pendant environ 45 min à 200 <operation> ° </operation> c ( thermostat . 7 ) , pour qu' il soit bien <operation action="confit" ingredients="confit"> confit </operation> . <operation> préparer </operation> la farce : version 1 : <operation ingredients="oeufs;crabe;tomate"> battre </operation> les 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> avec le <ingredient action="battre" quantite="50 gramme"> crabe </ingredient> et la <ingredient action="battre" quantite="1"> tomate </ingredient> <operation> coupée </operation> , en morceaux , puis <operation> ajouter </operation> les herbes . <operation ingredients="poivrons"> remplir </operation> de farce les 2 moitiés de <ingredient action="remplir" quantite=""> poivrons </ingredient> et <operation> remettre </operation> 1 / 2 heure , au four . version 2 : <operation ingredients="oeuf;crabe"> battre </operation> 1 seul <ingredient action="battre" quantite="2"> oeuf </ingredient> avec le <ingredient action="battre" quantite="50 gramme"> crabe </ingredient> , la <ingredient quantite="1"> tomate </ingredient> et les herbes . <operation ingredients="poivron"> remplir </operation> le <ingredient action="remplir" quantite=""> poivron </ingredient> et <operation> enfourner </operation> pendant 1 / 2 heure . quand il est prêt , <operation ingredients="oeuf"> cuire </operation> le 2ème <ingredient action="cuire" quantite="2"> oeuf </ingredient> , au plat , et le <operation ingredients="poivrons"> déposer </operation> sur les moitiés de <ingredient action="déposer" quantite=""> poivrons </ingredient> .
+</preparation>
+</recette>

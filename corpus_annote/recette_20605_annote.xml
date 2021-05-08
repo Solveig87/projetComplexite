@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20605">
+<titre>Pot-au-feu de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de jarret de boeuf</p>
+<p>1 langue de veau</p>
+<p>500 g de queue de boeuf en bouquet</p>
+<p>3 l d'eau</p>
+<p>1 os à moelle</p>
+<p>1 gros oignon piqué d'1 clou de girofle</p>
+<p>3 gousses d'ail</p>
+<p>500 g de poireaux</p>
+<p>500 g de navets</p>
+<p>3 carottes</p>
+<p>2 branches de céleri</p>
+<p>1 chou vert</p>
+<p>3 grosses pommes de terre</p>
+<p>1 bouquet garni</p>
+<p>1 cuillère à soupe de poivre en grains</p>
+</ingredients>
+<preparation>
+<operation ingredients="langue"> passez </operation> la <ingredient action="passer" quantite="1"> langue </ingredient> de veau sous l' eau courante . <operation> ôter </operation> la peau et les parties hérissées . <operation ingredients="viandes"> déposez </operation> les <ingredient action="déposer" quantite="1 kilogramme;1"> viandes </ingredient> ( jarret de boeuf et langue de veau ) dans une grande cocotte . <operation ingredients="bouquet;sel;ail;oignon"> couvrez </operation> de 3 litres d' eau et <operation ingredients="poivre"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> poivre </ingredient> , le <ingredient action="couvrir" quantite="1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="couvrir"> sel </ingredient> , l' <ingredient action="couvrir"> ail </ingredient> et l' <ingredient action="couvrir" quantite="1"> oignon </ingredient> hachés . <operation> portez </operation> à <operation> ébullition </operation> , <operation> ôtez </operation> l' écume qui s' est <operation> formée </operation> à la surface puis laissez <operation> cuire </operation> à frémissement 2 heures . <operation ingredients="chou"> blanchissez </operation> les feuilles de <ingredient action="blanchissez" quantite="1"> chou </ingredient> dans l' eau bouillante . <operation ingredients="légumes"> lavez </operation> et <operation> pelez </operation> les <ingredient action="laver" quantite="1;500 gramme;500 gramme;3;1;3"> légumes </ingredient> : navets , carottes , céleri et poireaux . trente minutes avant la fin de la cuisson des <ingredient action="ajouter" quantite="1 kilogramme;1"> viandes </ingredient> , <operation ingredients="viandes;légumes"> ajoutez </operation> dans la cocotte les <ingredient action="ajouter" quantite="1;500 gramme;500 gramme;3;1;3"> légumes </ingredient> et l' os à moelle . laissez <operation> cuire </operation> 1 . 20 minutes . <operation ingredients="viandes"> coupez </operation> les <ingredient action="couper" quantite="1 kilogramme;1"> viandes </ingredient> en tranches . <operation ingredients="légumes"> disposez </operation> - les dans un plat avec les <ingredient action="disposer" quantite="1;500 gramme;500 gramme;3;1;3"> légumes </ingredient> et pour finir , <operation ingredients="bouillon"> arrosez </operation> de <ingredient action="arroser"> bouillon </ingredient> . servez brûlant .
+</preparation>
+</recette>

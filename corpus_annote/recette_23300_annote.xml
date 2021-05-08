@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23300">
+<titre>Blanc-manger aux amandes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>30 cl de crème liquide</p>
+<p>500 g d'amandes mondées et mixées</p>
+<p>250 g de sucre</p>
+<p>6 feuilles de gélatine</p>
+<p>2 ou 3 gouttes d'extrait d'amande amère</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;crème"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> et la <ingredient action="chauffer" quantite="30 cl"> crème </ingredient> , sans <operation> bouillir </operation> ; <operation ingredients="amandes"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> amandes </ingredient> , <operation> éteindre </operation> le feu et laisser <operation> infuser </operation> à <operation> couvert </operation> 10 mn . <operation> filtrer </operation> dans une passoire <operation> tapissée </operation> d' une mousseline ; faire <operation ingredients="lait;sucre"> chauffer </operation> ce <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> d' amandes sur feu doux avec le <ingredient action="chauffer" quantite="250 gramme"> sucre </ingredient> , en <operation> remuant </operation> jusqu' à dissolution . hors du feu , <operation ingredients="gélatine;amande"> ajouter </operation> la <ingredient action="ajouter" quantite="6 feuille"> gélatine </ingredient> <operation> ramollie </operation> dans de l' eau froide et <operation> essorée </operation> , puis l' extrait d' <ingredient action="ajouter" quantite="500 gramme"> amande </ingredient> amère . <operation> mélanger </operation> 5 mn . <operation> verser </operation> le liquide épais dans un <operation> moule </operation> <operation> mouillé </operation> . <operation> mettre </operation> au froid pendant au moins 6 h. <operation> démouler </operation> , et servir avec un coulis de <ingredient quantite="500 gramme"> fruits </ingredient> . il existe beaucoup de variantes , notamment avec des <ingredient quantite="500 gramme"> fruits </ingredient> , qui sont délicieuses . ceci n' est que la recette de base . <ingredient> sauternes </ingredient> ou muscat bien frais
+</preparation>
+</recette>

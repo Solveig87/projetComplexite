@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67232">
+<titre>Tartare de tomates et thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates rondes</p>
+<p>200 g de thon au naturel en boîte</p>
+<p>150 g de fromage frais (type St Moret ou autre)</p>
+<p>2 cuillères à soupe de vinaigre balsamique</p>
+<p>1 cuillère à soupe de ciboulette ciselée</p>
+<p>sel et poivre</p>
+<p>Pour la sauce : </p>
+<p>4 cuillères à soupe de vinaigre de noix</p>
+<p>2 cuilères à soupe de vinaigre balsamique</p>
+</ingredients>
+<preparation>
+<operation> ebouillanter </operation> , <operation ingredients="tomates"> peler </operation> et <operation> épépiner </operation> les <ingredient action="peler" quantite="6"> tomates </ingredient> , puis les <operation> couper </operation> en petits dés . les <operation> diposer </operation> en quatre parts égales dans les assiettes dans un bol , <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter" quantite="200 gramme"> thon </ingredient> , puis y <operation ingredients="fromage;ciboulette;vinaigre;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> fromage </ingredient> , la <ingredient action="ajouter" quantite="1 cuillère à soupe"> ciboulette </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe+4 cuillère à soupe"> vinaigre </ingredient> balsamique , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . bien <operation> mélanger </operation> le tout jusqu' à l' obtention d' une consistance crémeuse . <operation> préparer </operation> la sauce en <operation ingredients="huile;vinaigre"> mélangeant </operation> tout simplement l' <ingredient action="mélanger"> huile </ingredient> et le <ingredient action="mélanger" quantite="2 cuillère à soupe+4 cuillère à soupe"> vinaigre </ingredient> à la fourchette , puis en <operation ingredients="tomates"> arroser </operation> les <ingredient action="arroser" quantite="6"> tomates </ingredient> . <operation> séparer </operation> la préparation en quatre parts égales ( en <operation> forme </operation> de boule ) et <operation> disposer </operation> sur les tomtates . si possible , <operation ingredients="fromage"> faire </operation> la préparation au <ingredient action="faire" quantite="150 gramme"> fromage </ingredient> 1 heure avant environ et <operation> réserver </operation> au frais , c' est encore meilleur .
+</preparation>
+</recette>

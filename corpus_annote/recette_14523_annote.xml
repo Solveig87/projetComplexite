@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14523">
+<titre>Cake aux raisins secs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de raisins secs</p>
+<p>2 cl de rhum</p>
+<p>3 oeufs</p>
+<p>200 g de farine</p>
+<p>150 g de sucre</p>
+<p>200 g de beurre</p>
+<p>5 g de levure chimique</p>
+</ingredients>
+<preparation>
+on laisse <operation ingredients="raisins;rhum"> tremper </operation> les <ingredient action="tremper" quantite="250 gramme"> raisins </ingredient> secs dans de l' eau avec du <ingredient action="tremper" quantite="2 cl"> rhum </ingredient> . on <operation ingredients="oeufs"> sépare </operation> les blancs des jaunes d' <ingredient action="sépare" quantite="3"> oeufs </ingredient> . on <operation ingredients="sucre"> mélange </operation> les jaunes et le <ingredient action="mélange" quantite="150 gramme"> sucre </ingredient> . puis on ajoute le <ingredient quantite="200 gramme"> beurre </ingredient> mou , la <ingredient quantite="200 gramme"> farine </ingredient> et la <ingredient quantite="5 gramme"> levure </ingredient> ( qu' on a <operation> délayée </operation> dans un peu d' eau ) . on laisse <operation> reposer </operation> une heure . ensuite , il faut <operation> battre </operation> les blancs en neige ( assez fermes ) et <operation ingredients="raisins"> égoutter </operation> les <ingredient action="égoutter" quantite="250 gramme"> raisins </ingredient> . alors , on ajoute délicatement les blancs et les <ingredient quantite="250 gramme"> raisins </ingredient> au <operation> mélange </operation> précédent . <operation ingredients="pâte"> verser </operation> cette <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> bien beurré , et <operation> mettre </operation> au four 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

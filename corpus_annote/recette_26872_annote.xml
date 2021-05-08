@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26872">
+<titre>Riz au... fonds de placards</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz long</p>
+<p>150 g de thon au naturel</p>
+<p>200 g de champignons de Paris émincés (en boîte, c'est parfait !) </p>
+<p>une sauce béchamel (la recette est sur le site !) </p>
+<p>un peu de gruyère râpé (selon les goûts) </p>
+<p>sel, poivre</p>
+<p>une noix de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> , comme à l' habitude . pendant ce temps , <operation ingredients="béchamel"> préparez </operation> une <ingredient action="préparer" quantite="1"> béchamel </ingredient> ( beurre , farine , lait , . . . ) dans laquelle vous <operation ingredients="gruyère"> ajouterez </operation> un peu de <ingredient action="ajouter"> gruyère </ingredient> râpé . quand le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , bien <operation> égoutter </operation> et <operation> réserver </operation> au chaud . dans une <operation> poêle </operation> , faire <operation ingredients="beurre;thon;champignons"> revenir </operation> avec un peu de <ingredient action="revenir"> beurre </ingredient> , le <ingredient action="revenir" quantite="150 gramme"> thon </ingredient> et les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> ( 5 mn environ ) , <operation> saler </operation> , <operation> poivrer </operation> . ensuite , <operation ingredients="thon;champignons;béchamel"> mélanger </operation> le <ingredient action="mélanger" quantite="150 gramme"> thon </ingredient> et les <ingredient action="mélanger" quantite="200 gramme"> champignons </ingredient> avec la <ingredient action="mélanger" quantite="1"> béchamel </ingredient> . <operation ingredients="riz"> verser </operation> le tout sur le <ingredient action="verser" quantite="300 gramme"> riz </ingredient> , <operation> mélanger </operation> de nouveau . . . c' est prêt ! ! ! c' est pas cher , facile , et les enfants adorent ! ; )
+</preparation>
+</recette>

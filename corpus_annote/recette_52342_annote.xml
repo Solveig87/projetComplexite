@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52342">
+<titre>Rouleaux d'automne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de chèvre frais</p>
+<p>2 figues</p>
+<p>4 feuilles de brick</p>
+<p>4 brins de ciboulette</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="brick;figues;ciboulette"> couper </operation> les feuilles de <ingredient action="couper" quantite="4 feuille"> brick </ingredient> en 2 , les <ingredient action="couper" quantite="2"> figues </ingredient> en 4 et la <ingredient action="couper"> ciboulette </ingredient> en morceaux . <operation ingredients="brick;figue;ciboulette"> poser </operation> dans la 1 / 2 feuille de <ingredient action="poser" quantite="4 feuille"> brick </ingredient> , 1 cuillère à café de fromage , 1 morceau de <ingredient action="poser" quantite="2"> figue </ingredient> et des brins de <ingredient action="poser"> ciboulette </ingredient> . <operation> rabattre </operation> les 2 côtés de la feuille vers le centre , puis la <operation> rouler </operation> jusqu' au bout . <operation ingredients="margarine"> badigeonner </operation> les rouleaux avec de la <ingredient action="badigeonner"> margarine </ingredient> , puis <operation> enfourner </operation> 20 min .
+</preparation>
+</recette>

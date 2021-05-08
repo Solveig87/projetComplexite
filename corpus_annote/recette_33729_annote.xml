@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33729">
+<titre>Quiche aux trois jambons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>80 g de jambon frais</p>
+<p>80 g de jambon fumé</p>
+<p>80 g de jambon sec</p>
+<p>80 g de gruyère</p>
+<p>250 de pâte brisée</p>
+<p>2 oeufs entiers et 2 jaunes</p>
+<p>20 cl de lait</p>
+<p>20 cl de crème fraîche</p>
+<p>noix de muscade</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> tailler </operation> chacune des tranches de <ingredient action="tailler" quantite="80 gramme+80 gramme+80 gramme"> jambon </ingredient> en fine julienne . <operation ingredients="gruyère"> râper </operation> le <ingredient action="râper" quantite="80 gramme"> gruyère </ingredient> . <operation ingredients="pâte"> placer </operation> la <ingredient action="placer" quantite="250"> pâte </ingredient> dans un <operation> moule </operation> , <operation ingredients="gruyère"> disposer </operation> le <ingredient action="disposer" quantite="80 gramme"> gruyère </ingredient> râpé dans le fond . <operation ingredients="jambon"> disposer </operation> par - dessus les juliennes de <ingredient action="disposer" quantite="80 gramme+80 gramme+80 gramme"> jambon </ingredient> . dans un saladier , casser les <ingredient quantite="2"> oeufs </ingredient> et <operation> ajouter </operation> les jaunes . <operation> battre </operation> en omelette . <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche . <operation> mélanger </operation> . <operation ingredients="sel;poivre;noix"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> fin , de <ingredient action="assaisonner" quantite=""> poivre </ingredient> et de râpures de <ingredient action="assaisonner" quantite=""> noix </ingredient> de muscade . <operation> mélanger </operation> le tout . <operation> verser </operation> ce <operation> mélange </operation> dans le <operation> moule </operation> . <operation> cuire </operation> à four chaud th 6 ( 180 <operation> ° </operation> c ) , pendant 30 mn .
+</preparation>
+</recette>

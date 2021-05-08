@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168697">
+<titre>Avocats et tomates cerise en verrines</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 avocats bien murs</p>
+<p>1 portion de fromage frais type carré frais</p>
+<p>1 citron</p>
+<p>125 g de crabe (en boite)</p>
+<p>12 tomates  cerise</p>
+<p>16 crevettes</p>
+<p>sel, poivre, paprika doux</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair;jus;fromage;sel;poivre"> mixer </operation> la <ingredient action="mixer"> chair </ingredient> des avocats avec le <ingredient action="mixer"> jus </ingredient> du citron , le <ingredient action="mixer"> fromage </ingredient> frais , le <ingredient action="mixer" quantite=""> sel </ingredient> et le <ingredient action="mixer" quantite=""> poivre </ingredient> . <operation> egoutter </operation> le <ingredient action="décortiquer" quantite="125 gramme"> crabe </ingredient> coupper les <ingredient action="décortiquer" quantite="12"> tomates </ingredient> en deux <operation ingredients="crabe;tomates;crevettes"> décortiquer </operation> les <ingredient action="décortiquer" quantite="16"> crevettes </ingredient> . prévoyer 4 verres à whisky . <operation ingredients="avocat;crabe"> mettre </operation> dans chaque verre : une couche de préparation à l' <ingredient action="mettre" quantite="3"> avocat </ingredient> , une couche de <ingredient action="mettre" quantite="125 gramme"> crabe </ingredient> , des demi-tomates . <operation ingredients="avocat;paprika"> recouvrir </operation> d' une nouvelle couche d' <ingredient action="recouvrir" quantite="3"> avocat </ingredient> et <operation> poudrez </operation> de <ingredient action="recouvrir" quantite=""> paprika </ingredient> . terminer en <operation ingredients="crevettes"> décorant </operation> avec 4 <ingredient action="décorer" quantite="16"> crevettes </ingredient> par verre . servir frais . il est possible d' épicer d' avantage la purée d' <ingredient quantite="3"> avocat </ingredient> . c' est une question de goût .
+</preparation>
+</recette>

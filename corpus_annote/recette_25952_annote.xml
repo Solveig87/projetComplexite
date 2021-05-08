@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25952">
+<titre>Biscuit roulé à la confiture</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 g de sucre</p>
+<p>50 g de farine</p>
+<p>2 oeufs</p>
+<p>1 cuillère à soupe de rhum ou de jus de citron</p>
+<p>1/2 pot de confiture de framboise</p>
+<p>100 g crème fraîche épaisse</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="oeufs;sucre;rhum"> fouettez </operation> les jaunes d' <ingredient action="fouetter" quantite="2"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="50 gramme"> sucre </ingredient> et le <ingredient action="fouetter" quantite="1 cuillère à soupe"> rhum </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="farine;oeufs;farine"> incorporez </operation> la moitié de la <ingredient action="incorporer" quantite="50 gramme"> farine </ingredient> , un peu de blancs d' <ingredient action="incorporer" quantite="2"> oeufs </ingredient> <operation> montés </operation> en neige ferme puis le reste de la <ingredient action="incorporer" quantite="50 gramme"> farine </ingredient> et des blancs . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> sur une <operation> plaque </operation> à four <operation> recouverte </operation> d' un papier sulfurisé beurré . <operation> enfournez </operation> pour 1 . 20 minutes de cuisson . a la sortie du four , <operation ingredients="biscuit"> retournez </operation> le <ingredient action="retourner"> biscuit </ingredient> délicatement et <operation> roulez </operation> - le immédiatement sur lui-même à l' aide du papier beurré . laissez refroidir . <operation ingredients="confiture;crème"> mélangez </operation> la <ingredient action="mélanger"> confiture </ingredient> et la <ingredient action="mélanger" quantite="100 gramme"> crème </ingredient> . <operation ingredients="biscuit"> déroulez </operation> le <ingredient action="dérouler"> biscuit </ingredient> et <operation> recouvrez </operation> - le de <ingredient quantite="100 gramme"> crème </ingredient> à la <ingredient> confiture </ingredient> . <operation> roulez </operation> - le à nouveau et <operation> placez </operation> au frais . <operation ingredients="sucre;glace"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> avant de servir .
+</preparation>
+</recette>

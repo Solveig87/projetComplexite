@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31146">
+<titre>Gnocchis aux trois fromages (gratin)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 paquet de gnocchis</p>
+<p>2 mozzarellas coupées en petits dés</p>
+<p>100 g de fromage râpé</p>
+<p>1 petit sachet de parmesan</p>
+<p>20 cl de crème fraîche</p>
+<p>200 g de lardons fumés</p>
+<p>poivre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="gnocchis"> cuire </operation> les <ingredient action="cuire"> gnocchis </ingredient> 1 mn dans de l' eau bouillante <operation> salée </operation> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> . puis <operation> mélanger </operation> tout les ingrédients . <operation> passer </operation> au four à 240 <operation> ° </operation> c laisser bien <operation> gratiner </operation> on peut suivant les goûts ou la bourse <operation ingredients="fromage"> mettre </operation> plus ou moins de <ingredient action="mettre" quantite="100 gramme"> fromage </ingredient> . ne pas <operation ingredients="lardons;fromages;sel"> saler </operation> le <operation> mélange </operation> : les <ingredient action="saler"> lardons </ingredient> et les <ingredient action="saler" quantite="100 gramme"> fromages </ingredient> ont suffisament de <ingredient action="saler" quantite=""> sel </ingredient> .
+</preparation>
+</recette>

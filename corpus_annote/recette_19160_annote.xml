@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19160">
+<titre>Gâteau au vin blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>3 verres à moutarde de farine</p>
+<p>2 verres à moutarde de sucre</p>
+<p>1 verre à moutarde de vin blanc</p>
+<p>1 verre à moutarde d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> et le <ingredient action="mélanger"> sucre </ingredient> . faire un creux au milieu . <operation ingredients="oeufs"> ajouter </operation> les 4 jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> . <operation ingredients="huile;vin"> verser </operation> l' <ingredient action="verser"> huile </ingredient> et le <ingredient action="verser"> vin </ingredient> . <operation> mélanger </operation> . <operation> ajouter </operation> les blancs en neige . <operation> démarrez </operation> à four froid . <operation> cuire </operation> 1 heure , thermostat . 6 .
+</preparation>
+</recette>

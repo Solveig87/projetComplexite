@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225424">
+<titre>Soupe lorraine aux haricots coco</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de haricots coco plats</p>
+<p>500 g de carottes</p>
+<p>1 cuillère à soupe de margarine</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 cuillère à soupe de crème légère</p>
+</ingredients>
+<preparation>
+<operation ingredients="haricots;carottes"> couper </operation> les <ingredient action="couper" quantite="600 gramme"> haricots </ingredient> en tronçons de 2 cm environ et les <ingredient action="couper" quantite="500 gramme"> carottes </ingredient> en dés . faire <operation ingredients="margarine;légumes"> fondre </operation> la <ingredient action="fondre" quantite="1 cuillère à soupe"> margarine </ingredient> dans une cocotte et y faire " suer " les <ingredient action="fondre" quantite="600 gramme;500 gramme;1 cuillère à soupe"> légumes </ingredient> . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> et bien <operation> remuer </operation> . <operation ingredients="sel;poivre"> ajouter </operation> l' eau froide pour <operation ingredients="légumes"> recouvrir </operation> les <ingredient action="recouvrir" quantite="600 gramme;500 gramme;1 cuillère à soupe"> légumes </ingredient> , puis du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . faire <operation> cuire </operation> environ 35 minutes . on peut alors , soit la servir telle quelle , soit , si on veut que la <ingredient> soupe </ingredient> soit plus onctueuse , <operation ingredients="carottes"> écraser </operation> les <ingredient action="écraser" quantite="500 gramme"> carottes </ingredient> au pilon . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> fraîche . ce potage peut devenir un plat complet si on <operation ingredients="lard"> incorpore </operation> à la cuisson du <ingredient action="incorpore"> lard </ingredient> <operation ingredients="saucisses"> coupé </operation> en tranches et des <ingredient action="couper"> saucisses </ingredient> à <operation> cuire </operation>
+</preparation>
+</recette>

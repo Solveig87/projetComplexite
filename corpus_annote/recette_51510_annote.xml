@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51510">
+<titre>Spaghetti à la tomate crue</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de spaghetti</p>
+<p>5 tomates</p>
+<p>1 gousse d’ail</p>
+<p>quelques olives noires</p>
+<p>basilic</p>
+<p>5 cuillères à soupe d’huile d’olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="5"> tomates </ingredient> en petits cubes . <operation> pelez </operation> et <operation ingredients="gousse"> pressez </operation> la <ingredient action="presser" quantite="1"> gousse </ingredient> d’ ail . <operation ingredients="olives"> dénoyautez </operation> les <ingredient action="dénoyauter" quantite="quelque"> olives </ingredient> et <operation> hachez </operation> - les grossièrement . <operation ingredients="basilic"> hachez </operation> le <ingredient action="hachez" quantite=""> basilic </ingredient> . dans le fond d’ un saladier , <operation ingredients="tomates;ail;olives;basilic;huile;sel;poivre"> mettez </operation> les <ingredient action="mettre" quantite="5"> tomates </ingredient> , l' <ingredient action="mettre"> ail </ingredient> , les <ingredient action="mettre" quantite="quelque"> olives </ingredient> , le <ingredient action="mettre" quantite=""> basilic </ingredient> , l' <ingredient action="mettre"> huile </ingredient> d’ olive , du <ingredient action="mettre" quantite=""> sel </ingredient> et du <ingredient action="mettre"> poivre </ingredient> . laissez <operation> macérer </operation> . faites <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> spaghetti </ingredient> à l’ eau bouillante et <operation> salée </operation> . <operation> egouttez </operation> - les et <operation> ajoutez </operation> - les à la sauce . <operation> mélangez </operation> et dégustez aussitôt .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86930">
+<titre>Magrets de canard au café</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 magrets de canard</p>
+<p>1 cuillère a soupe de café très fort</p>
+<p>Porto</p>
+<p>4 pincées de cannelle</p>
+<p>le zeste d'1 orange</p>
+<p>2 pincées d'anis étoilé en poudre</p>
+<p>2 cuillères à soupe de miel liquide </p>
+<p>25 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="magrets"> entailler </operation> les <ingredient action="entailler" quantite="2"> magrets </ingredient> côté peau afin qu' ils perdent un maximum de <ingredient> graisse </ingredient> . faire <operation> chauffer </operation> une grande <operation> poêle </operation> adhésive . <operation ingredients="magrets"> cuire </operation> les <ingredient action="cuire" quantite="2"> magrets </ingredient> côté peau à feu vif et se débarrasser de la <ingredient> graisse </ingredient> de cuisson . <operation ingredients="magrets"> retourner </operation> les <ingredient action="retourner" quantite="2"> magrets </ingredient> coté chair en diminuant le feu . <operation ingredients="miel;magrets"> badigeonner </operation> de <ingredient action="badigeonner" quantite="2 cuillère à soupe"> miel </ingredient> la peau des <ingredient action="badigeonner" quantite="2"> magrets </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> 5 minutes . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> . <operation ingredients="porto"> déglacer </operation> avec le <ingredient action="déglacer" quantite=""> porto </ingredient> , <operation ingredients="cannelle;orange"> ajouter </operation> la <ingredient action="ajouter" quantite="4 pincée"> cannelle </ingredient> , le zeste d' <ingredient action="ajouter"> orange </ingredient> et l' anis . <operation ingredients="miel"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> miel </ingredient> liquide et laisser <operation> épaissir </operation> . <operation> retirer </operation> du feu . <operation ingredients="café;beurre"> ajouter </operation> le <ingredient action="ajouter"> café </ingredient> et le <ingredient action="ajouter" quantite="25 gramme"> beurre </ingredient> . servir avec des parpadelles .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19799">
+<titre>Potage à la truite fumée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 paquets de truite fumée</p>
+<p>2 blancs de poireaux</p>
+<p>3 carottes</p>
+<p>3 tomates fraîches</p>
+<p>2 pommes de terre</p>
+<p>échalotes</p>
+<p>ciboulette</p>
+<p>1 cube de bouillon de poisson</p>
+<p>beurre et crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="légumes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="3;3;2;"> légumes </ingredient> dans le <ingredient action="revenir" quantite=""> beurre </ingredient> . <operation ingredients="poisson"> ajouter </operation> de l’ eau + cube de <ingredient action="ajouter"> poisson </ingredient> . <operation ingredients="truite"> passer </operation> au <operation> mixer </operation> ainsi qu’ un paquet de <ingredient action="passer"> truite </ingredient> . <operation> mettre </operation> à <operation> cuire </operation> 30 mn . vérifier l’ <ingredient quantite=""> assaisonnement </ingredient> avant de servir . <operation ingredients="crème;truite"> ajouter </operation> <ingredient action="ajouter"> crème </ingredient> fraîche + morceaux de <ingredient action="ajouter"> truite </ingredient> + ciboulette . chablis
+</preparation>
+</recette>

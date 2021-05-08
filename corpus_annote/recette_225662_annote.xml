@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225662">
+<titre>Muffins bananes coco et chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>175g de farine </p>
+<p>100g de sucre </p>
+<p>1 oeuf</p>
+<p>10 cl de lait</p>
+<p>50 g de beurre</p>
+<p>1/2 sachet de levure</p>
+<p>2 grosse bananes (ou 3 petites)</p>
+<p>40 g de noix de coco rappée</p>
+<p>pépites de chocolat</p>
+</ingredients>
+<preparation>
+préchauffer le four à 220 <operation> ° </operation> c ( thermostat . 8) . <operation ingredients="oeuf;sucre"> battre </operation> l’ <ingredient action="battre" quantite="1"> oeuf </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="farine;levure"> mélanger </operation> la <ingredient action="mélanger" quantite="175 gramme"> farine </ingredient> et la <ingredient action="mélanger"> levure </ingredient> . <operation> ajouter </operation> par petites quantités en alternant , la <ingredient quantite="175 gramme"> farine </ingredient> et le <ingredient quantite="10 cl"> lait </ingredient> . <operation ingredients="noix;bananes;chocolat"> ajouter </operation> la <ingredient action="ajouter" quantite="40 gramme"> noix </ingredient> de coco <operation> râpée </operation> , les <ingredient action="ajouter" quantite="2"> bananes </ingredient> et les pépites de <ingredient action="ajouter"> chocolat </ingredient> . <operation> verser </operation> dans des <operation> moules </operation> à muffins et <operation> enfourner </operation> pour 20 minutes de cuisson .
+</preparation>
+</recette>

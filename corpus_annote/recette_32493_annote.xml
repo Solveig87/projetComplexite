@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32493">
+<titre>Crêpes au jambon et bleu d'Auvergne</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 crêpes salées</p>
+<p>50 g de beurre</p>
+<p>80 g de farine</p>
+<p>3 tranches de jambon</p>
+<p>100 g de bleu d'Auvergne (ou de votre bleu préféré...) </p>
+<p>sel, poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="béchamel"> préparez </operation> une <ingredient action="préparer"> béchamel </ingredient> : faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> sur feu doux . <operation> ajoutez </operation> - y la <ingredient action="mélanger" quantite="80 gramme"> farine </ingredient> , <operation ingredients="farine"> mélangez </operation> , <operation> salez </operation> <operation> poivrez </operation> , muscadez . <operation ingredients="lait"> ajoutez </operation> le <ingredient action="ajouter"> lait </ingredient> très progressivement , tout en <operation> remuant </operation> , jusqu' à obtention d' une sauce onctueuse . <operation ingredients="jambon;carrés"> coupez </operation> le <ingredient action="couper" quantite="3 tranche"> jambon </ingredient> en petits <ingredient action="couper"> carrés </ingredient> et <operation> incorporez </operation> - le à la <ingredient> béchamel </ingredient> . <operation ingredients="crêpe"> etalez </operation> une large bande de ce <operation> mélange </operation> au centre de chaque <ingredient action="etaler" quantite="6"> crêpe </ingredient> , <operation ingredients="bleu"> parsemez </operation> de <ingredient action="parsemer" quantite="100 gramme"> bleu </ingredient> d' auvergne <operation> coupé </operation> en dés , puis <operation ingredients="crêpe"> repliez </operation> les bords de la <ingredient action="replier" quantite="6"> crêpe </ingredient> . servez immédiatemment .
+</preparation>
+</recette>

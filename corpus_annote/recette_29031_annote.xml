@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29031">
+<titre>Salsifis au beurre de parmesan</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de salsifis noirs</p>
+<p>50 g de parmesan râpé </p>
+<p>30 g de beurre</p>
+<p>1 citron</p>
+<p>sel </p>
+</ingredients>
+<preparation>
+<operation ingredients="salsifis"> nettoyer </operation> et <operation> éplucher </operation> les <ingredient action="nettoyer" quantite="1 kilogramme"> salsifis </ingredient> , et les <operation ingredients="jus"> plonger </operation> dans de l' eau avec du <ingredient action="plonger"> jus </ingredient> de citron . faire <operation> cuire </operation> dans une cocotte remplie d' eau bouillante <operation> salée </operation> , jusqu’ à ce qu’ ils soient tendres . <operation> égoutter </operation> et servir <operation ingredients="parmesan"> saupoudrés </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> parmesan </ingredient> et <operation ingredients="beurre"> arrosés </operation> de <ingredient action="arroser" quantite="30 gramme"> beurre </ingredient> chaud .
+</preparation>
+</recette>

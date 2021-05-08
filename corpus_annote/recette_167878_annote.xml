@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167878">
+<titre>Sauce au Whisky</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 bonnes cuillères à soupe de mayonnaise</p>
+<p>3 cuillères à soupe de ketchup</p>
+<p>2.5 cuillères à soupe de whisky</p>
+<p>sel</p>
+<p>poivre</p>
+<p>20 cl de crème liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="mayonnaise;ketchup"> mélanger </operation> la <ingredient action="mélanger"> mayonnaise </ingredient> et le <ingredient action="mélanger" quantite="3 cuillère à soupe"> ketchup </ingredient> et <operation ingredients="whisky"> ajoutez </operation> le <ingredient action="ajouter"> whisky </ingredient> tout en continuant de <operation> mélanger </operation> l' ensemble . <operation ingredients="sel;poivre"> ajoutez </operation> du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> selon votre gout . <operation ingredients="crème;crème"> battez </operation> la <ingredient action="battre" quantite="20 cl"> crème </ingredient> liquide jusqu' à obtention d' une <ingredient action="battre" quantite="20 cl"> crème </ingredient> épaisse ( ne pas en <operation ingredients="chantilly"> faire </operation> de la <ingredient action="faire"> chantilly </ingredient> ! ) juste avant de servir la sauce au <ingredient> whisky </ingredient> , <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> épaisse avec une spatule . servez cette sauce avec des <ingredient> crustacés </ingredient> ou des <ingredient> fruits </ingredient> de mer ( <ingredient> crevettes </ingredient> , <operation> moules </operation> , <ingredient> crabe </ingredient> . . . ) .
+</preparation>
+</recette>

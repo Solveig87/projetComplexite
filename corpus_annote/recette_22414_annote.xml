@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22414">
+<titre>Pain perdu aux lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 baguette ou pain un peu rassis</p>
+<p>3 oeufs battus avec du sel</p>
+<p>2 barquettes de lardons fumés</p>
+<p>huile pour la friture</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="baguette;baguette;pain"> trancher </operation> la <ingredient action="trancher" quantite="1"> baguette </ingredient> ( si <ingredient action="trancher" quantite="1"> baguette </ingredient> , <operation> couper </operation> aussi dans le sens de la longueur ) ou le <ingredient action="trancher"> pain </ingredient> , <operation ingredients="lardons"> enfoncer </operation> les <ingredient action="enfoncer"> lardons </ingredient> dans les tranches . 2 ) <operation ingredients="oeufs;sel"> battre </operation> les <ingredient action="battre"> oeufs </ingredient> avec le <ingredient action="battre"> sel </ingredient> , <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> dans une sauteuse . 3 ) <operation ingredients="pain;oeufs"> tremper </operation> les tranches de <ingredient action="tremper"> pain </ingredient> aux lardons dans les <ingredient action="tremper"> oeufs </ingredient> <operation> battus </operation> et les <operation ingredients="huile"> plonger </operation> dans l' <ingredient action="plonger" quantite=""> huile </ingredient> chaude . les faire <operation> frire </operation> des 2 côtés et les <operation> égoutter </operation> sur du papier absorbant . pour un dîner rapide et délicieux .
+</preparation>
+</recette>

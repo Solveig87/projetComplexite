@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54706">
+<titre>Salade antillaise aux noix de cajou</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de blanc de poulet</p>
+<p>500 g d'ananas au sirop</p>
+<p>300 g de noix de cajou</p>
+<p>200 g de mayonnaise</p>
+<p>200 g de fromage blanc</p>
+<p>sel</p>
+<p>3 cuillères à soupe de curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> cuire </operation> les blancs de <ingredient action="cuire"> poulet </ingredient> , les <operation> mettre </operation> à refroidir . <operation ingredients="ananas"> egoutter </operation> les morceaux d' <ingredient action="egoutter" quantite="500 gramme"> ananas </ingredient> . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en morceaux de la même taille . <operation> mélanger </operation> tous les ingrédients . <operation ingredients="curry"> doser </operation> le <ingredient action="doser" quantite="3 cuillère à soupe"> curry </ingredient> à votre goût . idéal pour un buffet . succés garanti !
+</preparation>
+</recette>

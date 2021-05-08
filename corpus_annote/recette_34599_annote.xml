@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34599">
+<titre>Poulet au champagne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>2 échalotes</p>
+<p>un peu d'huile</p>
+<p>5 cl de concentré de tomates</p>
+<p>1 verre à liqueur de cognac</p>
+<p>25 cl de crème fraîche</p>
+<p>1/2 bouteille de champagne brut</p>
+<p>sel et poivre</p>
+<p>Pour la sauce :</p>
+<p>75 g de beurre</p>
+<p>50 g de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper" quantite="1"> poulet </ingredient> en morceaux et faire <operation ingredients="huile"> dorer </operation> dans un peu d' <ingredient action="dorer"> huile </ingredient> dans une cocotte pendant 15 min environ . <operation ingredients="échalotes"> hacher </operation> les <ingredient action="hacher" quantite="2"> échalotes </ingredient> . lorsque les morceaux de <ingredient quantite="1"> poulet </ingredient> sont bien dorés , <operation ingredients="échalotes;tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> et le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> . <operation ingredients="cognac"> verser </operation> le <ingredient action="verser"> cognac </ingredient> et <operation> flamber </operation> aussitôt . <operation ingredients="champagne"> verser </operation> le <ingredient action="verser"> champagne </ingredient> et terminer la cuisson sur feu doux environ 40 min . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> , la <operation> dresser </operation> sur un plat tenu au chaud . <operation> passer </operation> la sauce au tamis . d' autre part , <operation ingredients="beurre"> faire </operation> un <ingredient action="faire" quantite="75 gramme"> beurre </ingredient> manié en <operation ingredients="beurre;farine"> mélangeant </operation> le <ingredient action="mélanger" quantite="75 gramme"> beurre </ingredient> avec la <ingredient action="mélanger" quantite="50 gramme"> farine </ingredient> . lorsqu' il est bien <operation> lisse </operation> , <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="25 cl"> crème </ingredient> . <operation> verser </operation> le tout dans la sauce . <operation ingredients="poulet"> napper </operation> le <ingredient action="napper" quantite="1"> poulet </ingredient> . vous pouvez <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> créole .
+</preparation>
+</recette>

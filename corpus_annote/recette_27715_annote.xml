@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27715">
+<titre>Salade de papaye verte</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 papaye verte</p>
+<p>1 carotte</p>
+<p>1 tomate</p>
+<p>1 piment rouge</p>
+<p>1 gousse d'ail</p>
+<p>Pour l'assaisonnement :</p>
+<p>3 cuillères à soupe de nuoc mam</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>1,5 cuillère à soupe de jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="carotte;papaye"> râper </operation> la <ingredient action="râper" quantite="1"> carotte </ingredient> et la <ingredient action="râper" quantite="1"> papaye </ingredient> . au centre de la <ingredient quantite="1"> papaye </ingredient> , il y a des graines qui sont très amères . veiller à les <operation> enlever </operation> . le plus simple étant de <operation ingredients="papaye"> couper </operation> la <ingredient action="couper" quantite="1"> papaye </ingredient> en deux et <operation> enlever </operation> toutes les graines puis de tout <operation> râper </operation> . dans un mortier , <operation ingredients="gousse"> écraser </operation> la <ingredient action="écraser" quantite="1"> gousse </ingredient> d' ail et le piment . y <operation ingredients="assaisonnement"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> assaisonnement </ingredient> . <operation> goûter </operation> , <operation> rectifier </operation> si besoin . <operation ingredients="papaye;carotte"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> papaye </ingredient> et la <ingredient action="ajouter" quantite="1"> carotte </ingredient> <operation> râpée </operation> . <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en lamelles . tout bien <operation> mélanger </operation> . voilà , c' est prêt . on peut <operation> rajouter </operation> le piment à volonté . on sert traditionnellement cette <ingredient> salade </ingredient> <operation ingredients="boeuf;riz"> accompagnée </operation> de la préparation de <ingredient action="accompagner"> boeuf </ingredient> à la laotienne et de <ingredient action="accompagner"> riz </ingredient> gluant . . .
+</preparation>
+</recette>

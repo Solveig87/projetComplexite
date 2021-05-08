@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32122">
+<titre>Semoule au lait toute simple</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait </p>
+<p>70 g de semoule très fine</p>
+<p>100 g de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> , <operation ingredients="sucre;semoule"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> et la <ingredient action="ajouter" quantite="70 gramme"> semoule </ingredient> sans cesser de <operation> remuer </operation> pendant environ 3 min jusqu' à épaississement . <operation> verser </operation> dans des bols , ramequins ou gobelets en plastique jetables ( je trouve que la <ingredient quantite="70 gramme"> semoule </ingredient> <operation> collée </operation> est très désagréable à <operation> nettoyer </operation> ! ! ) , et laisser refroidir . idéale les matins d' hiver , avant de partir à l' école dans le froid ! ! vous pouvez <operation ingredients="raisins;abricots"> ajouter </operation> des <ingredient action="ajouter"> raisins </ingredient> secs , de la vanille des <ingredient action="ajouter"> abricots </ingredient> secs ou tout ce que vous aimez bon apétit
+</preparation>
+</recette>

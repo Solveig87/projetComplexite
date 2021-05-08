@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44454">
+<titre>Frites au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de frites</p>
+<p>200 g de chocolat</p>
+<p>30 g de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> cuire </operation> les frites dans de l' <ingredient action="cuire"> huile </ingredient> neuve ou à la friteuse électrique . les <operation> sucrer </operation> legerement . faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> à feu doux , en <operation> touillant </operation> doucement jusqu' à obtenir un ruban <operation> lisse </operation> . <operation> sucrer </operation> à votre goût . <operation ingredients="chocolat"> verser </operation> le <ingredient action="verser" quantite="200 gramme"> chocolat </ingredient> dans un joli plat et les frites dans un autre . . . <operation ingredients="chocolat"> tremper </operation> les frites dans le <ingredient action="tremper" quantite="200 gramme"> chocolat </ingredient> <operation> fondu </operation> . . . et régalez vous ! on peut aussi <operation ingredients="crêpe"> enroulez </operation> les frites dans une <ingredient action="enrouler"> crêpe </ingredient> au chocolat , c' est encore meilleur ! ! !
+</preparation>
+</recette>

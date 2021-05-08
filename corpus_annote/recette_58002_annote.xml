@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58002">
+<titre>Tartare de saumon et cottage-cheese</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de saumon fumé</p>
+<p>500 g de cottage cheese</p>
+<p>jus de 1/2 lime</p>
+<p>1 petit bouquet de ciboulette</p>
+<p>2 branches d'aneth</p>
+<p>1 petite échalote</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> découper </operation> menu le <ingredient action="ajouter"> saumon </ingredient> , <operation ingredients="saumon;jus;échalote;ciboulette;aneth"> ajouter </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> de <operation> lime </operation> , l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> , la <ingredient action="ajouter"> ciboulette </ingredient> et l' <ingredient action="ajouter"> aneth </ingredient> <operation> hachées </operation> finement . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="cottage"> mélanger </operation> au <ingredient action="mélanger" quantite="500 gramme"> cottage </ingredient> cheese . servi avec des toasts ou du <ingredient> pain </ingredient> noir , mmmh , <ingredient> salade </ingredient> verte et <ingredient> crème </ingredient> de céleri . c' est bon .
+</preparation>
+</recette>

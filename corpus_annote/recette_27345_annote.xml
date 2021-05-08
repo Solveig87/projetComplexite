@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27345">
+<titre>Les Monsieurs Perdus</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie  </p>
+<p>2 oeufs </p>
+<p>10 cl de lait (mélangé avec de la crème si vous êtes gourmand) </p>
+<p>2 tranches de jambon </p>
+<p>20 g de fromage râpé </p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;oeufs"> tremper </operation> les tranches de <ingredient action="tremper" quantite="4 tranche"> pain </ingredient> de mie dans un <operation> mélange </operation> <ingredient action="tremper" quantite="2"> oeufs </ingredient> <operation ingredients="lait"> battus </operation> + <ingredient action="battre" quantite="10 cl"> lait </ingredient> . <operation> déposez </operation> -en la moitié dans une <operation> poêle </operation> dans laquelle vous aurez fait <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> . quand la première face est dorée les <operation> retourner </operation> et <operation ingredients="fromage"> poser </operation> dessus un peu de <ingredient action="poser" quantite="20 gramme"> fromage </ingredient> , les tranches de <ingredient quantite="2 tranche"> jambon </ingredient> et encore du <ingredient quantite="20 gramme"> fromage </ingredient> . quand la seconde face <operation> présente </operation> également une jolie couleur , <operation ingredients="pain"> retirez </operation> les tranches de <ingredient action="retirer" quantite="4 tranche"> pain </ingredient> de mie et <operation> réservez </operation> - les . procédez de la même façon pour les autres tranches : faites <operation> dorer </operation> la première face , <operation> retournez </operation> , <operation> déposez </operation> un peu de râpé , et attendez que la seconde face soit à point . vous <operation> déposez </operation> ces tranches sur celles que vous aviez <operation> réservées </operation> , et vous dégustez ! mon fils de trois ans en raffole car il préfère le moelleux de ses ' messieurs perdus ' au <ingredient> croquant </ingredient> des croque - monsieurs traditionnels .
+</preparation>
+</recette>

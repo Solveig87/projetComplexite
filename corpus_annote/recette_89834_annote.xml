@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89834">
+<titre>Foies de volaille au whisky et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>16 foies de volaille</p>
+<p>2 oignons</p>
+<p>1 pot de crème fraîche épaisse</p>
+<p>1 verre de whisky</p>
+</ingredients>
+<preparation>
+<operation ingredients="foies;margarine"> saisir </operation> les <ingredient action="saisir" quantite="16"> foies </ingredient> de volailles dans de la <ingredient action="saisir"> margarine </ingredient> . les résever au chaud . dans la <operation> poêle </operation> qui a servi à <operation ingredients="foies"> cuire </operation> les <ingredient action="cuire" quantite="16"> foies </ingredient> de volaille , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> . une fois les <ingredient quantite="2"> oignons </ingredient> <operation> cuits </operation> , <operation ingredients="whisky"> déglacer </operation> avec un verre de <ingredient action="déglacer" quantite="1 verre"> whisky </ingredient> . dès qu' il n' y a plus de <ingredient> jus </ingredient> dans la <operation> poêle </operation> , <operation ingredients="crème"> ajouter </operation> le pot de <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> fraîche . laisser <operation> cuire </operation> 5 minutes et <operation ingredients="foies"> remettre </operation> les <ingredient action="remettre" quantite="16"> foies </ingredient> de volaille . laisser <operation> cuire </operation> à nouveau 2 minutes et servir . servir avec de la purée , du <ingredient> riz </ingredient> ou des <ingredient> tagliatelles </ingredient> fraîches .
+</preparation>
+</recette>

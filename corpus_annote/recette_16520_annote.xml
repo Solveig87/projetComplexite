@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16520">
+<titre>Gâteau de crabe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>240 g de chair de crabe cuite (ou 2 boîtes de chair de crabe)</p>
+<p>2 tranches de pain blanc vieux du jour </p>
+<p>1 oeuf</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à soupe de ciboulette finement hachée</p>
+<p>1/2 cuillère à café de sel</p>
+<p>1 cuillère à café de poivre noir fraîchement moulu</p>
+<p>1 cuillère à café d'écorce de citron finement râpée</p>
+<p>1 cuillère à soupe de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salades;carotte;citron"> accompagnement </operation> : <operation> mélange </operation> de <ingredient action="accompagnement"> salades </ingredient> 1 petite <ingredient action="accompagnement"> carotte </ingredient> quartiers de <ingredient action="accompagnement"> citron </ingredient> <operation ingredients="chair"> retirer </operation> la <ingredient action="retirer" quantite="240 gramme"> chair </ingredient> de la carcasse . pour le <ingredient action="égoutter"> crabe </ingredient> en boite , l' <operation ingredients="crabe"> égoutter </operation> à l' aide d' une passoire . <operation ingredients="pain"> enlever </operation> la croute du <ingredient action="enlever" quantite="2 tranche"> pain </ingredient> et le <operation> réduire </operation> en morceaux . <operation ingredients="chair;pain;oeuf"> mélanger </operation> la <ingredient action="mélanger" quantite="240 gramme"> chair </ingredient> de crabe , le <ingredient action="mélanger" quantite="2 tranche"> pain </ingredient> , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , la <ingredient action="presser"> salade </ingredient> , l' <ingredient action="presser"> ail </ingredient> <operation ingredients="salade;ail;ciboulette"> pressé </operation> et la <ingredient action="presser"> ciboulette </ingredient> . <operation ingredients="sel;citron"> epicer </operation> avec le <ingredient action="epicer"> sel </ingredient> , poivre et écorce de <ingredient action="epicer"> citron </ingredient> . <operation> faconner </operation> 8 boules . les faire <operation ingredients="beurre"> dorer </operation> , 2 minutes par côté , dans le <ingredient action="dorer" quantite="1 cuillère à soupe"> beurre </ingredient> . servir avec la <ingredient> salade </ingredient> , carotte <operation> râpée </operation> et un quartier de <ingredient> citron </ingredient> .
+</preparation>
+</recette>

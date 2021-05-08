@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16992">
+<titre>Poulet à la crème et champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet coupé en morceaux</p>
+<p>500 g de champignons de Paris </p>
+<p>5 cl de Calvados</p>
+<p>3 échalotes</p>
+<p>1 bouquet garni</p>
+<p>15 cl de crème fraîche</p>
+<p>3 cuillère à soupe d'huile</p>
+<p>40 g de beurre</p>
+<p>2 cuillères à soupe de fines herbes hachées</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> nettoyez </operation> les <ingredient action="nettoyez" quantite="500 gramme"> champignons </ingredient> et <operation> coupez </operation> - les en rondelles . <operation> epluchez </operation> et <operation ingredients="échalotes"> émincez </operation> les <ingredient action="émincer" quantite="3"> échalotes </ingredient> . faites <operation ingredients="poulet;huile"> revenir </operation> le <ingredient action="revenir" quantite="1"> poulet </ingredient> dabs l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> . <operation> videz </operation> la sauteuse et remplacez par les <ingredient quantite="500 gramme"> champignons </ingredient> et les <ingredient quantite="3"> échalotes </ingredient> dans le <ingredient quantite="40 gramme"> beurre </ingredient> , <operation ingredients="poulet"> remettez </operation> le <ingredient action="remettre" quantite="1"> poulet </ingredient> et <operation ingredients="calvados"> flambez </operation> avec le <ingredient action="flamber" quantite="5 cl"> calvados </ingredient> . <operation ingredients="bouquet;sel"> ajoutez </operation> un verre d' eau , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre et laissez <operation> mijoter </operation> sur feu doux . après 1 h de cuisson , <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="15 cl"> crème </ingredient> fraîche , <operation> mélangez </operation> et laissez 15 mn . <operation> saupoudrez </operation> de fines herbes , et servez .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13627">
+<titre>Ballotine de dinde</titre>
+<type>Plat principal</type>
+<niveau>Difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 dinde de 2 kg</p>
+<p>2 poireaux</p>
+<p>1 carotte</p>
+<p>250 g de jambon cuit</p>
+<p>250 g de noix de veau</p>
+<p>200 g de chair à saucisse</p>
+<p>200 g de lard gras</p>
+<p>1 truffe</p>
+<p>500 g de foie de veau</p>
+<p>300 g de foie gras frais</p>
+<p>gros sel</p>
+<p>poivre noir en grains</p>
+</ingredients>
+<preparation>
+demandez au volailler de <operation ingredients="dinde"> désosser </operation> la <ingredient action="désosser" quantite="1"> dinde </ingredient> sans <operation> déchirer </operation> la peau et récupérez les abattis . <operation> mettez </operation> - les dans une grande marmite avec les <ingredient quantite="2"> poireaux </ingredient> <operation> émincés </operation> , la <ingredient quantite="1"> carotte </ingredient> , 15 g de gros <ingredient quantite=""> sel </ingredient> et 20 grains de <ingredient> poivre </ingredient> . <operation> ajoutez </operation> 2 , 5 l d' eau et faites <operation> bouillir </operation> pendant 1 h 30 , puis laissez refroidir . pendant ce temps , <operation ingredients="jambon;noix;chair;lard"> hachez </operation> ensemble le <ingredient action="hachez"> jambon </ingredient> , la <ingredient action="hachez" quantite="250 gramme"> noix </ingredient> de veau , la <ingredient action="hachez" quantite="200 gramme"> chair </ingredient> à saucisse et le <ingredient action="hachez" quantite="200 gramme"> lard </ingredient> . <operation ingredients="truffe"> ajoutez </operation> à cette farce les pelures de la <ingredient action="ajouter" quantite="1"> truffe </ingredient> <operation> nettoyée </operation> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="dinde"> posez </operation> la <ingredient action="poser" quantite="1"> dinde </ingredient> <operation> désossée </operation> à plat sur le plan de travail côté peau dessous . <operation> etalez </operation> la farce par dessus . <operation ingredients="foie"> posez </operation> ensuite le <ingredient action="poser" quantite="500 gramme+300 gramme"> foie </ingredient> de veau , <operation ingredients="foie;truffe"> coupé </operation> en 2 ou 3 morceaux , le <ingredient action="couper" quantite="500 gramme+300 gramme"> foie </ingredient> gras , et des lamelles de <ingredient action="couper" quantite="1"> truffe </ingredient> . <operation ingredients="dinde"> rabattez </operation> la peau de la <ingredient action="rabattre" quantite="1"> dinde </ingredient> en tirant légèrement pour rapprocher les bords et cousez la ballotine assez serré . <operation> enveloppez </operation> - la ensuite dans un torchon en <operation> formant </operation> un paquet régulier et cousez - le également . le tout doit être bien serré . pesez la ballotine . <operation> placez </operation> - la dans une grande casserole et <operation ingredients="bouillon;légumes"> versez </operation> le <ingredient action="verser"> bouillon </ingredient> froid par - dessus avec les <ingredient action="verser" quantite="2;1;1"> légumes </ingredient> . <operation> portez </operation> lentement à <operation> ébullition </operation> et laissez <operation> cuire </operation> doucement en <operation> comptant </operation> 20 min par livre . <operation> egouttez </operation> la ballotine et laissez - la refroidir . <operation> mettez </operation> la ballotine au réfrigérateur sans la <operation> déballer </operation> . ne décousez le linge que lorsqu' elle est bien froide . <operation> déballez </operation> - la , <operation> retirez </operation> tous les fils et <operation> coupez </operation> - la en tranches . châteauneuf-du-pape
+</preparation>
+</recette>

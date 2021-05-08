@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62105">
+<titre>Pêche en crumble</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 pêches ou nectarines</p>
+<p>6 sablés</p>
+<p>10 amandes entières</p>
+<p>20 g de beurre</p>
+<p>1 cuillère à soupe de miel</p>
+<p>jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="sablés;amandes"> mixer </operation> les <ingredient action="mixer" quantite="6"> sablés </ingredient> avec les <ingredient action="mixer" quantite="10"> amandes </ingredient> pas trop finement . <operation ingredients="pêches"> couper </operation> en lamelles d' environ 1 cm les <ingredient action="couper" quantite="3"> pêches </ingredient> et les <operation ingredients="jus"> arroser </operation> immédiatement du <ingredient action="arroser" quantite=""> jus </ingredient> de citron pour éviter qu' elles ne <operation> noircissent </operation> . faire <operation ingredients="beurre;miel"> fondre </operation> le <ingredient action="fondre" quantite="20 gramme"> beurre </ingredient> et les <ingredient action="fondre" quantite="1 cuillère à soupe"> miel </ingredient> dans une <operation> poêle </operation> à feu vif . <operation ingredients="pêche"> mettre </operation> les lamelles de <ingredient action="mettre" quantite="3"> pêche </ingredient> à <operation> dorer </operation> de chaque coté puis <operation ingredients="chapelure"> ajouter </operation> la <ingredient action="ajouter"> chapelure </ingredient> . servir avec une boule de <ingredient> glace </ingredient> <ingredient> vanille </ingredient> ou nougat .
+</preparation>
+</recette>

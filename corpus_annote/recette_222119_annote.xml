@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222119">
+<titre>Nappage chocolat blanc et praliné</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat blanc</p>
+<p>100 g de chocolat praliné</p>
+<p>150 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme+100 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> ensemble au micro-ondes ou dans une casserole à feu doux . <operation ingredients="gâteau"> mettre </operation> le <ingredient action="mettre"> gâteau </ingredient> sur une <operation> grille </operation> avec un récipient récupérateur . <operation ingredients="gâteau"> verser </operation> délicatement le nappage sur le <ingredient action="verser"> gâteau </ingredient> . <operation> tapoter </operation> la <operation> grille </operation> sur le récipient . <operation> mettre </operation> au frais 30 min . <ingredient> vin </ingredient> blanc ou <ingredient> champagne </ingredient>
+</preparation>
+</recette>

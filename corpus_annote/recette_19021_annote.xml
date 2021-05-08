@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19021">
+<titre>Oeufs  pochés à la  basquaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>6 tomates</p>
+<p>2 oignons</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>herbes de provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="2"> oignon </ingredient> . <operation ingredients="tomates;poivrons"> laver </operation> les <ingredient action="laver" quantite="6"> tomates </ingredient> et les <ingredient action="laver"> poivrons </ingredient> . <operation ingredients="tomates;poivrons"> couper </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en quartiers et les <ingredient action="couper"> poivrons </ingredient> en fines lamelles . dans une cocotte , <operation ingredients="légumes"> mettre </operation> tous les <ingredient action="mettre" quantite="6;2"> légumes </ingredient> à <operation> mijoter </operation> pendant 35 à 40 mn . <operation> saler </operation> , <operation> poivrer </operation> . <operation> saupoudrer </operation> d' herbes de provence . pendant ce temps , <operation ingredients="oeufs"> mettre </operation> les <ingredient action="mettre" quantite="8"> oeufs </ingredient> à <operation> pocher </operation> dans une casserole d' eau frémissante légèrement vinaigrée . les <operation> égoutter </operation> sur un linge propre ou du papier absorbant . servir les <ingredient quantite="8"> oeufs </ingredient> <operation> nappés </operation> de la sauce basquaise .
+</preparation>
+</recette>

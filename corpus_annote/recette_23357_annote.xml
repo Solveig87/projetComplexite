@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23357">
+<titre>Ragoût de blettes au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de blettes émincées</p>
+<p>1 petite boîte de miettes de thon à l'huile</p>
+<p>12 olives vertes et noires</p>
+<p>2 anchois</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>1 gros oignon émincé</p>
+<p>3 gousses d'ail</p>
+<p>4 cuillères à soupe huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile;anchois;ail;tomate"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite="4 cuillère à soupe"> huile </ingredient> , <operation ingredients="blettes"> ajouter </operation> les <ingredient action="ajouter"> blettes </ingredient> , les <ingredient action="revenir" quantite="2"> anchois </ingredient> et l' <ingredient action="revenir"> ail </ingredient> <operation> écrasés </operation> puis le <operation> concentré </operation> de <ingredient action="revenir"> tomate </ingredient> . <operation ingredients="olives"> ebouillanter </operation> les <ingredient action="ebouillanter" quantite="12"> olives </ingredient> <operation> coupées </operation> en 4 pendant 2 minutes puis les <operation> ajouter </operation> au <operation> mélange </operation> précédent . <operation> cuire </operation> 15 minutes puis <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> <operation> égoutté </operation> . poursuivre la cuisson 20 minutes et servir .
+</preparation>
+</recette>

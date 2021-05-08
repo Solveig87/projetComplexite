@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166687">
+<titre>Crème brûlée au jambon sec et tomates confites</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon sec</p>
+<p>12 pétales de tomates confites</p>
+<p>25 cl de lait </p>
+<p>25 cl de crème fraîche liquide</p>
+<p>4 oeufs</p>
+<p>qq feuilles de basilic (si on veut)</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeufs;crème;lait"> battez </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> entiers avec la <ingredient action="battre" quantite="25 cl"> crème </ingredient> fraîche et le <ingredient action="battre" quantite="25 cl"> lait </ingredient> . <operation ingredients="jambon"> saler </operation> modérément ( attention le <ingredient action="saler" quantite="6 tranche"> jambon </ingredient> l' est déjà . . . ) et <operation> poivrer </operation> . <operation ingredients="jambon"> coupez </operation> les tranches de <ingredient action="couper" quantite="6 tranche"> jambon </ingredient> sec en morceaux et <operation ingredients="tomates;confites"> taillez </operation> finement les <ingredient action="tailler"> tomates </ingredient> <ingredient action="tailler"> confites </ingredient> . préchauffez de four à 90 . th 3 . <operation ingredients="jambon;tomates"> répartissez </operation> le <ingredient action="répartir" quantite="6 tranche"> jambon </ingredient> et les <ingredient action="répartir"> tomates </ingredient> dans le fond de 4 cassolettes allant au four . <operation> ajoutez </operation> l' appareil à crème brûlée et <operation> enfournez </operation> pour 45 min . vérifiez que les <ingredient quantite="25 cl"> crèmes </ingredient> sont prises et sortez les du four . laissez refroidir . <operation ingredients="parmesan"> recouvrez </operation> la surface de <ingredient action="recouvrir"> parmesan </ingredient> que vous ferez <operation> fondre </operation> rapidement sous le grill du four . <operation ingredients="basilic"> décorer </operation> de <ingredient action="décorer"> basilic </ingredient> ( facultatif )
+</preparation>
+</recette>

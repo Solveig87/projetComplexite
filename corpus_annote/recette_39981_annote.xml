@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39981">
+<titre>Poulet indonésien</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de blanc de poulet coupé en cubes</p>
+<p>3 citrons verts pressés en jus</p>
+<p>1 boîte de tomates pelées (ou tomates fraîches si préférence)</p>
+<p>25 cl d'eau</p>
+<p>piments selon convenance </p>
+<p>2 cuillères à café de gingembre frais râpé</p>
+<p>2 gousses d'ail écrasées</p>
+<p>1 cuillère à soupe de curcuma en poudre</p>
+<p>1 tige de citronnelle</p>
+<p>25 cl de crème de noix de coco (ou à défaut de lait de coco, souvent plus facile à trouver)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> macérer </operation> le <ingredient action="macérer"> poulet </ingredient> <operation ingredients="jus"> coupé </operation> en cubes dans le <ingredient action="couper"> jus </ingredient> de citron vert pendant 1 heure environ . <operation ingredients="crème"> placer </operation> ensuite tous les ingrédients ( excepté la <ingredient action="placer" quantite="25 cl"> crème </ingredient> de coco ) dans un faitout . <operation> porter </operation> à <operation> ébullition </operation> , baisser le feu , <operation> couvrer </operation> et laisser <operation> mijoter </operation> 30 min . <operation ingredients="crème"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> de coco et laisser <operation> mijoter </operation> encore 10 min à <operation> découvert </operation> . servir avec du <ingredient> riz </ingredient> de préférence .
+</preparation>
+</recette>

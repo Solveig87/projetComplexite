@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36942">
+<titre>Sandwich au saumon fumé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie carré</p>
+<p>4 tranches de saumon fumé</p>
+<p>4 feuilles de salade</p>
+<p>3 cuillères à soupe de fromage blanc</p>
+<p>1 cuillère à soupe de jus de citron</p>
+<p>poivre, sel</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la sauce : bien <operation ingredients="fromage;jus"> mélanger </operation> le <ingredient action="mélanger" quantite="3 cuillère à soupe"> fromage </ingredient> blanc et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> jus </ingredient> de citron . <operation> saler </operation> et <operation> poivrer </operation> . sur chaque tranche de <ingredient quantite="8 tranche"> pain </ingredient> de mie , étaler un peu de sauce . <operation ingredients="saumon;fumé;salade"> disposer </operation> ensuite une tranche de <ingredient action="disposer"> saumon </ingredient> <ingredient action="disposer" quantite="4 tranche"> fumé </ingredient> , puis une feuille de <ingredient action="disposer" quantite="4 feuille"> salade </ingredient> . on peut <operation ingredients="saumon;salade"> découper </operation> le <ingredient action="découper"> saumon </ingredient> et la <ingredient action="découper" quantite="4 feuille"> salade </ingredient> en lanières pour que ce soit plus facile . terminer les <ingredient> sandwich </ingredient> par une tranche de <ingredient quantite="8 tranche"> pain </ingredient> . <operation> découper </operation> en diagonale . personnellement , je le <operation> prépare </operation> quelques heures à l' avance : en laissant <operation ingredients="citron"> reposer </operation> au frais , le goût du <ingredient action="reposer"> citron </ingredient> ressort mieux .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10951">
+<titre>Spaghetti aux courgettes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de spaghettis</p>
+<p>600 g de courgettes</p>
+<p>1 oignon</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>150 g de crème épaisse</p>
+<p>100 g de parmesan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="spaghettis"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> spaghettis </ingredient> al dente puis les <operation> réserver </operation> . <operation> éplucher </operation> les courgettes et les <operation> râper </operation> . <operation ingredients="oignon"> émincer </operation> un <ingredient action="émincer" quantite="1"> oignon </ingredient> . faire <operation ingredients="oignon;huile"> revenir </operation> dans une <operation> poêle </operation> , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> avec l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , puis <operation> ajouter </operation> les courgettes <operation> râpées </operation> . <operation> couvrir </operation> et laisser <operation> cuire </operation> à petit feu pendant 10 minutes . dans un bol , <operation ingredients="crème;parmesan"> mélanger </operation> la <ingredient action="mélanger" quantite="150 gramme"> crème </ingredient> épaisse et le <ingredient action="mélanger" quantite="100 gramme"> parmesan </ingredient> râpé frais . dans la <operation> poêle </operation> <operation ingredients="spaghetti;parmesan"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> spaghetti </ingredient> et le <operation> mélange </operation> crème - <ingredient action="ajouter" quantite="100 gramme"> parmesan </ingredient> . bien <operation> mélanger </operation> ( . 3 minutes ) , <operation ingredients="sel"> assaisonner </operation> ( <ingredient action="assaisonner"> sel </ingredient> - poivre ) et servir chaud . facile à <operation> préparer </operation> et délicieux . rosé de provence
+</preparation>
+</recette>

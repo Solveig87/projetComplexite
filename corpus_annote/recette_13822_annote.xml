@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13822">
+<titre>Sorbet chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-150 g de chocolat patissier amer </p>
+<p>1/2 l d'eau</p>
+<p>50 g de sucre ou 30 g et un sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop;sucre"> faire </operation> un <ingredient action="faire"> sirop </ingredient> avec l' eau et le <ingredient action="faire" quantite="50 gramme"> sucre </ingredient> en <operation> portant </operation> le <operation> mélange </operation> à <operation> ébullition </operation> et en le faisant <operation> cuire </operation> jusqu' à ce qu' il soit sirupeux ( on peut vérifier en testant une goutte dans l' eau froide : elle doit <operation> former </operation> une boule <operation> collant </operation> un peu aux doigts , mais ici , ce n' est pas indispensable ) . <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter"> chocolat </ingredient> cassé en morceaux et le laisser <operation> fondre </operation> . <operation> lisser </operation> l' ensemble et le faire prendre en sorbetière . servir avec des tuiles .
+</preparation>
+</recette>

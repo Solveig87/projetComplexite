@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17302">
+<titre>Crème d'avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 avocats (assez mous) </p>
+<p>1/2 citron</p>
+<p>2 cuillères à soupe de lait</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> dénoyautez </operation> les <ingredient action="dénoyauter" quantite="3"> avocats </ingredient> et <operation> enlevez </operation> la peau et <operation ingredients="jus"> mettez </operation> les dans un <operation> mixer </operation> avec le <ingredient action="mettre"> jus </ingredient> de citron . <operation> mélangez </operation> . <operation ingredients="lait"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> , crème et huile . c' est prêt ! <operation> mettre </operation> au frais avant de servir .
+</preparation>
+</recette>

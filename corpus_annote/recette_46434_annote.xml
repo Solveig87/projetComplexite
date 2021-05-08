@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46434">
+<titre>Pain de viande à l'estragon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>porc haché (ou boeuf)</p>
+<p>1 oeuf</p>
+<p>chapelure</p>
+<p>sel et poivre</p>
+<p>persil</p>
+<p>confiture de fraise</p>
+<p>moutarde</p>
+<p>crème</p>
+<p>estragon en pot</p>
+<p>1 cube de bouillon</p>
+</ingredients>
+<preparation>
+prendre un grand plat et y <operation ingredients="oeuf;chapelure;persil"> mettre </operation> le hachis , l' <ingredient action="mettre" quantite="1"> oeuf </ingredient> , un peu de <ingredient action="mettre" quantite=""> chapelure </ingredient> , sel poivre , <ingredient action="mettre" quantite=""> persil </ingredient> . <operation> mélanger </operation> et <operation> confectionner </operation> une <operation> forme </operation> ovale avec la préparation , la <operation ingredients="chapelure"> rouler </operation> dans la <ingredient action="rouler" quantite=""> chapelure </ingredient> , et la <operation> disposer </operation> dans un plat . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( th 6 ) pendant environ 1 h 15 . ensuite , <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite=""> crème </ingredient> dans une casserole et <operation ingredients="confiture"> ajouter </operation> environ 2 cuillères à soupe de moutarde et la même chose de <ingredient action="ajouter" quantite=""> confiture </ingredient> . <operation ingredients="bouillon;estragon"> ajouter </operation> 1 / 2 cube de <ingredient action="ajouter"> bouillon </ingredient> et de l' <ingredient action="ajouter" quantite=""> estragon </ingredient> , à votre convenance .
+</preparation>
+</recette>

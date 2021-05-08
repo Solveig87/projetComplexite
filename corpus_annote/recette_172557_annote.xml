@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172557">
+<titre>Wok de boeuf parfumé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de viande hachée</p>
+<p>25 cl de bouillon de bœuf</p>
+<p>1 poivron</p>
+<p>2 carottes</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à café de poivre du sichuan</p>
+<p>1 cuillère à café de poivre du piment en poudre</p>
+<p>1 cuillère à soupe de gingembre en poudre</p>
+<p>1 cuillère à soupe de sauce soja</p>
+<p>1 cuillère à café de maïzena</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile"> mettre </operation> un peu d' <ingredient action="mettre"> huile </ingredient> dans un wok , puis faire <operation ingredients="viande;poivre;gingembre"> dorer </operation> la <ingredient action="dorer" quantite="300 gramme"> viande </ingredient> avec le <ingredient action="dorer" quantite="1 cuillère à café+1 cuillère à café"> poivre </ingredient> du sichuan , le <ingredient action="dorer" quantite="1 cuillère à soupe"> gingembre </ingredient> et le piment . une fois bien dorée , <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite="300 gramme"> viande </ingredient> de côté . faire <operation ingredients="légumes"> cuire </operation> au wok les <ingredient action="cuire" quantite="25 cl;1;2;1;1 cuillère à soupe"> légumes </ingredient> ( carottes , poivron , oignon ) <operation> découpés </operation> en lamelles . une fois qu' ils sont <ingredient> fondants </ingredient> , <operation ingredients="viande;bouillon;soja"> ajouter </operation> la <ingredient action="ajouter" quantite="300 gramme"> viande </ingredient> puis le <ingredient action="ajouter" quantite="25 cl"> bouillon </ingredient> , la sauce <ingredient action="ajouter"> soja </ingredient> et l' <ingredient> ail </ingredient> . laisser <operation> mijoter </operation> le tout pendant quelques minutes . vers la fin de la cuisson , <operation ingredients="maïzena"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> maïzena </ingredient> <operation> diluée </operation> dans un peu d' eau afin de faire <operation> épaissir </operation> la sauce .
+</preparation>
+</recette>

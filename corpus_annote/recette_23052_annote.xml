@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23052">
+<titre>Gratin de poisson et de fruits de mer</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de filets de poisson cuits</p>
+<p>150 g de langoustines</p>
+<p>100 g de crevettes cuites et décortiquées</p>
+<p>500 g de moules cuites et décoquillées</p>
+<p>50 g de champignons</p>
+<p>10 g de beurre</p>
+<p>1 boîte de crabe</p>
+<p>12 cl de sauce béchamel</p>
+<p>50 g de crème fraîche</p>
+<p>25 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+préchauffez le four à 210 <operation> ° </operation> c ( thermostat 7 ) . faites <operation ingredients="champignons"> fondre </operation> les <ingredient action="fondre" quantite="50 gramme"> champignons </ingredient> <operation ingredients="beurre"> émincés </operation> dans le <ingredient action="émincer" quantite="10 gramme"> beurre </ingredient> . <operation ingredients="poisson;champignons;langoustines;chair"> détaillez </operation> le <ingredient action="détailler"> poisson </ingredient> en morceaux et <operation> disposez </operation> - le dans un plat à gratin <operation> huilé </operation> avec les <ingredient action="détailler" quantite="50 gramme"> champignons </ingredient> , les <operation> moules </operation> , les crevetes , les <ingredient action="détailler" quantite="150 gramme"> langoustines </ingredient> et la <ingredient action="détailler"> chair </ingredient> de crabe . <operation ingredients="béchamel;crème;fromage"> mélangez </operation> la <ingredient action="mélanger" quantite="12 cl"> béchamel </ingredient> avec la <ingredient action="mélanger" quantite="50 gramme"> crème </ingredient> et le <ingredient action="mélanger"> fromage </ingredient> puis <operation> nappez </operation> -en le plat . <operation> enfournez </operation> 15 minutes jusqu' à ce que le dessus soit gratiné .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50898">
+<titre>Poulet en compotée de tomates</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>6 champignons de Paris</p>
+<p>400 g de tomates pelées entières</p>
+<p>1 carotte</p>
+<p>1 oignon</p>
+<p>1 morceau de sucre</p>
+<p>basilic </p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe d’huile d’olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> détailler </operation> le <ingredient action="détailler"> poulet </ingredient> en morceaux , <operation> saler </operation> et <operation> poivrer </operation> . <operation> emincer </operation> l’ <ingredient action="couper" quantite="1"> oignon </ingredient> , <operation ingredients="oignon;carotte;champignons"> couper </operation> la <ingredient action="couper" quantite="1"> carotte </ingredient> en petits dés et les <ingredient action="couper" quantite="6"> champignons </ingredient> en lamelles . dans une sauteuse , faire <operation ingredients="oignon;huile"> revenir </operation> l’ <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l’ <ingredient action="revenir"> huile </ingredient> d’ olive . <operation ingredients="sucre"> ajouter </operation> le morceau de <ingredient action="ajouter"> sucre </ingredient> , laisser caraméliser tout en <operation> remuant </operation> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> champignons </ingredient> , les faire <operation> revenir </operation> 3 minutes sans cesser de <operation> remuer </operation> . <operation ingredients="carotte;tomates"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="1"> carotte </ingredient> et les <ingredient action="ajouter" quantite="400 gramme"> tomates </ingredient> <operation> pelées </operation> entières , grossièrement <operation> écrasées </operation> . baisser le feu . <operation> saler </operation> , <operation> poivrer </operation> , et laisser <operation> mijoter </operation> 15 minutes . <operation ingredients="poulet;basilic"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> et le <ingredient action="ajouter" quantite=""> basilic </ingredient> , laisser <operation> mijoter </operation> 20 minutes en <operation> remuant </operation> de temps en temps . lorsque la préparation a un aspect de <ingredient> compote </ingredient> , <operation> retirer </operation> du feu . servir avec du <ingredient> riz </ingredient> ou des <ingredient> tagliatelles </ingredient> . bon appétit ! la cuisson du <ingredient> poulet </ingredient> dans la <ingredient> compote </ingredient> de tomates permet de garder la <ingredient> viande </ingredient> tendre tout en lui faisant prendre le goût de la préparation . rosé de loire
+</preparation>
+</recette>

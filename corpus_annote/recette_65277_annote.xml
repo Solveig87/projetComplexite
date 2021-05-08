@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65277">
+<titre>Mélange de pâtes à l'italienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes (ex : spirelli tricolores)</p>
+<p>1 oignon</p>
+<p>1 courgette</p>
+<p>250 g de champignons de Paris</p>
+<p>5 tomates</p>
+<p>5 tranches de jambon italien (sec)</p>
+<p>1 ou 2 bûches de chèvre</p>
+<p>huile d'olive</p>
+<p>basilic</p>
+<p>1 gousse d'ail hachée</p>
+<p>persil ou mélanges d'épices italiennes</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> comme indiqué sur le paquet . <operation ingredients="légumes"> préparer </operation> les <ingredient action="préparer" quantite="1;250 gramme;5"> légumes </ingredient> : <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> , <operation> peler </operation> et <operation> trancher </operation> la courgette , <operation> nettoyer </operation> et <operation ingredients="champignons"> couper </operation> les <ingredient action="couper" quantite="250 gramme"> champignons </ingredient> , <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="5"> tomates </ingredient> en dés . faire <operation ingredients="oignons;huile"> revenir </operation> les <ingredient action="revenir" quantite="1"> oignons </ingredient> dans de d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , y <operation ingredients="champignons"> ajouter </operation> les courgettes puis les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> . <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite=";;1;;;"> épices </ingredient> italiennes <operation> mélangées </operation> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="chèvre"> ajouter </operation> la bûche de <ingredient action="ajouter"> chèvre </ingredient> " <operation> pelée </operation> " et <operation> coupée </operation> en dés , laisser <operation> fondre </operation> en <operation> remuant </operation> . <operation ingredients="huile"> ajouter </operation> un peu d' <ingredient action="ajouter" quantite=""> huile </ingredient> si nécessaire . en dernier <ingredient> lieu </ingredient> , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="5"> tomates </ingredient> et laisser <operation> mijoter </operation> quelques minutes . servir avec les <ingredient quantite="500 gramme"> pâtes </ingredient> et proposer au choix un peu de <ingredient action="parsemer"> mozzarella </ingredient> fraîche et / ou des copeaux de <ingredient action="parsemer" quantite="5 tranche"> jambon </ingredient> italien à <operation ingredients="mozzarella;jambon"> parsemer </operation> sur l' assiette . rosé de provence
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64815">
+<titre>Rôti de porc boulangère</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de porc de 1 kg</p>
+<p>1 gros oignon</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>8 belles pommes de terre</p>
+<p>1 bouquet garni</p>
+<p>1 cube de court bouillon</p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="8"> pommes </ingredient> de terre puis les <operation> couper </operation> en gros cubes et <operation> réserver </operation> . dans une cocotte minute , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> puis faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> coupé </operation> en fines lamelles . <operation ingredients="rôti"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> rôti </ingredient> et faire <operation> dorer </operation> . <operation ingredients="pommes;poivre"> incorporer </operation> les <ingredient action="incorporer" quantite="8"> pommes </ingredient> de terre , le <ingredient action="incorporer" quantite="1 pincée"> poivre </ingredient> , le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="bouillon"> ajouter </operation> 25 cl d' eau et un cube de court <ingredient action="ajouter"> bouillon </ingredient> . <operation> couvrir </operation> et faire <operation> cuire </operation> une heure à feu doux .
+</preparation>
+</recette>

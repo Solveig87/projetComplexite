@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25724">
+<titre>Pâté de foie à la charentaise</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 kg de foie de porc</p>
+<p>350 g de lard gras</p>
+<p>250 g de poitrine de porc</p>
+<p>200 g de mie de pain</p>
+<p>10 cl de lait</p>
+<p>3 échalotes</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 petit verre de cognac</p>
+<p>sel, poivre, noix muscade</p>
+<p>2 feuilles de laurier</p>
+<p>1 grande barde de lard</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain;lait"> tremper </operation> la mie de <ingredient action="tremper"> pain </ingredient> dans le <ingredient action="tremper" quantite="10 cl"> lait </ingredient> . <operation ingredients="foie;lard;lard"> couper </operation> le <ingredient action="couper" quantite="1 kilogramme"> foie </ingredient> , le <ingredient action="couper" quantite="350 gramme"> lard </ingredient> gras et le <ingredient action="couper" quantite="350 gramme"> lard </ingredient> de poitrine en dés . <operation ingredients="échalotes"> passer </operation> ces éléments et les <ingredient action="passer" quantite="3"> échalotes </ingredient> au hachoir ( <operation> grille </operation> fine ) . <operation ingredients="oeufs;crème;cognac"> battre </operation> ensemble les <ingredient action="battre" quantite="2"> oeufs </ingredient> , la <ingredient action="battre" quantite="2 cuillère à soupe"> crème </ingredient> et le <ingredient action="battre"> cognac </ingredient> et les <operation ingredients="viandes"> ajouter </operation> aux <ingredient action="ajouter" quantite="1 kilogramme;350 gramme;250 gramme;"> viandes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> abondamment , <operation ingredients="muscade"> ajoutez </operation> la <ingredient action="ajouter"> muscade </ingredient> . bien <operation> travailler </operation> la préparation ! <operation ingredients="lard"> tapisser </operation> le fond d' une terrine de bardes de <ingredient action="tapisser" quantite="350 gramme"> lard </ingredient> , <operation ingredients="laurier"> poser </operation> dessus une feuille de <ingredient action="poser" quantite="2 feuille"> laurier </ingredient> , <operation> recouvrir </operation> avec la farce en tassant bien . <operation ingredients="laurier"> poser </operation> sur la farce l' autre feuille de <ingredient action="poser" quantite="2 feuille"> laurier </ingredient> et <operation ingredients="lard"> recouvrir </operation> de bardes de <ingredient action="recouvrir" quantite="350 gramme"> lard </ingredient> . <operation> poser </operation> un couvercle sur la terrine , et faire <operation> cuire </operation> à 180 <operation> ° </operation> c ( th 6 ) pendant 1 h environ , au bain - marie . quand on pique le <ingredient> pâté </ingredient> avec une aiguille , s' il sort un liquide rosé le <ingredient> pâté </ingredient> n' est pas encore cuit ! quand le <ingredient action="cuire"> pâté </ingredient> est <operation ingredients="pâté"> cuit </operation> , <operation> poser </operation> une planchette et un poids dessus et laissez refroidir .
+</preparation>
+</recette>

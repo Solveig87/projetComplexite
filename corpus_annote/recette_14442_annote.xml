@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14442">
+<titre>Sopa de lima (Mexique)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre d'eau</p>
+<p>1 cube de bouillon de poule</p>
+<p>2 citrons verts</p>
+<p>2 escalopes de poulet</p>
+<p>1 oignon</p>
+<p>1 cuillère à café de concentré de tomate</p>
+<p>1 cuillère à café de coriandre ciselée</p>
+<p>2 tortillas (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon"> bouillir </operation> le litre d' eau avec le cube de <ingredient action="bouillir"> bouillon </ingredient> et y <operation ingredients="escalopes"> jeter </operation> les <ingredient action="jeter" quantite="2"> escalopes </ingredient> <operation> émincées </operation> . faire <operation ingredients="oignon"> blondir </operation> l' <ingredient action="blondir" quantite="1"> oignon </ingredient> en rondelles dans une <operation> poêle </operation> , sans le faire <operation> griller </operation> , puis l ' <operation ingredients="soupe"> ajouter </operation> à la <ingredient action="ajouter"> soupe </ingredient> . finir en <operation ingredients="jus"> ajoutant </operation> le <ingredient action="ajouter"> jus </ingredient> des citrons , le <operation ingredients="tomate;coriandre"> concentré </operation> de <ingredient action="concentré"> tomate </ingredient> et la <ingredient action="concentré"> coriandre </ingredient> . pour apporter la touche locale , on peut faire <operation ingredients="tortillas"> sauter </operation> à la <operation> poêle </operation> les <ingredient action="sauter" quantite="2"> tortillas </ingredient> en lamelles et les <operation ingredients="soupe"> ajouter </operation> au dernier au moment à la <ingredient action="ajouter"> soupe </ingredient> pour qu' elles ne soient pas trop ramollies au moment de la dégustation . cette <ingredient> soupe </ingredient> se consomme chaude , mais est paradoxalement très rafraichissante .
+</preparation>
+</recette>

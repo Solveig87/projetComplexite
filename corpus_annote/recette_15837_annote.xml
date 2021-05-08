@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15837">
+<titre>Pain d'épices léger</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine de blé ou seigle</p>
+<p>1/2 paquet de levure</p>
+<p>125 g de miel </p>
+<p>2 dl de lait</p>
+<p>1 cuillère à café de cannelle </p>
+<p>1 cuillère à café de mélange 4 épices</p>
+<p>100 g de cassonade</p>
+<p>1 morceau de gingembre confit</p>
+</ingredients>
+<preparation>
+<operation ingredients="levure"> mélanger </operation> farine , <ingredient action="mélanger"> levure </ingredient> , sucre , épices , puis <operation ingredients="miel;lait"> diluer </operation> le <ingredient action="diluer" quantite="125 gramme"> miel </ingredient> dans le <ingredient action="diluer" quantite="2 dl"> lait </ingredient> <operation> tiédi </operation> . <operation ingredients="gingembre"> rajouter </operation> à la préparation le <ingredient action="rajouter"> gingembre </ingredient> <operation> coupé </operation> en petites lamelles . <operation> mettre </operation> au four à 170 <operation> ° </operation> c pendant 1 h dans un <operation> moule </operation> à cake préalablement <operation> graissé </operation> . recette conseillée parce que très lègère , sans <ingredient> oeuf </ingredient> ni matière grasse .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66668">
+<titre>Spaghetti au coulis de poivron</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de spaghetti</p>
+<p>400 g de poivrons surgelés</p>
+<p>2 échalotes</p>
+<p>4 gousses d'ail</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>70 g de concentré de tomates</p>
+<p>2 dl de bouillon de poule</p>
+<p>sel, poivre</p>
+<p>noix de muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="4 cuillère à soupe"> huile </ingredient> d' olive dans une grande sauteuse . y <operation ingredients="échalotes"> faire </operation> <operation> rissoler </operation> les <ingredient action="faire" quantite="2"> échalotes </ingredient> et l' <ingredient action="émincer"> ail </ingredient> finement <operation ingredients="ail"> émincés </operation> . <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> poivrons </ingredient> . <operation> saler </operation> . les laisser <operation> fondre </operation> . <operation ingredients="bouillon"> ajouter </operation> 1 dl de <ingredient action="ajouter" quantite="2 dl"> bouillon </ingredient> . <operation ingredients="poivre"> ajouter </operation> <ingredient action="ajouter" quantite=""> poivre </ingredient> , sel , noix de muscade . laisser <operation> mijoter </operation> 25 minutes , <operation ingredients="bouillon"> ajouter </operation> du <ingredient action="ajouter" quantite="2 dl"> bouillon </ingredient> si nécessaire . 10 minutes avant la fin de la cuisson , faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> spaghetti </ingredient> comme indiqué sur le paquet .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24763">
+<titre>Côtes d'agneau à la cannelle et au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de côtes d'agneau</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à café de cannelle</p>
+<p>1 cuillère à café de curry</p>
+<p>2 clous de girofle broyés</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>50 cl de bouillon de boeuf</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="beurre;huile"> mettre </operation> le <ingredient action="mettre" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="mettre" quantite="2 cuillère à soupe"> huile </ingredient> et y faire <operation ingredients="côtes"> dorer </operation> <ingredient action="dorer" quantite="800 gramme"> côtes </ingredient> d' agneau . <operation ingredients="oignons;gousses"> hacher </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> et les <ingredient action="hacher" quantite="2"> gousses </ingredient> d' ail et les <operation> incorporer </operation> à la préparation . <operation ingredients="cannelle;curry"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à café"> cannelle </ingredient> , de <ingredient action="saupoudrer" quantite="1 cuillère à café"> curry </ingredient> et de clous de girofle <operation> écrasés </operation> . <operation> assaisonner </operation> et <operation ingredients="bouillon"> couvrir </operation> le tout de <ingredient action="couvrir" quantite="50 cl"> bouillon </ingredient> . laisser <operation> mijoter </operation> pendant 1 h 30 min .
+</preparation>
+</recette>

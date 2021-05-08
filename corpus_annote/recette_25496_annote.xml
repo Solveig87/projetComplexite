@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25496">
+<titre>Gratin de blettes à la tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>1 grande boite de tomates pelées</p>
+<p>1 botte de blettes</p>
+<p>2 gousses d'ail</p>
+<p>30 g de beurre</p>
+<p>75 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="blettes"> cuire </operation> les <ingredient action="cuire"> blettes </ingredient> 10 minutes à la cocotte - minute . faire <operation ingredients="oignons;beurre"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> jusqu' à ce qu' ils soient translucides . <operation ingredients="tomates;ail"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> concassées </operation> et l' <ingredient action="ajouter"> ail </ingredient> haché . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> épaissir </operation> 30 minutes à feu doux . <operation ingredients="bettes"> ajouter </operation> les <ingredient action="ajouter"> bettes </ingredient> hachées . préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation> beurrer </operation> généreusemnet un plat à gratin , y <operation> verser </operation> la préparation , <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="75 gramme"> gruyère </ingredient> et <operation> enfourner </operation> 30 minutes .
+</preparation>
+</recette>

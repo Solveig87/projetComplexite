@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13703">
+<titre>Mousse au caramel facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de lait concentré sucré</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> cuire </operation> le <ingredient action="cuire"> lait </ingredient> <operation> concentré </operation> au bain - marie pendant trois heures ( c' est long mais ça vaut la peine d' attendre ) . laisser refroidir un peu et <operation ingredients="oeufs"> ajouter </operation> les jaunes puis les blancs d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> montés </operation> en neige . <operation> verser </operation> dans des ramequins et laisser prendre au réfrigérateur .
+</preparation>
+</recette>

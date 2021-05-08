@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30475">
+<titre>Escalopes de veau crémeuses aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 escalopes de veau</p>
+<p>75 g de beurre</p>
+<p>225 g de champignons</p>
+<p>2 cl de Cognac</p>
+<p>150 g de crème</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="6"> escalopes </ingredient> dans le <ingredient action="revenir" quantite="75 gramme"> beurre </ingredient> . lorsqu' elles sont <operation> dorées </operation> , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="225 gramme"> champignons </ingredient> grossièrement <operation> émincés </operation> , <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> 15 minutes puis <operation> débarasser </operation> sur le plat de service . <operation> verser </operation> l' alcool dans la <operation> poêle </operation> puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="150 gramme"> crème </ingredient> . lorsqu' elle est chaude , <operation ingredients="escalopes"> verser </operation> sur les <ingredient action="verser" quantite="6"> escalopes </ingredient> et servir .
+</preparation>
+</recette>

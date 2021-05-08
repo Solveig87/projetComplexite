@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41110">
+<titre>Cuisses de caille au curry et au lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 6 cuisses de caille par personne</p>
+<p>2 échalotes</p>
+<p>curry en poudre</p>
+<p>lait de coco (quantité selon les goûts : de 5 cl à 20 cl)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="caille"> revenir </operation> quelques instants les cuisses de <ingredient action="revenir"> caille </ingredient> ( côté peau ) , dans une <operation> poêle </operation> chaude . <operation ingredients="échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> <operation> émincées </operation> finement , et poursuivre la cuisson ( si nécessaire , <operation ingredients="huile"> verser </operation> une petite cuillère d' <ingredient action="verser"> huile </ingredient> d' olive ) . <operation> assaisonner </operation> . quand les <ingredient action="saupoudrer" quantite="2"> échalotes </ingredient> et les cuisses de <ingredient action="saupoudrer"> caille </ingredient> sont bien dorées , <operation ingredients="échalotes;caille;curry"> saupoudrer </operation> généreusement de <ingredient action="saupoudrer" quantite=""> curry </ingredient> en <operation> poudre </operation> , et <operation> remuer </operation> . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite=""> lait </ingredient> de coco , et poursuivre la cuisson quelques minutes . . . c' est prêt ! a déguster avec une julienne de <ingredient quantite="2"> légumes </ingredient> , ou avec du <ingredient> riz </ingredient> citronné . bon appétit !
+</preparation>
+</recette>

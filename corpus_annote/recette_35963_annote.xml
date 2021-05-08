@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35963">
+<titre>Flan boulanger (le vrai)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 l de lait</p>
+<p>3 oeufs</p>
+<p>150 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>40 g de farine</p>
+<p>40 g de maïzena</p>
+<p>1 rouleau de pâte feuillettée</p>
+</ingredients>
+<preparation>
+prendre une <operation> moule </operation> de 6 personnes , <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> feuillettée au fond et sur les bords . <operation ingredients="oeufs;sucres"> blanchir </operation> les <ingredient action="blanchir" quantite="3"> oeufs </ingredient> + les <ingredient action="blanchir" quantite="150 gramme"> sucres </ingredient> , <operation ingredients="farine;maïzena"> rajouter </operation> la <ingredient action="rajouter" quantite="40 gramme"> farine </ingredient> et la <ingredient action="rajouter" quantite="40 gramme"> maïzena </ingredient> . <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> , <operation ingredients="lait"> verser </operation> une partie du <ingredient action="verser"> lait </ingredient> sur le <operation> mélange </operation> , <operation> battre </operation> . <operation ingredients="lait"> verser </operation> le tout sur le <ingredient action="verser"> lait </ingredient> restant et <operation> cuire </operation> . 4 min ( jusqu' à ce que cela se <operation> détache </operation> de la casserole ) . <operation> verser </operation> la préparation dans le <operation> moule </operation> et laisser refroidir 30 min . <operation> cuire </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 30 min . il faut que ce soit bien doré . <operation> mettre </operation> au frais et servir .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94628">
+<titre>Soupe de persil de Mamy K</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bouquet de persil</p>
+<p>1 cube de bouillon (boeuf ou volaille)</p>
+<p>1 cuiller à soupe de maïzena</p>
+<p>1 jaune d'oeuf</p>
+<p>2 cuillers à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+. <operation> laver </operation> et <operation ingredients="bouquet"> équeuter </operation> un <ingredient action="équeuter" quantite="1"> bouquet </ingredient> de persil . <operation ingredients="bouillon;poule;sel"> placer </operation> dans un litre de <ingredient action="placer"> bouillon </ingredient> ( bœuf ou <ingredient action="placer"> poule </ingredient> ) avec <ingredient action="placer"> sel </ingredient> et poivre ; maintenir à <operation> ébullition </operation> pendant 20 mn environ . <operation> mixer </operation> . <operation> délayer </operation> 1 cuiller à soupe de maïzena dans un peu d’ eau . <operation ingredients="maïzena;oeuf"> mélanger </operation> cette <ingredient action="mélanger"> maïzena </ingredient> dans un bol avec 1 jaune d’ <ingredient action="mélanger"> oeuf </ingredient> et 2 cuillers à soupe de crème fraîche . <operation ingredients="soupe"> ajouter </operation> 1 louche de <ingredient action="ajouter"> soupe </ingredient> de persil à la préparation puis <operation ingredients="soupe"> incorporez </operation> l’ ensemble au reste de la <ingredient action="incorporer"> soupe </ingredient> .
+</preparation>
+</recette>

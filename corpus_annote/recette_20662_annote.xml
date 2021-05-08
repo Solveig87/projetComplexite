@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20662">
+<titre>Pintade à l'orange et au miel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pintade en morceaux</p>
+<p>2 oranges</p>
+<p>3 échalotes</p>
+<p>100 g de sucre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>15 g de beurre</p>
+<p>1 cuillère à soupe de miel</p>
+<p>5 cl de Grand Marnier</p>
+<p>1 cuillère à soupe de vinaigre de vin blanc</p>
+<p>1 cuillère à café de fond de volaille déshydraté</p>
+<p>2 feuilles de laurier</p>
+<p>1 clou de girofle</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="orange"> rincez </operation> une <ingredient action="rincer" quantite="2"> orange </ingredient> , <operation> prélevez </operation> le zeste , <operation> grattez </operation> la peau blanche , puis <operation> taillez </operation> - le en bâtonnets . <operation> ebouillantez </operation> - les 3 mn . <operation> egouttez </operation> , puis faites - les <operation action="confire" ingredients="confire;sucre"> confire </operation> 10 mn avec 20 cl d' eau et 100 g de <ingredient action="confire" quantite="100 gramme"> sucre </ingredient> sur feu doux . dans une cocotte , laissez <operation ingredients="échalotes"> colorer </operation> les morceaux de pintade <operation> salés </operation> et <operation> poivrés </operation> et les <ingredient action="colorer" quantite="3"> échalotes </ingredient> <operation ingredients="huile;beurre"> émincées </operation> avec l' <ingredient action="émincer" quantite="1 cuillère à soupe"> huile </ingredient> et le <ingredient action="émincer" quantite="15 gramme"> beurre </ingredient> . <operation ingredients="oranges"> pressez </operation> les <ingredient action="presser" quantite="2"> oranges </ingredient> et <operation ingredients="jus"> versez </operation> le <ingredient action="verser"> jus </ingredient> dans la cocotte . <operation ingredients="marnier;miel;vinaigre;veau;laurier"> ajoutez </operation> les zestes , le grand <ingredient action="ajouter" quantite="5 cl"> marnier </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> , le fond de <ingredient action="ajouter"> veau </ingredient> , le <ingredient action="ajouter" quantite="2 feuille"> laurier </ingredient> et le clou de girofle . <operation> couvrez </operation> aux trois quarts et laissez <operation ingredients="jus"> cuire </operation> 20 mn à feu doux jusqu' à ce que le <ingredient action="cuire"> jus </ingredient> soit sirupeux . servez <operation ingredients="oranges;riz"> décoré </operation> de rondelles d' <ingredient action="décorer" quantite="2"> oranges </ingredient> avec un <ingredient action="décorer"> riz </ingredient> blanc . si vous désirez une version plus exotique , remplacez les <ingredient quantite="2"> oranges </ingredient> par 4 <ingredient> citrons </ingredient> verts .
+</preparation>
+</recette>

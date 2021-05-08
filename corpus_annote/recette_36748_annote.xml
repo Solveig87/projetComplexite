@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36748">
+<titre>Soupe de carottes express</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de carottes</p>
+<p>1 pomme de terre</p>
+<p>1 oignon</p>
+<p>1 litre de bouillon de volaille</p>
+<p>1 cuillére à soupe d'huile d'olive</p>
+<p>1 cuillére à café de cumin en poudre</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+dans une cocotte minute , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> . y faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> , <operation ingredients="pomme;carottes"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> pomme </ingredient> de terre et les <ingredient action="ajouter" quantite="600 gramme"> carottes </ingredient> <operation> épluchées </operation> et <operation> coupées </operation> en morceaux . au bout de 5 min , l' ensemble doit avoir pris une belle coloration caramel . <operation ingredients="bouillon"> ajouter </operation> alors le <ingredient action="ajouter" quantite="1 litre"> bouillon </ingredient> , fermer la cocotte et faire <operation> cuire </operation> 10 min à partir de la rotation de la soupape . pour terminer , <operation ingredients="cumin;persil"> ajouter </operation> le <ingredient action="ajouter"> cumin </ingredient> et le <ingredient action="ajouter" quantite=""> persil </ingredient> et <operation> mixer </operation> . bon appétit ! certains gourmands <operation ingredients="crème;beurre"> rajouteront </operation> de la <ingredient action="rajouter"> crème </ingredient> fraiche ou du <ingredient action="rajouter"> beurre </ingredient> .
+</preparation>
+</recette>

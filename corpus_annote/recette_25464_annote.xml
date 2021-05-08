@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25464">
+<titre>Gnocchis aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de gnocchis</p>
+<p>300 g de haricots verts</p>
+<p>3 oignons</p>
+<p>5 tomates pelées et concassées</p>
+<p>3 cuillères d'huile</p>
+<p>3 petites pommes de terre </p>
+<p>100 g d'olives noires dénoyautées</p>
+<p>origan, safran, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;pommes"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme;3;5;3"> légumes </ingredient> ( haricots verts et <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre ) 10 min à la vapeur . <operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="3"> oignons </ingredient> en petits dés et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="3 cuillère"> huile </ingredient> . <operation ingredients="haricots;pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> haricots </ingredient> verts et les <ingredient action="ajouter" quantite="3"> pommes </ingredient> de terre <operation> pelées </operation> et <operation> coupées </operation> en 2 , puis faire <operation> revenir </operation> le tout 5 min . <operation ingredients="olives;tomates;origan"> ecraser </operation> ensemble les <ingredient action="ecraser" quantite="100 gramme"> olives </ingredient> , les <ingredient action="ecraser" quantite="5"> tomates </ingredient> , et l' <ingredient action="ecraser" quantite=""> origan </ingredient> jusqu' à l' obtention d' une sauce onctueuse ; <operation> assaisonner </operation> . faire <operation ingredients="gnocchis"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> gnocchis </ingredient> selon le temps indiqué sur le paquet , dans de l' eau bouillante <operation> salée </operation> et safranée ; <operation ingredients="pâtes"> égoutter </operation> les <ingredient action="égoutter"> pâtes </ingredient> . <operation ingredients="légumes;gnocchis"> mélanger </operation> ensemble les <ingredient action="mélanger" quantite="300 gramme;3;5;3"> légumes </ingredient> et les <ingredient action="mélanger" quantite="500 gramme"> gnocchis </ingredient> , puis <operation> napper </operation> de sauce .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20607">
+<titre>Gambas au lard, embeurrée de choux</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>16 gambas (grosses crevettes) </p>
+<p>10 fines tranches de poitrine fumée sans couenne ni cartilage</p>
+<p>8 grandes feuilles vertes de chou nouveau</p>
+<p>50 g de beurre</p>
+<p>2 bonnes cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+ne gardez que les queues des <ingredient action="retirer"> crevettes </ingredient> , <operation ingredients="crevettes"> retirez </operation> la carapace et <operation ingredients="poitrine;fumée"> entourez </operation> chaque gamba de la moitié d' une tranche de <ingredient action="entourer"> poitrine </ingredient> <ingredient action="entourer"> fumée </ingredient> , maintenez avec un bâtonnet en bois , <operation> réservez </operation> . <operation ingredients="chou"> lavez </operation> soigneusement les feuilles de <ingredient action="laver"> chou </ingredient> , <operation ingredients="côtes"> retirez </operation> les parties dures ( <ingredient action="retirer"> côtes </ingredient> ) et <operation> taillez </operation> en fines lanières . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une <operation> poêle </operation> , et faites <operation ingredients="chou"> ramollir </operation> le <ingredient action="ramollir"> chou </ingredient> . <operation ingredients="poitrine"> taillez </operation> avec des ciseaux les 2 tranches de <ingredient action="tailler"> poitrine </ingredient> restant en fins bâtonnets et <operation ingredients="chou"> ajouter </operation> à l' embeurrée de <ingredient action="ajouter"> chou </ingredient> . la cuisson ne doit durer que quelques minutes , le <ingredient> chou </ingredient> doit être tendre mais encore un peu <ingredient> croquant </ingredient> . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> d' olive dans une autre <operation> poêle </operation> et faites - y <operation ingredients="gambas"> revenir </operation> les <ingredient action="revenir" quantite="16"> gambas </ingredient> , jusqu' à ce qu' elles soient bien dorées ( c' est trés rapide , quelques minutes seulement ) . <operation ingredients="gambas"> dressez </operation> dans des assiettes , un petit tas d' embeurrée au milieu et 4 <ingredient action="dresser" quantite="16"> gambas </ingredient> bien <operation> dorées </operation> par dessus . si on le souhaite , on peut réaliser une petite sauce avec les <ingredient> têtes </ingredient> , un petit <ingredient> oignon </ingredient> , un peu de <operation ingredients="tomate;poisson;crustacé"> concentré </operation> de <ingredient action="concentré"> tomate </ingredient> et un peu de fumet de <ingredient action="concentré"> poisson </ingredient> ( ou de <ingredient action="concentré" quantite="16"> crustacé </ingredient> ) , faire <operation> épaissir </operation> légérement , <operation> filtrer </operation> et <operation ingredients="chou;bordeaux"> placer </operation> un cordon de sauce dans l' assiette autour du <ingredient action="placer"> chou </ingredient> rosé gris de gris / rouge léger / <ingredient action="placer"> bordeaux </ingredient> clairet
+</preparation>
+</recette>

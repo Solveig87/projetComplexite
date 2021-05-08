@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65202">
+<titre>Tajine de poulet aux abricots et amandes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>250 g d'abricots secs moelleux</p>
+<p>2 oignons coupés en dés</p>
+<p>30 g de beurre</p>
+<p>1 cuillère à soupe d'huile d'arachide</p>
+<p>1 cube de bouillon de volaille</p>
+<p>2 cuillères à café de cannelle</p>
+<p>1 pointe de couteau de cumin en poudre</p>
+<p>2 cuillères à soupe de miel</p>
+<p>50 g d'amandes émondées</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> mettre </operation> les <ingredient action="mettre" quantite="2"> oignons </ingredient> à <operation ingredients="beurre;huile"> fondre </operation> dans une sauteuse avec le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> et l' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> d' arachide . <operation ingredients="poulet"> séparer </operation> les hauts des pilons des cuisses de <ingredient action="séparer"> poulet </ingredient> . <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> dans la sauteuse et faire <operation> dorer </operation> à feu vif environ 5 minutes . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite="1 cuillère à soupe;2 cuillère à café;"> épices </ingredient> . <operation ingredients="bouillon;miel"> delayer </operation> le <ingredient action="delayer"> bouillon </ingredient> de volaille dans 30 cl d' eau chaude avec le <ingredient action="delayer" quantite="2 cuillère à soupe"> miel </ingredient> . <operation> verser </operation> dans la sauteuse . laisser <operation> cuire </operation> 30 min à <operation> couvert </operation> . <operation ingredients="abricots;amandes"> ajouter </operation> les <ingredient action="ajouter"> abricots </ingredient> et les <ingredient action="ajouter" quantite="50 gramme"> amandes </ingredient> et <operation> cuire </operation> encore 10 min . <operation ingredients="poulet"> retirer </operation> le <ingredient action="retirer"> poulet </ingredient> de la sauteuse et faire <operation> réduire </operation> la sauce afin qu' elle épaississe . servir le <ingredient> poulet </ingredient> nappé de sauce <operation ingredients="semoule"> accompagné </operation> de <ingredient action="accompagner"> semoule </ingredient> .
+</preparation>
+</recette>

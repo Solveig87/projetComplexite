@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64055">
+<titre>Soupe minestrone de Ludivine</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courgette</p>
+<p>200 g de brocoli </p>
+<p>300 g de haricots princesses</p>
+<p>1 boîte de 400 g de tomates pelées</p>
+<p>1 poireau émincé finement</p>
+<p>4 carottes</p>
+<p>1 gros oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 cube et demi de bouillon de boeuf</p>
+<p>sel et poivre</p>
+<p>2 l d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;brocoli;haricots;oignon;ail"> couper </operation> en tout petits morceaux la courgette , les <ingredient action="couper" quantite="4"> carottes </ingredient> , le <ingredient action="couper" quantite="200 gramme"> brocoli </ingredient> , les <ingredient action="couper" quantite="300 gramme"> haricots </ingredient> , l' <ingredient action="couper" quantite="1"> oignon </ingredient> et l' <ingredient action="couper"> ail </ingredient> . <operation ingredients="tomates;poireau;bouillon"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> , le <ingredient action="ajouter" quantite="1"> poireau </ingredient> <operation> émincé </operation> , le cube et demi de <ingredient action="ajouter"> bouillon </ingredient> de poule et les 2 l d' eau . faire <operation> cuire </operation> 20 à 30 minutes selon la chaleur de votre <operation> plaque </operation> de cuisson . <operation ingredients="sel"> ajouter </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre selon votre goût . servir avec du <ingredient> parmesan </ingredient> .
+</preparation>
+</recette>

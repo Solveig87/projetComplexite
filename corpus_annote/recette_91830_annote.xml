@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91830">
+<titre>Velouté de cèpes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de cèpes</p>
+<p>2 échalotes</p>
+<p>30 g de beurre</p>
+<p>1 cuillère à soupe de maïzena</p>
+<p>1 cuillère à soupe de Madère</p>
+<p>75 cl de bouillon de poule</p>
+<p>2 jaunes d'oeufs battus</p>
+<p>ciboulette</p>
+</ingredients>
+<preparation>
+<operation ingredients="cèpes"> nettoyer </operation> puis <operation> émincez </operation> 300 g de <ingredient action="nettoyer" quantite="300 gramme"> cèpes </ingredient> . <operation> hacher </operation> les , faites les <operation ingredients="échalotes;beurre"> revenir </operation> avec 2 <ingredient action="revenir" quantite="2"> échalotes </ingredient> dans 30 gr de <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> . <operation> saupoudrer </operation> avec 1 cuillère à soupe de maïzena , faites <operation> cuire </operation> 1 min , <operation ingredients="bouillon"> mouiller </operation> avec 1 cuillères à soupe de madère et 75 cl de <ingredient action="mouiller" quantite="75 cl"> bouillon </ingredient> de poule , laissez <operation> mijoter </operation> 15 min , <operation> mixez </operation> , puis <operation ingredients="crème"> ajoutez </operation> 25 cl de <ingredient action="ajouter"> crème </ingredient> fraîche , <operation> salez </operation> et <operation> poivrez </operation> . <operation> portez </operation> à <operation> ébullition </operation> , laissez <operation> frémir </operation> 5 min puis <operation ingredients="oeufs"> ajoutez </operation> 2 jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . servir chaud .
+</preparation>
+</recette>

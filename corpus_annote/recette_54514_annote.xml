@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54514">
+<titre>Fattoush (salade iranienne)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 laitue</p>
+<p>1 concombre</p>
+<p>1 botte de radis </p>
+<p>5 tomates en dés</p>
+<p>6 tranches de pain</p>
+<p>50 g de beurre</p>
+<p>1 jus de citron</p>
+<p>2 cuillères à soupe d'huile d'olive extra vierge</p>
+<p>sel, poivre</p>
+<p>persil, ail, cumin en grains, menthe en feuilles</p>
+</ingredients>
+<preparation>
+<operation ingredients="laitue"> couper </operation> la <ingredient action="couper" quantite="1"> laitue </ingredient> en petites feuilles . <operation ingredients="concombre;radis;tomates"> coupee </operation> le <ingredient action="coupe" quantite="1"> concombre </ingredient> , les <ingredient action="coupe"> radis </ingredient> et les <ingredient action="coupe" quantite="5"> tomates </ingredient> en dés . <operation> mélanger </operation> . <operation ingredients="jus;citron;huile;assaisonnement;ail;épices"> mélanger </operation> ensemble le <ingredient action="mélanger" quantite="1"> jus </ingredient> d' un <ingredient action="mélanger"> citron </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe;;;;;;"> assaisonnement </ingredient> , l' <ingredient action="mélanger" quantite=""> ail </ingredient> et les <ingredient action="mélanger" quantite="2 cuillère à soupe;;;;;;"> épices </ingredient> . a defaut , le contenu d' un sachet à tisane de <ingredient quantite=""> menthe </ingredient> fera l' affaire . le <ingredient quantite=""> persil </ingredient> peut être également utilisé sec . <operation ingredients="salade"> ajouter </operation> la vinaigrette à la <ingredient action="ajouter"> salade </ingredient> . bien <operation> mélanger </operation> . <operation ingredients="pain"> couper </operation> les tranches de <ingredient action="couper" quantite="6 tranche"> pain </ingredient> en dés et faire <operation ingredients="beurre"> revenir </operation> au <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="croûtons;salade"> mettre </operation> les <ingredient action="mettre"> croûtons </ingredient> chauds sur la <ingredient action="mettre"> salade </ingredient> . servir immédiatement . <ingredient> salade </ingredient> très rafraîchissante , idéale pour l' été .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42000">
+<titre>Brisolée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de châtaignes</p>
+<p>fromage d'alpage</p>
+<p>viande séchée</p>
+<p>pain de seigle</p>
+<p>beurre</p>
+<p>fruits d'automne: raisin, pommes, poires</p>
+</ingredients>
+<preparation>
+<operation ingredients="châtaignes"> trier </operation> les <ingredient action="trier" quantite="1 kilogramme"> châtaignes </ingredient> en les <operation> plongeant </operation> dans l' évier <operation> rempli </operation> d' eau , <operation> éliminer </operation> celles qui flottent ( pourries ou véreuses ) . faire ensuite <operation action="rôtir" ingredients="rôtir"> rôtir </operation> les châtaignes , de préférence au feu de bois ( c' est bien meilleur ) dans une casserole en fonte <operation> percée </operation> de trous , pendant 20 à 30 min selon leur taille . servir immédiatement avec les <operation> accompagnements </operation> : <ingredient quantite=""> fromage </ingredient> , viande séchée , <ingredient quantite=""> pain </ingredient> de seigle beurré et les <ingredient quantite=""> fruits </ingredient> . la brisolée est un plat typiquement valaisan . on la sert en principe avec du <ingredient quantite=""> fromage </ingredient> à raclette d' alpage mais d' autres <ingredient quantite=""> fromages </ingredient> à pâte dure ou mi-dure , de vache ou de <ingredient> chèvre </ingredient> , conviennent très bien . fendant , johanisberg
+</preparation>
+</recette>

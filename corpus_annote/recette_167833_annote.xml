@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167833">
+<titre>Curry de porc rapide (cocotte minute)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 gr de sauté de porc</p>
+<p>1 gros oignon</p>
+<p>40 gr de matière grasse</p>
+<p>1 cuillère a soupe de farine</p>
+<p>1 petite boite de concentré de tomate (70 gr)</p>
+<p>1 gousse d'ail</p>
+<p>Bouquet garni</p>
+<p>1 cuillère à café de curry (ou + selon les gouts)</p>
+<p>50 cl de vin blanc ou d'eau</p>
+<p>Sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="matière"> fondre </operation> la <ingredient action="fondre" quantite="40 gr"> matière </ingredient> grasse et y faire <operation ingredients="viande"> revenir </operation> les morceaux de <ingredient action="revenir"> viande </ingredient> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et l' <operation ingredients="viande"> ajouter </operation> quand la <ingredient action="ajouter"> viande </ingredient> est dorée . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> et <operation> mélanger </operation> . <operation ingredients="curry"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> , les 50 cl de <ingredient quantite="50 cl"> vin </ingredient> blanc , le <operation> concentré </operation> de <ingredient> tomate </ingredient> , l' <ingredient> ail </ingredient> , le <ingredient quantite=""> bouquet </ingredient> <operation> garni </operation> . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> 20 minutes à partir du moment où la soupape chuchote . un plat rapide , peu onéreux qui se marie très bien avec <ingredient> pâtes </ingredient> , riz ou pommes vapeur .
+</preparation>
+</recette>

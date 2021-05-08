@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68440">
+<titre>Flan sylvie à la noisette</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>1 boîte de lait concentré sucré</p>
+<p>même volume de lait 1/2 écrémé</p>
+<p>caramel liquide</p>
+<p>1 sachet de noisette en poudre</p>
+</ingredients>
+<preparation>
+dans une jatte , <operation ingredients="oeuf;lait"> battre </operation> les 3 jaunes d' <ingredient action="battre" quantite="3"> oeuf </ingredient> avec le <ingredient action="battre"> lait </ingredient> <operation ingredients="lait"> concentré </operation> <operation> sucré </operation> + le <ingredient action="concentrer"> lait </ingredient> 1 / 2 écrémé ( l' équivalent d' une boîte qu' on utilisera comme <operation> mesure </operation> ) . <operation> battre </operation> les blancs en neige , les <operation> incorporer </operation> à la préparation puis <operation ingredients="noisette"> ajouter </operation> la <operation> poudre </operation> de <ingredient action="ajouter"> noisette </ingredient> . <operation> verser </operation> le caramel sur le fond du <operation> moule </operation> puis le <operation> mélange </operation> . <operation> enfourner </operation> au bain - marie environ 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) . c' est prêt ! ce flan est très joli <operation> présenté </operation> , car une fois terminé il se <operation> compose </operation> de trois couleurs . . . il peut se <operation ingredients="noix"> faire </operation> également avec de la <operation> poudre </operation> de <ingredient action="faire"> noix </ingredient> de coco . un crémant de bourgogne la delignere
+</preparation>
+</recette>

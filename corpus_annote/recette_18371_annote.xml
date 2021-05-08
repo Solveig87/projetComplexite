@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18371">
+<titre>Pizza aux pommes et à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de farine</p>
+<p>1 yaourt nature à 0% (ou un petit fromage blanc) </p>
+<p>1 jaune d'œuf</p>
+<p>3 pommes (selon la grosseur) </p>
+<p>10 cl de crème liquide allégée</p>
+<p>1 cuillère à café de cannelle</p>
+<p>sucre au goût</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;yaourt;oeuf"> travailler </operation> la <ingredient action="travailler" quantite="200 gramme"> farine </ingredient> , le <ingredient action="travailler"> yaourt </ingredient> et le jaune d' <ingredient action="travailler"> oeuf </ingredient> ( <operation ingredients="pâte"> rajouter </operation> une goutte d' eau si la <ingredient action="rajouter"> pâte </ingredient> est trop friable ) . la laisser si possible <operation> reposer </operation> à <operation> couvert </operation> pendant 2 heures . <operation> beurrer </operation> une feuille de papier sulfurisé et y <operation ingredients="pâte"> étendre </operation> la <ingredient action="étendre"> pâte </ingredient> en relevant les bords . <operation ingredients="crème;sucre;cannelle"> mélanger </operation> la <ingredient action="mélanger" quantite="10 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite=""> sucre </ingredient> et la <ingredient action="mélanger" quantite="1 cuillère à café"> cannelle </ingredient> et en étaler la moitié sur la <ingredient> pâte </ingredient> . <operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="3"> pommes </ingredient> , les <operation> couper </operation> en tranches les plus fines possibles et en <operation ingredients="coeur"> retirer </operation> le <ingredient action="retirer"> coeur </ingredient> . les <operation ingredients="pâte"> disposer </operation> alors sur la <ingredient action="disposer"> pâte </ingredient> puis <operation ingredients="crème"> verser </operation> le reste de la <ingredient action="verser" quantite="10 cl"> crème </ingredient> dessus . <operation> mettre </operation> à four chaud ( 200 / 240 <operation> ° </operation> c ) pendant environ 30 mn . servir chaud ou froid .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60756">
+<titre>Salade oranges et oignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 belles oranges</p>
+<p>2 gros oignons doux (cèbes)</p>
+<p>sel, poivre</p>
+<p>1 cuillère à café de vinaigre basalmique</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> peler </operation> les <ingredient action="peler" quantite="3"> oranges </ingredient> à vif et les <operation> couper </operation> en fines tranches dans le sens de la largeur . <operation ingredients="oignons"> détailler </operation> les <ingredient action="détailler" quantite="2"> oignons </ingredient> <operation> épluchés </operation> en très fines lamelles puis les <operation ingredients="oranges"> mettre </operation> dans un saladier avec les <ingredient action="mettre" quantite="3"> oranges </ingredient> . <operation> mélanger </operation> . <operation ingredients="sel;poivre;vinaigre;huile"> faire </operation> une sauce avec le <ingredient action="faire" quantite=""> sel </ingredient> , le <ingredient action="faire" quantite=""> poivre </ingredient> , le <ingredient action="faire" quantite="1 cuillère à café"> vinaigre </ingredient> et l' <ingredient action="faire" quantite="2 cuillère à soupe"> huile </ingredient> . <operation ingredients="oignons;oranges"> verser </operation> sur les <ingredient action="verser" quantite="2"> oignons </ingredient> et les <ingredient action="verser" quantite="3"> oranges </ingredient> . <operation> réserver </operation> au frais une heure avant de servir . si possible prendre des <ingredient quantite="2"> oignons </ingredient> " cèbes " ( assez gros mais très doux ) .
+</preparation>
+</recette>

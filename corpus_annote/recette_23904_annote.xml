@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23904">
+<titre>Sauté de veau aux tomates, lardons et rosé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'épaule de veau désossé</p>
+<p>750 g de tomates</p>
+<p>125 g de lardons fumé</p>
+<p>3 oignons</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>50 cl de vin rosé</p>
+<p>1 pincée de basilic</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> découper </operation> la <ingredient action="découper"> viande </ingredient> en cubes réguliers . <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="750 gramme"> tomates </ingredient> . <operation ingredients="viande"> mettre </operation> les morceaux de <ingredient action="mettre"> viande </ingredient> à <operation ingredients="huile"> dorer </operation> dans l' <ingredient action="dorer" quantite="3 cuillère à soupe"> huile </ingredient> dans une cocotte . <operation ingredients="lardons;fumés"> incorporer </operation> les <ingredient action="incorporer"> lardons </ingredient> <ingredient action="incorporer" quantite="125 gramme"> fumés </ingredient> , les <ingredient quantite="3"> oignons </ingredient> et l’ <ingredient> ail </ingredient> <operation> ciselés </operation> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="50 cl"> vin </ingredient> et <operation> assaisonner </operation> . <operation ingredients="basilic"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 pincée"> basilic </ingredient> . laisser <operation> mijoter </operation> 1 h à feu doux , puis <operation ingredients="tomates"> incorporer </operation> les <ingredient action="incorporer" quantite="750 gramme"> tomates </ingredient> mondées . continuer la cuisson pendant 30 min . servir <operation ingredients="riz;pommes"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pommes </ingredient> de terre au four .
+</preparation>
+</recette>

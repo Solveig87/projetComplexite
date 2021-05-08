@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55489">
+<titre>Gratin de pâtes à la viande hachée et aux oeufs</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâtes</p>
+<p>30 cl de béchamel</p>
+<p>2 cuillères à soupe de concentré de tomate</p>
+<p>4 à 5 oeufs durs</p>
+<p>3 à 4 steaks hachés (boeuf ou veau)</p>
+<p>muscade</p>
+<p>sel et poivre </p>
+<p>chapelure</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> durs , <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> à l' eau bouillante <operation> salée </operation> . <operation ingredients="béchamel"> préparer </operation> une <ingredient action="préparer" quantite="30 cl"> béchamel </ingredient> ou prendre une <ingredient quantite="30 cl"> béchamel </ingredient> toute prête , y <operation ingredients="tomate"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et bien <operation> mélanger </operation> . quand les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> , les <operation ingredients="béchamel;tomate;viande"> mélanger </operation> avec la <ingredient action="mélanger" quantite="30 cl"> béchamel </ingredient> à la <ingredient action="mélanger"> tomate </ingredient> et la <ingredient action="mélanger" quantite="3"> viande </ingredient> hachée . <operation> mettre </operation> le tout dans un plat à gratin . <operation ingredients="oeufs"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> durs en tranche , les <operation ingredients="pâtes"> disposer </operation> sur les <ingredient action="disposer" quantite="500 gramme"> pâtes </ingredient> , <operation ingredients="chapelure;gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> et de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé . faire <operation> gratiner </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) jusqu' à ce que ce soit bien gratiné . très bon aussi sans <ingredient quantite="3"> viande </ingredient> pour les végétariens !
+</preparation>
+</recette>

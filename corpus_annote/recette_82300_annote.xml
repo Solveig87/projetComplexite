@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82300">
+<titre>Crémet aux fruits rouges</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 cl de crème fraîche (30% de matières grasses minimum)</p>
+<p>50 cl de de fromage blanc (minimum 20% de matière grasse)</p>
+<p>2 blancs d'œufs</p>
+<p>6 feuilles de gélatines</p>
+<p>150 g de sucre</p>
+<p>450 g de fruits rouges</p>
+</ingredients>
+<preparation>
+<operation ingredients="chantilly;crème;sucre"> monter </operation> une <ingredient action="monter"> chantilly </ingredient> avec la <ingredient action="monter" quantite="50 cl"> crème </ingredient> fraîche et 15 g de <ingredient action="monter" quantite="150 gramme"> sucre </ingredient> . une fois la <ingredient> chantilly </ingredient> <operation> montée </operation> , la <operation> réserver </operation> au frigo . <operation ingredients="fromage;sucre"> fouetter </operation> le <ingredient action="fouetter" quantite="50 cl"> fromage </ingredient> blanc avec 15 g de <ingredient action="fouetter" quantite="150 gramme"> sucre </ingredient> . le <operation> réserver </operation> aussi au frigo . <operation ingredients="œufs"> monter </operation> les 2 blancs d' <ingredient action="monter"> œufs </ingredient> en neige . puis <operation ingredients="chantilly;fromage"> mélanger </operation> très délicatement la <ingredient action="mélanger"> chantilly </ingredient> , le <ingredient action="mélanger" quantite="50 cl"> fromage </ingredient> blanc , et les blancs en neige ( il ne faut surtout pas que la <ingredient> chantilly </ingredient> tombe ) . puis <operation> remettre </operation> le tout au frigo . faire <operation ingredients="gélatines"> fondre </operation> les feuilles de <ingredient action="fondre" quantite="6 feuille"> gélatines </ingredient> pendant ce temps , <operation ingredients="sirop;sucre"> préparer </operation> un <ingredient action="préparer"> sirop </ingredient> avec les 120 g de <ingredient action="préparer" quantite="150 gramme"> sucre </ingredient> qui reste . ( <ingredient> sirop </ingredient> : sucre , avec un peu d' eau à <operation> chauffer </operation> dans une casserole mais attention il ne faut pas que ça fasse un caramel ) . laisser un peu refroidir et y <operation ingredients="gélatine"> ajouter </operation> la <ingredient action="ajouter" quantite="6 feuille"> gélatine </ingredient> . ressortir la <ingredient quantite="50 cl"> crème </ingredient> et y <operation ingredients="sirop"> ajouter </operation> le <ingredient action="ajouter"> sirop </ingredient> ( encore très délicatement ) . prendre un <operation> moule </operation> à cake , y <operation ingredients="crème"> mettre </operation> un couche de <ingredient action="mettre" quantite="50 cl"> crème </ingredient> ( bien <operation> remplir </operation> les bords , il ne faut pas d' air ) , puis une couche de <ingredient quantite="450 gramme"> fruit </ingredient> , puis recommencer , et finir par une couche de <ingredient quantite="50 cl"> crème </ingredient> . <operation> mettre </operation> au frigo et laisser <operation> reposer </operation> 8 heures minimum . a servir très frais . si vous prenez des <ingredient quantite="450 gramme"> fruits </ingredient> surgelés , vous pouvez <operation ingredients="crème"> ajouter </operation> dans la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> le jus des fruits .
+</preparation>
+</recette>

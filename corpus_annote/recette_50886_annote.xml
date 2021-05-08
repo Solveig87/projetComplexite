@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50886">
+<titre>Macaroni à l'agneau</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail hachées</p>
+<p>1 oignon épluché et haché finement</p>
+<p>175 g de noisettes d'agneau</p>
+<p>1 petite boîte de champignons de Paris</p>
+<p>1 petite boîte de petits pois</p>
+<p>450 g de macaroni cuits al dente</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="noisettes"> hachez </operation> grossièrement les <ingredient action="hacher" quantite="175 gramme"> noisettes </ingredient> d' agneau . <operation ingredients="huile"> chauffez </operation> l' <ingredient action="chauffer" quantite="4 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> à feu moyen puis <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter"> viande </ingredient> hachée et faites - la <operation> cuire </operation> 10 minutes à feu moyen . <operation ingredients="ail;oignon"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , <operation> réduisez </operation> l' intensité du feu et laissez <operation> mijoter </operation> durant 3 minutes . <operation> mélangez </operation> , <operation> assaisonnez </operation> à votre goût et poursuivez la cuisson 3 minutes . <operation ingredients="macaronis"> répartissez </operation> les <ingredient action="répartir"> macaronis </ingredient> chauds dans 4 assiettes et <operation ingredients="agneau"> déposez </operation> dessus la préparation à l' <ingredient action="déposer"> agneau </ingredient> . servez chaud .
+</preparation>
+</recette>

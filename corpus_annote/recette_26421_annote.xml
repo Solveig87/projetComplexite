@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26421">
+<titre>Spaghetti et leur sauce aux artichauts</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de spaghetti</p>
+<p>4 artichauts</p>
+<p>1 citron</p>
+<p>1 oignon ciselé</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>450 g de tomates mondées</p>
+<p>persil haché</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="artichauts"> enlever </operation> les feuilles d’ <ingredient action="enlever" quantite="4"> artichauts </ingredient> trop dures et le foin . <operation ingredients="artichaut"> couper </operation> l’ <ingredient action="couper" quantite="4"> artichaut </ingredient> dans la largeur et les <operation ingredients="jus"> plonger </operation> dans l' eau avec le <ingredient action="plonger"> jus </ingredient> du citron . dans une <operation> poêle </operation> , <operation ingredients="oignon;huile"> faire </operation> une fondue avec l' <ingredient action="faire" quantite="1"> oignon </ingredient> et l' <ingredient action="faire" quantite="4 cuillère à soupe"> huile </ingredient> . y faire <operation ingredients="artichaut;tomates"> revenir </operation> les morceaux d’ <ingredient action="revenir" quantite="4"> artichaut </ingredient> <operation> égouttés </operation> , puis les <ingredient action="revenir" quantite="450 gramme"> tomates </ingredient> . <operation> assaisonner </operation> et faire <operation> mijoter </operation> à feu doux pendant 40 min . <operation ingredients="spaghettis"> plonger </operation> les <ingredient action="plonger" quantite="400 gramme"> spaghettis </ingredient> dans une casserole d’ eau bouillante pendant 10 min , les <operation> égoutter </operation> et les <operation ingredients="artichaut"> recouvrir </operation> de sauce à l’ <ingredient action="recouvrir" quantite="4"> artichaut </ingredient> .
+</preparation>
+</recette>

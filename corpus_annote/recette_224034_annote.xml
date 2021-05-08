@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224034">
+<titre>Soupe de tomate aigre-douce</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 tomates ou 350 g de purée de tomate</p>
+<p>2 carottes</p>
+<p>1 pomme de terre</p>
+<p>3 échalotes</p>
+<p>2 cuillerées à soupe de vinaigre de vin</p>
+<p>1 cuillerée à soupe de sucre</p>
+<p>2 feuilles de laurier</p>
+<p>persil</p>
+<p>sel</p>
+<p>poivre</p>
+<p>tabasco</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="5"> tomates </ingredient> en tranches . <operation ingredients="carottes"> découper </operation> les <ingredient action="découper" quantite="2"> carottes </ingredient> et pommes de terre en petits morceaux . faire <operation ingredients="échalotes"> revenir </operation> les <ingredient action="revenir" quantite="3"> échalotes </ingredient> <operation ingredients="huile"> émincées </operation> dans de l' <ingredient action="émincer"> huile </ingredient> d' olive pour les faire <operation> blondir </operation> . <operation ingredients="vinaigre"> déglacer </operation> avec le <ingredient action="déglacer"> vinaigre </ingredient> , <operation ingredients="sucre;tomates"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> , puis <ingredient action="ajouter" quantite="5"> tomates </ingredient> , carottes et pommes de terre . <operation ingredients="poivre"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> poivre </ingredient> , sel , tabasco ) et laisser <operation> cuire </operation> à feux moyen 5 min en <operation> remuant </operation> de temps en temps . <operation> couvrir </operation> d' eau , laisser <operation> cuire </operation> 20 min à feu moyen . retire le <ingredient quantite="2 feuille"> laurier </ingredient> , <operation> mixer </operation> , <operation ingredients="assaisonnement"> ajuster </operation> l' <ingredient action="ajuster" quantite="2 feuille;;;;"> assaisonnement </ingredient> . <operation> saupoudrer </operation> de <ingredient action="hacher" quantite=""> persil </ingredient> <operation ingredients="persil"> haché </operation> et servir .
+</preparation>
+</recette>

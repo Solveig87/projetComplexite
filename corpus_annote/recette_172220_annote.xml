@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172220">
+<titre>Soupe complète boeuf, légumes et pâtes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de champignons de Paris</p>
+<p>1 poignée de haricots verts</p>
+<p>2 carottes moyennes</p>
+<p>2 petits oignons</p>
+<p>1 gousse d'ail</p>
+<p>300 g de viande de bœuf</p>
+<p>100 g de petites pâtes (éviter les vermicelles)</p>
+<p>1 cube de bouillon de bœuf dilué dans 1,5L d'eau</p>
+<p>40 g de beurre</p>
+<p>3 cuillères à soupe de sauce soja</p>
+<p>3 pincées de gingembre en poudre</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> préparer </operation> d' abord les <ingredient action="préparer" quantite="100 gramme;2;3 pincée"> légumes </ingredient> . commencer par <operation> laver </operation> et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="100 gramme"> champignons </ingredient> de paris en fines lamelles . puis , <operation> laver </operation> , <operation> équeuter </operation> et <operation ingredients="haricots"> couper </operation> en 2 les <ingredient action="couper"> haricots </ingredient> verts . ensuite , <operation ingredients="carottes"> peler </operation> et <operation> couper </operation> en fins bâtonnets les <ingredient action="peler"> carottes </ingredient> <operation ingredients="oignons;ail"> éplucher </operation> et <operation> émincer </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> puis <operation> éplucher </operation> l' <ingredient action="éplucher"> ail </ingredient> et l' <operation ingredients="ail"> écraser </operation> à la fourchette ou au <operation> presse </operation> <ingredient action="écraser"> ail </ingredient> . <operation ingredients="viande"> couper </operation> en petits dés la <ingredient action="couper" quantite="300 gramme"> viande </ingredient> de bœuf . dans une cocotte , <operation ingredients="beurre"> mettre </operation> le <ingredient action="mettre" quantite="40 gramme"> beurre </ingredient> à feu moyen puis faire <operation ingredients="carottes;champignons;oignons"> revenir </operation> le bœuf , les <ingredient action="revenir"> carottes </ingredient> , les <ingredient action="revenir" quantite="100 gramme"> champignons </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> . faire <operation> dorer </operation> en <operation> remuant </operation> régulièrement . <operation ingredients="bouillon"> ajouter </operation> ensuite le <ingredient action="ajouter"> bouillon </ingredient> <operation> dilué </operation> dans 1 , 5 l d' eau , les <ingredient> haricots </ingredient> , la sauce <ingredient> soja </ingredient> , l' <ingredient> ail </ingredient> et le <ingredient quantite="3 pincée"> gingembre </ingredient> . laisser <operation> mijoter </operation> 15 min . <operation ingredients="pâtes"> ajouter </operation> les petites <ingredient action="ajouter" quantite="100 gramme"> pâtes </ingredient> et laisser <operation ingredients="pâtes"> cuire </operation> en fonction du type de <ingredient action="cuire" quantite="100 gramme"> pâtes </ingredient> utilisées . <operation> saler </operation> et <operation> poivrer </operation> si nécessaire . cette <ingredient> soupe </ingredient> se déguste chaude .
+</preparation>
+</recette>

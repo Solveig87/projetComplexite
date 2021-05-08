@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18290">
+<titre>Pain de poisson</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de thon ou saumon</p>
+<p>20 cl de crème fraîche</p>
+<p>6 oeufs</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>70 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="6"> oeufs </ingredient> en omelette . <operation ingredients="crème;tomates;gruyère;thon;saumon"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche , le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> , le <ingredient action="ajouter" quantite="70 gramme"> gruyère </ingredient> puis le <ingredient action="ajouter"> thon </ingredient> ( ou <ingredient action="ajouter"> saumon </ingredient> ) . <operation> beurrer </operation> un <operation> moule </operation> à cake et y <operation> verser </operation> la préparation . laisser <operation> cuire </operation> 1 h 15 au bain marie ( thermostat . 7 ) . <operation ingredients="pain;mayonnaise"> accompagner </operation> le <ingredient action="accompagner"> pain </ingredient> de poisson d' une <ingredient action="accompagner"> mayonnaise </ingredient> . entrée qui a eu beaucoup de succès auprès d' <operation> amateurs </operation> ou <ingredient quantite="2+1"> non </ingredient> de poisson .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18536">
+<titre>Coupe Corrézienne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 cl de glace à la vanille</p>
+<p>500 cl de glace au chocolat</p>
+<p>2 cuillères à soupe d'amandes effilées</p>
+<p>400 g de crème de marron</p>
+<p>8 cuillères à soupe de chantilly</p>
+<p>120 g de chocolat dessert</p>
+<p>20 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="120 gramme"> chocolat </ingredient> et <operation> ajouter </operation> une cuillère à soupe de crème fraîche pour le rendre doux . <operation ingredients="amandes"> faire </operation> <operation> griller </operation> au four les <ingredient action="faire" quantite="2 cuillère à soupe"> amandes </ingredient> effilées . dans chaque <operation> coupe </operation> , <operation ingredients="glace;vanille;glace;chocolat;chocolat"> mettre </operation> une boule de <ingredient action="mettre" quantite="500 cl+500 cl"> glace </ingredient> <ingredient action="mettre"> vanille </ingredient> , une boule de <ingredient action="mettre" quantite="500 cl+500 cl"> glace </ingredient> <ingredient action="mettre" quantite="120 gramme"> chocolat </ingredient> , une cuillère à soupe de crème de marron , le coulis de <ingredient action="mettre" quantite="120 gramme"> chocolat </ingredient> , <operation ingredients="crème;chantilly"> recouvrir </operation> de <ingredient action="recouvrir" quantite="400 gramme+20 cl"> crème </ingredient> <ingredient action="recouvrir" quantite="8 cuillère à soupe"> chantilly </ingredient> et <operation ingredients="amandes"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> amandes </ingredient> <operation> effilées </operation> <operation> grillées </operation> . servir aussitôt .
+</preparation>
+</recette>

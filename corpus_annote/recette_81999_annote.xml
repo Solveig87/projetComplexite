@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81999">
+<titre>Saumon fumé à la mousse d'avocat</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 grandes tranches de saumon fumé</p>
+<p>1 avocat bien mûr</p>
+<p>2 oeufs durs</p>
+<p>3 bâtonnets de surimi</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat;oeufs;surimi;mousse"> mixer </operation> l' <ingredient action="mixer" quantite="1"> avocat </ingredient> , les <ingredient action="mixer" quantite="2"> oeufs </ingredient> durs et le <ingredient action="mixer"> surimi </ingredient> jusqu' à l' obtention d' une <ingredient action="mixer"> mousse </ingredient> , <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> jus </ingredient> de citron selon votre goût . <operation ingredients="saumon;fumé"> disposer </operation> la préparation sur 4 belles tranches de <ingredient action="disposer"> saumon </ingredient> <ingredient action="disposer"> fumé </ingredient> puis <operation> replier </operation> la tranche afin de <operation> former </operation> une papillote . <operation> placer </operation> des petites piques pour bien tenir fermé , puis <operation> placer </operation> au réfrigérateur pendant 2 heures . servir bien frais
+</preparation>
+</recette>

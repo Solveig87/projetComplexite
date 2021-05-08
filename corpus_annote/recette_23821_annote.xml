@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23821">
+<titre>Soles au yaourt</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 petites soles</p>
+<p>2 yaourts</p>
+<p>1 jaune d'oeuf</p>
+<p>1 citron</p>
+<p>2 cuillères à soupe de chapelure</p>
+<p>20 g de beurre</p>
+<p>1/2 cuillère à café de noix de muscade</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> videz </operation> , <operation> nettoyez </operation> et <operation ingredients="soles"> essuyez </operation> les <ingredient action="essuyer" quantite="4"> soles </ingredient> . dans un saladier , <operation ingredients="oeuf;jus"> versez </operation> les yahourts , le jaune d' <ingredient action="verser"> oeuf </ingredient> et le <ingredient action="verser"> jus </ingredient> du citron préssé ; <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="noix"> ajoutez </operation> la <ingredient action="ajouter"> noix </ingredient> de muscade et <operation> battez </operation> le tout à la fourchette . allumez le four ( thermostat 6 / 180 <operation> ° </operation> c ) . <operation> beurrez </operation> un plat et étalez - y les <ingredient quantite="4"> soles </ingredient> , puis <operation> nappez </operation> avec le contenu du saladier . <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> chapelure </ingredient> . <operation> enfournez </operation> 10 mn .
+</preparation>
+</recette>

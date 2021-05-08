@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70669">
+<titre>Escalope de poulet panée au fromage et jambon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>4 tranches fines de jambon blanc ou cru</p>
+<p>8 tranchettes de fromage (pour croque-monsieur)</p>
+<p>1 petite assiette creuse de chapelure</p>
+<p>4 oeufs battus</p>
+</ingredients>
+<preparation>
+commencer par faire <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="4"> escalopes </ingredient> de poulet à la <operation> poêle </operation> . ensuite , <operation ingredients="fromage;escalope"> disposer </operation> une tranchette de <ingredient action="disposer"> fromage </ingredient> de chaque coté de l' <ingredient action="disposer" quantite="4"> escalope </ingredient> . <operation ingredients="jambon"> enrouler </operation> le tout dans une tranche de <ingredient action="enrouler"> jambon </ingredient> . <operation ingredients="oeufs"> tremper </operation> le tout dans les <ingredient action="tremper"> oeufs </ingredient> <operation> battus </operation> , puis <operation ingredients="chapelure"> disposer </operation> dans la <ingredient action="disposer"> chapelure </ingredient> et bien la <operation> recouvrir </operation> de cette dernière ! faire <operation ingredients="noix"> revenir </operation> à feu doux , dans une <operation> poêle </operation> avec une <ingredient action="revenir"> noix </ingredient> de beurre . lorsque le <ingredient> fromage </ingredient> commence à devenir coulant c' est prêt ! ! ! bon appétit . . .
+</preparation>
+</recette>

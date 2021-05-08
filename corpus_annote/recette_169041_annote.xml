@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169041">
+<titre>Frappuccino</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tasses de café noir</p>
+<p>4 morceaux de sucre</p>
+<p>6 boules de glace à la vanille</p>
+<p>6 glaçons</p>
+</ingredients>
+<preparation>
+<operation ingredients="café;sucre"> préparez </operation> 2 tasses de <ingredient action="préparer"> café </ingredient> noir avec le <ingredient action="préparer"> sucre </ingredient> et bien laisser refroidir . <operation ingredients="glace"> ajoutez </operation> les glaçons et les boules de <ingredient action="ajouter"> glace </ingredient> dans le blinder . <operation ingredients="café"> ajoutez </operation> - y le <ingredient action="ajouter"> café </ingredient> une fois refroidi . <operation> mixez </operation> jusqu' à ce que les glaçons soient <operation> pilés </operation> et que le <operation> mélange </operation> soit homogène . servez le <operation> mélange </operation> dans des mugs ou des grands verres avec une paille et de la <ingredient> crème </ingredient> <operation> fouetté </operation> pardessus si vous le désirez . bonne dégustation !
+</preparation>
+</recette>

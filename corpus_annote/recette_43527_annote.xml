@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43527">
+<titre>Lapin comme dans le Sud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin de 2 kg</p>
+<p>2 citrons</p>
+<p>500 g de carottes</p>
+<p>500 g de champignons</p>
+<p>1 oignons</p>
+<p>250 g de tomates </p>
+<p>-1 kg de pommes de terre</p>
+</ingredients>
+<preparation>
+au fond d' un faitout , <operation ingredients="citrons;oignon;huile"> disposer </operation> les <ingredient action="disposer" quantite="2"> citrons </ingredient> et l' <ingredient action="disposer" quantite="1"> oignon </ingredient> <operation> coupés </operation> en rondelles sur un peu d' <ingredient action="disposer"> huile </ingredient> d' olive . ensuite <operation ingredients="lapin"> déposer </operation> le <ingredient action="déposer" quantite="1"> lapin </ingredient> en morceaux . <operation ingredients="champignons"> placer </operation> sur feu doux , et <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> tomates </ingredient> <operation> coupées </operation> en morceaux , les <ingredient action="placer" quantite="500 gramme"> champignons </ingredient> <operation ingredients="carottes"> coupés </operation> en deux et les <ingredient action="couper" quantite="500 gramme"> carottes </ingredient> en rondelles . <operation> porter </operation> à <operation> ébullition </operation> , <operation ingredients="sel"> ajouter </operation> <ingredient action="ajouter"> sel </ingredient> , poivre , herbes . laisser <operation> cuire </operation> à feu doux pendant 1 h 45 . servir avec des <ingredient> pommes </ingredient> de terre <operation> cuites </operation> à la vapeur . vous pouvez <operation ingredients="épices"> ajouter </operation> des <ingredient action="ajouter"> épices </ingredient> , si vous le désirez .
+</preparation>
+</recette>

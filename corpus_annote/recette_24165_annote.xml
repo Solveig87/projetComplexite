@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24165">
+<titre>Salade de riz colorée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz</p>
+<p>250 g de petits pois en boîte</p>
+<p>1 petite boîte de thon au naturel</p>
+<p>4 oeufs durs</p>
+<p>4 tomates</p>
+<p>1 concombre</p>
+<p>1 petite boîte de maïs</p>
+<p>50 cl de vinaigrette</p>
+</ingredients>
+<preparation>
+<operation> porter </operation> de l' eau <operation> salée </operation> à <operation> ébullition </operation> et y <operation ingredients="riz"> plonger </operation> le <ingredient action="plonger" quantite="200 gramme"> riz </ingredient> . <operation ingredients="thon;oeufs;tomates;concombre;maïs"> égoutter </operation> et le <operation ingredients="pois"> mélanger </operation> aux petits <ingredient action="mélanger" quantite="250 gramme"> pois </ingredient> , au <ingredient action="égoutter"> thon </ingredient> <operation> émietté </operation> , aux <ingredient action="égoutter" quantite="4"> oeufs </ingredient> durs en quartiers , aux <ingredient action="égoutter" quantite="4"> tomates </ingredient> en morceaux , au <ingredient action="égoutter" quantite="1"> concombre </ingredient> en rondelles et au <ingredient action="égoutter"> maïs </ingredient> . <operation> arroser </operation> de vinaigrette et servir .
+</preparation>
+</recette>

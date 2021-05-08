@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72834">
+<titre>Boulettes porc et boeuf sauce tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la sauce tomate:</p>
+<p>1 boîte de tomates entières au naturel</p>
+<p>2 cuillères à soupe d’huile d’olive</p>
+<p>1 oignon</p>
+<p>2 gousses d’ail</p>
+<p>coriandre en poudre</p>
+<p>bouquet garni</p>
+<p>herbes de Provence</p>
+<p>sel et poivre</p>
+<p>Pour les boulettes:</p>
+<p>1 kg de porc haché (un tout petit peu gras)</p>
+<p>300 g de bœuf haché</p>
+<p>1 gros oignon haché</p>
+<p>1 grosse gousse d’ail haché</p>
+<p>1 gros bouquet de persil haché</p>
+<p>1 œuf </p>
+<p>sel, poivre, quatre épices</p>
+<p>farine (pour rouler les boulettes)</p>
+<p>20 g de beurre</p>
+<p>2 cuillères d’huile d’olive</p>
+</ingredients>
+<preparation>
+commencer par la sauce . dans une casserole , faire <operation ingredients="huile;jus;tomates"> chauffer </operation> l’ <ingredient action="chauffer"> huile </ingredient> , <operation ingredients="oignon"> mettre </operation> l’ <ingredient action="mettre" quantite="1+1"> oignon </ingredient> haché puis le <ingredient action="chauffer"> jus </ingredient> et les <ingredient action="chauffer"> tomates </ingredient> <operation> coupées </operation> en morceaux . baisser le feu , puis <operation ingredients="gousses;coriandre;bouquet;sel;poivre"> ajouter </operation> les <ingredient action="ajouter" quantite="2+1"> gousses </ingredient> d’ ail <operation> hachées </operation> , la <ingredient action="ajouter" quantite=""> coriandre </ingredient> , le <ingredient action="ajouter" quantite="+1"> bouquet </ingredient> <operation> garni </operation> , les herbes de provence , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . laisser <operation> cuire </operation> à feu doux 10 min et <operation> réserver </operation> . bien <operation ingredients="œuf"> mélanger </operation> , à la main , tous les ingrédients <operation> hachés </operation> avec l' <ingredient action="mélanger" quantite="1"> œuf </ingredient> , puis <operation> former </operation> les boulettes un peu aplaties et les <operation ingredients="farine"> rouler </operation> dans la <ingredient action="rouler" quantite=""> farine </ingredient> . les faire <operation ingredients="beurre;huile"> cuire </operation> à la <operation> poêle </operation> ou dans une sauteuse dans le <ingredient action="cuire" quantite="20 gramme"> beurre </ingredient> et l’ <ingredient action="cuire"> huile </ingredient> en les <operation> retournant </operation> souvent pendant 10 min . <operation> ajouter </operation> la sauce tomate et laisser <operation> cuire </operation> pendant 10 min . <operation ingredients="riz"> accompagner </operation> ces boulettes avec du <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

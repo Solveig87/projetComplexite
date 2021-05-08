@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22551">
+<titre>Tourte au saumon et crevettes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pâtes feuilletées</p>
+<p>3 ou 4 petites pommes-de-terre</p>
+<p>1 grosse darne de saumon</p>
+<p>1 gros oignon</p>
+<p>150 g de crevettes roses (grosses) </p>
+<p>40 cl de crème fraîche semi-épaisse</p>
+<p>sel, poivre, muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;poisson"> cuire </operation> les <ingredient action="cuire"> pommes </ingredient> de terre ( en rondelles ) et le <ingredient action="cuire"> poisson </ingredient> à la vapeur . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> pour le caraméliser . <operation ingredients="pâte;saumon;crevettes"> etaler </operation> un disque de <ingredient action="etaler" quantite="2"> pâte </ingredient> feuilletée dans un plat à tarte , y installer les rondelles de <ingredient> pommes </ingredient> de terre , l' <ingredient quantite="1"> oignon </ingredient> , le <ingredient action="etaler"> saumon </ingredient> émietté et les grosses <ingredient action="etaler" quantite="150 gramme"> crevettes </ingredient> . <operation ingredients="crème"> saler </operation> et <operation> poivrer </operation> la <ingredient action="saler" quantite="40 cl"> crème </ingredient> fraîche , <operation ingredients="muscade"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> muscade </ingredient> et <operation> verser </operation> sur le tout . <operation ingredients="pâte"> recouvrir </operation> de l' autre disque de <ingredient action="recouvrir" quantite="2"> pâte </ingredient> et <operation ingredients="oeuf"> dorer </operation> avec un jaune d' <ingredient action="dorer"> oeuf </ingredient> . faire <operation> cuire </operation> thermostat 6 pendant 30 mn environ , pour que la <ingredient action="dore" quantite="2"> pâte </ingredient> <operation ingredients="pâte"> dore </operation> bien . servir avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

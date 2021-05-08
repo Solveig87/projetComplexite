@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28659">
+<titre>Cuisses de poulet aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>6 cuisses de poulet</p>
+<p>3 cuillères à soupe de farine</p>
+<p>150 g de crème fraîche</p>
+<p>3 oignons</p>
+<p>2 gousses d'ail</p>
+<p>400 g de champignons de Paris</p>
+<p>20 cl de vin blanc </p>
+<p>50 cl de bouillon de poulet</p>
+<p>3 cl de cognac</p>
+<p>50 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="poulet"> fariner </operation> les cuisses de <ingredient action="fariner"> poulet </ingredient> . les faire <operation ingredients="beurre"> dorer </operation> au <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> dans une cocotte à fond épais . <operation ingredients="oignons;ail"> hacher </operation> les <ingredient action="hacher" quantite="3"> oignons </ingredient> , l' <ingredient action="hacher"> ail </ingredient> et <operation ingredients="champignons"> couper </operation> les <ingredient action="couper" quantite="400 gramme"> champignons </ingredient> en 4 . une fois la belle couleur atteinte , <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> et la <operation> réserver </operation> . remplacer par les <ingredient quantite="150 gramme;3;400 gramme;50 cl"> légumes </ingredient> . au bout de 2 min , <operation ingredients="bouillon;vin"> mouiller </operation> de <ingredient action="mouiller" quantite="50 cl"> bouillon </ingredient> et de <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> blanc . bien <operation> gratter </operation> le fond de la casserole . <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre"> viande </ingredient> , <operation> couvrir </operation> et laisser <operation> cuire </operation> 30 min . <operation ingredients="crème;cognac"> ajouter </operation> alors la <ingredient action="ajouter" quantite="150 gramme"> crème </ingredient> fraîche , le <ingredient action="ajouter" quantite="3 cl"> cognac </ingredient> et <operation> poivrer </operation> . faire <operation> cuire </operation> encore 45 min .
+</preparation>
+</recette>

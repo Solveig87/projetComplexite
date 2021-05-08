@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81033">
+<titre>Soupe aux patates douces et au reblochon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 patate douce épluchée et coupée en morceaux</p>
+<p>1 petit oignon</p>
+<p>2 cuillères à soupe de pâte de curry épicée</p>
+<p>100 g de lentilles roses</p>
+<p>500 ml de bouillon de légumes</p>
+<p>1 yaourt nature</p>
+<p>1 gousse d'ail écrasée</p>
+<p>la moitié d'un reblochon</p>
+<p>1 cuillère à soupe d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une casserole . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , l' <ingredient action="revenir"> ail </ingredient> , la <ingredient action="revenir" quantite="2 cuillère à soupe"> pâte </ingredient> de curry et faire <operation ingredients="ail;pâte"> revenir </operation> à feu moyen pendant 4 minutes environ , en <operation> remuant </operation> constamment . <operation ingredients="lentilles;patate;bouillon"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme"> lentilles </ingredient> , la <ingredient action="ajouter" quantite="1"> patate </ingredient> douce et le <ingredient action="ajouter"> bouillon </ingredient> . <operation ingredients="reblochon"> mixer </operation> le <ingredient action="mixer"> reblochon </ingredient> . l' jouter aux <ingredient quantite="100 gramme"> lentilles </ingredient> . <operation> remuer </operation> et <operation> porter </operation> à <operation> ébullition </operation> . <operation> réduire </operation> le feu , <operation> couvrir </operation> et laisser <operation> mijoter </operation> pendant environ 30 min jusqu' à ce que les <ingredient action="ramollir" quantite="100 gramme"> lentilles </ingredient> soient <operation ingredients="lentilles"> ramollies </operation> . au moment de servir , <operation ingredients="yaourt"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> . mangez bien ! lol
+</preparation>
+</recette>

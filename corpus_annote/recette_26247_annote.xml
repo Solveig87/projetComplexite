@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26247">
+<titre>Pain de gênes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g amandes en poudre</p>
+<p>180 g sucre en poudre</p>
+<p>150 à 175 g beurre</p>
+<p>4 oeufs</p>
+<p>pincée de sel</p>
+<p>1 sachet de sucre vanillé</p>
+<p>65 g de farine</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="beurre"> mélanger </operation> le <ingredient action="mélanger"> beurre </ingredient> <operation ingredients="sucre"> ramolli </operation> avec 100 g de <ingredient action="ramollir" quantite="180 gramme"> sucre </ingredient> , <operation ingredients="amande"> rajouter </operation> la <operation> poudre </operation> d' <ingredient action="rajouter" quantite="150 gramme"> amande </ingredient> , <operation> battre </operation> fortement . <operation ingredients="sucre;sucre"> rajouter </operation> le reste de <ingredient action="rajouter" quantite="180 gramme"> sucre </ingredient> et le sachet de <ingredient action="rajouter" quantite="180 gramme"> sucre </ingredient> vanillé . <operation ingredients="oeufs;sel;farine"> incorporer </operation> un à un les <ingredient action="incorporer" quantite="4"> oeufs </ingredient> , une pincée de <ingredient action="incorporer"> sel </ingredient> et les 65 g de <ingredient action="incorporer" quantite="65 gramme"> farine </ingredient> . <operation> versez </operation> dans le <operation> moule </operation> beurré et <operation> mettre </operation> au four , thermostat 6 pendant 45 mn .
+</preparation>
+</recette>

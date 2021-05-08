@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38982">
+<titre>Soupe de citrouille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de citrouille pelée et coupée en dés</p>
+<p>3 gousses d'ail écrasées</p>
+<p>1 oignon haché</p>
+<p>30 g de beurre</p>
+<p>50 cl de bouillon de poulet</p>
+<p>3 pincées de muscade</p>
+<p>3 traits d’Angostura® aromatic bitters</p>
+<p>1 cuillère à café de sauce soja </p>
+<p>1/2 cuillère à café de poivre blanc</p>
+<p>15 cl de lait</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="citrouille;oignon;ail;beurre"> sauter </operation> les dés de <ingredient action="sauter" quantite="500 gramme"> citrouille </ingredient> , l’ <ingredient action="sauter" quantite="1"> oignon </ingredient> et l’ <ingredient action="sauter"> ail </ingredient> dans le <ingredient action="sauter" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="bouillon;muscade"> ajoutez </operation> le <ingredient action="ajouter" quantite="50 cl"> bouillon </ingredient> de poulet , la <ingredient action="ajouter" quantite="3 pincée"> muscade </ingredient> , l’ angostura ® aromatic bitters et la sauce de soja , puis faites <operation ingredients="citrouille"> cuire </operation> jusqu’ à ce que la <ingredient action="cuire" quantite="500 gramme"> citrouille </ingredient> soit tendre . <operation> passez </operation> au <operation> mixer </operation> . allongez la <ingredient> soupe </ingredient> avec le <ingredient quantite="15 cl"> lait </ingredient> jusqu’ à obtenir la consistance désirée . réchauffez et servez <operation ingredients="persil"> décorée </operation> avec du <ingredient action="décorer"> persil </ingredient> <operation ingredients="ciboulette"> haché </operation> ou de la <ingredient action="hacher"> ciboulette </ingredient> .
+</preparation>
+</recette>

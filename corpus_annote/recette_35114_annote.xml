@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35114">
+<titre>Croque aux pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 ou 3 pommes de votre choix en évitant la golden</p>
+<p>2 cuillères à soupe de sucre </p>
+<p>cannelle </p>
+<p>cognac ou autre alcool </p>
+<p>pain de mie </p>
+<p>beurre demi-sel</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en tranches . faire <operation ingredients="beurre;demi-sel"> dorer </operation> dans une <operation> poêle </operation> avec du <ingredient action="dorer" quantite=""> beurre </ingredient> <ingredient action="dorer"> demi-sel </ingredient> . <operation ingredients="sucre;cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> sucre </ingredient> et de <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> . laisser <operation> cuire </operation> 10 min . faire <operation> chauffer </operation> un peu d' alcool et <operation> flamber </operation> . laisser caraméliser un peu . <operation ingredients="pain"> poser </operation> sur le <ingredient action="poser" quantite=""> pain </ingredient> de mie et <operation ingredients="pain"> recouvrir </operation> d' une tranche de <ingredient action="recouvrir" quantite=""> pain </ingredient> . <operation> cuire </operation> dans l' appareil . servi avec une <ingredient> glace </ingredient> à la vanille . . . . hummmmm
+</preparation>
+</recette>

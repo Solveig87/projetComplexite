@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66325">
+<titre>Aumonières aux cerises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 crêpes</p>
+<p>1 bocal de cerises au sirop</p>
+<p>1 L de glace à la vanille</p>
+<p>50 cl de crème anglaise</p>
+<p>Beurre</p>
+<p>Sucre en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> , y faire <operation ingredients="cerises"> revenir </operation> les <ingredient action="revenir"> cerises </ingredient> et les <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> . laisser caraméliser ( le <ingredient quantite=""> sucre </ingredient> doit <operation ingredients="jus"> formé </operation> un <ingredient action="former"> jus </ingredient> sirupeux ) . dans chaque <ingredient action="déposer" quantite="6"> crêpe </ingredient> , <operation ingredients="crêpe;glace"> déposer </operation> une boule de <ingredient action="déposer" quantite="1 l"> glace </ingredient> et <operation> refermer </operation> en aumônière . <operation ingredients="cerises"> déposer </operation> sur les <ingredient action="déposer"> cerises </ingredient> tièdes dans chaque assiette . servir <operation ingredients="crème;jus;cerises"> accompagnées </operation> de <ingredient action="accompagner" quantite="50 cl"> crème </ingredient> anglaise et du <ingredient action="accompagner"> jus </ingredient> de cuisson des <ingredient action="accompagner"> cerises </ingredient> . un délice pour la bouche . . . et les yeux . . . n' hésitez pas à utiliser des <ingredient quantite="6"> crêpes </ingredient> toutes prêtes ! ! ! un crémant ou un <ingredient> champagne </ingredient>
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30227">
+<titre>Apfelstrudel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouleau de pâte feuilletée</p>
+<p>5 pommes type Golden ou Canada</p>
+<p>2 poignées de raisins secs</p>
+<p>2 poignées d'amandes effilées</p>
+<p>2 poignées de sucre en poudre</p>
+<p>cannelle en poudre (quantité selon le goût)</p>
+<p>1 jaune d'oeuf pour la dorure</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> les <ingredient action="peler"> pommes </ingredient> , les <operation> épépiner </operation> et les <operation> émincer </operation> en fines lamelles . les <operation> mettre </operation> dans un saladier , <operation ingredients="sucre;cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> en <operation> poudre </operation> et de <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> . bien <operation> mélanger </operation> avec les mains . <operation ingredients="raisins;amandes"> ajouter </operation> les <ingredient action="ajouter"> raisins </ingredient> secs et les <ingredient action="ajouter"> amandes </ingredient> . bien <operation> mélanger </operation> à nouveau . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> feuilletée très fine en rectangle , <operation ingredients="pommes"> verser </operation> la préparation aux <ingredient action="verser"> pommes </ingredient> dessus en lui donnant une <operation> forme </operation> allongée . <operation ingredients="pâte"> rabattre </operation> la <ingredient action="rabattre"> pâte </ingredient> en chausson , bien fermer les extrémités . <operation ingredients="oeuf"> dorer </operation> à l' <ingredient action="dorer"> oeuf </ingredient> et <operation> enfourner </operation> à four chaud ( thermostat 8 / 240 <operation> ° </operation> c ) 20 / 25 mn . servir tiède avec de la <ingredient> crème </ingredient> anglaise .
+</preparation>
+</recette>

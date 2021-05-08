@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13789">
+<titre>Paupiettes de jambon à la vache qui rit</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon blanc</p>
+<p>6 oeufs durs</p>
+<p>6 portions de vache qui rit (ou autre crème de gruère)</p>
+<p>2 échalotes</p>
+<p>un demi-verre de vin blanc</p>
+<p>2 cuillère à soupe d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> tartiner </operation> chaque tranche de <ingredient action="tartiner" quantite="6 tranche"> jambon </ingredient> avec une portion de vache qui rit . <operation ingredients="oeuf"> poser </operation> un <ingredient action="poser" quantite="6"> oeuf </ingredient> dur ( sans la coquille , bien sûr ) au centre de la tranche . <operation> envelopper </operation> l' <ingredient quantite="6"> oeuf </ingredient> de façon à <operation ingredients="paupiette"> faire </operation> une <ingredient action="faire"> paupiette </ingredient> . <operation ingredients="paupiette"> ficeler </operation> la <ingredient action="ficeler"> paupiette </ingredient> . dans une cocotte , <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="2 cuillère à soupe"> huile </ingredient> et faire <operation ingredients="échalotes"> dorer </operation> les <ingredient action="dorer" quantite="2"> échalotes </ingredient> . <operation ingredients="paupiettes"> ajouter </operation> les <ingredient action="ajouter"> paupiettes </ingredient> . faire <operation> dorer </operation> quelques minutes et <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter"> vin </ingredient> blanc . <operation> couvrir </operation> et laisser <operation> mijoter </operation> un quart d' heure environ . <operation> découvrir </operation> et laisser encore <operation> mijoter </operation> quelques minutes sans couvercle . servir . idéal pour le repas du soir .
+</preparation>
+</recette>

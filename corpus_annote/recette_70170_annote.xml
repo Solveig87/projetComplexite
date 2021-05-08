@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70170">
+<titre>Mini gâteaux chèvre et noix</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 yaourt</p>
+<p>3 oeufs</p>
+<p>3 pots de farine fluide</p>
+<p>1 pot d'huile</p>
+<p>1/2 sachet de levure</p>
+<p>30 cerneaux de noix</p>
+<p>200 g de fromage de chèvre</p>
+<p>100 g d'emmental râpé</p>
+<p>1/4 de cuillère à café de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt;oeufs;sel"> battre </operation> le <ingredient action="battre" quantite="1"> yaourt </ingredient> avec les <ingredient action="battre" quantite="3"> oeufs </ingredient> et le <ingredient action="battre"> sel </ingredient> . <operation ingredients="levure;farine"> mêler </operation> la <ingredient action="mêler"> levure </ingredient> et la <ingredient action="mêler" quantite="3 pot"> farine </ingredient> , <operation> versez </operation> - les dans la préparation . <operation> mélanger </operation> bien . <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter" quantite="1 pot"> huile </ingredient> , <operation> mélanger </operation> à nouveau . <operation ingredients="noix;fromage"> mettre </operation> les <ingredient action="mettre"> noix </ingredient> , le <ingredient action="mettre" quantite="200 gramme"> fromage </ingredient> de chèvre <operation ingredients="fromage"> coupé </operation> en dés et le <ingredient action="couper" quantite="200 gramme"> fromage </ingredient> râpé . <operation> mélanger </operation> un peu . <operation> beurrer </operation> des petits <operation> moules </operation> . cure au four 30 min thermostat 5 / 6 , 180 <operation> ° </operation> . s' <operation ingredients="salade"> accompagne </operation> très bien d' une <ingredient action="accompagne"> salade </ingredient> verte
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82878">
+<titre>Salade d'endives à la vache qui rit</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'endives</p>
+<p>8 portions de vache qui rit</p>
+<p>4 tranches de jambon blanc</p>
+<p>2-3 cuillères à soupe de moutarde</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="endives"> couper </operation> les feuilles d' <ingredient action="couper" quantite="1 kilogramme"> endives </ingredient> en morceaux de 1 cm . <operation ingredients="jambon;carrés"> couper </operation> le <ingredient action="couper" quantite="4 tranche"> jambon </ingredient> blanc en petits <ingredient action="couper"> carrés </ingredient> . <operation> couper </operation> la vache qui rit en petits morceaux . <operation ingredients="moutarde"> mettre </operation> la <ingredient action="mettre"> moutarde </ingredient> dans un bol et <operation ingredients="huile"> monter </operation> une sauce style mayo avec l' <ingredient action="monter" quantite="2 cuillère à soupe"> huile </ingredient> . <operation> ajouter </operation> la sauce à la préparation . déguster !
+</preparation>
+</recette>

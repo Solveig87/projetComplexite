@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82493">
+<titre>Pâtes à la julienne de légumes et tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de julienne de légumes surgelée</p>
+<p>1 boite de tomates concassées</p>
+<p>quelques lamelles de jambon de bayonne</p>
+<p>180 g de pâtes</p>
+<p>2 gousses d'ail</p>
+<p>2 cuilères à soupe d'huile olive</p>
+<p>1 cuillère à soupe de ricotta</p>
+<p>sel et poivre</p>
+<p>piment d'espelette</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;thym;sel;poivre"> cuire </operation> 10 minutes au micro-ondes la julienne de <ingredient action="cuire"> légumes </ingredient> avec un peu de <ingredient action="cuire"> thym </ingredient> , du <ingredient action="cuire" quantite=""> sel </ingredient> et du <ingredient action="cuire"> poivre </ingredient> . faire <operation ingredients="huile"> revenir </operation> 5 minutes cette julienne dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="gousse;tomates;sel"> ajouter </operation> une <ingredient action="ajouter" quantite="2"> gousse </ingredient> d' ail <operation> écrasée </operation> et les <ingredient action="ajouter"> tomates </ingredient> <operation> concassées </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> poivre et piment ; laisser <operation> mijoter </operation> 20 minutes . <operation> ajouter </operation> 1 cuillère à soupe de ricotta et <operation ingredients="pâtes"> mélanger </operation> aux <ingredient action="mélanger" quantite="180 gramme"> pâtes </ingredient> préalablement <operation> cuites </operation> .
+</preparation>
+</recette>

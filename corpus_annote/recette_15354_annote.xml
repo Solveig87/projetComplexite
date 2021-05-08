@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15354">
+<titre>Champignons à la Grecque</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>750 g de champignons de Paris</p>
+<p>15 petits oignons blancs</p>
+<p>1/4 litre de vin blanc sec</p>
+<p>1 verre d'eau</p>
+<p>1dl d'huile d'olive</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>2 citrons</p>
+<p>15 graines de coriandre</p>
+<p>laurier et thym</p>
+<p>2 morceaux de sucre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="vin;huile;jus;citrons;sucre"> mettre </operation> l' eau , le <ingredient action="mettre"> vin </ingredient> , l' <ingredient action="mettre" quantite="1dl"> huile </ingredient> , la sauce tomate , le <ingredient action="mettre"> jus </ingredient> des deux <ingredient action="mettre" quantite="2"> citrons </ingredient> , les 2 morceaux de <ingredient action="mettre"> sucre </ingredient> et les aromates . <operation> porter </operation> à <operation> ébullition </operation> puis laisser <operation> mijoter </operation> doucement une dizaine de minutes . pendant ce temps , <operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="750 gramme"> champignons </ingredient> , les <operation> couper </operation> en 4 et <operation ingredients="oignons"> éplucher </operation> les <ingredient action="éplucher" quantite="15"> oignons </ingredient> . les <operation> ajouter </operation> dans la casserole et <operation> cuire </operation> doucement à <operation> couvert </operation> pendant 15 à 20 min . servir frais .
+</preparation>
+</recette>

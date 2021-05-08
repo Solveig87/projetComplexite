@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23925">
+<titre>Salade de thon à la banane (Tahiti)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de thon nature </p>
+<p>300 g de thon germon cuit</p>
+<p>3 bananes à peine mûres</p>
+<p>100 g de riz</p>
+<p>2 poivrons rouges</p>
+<p>crème fraîche (selon le goût)</p>
+<p>curry (selon le goût)</p>
+<p>sel et poivre </p>
+<p>huile et vinaigre</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="100 gramme"> riz </ingredient> ( mais attention , il doit rester ferme ) . le laisser refroidir . <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter" quantite="300 gramme"> thon </ingredient> . <operation ingredients="poivrons;bananes"> découper </operation> les <ingredient action="découper"> poivrons </ingredient> en petits dés et les <ingredient action="découper" quantite="3"> bananes </ingredient> en rondelles . <operation ingredients="vinaigre"> mélanger </operation> le tout et <operation> verser </operation> la sauce <operation ingredients="crème;sel;poivre"> composée </operation> d' une grosse cuillerée de <ingredient action="composer" quantite=""> crème </ingredient> , d’ une pincée de <ingredient action="composer" quantite=""> sel </ingredient> et de <ingredient action="composer"> poivre </ingredient> , de 5 cuillères à soupe d' huile et de 2 de <ingredient action="mélanger"> vinaigre </ingredient> . <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> curry </ingredient> . servir très frais .
+</preparation>
+</recette>

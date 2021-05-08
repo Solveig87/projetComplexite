@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83316">
+<titre>Velouté courgette, fenouil et boursin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros fenouil</p>
+<p>3 petites courgettes</p>
+<p>2 oignons</p>
+<p>3 petites pommes de terres</p>
+<p>1 cube bouillon de légumes</p>
+<p>1 portion de boursin ou autre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 pincée de gros sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil;oignons;pommes"> éplucher </operation> le <ingredient action="éplucher" quantite="1"> fenouil </ingredient> , les <ingredient action="éplucher" quantite="2"> oignons </ingredient> , les courgettes et les <ingredient action="éplucher" quantite="3"> pommes </ingredient> de terre . puis <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="1;2;3"> légumes </ingredient> en petits morceaux et les faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive pendant 5 minutes en <operation> remuant </operation> . <operation> couvrir </operation> d' eau , <operation ingredients="sel;bouillon"> ajouter </operation> le gros <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> ainsi que le cube de <ingredient action="ajouter"> bouillon </ingredient> de légumes et laisser <operation> cuire </operation> environ 25 minutes . <operation> retirer </operation> du feu et récupérer un peu de <ingredient> bouillon </ingredient> que l' on réserve au cas où le velouté serait trop épais . <operation ingredients="boursin"> ajouter </operation> la portion de <ingredient action="ajouter"> boursin </ingredient> avant de <operation> moudre </operation> le tout . déguster bien chaud . ce velouté est très léger et convient parfaitement comme entrée .
+</preparation>
+</recette>

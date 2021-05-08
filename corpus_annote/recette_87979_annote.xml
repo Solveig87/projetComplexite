@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87979">
+<titre>Oeuf au maroilles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 cl de crème liquide</p>
+<p>25 g de maroilles (ou un pot de crème de maroilles)</p>
+<p>1 pincée de gruyère</p>
+<p>4 œufs</p>
+<p>sel</p>
+<p>poivre</p>
+<p>2 ramequins moyens</p>
+</ingredients>
+<preparation>
+<operation ingredients="maroilles"> couper </operation> le <ingredient action="couper" quantite="25 gramme"> maroilles </ingredient> en petits morceaux dans une casserole . <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite="20 cl"> crème </ingredient> . laisser <operation> chauffer </operation> à feu doux jusqu' à ce que le <ingredient action="fondre" quantite="25 gramme"> maroilles </ingredient> soit <operation ingredients="maroilles"> fondu </operation> . casser 2 <ingredient quantite="4"> œufs </ingredient> par ramequins . <operation ingredients="œufs"> saler </operation> et <operation> poivrer </operation> les <ingredient action="saler" quantite="4"> œufs </ingredient> . <operation> verser </operation> par dessus le <operation> mélange </operation> crème / <ingredient quantite="25 gramme"> maroilles </ingredient> . <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 pincée"> gruyère </ingredient> . <operation> passer </operation> au four 5 a 10 min selon si vous voulez les <ingredient quantite="4"> œufs </ingredient> coulants ou bien cuits .
+</preparation>
+</recette>

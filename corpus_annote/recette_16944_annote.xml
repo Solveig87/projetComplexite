@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16944">
+<titre>Porc au caramel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>2 échalotes </p>
+<p>3 gousses d'ail</p>
+<p>600 g de viande de porc</p>
+<p>1 flacon de caramel liquide</p>
+<p>4 cuillères à soupe de nuoc mam voire plus</p>
+<p>riz basmati pour 4 personnes</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hacher </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> , l' <ingredient action="couper"> ail </ingredient> et les <ingredient action="couper" quantite="2"> échalotes </ingredient> , <operation ingredients="ail;échalotes;viande"> couper </operation> la <ingredient action="couper" quantite="600 gramme"> viande </ingredient> en petits morceaux . dans une <operation> poêle </operation> faire <operation ingredients="viande;huile;ail;échalotes"> revenir </operation> la <ingredient action="revenir" quantite="600 gramme"> viande </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> puis <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> , l' <ingredient action="revenir"> ail </ingredient> et les <ingredient action="revenir" quantite="2"> échalotes </ingredient> . une fois le tout revenu , <operation> ajouter </operation> le caramel et le nuoc mam et laisser <operation> cuire </operation> à feu doux pendant 10 mn . <operation> ajuster </operation> selon votre qoût . <operation> ajouter </operation> un demi verre d' eau et faire <operation> réduire </operation> 10 mn environ . servir avec le <ingredient quantite=""> riz </ingredient> .
+</preparation>
+</recette>

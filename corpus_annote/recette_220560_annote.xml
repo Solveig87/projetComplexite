@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220560">
+<titre>Salade cubaine</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de haricots rouges</p>
+<p>150 g de thon au naturel</p>
+<p>1/2 poivron vert</p>
+<p>2 tomates grappe</p>
+<p>1 avocat</p>
+<p>1 oignon rouge</p>
+<p>1 bouquet de coriandre</p>
+<p>5 cuillères à soupe d'huile d'olive</p>
+<p>3 cuillères à soupe de vinaigre de vin rouge</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> égoutter </operation> et <operation ingredients="haricots;thon"> rincer </operation> les <ingredient action="rincer" quantite="250 gramme"> haricots </ingredient> et le <ingredient action="rincer" quantite="150 gramme"> thon </ingredient> . <operation ingredients="poivrons"> couper </operation> en deux et <operation> épépiner </operation> les <ingredient action="couper"> poivrons </ingredient> , et les <operation> couper </operation> en lanières . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en 4 , <operation> ôter </operation> le pédoncule et <operation> couper </operation> les quartiers en gros cubes . <operation ingredients="avocat"> scinder </operation> l' <ingredient action="scinder" quantite="1"> avocat </ingredient> en 2 et <operation> ôter </operation> le noyau . <operation ingredients="chair"> trancher </operation> la <ingredient action="trancher"> chair </ingredient> en gros cubes dans la peau et la <operation> retirer </operation> avec une cuillère . <operation> peler </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . <operation ingredients="coriandre"> laver </operation> et <operation> effeuiller </operation> la <ingredient action="laver"> coriandre </ingredient> . garder quelques sommités pour la déco et le reste . <operation ingredients="thon"> verser </operation> dans un grand saladier le <ingredient action="verser" quantite="150 gramme"> thon </ingredient> et l' <operation> écraser </operation> grossièrement à la fourchette . <operation ingredients="haricots;poivron;tomate;avocat;oignon;coriandre"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> haricots </ingredient> rouges , le <ingredient action="ajouter"> poivron </ingredient> , les dés de <ingredient action="ajouter" quantite="2"> tomate </ingredient> et d' <ingredient action="ajouter" quantite="1"> avocat </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> et la <ingredient action="ajouter"> coriandre </ingredient> <operation> ciselée </operation> . <operation ingredients="huile;vinaigre"> verser </operation> l' <ingredient action="verser" quantite="5 cuillère à soupe"> huile </ingredient> d' olive et le <ingredient action="verser" quantite="3 cuillère à soupe"> vinaigre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et bien <operation> mélanger </operation> .
+</preparation>
+</recette>

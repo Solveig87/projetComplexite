@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83436">
+<titre>Poulet cuit à la cocotte</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros poulet fermier</p>
+<p>3 gros oignons</p>
+<p>1 boite de champignons de Paris</p>
+<p>1 gros morceau de beurre</p>
+<p>Thym, laurier, sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> votre <ingredient action="découper" quantite="1"> poulet </ingredient> en morceaux . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans la cocotte et y faire <operation ingredients="poulet"> revenir </operation> le <ingredient action="revenir" quantite="1"> poulet </ingredient> jusqu' à ce qu' il obtienne une belle coloration brune . <operation ingredients="poulet"> réserver </operation> les morceaux de <ingredient action="réserver" quantite="1"> poulet </ingredient> dans un plat . <operation ingredients="oignons"> incorporer </operation> les <ingredient action="incorporer" quantite="3"> oignons </ingredient> préalablement <operation ingredients="champignons"> coupés </operation> en lamelles et les <ingredient action="couper"> champignons </ingredient> jusqu' à coloration . <operation ingredients="poulet;thym;laurier"> remettre </operation> le <ingredient action="remettre" quantite="1"> poulet </ingredient> dans la cocotte et <operation> mettre </operation> un fond d' eau pour éviter que ça ne brûle , ainsi que le <ingredient action="remettre" quantite=""> thym </ingredient> et le <ingredient action="remettre" quantite=""> laurier </ingredient> . laisser <operation> mijoter </operation> doucement 2 heures
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28282">
+<titre>Salade paysanne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>2 tomates</p>
+<p>salade verte</p>
+<p>lardons fumés</p>
+<p>huile, vinaigre</p>
+<p>moutarde</p>
+<p>sel poivre</p>
+<p>échalote</p>
+<p>croûtons</p>
+</ingredients>
+<preparation>
+prendre des coupelles individuelles . faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> durs et laisser refroidir . <operation ingredients="salade"> mettre </operation> de la <ingredient action="mettre" quantite=""> salade </ingredient> <operation> coupée </operation> finement dans les coupelles . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en quartiers et les <operation ingredients="salade"> disposer </operation> sur la <ingredient action="disposer" quantite=""> salade </ingredient> . <operation ingredients="oeufs"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> en 4 et les <operation> disposer </operation> dans les coupelles . <operation ingredients="échalotes"> faire </operation> une vinaigrette avec des <ingredient action="faire" quantite=""> échalotes </ingredient> et la <operation ingredients="salades"> verser </operation> sur les <ingredient action="verser" quantite=""> salades </ingredient> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> dans une <operation> poêle </operation> et <operation ingredients="croûtons"> ajouter </operation> les <ingredient action="ajouter" quantite=""> croûtons </ingredient> pour les <operation> réchauffer </operation> . les <operation> répartir </operation> sur les coupelles .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70552">
+<titre>Spaghetti aux crevettes et pesto rouge pimenté</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 ou 7 grosses crevettes cuites et décortiquées par personne</p>
+<p>80g de spaghetti ou linguine par personne</p>
+<p>Pour le pesto pimenté:</p>
+<p>400g de tomates pelées au jus</p>
+<p>2 c. à soupe de concentré de tomate</p>
+<p>1/2 botte de basilic</p>
+<p>50g de parmesan rapé </p>
+<p>2 gousses d'ail</p>
+<p>4 c. à soupe d'huile d'olive</p>
+<p>piment de cayenne (dosage selon le goût :))</p>
+<p>sel, poivre</p>
+<p>Parmesan rapé pour servir</p>
+</ingredients>
+<preparation>
+<operation ingredients="pesto;basilic;parmesan;gousses"> préparez </operation> le <ingredient action="préparer"> pesto </ingredient> : <operation ingredients="tomates;jus"> versez </operation> les <ingredient action="verser" quantite="400 gramme"> tomates </ingredient> <operation> pelées </operation> et leur <ingredient action="verser"> jus </ingredient> , le <operation> concentré </operation> , le <ingredient action="préparer"> basilic </ingredient> , le <ingredient action="préparer" quantite="50 gramme"> parmesan </ingredient> et les <ingredient action="préparer" quantite="2"> gousses </ingredient> d' ail dans le <operation> mixer </operation> . <operation> mixez </operation> jusqu' à obtention d' une sauce homogène . <operation ingredients="huile"> ajoutez </operation> l' <ingredient action="ajouter"> huile </ingredient> d' olive , puis <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre et piment selon le goût . laissez <operation ingredients="crevettes;pesto"> mariner </operation> les <ingredient action="mariner" quantite="6"> crevettes </ingredient> dans ce <ingredient action="mariner"> pesto </ingredient> . juste avant de servir , faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . mieux vaut les garder fermes , car elles continuent de <operation> cuire </operation> dans la sauce . pendant ce temps , <operation ingredients="pesto;crevettes"> faites </operation> <operation> réchauffer </operation> le <ingredient action="faire"> pesto </ingredient> avec les <ingredient action="faire" quantite="6"> crevettes </ingredient> à feu doux . <operation ingredients="pâtes"> mélangez </operation> les <ingredient action="mélanger"> pâtes </ingredient> et la sauce , <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> parmesan </ingredient> , et servez . un bon <ingredient> vin </ingredient> rouge italien . le top : un nero d' avola !
+</preparation>
+</recette>

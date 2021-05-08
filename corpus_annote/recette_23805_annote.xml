@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23805">
+<titre>Gnocchi au gorgonzola et parmesan</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de gnocchi de pomme de terre</p>
+<p>75 g de gorgonzola</p>
+<p>40 g de parmesan râpé</p>
+<p>50 g de beurre</p>
+<p>10 cl de crème liquide</p>
+<p>10 cl de bouillon</p>
+<p>1 cuillère à café de concentré de tomate</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="gnocchi"> cuire </operation> les <ingredient action="cuire" quantite="800 gramme"> gnocchi </ingredient> à l' eau bouillante <operation> salée </operation> ( ils sont <operation> cuits </operation> quand ils remontent à la surface ) . faites <operation ingredients="beurre;gorgonzola"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> et le <ingredient action="fondre" quantite="75 gramme"> gorgonzola </ingredient> <operation> écrasé </operation> à la fourchette dans une grande casserole . <operation ingredients="bouillon"> mouillez </operation> avec le <ingredient action="mouiller" quantite="10 cl"> bouillon </ingredient> , <operation ingredients="tomates"> ajoutez </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> et <operation> remuez </operation> . <operation> egouttez </operation> les <ingredient action="mettre" quantite="800 gramme"> gnocchi </ingredient> , <operation ingredients="gnocchi"> mettez </operation> - les dans la casserole et <operation> mélangez </operation> délicatement . <operation ingredients="parmesan;crème"> ajoutez </operation> le <ingredient action="ajouter" quantite="40 gramme"> parmesan </ingredient> et la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> liquide , <operation> mélangez </operation> et servez .
+</preparation>
+</recette>

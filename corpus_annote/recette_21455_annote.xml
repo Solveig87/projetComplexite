@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21455">
+<titre>Rôti de porc en salade</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de restes de rôti de porc (filet)</p>
+<p>1 laitue (quelques feuilles)</p>
+<p>2 tomates</p>
+<p>2 oeufs durs</p>
+<p>4 gros cornichons</p>
+<p>1 poignée d'olives dénoyautées</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>1 échalote ciselée</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>3 cuillères à soupe de vinaigre</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> ciselez </operation> la <ingredient action="ciseler"> salade </ingredient> en lanières . <operation ingredients="viande;tomates;cornichons"> découpez </operation> la <ingredient action="découper"> viande </ingredient> en petits dés , les <ingredient action="découper" quantite="2"> tomates </ingredient> égalements et les <ingredient action="découper" quantite="4"> cornichons </ingredient> en rondelles . <operation ingredients="oeufs"> coupez </operation> les <ingredient action="couper" quantite="2"> oeufs </ingredient> en quartiers . <operation ingredients="salade"> disposez </operation> la <ingredient action="disposer"> salade </ingredient> dans un plat creux , <operation ingredients="viande;tomates;cornichons"> répartissez </operation> dessus la <ingredient action="répartir"> viande </ingredient> , les <ingredient action="répartir" quantite="2"> tomates </ingredient> , les <ingredient action="répartir" quantite="4"> cornichons </ingredient> . puis les <ingredient> olives </ingredient> et les quartiers d' <ingredient quantite="2"> oeufs </ingredient> durs . <operation> mélangez </operation> tous les autres ingrédients pour <operation> préparer </operation> la sauce , puis <operation ingredients="salade"> versez </operation> - la sur la <ingredient action="verser"> salade </ingredient> . <operation> réservez </operation> au frais ou servez aussitôt .
+</preparation>
+</recette>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82140">
+<titre>Délice de poireaux à la chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poireaux</p>
+<p>10 cl de lait</p>
+<p>3 tranches de bûches de chèvres</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux"> revenir </operation> les blancs de <ingredient action="revenir"> poireaux </ingredient> <operation> coupés </operation> en rondelle dans une <operation> poêle </operation> pendant 10 minutes . une fois que les blancs sont bien <operation> cuits </operation> , les <operation> mixer </operation> puis <operation ingredients="lait;fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> lait </ingredient> et les tranches de <ingredient action="ajouter"> fromage </ingredient> de chèvre . <operation> mixer </operation> le tout légèrement . cette entrée est idéale pour une présentation en verrine .
+</preparation>
+</recette>

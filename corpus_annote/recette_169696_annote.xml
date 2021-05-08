@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169696">
+<titre>Petit pain à l'omelette et au guacamole</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit pain au sésame (pistolet)</p>
+<p>3 ou 4 cuillères à soupe de guacamole épicé</p>
+<p>1/2 poivron rouge</p>
+<p>1 œuf</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron"> détailler </operation> le <ingredient action="détailler"> poivron </ingredient> en petits dés . faire <operation ingredients="poivron;margarine"> revenir </operation> le <ingredient action="revenir"> poivron </ingredient> dans de la <ingredient action="revenir"> margarine </ingredient> ( une dizaine de minutes ) . <operation ingredients="œuf;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> œuf </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> et " brouiller " la préparation . <operation ingredients="pain"> couper </operation> le petit <ingredient action="couper" quantite="1"> pain </ingredient> en deux et <operation> réchauffer </operation> les deux moitiés ( 40 secondes au micro-onde ) <operation ingredients="pain"> tartiner </operation> généreusement chaque moitié de <ingredient action="tartiner" quantite="1"> pain </ingredient> de guacamole . <operation ingredients="œuf"> répartir </operation> la moitié de l' <ingredient action="répartir" quantite="1"> œuf </ingredient> brouillé sur chaque moitié . petit snack sympa et rapideétonnamment , c' est même assez joli !
+</preparation>
+</recette>

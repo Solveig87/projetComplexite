@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222602">
+<titre>Salade ananas, mangue, aux herbes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 ananas</p>
+<p>1/2 mangue</p>
+<p>1 bouquet de menthe</p>
+<p>un peu de coriandre frais</p>
+<p>2 citrons</p>
+<p>1 cuillère à café de sucre</p>
+<p>1 gousse d'ail</p>
+<p>220 g de cœurs de palmier</p>
+<p>100 g de mini épis de maïs</p>
+<p>un peu de gingembre frais</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="mangue;ananas"> couper </operation> finement en très petites lamelles la <ingredient action="couper"> mangue </ingredient> ( pas trop mûre ) et l' <ingredient action="couper"> ananas </ingredient> . <operation ingredients="menthe"> ajouter </operation> <ingredient action="ajouter"> menthe </ingredient> et coriandre <operation> ciselées </operation> . cœurs de <ingredient> palmiers </ingredient> <operation> coupés </operation> en rondelles et <ingredient quantite="100 gramme"> épis </ingredient> de maïs <operation> coupés </operation> en 2 . <operation ingredients="assaisonnement;jus;sucre"> préparer </operation> l' <ingredient action="préparer" quantite="1;"> assaisonnement </ingredient> avec le <ingredient action="préparer"> jus </ingredient> de citron , le <ingredient action="préparer" quantite="1 cuillère à café"> sucre </ingredient> , le <ingredient action="couper"> gingembre </ingredient> finement <operation ingredients="gingembre;huile"> coupé </operation> , un peu d' <ingredient action="couper" quantite=""> huile </ingredient> d' olive , et l' <ingredient action="couper"> ail </ingredient> finement <operation ingredients="ail"> coupé </operation> . <operation ingredients="assaisonnement;salade"> ajouter </operation> l' <ingredient action="ajouter" quantite="1;"> assaisonnement </ingredient> à la <ingredient action="ajouter"> salade </ingredient> .
+</preparation>
+</recette>

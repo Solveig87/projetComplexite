@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48662">
+<titre>Carpaccio de brocoli au parmesan</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tête de brocoli</p>
+<p>parmesan (entier, pas râpé)</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocoli"> cuire </operation> le <ingredient action="cuire"> brocoli </ingredient> à l' eau bouillante <operation> salée </operation> 3 à 4 minutes maximum , il faut qu' il reste bien ferme et <ingredient> croquant </ingredient> . une fois égoutté , le <operation ingredients="carpaccio"> laisser </operation> refroidir puis <operation> couper </operation> de très fines tranches dans l' épaisseur ( façon <ingredient action="laisser"> carpaccio </ingredient> ) . le <operation ingredients="rond"> disposer </operation> <operation> tranché </operation> sur un plat en <ingredient action="disposer"> rond </ingredient> . <operation ingredients="huile"> arroser </operation> d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et <operation ingredients="parmesan"> parsemer </operation> généreusement de copeaux de <ingredient action="parsemer" quantite=""> parmesan </ingredient> . <operation> mettre </operation> au frais au moins 30 minutes . déguster très frais . un rosé de provence
+</preparation>
+</recette>

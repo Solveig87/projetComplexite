@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73297">
+<titre>Salade de fruits estivale</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 oranges (en conserver 1 pour le jus)</p>
+<p>1 orange sanguine</p>
+<p>2 bananes</p>
+<p>3 kiwis</p>
+<p>100 g de fraises</p>
+<p>100 g de cerises</p>
+<p>2 pommes </p>
+<p>1 melon... ou fruits de saison que vous préférez !!!!!</p>
+<p>1 citron</p>
+<p>1 cuillère à soupe de sucre blanc en poudre</p>
+<p>1 pointe de cannelle</p>
+</ingredients>
+<preparation>
+tout d' abord , <operation ingredients="fruits"> éplucher </operation> tous les <ingredient action="éplucher" quantite="2+1;2;3;100 gramme;100 gramme;2;1"> fruits </ingredient> . <operation ingredients="cerises;melon"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="100 gramme"> cerises </ingredient> et <operation> épépiner </operation> le <ingredient action="dénoyauter" quantite="1"> melon </ingredient> . <operation ingredients="bananes;kiwis"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> et les <ingredient action="couper" quantite="3"> kiwis </ingredient> en rondelles . <operation ingredients="oranges"> segmenter </operation> en quartiers les <ingredient action="segmenter" quantite="2+1"> oranges </ingredient> et <operation> couper </operation> en 2 chacun des quartiers . <operation ingredients="pomme"> couper </operation> la <ingredient action="couper" quantite="2"> pomme </ingredient> en morceaux . a l' aide d' une cuillère à melon , <operation ingredients="melon"> faire </operation> des petites boules de <ingredient action="faire" quantite="1"> melon </ingredient> . <operation ingredients="fruits"> mettre </operation> tous les <ingredient action="mettre" quantite="2+1;2;3;100 gramme;100 gramme;2;1"> fruits </ingredient> dans un saladier . dans un bol , <operation ingredients="jus;orange;citron"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> d' une <ingredient action="mélanger" quantite="2+1"> orange </ingredient> et celui d' un demi <ingredient action="mélanger" quantite="1"> citron </ingredient> . y <operation ingredients="cannelle"> ajouter </operation> la cuillère à soupe de sucre et la pointe de <ingredient action="ajouter"> cannelle </ingredient> . <operation ingredients="salade"> mélanger </operation> et <operation> incorporer </operation> dans la <ingredient action="mélanger"> salade </ingredient> de fruits . <operation> mettre </operation> au frigo jusqu' au moment de servir . servir dans des coupelles <operation ingredients="glace;vanille;fraise"> accompagné </operation> d' une boule de <ingredient action="accompagner"> glace </ingredient> <ingredient action="accompagner"> vanille </ingredient> ou noix de coco ou sorbet <ingredient action="accompagner" quantite="100 gramme"> fraise </ingredient> selon les goûts de vos hôtes . cette <ingredient> salade </ingredient> de fruit rafraîchit durant l' été et après un bon barbecue , ca fait du bien ! ! ! ! !
+</preparation>
+</recette>

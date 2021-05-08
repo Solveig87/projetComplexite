@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53587">
+<titre>Verrines vert grenouille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de petits pois</p>
+<p>1 avocat mûr</p>
+<p>100 g de crevettes cuites</p>
+<p>1 petit oignon</p>
+<p>jus de citron</p>
+<p>1 cuillère à soupe de crème</p>
+<p>sel, poivre, tabasco</p>
+<p>mayonnaise et ketchup (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat;jus"> mixer </operation> l' <ingredient action="mixer" quantite="1"> avocat </ingredient> avec un filet de <ingredient action="mixer" quantite=""> jus </ingredient> de citron , <operation> réserver </operation> . <operation ingredients="pois"> mixer </operation> les petits <ingredient action="mixer" quantite="50 gramme"> pois </ingredient> , la <ingredient quantite="1 cuillère à soupe"> crème </ingredient> et l' <ingredient quantite="1"> oignon </ingredient> ; <operation> réserver </operation> . <operation ingredients="assaisonnement"> ajuster </operation> l' <ingredient action="ajuster" quantite=";;;"> assaisonnement </ingredient> . <operation ingredients="crevettes;mayonnaise;ketchup;tabasco"> mélanger </operation> les <ingredient action="mélanger" quantite="100 gramme"> crevettes </ingredient> avec la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> , le <ingredient action="mélanger"> ketchup </ingredient> et le <ingredient action="mélanger" quantite=""> tabasco </ingredient> . <operation ingredients="avocat;crevettes;pois"> faire </operation> une couche d' <ingredient action="faire" quantite="1"> avocat </ingredient> au fond , une couche de <ingredient action="faire" quantite="100 gramme"> crevettes </ingredient> et une couche de petits <ingredient action="faire" quantite="50 gramme"> pois </ingredient> . servir avec du bon <ingredient> pain </ingredient> croustillant ou plus légèrement avec des feuilles d' <ingredient> endives </ingredient> . bon appétit !
+</preparation>
+</recette>

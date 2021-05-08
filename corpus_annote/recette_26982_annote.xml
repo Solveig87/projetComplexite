@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26982">
+<titre>Soufflé au comté</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 cl de lait</p>
+<p>20 g de maïzena</p>
+<p>50 g de comté râpé</p>
+<p>3 œufs</p>
+<p>sel, poivre</p>
+<p>noix muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> prélever </operation> 5 cl de <ingredient action="prélever" quantite="25 cl"> lait </ingredient> , puis y <operation ingredients="maïzena"> délayer </operation> la <ingredient action="délayer" quantite="20 gramme"> maïzena </ingredient> . <operation ingredients="lait;sel;poivre;muscade"> porter </operation> le reste du <ingredient action="porter" quantite="25 cl"> lait </ingredient> à <operation> ébullition </operation> avec le <ingredient action="porter" quantite=""> sel </ingredient> , le <ingredient action="porter" quantite=""> poivre </ingredient> et la <ingredient action="porter"> muscade </ingredient> . <operation ingredients="maïzena"> incorporer </operation> la <ingredient action="incorporer" quantite="20 gramme"> maïzena </ingredient> <operation ingredients="lait"> délayée </operation> dans le <ingredient action="délayer" quantite="25 cl"> lait </ingredient> et <operation> remuer </operation> jusqu' à épaississement . hors du feu , <operation ingredients="comté"> incorporer </operation> le <ingredient action="incorporer" quantite="50 gramme"> comté </ingredient> râpé , les jaunes d' <ingredient action="mélanger" quantite="3"> œufs </ingredient> et bien <operation ingredients="œufs"> mélanger </operation> . <operation> battre </operation> les blancs en neige , les <operation> mélanger </operation> vivement et rapidement au reste de la préparation . <operation> mettre </operation> au four 30 min à 180 <operation> ° </operation> c ( thermostat 6 ) . recette très légère , qui peut se <ingredient> manger </ingredient> <operation ingredients="salade"> accompagnée </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte ou <operation> composée </operation> .
+</preparation>
+</recette>

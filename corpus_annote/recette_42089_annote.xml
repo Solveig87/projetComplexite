@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42089">
+<titre>Soupe froide aux herbes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 yaourts natures</p>
+<p>bouillon de volaille</p>
+<p>2 oignons nouveaux</p>
+<p>quelques brins d'ail d'ours</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="bouillon"> préparer </operation> le <ingredient action="préparer" quantite=""> bouillon </ingredient> de volaille en adaptant la quantité à l' aide de vos bols à soupe puis laisser refroidir . pendant ce temps , <operation ingredients="oignons;ail"> laver </operation> et <operation> découper </operation> les <ingredient action="laver" quantite="2"> oignons </ingredient> nouveaux et l' <ingredient action="laver"> ail </ingredient> d' ours . <operation ingredients="yaourts;bouillon"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> yaourts </ingredient> avec le <ingredient action="mélanger" quantite=""> bouillon </ingredient> froid jusqu' à obtenir la consistance souhaitée puis <operation> ajouter </operation> les herbes . <operation> poivrer </operation> . pas besoin de <operation ingredients="bouillon"> saler </operation> grâce au <ingredient action="saler" quantite=""> bouillon </ingredient> . vous pouvez faire facilement varier cette <ingredient> soupe </ingredient> en <operation> changeant </operation> d' herbes
+</preparation>
+</recette>

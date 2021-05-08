@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16234">
+<titre>Pâté de chevreuil</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de chevreuil (épaule-cou)</p>
+<p>1 kg de gorge de porc </p>
+<p>500 g de foie de chevreuil </p>
+<p>100 g d'oignons </p>
+<p>400 g de chevreuil maigre détaillé en dés</p>
+<p>20 g d'ail</p>
+<p>60 g de sel</p>
+<p>10 g de poivre</p>
+<p>3 oeufs</p>
+<p>1 pointe de thym et laurier </p>
+<p>1/2 bouteille de vin rouge corsé</p>
+</ingredients>
+<preparation>
+<operation ingredients="viandes;oignons"> passer </operation> au moulin à viande ( <operation> grille </operation> moyenne ) les <ingredient action="passer" quantite="1 kilogramme+400 gramme;500 gramme"> viandes </ingredient> à l' exception des 400 g en dés et les <ingredient action="passer" quantite="100 gramme"> oignons </ingredient> . <operation ingredients="épices;vin;oeufs;pâte"> ajouter </operation> alors les <ingredient action="ajouter" quantite="20 gramme;60 gramme;10 gramme"> épices </ingredient> , le <ingredient action="ajouter"> vin </ingredient> et les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> jusqu' à obtention d' une <ingredient action="ajouter"> pâte </ingredient> homogène . <operation> mettre </operation> ce <operation> mélange </operation> dans une terrine préalablement <operation ingredients="saindoux"> graissée </operation> au <ingredient action="graisser"> saindoux </ingredient> . <operation> couvrir </operation> d' une feuille d' aluminium et <operation ingredients="pâté"> cuire </operation> ce <ingredient action="cuire"> pâté </ingredient> au four à 200 <operation> ° </operation> c pendant 1 à 2 heures , selon la grandeur de la terrine . une terrine de 800 à 1 kg exige environ 1 h 30 de cuisson . prendre soin de glisser de l' eau dans une grande <operation> plaque </operation> en dessous de la terrine , qui va saturer l' air du four . cette recette provient du restaurant ' <ingredient> sanglier </ingredient> des ardennes ' .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225004">
+<titre>Pâtes aux poireaux poivrons et petits lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 poireaux</p>
+<p>1 poivron</p>
+<p>1 petit oignon</p>
+<p>1 boite de lardons</p>
+<p>40 cl de crème fraiche liquide</p>
+<p>2 cuillères à soupe de fromage ail et fines herbes</p>
+<p>400 g de pâtes (quantité pour 4 personnes)</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poireaux"> couper </operation> les <ingredient action="couper" quantite="3"> poireaux </ingredient> en lamelles , les faire <operation> cuire </operation> à la vapeur pendant 15 minutes . <operation ingredients="poivron;oignon"> couper </operation> le <ingredient action="couper" quantite="1"> poivron </ingredient> , l' <ingredient action="couper" quantite="1"> oignon </ingredient> en dés . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> . une fois les <ingredient quantite="3"> poireaux </ingredient> <operation> cuits </operation> , les faire <operation ingredients="oignon;poivron"> revenir </operation> dans une <operation> poêle </operation> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et le <ingredient action="revenir" quantite="1"> poivron </ingredient> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à part . <operation> mélanger </operation> le tout dans la <operation> poêle </operation> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> fraiche , le <ingredient action="laisser" quantite="2 cuillère à soupe"> fromage </ingredient> <operation ingredients="fromage"> laisser </operation> <operation> mijoter </operation> 5 minutes . servir avec les <ingredient quantite="400 gramme"> pâtes </ingredient> et déguster !
+</preparation>
+</recette>

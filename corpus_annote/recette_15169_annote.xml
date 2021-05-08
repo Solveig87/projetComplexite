@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15169">
+<titre>Gourmandise aux amandes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de poudre d'amandes</p>
+<p>20 g de farine</p>
+<p>100 g de sucre glace</p>
+<p>50 g de beurre</p>
+<p>2 oeufs</p>
+<p>15 g de poudre de cacao </p>
+<p>50 g d'amandes effilées</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . <operation> réservez </operation> . dans un bol , <operation ingredients="amandes;sucre;oeufs"> mélangez </operation> la <operation> poudre </operation> d' <ingredient action="mélanger" quantite="50 gramme"> amandes </ingredient> , le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> un par un . <operation ingredients="farine;cacao;beurre"> incorporez </operation> la <ingredient action="incorporer" quantite="20 gramme"> farine </ingredient> , le <ingredient action="incorporer"> cacao </ingredient> et le <ingredient action="incorporer" quantite="50 gramme"> beurre </ingredient> <operation> fondu </operation> en dernier . laissez <operation> reposer </operation> 1 / 2 heures . préchauffez le four à thermostat 7 ( 210 <operation> ° </operation> c ) . <operation> etalez </operation> les caissettes sur une <operation> plaque </operation> de four . <operation> remplissez </operation> - les du <operation> mélange </operation> . <operation ingredients="amandes"> parsemez </operation> d' <ingredient action="parsemer" quantite="50 gramme"> amandes </ingredient> effilées . faites <operation> cuire </operation> pendant 6 à 7 mn , puis laissez refroidir .
+</preparation>
+</recette>

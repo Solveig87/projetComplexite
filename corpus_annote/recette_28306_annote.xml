@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28306">
+<titre>Poulet à la grecque</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet coupé en morceaux</p>
+<p>farine</p>
+<p>25 g de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>2 échalotes</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>3 tomates</p>
+<p>2 verres de vin blanc</p>
+<p>2 pincées de safran (ou curcuma) </p>
+<p>1 cuillère à soupe de curry</p>
+<p>100 g de raisins sec</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;farine"> roulez </operation> les morceaux de <ingredient action="rouler" quantite="1"> poulet </ingredient> dans la <ingredient action="rouler" quantite=""> farine </ingredient> . dans l' autocuiseur , faire <operation ingredients="beurre;huile"> chauffer </operation> le <ingredient action="chauffer" quantite="25 gramme"> beurre </ingredient> et l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> . y faire <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer" quantite="1"> poulet </ingredient> . <operation ingredients="échalotes"> emincez </operation> finement les <ingredient action="emincez" quantite="2"> échalotes </ingredient> , oignons et ail . les <operation> mettre </operation> à <operation ingredients="poulet"> revenir </operation> avec le <ingredient action="revenir" quantite="1"> poulet </ingredient> environ 5 min . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> en morceaux . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="2 verre"> vin </ingredient> blanc . <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="safran;curry"> ajouter </operation> le <ingredient action="ajouter" quantite="2 pincée"> safran </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> curry </ingredient> les raisins et <operation> saler </operation> , <operation> poivrer </operation> . fermer l' autocuiseur et laisser <operation> cuire </operation> 15 min à partir de la mise en pression . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

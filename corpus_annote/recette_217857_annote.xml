@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="217857">
+<titre>Orange caramélisée et son coulis de chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 oranges</p>
+<p>50 g de sucre</p>
+<p>50 g de chocolat pâtissier </p>
+<p>10 cl de lait</p>
+</ingredients>
+<preparation>
+tous les ingrédients doivent être servis tièdes ou chauds . <operation ingredients="oranges"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> oranges </ingredient> et <operation> détacher </operation> les segments . faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> chocolat </ingredient> à feu très doux dans le <ingredient action="fondre" quantite="10 cl"> lait </ingredient> chaud . faire caraméliser le <ingredient quantite="50 gramme"> sucre </ingredient> dans une <operation> poêle </operation> puis <operation ingredients="oranges"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oranges </ingredient> . les faire <operation> revenir </operation> à feu doux durant 3 minutes en les <operation> remuant </operation> délicatement pour les <operation> recouvrir </operation> de caramel . servir sur assiette . <operation ingredients="oranges"> mettre </operation> les quartiers d' <ingredient action="mettre" quantite="2"> oranges </ingredient> et le caramel au centre de l' assiette et <operation ingredients="chocolat"> mettre </operation> le coulis de <ingredient action="mettre" quantite="50 gramme"> chocolat </ingredient> autour .
+</preparation>
+</recette>

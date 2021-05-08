@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20632">
+<titre>Banana bread</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 bananes très mûres</p>
+<p>150 g de farine fermentante</p>
+<p>125 g de sucre fin</p>
+<p>100 g de beurre</p>
+<p>2 oeufs</p>
+<p>une pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre;sel"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> avec le <ingredient action="mélanger" quantite="125 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> . <operation ingredients="oeufs;beurre"> ajouter </operation> les 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> entiers puis le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> et terminer par les <ingredient quantite="3"> bananes </ingredient> que vous aurez au préalable <operation> mixées </operation> . <operation> cuire </operation> au four à 180 <operation> ° </operation> c pendant une petite heure . recette américaine
+</preparation>
+</recette>

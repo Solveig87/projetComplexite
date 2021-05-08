@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58190">
+<titre>Gâteau des imbéciles</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 paquets de petits beurres</p>
+<p>1 sachet de flan au chocolat</p>
+<p>1/2 litre de lait</p>
+<p>1 petite tasse de café</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> dans une casserole , y <operation> ajouter </operation> le sachet de flan . <operation ingredients="beurre;café"> tremper </operation> rapidement les petits <ingredient action="tremper"> beurre </ingredient> dans le <ingredient action="tremper"> café </ingredient> et les <operation> disposer </operation> dans un plat . <operation ingredients="beurre;beurre"> faire </operation> une couche de petits <ingredient action="faire"> beurre </ingredient> , une couche de flan , une couche de petits <ingredient action="faire"> beurre </ingredient> une couche de flan . <operation> mettre </operation> au frigo et attendre que le flan ait bien pris pour déguster ! ne <operation ingredients="beurre;café"> laissez </operation> pas vos petits <ingredient action="laisser"> beurre </ingredient> trop longtemps dans le <ingredient action="laisser"> café </ingredient> , il faut qu' ils s' <operation> imprègnent </operation> un peu mais qu' ils restent durs .
+</preparation>
+</recette>

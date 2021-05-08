@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81207">
+<titre>Tartines au magret de canard et aux pommes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 morceau de baguette</p>
+<p>12 tranches de magret de canard fumé</p>
+<p>1 pomme</p>
+<p>fromage râpé</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="baguette"> coupez </operation> le morceau de <ingredient action="couper"> baguette </ingredient> en deux dans le sens de la longueur . <operation ingredients="beurre"> tartinez </operation> de <ingredient action="tartinez"> beurre </ingredient> . <operation> epluchez </operation> et <operation ingredients="pomme"> coupez </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en rondelles et faites - les <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> pendant environ 5 min . quand elles sont un peu dorées , <operation> disposez </operation> - les sur les tartines . <operation ingredients="magret"> posez </operation> les tranches de <ingredient action="poser" quantite="12 tranche"> magret </ingredient> par dessus ( vous aurez <operation> enlevé </operation> le gras ) . <operation ingredients="gruyère"> saupoudrez </operation> de <ingredient action="saupoudrer"> gruyère </ingredient> <operation> râpé </operation> . <operation> enfournez </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 10 à 15 min . dégustez avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

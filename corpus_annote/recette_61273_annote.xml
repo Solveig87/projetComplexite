@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61273">
+<titre>Salade de riz au surimi et à la pomme</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>12 bâtonnets de surimi</p>
+<p>1 pomme</p>
+<p>1 grosse tomate</p>
+<p>100 g de gruyère</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> et le laisser refroidir . <operation ingredients="surimi;tomate;gruyère;pomme"> couper </operation> le <ingredient action="couper"> surimi </ingredient> en petits morceaux , la <ingredient action="couper" quantite="1"> tomate </ingredient> , le <ingredient action="couper" quantite="100 gramme"> gruyère </ingredient> et la <ingredient action="couper" quantite="1"> pomme </ingredient> en dés . <operation ingredients="riz;surimi;pomme;tomate;gruyère"> mélanger </operation> le <ingredient action="mélanger" quantite="250 gramme"> riz </ingredient> avec le <ingredient action="mélanger"> surimi </ingredient> , la <ingredient action="mélanger" quantite="1"> pomme </ingredient> , la <ingredient action="mélanger" quantite="1"> tomate </ingredient> et le <ingredient action="mélanger" quantite="100 gramme"> gruyère </ingredient> puis <operation ingredients="huile;vinaigre"> arroser </operation> d' <ingredient action="arroser" quantite="3 cuillère à soupe"> huile </ingredient> et de <ingredient action="arroser" quantite="1 cuillère à soupe"> vinaigre </ingredient> .
+</preparation>
+</recette>

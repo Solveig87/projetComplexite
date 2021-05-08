@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82502">
+<titre>Rassacache du chti (plat typique des anciens mineurs)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de haricots lingots</p>
+<p>3 carottes</p>
+<p>1 navet</p>
+<p>2 poireaux</p>
+<p>4 pommes de terre</p>
+<p>1 branche de céleri</p>
+<p>300 g de poitrine de porc fraiche</p>
+<p>1 feuille de laurier</p>
+<p>1 branche de thym</p>
+<p>5-6 choux de bruxelles</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="haricots"> tremper </operation> les <ingredient action="tremper" quantite="200 gramme"> haricots </ingredient> dans de l' eau froide toute une nuit . <operation> eplucher </operation> , <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="200 gramme;3;1;2;4;5"> légumes </ingredient> grossièrement et les <operation> laver </operation> . tout <operation ingredients="patates"> mettre </operation> dans une cocotte sauf les <ingredient action="mettre"> patates </ingredient> . ne pas oublier les <ingredient quantite="200 gramme"> haricots </ingredient> <operation> égoutés </operation> . <operation ingredients="légumes;bouquet"> placer </operation> au dessus des <ingredient action="placer" quantite="200 gramme;3;1;2;4;5"> légumes </ingredient> le lard entier et le <ingredient action="placer"> bouquet </ingredient> <operation> garni </operation> . <operation> couvrir </operation> d' eau , <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> cuire </operation> à feu moyen . a mi-cuisson , <operation ingredients="lard"> retirer </operation> le <ingredient action="retirer"> lard </ingredient> <operation> cuit </operation> , <operation> réserver </operation> au frais et <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> pommes </ingredient> de terre . servir soit en <ingredient> soupe </ingredient> avec les morceaux de <ingredient> lards </ingredient> froids <operation> coupés </operation> en dés ; soit comme ma maman le <operation ingredients="lards"> faisait </operation> : <operation ingredients="légumes"> placer </operation> les <ingredient action="placer" quantite="200 gramme;3;1;2;4;5"> légumes </ingredient> et les <operation ingredients="noisette"> écraser </operation> à la fourchettes avec une <ingredient action="écraser"> noisette </ingredient> de beurre , les morceaux de <ingredient action="faire"> lards </ingredient> froids en dés à <operation> mélanger </operation> dans cette " purée " . <operation ingredients="moutarde"> accompagner </operation> chaque fourchette d' une touche de <ingredient action="accompagner"> moutarde </ingredient> , c' est un délice ! c' est la version de ma famille , certains préfèrent la <ingredient> saucisse </ingredient> de morteau au lard et il existe quelques variantes selon les familles ( recette de mère en fille ) .
+</preparation>
+</recette>

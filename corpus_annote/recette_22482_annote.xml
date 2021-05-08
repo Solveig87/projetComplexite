@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22482">
+<titre>Nasi goreng</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz long grain</p>
+<p>12 grosses crevettes cuites décortiquées</p>
+<p>300 g de filet mignon de pporc</p>
+<p>4 oeufs</p>
+<p>15 cl de lait de coco</p>
+<p>2 oignons</p>
+<p>1 gousse d'ail</p>
+<p>2 oignons nouveaux, du gingembre</p>
+<p>1 cuillère à soupe de curry</p>
+<p>1 cuillère à soupe de sauce soja</p>
+<p>2 cuillères à soupe de coriandre fraîche hachée</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> 45 cl d' eau , <operation ingredients="riz"> verser </operation> le <ingredient action="verser"> riz </ingredient> et <operation> réduire </operation> le feu . <operation> couvrir </operation> et laisser <operation> cuire </operation> 20 mn jusqu' à complète absorption de l' eau . <operation ingredients="riz"> remuer </operation> les grains de <ingredient action="remuer"> riz </ingredient> avec une fourchette ; <operation> retirer </operation> du feu . <operation> emincer </operation> le filet mignon , <operation ingredients="oignons;ail"> émincer </operation> les <ingredient action="émincer" quantite="2+2"> oignons </ingredient> et l' <ingredient action="émincer"> ail </ingredient> . faire <operation ingredients="huile"> chauffer </operation> 2 cuillers d' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> dans une sauteuse et faire <operation ingredients="viande;crevettes;ail"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> et les <ingredient action="revenir" quantite="12"> crevettes </ingredient> , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2+2"> oignons </ingredient> , l' <ingredient action="revenir"> ail </ingredient> , le <ingredient action="revenir" quantite=""> gingembre </ingredient> et le <ingredient action="revenir" quantite="1 cuillère à soupe"> curry </ingredient> et les faire <operation ingredients="gingembre;curry"> revenir </operation> 2 mn ; <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="lait;soja"> verser </operation> le <ingredient action="verser" quantite="15 cl"> lait </ingredient> de coco et la sauce <ingredient action="verser"> soja </ingredient> , <operation> remuer </operation> et laisser <operation> cuire </operation> 5 mn . faire <operation ingredients="oeufs;huile"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> à la <operation> poêle </operation> avec le reste d' <ingredient action="cuire" quantite="3 cuillère à soupe"> huile </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> les blancs . <operation ingredients="riz"> mélanger </operation> le <ingredient action="mélanger"> riz </ingredient> à la sauce et le <operation> dresser </operation> sur un plat , <operation ingredients="oeufs"> déposer </operation> les <ingredient action="déposer" quantite="4"> oeufs </ingredient> dessus et <operation ingredients="coriandre"> parsemer </operation> de <ingredient action="parsemer" quantite="2 cuillère à soupe"> coriandre </ingredient> .
+</preparation>
+</recette>

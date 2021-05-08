@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73799">
+<titre>Cannelloni</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la farce :                                      </p>
+<p>3 échines de porc</p>
+<p>1 gousse d'ail </p>
+<p>1 œuf</p>
+<p>200 g de mie de pain trempée dans du lait</p>
+<p>Pour la sauce :</p>
+<p>400 g de purée de tomate</p>
+<p>gros sel</p>
+<p>3 cuillères à soupe d'huile d’olive</p>
+<p>poivre</p>
+<p>herbes de Provence</p>
+<p>20 cl d’eau</p>
+<p>1 cube de bouillon de bœuf</p>
+</ingredients>
+<preparation>
+pour les <ingredient> cannelloni </ingredient> : <operation> enlever </operation> les os et le gras des échines . <operation ingredients="viande"> couper </operation> la <ingredient action="couper"> viande </ingredient> en morceaux . <operation ingredients="ail;viande"> mixer </operation> l’ <ingredient action="mixer"> ail </ingredient> et la <ingredient action="mixer"> viande </ingredient> . <operation> mettre </operation> dans un saladier et <operation ingredients="œuf;pain"> ajouter </operation> un <ingredient action="ajouter" quantite="1"> œuf </ingredient> + la mie de <ingredient action="ajouter"> pain </ingredient> . <operation> mélanger </operation> . <operation> saler </operation> <operation> poivrer </operation> . <operation ingredients="pâtes"> farcir </operation> les <ingredient action="farcir"> pâtes </ingredient> . pour la sauce , <operation> mélanger </operation> tous les ingrédients et faire <operation> mijoter </operation> 45 minutes . <operation ingredients="pâtes"> cuire </operation> 35 minutes la sauce et les <ingredient action="cuire"> pâtes </ingredient> <operation> farcies </operation> à 210 <operation> ° </operation> c ( thermostat 7 ) dans un plat adapté au four .
+</preparation>
+</recette>

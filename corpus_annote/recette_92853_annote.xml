@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92853">
+<titre>Gratin d'asperge très facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g d'asperges vertes (en surgelé par ex)</p>
+<p>3 tranches de jambon blanc</p>
+<p>25 cl de crème</p>
+<p>Sel, poivre</p>
+<p>Gruyère</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> asperges </ingredient> ( 5 min à l' autocuiseur ) et essayez de bien les <operation> égoutter </operation> ( car cela donne bcp d' eau lors de la cuisson ) préchauffer votre four . dans un bol , <operation ingredients="crème;gruyère"> mélangez </operation> la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> avec sel poivre et un peu de <ingredient action="mélanger" quantite=""> gruyère </ingredient> dans votre plat , commencez par une couche de <ingredient quantite="3 tranche"> jambon </ingredient> blanc , une couche d' <ingredient quantite="500 gramme"> asperges </ingredient> et le <operation> mélange </operation> de <ingredient quantite="25 cl"> crème </ingredient> et recommencez pour finir par le <operation> mélange </operation> de <ingredient quantite="25 cl"> crème </ingredient> et <operation ingredients="gruyère"> mettre </operation> du <ingredient action="mettre" quantite=""> gruyère </ingredient> sur le dessus . <operation ingredients="gruyère"> mettre </operation> au four pour faire <operation> gratiner </operation> le <ingredient action="mettre" quantite=""> gruyère </ingredient> ( environ 5 à 10 min . th 200 <operation> ° </operation> à adapter selon votre four )
+</preparation>
+</recette>

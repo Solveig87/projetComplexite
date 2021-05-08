@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11491">
+<titre>Crème brûlée</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 jaunes d'oeufs</p>
+<p>40 cl de crème liquide</p>
+<p>25 cl de lait</p>
+<p>200 g de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> lait </ingredient> , <operation ingredients="crème;sucre"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> et le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> hors du feu . <operation ingredients="oeufs"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> , <operation> mettre </operation> à <operation> chauffer </operation> tout doucement ( surtout ne pas <operation> bouillir </operation> ) , puis <operation> verser </operation> dans de petits plats individuels . <operation> mettre </operation> au four au bain marie et laisser <operation> cuire </operation> doucement à 180 <operation> ° </operation> c environ 10 minutes . laisser refroidir puis <operation ingredients="sucre"> mettre </operation> dessus du <ingredient action="mettre" quantite="200 gramme"> sucre </ingredient> roux et le brûler avec un petit chalumeau de <operation> cuisine </operation> .
+</preparation>
+</recette>

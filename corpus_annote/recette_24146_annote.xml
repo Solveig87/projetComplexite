@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24146">
+<titre>Risotto aux légumes verts (courgettes, petits haricots verts)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de riz</p>
+<p>200 g de courgettes</p>
+<p>200 g de petits pois</p>
+<p>200 g de haricots verts</p>
+<p>200 g de pointes d'asperges</p>
+<p>50 g de beurre</p>
+<p>1 oignon</p>
+<p>1 l de bouillon de volaille</p>
+<p>10 cl de vin blanc</p>
+<p>2 cuillères à café de concentré de tomates</p>
+<p>1 cuillère à soupe de basilic haché</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="50 gramme"> beurre </ingredient> ey faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> pendant 5 min . <operation ingredients="riz;vin"> ajouter </operation> le <ingredient action="ajouter" quantite="400 gramme"> riz </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc . lorsque le <ingredient quantite="10 cl"> vin </ingredient> est évaporé , <operation ingredients="riz;bouillon"> mouiller </operation> le <ingredient action="mouiller" quantite="400 gramme"> riz </ingredient> d' une louche de <ingredient action="mouiller" quantite="1 l"> bouillon </ingredient> . <operation> assaisonner </operation> . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter" quantite="200 gramme"> pois </ingredient> , les courgettes en rondelles , les <ingredient quantite="200 gramme"> haricots </ingredient> verts <operation ingredients="asperges"> coupés </operation> en deux et les pointes d' <ingredient action="couper"> asperges </ingredient> . laisser <operation> mijoter </operation> 20 min en <operation ingredients="bouillon"> arrosant </operation> le tout régulièrement de <ingredient action="arroser" quantite="1 l"> bouillon </ingredient> . <operation ingredients="tomates;basilic"> incorporer </operation> le <operation> concentré </operation> de <ingredient action="incorporer"> tomates </ingredient> et le <ingredient action="incorporer" quantite="1 cuillère à soupe"> basilic </ingredient> , et faire <operation> cuire </operation> 3 min .
+</preparation>
+</recette>

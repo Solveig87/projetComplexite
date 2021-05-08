@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80218">
+<titre>Croque-monsieur minute sans four ni appareil</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie</p>
+<p>1 tranche de jambon</p>
+<p>60 g de gruyère</p>
+<p>crème fraîche épaisse et ciboulette pour les gourmands...</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;pain"> griller </operation> votre <ingredient action="griller" quantite="4 tranche"> pain </ingredient> de mie au <operation> grille </operation> - <ingredient action="griller" quantite="4 tranche"> pain </ingredient> . sur 2 des 4 tranches , <operation ingredients="jambon;gruyère;noix;ciboulette"> mettez </operation> votre <ingredient action="mettre" quantite="1 tranche"> jambon </ingredient> , votre <ingredient action="mettre" quantite="60 gramme"> gruyère </ingredient> et une bonne <ingredient action="mettre"> noix </ingredient> de crème avec de la <ingredient action="mettre"> ciboulette </ingredient> <operation> ciselée </operation> . <operation ingredients="pain"> remettez </operation> une tranche de <ingredient action="remettre" quantite="4 tranche"> pain </ingredient> de mie par dessus . <operation> passez </operation> 2 min au micro-ondes . vous obtenez en 2 temps , 3 mouvements des croques - monsieur moelleux et croustillants . a servir avec une petite <ingredient> salade </ingredient>
+</preparation>
+</recette>

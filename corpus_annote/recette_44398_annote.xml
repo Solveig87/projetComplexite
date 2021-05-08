@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44398">
+<titre>Pilons de poulet au porto et gambas</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>8 pilons de poulet</p>
+<p>2 échalotes</p>
+<p>4 tomates moyennes</p>
+<p>1/4 l de porto</p>
+<p>eau</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>12 gambas moyennes</p>
+</ingredients>
+<preparation>
+. faire <operation ingredients="échalotes;poulet"> rissoler </operation> les <ingredient action="rissoler" quantite="2"> échalotes </ingredient> avec le <ingredient action="rissoler"> poulet </ingredient> . . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> tomates </ingredient> <operation> pelées </operation> et <operation> concassées </operation> . . <operation ingredients="porto;bouillon"> incorporer </operation> le <ingredient action="incorporer"> porto </ingredient> et l' eau dans la <operation> poêle </operation> , avec le <ingredient action="incorporer"> bouillon </ingredient> de boeuf . . faire <operation> mijoter </operation> à feu doux . . faire <operation ingredients="gambas;beurre"> frire </operation> les <ingredient action="frire" quantite="12"> gambas </ingredient> dans du <ingredient action="frire"> beurre </ingredient> , et les <operation ingredients="poulet"> ajouter </operation> , une fois <operation> cuites </operation> , dans la cocotte avec le <ingredient action="ajouter"> poulet </ingredient> , et finir la cuisson à feu doux . servir avec de la <ingredient> semoule </ingredient> . bourgogne rouge
+</preparation>
+</recette>

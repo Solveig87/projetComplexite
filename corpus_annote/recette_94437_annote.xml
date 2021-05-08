@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94437">
+<titre>Croustillants au munster</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 morceaux de munster</p>
+<p>4 fines tranches de lard fumé</p>
+<p>4 feuilles de brick</p>
+<p>poivre, cumin (facultatif)</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="brick"> huiler </operation> légèrement les feuilles de <ingredient action="huiler" quantite="4 feuille"> brick </ingredient> avec un pinceau alimentaire . <operation ingredients="brick;munster"> déposer </operation> au centre de chaque feuille de <ingredient action="déposer" quantite="4 feuille"> brick </ingredient> une tranche de <ingredient> lard </ingredient> <operation> fumé </operation> , puis le morceau de <ingredient action="déposer"> munster </ingredient> . <operation ingredients="brick"> refermer </operation> la feuille de <ingredient action="refermer" quantite="4 feuille"> brick </ingredient> en pliant pour obtenir un petit paquet . <operation> mettre </operation> au four 10 minutes à 180 <operation> ° </operation> c , jusqu' a ce que les croustillants soient . . . croustillants et le <ingredient> fromage </ingredient> chaud et <operation> fondu </operation> ! miam ! gewurztraminer
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229113">
+<titre>Glace au chocolat coco au lait végétal</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 cl de crème de coco</p>
+<p>30 cl de lait d'avoine ou de riz</p>
+<p>60 g de chocolat 85%</p>
+<p>30 g de sucre roux</p>
+</ingredients>
+<preparation>
+dans une casserole faire <operation ingredients="chocolat;crème"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> chocolat </ingredient> dans la <ingredient action="fondre" quantite="20 cl"> crème </ingredient> de coco puis <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> sucre </ingredient> . sortir du feu une fois le <ingredient quantite="30 gramme"> sucre </ingredient> bien <operation> dissout </operation> et la texture de la <ingredient quantite="20 cl"> crème </ingredient> bien <operation> lisse </operation> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> végétal que vous avez <operation> choisi </operation> petit à petit . <operation> placer </operation> la préparation 2 h au congélateur . après 2 h <operation> mettre </operation> la préparation dans le bol de la sorbetière puis turbiner pendant 25 à 35 min selon le modèle de sorbetière . . . c' est prêt . . . bonne dégustation
+</preparation>
+</recette>

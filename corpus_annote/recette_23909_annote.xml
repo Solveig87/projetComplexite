@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23909">
+<titre>Linguine aux brocolis, raisins et pignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de linguines (spaghetti plats)</p>
+<p>600 g de brocolis</p>
+<p>1 oignon</p>
+<p>100 g de parmesan en bloc</p>
+<p>1 poignée de raisins secs</p>
+<p>1 poignée de pignons</p>
+<p>5 à 10 cl d'huile d’olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire" quantite="600 gramme"> brocolis </ingredient> à l' eau bouillante <operation> salée </operation> 5 min de manière à ce qu’ ils restent un peu fermes . <operation> egouttez </operation> - les et <operation> découpez </operation> - les en petits <ingredient> bouquets </ingredient> . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente à l' eau bouillante <operation> salée </operation> . pendant la cuisson des <ingredient action="colorer"> pâtes </ingredient> , faites <operation ingredients="pâtes;oignon;huile"> colorer </operation> l' <ingredient action="colorer" quantite="1"> oignon </ingredient> <operation> haché </operation> dans l' <ingredient action="colorer"> huile </ingredient> chaude à la sauteuse . <operation ingredients="brocolis"> ajoutez </operation> les <ingredient action="ajouter" quantite="600 gramme"> brocolis </ingredient> , baissez le feu et laissez - les s' <operation> attendrir </operation> en purée . <operation ingredients="pâtes;parmesan;raisins;pignons"> ajoutez </operation> alors les <ingredient action="ajouter"> pâtes </ingredient> <operation> égouttées </operation> , le <ingredient action="ajouter" quantite="100 gramme"> parmesan </ingredient> en copeaux , les <ingredient action="ajouter"> raisins </ingredient> secs et les <ingredient action="ajouter"> pignons </ingredient> . <operation> mélangez </operation> et laissez quelques minutes au chaud avant de servir .
+</preparation>
+</recette>

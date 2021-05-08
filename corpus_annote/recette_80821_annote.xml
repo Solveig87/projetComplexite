@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80821">
+<titre>Pêches à la crème d'amandes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses pêches</p>
+<p>2 oeufs</p>
+<p>100 g de sucre</p>
+<p>100 g d'amandes en poudre</p>
+<p>le jus d'1 orange</p>
+<p>1 cuillérée à soupe d'huile d'arachide</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> plusieurs heures à l' avance : <operation ingredients="oeufs;sucre;amandes;huile"> mélanger </operation> les jaunes d' <ingredient action="mélanger" quantite="2"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> , les <ingredient action="mélanger" quantite="100 gramme"> amandes </ingredient> et l' <ingredient action="mélanger"> huile </ingredient> . <operation> battre </operation> les blancs en neige puis les <operation> incorporer </operation> à la préparation . <operation ingredients="jus;orange"> ajouter </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> de l' <ingredient action="ajouter"> orange </ingredient> . <operation> eplucher </operation> les <ingredient quantite="4"> pêches </ingredient> , les <operation> couper </operation> en lamelles et les <operation> disposer </operation> dans un plat . <operation ingredients="pêches;crème"> napper </operation> les <ingredient action="napper" quantite="4"> pêches </ingredient> avec la <ingredient action="napper"> crème </ingredient> . <operation> mettre </operation> au frigo 4 heures .
+</preparation>
+</recette>

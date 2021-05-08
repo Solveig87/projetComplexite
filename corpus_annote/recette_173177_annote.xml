@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173177">
+<titre>Verrines chocolat-banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 banane</p>
+<p>2 boudoirs</p>
+<p>100 g de chocolat noir</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="banane"> couper </operation> la <ingredient action="couper" quantite="1"> banane </ingredient> avant de la <operation> passer </operation> dans un mixeur . <operation> mettre </operation> la purée obtenue au réfrigérateur en attendant de servir . faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> dans une casserole à feu doux . <operation ingredients="boudoirs"> émietter </operation> les <ingredient action="émietter" quantite="2"> boudoirs </ingredient> au fond de deux verrines , <operation ingredients="banane;chocolat"> ajouter </operation> la purée de <ingredient action="ajouter" quantite="1"> banane </ingredient> puis le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> <operation> fondu </operation> par dessus . bon appétit ! cette recette est très facile ( je n' ai que 13 ans ) : )
+</preparation>
+</recette>

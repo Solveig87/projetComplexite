@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22658">
+<titre>Crème à la fraise</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fraises</p>
+<p>100 g de sucre</p>
+<p>1 citron</p>
+<p>20 g de crème fraiche semi épaisse</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> laver </operation> les <ingredient action="laver" quantite="500 gramme"> fraises </ingredient> , les <operation> équeuter </operation> . en <operation> mettre </operation> de côté 5 ou 6 . <operation ingredients="fraises;jus;sucre"> mixer </operation> finement le reste des <ingredient action="mixer" quantite="500 gramme"> fraises </ingredient> avec le <ingredient action="mixer"> jus </ingredient> du citron et le <ingredient action="mixer" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="crème;fraises"> mélanger </operation> la <ingredient action="mélanger" quantite="20 gramme"> crème </ingredient> fraiche aux <ingredient action="mélanger" quantite="500 gramme"> fraises </ingredient> <operation> mixées </operation> . <operation ingredients="fraises"> couper </operation> les <ingredient action="couper" quantite="500 gramme"> fraises </ingredient> <operation> mises </operation> de côté en morceaux , les <operation> ajouter </operation> au reste et <operation> mélanger </operation> . servir dans des ramequins , <operation ingredients="menthe"> décoré </operation> de feuilles de <ingredient action="décorer"> menthe </ingredient>
+</preparation>
+</recette>

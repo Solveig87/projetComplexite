@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57127">
+<titre>Soupe à l'avocat et poulet</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 avocats bien mûrs</p>
+<p>200 g de blanc de poulet</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>3 cuillères à soupe de vin blanc</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>bouillon de volaille</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> couper </operation> les <ingredient action="couper" quantite="4"> avocats </ingredient> en morceaux . <operation ingredients="poulet;bouillon"> cuire </operation> les blancs de <ingredient action="cuire"> poulet </ingredient> dans un <ingredient action="cuire" quantite=""> bouillon </ingredient> de volaille . <operation> mixer </operation> le tout . <operation ingredients="crème;vin;jus"> ajouter </operation> au fur et à <operation> mesure </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> , le <ingredient action="ajouter" quantite="3 cuillère à soupe"> vin </ingredient> et le <ingredient action="ajouter" quantite="3 cuillère à soupe"> jus </ingredient> de citron , <operation ingredients="crème"> mélanger </operation> jusqu' à obtention d' une <ingredient action="mélanger" quantite="3 cuillère à soupe"> crème </ingredient> légère . <operation> saler </operation> et <operation> poivrer </operation> au goût . servir bien frais . de temps en temps , j' ajoute du piment d' espelette en <operation> poudre </operation> ( je suis basque ) ou du <ingredient> curry </ingredient> ( j' habite en calédonie ) et je décore avec des petits dès de <ingredient> tomates </ingredient> mondés . bon appétit ! c' est un plat caledonien
+</preparation>
+</recette>

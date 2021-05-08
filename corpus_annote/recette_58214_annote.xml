@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58214">
+<titre>Poulet au viandox</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet</p>
+<p>1 gros oignon</p>
+<p>3 cuillères à soupe de viandox</p>
+<p>sel, poivre</p>
+<p>2 branches de thym</p>
+<p>1 ou 2 feuilles de laurier </p>
+<p>15 g de beurre</p>
+</ingredients>
+<preparation>
+dans un plat , <operation ingredients="poulet;oignon"> mettre </operation> le <ingredient action="mettre" quantite="1"> poulet </ingredient> et l' <ingredient action="mettre" quantite="1"> oignon </ingredient> <operation> coupé </operation> en petit morceaux . <operation ingredients="noisettes"> ajoutez </operation> quelques <ingredient action="ajouter"> noisettes </ingredient> de beurre et un fond d' eau ( ça c' est pour une recette plus light , vous pouvez aussi ne <operation ingredients="beurre"> mettre </operation> que du <ingredient action="mettre" quantite="15 gramme"> beurre </ingredient> en plus grosse quantité ) . <operation ingredients="thym;poulet"> émiettez </operation> le <ingredient action="émietter"> thym </ingredient> sur le <ingredient action="émietter" quantite="1"> poulet </ingredient> et <operation ingredients="laurier"> ajouter </operation> les feuilles de <ingredient action="ajouter"> laurier </ingredient> puis <operation ingredients="poulet"> badigeonner </operation> le <ingredient action="badigeonner" quantite="1"> poulet </ingredient> de viandox . <operation> mettre </operation> le plat dans un four préchauffé . pendant la cuisson , <operation ingredients="poulet;jus"> arrosez </operation> le <ingredient action="arroser" quantite="1"> poulet </ingredient> avec le <ingredient action="arroser"> jus </ingredient> et éventuellement <operation> ajoutez </operation> du viandox de temps en temps ( selon votre goût ) .
+</preparation>
+</recette>

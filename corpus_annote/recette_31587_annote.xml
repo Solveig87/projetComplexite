@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31587">
+<titre>Tourte aux asperges et au crabe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pâtes feuilletées</p>
+<p>3 petites boîtes d'asperges</p>
+<p>350 g de chair de crabe</p>
+<p>2 oeufs</p>
+<p>10 g de beurre</p>
+<p>250 ml de crème fraîche</p>
+<p>1 cuillère de lait</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans un <operation> moule </operation> à tarte , <operation ingredients="asperges"> mettre </operation> les <ingredient action="mettre"> asperges </ingredient> bien <operation ingredients="pâte"> égouttées </operation> sur le fond de la <ingredient action="égoutter" quantite="2"> pâte </ingredient> . <operation ingredients="crabe"> emietter </operation> le <ingredient action="emietter"> crabe </ingredient> , et le <operation ingredients="asperges"> mettre </operation> par - dessus les <ingredient action="mettre"> asperges </ingredient> . <operation ingredients="oeufs;crème"> fouetter </operation> les <ingredient action="fouetter" quantite="2"> oeufs </ingredient> , la <ingredient action="fouetter"> crème </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="asperges"> verser </operation> la préparation sur les <ingredient action="verser"> asperges </ingredient> . <operation ingredients="pâte"> recouvrir </operation> la 2ème <ingredient action="recouvrir" quantite="2"> pâte </ingredient> feuilletée et la souder à la 1ère . <operation ingredients="oeuf;lait"> délayer </operation> un jaune d' <ingredient action="délayer" quantite="2"> oeuf </ingredient> et une cuillère de <ingredient action="délayer" quantite="1 cuillère"> lait </ingredient> , et <operation> badigeonner </operation> la tourte . <operation> mettre </operation> au four 45 mn ( 190 <operation> ° </operation> c ) . servir tiède .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173199">
+<titre>Pâtes à la crème et à la viande</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes</p>
+<p>3 steaks hachés ou viande haché</p>
+<p>1 gros oignon</p>
+<p>1 brique de crème liquide</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> . pendant ce temps , <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en petits morceaux et le faire <operation> revenir </operation> dans une grande <operation> poêle </operation> . quand c' est <operation> cuit </operation> , <operation ingredients="steaks"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> steaks </ingredient> en petits morceaux aussi , bien <operation> mélanger </operation> , laisser un peu cuire . 3 minutes . <operation ingredients="pâtes;crème"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> pâtes </ingredient> <operation> cuite </operation> ainsi que la brique de <ingredient action="ajouter"> crème </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> environ . 6 min . bon appétit . faire à peine <operation ingredients="viande;oignons"> cuire </operation> la <ingredient action="cuire" quantite="3"> viande </ingredient> avec les <ingredient action="cuire" quantite="1"> oignons </ingredient> car la <ingredient quantite="3"> viande </ingredient> continuera à <operation ingredients="crème;pâtes"> cuire </operation> avec la <ingredient action="cuire"> crème </ingredient> fraiche et les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> .
+</preparation>
+</recette>

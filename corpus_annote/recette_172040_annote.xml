@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172040">
+<titre>Tartare de thon à l'indienne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de thon</p>
+<p>1 oignon</p>
+<p>1 tomate</p>
+<p>2 poivrons verts</p>
+<p>100 g d'olives vertes dénoyautées</p>
+<p>5 à 10 cl d'huile d'olive</p>
+<p>sauce soja</p>
+<p>1 cuillère de curry </p>
+<p>poivre </p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> découper </operation> en cube le <ingredient action="découper" quantite="400 gramme"> thon </ingredient> et <operation ingredients="huile;soja"> macérer </operation> dans l’ <ingredient action="macérer"> huile </ingredient> d’ olive , sauce <ingredient action="macérer"> soja </ingredient> , curry , poivre , sel . <operation ingredients="oignon;tomates;poivrons;olives"> découper </operation> en cube ( ou <operation> hacher </operation> ) l’ <ingredient action="découper" quantite="1"> oignon </ingredient> , les <ingredient action="découper" quantite="1"> tomates </ingredient> , les <ingredient action="découper"> poivrons </ingredient> et les <ingredient action="découper"> olives </ingredient> . <operation ingredients="thon"> ajouter </operation> au <ingredient action="ajouter" quantite="400 gramme"> thon </ingredient> <operation> macéré </operation> et <operation> mélanger </operation> . a servir avec du <ingredient> riz </ingredient> chaud , ou paella .
+</preparation>
+</recette>

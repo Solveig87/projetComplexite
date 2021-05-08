@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57966">
+<titre>Gâteau italien aux pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes</p>
+<p>zeste râpé d'un citron</p>
+<p>150 g de farine</p>
+<p>200 g de sucre</p>
+<p>50 g de beurre fondu</p>
+<p>2 oeufs</p>
+<p>1 sachet de levure chimique</p>
+<p>25 cl de lait à température ambiante</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> en tranches les <ingredient action="peler" quantite="4"> pommes </ingredient> . <operation ingredients="oeufs;sucre;crème"> travaillez </operation> les <ingredient action="travailler" quantite="2"> oeufs </ingredient> et la moitié du <ingredient action="travailler" quantite="200 gramme"> sucre </ingredient> jusqu' à obtention d' une <ingredient action="travailler"> crème </ingredient> . <operation ingredients="farine;sel"> ajoutez </operation> les zestes <operation ingredients="citron"> râpés </operation> d' un <ingredient action="râper"> citron </ingredient> , la <ingredient action="ajouter" quantite="150 gramme"> farine </ingredient> délicatement et une pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . <operation ingredients="lait"> versez </operation> délicatement le <ingredient action="verser" quantite="25 cl"> lait </ingredient> et pour finir la <ingredient> levure </ingredient> . <operation> dresser </operation> cet appareil dans un <operation> moule </operation> <operation> graissé </operation> et <operation> fariné </operation> . <operation ingredients="pommes"> disposez </operation> les <ingredient action="disposer" quantite="4"> pommes </ingredient> sur l' appareil , <operation ingredients="sucre;beurre"> soupoudrez </operation> avec le reste de <ingredient action="soupoudrer" quantite="200 gramme"> sucre </ingredient> et le <ingredient action="soupoudrer"> beurre </ingredient> <operation> fondu </operation> . faites <operation> cuire </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 40 min dans la partie basse du four et pendant 10 min dans la partie haute du four . laissez refroidir avant de <operation> démouler </operation> .
+</preparation>
+</recette>

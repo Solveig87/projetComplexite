@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167510">
+<titre>Côte de porc au vin blanc et aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtes de porc</p>
+<p>2 oignons</p>
+<p>2 cuillères à café d huile</p>
+<p>1 boites de tomates pelées en morceau</p>
+<p>1 poivron vert</p>
+<p>1 poivron jaune</p>
+<p>25 cl de vin blanc</p>
+<p>un bouquet garni (thym, pesil et laurier)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="côtes;huile"> dorer </operation> les <ingredient action="dorer" quantite="4"> côtes </ingredient> de porc dans une sauteuse avec un peu d <ingredient action="dorer" quantite="2 cuillère à café"> huile </ingredient> . une fois tous les morceaux <operation> dorer </operation> les sortir de la sauteuse . <operation ingredients="oignons"> mettre </operation> les <ingredient action="mettre" quantite="2"> oignons </ingredient> à <operation> blondir </operation> , puis faire <operation ingredients="poivrons"> fondre </operation> deux <ingredient action="fondre"> poivrons </ingredient> un vert et un jaune . <operation ingredients="vin;bouquet;tomate"> ajouter </operation> 25 cl de <ingredient action="ajouter" quantite="25 cl"> vin </ingredient> blanc , un <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et une boite de <ingredient action="ajouter"> tomate </ingredient> <operation> pelé </operation> en morceau . laisser <operation> cuire </operation> à fue doux 15 min . servir avec du <ingredient> riz </ingredient> <operation> cuit </operation> avec 2 cubes de <ingredient> bouillon </ingredient> méditéranée ; bon appétit .
+</preparation>
+</recette>

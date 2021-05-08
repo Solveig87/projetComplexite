@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56754">
+<titre>Saucisses à la poële</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 saucisses</p>
+<p>sel/poivre</p>
+<p>basilic/origan</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+prenez une poële et <operation ingredients="beurre"> mettez </operation> peu de <ingredient action="mettre"> beurre </ingredient> . dans une assiete <operation ingredients="saucisses"> coupez </operation> les 2 <ingredient action="couper" quantite="2"> saucisses </ingredient> en tout petits morceaux . <operation ingredients="sel"> ajoutez </operation> - y <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre , basilic et origan . faites - les <operation> revenir </operation> 2 à 3 min . c' est delicieux mais ne <operation ingredients="beurre"> mettez </operation> pas trop de <ingredient action="mettre"> beurre </ingredient> c' est moyen pour le régime . . )
+</preparation>
+</recette>

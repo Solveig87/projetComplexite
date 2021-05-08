@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64317">
+<titre>Poulet pané au pain d'épices</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 blancs de poulet</p>
+<p>20 cl de crème liquide (à 12 % de matière grasse)</p>
+<p>2 tranches de pain d'épices</p>
+<p>1 oeuf</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> réduire </operation> avec un robot les tranches de <ingredient action="réduire" quantite="2 tranche"> pain </ingredient> d' épices en <operation> poudre </operation> et la <operation> mettre </operation> dans une assiette . casser l' <ingredient quantite="1"> oeuf </ingredient> dans une autre assiette et le <operation> fouetter </operation> légèrement . <operation ingredients="poulet;oeuf;pain"> tremper </operation> les blancs de <ingredient action="tremper"> poulet </ingredient> dans l' <ingredient action="tremper" quantite="1"> oeuf </ingredient> puis dans le <ingredient action="tremper" quantite="2 tranche"> pain </ingredient> d' épices . faire <operation ingredients="huile"> chauffer </operation> une <operation> poêle </operation> avec un peu d' <ingredient action="chauffer"> huile </ingredient> . faire <operation> griller </operation> les blancs <operation ingredients="pain"> panés </operation> de <ingredient action="paner" quantite="2 tranche"> pain </ingredient> d' épices pendant 5 minutes dans la <operation> poêle </operation> puis <operation ingredients="crème;sel"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et la pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> sur feu doux pendant 10 minutes . le <ingredient quantite="2 tranche"> pain </ingredient> d' épices doit être un peu rassis pour bien se <operation> réduire </operation> en <operation> poudre </operation> et c' est encore meilleur avec un <ingredient quantite="2 tranche"> pain </ingredient> d' épices fait maison qui sera moins <operation> sucré </operation> que ceux du commerce . un tursan rouge
+</preparation>
+</recette>

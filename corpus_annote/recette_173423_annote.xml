@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="173423">
+<titre>Pizza au boeuf et au comté</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de comté</p>
+<p>1 oignon</p>
+<p>2 biftecks hachés </p>
+<p>1 pâte à pizza </p>
+<p>300 g de sauce tomate</p>
+</ingredients>
+<preparation>
+prenez la <ingredient quantite="1"> pâte </ingredient> a pizza puis étaler la sauce tomate sur la <ingredient quantite="1"> pâte </ingredient> . <operation ingredients="biftecks"> émiettez </operation> les <ingredient action="émietter" quantite="2"> biftecks </ingredient> puis <operation ingredients="oignon"> découpez </operation> en lamelles l' <ingredient action="découper" quantite="1"> oignon </ingredient> . faites <operation ingredients="biftecks;oignon"> cuire </operation> les <ingredient action="cuire" quantite="2"> biftecks </ingredient> et l' <ingredient action="cuire" quantite="1"> oignon </ingredient> ensemble dans une <operation> poêle </operation> . une fois <operation ingredients="oignon"> cuit </operation> , <operation ingredients="biftecks"> disposez </operation> les <ingredient action="disposer" quantite="2"> biftecks </ingredient> et l' <ingredient action="cuire" quantite="1"> oignon </ingredient> <operation> cuit </operation> sur la pizza . <operation ingredients="comté"> rappez </operation> le <ingredient action="rappez" quantite="100 gramme"> comté </ingredient> et <operation> disposez </operation> - le sur la pizza . <operation> mettez </operation> la pizza 20 min au four a 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

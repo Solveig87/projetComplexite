@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23314">
+<titre>Spaghetti à la bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de spaghetti</p>
+<p>400 g de boeuf haché</p>
+<p>200 g de sauce tomate</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>8 champignons de Paris</p>
+<p>3 oignons</p>
+<p>3 gousses d'ail</p>
+<p>1 branche de céleri</p>
+<p>1 branche de sauge</p>
+<p>5 branches de persil</p>
+<p>1 branche de basilic</p>
+<p>thym, laurier</p>
+<p>2 cuillères à soupe d'origan</p>
+<p>1 pointe de harissa</p>
+<p>parmesan à volonté</p>
+<p>huile d'olive</p>
+<p>sucre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="basilic;persil"> hachez </operation> la sauge , le <ingredient action="hacher"> basilic </ingredient> et le <ingredient action="hacher"> persil </ingredient> . <operation> hachez </operation> les <ingredient quantite="3"> oignons </ingredient> , <operation ingredients="céleri"> découpez </operation> le <ingredient action="découper"> céleri </ingredient> en cubes . <operation ingredients="champignons"> détaillez </operation> les <ingredient action="détailler" quantite="8"> champignons </ingredient> en cubes également . faites <operation ingredients="céleri;champignons"> chauffer </operation> 3 cuillerées à soupe d' huile d' olive dans une cocotte , <operation ingredients="oignons"> mettez </operation> - y les <ingredient action="mettre" quantite="3"> oignons </ingredient> , le <ingredient action="chauffer"> céleri </ingredient> et les <ingredient action="chauffer" quantite="8"> champignons </ingredient> . <operation ingredients="ail"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> écrasé </operation> , le <operation ingredients="tomate;viande"> concentré </operation> de <ingredient action="concentré"> tomate </ingredient> , la sauce tomate , la <ingredient action="concentré" quantite="400 gramme"> viande </ingredient> hachée et <operation> pressez </operation> bien le tout . <operation ingredients="thym;laurier"> ajoutez </operation> alors le <ingredient action="ajouter" quantite=""> thym </ingredient> et le <ingredient action="ajouter" quantite=""> laurier </ingredient> , <operation> mouillez </operation> de 50 cl d' eau , <operation ingredients="sucre;harissa"> rajoutez </operation> les herbes fraîches hachées , 2 morceaux de <ingredient action="rajouter" quantite=""> sucre </ingredient> , la <ingredient action="rajouter"> harissa </ingredient> , <operation> assaisonner </operation> . laissez <operation> mijoter </operation> 30 min à feu doux . 10 minutes avant la fin , faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . <operation> egouttez </operation> - les <ingredient action="mélanger"> pâtes </ingredient> , <operation ingredients="pâtes"> mélangez </operation> - les avec un peu de <ingredient> beurre </ingredient> . <operation> retirez </operation> le <ingredient quantite=""> laurier </ingredient> de la sauce , <operation ingredients="pâtes"> versez </operation> - la sur les <ingredient action="verser"> pâtes </ingredient> . <operation ingredients="parmesan"> parsemez </operation> de <ingredient action="parsemer" quantite=""> parmesan </ingredient> et servez .
+</preparation>
+</recette>

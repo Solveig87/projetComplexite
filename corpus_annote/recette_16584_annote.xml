@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16584">
+<titre>Poulet à l'italienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes (500 g)</p>
+<p>1 morceau de céleri-rave</p>
+<p>100 g de lard fumé</p>
+<p>8 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>800 g de tomates pelées </p>
+<p>37.5 cl de vin blanc sec </p>
+<p>2 cubes de bouillon de poulet</p>
+<p>3 feuilles de laurier</p>
+<p>2 cuillères à café de sel</p>
+<p>1 cuillère à café de poivre noir fraîchement moulu</p>
+<p>1,350 kg de cuisses de poulet désossées</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1,5 cuillères à café de sel</p>
+<p>1/2 cuillère à café de poivre noir fraîchement moulu</p>
+<p>1/2 dl d'origan</p>
+<p>2 cuillères à soupe de thym frais haché</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;céleri"> éplucher </operation> les <ingredient action="éplucher" quantite="4"> carottes </ingredient> et le <ingredient action="éplucher"> céleri </ingredient> . <operation ingredients="lard"> enlever </operation> la couenne du <ingredient action="enlever"> lard </ingredient> . <operation ingredients="légumes;lard"> couper </operation> les <ingredient action="couper" quantite="4;8;800 gramme"> légumes </ingredient> et le <ingredient action="couper"> lard </ingredient> en petits dés . <operation ingredients="ail"> eplucher </operation> et <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher"> oignon </ingredient> et l' <ingredient action="eplucher"> ail </ingredient> . <operation ingredients="légumes;lard;oignon"> frire </operation> les <ingredient action="frire" quantite="4;8;800 gramme"> légumes </ingredient> , le <ingredient action="frire"> lard </ingredient> et l' <ingredient action="frire"> oignon </ingredient> dans 1 cuillère à soupe d' huile , . 2 mn . <operation ingredients="tomates;vin"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> tomates </ingredient> , le <ingredient action="ajouter"> vin </ingredient> , laurier , sel et poivre . laisser <operation> cuire </operation> environ 10 mn . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en morceaux et les faire <operation> brunir </operation> dans une <operation> poêle </operation> avec 2 cuillères à soupe d' huile , environ 2 mn par côté . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="poulet;légumes"> ajouter </operation> les morceaux de <ingredient action="ajouter"> poulet </ingredient> à la préparation de <ingredient action="ajouter" quantite="4;8;800 gramme"> légumes </ingredient> et <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> . laisser encore <operation> cuire </operation> 10 mn . <operation> saupoudrer </operation> avec les herbes juste avant de servir .
+</preparation>
+</recette>

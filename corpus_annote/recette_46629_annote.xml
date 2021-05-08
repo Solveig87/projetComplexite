@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46629">
+<titre>Brochette de canard et gambas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>-3 Magrets de Canard </p>
+<p>-18 Gambas congelés</p>
+<p>-3 gousses d'ail</p>
+<p>-3 oignons</p>
+<p>-3 citrons verts</p>
+<p>-5 cuillères à soupe de miel</p>
+<p>-5 cuillères à soupe de sauce soja</p>
+<p>-1 verre de vin blanc</p>
+<p>-2 cuillères à soupe d'huile d'olive</p>
+<p>-1 cuillère à café de gingembre moulu</p>
+<p>-1 cuillère à soupe de colombo</p>
+<p>-sel poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="gambas"> décongeler </operation> les <ingredient action="décongeler" quantite=""> gambas </ingredient> . faites <operation ingredients="oignons;huile"> blondir </operation> les <ingredient action="blondir" quantite=""> oignons </ingredient> <operation> émincés </operation> dans l' <ingredient action="blondir"> huile </ingredient> d' olive à feu doux . <operation ingredients="miel;gingembre;soja"> ajouter </operation> le <ingredient action="ajouter"> miel </ingredient> , le <ingredient action="ajouter"> gingembre </ingredient> et le colombo puis la sauce <ingredient action="ajouter"> soja </ingredient> et le <ingredient> vin </ingredient> blanc . faites <operation> réduire </operation> d'1 / 3 puis <operation> ajouter </operation> l' <ingredient action="presser"> ail </ingredient> <operation ingredients="ail;jus;citrons"> pressé </operation> puis le <ingredient action="presser"> jus </ingredient> de 2 <ingredient action="presser" quantite=""> citrons </ingredient> . <operation> réservez </operation> . <operation ingredients="magrets"> dégraisser </operation> partiellement les <ingredient action="dégraisser" quantite=""> magrets </ingredient> puis les <operation> trancher </operation> en 8 morceaux . <operation ingredients="gambas"> mettez </operation> les morceaux dans 1 terrine avec les <ingredient action="mettre" quantite=""> gambas </ingredient> préalablement <operation> décortiqués </operation> en gardant le <ingredient> tête </ingredient> et la queue . <operation> versez </operation> la marinade , <operation> salez </operation> , <operation> poivrez </operation> , <operation> mélangez </operation> et laissez <operation> reposer </operation> au moins 2 h au frais . <operation ingredients="canard;gambas"> enfilez </operation> sur des brochettes 1 morceau de <ingredient action="enfiler"> canard </ingredient> , 1 <ingredient action="enfiler" quantite=""> gambas </ingredient> , . . . et 1 quartier de <ingredient quantite=""> citron </ingredient> . allumez le grill du four et faites <operation> dorer </operation> les brochettes 10 à 15 min en <operation> arrosant </operation> avec la marinade à mi-cuisson . <operation ingredients="riz"> accompagnement </operation> : <ingredient action="accompagnement"> riz </ingredient>
+</preparation>
+</recette>

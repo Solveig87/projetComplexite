@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12580">
+<titre>Streusel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>400 g de farine</p>
+<p>1 oeuf</p>
+<p>1 pincée de sel</p>
+<p>100 g de beurre</p>
+<p>50 g de sucre</p>
+<p>30 cl de lait</p>
+<p>25 g de levure boulanger</p>
+<p>Pour le streusel :</p>
+<p>80 g de beurre fondu</p>
+<p>120 g de farine</p>
+<p>100 g de sucre</p>
+<p>1 càs de cannelle</p>
+<p>50 g d'amandes moulues</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> : <operation ingredients="levure;lait"> dissoudre </operation> la <ingredient action="dissoudre" quantite="25 gramme"> levure </ingredient> dans un peu de <ingredient action="dissoudre" quantite="30 cl"> lait </ingredient> tiède . <operation> mélanger </operation> tous les ingrédients et laisser <operation> reposer </operation> 30 minutes . <operation> beurrer </operation> un <operation> moule </operation> à tarte et y <operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer"> pâte </ingredient> . garniture : <operation> mélanger </operation> tous les ingrédients et laisser refroidir . <operation ingredients="pâte"> badigeonner </operation> la <ingredient action="badigeonner"> pâte </ingredient> d' eau <operation> sucrée </operation> . <operation ingredients="pâte"> emietter </operation> la garniture sur la <ingredient action="emietter"> pâte </ingredient> et laisser encore lever 1 h. faire <operation> cuire </operation> à 180 <operation> ° </operation> c pendant 40 minutes .
+</preparation>
+</recette>

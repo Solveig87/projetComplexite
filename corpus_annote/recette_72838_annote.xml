@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72838">
+<titre>Tartare de boeuf basilic et parmesan</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de viande hachée fraîche</p>
+<p>120 g de parmesan frais entier</p>
+<p>1/2 botte de basilic frais</p>
+<p>20 cl d'huile d'olive vierge extra</p>
+<p>un gros citron</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="basilic"> ciseler </operation> le <ingredient action="ciseler"> basilic </ingredient> et le <operation ingredients="viande"> mélanger </operation> à la <ingredient action="mélanger" quantite="600 gramme"> viande </ingredient> . <operation ingredients="huile"> ajouter </operation> ensuite l' <ingredient action="ajouter" quantite="20 cl"> huile </ingredient> d' olive au <operation> mélange </operation> . a l' aide d' un économe , <operation ingredients="parmesan"> faites </operation> des copeaux de <ingredient action="faire" quantite="120 gramme"> parmesan </ingredient> et les <operation> mélanger </operation> à la préparation . ensuite , <operation> saler </operation> et <operation> poivrer </operation> . en dernier , <operation ingredients="citron"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> citron </ingredient> et <operation> mélanger </operation> bien le tout avant de servir bien frais , <operation ingredients="salade"> accompagné </operation> d' un belle <ingredient action="accompagner"> salade </ingredient> . un régal ! !
+</preparation>
+</recette>

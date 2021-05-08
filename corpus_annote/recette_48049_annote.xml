@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48049">
+<titre>Makis et onigiri (Japon)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour les makis :</p>
+<p>10 algues grillées ou "Naki Nori" (vous trouverez sans problème cet ingrédient dans des magazins asiatiques)</p>
+<p>1 radis jaune (de même)</p>
+<p>1 concombre</p>
+<p>150g de saumon fumé ou de thon très frais</p>
+<p>230g de riz blanc parfumé</p>
+<p>500 cl d'eau</p>
+<p>wasabi selon le goût</p>
+<p>Pour les boulettes de riz :</p>
+<p>230 g de riz blanc parfumé</p>
+<p>500 cl d'eau</p>
+<p>1/2 oignon ou une échalote</p>
+<p>75 g de saumon fumé ou de crevettes</p>
+<p>2 cuillères à soupe de graines de sésame</p>
+<p>2 cuillères à café de vinaigre balsamique</p>
+<p>Pour la sauce :</p>
+<p>1 petit morceau de gingembre (environ de 2 cm environ)</p>
+<p>3 cuillères à café de sucre</p>
+<p>5 cuillères à soupe de sauce soja (ou sauce Tamari)</p>
+</ingredients>
+<preparation>
+préparation des makis : faire <operation ingredients="riz"> chauffer </operation> les 230 g de <ingredient action="chauffer"> riz </ingredient> avec 50 cl d' eau dans un autocuiseur . si vous ne possédez pas d' autocuiseur , vous pouvez les faire <operation> chauffer </operation> dans une casserole , pendant à peu près 10 minutes . en attendant que le <ingredient> riz </ingredient> refroidisse , <operation ingredients="poisson"> coupez </operation> le <ingredient action="couper"> poisson </ingredient> en fines lamelles de 1 , 5 cm . <operation ingredients="concombre;radis"> découpez </operation> le <ingredient action="découper" quantite="1"> concombre </ingredient> <operation> épluché </operation> et le <ingredient action="découper" quantite="1"> radis </ingredient> jaune en fines tranches d' une longueur de 12 cm environ . <operation ingredients="algue"> mettez </operation> une <ingredient action="mettre" quantite="10"> algue </ingredient> sur une surface plane . <operation ingredients="riz;algue"> etalez </operation> le <ingredient action="etalez"> riz </ingredient> froid sur la moitié de l' <ingredient action="etalez" quantite="10"> algue </ingredient> tout en laissant une bordure de 1 cm tout autour . <operation ingredients="concombre;radis"> déposez </operation> le long d' un côté entièrement <operation ingredients="riz"> recouvert </operation> de <ingredient action="recouvrir"> riz </ingredient> une tranche de <ingredient> poisson </ingredient> , de <ingredient action="déposer" quantite="1"> concombre </ingredient> et de <ingredient action="déposer" quantite="1"> radis </ingredient> jaune . si vous aimez la saveur pimentée , vous pouvez <operation ingredients="wasabi"> mettre </operation> une pointe de <ingredient action="mettre" quantite=""> wasabi </ingredient> . <operation ingredients="algue"> roulez </operation> la feuille d' <ingredient action="rouler" quantite="10"> algue </ingredient> très serrée en l' <operation> enroulant </operation> autour des ingrédients . <operation> réservez </operation> . préparation des onigir ( boulettes de <ingredient action="chauffer"> riz </ingredient> ) : <operation ingredients="riz;riz"> chauffez </operation> les 230 g de <ingredient action="chauffer"> riz </ingredient> restant avec 50 cl d' eau de la même façon que la première cuisson . en attendant , <operation> hachez </operation> l' <ingredient> oignon </ingredient> ou l' <ingredient> échalote </ingredient> . <operation ingredients="poisson;crevettes"> hachez </operation> le <ingredient action="hacher"> poisson </ingredient> ou les <ingredient action="hacher"> crevettes </ingredient> . <operation ingredients="sésame;vinaigre"> mélangez </operation> ces ingrédients au <ingredient action="mélanger"> sésame </ingredient> et au <ingredient action="mélanger" quantite="2 cuillère à café"> vinaigre </ingredient> . <operation ingredients="riz"> formez </operation> de petites boulettes de <ingredient action="former"> riz </ingredient> avec vos mains <operation> humidifiées </operation> ( essentiel pour que le <ingredient action="colle"> riz </ingredient> ne <operation ingredients="riz"> colle </operation> pas et ne se disperse pas ) . <operation> incorporez </operation> au centre un peu de farce . préparation de la sauce : <operation ingredients="gingembre"> hachez </operation> le petit morceau de <ingredient action="hacher"> gingembre </ingredient> et <operation> mélangez </operation> - le à la sauce <ingredient> soja </ingredient> avec le <ingredient quantite="3 cuillère à café"> sucre </ingredient> . service : <operation ingredients="couteau"> découpez </operation> les makis avec un <ingredient action="découper"> couteau </ingredient> très bien aiguisé ( un maki a une longueur 3 cm à peu près ) . <operation ingredients="riz"> présentez </operation> les makis et les boulettes de <ingredient action="présenter"> riz </ingredient> sur des assiettes <operation> accompagnés </operation> de la sauce . les proportions sont plus que suffisantes , mais les makis sont si bons qu' il risque de ne plus rien rester : ) saké
+</preparation>
+</recette>

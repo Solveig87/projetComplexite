@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11872">
+<titre>Tarte aux poires et aux amandes</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte sablée</p>
+<p>5 poires</p>
+<p>125 g de poudre d'amandes</p>
+<p>100 g de biscuits pur beurre</p>
+<p>40 g de sucre</p>
+<p>50 g de beurre</p>
+<p>2 œufs</p>
+<p>200 cl de crème fraîche</p>
+<p>2 cuillères à soupe d'amandes effilées grillées</p>
+</ingredients>
+<preparation>
+pré <operation ingredients="tarte"> cuire </operation> le fond de <ingredient action="cuire"> tarte </ingredient> 10 mn au four à 150 <operation> ° </operation> c. laisser refroidir . <operation ingredients="tarte;amandes;biscuits"> recouvrir </operation> le fond de <ingredient action="recouvrir"> tarte </ingredient> avec un <operation> mélange </operation> de <operation> poudre </operation> d' <ingredient action="recouvrir" quantite="2 cuillère à soupe"> amandes </ingredient> et de <ingredient action="recouvrir" quantite="100 gramme"> biscuits </ingredient> <operation> écrasés </operation> . <operation ingredients="poires"> disposer </operation> dessus les <ingredient action="disposer" quantite="5"> poires </ingredient> <operation> coupées </operation> en lamelles , puis les <operation> recouvrir </operation> d' un <operation> mélange </operation> crème + <ingredient quantite="40 gramme"> sucre </ingredient> + beurre + œuf . <operation> cuire </operation> 20 à 25 mn à 180 <operation> ° </operation> c. <operation ingredients="amandes"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> amandes </ingredient> effilées . <ingredient> muscat </ingredient> beaumes de venise
+</preparation>
+</recette>

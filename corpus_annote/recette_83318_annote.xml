@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83318">
+<titre>Escalopes aux 3 poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet ou de dinde</p>
+<p>3 poivrons : 1 vert, 1 rouge et 1 jaune</p>
+<p>250 g de crème fraîche épaisse</p>
+<p>sel et poivre</p>
+<p>1 filet d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> poivrons </ingredient> grossièrement à l' économe . les <operation> couper </operation> en petits dés . <operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="4"> escalopes </ingredient> en dés également . commencer par faire <operation ingredients="poivrons;huile"> revenir </operation> les <ingredient action="revenir" quantite="3"> poivrons </ingredient> brièvement dans une <operation> poêle </operation> avec un filet d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="escalopes"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="4"> escalopes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> quelques minutes tout en <operation> remuant </operation> de temps en temps . baisser à feu très doux et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> crème </ingredient> fraîche . <operation> réchauffer </operation> , c' est prêt ! servir avec du <ingredient> riz </ingredient> . on peut <operation ingredients="crème"> ajouter </operation> plus de <ingredient action="ajouter" quantite="250 gramme"> crème </ingredient> si l' on souhaite beaucoup de sauce .
+</preparation>
+</recette>

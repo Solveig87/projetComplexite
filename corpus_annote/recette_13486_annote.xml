@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13486">
+<titre>Beignets de Carnaval</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine </p>
+<p>150 g du beurre</p>
+<p>3 oeufs</p>
+<p>1/2 litre de jus d'orange</p>
+<p>huile</p>
+<p>sucre glace</p>
+<p>du brandy</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;oeufs;beurre"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> farine </ingredient> , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="150 gramme"> beurre </ingredient> <operation ingredients="jus"> fondu </operation> au <ingredient action="fondre"> jus </ingredient> d' orange , puis <operation ingredients="farine"> ajouter </operation> le brandy et la <ingredient action="ajouter" quantite="500 gramme"> farine </ingredient> jusqu' à obtenir un <operation> mélange </operation> consistant . laisser <operation> reposer </operation> pour 1 heure . <operation> etendre </operation> le <operation> mélange </operation> avec le rouleau pour obtenir une très fine feuille . <operation ingredients="couteau"> couper </operation> avec un <ingredient action="couper"> couteau </ingredient> des bandes larges ( 3 cm ) et les <operation> pincer </operation> pour faire des noeuds . les <operation ingredients="huile"> frire </operation> dans l' <ingredient action="frire" quantite=""> huile </ingredient> et <operation ingredients="sucre;glace"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> .
+</preparation>
+</recette>

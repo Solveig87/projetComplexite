@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44011">
+<titre>Tartine au beurre façon lapin rose</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>un verre de whisky</p>
+<p>jus de carotte</p>
+<p>cassonade</p>
+<p>beurre</p>
+<p>pain</p>
+</ingredients>
+<preparation>
+prenez un verre de <ingredient quantite="1 verre"> whisky </ingredient> , et <operation ingredients="cassonade"> ajoutez </operation> - y de la <ingredient action="ajouter" quantite=""> cassonade </ingredient> . <operation> secouez </operation> bien , puis <operation ingredients="jus"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> de carottes . pendant ce temps , tarinez le <ingredient quantite=""> pain </ingredient> de beurre , puis <operation> ajoutez </operation> la préparation . ce <operation> mélange </operation> est surprenant , mais délicieux ! ideal , <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> . cette recette me vient de ma grand-mère russe .
+</preparation>
+</recette>

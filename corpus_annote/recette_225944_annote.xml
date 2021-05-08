@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225944">
+<titre>Muffins au carambar</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 carambars</p>
+<p>10 cl de lait</p>
+<p>3 oeufs</p>
+<p>150 g de beurre</p>
+<p>150 g de sucre</p>
+<p>150 g de farine</p>
+<p>1 sachet de levure</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carambars;beurre"> fondre </operation> les <ingredient action="fondre" quantite="30"> carambars </ingredient> et le <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> au bain - marie . dans un <operation ingredients="farine;levure"> moule </operation> , <operation ingredients="sucre"> mélanger </operation> la préparation puis le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> , la <ingredient action="moule" quantite="150 gramme"> farine </ingredient> et la <ingredient action="moule"> levure </ingredient> . <operation ingredients="oeufs;lait"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> lait </ingredient> . <operation> verser </operation> dans des <operation> moules </operation> en silicone et <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) durant 20 minutes .
+</preparation>
+</recette>

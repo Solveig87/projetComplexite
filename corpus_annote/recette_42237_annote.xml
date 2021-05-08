@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42237">
+<titre>Pain d'épices de Noël</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de miel</p>
+<p>15 cl de lait</p>
+<p>50 g de beurre</p>
+<p>250 g de farine</p>
+<p>1 sachet de levure chimique</p>
+<p>2 jaunes d'oeufs</p>
+<p>1 cuillère à café d'extrait de vanille</p>
+<p>1 cuillère de cannelle en poudre</p>
+<p>1 cuillère de muscade en poudre</p>
+<p>1 cuillère de gingembre en poudre</p>
+<p>1 cuillère de clous de girofle</p>
+<p>Pour le glaçage et la décoration :</p>
+<p>2 blancs d'oeufs</p>
+<p>300 g de sucre glace</p>
+<p>6 gouttes de jus de citron</p>
+<p>selon vos envies : des raisins secs, des bonbons colorés, des amandes....</p>
+</ingredients>
+<preparation>
+dans une casserole , faites <operation ingredients="miel;lait;beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="250 gramme"> miel </ingredient> , le <ingredient action="chauffer" quantite="15 cl"> lait </ingredient> et le <ingredient action="chauffer" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="farine;épices"> placez </operation> la <ingredient action="placer" quantite="250 gramme"> farine </ingredient> , les <ingredient action="placer" quantite="1 cuillère;1 cuillère;1 cuillère"> épices </ingredient> , et l' extrait de vanille , dans un saladier . <operation> versez </operation> - y le contenu de la casserole , en tournant sans cesse jusqu' à obtenir un <operation> mélange </operation> homogène , puis <operation ingredients="oeufs"> incorporez </operation> les jaunes d' <ingredient action="incorporer"> oeufs </ingredient> . si nécessaire , terminez au batteur électrique . <operation> beurrez </operation> un <operation> moule </operation> à cake , <operation> versez </operation> la préparation , et <operation> enfournez </operation> environ 50 min , dans le four préchauffé à 150 <operation> ° </operation> c ( thermostat 5 ) . pendant ce temps , <operation> montez </operation> les blancs en neige , <operation ingredients="sucre;glace"> ajoutez </operation> le <ingredient action="ajouter" quantite="300 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> , et <operation> fouettez </operation> judqu' à obtenir un <operation> mélange </operation> épais et crémeux . <operation ingredients="jus"> incorporez </operation> le <ingredient action="incorporer"> jus </ingredient> de citrons . quand le <ingredient action="cuire"> pain </ingredient> d' épices est <operation ingredients="pain"> cuit </operation> et bien refroidi , <operation> étendez </operation> le glaçage , et <operation ingredients="raisins"> décorez </operation> avec des <ingredient action="décorer"> raisins </ingredient> , des bonbon . . . il ne vous reste maintenant , que l' étape la plus simple et la plus agréable : la dégustation ! <ingredient quantite="1;2;1 cuillère à café;1 cuillère;2;6;;1"> non </ingredient>
+</preparation>
+</recette>

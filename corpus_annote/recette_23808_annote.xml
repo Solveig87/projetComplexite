@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23808">
+<titre>Salade croquante de chou-fleur à l'avocat et au cresson</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou-fleur</p>
+<p>1 grande boîte de coeurs de palmier</p>
+<p>3 avocats</p>
+<p>2 bottes de cresson</p>
+<p>1 citron</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou-fleur;bouquets"> détaillez </operation> le <ingredient action="détailler" quantite="1"> chou-fleur </ingredient> en petits <ingredient action="détailler"> bouquets </ingredient> et faites - les <operation> blanchir </operation> 5 minutes dans l' eau bouillante <operation> salée </operation> puis <operation> égouttez </operation> - le . <operation ingredients="coeurs;avocats"> détaillez </operation> les <ingredient action="détailler"> coeurs </ingredient> de palmier et les <ingredient action="détailler" quantite="3"> avocats </ingredient> en morceaux , <operation ingredients="citron"> arrosez </operation> - les de <ingredient action="arroser" quantite="1"> citron </ingredient> pour ne pas qu' ils <operation> noircissent </operation> . <operation ingredients="cresson"> répartissez </operation> le <ingredient action="répartir"> cresson </ingredient> , l' <ingredient quantite="3"> avocat </ingredient> , le <ingredient quantite="1"> chou-fleur </ingredient> et les <ingredient> coeurs </ingredient> de palmiers dans les assiettes . <operation ingredients="huile;vinaigre;sel;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="6 cuillère à soupe"> huile </ingredient> , le <ingredient action="emulsionner" quantite="2 cuillère à soupe"> vinaigre </ingredient> , le <ingredient action="emulsionner" quantite=""> sel </ingredient> et le <ingredient action="emulsionner"> poivre </ingredient> puis <operation ingredients="salade"> arrosez </operation> -en la <ingredient action="arroser"> salade </ingredient> .
+</preparation>
+</recette>

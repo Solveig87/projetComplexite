@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56881">
+<titre>Endive au radis et aux cornichons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 endive</p>
+<p>4 cornichons</p>
+<p>4 radis</p>
+<p>sel et poivre</p>
+<p>vinaigrette</p>
+</ingredients>
+<preparation>
+prendre une petite assiette . <operation ingredients="endive"> couper </operation> l' <ingredient action="couper" quantite="1"> endive </ingredient> en morceaux et <operation ingredients="cornichons;radis"> déposer </operation> dessus des rondelles de <ingredient action="déposer" quantite="4"> cornichons </ingredient> et de <ingredient action="déposer" quantite="4"> radis </ingredient> . <operation ingredients="sel;poivre"> assaisonner </operation> de vinaigrette , de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> .
+</preparation>
+</recette>

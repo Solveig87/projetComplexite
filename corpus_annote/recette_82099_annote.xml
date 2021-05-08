@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82099">
+<titre>Steak à cheval amelioré</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de boeuf haché</p>
+<p>2 gousses d'ail</p>
+<p>1 bouquet de persil</p>
+<p>4 oeufs</p>
+<p>3 oignons</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et faire <operation ingredients="huile"> cuire </operation> dans de l' <ingredient action="cuire" quantite=""> huile </ingredient> les oignons en lamelle . une fois bien mous et roussis les <operation> réserver </operation> . dans un saladier <operation ingredients="viande;persil"> mélanger </operation> la <ingredient action="mélanger" quantite="800 gramme"> viande </ingredient> hachée , le <ingredient action="mélanger"> persil </ingredient> et l' <ingredient action="mettre"> ail </ingredient> <operation> hachés </operation> , <operation ingredients="ail;sel;poivre"> mettre </operation> <ingredient action="mettre"> sel </ingredient> <ingredient action="mettre"> poivre </ingredient> ainsi que 3 cuillères d' <ingredient quantite=""> huile </ingredient> d' olive . <operation ingredients="viande"> séparer </operation> en 4 boules de <ingredient action="séparer" quantite="800 gramme"> viande </ingredient> que l' on <operation> aplatira </operation> pour faciliter la cuisson . les faire <operation> cuire </operation> à la <operation> poêle </operation> . une fois <operation> cuits </operation> , faire <operation ingredients="oeufs"> frire </operation> les <ingredient action="frire" quantite="4"> oeufs </ingredient> . <operation ingredients="oignons;oeuf"> dresser </operation> en <operation ingredients="steak"> mettant </operation> le <ingredient action="mettre"> steak </ingredient> , puis une couche d' <ingredient action="dresser" quantite="3"> oignons </ingredient> et l' <ingredient action="dresser" quantite="4"> oeuf </ingredient> par dessus . servir avec des <ingredient> pommes </ingredient> de terre frites <operation> coupées </operation> en rondelle et persillées . ne pas faire trop <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire" quantite="800 gramme"> viande </ingredient> sinon ce sera trop sec
+</preparation>
+</recette>

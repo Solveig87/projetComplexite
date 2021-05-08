@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30513">
+<titre>Côtes de porc sauce charcutière</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 côtes de porc</p>
+<p>3 échalotes</p>
+<p>20 cl de vin blanc sec</p>
+<p>4 petits cornichons</p>
+<p>1 cuillère à soupe de concentré de tomate</p>
+<p>1 cuillerée à soupe de moutarde</p>
+<p>50 g de beurre</p>
+<p>2 cuillère à soupe de persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="échalotes"> hachez </operation> les <ingredient action="hacher" quantite="3"> échalotes </ingredient> et <operation ingredients="cornichons"> émincez </operation> les <ingredient action="émincer" quantite="4"> cornichons </ingredient> en rondelles . faites <operation ingredients="côtes;beurre"> cuire </operation> les <ingredient action="cuire" quantite="6"> côtes </ingredient> de porc dans une <operation> poêle </operation> avec le <ingredient action="cuire" quantite="50 gramme"> beurre </ingredient> , . 7 min de chaque côté afin qu' elles soient bien dorées . <operation> salez </operation> et <operation> poivrez </operation> , <operation ingredients="côtes"> réservez </operation> les <ingredient action="réserver" quantite="6"> côtes </ingredient> dans un plat au chaud . <operation ingredients="échalotes"> mettez </operation> les <ingredient action="mettre" quantite="3"> échalotes </ingredient> dans la <operation> poêle </operation> et <operation ingredients="vin"> mouillez </operation> avec le <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> et 15 cl d' eau , bien <operation> gratter </operation> le suc . <operation> salez </operation> , <operation ingredients="tomate"> poivrez </operation> et <operation> délayez </operation> le <operation> concentré </operation> de <ingredient action="poivrer"> tomate </ingredient> . laissez <operation> bouillir </operation> . 3 min et <operation ingredients="cornichons;persil;moutarde"> rajoutez </operation> les <ingredient action="rajouter" quantite="4"> cornichons </ingredient> , le <ingredient action="rajouter" quantite="2 cuillère à soupe"> persil </ingredient> et la <ingredient action="rajouter"> moutarde </ingredient> . <operation ingredients="viande"> versez </operation> aussitôt sur la <ingredient action="verser" quantite="6"> viande </ingredient> et servez .
+</preparation>
+</recette>

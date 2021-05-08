@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="227673">
+<titre>Le poulet au four de Babou</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet (~ 1.2 kg)</p>
+<p>500 g de petits pois et carottes</p>
+<p>20 cl de vin blanc</p>
+<p>2 cuillères à soupe d’huile</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée d'épices pour volailles</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> nettoyer </operation> le <ingredient action="nettoyer" quantite="1"> poulet </ingredient> , <operation> assaisonner </operation> l’ intérieur , puis le <operation> déposer </operation> dans un plat avec couvercle . <operation ingredients="huile;volaille"> mettre </operation> l’ <ingredient action="mettre"> huile </ingredient> sur la <ingredient action="mettre" quantite="1"> volaille </ingredient> et <operation> assaisonner </operation> . <operation ingredients="légumes;poulet"> répartir </operation> les <ingredient action="répartir" quantite="500 gramme"> légumes </ingredient> autour du <ingredient action="répartir" quantite="1"> poulet </ingredient> . <operation> mettre </operation> au four avec le couvercle durant 45 min à 200 <operation> ° </operation> c ( thermostat 6 ) . <operation> retirer </operation> le couvercle , et laisser <operation> dorer </operation> 15 min . <operation ingredients="volaille;vin"> arroser </operation> la <ingredient action="arroser" quantite="1"> volaille </ingredient> avec le <ingredient action="arroser" quantite="20 cl"> vin </ingredient> blanc et <operation> remettre </operation> au four pour 15 min . on peut également remplacer une partie des <ingredient quantite="500 gramme"> légumes </ingredient> par du <ingredient> riz </ingredient> pr . cuit .
+</preparation>
+</recette>

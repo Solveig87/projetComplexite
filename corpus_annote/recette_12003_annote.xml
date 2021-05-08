@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12003">
+<titre>Soupe a la banane</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 bananes </p>
+<p>476 g de tomates pelées</p>
+<p>2 cubes bouillon de volaille</p>
+<p>farine</p>
+<p>beurre</p>
+<p>1 litre d'eau</p>
+<p>sel (un peu)</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre;farine"> faire </operation> un roux avec du <ingredient action="faire"> beurre </ingredient> et de la <ingredient action="faire" quantite=""> farine </ingredient> . <operation ingredients="tomates;bananes;bouillons;sel"> ajouter </operation> les <ingredient action="ajouter" quantite="476 gramme"> tomates </ingredient> , les <ingredient action="ajouter" quantite="3"> bananes </ingredient> <operation> coupées </operation> en rondelles , les <ingredient action="ajouter"> bouillons </ingredient> cubes , le <ingredient action="ajouter" quantite=""> sel </ingredient> , l' eau . <operation> cuire </operation> 30 mn en auto-cuiseur . <operation> mixer </operation> . les enfants adorent . . . les parents aussi . . .
+</preparation>
+</recette>

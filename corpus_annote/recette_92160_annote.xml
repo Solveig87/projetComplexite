@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92160">
+<titre>Mousse d'abricots au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>100 g de sucre</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>3 blancs d'œufs</p>
+<p>12 abricots mûrs</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="abricots;fruit"> enlever </operation> les noyaux et la peau des <ingredient action="enlever"> abricots </ingredient> , ne garder que la pulpe du <ingredient action="enlever"> fruit </ingredient> . <operation ingredients="crème"> passer </operation> cette pulpe au blender avec la <ingredient action="passer" quantite="1 cuillère à soupe"> crème </ingredient> fraiche pour obtenir un appareil de consistance type <ingredient> fromage </ingredient> blanc . <operation ingredients="mascarpone;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> avec le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="abricots"> ajouter </operation> l' appareil aux <ingredient action="ajouter"> abricots </ingredient> . <operation ingredients="œufs;sel"> monter </operation> les blancs d' <ingredient action="monter"> œufs </ingredient> en neige avec une pincée de <ingredient action="monter" quantite="1 pincée"> sel </ingredient> et les <operation ingredients="mascarpone"> incorporer </operation> délicatement au <operation> mélange </operation> <ingredient action="incorporer" quantite="250 gramme"> mascarpone </ingredient> / abricots . laissez <operation> reposer </operation> 6 h au réfrigérateur pour que la <ingredient> mousse </ingredient> prenne . un crémant d' alsace ou un <ingredient> champagne </ingredient>
+</preparation>
+</recette>

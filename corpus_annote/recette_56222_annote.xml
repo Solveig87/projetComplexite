@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56222">
+<titre>Cailles au pineau</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cailles</p>
+<p>1 grappe de raisins</p>
+<p>1 échalote</p>
+<p>1/2 gousse d'ail (petite)</p>
+<p>1/2 verre de pineau des Charentes (10 cl)</p>
+<p>sel, poivre</p>
+<p>huile d'olive, beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="raisins;caille"> mettre </operation> 5 grains de <ingredient action="mettre"> raisins </ingredient> dans chaque <ingredient action="mettre" quantite="4"> caille </ingredient> , les <operation> ficeler </operation> et les <operation ingredients="huile"> huiler </operation> légerement avec un peu d' <ingredient action="huiler" quantite=""> huile </ingredient> d' olive . faire <operation ingredients="cailles;échalote;ail"> dorer </operation> les <ingredient action="dorer" quantite="4"> cailles </ingredient> dans une cocotte avec l' <ingredient action="dorer" quantite="1"> échalote </ingredient> <operation> émincée </operation> et l' <ingredient action="dorer"> ail </ingredient> ( huile d' olive + beurre ) à feu vif . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="raisin"> ajouter </operation> le 1 / 2 verre de pineau et quelques grains de <ingredient action="ajouter"> raisin </ingredient> , baisser le feu . <operation> couvrir </operation> et laisser <operation> cuire </operation> environ 20 minutes à petit feu . servir les <ingredient quantite="4"> cailles </ingredient> en <operation ingredients="raisins"> ajoutant </operation> quelques grains de <ingredient action="ajouter"> raisins </ingredient> frais . il est possible également d' <operation ingredients="crème"> ajouter </operation> un peu de <ingredient action="ajouter"> crème </ingredient> en fin de cuisson . je sers avec de la purée <ingredient> carottes </ingredient> - pommes de terre .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170028">
+<titre>Rouelle de porc moutardée</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouelle de porc (1.2 kg)</p>
+<p>4 gousses d'ail</p>
+<p>1 pot de moutarde </p>
+<p>huile d'olive</p>
+<p>sel poivre</p>
+<p>3 cuillères à soupe d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail"> eplucher </operation> l' <ingredient action="eplucher"> ail </ingredient> . <operation ingredients="gousses"> découper </operation> les <ingredient action="découper" quantite="4"> gousses </ingredient> en 6 . <operation ingredients="ail;viande"> insérer </operation> les morceaux d' <ingredient action="insérer"> ail </ingredient> un peu partout dans la <ingredient action="insérer"> viande </ingredient> . <operation> ciseler </operation> la couenne de la rouelle ( pour faire dégager du <ingredient> jus </ingredient> ) <operation ingredients="moutarde;huile"> mélanger </operation> la <ingredient action="mélanger" quantite="1 pot"> moutarde </ingredient> avec l' <ingredient action="mélanger" quantite=""> huile </ingredient> d' olive . <operation> saler </operation> <operation> poivrer </operation> . <operation> badigeonner </operation> le morceau de ce <operation> mélange </operation> . <operation> mettre </operation> un peu d' eau dans un plat . y <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre"> viande </ingredient> et <operation> verser </operation> le reste du <operation> mélange </operation> par dessus . <operation> enfourner </operation> à 200 <operation> ° </operation> c ( thermostat 7 ) pendant 1 h 30 . <operation ingredients="viande"> retourner </operation> la <ingredient action="retourner"> viande </ingredient> à mi-cuisson . pendant la cuisson , de temps en temps , <operation ingredients="viande;jus"> mouiller </operation> la <ingredient action="mouiller"> viande </ingredient> de son <ingredient action="mouiller"> jus </ingredient> . j' ai servi ça avec des pates et j' en ai remangé avec des <ingredient> patates </ingredient> . avec la ptite sauce de la <ingredient> viande </ingredient> , les deux sont aussi trop bon l' un que l' autre . . .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93499">
+<titre>Rôti de porc à l'ananas</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600g de porc coupé en lamelles (soit environ 100g par personne)</p>
+<p>2 à 3 oignons</p>
+<p>1 poivron gros vert</p>
+<p>1 poivron gros rouge</p>
+<p>1 boite de pousses de soja</p>
+<p>250g de champignons noirs (ou de Paris)</p>
+<p>1 grosse boite d'ananas avec son sirop (soit env. 800g poids net et 500g poids égoutté)</p>
+<p>3 cuillères à soupe de maïzena</p>
+<p>3 cuillères à soupe de sauce soja</p>
+<p>1 verre de jus d'orange</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;soja"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans 3 cuillères à soupe d' huile d' olive et 3 cuillère à soupe de sauce <ingredient action="revenir"> soja </ingredient> . <operation ingredients="poivrons;champignons;ananas"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> , les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> , le soja , l' <ingredient action="ajouter"> ananas </ingredient> <operation> coupé </operation> en cube . <operation ingredients="jus"> réserver </operation> le <ingredient action="réserver" quantite="1 verre"> jus </ingredient> d' ananas . dans une <operation> poêle </operation> faire <operation ingredients="porc;huile"> revenir </operation> le <ingredient action="revenir"> porc </ingredient> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="légumes"> mélanger </operation> avec les <ingredient action="mélanger" quantite="2;250 gramme"> légumes </ingredient> le porc . dans un saladier , <operation ingredients="maïzena;jus;jus"> mélanger </operation> 3 cuillères de <ingredient action="mélanger" quantite="3 cuillère à soupe"> maïzena </ingredient> avec un verre de <ingredient action="mélanger" quantite="1 verre"> jus </ingredient> d' orange et le <ingredient action="mélanger" quantite="1 verre"> jus </ingredient> d' ananas . <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="2;250 gramme"> légumes </ingredient> . laisser <operation> mijoter </operation> le tout doucement .
+</preparation>
+</recette>

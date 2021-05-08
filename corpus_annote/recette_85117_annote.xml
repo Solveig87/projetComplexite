@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85117">
+<titre>Spaghettis improvisées (veau-olive-carotte)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g spaghetti (ou capellinis si vous les aimez plus fins)</p>
+<p>400 g de veau haché</p>
+<p>4 carottes</p>
+<p>1 petite boîte de tomates pelées (entières ou pas), 250 g environ</p>
+<p>2 oignons</p>
+<p>20 olives vertes</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 cuillère à café de muscade moulue</p>
+<p>2 cuillères à café d'herbes de Provence</p>
+<p>sel</p>
+<p>parmesan (ou à défaut gruyère râpé)</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="4"> carottes </ingredient> en demi-rondelles , les faire <operation ingredients="huile"> revenir </operation> à feu doux dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive pendant 5 à 10 min dans votre <operation> poêle </operation> <operation> couverte </operation> . <operation ingredients="oignons"> éplucher </operation> et <operation> émincer </operation> les <ingredient action="éplucher" quantite="2"> oignons </ingredient> , les <operation ingredients="carottes"> ajouter </operation> aux <ingredient action="ajouter" quantite="4"> carottes </ingredient> . une fois les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> ramollis </operation> , <operation ingredients="oignons;veau"> ajouter </operation> le <ingredient action="ajouter" quantite="400 gramme"> veau </ingredient> . pendant que tout cela rissole gentiment , <operation ingredients="tomates;muscade;huile;olives"> mixer </operation> ensemble les <ingredient action="mixer"> tomates </ingredient> , les herbes de provence , la <ingredient action="mixer" quantite="1 cuillère à café"> muscade </ingredient> et l' <ingredient action="mixer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive puis broyer les <ingredient action="mixer" quantite="20"> olives </ingredient> vertes . une fois le <ingredient quantite="400 gramme"> veau </ingredient> cuit , <operation ingredients="tomates;olives"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> et les <ingredient action="ajouter" quantite="20"> olives </ingredient> , <operation> saler </operation> selon convenance et laisser <operation> mijoter </operation> le tout , toujours à feu doux pendant environ 45 min . servir sur les <ingredient> pâtes </ingredient> chaudes et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> . bon appétit ! encore meilleur le lendemain !
+</preparation>
+</recette>

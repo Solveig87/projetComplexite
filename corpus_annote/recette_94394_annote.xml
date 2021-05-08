@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94394">
+<titre>Galette de maïs et sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>260 g de maïs</p>
+<p>1 oignon</p>
+<p>100 g de gruyère râpé</p>
+<p>125 g de farine</p>
+<p>1 œuf</p>
+<p>1 grand verre de lait</p>
+<p>1 pincée de sel et de poivre</p>
+<p>Pour la sauce tomate : - 1 gousse d'ail</p>
+<p>1 cuillère de concentré de tomate</p>
+<p>3 tomates pelées concassée</p>
+<p>basilic </p>
+<p>2 cuillère d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+la sauce : <operation ingredients="ail;oignons"> couper </operation> l' <ingredient action="couper"> ail </ingredient> et l' <ingredient action="couper" quantite="1"> oignons </ingredient> très fin . faire <operation ingredients="huile"> dorer </operation> dans une casserole avec l' <ingredient action="dorer" quantite="2 cuillère"> huile </ingredient> d' olive , <operation ingredients="tomate;tomates;salé;basilic"> rajouter </operation> une cuillère à café de <operation> concentré </operation> de <ingredient action="rajouter" quantite="3"> tomate </ingredient> puis les 3 <ingredient action="rajouter" quantite="3"> tomates </ingredient> <operation> pelées </operation> , <ingredient action="rajouter"> salé </ingredient> , <operation> poivrer </operation> , <ingredient action="rajouter" quantite=""> basilic </ingredient> , laisser <operation> mijoter </operation> . pour les <ingredient> galettes </ingredient> : dans un saladier <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="125 gramme"> farine </ingredient> faire un puits , <operation ingredients="œuf;lait"> mélanger </operation> l' <ingredient action="mélanger" quantite="1"> œuf </ingredient> et le <ingredient action="mélanger"> lait </ingredient> , jusqu' à avoir une <ingredient> pâte </ingredient> homogène , ni trop liquide , ni trop épaisse . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> très fin et y <operation ingredients="pâte;maïs;gruyère"> ajouter </operation> à la <ingredient action="ajouter"> pâte </ingredient> ainsi que le <ingredient action="ajouter" quantite="260 gramme"> maïs </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . dans une <operation> poêle </operation> bien chaude bien <operation> huiler </operation> , avec une grosse cuillère a <ingredient action="laisser"> café </ingredient> <operation> posé </operation> une cuillère dans la <operation> poêle </operation> <operation ingredients="café"> laisser </operation> <operation> dorer </operation> puis <operation> retourner </operation> . . . quand les <ingredient action="dorer"> galettes </ingredient> sont bien <operation ingredients="galettes"> dorer </operation> <operation> poser </operation> les sur des feuilles de papier absorbant pour <operation ingredients="huile"> enlever </operation> le surplus d' <ingredient action="enlever" quantite="2 cuillère"> huile </ingredient> . manger avec la sauce tomate en <operation> accompagnement </operation> .
+</preparation>
+</recette>

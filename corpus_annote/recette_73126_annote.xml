@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73126">
+<titre>Gâteau de pommes au caramel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>130 g de sucre en poudre</p>
+<p>20 cl de vin blanc doux</p>
+<p>15 cl d'huile</p>
+<p>250 g de farine</p>
+<p>un paquet de levure</p>
+<p>quelques gouttes de citron</p>
+<p>5 pommes</p>
+<p>caramel</p>
+</ingredients>
+<preparation>
+. dans un saladier , <operation ingredients="oeufs;sucre"> mélanger </operation> les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> entiers et le <ingredient action="mélanger" quantite="130 gramme"> sucre </ingredient> en <operation> poudre </operation> . <operation ingredients="vin;huile;farine;levure;citron"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> , l' <ingredient action="ajouter" quantite="15 cl"> huile </ingredient> , la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> , la <ingredient action="ajouter"> levure </ingredient> et le <ingredient action="ajouter"> citron </ingredient> . bien <operation> battre </operation> le tout . <operation ingredients="pommes"> préparer </operation> les <ingredient action="préparer" quantite="5"> pommes </ingredient> : les <operation> peler </operation> , les <operation> couper </operation> en quartiers . caraméliser un <operation> moule </operation> à manqué ( <ingredient quantite="130 gramme"> sucre </ingredient> et eau ) ou utiliser un caramel déjà prêt du commerce . <operation ingredients="pommes"> placer </operation> les <ingredient action="placer" quantite="5"> pommes </ingredient> sur le caramel et <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> . <operation> cuire </operation> à 200 <operation> ° </operation> , thermostat . 7 , environ 30 min .
+</preparation>
+</recette>

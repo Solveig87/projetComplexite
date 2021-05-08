@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="818">
+<titre>Salade de pâtes au Carré Frais</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes papillon</p>
+<p>1 Carré Frais (75 g)</p>
+<p>ciboulette</p>
+<p>vinaigre balsamique</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> , puis les <operation> égoutter </operation> . faire <operation ingredients="carré"> fondre </operation> le <ingredient action="fondre"> carré </ingredient> frais dans la casserole , à feu très doux . . . puis <operation ingredients="ciboulette"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> ciboulette </ingredient> selon votre goût . <operation> ajouter </operation> les pates et <operation> mélanger </operation> . servir frais avec un trait de <ingredient quantite=""> vinaigre </ingredient> balsamique .
+</preparation>
+</recette>

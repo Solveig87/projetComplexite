@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29401">
+<titre>Filet mignon au miel et à la vanille</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 filet mignon de porc ou de veau</p>
+<p>4 cuillères à soupe de miel liquide</p>
+<p>30 g de beurre</p>
+<p>1 gousse de vanille</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;miel"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> avec le <ingredient action="fondre" quantite="4 cuillère à soupe"> miel </ingredient> dans une casserole et y <operation ingredients="gousse"> ajouter </operation> les grains de la <ingredient action="ajouter" quantite="1"> gousse </ingredient> de vanille . <operation> saler </operation> et <operation> poivrer </operation> le filet mignon et le faire <operation ingredients="huile"> dorer </operation> dans de l' <ingredient action="dorer"> huile </ingredient> d' olive 2 min de chaque côté . <operation> mettre </operation> le filet mignon dans un plat l' <operation ingredients="miel"> arroser </operation> du <operation> mélange </operation> <ingredient action="arroser" quantite="4 cuillère à soupe"> miel </ingredient> - vanille et faire <operation> cuire </operation> 30 min au four à 210 <operation> ° </operation> c en <operation ingredients="viande"> arrosant </operation> la <ingredient action="arroser"> viande </ingredient> toutes les 5 min . <operation> passer </operation> sous le grill 3 min pour caraméliser . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

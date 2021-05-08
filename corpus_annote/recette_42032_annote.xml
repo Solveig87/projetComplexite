@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42032">
+<titre>Feuilleté au coing</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 paquet de pâte feuilletée</p>
+<p>2 coings </p>
+<p>quelques raisins secs </p>
+<p>4 cuillères à café de miel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> découper </operation> la <ingredient action="découper"> pâte </ingredient> en 4 parts égales . <operation ingredients="coings"> essuyer </operation> les <ingredient action="essuyer" quantite="2"> coings </ingredient> , les <operation> couper </operation> en 2 , et <operation> enlever </operation> les pépins . <operation ingredients="miel"> mettre </operation> une cuillère de <ingredient action="mettre" quantite="4 cuillère à café"> miel </ingredient> , à la <operation> place </operation> des pépins . <operation ingredients="coings;pâte"> poser </operation> les demi <ingredient action="poser" quantite="2"> coings </ingredient> sur les parts de <ingredient action="poser"> pâte </ingredient> , les <operation ingredients="raisins"> entourer </operation> de quelques <ingredient action="entourer" quantite="quelque"> raisins </ingredient> secs , et <operation ingredients="pâte;chausson"> replier </operation> la <ingredient action="replier"> pâte </ingredient> comme pour un <ingredient action="replier"> chausson </ingredient> . <operation> mettre </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) , pendant 35 minutes . parfait pour un <operation> goûter </operation> . se <operation> congèle </operation> très bien .
+</preparation>
+</recette>

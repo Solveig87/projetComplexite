@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164585">
+<titre>Lasagnes aux asperges et aux artichauts</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de petites asperges vertes découpées</p>
+<p>210 g de fonds d'Artichauts (ou de topinambours) découpés</p>
+<p>150 g de petites pois surgelés</p>
+<p>150 g de champignons de Paris émincés surgelés</p>
+<p>250 g de coulis de tomate</p>
+<p>béchamel préparée avec 1/4 l de lait</p>
+<p>gruyère râpé</p>
+<p>environ 8 feuilles de lasagnes (250 g)</p>
+</ingredients>
+<preparation>
+dans un plat de 21 * 25 cm , <operation ingredients="tomate"> mettre </operation> un fond de coulis de <ingredient action="mettre"> tomate </ingredient> . <operation ingredients="tomate;légumes"> disposer </operation> 1 couche de lasagnes , une couche de coulis de <ingredient action="disposer"> tomate </ingredient> , et 1 / 3 des <ingredient action="disposer" quantite="100 gramme;150 gramme;150 gramme"> légumes </ingredient> . recommencer l' opération en terminant par une couche de lasagnes <operation> recouverte </operation> de <ingredient quantite=""> béchamel </ingredient> . <operation ingredients="fromage"> saupoudrez </operation> de <ingredient action="saupoudrer"> fromage </ingredient> râpé . faire <operation> cuire </operation> au four à 200 <operation> ° </operation> c pendant 30 à 40 minutes .
+</preparation>
+</recette>

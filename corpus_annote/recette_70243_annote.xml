@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70243">
+<titre>Spaghetti aux aubergines et au thon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de spaghetti</p>
+<p>400 g de coulis de tomates</p>
+<p>200 g de thon au naturel</p>
+<p>200 g d'aubergines</p>
+<p>2 oignons </p>
+<p>60 g de beurre</p>
+<p>100 g de parmesan</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="thon"> egouttez </operation> le <ingredient action="egoutter" quantite="200 gramme"> thon </ingredient> et <operation ingredients="oignons"> émincez </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> . <operation ingredients="aubergines"> pelez </operation> et <operation> coupez </operation> en petits morceaux les <ingredient action="peler" quantite="200 gramme"> aubergines </ingredient> et faites - les dégorger au <ingredient quantite=""> sel </ingredient> . faites <operation ingredients="aubergines;oignons;beurre"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> aubergines </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans une <operation> poêle </operation> avec le <ingredient action="revenir" quantite="60 gramme"> beurre </ingredient> puis <operation ingredients="tomates"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomates </ingredient> . laisses <operation> cuire </operation> environ 10 minutes . pendant ce temps , faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> selon le temps indiqué sur le paquet . <operation> egouttez </operation> - les <operation ingredients="pâtes;parmesan"> mélangez </operation> les <ingredient action="mélanger"> pâtes </ingredient> avec la sauce et <operation> parsemez </operation> de <ingredient action="mélanger" quantite="100 gramme"> parmesan </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

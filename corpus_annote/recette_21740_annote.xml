@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21740">
+<titre>Poulet au pot et sauce blanche</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poule</p>
+<p>Pour la farce :</p>
+<p>1/2 gésier (de la poule)</p>
+<p>1 foie (celui de la poule)</p>
+<p>100 g de lard de poitrine frais</p>
+<p>2 gousses d'ail</p>
+<p>1 échalote</p>
+<p>1/2 oignon</p>
+<p>1 grosse poignée de mie de pain trempée dans du lait</p>
+<p>1 oeuf</p>
+<p>persil frais haché</p>
+<p>sel et poivre</p>
+<p>Pour les légumes de cuisson :</p>
+<p>5 carottes</p>
+<p>5 poireaux</p>
+<p>1 oignon piqué de 3 clous de girofle</p>
+<p>3 navets</p>
+<p>2 échalotes</p>
+<p>1 chou</p>
+<p>2 feuilles de persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> mélangez </operation> tous les ingrédients de la farce . <operation ingredients="poule"> farcissez </operation> la <ingredient action="farcir" quantite="1"> poule </ingredient> et recousez - la . <operation ingredients="carottes;poireaux;navets"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="5"> carottes </ingredient> en julienne , <operation> émincés </operation> les <ingredient action="peler" quantite="5"> poireaux </ingredient> et <operation ingredients="chou"> coupez </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> en 4 , les <ingredient action="peler" quantite="3"> navets </ingredient> en 2 . <operation> mettez </operation> - les dans une grande marmite avec la <ingredient quantite="1"> poule </ingredient> et le reste des <ingredient quantite="1+2;5;5;1;3;1"> légumes </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation> couvrez </operation> d' eau . <operation> portez </operation> à <operation> ébullition </operation> , puis baissez le feu . <operation> couvrez </operation> et laissez <operation> cuire </operation> 2 h à feu doux . une fois cuite , <operation ingredients="poule"> retirez </operation> la <ingredient action="retirer" quantite="1"> poule </ingredient> et <operation> découpez </operation> - la . <operation> egouttez </operation> les <ingredient quantite="1+2;5;5;1;3;1"> légumes </ingredient> du bouillon et <operation> disposez </operation> - les autour . vous pouvez réaliser une sauce blanche pour <operation> accompagner </operation> : faites <operation ingredients="beurre"> fondre </operation> 20 g de <ingredient action="fondre"> beurre </ingredient> , <operation ingredients="farine"> saupoudrez </operation> de 20 g de <ingredient action="saupoudrer"> farine </ingredient> et <operation> remuez </operation> jusqu' à légère coloration . <operation ingredients="bouillon"> mouillez </operation> de <ingredient action="mouiller"> bouillon </ingredient> de cuisson en <operation> fouettant </operation> et laissez <operation> épaissir </operation> à feu doux . servez en saucière après avoir nappé la <ingredient quantite="1"> poule </ingredient> et les <ingredient quantite="1+2;5;5;1;3;1"> légumes </ingredient> , et éventuellement du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

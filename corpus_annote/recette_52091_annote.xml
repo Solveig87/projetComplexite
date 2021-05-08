@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52091">
+<titre>Havrebollar</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de beurre</p>
+<p>75 cl de sucre en poudre</p>
+<p>1 cuillère à soupe de sucre vanillé</p>
+<p>2 cuillerées à soupe de cacao</p>
+<p>1 cuillerée à café de café</p>
+<p>25 cl de flocons d'avoine</p>
+<p>noix de coco pillée</p>
+</ingredients>
+<preparation>
+. broyer les flocons d' avoine au mixeur . <operation ingredients="beurre;sucre;sucre"> mélanger </operation> le <ingredient action="mélanger" quantite="100 gramme"> beurre </ingredient> avec le <ingredient action="mélanger" quantite="75 cl+1 cuillère à soupe"> sucre </ingredient> et le <ingredient action="mélanger" quantite="75 cl+1 cuillère à soupe"> sucre </ingredient> vanillé . <operation ingredients="cacao;café"> ajouter </operation> le <ingredient action="ajouter"> cacao </ingredient> , le <ingredient action="ajouter"> café </ingredient> , puis les flocons d' avoines , en <operation> mélangeant </operation> . <operation> façonner </operation> des boules , puis les <operation ingredients="noix"> rouler </operation> dans la <ingredient action="rouler" quantite=""> noix </ingredient> de coco . a conserver au réfrigérateur . il s' agit d' une spécialité suédoise .
+</preparation>
+</recette>

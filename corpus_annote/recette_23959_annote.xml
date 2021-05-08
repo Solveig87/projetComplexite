@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23959">
+<titre>Cassolettes de pétoncles gratinées</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 noix de pétoncles avec leur corail</p>
+<p>100 g de mie de pain rassis</p>
+<p>10 cl de lait</p>
+<p>1 jaune d'oeuf</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>2 gousses d'ail</p>
+<p>1 bouquet de persil</p>
+<p>30 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;lait"> tremper </operation> le <ingredient action="tremper"> pain </ingredient> dans le <ingredient action="tremper" quantite="10 cl"> lait </ingredient> . <operation ingredients="ail;persil;pain"> pilez </operation> l' <ingredient action="pilez"> ail </ingredient> et le <ingredient action="pilez"> persil </ingredient> , puis <operation> mixez </operation> - les avec le <ingredient action="pilez"> pain </ingredient> <operation> essoré </operation> . <operation ingredients="beurre"> mélangez </operation> avec le <ingredient action="mélanger" quantite="30 gramme"> beurre </ingredient> mou , la <ingredient quantite="2 cuillère à soupe"> crème </ingredient> fraîche et le jaune d' <ingredient> oeuf </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="pétoncles"> déposez </operation> les <ingredient action="déposer"> pétoncles </ingredient> dans 4 cassolettes <operation> beurrées </operation> allant au four . <operation> répartissez </operation> la préparation dessus . <operation> passez </operation> au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 10 minutes .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49352">
+<titre>Papillotes de lapin à la moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>morceaux de lapin </p>
+<p>2 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>10 cl de vin blanc</p>
+<p>20 cl de crème fraîche</p>
+<p>sel, poivre, thym</p>
+<p>papier d'aluminium</p>
+</ingredients>
+<preparation>
+<operation> déposez </operation> dans un plat en terre le papier d' alu , et <operation ingredients="lapin;moutarde"> mettre </operation> dessus les morceaux de <ingredient action="mettre"> lapin </ingredient> <operation> tartinés </operation> de <ingredient action="mettre"> moutarde </ingredient> . <operation ingredients="échalotes;gousses"> ajoutez </operation> 2 <ingredient action="ajouter" quantite="2"> échalotes </ingredient> et 2 <ingredient action="ajouter" quantite="2"> gousses </ingredient> d' ail <operation> hachées </operation> . <operation ingredients="vin;crème"> versez </operation> dessus 10 cl de <ingredient action="verser" quantite="10 cl"> vin </ingredient> blanc et 20 cl de <ingredient action="verser" quantite="20 cl"> crème </ingredient> fraîche . <operation ingredients="sel"> ajoutez </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre , une branche de <ingredient quantite=""> thym </ingredient> . fermez le papier d' alu , et <operation> enfournez </operation> à 180 <operation> ° </operation> c ( th 6 ) , pendant 1 h. vous pouvez <operation ingredients="tagliatelles"> accompagner </operation> ce plat de <ingredient action="accompagner"> tagliatelles </ingredient> fraîches .
+</preparation>
+</recette>

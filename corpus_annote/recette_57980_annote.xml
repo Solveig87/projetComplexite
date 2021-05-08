@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57980">
+<titre>Saltimbocca toutes simples</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 morceaux de veau (spécial "cuisson sur pierre")</p>
+<p>1 morceau de fromage St Marcelin</p>
+<p>8 tranches de jambon cru</p>
+<p>un verre de vin blanc ou du marsala</p>
+<p>cure-dents</p>
+<p>beurre de cuisson</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;escalopes"> couper </operation> des tranches de <ingredient action="couper"> fromage </ingredient> de la taille des <ingredient action="couper"> escalopes </ingredient> . sur l' <ingredient action="poser"> escalope </ingredient> , <operation ingredients="escalope;fromage"> poser </operation> un morceau de <ingredient action="poser"> fromage </ingredient> et <operation ingredients="jambon"> recouvrez </operation> de <ingredient action="recouvrir" quantite="8 tranche"> jambon </ingredient> cru ( la tranche devra être <operation> coupée </operation> aux dimensions de l' <ingredient> escalope </ingredient> ) . fermer par des cure dents ( 2 suffisent , normalement ) . faire <operation ingredients="viande;beurre;jambon"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="8 tranche"> viande </ingredient> dans du <ingredient action="revenir" quantite=""> beurre </ingredient> , d' abord côté <ingredient action="revenir" quantite="8 tranche"> jambon </ingredient> , le temps de faire un peu <operation> colorer </operation> , puis <operation ingredients="escalope"> cuire </operation> coté viande , comme pour une <ingredient action="cuire"> escalope </ingredient> classique . juste avant la fin de cuisson , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> . <operation ingredients="fromage"> grattez </operation> les sucs et le <ingredient action="gratter"> fromage </ingredient> qui aura commencé à couler , afin de le <operation ingredients="jus"> lier </operation> au <ingredient action="lier"> jus </ingredient> et laisser <operation> mijoter </operation> 1 min à feu doux . . . server les <ingredient> escalopes </ingredient> et <operation> nappez </operation> de <ingredient> jus </ingredient> . pas vraiment " diététique " mais délicieux . . . un régal avec un gratin dauphinois maison , par exemple . un <ingredient quantite="1 verre"> vin </ingredient> blanc sec
+</preparation>
+</recette>

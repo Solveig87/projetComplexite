@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23075">
+<titre>Chili verde (poulet au citron et au maïs)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de blancs de poulet</p>
+<p>4 citrons verts</p>
+<p>300 g de maïs en grains</p>
+<p>3 oignons blancs</p>
+<p>2 poivrons rouges</p>
+<p>5 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>cumin</p>
+<p>tabasco</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper"> poulet </ingredient> en grosses lanières . les faire <operation ingredients="jus;huile;sel;poivre"> mariner </operation> dans le <ingredient action="mariner"> jus </ingredient> des citrons + 2 cuillères d' <ingredient action="mariner" quantite="5 cuillère à soupe"> huile </ingredient> , du <ingredient action="mariner" quantite=""> sel </ingredient> et du <ingredient action="mariner"> poivre </ingredient> , pendant 2 h. <operation ingredients="oignons"> peler </operation> et <operation> émincer </operation> les <ingredient action="peler" quantite="3"> oignons </ingredient> en rondelles . <operation> epépiner </operation> et <operation ingredients="poivrons"> détailler </operation> les <ingredient action="détailler"> poivrons </ingredient> en lanières . <operation ingredients="maïs"> rincer </operation> le <ingredient action="rincer" quantite="300 gramme"> maïs </ingredient> . faire <operation ingredients="huile"> chauffer </operation> le reste d' <ingredient action="chauffer" quantite="5 cuillère à soupe"> huile </ingredient> dans une cocotte . y faire <operation ingredients="oignons;poulet;poivrons"> revenir </operation> les <ingredient action="revenir" quantite="3"> oignons </ingredient> , les morceaux de <ingredient action="revenir"> poulet </ingredient> et les <ingredient action="revenir"> poivrons </ingredient> environ 10 min en <operation> remuant </operation> bien . baisser le feu , <operation ingredients="maïs"> rajouter </operation> le <ingredient action="rajouter" quantite="300 gramme"> maïs </ingredient> et <operation ingredients="vinaigre"> arroser </operation> de <ingredient action="arroser" quantite="2 cuillère à soupe"> vinaigre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="cumin;tabasco"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cumin </ingredient> et d' un trait de <ingredient action="saupoudrer" quantite=""> tabasco </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 1 . 20 min à feu doux .
+</preparation>
+</recette>

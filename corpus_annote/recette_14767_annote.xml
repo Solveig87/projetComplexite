@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14767">
+<titre>Tarte tomate mozzarella sauce basilic</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>1 sachet de mozzarella</p>
+<p>2 gousses d'ail, basilic, huile olive</p>
+<p>1 pâte brisée toute prête</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> cuire </operation> la <ingredient action="cuire" quantite="1"> pâte </ingredient> à blanc pendant 5 mn à thermostat 7 . <operation> préparer </operation> la sauce : <operation ingredients="gousses;basilic"> mélanger </operation> 4 cuillères à soupe d' huile d' olive , les <ingredient action="mélanger" quantite="2"> gousses </ingredient> d' ail <operation> pressées </operation> , et le <ingredient action="mélanger" quantite=""> basilic </ingredient> ( en surgelé ou quelques feuilles fraîches ) . une fois la <ingredient quantite="1"> pâte </ingredient> pr . cuite , <operation ingredients="tomates;mozzarella;basilic"> répartir </operation> les <ingredient action="répartir" quantite="4"> tomates </ingredient> puis la <ingredient action="répartir"> mozzarella </ingredient> en tranches , puis parmeser de sauce <ingredient action="répartir" quantite=""> basilic </ingredient> . <operation> remettre </operation> à <operation ingredients="pâte;mozzarella"> cuire </operation> environ 10 15 mn jusqu' à ce que la <ingredient action="cuire" quantite="1"> pâte </ingredient> soit bien cuite et la <ingredient action="cuire"> mozzarella </ingredient> légèrement dorée .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42496">
+<titre>Salade de mache de mamy</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grosse mâche</p>
+<p>4 oeufs</p>
+<p>2 gros oignons</p>
+<p>vinaigrette</p>
+<p>4 grosses pomme de terre</p>
+<p>vinaigrette</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pomme;oignons"> cuire </operation> des <ingredient action="cuire" quantite="4"> pomme </ingredient> de terre et les <ingredient action="cuire" quantite="2"> oignons </ingredient> au four ( ou autrement mais mais la cuisson au four apporte ce petit plus de nos mamy ! ) , faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> molets . <operation ingredients="mâche"> mettre </operation> la <ingredient action="mettre" quantite="1"> mâche </ingredient> dans un grand saladier , et une fois le tout cuit , <operation ingredients="pommes;oignons"> creuser </operation> les <ingredient action="creuser" quantite="4"> pommes </ingredient> de terre et les <ingredient action="creuser" quantite="2"> oignons </ingredient> , <operation> mettre </operation> dans le saladier , puis <operation ingredients="oeuf"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> oeuf </ingredient> écaillés . <operation> mélanger </operation> le tout . . . <operation ingredients="huile"> assaisoner </operation> selon le goût , <ingredient action="assaisoner"> huile </ingredient> , vinaigre , échalote , sel , poivre ( n' hésitez pas sur le <ingredient> vinaigre </ingredient> ) . un délice ! cette recette vient de ma grand-mère qui l' a transmise à ma mère , qui me l' a retransmise . . . il faut la <ingredient> manger </ingredient> de suite , autrement comme toute <ingredient action="cuire"> salade </ingredient> elle <operation ingredients="salade;vinaigre"> cuit </operation> avec le <ingredient action="cuire"> vinaigre </ingredient> . vous pouvez tout <operation> cuire </operation> à l' avance , et la <operation ingredients="manger"> faire </operation> en dernière minute pour la <ingredient action="faire"> manger </ingredient> froide , elle se <ingredient> mange </ingredient> froide l' été et chaude l' hiver !
+</preparation>
+</recette>

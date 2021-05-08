@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62631">
+<titre>Salade de mangue et banane au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 mangue bien mûre</p>
+<p>1 banane bien mûre également</p>
+<p>1 petite brique de lait de coco</p>
+<p>1 cuillère à soupe de sucre de canne</p>
+<p>1 bouchon de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="mangue;banane"> coupez </operation> la <ingredient action="couper" quantite="1"> mangue </ingredient> et la <ingredient action="couper" quantite="1"> banane </ingredient> en dés . <operation ingredients="lait"> versez </operation> le <ingredient action="verser"> lait </ingredient> de coco dans un petit saladier ainsi que le <ingredient action="mélanger"> rhum </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sucre </ingredient> . <operation ingredients="rhum;sucre"> mélangez </operation> et <operation ingredients="fruits"> versez </operation> les <ingredient action="verser" quantite="1;1"> fruits </ingredient> <operation> coupés </operation> . <operation> réservez </operation> au frais pendant 1 h en <operation> mélangeant </operation> de temps en temps puis servez dans des coupelles en ayant <operation> saupoudré </operation> de <ingredient> noix </ingredient> de coco <operation> râpée </operation> . bonne dégustation ! ; )
+</preparation>
+</recette>

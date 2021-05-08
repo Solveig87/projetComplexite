@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58582">
+<titre>Gratin de boeuf à la Guinness</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de viande de boeuf hachée</p>
+<p>1 oignon</p>
+<p>2 carottes</p>
+<p>33 cl de Guinness (en bouteille à 8,2°C)</p>
+<p>12 pommes de terre</p>
+<p>emmental râpé</p>
+<p>1 cuillère d'huile</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;oignon"> réduire </operation> les <ingredient action="réduire" quantite="2"> carottes </ingredient> et l' <ingredient action="réduire" quantite="1"> oignon </ingredient> en très petits morceaux . les faire <operation ingredients="huile;sel;poivre"> revenir </operation> à la <operation> poêle </operation> dans un peu d' <ingredient action="revenir" quantite="1 cuillère"> huile </ingredient> , bien <operation> assaisonnés </operation> de <ingredient action="revenir"> sel </ingredient> et de <ingredient action="revenir"> poivre </ingredient> . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="800 gramme"> viande </ingredient> hachée et la faire <operation> cuire </operation> jusqu' à ce qu' elle soit bien dorée . <operation> ajouter </operation> la guinness dans la <operation> poêle </operation> et faire <operation ingredients="jus"> cuire </operation> à feu doux jusqu' à réduction complète du <ingredient action="cuire"> jus </ingredient> . <operation> eteindre </operation> le feu . <operation ingredients="pommes"> préparer </operation> une purée de <ingredient action="préparer" quantite="12"> pommes </ingredient> de terre . <operation ingredients="muscade"> ajouter </operation> la <ingredient action="ajouter" quantite=""> muscade </ingredient> à la purée . dans un plat : <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite="800 gramme"> viande </ingredient> , <operation> recouvrir </operation> avec la purée et <operation ingredients="emmental"> ajouter </operation> l' <ingredient action="ajouter"> emmental </ingredient> râpé au-dessus . <operation> mettre </operation> au four à 150 <operation> ° </operation> c ( thermostat 5 ) jusqu' à ce que le <ingredient action="fondre"> fromage </ingredient> ait <operation ingredients="fromage"> fondu </operation> et gratine le dessus . servir immédiatement . guinness
+</preparation>
+</recette>

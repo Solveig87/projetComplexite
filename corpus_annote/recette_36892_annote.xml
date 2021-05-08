@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36892">
+<titre>Croustillant aux pommes façon créole</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 feuilles de brick</p>
+<p>2 bananes </p>
+<p>2 pommes </p>
+<p>8 carrés de chocolat </p>
+<p>beurre mou</p>
+<p>3 cuillères à soupe de rhum</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="bananes;pommes"> mettez </operation> les <ingredient action="mettre" quantite="2"> bananes </ingredient> <operation> coupées </operation> en rondelles , et les <ingredient action="mettre" quantite="2"> pommes </ingredient> en fines lamelles . <operation ingredients="rhum;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à soupe"> rhum </ingredient> , et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> en <operation> poudre </operation> . laisser <operation> mariner </operation> 1 h au frigo . <operation ingredients="brick;rondes"> coupez </operation> les feuilles de <ingredient action="couper" quantite="6 feuille"> brick </ingredient> <ingredient action="couper"> rondes </ingredient> en 2 , <operation> beurrez </operation> - les sur la totalité . cassez les <ingredient quantite="8"> carrés </ingredient> de chocolat en tous petits morceaux et <operation> ajoutez </operation> les au <operation> mélange </operation> . <operation ingredients="brick"> déposez </operation> la farce sur la demi <ingredient action="déposer" quantite="6 feuille"> brick </ingredient> , et <operation ingredients="brick"> replier </operation> la feuille de <ingredient action="replier" quantite="6 feuille"> brick </ingredient> en triangle . dans une <operation> poêle </operation> bien beurrée ( pour ne pas que les <ingredient action="coller" quantite="6 feuille"> bricks </ingredient> <operation ingredients="bricks"> collent </operation> ) , <operation ingredients="coco;bricks"> saisissez </operation> à feu vif les triangles rapidemment en les <operation ingredients="chocolat"> retournant </operation> recto verso jusqu' elles soient dorées et le <ingredient action="retourner"> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="glace;vanille;coco;bricks"> ajouter </operation> une boule de <ingredient action="ajouter"> glace </ingredient> <ingredient action="ajouter"> vanille </ingredient> , ou de la <operation> poudre </operation> de <ingredient action="ajouter"> coco </ingredient> sur les <ingredient action="ajouter" quantite="6 feuille"> bricks </ingredient> pour satisfaire définitivement les gourmants . <operation ingredients="glace;vanille"> ajouter </operation> une boule de <ingredient action="ajouter"> glace </ingredient> <ingredient action="ajouter"> vanille </ingredient> , ou de la <operation> poudre </operation> de <ingredient action="saisir"> coco </ingredient> sur les <ingredient action="saisir" quantite="6 feuille"> bricks </ingredient> pour satisfaire définitivement les gourmands . <ingredient> cidre </ingredient> fermier
+</preparation>
+</recette>

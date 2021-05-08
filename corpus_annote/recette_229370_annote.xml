@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229370">
+<titre>Gratin de céleri au roquefort</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 céleri rave (une belle boule)</p>
+<p>50 cl de crème liquide</p>
+<p>1 cube de bouillon de légumes</p>
+<p>sel, poivre</p>
+<p>250 g de roquefort</p>
+<p>100 g de fromage râpé</p>
+<p>10 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="céleri"> éplucher </operation> le <ingredient action="éplucher"> céleri </ingredient> , puis le <operation> couper </operation> en lamelles . <operation ingredients="bouillon"> faire </operation> <operation> bouillir </operation> de l' eau avec le cube <ingredient action="faire"> bouillon </ingredient> de légumes dans une grosse casserole . <operation ingredients="céleri"> plonger </operation> les lamelles de <ingredient action="plonger"> céleri </ingredient> dans l' eau bouillante . laisser <operation> cuire </operation> jusqu’ à ce qu' on puisse traverser une lamelle avec la point d' un <ingredient> couteau </ingredient> . puis l' <operation> égoutter </operation> . dans un bol , <operation ingredients="crème;sel;poivre"> mélanger </operation> la <ingredient action="mélanger" quantite="50 cl"> crème </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation> beurrer </operation> un plat à gratin . <operation ingredients="céleri;roquefort;céleri"> disposer </operation> une couche de <ingredient action="disposer"> céleri </ingredient> dans le plat , du <ingredient action="disposer" quantite="250 gramme"> roquefort </ingredient> selon votre goût , une couche de <ingredient action="disposer"> céleri </ingredient> , <operation ingredients="crème;céleri"> verser </operation> la <ingredient action="verser" quantite="50 cl"> crème </ingredient> sur le <ingredient action="verser"> céleri </ingredient> et <operation ingredients="fromage"> recouvrir </operation> le tout de <ingredient action="recouvrir" quantite="100 gramme"> fromage </ingredient> <operation> râpé </operation> . c' est bon et ça change du gratin dauphinois ! <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

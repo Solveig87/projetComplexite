@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63723">
+<titre>Tarte au boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à tarte brisée</p>
+<p>300 g de viande de boeuf hachée</p>
+<p>4 jaunes d'oeufs</p>
+<p>2 petits oignons</p>
+<p>2 grosses tomates</p>
+<p>1 cuillerée à soupe d'huile d'olive</p>
+<p>4 grosses poignées de fromage râpé</p>
+<p>10 g de beurre</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;oeufs"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme"> viande </ingredient> hachée avec les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et <operation> saler </operation> . <operation ingredients="pâte"> garnir </operation> le <operation> moule </operation> à tarte légèrement beurré avec la <ingredient action="garnir" quantite="1"> pâte </ingredient> puis étaler la préparation de <ingredient quantite="300 gramme"> viande </ingredient> . <operation ingredients="oignons"> peler </operation> et <operation> hacher </operation> les <ingredient action="peler" quantite="2"> oignons </ingredient> . <operation> peler </operation> , <operation> épépiner </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en quartiers . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une <operation> poêle </operation> et <operation ingredients="oignons;tomates"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="2"> tomates </ingredient> . les <operation ingredients="viande"> verser </operation> sur la <ingredient action="verser" quantite="300 gramme"> viande </ingredient> et <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> râpé . faire <operation ingredients="tarte"> cuire </operation> la <ingredient action="cuire"> tarte </ingredient> 20 min à four préchauffé à 150 <operation> ° </operation> c ( thermostat 5 ) .
+</preparation>
+</recette>

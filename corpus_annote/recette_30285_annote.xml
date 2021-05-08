@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30285">
+<titre>Croque-monsieur au saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>4 tranches de saumon fumé</p>
+<p>4 tranches de cheddar</p>
+<p>10 cL de crème fraîche épaisse (quantité selon votre goût)</p>
+<p>10 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> les tranches de <ingredient action="beurrer" quantite="8 tranche"> pain </ingredient> de mie . sur le côté <ingredient action="mettre"> non </ingredient> beurré , <operation ingredients="non;crème;saumon;fumé;cheddar"> mettre </operation> un peu de <ingredient action="mettre" quantite="10 cl"> crème </ingredient> fraiche , puis une tranche de <ingredient action="mettre"> saumon </ingredient> <ingredient action="mettre" quantite="4 tranche"> fumé </ingredient> et une tranche de <ingredient action="mettre" quantite="4 tranche"> cheddar </ingredient> . <operation> refermer </operation> le croque monsieur , et le fermer <operation> cuire </operation> quelques instants seulement dans l' appareil à croque monsieur ( ou au grill , des deux côtés ) . servir tiède , avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

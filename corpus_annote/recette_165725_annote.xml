@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165725">
+<titre>Moelleux au chocolat et à la crème de spéculoos</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100g de beurre + 10g pour les moules</p>
+<p>3 oeufs</p>
+<p>200g de chocolat patissier</p>
+<p>125g de cassonade</p>
+<p>70g de farine</p>
+<p>200g de crème de speculoos</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une casserole et <operation ingredients="chocolat"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> . lorsque le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> est <operation ingredients="chocolat"> fondu </operation> , <operation ingredients="sucre;farine"> versez </operation> le <ingredient action="verser"> sucre </ingredient> et la <ingredient action="verser" quantite="70 gramme"> farine </ingredient> . <operation> eteignez </operation> le feu et <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> un à un . dans des <operation> moules </operation> à muffins en silicone , <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> à moitier du <operation> moule </operation> . <operation ingredients="crème"> ajoutez </operation> au centre une cuillère à café de " <ingredient action="ajouter" quantite="200 gramme"> crème </ingredient> de speculoos " puis <operation ingredients="pâte"> reversez </operation> la <ingredient action="reverser"> pâte </ingredient> jusqu' à auteur du <operation> moule </operation> . <operation> enfournez </operation> à 180 <operation> ° </operation> c pendant environ 15 min ( il faut que le dessus soit craquelé ) . laissez refroidir quelques instant et servez <operation ingredients="glace"> accompagné </operation> par exemple d' une boule de <ingredient action="accompagner"> glace </ingredient> . bon appétitil est préférable de les <ingredient> manger </ingredient> tiède que froid car le cœur sera coulant .
+</preparation>
+</recette>

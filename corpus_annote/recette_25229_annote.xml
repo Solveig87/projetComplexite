@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25229">
+<titre>Bonite aux pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de bonite coupée en gros dés</p>
+<p>2 oignons</p>
+<p>1 kg de pommes de terre</p>
+<p>3 gousses d'ail</p>
+<p>huile d'olive</p>
+<p>1 cuillère à café paprika</p>
+<p>laurier</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte ( en terre si possible ) <operation ingredients="oignons;gousses"> mettre </operation> les <ingredient action="mettre" quantite="2"> oignons </ingredient> et les <ingredient action="mettre" quantite="3"> gousses </ingredient> d' ail , quand ils sont bien dorés , <operation ingredients="paprika"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> paprika </ingredient> . <operation ingredients="sel;poivre;laurier"> mettre </operation> 1 , 5 l d' eau , le <ingredient action="mettre" quantite=""> sel </ingredient> et le <ingredient action="mettre" quantite=""> poivre </ingredient> , la feuille de <ingredient action="mettre" quantite=""> laurier </ingredient> . quand l' eau bout , <operation ingredients="pommes"> mettre </operation> les <ingredient action="mettre" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> coupées </operation> en morceaux . au bout de 10 mn <operation ingredients="bonite"> ajouter </operation> la <ingredient action="ajouter" quantite="600 gramme"> bonite </ingredient> préalablement <operation> farinée </operation> et <operation ingredients="pommes"> laisser </operation> <operation> cuire </operation> jusqu' à ce que les <ingredient action="laisser" quantite="1 kilogramme"> pommes </ingredient> de terre soient à point . variante : on peut <operation ingredients="vin"> mettre </operation> eau + <ingredient action="mettre"> vin </ingredient> blanc . on peut aussi <operation ingredients="tomates"> rajouter </operation> des <ingredient action="rajouter"> tomates </ingredient> fraîches qui <operation ingredients="pommes"> cuisent </operation> en même temps que les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

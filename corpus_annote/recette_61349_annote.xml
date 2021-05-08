@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61349">
+<titre>Aïgo boulido (soupe provençale)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre d'eau salée</p>
+<p>5 à 8 gousses d'ail non épluchées</p>
+<p>1 branchette de sauge</p>
+<p>1 brin de thym</p>
+<p>1 feuille de laurier</p>
+<p>sel, poivre</p>
+<p>1 rasade d'huile d'olive</p>
+<p>1 jaune d'oeuf à mettre dans la soupière</p>
+<p>gruyère râpé dans les assiettes si désiré</p>
+<p>croûtons frottés d'ail</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="ail"> bouillir </operation> l' eau et l' <ingredient action="bouillir"> ail </ingredient> . <operation> eteindre </operation> le feu et <operation ingredients="thym;laurier"> ajouter </operation> la sauge , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . laisser <operation> infuser </operation> une dizaine de minutes en <operation> couvrant </operation> puis <operation> réchauffer </operation> . <operation ingredients="oeuf"> verser </operation> sur le jaune d' <ingredient action="verser"> oeuf </ingredient> dans la soupière et servir bien chaud avec <ingredient quantite=""> gruyère </ingredient> râpé et <ingredient quantite=""> croûtons </ingredient> <operation> frottés </operation> d' <ingredient> ail </ingredient> . chaque famille a sa propre recette d' aïgo boulido ; cette <ingredient> soupe </ingredient> se sert traditionnellement le 25 décembre au soir après les agapes de noël . aïgo boulido signifie " eau bouillie " , on peut varier les aromates en gardant <ingredient> ail </ingredient> , sauge et <ingredient> thym </ingredient> .
+</preparation>
+</recette>

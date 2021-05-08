@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28583">
+<titre>Tomates farcies aux crevettes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de crevettes</p>
+<p>4 tomates</p>
+<p>1 cuillère à café de moutarde</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>4 petits cornichons</p>
+<p>1 cuillère à café de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> un chapeau aux <ingredient action="couper" quantite="4"> tomates </ingredient> et les <operation> vider </operation> . <operation ingredients="crevettes;cornichons"> hacher </operation> les <ingredient action="hacher" quantite="200 gramme"> crevettes </ingredient> et les <ingredient action="hacher" quantite="4"> cornichons </ingredient> . <operation ingredients="moutarde;mayonnaise;vinaigre"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> moutarde </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à soupe"> mayonnaise </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à café"> vinaigre </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="tomates"> farcir </operation> les <ingredient action="farcir" quantite="4"> tomates </ingredient> de cette préparation et servir frais .
+</preparation>
+</recette>

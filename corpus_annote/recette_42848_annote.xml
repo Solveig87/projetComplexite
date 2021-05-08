@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42848">
+<titre>Risotto aux petits pois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>450 g de riz à risotto (ex : arborio)</p>
+<p>200 g de petits pois (je les préfère congelés, à défaut de frais)</p>
+<p>1 paquet de lardons</p>
+<p>1 gros oignon</p>
+<p>50 cl de vin blanc sec </p>
+<p>1 l de bouillon</p>
+<p>parmesan</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> dans une grande casserole . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en rondelles , et le faire <operation ingredients="lardons"> revenir </operation> avec les <ingredient action="revenir"> lardons </ingredient> . quand l' <ingredient quantite="1"> oignon </ingredient> est transparent , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="450 gramme"> riz </ingredient> , et le faire <operation> revenir </operation> jusqu' à ce qu' il devienne translucide . <operation ingredients="vin"> déglacer </operation> alors au <ingredient action="déglacer" quantite="50 cl"> vin </ingredient> blanc . . . ne jamais cesser de <operation> remuer </operation> , à partir de maintenant ! une fois que le <ingredient quantite="50 cl"> vin </ingredient> blanc s' est presque évaporé , <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> ( <operation> préparé </operation> à l' avance ) . en <operation> rajouter </operation> , à chaque fois qu' il manque de liquide ! au bout de 15 min environ , <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter" quantite="200 gramme"> pois </ingredient> . continuer de <operation> mouiller </operation> le risotto , jusqu' à bonne cuisson . le <operation> retirer </operation> du feu , et <operation ingredients="parmesan"> ajouter </operation> du <ingredient action="ajouter" quantite=""> parmesan </ingredient> râpé . <operation> couvrir </operation> , et laisser <operation> reposer </operation> 5 min . <operation> présenter </operation> en assiette à soupe ou bol , <operation ingredients="parmesan"> recouvert </operation> de copeaux de <ingredient action="recouvrir" quantite=""> parmesan </ingredient> . un <ingredient quantite="50 cl"> vin </ingredient> rouge assez corsé
+</preparation>
+</recette>

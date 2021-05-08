@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220195">
+<titre>Tagliatelles aux légumes d'été</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de tagliatelles</p>
+<p>1 courgette</p>
+<p>1 aubergine</p>
+<p>4 tomates</p>
+<p>1 poivron rouge</p>
+<p>1 oignon </p>
+<p>2 poignées d'emmental râpé</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 gousse d'ail</p>
+<p>persil</p>
+<p>herbes de Provence</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivron;aubergine"> couper </operation> en fines lamelles la courgette , le <ingredient action="couper"> poivron </ingredient> et l' <ingredient action="couper" quantite="1"> aubergine </ingredient> ( <operation> coupée </operation> en 4 dans la longueur ) . commencer la cuisson dans une casserole à feu moyen en <operation ingredients="huile"> ajoutant </operation> préalablement l' <ingredient action="ajouter" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . <operation> remuer </operation> fréquemment . <operation ingredients="oignon"> ciseler </operation> l' <ingredient action="ciseler" quantite="1"> oignon </ingredient> et <operation ingredients="tomates"> couper </operation> en fines tranches les <ingredient action="couper" quantite="4"> tomates </ingredient> . <operation> ajouter </operation> à la préparation toujours en <operation> remuant </operation> fréquemment . entre temps , faire <operation ingredients="tagliatelles"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> tagliatelles </ingredient> à part dans une casserole d' eau bouillante <operation> salée </operation> . après 20 min de cuisson , <operation ingredients="gousse;persil"> ajouter </operation> à la préparation la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail <operation> hachée </operation> , le <ingredient action="ajouter" quantite=""> persil </ingredient> , les herbes de provence et <operation> assaisonner </operation> . laisser <operation> cuire </operation> une dizaine de minutes tout en <operation> remuant </operation> de temps en temps . <operation> incorporer </operation> les <ingredient quantite="400 gramme"> tagliatelles </ingredient> à la préparation avec le <ingredient> gruyère </ingredient> <operation> râpé </operation> et servir . il est possible d' <operation ingredients="jambons;fumés"> ajouter </operation> des dés de <ingredient action="ajouter"> jambons </ingredient> <ingredient action="ajouter"> fumés </ingredient> .
+</preparation>
+</recette>

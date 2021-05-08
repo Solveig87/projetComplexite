@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56960">
+<titre>Nems aux fromages</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 feuilles de brick</p>
+<p>5 tranches de jambon cuit</p>
+<p>10 petits chèvres frais (palets)</p>
+<p>2 boules de mozzarella</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> . <operation ingredients="chèvres"> découper </operation> les petits <ingredient action="découper" quantite="10"> chèvres </ingredient> en deux , <operation ingredients="mozzarella;chèvres"> couper </operation> les boules de <ingredient action="couper"> mozzarella </ingredient> de la même taille que les morceaux de <ingredient action="couper" quantite="10"> chèvres </ingredient> . prendre une feuille de <ingredient quantite="10 feuille"> brick </ingredient> , <operation ingredients="beurre"> badigeonner </operation> de <ingredient action="badigeonner"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="brick"> replier </operation> sur 3 cm un bord de la feuille de <ingredient action="replier" quantite="10 feuille"> brick </ingredient> , <operation ingredients="jambon;chèvre;mozzarella"> poser </operation> une demi tranche de <ingredient action="poser"> jambon </ingredient> , deux bouts de <ingredient action="poser" quantite="10"> chèvre </ingredient> et un peu de <ingredient action="poser"> mozzarella </ingredient> puis <operation ingredients="brick"> rouler </operation> jusqu' au deux tiers de la feuille de <ingredient action="rouler" quantite="10 feuille"> brick </ingredient> . <operation ingredients="brick;beurre"> rabattre </operation> alors les bords de la feuille de <ingredient action="rabattre" quantite="10 feuille"> brick </ingredient> , re-badigeonner de <ingredient action="rabattre"> beurre </ingredient> er finir le nem . <operation> mettre </operation> les 10 nems dans un plat à gratin , <operation ingredients="beurre"> badigeonner </operation> à nouveau de <ingredient action="badigeonner"> beurre </ingredient> et faire <operation> cuire </operation> après préchauffage du four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 15 minutes . on peut <operation ingredients="fromages"> mettre </operation> d' autres <ingredient action="mettre"> fromages </ingredient> mais il faut faire attention à ce que le <ingredient> fromage </ingredient> tienne la cuisson .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168648">
+<titre>Tagliatelles Alfredo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500gr de tagliatelles</p>
+<p>1 gros oignon</p>
+<p>1 gousse d ail</p>
+<p>30cl de creme liquide</p>
+<p>1c.c de moutarde</p>
+<p>persil</p>
+<p>2c.s de vin blanc</p>
+<p>200gr de parmesan rapé</p>
+<p>1c.s d huile d olive</p>
+</ingredients>
+<preparation>
+dans un poelon , faire <operation ingredients="huile"> chauffer </operation> l <ingredient action="chauffer"> huile </ingredient> d olive , y <operation ingredients="gousse;oignon"> ajouter </operation> une <ingredient action="ajouter" quantite="1"> gousse </ingredient> d ail pilee et un <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> coupé </operation> en dés . ahouter deux cuilleres a <ingredient> soupe </ingredient> de vin blanc , la creme et ensuite la <ingredient> moutarde </ingredient> . baisser le feu jusqu a ce que la sauce s epaississe , <operation> melanger </operation> la sauce aux pates , <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> et <operation ingredients="parmesan"> ajouter </operation> le <ingredient action="ajouter" quantite="200gr"> parmesan </ingredient> , <operation> melanger </operation> et servir . personnellement j' <operation ingredients="tagliatelles;rôti;échalote;échalotes;rôti;vin"> accompagne </operation> les <ingredient action="accompagne" quantite="500gr"> tagliatelles </ingredient> avec un <ingredient action="accompagne"> rôti </ingredient> de porc carré sans os avec une sauce à l' <ingredient action="accompagne"> échalote </ingredient> ( simplement 2 ou 3 <ingredient action="accompagne"> échalotes </ingredient> à la fin de la cuisson du <ingredient action="accompagne"> rôti </ingredient> ) tout le monde en raffole à la maison un <ingredient action="accompagne"> vin </ingredient> blanc sec
+</preparation>
+</recette>

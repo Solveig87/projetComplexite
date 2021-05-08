@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63313">
+<titre>Poulet au citron et coriandre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de blanc de poulet</p>
+<p>une botte de coriandre</p>
+<p>2 échalotes</p>
+<p>3 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>10 cl de jus de citron</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et faire <operation ingredients="poulet"> revenir </operation> les blancs de <ingredient action="revenir"> poulet </ingredient> en cubes . <operation ingredients="ail;échalotes"> rajouter </operation> l' <ingredient action="rajouter"> ail </ingredient> et les <ingredient action="rajouter" quantite="2"> échalotes </ingredient> <operation> coupés </operation> finement . salrz et <operation> poivrer </operation> . <operation ingredients="coriandre"> hâcher </operation> la <ingredient action="hâcher"> coriandre </ingredient> . <operation ingredients="jus;coriandre"> ajouter </operation> dans la casserole le <ingredient action="ajouter" quantite="10 cl"> jus </ingredient> de citron et la moitié de la <ingredient action="ajouter"> coriandre </ingredient> . laisser <operation> mijoter </operation> pendant une dizaine de minutes , sans oublier de <operation> remuer </operation> de temps en temps . <operation ingredients="coriandre"> rajouter </operation> ensuite le reste de <ingredient action="rajouter"> coriandre </ingredient> , <operation> mélanger </operation> , et bon appétit ! vous pouvez également <operation ingredients="vin;bière"> rajouter </operation> un verre de <ingredient action="rajouter"> vin </ingredient> blanc ou de <ingredient action="rajouter"> bière </ingredient> blonde à la mixture , un délice !
+</preparation>
+</recette>

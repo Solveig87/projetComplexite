@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12506">
+<titre>Koulibiak de saumon</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la pâte briochée</p>
+<p>400 g de farine</p>
+<p>20 cl de lait</p>
+<p>1 paquet de levure de boulanger</p>
+<p>3 jaunes d'oeufs + 1 jaune pour dorer</p>
+<p>50 g de beurre</p>
+<p>sel fin</p>
+<p>1 pincée de sucre</p>
+<p>Pour la farce :</p>
+<p>900 g de saumon frais</p>
+<p>250 g de riz au grains longs</p>
+<p>5 oeufs durs</p>
+<p>300 g de champignons de Paris</p>
+<p>1 bouquet d'aneth (ou surgelé)</p>
+<p>sel fin, poivre</p>
+<p>60 g de beurre</p>
+<p>Pour accompagner :</p>
+<p>200 g de beurre fondu chaud</p>
+<p>quartiers de citron</p>
+</ingredients>
+<preparation>
+la <ingredient> pâte </ingredient> : <operation ingredients="levure;lait"> diluez </operation> la <ingredient action="diluer"> levure </ingredient> dans un peu de <ingredient action="diluer" quantite="20 cl"> lait </ingredient> tiède . <operation ingredients="farine"> mettez </operation> la <ingredient action="mettre" quantite="400 gramme"> farine </ingredient> <operation> tamisée </operation> en fontaine dans une jatte . <operation ingredients="lait;levure"> ajoutez </operation> le reste de <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> tiède dans la <ingredient action="ajouter"> levure </ingredient> . <operation ingredients="farine"> versez </operation> au centre de la <ingredient action="verser" quantite="400 gramme"> farine </ingredient> et <operation ingredients="pâte"> travaillez </operation> la <ingredient action="travailler"> pâte </ingredient> a la main en y <operation ingredients="sel"> ajoutant </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> et sucre . <operation> pétrissez </operation> - la jusqu' à ce qu' elle soit souple et sans grumeaux . <operation> ajoutez </operation> les jaunes d' <ingredient quantite="5"> oeufs </ingredient> , le <ingredient quantite="50 gramme+60 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation> pétrissez </operation> de nouveau . <operation ingredients="pâte"> farinez </operation> la boule de <ingredient action="fariner"> pâte </ingredient> . <operation> couvrez </operation> - la d' un linge et laissez - la lever à l' abri des courants d' air ( 3 h ) . la farce : faites <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> 8 à 10 min à la vapeur . <operation> egouttez </operation> - le sur du papier absorbant . laissez refroidir . <operation> détaillez </operation> - le en filet . faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> à l' eau bouillante , <operation> salée </operation> 14 min . <operation> egouttez </operation> puis <operation> épongez </operation> - le soigneusement . <operation ingredients="champignons"> hachez </operation> grossièrement les <ingredient action="hacher" quantite="300 gramme"> champignons </ingredient> <operation> nettoyés </operation> . <operation> mélangez </operation> - les au <ingredient quantite="250 gramme"> riz </ingredient> avec les <ingredient quantite="5"> oeufs </ingredient> <operation> cuits </operation> durs <operation ingredients="aneth"> écrasés </operation> à la fourchette et l' <ingredient action="écraser"> aneth </ingredient> <operation> ciselé </operation> . tassez bien la farce en y <operation ingredients="beurre"> ajoutant </operation> le <ingredient action="ajouter" quantite="50 gramme+60 gramme"> beurre </ingredient> en pommade . <operation ingredients="sel;poivre"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner" quantite=""> poivre </ingredient> . finitions : <operation ingredients="pâte"> etalez </operation> la <ingredient action="etaler"> pâte </ingredient> au rouleau en <operation> forme </operation> de rectangle sur un torchon <operation> fariné </operation> . <operation> déposez </operation> sur le bord le plus long la moitié de la farce , <operation ingredients="saumon"> posez </operation> dessus le <ingredient action="poser"> saumon </ingredient> . <operation> recouvrez </operation> - le de farce au <ingredient quantite="250 gramme"> riz </ingredient> . <operation ingredients="pâte"> recouvrez </operation> avec la moitié de <ingredient action="recouvrir"> pâte </ingredient> en soudant avec avec un peu de jaune d' <ingredient quantite="5"> oeuf </ingredient> . <operation ingredients="oeuf"> badigeonnez </operation> - le dessus de jaune d' <ingredient action="badigeonner" quantite="5"> oeuf </ingredient> . glissez le koulibiak sur la <operation> plaque </operation> . faites <operation> cuire </operation> a 160 <operation> ° </operation> c pendant 40 min . servez sans attendre <operation ingredients="beurre"> accompagne </operation> de <ingredient action="accompagne" quantite="50 gramme+60 gramme"> beurre </ingredient> <operation> fondu </operation> chaud .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65858">
+<titre>Soupe de potiron au lait</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de potiron</p>
+<p>1 l de lait</p>
+<p>5 cuillères à soupe de semoule</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron"> eplucher </operation> le <ingredient action="eplucher" quantite="1 kilogramme"> potiron </ingredient> , le <operation> couper </operation> en cubes , <operation> mettre </operation> à <operation> cuire </operation> dans une casserole d' eau jusqu' à ce que la pulpe soit tendre . pendant ce temps , faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="1 l"> lait </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="potiron"> ecraser </operation> la pulpe de <ingredient action="ecraser" quantite="1 kilogramme"> potiron </ingredient> et l' <operation ingredients="lait;semoule"> incorporer </operation> dans le <ingredient action="incorporer" quantite="1 l"> lait </ingredient> avec la <ingredient action="incorporer" quantite="5 cuillère à soupe"> semoule </ingredient> faire <operation> cuire </operation> quelques minutes pour que la <ingredient quantite="5 cuillère à soupe"> semoule </ingredient> gonfle . une bonne <ingredient> soupe </ingredient> de potiron peut-être servie avec une <ingredient> noix </ingredient> de beurre ou de la <ingredient> crème </ingredient> fraiche .
+</preparation>
+</recette>

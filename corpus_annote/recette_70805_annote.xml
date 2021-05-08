@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70805">
+<titre>Concombres et pommes à la crème</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 concombre</p>
+<p>1/2 pomme juteuse mais pas acide</p>
+<p>crème fraîche</p>
+<p>vinaigrette au choix</p>
+<p>gros sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> peler </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> , le <operation> couper </operation> en rondelles , le <operation ingredients="sel"> mettre </operation> dans une passoire avec une bonne pincée de <ingredient action="mettre" quantite=""> sel </ingredient> . laisser dégorger 1 heure environ . <operation> peler </operation> et <operation ingredients="pomme"> couper </operation> la <ingredient action="couper"> pomme </ingredient> en cubes . <operation ingredients="concombre;pomme;crème"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> concombre </ingredient> et la <ingredient action="mélanger"> pomme </ingredient> avec un trait de <ingredient action="mélanger" quantite=""> crème </ingredient> fraiche et un trait de vinaigrette . servir , c' est frais , c' est doux , un vrai petit nuage !
+</preparation>
+</recette>

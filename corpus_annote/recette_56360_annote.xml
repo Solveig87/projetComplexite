@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56360">
+<titre>Pizza oeuf - viande hachée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte à pizza</p>
+<p>sauce tomate</p>
+<p>500 g de viandes hachées</p>
+<p>4-5 oeufs</p>
+<p>gruyère rapé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etalez </operation> votre <ingredient action="etalez" quantite=""> pâte </ingredient> à pizza dans un plat de cuisson . <operation ingredients="pâte"> etalez </operation> ensuite la sauce tomate nécessaire régulierement sur votre <ingredient action="etalez" quantite=""> pâte </ingredient> . <operation ingredients="viande"> répartissez </operation> la <ingredient action="répartir" quantite="500 gramme"> viande </ingredient> hachée sur la sauce tomate . cassez le nombres d' <ingredient quantite="4"> oeufs </ingredient> selon le nombre de personnes sur la <ingredient quantite="500 gramme"> viande </ingredient> pour que chaque personne est 1 <ingredient quantite="4"> oeuf </ingredient> dans sa part . pour finir <operation ingredients="gruyère"> saupoudrez </operation> le tout de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13417">
+<titre>Penne aux tomates séchées</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g tomates séchées dans l'huile</p>
+<p>1,5 dl crème entière</p>
+<p>0,75 dl de bouillon</p>
+<p>50 g de copeaux de parmesan</p>
+<p>penne</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> egouter </operation> et <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="100 gramme"> tomates </ingredient> en julienne . <operation ingredients="crème;bouillon;tomates"> porter </operation> à <operation> ébullition </operation> la <ingredient action="porter"> crème </ingredient> , le <ingredient action="porter" quantite="0,75 dl"> bouillon </ingredient> et les <ingredient action="porter" quantite="100 gramme"> tomates </ingredient> . <operation> assaisonner </operation> . <operation ingredients="penne"> cuire </operation> les <ingredient action="cuire" quantite=""> penne </ingredient> . <operation> mélanger </operation> . <operation ingredients="parmesan"> présenter </operation> avec les copeaux de <ingredient action="présenter"> parmesan </ingredient> dessus . s' <operation ingredients="salade"> accompagne </operation> d' une <ingredient action="accompagne"> salade </ingredient> verte . <ingredient> vin </ingredient> italien ou espagnol ( léger )
+</preparation>
+</recette>

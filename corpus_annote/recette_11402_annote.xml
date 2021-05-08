@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11402">
+<titre>Paupiettes de veau à la bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 paupiettes</p>
+<p>100 g de lardons fumés</p>
+<p>80 g d'oignons</p>
+<p>150 g de champignons</p>
+<p>50 cl de vin rouge</p>
+<p>20 g de beurre</p>
+<p>1 bouquet garni</p>
+</ingredients>
+<preparation>
+<operation action="rôtir" ingredients="rôtir;lardons;beurre"> rôtir </operation> les paupiettes sur un lit de <ingredient action="rôtir"> lardons </ingredient> et de <ingredient action="rôtir" quantite="20 gramme"> beurre </ingredient> . lorsqu' ils sont bien dorés , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="80 gramme"> oignons </ingredient> pour les <operation ingredients="champignons"> colorer </operation> légèrement puis les <ingredient action="colorer" quantite="150 gramme"> champignons </ingredient> . <operation ingredients="vin"> couvrir </operation> avec le <ingredient action="couvrir" quantite="50 cl"> vin </ingredient> rouge et 2 verres d' eau , <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> cuire </operation> 15 min à <operation> découvert </operation> . servir avec du <ingredient> riz </ingredient> pilaf ou des <ingredient> pommes </ingredient> de terre <operation> cuites </operation> à l' eau .
+</preparation>
+</recette>

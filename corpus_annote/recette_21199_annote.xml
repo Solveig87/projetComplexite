@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21199">
+<titre>Poires Belle-Hélène à croquer !</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de glace vanille</p>
+<p>50 g de chocolat à croquer</p>
+<p>1 jaune d'oeuf</p>
+<p>2 cuillères à soupe de lait</p>
+<p>200 g de sucre</p>
+<p>25 cl d'eau</p>
+<p>4 poires</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="sirop;sucre;jus"> faites </operation> un <ingredient action="faire"> sirop </ingredient> avec le <ingredient action="faire" quantite="200 gramme"> sucre </ingredient> , l' eau et le <ingredient action="faire"> jus </ingredient> de citron . pochez - y les <ingredient quantite="4"> poires </ingredient> <operation> pelées </operation> 10 min environ . <operation ingredients="fruits"> réservez </operation> les <ingredient action="réserver" quantite="4"> fruits </ingredient> au frais . <operation ingredients="chocolat"> préparez </operation> un coulis de <ingredient action="préparer" quantite="50 gramme"> chocolat </ingredient> en faisant <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> chocolat </ingredient> dans le <ingredient action="fondre" quantite="2 cuillère à soupe"> lait </ingredient> . une fois <operation> fondu </operation> , <operation ingredients="oeuf"> ajoutez </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> . <operation> dressez </operation> les <operation> coupes </operation> <operation ingredients="glace"> glacées </operation> avec deux boules de <ingredient action="glacer" quantite="500 gramme"> glace </ingredient> à la vanille , une <ingredient quantite="4"> poire </ingredient> et le nappage au <ingredient quantite="50 gramme"> chocolat </ingredient> pour chaque <operation> coupe </operation> .
+</preparation>
+</recette>

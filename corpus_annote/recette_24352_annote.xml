@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24352">
+<titre>Chou rouge au roquefort et aux noix en salade</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 chou rouge</p>
+<p>Pour la sauce :</p>
+<p>50 g de roquefort</p>
+<p>1 cuillère à soupe d'huile de noix</p>
+<p>1/2 cuillère à soupe d'huile d'arachide</p>
+<p>1/2 cuillère à soupe d'eau-de-vie</p>
+<p>1/2 cuillère à soupe de vinaigre</p>
+<p>6 cerneaux de noix</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> laver </operation> le <ingredient action="laver"> chou </ingredient> , lui <operation> retirer </operation> le trognon et les feuilles épaisses . <operation> couper </operation> le reste en 4 puis le <operation> détailler </operation> en lanières . les <operation> plonger </operation> dans l' eau bouillante et les faire <operation> blanchir </operation> 5 min . <operation ingredients="chou"> egoutter </operation> le <ingredient action="egoutter"> chou </ingredient> et le <operation> déposer </operation> dans un saladier . <operation ingredients="roquefort"> emietter </operation> le <ingredient action="emietter" quantite="50 gramme"> roquefort </ingredient> , puis l' <operation ingredients="huiles;vinaigre"> arroser </operation> du <operation> mélange </operation> d' <ingredient action="arroser" quantite="1 cuillère à soupe"> huiles </ingredient> , d' eau de vie et de <ingredient action="arroser"> vinaigre </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> . une heure environ avant de servir , <operation ingredients="chou;roquefort"> napper </operation> les feuilles de <ingredient action="napper"> chou </ingredient> de sauce au <ingredient action="napper" quantite="50 gramme"> roquefort </ingredient> et <operation ingredients="noix"> parsemer </operation> de cerneaux de <ingredient action="parsemer"> noix </ingredient> .
+</preparation>
+</recette>

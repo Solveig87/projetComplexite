@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72189">
+<titre>Smoothie Fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de fraises</p>
+<p>1 banane</p>
+<p>des glaçons (10 environ)</p>
+<p>sucre (si nécessaire)</p>
+</ingredients>
+<preparation>
+. <operation ingredients="fraises;banane"> mixer </operation> les <ingredient action="mixer" quantite="300 gramme"> fraises </ingredient> et la <ingredient action="mixer" quantite="1"> banane </ingredient> . <operation ingredients="sucre;fraises"> rajouter </operation> éventuellement un peu de <ingredient action="rajouter" quantite=""> sucre </ingredient> si les <ingredient action="rajouter" quantite="300 gramme"> fraises </ingredient> ne sont pas assez <operation> sucrées </operation> . <operation> ajouter </operation> les glaçons et les broyer en <ingredient> glace </ingredient> <operation> pilée </operation> pour obtenir un <ingredient> jus </ingredient> <ingredient> glacé </ingredient> . pour une <ingredient> boisson </ingredient> , il suffit d' augmenter la quantité de glaçons . on peut aussi le <operation> mettre </operation> au congélateur pour transformer la purée de <ingredient quantite="300 gramme;1"> fruits </ingredient> en sorbet .
+</preparation>
+</recette>

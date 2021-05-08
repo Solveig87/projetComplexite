@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32987">
+<titre>Gâteau aux pommes enfouies</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>200 g de sucre fin</p>
+<p>200 g de margarine</p>
+<p>3 belles pommes reinette ou boskoop</p>
+<p>5 oeufs</p>
+<p>1 sachet de levure chimique</p>
+<p>un peu de cannelle</p>
+<p>une pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> couper </operation> en quartier les <ingredient action="couper" quantite="3"> pommes </ingredient> et les asperger d' un peu de <ingredient> jus </ingredient> de citron pour les empêcher de <operation> brunir </operation> . <operation> séparer </operation> les jaunes des blancs , <operation ingredients="oeufs;sucre;mousse"> fouetter </operation> les jaunes d' <ingredient action="fouetter" quantite="5"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="200 gramme"> sucre </ingredient> jusqu' à obtention d' une <ingredient action="fouetter"> mousse </ingredient> . pendant ce temps faire <operation ingredients="margarine"> fondre </operation> lentement la <ingredient action="fondre" quantite="200 gramme"> margarine </ingredient> dans une casserole ; <operation ingredients="farine;levure;margarine"> rajouter </operation> la <ingredient action="rajouter" quantite="300 gramme"> farine </ingredient> , la <ingredient action="rajouter"> levure </ingredient> et la <ingredient action="rajouter" quantite="200 gramme"> margarine </ingredient> <operation ingredients="oeufs"> fondue </operation> aux jaunes d' <ingredient action="fondre" quantite="5"> oeufs </ingredient> , puis <operation ingredients="oeufs"> battre </operation> les blancs d' <ingredient action="battre" quantite="5"> oeufs </ingredient> en neige ferme pour les <operation> rajouter </operation> à la préparation <operation> mettre </operation> le tout dans un <operation> moule </operation> à manqué beurré et <operation> fariné </operation> . <operation ingredients="pommes;pâte"> mettre </operation> les quartiers de <ingredient action="mettre" quantite="3"> pommes </ingredient> légèrement <operation> enfouis </operation> dans la <ingredient action="mettre"> pâte </ingredient> , <operation ingredients="sucre;cannelle"> saupoudrer </operation> légèrement de <ingredient action="saupoudrer" quantite="200 gramme"> sucre </ingredient> fin et de <ingredient action="saupoudrer"> cannelle </ingredient> . <operation> enfourner </operation> thermostat 190 <operation> ° </operation> c , pendant 40 mn . bon appétit .
+</preparation>
+</recette>

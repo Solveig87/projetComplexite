@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84150">
+<titre>Verrine d'agrumes au thé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pamplemousses roses</p>
+<p>3 oranges</p>
+<p>1 ou 2 mandarines</p>
+<p>1 sachet de thé à la menthe</p>
+<p>160 g de sucre</p>
+<p>25 cl d'eau</p>
+</ingredients>
+<preparation>
+au-dessus d' un bol , pour récupérer tout le <ingredient> jus </ingredient> , <operation ingredients="oranges"> couper </operation> en 2 <ingredient action="couper" quantite="3"> oranges </ingredient> et pamplemousses , faire de petits quartiers et <operation> enlever </operation> la peau . les <operation> mettre </operation> dans les verrines . pour les <ingredient quantite="1"> mandarines </ingredient> , les <operation> peler </operation> puis <operation> enlever </operation> les membranes blanches et <operation> couper </operation> le quartier en 2 . <operation> presser </operation> au dessus du bol avec les mains , les restes d' agrumes . <operation ingredients="thé"> porter </operation> les 25 cl d' eau à <operation> ébullition </operation> , y <operation> plonger </operation> , hors du feu , le sachet de <ingredient action="porter"> thé </ingredient> . laisser <operation> infuser </operation> 5 minutes . <operation ingredients="thé"> jeter </operation> le sachet de <ingredient action="jeter"> thé </ingredient> , <operation ingredients="jus;sucre"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> des agrumes et le <ingredient action="ajouter" quantite="160 gramme"> sucre </ingredient> . <operation> porter </operation> à <operation> ébullition </operation> , baisser le feu et laisser <operation ingredients="sirop"> frémir </operation> jusqu' à l' obtention d' un <ingredient action="frémir"> sirop </ingredient> . <operation> verser </operation> le résultat dans les verrines . <operation> mettre </operation> sous film fraicheur et <operation> mettre </operation> au frais jusqu' au service . un <ingredient> mousseux </ingredient>
+</preparation>
+</recette>

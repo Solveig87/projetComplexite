@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83812">
+<titre>Mousse choco-crème de marron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de beurre</p>
+<p>200 g de chocolat au lait (une tablette)</p>
+<p>150 g de crème de marron</p>
+<p>3 blancs d'œufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> au bain marie à feu doux . dans un saladier , <operation ingredients="crème;chocolat"> mélanger </operation> la <ingredient action="mélanger" quantite="150 gramme"> crème </ingredient> de marron au <operation> mélange </operation> <ingredient action="mélanger" quantite="200 gramme"> chocolat </ingredient> / beurre et laisser refroidir un peu . pendant ce temps , <operation> monter </operation> les blancs en neige , <operation> incorporer </operation> au reste et <operation> placer </operation> le tout au frigo pendant au moins deux heures . si le cœur vous en dit , vous pouvez <operation ingredients="glace"> congeler </operation> le <operation> mélange </operation> car sous <operation> forme </operation> de <ingredient action="congeler"> glace </ingredient> c' est encore meilleur .
+</preparation>
+</recette>

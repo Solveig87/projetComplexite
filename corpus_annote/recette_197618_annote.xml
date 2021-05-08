@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197618">
+<titre>Glace noix de coco chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g sucre</p>
+<p>6 œufs </p>
+<p>50 cl de lait</p>
+<p>50 cl de lait de coco</p>
+<p>125 g de noix de coco râpée</p>
+<p>70 g de pépites de chocolat</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs;sucre"> blanchir </operation> les jaunes d’ <ingredient action="blanchir" quantite="6"> œufs </ingredient> avec le <ingredient action="blanchir" quantite="250 gramme"> sucre </ingredient> . faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl+50 cl"> lait </ingredient> et <operation ingredients="sucre;œufs"> incorporer </operation> le <operation> mélange </operation> <ingredient action="incorporer" quantite="250 gramme"> sucre </ingredient> - jaunes d’ <ingredient action="incorporer" quantite="6"> œufs </ingredient> . baisser un peu le feu et faire <operation> épaissir </operation> en <operation> remuant </operation> durant 5 minutes . laisser refroidir , <operation ingredients="lait;noix;chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="50 cl+50 cl"> lait </ingredient> de coco , la <ingredient action="incorporer" quantite="125 gramme"> noix </ingredient> de coco <operation> râpée </operation> et les pépites de <ingredient action="incorporer"> chocolat </ingredient> . <operation ingredients="œufs;sel"> battre </operation> les blancs d’ <ingredient action="battre" quantite="6"> œufs </ingredient> en neige ferme ( pincée de <ingredient action="battre"> sel </ingredient> ) et <operation> incorporer </operation> au <operation> mélange </operation> . turbiner la préparation en sorbetière .
+</preparation>
+</recette>

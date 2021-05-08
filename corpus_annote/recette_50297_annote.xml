@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50297">
+<titre>Fleischnaka, roulé alsacien à la viande</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500g de viande de boeuf hachée</p>
+<p>3 jaunes d'oeufs</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à soupe de chapelure</p>
+<p>1 oignon moyen</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>persil, sel et poivre</p>
+<p>Pour la pâte : </p>
+<p>4 oeufs entiers</p>
+<p>1 peu d'eau</p>
+<p>300 g de farine</p>
+<p>Pour le bouillon : </p>
+<p>1 petite boite de concentré de tomates</p>
+<p>2 cubes de bouillon de boeuf</p>
+<p>2 litre d'eau</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="viande;oignon"> mélangez </operation> la <ingredient action="mélanger" quantite="500 gramme"> viande </ingredient> hachée avec l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> , l' <ingredient> ail </ingredient> , le <ingredient quantite=""> persil </ingredient> émincés finement . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="pâte"> préparez </operation> la <ingredient action="préparer"> pâte </ingredient> en <operation ingredients="farine;oeufs;sel"> malaxant </operation> la <ingredient action="malaxer" quantite="300 gramme"> farine </ingredient> avec les <ingredient action="malaxer" quantite="4"> oeufs </ingredient> entiers et une pincée de <ingredient action="malaxer" quantite=""> sel </ingredient> . <operation ingredients="pâte"> ajoutez </operation> un peu d' eau progressivement jusqu' à obtention d' une <ingredient action="ajouter"> pâte </ingredient> élastique . <operation ingredients="pâte"> etalez </operation> finement la <ingredient action="etaler"> pâte </ingredient> en rectangle et <operation ingredients="viande"> déposez </operation> - y la <ingredient action="déposer" quantite="500 gramme"> viande </ingredient> sur toute la surface . <operation ingredients="pâte"> roulez </operation> la <ingredient action="rouler"> pâte </ingredient> sur elle-même en boudin et <operation> coupez </operation> de fines tranches . faites <operation ingredients="huile"> dorer </operation> les tranches dans l' <ingredient action="dorer" quantite="3 cuillère à soupe"> huile </ingredient> puis <operation> plongez </operation> - les dans l' eau bouillante dans laquelle auront été <operation ingredients="bouillon;tomates"> dilués </operation> les cubes de <ingredient action="diluer"> bouillon </ingredient> et le <operation> concentré </operation> de <ingredient action="diluer"> tomates </ingredient> . laissez <operation> cuire </operation> 25 minutes à petit frémissement et en <operation> remuant </operation> de temps en temps . <operation ingredients="salade"> accompagnez </operation> vos fleischnaka d' une <ingredient action="accompagner"> salade </ingredient> verte . régalez vous avec cette recette alsacienne !
+</preparation>
+</recette>

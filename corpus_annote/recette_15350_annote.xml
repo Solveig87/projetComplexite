@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15350">
+<titre>Sauté de veau printanier</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 sautés de veau </p>
+<p>2 tomates</p>
+<p>2 tranches de jambon</p>
+<p>1/2 concombre</p>
+<p>2 tranches de gouda</p>
+<p>1/4 l de crème</p>
+<p>moutarde</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="2 tranche"> viande </ingredient> dans la <operation> poêle </operation> . lorsqu' elle est bien saisie , <operation> mettre </operation> les tranches dans un plat allant au four ( garder le <ingredient> jus </ingredient> pour la suite de la préparation ) . sur chaque sauté , <operation ingredients="jambon"> placer </operation> 1 morceau de <ingredient action="placer" quantite="2 tranche"> jambon </ingredient> , 2 ou 3 rondelles de <ingredient quantite="2"> tomates </ingredient> , quelques rondelles de <ingredient quantite="1"> concombre </ingredient> et pour finir <operation ingredients="gouda"> recouvrir </operation> d' une 1 / 2 tranche de <ingredient action="recouvrir" quantite="2 tranche"> gouda </ingredient> . dans la <operation> poêle </operation> , faire <operation ingredients="jus;viande"> chauffer </operation> le <ingredient action="chauffer"> jus </ingredient> de cuisson de <ingredient action="chauffer" quantite="2 tranche"> viande </ingredient> en <operation ingredients="crème"> ajoutant </operation> 2 cuillères à café de moutarde et la <ingredient action="ajouter"> crème </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> selon le goût . <operation> verser </operation> la sauce sur la préparation et <operation> mettre </operation> à <operation> gratiner </operation> 5 min . <operation ingredients="pâtes;riz"> accompagner </operation> de <ingredient action="accompagner"> pâtes </ingredient> ou de <ingredient action="accompagner"> riz </ingredient> . si vous désirez faire meilleur marché , remplacez les tranches de <ingredient> veau </ingredient> par des tranches de <ingredient> porc </ingredient> ou des filets de <ingredient> poulet </ingredient> .
+</preparation>
+</recette>

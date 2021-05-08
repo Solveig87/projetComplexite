@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51030">
+<titre>Blinis au maïs</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 cl de lait</p>
+<p>90 g de beurre</p>
+<p>240 g de farine</p>
+<p>1 paquet de levure chimique</p>
+<p>3 oeufs</p>
+<p>1 petite boite de maïs en conserve</p>
+<p>sel, poivre, épices</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lait;beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="60 cl"> lait </ingredient> avec le <ingredient action="chauffer" quantite="90 gramme"> beurre </ingredient> à feu doux jusqu' à ce que le <ingredient action="fondre" quantite="90 gramme"> beurre </ingredient> soit <operation ingredients="beurre"> fondu </operation> . <operation ingredients="farine;levure;sel;poivre;épices"> mélangez </operation> la <ingredient action="mélanger" quantite="240 gramme"> farine </ingredient> , la <ingredient action="mélanger"> levure </ingredient> avec du <ingredient action="mélanger" quantite=""> sel </ingredient> , du <ingredient action="mélanger" quantite=""> poivre </ingredient> et des <ingredient action="mélanger" quantite=""> épices </ingredient> . <operation> creusez </operation> un puits et cassez - y les <ingredient quantite="3"> oeufs </ingredient> . <operation> travaillez </operation> au fouet . <operation ingredients="lait"> délayez </operation> avec du <ingredient action="délayez" quantite="60 cl"> lait </ingredient> pour obtenir une <ingredient> pâte </ingredient> fluide . <operation> egoutter </operation> le <ingredient> maïs </ingredient> en conserve , <operation> incorporez </operation> - le à la <ingredient> pâte </ingredient> et <operation> mixez </operation> . faites <operation> chauffer </operation> une petite <operation> poêle </operation> et <operation> graissez </operation> - la . faites <operation ingredients="blini"> cuire </operation> chaque <ingredient action="cuire"> blini </ingredient> 2 à 3 minutes surla première face et 1 minute sur l' autre . <operation ingredients="blinis"> graissez </operation> entre chaque <ingredient action="graissez"> blinis </ingredient> . <operation ingredients="tomates;fromage;blinis"> accompagnés </operation> d' un <operation> mélange </operation> de <ingredient action="accompagner"> tomates </ingredient> et de <ingredient action="accompagner"> fromage </ingredient> de chèvre <operation> poivré </operation> ces <ingredient action="accompagner"> blinis </ingredient> sont un délice !
+</preparation>
+</recette>

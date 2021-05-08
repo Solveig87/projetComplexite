@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171190">
+<titre>Hot Dog à la New-Yorkaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pains à Hot Dog</p>
+<p>4 saucisses de Francfort</p>
+<p>1 sachet de chou blanc cru râpé</p>
+<p>1 oignon blanc</p>
+<p>4 tranches de cheddar</p>
+<p>quelques brins de ciboulette</p>
+<p>moutarde</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> pelez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , et <operation> émincez </operation> - le finement . faites <operation ingredients="oignon;huile"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> à la <operation> poêle </operation> dans très peu d' <ingredient action="dorer" quantite="1 cuillère à soupe"> huile </ingredient> pendant 5 min . faites <operation ingredients="saucisses"> pocher </operation> les <ingredient action="pocher" quantite="4"> saucisses </ingredient> 5 min dans l' eau frémissante . gardez - les au chaud . préchauffez le grill du four . <operation ingredients="cheddar"> coupez </operation> le <ingredient action="couper" quantite="4 tranche"> cheddar </ingredient> en lamelles , <operation ingredients="ciboulette"> émincez </operation> la <ingredient action="émincer"> ciboulette </ingredient> . <operation ingredients="pains"> ouvrez </operation> les <ingredient action="ouvrir" quantite="4"> pains </ingredient> a hot dog et <operation ingredients="fromage"> répartissez </operation> le <ingredient action="répartir"> fromage </ingredient> à l' intérieur . <operation ingredients="pains;fromage"> passez </operation> les <ingredient action="passer" quantite="4"> pains </ingredient> 3 min au four pour que le <ingredient action="passer"> fromage </ingredient> gratine . <operation ingredients="pains;saucisse"> garnissez </operation> les <ingredient action="garnir" quantite="4"> pains </ingredient> d' oignons dorés , d' une <ingredient action="garnir" quantite="4"> saucisse </ingredient> , puis <operation ingredients="chou;ciboulette"> ajoutez </operation> une belle pincée de <ingredient action="ajouter"> chou </ingredient> et la <ingredient action="ajouter"> ciboulette </ingredient> . <operation> nappez </operation> de <ingredient action="refermer" quantite=""> moutarde </ingredient> , <operation ingredients="moutarde;pains"> refermez </operation> les <ingredient action="refermer" quantite="4"> pains </ingredient> et dégustez aussitôt . vous pouvez remplacer la <ingredient quantite=""> moutarde </ingredient> par du <ingredient> ketchup </ingredient> ou autres sauces selon vos goûts .
+</preparation>
+</recette>

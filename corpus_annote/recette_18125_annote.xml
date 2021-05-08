@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18125">
+<titre>Pâtes à la Stridulla</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500g de penne rigate</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 oignon rouge</p>
+<p>1 pot de crème fraîche</p>
+<p>2 belles escalopes de poulet</p>
+<p>basilic frais</p>
+<p>huile d'olive</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> passer </operation> les <ingredient action="passer"> poivrons </ingredient> au four quelques minutes puis <operation> ôter </operation> la peau et <operation ingredients="poivrons"> détailler </operation> les <ingredient action="détailler"> poivrons </ingredient> en fines lamelles . <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et le faire <operation ingredients="huile"> revenir </operation> dans le <ingredient action="revenir" quantite=""> huile </ingredient> d' olive à feu doux pour qu' il ne brûle pas . lorsque l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> a blondi , <operation ingredients="oignon;poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> <operation> coupé </operation> en petits morceaux et <operation> remuer </operation> pour qu' il <operation> dore </operation> . <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et faire <operation> revenir </operation> 10 minutes . <operation ingredients="crème;sel"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> fraîche , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre et basilic frais haché . laisser <operation> mijoter </operation> à feu très doux . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " , <operation> égoutter </operation> , <operation> verser </operation> la préparation . servir très chaud .
+</preparation>
+</recette>

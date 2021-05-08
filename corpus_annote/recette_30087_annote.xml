@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30087">
+<titre>Salade poulet gouda aux raisins secs</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 poulet cuit froid</p>
+<p>240 g de gouda</p>
+<p>8 tomates</p>
+<p>2 échalotes</p>
+<p>200 g de raisins secs</p>
+<p>2 yaourts</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>2 cuillères à soupe de ketchup</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> epluchez </operation> le <ingredient action="eplucher" quantite="1"> concombre </ingredient> , <operation> épépinez </operation> - le . <operation ingredients="concombre;gouda;poulet;tomates"> coupez </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> et le <ingredient action="couper" quantite="240 gramme"> gouda </ingredient> en dés , le <ingredient action="couper" quantite="1"> poulet </ingredient> en lamelles et les <ingredient action="couper" quantite="8"> tomates </ingredient> en quartiers . <operation ingredients="concombre;gouda;raisins;tomates;poulet"> melez </operation> le <ingredient action="melez" quantite="1"> concombre </ingredient> avec le <ingredient action="melez" quantite="240 gramme"> gouda </ingredient> , les <ingredient action="melez" quantite="200 gramme"> raisins </ingredient> , les <ingredient action="melez" quantite="8"> tomates </ingredient> et le <ingredient action="melez" quantite="1"> poulet </ingredient> . <operation ingredients="huile;yaourt;moutarde;ketchup;sel;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="2 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner" quantite="2"> yaourt </ingredient> , la <ingredient action="emulsionner" quantite="1 cuillère à soupe"> moutarde </ingredient> , le <ingredient action="emulsionner" quantite="2 cuillère à soupe"> ketchup </ingredient> , du <ingredient action="emulsionner" quantite=""> sel </ingredient> et du <ingredient action="emulsionner"> poivre </ingredient> . <operation ingredients="salade"> arrosez </operation> la <ingredient action="arroser"> salade </ingredient> de cette sauce et servez frais .
+</preparation>
+</recette>

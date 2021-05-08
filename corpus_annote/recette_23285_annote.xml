@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23285">
+<titre>Soupe provençale</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tomates bien mûres</p>
+<p>1 petite pomme de terre</p>
+<p>1 petite échalote</p>
+<p>4 olives noires</p>
+<p>un filet d'huile d'olive</p>
+<p>sel, poivre</p>
+<p>thym</p>
+<p>feuilles de basilic</p>
+<p>fromage râpé et crème fraîche selon les goûts</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates;pomme"> mouliner </operation> les <ingredient action="mouliner" quantite="2"> tomates </ingredient> , la <ingredient action="mouliner" quantite="1"> pomme </ingredient> de terre <operation> cuite </operation> , les <ingredient quantite="4"> olives </ingredient> , les <ingredient quantite=";;"> épices </ingredient> et l' <ingredient> huile </ingredient> d' olive . faire <operation> mijoter </operation> avec de l' eau environ 10 mn ( plus ou moins selon la consistance souhaitée ) . servir chaud avec du <ingredient quantite=""> fromage </ingredient> <operation> râpé </operation> et un filet de <ingredient> crème </ingredient> . bon appétit . pour relever le goût , vous pouvez <operation ingredients="gousse"> rajouter </operation> une <ingredient action="rajouter"> gousse </ingredient> d' ail <operation> hachée </operation> .
+</preparation>
+</recette>

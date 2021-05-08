@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27268">
+<titre>Crevettes sauce curry</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>700 g de crevettes</p>
+<p>50 cl de crème fraîche liquide</p>
+<p>40 cl de vin blanc sec</p>
+<p>cognac (pour flamber) </p>
+<p>3 cuillères à café de curry</p>
+<p>2 gousses d'ail hachées</p>
+<p>estragon</p>
+<p>piment de cayenne (ou Tabasco) </p>
+<p>sel, poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> chauffer </operation> du <ingredient action="chauffer"> beurre </ingredient> dans une sauteuse puis <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="700 gramme"> crevettes </ingredient> <operation> décortiquées </operation> et les faire <operation> colorer </operation> . <operation ingredients="cognac"> ajouter </operation> le <ingredient action="ajouter" quantite=""> cognac </ingredient> et faire <operation> flamber </operation> . laisser <operation> réduire </operation> un peu . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="40 cl"> vin </ingredient> blanc et laisser <operation> réduire </operation> . <operation ingredients="ail;estragon;épices"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , l' <ingredient action="ajouter" quantite=""> estragon </ingredient> et les <ingredient action="ajouter" quantite="3 cuillère à café;2;;;"> épices </ingredient> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche et laisser <operation> réduire </operation> un peu pour que la sauce épaississe . servir bien chaud .
+</preparation>
+</recette>

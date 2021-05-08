@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18182">
+<titre>Gâteau au fromage blanc</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fromage blanc </p>
+<p>20 cl de crème fraîche </p>
+<p>100 g de sucre</p>
+<p>20 g de maïzena ou de farine</p>
+<p>3 oeufs</p>
+<p>1 noix de beurre</p>
+<p>Sucre glace</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;crème;sucre;maïzena;farine;oeufs"> mélanger </operation> au fouet le <ingredient action="mélanger" quantite="500 gramme"> fromage </ingredient> blanc , la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche , le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> , la <ingredient action="mélanger" quantite="20 gramme"> maïzena </ingredient> ( ou la <ingredient action="mélanger"> farine </ingredient> ) et les jaunes d' <ingredient action="mélanger" quantite="3"> oeufs </ingredient> . <operation ingredients="oeufs"> monter </operation> les blancs d' <ingredient action="monter" quantite="3"> oeufs </ingredient> en neige ferme et les <operation> incorporer </operation> délicatement avec une spatule au <operation> mélange </operation> ci - dessus . <operation> beurrer </operation> un <operation> moule </operation> à biscuit et le <operation ingredients="pâte"> remplir </operation> aux 2 / 3 avec la <ingredient action="remplir"> pâte </ingredient> . <operation> cuire </operation> au four ( thermostat 6 ) pendant 30 mns . vérifier la cuisson avec la pointe d' un <ingredient> couteau </ingredient> . laisser refroidir 20 mn environ et <operation> démouler </operation> . <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> . vous pouvez l' <operation ingredients="framboise"> accompagner </operation> de coulis de <ingredient action="accompagner"> framboise </ingredient> .
+</preparation>
+</recette>

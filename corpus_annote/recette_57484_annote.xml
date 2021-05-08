@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57484">
+<titre>Roulades de poulet à la Tof</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet très fines</p>
+<p>2 tranches de jambon cru</p>
+<p>parmesan râpé</p>
+<p>5 cl de vin blanc sec</p>
+<p>10 cl de crème fraîche (ou plus !)</p>
+<p>2 cuillères à soupe de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="moutarde;escalopes"> etaler </operation> la <ingredient action="etaler" quantite="2 cuillère à soupe"> moutarde </ingredient> sur les <ingredient action="etaler" quantite="2"> escalopes </ingredient> puis <operation ingredients="bacon"> mettre </operation> les tranches de <ingredient action="mettre"> bacon </ingredient> . <operation ingredients="parmesan"> mettre </operation> le <ingredient action="mettre" quantite=""> parmesan </ingredient> râpé . <operation> rouler </operation> le tout et <operation ingredients="ficelle"> amarrer </operation> le avec un cure - dent ( ou de la <ingredient action="amarrer"> ficelle </ingredient> de <operation> cuisine </operation> ) . faire <operation> revenir </operation> à la <operation> poêle </operation> . <operation ingredients="vin"> déglacer </operation> avec le <ingredient action="déglacer" quantite="5 cl"> vin </ingredient> blanc . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> et c' est parti ! sympa avec des <ingredient> pâtes </ingredient> type tagliatelles ou pennes . vin blanc sec ou rosé
+</preparation>
+</recette>

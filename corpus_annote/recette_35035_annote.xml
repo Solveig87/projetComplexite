@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35035">
+<titre>Assiette jambon et saumon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>8 tranches de saumon fumé</p>
+<p>6 tranches de jambon de Bayonne</p>
+<p>50 g d'oeufs de saumon</p>
+<p>1 poire</p>
+<p>quelques feuilles de laitue</p>
+<p>Pour la sauce :</p>
+<p>20 cl de crème légèrement fouettée</p>
+<p>3 cl de vodka</p>
+<p>ciboulette ciselée</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poire"> peler </operation> la <ingredient action="peler" quantite="1"> poire </ingredient> , la <operation> couper </operation> en quartiers et la citronner . sur des assiettes individuelles , <operation ingredients="saumon;fumé"> intercaler </operation> les tranches de <ingredient action="intercaler"> saumon </ingredient> <ingredient action="intercaler" quantite="8 tranche"> fumé </ingredient> , de <ingredient quantite="6 tranche"> jambon </ingredient> de bayonne et les quartiers de <ingredient quantite="1"> poire </ingredient> . <operation> préparer </operation> la sauce , en <operation> mélangeant </operation> les ingrédients . sur chaque assiette , <operation ingredients="laitue"> faire </operation> un petit tas de sauce sur quelques feuilles de <ingredient action="faire" quantite="quelque feuille"> laitue </ingredient> et <operation ingredients="oeufs"> mettre </operation> des <ingredient action="mettre" quantite="50 gramme"> oeufs </ingredient> de saumon par - dessus . cette entrée est très bien <operation> présentée </operation> et ravit les palais .
+</preparation>
+</recette>

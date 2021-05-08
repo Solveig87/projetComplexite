@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25480">
+<titre>Tarte à l'oignon et jambon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>800 g d'oignons</p>
+<p>50 g de beurre</p>
+<p>200 g de jambon</p>
+<p>3 oeufs</p>
+<p>80 g de crème fraîche</p>
+<p>sel, poivre</p>
+<p>muscade</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;beurre"> fondre </operation> les <ingredient action="fondre" quantite="800 gramme"> oignons </ingredient> <operation> émincés </operation> dans le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> , à feu doux ; puis <operation ingredients="jambon"> ajoutez </operation> le <ingredient action="ajouter" quantite="200 gramme"> jambon </ingredient> en dés . foncez un <operation> moule </operation> à tarte avec la <ingredient quantite="1"> pâte </ingredient> , <operation> piquez </operation> - la , puis <operation ingredients="oignons;pâte"> répartissez </operation> <ingredient action="répartir" quantite="800 gramme"> oignons </ingredient> et jambon sur la <ingredient action="répartir" quantite="1"> pâte </ingredient> . <operation ingredients="oeufs"> couvrez </operation> avec le <operation> mélange </operation> <ingredient action="couvrir" quantite="3"> oeufs </ingredient> - crème <operation> assaisonné </operation> . et <operation> enfournez </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 40 min .
+</preparation>
+</recette>

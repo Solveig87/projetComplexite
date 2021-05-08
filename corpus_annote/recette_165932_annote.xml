@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165932">
+<titre>Chou rouge aux pommes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou rouge</p>
+<p>2 pommes</p>
+<p>1 oignon </p>
+<p>1/2 citron </p>
+<p>1 yaourt nature</p>
+<p>4 cuillères à soupe d'huile de noisette </p>
+<p>2 cuillères à soupe de vinaigre de cidre </p>
+<p>1 cuillère à café de moutarde </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> lavez </operation> et <operation> émincez </operation> le <ingredient action="laver" quantite="1"> chou </ingredient> rouge . <operation ingredients="oignon"> pelez </operation> et <operation> découpez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> en fines tranches . <operation ingredients="pommes"> épluchez </operation> et <operation> épépinez </operation> les <ingredient action="éplucher" quantite="2"> pommes </ingredient> , <operation ingredients="chair"> coupez </operation> leur <ingredient action="couper"> chair </ingredient> et citronnez - les . <operation> mélangez </operation> le tout dans un saladier . <operation> préparez </operation> une vinaigrette avec le reste des ingrédients utilisés , <operation ingredients="salade"> versez </operation> - la sur votre <ingredient action="verser"> salade </ingredient> et laissez - la rafraîchir au réfrigérateur avant de servir . collioure rouge
+</preparation>
+</recette>

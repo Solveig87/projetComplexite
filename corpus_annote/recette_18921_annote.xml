@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18921">
+<titre>Tarte aux pommes et à la noix de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pommes Golden (ou autres)</p>
+<p>1 pâte brisée</p>
+<p>100 g de noix de coco</p>
+<p>1 oeuf</p>
+<p>50 g de beurre fondu</p>
+<p>100 g de sucre en poudre</p>
+<p>20 g de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> pelez </operation> les <ingredient action="peler" quantite="4"> pommes </ingredient> , <operation> coupez </operation> les en lamelles puis les installer sur la <ingredient quantite="1"> pâte </ingredient> brisée que vous aurez <operation> mise </operation> dans un <operation> moule </operation> à tarte . <operation ingredients="oeuf;sucre;beurre;noix;farine"> mélanger </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> avec le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> , le <ingredient action="mélanger"> beurre </ingredient> <operation> fondu </operation> , la <ingredient action="mélanger" quantite="100 gramme"> noix </ingredient> de coco et enfin la <ingredient action="mélanger" quantite="20 gramme"> farine </ingredient> . <operation ingredients="tarte"> recouvrez </operation> la <ingredient action="recouvrir"> tarte </ingredient> de cette préparation . <operation> cuire </operation> le tout à four chaud ( 210 <operation> ° </operation> c ) pendant 40 min environ . bon marché et facile un <ingredient> cidre </ingredient>
+</preparation>
+</recette>

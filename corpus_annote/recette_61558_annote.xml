@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61558">
+<titre>Tomates farcies au maïs</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses tomates (type à farcir)</p>
+<p>2 grosses boîtes de maïs</p>
+<p>de la sauce cocktail</p>
+<p>1 petite boîte de thon</p>
+<p>quelques feuilles de salade ou d'endive</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="maïs;thon"> égouter </operation> le <ingredient action="égouter"> maïs </ingredient> et le <ingredient action="égouter"> thon </ingredient> . <operation ingredients="tomates"> évidez </operation> vos <ingredient action="évider" quantite="4"> tomates </ingredient> à l' aide d' une petite cuillère ( vous n' aurez pas besoin de ce que vous aurez <operation> enlever </operation> pour le reste de la recette ) et gardez le " chapeau des <ingredient quantite="4"> tomates </ingredient> " . <operation ingredients="tomates;maïs;thon"> remplissez </operation> vos <ingredient action="remplir" quantite="4"> tomates </ingredient> avec le <ingredient action="remplir"> maïs </ingredient> et le <ingredient action="remplir"> thon </ingredient> avec un grosse cuillère . <operation ingredients="tomates"> remettez </operation> les chapeaux sur les <ingredient action="remettre" quantite="4"> tomates </ingredient> . <operation ingredients="tomates"> placez </operation> les <ingredient action="placer" quantite="4"> tomates </ingredient> dans une assiette ( individuelle ) et <operation ingredients="endives;salade"> mettez </operation> les feuilles d' <ingredient action="mettre"> endives </ingredient> ou de <ingredient action="mettre" quantite="quelque feuille"> salade </ingredient> autour . <operation> arrosez </operation> de sauce coktail . et voilà vous pouvez déguster !
+</preparation>
+</recette>

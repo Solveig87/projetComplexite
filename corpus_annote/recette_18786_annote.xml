@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18786">
+<titre>Poulet exotique</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet (ou crevettes + blancs de calmars) </p>
+<p>1 oignon en tranches</p>
+<p>1 poivron rouge en lamelles</p>
+<p>3 carottes en lamelles</p>
+<p>farine de manioc</p>
+<p>1 boîte de tomates pelées en dés</p>
+<p>1 boîte de lait de coco</p>
+<p>1 grosse poignée de raisins secs trempés dans de l'eau tiède</p>
+<p>poudre d'amande</p>
+<p>sauce soja</p>
+<p>gingembre frais en lamelles (1 cuillère à soupe) </p>
+<p>curry</p>
+</ingredients>
+<preparation>
+. <operation ingredients="poulet"> mariner </operation> les blancs de <ingredient action="mariner"> poulet </ingredient> <operation ingredients="manioc"> coupés </operation> en morceaux avec le <ingredient action="couper"> manioc </ingredient> . . faire <operation ingredients="oignons"> revenir </operation> <ingredient action="revenir" quantite="1"> oignons </ingredient> , gingembre , poivron et carottes . <operation> réserver </operation> . . faire <operation ingredients="viande;curry"> revenir </operation> la <ingredient action="revenir"> viande </ingredient> avec le <ingredient action="revenir" quantite=""> curry </ingredient> . . <operation ingredients="tomates;lait"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> et le <ingredient action="ajouter"> lait </ingredient> de coco . bien <operation> remuer </operation> et <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter"> raisins </ingredient> secs <operation> égouttés </operation> . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="1;3"> légumes </ingredient> . . <operation ingredients="curry;soja"> assaisonner </operation> à nouveau avec <ingredient action="assaisonner" quantite=""> curry </ingredient> , sauce <ingredient action="assaisonner"> soja </ingredient> . . laisser <operation> mijoter </operation> à feu moyen en <operation> remuant </operation> de temps en temps . . au moment de servir , <operation ingredients="amande"> saupoudrer </operation> de <operation> poudre </operation> d' <ingredient action="saupoudrer"> amande </ingredient> . servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

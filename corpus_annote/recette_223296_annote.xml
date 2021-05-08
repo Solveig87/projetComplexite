@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223296">
+<titre>Soupe à la courgette et à la pomme de terre</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courgette</p>
+<p>1 pomme de terre </p>
+<p>1 gousse d'ail</p>
+<p>1 bouillon de volaille</p>
+<p>1 cuillère à soupe de crème</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousse"> couper </operation> la courgette <operation> lavée </operation> ( sans l' <operation> éplucher </operation> pour donner une belle couleur verte au potage ) et la <ingredient quantite="1"> pomme </ingredient> de terre <operation> épluchée </operation> en morceaux , ainsi que la <ingredient action="couper" quantite="1"> gousse </ingredient> d' ail <operation> fendue </operation> en 2 . faire <operation> cuire </operation> dans de l' eau <operation ingredients="bouillon"> additionnée </operation> du <ingredient action="additionner" quantite="1"> bouillon </ingredient> de volaille , 20 min environ . <operation ingredients="légumes;bouillon"> mixer </operation> les <ingredient action="mixer" quantite="1;1;1 cuillère à soupe"> légumes </ingredient> sans trop de <ingredient action="mixer" quantite="1"> bouillon </ingredient> au départ , pour obtenir un velouté , puis <operation ingredients="bouillon"> ajouter </operation> du <ingredient action="ajouter" quantite="1"> bouillon </ingredient> si nécessaire . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1;;"> assaisonnement </ingredient> ( sel , poivre ) .
+</preparation>
+</recette>

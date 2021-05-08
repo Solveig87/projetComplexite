@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12803">
+<titre>Brioches farcies</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 brioches</p>
+<p>2 oeufs entiers</p>
+<p>60 g gruyère râpé</p>
+<p>50 g beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="brioches"> enlever </operation> les chapeaux des <ingredient action="enlever" quantite="6"> brioches </ingredient> , les <operation> creuser </operation> à la cuillère . <operation> ecraser </operation> à la fourchette la mie préalablement <operation> retirée </operation> . la <operation ingredients="oeufs"> mélanger </operation> avec les 2 <ingredient action="mélanger" quantite="2"> oeufs </ingredient> <operation> battus </operation> . <operation ingredients="gruyère;sel"> ajouter </operation> <ingredient action="ajouter" quantite="60 gramme"> gruyère </ingredient> râpé , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre . <operation ingredients="brioches"> remplir </operation> les <ingredient action="remplir" quantite="6"> brioches </ingredient> de ce <operation> mélange </operation> , puis <operation> remettre </operation> le chapeau . <operation ingredients="brioches;beurre"> placer </operation> les <ingredient action="placer" quantite="6"> brioches </ingredient> dans un plat à gratin avec des petits morceaux de <ingredient action="placer"> beurre </ingredient> . <operation> porter </operation> à four chaud ( thermostat 6 à 7 ) . variante : utiliser un reste de <ingredient> jambon </ingredient> , volaille , poisson .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58160">
+<titre>Mille-feuille de galettes aux saumons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 galettes de blé noir</p>
+<p>20 cl de crème fleurette</p>
+<p>1 pavé de saumon ou une boite de saumon</p>
+<p>2 tranches de saumon fumé</p>
+<p>aneth</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="galettes"> superposez </operation> les 3 <ingredient action="superposez" quantite="3"> galettes </ingredient> et y <operation ingredients="ronds"> découper </operation> quatre <ingredient action="découper"> ronds </ingredient> . <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en dés . <operation ingredients="saumon"> emiettez </operation> le <ingredient action="emietter"> saumon </ingredient> frais . <operation ingredients="saumons"> mélangez </operation> ces deux <ingredient action="mélanger"> saumons </ingredient> . faites <operation ingredients="crème"> monter </operation> la <ingredient action="monter" quantite="20 cl"> crème </ingredient> fleurette ( préalablement <operation> placée </operation> au congélateur 15 min ) . y <operation ingredients="sel;poivre;aneth;saumons"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> , l' <ingredient action="ajouter" quantite=""> aneth </ingredient> et les deux <ingredient action="ajouter"> saumons </ingredient> . <operation ingredients="ronds"> etalez </operation> cette préparation sur les <ingredient action="etaler"> ronds </ingredient> de galettes ( deux superpositions ) . le <ingredient> mille </ingredient> - feuille est prêt . servir avec une <ingredient> mâche </ingredient> et vinaigre balsamique . pouilly <ingredient quantite="2 tranche"> fumé </ingredient> . pinot gris
+</preparation>
+</recette>

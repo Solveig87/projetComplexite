@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27708">
+<titre>Escalopes miel moutarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de dinde ou de poulet</p>
+<p>20 cl de crème</p>
+<p>1 cuillère à soupe de miel pas trop fort</p>
+<p>1 cuillère à soupe de moutarde</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="escalopes"> revenir </operation> dans une <operation> poêle </operation> les <ingredient action="revenir" quantite="2"> escalopes </ingredient> <operation> coupées </operation> en petits morceaux . quand elles sont bien dorées , <operation ingredients="crème"> incorporez </operation> dans la <operation> poêle </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> , la <ingredient quantite="1 cuillère à soupe"> moutarde </ingredient> et le <ingredient quantite="1 cuillère à soupe"> miel </ingredient> . faites <operation> revenir </operation> 5 mn jusqu' à ce que la sauce prenne . c' est prêt ! servez avec du <ingredient> riz </ingredient> . simple et délicieux !
+</preparation>
+</recette>

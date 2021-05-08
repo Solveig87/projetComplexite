@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166214">
+<titre>Nuages banane chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>50g de chocolat en poudre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>un blanc d'oeuf</p>
+<p>quelques carreaux de chocolat à patisserie</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bananes"> revenir </operation> les <ingredient action="revenir" quantite="4"> bananes </ingredient> au beurre dans une poële . hors du feu , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sucre </ingredient> vanillé . <operation> mixer </operation> le tout et <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> chocolat </ingredient> en <operation> poudre </operation> . <operation> battre </operation> le blanc en neige bien ferme et l' <operation> incorporer </operation> au <operation> mélange </operation> . <operation> verser </operation> la préparation dans les verrines ( ou ramequins ) . <operation> mettre </operation> au réfrigérateur pendant deux heures . <operation ingredients="chocolat"> râper </operation> le <ingredient action="râper" quantite="50 gramme"> chocolat </ingredient> en copeaux . avant de servir , <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> et <operation ingredients="chocolat"> ajouter </operation> les copeaux de <ingredient action="ajouter" quantite="50 gramme"> chocolat </ingredient> . servir bien frais . bon appétit !
+</preparation>
+</recette>

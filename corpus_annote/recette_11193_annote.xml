@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11193">
+<titre>Tarte au riz</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la garniture :</p>
+<p>200 g de riz</p>
+<p>1 litre de lait</p>
+<p>1 pincée de sel</p>
+<p>Pour la pâte :</p>
+<p>200 g de farine,</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>125 g de beurre</p>
+<p>3 cuillère à soupe de lait</p>
+<p>1 jaune d'oeuf</p>
+<p>40 g de beurre.</p>
+</ingredients>
+<preparation>
+la garniture : faire <operation ingredients="riz;lait;sel"> cuire </operation> 200 g de <ingredient action="cuire" quantite="200 gramme"> riz </ingredient> dans un bon litre de <ingredient action="cuire" quantite="1 litre+3 cuillère à soupe"> lait </ingredient> + 1 pincée de <ingredient action="cuire" quantite="1 pincée+1 pincée"> sel </ingredient> et laisser ensuite refroidir . attention : ne <operation> préparer </operation> ce qui suit que juste avant la cuisson de la <ingredient action="battre"> tarte </ingredient> : <operation ingredients="tarte;oeuf;sucre"> battre </operation> 5 jaunes d' <ingredient action="battre"> oeuf </ingredient> avec 250 g de <ingredient action="battre" quantite="1 cuillère à soupe"> sucre </ingredient> fin jusqu' à obtenir un <operation> mélange </operation> blanchâtre , <operation> ajouter </operation> ce <operation> mélange </operation> au <ingredient quantite="200 gramme"> riz </ingredient> refroidi et <operation ingredients="oeuf"> introduire </operation> ensuite les blans d' <ingredient action="introduire"> oeuf </ingredient> <operation> battus </operation> en neige . ( pour une réussite parfaite et une meilleure tenue du <ingredient quantite="200 gramme"> riz </ingredient> , on ajoute une cuillère à café de <operation> poudre </operation> de <ingredient> pudding </ingredient> vanille ( * ) à la préparation avant d' <operation ingredients="oeuf"> ajouter </operation> les blancs d' <ingredient action="ajouter"> oeuf </ingredient> ) . la <ingredient> pâte </ingredient> : <operation> travailler </operation> le tout sans laisser lever la <ingredient> pâte </ingredient> . l' <operation> étendre </operation> directement dans la platine à hauts bords . préchauffer le four th . . 7 ( sur échelle de 1 . 10 ) ou 200 <operation> ° </operation> c. <operation ingredients="riz"> ajouter </operation> le <operation> mélange </operation> de <ingredient action="ajouter" quantite="200 gramme"> riz </ingredient> ( voir ci - dessus ) et faire <operation> cuire </operation> pendant 3 . 40 minutes . laisser <operation> reposer </operation> 15 minutes avant de <operation> démouler </operation> . ( * ) <operation> poudre </operation> pour <ingredient> crème </ingredient> <ingredient> vanille </ingredient> toute prête . <ingredient> mousseux </ingredient> très léger
+</preparation>
+</recette>

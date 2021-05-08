@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24581">
+<titre>Salade de chou blanc à l'épaule et emmental</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou blanc en fines lanières</p>
+<p>3 tranches de jambon (d'épaule) </p>
+<p>70 g de gruyère râpé</p>
+<p>3 cuillères à soupe de vinaigre de vin</p>
+<p>4 cuillères à soupe de mayonnaise</p>
+<p>sel, poivre blanc </p>
+<p>cumin</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> coupez </operation> le <ingredient action="couper" quantite="1"> chou </ingredient> en laniéres fines . <operation ingredients="jambon;carrés"> coupez </operation> le <ingredient action="couper" quantite="3 tranche"> jambon </ingredient> en petits <ingredient action="couper"> carrés </ingredient> . y <operation ingredients="gruyère;vinaigre;cumin"> ajouter </operation> les 70 g de <ingredient action="ajouter" quantite="70 gramme"> gruyère </ingredient> râpé , le <ingredient action="ajouter" quantite="3 cuillère à soupe"> vinaigre </ingredient> , sel poivre , et 1 cuillère de <ingredient action="ajouter" quantite=""> cumin </ingredient> qui donne un bon goût final . bon appétit et servir froid avec un rosé en <operation> accompagnement </operation> d' un barbecue rosé
+</preparation>
+</recette>

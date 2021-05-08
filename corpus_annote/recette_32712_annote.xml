@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32712">
+<titre>Açorda (Portugal)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tranche de morue de 300 g</p>
+<p>4 oeufs</p>
+<p>100 g de pain dur par personne</p>
+<p>3 à 4 gousses d'ail</p>
+<p>coriandre fraiche</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="morue"> cuire </operation> la <ingredient action="cuire" quantite="1 tranche"> morue </ingredient> dans 2 litres d' eau pendant 5 mn . <operation> réserver </operation> dans un plat . faire <operation ingredients="oeufs"> pocher </operation> les <ingredient action="pocher" quantite="4"> oeufs </ingredient> dans la même eau . <operation ingredients="pain"> mettre </operation> le <ingredient action="mettre" quantite="100 gramme"> pain </ingredient> dur dans un grand plat creux ( on peut le <operation> passer </operation> auparavant au four pour qu' il soit croustillant ) . <operation> emietter </operation> la <ingredient action="ajouter" quantite="1 tranche"> morue </ingredient> sur le <ingredient action="ajouter" quantite="100 gramme"> pain </ingredient> , <operation ingredients="morue;pain;ail"> ajouter </operation> également l' <ingredient action="ajouter"> ail </ingredient> <operation ingredients="coriandre"> écrasé </operation> avec la <ingredient action="écraser" quantite=""> coriandre </ingredient> . <operation ingredients="huile"> mettre </operation> un peu d' <ingredient action="mettre" quantite=""> huile </ingredient> d' olive . <operation ingredients="oeuf;pain"> ajouter </operation> l' eau bouillante avec l' <ingredient action="ajouter" quantite="4"> oeuf </ingredient> sur le <ingredient action="ajouter" quantite="100 gramme"> pain </ingredient> et laisser <operation> gonfler </operation> un peu . servir aussitôt .
+</preparation>
+</recette>

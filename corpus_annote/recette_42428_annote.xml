@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42428">
+<titre>Gâteau rose au chocolat</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 biscuits roses de Reims</p>
+<p>100 g de blancs d'oeufs</p>
+<p>100 g de sucre semoule </p>
+<p>40 g de sucre glace</p>
+<p>500 g de crème fraîche liquide</p>
+<p>400 g de chocolat</p>
+</ingredients>
+<preparation>
+la veille : <operation ingredients="biscuits"> écraser </operation> les 6 <ingredient action="écraser" quantite="6"> biscuits </ingredient> au mixeur pour obtenir une fine <operation> poudre </operation> rose . <operation ingredients="oeufs"> monter </operation> les blanc d' <ingredient action="monter"> oeufs </ingredient> en neige en <operation ingredients="sucre"> ajoutant </operation> le <ingredient action="ajouter" quantite="100 gramme+40 gramme"> sucre </ingredient> en plusieurs fois . lorsque la meringue est ferme , lui <operation ingredients="sucre;glace;biscuits"> incorporer </operation> peu à peu le <ingredient action="incorporer" quantite="100 gramme+40 gramme"> sucre </ingredient> <ingredient action="incorporer"> glace </ingredient> et la <operation> poudre </operation> de <ingredient action="incorporer" quantite="6"> biscuits </ingredient> . sur une feuille de papier sulfurisé , <operation> former </operation> avec une <operation> poche </operation> et une douille de 12 mm , 3 rectangles indentiques en <operation ingredients="côte"> déposant </operation> <ingredient action="déposer"> côte </ingredient> à côte 5 rondins de meringue de 18 cm de long . préchauffer le four à 100 <operation> ° </operation> ( thermostat . 4 ) . <operation> enfourner </operation> et laisser <operation> cuire </operation> 45 min avec la porte <operation> entrouverte </operation> . laisser sécher dans le four toute la nuit . casser le <ingredient quantite="400 gramme"> chocolat </ingredient> en morceaux dans un bol supportant la chaleur , le faire <operation> fondre </operation> 1 min au micro-ondes à forte puissance . <operation ingredients="crème;chantilly"> monter </operation> la <ingredient action="monter" quantite="500 gramme"> crème </ingredient> fraîche bien froide en <ingredient action="monter"> chantilly </ingredient> . lui <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="400 gramme"> chocolat </ingredient> <operation> tiédi </operation> . procéder au montage : sur le plus grand rectangle de meringue <operation ingredients="mousse"> répartir </operation> des rosaces de <ingredient action="répartir"> mousse </ingredient> au chocolat . <operation> placer </operation> le second rectangle en meringue dessus délicatement . <operation> garnir </operation> et <operation> couvrir </operation> du dernier rectangle .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52601">
+<titre>Velouté d'automne</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 grosse tranche de potiron bien mûr</p>
+<p>4 à 5 cèpes</p>
+<p>300 à 400 g de châtaignes péalablement cuites à l'eau bouillante (attention : c'est un peu long !)</p>
+<p>5 à 6 pommes de terre</p>
+<p>50 cl de crème fraîche</p>
+<p>beurre</p>
+<p>1 ou 2 gousses d'ail</p>
+<p>branche de thym, feuille de laurier, sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="potiron;pommes"> éplucher </operation> le <ingredient action="éplucher"> potiron </ingredient> , les <ingredient action="éplucher" quantite="5"> pommes </ingredient> de terre , et les <operation> couper </operation> en morceaux . <operation ingredients="châtaignes"> enlever </operation> la peau des <ingredient action="enlever"> châtaignes </ingredient> bouillies . <operation ingredients="cèpes"> laver </operation> les <ingredient action="laver" quantite="4"> cèpes </ingredient> ( sans trop les laisser s' <operation> imbiber </operation> d' eau ! ) . les <operation> émincer </operation> grossièrement et les faire <operation ingredients="matière"> revenir </operation> dans une <operation> poêle </operation> , sans <ingredient action="revenir" quantite=""> matière </ingredient> grasse , pour leur faire rendre l' eau qu' ils contiennent . <operation ingredients="beurre"> ajouter </operation> un peu de <ingredient action="ajouter"> beurre </ingredient> dans la <operation> poêle </operation> et faire <operation> revenir </operation> ; <operation ingredients="gousses"> ajouter </operation> à la fin les <ingredient action="ajouter" quantite="1"> gousses </ingredient> d' ail <operation> hachées </operation> . <operation ingredients="potiron;pommes;châtaignes;thym;laurier"> mettre </operation> le <ingredient action="mettre"> potiron </ingredient> , les <ingredient action="mettre" quantite="5"> pommes </ingredient> de terre , les <ingredient action="mettre"> châtaignes </ingredient> , ainsi que le <ingredient action="mettre"> thym </ingredient> et le <ingredient action="mettre"> laurier </ingredient> dans une grande cocotte ; <operation> couvrir </operation> d' eau et laisser <operation> cuire </operation> environ 30 min . <operation ingredients="cèpes"> rajouter </operation> les <ingredient action="rajouter" quantite="4"> cèpes </ingredient> , puis <operation> mixer </operation> le tout . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche , <operation> saler </operation> et <operation> poivrer </operation> .
+</preparation>
+</recette>

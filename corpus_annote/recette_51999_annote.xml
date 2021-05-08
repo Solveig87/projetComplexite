@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51999">
+<titre>Salade de cèpes pour mon chou</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 demi chou-blanc</p>
+<p>4 petits cèpes</p>
+<p>100 g de parmesan</p>
+<p>1 citron</p>
+<p>huile d'olive</p>
+<p>sel &amp; poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> coupez </operation> le <ingredient action="couper"> chou </ingredient> en deux , <operation> enlevez </operation> le trognon puis l' <operation> émincer </operation> finement et l' <operation ingredients="huile;jus"> arroser </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et de <ingredient action="arroser"> jus </ingredient> du citron . <operation> salez </operation> , <operation> poivrez </operation> et laissez macerer 30 minutes . pendant ce temps , <operation ingredients="cèpes"> nettoyez </operation> avec soin les chapeaux des <ingredient action="nettoyer" quantite="4"> cèpes </ingredient> et <operation> émincez </operation> - les . avec un économe , <operation ingredients="parmesan"> raclez </operation> des copeaux de <ingredient action="racler" quantite="100 gramme"> parmesan </ingredient> . <operation ingredients="chou"> répartissez </operation> le <ingredient action="répartir"> chou </ingredient> dans les assiettes , <operation ingredients="cèpes;parmesan"> parsemez </operation> de lamelles de <ingredient action="parsemer" quantite="4"> cèpes </ingredient> et de <ingredient action="parsemer" quantite="100 gramme"> parmesan </ingredient> . au moment de servir , <operation ingredients="huile"> rajoutez </operation> un filet d' <ingredient action="rajouter" quantite=""> huile </ingredient> d' olive et <operation> salez </operation> l&gèrement . bon appétit mon <ingredient> chou </ingredient> ! une recette de saison à deguster en automne ! blanc sancerre
+</preparation>
+</recette>

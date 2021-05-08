@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67661">
+<titre>Sauté de porc au chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de sauté de porc</p>
+<p>1 boîte sauce tomates cuisinée</p>
+<p>1 oignon</p>
+<p>1/2 chorizo</p>
+<p>1 cube de bouillon de légumes</p>
+<p>1 boîte de champignons</p>
+<p>1 verre d'eau</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans une sauteuse avec une cuillère d' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , <operation ingredients="porc"> ajouter </operation> le sauté de <ingredient action="ajouter"> porc </ingredient> , faire <operation> dorer </operation> . ensuite <operation> ajouter </operation> le bocal de sauce tomate , et un verre d' eau . <operation ingredients="champignons"> rajouter </operation> les <ingredient action="rajouter"> champignons </ingredient> <operation> égouttés </operation> . <operation ingredients="chorizo"> couper </operation> le <ingredient action="couper"> chorizo </ingredient> en rondelles et l' <operation> ajouter </operation> à la préparation . <operation> mélanger </operation> et laisser <operation> cuire </operation> à feu moyen pendant 45 minutes tout en surveillant . <operation> ajouter </operation> un peu d' eau si besoin . <operation ingredients="riz;pâtes"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pâtes </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53423">
+<titre>Gigot d'agneau à la grecque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gigot agneau désossé de 1 kg</p>
+<p>1 gousse ail</p>
+<p>origan </p>
+<p>vin blanc </p>
+<p>margarine</p>
+<p>crème fraîche</p>
+<p>poivre vert</p>
+<p>cognac</p>
+</ingredients>
+<preparation>
+<operation ingredients="gigot;gousses"> piquer </operation> le <ingredient action="piquer" quantite="1"> gigot </ingredient> de quelques <ingredient action="piquer" quantite="1"> gousses </ingredient> d' ail et <operation ingredients="origan"> parsemer </operation> l' intérieur d' <ingredient action="parsemer" quantite=""> origan </ingredient> séché . faire <operation ingredients="margarine"> fondre </operation> la <ingredient action="fondre" quantite=""> margarine </ingredient> dans une cocotte et y faire <operation ingredients="gigot"> brunir </operation> le <ingredient action="brunir" quantite="1"> gigot </ingredient> , <operation ingredients="sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> et <operation ingredients="origan"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite=""> origan </ingredient> . <operation ingredients="vin"> déglacer </operation> avec 1 bon verre de <ingredient action="déglacer" quantite=""> vin </ingredient> blanc , puis laisser <operation> cuire </operation> 1 h en <operation ingredients="jus"> arrosant </operation> régulièrement avec le <ingredient action="arroser"> jus </ingredient> de cuisson . <operation ingredients="gigot"> retirer </operation> le <ingredient action="retirer" quantite="1"> gigot </ingredient> , <operation ingredients="jus"> prélever </operation> une partie du <ingredient action="prélever"> jus </ingredient> de cuisson , y <operation ingredients="poivre;cognac"> ajouter </operation> le <ingredient action="ajouter" quantite=""> poivre </ingredient> vert et le <ingredient action="ajouter" quantite=""> cognac </ingredient> . <operation> flamber </operation> le tout , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1;;"> assaisonnement </ingredient> ; <operation> épaissir </operation> la sauce obtenue de façon onctueuse . servir avec des croquettes .
+</preparation>
+</recette>

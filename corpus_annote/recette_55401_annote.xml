@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55401">
+<titre>Rougets au cumin</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 beaux rougets (ou plus en fonction de leur taille)</p>
+<p>2 cuillères à café de cumin</p>
+<p>1 cuillère à café de paprika</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>4 cuillères à soupe de jus de citron</p>
+<p>2 cuillères à soupe de persil émincé</p>
+<p>sel et poivre moulu</p>
+</ingredients>
+<preparation>
+demander au poissonnier de <operation ingredients="rougets"> vider </operation> et <operation> écailler </operation> les <ingredient action="vider"> rougets </ingredient> . <operation> préparer </operation> la marinade en <operation> mélangeant </operation> tous les ingrédients . <operation ingredients="rougets"> faire </operation> 3 ou 4 incisions profondes sur chaque face des <ingredient action="faire"> rougets </ingredient> . <operation ingredients="poissons"> placer </operation> les <ingredient action="placer"> poissons </ingredient> dans un plat peu profond et <operation> enduire </operation> chaque coté de marinade . laisser <operation> reposer </operation> au frais pendant 2 h. <operation> mettre </operation> le four en position gril et <operation> cuire </operation> les rougets 3 à 6 min ( en fonction de leur taille ) de chaque coté . je sers habituellement ce plat avec une sauce tomate aux <ingredient> olives </ingredient> et au <ingredient> basilic </ingredient> et du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56350">
+<titre>Saumon au four à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de pavé de saumon</p>
+<p>3 petits oignons</p>
+<p>80 g de poitrine fumée découpée en lardons</p>
+<p>100 g de tomates cerise (ou des grosses tomates)</p>
+<p>1 citron</p>
+<p>10 g de beurre</p>
+<p>1 cuillère à soupe d’huile d’olive</p>
+<p>2 gousses d’ail</p>
+<p>persil, laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;tomates"> emincez </operation> les <ingredient action="emincez" quantite="3"> oignons </ingredient> et <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="100 gramme"> tomates </ingredient> en quatre ( si se sont des <ingredient action="emincez" quantite="100 gramme"> tomates </ingredient> normales faire des rondelles ) . <operation ingredients="oignons"> mélangez </operation> les <ingredient action="mélanger" quantite="3"> oignons </ingredient> , les <ingredient action="poivrer"> lardons </ingredient> , les <ingredient action="poivrer" quantite="100 gramme"> tomates </ingredient> puis <operation> salez </operation> <operation ingredients="lardons;tomates"> poivrez </operation> . <operation> disposez </operation> - les dans un plat allant au four . <operation> hachez </operation> l’ <ingredient action="ajouter"> ail </ingredient> , <operation ingredients="ail;citron;beurre"> ajoutez </operation> le <ingredient action="ajouter" quantite="1"> citron </ingredient> l’ huile et le <ingredient action="ajouter" quantite="10 gramme"> beurre </ingredient> . <operation ingredients="poisson"> laissez </operation> le <ingredient action="laisser"> poisson </ingredient> dans cette marinade , pendant 30 min . <operation ingredients="poisson;oignon"> déposez </operation> ensuite le <ingredient action="déposer"> poisson </ingredient> sur le lit d’ <ingredient action="déposer" quantite="3"> oignon </ingredient> , lardons , tomates puis <operation> arrosez </operation> avec un peu de la marinade . faites <operation> cuire </operation> pendant 30 min à 180 <operation> ° </operation> c ( thermostat 6 ) en <operation> arrosant </operation> régulièrement .
+</preparation>
+</recette>

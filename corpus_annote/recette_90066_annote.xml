@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90066">
+<titre>Panna cotta à l'ananas caramélisé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 cl de crème liquide allégée</p>
+<p>50 g de cassonade (ou, à défaut, de sucre fin)</p>
+<p>3 feuilles de gélatine</p>
+<p>1 cuillère à café de fleur d'oranger</p>
+<p>1 ananas (ou une boîte d'ananas)</p>
+<p>60 g de sucre</p>
+<p>20 cl d'eau</p>
+</ingredients>
+<preparation>
+la panna cotta : faire <operation ingredients="gélatine"> ramollir </operation> les feuilles de <ingredient action="ramollir" quantite="3 feuille"> gélatine </ingredient> dans un bol d' eau froide . dans une casserole , faire <operation ingredients="crème;cassonade"> chauffer </operation> la <ingredient action="chauffer" quantite="60 cl"> crème </ingredient> avec la <ingredient action="chauffer" quantite="50 gramme"> cassonade </ingredient> , <operation> ajouter </operation> la fleur d' oranger . bien <operation> mélanger </operation> . avant que la préparation n' arrive à <operation> ébullition </operation> , <operation> retirer </operation> du feu . bien <operation ingredients="gélatine"> égoutter </operation> la <ingredient action="égoutter" quantite="3 feuille"> gélatine </ingredient> et l' <operation ingredients="crème"> ajouter </operation> à la <ingredient action="ajouter" quantite="60 cl"> crème </ingredient> . <operation ingredients="gélatine"> mélanger </operation> jusqu' à incorporation totale de la <ingredient action="mélanger" quantite="3 feuille"> gélatine </ingredient> . <operation> verser </operation> dans des verres ( jusqu' à environ la moitié ) et <operation> réserver </operation> au frais pendant au moins 3 h. l' <ingredient quantite="1"> ananas </ingredient> caramélisé : dans une casserole , <operation ingredients="sucre;ananas"> verser </operation> l' eau , le <ingredient action="verser" quantite="60 gramme"> sucre </ingredient> et les morceaux d' <ingredient action="verser" quantite="1"> ananas </ingredient> <operation> coupés </operation> très finement . <operation ingredients="confire"> laisser </operation> <ingredient action="laisser"> confire </ingredient> jusqu' à évaporation de l' eau puis garder sur le feu quelques instants , tout en <operation> remuant </operation> , le temps de caraméliser les <ingredient quantite="1"> ananas </ingredient> . <operation> réserver </operation> au frais . quand la <ingredient quantite="60 cl"> crème </ingredient> s' est solidifiée , <operation ingredients="ananas"> disposer </operation> quelques morceaux d' <ingredient action="disposer" quantite="1"> ananas </ingredient> dessus . servir bien frais . a conserver au frais jusqu' au moment de servir .
+</preparation>
+</recette>

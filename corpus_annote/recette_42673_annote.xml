@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42673">
+<titre>Pizza blanche légère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p> 1 pâte feuilletée</p>
+<p>2 yaourts natures</p>
+<p>quelques lardons fumés</p>
+<p>épices : origan, ail en poudre, ciboulette</p>
+<p>1 gros oignon doux</p>
+<p>un peu de cantal entre-deux</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite="1"> pâte </ingredient> feuilletée sur la <operation> plaque </operation> du four . <operation ingredients="pâte"> couper </operation> un <operation> cercle </operation> de <ingredient action="couper" quantite="1"> pâte </ingredient> autour ( c' est ce qui fait le bourrelet de la pizza ) . <operation ingredients="yaourts;épices"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> yaourts </ingredient> natures avec les <ingredient action="mélanger" quantite=""> épices </ingredient> . et étaler cette préparation sur la <ingredient quantite="1"> pâte </ingredient> . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> doux en lamelles , et les <operation> disposer </operation> sur la pizza . <operation ingredients="lardons;fromage"> parsemer </operation> de <ingredient action="parsemer"> lardons </ingredient> et de morceaux de <ingredient action="parsemer"> fromage </ingredient> . <operation> enfourner </operation> à 200 c <operation> ° </operation> ( thermostat . 7 ) , pour 30 min environ . a déguster avec une bonne <ingredient> salade </ingredient> . c' est une pizza très douce en goût et très fine .
+</preparation>
+</recette>

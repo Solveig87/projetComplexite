@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="7634">
+<titre>Tartine sympa</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 Carrés Frais</p>
+<p>4 belles tranches de pain de campagne d'environ 1 cm d'épaisseur</p>
+<p>1 boîte de tapenade</p>
+<p>1 boîte de purée de tomates confites</p>
+<p>ciboulette</p>
+<p>4 petits oignons frais</p>
+<p>4 tomates cerises</p>
+<p>4 olives noires</p>
+<p>2 gousses d'ail</p>
+<p>fleur de sel</p>
+<p>poivre du moulin</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> les tranches de <ingredient action="griller"> pain </ingredient> , afin de les rendre croustillantes . <operation ingredients="carré"> mettre </operation> sur chaque tartine un <ingredient action="mettre"> carré </ingredient> frais légèrement <operation> écrasé </operation> ( à une extrémité de la tartine ) . <operation ingredients="carré;ail;sel;poivre"> parsemer </operation> le <ingredient action="parsemer"> carré </ingredient> avec l' <ingredient action="parsemer"> ail </ingredient> finement haché , la fleur de <ingredient action="parsemer"> sel </ingredient> , et le <ingredient action="parsemer" quantite=""> poivre </ingredient> du moulin . sur le reste de la tranche , étaler en part égale , de la tapenade et la purée de <ingredient quantite="4"> tomate </ingredient> . <operation ingredients="tomate;cerise;ciboulette;olive"> décorer </operation> chaque tranche avec 1 <ingredient action="décorer" quantite="4"> tomate </ingredient> <ingredient action="décorer"> cerise </ingredient> <operation> coupée </operation> en 2 , 2 branches de <ingredient action="décorer" quantite=""> ciboulette </ingredient> , et 1 <ingredient action="décorer" quantite="4"> olive </ingredient> . <operation ingredients="oignon"> couper </operation> finement l' <ingredient action="couper" quantite="4"> oignon </ingredient> nouveau , en gardant un peu de vert pour finir la décoration sur la tartine . finir , en <operation ingredients="huile"> versant </operation> un filet d' <ingredient action="verser" quantite=""> huile </ingredient> d' olive . servir avec un <ingredient> vin </ingredient> rosé très frais . bon appétit
+</preparation>
+</recette>

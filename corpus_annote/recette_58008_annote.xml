@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58008">
+<titre>Polpettes aux petits pois nouveaux</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>viande hachée (boeuf, veau ou mélange selon les gouts) 500 g</p>
+<p>1 oeuf</p>
+<p>chapelure</p>
+<p>persil</p>
+<p>2 kg de petits pois frais à écosser</p>
+<p>sauce tomate (passata) 500 ml</p>
+<p>1 oignon</p>
+<p>sel </p>
+<p>poivre</p>
+<p>1 gousse d'ail </p>
+<p>1 verre de vin rouge</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> préparer </operation> les polpettes de <ingredient action="préparer" quantite=""> viande </ingredient> en <operation ingredients="viande;oeuf;persil;chapelure"> mélangeant </operation> la <ingredient action="mélanger" quantite=""> viande </ingredient> hachée , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , le <ingredient action="mélanger" quantite=""> persil </ingredient> et la <ingredient action="mélanger" quantite=""> chapelure </ingredient> ( faire des boulettes qui ne se défont pas ) . <operation ingredients="parmesan"> rajouter </operation> du <ingredient action="rajouter"> parmesan </ingredient> râpé pour donner plus de goût . <operation ingredients="tomates;cerise"> rouler </operation> la préparation en boulettes assez petites ( taille des <ingredient action="rouler"> tomates </ingredient> <ingredient action="rouler"> cerise </ingredient> ) . <operation ingredients="pois"> ecosser </operation> les petits <ingredient action="ecosser"> pois </ingredient> et les <operation> laver </operation> . <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> et le faire <operation ingredients="ail;huile"> revenir </operation> avec l' <ingredient action="revenir"> ail </ingredient> dans un faitout antiadhérent dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olives . <operation ingredients="pois;vin"> rajouter </operation> les petits <ingredient action="rajouter"> pois </ingredient> et le <ingredient action="rajouter" quantite="1 verre"> vin </ingredient> rouge jusqu' à son évaporation . <operation ingredients="tomate"> rajouter </operation> la <ingredient action="rajouter"> tomate </ingredient> et laisser <operation> cuire </operation> à feu doux pendant 20 minutes au moins . <operation ingredients="viande"> rajouter </operation> les polpette de <ingredient action="rajouter" quantite=""> viande </ingredient> et terminer la cuisson . se sert comme un plat unique ou en <ingredient quantite=";;;1"> assaisonnement </ingredient> de pâtes type penne . dolcetto d' asti
+</preparation>
+</recette>

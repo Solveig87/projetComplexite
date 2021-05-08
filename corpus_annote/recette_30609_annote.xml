@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30609">
+<titre>Coupes fromage blanc framboises</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de fromage blanc</p>
+<p>150 g de sucre</p>
+<p>300 g de framboises</p>
+<p>100 g de crème fraîche entière</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;sucre"> battre </operation> le <ingredient action="battre" quantite="500 gramme"> fromage </ingredient> blanc avec le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="framboises"> ecraser </operation> les deux - tiers des <ingredient action="ecraser" quantite="300 gramme"> framboises </ingredient> et les <operation ingredients="fromage"> incorporer </operation> au <ingredient action="incorporer" quantite="500 gramme"> fromage </ingredient> blanc . <operation ingredients="crème;chantilly"> fouetter </operation> la <ingredient action="fouetter" quantite="100 gramme"> crème </ingredient> fraîche en <ingredient action="fouetter"> chantilly </ingredient> et la <operation ingredients="fromage"> mélanger </operation> délicatement au <ingredient action="mélanger" quantite="500 gramme"> fromage </ingredient> . <operation> répartir </operation> dans des <operation> coupes </operation> . <operation ingredients="framboises"> décorer </operation> avec les <ingredient action="décorer" quantite="300 gramme"> framboises </ingredient> entières . servir très frais .
+</preparation>
+</recette>

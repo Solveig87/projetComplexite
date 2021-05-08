@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33959">
+<titre>Palette fumée aux lentilles et sauce tomate épicée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de palette fumée (ou jambon ou saucisses) </p>
+<p>2 verres à moutarde de lentilles vertes</p>
+<p>1 boîte de 200 g de tomates pelées</p>
+<p>1 gros oignon</p>
+<p>1 carotte</p>
+<p>3 gousses d'ail</p>
+<p>1 cuillère à café de curry (voire 2 pour les fans) </p>
+<p>10 graines de coriandre écrasées</p>
+<p>1/2 cuillère à café de curcuma</p>
+<p>1/2 cuillère à café de gingembre en poudre</p>
+<p>1/2 cuillère à café de piment</p>
+</ingredients>
+<preparation>
+<operation ingredients="palette;carotte"> couper </operation> la <ingredient action="couper" quantite="600 gramme"> palette </ingredient> en gros cubes et la <ingredient action="couper" quantite="1"> carotte </ingredient> en petits dés . dans une cocotte en fonte , faire <operation ingredients="oignon"> revenir </operation> l’ <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> et l’ <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> . y <operation ingredients="carotte"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="1"> carotte </ingredient> . <operation ingredients="palette"> ajouter </operation> les morceaux de <ingredient action="ajouter" quantite="600 gramme"> palette </ingredient> et les faire légérement <operation> griller </operation> . <operation ingredients="épices;poivre"> ajouter </operation> toutes les <ingredient action="ajouter" quantite="2 verre;3;1 cuillère à café"> épices </ingredient> ( pas de <ingredient action="ajouter"> poivre </ingredient> ni sel ) . bien <operation> mélanger </operation> . <operation ingredients="lentilles;tomate"> ajouter </operation> les <ingredient action="ajouter"> lentilles </ingredient> , la boîte de <ingredient action="ajouter"> tomate </ingredient> <operation> pelée </operation> et deux verres d’ eau . laisser <operation> cuire </operation> 50 mn . vérifier régulièrement qu’ il y a assez de liquide , en <operation> ajouter </operation> si nécessaire . cela ne doit être ni trop sec ni baigner dans le <ingredient> jus </ingredient> .
+</preparation>
+</recette>

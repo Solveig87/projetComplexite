@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60199">
+<titre>Riz aux lardons et légumes au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>400 g de lardons fumés</p>
+<p>4 tomates</p>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune </p>
+<p>1 poivron vert</p>
+<p>1 oignon</p>
+<p>2 carottes</p>
+<p>1 cube de bouillon de volaille</p>
+<p>50 cl d'eau</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyez </operation> et <operation ingredients="carottes"> coupez </operation> les <ingredient action="couper" quantite="2"> carottes </ingredient> en rondelles , faites - les pr . <operation> cuire </operation> dans de l' eau <operation> salée </operation> 15 min . dans une <operation> poêle </operation> anti-adhésive , faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> afin qu' ils perdent leurs gras . <operation ingredients="tomates;oignon"> nettoyez </operation> les <ingredient action="nettoyer" quantite="4"> tomates </ingredient> , poivrons et l' <ingredient action="nettoyer" quantite="1"> oignon </ingredient> et <operation> coupez </operation> - les en morceaux pas trop gros . dans une cocotte avec couvercle allant au four , <operation ingredients="huile;riz;carottes;tomates;poivrons;lardons;oignons"> mettez </operation> : un peu d' <ingredient action="mettre"> huile </ingredient> , le <ingredient action="mettre" quantite="250 gramme"> riz </ingredient> , les <ingredient action="mettre" quantite="2"> carottes </ingredient> , les <ingredient action="mettre" quantite="4"> tomates </ingredient> , les <ingredient action="mettre"> poivrons </ingredient> , les <ingredient action="mettre"> lardons </ingredient> et les <ingredient action="mettre" quantite="1"> oignons </ingredient> . <operation ingredients="bouillon"> emiettez </operation> au dessus le cube de <ingredient action="emiettez"> bouillon </ingredient> de volaille et <operation> versez </operation> l' eau . <operation> salez </operation> et <operation> poivrez </operation> . <operation> mélangez </operation> le tout et <operation> enfournez </operation> 35 min au four à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

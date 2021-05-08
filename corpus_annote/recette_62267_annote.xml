@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62267">
+<titre>Riz au poulet goûteux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 filets de poulet</p>
+<p>2 sachets de riz</p>
+<p>1 poivron jaune et 1 rouge</p>
+<p>1 pot de crème fraiche</p>
+<p>2 bouillon de poule</p>
+<p>2 oignons</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> mettre </operation> le <ingredient action="mettre"> riz </ingredient> dans de l' eau bouillante . <operation> couper </operation> les filets en morceaux pas trop gros . <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en deux , <operation> enlever </operation> les pépins puis <operation> couper </operation> en petites lamelles . <operation ingredients="oignons"> couper </operation> en fines lamelles les <ingredient action="couper" quantite="2"> oignons </ingredient> . dans une <operation> poêle </operation> <operation ingredients="beurre;huile"> mettre </operation> un peu de <ingredient action="mettre"> beurre </ingredient> et de l' <ingredient action="mettre"> huile </ingredient> puis , une fois chaud , y <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> . quand les <ingredient quantite="2"> oignons </ingredient> sont dorés , <operation ingredients="poivrons;poulet"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et le <ingredient action="ajouter"> poulet </ingredient> puis quand tout est <operation> cuit </operation> <operation ingredients="bouillon"> ajouter </operation> les 2 cubes de <ingredient action="ajouter" quantite="2"> bouillon </ingredient> avec un peu d' eau . lorsque les cubes sont bien <operation> dilués </operation> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 pot"> crème </ingredient> et laisser <operation> chauffer </operation> . <operation ingredients="riz"> rajouter </operation> le <ingredient action="rajouter"> riz </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et c' est prêt .
+</preparation>
+</recette>

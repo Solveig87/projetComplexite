@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22569">
+<titre>Sauté de veau au thon et aux anchois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de noix de veau</p>
+<p>500 g de thon à l'huile</p>
+<p>12 filets d'anchois</p>
+<p>2 oignons</p>
+<p>huile d'olive</p>
+<p>6 citrons </p>
+<p>1 bouquet garni</p>
+<p>40 cl de vin blanc </p>
+<p>20 cl de bouillon de veau </p>
+<p>30 g de mayonnaise</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="oignons;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . les remplacer par la <ingredient quantite="1 kilogramme"> noix </ingredient> de veau <operation> coupée </operation> en morceaux . <operation ingredients="thon;anchois;citrons;bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> thon </ingredient> , les filets d' <ingredient action="ajouter"> anchois </ingredient> dessalés , les <ingredient action="ajouter" quantite="6"> citrons </ingredient> <operation> pelés </operation> et <operation> couper </operation> en morceaux , et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> assaisonner </operation> et <operation ingredients="vin;bouillon"> verser </operation> le <ingredient action="verser" quantite="40 cl"> vin </ingredient> blanc et le <ingredient action="verser" quantite="20 cl"> bouillon </ingredient> de veau . laisser <operation> mijoter </operation> pendant 1 h 30 . <operation ingredients="veau"> réserver </operation> le <ingredient action="réserver"> veau </ingredient> au chaud et <operation ingredients="jus"> tamiser </operation> le <ingredient action="tamiser"> jus </ingredient> de cuisson . l’ <operation ingredients="mayonnaise"> incorporer </operation> à la <ingredient action="incorporer" quantite="30 gramme"> mayonnaise </ingredient> et servir le tout avec des <ingredient> cornichons </ingredient> et des <ingredient> câpres </ingredient> .
+</preparation>
+</recette>

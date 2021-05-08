@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29901">
+<titre>Salade fraîcheur de coques au riz</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de coques surgelées</p>
+<p>1 cuillère à soupe de crème d’ail</p>
+<p>1 cuillère à soupe d'huile d’olive</p>
+<p>1 cuillère à soupe de ciboulette ciselée</p>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune</p>
+<p>20 cl d'huile</p>
+<p>300 g de riz cuit</p>
+<p>2 cuillères à soupe de persil</p>
+<p>ciboulette hachée</p>
+<p>coriandre ciselée</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> laver </operation> les <ingredient action="laver"> poivrons </ingredient> , puis les <operation> épépiner </operation> et les <operation> détailler </operation> en petits cubes . dans une sauteuse <operation> huilée </operation> bien chaude , faire <operation ingredients="poivrons"> revenir </operation> les <ingredient action="revenir"> poivrons </ingredient> et laisser <operation> cuire </operation> 5 min en <operation> remuant </operation> régulièrement . hors du feu , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> cuit , puis bien <operation> mélanger </operation> et <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> persil </ingredient> , ciboulette et coriandre <operation> ciselés </operation> . <operation> verser </operation> la préparation dans un plat de service , puis faire <operation ingredients="coques"> pocher </operation> les <ingredient action="pocher" quantite="600 gramme"> coques </ingredient> 3 min dans l' eau bouillante . les <operation> égoutter </operation> , puis les <operation ingredients="crème;ail;huile;ciboulette"> déposer </operation> dans un saladier et les <operation> napper </operation> de <ingredient action="déposer" quantite="1 cuillère à soupe"> crème </ingredient> à l' <ingredient action="déposer"> ail </ingredient> avec l' <ingredient action="déposer" quantite="1 cuillère à soupe+20 cl"> huile </ingredient> d' olive , la <ingredient action="déposer" quantite="1 cuillère à soupe"> ciboulette </ingredient> et bien <operation> mélanger </operation> l' ensemble . <operation ingredients="coques"> incorporer </operation> les <ingredient action="incorporer" quantite="600 gramme"> coques </ingredient> au riz , puis servir .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228148">
+<titre>Tiramisu brun d'épices</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>250 g de mascarpone</p>
+<p>100 g de cassonade</p>
+<p>8 tranches de pain d'épices</p>
+<p>150 g de biscuits type petits bruns</p>
+<p>50 cl de café</p>
+<p>50 g de cacao</p>
+</ingredients>
+<preparation>
+<operation ingredients="café"> préparer </operation> du <ingredient action="préparer" quantite="50 cl"> café </ingredient> noir . <operation> séparer </operation> les blancs des jaunes puis <operation ingredients="sel"> monter </operation> les blancs en neige avec une pincée de <ingredient action="monter"> sel </ingredient> ( les blancs doivent être bien ferment ) . <operation ingredients="oeufs;sucre;mascarpone"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> , le <ingredient action="mélanger"> sucre </ingredient> puis le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> et <operation> incorporer </operation> délicatement les blancs . <operation ingredients="pain"> tremper </operation> rapidement les tranches de <ingredient action="tremper" quantite="8 tranche"> pain </ingredient> d' épices . <operation> tapisser </operation> le fond du plat des tranches . <operation ingredients="œufs;mascarpone"> recouvrir </operation> de la moitié de la préparation <ingredient action="recouvrir" quantite="3"> œufs </ingredient> <ingredient action="recouvrir" quantite="250 gramme"> mascarpone </ingredient> et sucre . <operation ingredients="café"> tremper </operation> rapidement les petits bruns dans le <ingredient action="tremper" quantite="50 cl"> café </ingredient> puis faire une couche de ceux - ci . <operation> recouvrir </operation> les petits bruns du reste de la préparation puis <operation ingredients="cacao"> saupoudrer </operation> le tout de <ingredient action="saupoudrer" quantite="50 gramme"> cacao </ingredient> en <operation> poudre </operation> . <operation> placer </operation> le tout au réfrigérateur pendant 4 h minimum . <ingredient> champagne </ingredient>
+</preparation>
+</recette>

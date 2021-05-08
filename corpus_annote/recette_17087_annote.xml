@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17087">
+<titre>Salade grillée aux légumes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons</p>
+<p>6 tomates</p>
+<p>6 gousses d'ail</p>
+<p>2 piments</p>
+<p>1/2 citron</p>
+<p>2 cuillères à café de carvi</p>
+<p>2 cuillères à café de coriandre</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poivrons"> cuire </operation> sur le barbecue les <ingredient action="cuire" quantite="2"> poivrons </ingredient> , tomates et piment ( s ) . a défaut de barbecue , je le fais sous le gril du four . <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> enveloppé </operation> dans du papier alu . une fois <operation> cuits </operation> , laisser refroidir puis <operation> peler </operation> tout ça ( <operation ingredients="poivrons"> enlever </operation> les graines des <ingredient action="enlever" quantite="2"> poivrons </ingredient> et des piments ) . <operation ingredients="légumes"> passer </operation> les <ingredient action="passer" quantite="2;6"> légumes </ingredient> à la moulinette . <operation ingredients="cumin;coriandre;jus;huile"> ajouter </operation> le <ingredient action="ajouter"> cumin </ingredient> , la <ingredient action="ajouter" quantite="2 cuillère à café"> coriandre </ingredient> , le <ingredient action="ajouter"> jus </ingredient> de citron et l' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> d' olive . <operation> saler </operation> . <operation> mélanger </operation> . <operation ingredients="mange"> mettre </operation> au réfrigérateur , car cela se <ingredient action="mettre"> mange </ingredient> bien frais . déguster avec du <ingredient> pain </ingredient> ! déguster avec du <ingredient> pain </ingredient> !
+</preparation>
+</recette>

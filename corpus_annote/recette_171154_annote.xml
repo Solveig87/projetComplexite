@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171154">
+<titre>Jardinière provençale</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 à 12 pommes de terre (selon la taille)</p>
+<p>1 demi oignon rouge </p>
+<p>1 demi poivron rouge</p>
+<p>1 petite courgette</p>
+<p>4 tomates</p>
+<p>8 grosses tranches de chorizo</p>
+<p>150 g de lardons fumés </p>
+<p>1 pincée de thym</p>
+<p>2 feuilles de laurier</p>
+<p>huile</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="8"> pommes </ingredient> de terre et la courgette en cubes . <operation ingredients="oignon;poivron"> émincer </operation> l' <ingredient action="émincer" quantite="1mi"> oignon </ingredient> et le <ingredient action="émincer"> poivron </ingredient> en fines lamelles . <operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="4"> tomates </ingredient> tout en conservant la pulpe . a feu moyen , <operation ingredients="légumes;huile"> verser </operation> les <ingredient action="verser" quantite="8;1mi;4"> légumes </ingredient> dans un fait - tout avec un fond d' <ingredient action="verser" quantite=""> huile </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="thym;laurier"> insérer </operation> le <ingredient action="insérer" quantite="1 pincée"> thym </ingredient> et le <ingredient action="insérer" quantite="2 feuille"> laurier </ingredient> . <operation> couvrir </operation> , laisser <operation> mijoter </operation> 15 min en <operation> remuant </operation> régulièrement . <operation ingredients="chorizo"> incorporer </operation> les tranches de <ingredient action="incorporer"> chorizo </ingredient> <operation ingredients="lardons"> coupées </operation> en 4 et les <ingredient action="couper"> lardons </ingredient> . <operation> recouvrir </operation> et laisser <operation> mijoter </operation> environ 45 min toujours en <operation> remuant </operation> régulièrement .
+</preparation>
+</recette>

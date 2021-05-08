@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37611">
+<titre>Navarin toulousain</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g d'épaule d'agneau (ou collier)</p>
+<p>8 morceaux de saucisses de Toulouse</p>
+<p>400 g de haricots blancs déjà à moitié cuits</p>
+<p>1 oignon</p>
+<p>4 carottes</p>
+<p>1 navet</p>
+<p>3 gousses d'ail écrasées</p>
+<p>2 cuillerées de concentré de tomate</p>
+<p>1 pincée de sucre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> la veille : dans une cocotte <operation ingredients="agneau;graisse"> faire </operation> <operation> rissoler </operation> l' <ingredient action="faire"> agneau </ingredient> avec de la <ingredient action="faire"> graisse </ingredient> d' oie ( y <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> ) . <operation ingredients="viande"> mouiller </operation> la <ingredient action="mouiller"> viande </ingredient> d' eau . <operation> couvrir </operation> et attendre que l' eau soit chaude pour <operation ingredients="tomate;sucre;saucisse"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> , la pincée de <ingredient action="ajouter" quantite="1 pincée"> sucre </ingredient> et les morceaux de <ingredient action="ajouter"> saucisse </ingredient> de toulouse . <operation> couvrir </operation> et faire <operation> cuire </operation> doucement pendant 1 heure . <operation ingredients="haricots"> mettre </operation> les <ingredient action="mettre" quantite="400 gramme"> haricots </ingredient> blancs à <operation> tremper </operation> . faire refroidir la <ingredient> viande </ingredient> une nuit et <operation> enlever </operation> le trop de gras . le lendemain , faire <operation ingredients="carottes;navet"> réchauffer </operation> puis <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , les <ingredient action="réchauffer" quantite="4"> carottes </ingredient> , le <ingredient action="réchauffer" quantite="1"> navet </ingredient> <operation ingredients="haricots"> coupé </operation> en dés et les <ingredient action="couper" quantite="400 gramme"> haricots </ingredient> blancs et déjà <operation> cuits </operation> à moitié . <operation> couvrir </operation> et laisser <operation> cuire </operation> doucement 2 heures . <operation> saler </operation> et <operation> poivrer </operation> et servir .
+</preparation>
+</recette>

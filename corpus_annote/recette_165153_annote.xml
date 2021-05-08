@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165153">
+<titre>BOULETTE DE POULET AU CURRY</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filet de poulet assez gros</p>
+<p>1 oeuf</p>
+<p>1 morceau de pain</p>
+<p>2 verre de lait</p>
+<p>sel et poivre</p>
+<p>1 cuillère à café de curry</p>
+<p>50 g de gruyère râpé</p>
+<p>farine</p>
+</ingredients>
+<preparation>
+la préparation est plus que facile : <operation ingredients="curry"> mettre </operation> dans le robot a <operation ingredients="poulet;oeuf;pain"> mixer </operation> les 2 gros filet de <ingredient action="mixer"> poulet </ingredient> , l' <ingredient action="mixer" quantite="1"> oeuf </ingredient> , le morceau de <ingredient action="mixer"> pain </ingredient> ( environ 10 / 15 cm ) préalablement <operation ingredients="lait"> trempé </operation> dans le <ingredient action="tremper" quantite="2 verre"> lait </ingredient> et <operation> pressé </operation> afin qu il ne reste qu' une pate , <ingredient> salé </ingredient> et poivré , <operation> ajouté </operation> un peu de gruyere rapé ( facultatif ) puis une bonne cuillère de <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> ( vous pouvez aussi ne pas <operation ingredients="curry"> mettre </operation> le <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> et <operation ingredients="curry"> préparer </operation> une sauce au <ingredient action="préparer" quantite="1 cuillère à café"> curry </ingredient> a part ) <operation> mixer </operation> le tout . une fois <operation> mixé </operation> , <operation> formez </operation> des boulettes et <operation ingredients="farine"> passez </operation> dans la <ingredient action="passer" quantite=""> farine </ingredient> puis faites <operation ingredients="huile"> cuire </operation> à la poele avec un fond d' <ingredient action="cuire"> huile </ingredient> . c' est un régal <operation> accompagnement </operation> possible : <ingredient> riz </ingredient> avec sauce au <ingredient quantite="1 cuillère à café"> curry </ingredient> . . . <operation ingredients="riz;curry"> accompagnement </operation> possible : <ingredient action="accompagnement"> riz </ingredient> avec sauce au <ingredient action="accompagnement" quantite="1 cuillère à café"> curry </ingredient> . . .
+</preparation>
+</recette>

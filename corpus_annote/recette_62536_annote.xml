@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62536">
+<titre>Verrine crevette et guacamole</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de petites crevettes (personnellement j'utilise des crevettes déjà décortiquées ça va plus vite!)</p>
+<p>1 avocat</p>
+<p>1 sachet d'épices pour guacamole</p>
+<p>1 gros paquet de tortilla chips mexicaines</p>
+<p>1/4 de concombre</p>
+<p>1/2 citron</p>
+</ingredients>
+<preparation>
+dans un bol , <operation ingredients="chips"> écrasez </operation> grossièrement les <ingredient action="écraser"> chips </ingredient> puis <operation ingredients="concombre"> coupez </operation> le <ingredient action="couper"> concombre </ingredient> en petit dés . <operation ingredients="avocat"> préparez </operation> le guacamole : <operation> épluchez </operation> l' <ingredient action="préparer" quantite="1"> avocat </ingredient> et écrasez - le avec une fourchette , <operation ingredients="épices;citron"> rajoutez </operation> les <ingredient action="rajouter"> épices </ingredient> et le 1 / 2 <ingredient action="rajouter"> citron </ingredient> . une fois tous vos ingrédients <operation> préparés </operation> , il ne vous reste plus qu' à faire vos couches ! commencez par les <ingredient> chips </ingredient> puis <operation> ajoutez </operation> une cuillère de guacamole et étalez - le légèrement sur la couche de <ingredient> chips </ingredient> . <operation ingredients="crevette;concombre"> ajoutez </operation> ensuite une couche de <ingredient action="ajouter" quantite="125 gramme"> crevette </ingredient> et une couche de <ingredient action="ajouter"> concombre </ingredient> , puis recommencez encore une fois . et voilà , c' est prêt !
+</preparation>
+</recette>

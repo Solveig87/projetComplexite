@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17901">
+<titre>Riz Cantonais</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de riz</p>
+<p>600 g de crevettes</p>
+<p>8 œufs</p>
+<p>20 tiges d'oignons (vertes) </p>
+<p>10 tranches de jambon (de porc ou de dinde)</p>
+<p>sauce de soja</p>
+<p>Ve-tsin (glutamate, voir dans magasin chinois) </p>
+<p>huile</p>
+</ingredients>
+<preparation>
+faire d' abord <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="1 kilogramme"> riz </ingredient> et laisser <operation> reposer </operation> 5 ou 6 h maximum . ensuite , dans une grande <operation> poêle </operation> bien <operation> huilée </operation> faire <operation ingredients="œufs"> cuire </operation> les <ingredient action="cuire" quantite="8"> œufs </ingredient> en les brouillant le plus possible . <operation> ajouter </operation> ensuite , les <ingredient quantite="600 gramme"> crevettes </ingredient> déjà <operation> décortiquées </operation> et le <ingredient quantite="10 tranche"> jambon </ingredient> . laisser à feux doux 5 ou 6 mn , <operation ingredients="oignons"> ajouter </operation> ensuite une bonne <operation> dose </operation> de sauce de soja et le tiges d' <ingredient action="ajouter"> oignons </ingredient> verts et 1 cuillère à café de ve - tsin . laisser <operation> mijoter </operation> pendant 10 min environ et <operation ingredients="riz"> mélanger </operation> au <ingredient action="mélanger" quantite="1 kilogramme"> riz </ingredient> . servez chaud avec une petite sauce piquante chinoise . nb : les différents ingrédients peuvent être adaptés à vos goûts ( vous pouvez <operation ingredients="crevettes;viande"> enlever </operation> les <ingredient action="enlever" quantite="600 gramme"> crevettes </ingredient> et / ou la <ingredient action="enlever" quantite="10 tranche"> viande </ingredient> , <operation ingredients="pois"> rajouter </operation> des petits <ingredient action="rajouter"> pois </ingredient> . . . ) . eau
+</preparation>
+</recette>

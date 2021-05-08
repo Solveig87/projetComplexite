@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28908">
+<titre>Gratin en rose et bleu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 pommes de terre moyennes épluchées</p>
+<p>1 oignon moyen</p>
+<p>8 tranches de truite fumée coupées en lamelles</p>
+<p>75 g de roquefort</p>
+<p>75 g de comté râpé</p>
+<p>sel, poivre</p>
+<p>200 g de crème liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;oignon"> trancher </operation> les <ingredient action="trancher" quantite="12"> pommes </ingredient> de terre ainsi que l' <ingredient action="trancher" quantite="1"> oignon </ingredient> au robot ( pour une cuisson plus régulière ) . faire <operation ingredients="pommes;oignon"> cuire </operation> les <ingredient action="cuire" quantite="12"> pommes </ingredient> de terre et l' <ingredient action="cuire" quantite="1"> oignon </ingredient> pendant 3 mn à l' eau bouillante . <operation> egoutter </operation> . dans un plat à gratin , <operation ingredients="pommes"> verser </operation> un tiers des <ingredient action="verser" quantite="12"> pommes </ingredient> de terre , <operation ingredients="truite;roquefort"> ajouter </operation> la moitié des tranches de <ingredient action="ajouter" quantite="8 tranche"> truite </ingredient> et la moitié du <ingredient action="ajouter" quantite="75 gramme"> roquefort </ingredient> <operation> émietté </operation> . <operation> saler </operation> et <operation> poivrer </operation> ( penser que la <ingredient quantite="8 tranche"> truite </ingredient> est déjà <operation> salée </operation> ) . recommencer l' opération une fois . <operation ingredients="pommes"> verser </operation> la dernière couche de <ingredient action="verser" quantite="12"> pommes </ingredient> de terres , <operation ingredients="comté"> parsemer </operation> avec le <ingredient action="parsemer" quantite="75 gramme"> comté </ingredient> râpé . <operation ingredients="crème;lait"> verser </operation> la <ingredient action="verser" quantite="200 gramme"> crème </ingredient> avec un peu de <ingredient action="verser"> lait </ingredient> si la <ingredient quantite="200 gramme"> crème </ingredient> paraît insuffisante . <operation> mettre </operation> au four th 6 / 7 pendant 45 mn ( surveiller la cuisson en fonction de la variété des <ingredient quantite="12"> pommes </ingredient> de terre ) . on peut <operation ingredients="roquefort"> mettre </operation> plus de <ingredient action="mettre" quantite="75 gramme"> roquefort </ingredient> si l' on est <operation> amateur </operation> . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

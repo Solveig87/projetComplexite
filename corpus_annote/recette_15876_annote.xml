@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15876">
+<titre>Gratin de pâtes aux brocolis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 têtes de brocolis</p>
+<p>5 champignons de Paris moyens</p>
+<p>250 g de pâtes (complètes de préférence)</p>
+<p>2 escalopes de poulet (200g environ)</p>
+<p>du gruyère râpé (selon votre goût)</p>
+<p>sel et poivre</p>
+<p>curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire"> brocolis </ingredient> à la vapeur ou à l' eau . faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> pâtes </ingredient> al dente . <operation ingredients="champignons"> emincer </operation> les <ingredient action="emincer" quantite="5"> champignons </ingredient> et les faire <operation> revenir </operation> avec une cuillère à soupe d' huile d' olive . <operation ingredients="escalopes"> découper </operation> les <ingredient action="découper" quantite="2"> escalopes </ingredient> de poulet en cube et les faire <operation> revenir </operation> à la <operation> poêle </operation> . <operation> mélanger </operation> tous les ingrédients ds un plats allant au four , <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="curry"> ajouter </operation> une petite cuillère de <ingredient action="ajouter" quantite=""> curry </ingredient> , <operation> mélanger </operation> à nouveau . <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir"> fromage </ingredient> râpé et <operation> mettre </operation> à <operation> gratiner </operation> au four quelques minutes . n. b : on peut également <operation ingredients="fromage"> ajouter </operation> des lamelles de <ingredient action="ajouter"> fromage </ingredient> de brebis , c' est délicieux ! ! ! complet et équilibré ! un rouge léger
+</preparation>
+</recette>

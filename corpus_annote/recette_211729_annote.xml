@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="211729">
+<titre>Pâtes saumon frais, citron et câpres</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de tagliatelles vertes</p>
+<p>500 g de filets de saumon frais</p>
+<p>1 jus de citron</p>
+<p>60 g de câpres</p>
+<p>1 gousse d'ail</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;huile"> cuire </operation> les filets de <ingredient action="cuire"> saumon </ingredient> à la <operation> poêle </operation> dans un peu d' <ingredient action="cuire" quantite=""> huile </ingredient> d' olive . pendant ce temps , faire <operation ingredients="gousse"> revenir </operation> la <ingredient action="revenir" quantite="1"> gousse </ingredient> d' ail <operation ingredients="huile"> hachée </operation> dans de l' <ingredient action="hacher" quantite=""> huile </ingredient> d' olive . <operation ingredients="jus;câpres"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="1"> jus </ingredient> du citron et les <ingredient action="ajouter" quantite="60 gramme"> câpres </ingredient> <operation> égouttés </operation> . laisser <operation> mijoter </operation> à feu doux quelques minutes . une fois le <ingredient action="émietter"> saumon </ingredient> <operation> cuit </operation> , l' <operation ingredients="saumon"> émietter </operation> à la fourchette . <operation ingredients="citron;saumon"> ajouter </operation> la préparation <ingredient action="ajouter"> citron </ingredient> et câpres au <ingredient action="ajouter"> saumon </ingredient> émietté et <operation> mélanger </operation> . <operation ingredients="pâtes"> mélanger </operation> enfin cette préparation aux <ingredient action="mélanger"> pâtes </ingredient> <operation> cuites </operation> al dente et <operation ingredients="huile"> ajouter </operation> un peu d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive si besoin . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

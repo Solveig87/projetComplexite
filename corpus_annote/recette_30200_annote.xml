@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30200">
+<titre>Fraises en bavarois</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fraises très parfumées</p>
+<p>10 cl d'eau</p>
+<p>135 g de sucre en poudre</p>
+<p>135 g de crème fraîche entière</p>
+<p>1 citron</p>
+<p>4 feuilles de gélatine</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="gélatine"> ramollir </operation> la <ingredient action="ramollir" quantite="4 feuille"> gélatine </ingredient> dans un bol d' eau froide . <operation ingredients="sucre"> portez </operation> l' eau et le <ingredient action="porter" quantite="135 gramme"> sucre </ingredient> à <operation> ébullition </operation> puis laisser <operation> tiédir </operation> avant d' <operation ingredients="gélatine"> ajouter </operation> la <ingredient action="ajouter" quantite="4 feuille"> gélatine </ingredient> soigneusement <operation> égouttée </operation> et <operation> pressée </operation> . <operation ingredients="fraises"> réservez </operation> les plus belles <ingredient action="réserver" quantite="500 gramme"> fraises </ingredient> pour la décoration . <operation> mixez </operation> le reste des <ingredient action="prélever" quantite="500 gramme"> fraises </ingredient> et <operation> passez </operation> éventuellement au tamis pour <operation> ôtez </operation> les petites graines . <operation ingredients="fraises;fraises;jus"> prélevez </operation> 25 cl de pulpe de <ingredient action="prélever" quantite="500 gramme"> fraises </ingredient> , <operation ingredients="sirop"> ajoutez </operation> le <ingredient action="ajouter"> sirop </ingredient> gélatiné et le <ingredient action="prélever"> jus </ingredient> de citron . <operation ingredients="crème;chantilly"> fouettez </operation> la <ingredient action="fouetter" quantite="135 gramme"> crème </ingredient> fraîche bien froide en <ingredient action="fouetter"> chantilly </ingredient> et <operation> incorporez </operation> - la délicatement au <operation> mélange </operation> refroidi . <operation> huilez </operation> un <operation> moule </operation> et <operation> versez </operation> - y la préparation . <operation> placez </operation> au réfrigérateur pendant 12 heures . <operation> démoulez </operation> au centre d' un plat . <operation ingredients="fraises"> entourez </operation> de <ingredient action="entourer" quantite="500 gramme"> fraises </ingredient> .
+</preparation>
+</recette>

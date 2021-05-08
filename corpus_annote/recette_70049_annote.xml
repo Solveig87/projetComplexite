@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70049">
+<titre>Poulet à l'orange et au gingembre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>4 gros oignons</p>
+<p>2 oranges</p>
+<p>100-200 g de champignons de Paris</p>
+<p>gingembre moulu ou gingembre frais râpé</p>
+<p>curry</p>
+<p>1 verre de vin blanc sec</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulet"> revenir </operation> les cuisses de <ingredient action="revenir"> poulet </ingredient> dans une <operation> poêle </operation> . <operation ingredients="orange"> ajoutez </operation> le zeste d' une <ingredient action="ajouter" quantite="2"> orange </ingredient> . au bout de 10 minutes environ , <operation ingredients="champignons;oignons;vin;jus;oranges"> ajoutez </operation> dans la <operation> poêle </operation> les <ingredient action="ajouter"> champignons </ingredient> et les <ingredient action="ajouter" quantite="4"> oignons </ingredient> en tranches , le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc et le <ingredient action="ajouter"> jus </ingredient> de deux <ingredient action="ajouter" quantite="2"> oranges </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="gingembre;curry"> saupoudrez </operation> de <ingredient action="saupoudrer"> gingembre </ingredient> et de <ingredient action="saupoudrer" quantite=""> curry </ingredient> suivant vos goûts . . . laissez ainsi <operation> mijoter </operation> environ 20 minutes et <operation> remuant </operation> régulièrement . au bout de ce temps , sortez et <operation ingredients="poulet"> égouttez </operation> le <ingredient action="égoutter"> poulet </ingredient> , et <operation> mixez </operation> tout le reste ( en y <operation ingredients="vin"> ajoutant </operation> <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc , <ingredient> crème </ingredient> fraîche , eau ou <ingredient> jus </ingredient> d' orange <operation> pressées </operation> pour une meilleure consistance de la purée ) . replacez le <ingredient> poulet </ingredient> dans la <operation> poêle </operation> avec la purée obtenue et servez chaud avec du <ingredient> riz </ingredient> . pour les <operation ingredients="vin;grives"> amatteurs </operation> de <ingredient action="amatteur" quantite="1 verre"> vin </ingredient> blanc , du tariquet première <ingredient action="amatteur"> grives </ingredient> . . .
+</preparation>
+</recette>

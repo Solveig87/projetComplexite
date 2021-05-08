@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20116">
+<titre>Mousse au biscuit</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de lait condensé sucré</p>
+<p>60 cl de crème fraîche</p>
+<p>1/2 paquet de biscuits type 'petits beurres'</p>
+<p>50 g de chocolat noir râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème"> battre </operation> la <ingredient action="battre" quantite="60 cl"> crème </ingredient> fraîche . <operation ingredients="biscuits"> passer </operation> les <ingredient action="passer"> biscuits </ingredient> à la moulinette et les <operation> ajouter </operation> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> condensé <operation> sucré </operation> et bien <operation> mélanger </operation> . <operation ingredients="chocolat"> parsemer </operation> de <ingredient action="parsemer" quantite="50 gramme"> chocolat </ingredient> noir <operation> râpé </operation> et <operation> mettre </operation> au congélateur ( pour que la <ingredient> mousse </ingredient> prenne rapidement ) puis au frigo pour qu' elle soit plus onctueuse . en été , on peut remplacer les <ingredient> biscuits </ingredient> par une grande boîte de pulpe de <ingredient> mangue </ingredient> et un tiers de la <ingredient quantite="60 cl"> crème </ingredient> fraîche par du <ingredient> yaourt </ingredient> nature . c' est plus frais et moins calorique .
+</preparation>
+</recette>

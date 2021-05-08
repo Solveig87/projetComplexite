@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28196">
+<titre>Filet mignon aux pruneaux et carottes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>un filet mignon</p>
+<p>des carottes (quantité pour 4 ) </p>
+<p>un oignon</p>
+<p>10 pruneaux</p>
+<p>une cuillère à soupe de confiture d'abricot</p>
+<p>du vin blanc</p>
+<p>du bouillon de volaille</p>
+<p>un bon morceau de beurre</p>
+<p>un peu de farine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;beurre"> dorer </operation> le filet mignon de tous les côtés dans une cocotte avec un peu d' <ingredient action="dorer"> huile </ingredient> ou de <ingredient action="dorer"> beurre </ingredient> . <operation> réserver </operation> . <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="1"> carottes </ingredient> <operation> épluchées </operation> en rondelles . faire <operation ingredients="oignon"> dorer </operation> l' <ingredient action="dorer" quantite="1"> oignon </ingredient> <operation> émincé </operation> dans la cocotte , <operation ingredients="beurre"> mettre </operation> le morceau de <ingredient action="mettre"> beurre </ingredient> , la <ingredient action="mélanger"> farine </ingredient> , <operation ingredients="farine"> mélanger </operation> et <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite=""> vin </ingredient> blanc , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre"> viande </ingredient> , <operation ingredients="bouillon"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> bouillon </ingredient> de volaille et <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> carottes </ingredient> ( viande et carottes doivent être complètement <operation> recouvertes </operation> de liquide ) . laisser <operation> mijoter </operation> 30 à 40 mn . 5 mn avant la fin de la cuisson , <operation ingredients="pruneaux"> ajouter </operation> les <ingredient action="ajouter" quantite="10"> pruneaux </ingredient> et la cuillère à soupe de confiture .
+</preparation>
+</recette>

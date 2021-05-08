@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24370">
+<titre>Oeufs à la neige</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>30 cl litre de lait</p>
+<p>50 g de sucre pour le lait</p>
+<p>2 oeufs</p>
+<p>1/3 de gousse de vanille</p>
+<p>20 g de sucre pour les blancs</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> mettre </operation> à <operation> bouillir </operation> le <ingredient action="mettre"> lait </ingredient> en y <operation ingredients="sucre"> ajoutant </operation> le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> sucre </ingredient> et la vanille . <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="2"> oeufs </ingredient> et <operation> fouetter </operation> les blancs en neige bien ferme sans oublier d' <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> sucre </ingredient> . laisser glisser des cuillerées de blancs dans une casserole de <ingredient> lait </ingredient> <operation> frémissant </operation> mais pas à <operation> ébullition </operation> . laisser <operation> cuire </operation> 2 min de chaque face . une fois les blancs <operation> cuits </operation> , les <operation> retirer </operation> et les <operation> mettre </operation> à <operation> égoutter </operation> dans une passoire . <operation ingredients="crème"> préparer </operation> la <ingredient action="préparer"> crème </ingredient> anglaise en prenant le <ingredient> lait </ingredient> chaud et les jaunes d' <ingredient quantite="2"> oeufs </ingredient> . <operation ingredients="crème"> répartir </operation> la <ingredient action="répartir"> crème </ingredient> dans des <operation> coupes </operation> et <operation> mettre </operation> dessus quelques blancs . garder au frais avant de servir .
+</preparation>
+</recette>

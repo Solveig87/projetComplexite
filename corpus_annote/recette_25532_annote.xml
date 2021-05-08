@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25532">
+<titre>Omelette lorraine</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de lardons fumés</p>
+<p>12 oeufs</p>
+<p>6 oignons</p>
+<p>20 g de beurre</p>
+<p>15 g de crème fraîche</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>3 cuillères à soupe d'eau</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="6"> oignons </ingredient> et les faire <operation ingredients="lardons;beurre"> revenir </operation> avec les <ingredient action="revenir"> lardons </ingredient> dans un <operation> mélange </operation> <ingredient action="revenir"> beurre </ingredient> et huile . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> en omelette et y <operation> incorporer </operation> l’ eau . <operation> assaisonner </operation> . <operation ingredients="oignons;lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> oignons </ingredient> et les <ingredient action="ajouter"> lardons </ingredient> et faire prendre l’ omelette dans une <operation> poêle </operation> . la <operation action="plier" ingredients="plier"> plier </operation> en deux et servir .
+</preparation>
+</recette>

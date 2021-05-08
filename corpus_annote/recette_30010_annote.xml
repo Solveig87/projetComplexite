@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30010">
+<titre>Caviar d'aubergines</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 belles aubergines</p>
+<p>15 cl d'huile d'olive</p>
+<p>1 demi tête d'ail ou 6 gousses</p>
+<p>1 gros citron dont on utilisera le jus</p>
+<p>2 tomates mûres</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="aubergines;tomate"> essuyez </operation> les <ingredient action="essuyer" quantite="6"> aubergines </ingredient> et la <ingredient action="essuyer" quantite="2"> tomate </ingredient> . <operation ingredients="légumes"> faites </operation> <operation> cuire </operation> pendant 15 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) les <ingredient action="faire" quantite="6;1;2"> légumes </ingredient> <operation> coupés </operation> en deux dans le sens de la longueur en gardant la peau . récupérez la <ingredient> chair </ingredient> des aubergines et de la <ingredient quantite="2"> tomate </ingredient> , <operation ingredients="ail"> réduire </operation> l' <ingredient action="réduire"> ail </ingredient> en purée . <operation> mélangez </operation> le tout avec une fourchette pour <operation> écraser </operation> légèrement la pulpe . faites <operation> monter </operation> le <operation> mélange </operation> comme une mayonnnaise en <operation ingredients="huile"> ajoutant </operation> de l' <ingredient action="ajouter" quantite="15 cl"> huile </ingredient> doucement et en <operation> fouettant </operation> en même temps . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="jus"> ajoutez </operation> enfin le <ingredient action="ajouter"> jus </ingredient> de citron selon le goût . <operation> réservez </operation> au frais avant dégustation en tartine .
+</preparation>
+</recette>

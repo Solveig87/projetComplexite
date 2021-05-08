@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30181">
+<titre>Potage aux poireaux et chipolatas</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>4 poireaux</p>
+<p>12 petites chipolatas</p>
+<p>2 l de bouillon</p>
+<p>1 bouquet garni</p>
+<p>30 g de beurre</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="pommes"> coupez </operation> les <ingredient action="couper" quantite="1 kilogramme"> pommes </ingredient> de terre en dés . <operation ingredients="poireaux"> nettoyez </operation> et <operation> émincez </operation> les <ingredient action="nettoyer" quantite="4"> poireaux </ingredient> . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> dans une cocotte , <operation ingredients="poireaux"> mettez </operation> - y les <ingredient action="mettre" quantite="4"> poireaux </ingredient> et laissez suer 10 min . <operation ingredients="bouillon"> ajoutez </operation> le <ingredient action="ajouter" quantite="2 l"> bouillon </ingredient> , le <ingredient action="saler" quantite="1"> bouquet </ingredient> <operation> garni </operation> , les <ingredient action="saler" quantite="1 kilogramme"> pommes </ingredient> de terre , <operation ingredients="bouquet;pommes"> salez </operation> et <operation> poivrez </operation> . laissez <operation> cuire </operation> 45 min à petit frémissement , <operation> mixez </operation> et <operation ingredients="saucisses"> rajoutez </operation> les <ingredient action="rajouter"> saucisses </ingredient> . laissez <operation> chauffer </operation> 10 min et <operation ingredients="crème"> incorporez </operation> la <ingredient action="incorporer" quantite=""> crème </ingredient> fraîche . servez <operation ingredients="fromage"> accompagné </operation> de <ingredient action="accompagner"> fromage </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

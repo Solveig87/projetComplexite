@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22566">
+<titre>Navets caramélisés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de petits navets </p>
+<p>30 g de beurre</p>
+<p>10 g de sucre</p>
+<p>12,5 cl d'eau chaude</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="navets;beurre"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> navets </ingredient> entiers dans 15 g de <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> . <operation> assaisonner </operation> , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="10 gramme"> sucre </ingredient> et <operation> verser </operation> l’ eau . faire <operation> cuire </operation> à feu doux pendant 1 h 15 . <operation ingredients="beurre"> incorporer </operation> le reste de <ingredient action="incorporer" quantite="30 gramme"> beurre </ingredient> 10 minutes avant la fin de la cuisson . <operation ingredients="navets"> enrober </operation> les <ingredient action="enrober" quantite="500 gramme"> navets </ingredient> du jus de cuisson et servir .
+</preparation>
+</recette>

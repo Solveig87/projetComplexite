@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30669">
+<titre>Salade de fruits d'hiver en orange et vert</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de clémentines sans pépins</p>
+<p>5 kiwis</p>
+<p>5 cl de rhum</p>
+<p>30 g de cassonade</p>
+<p>1 citron vert</p>
+<p>5 cl d'eau</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> les clémentines à vif : <operation ingredients="couteau"> enlever </operation> l' écorce à l' aide d' un <ingredient action="enlever"> couteau </ingredient> puis <operation> couper </operation> en tranches . <operation ingredients="kiwis"> détailler </operation> également les <ingredient action="détailler" quantite="5"> kiwis </ingredient> en rondelles . <operation ingredients="fruits"> disposer </operation> les <ingredient action="disposer" quantite="5"> fruits </ingredient> dans un saladier , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> et <operation ingredients="rhum;jus"> mouiller </operation> de <ingredient action="mouiller" quantite="5 cl"> rhum </ingredient> , de <ingredient action="mouiller"> jus </ingredient> de citron vert et d' eau . laisser <operation> macérer </operation> durant 1 heure puis servir .
+</preparation>
+</recette>

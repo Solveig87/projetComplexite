@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195583">
+<titre>Bibleskäse (recette alsacienne au fromage blanc)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>une poignée de lardons</p>
+<p>20 cl de fromage blanc</p>
+<p>10 cl de crème fraîche</p>
+<p>ciboulette</p>
+<p>1 échalote</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> sauter </operation> les <ingredient action="sauter" quantite="1 kilogramme"> pommes </ingredient> de terre dans une <operation> poêle </operation> , <operation ingredients="lardons"> rajouter </operation> des <ingredient action="rajouter"> lardons </ingredient> . <operation ingredients="fromage;crème;ciboulette;échalote"> mettre </operation> dans un plat du <ingredient action="mettre" quantite="20 cl"> fromage </ingredient> blanc , de la <ingredient action="mettre" quantite="10 cl"> crème </ingredient> fraîche , de la <ingredient action="mettre" quantite=""> ciboulette </ingredient> , de l' <ingredient action="mettre" quantite="1"> échalote </ingredient> et bien <operation ingredients="pommes"> mélanger </operation> avec les <ingredient action="mélanger" quantite="1 kilogramme"> pommes </ingredient> de terre . c' est prêt !
+</preparation>
+</recette>

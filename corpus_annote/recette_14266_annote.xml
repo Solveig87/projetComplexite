@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14266">
+<titre>Salade cuite aux poivrons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>7 poivrons rouges</p>
+<p>1 poivron vert (pour la couleur)</p>
+<p>2 boîtes de tomates pelées concassées</p>
+<p>2 gousses d'ail</p>
+<p>un fond d'huile de tournesol</p>
+<p>un carré de sucre</p>
+<p>une pincée de piment de cayenne</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poivrons"> griller </operation> les <ingredient action="griller"> poivrons </ingredient> au gril du four porte ouverte en les <operation> retournant </operation> de temps en temps jusqu' à ce qu' ils soient bien grillés . <operation ingredients="poivrons"> enfermer </operation> les <ingredient action="enfermer"> poivrons </ingredient> dans un sac en plastique pendant environ 15 mn . ainsi ils seront plus facile a <operation> éplucher </operation> . dans une casserole assez large , faire <operation ingredients="ail;huile"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> avec l' <ingredient action="revenir"> huile </ingredient> jusqu' à ce qu' il soit doré . <operation> eplucher </operation> les <ingredient> poivrons </ingredient> et les <operation> épépiner </operation> . les <operation> couper </operation> en tout petits dés . <operation ingredients="tomates;poivrons"> mettre </operation> les <ingredient action="mettre"> tomates </ingredient> dans la casserole puis les <ingredient action="mettre"> poivrons </ingredient> , <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter"> sucre </ingredient> ( pour <operation> enlever </operation> l' amertume ) ainsi que les piments de cayenne , puis <operation> assaisoner </operation> . <operation ingredients="salade;confiture"> laisser </operation> <operation ingredients="non"> mijoter </operation> à feu moyen pendant au moins 1 h 30 <ingredient action="mijoter" quantite="7;1;2;1;1 pincée"> non </ingredient> <operation> couvert </operation> jusqu' à ce que la <ingredient action="laisser"> salade </ingredient> ait un aspect ' <ingredient action="laisser"> confiture </ingredient> ' . <operation> tourner </operation> régulièrement pour ne pas que ça attache . servir à température ambiante avec un bon <ingredient> pain </ingredient> de campagne , ou même avec du <ingredient> thon </ingredient> au naturel . petit truc : si vous êtes <operation> pressé </operation> , vous pouvez utiliser des <ingredient> poivrons </ingredient> <operation> pelés </operation> en boîte en <operation ingredients="poivrons;tomates"> mettant </operation> toujours le double de <ingredient action="mettre"> poivrons </ingredient> par rapport aux <ingredient action="mettre"> tomates </ingredient> .
+</preparation>
+</recette>

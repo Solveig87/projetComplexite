@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36600">
+<titre>Salade de gésiers gourmande</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de gésiers (1 boîte)</p>
+<p>salade mélangée</p>
+<p>4 pommes de terre moyennes cuites avec leur peau</p>
+<p>150 g de champignons de paris</p>
+<p>4 figues sèches</p>
+<p>1 oignon rouge</p>
+<p>1 sachet de croûtons</p>
+<p>vinaigre balsamique, huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="champignons"> éplucher </operation> les <ingredient action="éplucher" quantite="150 gramme"> champignons </ingredient> . les faire suer dans une <operation> poêle </operation> sans <ingredient quantite=""> matière </ingredient> grasse . <operation> eplucher </operation> les <ingredient quantite="4"> pommes </ingredient> de terre et les <operation> couper </operation> en dés . les <operation ingredients="champignons"> ajouter </operation> aux <ingredient action="ajouter" quantite="150 gramme"> champignons </ingredient> . faire <operation ingredients="gésiers"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> gésiers </ingredient> au micro-ondes , au bain marie ou à la <operation> poêle </operation> . <operation ingredients="figues;oignon"> couper </operation> les <ingredient action="couper" quantite="4"> figues </ingredient> en petits morceaux et l' <ingredient action="couper" quantite="1"> oignon </ingredient> en rondelles . dans les assiettes de service , <operation ingredients="salade;champignons;pommes;oignons;croûtons;figues;gésiers"> mettre </operation> la <ingredient action="mettre" quantite=""> salade </ingredient> , les <ingredient action="mettre" quantite="150 gramme"> champignons </ingredient> et les <ingredient action="mettre" quantite="4"> pommes </ingredient> de terre , les <ingredient action="mettre" quantite="1"> oignons </ingredient> , les <ingredient action="mettre"> croûtons </ingredient> , les <ingredient action="mettre" quantite="4"> figues </ingredient> et les <ingredient action="mettre" quantite="300 gramme"> gésiers </ingredient> . au moment de servir , <operation> arroser </operation> de vinaigrette .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14342">
+<titre>Soupe à l'orge</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>1 carotte</p>
+<p>1 morceau de céleri-rave</p>
+<p>50 g de beurre</p>
+<p>150 g de viande séchée</p>
+<p>100 g d'orge</p>
+<p>1 gousse d'ail écrasée</p>
+<p>1 litre 1/2 de bouillon</p>
+<p>1 pointe de noix de muscade</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> nettoyez </operation> les <ingredient action="nettoyer" quantite="1;1"> légumes </ingredient> et <operation> coupez </operation> - les en brunoise . <operation ingredients="viande"> coupez </operation> la <ingredient action="couper" quantite="150 gramme"> viande </ingredient> en morceaux . faites <operation ingredients="légumes;ail;viande;orge;beurre"> revenir </operation> les <ingredient action="revenir" quantite="1;1"> légumes </ingredient> , l' <ingredient action="revenir"> ail </ingredient> , la <ingredient action="revenir" quantite="150 gramme"> viande </ingredient> et l' <ingredient action="revenir" quantite="100 gramme"> orge </ingredient> dans le <ingredient action="revenir" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="bouillon"> recouvrez </operation> de <ingredient action="recouvrir"> bouillon </ingredient> , <operation ingredients="sel;poivre;noix"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> et la <ingredient action="ajouter"> noix </ingredient> de muscade . <operation> portez </operation> à <operation> ébullition </operation> puis baissez le feu et <operation ingredients="orge"> laissez </operation> <operation> mijoter </operation> doucement jusqu' à ce que l' <ingredient action="laisser" quantite="100 gramme"> orge </ingredient> soit bien tendre . <operation> versez </operation> dans une soupière et <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> persil </ingredient> <operation> haché </operation> au moment de servir . <operation ingredients="soupe"> remuez </operation> la <ingredient action="remuez"> soupe </ingredient> de temps à autre car elle a tendance à <operation> coller </operation> au fond .
+</preparation>
+</recette>

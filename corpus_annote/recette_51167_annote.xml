@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51167">
+<titre>Filet mignon aux légumes fondants de mimi</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de filet mignon de porc</p>
+<p>4 carottes</p>
+<p>5 tomates</p>
+<p>2 gros oignons</p>
+<p>sel, poivre</p>
+<p>1 petit bouquet garni</p>
+<p>1 filet d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;oignons"> éplucher </operation> les <ingredient action="éplucher" quantite="4"> carottes </ingredient> , les <ingredient action="éplucher" quantite="2"> oignons </ingredient> , <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="5"> tomates </ingredient> . <operation ingredients="carottes;tomates"> couper </operation> les <ingredient action="couper" quantite="4"> carottes </ingredient> et les <ingredient action="couper" quantite="5"> tomates </ingredient> en gros dés , <operation ingredients="oignons"> émincer </operation> les <ingredient action="émincer" quantite="2"> oignons </ingredient> grossièrement . <operation> saler </operation> et <operation> poivrer </operation> le filet mignon . dans une cocotte <operation ingredients="huile"> mettre </operation> un filet d' <ingredient action="mettre"> huile </ingredient> d' olive , y <operation ingredients="légumes"> disposer </operation> le filet mignon puis les <ingredient action="disposer" quantite="4;5;2"> légumes </ingredient> , <operation ingredients="bouquet;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> à feu doux pendant 1 h 30 . surveiller la cuisson , <operation> tourner </operation> le filet et les <ingredient quantite="4;5;2"> légumes </ingredient> de temps en temps . les <ingredient quantite="4;5;2"> légumes </ingredient> caramélisent , la <ingredient> viande </ingredient> reste moelleuse et se <operation> détache </operation> facilement : c' est prêt à être dégusté , bon appétit ! <operation ingredients="légume;brocoli"> changer </operation> de <ingredient action="changer" quantite="4;5;2"> légume </ingredient> selon la saison : <ingredient action="changer"> brocoli </ingredient> , <operation ingredients="poireau;pommes"> fondue </operation> de <ingredient action="fondre"> poireau </ingredient> ou simplement de petites <ingredient action="fondre"> pommes </ingredient> de terre .
+</preparation>
+</recette>

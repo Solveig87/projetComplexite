@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33807">
+<titre>Cocotte du pêcheur (micro-ondes)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de poisson surgelé</p>
+<p>1/4 cuillère à café de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 poireau</p>
+<p>1 boîte de 400 g de tomates entières</p>
+<p>10 g d'aneth</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poisson"> décongeler </operation> le <ingredient action="décongeler"> poisson </ingredient> et le <operation> couper </operation> en tranches d' environ 2 , 5 cm . les <operation> assaisonner </operation> . <operation ingredients="poireau"> couper </operation> le <ingredient action="couper" quantite="1"> poireau </ingredient> en rondelles . <operation ingredients="poisson;poireau;tomates"> déposer </operation> en alternance les tranches de <ingredient action="déposer"> poisson </ingredient> , les rondelles de <ingredient action="déposer" quantite="1"> poireau </ingredient> et les <ingredient action="déposer"> tomates </ingredient> dans un plat allant au micro-ondes . <operation ingredients="jus"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> des tomates . <operation> couvrir </operation> et <operation> cuire </operation> pendant 10 mn à la puissance 750 w. a la fin de la cuisson , <operation ingredients="aneth"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite="10 gramme"> aneth </ingredient> . vous pouvez remplacer le <ingredient> jus </ingredient> de tomate par du <ingredient> vin </ingredient> blanc ou de la bisque de <ingredient> homard </ingredient> . aussi , vous pouvez <operation ingredients="crevettes"> rajouter </operation> des <ingredient action="rajouter"> crevettes </ingredient> ou des <operation> moules </operation> 1 minute avant la fin de cuisson .
+</preparation>
+</recette>

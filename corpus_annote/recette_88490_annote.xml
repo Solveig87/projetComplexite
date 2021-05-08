@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88490">
+<titre>Cassoulet façon basquaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de cassoulet toulousain</p>
+<p>1/2 poivron rouge</p>
+<p>1/2 poivron vert</p>
+<p>2 tomates</p>
+<p>1 gousse d'aïl</p>
+<p>1 oignon</p>
+<p>3 fines tranches de jambon de bayonne</p>
+<p>Piment d'Espelette en poudre</p>
+<p>huile, sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> pelez </operation> et <operation> émincez </operation> l' <ingredient action="peler" quantite="1"> oignon </ingredient> , <operation> hachez </operation> l' aïl . <operation ingredients="tomates"> détaillez </operation> les <ingredient action="détailler" quantite="2"> tomates </ingredient> en petits dés . <operation ingredients="poivrons"> retirez </operation> les graines des <ingredient action="retirer"> poivrons </ingredient> et <operation> coupez </operation> - les en petits morceaux . faites <operation ingredients="oignon;poivrons;huile"> revenir </operation> l' aïl , l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir"> poivrons </ingredient> pendant 5 minutes dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> et laissez <operation> cuire </operation> 10 minutes en <operation> remuant </operation> . <operation> parsemez </operation> de piment . <operation ingredients="jambon"> détaillez </operation> le <ingredient action="détailler"> jambon </ingredient> en fines lanières et faites - les <operation> dorer </operation> dans une <operation> poêle </operation> pendant quelques instants . <operation ingredients="saucisses"> ajoutez </operation> les <ingredient action="ajouter"> saucisses </ingredient> du cassoulet . au moment de servir , <operation ingredients="haricots;viande"> réchauffez </operation> les <ingredient action="réchauffer"> haricots </ingredient> et la <ingredient action="réchauffer"> viande </ingredient> du cassoulet . <operation ingredients="poivrons"> mélangez </operation> la <operation> poêlée </operation> à base de <ingredient action="mélanger"> poivrons </ingredient> . servez avec les <ingredient> saucisses </ingredient> et le <ingredient> jambon </ingredient> .
+</preparation>
+</recette>

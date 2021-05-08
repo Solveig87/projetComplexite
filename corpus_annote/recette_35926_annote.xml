@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35926">
+<titre>Soupe à l'orge perlé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 pommes de terre moyennes</p>
+<p>2 à 3 saucisses à cuire</p>
+<p>150 g d'orge perlé</p>
+<p>150 g de lardons</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 à 2 cubes de bouillons (type Kub'or) </p>
+<p>beurre</p>
+<p>poivre, sel, maggi (sauce à base de soja)</p>
+</ingredients>
+<preparation>
+dans un faitout , faire <operation ingredients="beurre"> revenir </operation> le <ingredient action="revenir"> beurre </ingredient> pour <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer" quantite="150 gramme"> lardons </ingredient> . <operation ingredients="orge"> ajouter </operation> l' <ingredient action="ajouter" quantite="150 gramme"> orge </ingredient> perlé et faire <operation> cuire </operation> 2 à 3 min . <operation ingredients="sel;poivre;bouillon"> rajouter </operation> une cuillère à soupe de farine , du gros <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="rajouter" quantite=""> poivre </ingredient> , et les cubes de <ingredient action="rajouter"> bouillon </ingredient> . <operation> verser </operation> 1 . 5 litre d' eau , le maggi ( selon les goûts ) et laisser <operation> cuire </operation> 30 minutes . <operation ingredients="pommes;saucisses"> ajouter </operation> enfin les <ingredient action="ajouter" quantite="6"> pommes </ingredient> de terre et les <ingredient action="ajouter" quantite="2"> saucisses </ingredient> puis laisser <operation> recuire </operation> 30 minutes . régalez -vous . au moment de servir , nous <operation ingredients="crème"> rajoutons </operation> 1 à 2 cuillères de <ingredient action="rajouter"> crème </ingredient> fraîche liquide .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32586">
+<titre>Mousse au chocolat de manu, à l'orange confite</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat (riche en cacao) </p>
+<p>60 g de beurre</p>
+<p>5 oeufs</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>1/2 cuillère à soupe d'extrait de vanille</p>
+<p>50 g d'écorces d'oranges confites  </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="60 gramme"> beurre </ingredient> au bain - marie tout doucement , sans cesser de <operation> tourner </operation> avec une cuillère en bois . le <ingredient quantite="200 gramme"> chocolat </ingredient> ne doit pas dessécher . casser les <ingredient quantite="5"> oeufs </ingredient> et <operation> séparer </operation> les blancs des jaunes . dans un saladier , <operation> fouetter </operation> les jaunes , le <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> et la vanille pour faire <operation> blanchir </operation> . le <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> doit avoir <operation> fondu </operation> dans les jaunes . <operation> battre </operation> les blancs en neige très ferme . en tournant énergiquement avec une cuillère en bois <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="200 gramme"> chocolat </ingredient> / beurre <operation> fondu </operation> aux jaunes <operation> blanchis </operation> . en soulevant délicatement à la cuillère , <operation> incorporer </operation> les blancs en neige au <operation> mélange </operation> chocolaté ( et <operation ingredients="oranges"> ajouter </operation> les écorces d' <ingredient action="ajouter"> oranges </ingredient> <operation> découpées </operation> en dés ) . <operation ingredients="mousse"> verser </operation> la <ingredient action="verser"> mousse </ingredient> dans un saladier et <operation> mettre </operation> à refroidir au réfrigérateur . servir froid . nota : les écorces d' <ingredient> oranges </ingredient> <ingredient> confites </ingredient> peuvent être remplacées par de la <ingredient> crème </ingredient> de marron .
+</preparation>
+</recette>

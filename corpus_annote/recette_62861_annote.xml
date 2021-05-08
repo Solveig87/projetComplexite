@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62861">
+<titre>Pain d'épice tout miel ! Tout régal !</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 cl de lait</p>
+<p>300 g de miel liquide de préférence</p>
+<p>250 g de farine</p>
+<p>40 g d'écorce d'orange confite en dés</p>
+<p>50 g d'amande en poudre</p>
+<p>1 sachet de levure chimique</p>
+<p>1 cuillère à soupe de mélange d'épices spécial pain d'épices</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;miel"> chauffer </operation> à feu doux le <ingredient action="chauffer" quantite="10 cl"> lait </ingredient> et le <ingredient action="chauffer" quantite="300 gramme"> miel </ingredient> . <operation ingredients="bouillon"> retirer </operation> du feu dés le premier <ingredient action="retirer"> bouillon </ingredient> . <operation ingredients="levure;farine"> mélanger </operation> le sachet de <ingredient action="mélanger"> levure </ingredient> à la <ingredient action="mélanger" quantite="250 gramme"> farine </ingredient> dans un grand saladier . <operation ingredients="orange;amandes;épices"> ajouter </operation> les écorces d' <ingredient action="ajouter"> orange </ingredient> + les <ingredient action="ajouter" quantite="50 gramme"> amandes </ingredient> en <operation> poudre </operation> + le <operation> mélange </operation> d' <ingredient action="ajouter"> épices </ingredient> . <operation> mélanger </operation> énergiquement puis faire un puit et <operation ingredients="miel"> verser </operation> le <operation> mélange </operation> <ingredient action="verser" quantite="300 gramme"> miel </ingredient> / lait . <operation> remuer </operation> avec une cuillère en bois afin d' obtenir une <ingredient> pâte </ingredient> <operation> lisse </operation> et homogène . <operation ingredients="oeuf;pâte"> incorporer </operation> un <ingredient action="incorporer" quantite="1"> oeuf </ingredient> entier dans la <ingredient action="incorporer"> pâte </ingredient> en <operation> remuant </operation> toujours avec énergie . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> à cake beurré et <operation> mettre </operation> au four préchauffé à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 50 minutes , en le couvant du regard ! ! ! il n' est pas obligatoire de <operation ingredients="oranges;confites"> mettre </operation> les <ingredient action="mettre"> oranges </ingredient> <ingredient action="mettre"> confites </ingredient> , vous pouvez les remplacer par le <ingredient> jus </ingredient> d' une <ingredient> orange </ingredient> ou un zeste <operation> râpé </operation> . . . un <ingredient> thé </ingredient> ou un <ingredient> chocolat </ingredient> chaud
+</preparation>
+</recette>

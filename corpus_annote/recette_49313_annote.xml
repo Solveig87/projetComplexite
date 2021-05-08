@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49313">
+<titre>Soupe de concombres et courgettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros oignons</p>
+<p>2 courgettes</p>
+<p>3 grands concombres</p>
+<p>1 goutte d'huile</p>
+<p>1 casserole a pression</p>
+<p>aneth</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les <ingredient quantite="2"> oignons </ingredient> , puis les faire <operation> revenir </operation> dans la casserole à pression . <operation> eplucher </operation> les courgettes et les <ingredient action="rajouter" quantite="3"> concombres </ingredient> , les <operation ingredients="concombres;oignons"> rajouter </operation> aux <ingredient action="rajouter" quantite="2"> oignons </ingredient> . <operation> ajouter </operation> de l' eau à moitié par rapport aux legumes , <operation> saler </operation> , et fermer la casserole . une fois que la pression est <operation> montée </operation> , <operation> reduire </operation> la chaleur et attendre 5 min ; <operation> éteindre </operation> . <operation> passer </operation> au <operation> mixer </operation> , et servir chaud ou froid avec un peu d' <ingredient quantite=""> aneth </ingredient> .
+</preparation>
+</recette>

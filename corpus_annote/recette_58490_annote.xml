@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58490">
+<titre>Quiche lardons saucisses</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte brisée :</p>
+<p>200 g de farine</p>
+<p>125 g de beurre</p>
+<p>1 pincée de sel</p>
+<p>3 cuillères à soupe d'eau</p>
+<p>Pour la garniture :</p>
+<p>4 oeufs</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>250 g de lardons</p>
+<p>4 saucisses (de type knacki)</p>
+<p>100 g de gruyère râpé</p>
+<p>1 oignon</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;oignons"> revenir </operation> les <ingredient action="revenir" quantite="250 gramme"> lardons </ingredient> avec les <ingredient action="revenir" quantite="1"> oignons </ingredient> puis l' étaler sur la <ingredient> pâte </ingredient> . <operation ingredients="oeufs;crème;poivre"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec la <ingredient action="battre" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et le <ingredient action="battre" quantite=""> poivre </ingredient> , <operation ingredients="gruyère;saucisses"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> et les <ingredient action="ajouter" quantite="4"> saucisses </ingredient> <operation> coupées </operation> en petits morceaux . <operation> mettre </operation> au four 30 min . le soir avec une <ingredient> salade </ingredient> , c' est génial .
+</preparation>
+</recette>

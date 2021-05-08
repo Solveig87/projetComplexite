@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201165">
+<titre>Salade de magret de canard aux pommes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pommes</p>
+<p>150 g de magret de canard fumé</p>
+<p>1 bocal d'artichauts à l'huile</p>
+<p>10 cerneaux de noix</p>
+<p>3 cuillères à soupe d'huile de noix</p>
+<p>2 cuillères à soupe de vinaigre de cidre</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> éplucher </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en cubes . <operation ingredients="magret;fumé"> dégraisser </operation> légèrement le <ingredient action="dégraisser" quantite="150 gramme"> magret </ingredient> de canard <ingredient action="dégraisser"> fumé </ingredient> et le <operation> couper </operation> en morceaux . <operation ingredients="artichauts"> couper </operation> également les <ingredient action="couper"> artichauts </ingredient> en plus petits morceaux . <operation ingredients="noix"> concasser </operation> les cerneaux de <ingredient action="concasser"> noix </ingredient> . dans un saladier , <operation ingredients="pommes;artichauts"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> pommes </ingredient> , les <ingredient action="mélanger"> artichauts </ingredient> , le <ingredient> canard </ingredient> et les <ingredient> noix </ingredient> . <operation ingredients="huile;vinaigre"> assaisonner </operation> avec l' <ingredient action="assaisonner" quantite="3 cuillère à soupe"> huile </ingredient> de noix et le <ingredient action="assaisonner" quantite="2 cuillère à soupe"> vinaigre </ingredient> puis <operation> poivrer </operation> . servir et déguster .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87903">
+<titre>Soupe d'huitres</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>24 huîtres grosses</p>
+<p>50 cl de crème fraîche</p>
+<p>1 bouquet de ciboulette</p>
+<p>20 filaments de safran</p>
+<p>1 petite échalote</p>
+<p>50 cl de fumet de poisson</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair"> détacher </operation> la <ingredient action="détacher"> chair </ingredient> des huitres des coquilles . <operation ingredients="poisson"> verser </operation> le fumet de <ingredient action="verser"> poisson </ingredient> dans une casserole et <operation ingredients="crème"> diluer </operation> avec la <ingredient action="diluer" quantite="50 cl"> crème </ingredient> fraîche . laissez <operation> frémir </operation> au bain marie de préférence , puis <operation ingredients="huîtres"> pocher </operation> les <ingredient action="pocher" quantite="24"> huîtres </ingredient> dans ce fumet . <operation> verser </operation> dans une soupière . <operation ingredients="safran;ciboulette;échalote"> ajoutez </operation> les 20 filaments de <ingredient action="ajouter"> safran </ingredient> , la <ingredient action="ajouter"> ciboulette </ingredient> ainsi que l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> coupée </operation> en morceaux servir très chaud .
+</preparation>
+</recette>

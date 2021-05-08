@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21020">
+<titre>Rôti de dinde forestier en cocotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 dinde à rôtir d'1 kg</p>
+<p>2 échalotes</p>
+<p>1 gros oignon</p>
+<p>100 g de lard gars</p>
+<p>200 g de champignons blancs</p>
+<p>20 cl de crème fraîche épaisse</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="échalotes;oignon"> émincer </operation> les <ingredient action="émincer" quantite="2"> échalotes </ingredient> et l' <ingredient action="émincer" quantite="1"> oignon </ingredient> très finement , puis <operation ingredients="lard"> détailler </operation> le <ingredient action="détailler" quantite="100 gramme"> lard </ingredient> en lardons . les <operation> jeter </operation> dans une cocotte puis les faire <operation> rissoler </operation> en <operation> remuant </operation> régulièrement pour éviter que ça n' accroche au fond de la cocotte . <operation ingredients="rôti;sel"> rouler </operation> le <ingredient action="rouler"> rôti </ingredient> dans un <operation> mélange </operation> de <ingredient action="rouler" quantite=""> sel </ingredient> et poivre , puis le <operation> déposer </operation> dans la cocotte et laisser <operation> cuire </operation> 1 h 30 à <operation> couvert </operation> sur feu modéré . <operation ingredients="rôti"> retourner </operation> régulièrement le <ingredient action="retourner"> rôti </ingredient> pour une cuisson homogène . pendant ce temps , <operation ingredients="champignons"> nettoyer </operation> les <ingredient action="nettoyer" quantite="200 gramme"> champignons </ingredient> sous l' eau froide et leur <operation> couper </operation> le bout terreux . les <operation> émincer </operation> , puis les <operation> jeter </operation> dans la cocotte et les <operation ingredients="rôti"> laisser </operation> <operation> mijoter </operation> en même temps que le <ingredient action="laisser"> rôti </ingredient> . 10 min avant de servir , <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> fraîche épaisse pour <operation> lier </operation> la sauce . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> et servir .
+</preparation>
+</recette>

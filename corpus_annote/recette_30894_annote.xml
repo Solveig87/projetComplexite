@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30894">
+<titre>Soupe de légumes poêlés</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 carottes </p>
+<p>3 grosses pommes de terre </p>
+<p>1 oignon (taille moyenne)</p>
+<p>1 tomate</p>
+<p>1 poireau</p>
+<p>1 cube de bouillon de volaille</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> , <operation ingredients="légumes"> lavez </operation> et <operation> coupez </operation> vos <ingredient action="laver" quantite="3;3;1;1;1"> légumes </ingredient> . faites <operation> revenir </operation> dans une cocotte . avec trois cuillères huile et un morceau de <ingredient> beurre </ingredient> . les <ingredient quantite="3"> carottes </ingredient> , les <ingredient quantite="3"> pommes </ingredient> de terre et le <ingredient quantite="1"> poireau </ingredient> , avec deux grosses <operation> pincées </operation> de <ingredient> sel </ingredient> , pendant 10 minutes . <operation ingredients="oignon"> rajoutez </operation> l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> <operation> coupé </operation> en rondelles et laissez sur le feu encore 5 min en <operation> remuant </operation> régulièrement . <operation> ajoutez </operation> de l' eau de façon à ce qu' elle <operation ingredients="légumes"> recouvre </operation> largement les <ingredient action="recouvrir" quantite="3;3;1;1;1"> légumes </ingredient> , <operation> portez </operation> à <operation> ébullition </operation> , <operation ingredients="volaille;tomate"> ajoutez </operation> le cube de <ingredient action="ajouter"> volaille </ingredient> et la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> coupée </operation> en quartier . <operation> mettez </operation> le couvercle et laissez <operation> cuire </operation> à feu doux pendant environ une heure , puis <operation ingredients="légumes"> passez </operation> les <ingredient action="passer" quantite="3;3;1;1;1"> légumes </ingredient> au mixeur . pour les longues nuits d' hiver . après de longues tentatives , les proportions sont enfin bonnes ! vous pouvez <operation ingredients="gruyère;croûtons"> rajouter </operation> au choix du <ingredient action="rajouter"> gruyère </ingredient> , des <ingredient action="rajouter"> croûtons </ingredient> de pain , une <ingredient> noix </ingredient> de beurre . . .
+</preparation>
+</recette>

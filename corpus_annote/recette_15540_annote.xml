@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15540">
+<titre>Ollada (Catalogne)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de haricots blancs</p>
+<p>1 crosse de jambon sec</p>
+<p>500 g de ventrèche ou petit salé et 250 g de couennes de porc</p>
+<p>400 g d'échine de porc (facultatif)</p>
+<p>2 carottes</p>
+<p>2 blancs de poireaux</p>
+<p>1 pied de céleri</p>
+<p>1 chou bien ferme</p>
+<p>4 gousses d'ail</p>
+<p>6 pommes de terre coupées en 4</p>
+<p>1 cuillère à soupe de saindoux</p>
+<p>2 boudins noirs catalans</p>
+<p>sel et poivre</p>
+<p>bouquet garni</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="porc"> bouillir </operation> les couennes de <ingredient action="bouillir"> porc </ingredient> pendant 10 minutes , <operation> jeter </operation> l' eau et <operation> réserver </operation> . <operation> mettre </operation> à <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> haricots </ingredient> prélablement <operation ingredients="sel"> trempés </operation> avec <ingredient action="tremper" quantite=""> sel </ingredient> et bouquet <operation> garni </operation> . <operation> jeter </operation> l' eau . dans une grande marmite ( appelée l' ouille ) , <operation ingredients="jambon;ventrèche;salé;légumes"> mettre </operation> la crosse de <ingredient action="mettre"> jambon </ingredient> sec , la <ingredient action="mettre" quantite="500 gramme"> ventrèche </ingredient> ou le petit <ingredient action="mettre"> salé </ingredient> , les couennes , les <ingredient action="mettre" quantite="250 gramme;2;1;6"> légumes </ingredient> et laisser <operation> bouillir </operation> une heure . <operation ingredients="haricots;saindoux"> ajouter </operation> alors les <ingredient action="ajouter" quantite="250 gramme"> haricots </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> saindoux </ingredient> et les boudins . continuer la cuisson 30 minutes encore . on peut aussi <operation ingredients="porc"> mettre </operation> un morceau d' échine de <ingredient action="mettre"> porc </ingredient> , à <operation ingredients="légumes"> rajouter </operation> en même temps que les <ingredient action="rajouter" quantite="250 gramme;2;1;6"> légumes </ingredient> . on peut aussi varier la proportion de <ingredient quantite="250 gramme;2;1;6"> légumes </ingredient> .
+</preparation>
+</recette>

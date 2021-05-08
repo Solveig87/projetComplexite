@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17961">
+<titre>Sandwich Monte Cristo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>45 g de lait concentré, demi écrémé, non sucré</p>
+<p>1 cuillère à café rase de parmesan finement rapé</p>
+<p>30 g de jambon blanc en tranche</p>
+<p>60 g de pain de mie, en 2 tranches carrées</p>
+<p>20 g de gruyère en tranche</p>
+<p>1 cuillère à café rase de margarine végétale</p>
+<p>2 feuilles de laitue</p>
+<p>2 pincées de poivre</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="oeuf"> mélanger </operation> dans une assiette creuse : l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , le <ingredient action="concentrer" quantite="45 gramme"> lait </ingredient> <operation ingredients="lait;parmesan;poivre"> concentré </operation> demi-écrémé , le <ingredient action="concentrer"> parmesan </ingredient> <operation> râpé </operation> et le <ingredient action="concentrer" quantite="2 pincée"> poivre </ingredient> . 2 ) <operation> réserver </operation> . 3 ) <operation ingredients="pain;jambon;gruyère;pain"> superposer </operation> : 1 tranche de <ingredient action="superposer" quantite="60 gramme"> pain </ingredient> , le <ingredient action="superposer" quantite="30 gramme"> jambon </ingredient> , le <ingredient action="superposer" quantite="20 gramme"> gruyère </ingredient> et la seconde tranche de <ingredient action="superposer" quantite="60 gramme"> pain </ingredient> . 4 ) <operation ingredients="sandwich"> tremper </operation> ce <ingredient action="tremper"> sandwich </ingredient> dans le <operation> mélange </operation> <operation> réservé </operation> dans l' assiette creuse . le <operation> retourner </operation> plusieurs fois afin qu' il s' <operation> imprègne </operation> bien du liquide , tout en agissant rapidement , pour ne pas détremper le <ingredient quantite="60 gramme"> pain </ingredient> . faire <operation ingredients="margarine"> chauffer </operation> la <ingredient action="chauffer"> margarine </ingredient> dans une <operation> poêle </operation> de taille moyenne , à revêtement anti-adhésif . y <operation ingredients="sandwich"> cuire </operation> le <ingredient action="cuire"> sandwich </ingredient> , à feu assez doux , en le retournant jusqu' à ce qu' il soit doré et croustillant des 2 côtés . 5 ) <operation ingredients="sandwich"> présenter </operation> le <ingredient action="présenter"> sandwich </ingredient> chaud <operation ingredients="laitue"> coupé </operation> en 2 dans la diagonale sur 2 feuilles de <ingredient action="couper" quantite="2 feuille"> laitue </ingredient> . 6 ) à déguster avec une belle <ingredient> salade </ingredient> verte . ce sont des croque - monsieurs moëlleux
+</preparation>
+</recette>

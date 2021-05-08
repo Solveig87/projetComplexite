@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36084">
+<titre>Risotto au poulet et chorizo</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la 1ère partie :</p>
+<p>3 verres de riz</p>
+<p>huile d'olive</p>
+<p>beurre</p>
+<p>2 verres de vin blanc</p>
+<p>parmesan</p>
+<p>1 oignon ou plus suivant les goûts</p>
+<p>1 l de bouillon de volaille</p>
+<p>Pour la 2ème partie :</p>
+<p>1 oignon</p>
+<p>huile d'olive</p>
+<p>2 blancs de poulet en dés</p>
+<p>1 chorizo (fort ou non suivant les goûts)</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 poivron jaune</p>
+<p>2 poignées de petits pois</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="1+1"> oignon </ingredient> , le faire <operation ingredients="beurre;huile"> revenir </operation> dans le <ingredient action="revenir"> beurre </ingredient> et l' <ingredient action="revenir" quantite=""> huile </ingredient> . y <operation ingredients="riz"> verser </operation> ensuite le <ingredient action="verser" quantite="3 verre"> riz </ingredient> . quand celui-ci est translucide , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="2 verre"> vin </ingredient> blanc . quand il s' est évaporé , <operation ingredients="bouillon"> verser </operation> louche par louche le <ingredient action="verser" quantite="1 l"> bouillon </ingredient> préalablement <operation> chauffé </operation> . <operation> assaisonner </operation> et <operation> éteindre </operation> le feu . <operation ingredients="noix;parmesan"> ajouter </operation> une <ingredient action="ajouter"> noix </ingredient> de beurre et du <ingredient action="ajouter" quantite=""> parmesan </ingredient> . <operation> remuer </operation> et garder au chaud . faire <operation ingredients="oignon;huile;poivrons;pois"> revenir </operation> des lamelles d' <ingredient action="revenir" quantite="1+1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , et y <operation ingredients="poulet;chorizo"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> , le <ingredient action="ajouter" quantite="1"> chorizo </ingredient> en tranche , les <ingredient action="revenir"> poivrons </ingredient> <operation> coupés </operation> en petits dés et les petits <ingredient action="revenir"> pois </ingredient> . laisser <operation> cuire </operation> 10 min environ et lorsque tout est bien doré , <operation> ajouter </operation> au risotto et <operation> mélanger </operation> . bon appétit !
+</preparation>
+</recette>

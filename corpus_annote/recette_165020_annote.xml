@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165020">
+<titre>Croquants aux noisettes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g. de farine</p>
+<p>300 g. de sucre</p>
+<p>3 oeufs</p>
+<p>300 g. de noisettes</p>
+</ingredients>
+<preparation>
+<operation> beurrer </operation> et <operation> fariner </operation> la <operation> plaque </operation> . dans un plat , <operation ingredients="farine;sucre"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> et le <ingredient action="mélanger"> sucre </ingredient> . casser les <ingredient> noisettes </ingredient> en petits morceaux . <operation ingredients="oeufs;farine;sucre"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> oeufs </ingredient> à la <ingredient action="rajouter"> farine </ingredient> et au <ingredient action="rajouter"> sucre </ingredient> , puis les <ingredient> noisettes </ingredient> . bien <operation> mélanger </operation> , étaler sur la <operation> plaque </operation> . <operation> mettre </operation> au four à 170 <operation> ° </operation> pendant 30 minutes .
+</preparation>
+</recette>

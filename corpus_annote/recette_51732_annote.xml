@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51732">
+<titre>Escalope à la normande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de dinde</p>
+<p>20 cl cidre (brut de préférence sinon le sucre ressort à la cuisson)</p>
+<p>50 cl de crème d'Isigny</p>
+<p>1 cuillère à soupe de fond de veau</p>
+<p>500 g de champignons</p>
+<p>4 cl de calvados</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="4"> escalopes </ingredient> de dinde et les faire <operation ingredients="calvados"> flamber </operation> au <ingredient action="flamber" quantite="4 cl"> calvados </ingredient> . dans une casserole , <operation ingredients="cidre"> porter </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="20 cl"> cidre </ingredient> et y jouter une cuillère à soupe de fond de <ingredient> veau </ingredient> . laisser <operation> réduire </operation> de moitié . <operation> eplucher </operation> les <ingredient quantite="500 gramme"> champignons </ingredient> et les faire <operation> revenir </operation> dans une <operation> poêle </operation> . y <operation ingredients="cidre;veau;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> cidre </ingredient> et le fond de <ingredient action="ajouter"> veau </ingredient> ainsi que la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> . <operation ingredients="escalopes"> incorporer </operation> les <ingredient action="incorporer" quantite="4"> escalopes </ingredient> à l' ensemble et laisser <operation> réduire </operation> la sauce 5 minutes . servir avec un bon <ingredient quantite="20 cl"> cidre </ingredient> . cidre
+</preparation>
+</recette>

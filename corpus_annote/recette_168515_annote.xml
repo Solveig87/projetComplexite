@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168515">
+<titre>Haja tunisien</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune</p>
+<p>1 poivron vert</p>
+<p>6 pommes de terre moyennes</p>
+<p>2 oignons</p>
+<p>500 g de tomates pelées</p>
+<p>7 merguez</p>
+<p>1 cuillère à café d'épices à couscous</p>
+<p>1/2 cuillère à café de harissa</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;poivron"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> et les <ingredient action="couper"> poivron </ingredient> en fines lamelles . <operation ingredients="pommes;carrés"> couper </operation> les <ingredient action="couper" quantite="6"> pommes </ingredient> de terre en petits <ingredient action="couper"> carrés </ingredient> . <operation ingredients="merguez"> couper </operation> les <ingredient action="couper" quantite="7"> merguez </ingredient> en petits morceaux de 2 cm environ . faites <operation ingredients="huile;oignons"> revenir </operation> dans l' <ingredient action="revenir" quantite="3 cuillère à soupe"> huile </ingredient> d' olive les merguez et les <ingredient action="revenir" quantite="2"> oignons </ingredient> . <operation ingredients="poivrons;pommes"> ajouter </operation> les <ingredient action="ajouter"> poivrons </ingredient> et les <ingredient action="ajouter" quantite="6"> pommes </ingredient> de terre . <operation ingredients="tomates;jus;épices;harissa"> incorporer </operation> les <ingredient action="incorporer" quantite="500 gramme"> tomates </ingredient> <operation> pelées </operation> et leur <ingredient action="incorporer"> jus </ingredient> , les <ingredient action="incorporer" quantite="1 cuillère à café"> épices </ingredient> et la <ingredient action="incorporer"> harissa </ingredient> . laisser <operation> mijoter </operation> à feu doux 40 min . <operation> ajouter </operation> avant de servir 2 <ingredient quantite="2"> oeufs </ingredient> <operation> battus </operation> en omelette . l' idéal est de le faire . 4 h avant et de le <operation> réchauffer </operation> ensuite ( dans ce cas , <operation ingredients="œufs"> mettre </operation> les <ingredient action="mettre"> œufs </ingredient> juste avant de servir ) : c' est encore meilleur !
+</preparation>
+</recette>

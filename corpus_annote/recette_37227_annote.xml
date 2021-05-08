@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37227">
+<titre>Fondue au parmesan</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de beurre</p>
+<p>200 g de parmesan râpé</p>
+<p>8 oeufs</p>
+<p>sel, poivre</p>
+<p>dés de pain de campagne</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fromage;beurre"> fondre </operation> le <ingredient action="fondre"> fromage </ingredient> avec le <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> dans un caquelon , à feux très doux . <operation> saler </operation> et <operation> poivrer </operation> . quand le <operation> mélange </operation> est crémeux , <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="8"> oeufs </ingredient> <operation> battus </operation> . <operation> tourner </operation> sans cesse jusqu' à obtention d' une fondue bien épaisse , mais ne pas faire <operation> bouillir </operation> . servir à table , <operation ingredients="pain"> accompagné </operation> du <ingredient action="accompagner"> pain </ingredient> .
+</preparation>
+</recette>

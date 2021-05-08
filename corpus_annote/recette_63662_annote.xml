@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63662">
+<titre>Pain au sésame (MAP)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 ml d'eau tiède</p>
+<p>1 cuillère à soupe d'huile de sésame</p>
+<p>2 cuillères à café de cassonade</p>
+<p>1,5 cuillère à café de sel</p>
+<p>1 cuillère à soupe de lait en poudre</p>
+<p>100 g de farine de seigle</p>
+<p>100 g de farine d'épeautre</p>
+<p>300 g de farine de blé type 55</p>
+<p>1 sachet de levure boulangère</p>
+<p>50 g de graines de sésame doré</p>
+</ingredients>
+<preparation>
+la recette est à adapter en fonction du taux d' humidité de votre map . <operation ingredients="sésame"> mettre </operation> les ingrédients dans l' ordre de la recette dans la cuve de la map sauf les graines de <ingredient action="mettre"> sésame </ingredient> . enclencher le programme " basic " . au bip annonçant le second pétrissage , <operation ingredients="sésame"> ajouter </operation> les graines de <ingredient action="ajouter"> sésame </ingredient> . il est également possible de <operation ingredients="pâte"> pétrir </operation> simplement la <ingredient action="pétrir"> pâte </ingredient> en machine , d' en <operation> façonner </operation> des petites boules et <operation> cuire </operation> au four .
+</preparation>
+</recette>

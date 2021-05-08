@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47998">
+<titre>Omelette froide au thon de Mireille</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de thon au naturel</p>
+<p>6 œufs</p>
+<p>1 cuillère café de paprika</p>
+<p>5 cuillères soupe de gruyère râpé</p>
+<p>5 cuillères à soupe de mayonnaise</p>
+<p>125 g de beurre ramolli</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+faire une omelette : <operation ingredients="œufs;sel;poivre"> battre </operation> les <ingredient action="battre" quantite="6"> œufs </ingredient> , y <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter"> gruyère </ingredient> râpé , le <ingredient action="battre" quantite=""> sel </ingredient> et le <ingredient action="battre" quantite=""> poivre </ingredient> . faire <operation> cuire </operation> l' omelette dans une <operation> poêle </operation> et la <operation> retourner </operation> avec un plat pour <operation> cuire </operation> l' autre côté . laisser refroidir . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter"> thon </ingredient> et l' <operation> émietter </operation> . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="125 gramme"> beurre </ingredient> <operation ingredients="paprika;mayonnaise"> ramolli </operation> , <ingredient action="ramollir"> paprika </ingredient> , sel , poivre et la <ingredient action="ramollir" quantite="5 cuillère à soupe"> mayonnaise </ingredient> , puis bien <operation> mélanger </operation> en pommade . <operation> répartir </operation> le <operation> mélange </operation> sur l' omelette refroidie . <operation> rouler </operation> l' omelette dans du papier aluminium et serrer des deux côtés . <operation> mettre </operation> au réfrigérateur . <operation> préparer </operation> ce plat la veille . <operation> couper </operation> des tranches assez épaisses pour une bonne tenue . <operation ingredients="salade;tomates"> présenter </operation> avec des feuilles de <ingredient action="présenter"> salade </ingredient> , des <ingredient action="présenter"> tomates </ingredient> , concombres . . .
+</preparation>
+</recette>

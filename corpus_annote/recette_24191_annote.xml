@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24191">
+<titre>Tortilla aux légumes</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 tomates coupées en quartiers</p>
+<p>3 poivrons verts épépinés et coupés en lamelles</p>
+<p>3 oignons coupés en rondelles</p>
+<p>3 pommes de terre épluchées</p>
+<p>6 cuillères à soupe d'huile d'olive</p>
+<p>12 oeufs</p>
+<p>3 cuillères à soupe de lait</p>
+<p>sel, poivre</p>
+<p>1 bouquet de ciboulette</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes;poivrons;huile"> revenir </operation> les <ingredient action="revenir" quantite="3"> pommes </ingredient> de terre et les <ingredient action="revenir"> poivrons </ingredient> dans l' <ingredient action="revenir" quantite="6 cuillère à soupe"> huile </ingredient> pendant quelques minutes en <operation> remuant </operation> avec une cuillère en bois . <operation ingredients="tomates;oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> et les <ingredient action="ajouter" quantite="3"> oignons </ingredient> , laisser <operation ingredients="légumes"> cuire </operation> une dizaine de minutes à feu doux jusqu' à ce que les <ingredient action="cuire" quantite="3;3;3"> légumes </ingredient> soient tendres . <operation> remuer </operation> de temps en temps . <operation ingredients="oeufs;lait;sel;poivre;ciboulette"> battre </operation> les <ingredient action="battre" quantite="12"> oeufs </ingredient> avec le <ingredient action="battre" quantite="3 cuillère à soupe"> lait </ingredient> , du <ingredient action="battre" quantite=""> sel </ingredient> , du <ingredient action="battre" quantite=""> poivre </ingredient> et la <ingredient action="battre"> ciboulette </ingredient> <operation> hachée </operation> . <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="3;3;3"> légumes </ingredient> et laisser <operation ingredients="tortilla"> cuire </operation> la <ingredient action="cuire"> tortilla </ingredient> en <operation> remuant </operation> avec une spatule en bois . au bout de quelques minutes de cuisson <operation ingredients="tortilla"> retourner </operation> la <ingredient action="retourner"> tortilla </ingredient> en s' aidant d' une assiette et poursuivre la cuisson de l' autre côté . servir chaud ou froid .
+</preparation>
+</recette>

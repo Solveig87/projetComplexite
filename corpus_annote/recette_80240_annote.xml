@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80240">
+<titre>Fondant aux 2 chocolats</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>40 g de beurre</p>
+<p>40 g de sucre roux</p>
+<p>40 g de farine</p>
+<p>100 g de chocolat noir</p>
+<p>5 carrés de chocolat blanc</p>
+<p>2 œufs </p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;chocolat;carrés"> fondre </operation> le <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> au micro-ondes avec le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> cassé en <ingredient action="fondre" quantite="5"> carrés </ingredient> . <operation ingredients="œufs;sucre;mousseux"> battre </operation> les <ingredient action="battre" quantite="2"> œufs </ingredient> avec le <ingredient action="battre" quantite="40 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> soit <ingredient action="battre"> mousseux </ingredient> . <operation ingredients="chocolat;farine;sel"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> , la <ingredient action="ajouter" quantite="40 gramme"> farine </ingredient> et le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . <operation> graisser </operation> vos <operation> moules </operation> à <operation> fondant </operation> . <operation ingredients="pâte"> répartir </operation> la <ingredient action="répartir"> pâte </ingredient> dans vos <operation> moules </operation> . préchauffer le four à 180 <operation> ° </operation> , thermostat 6 . <operation ingredients="carré"> ajouter </operation> un <ingredient action="ajouter" quantite="5"> carré </ingredient> de chocolat blanc dans chacun de vos <operation> moules </operation> avant d' <operation> enfourner </operation> au four . faire <operation ingredients="fondants"> cuire </operation> les <ingredient action="cuire"> fondants </ingredient> au four entre 10 et 15 min selon votre four . et voilà , c' est tout chaud et prêt à être dégusté . vous pouvez servir les petits <ingredient> fondants </ingredient> chauds avec une boule de <ingredient> glace </ingredient> ( par exemple <ingredient> vanille </ingredient> ) pour que la gourmandise soit encore plus forte . . . a vos cuillères !
+</preparation>
+</recette>

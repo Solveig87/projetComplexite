@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32285">
+<titre>Tourte de la vallée de munster</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>900 g d'épaule hachée de porc</p>
+<p>2 tranches de pain de mie</p>
+<p>un oeuf</p>
+<p>2 pâte brisée</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 bol de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain;lait"> tremper </operation> les tranches de <ingredient action="tremper" quantite="2 tranche"> pain </ingredient> de mie dans le <ingredient action="tremper"> lait </ingredient> . faire <operation ingredients="huile;ail"> revenir </operation> dans de l' <ingredient action="revenir"> huile </ingredient> l' oignon et l' <ingredient action="revenir"> ail </ingredient> <operation> émincés </operation> au préalable . <operation ingredients="ail;viande"> incorporer </operation> le <operation> mélange </operation> <ingredient action="incorporer"> ail </ingredient> / oignon et pain de mie ( égoutté ) à la <ingredient action="incorporer"> viande </ingredient> . <operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer" quantite="2"> pâte </ingredient> dans un plat . <operation> garnir </operation> avec la farce . <operation ingredients="pâte"> recouvrir </operation> avec la deuxième <ingredient action="recouvrir" quantite="2"> pâte </ingredient> . faire une cheminée au centre et <operation ingredients="oeuf"> badigeonner </operation> avec un jaune d' <ingredient action="badigeonner" quantite="1"> oeuf </ingredient> . faire <operation> cuire </operation> la tourte à four chaud 20 mn et à four plus réduit le reste de la cuisson .
+</preparation>
+</recette>

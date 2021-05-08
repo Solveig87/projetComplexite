@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28701">
+<titre>Tagliatelles à la sauce tomate au saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de tagliatelles</p>
+<p>300 g de purée de tomates</p>
+<p>1 boîte de saumon au naturel (300 g)</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe de basilic ciselé</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . <operation ingredients="ail"> peler </operation> et <operation> écraser </operation> l' <ingredient action="peler"> ail </ingredient> , <operation ingredients="saumon"> égoutter </operation> le <ingredient action="égoutter"> saumon </ingredient> . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="3 cuillère à soupe"> huile </ingredient> , y <operation ingredients="ail;saumon"> mettre </operation> l' <ingredient action="mettre"> ail </ingredient> et le <ingredient action="mettre"> saumon </ingredient> , puis <operation ingredients="tomates"> ajouter </operation> la purée de <ingredient action="ajouter"> tomates </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> 10 min , <operation> goûter </operation> , <operation> rectifier </operation> et <operation ingredients="pâtes"> verser </operation> sur les <ingredient action="verser"> pâtes </ingredient> . <operation ingredients="basilic"> parsemer </operation> de <ingredient action="parsemer" quantite="3 cuillère à soupe"> basilic </ingredient> et servir .
+</preparation>
+</recette>

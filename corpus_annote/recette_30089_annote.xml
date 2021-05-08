@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30089">
+<titre>Poulet au curry et a la noix de coco...</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de poulet (je préfère des blancs, vu que c'est beaucoup plus pratique à manger, car une fois plein de sauce, on ne regrette pas le couteau et la fourchette)</p>
+<p>1 banane</p>
+<p>1 Pomme (un peu farineuse de preference)</p>
+<p>1 tomate</p>
+<p>1 petit oignon</p>
+<p>3 cuillères a soupe de noix de coco rapé</p>
+<p>1 cuillère à soupe de curry (a peu près)</p>
+<p>1/2 litre de lait</p>
+<p>2 cuillères a soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+tout d' abord , faire <operation ingredients="poulet;huile"> cuire </operation> le <ingredient action="cuire" quantite="800 gramme"> poulet </ingredient> sur un filet d' <ingredient action="cuire"> huile </ingredient> d' olive et le <operation> réserver </operation> . ensuite <operation ingredients="lait"> versez </operation> le <ingredient action="verser"> lait </ingredient> dans une casserole et faire <operation> chauffer </operation> , attendre l' ébulition puis <operation> retirer </operation> du feu . <operation ingredients="noix"> incorporez </operation> la <ingredient action="incorporer"> noix </ingredient> de coco <operation> râpée </operation> et laissez <operation> infuser </operation> à <operation> couvert </operation> . <operation> epluchez </operation> la <ingredient quantite="1"> pomme </ingredient> et la <ingredient quantite="1"> banane </ingredient> puis <operation> coupez </operation> - les en dés . <operation ingredients="tomate"> coupez </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en fines lamelles et gardez le <ingredient> jus </ingredient> , puis <operation ingredients="oignons"> émincez </operation> les <ingredient action="émincer" quantite="1"> oignons </ingredient> . dans un faitout , <operation ingredients="oignons;huile"> faites </operation> <operation> blondir </operation> les <ingredient action="faire" quantite="1"> oignons </ingredient> dans l' <ingredient action="faire"> huile </ingredient> d' olive . ensuite <operation> passez </operation> sur un feu doux et <operation ingredients="pomme"> incorporez </operation> la <ingredient action="incorporer" quantite="1"> pomme </ingredient> . laissez - la 5 mn en prenant soin qu' elle n' attache pas au fond , puis <operation ingredients="banane;tomate;jus"> ajoutez </operation> la <ingredient action="ajouter" quantite="1"> banane </ingredient> et la <ingredient action="ajouter" quantite="1"> tomate </ingredient> avec son <ingredient action="ajouter"> jus </ingredient> . laissez <operation> cuire </operation> a feu doux jusqu' à l' obtention d' une sorte de purée avec des grumeaux . <operation ingredients="curry"> mettez </operation> la moitié de la <operation> dose </operation> de <ingredient action="mettre" quantite="1 cuillère à soupe"> curry </ingredient> pour <operation> colorer </operation> le <operation> mélange </operation> . ensuite <operation ingredients="lait;coco"> rajoutez </operation> le <operation> mélange </operation> de <ingredient action="rajouter"> lait </ingredient> et de <ingredient action="rajouter"> coco </ingredient> . toujours a feu doux laissez <operation> réduire </operation> de moitié ( a peu près ) et <operation ingredients="curry;crème"> rajoutez </operation> le reste de <ingredient action="rajouter" quantite="1 cuillère à soupe"> curry </ingredient> et la <ingredient action="rajouter"> crème </ingredient> fraîche , <operation> mélangez </operation> et <operation ingredients="poulet"> déposez </operation> le <ingredient action="déposer" quantite="800 gramme"> poulet </ingredient> sur la sauce pour qu' il s' <operation> imprègne </operation> du goût . laissez toujours sur le feu jusqu' à ce que la sauce s' épaississe . servez dans un plat <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

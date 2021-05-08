@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21102">
+<titre>La chaussette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3/4 tranches de jambon</p>
+<p>10 tranches de salami danois</p>
+<p>2 tomates</p>
+<p>1 boîte de champignons émincés ou frais</p>
+<p>1 oignon</p>
+<p>1 rouleau de pâte feuilleté</p>
+<p>Gruyère en lamellles</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+étaler la <ingredient> pâte </ingredient> feuilleté , sur une moitié et <operation ingredients="jambon"> disposer </operation> dans cet ordre : le <ingredient action="disposer"> jambon </ingredient> ( <operation> coupé </operation> en tranches si nécessaire ) . le <ingredient quantite="10 tranche"> salami </ingredient> . les <ingredient quantite="1"> oignons </ingredient> . les <ingredient> champignons </ingredient> <operation> émincés </operation> . les <ingredient quantite="2"> tomates </ingredient> . les lamelles de <ingredient quantite=""> gruyère </ingredient> . fermer la <ingredient> pâte </ingredient> comme un <ingredient> chausson </ingredient> , bien la souder avec de l' eau , <operation ingredients="oeuf"> dorer </operation> au jaune d' <ingredient action="dorer"> oeuf </ingredient> et <operation> enfourner </operation> à four moyen durant 15 à 20 mn . servir avec une <ingredient> salade </ingredient> verte on peut <operation ingredients="lardons"> ajouter </operation> des <ingredient action="ajouter"> lardons </ingredient> , ou les <operation ingredients="salami"> mettre </operation> en remplacement du <ingredient action="mettre" quantite="10 tranche"> salami </ingredient> . suivre l' ordre indiqué
+</preparation>
+</recette>

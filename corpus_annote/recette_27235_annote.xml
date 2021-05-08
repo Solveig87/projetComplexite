@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27235">
+<titre>Gambas aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 gambas</p>
+<p>1 poivron rouge</p>
+<p>200 g de crème fraîche épaisse</p>
+<p>1 pointe de paprika</p>
+<p>cognac</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gambas;huile"> revenir </operation> les <ingredient action="revenir" quantite="8"> gambas </ingredient> dans un filet d' <ingredient action="revenir"> huile </ingredient> d' olive . les <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite=""> cognac </ingredient> . <operation ingredients="poivron"> lavez </operation> soigneusement le <ingredient action="laver"> poivron </ingredient> rouge et <operation> épépinez </operation> - le . le <operation> découper </operation> en morceau et le <operation> hacher </operation> finement jusqu' à obtenir une purée . <operation ingredients="poivron"> incorporer </operation> la purée de <ingredient action="incorporer"> poivron </ingredient> aux gambas . <operation> saler </operation> , <operation> poivrer </operation> et laisser la purée <operation> fondre </operation> dans la <operation> poêle </operation> sur feu doux . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme"> crème </ingredient> fraîche , <operation> assaisonner </operation> et <operation ingredients="paprika"> ajouter </operation> une pointe de <ingredient action="ajouter"> paprika </ingredient> . <operation ingredients="gambas"> réserver </operation> les <ingredient action="réserver" quantite="8"> gambas </ingredient> et faire <operation> réduire </operation> la sauce . <operation> dresser </operation> rapidement et servir chaud <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> , par exemple . ce plat très original ravira à coup sûr vos invités ! ! !
+</preparation>
+</recette>

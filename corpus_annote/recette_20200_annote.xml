@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20200">
+<titre>Pâtes au chèvre, thym et lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bûchette de fromage de chèvre</p>
+<p>400 g de pâtes (de préférence striées) </p>
+<p>150 g de lardons fumés</p>
+<p>1 cuillère à café de thym</p>
+<p>5 cuillères à soupe de crème fraîche épaisse</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes;huile"> chauffer </operation> l' eau de <ingredient action="chauffer" quantite="400 gramme"> pâtes </ingredient> avec de l' <ingredient action="chauffer"> huile </ingredient> d' olive . dans une casserole ayant une soeur de taille supérieure ( pour faire un bain - marie ) , <operation ingredients="crème;chèvre;sel;poivre;thym"> mettez </operation> la <ingredient action="mettre" quantite="5 cuillère à soupe"> crème </ingredient> fraîche et le <ingredient action="mettre"> chèvre </ingredient> <operation> coupés </operation> en petits morceaux , ainsi que le <ingredient action="mettre" quantite=""> sel </ingredient> , le <ingredient action="mettre"> poivre </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à café"> thym </ingredient> . <operation> mettez </operation> à <operation> chauffer </operation> au bain - marie . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> ' al dente ' . pendant ce temps faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> . <operation> mélangez </operation> le tout et servir chaud . comme plat basses calories on fait mieux mais c' est moins bon . . . ! ! ! je fais ça le soir quand des amis restent à diner à l' improviste et tout le monde apprécie . un petit rouge sympathique et sans prétention
+</preparation>
+</recette>

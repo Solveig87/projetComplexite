@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36444">
+<titre>Préparation du saumon fumé maison</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>400 g de gros sel de guérande</p>
+<p>200 g de sucre</p>
+<p>50 g de poivre concassé (non moulu)</p>
+<p>1 saumon de 2,5 kg</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saumon"> enlever </operation> par le poissonnier l' arête centrale du <ingredient action="enlever" quantite="1"> saumon </ingredient> pour lever les filets , mais garder la peau . <operation ingredients="sel;sucre;poivre"> mélanger </operation> dans un compotier le <ingredient action="mélanger" quantite="400 gramme"> sel </ingredient> , le <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="50 gramme"> poivre </ingredient> <operation> concassé </operation> . <operation ingredients="saumon"> mettre </operation> dans un plat une couche de <operation> mélange </operation> , les filets de <ingredient action="mettre" quantite="1"> saumon </ingredient> , puis de nouveau une couche de <operation> mélange </operation> . <operation> mettre </operation> le plat 48 heures au réfrigérateur , en vérifiant que les filets de <ingredient action="recouvrir" quantite="1"> saumon </ingredient> soient toujours <operation ingredients="saumon"> recouverts </operation> par le <operation> mélange </operation> . <operation> rincer </operation> les filets à l' eau claire , <operation> couper </operation> et déguster .
+</preparation>
+</recette>

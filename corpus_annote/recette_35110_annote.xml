@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35110">
+<titre>Croque monsieur aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pains de mie par croque </p>
+<p>1 poivron</p>
+<p>2 tomates confites </p>
+<p>poivre</p>
+<p>1 feuille de basilic haché</p>
+<p>8 g de parmesan râpé</p>
+</ingredients>
+<preparation>
+sur le <ingredient quantite="2 tranche"> pain </ingredient> de mie <operation ingredients="légumes;confits"> déposer </operation> les <ingredient action="déposer" quantite="1;2"> légumes </ingredient> <ingredient action="déposer"> confits </ingredient> . <operation> poivrer </operation> est <operation> saler </operation> si nécessaire . <operation ingredients="basilic;parmesan"> ajouter </operation> du <ingredient action="ajouter" quantite="1 feuille"> basilic </ingredient> haché finement et une pincée de <ingredient action="ajouter" quantite="8 gramme"> parmesan </ingredient> . <operation ingredients="pain"> poser </operation> une tranche de <ingredient action="poser" quantite="2 tranche"> pain </ingredient> . <operation> cuire </operation> dans l' appareil à croque monsieur rosé frais
+</preparation>
+</recette>

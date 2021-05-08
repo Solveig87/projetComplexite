@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37435">
+<titre>Poulet mode thaï</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>3 beaux oignons</p>
+<p>20 pois mange tout</p>
+<p>1 gros poivron rouge</p>
+<p>2 grosses gousses d'ail</p>
+<p>1 bout de gingembre (4 cm)</p>
+<p>curry</p>
+<p>40 cl de lait de coco</p>
+<p>huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+dans un wok , ou une sauteuse , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir"> oignons </ingredient> <operation> émincés </operation> pas trop fins dans 2 cuillères à soupe d' huile d' olive . puis <operation ingredients="poulet"> ajouter </operation> les blancs de <ingredient action="ajouter"> poulet </ingredient> <operation> découpés </operation> en lanières . <operation ingredients="poivron"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> poivron </ingredient> , <operation> pelé </operation> et <operation> coupé </operation> en morceaux pas trop petits , les <ingredient> pois </ingredient> <ingredient quantite="20"> mange </ingredient> tout , <operation> coupés </operation> en 2 ou 3 suivant la grosseur . <operation ingredients="ail;gingembre"> peler </operation> l' <ingredient action="peler"> ail </ingredient> et <operation> enlever </operation> le germe ainsi que le <ingredient action="peler"> gingembre </ingredient> et les <operation> hacher </operation> . <operation ingredients="sel"> ajouter </operation> ce <operation> mélange </operation> à la préparation ainsi qu' une cuillére à café de curry et du <ingredient action="ajouter" quantite=""> sel </ingredient> . au bout de 10 minutes , <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="40 cl"> lait </ingredient> de coco et laisser <operation> frémir </operation> 5 minutes . servir <operation ingredients="riz"> accompagné </operation> d' un <ingredient action="accompagner"> riz </ingredient> bazmati .
+</preparation>
+</recette>

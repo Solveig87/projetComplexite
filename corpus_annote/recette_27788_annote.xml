@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27788">
+<titre>Soupe de lentilles au lard</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de lentilles</p>
+<p>100 g de beurre</p>
+<p>2 carottes</p>
+<p>2 oignons</p>
+<p>100 g de lard</p>
+<p>1 bouquet garni</p>
+<p>22,5 cl de crème</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> emincer </operation> finement les <ingredient action="emincer" quantite="2"> carottes </ingredient> , les <ingredient action="dorer" quantite="2"> oignons </ingredient> et le <ingredient action="dorer" quantite="100 gramme"> lard </ingredient> puis les faire <operation ingredients="oignons;lard;beurre"> dorer </operation> dans le <ingredient action="dorer" quantite="100 gramme"> beurre </ingredient> . <operation ingredients="lentilles"> mettre </operation> les <ingredient action="mettre" quantite="300 gramme"> lentilles </ingredient> à <operation ingredients="bouquet"> cuire </operation> dans un grand volume d' eau froide avec le <ingredient action="cuire" quantite="1"> bouquet </ingredient> <operation> garni </operation> . amener à <operation> ébullition </operation> , <operation ingredients="légumes"> ajouter </operation> le hachis de <ingredient action="ajouter" quantite="300 gramme;2;2;22,5 cl"> légumes </ingredient> et <operation> cuire </operation> durant 40 minutes . <operation> passer </operation> au moulin à légumes , <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="22,5 cl"> crème </ingredient> et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> .
+</preparation>
+</recette>

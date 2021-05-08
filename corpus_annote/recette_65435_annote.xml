@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65435">
+<titre>Rôti de porc au cidre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 rôti de porc dans le filet</p>
+<p>15 cl de bouillon de boeuf</p>
+<p>20 cl de cidre doux de préférence</p>
+<p>20 cl de crème fraîche épaisse</p>
+<p>sel, poivre</p>
+<p>6 à 8 pommes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="rôti"> revenir </operation> le <ingredient action="revenir" quantite="1"> rôti </ingredient> <operation> salé </operation> et <operation ingredients="huile"> poivrée </operation> dans une cuillère d' <ingredient action="poivrer"> huile </ingredient> dans une cocotte . laisser <operation> dorer </operation> puis <operation ingredients="graisse"> jeter </operation> la <ingredient action="jeter"> graisse </ingredient> de cuisson . <operation ingredients="cidre"> ajouter </operation> le nouillon et le <ingredient action="ajouter" quantite="20 cl"> cidre </ingredient> en <operation> grattant </operation> le fond , puis laisser <operation> cuire </operation> 30 min . <operation ingredients="rôti"> retourner </operation> régulièrement le <ingredient action="retourner" quantite="1"> rôti </ingredient> . <operation ingredients="pommes"> peler </operation> et <operation> couper </operation> les <ingredient action="peler" quantite="6"> pommes </ingredient> en quartiers , puis les faire <operation ingredients="beurre"> revenir </operation> à la <operation> poêle </operation> dans du <ingredient action="revenir"> beurre </ingredient> jusqu' à ce qu' elles soient tendres . <operation ingredients="rôti"> réserver </operation> le <ingredient action="réserver" quantite="1"> rôti </ingredient> au chaud . <operation ingredients="jus"> filtrer </operation> le <ingredient action="filtrer"> jus </ingredient> de cuisson , puis <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche et laisser <operation> réduire </operation> sur feu moyen 5 min . servir le <ingredient quantite="1"> rôti </ingredient> <operation ingredients="pommes"> coupé </operation> en tranches et <operation> entourés </operation> de <ingredient action="couper" quantite="6"> pommes </ingredient> . <operation> napper </operation> de sauce . <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> , pâtes ou pommes de terre . <ingredient quantite="20 cl"> cidre </ingredient> !
+</preparation>
+</recette>

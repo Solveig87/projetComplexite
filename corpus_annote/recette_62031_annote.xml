@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62031">
+<titre>Poisson en papillotes léger et parfumé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 morceaux de poisson blanc (cabillaud)</p>
+<p>2 cuillères à soupe de crème à 4%</p>
+<p>2 cuillères à café de sauce soja</p>
+<p>2 cuillères à café de moutarde</p>
+<p>sel, poivre</p>
+<p>coriandre fraiche</p>
+</ingredients>
+<preparation>
+<operation ingredients="poisson"> poser </operation> chaque morceau de <ingredient action="poser"> poisson </ingredient> sur une feuille d' aluminium . <operation ingredients="crème;soja;moutarde;sel;poivre"> mélanger </operation> dans un bol la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> , la sauce <ingredient action="mélanger"> soja </ingredient> , la <ingredient action="mélanger" quantite="2 cuillère à café"> moutarde </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation ingredients="poisson"> verser </operation> cette préparation sur chaque <ingredient action="verser"> poisson </ingredient> et <operation ingredients="coriandre"> ajouter </operation> la <ingredient action="ajouter" quantite=""> coriandre </ingredient> fraiche <operation> ciselée </operation> . fermer les papillotes et <operation> mettre </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 12 bonnes minutes . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pommes </ingredient> de terre à l' eau .
+</preparation>
+</recette>

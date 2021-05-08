@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223391">
+<titre>Colin à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 filets de colin</p>
+<p>2 oignons</p>
+<p>2 échalotes</p>
+<p>40 g de beurre demi-sel</p>
+<p>15 cl de vin blanc</p>
+<p>20 cl de crème liquide</p>
+<p>10 cornichons</p>
+<p>1 cuillère à soupe de maïzena</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="colin"> cuire </operation> les filets de <ingredient action="cuire"> colin </ingredient> dans un grand volume d' eau <operation> salée </operation> . <operation> égoutter </operation> puis <operation> réserver </operation> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> dans une casserole puis y faire suer les <ingredient quantite="2"> oignons </ingredient> et échalotes <operation> hachés </operation> . lorsqu' ils sont transparents , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc et laisser <operation> mijoter </operation> quelques minutes . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraiche et une nouvelle fois , laisser <operation> mijoter </operation> quelques minutes . <operation ingredients="cornichons"> couper </operation> en fines tranches les <ingredient action="couper" quantite="10"> cornichons </ingredient> et les <operation> ajouter </operation> à la sauce . <operation ingredients="maïzena"> diluer </operation> la <ingredient action="diluer" quantite="1 cuillère à soupe"> maïzena </ingredient> dans un fond d' eau puis l' <operation> ajouter </operation> à la sauce tout en <operation> remuant </operation> . <operation> napper </operation> les filets de sauce et bon appétit ! servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

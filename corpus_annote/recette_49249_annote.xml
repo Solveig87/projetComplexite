@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49249">
+<titre>Salade de pâtes au poulet et légumes d'été</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tomate</p>
+<p>1/3 ou 1/2 concombre (selon grosseur)</p>
+<p>150 g de dés de volaille</p>
+<p>1/2 poivron rouge</p>
+<p>2 cuillères à soupe de petits pois</p>
+<p>50 g cru de pâtes type "nouilles"</p>
+<p>curry en poudre</p>
+<p>sel, poivre</p>
+<p>herbes à salade</p>
+<p>1 cuillère à café d'huile d'olive</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 cuillère à soupe de jus de citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="nouilles"> cuire </operation> les <ingredient action="cuire"> nouilles </ingredient> environ 10 min ( al dente ) . une fois les <ingredient action="égoutter"> pâtes </ingredient> <operation> cuites </operation> , les <operation ingredients="pâtes"> égoutter </operation> et les <operation> passer </operation> à l' eau froide pour les refroidir . pendant ce temps , dans un saladier , <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="1"> tomates </ingredient> , le <operation action="concombre" ingredients="concombre;poivron"> concombre </operation> , et le <ingredient action="concombre"> poivron </ingredient> en dés . <operation ingredients="pâtes;pois"> ajouter </operation> les <ingredient action="ajouter"> pâtes </ingredient> et les petits <ingredient action="ajouter" quantite="2 cuillère à soupe"> pois </ingredient> . <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre , et herbes , puis <operation ingredients="curry"> saupoudrer </operation> généreusement de <ingredient action="saupoudrer" quantite=""> curry </ingredient> . enfin , <operation ingredients="huile;vinaigre;citron"> ajouter </operation> l' <ingredient action="ajouter" quantite="1 cuillère à café"> huile </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> et le <ingredient action="ajouter"> citron </ingredient> . <operation> mélanger </operation> et déguster . un repas simple et léger pour l' été !
+</preparation>
+</recette>

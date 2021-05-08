@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="169952">
+<titre>Club sandwich au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de pain de mie complet</p>
+<p>1 boite de thon au naturel (180 g) </p>
+<p>4 cuillères à soupe de mayonnaise</p>
+<p>1 oignon nouveau</p>
+<p>10 rondelles de concombre</p>
+<p>1 cuillères à soupe de câpres</p>
+<p>1 cuillère à café de wasabi</p>
+<p>6 belles feuilles de batavia</p>
+<p>1 trait de jus de citron vert</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> le <ingredient action="griller" quantite="4 tranche"> pain </ingredient> de mie . dans un bol , <operation ingredients="thon;oignon;mayonnaise;wasabi;câpres;jus"> mettre </operation> ensemble le <ingredient action="mettre"> thon </ingredient> , l' <ingredient action="mettre" quantite="1"> oignon </ingredient> débité en petits cubes , la <ingredient action="mettre" quantite="4 cuillère à soupe"> mayonnaise </ingredient> , la <ingredient action="mettre" quantite="1 cuillère à café"> wasabi </ingredient> , les <ingredient action="mettre" quantite="1 cuillère à soupe"> câpres </ingredient> et le <ingredient action="mettre"> jus </ingredient> de citron . <operation> mélanger </operation> à la fourchette . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="4 cuillère à soupe;1 cuillère à soupe;1 cuillère à café;"> assaisonnement </ingredient> . <operation ingredients="salade"> découper </operation> la <ingredient action="découper"> salade </ingredient> en fines lanières et l' <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de citron . <operation ingredients="sandwich;thon;salade;concombre;thon;pain"> dresser </operation> le <ingredient action="dresser"> sandwich </ingredient> en <operation ingredients="pain"> disposant </operation> une tranche de <ingredient action="disposer" quantite="4 tranche"> pain </ingredient> de mie , la préparation au <ingredient action="dresser"> thon </ingredient> , la <ingredient action="dresser"> salade </ingredient> , le <ingredient action="dresser"> concombre </ingredient> , la préparation au <ingredient action="dresser"> thon </ingredient> et une tranche de <ingredient action="dresser" quantite="4 tranche"> pain </ingredient> de mie . ne pas trop attendre , sinon , les <ingredient action="ramollir"> sandwich </ingredient> <operation ingredients="sandwich"> ramollissent </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73090">
+<titre>Epinards au roquefort au micro-onde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g d'épinards surgelés</p>
+<p>50 g de roquefort</p>
+<p>3 cuillères à soupe de crème</p>
+<p>emmental râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="épinards"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> épinards </ingredient> au micro-ondes le temps indiqué . pendant ce temps , <operation ingredients="roquefort"> émietter </operation> le <ingredient action="émietter" quantite="50 gramme"> roquefort </ingredient> et le <operation ingredients="crème"> mélanger </operation> avec la <ingredient action="mélanger" quantite="3 cuillère à soupe"> crème </ingredient> . une fois les <ingredient quantite="300 gramme"> épinards </ingredient> <operation> cuits </operation> , <operation ingredients="crème;roquefort;emmental"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> et le <ingredient action="ajouter" quantite="50 gramme"> roquefort </ingredient> dessus puis l' <ingredient action="ajouter"> emmental </ingredient> râpé . <operation> remettre </operation> environ 1 min 30 au micro-ondes à puissance maximale ( ou <operation> passer </operation> au four si vous souhaitez <operation> gratiner </operation> le tout ) . servir !
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24124">
+<titre>Epinards à la chapelure de persil</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'épinards</p>
+<p>4 échalotes</p>
+<p>40 g de beurre</p>
+<p>1 oeuf dur</p>
+<p>2 cuillères à soupe de chapelure</p>
+<p>1 bouquet de persil</p>
+<p>noix de muscade</p>
+<p>sel, poivre du moulin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="échalotes;beurre"> fondre </operation> les <ingredient action="fondre" quantite="4"> échalotes </ingredient> dans 20 g de <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> puis <operation ingredients="épinards;sel;poivre;muscade"> ajoutez </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> épinards </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> , du <ingredient action="ajouter" quantite=""> poivre </ingredient> et de la <ingredient action="ajouter"> muscade </ingredient> . <operation> couvrez </operation> et laissez <operation> cuire </operation> 5 minutes . faites <operation ingredients="chapelure;beurre"> dorer </operation> la <ingredient action="dorer" quantite="2 cuillère à soupe"> chapelure </ingredient> dans le reste de <ingredient action="dorer" quantite="40 gramme"> beurre </ingredient> puis <operation ingredients="oeuf;persil"> mélangez </operation> - la à l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> et au <ingredient action="mélanger"> persil </ingredient> hachés . <operation ingredients="épinards"> saupoudrez </operation> les <ingredient action="saupoudrer" quantite="1 kilogramme"> épinards </ingredient> de ce <operation> mélange </operation> avant de servir .
+</preparation>
+</recette>

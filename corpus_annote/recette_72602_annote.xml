@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72602">
+<titre>Sole au curry et haricots verts</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 filets de sole congelés ou frais</p>
+<p>2 cubes de court-bouillon pour poisson</p>
+<p>150 g de haricots verts (frais ou une boite)</p>
+<p>1 oignon</p>
+<p>50 g de beurre </p>
+<p>50 g de farine</p>
+<p>1 cuillère à café de curry en poudre (suivant le goût)</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="soles"> cuire </operation> les <ingredient action="cuire"> soles </ingredient> dans le court-bouillon ( voir sur la boîte le temps , ça varie d' une marque à une autre ! ) . lorsqu' elles sont <operation> cuites </operation> , les <operation> retirer </operation> du court-bouillon et les <operation> réserver </operation> ( garder le court-bouillon ) . faire <operation ingredients="haricots;oignon"> cuire </operation> les <ingredient action="cuire" quantite="150 gramme"> haricots </ingredient> verts avec l' <ingredient action="cuire" quantite="1"> oignon </ingredient> <operation> découpé </operation> en morceaux , <operation> saler </operation> <operation> poivrer </operation> . dans un plat à four , <operation ingredients="haricots;soles"> placer </operation> les <ingredient action="placer" quantite="150 gramme"> haricots </ingredient> verts puis les <ingredient action="placer"> soles </ingredient> sur le dessus . faire un roux , soit faire <operation ingredients="beurre"> fondre </operation> dans une casserole le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . lorsqu' il est liquide , <operation ingredients="farine"> mettre </operation> la <ingredient action="mettre" quantite="50 gramme"> farine </ingredient> et <operation> mélanger </operation> . quand le <operation> mélange </operation> est <operation> formé </operation> , <operation> mouiller </operation> avec le court-bouillon . <operation ingredients="curry"> mettre </operation> le <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> en quantité désirée , <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="soles"> verser </operation> le roux sur les <ingredient action="verser"> soles </ingredient> et <operation> mettre </operation> au four à 200 <operation> ° </operation> , thermostat . 7 , pendant 45 min .
+</preparation>
+</recette>

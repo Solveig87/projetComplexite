@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22106">
+<titre>Blé au saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de filets de saumon</p>
+<p>200 g blé</p>
+<p>60 g de lardons</p>
+<p>1 courgette coupée en dés</p>
+<p>1 boîte d'artichauts coupés en dés</p>
+<p>2 boîtes de tomates pelées</p>
+<p>1 échalote émincée</p>
+<p>400 ml d'eau</p>
+<p>sel, poivre</p>
+<p>estragon</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faites <operation ingredients="oignon;lardons"> revenir </operation> l' <ingredient action="revenir"> oignon </ingredient> avec les <ingredient action="revenir" quantite="60 gramme"> lardons </ingredient> . laisser bronzer , puis <operation ingredients="blé"> verser </operation> le <ingredient action="verser" quantite="200 gramme"> blé </ingredient> cru . <operation> couvrir </operation> avec l' eau . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper"> tomates </ingredient> <operation> pelées </operation> en dés , et les <operation ingredients="jus"> ajouter </operation> dans la <operation> poêle </operation> , avec leur <ingredient action="ajouter"> jus </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> , <operation ingredients="artichauts"> ajouter </operation> les dés de courgettes et d' <ingredient action="ajouter"> artichauts </ingredient> , puis <operation ingredients="saumon"> incorporer </operation> les filets de <ingredient action="incorporer"> saumon </ingredient> préalablement <operation> coupés </operation> en cubes . laisser <operation> cuire </operation> jusqu' à absorbtion du liquide . vérifier l' <ingredient quantite=";;"> assaisonnement </ingredient> et <operation ingredients="estragon"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> estragon </ingredient> . on peut <operation ingredients="parmesan"> parsemer </operation> de <ingredient action="parsemer"> parmesan </ingredient> avant de servir
+</preparation>
+</recette>

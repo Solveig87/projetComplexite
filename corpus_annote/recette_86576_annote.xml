@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86576">
+<titre>Risotto tout simple</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 steacks hachés- 1 verre de riz rond, environ 70 g- 50 cl de bouillon de boeuf- 1 petite boîte de concentré de tomate- huile d'olive- sel et poivre- gruyère râpé</p>
+</ingredients>
+<preparation>
+dans une cocotte en fonte ou un fait - tout , faire <operation ingredients="viande;huile"> revenir </operation> la <ingredient action="revenir" quantite="4"> viande </ingredient> <operation> haché </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . une fois bien doré , <operation ingredients="tomate"> ajouter </operation> la <ingredient action="ajouter"> tomate </ingredient> <operation> concentré </operation> et <operation> mélanger </operation> , puis <operation ingredients="riz;rond"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> <ingredient action="ajouter"> rond </ingredient> . une fois le <ingredient> riz </ingredient> devenu translucide , <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> . en générale , on compte 2 volumes de liquide pour 1 volume de <ingredient> riz </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , laisser faire une <operation> ébullition </operation> toujours en <operation> remuant </operation> bien pour ne pas que sa <operation> colle </operation> . puis laisser <operation> mijoter </operation> sur feu très doux pendant 20 min en <operation> remuant </operation> régulièrement , <operation> rajouter </operation> de l' eau si besoin . au bout de 20 min si le <ingredient action="cuire"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , <operation> éteindre </operation> le feu puis <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter"> gruyère </ingredient> râpé sur le dessus , <operation> refermer </operation> la cocotte et laisser <operation ingredients="gruyère"> fondre </operation> le <ingredient action="fondre"> gruyère </ingredient> pendant 5 min . déguster !
+</preparation>
+</recette>

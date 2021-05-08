@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42600">
+<titre>Saumon et gambas sauce crémeuse parfumée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 pavés de saumon avec peau</p>
+<p>20 belles gambas (ou plus, si petite taille)</p>
+<p>2 tomates (grosses)</p>
+<p>2 échalotes (grosses)</p>
+<p>10 cl de cognac</p>
+<p>40 cl de crème fraîche</p>
+<p>sel, poivre</p>
+<p>fleur de sel</p>
+<p>Pour l'accompagnement : </p>
+<p>riz (ou pommes de terre vapeur)</p>
+</ingredients>
+<preparation>
+<operation ingredients="gambas"> éplucher </operation> les <ingredient action="éplucher" quantite="20"> gambas </ingredient> . monder les <ingredient quantite="2"> tomates </ingredient> ( <operation> ôter </operation> la peau ) , <operation> épépiner </operation> , et les <operation> couper </operation> en tout petit dés . <operation ingredients="échalotes"> emincer </operation> finement les <ingredient action="emincer" quantite="2"> échalotes </ingredient> . faire <operation> cuire </operation> , côté peau , le <ingredient action="parsemer"> saumon </ingredient> dans une <operation> poêle </operation> légèrement <operation> huilée </operation> , et <operation ingredients="saumon;sel"> parsemer </operation> de feur de <ingredient action="parsemer" quantite=""> sel </ingredient> . <operation ingredients="saumon"> retourner </operation> le <ingredient action="retourner"> saumon </ingredient> en fin de cuisson . . . la peau permet aux <ingredient quantite="4"> pavés </ingredient> de rester entier . <operation ingredients="saumon"> réserver </operation> le <ingredient action="réserver"> saumon </ingredient> au chaud . dans la même <operation> poêle </operation> , faire <operation ingredients="échalotes;tomates"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> et les <ingredient action="revenir" quantite="2"> tomates </ingredient> ( 3 min environ ) . <operation ingredients="gambas"> ajouter </operation> les <ingredient action="ajouter" quantite="20"> gambas </ingredient> , et faire <operation> revenir </operation> 5 min à feu moyen . <operation ingredients="cognac"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> cognac </ingredient> , et faire <operation> cuire </operation> 3 min , pour que l' alcool s' évapore et laisse <operation> place </operation> au parfum de celui-ci . enfin , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> fraîche , <operation> saler </operation> et <operation> poivrer </operation> , et laisser <operation> cuire </operation> à feu doux , jusqu' à obtention d' une sauce nappante . <operation ingredients="saumon;gambas"> dresser </operation> le <ingredient action="dresser"> saumon </ingredient> , nappé de sauce parfumée , avec les <ingredient action="dresser" quantite="20"> gambas </ingredient> . servir avec des <ingredient> pommes </ingredient> vapeur ou du <ingredient quantite=""> riz </ingredient> . vous ferez l' admiration de vos invitésajoutez , si vous le souhaitez , pour la décoration de votre plat : une <ingredient quantite="2"> tomate </ingredient> en grappe <operation> cuite </operation> , et un petit <ingredient> croissant </ingredient> de pâte feuilleté . un <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

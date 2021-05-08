@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222649">
+<titre>Tartare d'avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros avocat (ou 4 petits)</p>
+<p>1 concombre</p>
+<p>1/2 poivron rouge</p>
+<p>1 gousse d'ail</p>
+<p>3 citrons</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre"> peler </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> et le <operation> couper </operation> en deux en longueur . <operation> enlever </operation> les pépins et le <operation> couper </operation> en petits dés . <operation ingredients="poivron"> épépiner </operation> le <ingredient action="épépiner"> poivron </ingredient> rouge et le <operation> couper </operation> en petits dés . <operation ingredients="citrons"> presser </operation> les 3 <ingredient action="presser" quantite="3"> citrons </ingredient> et <operation ingredients="jus"> réserver </operation> le <ingredient action="réserver"> jus </ingredient> . <operation ingredients="avocats"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> avocats </ingredient> , en <operation> mettre </operation> 1 / 2 de côté et <operation> couper </operation> le reste en petits morceaux . <operation ingredients="avocat;jus"> arroser </operation> aussitôt les morceaux d' <ingredient action="arroser" quantite="2"> avocat </ingredient> avec la moitié du <ingredient action="arroser"> jus </ingredient> de citron pour éviter qu' ils ne <operation> noircissent </operation> . dans un bol , <operation ingredients="avocat"> écraser </operation> l' <ingredient action="écraser" quantite="2"> avocat </ingredient> restant avec une fourchette . <operation ingredients="jus;ail;huile;sel"> ajouter </operation> le reste du <ingredient action="ajouter"> jus </ingredient> de citron , l' <ingredient action="ajouter"> ail </ingredient> , l' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive et le <ingredient action="ajouter" quantite=""> sel </ingredient> . bien <operation> écraser </operation> le tout pour obtenir une sauce épaisse . dans un saladier , <operation ingredients="avocat;concombre"> mélanger </operation> les dés d' <ingredient action="mélanger" quantite="2"> avocat </ingredient> , les dés de <ingredient action="mélanger" quantite="1"> concombre </ingredient> et la sauce . <operation> mélanger </operation> délicatement . laisser <operation> reposer </operation> au frigo 20 min . servir dans des coupelles ou des petits verres en <operation ingredients="poivrons"> ajoutant </operation> des dés de <ingredient action="ajouter"> poivrons </ingredient> au dernier moment . pour pimenter la recette , vous pouvez <operation ingredients="tabasco;paprika"> ajouter </operation> quelques gouttes de <ingredient action="ajouter"> tabasco </ingredient> ou un peu de <ingredient action="ajouter"> paprika </ingredient> . et un peu de <ingredient> ciboulette </ingredient> pour <operation> décorer </operation> .
+</preparation>
+</recette>

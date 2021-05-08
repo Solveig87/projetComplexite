@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35356">
+<titre>Bouillabaisse ultra-facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oignons</p>
+<p>3 tomates</p>
+<p>6 pommes de terre</p>
+<p>4 filets de loup</p>
+<p>1 cuillère à café de safran jaune</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe de rouille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive dans une sauteuse ou une <operation> poêle </operation> à larges rebords . y faire <operation ingredients="oignons;tomates"> fondre </operation> les 3 <ingredient action="fondre" quantite="3"> oignons </ingredient> <operation> coupés </operation> en lamelles et les 3 <ingredient action="fondre" quantite="3"> tomates </ingredient> coupeés en tranches . <operation ingredients="pommes"> peler </operation> les <ingredient action="peler" quantite="6"> pommes </ingredient> de terre , les <operation> couper </operation> en petits cubes et les <operation ingredients="oignons;tomates"> déposer </operation> sur le lit d' <ingredient action="déposer" quantite="3"> oignons </ingredient> et de <ingredient action="déposer" quantite="3"> tomates </ingredient> . <operation ingredients="loup;légumes"> déposer </operation> les filets de de <ingredient action="déposer"> loup </ingredient> sur les <ingredient action="déposer" quantite="3;3;6"> légumes </ingredient> ( ils <operation> cuiront </operation> ainsi à la vapeur ) . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="safran"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> safran </ingredient> . <operation> ajouter </operation> 2 cuillers à soupe de rouille . laisser mitonner pendant 3 / 4 d' heure . vous pouvez servir cette bouillabaisse ultra facile avec des <ingredient> croûtons </ingredient> et du <ingredient> gruyère </ingredient> râpé . délicieux ! ! ! ce plat est un vrai régal et il est absolument inratable ! <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14312">
+<titre>Millet au gruyère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de millet doré</p>
+<p>1 oignon blanc</p>
+<p>1 cuillère à soupe d'huile  </p>
+<p>1 feuille de laurier </p>
+<p>1 bouillon de boeuf (ou de poule)</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> hacher </operation> finement l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et le faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> <operation> chauffée </operation> préalablement dans une casserole . <operation> ajouter </operation> le millet et bien <operation> mélanger </operation> jusqu' à ce que ce dernier soit brillant . <operation ingredients="laurier"> ajouter </operation> le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> et <operation ingredients="bouillon"> mouiller </operation> avec le <ingredient action="mouiller" quantite="1"> bouillon </ingredient> . laisser <operation> mijoter </operation> à petit feu environ 1 . 15 mn jusqu' à ce que le millet soit tendre et bien gonflé . <operation ingredients="bouillon"> rajouter </operation> du <ingredient action="rajouter" quantite="1"> bouillon </ingredient> si nécessaire . juste avant de servir , <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> râpé . servir bien chaud avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

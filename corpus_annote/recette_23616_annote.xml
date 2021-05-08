@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23616">
+<titre>Tomates farcies au chèvre chaud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bûchette de fromage de chèvre</p>
+<p>2 barquettes de lardons fumés (soit 250 g)</p>
+<p>60 g de champignons de paris</p>
+<p>herbes de Provence</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;champignons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> et les <ingredient action="revenir" quantite="60 gramme"> champignons </ingredient> dans une <operation> poêle </operation> . <operation ingredients="tomates"> couper </operation> le dessus des <ingredient action="couper"> tomates </ingredient> et les <operation> vider </operation> . <operation ingredients="fromage"> couper </operation> le <ingredient action="couper"> fromage </ingredient> de chèvre en petits morceaux . <operation ingredients="champignons"> mélanger </operation> les <ingredient action="mélanger" quantite="60 gramme"> champignons </ingredient> , les <ingredient action="remplir"> lardons </ingredient> et le <ingredient action="remplir"> fromage </ingredient> de chèvre , <operation ingredients="lardons;fromage;tomates"> remplir </operation> les <ingredient action="remplir"> tomates </ingredient> avec cette mixture . <operation> ajouter </operation> des herbes de provence . <operation ingredients="tomates"> remettre </operation> à leur <operation> place </operation> le dessus des <ingredient action="remettre"> tomates </ingredient> et <operation> mettre </operation> au four ( 210 <operation> ° </operation> c / thermostat 7 ) pendant 35 minutes . s' <operation ingredients="salade"> accompagne </operation> très bien d' une <ingredient action="accompagne"> salade </ingredient> . rosé
+</preparation>
+</recette>

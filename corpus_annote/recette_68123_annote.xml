@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68123">
+<titre>Mousse de bananes aux fruits rouges</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 bananes</p>
+<p>600 g de fruits rouges (framboises ou groseilles)</p>
+<p>6 cuillères à soupe de crème fraiche (1 petit pot de 20 cl)</p>
+<p>2 citrons</p>
+<p>2 sachets de sucre vanillé</p>
+<p>4 blancs d'oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="10"> bananes </ingredient> en rondelles . les <operation ingredients="jus;crème;sucre"> mettre </operation> dans un <operation> mixer </operation> avec le <ingredient action="mettre"> jus </ingredient> des citrons , la <ingredient action="mettre" quantite="6 cuillère à soupe"> crème </ingredient> fraîche et le <ingredient action="mettre"> sucre </ingredient> . <operation> mixer </operation> et <operation> mettre </operation> dans un bol . <operation> monter </operation> les blancs en neige ferme , les <operation ingredients="bananes"> incorporer </operation> à la préparation de <ingredient action="incorporer" quantite="10"> bananes </ingredient> . <operation ingredients="fruits;mousse;banane"> mettre </operation> les <ingredient action="mettre" quantite="600 gramme"> fruits </ingredient> rouges <operation> choisis </operation> dans le fond d' un verre , puis la <ingredient action="mettre"> mousse </ingredient> à la <ingredient action="mettre" quantite="10"> banane </ingredient> . <operation ingredients="fruits;menthe"> décorer </operation> avec quelques <ingredient action="décorer" quantite="600 gramme"> fruits </ingredient> rouges ou une feuille de <ingredient action="décorer"> menthe </ingredient> fraîche . <operation> réserver </operation> au moins 6 h au frais avant de servir .
+</preparation>
+</recette>

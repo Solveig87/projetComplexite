@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37291">
+<titre>Tarte aux fraises gourmande</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la pâte  :</p>
+<p>500 g de farine</p>
+<p>250 g de margarine</p>
+<p>130 g de sucre</p>
+<p>2 œufs</p>
+<p>Pour la garniture :</p>
+<p>600 g de fraises</p>
+<p>Pour la crème :</p>
+<p>2 œufs</p>
+<p>100 g de sucre</p>
+<p>100 g de farine</p>
+<p>1 pincée de sel</p>
+<p>2 sachets de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer"> pâte </ingredient> : <operation ingredients="farine;margarine;sucre;œufs"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme+100 gramme"> farine </ingredient> , la <ingredient action="mélanger" quantite="250 gramme"> margarine </ingredient> , le <ingredient action="mélanger" quantite="130 gramme+100 gramme"> sucre </ingredient> et les <ingredient action="mélanger" quantite="2+2"> œufs </ingredient> ; laisser ensuite <operation ingredients="pâte"> reposer </operation> la <ingredient action="reposer"> pâte </ingredient> 30 min au frigo . garniture de <ingredient quantite="600 gramme"> fraises </ingredient> : <operation ingredients="pâte"> tapisser </operation> un <operation> moule </operation> à tarte avec la <ingredient action="tapisser"> pâte </ingredient> . <operation ingredients="fraises"> couper </operation> les <ingredient action="couper" quantite="600 gramme"> fraises </ingredient> en petits morceaux , et les <operation ingredients="pâte"> disposer </operation> sur la <ingredient action="disposer"> pâte </ingredient> . garniture crème : <operation ingredients="œufs;sucre;farine;sel;sucre"> mélanger </operation> les <ingredient action="mélanger" quantite="2+2"> œufs </ingredient> , le <ingredient action="mélanger" quantite="130 gramme+100 gramme"> sucre </ingredient> , la <ingredient action="mélanger" quantite="500 gramme+100 gramme"> farine </ingredient> , 1 pincée de <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> et les sachets de <ingredient action="mélanger" quantite="130 gramme+100 gramme"> sucre </ingredient> vanillé . faire <operation ingredients="lait"> chauffer </operation> 50 cl de <ingredient action="chauffer"> lait </ingredient> et y <operation> ajouter </operation> le <operation> mélange </operation> 2 min sans cesser de <operation> remuer </operation> . <operation ingredients="tarte;crème"> recouvrir </operation> le dessus de la <ingredient action="recouvrir"> tarte </ingredient> avec cette délicieuse <ingredient action="recouvrir"> crème </ingredient> . <operation> mettre </operation> au four pendant 40 min , à 160 <operation> ° </operation> c-180 <operation> ° </operation> c ( thermostat . 6 ) .
+</preparation>
+</recette>

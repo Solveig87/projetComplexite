@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35358">
+<titre>Salade paysanne au reste de pot-au-feu</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de reste de viande(style viande de pot au feu)</p>
+<p>600 g de carottes</p>
+<p>200 g de champignons</p>
+<p>1 citron</p>
+<p>2 échalotes</p>
+<p>persil haché</p>
+<p>3 oeufs durs</p>
+<p>quelques olives farcies</p>
+<p>Pour la vinaigrette :</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="carottes"> cuire </operation> les <ingredient action="cuire" quantite="600 gramme"> carottes </ingredient> dans de l' eau <operation> salée </operation> , les laisser refroidir et les <operation> couper </operation> en fines rondelles . les <operation> mettre </operation> dans un saladier avec la vinaigrette . <operation ingredients="boeuf"> couper </operation> le <ingredient action="couper"> boeuf </ingredient> en petits dés et l' <operation ingredients="carottes"> ajouter </operation> aux <ingredient action="ajouter" quantite="600 gramme"> carottes </ingredient> en vinaigrette . <operation ingredients="champignons;échalotes;persil"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> <operation> lavés </operation> , émincés et <operation ingredients="jus"> arrosés </operation> de <ingredient action="arroser"> jus </ingredient> de citron , ainsi que les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> hachées et le <ingredient action="ajouter" quantite=""> persil </ingredient> . <operation> mélanger </operation> les ingrédients délicatement . <operation ingredients="oeufs"> décorer </operation> le plat avec les <ingredient action="décorer" quantite="3"> oeufs </ingredient> <operation ingredients="olives"> coupés </operation> en <operation> forme </operation> de tulipes ouvertes et les <ingredient action="couper" quantite="quelque"> olives </ingredient> <operation> farcies </operation> .
+</preparation>
+</recette>

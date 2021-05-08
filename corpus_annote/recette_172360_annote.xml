@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172360">
+<titre>Magret de canard sauce framboise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 magrets de canard</p>
+<p>4 grosses pommes de terre</p>
+<p>2 cuillères à soupe de confiture de framboise</p>
+<p>1 cuillère à soupe de miel liquide</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="4"> pommes </ingredient> de terre , les <operation> couper </operation> en dès et les faire <operation ingredients="beurre"> revenir </operation> à la <operation> poêle </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="magret"> entailler </operation> le <ingredient action="entailler" quantite="2"> magret </ingredient> côté gras . faire <operation ingredients="magret"> cuire </operation> le <ingredient action="cuire" quantite="2"> magret </ingredient> à la <operation> poêle </operation> . au moment de servir , <operation ingredients="confiture;miel"> ajouter </operation> dans la <operation> poêle </operation> encore chaude la <ingredient action="ajouter" quantite="2 cuillère à soupe"> confiture </ingredient> et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> . laisser <operation> fondre </operation> , <operation ingredients="magret"> verser </operation> sur le <ingredient action="verser" quantite="2"> magret </ingredient> puis servir avec les <ingredient quantite="4"> pommes </ingredient> de terre .
+</preparation>
+</recette>

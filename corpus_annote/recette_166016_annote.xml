@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166016">
+<titre>Petits desserts de semoule</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 litre de lait</p>
+<p>100g de semoule (verre doseur : utiliser la colonne "sucre")</p>
+<p>30g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 c.s d'arôme fleur d'oranger</p>
+<p>1 c. s de rhum (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> à feu doux pendant 6 minutes . <operation ingredients="sucre;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="30 gramme"> sucre </ingredient> et le <ingredient action="ajouter" quantite="30 gramme"> sucre </ingredient> vanillé . au bout d' une minute , <operation ingredients="semoule"> mettre </operation> la <ingredient action="mettre" quantite="100 gramme"> semoule </ingredient> en pluie fine tout en <operation> mélangeant </operation> . continuer de <operation> mélanger </operation> pendant 5 bonnes minutes . laissez <operation> reposer </operation> quelques minutes puis <operation> verser </operation> dans les ramequins . bonne dégustation ! pour un <ingredient action="laisser"> gâteau </ingredient> plus compacte : laissez <operation> reposer </operation> au frigo . sinon , <operation ingredients="gâteau"> laissez </operation> <operation> reposer </operation> à l' air libre . plutôt un <ingredient> thé </ingredient> léger ou fruité .
+</preparation>
+</recette>

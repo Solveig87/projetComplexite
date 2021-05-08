@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22400">
+<titre>Soupe à la betterave  rose</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 betteraves cuites</p>
+<p>1 botte d'oignons nouveaux</p>
+<p>1 concombre</p>
+<p>1 kg de fromage blanc 20 %</p>
+<p>4 oeufs</p>
+<p>un brin d'aneth fraîche</p>
+<p>sel et poivre</p>
+<p>500 g de pommes de terre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> couper </operation> finement les <ingredient action="couper"> oignons </ingredient> nouveaux ainsi que la ciboule , <operation> râper </operation> les betteraves , <operation ingredients="concombre"> couper </operation> finement le <ingredient action="couper" quantite="1"> concombre </ingredient> . <operation ingredients="fromage"> mélanger </operation> un verre d' eau avec le <ingredient action="mélanger" quantite="1 kilogramme"> fromage </ingredient> blanc et les ingrédients . <operation ingredients="sel;poivre;aneth"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> et l' <ingredient action="ajouter"> aneth </ingredient> pour <operation> décorer </operation> . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre à l' eau et <operation ingredients="oeufs"> préparer </operation> les <ingredient action="préparer" quantite="4"> oeufs </ingredient> durs . lorsque les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , <operation ingredients="oeufs"> coupez </operation> - les en dés puis les <ingredient action="couper" quantite="4"> oeufs </ingredient> durs ; <operation ingredients="pommes;oeuf"> répartir </operation> dans 4 assiettes 2 <ingredient action="répartir" quantite="500 gramme"> pommes </ingredient> de terre tièdes par personne , 1 <ingredient action="répartir" quantite="4"> oeuf </ingredient> tiède par personne , puis <operation ingredients="soupe"> ajouter </operation> la <ingredient action="ajouter"> soupe </ingredient> bien fraîche . idéale pour une entrée d' été . servir bien frais
+</preparation>
+</recette>

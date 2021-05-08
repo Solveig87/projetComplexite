@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38012">
+<titre>Coquillettes à la bûcheronne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de coquillettes</p>
+<p>100 g de lardons natures</p>
+<p>100 g de dés de jambon</p>
+<p>2 gros oignons</p>
+<p>2 gousses d'ail</p>
+<p>2 bouchons de whisky</p>
+<p>sel, poivre et coriandre</p>
+<p>2 boîtes de concentré de tomates</p>
+<p>50 g de champignons de Paris</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> puis <operation> réserver </operation> sur papier absorbant . faites <operation ingredients="oignons;ail"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et l' <ingredient action="revenir"> ail </ingredient> , puis <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="50 gramme"> champignons </ingredient> . <operation ingredients="lardons;jambon;whisky"> ajoutez </operation> les <ingredient action="ajouter" quantite="100 gramme"> lardons </ingredient> et le <ingredient action="ajouter"> jambon </ingredient> et les 2 bouchons de <ingredient action="ajouter"> whisky </ingredient> . laissez évaporer 2 minutes . <operation ingredients="épices"> incorporez </operation> la sauce tomate et les <ingredient action="incorporer" quantite="2;"> épices </ingredient> . couvrez et laissez <operation> mijoter </operation> à feu très doux . pendant ce temps , <operation> cuisez </operation> les pates al dente soit 8 minutes . <operation> egouttez </operation> et <operation> mélangez </operation> le tout . vous pouvez y <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter"> gruyère </ingredient> râpé .
+</preparation>
+</recette>

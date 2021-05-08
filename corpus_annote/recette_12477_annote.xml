@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12477">
+<titre>Lamproie au Pomerol</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de lamproie</p>
+<p>9 poireaux</p>
+<p>75 cl de vin rouge</p>
+<p>sucre</p>
+<p>3 carrés de chocolat </p>
+<p>farine</p>
+<p>sel, poivre</p>
+<p>piment d'Espelette</p>
+</ingredients>
+<preparation>
+saigner et <operation ingredients="lamproie"> vider </operation> la <ingredient action="vider" quantite="1 kilogramme"> lamproie </ingredient> . la <operation> peler </operation> dans de l' eau chaude et la <operation> couper </operation> en morceaux . <operation ingredients="poireaux;lamproie"> nettoyer </operation> et <operation> couper </operation> les <ingredient action="nettoyer" quantite="9"> poireaux </ingredient> ( 5 morceaux pour un morceau de <ingredient action="nettoyer" quantite="1 kilogramme"> lamproie </ingredient> ) . faire <operation ingredients="lamproie"> revenir </operation> dans une cocotte les morceaux de <ingredient action="revenir" quantite="1 kilogramme"> lamproie </ingredient> . faire roussir avec un peu de <ingredient quantite=""> farine </ingredient> . sortir la <ingredient quantite="1 kilogramme"> lamproie </ingredient> et faire <operation ingredients="poireaux"> blanchir </operation> les <ingredient action="blanchir" quantite="9"> poireaux </ingredient> . <operation> remettre </operation> tout ensemble et <operation ingredients="carrés"> rajouter </operation> 2 <ingredient action="rajouter" quantite="3"> carrés </ingredient> de chocolat . <operation> saler </operation> , <operation> poivrer </operation> , pimenter . faire <operation> cuire </operation> une heure pendant 2 jours . en fin de cuisson , <operation ingredients="lamproie"> rajouter </operation> le sang de la <ingredient action="rajouter" quantite="1 kilogramme"> lamproie </ingredient> . servir chaud avec du <ingredient> pain </ingredient> <operation> grillé </operation> et des <ingredient> pommes </ingredient> vapeurs .
+</preparation>
+</recette>

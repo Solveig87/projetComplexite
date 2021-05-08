@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33767">
+<titre>Beignets florentins</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>4 cuillères à soupe d'huil d'olive</p>
+<p>une cuillère à soupe de sucre en poudre</p>
+<p>une cuillère à soupe de rhum</p>
+<p>2 oeufs</p>
+<p>1/2 verre d'eau (type petit verre moutarde) </p>
+<p>sucre glace</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+dans un bol , <operation ingredients="oeufs;huile;rhum"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> avec l' <ingredient action="mélanger"> huile </ingredient> d' olive et le demi verre d' eau puis le <ingredient action="mélanger" quantite="1 cuillère à soupe"> rhum </ingredient> . dans un saladier , <operation ingredients="farine;sucre;sel"> mélanger </operation> la <ingredient action="mélanger" quantite="250 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sucre </ingredient> , et la pincée de <ingredient action="mélanger" quantite=""> sel </ingredient> . faire un puits et y <operation ingredients="oeufs;rhum"> verser </operation> la première préparation ( <ingredient action="verser" quantite="2"> oeufs </ingredient> , huile <ingredient action="verser" quantite="1 cuillère à soupe"> rhum </ingredient> et eau ) <operation> pétrir </operation> , faire une boule et laisser <operation> reposer </operation> une trentaine de minutes . <operation ingredients="pâte"> aplatir </operation> la <ingredient action="aplatir"> pâte </ingredient> sur un demi centimètre d' épaisseur puis <operation ingredients="ronds"> découper </operation> des <operation> formes </operation> ( <ingredient action="découper"> ronds </ingredient> , carrés , losanges ) . faire <operation ingredients="huile"> frire </operation> dans de l' <ingredient action="frire"> huile </ingredient> ( tournesol ) puis faire <operation> égoutter </operation> sur du papier absorbant . servir chaud , saupoudrés de <ingredient quantite="1 cuillère à soupe"> sucre </ingredient> <ingredient> glace </ingredient> . cette recette me vient de mon grand-père . la particularité c' est l' <operation action="huile" ingredients="huile"> huile </operation> d' olive qui donne un super goût à ces beignets . on peut bien sûr la remplacer par une autre <ingredient> huile </ingredient> .
+</preparation>
+</recette>

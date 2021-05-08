@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29244">
+<titre>Scampis aux pommes et au curry</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 gros oignons</p>
+<p>20 scampis</p>
+<p>1 cube de bouillon de poisson</p>
+<p>1 pomme Granny Smith en lamelles</p>
+<p>curry</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pomme;beurre"> dorer </operation> les lamelles de <ingredient action="dorer" quantite="1"> pomme </ingredient> dans du <ingredient action="dorer"> beurre </ingredient> et <operation> réserver </operation> ( au chaud ) . a la <operation> place </operation> , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> . quand ils sont transparents , <operation ingredients="scampis"> ajouter </operation> les <ingredient action="ajouter" quantite="20"> scampis </ingredient> . quand ils commencent à être <operation> cuits </operation> , <operation> saler </operation> et <operation ingredients="crème"> verser </operation> de la <ingredient action="verser" quantite=""> crème </ingredient> fraîche . <operation ingredients="bouillon"> emietter </operation> le cube de <ingredient action="emietter"> bouillon </ingredient> et <operation ingredients="curry"> ajouter </operation> du <ingredient action="ajouter" quantite=""> curry </ingredient> . laisser <operation> épaissir </operation> . <operation ingredients="scampi"> dresser </operation> les <ingredient action="dresser" quantite="20"> scampi </ingredient> en sauce sur une assiette et <operation ingredients="pommes"> décorer </operation> avec les lamelles de <ingredient action="décorer" quantite="1"> pommes </ingredient> . délicieux avec de la <ingredient> baguette </ingredient> !
+</preparation>
+</recette>

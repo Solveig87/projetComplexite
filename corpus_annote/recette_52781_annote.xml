@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52781">
+<titre>Potage carottes et oignons blancs</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 belles carottes</p>
+<p>100 g d'oignons blancs grelots (surgelés)</p>
+<p>10 cl de lait</p>
+<p>bouillon de volaille</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="carottes"> éplucher </operation> les <ingredient action="éplucher" quantite="6"> carottes </ingredient> . faire <operation ingredients="oignons;noix;huile"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> oignons </ingredient> dans une grande casserole avec une <ingredient action="revenir"> noix </ingredient> de beurre et un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> carottes </ingredient> <operation> coupées </operation> en lamelles et laisser <operation> mijoter </operation> 5 à 10 minutes en <operation> remuant </operation> de temps en temps . <operation ingredients="bouillon"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> bouillon </ingredient> de volaille à hauteur et laisser <operation> cuire </operation> à <operation> couvert </operation> 20 minutes . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> lait </ingredient> et <operation> mixer </operation> le tout . <operation ingredients="bouillon"> ajouter </operation> de l' eau ou du <ingredient action="ajouter" quantite=""> bouillon </ingredient> pour obtenir la consistance désirée .
+</preparation>
+</recette>

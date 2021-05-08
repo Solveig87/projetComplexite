@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67524">
+<titre>Salade de Tortis au Pesto et au jambon de parme</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de pâtes type Tortis (les plus gros car ils ne collent pas !)</p>
+<p>4 belles tranches de jambon de Parme (ou autre jambon sec italien)</p>
+<p>1 petite échalote (ou un demi oignon doux selon votre goût)</p>
+<p>4 tomates séchées</p>
+<p>1 cuillère à soupe d'olives noires dénoyautées</p>
+<p>25 cl de sauce pesto (plus ou moins un demi pot standard)</p>
+<p>copeaux de parmesan</p>
+<p>sel, poivre, huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> al dente ( 7 min ) à l' eau <operation> salée </operation> , puis bien les <operation> égoutter </operation> et les <operation> passer </operation> sous l' eau froide . <operation ingredients="échalote;tomates;olives"> hacher </operation> menu l' <ingredient action="hacher" quantite="1"> échalote </ingredient> , les <ingredient action="hacher" quantite="4"> tomates </ingredient> séchées , les <ingredient action="hacher" quantite="1 cuillère à soupe"> olives </ingredient> et <operation ingredients="pesto"> mélanger </operation> le tout à la sauce <ingredient action="mélanger" quantite="25 cl"> pesto </ingredient> . <operation ingredients="pâtes"> mouiller </operation> les <ingredient action="mouiller" quantite="400 gramme"> pâtes </ingredient> de cette sauce , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="jambon"> couper </operation> de fines lamelles de <ingredient action="couper"> jambon </ingredient> cru et les <operation ingredients="salade"> incorporer </operation> à la <ingredient action="incorporer"> salade </ingredient> . terminer par des copeaux de <ingredient> parmesan </ingredient> et un peu d' <ingredient quantite=""> huile </ingredient> d' olive si la <ingredient> salade </ingredient> est trop sèche . <operation ingredients="basilic"> décorer </operation> de quelques feuilles fraîches de <ingredient action="décorer"> basilic </ingredient> . on peut servir cette <ingredient> salade </ingredient> <operation ingredients="pain"> accompagnée </operation> de tranches de <ingredient action="accompagner"> pain </ingredient> <operation ingredients="ail;huile"> frottées </operation> d' <ingredient action="frotter"> ail </ingredient> et d' <ingredient action="frotter" quantite=""> huile </ingredient> d' olive et <operation> passées </operation> au four . peut se servir comme une <ingredient> salade </ingredient> repas .
+</preparation>
+</recette>

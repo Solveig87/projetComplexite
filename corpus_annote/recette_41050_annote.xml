@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41050">
+<titre>Lard au roquefort</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 belles tranches de lard maigre non salé (ou poitrine)</p>
+<p>1 gros oignon</p>
+<p>4 gousses d'ail</p>
+<p>1 bouquet de persil</p>
+<p>1 beau brin de thym</p>
+<p>2 feuilles de basilic</p>
+<p>1 grosse tomate</p>
+<p>20 cl de vin blanc</p>
+<p>20 g de Roquefort (en portion)</p>
+<p>poivre et sel</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="ail"> coupé </operation> grossièrement et l' <ingredient action="couper"> ail </ingredient> en fines tranches . ecarter l' <ingredient quantite="1"> oignon </ingredient> et l' <ingredient> ail </ingredient> sur le tour de la <operation> poêle </operation> et faire <operation ingredients="lard"> dorer </operation> au centre les tranches de <ingredient action="dorer"> lard </ingredient> . <operation ingredients="tomate;vin"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> tomate </ingredient> <operation> coupée </operation> en morceaux et le verre de <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> blanc . <operation ingredients="thym;basilic;persil"> ajouter </operation> le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter" quantite="2 feuille"> basilic </ingredient> et le <ingredient action="ajouter"> persil </ingredient> <operation> ciselé </operation> . <operation> poivrer </operation> et <operation> saler </operation> . laisser <operation> mijoter </operation> sur feu très doux 35 min à <operation> couvert </operation> . 10 min avant la fin de cuisson <operation ingredients="roquefort"> ajouter </operation> en petits morceaux le <ingredient action="ajouter" quantite="20 gramme"> roquefort </ingredient> et <operation> mélanger </operation> dans la sauce . servir bien chaud . <operation ingredients="pommes;pain"> accompagné </operation> de <ingredient action="accompagner"> pommes </ingredient> de terre persillées ou simplement avec du <ingredient action="accompagner"> pain </ingredient> . un <ingredient quantite="20 cl"> vin </ingredient> rouge de tous les jours
+</preparation>
+</recette>

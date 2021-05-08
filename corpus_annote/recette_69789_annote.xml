@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69789">
+<titre>Crème dessert aux marrons</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>80 à 100 g de crème de marrons (selon les goûts)</p>
+<p>50 g de sucre</p>
+<p>20 g de maïzena</p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="maïzena;sucre;crème"> verser </operation> la <ingredient action="verser" quantite="20 gramme"> maïzena </ingredient> , le <ingredient action="verser" quantite="50 gramme"> sucre </ingredient> puis la <ingredient action="verser"> crème </ingredient> de marrons . bien <operation> mélanger </operation> ces ingrédients pour en <operation ingredients="pâte"> faire </operation> une <ingredient action="faire"> pâte </ingredient> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> froid petit à petit en <operation> remuant </operation> . faire <operation> chauffer </operation> le tout en <operation> remuant </operation> constamment . dès que les premières bulles apparaissent , et sans attendre que la <ingredient action="épaissir"> crème </ingredient> ne s' <operation ingredients="crème"> épaississe </operation> de trop , <operation> retirer </operation> du feu . <operation> verser </operation> dans les ramequins . laisser refroidir et <operation> placer </operation> 1 heure au réfrigérateur avant de consommer . <operation ingredients="chocolat;noisette"> ajouter </operation> selon les plaisirs , des copeaux de <ingredient action="ajouter"> chocolat </ingredient> blanc ou de <operation> poudre </operation> de <ingredient action="ajouter"> noisette </ingredient> pour <operation> décorer </operation> .
+</preparation>
+</recette>

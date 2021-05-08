@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30115">
+<titre>Moelleux pommes et fruits secs très facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 pommes (assez grosses)</p>
+<p>20 g de raisins secs</p>
+<p>20 g de noix décotiquées</p>
+<p>1 cuillère à soupe de cannelle</p>
+<p>40 g de beurre fondu</p>
+<p>4 oeufs</p>
+<p>50 g de poudre d'amande</p>
+<p>120 g de farine</p>
+<p>3 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeufs;sucre"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> avec le <ingredient action="battre" quantite="3 cuillère à soupe"> sucre </ingredient> , puis <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="farine;noix;raisins;amande"> incorporer </operation> la <ingredient action="incorporer" quantite="120 gramme"> farine </ingredient> , puis les <ingredient action="incorporer" quantite="20 gramme"> noix </ingredient> , les <ingredient action="incorporer" quantite="20 gramme"> raisins </ingredient> , et la <operation> poudre </operation> d' <ingredient action="incorporer"> amande </ingredient> . enfin , <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> pommes </ingredient> <operation> pelées </operation> et <operation> coupées </operation> en petits morceaux . <operation> verser </operation> le tout dans un <operation> moule </operation> allant au four et faire <operation> cuire </operation> environ 30 mn à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

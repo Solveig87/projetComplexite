@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17266">
+<titre>Riz mexicain</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>120 g de riz</p>
+<p>1 oignon</p>
+<p>1 poivron rouge et 1 vert</p>
+<p>1 gousse d'ail</p>
+<p>1/2 petite boîte de maïs</p>
+<p>2 cuillères à soupe de petits pois surgelés </p>
+<p>2 cubes de bouillon de volaille</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;poivrons"> revenir </operation> à l' <ingredient action="revenir" quantite=""> huile </ingredient> l' oignon et les <ingredient action="revenir" quantite="1"> poivrons </ingredient> <operation> coupés </operation> en petits dés . lorsqu' ils commencent à <operation> dorer </operation> , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="120 gramme"> riz </ingredient> . lorsque les grains de <ingredient quantite="120 gramme"> riz </ingredient> sont dorés , <operation ingredients="maïs;pois"> ajouter </operation> le <ingredient action="ajouter"> maïs </ingredient> et les petits <ingredient action="ajouter" quantite="2 cuillère à soupe"> pois </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation> retirer </operation> du feu , <operation ingredients="gousse"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail pilée et <operation> mélanger </operation> . <operation ingredients="bouillon"> ajouter </operation> une partie du <ingredient action="ajouter"> bouillon </ingredient> de poulet ( de manière à ce qu' il <operation ingredients="riz"> recouvre </operation> largement le <ingredient action="recouvrir" quantite="120 gramme"> riz </ingredient> ) que l' on aura prálablement <operation> préparé </operation> et auquel on aura <operation ingredients="tomates"> ajouté </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomates </ingredient> . faire <operation> cuire </operation> à feu moyen , en <operation> remuant </operation> de temps en temps pour éviter que le <ingredient action="colle" quantite="120 gramme"> riz </ingredient> ne <operation ingredients="riz"> colle </operation> au fond de la casserole et jusqu' à ce que le <ingredient action="cuire" quantite="120 gramme"> riz </ingredient> soit <operation ingredients="riz"> cuit </operation> et le <ingredient> bouillon </ingredient> absorbé ( environ 20 min ) . <operation ingredients="bouillon"> ajouter </operation> du <ingredient action="ajouter"> bouillon </ingredient> , si besoin , en cours de cuisson . très bon notamment <operation ingredients="haricots"> accompagné </operation> de burritos et de frijoles ( purée de <ingredient action="accompagner"> haricots </ingredient> noirs ) .
+</preparation>
+</recette>

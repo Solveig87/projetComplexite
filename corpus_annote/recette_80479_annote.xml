@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80479">
+<titre>Cocido espagnol</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de pois chiches</p>
+<p>1 boîte de tomates pelées</p>
+<p>250 g de lardons natures  </p>
+<p>1 oignon</p>
+<p>du chorizo (comptez 5 tranches par personne environ)</p>
+</ingredients>
+<preparation>
+commencer par faire <operation ingredients="oignon;lardons"> revenir </operation> dans un fait - tout l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et les <ingredient action="revenir" quantite="250 gramme"> lardons </ingredient> de manière à ce qu' ils <operation> blanchissent </operation> . puis <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> <operation> pelées </operation> et laisser <operation> revenir </operation> une dizaine de minutes . pour finir <operation ingredients="pois;chiches;chorizo"> ajouter </operation> les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter"> chiches </ingredient> et le <ingredient action="ajouter" quantite=""> chorizo </ingredient> et patienter encore 10 / 15 min . servir bien chaud dans une assiette à soupe et se régaler ! ! selon les goûts , laisser <operation> cuire </operation> plus longtemps ou <operation ingredients="paprika"> ajouter </operation> 2 pincées de <ingredient action="ajouter"> paprika </ingredient> !
+</preparation>
+</recette>

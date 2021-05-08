@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58897">
+<titre>Porc sauté aux nouilles chinoises, cuisson au wok</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 g de pâtes chinoises</p>
+<p>200 g d'échine de porc</p>
+<p>90 g de soja</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>1 cuillère à soupe de miel</p>
+<p>2 poignées de champignons noirs</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;champignons"> couper </operation> la <ingredient action="couper"> viande </ingredient> et les <ingredient action="couper"> champignons </ingredient> en lamelles . dans le wok : <operation ingredients="huile;viande"> mettre </operation> l' <ingredient action="mettre" quantite="4 cuillère à soupe"> huile </ingredient> et la <ingredient action="mettre"> viande </ingredient> sur feu doux et laisser <operation> couvert </operation> le temps que la <ingredient action="cuire"> viande </ingredient> <operation ingredients="viande"> cuise </operation> , <operation> remuer </operation> régulièrement . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="150 gramme"> pâtes </ingredient> dans une casserole . y <operation ingredients="soja;miel;champignons"> ajouter </operation> la sauce <ingredient action="ajouter"> soja </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> , les <ingredient action="ajouter"> champignons </ingredient> . laisser 5 minutes et lorsque les <ingredient quantite="150 gramme"> pâtes </ingredient> sont prêtes , les <operation> ajouter </operation> dans le wok , laisser <operation> cuire </operation> le tout encore un peu , et c' est prêt . un régal plein de parfums !
+</preparation>
+</recette>

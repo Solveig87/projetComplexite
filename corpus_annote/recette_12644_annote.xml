@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12644">
+<titre>Salade Alsacienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 laitue ou autre salade tendre</p>
+<p>6 tranches de jambon blanc</p>
+<p>4 saucisses de Strasbourg</p>
+<p>2 tomates moyennes</p>
+<p>200 g d'emmental en dés</p>
+<p>4 œufs durs</p>
+<p>400 g de pommes de terre à chair ferme (ratte, charlotte...)</p>
+<p>1 oignon</p>
+<p>vinaigrette</p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> laver </operation> la <ingredient action="laver"> salade </ingredient> en laissant les feuilles entières . <operation ingredients="jambon;emmental"> couper </operation> le <ingredient action="couper" quantite="6 tranche"> jambon </ingredient> et l' <ingredient action="couper" quantite="200 gramme"> emmental </ingredient> en dés . <operation ingredients="œufs;tomates"> couper </operation> les <ingredient action="couper" quantite="4"> œufs </ingredient> et les <ingredient action="couper" quantite="2"> tomates </ingredient> en quartiers . faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pommes </ingredient> de terre à la vapeur , les <operation> éplucher </operation> et les <operation> couper </operation> en rondelles . <operation ingredients="laitue;pommes"> disposer </operation> dans 4 grandes assiettes : un lit de <ingredient action="disposer" quantite="1"> laitue </ingredient> sur les bords , puis les <ingredient action="disposer" quantite="400 gramme"> pommes </ingredient> de terre encore chaudes . continuer avec le <ingredient quantite="6 tranche"> jambon </ingredient> , l' <ingredient> emmenthal </ingredient> , les <ingredient quantite="4"> saucisses </ingredient> en rondelles ( préalablement <operation> réchauffées </operation> ) <operation ingredients="tomates;œufs;oignon"> décorer </operation> avec les quartiers de <ingredient action="décorer" quantite="2"> tomates </ingredient> et d' <ingredient action="décorer" quantite="4"> œufs </ingredient> , quelques rondelles d' <ingredient action="décorer" quantite="1"> oignon </ingredient> , puis <operation> napper </operation> de vinaigrette . servir immédiatement . cette <ingredient> salade </ingredient> tiède est très copieuse et agréable en toute saison .
+</preparation>
+</recette>

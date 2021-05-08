@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164941">
+<titre>Pâtes aux poivrons et à la pancetta</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de casarecce </p>
+<p>300 g de poivrons marinés en bocal</p>
+<p>3 tomates moyennes pelées, épépinées et coupées en morceaux</p>
+<p>150 g de fines tranches de pancetta coupées en morceaux</p>
+<p>1 cuillère à soupe de petites câpres</p>
+<p>1 gousse d'ail pilée</p>
+<p>persil plat</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans une casserole d' eau bouillante <operation> salée </operation> sans <operation> couvrir </operation> jusqu' à ce qu' elles soient al dente . pendant ce temps , faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> des poivrons <operation> marinés </operation> dans une <operation> poêle </operation> et faites - y <operation ingredients="pancetta"> dorer </operation> la <ingredient action="dorer"> pancetta </ingredient> . <operation ingredients="ail;tomates;poivrons;câpres"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> hachée </operation> , les <ingredient action="ajouter" quantite="3"> tomates </ingredient> , les <ingredient action="ajouter"> poivrons </ingredient> , les <ingredient action="ajouter" quantite="1 cuillère à soupe"> câpres </ingredient> . faites cuir quelques minutes . <operation ingredients="pâtes"> versez </operation> les <ingredient action="verser"> pâtes </ingredient> dans cette préparation et <operation> remuez </operation> . <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter"> persil </ingredient> <operation> ciselé </operation> et servez aussitôt .
+</preparation>
+</recette>

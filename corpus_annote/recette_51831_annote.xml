@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="51831">
+<titre>Côtelettes d'agneau au paprika</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtelettes d'agneau</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>1 oignon</p>
+<p>15 g de beurre</p>
+<p>20 cl de crème fraîche</p>
+<p>1 gousse d'ail</p>
+<p>paprika</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="15 gramme"> beurre </ingredient> et y faire <operation ingredients="ail;oignon;côtelettes"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincés </operation> puis les <ingredient action="revenir" quantite="4"> côtelettes </ingredient> . une fois la <ingredient quantite="4"> viande </ingredient> <operation> cuite </operation> , <operation ingredients="tomate;paprika;sel;poivre"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> délayé avec un peu d' eau , le <ingredient action="ajouter" quantite=""> paprika </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . laisser <operation> réduire </operation> un peu et <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> fraîche .
+</preparation>
+</recette>

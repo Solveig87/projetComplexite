@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60583">
+<titre>Mon gratin d'été</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes</p>
+<p>2 poivrons </p>
+<p>1 oignon</p>
+<p>4 tomates</p>
+<p>gruyère râpé</p>
+<p>chapelure</p>
+<p>huile d'olive</p>
+<p>4 tranches de coppa</p>
+<p>sel, poivre, thym</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile;olive"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans <ingredient action="revenir" quantite=""> huile </ingredient> <ingredient action="revenir"> olive </ingredient> puis <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> poivrons </ingredient> en lanières . poursuivre 10 min la cuisson , et <operation> ajouter </operation> la coppa en lanières . <operation ingredients="tomates"> couper </operation> les courgettes en rondelles ainsi que les <ingredient action="couper" quantite="4"> tomates </ingredient> . <operation> huiler </operation> un plat à gratin , y <operation ingredients="oignon;poivron;tomates"> mettre </operation> au fond le <operation> mélange </operation> <ingredient action="mettre" quantite="1"> oignon </ingredient> <ingredient action="mettre" quantite="2"> poivron </ingredient> puis les courgettes et <ingredient action="mettre" quantite="4"> tomates </ingredient> en alternance . <operation> assaisonner </operation> , <operation ingredients="thym"> ajouter </operation> le <ingredient action="ajouter" quantite=""> thym </ingredient> et <operation ingredients="chapelure;gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> chapelure </ingredient> et de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé . enfour environ 40 min à 180 <operation> degré </operation> . 10 min avant la fin de la cuisson , je récupère le <ingredient> jus </ingredient> rejeté par les <ingredient quantite="2;1;4"> légumes </ingredient> et j' en arrose le gratin avant d' en poursuivre un peu la cuisson .
+</preparation>
+</recette>

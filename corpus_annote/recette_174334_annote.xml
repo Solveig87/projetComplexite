@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174334">
+<titre>Pâtes aux Saint-Jacques et jambon cru</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de pâtes (spaghettis, tagliatelles)</p>
+<p>160 g de noix de Saint-Jacques</p>
+<p>4 tranches de jambon cru</p>
+<p>40 cl de crème semi-épaisse</p>
+<p>2 gousses d'ail</p>
+<p>persil</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> . faire sécher le <ingredient quantite="4 tranche"> jambon </ingredient> au four ( 220 <operation> ° </operation> c ) pendant 5 min ( il est possible de le faire a la <operation> poêle </operation> mais c' est plus mou ) puis le <operation> couper </operation> grossièrement . pendant la cuisson des <ingredient action="revenir" quantite="500 gramme"> pâtes </ingredient> , faire <operation ingredients="pâtes;ail"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> puis <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="160 gramme"> noix </ingredient> de saint-jacques , les laisser <operation> cuire </operation> 3 / 4 min et <operation ingredients="persil;crème"> ajouter </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> <operation> ciselé </operation> et la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> . dès que c' est chaud , <operation ingredients="pâtes"> mélanger </operation> avec les <ingredient action="mélanger" quantite="500 gramme"> pâtes </ingredient> <operation> égouttées </operation> et <operation ingredients="jambon"> ajouter </operation> le <ingredient action="ajouter" quantite="4 tranche"> jambon </ingredient> .
+</preparation>
+</recette>

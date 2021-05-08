@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81637">
+<titre>Galettes du nord (ratons)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>330 g de farine de blé</p>
+<p>4 œufs</p>
+<p>40 g de beurre</p>
+<p>13 g de levure de boulanger</p>
+<p>1 litre de lait</p>
+<p>sel</p>
+<p>1 morceau de sucre</p>
+</ingredients>
+<preparation>
+dans un petit récipient , <operation ingredients="levure;sucre"> mélanger </operation> les 13 g de <ingredient action="mélanger" quantite="13 gramme"> levure </ingredient> de boulanger avec 2 cuillères à soupe d' eau tiède et 1 morceau de <ingredient action="mélanger"> sucre </ingredient> . dans une casserole , <operation ingredients="lait"> faire </operation> <operation> tiédir </operation> le <ingredient action="faire" quantite="1 litre"> lait </ingredient> . dans un saladier , <operation ingredients="farine"> incorporer </operation> 330 g de <ingredient action="incorporer" quantite="330 gramme"> farine </ingredient> de blé et <operation ingredients="œufs"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> œufs </ingredient> un à un ainsi que le <ingredient quantite="1 litre"> lait </ingredient> ( petit à petit pour éviter les grumeaux ) . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="40 gramme"> beurre </ingredient> et une fois refroidi , l' <operation ingredients="pâte"> incorporer </operation> à la <ingredient action="incorporer"> pâte </ingredient> . <operation ingredients="levure;sel"> ajouter </operation> la <ingredient action="ajouter" quantite="13 gramme"> levure </ingredient> et une pincée de <ingredient action="ajouter" quantite=""> sel </ingredient> . <operation ingredients="pâte"> placer </operation> la <ingredient action="placer"> pâte </ingredient> dans un endroit sec ( tel que le micro-ondes , à l' abri des courants d' air ) et laisser lever la <ingredient> pâte </ingredient> environ 3 heures . ce plat peut se déguster en plat principal ainsi qu' en <ingredient> dessert </ingredient> .
+</preparation>
+</recette>

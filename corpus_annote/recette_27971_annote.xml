@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27971">
+<titre>Risotto aux petits pois et au parmesan</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>250 g de petits pois</p>
+<p>100 g de parmesan</p>
+<p>1 oignon</p>
+<p>100 g de beurre</p>
+<p>1,5 l de bouillon chaud</p>
+<p>1 feuille de laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> hachez </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et faites - le suer dans du <ingredient quantite="100 gramme"> beurre </ingredient> à la sauteuse . <operation ingredients="pois;bouillon"> ajoutez </operation> les petits <ingredient action="ajouter" quantite="250 gramme"> pois </ingredient> <operation> cuits </operation> , 1 cuillerée de <ingredient action="ajouter" quantite="1,5 l"> bouillon </ingredient> et laissez <operation> chauffer </operation> quelques minutes . <operation ingredients="riz"> versez </operation> le <ingredient action="verser" quantite="250 gramme"> riz </ingredient> et <operation ingredients="bouillon"> mouillez </operation> d' une louche de <ingredient action="mouiller" quantite="1,5 l"> bouillon </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="laurier"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 feuille"> laurier </ingredient> . dès que le <ingredient action="rajouter" quantite="250 gramme"> riz </ingredient> à absorbé le <ingredient quantite="1,5 l"> bouillon </ingredient> , <operation ingredients="riz"> rajoutez </operation> 2 autres louches , et laissez à feu doux . recommencez ainsi jusqu' à ce qu' il soit <operation> cuit </operation> . une fois <operation ingredients="beurre"> cuit </operation> , <operation ingredients="parmesan"> incorporez </operation> le <ingredient action="incorporer" quantite="100 gramme"> parmesan </ingredient> et le reste de <ingredient action="cuire" quantite="100 gramme"> beurre </ingredient> en <operation> mélangeant </operation> délicatement . servez aussitôt .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29435">
+<titre>Saumon au four et ses légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 pavés ou escalopes de saumon</p>
+<p>8 pommes de terre</p>
+<p>5 carottes</p>
+<p>3 poireaux</p>
+<p>crème fraîche</p>
+<p>sel, poivre</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;carottes;poireaux"> couper </operation> les <ingredient action="couper" quantite="8"> pommes </ingredient> de terre , les <ingredient action="couper" quantite="5"> carottes </ingredient> et les <ingredient action="couper" quantite="3"> poireaux </ingredient> en fines rondelles . <operation ingredients="pommes;carottes;poireaux"> disposer </operation> au fond du plat les rondelles de <ingredient action="disposer" quantite="8"> pommes </ingredient> de terre puis les <ingredient action="disposer" quantite="5"> carottes </ingredient> et enfin les <ingredient action="disposer" quantite="3"> poireaux </ingredient> . <operation ingredients="pavés;légumes"> placer </operation> les <ingredient action="placer" quantite="4"> pavés </ingredient> de saumon sur les <ingredient action="placer" quantite="8;5;3;"> légumes </ingredient> . <operation ingredients="beurre;pavé"> mettre </operation> une fine tranche de <ingredient action="mettre"> beurre </ingredient> sur chaque <ingredient action="mettre" quantite="4"> pavé </ingredient> ; <operation> saler </operation> , <operation> poivrer </operation> , <operation> recouvrir </operation> le plat d' aluminium et <operation> insérer </operation> au four thermostat 220 <operation> ° </operation> c pendant 40 mn . faire <operation ingredients="crème;jus"> chauffer </operation> dans une casserole la <ingredient action="chauffer" quantite=""> crème </ingredient> fraîche liquide avec le <ingredient action="chauffer" quantite="1"> jus </ingredient> de citron . sortir le plat du four et <operation ingredients="crème;saumon;légumes"> incorporer </operation> la <ingredient action="incorporer" quantite=""> crème </ingredient> fraîche au <ingredient action="incorporer"> saumon </ingredient> et à ses <ingredient action="incorporer" quantite="8;5;3;"> légumes </ingredient> . servir un <ingredient quantite="4"> pavé </ingredient> de saumon et des <ingredient quantite="8;5;3;"> légumes </ingredient> par personne . penser à <operation ingredients="légumes"> couper </operation> les <ingredient action="couper" quantite="8;5;3;"> légumes </ingredient> en fines rondelles pour une meilleure cuisson au four .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81437">
+<titre>Feuilleté express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>3 tranches de jambon</p>
+<p>150 g d'emmental râpé</p>
+<p>1 jaune d'oeuf</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> feuilletée sur une <operation> plaque </operation> de cuisson . <operation ingredients="pâte;fromage"> etaler </operation> sur la <ingredient action="etaler" quantite="1"> pâte </ingredient> , la moitié du sachet de <ingredient action="etaler"> fromage </ingredient> rapé , puis <operation ingredients="jambon"> poser </operation> le <ingredient action="poser" quantite="3 tranche"> jambon </ingredient> , puis <operation ingredients="fromage"> recouvrir </operation> avec le reste de <ingredient action="recouvrir"> fromage </ingredient> . plier le feuilleté de chaque coté de façon à ce que la <ingredient action="recouvrir" quantite="1"> pâte </ingredient> <operation ingredients="pâte"> recouvre </operation> tout . <operation ingredients="oeuf"> badigeonner </operation> avec le jaune d' <ingredient action="badigeonner"> oeuf </ingredient> . faire <operation> cuire </operation> au four chaleur tournante 200 <operation> ° </operation> c ( thermostat . 7 ) environ 20 min ( le feuilleté doit être doré ) . <operation ingredients="salade"> accompagner </operation> d' une <ingredient action="accompagner"> salade </ingredient> verte .
+</preparation>
+</recette>

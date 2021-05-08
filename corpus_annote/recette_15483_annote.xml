@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15483">
+<titre>Pâtes aux olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte d'olives farcies aux poivrons</p>
+<p>1 boîte de tomates pelées au basilic</p>
+<p>pâtes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes;pâtes"> cuire </operation> les <ingredient action="cuire" quantite=""> pâtes </ingredient> selon votre gout et le type de <ingredient action="cuire" quantite=""> pâtes </ingredient> . <operation ingredients="olives"> hacher </operation> les <ingredient action="hacher"> olives </ingredient> au <operation> mixer </operation> . dans une petite casserole , faire <operation ingredients="olives;viande"> revenir </operation> les <ingredient action="revenir"> olives </ingredient> hachées ( comme si c' était de la <ingredient action="revenir"> viande </ingredient> ) avec un peu d' <ingredient> huile </ingredient> d' olive . <operation ingredients="tomates"> ajouter </operation> ensuite les <ingredient action="ajouter"> tomates </ingredient> et faire <operation> cuire </operation> une petite dizaine de minutes . attention : les <ingredient> olives </ingredient> sont très <ingredient> salées </ingredient> , les <operation> rincer </operation> éventuellement .
+</preparation>
+</recette>

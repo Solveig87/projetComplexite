@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15627">
+<titre>Spaghetti 'primavera' au poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tasses de brocoli en morceaux</p>
+<p>1 tasse de céleri coupé en biais</p>
+<p>2 carottes coupés en biais</p>
+<p>1/2 tasse de piments rouges coupés en dés</p>
+<p>3 échalotes</p>
+<p>spaghetti</p>
+<p>1/4 de tasse de parmesan râpé</p>
+<p>2 cuillère à table de beurre</p>
+<p>2 cuillère à table d'huile végétale</p>
+<p>1 gousse d'ail écrasée</p>
+<p>2 poitrines de poulet coupées en languettes</p>
+<p>1/2 tasse de sauce chili</p>
+<p>1/2 tasse de bouillon de poulet</p>
+<p>1 cuillère à thé de basilic</p>
+<p>1/2 cuillère à thé de sel</p>
+<p>1/2 cuillère à thé de poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite=""> spaghetti </ingredient> . pendant ce temps , <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une <operation> poêle </operation> à <operation> frire </operation> et faire <operation ingredients="poulet;ail"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> et l' <ingredient action="revenir"> ail </ingredient> . 3 minutes . <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="2;3"> légumes </ingredient> et <operation> cuire </operation> jusqu' à ce que les <ingredient action="cuire" quantite="2;3"> légumes </ingredient> et le <ingredient action="cuire"> poulet </ingredient> soient <operation ingredients="légumes;poulet"> cuits </operation> et tendre ( même moins , si l' on préfère les <ingredient quantite="2;3"> légumes </ingredient> plus crousillants ) . <operation> ajouter </operation> les autres ingrédients et brasser . faire <operation> cuire </operation> à feu doux pendant environ 8 minutes en brassant de temps en temps . <operation ingredients="spaghetti"> égoutter </operation> les <ingredient action="égoutter" quantite=""> spaghetti </ingredient> , y <operation ingredients="beurre;fromage"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> et le <ingredient action="ajouter"> fromage </ingredient> et <operation> remuer </operation> . <operation ingredients="spaghetti"> mettre </operation> la sauce sur les <ingredient action="mettre" quantite=""> spaghetti </ingredient> et servir . un <ingredient quantite=""> spaghetti </ingredient> moins plate , qui fait différent et que les enfants adorent !
+</preparation>
+</recette>

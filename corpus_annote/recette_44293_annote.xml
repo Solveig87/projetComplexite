@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44293">
+<titre>Mousse au chocolat au lait à la crème dessert</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de chocolat au lait</p>
+<p>170 g de crème dessert</p>
+<p>2 œufs</p>
+<p>3 cuillères à soupe de sucre cristallisé</p>
+<p>1 grosse cuillère à soupe de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="150 gramme"> chocolat </ingredient> avec le <ingredient action="fondre"> beurre </ingredient> . <operation ingredients="crème;sucre;oeufs"> ajouter </operation> la <ingredient action="ajouter" quantite="170 gramme"> crème </ingredient> , le <ingredient action="ajouter" quantite="3 cuillère à soupe"> sucre </ingredient> et les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> . <operation> battre </operation> les blancs en neige et les <operation> incorporer </operation> à la préparation . <operation> repartir </operation> dans des <operation> coupes </operation> et <operation> mettre </operation> au frigo 24 heures . j' utilise de la <ingredient quantite="170 gramme"> crème </ingredient> . encore meilleur <operation> prépare </operation> la veille . . . on peut <operation ingredients="chocolat;noix;cookies"> garnir </operation> les <operation> coupes </operation> de copeaux de <ingredient action="garnir" quantite="150 gramme"> chocolat </ingredient> , de <ingredient action="garnir"> noix </ingredient> de coco en <operation> poudre </operation> en <operation> poudre </operation> , de <ingredient action="garnir"> cookies </ingredient> ou de <ingredient action="émietter"> speculoos </ingredient> <operation ingredients="speculoos"> émiettés </operation> , etc.
+</preparation>
+</recette>

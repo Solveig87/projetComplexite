@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194636">
+<titre>Salade du placard au maïs et radis noir</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de thon en boîte</p>
+<p>300 g de maïs</p>
+<p>10 bâtonnets de crabe</p>
+<p>une petite salade verte</p>
+<p>la moitié d'un radis noir (ou radis rose)</p>
+<p>une boule de mozzarella</p>
+<p>vinaigre balsamique</p>
+<p>Sel, poivre</p>
+</ingredients>
+<preparation>
+dans une passoire , <operation ingredients="thon;maïs"> égouttez </operation> le <ingredient action="égoutter" quantite="200 gramme"> thon </ingredient> et le <ingredient action="égoutter" quantite="300 gramme"> maïs </ingredient> . dans un saladier , <operation ingredients="thon;maïs;crabe;mozzarella;salade;radis"> mélangez </operation> le <ingredient action="mélanger" quantite="200 gramme"> thon </ingredient> , le <ingredient action="mélanger" quantite="300 gramme"> maïs </ingredient> , les bâtonnets de <ingredient action="mélanger"> crabe </ingredient> et la <ingredient action="mélanger"> mozzarella </ingredient> <operation> coupée </operation> tout deux en morceaux , la <ingredient action="mélanger" quantite="1"> salade </ingredient> verte <operation> coupée </operation> finement et le <ingredient action="mélanger"> radis </ingredient> noir <operation> coupé </operation> en petit morceaux . <operation> salez </operation> et <operation> poivrez </operation> . enfin <operation ingredients="vinaigre"> assaisonnez </operation> de <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> balsamique . bon appétit ! les bâtonnets de <ingredient> crabe </ingredient> peuvent être remplacés par des <ingredient> lardons </ingredient> ou du <ingredient> jambon </ingredient> c' est également très bon !
+</preparation>
+</recette>

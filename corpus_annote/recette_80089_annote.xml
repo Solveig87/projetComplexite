@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80089">
+<titre>Tomates provençales</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 belles tomates ou 2 grosses boîtes de tomates pelées</p>
+<p>500 g de chair à saucisses</p>
+<p>5 gousses d'ail </p>
+<p>sel, poivre</p>
+<p>persil</p>
+<p>pain dur ou chapelure</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="8"> tomates </ingredient> et les <operation> couper </operation> en morceaux . faire <operation ingredients="chair;ail"> revenir </operation> la <ingredient action="revenir" quantite="500 gramme"> chair </ingredient> à saucisses et l' <ingredient action="revenir"> ail </ingredient> . <operation ingredients="tomates"> incorporer </operation> les <ingredient action="incorporer" quantite="8"> tomates </ingredient> ; <operation> saler </operation> , <operation> poivrer </operation> et <operation> persiller </operation> . laisser <operation> mijoter </operation> à feu doux pendant 1 h. en fin de cuisson , <operation ingredients="pain;chapelure"> ajouter </operation> le <ingredient action="ajouter" quantite=""> pain </ingredient> dur émietté ou la <ingredient action="ajouter"> chapelure </ingredient> . laisser <operation> mijoter </operation> encore quelques minutes ( le temps que le <ingredient action="imbibe" quantite=""> pain </ingredient> s' <operation ingredients="pain;jus"> imbibe </operation> du <ingredient action="imbibe"> jus </ingredient> de tomates ) . servir , c' est délicieux ! bon appétit à tous ! vous pouvez <operation ingredients="riz"> accompagner </operation> ce plat de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

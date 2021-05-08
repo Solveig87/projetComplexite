@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73198">
+<titre>Bricks aux légumes faciles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tomate</p>
+<p>1 pot de yaourt nature</p>
+<p>1 gousse d'ail écrasée</p>
+<p>1 courgette</p>
+<p>4 feuilles de brick</p>
+<p>1/2 jus de citron</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+1 ) <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en 4 rondelles . 2 ) <operation ingredients="yaourt"> assaisonner </operation> le <ingredient action="assaisonner" quantite="1 pot"> yaourt </ingredient> et <operation ingredients="gousse"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail <operation> écrasée </operation> . 3 ) <operation> râper </operation> la courgette . 4 ) <operation ingredients="tomate;brick"> placer </operation> une rondelle de <ingredient action="placer" quantite="1"> tomate </ingredient> au centre de la feuille de <ingredient action="placer" quantite="4 feuille"> brick </ingredient> . <operation> poser </operation> par dessus une cuillère à soupe de yaourt . <operation> répartir </operation> la courgette par dessus , <operation> assaisonner </operation> ( selon votre goût ) . 5 ) ramener les bords de la feuille de <ingredient quantite="4 feuille"> brick </ingredient> vers le centre pour <operation> former </operation> des rectangles , <operation ingredients="bricks"> tourner </operation> vos <ingredient action="tourner" quantite="4 feuille"> bricks </ingredient> sur une feuille de papier cuisson et <operation> enfournez </operation> à 220 <operation> ° </operation> , thermostat . 8 , pendant 15 min . 6 ) servir =)
+</preparation>
+</recette>

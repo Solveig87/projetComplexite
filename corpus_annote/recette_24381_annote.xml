@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24381">
+<titre>Kebabs de poulet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 blancs de poulet</p>
+<p>1 cuillère à soupe de jus de citron vert</p>
+<p>1 jaune d'oeuf</p>
+<p>quelques brins de coriandre</p>
+<p>2 cuillères à café de Massalé</p>
+<p>sel, poivre</p>
+<p>huile</p>
+<p>Pour la sauce :</p>
+<p>2 yaourts nature veloutés</p>
+<p>10 feuilles de menthe</p>
+<p>1 cuillère à café de jus de citron vert</p>
+<p>1/2 cuillère à café de massalé</p>
+</ingredients>
+<preparation>
+sauce : <operation ingredients="yaourts;menthe"> mélangez </operation> les <ingredient action="mélanger" quantite="2"> yaourts </ingredient> veloutés , les feuilles de <ingredient action="mélanger" quantite="10 feuille"> menthe </ingredient> <operation> ciselées </operation> , le <ingredient action="saler" quantite="1 cuillère à soupe+1 cuillère à café"> jus </ingredient> de citron vert , <operation ingredients="jus"> salez </operation> et <operation> poivrez </operation> . <operation> hachez </operation> les blancs de <ingredient> poulet </ingredient> . <operation ingredients="oeufs;massalé"> ajoutez </operation> les jaunes d' <ingredient action="ajouter"> oeufs </ingredient> , les feuilles de <ingredient action="ciseler"> coriandre </ingredient> <operation ingredients="coriandre"> ciselées </operation> , 1 cuillère à soupe de jus de citron vert et le <ingredient action="ajouter" quantite="2 cuillère à café"> massalé </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . <operation> mélangez </operation> . <operation> formez </operation> avec cette préparation 4 " boudins " . <operation> placez </operation> ces kebabs dans un plat à four légèrement <operation> huilé </operation> . <operation> mettez </operation> au four th 6 ( 180 <operation> ° </operation> c ) pendant 10 mn , en <operation> retournant </operation> à mi-cuisson . servez avec la sauce et des <ingredient> pommes </ingredient> de terre au four , du <ingredient> riz </ingredient> ou des <ingredient> concombres </ingredient> <operation> coupés </operation> en dés <operation> assaisonnés </operation> avec la même sauce . le <ingredient action="mélange" quantite="2 cuillère à café"> massalé </ingredient> est un <operation ingredients="massalé;épices;moutarde"> mélange </operation> d' <ingredient action="mélange" quantite="2 cuillère à café;;;;10 feuille"> épices </ingredient> ( coriandre , cumin , clous de girofle , <ingredient action="mélange"> moutarde </ingredient> ) . vous pouvez le remplacer par du <ingredient> curry </ingredient> en <operation> poudre </operation> si vous préférez . pour la sauce , il est possible d' utiliser de la <ingredient quantite="10 feuille"> menthe </ingredient> séchée si vous la <operation> préparez </operation> suffisament à l' avance ( pour que la <ingredient action="réhydrate" quantite="10 feuille"> menthe </ingredient> se <operation ingredients="menthe"> réhydrate </operation> et donne du goût ) .
+</preparation>
+</recette>

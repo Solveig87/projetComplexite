@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33792">
+<titre>La mique</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine</p>
+<p>4 œufs</p>
+<p>16 g de levure de boulanger</p>
+<p>2 cuillères à soupe de lait</p>
+<p>1 grosse cuillère à soupe de graisse de canard</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="levure;lait"> dissoudre </operation> la <ingredient action="dissoudre" quantite="16 gramme"> levure </ingredient> dans le <ingredient action="dissoudre" quantite="2 cuillère à soupe"> lait </ingredient> . <operation ingredients="farine"> verser </operation> la <ingredient action="verser" quantite="500 gramme"> farine </ingredient> dans une jatte , casser les <ingredient quantite="4"> œufs </ingredient> au centre . <operation ingredients="graisse;levure;sel"> ajouter </operation> la <ingredient action="ajouter"> graisse </ingredient> de canard , la <ingredient action="ajouter" quantite="16 gramme"> levure </ingredient> <operation> délayée </operation> , et le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> . <operation ingredients="pâte"> pétrir </operation> la <ingredient action="pétrir"> pâte </ingredient> longuement afin d' obtenir une <ingredient> pâte </ingredient> souple et homogène . la <operation> mettre </operation> en boule . <operation ingredients="farine"> poudrer </operation> de <ingredient action="poudrer" quantite="500 gramme"> farine </ingredient> la pâte , la <operation> placer </operation> dans une jatte et la <operation> couvrir </operation> . faire lever la <ingredient> pâte </ingredient> au chaud pendant 2 heure au minimum ( elle doit doubler de volume ) . faire <operation ingredients="bouillon;salé"> cuire </operation> à feu doux la mique dans le <ingredient action="cuire"> bouillon </ingredient> du petit <ingredient action="cuire"> salé </ingredient> pendant 1 heure ( la <operation> retourner </operation> à mi cuisson ) . servir dans un plat chaud avec le petit <ingredient> salé </ingredient> et les <ingredient> légumes </ingredient> . pour <operation> découper </operation> la mique , utiliser 2 fourchettes . c' est un plat consistant , économique . pour les restes de mique faire <operation ingredients="salade;oeuf"> dorer </operation> les tranches dans la <operation> poêle </operation> et servir avec la <ingredient> soupe </ingredient> , ou avec une bonne <ingredient action="dorer"> salade </ingredient> , ou également avec un <ingredient action="dorer"> oeuf </ingredient> à cheval . enfin , il ne vous reste plus qu' à vous régaler . un <ingredient> vin </ingredient> du sud ouest
+</preparation>
+</recette>

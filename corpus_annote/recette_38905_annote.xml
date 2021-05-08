@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38905">
+<titre>Moules à la tomate et chair à saucisses</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 ou 4 litres de moules</p>
+<p>700 g de chair à saucisses</p>
+<p>1 grosse boîte de tomates concassées</p>
+<p>3 ou 4 gousses d'ail</p>
+<p>10 cl de vin blanc</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faire <operation ingredients="chair"> cuire </operation> la <ingredient action="cuire" quantite="700 gramme"> chair </ingredient> à saucisse . une fois cuite , <operation ingredients="tomates"> verser </operation> la boîte de <ingredient action="verser"> tomates </ingredient> , <operation> mélanger </operation> , puis <operation ingredients="gousses"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> gousses </ingredient> d' ail <operation> émincées </operation> . <operation> saler </operation> et <operation> poivrer </operation> à votre convenance . dans le même temps , après avoir <operation> nettoyer </operation> les <operation> moules </operation> , les faire <operation ingredients="vin"> ouvrir </operation> dans une cocotte , avec les 10 cl de <ingredient action="ouvrir" quantite="10 cl"> vin </ingredient> blanc . une fois ouvertes , <operation> enlever </operation> les coquilles et les <operation> ajouter </operation> à la préparation . <operation> mélanger </operation> et déguster !
+</preparation>
+</recette>

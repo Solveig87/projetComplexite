@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71189">
+<titre>Crème jumelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 oeufs (3 jaunes et 2 entiers)</p>
+<p>1 L de lait</p>
+<p>125 g de chocolat</p>
+<p>50 g de farine</p>
+<p>5 g de beurre</p>
+<p>150 g de sucre</p>
+<p>1 cuilllère à café de vanille liquide</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="lait"> chauffer </operation> votre <ingredient action="chauffer" quantite="1 l"> lait </ingredient> . dans un plat , <operation ingredients="oeufs;oeufs"> mettre </operation> les 3 jaunes d' <ingredient action="mettre" quantite="5"> oeufs </ingredient> et les 2 <ingredient action="mettre" quantite="5"> oeufs </ingredient> entiers , la <ingredient quantite="50 gramme"> farine </ingredient> , le <ingredient quantite="150 gramme"> sucre </ingredient> et la vanille . quand le <ingredient quantite="1 l"> lait </ingredient> est chaud , le <operation> rajouter </operation> aux ingrédients et <operation> remettre </operation> à <operation> chauffer </operation> jusqu' à ce que la <ingredient> crème </ingredient> soit épaisse . a la fin , lui <operation ingredients="beurre"> rajouter </operation> le <ingredient action="rajouter" quantite="5 gramme"> beurre </ingredient> . dans une autre casserole , faire <operation ingredients="chocolat"> chauffer </operation> le <ingredient action="chauffer" quantite="125 gramme"> chocolat </ingredient> . quand la <ingredient action="cuire"> crème </ingredient> est <operation ingredients="crème"> cuite </operation> , en <operation ingredients="chocolat"> verser </operation> la moitié dans le <ingredient action="verser" quantite="125 gramme"> chocolat </ingredient> , faire couler en même temps la vanille et le <ingredient quantite="125 gramme"> chocolat </ingredient> dans un plat ( cela ne se <operation> mélange </operation> pas ) et <operation> mettre </operation> au frigo .
+</preparation>
+</recette>

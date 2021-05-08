@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54321">
+<titre>Biche sauce aigre-douce</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pavés de biche</p>
+<p>30 g de beurre</p>
+<p>1 oignon rouge</p>
+<p>1 tronçon de 5 cm de gingembre frais</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de cannelle en poudre</p>
+<p>25 cl de vin rouge</p>
+<p>2 cuillères à soupe de gelée de groseilles</p>
+<p>1 cuillères à soupe de miel</p>
+<p>75 g de griottes (surgelées ou en conserve)</p>
+</ingredients>
+<preparation>
+la sauce : dans une petite casserole , faire <operation ingredients="oignon;beurre;sucre"> fondre </operation> doucement l' <ingredient action="fondre" quantite="1"> oignon </ingredient> et le <ingredient action="émincer"> gingembre </ingredient> <operation ingredients="gingembre"> émincés </operation> dans le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> avec le <ingredient action="fondre" quantite="1 cuillère à soupe"> sucre </ingredient> . <operation ingredients="sel;cannelle"> ajouter </operation> le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> et la <ingredient action="ajouter" quantite="1 pincée"> cannelle </ingredient> avant de <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="25 cl"> vin </ingredient> . <operation ingredients="gelée;miel"> incorporer </operation> la <ingredient action="incorporer" quantite="2 cuillère à soupe"> gelée </ingredient> de groseilles et le <ingredient action="incorporer" quantite="1 cuillère à soupe"> miel </ingredient> puis les griottes . laisser <operation> réduire </operation> de moitié sur feu doux . la sauce doit être onctueuse . <operation> réserver </operation> . la <ingredient action="cuire"> viande </ingredient> : <operation ingredients="viande;pavés"> cuire </operation> comme des <ingredient action="cuire" quantite="4"> pavés </ingredient> de boeuf , selon le goût de chaque convive . <operation ingredients="viande"> dresser </operation> la <ingredient action="dresser"> viande </ingredient> <operation> accompagnée </operation> de la sauce , sur des assiettes chaudes . délicieux avec des ballotins de <ingredient> haricots </ingredient> verts et des <ingredient> pommes </ingredient> dûchesse . un <ingredient quantite="25 cl"> vin </ingredient> rouge qui a du corps !
+</preparation>
+</recette>

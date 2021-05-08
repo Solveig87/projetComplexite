@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168003">
+<titre>Glace à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>750g ananas</p>
+<p>120g sucre</p>
+<p>15cl eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre"> faire </operation> <operation> bouillir </operation> eau et le <ingredient action="faire" quantite="120 gramme"> sucre </ingredient> . <operation ingredients="ananas"> mixer </operation> l' <ingredient action="mixer" quantite="750 gramme"> ananas </ingredient> puis <operation ingredients="sirop"> versez </operation> le <ingredient action="verser"> sirop </ingredient> bien <operation> melanger </operation> puis <operation> passer </operation> en sorbetiere . laisser prendre au moins 2 heures .
+</preparation>
+</recette>

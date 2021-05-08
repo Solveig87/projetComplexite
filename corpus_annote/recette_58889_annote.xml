@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58889">
+<titre>Côtes de porc au chablis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 côtes de porcs</p>
+<p>1 cuillère à café de vinaigre de Madère</p>
+<p>50 cl de chablis</p>
+<p>1 cuillère à café de sucre</p>
+<p>sel et poivre du moulin</p>
+<p>25 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="côtes"> revenir </operation> les 4 <ingredient action="revenir" quantite="4"> côtes </ingredient> dans une <operation> poêle </operation> . bien les <operation> dorer </operation> de chaque côté . <operation ingredients="côtes"> retirer </operation> les <ingredient action="retirer" quantite="4"> côtes </ingredient> et les <operation ingredients="vinaigre"> déglacer </operation> avec le <ingredient action="déglacer" quantite="1 cuillère à café"> vinaigre </ingredient> . <operation ingredients="vin"> mettre </operation> le <ingredient action="mettre"> vin </ingredient> de chablis , <operation> porter </operation> à <operation> ébullition </operation> . <operation ingredients="côtes"> remettre </operation> les <ingredient action="remettre" quantite="4"> côtes </ingredient> , <operation> couvrir </operation> , et laisser <operation> cuire </operation> à feu doux pendant 10 minutes . <operation ingredients="sucre;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> sucre </ingredient> ( <operation> goûter </operation> la sauce ) , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> . vous pouvez <operation ingredients="farine"> ajouter </operation> de la <ingredient action="ajouter"> farine </ingredient> pour <operation> épaissir </operation> la sauce . ce plat s' <operation ingredients="haricots;pommes"> accompagne </operation> avec <ingredient action="accompagne"> haricots </ingredient> verts , <ingredient action="accompagne"> pommes </ingredient> de terre <operation> sautées </operation> . bourgogne rouge
+</preparation>
+</recette>

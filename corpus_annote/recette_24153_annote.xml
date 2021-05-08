@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24153">
+<titre>Tomates à l'ail et au persil</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates</p>
+<p>6 gousses d'ail</p>
+<p>3 cuillères à soupe de chapelure</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>75 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail"> hacher </operation> l' <ingredient action="hacher"> ail </ingredient> puis le <operation ingredients="beurre;persil;chapelure"> malaxer </operation> avec 50 g de <ingredient action="malaxer" quantite="75 gramme"> beurre </ingredient> mou , le <ingredient action="malaxer" quantite="3 cuillère à soupe"> persil </ingredient> et la <ingredient action="malaxer" quantite="3 cuillère à soupe"> chapelure </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en 2 et <operation> répartir </operation> le <operation> mélange </operation> sur chacune d' entre elles . <operation ingredients="tomates;beurre"> déposer </operation> les <ingredient action="déposer" quantite="6"> tomates </ingredient> côté peau dans une grande <operation> poêle </operation> avec le <ingredient action="déposer" quantite="75 gramme"> beurre </ingredient> restant et faire <operation> chauffer </operation> à feu doux , à <operation> couvert </operation> , pendant 30 minutes
+</preparation>
+</recette>

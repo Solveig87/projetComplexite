@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37362">
+<titre>Avocat et mangue en farandole</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 avocats</p>
+<p>1 citron</p>
+<p>2 mangues</p>
+<p>1 pincée de noix de muscade en poudre</p>
+<p>10 pics apéritifs</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> couper </operation> les <ingredient action="couper" quantite="4"> avocats </ingredient> en deux , les <operation> dénoyauter </operation> , puis les <operation> éplucher </operation> . <operation ingredients="chair"> couper </operation> la <ingredient action="couper"> chair </ingredient> de façon à obtenir des morceaux de taille moyenne . <operation ingredients="citron"> pressez </operation> 1 / 2 <ingredient action="presser" quantite="1"> citron </ingredient> et <operation ingredients="jus;avocats"> versez </operation> le <ingredient action="verser"> jus </ingredient> sur les <ingredient action="verser" quantite="4"> avocats </ingredient> . procéder de la même manière avec les <ingredient quantite="2"> mangues </ingredient> . sur chaque pic , alterner un morceau d' <ingredient quantite="4"> avocat </ingredient> , un morceau de <ingredient quantite="2"> mangue </ingredient> et ainsi de suite ( environ 4 morceaux par pic ) <operation ingredients="noix"> saupoudrer </operation> légerement la <ingredient action="saupoudrer" quantite="1 pincée"> noix </ingredient> de muscade sur les petites brochettes obtenues . c' est prêt ! vous pouvez <operation ingredients="avocat;mangue"> couper </operation> différemment les morceaux d' <ingredient action="couper" quantite="4"> avocat </ingredient> et de <ingredient action="couper" quantite="2"> mangue </ingredient> pour varier la présentation .
+</preparation>
+</recette>

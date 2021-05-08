@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14431">
+<titre>Salade oeufs et pruneaux</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs durs</p>
+<p>2 tranches de jambon</p>
+<p>1 boîte de mais</p>
+<p>8 pruneaux d'agen</p>
+<p>4 feuilles de salade verte (batavia)</p>
+<p>mayonnaise</p>
+</ingredients>
+<preparation>
+<operation> rincer </operation> le mais et <operation ingredients="oeufs"> éplucher </operation> les <ingredient action="éplucher" quantite="4"> oeufs </ingredient> durs . <operation ingredients="jambon;pruneaux"> tailler </operation> le <ingredient action="tailler" quantite="2 tranche"> jambon </ingredient> et les <ingredient action="tailler" quantite="8"> pruneaux </ingredient> en lamelles . <operation ingredients="oeufs"> couper </operation> les <ingredient action="couper" quantite="4"> oeufs </ingredient> en 4 . <operation ingredients="salade"> disposer </operation> dans une feuille de <ingredient action="disposer" quantite="4 feuille"> salade </ingredient> le maïs <operation ingredients="mayonnaise;pruneaux"> assaisonné </operation> avec la <ingredient action="assaisonner" quantite=""> mayonnaise </ingredient> et les <ingredient action="assaisonner" quantite="8"> pruneaux </ingredient> . <operation ingredients="jambon;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="2 tranche"> jambon </ingredient> en lamelles et les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> . a consommer frais . blanc sec bien frais ( <ingredient> côtes </ingredient> de duras )
+</preparation>
+</recette>

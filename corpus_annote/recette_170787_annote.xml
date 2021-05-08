@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170787">
+<titre>Smoothie pêches et abricots</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pêches</p>
+<p>7 abricots</p>
+<p>une demi orange </p>
+<p>une feuille de menthe</p>
+<p>quelques gouttes de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="pêches"> éplucher </operation> les <ingredient action="éplucher" quantite="2"> pêches </ingredient> et les <operation> couper </operation> en morceaux . <operation ingredients="abricots"> laver </operation> les <ingredient action="laver" quantite="7"> abricots </ingredient> et <operation> retirer </operation> les noyaux . <operation ingredients="orange"> presser </operation> la demi <ingredient action="presser" quantite="1mi"> orange </ingredient> . <operation ingredients="menthe"> ciseler </operation> la feuille de <ingredient action="ciseler" quantite="1 feuille"> menthe </ingredient> . <operation> mettre </operation> le tout dans le <operation> mixer </operation> . <operation ingredients="citron"> ajouter </operation> les gouttes de <ingredient action="ajouter"> citron </ingredient> . <operation> mixer </operation> le tout et le laisser au réfrigérateur pendant une heure . consommer bien frais . pas de <ingredient> sucre </ingredient> donc le smoothie est très peu calorique .
+</preparation>
+</recette>

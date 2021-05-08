@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85752">
+<titre>Rillettes de truite</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de truite- 1 oignon- 1 cuillère à soupe de moutarde à la provençale- 50 g de beurre- sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="truite"> cuire </operation> la <ingredient action="cuire"> truite </ingredient> à la vapeur . <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer"> oignon </ingredient> et le faire <operation ingredients="beurre"> revenir </operation> dans le <ingredient action="revenir"> beurre </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="moutarde"> ajouter </operation> la <ingredient action="ajouter"> moutarde </ingredient> . <operation ingredients="chair;truite;oignon"> mettre </operation> ensuite la <ingredient action="mettre"> chair </ingredient> de la <ingredient action="mettre"> truite </ingredient> <operation> cuite </operation> dans un <operation> mixer </operation> avec l' <ingredient action="mettre"> oignon </ingredient> . <operation> mixer </operation> et <operation> mettre </operation> à refroidir au moins 2 h avant de servir .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25578">
+<titre>Pâte à frire salée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de farine</p>
+<p>4 jaunes d'oeufs</p>
+<p>2 blancs d'oeufs</p>
+<p>20 cl de bière</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 pincée de sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> mélanger </operation> tous les ingrédients ( sauf les blancs d' <ingredient action="mélanger"> oeufs </ingredient> ) dans un saladier . <operation ingredients="bière"> délayer </operation> peu à peu avec la <ingredient action="délayer" quantite="20 cl"> bière </ingredient> et / ou un peu d' eau tiède de manière à obtenir une <ingredient> pâte </ingredient> fluide . <operation> couvrir </operation> d' un linge et laisser <operation> reposer </operation> 2 h. <operation ingredients="oeufs"> incorporer </operation> les deux blancs d' <ingredient action="incorporer"> oeufs </ingredient> <operation> battus </operation> en neige très ferme . utiliser la <ingredient> pâte </ingredient> à <operation> frire </operation> tout de suite après avoir <operation> incorporer </operation> les blancs en neige . <operation> tremper </operation> les aliments à <operation> frire </operation> et <operation ingredients="huile"> plonger </operation> dans l' <ingredient action="plonger" quantite="4 cuillère à soupe"> huile </ingredient> à 180 <operation> ° </operation> c ( thermostat 6 ) . la version <operation> sucrée </operation> se <operation ingredients="poivre;sucre;rhum"> fait </operation> sans le <ingredient action="faire" quantite=""> poivre </ingredient> mais avec du <ingredient action="faire"> sucre </ingredient> et un parfum ( <ingredient action="faire"> rhum </ingredient> , fleur d' oranger , kirsch ) .
+</preparation>
+</recette>

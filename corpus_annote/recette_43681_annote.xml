@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43681">
+<titre>Cake chocolat / orangettes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>70 g chocolat à cuire 70% minimum</p>
+<p>70 g beurre</p>
+<p>70 g sucre de canne en poudre</p>
+<p>3 œufs </p>
+<p>1/2 verre de lait</p>
+<p>1/2 sachet de levure chimique</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>2 cuillères à soupe de poudre d’amandes</p>
+<p>150 g de farine </p>
+<p>1 pincée de sel fin</p>
+<p>1 moule a cake en silicone</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le choco et le <ingredient action="fondre"> beurre </ingredient> , puis <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="70 gramme"> sucre </ingredient> . <operation> mélanger </operation> 3 min , <operation ingredients="œufs;lait"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> œufs </ingredient> et le <ingredient action="ajouter"> lait </ingredient> . <operation ingredients="sel;farine;cannelle;amandes;levure"> mélanger </operation> ensemble le <ingredient action="mélanger" quantite="1 pincée"> sel </ingredient> , la <ingredient action="mélanger" quantite="150 gramme"> farine </ingredient> , la <ingredient action="mélanger" quantite="1 cuillère à café"> cannelle </ingredient> , la <operation> poudre </operation> d’ <ingredient action="mélanger"> amandes </ingredient> , et la <ingredient action="mélanger"> levure </ingredient> . puis <operation> incorporer </operation> progressivement ce <operation> mélange </operation> dans l’ appareil précédent , pendant 5 min . <operation ingredients="pâte"> verser </operation> dans le <operation> moule </operation> , et allonger les orangettes ( <operation ingredients="farine"> roulées </operation> dans la <ingredient action="rouler" quantite="150 gramme"> farine </ingredient> ) , au fur et à <operation> mesure </operation> dans la <ingredient action="verser"> pâte </ingredient> . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) , pendant 30 min maxi .
+</preparation>
+</recette>

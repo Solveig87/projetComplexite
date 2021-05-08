@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15469">
+<titre>Risotto au curry de poisson</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de colin pané</p>
+<p>500 g de riz</p>
+<p>3 boites de tomates concassée</p>
+<p>un petit verre de jus de citron</p>
+<p>une bonne dose de curry</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="colins"> cuire </operation> les filets de <ingredient action="cuire" quantite="500 gramme"> colins </ingredient> . pendant ce temps là <operation ingredients="riz"> mettez </operation> le <ingredient action="mettre" quantite="500 gramme"> riz </ingredient> à <operation> cuire </operation> . quand les <ingredient action="cuire" quantite="500 gramme"> colins </ingredient> sont <operation ingredients="colins"> cuits </operation> , broyez - les puis <operation ingredients="citron;tomates"> versez </operation> le <ingredient action="verser"> citron </ingredient> et les boites de <ingredient action="verser"> tomates </ingredient> <operation> concassées </operation> . <operation ingredients="curry;sel"> versez </operation> ensuite le <ingredient action="verser"> curry </ingredient> dans la sauce et un peu de <ingredient action="verser"> sel </ingredient> . laissez <operation ingredients="riz"> cuire </operation> le temps que le <ingredient action="cuire" quantite="500 gramme"> riz </ingredient> soit pret . c' est un plat pour étudiants fauchés . )
+</preparation>
+</recette>

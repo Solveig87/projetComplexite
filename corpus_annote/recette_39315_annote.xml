@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39315">
+<titre>Mon clafoutis du jardin</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de cerises rouges du jardin ... </p>
+<p>4 oeufs + 3 jaunes</p>
+<p>40 cl de crème fraîche entière liquide</p>
+<p>80 g de farine</p>
+<p>100 g de sucre blanc</p>
+<p>50 g de sucre roux</p>
+<p>2 pincées de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> mélanger </operation> les <ingredient action="mélanger"> oeufs </ingredient> et les jaunes avec le <ingredient action="mélanger" quantite="100 gramme+50 gramme"> sucre </ingredient> blanc . <operation ingredients="crème"> délayer </operation> avec la moitié de la <ingredient action="délayer" quantite="40 cl"> crème </ingredient> liquide , et <operation ingredients="pâte"> travailler </operation> la <ingredient action="travailler"> pâte </ingredient> . <operation ingredients="farine;sel;crème"> ajouter </operation> la <ingredient action="ajouter" quantite="80 gramme"> farine </ingredient> , les 2 pincées de <ingredient action="ajouter" quantite="2 pincée"> sel </ingredient> et le reste de <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> liquide . <operation> verser </operation> dans un <operation> moule </operation> creux à clafoutis . <operation ingredients="cerises"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> cerises </ingredient> avec les noyaux , sinon les <ingredient quantite="800 gramme"> cerises </ingredient> se gorgent de <ingredient> pâte </ingredient> , et on perd le goût si sucré des <ingredient quantite="800 gramme"> cerises </ingredient> . <operation ingredients="sucre"> soupoudrer </operation> de <ingredient action="soupoudrer" quantite="100 gramme+50 gramme"> sucre </ingredient> roux , cela fera un peu caraméliser le <ingredient> clafoutis </ingredient> . <operation> cuire </operation> 45 minutes à 210 <operation> ° </operation> c ( thermostat 7 ) . attention , il ne faut pas que la <ingredient action="cuire"> pâte </ingredient> <operation ingredients="pâte"> cuise </operation> trop , sinon cela devient un " flan " ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

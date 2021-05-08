@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26666">
+<titre>Croques-omelette aux champignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de champignons</p>
+<p>2 tomates</p>
+<p>3 oeufs</p>
+<p>50 g de gruyère râpé</p>
+<p>4 tranches de pain de mie</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> nettoyer </operation> , <operation ingredients="pied"> ôter </operation> le <ingredient action="ôter"> pied </ingredient> des champignons puis les <operation> émincer </operation> très finement . <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="2"> tomates </ingredient> , les <operation> épépiner </operation> , puis les <operation> détailler </operation> en fines tranches . faire <operation ingredients="champignons;sel;poivre"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> dans une <operation> poêle </operation> légèrement <operation> beurrée </operation> pendant 10 à 15 min . pendant ce temps , <operation ingredients="oeufs;gruyère"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> dans un saladier avec le <ingredient action="battre" quantite="50 gramme"> gruyère </ingredient> râpé , le <ingredient action="revenir" quantite=""> sel </ingredient> et le <ingredient action="revenir"> poivre </ingredient> . <operation ingredients="oeufs"> verser </operation> les <ingredient action="verser" quantite="3"> oeufs </ingredient> <operation ingredients="champignons"> battus </operation> dans la <operation> poêle </operation> sur les <ingredient action="battre" quantite="200 gramme"> champignons </ingredient> et laisser <operation> cuire </operation> comme pour une omelette épaisse . oter les croûtes des tranches de <ingredient quantite="4 tranche"> pain </ingredient> de mie et les <operation ingredients="pain"> faire </operation> <operation> griller </operation> au four ou au <operation> grille </operation> - <ingredient action="faire" quantite="4 tranche"> pain </ingredient> . y <operation ingredients="carrés;champignons"> déposer </operation> des <ingredient action="déposer"> carrés </ingredient> d’ omelette aux <ingredient action="déposer" quantite="200 gramme"> champignons </ingredient> , puis <operation ingredients="pain"> recouvrir </operation> d’ une autre tranche de <ingredient action="recouvrir" quantite="4 tranche"> pain </ingredient> de mie <operation> grillé </operation> .
+</preparation>
+</recette>

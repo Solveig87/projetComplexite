@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29462">
+<titre>Gratin de polenta aux tomates</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de polenta</p>
+<p>200 g de gruyère</p>
+<p>200 g de lardons</p>
+<p>1 bouquet de basilic</p>
+<p>4 tomates</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> la polenta . une fois cuite et encore chaude , y <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> ainsi que des feuilles de <ingredient> basilic </ingredient> <operation> ciselées </operation> , puis bien <operation> mélanger </operation> . faire <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer" quantite="200 gramme"> lardons </ingredient> à la <operation> poêle </operation> et les <operation> ajouter </operation> au <operation> mélange </operation> . <operation ingredients="sel;poivre"> assaisoner </operation> de <ingredient action="assaisoner" quantite=""> sel </ingredient> et de <ingredient action="assaisoner"> poivre </ingredient> selon votre goût et <operation> verser </operation> le <operation> mélange </operation> dans un plat à gratin . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en tranches et les <operation> disposer </operation> sur la polenta . <operation ingredients="tomates"> assaisonner </operation> les <ingredient action="assaisonner" quantite="4"> tomates </ingredient> . <operation> gratiner </operation> au four préchauffé à 220 <operation> ° </operation> c environ 30 minutes . <operation ingredients="basilic"> parsemer </operation> de <ingredient action="parsemer"> basilic </ingredient> et servie chaud .
+</preparation>
+</recette>

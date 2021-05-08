@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="4199">
+<titre>Apéro marin</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 Carrés Frais Gervais grand format</p>
+<p>1 yaourt "Perle de lait" (ou 1/2 yaourt à la grec)</p>
+<p>1 boîte de sardines aux piments (très important!)</p>
+<p>2 tranches de saumon fumé</p>
+<p>aneth</p>
+<p>1 jus de citron</p>
+<p>du bon pain</p>
+</ingredients>
+<preparation>
+<operation ingredients="sardines"> ouvrir </operation> la boîte de <ingredient action="ouvrir"> sardines </ingredient> . <operation> enlever </operation> l' arrête centrale des <ingredient> sardines </ingredient> . <operation> enlever </operation> les piments , et conserver l' <ingredient> huile </ingredient> de la boîte . <operation ingredients="sardines"> ecraser </operation> les <ingredient action="ecraser"> sardines </ingredient> , et les <operation ingredients="carrés"> ajouter </operation> aux <ingredient action="ajouter"> carrés </ingredient> frais <operation> écrasé </operation> . selon les goûts et selon la boîte ( certaines boîtes sont très pimentées , et d' autres moins ) , <operation ingredients="huile"> ajouter </operation> l' <ingredient action="ajouter"> huile </ingredient> contenue dans la boîte . bien <operation> mélanger </operation> . <operation ingredients="saumon;aneth"> hacher </operation> le <ingredient action="hacher"> saumon </ingredient> et l' <ingredient action="hacher" quantite=""> aneth </ingredient> , et les <operation ingredients="carrés"> mélanger </operation> aux <ingredient action="mélanger"> carrés </ingredient> frais <operation> écrasés </operation> . <operation ingredients="jus;yaourt"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> jus </ingredient> de citron et le <ingredient action="ajouter"> yaourt </ingredient> . déguster à l' <ingredient> apéritif </ingredient> , avec du bon <ingredient quantite=""> pain </ingredient> . je le sers souvent avec de la tapenade et un bon guewurstraminer !
+</preparation>
+</recette>

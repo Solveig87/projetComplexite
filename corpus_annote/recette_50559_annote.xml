@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50559">
+<titre>Gratin de légumes au fromage à raclette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 courgettes</p>
+<p>1 aubergine</p>
+<p>3 fenouils</p>
+<p>100 g de fromage à raclette</p>
+<p>2 échalotes</p>
+<p>1 cuillère à soupe d'herbes de Provence</p>
+</ingredients>
+<preparation>
+commencer par faire <operation ingredients="légumes"> revenir </operation> les <ingredient action="revenir" quantite="1;3;2"> légumes </ingredient> séparément . <operation ingredients="échalotes"> emincer </operation> les <ingredient action="emincer" quantite="2"> échalotes </ingredient> , puis les faire <operation> revenir </operation> avec les herbes de provence . <operation> ajouter </operation> ensuite les courgettes préalablement <operation> découpées </operation> en rondelles . une fois les courgettes <operation> cuites </operation> , les étaler au fond d' un plat à gratin ; <operation> saler </operation> et <operation> poivrer </operation> , puis <operation ingredients="fromage"> ajouter </operation> une couche de <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> râpé . faire suer les <ingredient quantite="3"> fenouils </ingredient> dans de l' <ingredient> huile </ingredient> d' olive , puis <operation ingredients="bouillon"> couvrir </operation> avec 15 cl de <ingredient action="couvrir"> bouillon </ingredient> de légume . quand le <ingredient> bouillon </ingredient> s' est évaporé , <operation ingredients="fenouils"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> fenouils </ingredient> sur les courgettes et <operation ingredients="fromage"> ajouter </operation> une couche de <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> . <operation ingredients="aubergine"> couper </operation> en rondelles l' <ingredient action="couper" quantite="1"> aubergine </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="huile"> badigeonner </operation> d' <ingredient action="badigeonner"> huile </ingredient> d' olive . faire <operation ingredients="aubergine"> revenir </operation> les <ingredient action="revenir" quantite="1"> aubergine </ingredient> , puis les étaler sur les <ingredient quantite="3"> fenouils </ingredient> . terminer par le restant du <ingredient quantite="100 gramme"> fromage </ingredient> <operation> râpé </operation> et <operation> placer </operation> ensuite 20 min au four , à 200 <operation> ° </operation> c ( thermostat . 7 ) .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25705">
+<titre>Fricassée de poulet pour tous les jours</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>3 tomates pelées, épépinées (ou 1 boîte de concassé de tomates)</p>
+<p>10 cl de vin blanc</p>
+<p>10 cl de crème fraîche</p>
+<p>1 oignon</p>
+<p>1/2 cuillère à café de paprika</p>
+<p>30 g de beurre</p>
+<p>farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> et <operation ingredients="poulet"> poivrez </operation> les morceaux de <ingredient action="poivrer" quantite="1"> poulet </ingredient> , <operation> farinez </operation> - les . faites - les <operation ingredients="oignon;beurre"> revenir </operation> avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> haché </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> chaud , dans une cocotte . laissez <operation> dorer </operation> le tout et <operation ingredients="paprika"> saupoudrez </operation> de <ingredient action="saupoudrer"> paprika </ingredient> . <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> blanc et <operation ingredients="tomates"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> grossièrement hachées . laissez <operation> mijoter </operation> 30 min environ . <operation ingredients="poulet"> retirez </operation> le <ingredient action="retirer" quantite="1"> poulet </ingredient> de la cocotte , <operation ingredients="crème"> délayez </operation> la <ingredient action="délayer" quantite="10 cl"> crème </ingredient> dans la sauce et <operation> réchauffez </operation> quelques minutes . <operation> nappez </operation> le <ingredient quantite="1"> poulet </ingredient> de sauce et servez avec du <ingredient> riz </ingredient> blanc tout simplement , ou des <ingredient> pommes </ingredient> de terre râpées <operation> grillées </operation> .
+</preparation>
+</recette>

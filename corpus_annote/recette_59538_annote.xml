@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59538">
+<titre>Tarte saumon et brocolis</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>2 bouquets de brocolis</p>
+<p>6 tranches de saumon fumé</p>
+<p>1 oignon</p>
+<p>1 pot de fromage ail et fines herbes</p>
+<p>15 cl de crème épaisse</p>
+<p>2 oeufs</p>
+<p>gruyère</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire"> brocolis </ingredient> à l' eau et <operation> réserver </operation> . préchauffer le four à 180 / 200 <operation> ° </operation> c ( thermostat . 7 ) et <operation ingredients="pâte"> précuire </operation> la <ingredient action="précuire" quantite="1"> pâte </ingredient> durant 5 à 10 minutes . faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> à la <operation> poêle </operation> puis <operation ingredients="vin"> verser </operation> le <ingredient action="verser"> vin </ingredient> blanc . <operation ingredients="brocolis"> ajouter </operation> les <ingredient action="ajouter"> brocolis </ingredient> , laisser <operation> cuire </operation> 5 minutes . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="ail"> ajouter </operation> les 3 / 4 du pot fromage <ingredient action="ajouter"> ail </ingredient> et fines herbes puis <operation> cuire </operation> encore 5 minutes . <operation ingredients="brocolis;tarte"> mettre </operation> les <ingredient action="mettre"> brocolis </ingredient> sur le fond de <ingredient action="mettre"> tarte </ingredient> , <operation ingredients="saumon"> ajouter </operation> le <ingredient action="ajouter"> saumon </ingredient> <operation> coupé </operation> en lanières par dessus . <operation ingredients="crème"> verser </operation> dessus , le <operation> mélange </operation> <ingredient action="verser" quantite="15 cl"> crème </ingredient> et oeuf . <operation ingredients="gruyère;parmesan"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> gruyère </ingredient> et de <ingredient action="recouvrir" quantite=""> parmesan </ingredient> . <operation ingredients="tarte"> cuire </operation> 15 / 20 min jusqu' à ce que la <ingredient action="cuire"> tarte </ingredient> soit bien dorée . servir en entrée ou en plat principal .
+</preparation>
+</recette>

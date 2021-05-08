@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80990">
+<titre>Filet de poulet au curry</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filet de poulet</p>
+<p>1 oignon</p>
+<p>ail au poudre</p>
+<p>4 cuillères à soupe de sauce soja</p>
+<p>4 brins de ciboulette</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 cuillère à café de curry</p>
+<p>10 cl de crème fraîche épaisse ou liquide</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> les filets de <ingredient action="couper"> poulet </ingredient> en petits morceaux , les <operation ingredients="soja;ail;huile;ciboulette;curry"> mettre </operation> dans un saladier avec la sauce <ingredient action="mettre"> soja </ingredient> , l' <ingredient action="mettre" quantite=""> ail </ingredient> , l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , la <ingredient action="mettre"> ciboulette </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à café"> curry </ingredient> . laissez <operation> reposer </operation> une heure . après , faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> avec un peu d' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , une fois légèrement caramélisé , <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre"> viande </ingredient> . quand la <ingredient> viande </ingredient> commence à <operation> cuire </operation> , <operation ingredients="crème"> mettre </operation> petit à petit la <ingredient action="mettre" quantite="10 cl"> crème </ingredient> fraîche ( épaisse ou liquide ) , <operation ingredients="curry;viande"> ajouter </operation> du <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> selon vos goûts sur la <ingredient action="ajouter"> viande </ingredient> . <operation> mélanger </operation> bien le tout , <operation> saler </operation> et <operation> poivrer </operation> . bon appétit à vous .
+</preparation>
+</recette>

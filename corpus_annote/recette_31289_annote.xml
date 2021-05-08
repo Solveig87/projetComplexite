@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31289">
+<titre>Blé du soleil</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de blé (type ebly) </p>
+<p>1 boîte de tomates pelées</p>
+<p>1 oignon</p>
+<p>1 poivron vert</p>
+<p>1 boîte moyenne de thon (facultatif) </p>
+<p>beurre</p>
+<p>curry en poudre</p>
+<p>1 pincée de sucre</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="blé"> cuire </operation> le <ingredient action="cuire" quantite="150 gramme"> blé </ingredient> dans un grand volume d' eau environ 20 mn . pendant ce temps , dans une <operation> poêle </operation> , faire <operation ingredients="oignon;beurre"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un peu de <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="poivron"> mettre </operation> le <ingredient action="mettre"> poivron </ingredient> <operation> coupé </operation> en morceaux . si vous n'$etes pas végétarien , c' est là qu' il faut <operation ingredients="thon"> mettre </operation> le <ingredient action="mettre"> thon </ingredient> <operation> égoutté </operation> et émietté . aprés quelques minutes , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter"> tomates </ingredient> , la pincée de <ingredient action="couvrir" quantite="1 pincée"> sucre </ingredient> et <operation ingredients="sucre"> couvrir </operation> . la sauce doit un peu <operation> réduire </operation> . <operation> egoutter </operation> le <ingredient action="ajouter" quantite="150 gramme"> blé </ingredient> , <operation ingredients="blé;noix;curry;blé"> ajouter </operation> une <ingredient action="ajouter"> noix </ingredient> de beurre et le <ingredient action="ajouter" quantite=""> curry </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation> dresser </operation> soit tout <operation> mélangé </operation> , soit le <ingredient action="ajouter" quantite="150 gramme"> blé </ingredient> et la sauce à part .
+</preparation>
+</recette>

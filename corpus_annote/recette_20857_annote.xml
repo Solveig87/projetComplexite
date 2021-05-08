@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20857">
+<titre>Lasagnes au four</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g d'huile</p>
+<p>100 g de margarine</p>
+<p>1 petite boîte de sauce tomate</p>
+<p>1 grosse boîte de tomates pelées</p>
+<p>1 oignon</p>
+<p>150 g de gruyère râpé</p>
+<p>250 g de boeuf haché</p>
+<p>250 g de chair à saucisses</p>
+<p>1 saucisson sec</p>
+<p>4 oeufs durs</p>
+<p>3 grosses tranches de jambon</p>
+<p>1 chorizo</p>
+<p>500 g de pâtes lasagne</p>
+</ingredients>
+<preparation>
+sauce : faire <operation ingredients="oignon;huile;margarine"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite="100 gramme"> huile </ingredient> et la <ingredient action="revenir" quantite="100 gramme"> margarine </ingredient> . <operation> ajouter </operation> la boîte de sauce tomate et 4 volumes de cette boîte d' eau , <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> cuire </operation> 3 mn en <operation> remuant </operation> quelques fois . <operation ingredients="tomates"> ecraser </operation> les <ingredient action="ecraser"> tomates </ingredient> <operation> pelées </operation> puis <operation> mélanger </operation> à la sauce ainsi que le <ingredient action="cuire" quantite="250 gramme"> boeuf </ingredient> et la <ingredient action="cuire" quantite="250 gramme"> chair </ingredient> à saucisses <operation ingredients="boeuf;chair"> cuite </operation> . laisser <operation> cuire </operation> 30 mn . <operation ingredients="béchamel"> préparer </operation> une sauce <ingredient action="préparer"> béchamel </ingredient> ou utiliser une sauce prête à l' emploi . <operation ingredients="saucisson;jambon;oeufs"> couper </operation> en dés le <ingredient action="couper" quantite="1"> saucisson </ingredient> , le <ingredient action="couper"> jambon </ingredient> et les <ingredient action="couper" quantite="4"> oeufs </ingredient> . <operation ingredients="pâtes"> mettre </operation> les <operation> plaques </operation> de <ingredient action="mettre" quantite="500 gramme"> pâtes </ingredient> dans l' eau bouillante durant 10 mn en s' assurant qu' elles ne <operation> collent </operation> pas . préparation du plat : <operation ingredients="pâtes;béchamel;gruyère;pâtes;gruyère"> mettre </operation> un peu de sauce tomate dans le fond du plat + une couche de <ingredient action="mettre" quantite="500 gramme"> pâtes </ingredient> + un peu de sauce <ingredient action="mettre"> béchamel </ingredient> + saucisson , oeufs , jambon , chorizo , sauce tomate , <ingredient action="mettre" quantite="150 gramme"> gruyère </ingredient> + couche de <ingredient action="mettre" quantite="500 gramme"> pâtes </ingredient> + béchamel + saucisson , oeufs , jambon , chorizo , sauce tomate , <ingredient action="mettre" quantite="150 gramme"> gruyère </ingredient> . terminer par une couche de <ingredient quantite="500 gramme"> pâtes </ingredient> <operation ingredients="béchamel"> recouverte </operation> de <ingredient action="recouvrir"> béchamel </ingredient> , sauce tomate et <ingredient quantite="150 gramme"> gruyère </ingredient> . <operation> mettre </operation> au four th . 9 pendant 30 mn <operation> recouvert </operation> d' un alu . bon appétit !
+</preparation>
+</recette>

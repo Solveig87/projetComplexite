@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53000">
+<titre>Nouilles au safran</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 à 10 tranches de jambon cru</p>
+<p>8 à 10 tranches de jambon cuit</p>
+<p>750 g de nouilles plates </p>
+<p>35 cl de crème</p>
+<p>4 sachets de safran</p>
+<p>huile</p>
+<p>sel, poivre</p>
+<p>sbrinz râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> découper </operation> les tranches de <ingredient action="découper"> jambon </ingredient> cru et <operation ingredients="nouilles"> cuit </operation> en lanières de la largeur des <ingredient action="cuire" quantite="750 gramme"> nouilles </ingredient> . les faire <operation ingredients="huile"> revenir </operation> dans une <operation> poêle </operation> , avec un filet d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive ; le <ingredient> jambon </ingredient> doit devenir croustillant . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " . y <operation ingredients="jambon;rôti;crème;safran"> ajouter </operation> le <ingredient action="ajouter"> jambon </ingredient> <ingredient action="ajouter"> rôti </ingredient> , la <ingredient action="ajouter" quantite="35 cl"> crème </ingredient> et le <ingredient action="ajouter"> safran </ingredient> . bien <operation> mélanger </operation> , <operation> saler </operation> et <operation> poivrer </operation> . servir avec le sbrinz râpé . quantités <operation> fixées </operation> pour les bons mangeurs ! <ingredient> vin </ingredient> rouge léger
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11575">
+<titre>Matefaim (Haute Savoie)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de lard</p>
+<p>1 cuillère à soupe de farine</p>
+<p>2 dl de lait</p>
+<p>3 oeufs</p>
+<p>sel et poivre</p>
+<p>100 g de fromage (comté, gouda, gruyère)</p>
+</ingredients>
+<preparation>
+<operation ingredients="lard;lardons"> coupez </operation> le <ingredient action="couper" quantite="200 gramme"> lard </ingredient> en fin <ingredient action="couper"> lardons </ingredient> et faites - les <operation> fondres </operation> à la <operation> poêle </operation> . d' autre part , <operation ingredients="farine"> délayez </operation> la <ingredient action="délayer" quantite="1 cuillère à soupe"> farine </ingredient> avec 3 cuillères à soupe de lait , puis <operation> ajoutez </operation> le reste . <operation ingredients="oeufs;sel;poivre;fromage"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> , puis <operation> battez </operation> en omelette . <operation ingredients="lardons"> versez </operation> ce <operation> mélange </operation> sur les <ingredient action="verser"> lardons </ingredient> et faites <operation> cuire </operation> en <operation> remuant </operation> sans arrêt jusqu' à ce que les <ingredient quantite="3"> oeufs </ingredient> soient pris . servir immédiatement .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71418">
+<titre>Salade de riz niçoise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz</p>
+<p>150 g de thon nature</p>
+<p>150 g de maïs</p>
+<p>4 tomates </p>
+<p>1/2 poivron vert</p>
+<p>1/2 poivron rouge</p>
+<p>5 cuillères à soupe d'huile</p>
+<p>3 cuillères à soupe de vinaigre</p>
+<p>2 cuillères à soupe de nuoc man</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+* <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> . * <operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="4"> tomates </ingredient> en petit dés , ainsi que les <ingredient> poivrons </ingredient> . * <operation> egoutter </operation> le <ingredient quantite="150 gramme"> thon </ingredient> et le <ingredient quantite="150 gramme"> maïs </ingredient> . * une fois le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , le refroidir à l' eau froide . * dans un saladier , <operation ingredients="riz"> verser </operation> tout ces ingrédients : <ingredient action="verser" quantite="250 gramme"> riz </ingredient> , tomates , poivrons , thon , maïs . * <operation> ajouter </operation> la vinaigrette : 5 cuillères à soupe d' huile , 3 cuillères à soupe de vinaigre , 2 cuillères à soupe de nuoc man . * <operation> saler </operation> et <operation> poivrer </operation> à votre goût . <ingredient> salade </ingredient> très fraîche , rapide qui peut s' <operation> accompagner </operation> avec des grillades au barbecue .
+</preparation>
+</recette>

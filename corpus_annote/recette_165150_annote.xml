@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165150">
+<titre>Diots de savoie et son gratin de crozet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 diots de Savoie</p>
+<p>50 cl de vin blanc (a défaut on peut aussi utiliser du vin rouge)</p>
+<p>3 échalotes</p>
+<p>beurre</p>
+<p>farine</p>
+<p>Pour le gratin de Crozets :</p>
+<p>150 g de crozets nature</p>
+<p>2 cuillères à soupe de crème fraîche épaisse</p>
+<p>1 morceau de beaufort (à défaut prendre du gruyère râpé)</p>
+</ingredients>
+<preparation>
+les diots : <operation ingredients="échalotes"> peler </operation> les <ingredient action="peler" quantite="3"> échalotes </ingredient> . les <operation> couper </operation> en fines rodelles . dans une sauteuse , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> , y faire <operation> revenir </operation> les échalottes . <operation> ajouter </operation> les diots , les faire <operation> dorer </operation> . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> farine </ingredient> et <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> vin </ingredient> . laisser <operation> cuire </operation> à feu doux entre 30 et 40 nmin . la sauce doit s' <operation> épaissir </operation> . le gratin : faire <operation> cuire </operation> les crozets 20 min dans de l' eau bouillante et <operation> salée </operation> . une fois <operation> cuit </operation> , les <operation> égoutter </operation> mais pas trop . <operation ingredients="crème;fromage"> mélanger </operation> les crozets avec la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> et le <ingredient action="mélanger"> fromage </ingredient> . <operation> poivrer </operation> et faire <operation> gratiner </operation> au four .
+</preparation>
+</recette>

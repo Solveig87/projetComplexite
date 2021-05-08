@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83045">
+<titre>Boeuf Stroganoff de luxe à la crème sure</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>500 g de bœuf pour fondue bourguignonne</p>
+<p>1 citron</p>
+<p>50 cl de crème fraîche</p>
+<p>3 cuillères à soupe de moutarde forte</p>
+<p>1 cuillère à soupe de sucre en poudre</p>
+<p>6 gros oignons blancs</p>
+<p>500 g de champignons de Paris</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;crème"> mettez </operation> le <ingredient action="mettre"> jus </ingredient> du citron dans la <ingredient action="mettre" quantite="50 cl"> crème </ingredient> , <operation> réservez </operation> . <operation ingredients="moutarde;sucre"> mélangez </operation> la <ingredient action="mélanger" quantite="3 cuillère à soupe"> moutarde </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> sucre </ingredient> , <operation> réservez </operation> . <operation ingredients="viande;champignons"> découper </operation> la <ingredient action="découper"> viande </ingredient> en fines lanières , et <operation> émincez </operation> <ingredient action="découper" quantite="500 gramme"> champignons </ingredient> et oignons . faites <operation ingredients="viande"> revenir </operation> les lanières de <ingredient action="revenir"> viande </ingredient> dans un poêlon très chaud avec une cuillère à soupe d' huile , <operation ingredients="viande"> cuisez </operation> plutôt la <ingredient action="cuire"> viande </ingredient> en plusieurs fois ( n' hésitez pas à <operation ingredients="huile"> ajouter </operation> de l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> si nécessaire ) . <operation ingredients="jus"> jetez </operation> le <ingredient action="jeter"> jus </ingredient> de cuisson et <operation ingredients="viande"> réservez </operation> la <ingredient action="réserver"> viande </ingredient> . dans un même temps <operation ingredients="oignons"> faites </operation> <operation ingredients="champignons"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> champignons </ingredient> et les <ingredient action="faire" quantite="6"> oignons </ingredient> dans une même casserole . puis laissez <operation> cuire </operation> à feux doux pendant 20 minutes . <operation ingredients="jus"> jetez </operation> le <ingredient action="jeter"> jus </ingredient> de cuisson . <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter"> viande </ingredient> aux légumes , <operation> salez </operation> , <operation> poivrez </operation> et laissez à nouveau <operation> mijoter </operation> 10 minutes . <operation ingredients="crème;moutarde"> ajoutez </operation> la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> sure et la <ingredient action="ajouter" quantite="3 cuillère à soupe"> moutarde </ingredient> et réchauffez . vous pouvez servir avec du <ingredient> riz </ingredient> ou misez l' originalité et essayez avec des frites . un bon <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

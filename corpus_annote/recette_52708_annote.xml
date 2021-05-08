@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52708">
+<titre>Gâteau aux noix - glaçage vanillé</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour le gâteau :</p>
+<p>140 g de beurre</p>
+<p>140 g de sucre en poudre (blanc ou roux)</p>
+<p>150 g de noix moulues / 500 g de noix en coques</p>
+<p>70 g de farine</p>
+<p>1 sachet de levure</p>
+<p>3 blancs d'oeufs (on garde les jaunes pour le glaçage)Pour le glaçage :</p>
+<p>3 jaunes d'oeufs</p>
+<p>140 g de sucre glace</p>
+<p>1/2 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<ingredient> gâteau </ingredient> : <operation ingredients="beurre;sucre"> ramollir </operation> le <ingredient action="ramollir" quantite="140 gramme"> beurre </ingredient> avec le <ingredient action="ramollir" quantite="140 gramme+140 gramme"> sucre </ingredient> . <operation ingredients="noix;farine;levure"> mélanger </operation> les <ingredient action="mélanger"> noix </ingredient> , la <ingredient action="mélanger" quantite="70 gramme"> farine </ingredient> , et la <ingredient action="mélanger"> levure </ingredient> ; <operation> mélanger </operation> le tout . <operation> battre </operation> les blancs en neige et les <operation> ajouter </operation> au reste . <operation> enfourner </operation> à 170 <operation> ° </operation> c ( thermostat 6 ) , pendant 30 min . glaçage : <operation ingredients="oeufs;sucre;glace;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="140 gramme+140 gramme"> sucre </ingredient> <ingredient action="mélanger"> glace </ingredient> et le 1 / 2 sachet de <ingredient action="mélanger" quantite="140 gramme+140 gramme"> sucre </ingredient> vanillé , et <operation> enfourner </operation> à 150 <operation> ° </operation> c ( th 5 ) , pendant 5 min . déguster plutôt frais que chaud .
+</preparation>
+</recette>

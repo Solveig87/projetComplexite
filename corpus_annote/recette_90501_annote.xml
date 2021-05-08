@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90501">
+<titre>Tarte à la banane et au nutella</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>4 bananes bien mures + 1 un peu plus ferme</p>
+<p>5 cuillères à café de nutella </p>
+<p>2 pots de 125 g de fromage blanc stracciatella (avec copeaux de chocolat)</p>
+<p>quelques carrés de chocolat</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> déposer </operation> la <ingredient action="déposer" quantite="1"> pâte </ingredient> <operation> brisée </operation> dans un <operation> moule </operation> à tarte . <operation ingredients="nutella;pâte"> etaler </operation> le <ingredient action="etaler" quantite="5 cuillère à café"> nutella </ingredient> sur le fond de la <ingredient action="etaler" quantite="1"> pâte </ingredient> . <operation ingredients="bananes"> ecraser </operation> les 4 <ingredient action="ecraser"> bananes </ingredient> bien mures avec une fourchette et y <operation ingredients="fromage"> ajouter </operation> les 2 pots de <ingredient action="ajouter"> fromage </ingredient> blanc stracciatella . bien <operation> mélanger </operation> la préaparation et la <operation ingredients="nutella"> verser </operation> sur le <ingredient action="verser" quantite="5 cuillère à café"> nutella </ingredient> . <operation ingredients="banane"> couper </operation> la <ingredient action="couper"> banane </ingredient> un peu plus ferme en rondelles et les <operation ingredients="tarte;carrés"> disposer </operation> sur la <ingredient action="disposer"> tarte </ingredient> de manière harmonieuse avec les <ingredient action="disposer" quantite="quelque"> carrés </ingredient> de chocolat .
+</preparation>
+</recette>

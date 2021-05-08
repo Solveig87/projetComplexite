@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25192">
+<titre>Crème Floride à l'ananas</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte d'ananas en morceaux</p>
+<p>100 g de sucre semoule</p>
+<p>4 cl de Grand Marnier</p>
+<p>20 cl de fromage blanc</p>
+</ingredients>
+<preparation>
+gardez quelques morceaux d' <ingredient> ananas </ingredient> et <operation> coupez </operation> - le reste en très petits morceaux . avec un fouet électrique , <operation ingredients="fromage;sucre"> fouettez </operation> le <ingredient action="fouetter" quantite="20 cl"> fromage </ingredient> blanc et le <ingredient action="fouetter" quantite="100 gramme"> sucre </ingredient> . <operation ingredients="marnier;ananas"> ajoutez </operation> le grand <ingredient action="ajouter" quantite="4 cl"> marnier </ingredient> et les petits morceaux d' <ingredient action="ajouter"> ananas </ingredient> . <operation> versez </operation> dans des <operation> coupes </operation> à dessert et <operation ingredients="ananas"> décorez </operation> avec les petits morceaux d' <ingredient action="décorer"> ananas </ingredient> que vous avez gardé . vous pouvez aussi <operation ingredients="fruits;confits"> décorer </operation> vos <operation> coupes </operation> à dessert avec des <ingredient action="décorer"> fruits </ingredient> frais ou <ingredient action="décorer"> confits </ingredient> .
+</preparation>
+</recette>

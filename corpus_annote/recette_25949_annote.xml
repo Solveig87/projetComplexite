@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25949">
+<titre>Asperges assaisonnées d'une sauce épicée à l'avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1,2 kg d'asperges blanches</p>
+<p>1 avocat</p>
+<p>8 grains de poivre vert</p>
+<p>1 citron</p>
+<p>1 jaune d'oeuf</p>
+<p>1 cuillère à soupe de cognac ou d'armagnac</p>
+<p>20 cl de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="asperges"> lier </operation> les <ingredient action="lier" quantite="1,2 kilogramme"> asperges </ingredient> en bottillons . les <operation> plonger </operation> dans de l' eau bouillante <operation> salée </operation> , laisser <operation> cuire </operation> 20 min environ . <operation> egoutter </operation> et laisser refroidir . pour <operation> préparer </operation> la sauce : <operation ingredients="avocat"> évider </operation> l' <ingredient action="évider" quantite="1"> avocat </ingredient> et <operation ingredients="chair;poivre;jus"> mixer </operation> la <ingredient action="mixer"> chair </ingredient> avec le <ingredient action="mixer"> poivre </ingredient> et le <ingredient action="mixer"> jus </ingredient> de citron . <operation ingredients="oeuf;cognac;sel"> incorporer </operation> également le jaune d' <ingredient action="incorporer"> oeuf </ingredient> , le <ingredient action="incorporer" quantite="1 cuillère à soupe"> cognac </ingredient> et une pincée de <ingredient action="incorporer"> sel </ingredient> . ensuite , <operation ingredients="crème"> fouetter </operation> légèrement la <ingredient action="fouetter" quantite="20 cl"> crème </ingredient> fraîche bien froide et l' <operation> incorporer </operation> au tout . servir les <ingredient quantite="1,2 kilogramme"> asperges </ingredient> et la sauce à l' <ingredient quantite="1"> avocat </ingredient> à part .
+</preparation>
+</recette>

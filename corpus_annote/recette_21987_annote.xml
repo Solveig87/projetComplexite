@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21987">
+<titre>Veau crémeux aux champignons et à la ciboulette</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 fines escalopes de veau</p>
+<p>120 g de beurre</p>
+<p>225 g de champignons</p>
+<p>5 cl de Cognac</p>
+<p>120 g de crème</p>
+<p>1 bouquet de ciboulette</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="6"> escalopes </ingredient> dans 80 g de <ingredient action="revenir" quantite="120 gramme"> beurre </ingredient> . lorsqu' elles sont bien dorées , <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite="5 cl"> cognac </ingredient> et <operation> réserver </operation> au chaud . <operation ingredients="champignons"> emincer </operation> les <ingredient action="emincer" quantite="225 gramme"> champignons </ingredient> et les faire <operation ingredients="viande;beurre"> revenir </operation> dans la même <operation> poêle </operation> que la <ingredient action="revenir" quantite="6"> viande </ingredient> avec le reste de <ingredient action="revenir" quantite="120 gramme"> beurre </ingredient> . lorsque les <ingredient quantite="225 gramme"> champignons </ingredient> sont dorés , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="120 gramme"> crème </ingredient> , la moitié de la <ingredient> ciboulette </ingredient> <operation> ciselée </operation> , du <ingredient quantite=""> sel </ingredient> et du <ingredient> poivre </ingredient> . <operation ingredients="escalopes"> remettre </operation> les <ingredient action="remettre" quantite="6"> escalopes </ingredient> dans la <operation> poêle </operation> pour les <operation> réchauffer </operation> et les servir <operation> saupoudrées </operation> du reste de <ingredient> ciboulette </ingredient> <operation> ciselée </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88643">
+<titre>Papillotes de cabillaud et petits légumes mijotés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poivron rouge</p>
+<p>2 belles carottes</p>
+<p>4 filets de cabillaud</p>
+<p>2 poireaux</p>
+<p>2 tomates</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail </p>
+<p>10 cl d'huile d'olive</p>
+<p>10 g de graines de fenouil</p>
+<p>5 g de coriandre (en poudre)</p>
+<p>5 g de curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> . <operation ingredients="poivron;tomates;carottes;poireaux"> couper </operation> le <ingredient action="couper"> poivron </ingredient> , les <ingredient action="couper" quantite="2"> tomates </ingredient> , les <ingredient action="couper" quantite="2"> carottes </ingredient> en dés et les <ingredient action="couper" quantite="2"> poireaux </ingredient> en petites lamelles . faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un petit peu d' <ingredient action="revenir" quantite="10 cl"> huile </ingredient> d' olive . <operation ingredients="légumes;gousse"> ajouter </operation> les <ingredient action="ajouter" quantite="2;2;2;1"> légumes </ingredient> crus et la <ingredient action="ajouter" quantite="1"> gousse </ingredient> d' ail et laisser <operation> mijoter </operation> environ 1 h en versant de l' eau régulièrement sans noyer les <ingredient quantite="2;2;2;1"> légumes </ingredient> . les <ingredient quantite="2"> carottes </ingredient> doivent rester <ingredient> croquantes </ingredient> . préchauffer votre four à 180 <operation> ° </operation> c ( thermostat 6 ) . a la fin de la cuisson , <operation ingredients="fenouil"> ajouter </operation> le <ingredient action="ajouter"> fenouil </ingredient> , la <ingredient quantite="5 gramme"> coriandre </ingredient> et le <ingredient quantite="5 gramme"> curry </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> à votre convenance . <operation ingredients="cabillaud"> couper </operation> le <ingredient action="couper"> cabillaud </ingredient> en morceaux . dans les papillotes , étaler une couche du <operation> mélange </operation> de <ingredient quantite="2;2;2;1"> légumes </ingredient> <operation> mijotés </operation> et <operation ingredients="cabillauds"> ajouter </operation> quelques morceaux de <ingredient action="ajouter"> cabillauds </ingredient> . <operation> enfourner </operation> 15 à 20 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

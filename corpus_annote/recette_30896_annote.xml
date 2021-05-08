@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30896">
+<titre>Aspic au crabe</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 grande boîte de crabe</p>
+<p>150 g de crème fraîche</p>
+<p>3 cuillères à café de concentré de tomates</p>
+<p>1 pincée de piment en poudre</p>
+<p>30 cl de gelée</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crabe"> egoutter </operation> le <ingredient action="egoutter"> crabe </ingredient> , puis l’ <operation> émietter </operation> à la main et le <operation> déposer </operation> dans le bol d’ un mixeur . dans un saladier , <operation ingredients="crème;tomate;sel;poivre"> fouetter </operation> la <ingredient action="fouetter" quantite="150 gramme"> crème </ingredient> fraîche avec le <operation> concentré </operation> de <ingredient action="fouetter"> tomate </ingredient> , le chili en <operation> poudre </operation> , le <ingredient action="fouetter" quantite=""> sel </ingredient> et le <ingredient action="fouetter"> poivre </ingredient> . <operation ingredients="crabe"> incorporer </operation> ce <operation> mélange </operation> au <ingredient action="incorporer"> crabe </ingredient> <operation> mixé </operation> et <operation> réserver </operation> . <operation ingredients="gelée"> verser </operation> la <ingredient action="verser" quantite="30 cl"> gelée </ingredient> <operation> préparée </operation> et la <operation> répartir </operation> au fond de 4 ramequins , puis la laisser prendre . <operation ingredients="mousse"> garnir </operation> de <ingredient action="garnir"> mousse </ingredient> au crabe , puis terminer par une couche de <ingredient quantite="30 cl"> gelée </ingredient> . <operation> réserver </operation> au réfrigérateur pendant 2 heures puis <operation> démouler </operation> avant de servir .
+</preparation>
+</recette>

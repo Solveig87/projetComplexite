@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14599">
+<titre>Salade de pâtes thon poivron raisin</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes style farfalle</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>2 tomates</p>
+<p>une petite boite de maïs</p>
+<p>une petite boîte de thon à l'huile</p>
+<p>100 g de raisins secs</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>une ou deux gousses d'ail</p>
+<p>poivre</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> , les <operation> égoutter </operation> , les <operation ingredients="huile"> arroser </operation> d' un peu d' <ingredient action="arroser" quantite="4 cuillère à soupe"> huile </ingredient> d' olive et les laisser <operation> tiédir </operation> . faire <operation ingredients="poivrons"> griller </operation> les <ingredient action="griller"> poivrons </ingredient> 10 mn à 1 / 4 d' heure et <operation ingredients="tomates"> bouillir </operation> les <ingredient action="bouillir" quantite="2"> tomates </ingredient> 30 secondes pour pouvoir les <operation> éplucher </operation> . faire <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="100 gramme"> raisins </ingredient> dans de l' eau . <operation ingredients="tomates;poivrons"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> et les <ingredient action="couper"> poivrons </ingredient> <operation> épluchés </operation> en dés . <operation ingredients="maïs;thon;raisins;ail"> ajouter </operation> le <ingredient action="ajouter"> maïs </ingredient> , le <ingredient action="ajouter"> thon </ingredient> emietté , les <ingredient action="ajouter" quantite="100 gramme"> raisins </ingredient> <operation> égouttés </operation> , l' <ingredient action="ajouter"> ail </ingredient> en purée . <operation> poivrer </operation> , <operation ingredients="basilic"> ciseler </operation> le <ingredient action="ciseler" quantite=""> basilic </ingredient> . <operation ingredients="huile"> ajouter </operation> un peu d' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> d' olive selon votre goût . servir tiède ou froid . l' épluchage des <ingredient quantite="2"> tomates </ingredient> et des <ingredient> poivrons </ingredient> , c' est mieux mais c' est long . si vous n' avez pas le temps , vous pouvez les <operation> incorporer </operation> tels quels à la recette . blanc ou rosé ou certains rouges servis frais style bourgueil
+</preparation>
+</recette>

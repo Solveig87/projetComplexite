@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83994">
+<titre>Salade de quinoa aux carottes et au chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de graine de quinoa sec</p>
+<p>8 carottes moyennes</p>
+<p>1 fromage de chèvre mi-sec</p>
+<p>Romarin</p>
+<p>Sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> 50 cl d' eau . pendant ce temps <operation> peler </operation> , <operation> couper </operation> en petits dés ( 1 / 2 cm environ ) et <operation ingredients="carottes"> laver </operation> les <ingredient action="laver"> carottes </ingredient> . <operation ingredients="quinoa"> mettre </operation> le <ingredient action="mettre"> quinoa </ingredient> dans l' eau bouillante , <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter"> carottes </ingredient> , le romarin et <operation> assaisonner </operation> à votre convenance . <operation> couvrir </operation> et laisser <operation> cuire </operation> environ 30 minutes . <operation ingredients="fromage"> émietter </operation> le <ingredient action="émietter" quantite="1"> fromage </ingredient> de chèvre , <operation> réserver </operation> . laisser refroidir le <ingredient> quinoa </ingredient> et les <ingredient> carottes </ingredient> qui sont restées un peu <ingredient> croquantes </ingredient> . <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> fromage </ingredient> de chèvre . servir froid avec une vinaigrette un peu relevée .
+</preparation>
+</recette>

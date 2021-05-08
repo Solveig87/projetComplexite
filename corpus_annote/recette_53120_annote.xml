@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53120">
+<titre>Soupe au poisson et aux asperges</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2,5 litres d’eau</p>
+<p>5 bâtonnets au crabe</p>
+<p>quelques crevettes décortiquées</p>
+<p>1 boîte de petites asperges</p>
+<p>2 cuillères à soupe de tapioca</p>
+<p>du vermicelle</p>
+<p>1 boîte de miettes de crabe</p>
+<p>2 œufs</p>
+<p>2 cubes de bouillon de poule</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon"> bouillir </operation> l’ eau avec les cubes de <ingredient action="bouillir"> bouillon </ingredient> . <operation ingredients="œuf"> ajouter </operation> les jaunes d’ <ingredient action="ajouter" quantite="2"> œuf </ingredient> et <operation> remuer </operation> très vite avec un fouet ( sinon les jaunes <operation> cuisent </operation> et ils ne filent pas ) . <operation ingredients="asperges"> couper </operation> les <ingredient action="couper"> asperges </ingredient> en 4 , les <operation ingredients="soupe;crabe;crevettes;tapioca"> mettre </operation> dans la <ingredient action="mettre"> soupe </ingredient> , <operation ingredients="crabe"> rajouter </operation> les bâtonnets de <ingredient action="rajouter"> crabe </ingredient> <operation> coupés </operation> en tranches , puis les miettes de <ingredient action="mettre"> crabe </ingredient> , les <ingredient action="mettre" quantite="quelque"> crevettes </ingredient> et le <ingredient action="mettre" quantite="2 cuillère à soupe"> tapioca </ingredient> . laisser <operation> cuire </operation> 5 minutes en <operation> remuant </operation> de temps en temps . <operation ingredients="vermicelle"> rajouter </operation> du <ingredient action="rajouter" quantite=""> vermicelle </ingredient> ( 2 ou 3 poignées ) . laisser <operation> cuire </operation> environ 20 minutes en <operation> remuant </operation> de temps en temps . on peut <operation ingredients="soja"> rajouter </operation> un peu de sauce <ingredient action="rajouter"> soja </ingredient> , de nuoc mam et des <ingredient> champignons </ingredient> noirs pendant la cuisson .
+</preparation>
+</recette>

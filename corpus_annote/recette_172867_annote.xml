@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172867">
+<titre>Mousse au chocolat noir et à la menthe</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 cl de crème fleurette</p>
+<p>1 plaque de chocolat noir corsé</p>
+<p>1 cuillère à soupe d'alcool de menthe</p>
+<p>4 cuillères à soupe d'eau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> noir au micro-ondes en le <operation> mélangeant </operation> à 4 cuillères à soupe d' eau température 450 w pendant 2 min , <operation ingredients="menthe"> ajouter </operation> l' alcool de <ingredient action="ajouter"> menthe </ingredient> et <operation> mélanger </operation> le tout au batteur . <operation ingredients="crème;chantilly"> monter </operation> la <ingredient action="monter" quantite="20 cl"> crème </ingredient> fleurette en <ingredient action="monter"> chantilly </ingredient> ( la <operation> mettre </operation> dans un saladier en verre et laisser au frais 1 heure avant de la <operation ingredients="chantilly"> monter </operation> en <ingredient action="monter"> chantilly </ingredient> ) . <operation ingredients="chocolat;crème"> incorporer </operation> petit à petit le <ingredient action="incorporer"> chocolat </ingredient> à la <ingredient action="incorporer" quantite="20 cl"> crème </ingredient> , <operation> mettre </operation> dans des verrines et <operation> mettre </operation> au frais . <operation ingredients="menthe"> décorer </operation> avec une feuille de <ingredient action="décorer"> menthe </ingredient> fraîche . le goût de la <ingredient> mousse </ingredient> au chocolat <ingredient> menthe </ingredient> fait penser au after eight
+</preparation>
+</recette>

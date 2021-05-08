@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37872">
+<titre>Bricks au thon et à la menthe</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 feuilles de brick</p>
+<p>2 oeufs</p>
+<p>1 grosse boîte de thon</p>
+<p>menthe séchée</p>
+<p>citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> durcir </operation> les <ingredient action="durcir" quantite="2"> oeufs </ingredient> . <operation ingredients="thon;menthe"> mélanger </operation> le <ingredient action="mélanger"> thon </ingredient> avec la <ingredient action="mélanger"> menthe </ingredient> séchée et les <ingredient quantite="2"> oeufs </ingredient> durs . <operation ingredients="brick"> déplier </operation> les feuilles de <ingredient action="déplier" quantite="4 feuille"> brick </ingredient> et <operation ingredients="thon"> disposer </operation> dans chacune une part de <ingredient action="disposer"> thon </ingredient> - oeuf - menthe . <operation ingredients="huile"> mettre </operation> une peu d' <ingredient action="mettre"> huile </ingredient> à <operation> chauffer </operation> dans une <operation> poêle </operation> . <operation action="revenir" ingredients="brick"> plier </operation> les feuilles de <ingredient action="plier" quantite="4 feuille"> brick </ingredient> en portefeuille , les faire <operation ingredients="plier"> revenir </operation> dans la <operation> poêle </operation> 1 à 2 minutes par côté . avant de servir , <operation ingredients="brick"> arroser </operation> chaque feuille de <ingredient action="arroser" quantite="4 feuille"> brick </ingredient> de citron .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24509">
+<titre>Tartines chaudes à la ricotta</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de campagne</p>
+<p>1 pot de ricotta</p>
+<p>8 tomates cerise</p>
+<p>parmesan</p>
+<p>ciboulette</p>
+</ingredients>
+<preparation>
+préchauffer le grill du four . <operation ingredients="pain"> tartiner </operation> les tranches de <ingredient action="tartiner" quantite="8 tranche"> pain </ingredient> avec la ricotta . <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> râpé ou en copeau . <operation ingredients="tomates;cerises"> couper </operation> les <ingredient action="couper" quantite="8"> tomates </ingredient> <ingredient action="couper"> cerises </ingredient> en 2 et <operation ingredients="pain"> répartir </operation> sur les tranches de <ingredient action="répartir" quantite="8 tranche"> pain </ingredient> . <operation ingredients="ciboulette"> garnir </operation> de <ingredient action="garnir" quantite=""> ciboulette </ingredient> <operation> ciselée </operation> . <operation> passez </operation> 10 mn sous le grill du four .
+</preparation>
+</recette>

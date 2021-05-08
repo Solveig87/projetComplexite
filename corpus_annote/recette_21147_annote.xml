@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21147">
+<titre>Café liégeois frappé</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tasses de café serré</p>
+<p>6 morceaux de sucre</p>
+<p>glace à la vanille</p>
+<p>20 cl de crème fleurette entière</p>
+<p>grains de café en chocolat</p>
+<p>coulis au café ou au chocolat</p>
+</ingredients>
+<preparation>
+<operation ingredients="café;sucre"> sucrer </operation> le <ingredient action="sucrer"> café </ingredient> avec les morceaux de <ingredient action="sucrer"> sucre </ingredient> , bien <operation> mélanger </operation> et <operation> réserver </operation> au congélateur pendant 2 h. <operation> remuer </operation> le <operation> mélange </operation> toutes les 30 minutes à la fourchette pour éviter les cristaux . <operation> répartir </operation> dans 6 <operation> coupes </operation> et replacer au congélateur . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter" quantite="20 cl"> crème </ingredient> en chantilly . au moment de servir , <operation ingredients="glace;vanille"> répartir </operation> 1 boule de <ingredient action="répartir" quantite=""> glace </ingredient> <ingredient action="répartir"> vanille </ingredient> dans chaque <operation> coupe </operation> , <operation ingredients="chantilly"> couvrir </operation> de <ingredient action="couvrir"> chantilly </ingredient> à l' aide d' une <operation> poche </operation> à douille . <operation ingredients="café;chocolat;café"> décorer </operation> de grains de <ingredient action="décorer"> café </ingredient> et de coulis au <ingredient action="décorer"> chocolat </ingredient> ou au <ingredient action="décorer"> café </ingredient> . a servir avec des financiers ou des tuiles pour <operation> accompagner </operation> . . .
+</preparation>
+</recette>

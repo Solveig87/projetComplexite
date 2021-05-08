@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53759">
+<titre>Gratin de brochet</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 petit brochet</p>
+<p>1 bouquet garni pour le court bouillon</p>
+<p>1/2 verre de vin blanc sec d'Alsace + 1/2 litre pour le court bouillon</p>
+<p>150 g de gruyère râpé</p>
+<p>1 petite boîte de champignons, soit 125 g</p>
+<p>Pour la sauce nantua :</p>
+<p>2 cuillières à soupe de farine</p>
+<p>50 g de beurre</p>
+<p>75 cl de lait</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 petite boîte de concentré de tomate, soit 70 g</p>
+</ingredients>
+<preparation>
+<operation ingredients="brochet;bouillon"> cuire </operation> le <ingredient action="cuire" quantite="1"> brochet </ingredient> au court <ingredient action="cuire"> bouillon </ingredient> . sortir le <ingredient quantite="1"> poisson </ingredient> . laisser refroidir . <operation ingredients="poisson"> emietter </operation> le <ingredient action="emietter" quantite="1"> poisson </ingredient> dans un plat à gratin en <operation> ôtant </operation> toutes les arêtes . <operation ingredients="vin"> mouiller </operation> avec 1 / 2 verre de <ingredient action="mouiller"> vin </ingredient> blanc d' alsace . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> <operation> émincés </operation> . <operation ingredients="béchamel"> monter </operation> une <ingredient action="monter"> béchamel </ingredient> et y <operation ingredients="tomate"> incorporer </operation> une cuillère à soupe de crème fraîche et le <operation> concentré </operation> de <ingredient action="incorporer"> tomate </ingredient> . on peut aussi <operation ingredients="gruyère;béchamel"> mettre </operation> un peu de <ingredient action="mettre" quantite="150 gramme"> gruyère </ingredient> dans la <ingredient action="mettre"> béchamel </ingredient> . <operation ingredients="poisson"> verser </operation> cette préparation sur le <ingredient action="verser" quantite="1"> poisson </ingredient> et <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite="150 gramme"> gruyère </ingredient> . <operation> cuire </operation> 20 minutes à four chaud ( th 7 : 200 <operation> ° </operation> ) . le <ingredient quantite="1"> poisson </ingredient> peut être <operation> cuit </operation> la veille et refroidi toute la nuit . le <ingredient quantite="1"> brochet </ingredient> peut être remplacé par un sandre ou une grosse <ingredient> perche </ingredient> . riesling
+</preparation>
+</recette>

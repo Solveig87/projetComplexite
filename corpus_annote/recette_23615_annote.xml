@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23615">
+<titre>Flan maison facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 verre de farine</p>
+<p>3 verres de lait </p>
+<p>1 verre de sucre</p>
+<p>1 pomme</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1/2 verre de rhum</p>
+<p>3 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="pomme;sucre"> mettre </operation> dans un <operation> mixer </operation> tous les ingrédients sauf la <ingredient action="mettre" quantite="1"> pomme </ingredient> et le <ingredient action="mettre" quantite="1 verre"> sucre </ingredient> vanillé . <operation> mixer </operation> le tout . <operation> disposer </operation> la préparation dans un <operation> moule </operation> beurré ( de préférence en terre ) . <operation ingredients="pomme"> disposer </operation> ensuite les quartiers de <ingredient action="disposer" quantite="1"> pomme </ingredient> , puis <operation ingredients="sucre"> saupoudrer </operation> le l' ensemble avec le sachet de <ingredient action="saupoudrer" quantite="1 verre"> sucre </ingredient> vanillé . <operation> mettre </operation> au four 1 h à thermostat 6 ( 180 <operation> ° </operation> c ) . bien laisser refroidir . <ingredient> champagne </ingredient> , café
+</preparation>
+</recette>

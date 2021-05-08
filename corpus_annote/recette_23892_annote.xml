@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23892">
+<titre>Carry de saucisse</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 saucisses fumées type Montbéliard</p>
+<p>4 à 6 oignons</p>
+<p>3 gousses d'ail</p>
+<p>épices : curry, gingembre(facultatif)</p>
+<p>-8 tomates bien mûres</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;saucisses;saucisses"> couper </operation> les <ingredient action="couper" quantite="4"> oignons </ingredient> et les <ingredient action="couper" quantite="4"> saucisses </ingredient> ( pour les <ingredient action="couper" quantite="4"> saucisses </ingredient> , faire des tranches de 5 cm d' épaisseur à peu près ) . faire <operation ingredients="saucisses;huile"> griller </operation> les <ingredient action="griller" quantite="4"> saucisses </ingredient> dans de l' <ingredient action="griller"> huile </ingredient> d' olive . quand elles sont bien <operation> grillées </operation> , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oignons </ingredient> et <operation> réduire </operation> un peu le feu . pour que les <ingredient action="fondre" quantite="4"> oignons </ingredient> <operation ingredients="oignons"> fondent </operation> bien , <operation ingredients="huile"> rajouter </operation> un tout petit peu d' <ingredient action="rajouter"> huile </ingredient> . <operation ingredients="curry"> saupoudrer </operation> de <ingredient action="saupoudrer"> curry </ingredient> , <operation ingredients="tomates"> rajouter </operation> les <ingredient action="rajouter" quantite=""> tomates </ingredient> <operation> pelées </operation> ( faites - les <operation> tremper </operation> dans de l' eau chaude pour les <operation> peler </operation> plus facilement ) . laisser <operation> mijoter </operation> jusqu' a ce que les <ingredient action="fondre" quantite=""> tomates </ingredient> soit <operation ingredients="tomates"> fondues </operation> . <operation ingredients="épice"> rajouter </operation> un peu d' <ingredient action="rajouter" quantite=""> épice </ingredient> à la fin . ce plat créole se <ingredient> mange </ingredient> avec du <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

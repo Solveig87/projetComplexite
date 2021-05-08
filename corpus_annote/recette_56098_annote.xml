@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56098">
+<titre>Hamburger aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de viande hachée de boeuf ou de cheval</p>
+<p>100 g de maïs en boîte</p>
+<p>2 courgettes</p>
+<p>2 blancs de poireaux</p>
+<p>2 pommes de terre</p>
+<p>1 oignon</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 jaune d'oeuf</p>
+<p>1 pincée d'épices</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> , <operation> lavez </operation> et <operation ingredients="pommes"> essuyez </operation> les <ingredient action="essuyer" quantite="2"> pommes </ingredient> de terre . <operation> lavez </operation> et <operation ingredients="poireaux"> essuyez </operation> les courgettes et les blancs de <ingredient action="essuyer"> poireaux </ingredient> . <operation ingredients="pommes"> râpez </operation> finement les <ingredient action="râpez" quantite="2"> pommes </ingredient> de terre et les courgettes . <operation ingredients="poireaux"> coupez </operation> les <ingredient action="couper"> poireaux </ingredient> en tronçons et <operation> émincez </operation> les finement dans le sens de la longueur . <operation> epluchez </operation> et <operation ingredients="oignon"> émincez </operation> finement l' <ingredient action="émincer" quantite="1"> oignon </ingredient> . dans un récipient , <operation ingredients="légumes"> mettez </operation> les râpés et les émincés de <ingredient action="mettre" quantite="100 gramme;2;1"> légumes </ingredient> puis <operation ingredients="maïs;oeuf"> ajoutez </operation> le <ingredient action="ajouter" quantite="100 gramme"> maïs </ingredient> <operation> égoutté </operation> et le jaune d' <ingredient action="ajouter"> oeuf </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et bien <operation> mélanger </operation> . faites doucement <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> et <operation ingredients="légumes"> déposez </operation> des petits tas de <ingredient action="déposer" quantite="100 gramme;2;1"> légumes </ingredient> . <operation> aplatissez </operation> les pour <operation> former </operation> des paillassons et laisser <operation> cuire </operation> 4 min de chaque côté . renouvelez l' opération jusqu' à obtenir 8 paillassons et <operation> réservez </operation> les au chaud . <operation ingredients="épices;persil;viande"> incorporez </operation> les <ingredient action="incorporer" quantite="1 pincée"> épices </ingredient> et le <ingredient action="incorporer"> persil </ingredient> haché à la <ingredient action="incorporer" quantite="600 gramme"> viande </ingredient> hachée . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="viande"> divisez </operation> la <ingredient action="diviser" quantite="600 gramme"> viande </ingredient> en 4 parts égales . donnez leur la <operation> forme </operation> de <ingredient> galettes </ingredient> et faites les <operation> griller </operation> 3 min de chaque côté . servir la <ingredient quantite="600 gramme"> viande </ingredient> entre 2 paillassons de <ingredient quantite="100 gramme;2;1"> légumes </ingredient> et <operation ingredients="salade"> accompagnée </operation> d' une <ingredient action="accompagner"> salade </ingredient> . ce plat est plein de <ingredient quantite="100 gramme;2;1"> légumes </ingredient> , il est très diététique ! ! ! on peut aussi remplacer les paillassons de <ingredient quantite="100 gramme;2;1"> légumes </ingredient> par des <ingredient> galettes </ingredient> de pomme de terre , tout aussi bon et les enfants préfèrent ! ! !
+</preparation>
+</recette>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16680">
+<titre>Pintade aux girolles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pintade</p>
+<p>200 g de foies de volaille </p>
+<p>500 g de girolles  </p>
+<p>200 g de mie de pain</p>
+<p>10  échalotes</p>
+<p>1 verre de lait  </p>
+<p>20 cl de crème fraîche  </p>
+<p>6 gousses d'ail  </p>
+<p>5 branches d'estragon  </p>
+<p>1 pincée de noix de muscade  </p>
+<p>10 cl bouillon de volaille </p>
+<p>50 g beurre  </p>
+<p>2 cuillères à soupe huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;lait"> tremper </operation> la mie de <ingredient action="tremper"> pain </ingredient> dans le <ingredient action="tremper" quantite="1 verre"> lait </ingredient> . <operation ingredients="girolles"> nettoyez </operation> les <ingredient action="nettoyer" quantite="500 gramme"> girolles </ingredient> . à l' aide d' un <ingredient> couteau </ingredient> , soulevez la peau de la pintade autour du cou et <operation ingredients="girolles"> placez </operation> quelques <ingredient action="placer" quantite="500 gramme"> girolles </ingredient> . <operation> egouttez </operation> le <ingredient> pain </ingredient> et <operation> mixez </operation> - le avec les <ingredient quantite="200 gramme"> foies </ingredient> de volailles . <operation ingredients="muscade;sel;poivre"> ajoutez </operation> la <ingredient action="ajouter"> muscade </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> farcissez </operation> la pintade avec cette préparation puis cousez - la . <operation ingredients="ail;échalote"> émincez </operation> l' <ingredient action="émincez"> ail </ingredient> et l' <ingredient action="émincez" quantite="10"> échalote </ingredient> . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une cocotte et faites - y <operation> dorer </operation> la pintade . sortez la pintade . <operation> nettoyez </operation> la cocotte avec un papier absorbant et faites <operation ingredients="beurre"> fondre </operation> la moitié du <ingredient action="fondre"> beurre </ingredient> à feu doux . <operation ingredients="bouillon;échalotes;ail"> remettez </operation> la pintade , le <ingredient action="remettre" quantite="10 cl"> bouillon </ingredient> , les <ingredient action="remettre" quantite="10"> échalotes </ingredient> et l' <ingredient action="remettre"> ail </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> . laissez <operation> mijoter </operation> pendant 1 heure . faites <operation ingredients="beurre"> fondre </operation> le reste du <ingredient action="fondre"> beurre </ingredient> et faites <operation ingredients="champignons"> saisir </operation> les <ingredient action="saisir"> champignons </ingredient> . <operation ingredients="estragon;crème"> ajoutez </operation> l' <ingredient action="ajouter"> estragon </ingredient> <operation> haché </operation> et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . laissez <operation> cuire </operation> 5 in en <operation> remuant </operation> . servez la pintade <operation ingredients="girolles;échalote;ail;confit"> accompagnée </operation> de <ingredient action="accompagner" quantite="500 gramme"> girolles </ingredient> , d' <ingredient action="accompagner" quantite="10"> échalote </ingredient> et d' <ingredient action="accompagner"> ail </ingredient> <ingredient action="accompagner"> confit </ingredient> .
+</preparation>
+</recette>

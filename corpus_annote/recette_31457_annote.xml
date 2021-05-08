@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31457">
+<titre>Parmentier  du nouveau monde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de 125 g de purée</p>
+<p>1/4 de l d'eau</p>
+<p>1/4 de l de lait</p>
+<p>250 g de viande hachée</p>
+<p>125 g de chair à saucisse</p>
+<p>1 boîte de sauce tomate cuisinée</p>
+<p>1 boîte de maïs en grain</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>thym et persil</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> en rondelles dans l' <ingredient action="revenir" quantite="1 cuillère à soupe"> huile </ingredient> et <operation ingredients="viandes"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> viandes </ingredient> . <operation ingredients="ail;persil;thym;sel;poivre"> ajouter </operation> la moitié de la sauce , l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> persil </ingredient> <operation> hachés </operation> , le <ingredient action="ajouter" quantite=""> thym </ingredient> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . laisser <operation> cuire </operation> 10 mn . <operation> préparer </operation> la purée . dans un plat <operation> mettre </operation> une couche de purée , une couche de préparation , et le contenu de le boîte de <ingredient> maïs </ingredient> . finir avec la sauce et la purée . faire <operation> cuire </operation> à four chaud th 7 , 10 mn .
+</preparation>
+</recette>

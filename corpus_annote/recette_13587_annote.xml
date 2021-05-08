@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13587">
+<titre>Curry de lotte au lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,8 kg de lotte</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>6 tomates mûres</p>
+<p>400 ml de lait de coco</p>
+<p>1 cuiller de pâte de curry jaune</p>
+<p>sel, poivre, un morceau de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;tomates"> lavez </operation> les <ingredient action="laver"> poivrons </ingredient> et les <ingredient action="laver" quantite="6"> tomates </ingredient> . <operation ingredients="tomates;poivrons"> coupez </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en quartiers et les <ingredient action="couper"> poivrons </ingredient> en lamelles . dans une sauteuse anti-adhésive ( si on ne veut pas <operation ingredients="huile"> mettre </operation> d' <ingredient action="mettre"> huile </ingredient> ) ou un wok , <operation ingredients="poivrons;tomates"> mettez </operation> les <ingredient action="mettre"> poivrons </ingredient> et les <ingredient action="mettre" quantite="6"> tomates </ingredient> , faites <operation> réduire </operation> sur feu moyen puis doux jusqu' à ce qu' il n' y ait plus de <ingredient> jus </ingredient> . <operation ingredients="lait"> versez </operation> le <ingredient action="verser"> lait </ingredient> de coco , <operation ingredients="curry;sucre"> délayez </operation> le <ingredient action="délayer"> curry </ingredient> et le <ingredient action="délayer"> sucre </ingredient> dans la sauteuse et faites <operation> chauffer </operation> doucement sans faire <operation> bouillir </operation> . <operation ingredients="lotte"> coupez </operation> la <ingredient action="couper" quantite="1,8 kilogramme"> lotte </ingredient> en cubes et <operation ingredients="lait"> versez </operation> dans le <operation> mélange </operation> <ingredient action="verser"> lait </ingredient> de coco au curry . <operation ingredients="poivrons;tomates"> fondue </operation> de <ingredient action="fondre"> poivrons </ingredient> et de <ingredient action="fondre" quantite="6"> tomates </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . faites <operation> cuire </operation> environ 15 à 20 minutes à feu moyen . servez avec du <ingredient> riz </ingredient> basmati ou du <ingredient> riz </ingredient> gluant .
+</preparation>
+</recette>

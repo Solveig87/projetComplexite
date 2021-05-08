@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15073">
+<titre>Almendrados</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de noisettes grillées</p>
+<p>300 g de sucre</p>
+<p>4 blancs d'oeufs</p>
+<p>1 citron</p>
+<p>cannelle en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="noisettes"> peler </operation> et <operation> écraser </operation> les <ingredient action="peler"> noisettes </ingredient> dans un mortier . <operation ingredients="oeuf"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer"> oeuf </ingredient> . <operation> râper </operation> l' écorce du <ingredient quantite="1"> citron </ingredient> . <operation ingredients="noisettes"> mélanger </operation> les <ingredient action="mélanger"> noisettes </ingredient> <operation ingredients="oeuf"> écrasées </operation> avec un peu de blanc d' <ingredient action="écraser"> oeuf </ingredient> . une fois la préparation bien <operation> lisse </operation> , y <operation ingredients="citron;sucre;cannelle;oeuf"> ajouter </operation> peu à peu l' écorce de <ingredient action="ajouter" quantite="1"> citron </ingredient> râpée , le <ingredient action="ajouter" quantite="300 gramme"> sucre </ingredient> , la <ingredient action="ajouter" quantite=""> cannelle </ingredient> et le reste du blanc d' <ingredient action="ajouter"> oeuf </ingredient> . continuer de <operation ingredients="produit"> mélanger </operation> avec une spatule jusqu' à obtention d' un <ingredient action="mélanger"> produit </ingredient> un peu épais . <operation> former </operation> des boulettes avec ce <operation> mélange </operation> et les <operation> disposer </operation> sur une <operation> plaque </operation> à gâteau <operation> garnie </operation> d' un papier sulfurisé . <operation> enfourner </operation> à four moyen et les <operation ingredients="biscuits"> retirer </operation> une fois les <ingredient action="retirer"> biscuits </ingredient> dorés .
+</preparation>
+</recette>

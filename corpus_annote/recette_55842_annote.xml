@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55842">
+<titre>M'loukhia tunisienne</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de poudre de molokheya</p>
+<p>600 g de viande de boeuf</p>
+<p>2 ou 3 cuillères à soupe huile d'olive</p>
+<p>sel et poivre</p>
+<p>2 gousses d'ail (fraîches)</p>
+<p>cumin</p>
+<p>3 feuilles de laurier</p>
+<p>1 oignon entier</p>
+</ingredients>
+<preparation>
+<operation ingredients="sel;poivre;cumin"> mettre </operation> le <ingredient action="mettre" quantite=""> sel </ingredient> , le <ingredient action="mettre"> poivre </ingredient> et le <ingredient action="mettre" quantite=""> cumin </ingredient> puis <operation> verser </operation> doucement la <operation> poudre </operation> de m' loukhia en <operation> remuant </operation> doucement <operation ingredients="olive;ail;oignon"> ajouter </operation> l' hulie d' <ingredient action="ajouter"> olive </ingredient> ainsi que l' <ingredient action="ajouter"> ail </ingredient> et l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> entier ( sans la peau ) . <operation> remplir </operation> la cocotte à 1 / 4 d' eau ( pas plus ni moins ) . <operation> mettre </operation> à feu moyen et <operation> remuer </operation> doucement . lorsque cela <operation> frémit </operation> , <operation ingredients="viande;laurier"> ajouter </operation> la <ingredient action="ajouter" quantite="600 gramme"> viande </ingredient> de boeuf en petits morceaux et les feuilles de <ingredient action="ajouter" quantite="3 feuille"> laurier </ingredient> . après 5 à 6 h environ de cuisson ( quand l' <ingredient> huile </ingredient> remonte à la surface ) , <operation> retirer </operation> du feu . c' est un plat tunisien familial qui se <operation> prépare </operation> pour les fêtes du nouvel an .
+</preparation>
+</recette>

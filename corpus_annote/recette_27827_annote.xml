@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27827">
+<titre>Langoustes aux tomates et aux épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 queues de langoustes</p>
+<p>4 oignons</p>
+<p>4 gousses d'ail</p>
+<p>8 tomates</p>
+<p>1 piment</p>
+<p>1 morceau de gingembre</p>
+<p>1/2 cuillère à café de safran</p>
+<p>2 brins de thym</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="langoustes"> fendez </operation> les queues de <ingredient action="fendre"> langoustes </ingredient> en 2 . faites <operation ingredients="oignons;huile"> dorez </operation> les <ingredient action="dorer" quantite="4"> oignons </ingredient> <operation> hachés </operation> dans l' <ingredient action="dorer" quantite="4 cuillère à soupe"> huile </ingredient> puis <operation ingredients="safran;ail;sel;poivre"> ajoutez </operation> le <ingredient action="ajouter"> safran </ingredient> , le gigembre râpé , l' <ingredient action="ajouter"> ail </ingredient> et le piment <operation> pilés </operation> , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> remuez </operation> puis <operation ingredients="tomates;thym"> ajoutez </operation> les <ingredient action="ajouter" quantite="8"> tomates </ingredient> <operation> concassées </operation> et le <ingredient action="ajouter"> thym </ingredient> . <operation> couvrez </operation> et laissez <operation> cuire </operation> 10 min en tournant de temps à autre . <operation ingredients="langoustes"> ajoutez </operation> les queues de <ingredient action="ajouter"> langoustes </ingredient> et <operation> mouillez </operation> de 15 cl d' eau . <operation> couvrez </operation> et laissez <operation> mijoter </operation> 15 min .
+</preparation>
+</recette>

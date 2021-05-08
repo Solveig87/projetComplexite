@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56735">
+<titre>Morue à ma facon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 morceau de morue par personne suivant le mangeur</p>
+<p>quelques pommes de terre (petites)</p>
+<p>quelques échalotes ou oignons suivant la préférence</p>
+<p>de l'huile d’olive</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+demander au poissonnier de vous <operation ingredients="morue"> découper </operation> la <ingredient action="découper"> morue </ingredient> ( c' est plus facile ) , <operation ingredients="morue"> faire </operation> désaler la <ingredient action="faire"> morue </ingredient> 48 h à l' avance . dans un grand plat allant au four , <operation ingredients="huile"> mettre </operation> un filet d' <ingredient action="mettre" quantite=""> huile </ingredient> d' olive dans le fond , <operation ingredients="morue"> disposer </operation> les morceaux de <ingredient action="disposer"> morue </ingredient> par dessus . <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="quelque"> pommes </ingredient> de terre , les <operation> découper </operation> en rondelles pas trop épaisses , les <operation ingredients="morue"> disposer </operation> par dessus la <ingredient action="disposer"> morue </ingredient> pour que cela la <operation> recouvre </operation> par tout , <operation> poivrez </operation> suivant votre goût , <operation ingredients="huile"> ajouter </operation> un 2ème filet d' <ingredient action="ajouter" quantite=""> huile </ingredient> d' olive . <operation> mettre </operation> au four . surveiller la cuisson en piquant dans les <ingredient quantite="quelque"> pommes </ingredient> de terre et regarder la couleur du <ingredient> poisson </ingredient> . régalez vous . super facile et très bon . un <ingredient> vin </ingredient> portugais blanc
+</preparation>
+</recette>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86393">
+<titre>Soupe forestière</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 escalope de poulet- 2 grosses pommes de terre- 150 g de champignons de Paris- 1 cuillère à soupe de beurre persillé- 2 magrets de canard (facultatif)- 10 cl de bouillon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalope"> cuire </operation> votre <ingredient action="cuire" quantite="1"> escalope </ingredient> . une fois cuite , la <operation> couper </operation> pour en faire des lambeaux . si vous cuisinez la recette avec les <ingredient quantite="2"> magrets </ingredient> , les faire <operation> cuire </operation> ensemble et <operation ingredients="magrets"> découper </operation> les <ingredient action="découper" quantite="2"> magrets </ingredient> en carré . <operation ingredients="beurre"> déposer </operation> le <ingredient action="déposer" quantite="1 cuillère à soupe"> beurre </ingredient> persillé et faire <operation ingredients="pommes"> revenir </operation> dans une <operation> poêle </operation> les <ingredient action="revenir" quantite="2"> pommes </ingredient> de terre <operation> cuites </operation> et <operation> coupées </operation> en tranches fines . <operation ingredients="champignons"> ajouter </operation> à cela les <ingredient action="ajouter" quantite="150 gramme"> champignons </ingredient> . dans la même <operation> poêle </operation> , <operation ingredients="viandes;bouillon"> ajouter </operation> enfin les <ingredient action="ajouter" quantite="1"> viandes </ingredient> et le <ingredient action="ajouter" quantite="10 cl"> bouillon </ingredient> . laisser <operation> mijoter </operation> 2 petites minutes .
+</preparation>
+</recette>

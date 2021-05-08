@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48642">
+<titre>Hamburger en pita</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pains pita</p>
+<p>2 steaks</p>
+<p>1 oignon</p>
+<p>2 ou 4 tranches de gouda, cheddar ou autre...</p>
+<p>ketchup</p>
+<p>cornichons aigres</p>
+<p>quelques feuilles de salade</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> finement <operation> coupé </operation> dans une <operation> poêle </operation> . une fois l' <ingredient action="cuire" quantite="1"> oignon </ingredient> bien doré , <operation ingredients="oignon;steaks;matière;bleu;jus;pain"> cuisez </operation> les <ingredient action="cuire" quantite="2"> steaks </ingredient> ( sans <ingredient action="cuire"> matière </ingredient> grasse ) selon votre mode de cuisson ( en évitant tout de même " <ingredient action="cuire"> bleu </ingredient> " , car trop de <ingredient action="cuire"> jus </ingredient> <operation> ramollirait </operation> le <ingredient action="cuire" quantite="2"> pain </ingredient> ) . pendant ce temps , faites <operation ingredients="pitas"> gonfler </operation> les <ingredient action="gonfler"> pitas </ingredient> au <operation> grille </operation> - <ingredient quantite="2"> pain </ingredient> ou au microonde . <operation> incisez </operation> - les ensuite sur une moitié et <operation ingredients="fromage"> déposez </operation> une ou deux tranches de <ingredient action="déposer"> fromage </ingredient> à l' intérieur afin qu' elle ( s ) soi ( en ) t légèrement <operation> fondue </operation> ( s ) . <operation ingredients="pain"> enduisez </operation> ensuite à votre goût l' intérieur du <ingredient action="enduire" quantite="2"> pain </ingredient> de ketchup et <operation ingredients="salade;oignon;cornichons"> ajoutez </operation> les feuilles de <ingredient action="ajouter" quantite="quelque feuille"> salade </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et les <ingredient action="ajouter" quantite=""> cornichons </ingredient> . pour finir , <operation ingredients="steak"> rajoutez </operation> votre <ingredient action="rajouter" quantite="2"> steak </ingredient> et déguster . vous pouvez <operation ingredients="bacon;steak"> rajouter </operation> une fine tranche de <ingredient action="rajouter"> bacon </ingredient> avec le <ingredient action="rajouter" quantite="2"> steak </ingredient> , et <operation ingredients="moutarde;ketchup"> ajouter </operation> de la <ingredient action="ajouter"> moutarde </ingredient> à votre <ingredient action="ajouter" quantite=""> ketchup </ingredient> . . .
+</preparation>
+</recette>

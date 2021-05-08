@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20946">
+<titre>Coupes glacées aux pêches</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour le sorbet :</p>
+<p>500 g de pêches</p>
+<p>2 abricots bien mûrs</p>
+<p>300 g de sucre</p>
+<p>2 cuillerées à soupe de jus de citron</p>
+<p>Pour les coupes :</p>
+<p>4 pêches</p>
+<p>150 g de sucre</p>
+<p>4 verres à liqueur de marasquin</p>
+</ingredients>
+<preparation>
+<operation ingredients="pêches;abricots"> mixer </operation> les 500 g <ingredient action="mixer" quantite="500 gramme+4"> pêches </ingredient> et les <ingredient action="mixer"> abricots </ingredient> , et <operation ingredients="sucre;jus"> ajouter </operation> 300 g de <ingredient action="ajouter" quantite="300 gramme+150 gramme"> sucre </ingredient> , le <ingredient action="ajouter"> jus </ingredient> de citron et de l' eau , pour obtenir 1 litre de <ingredient> jus </ingredient> . <operation> verser </operation> le tout dans la sorbetière et faire <operation> glacer </operation> pendant 6 h. <operation ingredients="pêches"> plonger </operation> les 4 <ingredient action="plonger" quantite="500 gramme+4"> pêches </ingredient> supplémentaire dans l' eau bouillante 30 sec , rafraîchir et <operation> retirer </operation> la peau . les <operation> couper </operation> en 4 et <operation> retirer </operation> les noyaux . <operation ingredients="sirop;sucre"> faire </operation> un <ingredient action="faire"> sirop </ingredient> avec le <ingredient action="faire" quantite="300 gramme+150 gramme"> sucre </ingredient> et 6 cuillerées à soupe d' eau . y <operation ingredients="pêche"> pocher </operation> les quartiers de <ingredient action="pocher" quantite="500 gramme+4"> pêche </ingredient> : les <operation> mettre </operation> dans la casserole , <operation> porter </operation> à <operation> ébullition </operation> et <operation> retirer </operation> du feu . <operation ingredients="fruits"> laisser </operation> les <ingredient action="laisser" quantite="500 gramme+4;2"> fruits </ingredient> refroidir dans le <ingredient> sirop </ingredient> . <operation ingredients="pêches"> répartir </operation> les <ingredient action="répartir" quantite="500 gramme+4"> pêches </ingredient> <operation> pochées </operation> dans des coupelles . faire <operation ingredients="sirop"> réduire </operation> le <ingredient action="réduire"> sirop </ingredient> puis en <operation ingredients="pêches"> napper </operation> les <ingredient action="napper" quantite="500 gramme+4"> pêches </ingredient> , <operation ingredients="sorbet"> ajouter </operation> une cuillère de marasquin dans chaque coupelle et enfin 2 boules de <ingredient action="ajouter"> sorbet </ingredient> .
+</preparation>
+</recette>

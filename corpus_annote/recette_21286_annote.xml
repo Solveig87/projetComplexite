@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21286">
+<titre>Haricots verts à la crème et tagliatelles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de haricots verts </p>
+<p>30 g de beurre</p>
+<p>1 gousse d'ail</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>400 g de tagliatelles</p>
+<p>75 g de fromage râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> haricots </ingredient> <operation> coupés </operation> en petits morceaux dans l' eau bouillante <operation> salée </operation> durant 10 min . <operation> egouttez </operation> - les et faites - les <operation ingredients="beurre;ail"> revenir </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> avec l' <ingredient action="revenir"> ail </ingredient> haché . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="20 cl"> crème </ingredient> . <operation> réservez </operation> au chaud . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans une grande quantité d' eau bouillante <operation> salée </operation> . <operation> egouttez </operation> les <ingredient action="saupoudrer"> pâtes </ingredient> , <operation ingredients="pâtes;fromage;haricots;crème"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="75 gramme"> fromage </ingredient> <operation> râpé </operation> et <operation> nappez </operation> de <ingredient action="saupoudrer" quantite="300 gramme"> haricots </ingredient> verts à la <ingredient action="saupoudrer" quantite="20 cl"> crème </ingredient> . <operation> mélangez </operation> et servez .
+</preparation>
+</recette>

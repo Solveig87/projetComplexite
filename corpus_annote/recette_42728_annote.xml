@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42728">
+<titre>Salade de Noël</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>un mélange de salade (mâche, laitue)</p>
+<p>une tranche de foie gras</p>
+<p>une tranche de saumon fumé</p>
+<p>une tranche de jambon fumé</p>
+<p>1 tranche de pain d'épices</p>
+<p>3 fines tranches de pomme </p>
+<p>quelques cerneaux de noix</p>
+<p>pignons de pin</p>
+<p>2 grains de raisin</p>
+<p>2 tomates cerise  Pour la vinaigrette :</p>
+<p>3 cuillères à soupe d'huile de tournesol </p>
+<p>2 cuillères à café de moutarde </p>
+<p>3 cuillères à soupe de vinaigre de framboise</p>
+<p>sel et poivre </p>
+<p>2 cuillères à café de miel</p>
+</ingredients>
+<preparation>
+préparation de la vinaigrette : <operation ingredients="huile;moutarde"> mélanger </operation> l' <ingredient action="mélanger" quantite="3 cuillère à soupe"> huile </ingredient> et la <ingredient action="mélanger" quantite="2 cuillère à café"> moutarde </ingredient> , <operation ingredients="vinaigre;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="3 cuillère à soupe"> vinaigre </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . bien <operation> émulsionner </operation> le tout , et <operation ingredients="miel"> rajouter </operation> le <ingredient action="rajouter" quantite="2 cuillère à café"> miel </ingredient> . prépartion de l' assiette : <operation ingredients="salade"> disposer </operation> la <ingredient action="disposer"> salade </ingredient> au centre de l' assiette . <operation ingredients="foie"> déposer </operation> le <ingredient action="déposer" quantite="1 tranche"> foie </ingredient> gras , sur un coté de l' assiette . <operation ingredients="pain"> couper </operation> le <ingredient action="couper" quantite="1 tranche"> pain </ingredient> d' épice en 3 petites tranchettes , et les <operation ingredients="salade"> positionner </operation> sur la <ingredient action="positionner"> salade </ingredient> . <operation ingredients="jambon"> mettre </operation> le <ingredient action="fumer"> saumon </ingredient> <operation ingredients="saumon"> fumé </operation> sur le deuxième coté de l' assiette , et le <ingredient action="mettre" quantite="1 tranche"> jambon </ingredient> <operation> fumé </operation> sur le troisieme . <operation ingredients="raisin;tomates;cerises"> couper </operation> le <ingredient action="couper"> raisin </ingredient> et les <ingredient action="couper" quantite="2"> tomates </ingredient> <ingredient action="couper"> cerises </ingredient> en 2 , et <operation ingredients="salade"> décorer </operation> la <ingredient action="décorer"> salade </ingredient> avec . <operation ingredients="noix;pignons"> rajouter </operation> des <ingredient action="rajouter"> noix </ingredient> et des <ingredient action="rajouter" quantite=""> pignons </ingredient> de pin . finir avec la vinaigrette . un délicieux <operation> mélange </operation> <operation> sucrée </operation> / <operation> salée </operation> qui réveillera vos papilles ! le mariage <ingredient quantite="1 tranche"> pain </ingredient> d' épices et foie gras est divin ! une <ingredient> salade </ingredient> parfaite , pour les fêtes de noël ! un tokay <ingredient> pinot </ingredient> gris ou <ingredient> muscat </ingredient>
+</preparation>
+</recette>

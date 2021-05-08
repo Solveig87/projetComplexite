@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67022">
+<titre>Omelette simple et gourmande</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oignon</p>
+<p>3 oeufs</p>
+<p>50 g de farine</p>
+<p>50 g de fromage râpé</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>Pour l'assaisonnement : </p>
+<p>sel, poivre</p>
+<p>mélange 4 épices</p>
+<p>raz-el-hanout</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="huile"> coupé </operation> en lamelles dans l' <ingredient action="couper" quantite="3 cuillère à soupe"> huile </ingredient> d' olive pendant 2 minutes . pendant ce temps , <operation ingredients="oeufs"> battez </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette et <operation ingredients="assaisonnement"> ajoutez </operation> l' <ingredient action="ajouter" quantite="3 cuillère à soupe;;"> assaisonnement </ingredient> . <operation ingredients="farine"> ajoutez </operation> ensuite lentement la <ingredient action="ajouter" quantite="50 gramme"> farine </ingredient> . <operation ingredients="oignons"> versez </operation> la préparation ainsi obtenue sur les <ingredient action="verser" quantite="1"> oignons </ingredient> et baissez le feu , laissez <operation> cuire </operation> le tout à feu doux en <operation> couvrant </operation> . <operation ingredients="fromage"> ajoutez </operation> le <ingredient action="ajouter" quantite="50 gramme"> fromage </ingredient> râpé en cours de cuisson pour obtenir une couche <ingredient> fondante </ingredient> de fromage sur l' omelette . parfait quand vous avez faim et pas grand chose dans le frigo ! l' <ingredient quantite="1"> oignon </ingredient> et le <ingredient quantite="50 gramme"> fromage </ingredient> donnent à cette omelette un goût savoureux . la <ingredient quantite="50 gramme"> farine </ingredient> permet d' <operation> épaissir </operation> la préparation et de la rendre plus nourrissante : c' est ainsi que cette omelette mérite le titre de " gourmande " !
+</preparation>
+</recette>

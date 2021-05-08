@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18215">
+<titre>Lasagnes à la bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 paquet de pâtes à lasagnes</p>
+<p>3 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 branche de céleri</p>
+<p>1 carotte</p>
+<p>600 g viande de boeuf haché</p>
+<p>800 g purée de tomates</p>
+<p>1 verre d'eau</p>
+<p>1 verre à moutarde de vin rouge</p>
+<p>2 feuilles de laurier</p>
+<p>thym</p>
+<p>basilic</p>
+<p>Pour la sauce Béchamel :</p>
+<p>100 g farine</p>
+<p>100 g beurre</p>
+<p>1l de lait</p>
+<p>3 pincées de noix de muscade râpée</p>
+<p>Pour le nappage :</p>
+<p>70 g de fromage râpé</p>
+<p>125 g de parmesan</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation> emincez </operation> les <ingredient quantite="3"> oignons </ingredient> . <operation> ecrasez </operation> l' <ingredient> ail </ingredient> . <operation> hachez </operation> finement <ingredient quantite="1"> carotte </ingredient> et céleri . faire <operation ingredients="ail;huile"> revenir </operation> <ingredient action="revenir"> ail </ingredient> et oignons dans un peu d' <ingredient action="revenir"> huile </ingredient> d' olive . <operation ingredients="carotte"> ajouter </operation> <ingredient action="ajouter" quantite="1"> carotte </ingredient> et céleri . puis la <ingredient quantite="600 gramme"> viande </ingredient> . faire <operation> revenir </operation> le tout . puis <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter"> vin </ingredient> rouge . laisser s' évaporer . <operation ingredients="tomates"> ajouter </operation> la purée de <ingredient action="ajouter"> tomates </ingredient> , le verre d' eau , et les herbes . <operation> saler </operation> , <operation> poivrer </operation> , puis laisser <operation> mijoter </operation> à feu doux 45 min . <operation ingredients="béchamel"> préparer </operation> la <ingredient action="préparer"> béchamel </ingredient> : faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> , puis , hors du feu , <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> d' un coup . <operation> remettre </operation> sur le feu et <operation> remuer </operation> avec un fouet jusqu' à ce que cela devienne un <operation> mélange </operation> bien <operation> lisse </operation> . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1l"> lait </ingredient> peu à peu . <operation> remuer </operation> sans cesse , jusqu' à ce que le <operation> mélange </operation> s' <operation> épaississe </operation> . ensuite , parfumer avec la <ingredient> muscade </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . laisser <operation> cuire </operation> environ 5 min , feu très doux , en <operation> remuant </operation> . <operation> huilez </operation> le plat à lasagnes . <operation ingredients="béchamel;béchamel"> posez </operation> une fine couche de <ingredient action="poser"> béchamel </ingredient> , puis : lasagnes , bolognaise , <ingredient action="poser"> béchamel </ingredient> et parmesan , et cela 3 fois de suite . sur la dernière couche de lasagnes , ne <operation ingredients="béchamel"> mettre </operation> que de la <ingredient action="mettre"> béchamel </ingredient> et <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir" quantite="70 gramme"> fromage </ingredient> râpé . <operation ingredients="noisettes"> parsemer </operation> quelques <ingredient action="parsemer"> noisettes </ingredient> de beurre . faire <operation> cuire </operation> à 200 <operation> ° </operation> c pendant environ 25 min .
+</preparation>
+</recette>

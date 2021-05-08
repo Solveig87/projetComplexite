@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23134">
+<titre>Côtes de porc à l'origan</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 côtes de porc</p>
+<p>1 cuillère à soupe d'origan ou 1 bouquet de marjolaine</p>
+<p>3-4 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="huile;origan"> mélangez </operation> l' <ingredient action="mélanger"> huile </ingredient> avec l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> origan </ingredient> ou la marjolaine <operation> effeuillée </operation> . <operation ingredients="côtes;huile"> badigeonnez </operation> les <ingredient action="badigeonner" quantite="4"> côtes </ingredient> de porc avec cette <ingredient action="badigeonner"> huile </ingredient> et laissez <operation> mariner </operation> 1 h. faites <operation ingredients="côtes"> cuire </operation> les <ingredient action="cuire" quantite="4"> côtes </ingredient> au barbecue ou au grill en les <operation> retournant </operation> souvent , pendant environ 20 min .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30362">
+<titre>Poêlée de concombres à la tomate</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 concombres</p>
+<p>4 oignons</p>
+<p>2 tomates de grosse taille</p>
+<p>1 bouquet garni</p>
+<p>beurre</p>
+<p>persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;tomates"> peler </operation> les <ingredient action="peler" quantite="4"> oignons </ingredient> et les <ingredient action="peler" quantite="2"> tomates </ingredient> . <operation> emincer </operation> les <ingredient quantite="4"> oignons </ingredient> , puis <operation ingredients="tomates"> détailler </operation> les <ingredient action="détailler" quantite="2"> tomates </ingredient> <operation> épépinées </operation> en dés . dans une sauteuse <operation> beurrée </operation> , faire <operation ingredients="oignons"> blondir </operation> les <ingredient action="blondir" quantite="4"> oignons </ingredient> , puis y <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> tomates </ingredient> et laisser <operation> mijoter </operation> quelques minutes à feu doux . <operation ingredients="bouquet"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> pour <operation> assaisonner </operation> , <operation ingredients="sel;poivre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sel </ingredient> et de <ingredient action="saupoudrer" quantite=""> poivre </ingredient> . <operation> eplucher </operation> les <ingredient action="détailler" quantite="3"> concombres </ingredient> , les <operation> égrener </operation> , les <operation ingredients="concombres"> détailler </operation> en bâtonnets à l' aide d' un économe ; puis les <operation> mettre </operation> à <operation> blanchir </operation> 5 min dans l' eau bouillante <operation> salée </operation> . <operation ingredients="bouquet"> retirer </operation> le <ingredient action="retirer" quantite="1"> bouquet </ingredient> <operation> garni </operation> de la sauteuse et <operation ingredients="tomates"> tamiser </operation> le <operation> mélange </operation> <ingredient action="tamiser" quantite="2"> tomates </ingredient> / oignons . une fois <operation> blanchis </operation> , les <operation> mettre </operation> à <operation> égoutter </operation> , puis les <operation> jeter </operation> dans la sauteuse pour les faire étuver pendant 10 min . <operation ingredients="tomates"> ajouter </operation> ensuite le <operation> mélange </operation> à la purée de <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> tamisée </operation> , poursuivre la cuisson 5 min environ , puis <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> <operation> haché </operation> avant de servir .
+</preparation>
+</recette>

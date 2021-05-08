@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55930">
+<titre>Délice de saumon aux pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 à 200 g de saumon</p>
+<p>court-bouillon maison ou en sachet</p>
+<p>3 petites pommes de terrre</p>
+<p>1 petite boîte de tomates pelées</p>
+<p>1 noisette de beurre</p>
+<p>persil et ail frais</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> au court-bouillon . faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> terre 30 min dans de l' eau bouillante . <operation> hachez </operation> l' <ingredient> ail </ingredient> et le <ingredient quantite=""> persil </ingredient> et <operation> mélangez </operation> - les . <operation ingredients="saumon;pommes"> découpez </operation> le <ingredient action="découper"> saumon </ingredient> et les <ingredient action="découper" quantite="3"> pommes </ingredient> de terre en fines tranches , faites - les <operation ingredients="beurre;ail;persil"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> , avec l' <ingredient action="revenir"> ail </ingredient> et le <ingredient action="revenir" quantite=""> persil </ingredient> . <operation> retirez </operation> - les de la <operation> poêle </operation> , <operation> réservez </operation> au chaud et faites - y <operation ingredients="tomates"> revenir </operation> les <ingredient action="revenir"> tomates </ingredient> <operation> pelées </operation> . <operation ingredients="tomate;pommes;saumon"> déposez </operation> une partie des <ingredient action="déposer"> tomate </ingredient> au fond de l' assiette , puis les <ingredient action="déposer" quantite="3"> pommes </ingredient> de terre , ensuite le <ingredient action="déposer"> saumon </ingredient> et enfin le reste <ingredient> tomates </ingredient> . dégustez !
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223475">
+<titre>Soupe à la citrouille de Véro</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 kg de citrouille</p>
+<p>2 carottes</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>30 g de beurre</p>
+<p>1 cube de bouillon de légumes</p>
+<p>3 pincées de muscade</p>
+<p>1/2 l d'eau</p>
+<p>2 pommes de terre (moyenne a grosse)</p>
+<p>3 cuillères à soupe de crème fraiche</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="citrouille;oignon;ail;beurre"> sauter </operation> les dés de <ingredient action="sauter" quantite="1,5 kilogramme"> citrouille </ingredient> , l’ <ingredient action="sauter" quantite="1"> oignon </ingredient> et l’ <ingredient action="sauter"> ail </ingredient> dans le <ingredient action="sauter" quantite="30 gramme"> beurre </ingredient> . <operation ingredients="bouillon"> ajoutez </operation> le <ingredient action="ajouter"> bouillon </ingredient> de légumes , les <ingredient action="poivrer" quantite="2"> carottes </ingredient> <operation> coupés </operation> en rondelles , les <ingredient action="poivrer" quantite="2"> pommes </ingredient> de terre <operation> coupés </operation> en morceaux , <operation> saler </operation> , <operation ingredients="carottes;pommes"> poivrer </operation> légèrement et <operation ingredients="muscade"> ajouter </operation> la <ingredient action="ajouter" quantite="3 pincée"> muscade </ingredient> , puis faire <operation ingredients="citrouille"> cuire </operation> jusqu’ à ce que la <ingredient action="cuire" quantite="1,5 kilogramme"> citrouille </ingredient> soit tendre . <operation> passer </operation> au <operation> mixer </operation> . allonger la <ingredient> soupe </ingredient> avec la <ingredient quantite="3 cuillère à soupe"> crème </ingredient> fraiche . <operation> réchauffer </operation> et servir , <operation ingredients="persil"> décorée </operation> avec du <ingredient action="décorer"> persil </ingredient> <operation ingredients="ciboulette"> haché </operation> ou de la <ingredient action="hacher"> ciboulette </ingredient> .
+</preparation>
+</recette>

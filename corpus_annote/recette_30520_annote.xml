@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30520">
+<titre>Yaourts aux agrumes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 yaourts</p>
+<p>2 pamplemousses</p>
+<p>2 oranges</p>
+<p>4 cuillères à soupe de sucre</p>
+<p>1 cuillère à soupe de kirsch (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> pelez </operation> les <ingredient action="peler" quantite="2"> oranges </ingredient> à vif , <operation> découpez </operation> - les en tranches . <operation ingredients="pamplemousses"> coupez </operation> les <ingredient action="couper" quantite="2"> pamplemousses </ingredient> en deux , évidez - les soigneusement et <operation ingredients="chair"> pelez </operation> la <ingredient action="peler"> chair </ingredient> à vif . <operation> découpez </operation> - la en dés et récupérez le <ingredient> jus </ingredient> rendu . <operation ingredients="yaourts;jus;pamplemousse"> mélangez </operation> les <ingredient action="mélanger" quantite="4"> yaourts </ingredient> avec le <ingredient action="mélanger"> jus </ingredient> et les dés de <ingredient action="mélanger" quantite="2"> pamplemousse </ingredient> , <operation ingredients="oranges;sucre"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oranges </ingredient> , le kirsch , et le <ingredient action="ajouter" quantite="4 cuillère à soupe"> sucre </ingredient> . <operation ingredients="pamplemousse"> garnissez </operation> les écorces de <ingredient action="garnir" quantite="2"> pamplemousse </ingredient> évidées et <operation> réservez </operation> au frais avant de servir .
+</preparation>
+</recette>

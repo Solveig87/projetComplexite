@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42442">
+<titre>Filet mignon farci en croute</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 filets mignons</p>
+<p>2 pâtes feuilletées toute prête</p>
+<p>Pour la farce :</p>
+<p>800 g de champignons</p>
+<p>4 carottes</p>
+<p>2 branches de celeris</p>
+<p>1 oignon</p>
+<p>2 cuillères à soupe de ciboulette</p>
+<p>d2 cuillères à soupe de persil haché</p>
+<p>le jus de deux citrons</p>
+<p>1 verre de vin blanc</p>
+<p>un peu de farine pour la plaque de cuisson</p>
+<p>1 jaune d'oeuf pour la dorure</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la farce : faites <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> coupé </operation> en petits morceaux . <operation ingredients="légumes"> coupez </operation> tous les <ingredient action="couper" quantite="800 gramme;4;1"> légumes </ingredient> en petits morceaux . . . moi , je le fait au robot , pour plus de rapidité . les <operation ingredients="oignon"> ajouter </operation> à l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . <operation ingredients="ciboulette;persil;jus;vin"> incorporez </operation> la <ingredient action="incorporer" quantite="2 cuillère à soupe"> ciboulette </ingredient> , le <ingredient action="incorporer"> persil </ingredient> , le <ingredient action="incorporer" quantite=""> jus </ingredient> de citron , le <ingredient action="incorporer" quantite="1 verre"> vin </ingredient> blanc . <operation> salez </operation> , <operation> poivrez </operation> , et laissez <operation> réduire </operation> une quinzaine de minutes . laissez refroidir . <operation> egouttez </operation> grossièrement la farce . <operation ingredients="pâte"> etalez </operation> votre <ingredient action="etaler"> pâte </ingredient> feuilletée , et <operation> déposez </operation> un peu de farce dessus . l' étaler . <operation> positionnez </operation> le filet sur la farce , et <operation> badigeonnez </operation> le filet de farce . <operation ingredients="pâte;oeuf"> refermez </operation> la <ingredient action="refermer"> pâte </ingredient> feuilletée , en la soudant avec un peu d' eau ou du jaune d' <ingredient action="refermer"> oeuf </ingredient> . recommencez avec le deuxieme filet et la deuxieme <ingredient> pâte </ingredient> . <operation ingredients="oeuf"> badigeonnez </operation> avec du jaune d' <ingredient action="badigeonner"> oeuf </ingredient> , pour permettre à la <ingredient> pâte </ingredient> de <operation> dorer </operation> . <operation> positionnez </operation> sur une <operation> plaque </operation> de cuisson <operation> farinée </operation> . <operation> enfournez </operation> à 180 <operation> ° </operation> c ( chaleur tournante ) , pendant 40 minutes . servi avec une purée à la vanille .
+</preparation>
+</recette>

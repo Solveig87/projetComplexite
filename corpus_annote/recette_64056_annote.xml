@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64056">
+<titre>Courge spaghetti  à la carbonara</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 courge spaghetti (environ 2 Kg)</p>
+<p>2 oignons</p>
+<p>200 g de lardons</p>
+<p>25 cl de crème fraîche épaisse</p>
+<p>100 g de parmesan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="courge;spaghetti"> cuire </operation> la <ingredient action="cuire" quantite="1"> courge </ingredient> <ingredient action="cuire"> spaghetti </ingredient> entière dans une casserole environ 1 h ou 30 min dans une cocotte - minute . ensuite la <operation> couper </operation> en deux dans le sens de la longueur , <operation> enlever </operation> les graines et tirer la <ingredient> chair </ingredient> avec une fourchette . laisser <operation> égoutter </operation> . dans un wok ou une <operation> poêle </operation> , faire <operation ingredients="lardons;oignons"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> lardons </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> , <operation ingredients="spaghettis"> mettre </operation> les <ingredient action="mettre"> spaghettis </ingredient> de courge et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> et enfin <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="100 gramme"> parmesan </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84279">
+<titre>Sandwich du randonneur</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 baguette bien cuite</p>
+<p>4 rondelles de rosette</p>
+<p>4 rondelles de mortadelle</p>
+<p>1 petite boîte de thon au naturel</p>
+<p>1 pincée de thym en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="baguette"> couper </operation> la demi <ingredient action="couper"> baguette </ingredient> en deux , dans le sens de la longueur . <operation ingredients="mortadelle"> déposer </operation> en son centre les quatre rondelles de <ingredient action="déposer"> mortadelle </ingredient> . <operation ingredients="mortadelle"> déposer </operation> sur la <ingredient action="déposer"> mortadelle </ingredient> les quatre rondelles de rosette . enfin <operation ingredients="thon"> déposer </operation> sur la rosette le <ingredient action="déposer"> thon </ingredient> préalablement émietté . bien <operation ingredients="sandwich"> refermer </operation> le <ingredient action="refermer"> sandwich </ingredient> sur lui-même . le réouvrir immédiatement , puis le <operation ingredients="thym"> parsemer </operation> avec la pincée de <ingredient action="parsemer" quantite="1 pincée"> thym </ingredient> en <operation> poudre </operation> . <operation ingredients="sandwich"> refermer </operation> le <ingredient action="refermer"> sandwich </ingredient> et déguster . <ingredient> vin </ingredient> rouge . saint-chinian
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29018">
+<titre>Pennes au crabe</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de penne</p>
+<p>1 grosse boîte de crabe</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe de concentré de tomates</p>
+<p>2 louches de fumet de poisson</p>
+<p>20 cl de vin blanc sec</p>
+<p>10 cl d'huile</p>
+<p>Worcestershire sauce</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="10 cl"> huile </ingredient> , <operation ingredients="gousses"> mettez </operation> - y les <ingredient action="mettre" quantite="2"> gousses </ingredient> d' ail entières , <operation> poivrez </operation> et laissez <operation> blondir </operation> . <operation ingredients="ail"> retirez </operation> l' <ingredient action="retirer"> ail </ingredient> , <operation ingredients="crabe"> mettez </operation> le <ingredient action="mettre"> crabe </ingredient> <operation> émietté </operation> et laissez <operation> rissoler </operation> . <operation ingredients="crabe;vin"> mouillez </operation> avec l' eau de la boîte de <ingredient action="mouiller"> crabe </ingredient> et le <ingredient action="mouiller" quantite="20 cl"> vin </ingredient> blanc . <operation> délayez </operation> la sauce tomate dans le fumet et <operation> rajoutez </operation> - la au <ingredient action="saler"> crabe </ingredient> , <operation ingredients="crabe"> salez </operation> et <operation> poivrez </operation> . laissez <operation> mijoter </operation> ainsi 20 min . faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " . <operation ingredients="worcestershire;crabe"> rajoutez </operation> un peu de <ingredient action="rajouter" quantite=""> worcestershire </ingredient> sauce dans la sauce au <ingredient action="rajouter"> crabe </ingredient> . <operation> egouttez </operation> les <ingredient action="verser"> pâtes </ingredient> , <operation ingredients="pâtes"> versez </operation> la sauce dessus et servez .
+</preparation>
+</recette>

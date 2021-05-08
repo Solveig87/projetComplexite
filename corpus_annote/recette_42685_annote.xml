@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42685">
+<titre>Soupe aux carottes et lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de carottes</p>
+<p>1 oignon</p>
+<p>200 g de lardons</p>
+<p>sel (pas trop)</p>
+<p>poivre</p>
+<p>75 cl à 1 l de bouillon de boeuf</p>
+</ingredients>
+<preparation>
+dans une casserole <operation ingredients="oignons"> mettre </operation> une cuillère à soupe d' huile et faire <operation> revenir </operation> quelques minutes les <ingredient action="mettre" quantite="1"> oignons </ingredient> <operation> émincés </operation> , et les <ingredient quantite="600 gramme"> carottes </ingredient> <operation> coupées </operation> en rondelles . <operation ingredients="bouillon;poivre"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> , du <ingredient action="ajouter" quantite=""> poivre </ingredient> , un peu de <ingredient quantite=""> sel </ingredient> ( pas trop , mieux vaut <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> plus tard ) . quand la <ingredient> soupe </ingredient> commence à <operation> bouillir </operation> <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> et laisser <operation> cuire </operation> 45 min . avant de servir <operation ingredients="soupe"> passer </operation> la <ingredient action="passer"> soupe </ingredient> au <operation> mixer </operation> .
+</preparation>
+</recette>

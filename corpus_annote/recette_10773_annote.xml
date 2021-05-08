@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10773">
+<titre>Galettes de viande surprise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de veau</p>
+<p>300 g de poulet (restes de poulet rôti éventuellement)</p>
+<p>100 g de Comté</p>
+<p>50 g de beurre</p>
+<p>2 jaunes d'oeufs</p>
+<p>thym</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;viande"> hachez </operation> ensemble le <ingredient action="hacher" quantite="300 gramme"> poulet </ingredient> et la <ingredient action="hacher" quantite="300 gramme"> viande </ingredient> de veau . <operation ingredients="oeufs;sel;poivre"> mélangez </operation> avec les petits suisses , les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> , beaucoup de <ingredient action="mélanger" quantite=""> poivre </ingredient> et 1 / 2 cuillère à café de thym . <operation ingredients="galettes"> façonnez </operation> 4 <ingredient action="façonner"> galettes </ingredient> avec le <operation> mélange </operation> . <operation ingredients="comté"> détaillez </operation> le <ingredient action="détailler" quantite="100 gramme"> comté </ingredient> en 4 lamelles . <operation ingredients="galette"> ouvrez </operation> chaque <ingredient action="ouvrir"> galette </ingredient> en deux et <operation> introduisez </operation> - y une lamelle de <ingredient quantite="100 gramme"> comté </ingredient> . puis reconstituez les <ingredient> galettes </ingredient> de manière à <operation ingredients="fromage"> enfermer </operation> le <ingredient action="enfermer"> fromage </ingredient> . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> pour <operation ingredients="galettes"> dorer </operation> les <ingredient action="dorer"> galettes </ingredient> sur chaque face et laissez <operation> cuire </operation> 7 minutes de chaque côté . servez avec du <ingredient> maïs </ingredient> en grains à la <ingredient> crème </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15098">
+<titre>Riz au lait à l'ancienne</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de riz rond</p>
+<p>1,5 litre de lait</p>
+<p>13 pierres de sucre</p>
+<p>2 paquets de sucre vanillé</p>
+<p>1/2 gousse de vanille</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+dans une grande casserole , <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre" quantite="1,5 litre"> lait </ingredient> et tous les ingrédients . laisser <operation> cuire </operation> à feu très doux 2 ou 3 heures puis , en fin de cuisson , <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> , <operation> battre </operation> le blanc en neige et <operation ingredients="riz"> mélanger </operation> au <ingredient action="mélanger" quantite="100 gramme"> riz </ingredient> . délicieux tiède .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29019">
+<titre>Choco crème menthe</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat à pâtisserie</p>
+<p>40 cl de crème liquide (dont 20 cl de crème très froide) </p>
+<p>10 feuilles de menthe sauvage</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 moule à cake</p>
+</ingredients>
+<preparation>
+dans une petite casserole , <operation ingredients="crème;menthe"> portez </operation> à <operation> ébullition </operation> la moitié de la <ingredient action="porter" quantite="40 cl"> crème </ingredient> liquide avec les feuilles de <ingredient action="porter" quantite="10 feuille"> menthe </ingredient> . hors du feu , <operation> couvrez </operation> la casserole et laissez <operation> infuser </operation> 5 mn puis <operation ingredients="menthe"> retirez </operation> les feuilles de <ingredient action="retirer" quantite="10 feuille"> menthe </ingredient> . <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="40 cl"> crème </ingredient> liquide dans un saladier contenant le <ingredient quantite="200 gramme"> chocolat </ingredient> cassé en morceaux . <operation> couvrez </operation> , patientez quelques minutes , puis <operation> mélangez </operation> vivement à la fourchette pour obtenir un <ingredient quantite="200 gramme"> chocolat </ingredient> <operation> lisse </operation> . <operation ingredients="chantilly"> montez </operation> en <ingredient action="monter"> chantilly </ingredient> la crème liquide bien froide en <operation ingredients="sucre"> incorporant </operation> le <ingredient action="incorporer"> sucre </ingredient> vanillé en cours d' opération . <operation ingredients="crème;chantilly"> mélangez </operation> délicatement la <ingredient action="mélanger" quantite="40 cl"> crème </ingredient> <ingredient action="mélanger"> chantilly </ingredient> au chocolat . <operation> versez </operation> cette préparation dans un <operation> moule </operation> à cake . <operation> recouvrez </operation> d' un film transparent et <operation> placez </operation> au réfrigérateur 3 h minimun . au moment de servir , <operation> démoulez </operation> votre <ingredient action="plonger" quantite="200 gramme;40 cl"> dessert </ingredient> : <operation ingredients="dessert"> plongez </operation> le <operation> moule </operation> , quelque minutes dans de l' eau chaude , puis <operation> retournez </operation> - le sur un plat , il se <operation> démoulera </operation> plus facilement .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36043">
+<titre>Pâtes forestières</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de lardons fumés</p>
+<p>2 gros oignons</p>
+<p>500 g de champignons de paris</p>
+<p>25 cl de crème légère</p>
+<p>500 g de pâtes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;matière"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> dans une casserole à fond antiadhésif ( sans <ingredient action="revenir"> matière </ingredient> grasse ) . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> découpés </operation> en lamelles et les faire <operation> blondir </operation> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> champignons </ingredient> . quand ils sont <operation> cuits </operation> , <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite="25 cl"> crème </ingredient> et faire <operation> réduire </operation> , éventuellement <operation> ajouter </operation> un peu de <operation> liant </operation> pour sauce . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pâtes </ingredient> al dente , et servir en <operation> nappant </operation> de sauce .
+</preparation>
+</recette>

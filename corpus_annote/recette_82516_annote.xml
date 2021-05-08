@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82516">
+<titre>Tartines au cantal</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 tranches de pain de seigle</p>
+<p>200 g de cantal entre-deux</p>
+<p>6 tranches de jambon cru</p>
+<p>2 gousses d'ail</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pain"> huiler </operation> et <operation ingredients="ail"> frotter </operation> à l' <ingredient action="frotter"> ail </ingredient> les tranches de <ingredient action="huiler" quantite="6 tranche"> pain </ingredient> . <operation ingredients="jambon;pain"> déposer </operation> " en petites vagues " les tranches de <ingredient action="déposer" quantite="6 tranche"> jambon </ingredient> sur le <ingredient action="déposer" quantite="6 tranche"> pain </ingredient> . <operation ingredients="cantal"> couper </operation> des tranches fines de <ingredient action="couper" quantite="200 gramme"> cantal </ingredient> et les <operation ingredients="jambon"> déposer </operation> sur le <ingredient action="déposer" quantite="6 tranche"> jambon </ingredient> . <operation> mettre </operation> au four pendant 10 minutes à 180 c ( thermostat 6 ) . servir chaud à l' assiette sur un lit de <ingredient> salade </ingredient> frisée <operation ingredients="noix"> assaisonnée </operation> et <operation> parsemée </operation> de cerneaux de <ingredient action="assaisonner"> noix </ingredient> .
+</preparation>
+</recette>

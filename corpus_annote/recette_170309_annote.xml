@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170309">
+<titre>Abricots au nid</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de semoule</p>
+<p>50 cl de lait</p>
+<p>60 g de sucre</p>
+<p>100 g de chocolat noir</p>
+<p>400 g d'abricots en boîte</p>
+<p>10 g de beurre salé</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> . <operation ingredients="chocolat;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> en carrés et le <ingredient action="ajouter" quantite="60 gramme"> sucre </ingredient> , <operation> délayer </operation> à la cuillère en bois pour faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> . dès l' <operation> ébullition </operation> , <operation ingredients="semoule"> verser </operation> la <ingredient action="verser" quantite="50 gramme"> semoule </ingredient> en pluie . <operation> cuire </operation> 10 minutes à feu doux à moyen sans cesser de <operation> remuer </operation> . <operation ingredients="œufs"> ajouter </operation> , hors du feu , les jaunes d' <ingredient action="ajouter"> œufs </ingredient> un à un , en <operation> fouettant </operation> . <operation ingredients="œufs;sel"> monter </operation> les blancs d' <ingredient action="monter"> œufs </ingredient> en neige ferme avec une pincée de <ingredient action="monter" quantite=""> sel </ingredient> , les <operation> incorporer </operation> délicatement à la préparation . <operation> beurrer </operation> un plat allant au four , <operation ingredients="semoule"> verser </operation> la <ingredient action="verser" quantite="50 gramme"> semoule </ingredient> , la <operation> lisser </operation> . <operation> poser </operation> dessus les oreillons d' <ingredient action="égoutter"> abricots </ingredient> bien <operation ingredients="abricots"> égouttés </operation> . <operation> cuire </operation> 15 minutes dans le four préchauffé à 200 <operation> ° </operation> c thermostat 7 ) . dégustez tiède ou froid . vous pouvez remplacer les <ingredient> abricots </ingredient> par des <ingredient> pêches </ingredient> , des <ingredient> poires </ingredient> ou des <ingredient> mangues </ingredient> au sirop .
+</preparation>
+</recette>

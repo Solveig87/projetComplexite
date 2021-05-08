@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228191">
+<titre>Velouté de carottes au fromage ail et fines herbes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>900 g de carottes</p>
+<p>1 oignon</p>
+<p>60 g de fromage ail et fines herbes</p>
+<p>100 g de crème fraîche</p>
+<p>2 cuillères à soupe d'huile d'arachide (facultatif)</p>
+<p>1 pincée de sel </p>
+<p>1 pincée de poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> , y <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="900 gramme"> carottes </ingredient> <operation> coupées </operation> en rondelles ( <operation> cuire </operation> environ 5 min ) . <operation> verser </operation> 1 , 5 l d' eau , <operation> couvrir </operation> et finir la cuisson . <operation> mixez </operation> , <operation ingredients="crème;fromage;ail"> incorporez </operation> la <ingredient action="incorporer" quantite="100 gramme"> crème </ingredient> , le <ingredient action="incorporer" quantite="60 gramme"> fromage </ingredient> <ingredient action="incorporer"> ail </ingredient> et fines herbes et <operation> assaisonnez </operation> selon vos goûts .
+</preparation>
+</recette>

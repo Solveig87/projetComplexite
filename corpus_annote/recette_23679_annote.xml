@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23679">
+<titre>Gâteau caramélisé aux pruneaux</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de pruneaux</p>
+<p>175 g de farine</p>
+<p>225 g de sucre</p>
+<p>145 g de beurre</p>
+<p>12 cl de lait</p>
+<p>2 oeufs</p>
+<p>1 pincée de sel</p>
+<p>1 sachet de levure chimique</p>
+</ingredients>
+<preparation>
+faîtes <operation ingredients="pruneaux;thé"> gonfler </operation> les <ingredient action="gonfler" quantite="200 gramme"> pruneaux </ingredient> dans de l' eau ou du <ingredient action="gonfler"> thé </ingredient> pendant 2 à 3 h minimum . préchauffez le four à 170 <operation> ° </operation> c ( thermostat . 6 ) . faites <operation ingredients="beurre"> fondre </operation> 70 g de <ingredient action="fondre" quantite="145 gramme"> beurre </ingredient> et <operation> versez </operation> - le dans un <operation> moule </operation> rectangulaire . <operation ingredients="sucre"> saupoudrez </operation> de 75 g de <ingredient action="saupoudrer" quantite="225 gramme"> sucre </ingredient> . <operation ingredients="pruneaux"> disposez </operation> les <ingredient action="disposer" quantite="200 gramme"> pruneaux </ingredient> <operation> égouttés </operation> dans le plat . <operation ingredients="farine;sucre;levure"> mélangez </operation> la <ingredient action="mélanger" quantite="175 gramme"> farine </ingredient> avec le reste de <ingredient action="mélanger" quantite="225 gramme"> sucre </ingredient> , la <ingredient action="mélanger"> levure </ingredient> , le <ingredient quantite="1 pincée"> sel </ingredient> , le reste de <ingredient quantite="145 gramme"> beurre </ingredient> <operation> fondu </operation> , le <ingredient quantite="12 cl"> lait </ingredient> tiède et les <ingredient quantite="2"> oeufs </ingredient> . <operation ingredients="pâte;pruneaux"> versez </operation> la <ingredient action="verser"> pâte </ingredient> sur les <ingredient action="verser" quantite="200 gramme"> pruneaux </ingredient> et faites <operation ingredients="gâteau"> cuire </operation> le <ingredient action="cuire"> gâteau </ingredient> 40 min au four .
+</preparation>
+</recette>

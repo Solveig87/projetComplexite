@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25456">
+<titre>Oeufs frits à la viande et raïta aux radis</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>9 oeufs</p>
+<p>300 g de steak haché (boeuf)</p>
+<p>1 oignon</p>
+<p>1/2 bouquet de persil</p>
+<p>3 tranches de pain de mie</p>
+<p>farine</p>
+<p>sel, poivre</p>
+<p>huile de friture</p>
+<p>Pour la sauce raïta au concombre et radis :</p>
+<p>1 yaourt</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1/2 citron</p>
+<p>1 petit concombre</p>
+<p>10 radis</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain"> tremper </operation> la mie de <ingredient action="tremper" quantite="3 tranche"> pain </ingredient> dans un bol d' eau . faites <operation ingredients="oeufs"> cuire </operation> 8 <ingredient action="cuire" quantite="9"> oeufs </ingredient> mollets , environ . 7 min à l' eau bouillante . rafraîchissez - les et écalez - les . <operation> emincez </operation> le <operation action="concombre" ingredients="concombre;radis"> concombre </operation> en bâtonnets et les <ingredient action="concombre" quantite="10"> radis </ingredient> en rondelles . <operation ingredients="yaourt;crème;jus"> mélangez </operation> - les avec le <ingredient action="mélanger" quantite="1"> yaourt </ingredient> , la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et le <ingredient action="mélanger"> jus </ingredient> du demi-citron . <operation> salez </operation> et <operation> poivrez </operation> . <operation> réservez </operation> au frais . <operation ingredients="viande;oeuf"> malaxez </operation> la <ingredient action="malaxer" quantite="300 gramme"> viande </ingredient> hachée avec l' <ingredient action="malaxer" quantite="9"> oeuf </ingredient> restant . <operation ingredients="pain;oignon;persil"> ajoutez </operation> la mie de <ingredient action="ajouter" quantite="3 tranche"> pain </ingredient> <operation> essorée </operation> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> et le <ingredient action="ajouter"> persil </ingredient> hachés . <operation> salez </operation> , <operation> poivrez </operation> . <operation> divisez </operation> en huits parts égales . <operation> etalez </operation> - les et <operation ingredients="oeufs"> enveloppez </operation> les <ingredient action="envelopper" quantite="9"> oeufs </ingredient> avec . <operation ingredients="farine"> passez </operation> - les dans la <ingredient action="passer" quantite=""> farine </ingredient> et <operation> réservez </operation> . <operation ingredients="huile"> chauffez </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> de friture à 175 <operation> ° </operation> c. faites <operation> frire </operation> les <ingredient quantite="9"> oeufs </ingredient> <operation> enrobés </operation> environ 8 min en les <operation> retournant </operation> à mi-cuisson . <operation> egouttez </operation> bien et servez avec la sauce raïta .
+</preparation>
+</recette>

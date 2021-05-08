@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12259">
+<titre>Paris-Brest</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte à choux :</p>
+<p>1 tasse d'eau</p>
+<p>100 g de beurre</p>
+<p>6 œufs</p>
+<p>160 g de farine</p>
+<p>Pour la crème :</p>
+<p>50 g sucre</p>
+<p>1 cuillerée de maïzena</p>
+<p>1/4 litre de lait</p>
+<p>1 cuillerée de café en poudre</p>
+<p>4 œufs (séparer les blancs des jaunes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> cuire </operation> le <ingredient action="cuire" quantite="100 gramme"> beurre </ingredient> dans l' eau . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="160 gramme"> farine </ingredient> d' un coup et <operation> mélanger </operation> vigoureusement . <operation> retirer </operation> du feu et <operation ingredients="œufs"> ajouter </operation> les <ingredient action="ajouter" quantite="6+4"> œufs </ingredient> l' un après l' autre . <operation ingredients="pâte"> former </operation> une couronne avec la <ingredient action="former"> pâte </ingredient> et <operation> mettre </operation> à four moyen 15 minutes . laisser refroidir dans le four . <ingredient> crème </ingredient> : <operation ingredients="sucre;maïzena"> battre </operation> les jaunes avec le <ingredient action="battre" quantite="50 gramme"> sucre </ingredient> et la <ingredient action="battre"> maïzena </ingredient> . faire <operation ingredients="lait;café"> bouillir </operation> le <ingredient action="bouillir"> lait </ingredient> avec le <ingredient action="bouillir"> café </ingredient> . <operation> mélanger </operation> et <operation> remettre </operation> sur le feu . quand ça commence à <operation> bouillir </operation> , on retire du feu , on laisse refroidir et on ajoute les blancs bien <operation> fouettés </operation> . <operation> couper </operation> la couronne en deux moitiés . <operation ingredients="crème"> farcir </operation> une moitié avec la <ingredient action="farcir"> crème </ingredient> et <operation> couvrir </operation> avec l' autre moitié . <operation ingredients="sucre;amandes"> décorer </operation> avec le <ingredient action="décorer" quantite="50 gramme"> sucre </ingredient> en <operation> poudre </operation> et les filets d' <ingredient action="décorer"> amandes </ingredient> .
+</preparation>
+</recette>

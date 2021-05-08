@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23628">
+<titre>Potage chaud au concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>2 cubes de bouillon</p>
+<p>6 grosses pommes de terre</p>
+<p>1 gros oignon</p>
+<p>1 litre d'eau (voir plus, selon le goût)</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+<p>herbes de Provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> laver </operation> les <ingredient action="laver" quantite="2"> concombres </ingredient> , les <operation> couper </operation> en dés en laissant la peau . <operation ingredients="pommes;oignon"> couper </operation> aussi les <ingredient action="couper" quantite="6"> pommes </ingredient> de terre et l' <ingredient action="couper" quantite="1"> oignon </ingredient> . <operation> plonger </operation> tous les ingrédients dans l' eau bouillante . <operation ingredients="huile;sel;poivre"> mettre </operation> l' <ingredient action="mettre" quantite="2 cuillère à soupe"> huile </ingredient> , une pincée d' herbes de provence , une pincée de <ingredient action="mettre" quantite=""> sel </ingredient> et beaucoup de <ingredient action="mettre"> poivre </ingredient> . laisser <operation> mijoter </operation> pendant 3 / 4 d' heure avec un couvercle . <operation> tourner </operation> de temps en temps avec une cuillère en bois . après la cuisson , <operation> passer </operation> le tout au <operation> mixer </operation> . <operation> chauffer </operation> encore 5 min , c' est prêt !
+</preparation>
+</recette>

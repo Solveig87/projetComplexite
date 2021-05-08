@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66939">
+<titre>Crostini de ricotta au lard grillé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grandes tranches de pain de campagne</p>
+<p>50 g de ricotta</p>
+<p>200 g de lardons allumettes</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>1 gousse d'ail</p>
+<p>100 g de feuilles de roquette</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain"> griller </operation> les tranches de <ingredient action="griller"> pain </ingredient> sous le grill du four et <operation ingredients="gousse"> frottez </operation> - les avec la <ingredient action="frotter" quantite="1"> gousse </ingredient> d' ail . <operation ingredients="pain"> etalez </operation> la ricotta sur les tranches de <ingredient action="etaler"> pain </ingredient> refroidies , <operation> salez </operation> légèrement et <operation> poivrez </operation> , <operation ingredients="huile"> ajoutez </operation> un filet d' <ingredient action="ajouter" quantite="4 cuillère à soupe"> huile </ingredient> d' olive sur la ricotta . dans une <operation> poêle </operation> , faites <operation ingredients="lardons"> griller </operation> à sec les <ingredient action="griller"> lardons </ingredient> allumettes jusqu' à ce qu' il soient bien dorés et croustillants . dans un saladier , <operation ingredients="roquette;sel"> mélangez </operation> la <ingredient action="mélanger"> roquette </ingredient> avec deux cuillères à soupe d' huile d' olive et du <ingredient action="mélanger" quantite=""> sel </ingredient> . <operation> dressez </operation> les assiettes : <operation ingredients="roquette"> placer </operation> un peu de <ingredient action="placer"> roquette </ingredient> , <operation ingredients="pain"> déposez </operation> par - dessus la tranche de <ingredient action="déposer"> pain </ingredient> à la ricotta et <operation ingredients="lardons"> disposez </operation> les <ingredient action="disposer"> lardons </ingredient> <operation> grillés </operation> sur la ricotta . on peut <operation> agrémenter </operation> la présentation de cette entrée en <operation ingredients="roquette;tomate"> ajoutant </operation> sur la <ingredient action="ajouter"> roquette </ingredient> quelques petits dés de <ingredient action="ajouter"> tomate </ingredient> fraîche ( en été ) . bardolino rosé ou <ingredient> côte </ingredient> de provence rosé
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="197552">
+<titre>Linguine aux crevettes et épinards</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de linguine</p>
+<p>200 g de crevettes calibre 80/100 décortiquées</p>
+<p>10 tomates cerise</p>
+<p>10 jeunes pousses d'épinard</p>
+<p>1 gousse d'ail</p>
+<p>1 petit piment rouge</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de sauce pesto</p>
+<p>10 cl de crème liquide</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="linguine"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> linguine </ingredient> selon le temps indiqué sur l' emballage moins 1 minutes . pendant ce temps , dans un wok , <operation ingredients="huile"> verser </operation> les deux cuillères d' <ingredient action="verser" quantite="2 cuillère à soupe"> huile </ingredient> d' olive , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> émincé </operation> et le petit piment rouge <operation> coupé </operation> en rondelle ( attention , <operation> réduire </operation> le nombre de rondelles en fonction de la force souhaitée ) . a feu vif , <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> crevettes </ingredient> et laisser <operation> cuire </operation> 2 min . ensuite , à feu doux , <operation ingredients="crème;tomates;épinard"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> liquide , les <ingredient action="ajouter" quantite="10"> tomates </ingredient> <operation> coupées </operation> en 2 , puis les feuilles d' <ingredient action="ajouter"> épinard </ingredient> et laisser <operation> revenir </operation> 2 min . <operation ingredients="linguine;pesto"> égoutter </operation> les <ingredient action="égoutter" quantite="250 gramme"> linguine </ingredient> et les <operation> ajouter </operation> dans le wok , avec la cuillère de sauce <ingredient action="égoutter" quantite="1 cuillère à soupe"> pesto </ingredient> . laisser <operation> revenir </operation> encore 1 min , puis servir avec une branche d' <ingredient> aneth </ingredient> . vernaccia di san geminiano ( <ingredient> vin </ingredient> blanc sec et fruité de toscane )
+</preparation>
+</recette>

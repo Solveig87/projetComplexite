@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50619">
+<titre>Salade pomme de terre knackies</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 pommes de terre de taille moyenne</p>
+<p>8 knackies</p>
+<p>250 g de lardons ou d'allumettes de jambon</p>
+<p>250 g d'emmenthal</p>
+<p>salade verte</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="8"> pommes </ingredient> de terre dans l' eau bouillante environ 1 . 15 minutes puis les laisser refroidir et les <operation> couper </operation> en morceaux . faire <operation ingredients="saucisses;fromage"> cuire </operation> les <ingredient action="cuire"> saucisses </ingredient> puis les <operation> couper </operation> en morceaux ainsi que le <ingredient action="cuire"> fromage </ingredient> . <operation> préparer </operation> la vinaigrette en <operation ingredients="huile;vinaigre;sel;poivre"> émulsionnant </operation> l' <ingredient action="émulsionner" quantite="3 cuillère à soupe"> huile </ingredient> , le <ingredient action="émulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> , du <ingredient action="émulsionner" quantite=""> sel </ingredient> et du <ingredient action="émulsionner"> poivre </ingredient> . <operation ingredients="saucisses"> réchauffer </operation> <ingredient action="réchauffer"> saucisses </ingredient> et pommes de terre puis les <operation> arroser </operation> de vinaigrette et <operation ingredients="lardons;salade"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> lardons </ingredient> et la <ingredient action="ajouter" quantite=""> salade </ingredient> . <operation> mélanger </operation> . <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter"> fromage </ingredient> au dernier moment , sans <operation> remuer </operation> , afin qu' il ne <operation> fonde </operation> pas . cette recette peut se faire avec différents ingrédients , laisser parler votre imagination . <ingredient> vin </ingredient> rosé bien frais
+</preparation>
+</recette>

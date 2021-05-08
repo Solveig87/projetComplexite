@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16378">
+<titre>Croque-madame garni</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pain de mie tranché</p>
+<p>4 oeufs</p>
+<p>8 tranches de jambon</p>
+<p>4 tranches fromage (gruyère)</p>
+<p>assortiment de crudités : carottes, comcombres, tomates, céleri, macédoine...</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> les croques , en <operation ingredients="jambon;fromage"> plaçant </operation> 1 / 2 tranche de <ingredient action="placer" quantite="8 tranche"> jambon </ingredient> puis une tranche de <ingredient action="placer" quantite="4 tranche"> fromage </ingredient> à l' intérieur de 2 tartines . <operation> passer </operation> les croques au gril , puis <operation ingredients="oeufs"> cuire </operation> des <ingredient action="cuire" quantite="4"> oeufs </ingredient> sur le plat . <operation> poser </operation> le croque dans une assiette , puis . sur le dessus- <operation ingredients="oeuf"> ajouter </operation> un <ingredient action="ajouter" quantite="4"> oeuf </ingredient> sur le plat . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="crudités"> garnir </operation> les assiettes avec un assortiment de <ingredient action="garnir" quantite=";"> crudités </ingredient> à votre goût . vous pouvez essayer d' autres <ingredient quantite="4 tranche"> fromages </ingredient> , à l' intérieur du croque pour tester . pour l' assortiment de <ingredient quantite=";"> crudités </ingredient> , inventez à votre guise pour rendre l' assiette bien plus décorative .
+</preparation>
+</recette>

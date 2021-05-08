@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32470">
+<titre>Soufflé au céleri et au bleu</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 g de beurre</p>
+<p>60 g de farine</p>
+<p>1/4 l de lait</p>
+<p>400 g de purée de céleri (surgelée, ça va très bien)</p>
+<p>125 g de bleu des Causses (ou autre)</p>
+<p>6 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="béchamel;beurre;farine;lait"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> avec le <ingredient action="faire" quantite="50 gramme"> beurre </ingredient> , la <ingredient action="faire" quantite="60 gramme"> farine </ingredient> et le <ingredient action="faire"> lait </ingredient> . hors du feu , <operation ingredients="céleri;bleu;oeufs"> ajouter </operation> la purée de <ingredient action="ajouter"> céleri </ingredient> , le <ingredient action="ajouter" quantite="125 gramme"> bleu </ingredient> <operation> écrasé </operation> à la fourchette , et les jaunes d' <ingredient action="ajouter" quantite="6"> oeufs </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="oeufs"> battre </operation> les blancs d' <ingredient action="battre" quantite="6"> oeufs </ingredient> en neige et les <operation> incorporer </operation> au <operation> mélange </operation> . faire <operation> cuire </operation> 40 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

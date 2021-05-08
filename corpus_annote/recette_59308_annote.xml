@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59308">
+<titre>Verrine café-chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>restes de gâteau moelleux au chocolat</p>
+<p>café très fort ou extrait</p>
+<p>125 g de mascarpone</p>
+<p>2 oeufs</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>cacao non sucré</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteau"> emietter </operation> les restes du <ingredient action="emietter"> gâteau </ingredient> au chocolat . <operation ingredients="sucre"> travailler </operation> les 2 jaunes avec le <ingredient action="travailler" quantite="2 cuillère à soupe"> sucre </ingredient> . <operation ingredients="café"> ajouter </operation> le <ingredient action="ajouter" quantite=""> café </ingredient> au point de bien teinter sans rendre trop liquide le <operation> mélange </operation> . <operation ingredients="mascarpone"> ajouter </operation> la <ingredient action="ajouter" quantite="125 gramme"> mascarpone </ingredient> , puis délicatement les blancs <operation> montés </operation> en neige . alterner couches de ce <operation> mélange </operation> et grosses miettes de moelleux . terminer par le <operation> mélange </operation> , <operation ingredients="cacao"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cacao </ingredient> . servir bien frais .
+</preparation>
+</recette>

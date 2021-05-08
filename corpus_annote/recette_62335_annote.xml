@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62335">
+<titre>Soupe au riz et au boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de boeuf</p>
+<p>2 cubes de bouillon</p>
+<p>1 botte de poireau</p>
+<p>1 kg de carotte</p>
+<p>1 petit pot de crème fraîche</p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>250 g de riz environ</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="boeuf;bouillon"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> boeuf </ingredient> avec les cubes de <ingredient action="cuire"> bouillon </ingredient> dans une marmite <operation> remplie </operation> d' eau . une fois la <ingredient action="retirer" quantite="200 gramme"> viande </ingredient> bien cuite , la <operation ingredients="viande;poireaux"> retirer </operation> et <operation ingredients="carottes"> mettre </operation> les <ingredient action="mettre" quantite="1 kilogramme"> carottes </ingredient> et les <ingredient action="retirer"> poireaux </ingredient> . lorsqu' ils sont <operation> cuits </operation> , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> riz </ingredient> . lorsque le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , <operation ingredients="tomate;crème"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et la <ingredient action="ajouter"> crème </ingredient> . bien <operation> mélanger </operation> . <operation> rajouter </operation> de l' eau si nécessaire . <operation ingredients="viande;soupe"> déposer </operation> la <ingredient action="déposer" quantite="200 gramme"> viande </ingredient> dans la <ingredient action="déposer"> soupe </ingredient> , <operation ingredients="soupe"> laisser </operation> <operation> réchauffer </operation> quelques instants et votre <ingredient action="laisser"> soupe </ingredient> est prête ! c' est le plat que mon papa me faisait lorsque j' étais petite . délicieux , mon fils de 3 ans adore .
+</preparation>
+</recette>

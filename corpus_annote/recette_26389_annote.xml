@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26389">
+<titre>Papillote de truite au beurre d'herbes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 truites</p>
+<p>300 g de beurre mou</p>
+<p>1/2 bouquet de persil</p>
+<p>3 branches d'estragon</p>
+<p>3 échalotes</p>
+<p>30 cl de vin blanc sec</p>
+<p>sel, poivre du moulin</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="persil;estragon;échalotes"> hacher </operation> le <ingredient action="hacher"> persil </ingredient> , l' <ingredient action="hacher"> estragon </ingredient> et les <ingredient action="hacher" quantite="3"> échalotes </ingredient> puis <operation ingredients="beurre"> incorporer </operation> au <ingredient action="incorporer" quantite="300 gramme"> beurre </ingredient> <operation> ramolli </operation> . <operation ingredients="truites"> farcir </operation> les <ingredient action="farcir" quantite="6"> truites </ingredient> de beurre aux herbes . <operation ingredients="truites;beurre;vin"> déposer </operation> les <ingredient action="déposer" quantite="6"> truites </ingredient> dans des papillotes de papier sulfurisé avec le reste du <ingredient action="déposer" quantite="300 gramme"> beurre </ingredient> et le <ingredient action="déposer" quantite="30 cl"> vin </ingredient> blanc . <operation> enfourner </operation> pour 10 minutes de cuisson .
+</preparation>
+</recette>

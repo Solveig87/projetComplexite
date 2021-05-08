@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28007">
+<titre>Salade soja - lardons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une boîte de pousses de soja</p>
+<p>2 grosses pommes de terre</p>
+<p>100 g de lardons fumés</p>
+<p>sel, poivre</p>
+<p>huile</p>
+<p>vinaigre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre avec la peau à la cocote - minute . pendant ce temps , <operation ingredients="pousses"> rincer </operation> les <ingredient action="rincer"> pousses </ingredient> de soja à l' eau claire , les <operation> égoutter </operation> . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> avec une cuillère à soupe d' huile . <operation ingredients="pommes;lardons"> mélanger </operation> dans un saladier le soja , les <ingredient action="mélanger" quantite="2"> pommes </ingredient> de terre <operation> épluchées </operation> et <operation> coupées </operation> en cubes et les <ingredient action="mélanger"> lardons </ingredient> dorés . <operation ingredients="sel;vinaigre"> ajouter </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre et un peu de <ingredient action="ajouter" quantite=""> vinaigre </ingredient> .
+</preparation>
+</recette>

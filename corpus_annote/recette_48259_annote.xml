@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48259">
+<titre>Soupe de poisson cannibale</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de poisson gras (identiques ou différents poissons)</p>
+<p>8 cuillères à soupe de sauce soja</p>
+<p>8 cuillères à soupe de vinaigre de riz</p>
+<p>1 bouillon Kub légumes</p>
+<p>1 litre d'eau</p>
+</ingredients>
+<preparation>
+2 h avant le repas , <operation ingredients="poisson"> couper </operation> les tranches de <ingredient action="couper" quantite="4 tranche"> poisson </ingredient> et petits dés en <operation> enlevant </operation> au préalable la peau . <operation> répartir </operation> les dés dans quatre assiettes à soupe . <operation ingredients="soja"> arroser </operation> chaque assiette de 2 cuillères de sauce <ingredient action="arroser"> soja </ingredient> et 2 cuillères de <ingredient quantite="8 cuillère à soupe"> vinaigre </ingredient> ; laisser <operation> reposer </operation> . au moment du repas , <operation> mettre </operation> les assiettes à table . faire <operation ingredients="bouillon"> fondre </operation> le <ingredient action="fondre" quantite="1"> bouillon </ingredient> kub dans l' eau et laisser <operation> bouillir </operation> très fort . <operation ingredients="bouillon;poisson"> verser </operation> le <ingredient action="verser" quantite="1"> bouillon </ingredient> sur le <ingredient action="verser" quantite="4 tranche"> poisson </ingredient> , et déguster de suite . l' extérieur du <ingredient quantite="4 tranche"> poisson </ingredient> <operation ingredients="bouillon;coeur"> cuit </operation> dans le <ingredient action="cuire" quantite="1"> bouillon </ingredient> et le <ingredient action="cuire"> coeur </ingredient> reste frais . pour les <operation ingredients="poissons"> amateurs </operation> de <ingredient action="amateur" quantite="4 tranche"> poissons </ingredient> crus . . .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40078">
+<titre>Lentilles à la viande hachée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de 500 g de lentilles salées (natures)</p>
+<p>1 gros oignon</p>
+<p>1 poivron vert</p>
+<p>2 steacks hachés de boeuf</p>
+<p>gruyère râpé selon les goûts</p>
+<p>sel, poivre</p>
+<p>huile d'olive</p>
+<p>cumin en poudre à volonté</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="steacks;huile"> revenir </operation> les <ingredient action="revenir" quantite="2"> steacks </ingredient> <operation> hachés </operation> émiettés dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . lorsque la <ingredient quantite="2"> viande </ingredient> est bien saisie , arrêter la cuisson , <operation> réserver </operation> . faire <operation ingredients="poivron"> revenir </operation> ensuite le <ingredient action="revenir"> poivron </ingredient> <operation> coupé </operation> en lamelles . <operation> réserver </operation> . faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> coupé </operation> en rondelles . une fois l' <ingredient action="incorporer" quantite="1"> oignon </ingredient> doré , <operation ingredients="oignon;poivron;viande"> incorporer </operation> le <ingredient action="incorporer"> poivron </ingredient> et la <ingredient action="incorporer" quantite="2"> viande </ingredient> . <operation> mélanger </operation> . <operation ingredients="lentilles"> ajouter </operation> rapidement les <ingredient action="ajouter"> lentilles </ingredient> égoutées ( il ne faut pas que la <ingredient quantite="2"> viande </ingredient> soit trop sèche ) . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="cumin"> ajouter </operation> du <ingredient action="ajouter" quantite=""> cumin </ingredient> à volonté et selon goût . finir par du <ingredient quantite=""> gruyère </ingredient> râpé et servir aussitôt . bon appétit !
+</preparation>
+</recette>

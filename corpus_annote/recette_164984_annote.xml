@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164984">
+<titre>Francesinha a torgueda</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la sauce :</p>
+<p>50 cl de bière</p>
+<p>4 cuillères à soupe de beurre</p>
+<p>1 bouillon de volaille</p>
+<p>1/2 verre de whisky</p>
+<p>570 g de ketchup</p>
+<p>piri piri </p>
+<p>1 tasse de lait </p>
+<p>maïzena</p>
+<p> </p>
+<p>Pour le "sandwich" :</p>
+<p>8 tranches de pain de mie épaisses</p>
+<p>4 tranches de boeuf cuit</p>
+<p>4 tranches de jambon</p>
+<p>8 tranches de fromages </p>
+<p>4 rondelles de chorizo</p>
+</ingredients>
+<preparation>
+pour faire la sauce : dans une casserole <operation ingredients="lait"> mettre </operation> tous les ingredients sauf le <ingredient action="mettre"> lait </ingredient> et la maisena <operation> melanger </operation> et <operation> porter </operation> a ebulition a feu doux . <operation ingredients="lait"> mettre </operation> le <ingredient action="mettre"> lait </ingredient> et laisser <operation> bouillir </operation> encore une fois mais a feu vif . si la sauce est trop liquide <operation> diluer </operation> un peu de maisena dans peu d ' eau et <operation> verser </operation> au reste de la sauce puis <operation> mélanger </operation> . laisser <operation> bouillir </operation> une dernière fois . pour <operation ingredients="sandwich;pain;fromage;jambon;pain"> faire </operation> le <ingredient action="faire"> sandwich </ingredient> : 1 tranche de <ingredient action="faire" quantite="8 tranche"> pain </ingredient> de mie , 1 tranche de <ingredient action="faire" quantite="8 tranche"> fromage </ingredient> , le bife , 1 tranche de <ingredient action="faire" quantite="4 tranche"> jambon </ingredient> , 1 tranche de <ingredient action="faire" quantite="8 tranche"> pain </ingredient> de mie et pour finir 1 tranche de <ingredient quantite="8 tranche"> fromage </ingredient> . <operation> mettre </operation> quelques secondes au micro-onde et <operation> verser </operation> la sauce par dessus . pour <operation> finaliser </operation> <operation ingredients="chorizo"> disposer </operation> 1 rondelle de <ingredient action="disposer"> chorizo </ingredient> . pour <operation> accompagner </operation> la francesinha a torgueda des frites sont le meilleur choix . pas de <ingredient> vin </ingredient> mais " um fino " , un <operation> mélange </operation> de <ingredient quantite="50 cl"> bière </ingredient> et de 7 up .
+</preparation>
+</recette>

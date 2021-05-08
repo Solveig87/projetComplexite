@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52893">
+<titre>Champignons mignons (pour les enfants)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>2 tomates</p>
+<p>4 feuilles de salade</p>
+<p>1 cuillère à soupe de mayonnaise</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="4"> oeufs </ingredient> 10 min , afin d' obtenir des <ingredient quantite="4"> oeufs </ingredient> durs ; les <operation> éplucher </operation> . <operation ingredients="salade"> disposer </operation> une feuille de <ingredient action="disposer" quantite="4 feuille"> salade </ingredient> sur chaque assiette , sur chaque feuille <operation ingredients="oeuf"> poser </operation> un <ingredient action="poser" quantite="4"> oeuf </ingredient> dur " debout " . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="2"> tomates </ingredient> en 2 dans la largeur , et <operation> creuser </operation> un peu chaque moitié avec une petite cuillère . <operation ingredients="tomate;oeuf"> poser </operation> une moitié de <ingredient action="poser" quantite="2"> tomate </ingredient> sur chaque <ingredient action="poser" quantite="4"> oeuf </ingredient> dur , et <operation ingredients="champignon;mayo"> décorer </operation> le " chapeau du <ingredient action="décorer"> champignon </ingredient> " avec des pointes de <ingredient action="décorer" quantite="1 cuillère à soupe"> mayo </ingredient> , pour imiter un <ingredient> champignon </ingredient> vénéneux . . . le coup du " <ingredient> champignon </ingredient> vénéneux " amuse à coup sûr les enfants !
+</preparation>
+</recette>

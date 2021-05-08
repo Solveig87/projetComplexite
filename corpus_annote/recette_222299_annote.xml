@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222299">
+<titre>Potage au fenouil et saumon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 bulbes de fenouil</p>
+<p>60 g de beurre</p>
+<p>2 cuillères à soupe de crème</p>
+<p>2 tranches de saumon fumé</p>
+<p>aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="fenouil"> nettoyer </operation> et <operation> émincer </operation> les bulbes de <ingredient action="nettoyer"> fenouil </ingredient> , les <operation ingredients="beurre"> faire </operation> étuver dans le <ingredient action="faire" quantite="60 gramme"> beurre </ingredient> 20 min . <operation> ajouter </operation> 2 dl d' eau et <operation> cuire </operation> encore 20 min . <operation> mixer </operation> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> . <operation ingredients="saumon"> détailler </operation> le <ingredient action="détailler"> saumon </ingredient> en petits morceaux . servir la <ingredient> soupe </ingredient> à l' assiette et <operation> poser </operation> dessus , au dernier moment , les morceaux de <ingredient> saumon </ingredient> .
+</preparation>
+</recette>

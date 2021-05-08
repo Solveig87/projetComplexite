@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="63815">
+<titre>Pâtes à la carbonara façon indienne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de tagliatelles ou spaghettis</p>
+<p>250 g de lardons</p>
+<p>1 petite boîte de champignons de Paris</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>la même quantité de gingembre</p>
+<p>20 cl de crème fraiche</p>
+<p>1 cuillère à café de cumin en poudre</p>
+<p>1 cuillère à café de coriandre en poudre</p>
+<p>1/2 cuillère à café de curcuma</p>
+<p>1/2 cuillère à café de piment en poudre</p>
+<p>1 cuillère à café de poudre de curry</p>
+<p>1 pincée de sel et de poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> selon les indications du paquet et pendant ce temps , faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive . lorsque l' <ingredient quantite="1"> oignon </ingredient> est translucide , <operation ingredients="ail;gingembre"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> gingembre </ingredient> . <operation ingredients="épices;lardons;champignons"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="2;1 cuillère à café;1 cuillère à café;1 pincée"> épices </ingredient> , puis les <ingredient action="ajouter" quantite="250 gramme"> lardons </ingredient> et les <ingredient action="ajouter"> champignons </ingredient> . <operation ingredients="pâtes;crème"> mélanger </operation> les <ingredient action="mélanger"> pâtes </ingredient> avec la préparation et la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraiche et servir immédiatement . pour la <operation ingredients="curry;curry"> poudre </operation> de <ingredient action="poudre"> curry </ingredient> , préférez de la <operation> poudre </operation> de <ingredient action="poudre"> curry </ingredient> achetée dans une épicerie indienne ou chinoise , plutôt qu' en supermarché . <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

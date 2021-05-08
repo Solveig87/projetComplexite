@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21993">
+<titre>Petits pots de crème chocolatée aux amandes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la crème :</p>
+<p>125 g de chocolat</p>
+<p>3 cuillères à soupe d'eau</p>
+<p>3 oeufs entiers</p>
+<p>50 g de sucre semoule</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>Pour la décoration :</p>
+<p>30 g d'amandes effilées</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> avec l' eau dans une casserole à feu très doux . <operation ingredients="oeufs;sucre;mousseux"> battre </operation> les jaunes d' <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="50 gramme"> sucre </ingredient> jusqu' à l' obtention d' un <operation> mélange </operation> <ingredient action="battre"> mousseux </ingredient> . <operation ingredients="crème;chocolat"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche , puis le <ingredient action="ajouter" quantite="125 gramme"> chocolat </ingredient> <operation ingredients="mousseux"> fondu </operation> au <operation> mélange </operation> <ingredient action="fondre"> mousseux </ingredient> et bien <operation> mélanger </operation> . <operation> verser </operation> ce <operation> mélange </operation> dans la casserole , puis faire <operation> épaissir </operation> à feu très doux sans cesser de <operation> remuer </operation> . pendant ce temps , <operation> monter </operation> les blancs en neige très ferme , puis les <operation> incorporer </operation> au <operation> mélange </operation> hors du feu . enfin , <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite="2 cuillère à soupe"> crème </ingredient> dans des pots ( ou ramequins ) individuels puis laisser <operation> reposer </operation> 2 h minimum au frais . au moment de servir , <operation ingredients="crèmes"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> crèmes </ingredient> d' amandes effilées et déguster .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172975">
+<titre>Salade de tomates et champignons frais</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>roquette ou mélange de salades</p>
+<p>4 tomates plutôt fermes</p>
+<p>2 gros champignons de Paris frais</p>
+<p>copeaux de parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> disposer </operation> la <ingredient action="disposer"> salade </ingredient> <operation> lavée </operation> et <operation> essorée </operation> dans chaque assiette . <operation ingredients="tomates;champignons"> couper </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en rondelles épaisses puis en 2 , et les <ingredient action="couper" quantite="2"> champignons </ingredient> en gros morceaux . <operation ingredients="salade;parmesan"> éparpiller </operation> ce <operation> mélange </operation> sur la <ingredient action="éparpiller"> salade </ingredient> , puis les copeaux de <ingredient action="éparpiller"> parmesan </ingredient> . servir avec une vinaigrette au <ingredient> vinaigre </ingredient> balsamique .
+</preparation>
+</recette>

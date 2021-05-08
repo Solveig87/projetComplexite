@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="174634">
+<titre>Salade d'endives et saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 belles endives</p>
+<p>4 tranches de saumon fumé</p>
+<p>1 poire</p>
+<p>1 oignon blanc</p>
+<p>de la coriandre fraîche</p>
+<p>Pour la vinaigrette :</p>
+<p>huile d'olive</p>
+<p>1 jus de citron</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation> éplucher </operation> et <operation ingredients="endives"> couper </operation> les <ingredient action="couper" quantite="4"> endives </ingredient> en morceaux . <operation ingredients="saumon;fumé;oignon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <ingredient action="couper" quantite="4 tranche"> fumé </ingredient> et l' <ingredient action="couper" quantite="1"> oignon </ingredient> en fines tranches . <operation ingredients="poire"> éplucher </operation> la <ingredient action="éplucher" quantite="1"> poire </ingredient> et la <operation> couper </operation> en petits morceaux . <operation> mettre </operation> le tout dans un saladier et y <operation> ajouter </operation> votre vinaigrette . <operation ingredients="salade"> saupoudrer </operation> enfin votre <ingredient action="saupoudrer"> salade </ingredient> de coriandre fraîche finement <operation> hachée </operation> . bon appétit .
+</preparation>
+</recette>

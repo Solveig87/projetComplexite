@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24965">
+<titre>Potage de légumes et crustacés</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>150 cl de bouillon de poisson</p>
+<p>10 cl de crème fraîche</p>
+<p>125 g de champignons de Paris</p>
+<p>125 g de blancs de poireaux</p>
+<p>125 g de crabe en boîte</p>
+<p>100 g de crevettes roses</p>
+<p>50 g de beurre</p>
+<p>1 oeuf</p>
+<p>ciboulette</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poireaux;champignons"> laver </operation> les <ingredient action="laver"> poireaux </ingredient> et les <ingredient action="laver" quantite="125 gramme"> champignons </ingredient> et les <operation> couper </operation> en dés . dans une <operation> poêle </operation> , faire <operation ingredients="beurre;poireaux;champignons"> chauffer </operation> à feu doux le <ingredient action="chauffer" quantite="50 gramme"> beurre </ingredient> , les <ingredient action="chauffer"> poireaux </ingredient> et les <ingredient action="chauffer" quantite="125 gramme"> champignons </ingredient> pendant 10 min . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="150 cl"> bouillon </ingredient> de poisson , <operation> assaisonner </operation> et faire <operation> cuire </operation> 20 minutes à feu moyen . <operation ingredients="crème;oeuf;crevettes"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> , l' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> <operation> battu </operation> en omelette et les <ingredient action="ajouter" quantite="100 gramme"> crevettes </ingredient> <operation> cuites </operation> et <operation> décortiquées </operation> . <operation ingredients="crabe;ciboulette"> parsemer </operation> de <ingredient action="parsemer" quantite="125 gramme"> crabe </ingredient> et de <ingredient action="parsemer" quantite=""> ciboulette </ingredient> hachée . servir .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48404">
+<titre>Tourte aux légumes à la feta</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivrons rouge et 1 poivron vert</p>
+<p>3 tomates</p>
+<p>1 aubergine (ou deux petites)</p>
+<p>2 courgettes</p>
+<p>2 oignons</p>
+<p>sel, poivre, herbes de Provences</p>
+<p>1 grosse boîtes de tomates concentrées</p>
+<p>2 pâtes brisées</p>
+<p>2 barquettes de feta</p>
+</ingredients>
+<preparation>
+préparation de la piperade : <operation ingredients="légumes"> émincer </operation> tous les <ingredient action="émincer" quantite="3;1;2"> légumes </ingredient> et les faire <operation> réduire </operation> dans une grand faitout . <operation ingredients="tomate"> rajouter </operation> le <operation> concentré </operation> de <ingredient action="rajouter" quantite="3"> tomate </ingredient> , sel , poivre et herbes de provence et laisser <operation> cuire </operation> 1 h ; il faut que cette piperade soit bien cuite . ensuite , étaler la première <ingredient quantite="2"> pâte </ingredient> <operation> brisée </operation> au fond d' un plat à tarte , <operation> disposer </operation> une bonne couche de piperade , puis <operation ingredients="feta"> émietter </operation> dessus la <ingredient action="émietter"> feta </ingredient> . enfin , <operation ingredients="pâte"> recouvrir </operation> avec la deuxième <ingredient action="recouvrir" quantite="2"> pâte </ingredient> et la <operation> placer </operation> au four 20 min , à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

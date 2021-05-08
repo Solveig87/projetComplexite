@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13303">
+<titre>Camembert au calvados</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 camembert au lait cru</p>
+<p>chapelure</p>
+<p>8 cuillères à soupe de calvados</p>
+</ingredients>
+<preparation>
+avec une fourchette , <operation ingredients="camembert"> piquez </operation> délicatement le <ingredient action="piquer" quantite="1"> camembert </ingredient> . <operation ingredients="fromage;calvados"> arrosez </operation> les 2 côtés du <ingredient action="arroser"> fromage </ingredient> avec le <ingredient action="arroser" quantite="8 cuillère à soupe"> calvados </ingredient> . <operation ingredients="chapelure"> recouvrez </operation> de <ingredient action="recouvrir" quantite=""> chapelure </ingredient> et laissez à température ambiante . a <operation> préparer </operation> 6 heures avant le repas .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10755">
+<titre>Mousse à la fraise</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tasse 1/2 de fraises fraîches</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>2 cuillères à soupe de jus de citron</p>
+<p>1 cuillère à table de gélatine</p>
+<p>1/4 de tasse d'eau froide</p>
+<p>1/2 tasse de lait</p>
+<p>1 tasse 1/4 de crème à 35%</p>
+</ingredients>
+<preparation>
+dans le bol d' un mélangeur électrique , <operation ingredients="fraises"> réduire </operation> les <ingredient action="réduire"> fraises </ingredient> en purée . <operation ingredients="sucre;jus"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> jus </ingredient> de citron . faire <operation ingredients="gélatine"> gonfler </operation> la <ingredient action="gonfler"> gélatine </ingredient> dans l' eau froide . sur feu doux , faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer"> lait </ingredient> et y faire <operation ingredients="gélatine"> dissoudre </operation> la <ingredient action="dissoudre"> gélatine </ingredient> . <operation ingredients="fraises"> ajouter </operation> au <operation> mélange </operation> de <ingredient action="ajouter"> fraises </ingredient> . refroidir . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter"> crème </ingredient> et l' <operation ingredients="fraises"> incorporer </operation> aux <ingredient action="incorporer"> fraises </ingredient> . <operation ingredients="mousse"> verser </operation> la <ingredient action="verser"> mousse </ingredient> aux fraises dans un <operation> moule </operation> et <operation> réfrigérer </operation> . <operation> démouler </operation> au moment de servir .
+</preparation>
+</recette>

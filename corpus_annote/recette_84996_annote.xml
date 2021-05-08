@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84996">
+<titre>Soupe au chocolat aromatisée à l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de chocolat</p>
+<p>35 cl de lait</p>
+<p>1 sachet de thé aromatisé à l'orange</p>
+<p>1 cuillère à soupe de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait"> porter </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="35 cl"> lait </ingredient> puis y faire <operation ingredients="thé"> infuser </operation> le sachet de <ingredient action="infuser"> thé </ingredient> pendant 5 minutes . faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> au bain marie . quand le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> est bien <operation ingredients="chocolat"> fondu </operation> , <operation ingredients="lait;chocolat"> verser </operation> le <ingredient action="verser" quantite="35 cl"> lait </ingredient> sur le <ingredient action="verser" quantite="125 gramme"> chocolat </ingredient> et <operation> remuer </operation> . <operation> ajouter </operation> 1 cuillère à soupe de farine . <operation> remettre </operation> à <operation> cuire </operation> à feu doux 2 à 3 minutes en <operation> remuant </operation> énergiquement . <operation> verser </operation> dans des verrines . servir tiède .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21303">
+<titre>Soupe d'endives crémeuse à la bière</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg d'endives</p>
+<p>3 échalotes</p>
+<p>70 g de beurre</p>
+<p>30 cl de crème fraîche</p>
+<p>10 cl de bière blonde</p>
+<p>1/2 litre de bouillon de volaille </p>
+<p>2 cuillères à soupe de cassonade</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes"> revenir </operation> les <ingredient action="revenir" quantite="3"> échalotes </ingredient> <operation ingredients="beurre"> coupées </operation> en fines lamelles dans le <ingredient action="couper" quantite="70 gramme"> beurre </ingredient> . <operation ingredients="endives"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> endives </ingredient> <operation> coupées </operation> grossièrement . <operation ingredients="cassonade;bière;sel"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> cassonade </ingredient> , la <ingredient action="ajouter" quantite="10 cl"> bière </ingredient> et du <ingredient action="ajouter" quantite=""> sel </ingredient> . laisser <operation> mijoter </operation> 15 mn . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> de volaille . laisser <operation> mijoter </operation> 15 mn . <operation> mixer </operation> le tout . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> fraîche .
+</preparation>
+</recette>

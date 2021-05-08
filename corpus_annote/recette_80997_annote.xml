@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80997">
+<titre>Salade de pâtes aux tomates séchées, aux lardons et au bacon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pâtes</p>
+<p>10 tomates séchées (à vous de voir) </p>
+<p>pignons de pins</p>
+<p>150 g de lardons</p>
+<p>10 tranches de bacon (à vous de voir)</p>
+<p>parmesan (déjà râpé ou râpez-le vous-même, c'est meilleur)</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> vos <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> et laisser les refroidir . <operation ingredients="tomates"> coupez </operation> en petits morceaux les <ingredient action="couper" quantite="10"> tomates </ingredient> séchées . faites <operation ingredients="lardons;bacon"> revenir </operation> les <ingredient action="revenir" quantite="150 gramme"> lardons </ingredient> et le <ingredient action="revenir" quantite="10 tranche"> bacon </ingredient> . faites <operation ingredients="pignons"> revenir </operation> les <ingredient action="revenir" quantite=""> pignons </ingredient> de pin . <operation ingredients="pâtes;parmesan"> mélangez </operation> tout ça aux <ingredient action="mélanger" quantite="400 gramme"> pâtes </ingredient> , ainsi que le <ingredient action="mélanger" quantite=""> parmesan </ingredient> <operation> râpé </operation> . ce plat est froid . bon plat d' été , très familial .
+</preparation>
+</recette>

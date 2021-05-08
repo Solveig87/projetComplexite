@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10530">
+<titre>Lapin au vin blanc (à la cocotte)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,8 kg de lapin (7 à 8 morceaux)</p>
+<p>1 bouteille de vin blanc (gros plant nantais ou blanc de blanc)</p>
+<p>2 échalotes</p>
+<p>200 g de lardons fumés</p>
+<p>2,5 kg de pommes de terre ou moitié carottes et pommes de terre</p>
+<p>20 cl de crème fraîche</p>
+<p>margarine</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalotes;lardons;margarine"> revenir </operation> les <ingredient action="revenir" quantite="2"> échalotes </ingredient> et les <ingredient action="revenir"> lardons </ingredient> dans 50 g de <ingredient action="revenir" quantite=""> margarine </ingredient> . <operation ingredients="lapin"> ajouter </operation> les morceaux de <ingredient action="ajouter" quantite="1,8 kilogramme"> lapin </ingredient> et les faire <operation> dorer </operation> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser"> vin </ingredient> , <operation ingredients="pommes;carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="2,5 kilogramme"> pommes </ingredient> de terre et les <ingredient action="ajouter"> carottes </ingredient> . fermer la cocotte et <operation> cuire </operation> 20 minutes , à feu moyen . <operation ingredients="crème"> ajouter </operation> 20 cl de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . <operation> réchauffer </operation> et servir .
+</preparation>
+</recette>

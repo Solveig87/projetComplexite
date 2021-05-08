@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31328">
+<titre>Super sandwichs de Faby</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 grandes tranches de pain de mie</p>
+<p>4 tranches de blanc de dinde fumé</p>
+<p>1 pot de tzatziki (spécialité grecque au concombre et fromage blanc) </p>
+<p>2 belles tomates</p>
+<p>150 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> tartiner </operation> chaque tranche de <ingredient action="tartiner"> pain </ingredient> avec le tzatziki ; en <operation> réserver </operation> 4 . sur les 4 qui restent , <operation ingredients="dinde;fumé;tomates;gruyère"> déposer </operation> une tranche de blanc de <ingredient action="déposer"> dinde </ingredient> <ingredient action="déposer"> fumé </ingredient> , puis des rondelles de <ingredient action="déposer" quantite="2"> tomates </ingredient> et du <ingredient action="déposer" quantite="150 gramme"> gruyère </ingredient> râpé . terminer par les 4 tranche de <ingredient> pain </ingredient> <operation> mises </operation> de côté . servir ces <ingredient> sandwichs </ingredient> bien frais . pour les <operation> amateurs </operation> de <ingredient> mayonnaise </ingredient> , vous pouvez en <operation ingredients="dinde"> ajouter </operation> sur la tranche de blanc de <ingredient action="ajouter"> dinde </ingredient> . personnellement , je <operation ingredients="sandwichs"> fais </operation> 4 <ingredient action="faire"> sandwichs </ingredient> pour deux , gourmandise oblige ! <ingredient> soda </ingredient>
+</preparation>
+</recette>

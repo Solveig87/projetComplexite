@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27850">
+<titre>Oeufs durs farcis à la jardinière de légumes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 œufs durs</p>
+<p>moutarde</p>
+<p>huile</p>
+<p>sel, poivre</p>
+<p>1 citron</p>
+<p>1 petite boite de petits pois</p>
+<p>1 petite boite de macédoine</p>
+<p>fines herbes hachées</p>
+</ingredients>
+<preparation>
+ecaler et <operation ingredients="œufs"> découper </operation> les <ingredient action="découper" quantite="4"> œufs </ingredient> durs en 2 dans le sens de la largeur . extraire les jaunes , puis les <operation> passer </operation> au mixeur . <operation ingredients="pois;macédoine"> rincer </operation> les petits <ingredient action="rincer"> pois </ingredient> et la <ingredient action="rincer"> macédoine </ingredient> , puis les <operation> mettre </operation> à <operation> égoutter </operation> . <operation ingredients="mayonnaise"> préparer </operation> ensuite une <ingredient action="préparer"> mayonnaise </ingredient> en <operation ingredients="moutarde;sel;poivre"> fouettant </operation> les jaunes durs <operation> hachés </operation> avec la <ingredient action="fouetter" quantite=""> moutarde </ingredient> , le <ingredient action="fouetter" quantite=""> sel </ingredient> et le <ingredient action="fouetter" quantite=""> poivre </ingredient> . <operation ingredients="huile"> ajouter </operation> l’ <ingredient action="ajouter" quantite=""> huile </ingredient> et <operation> fouetter </operation> comme si vous <operation ingredients="mayonnaise"> faisiez </operation> une <ingredient action="faire"> mayonnaise </ingredient> . <operation ingredients="légumes"> mélanger </operation> la sauce avec les <ingredient action="mélanger" quantite="1"> légumes </ingredient> , puis en <operation> farcir </operation> les blancs durs . une fois farcis , <operation ingredients="œufs"> saupoudrer </operation> les <ingredient action="saupoudrer" quantite="4"> œufs </ingredient> de fines herbes , puis déguster bien frais .
+</preparation>
+</recette>

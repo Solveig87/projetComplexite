@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91237">
+<titre>Sorbet Mangue Nectarine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 belle mangue (bien mûre)</p>
+<p>2 ou 3 nectarines</p>
+<p>un peu de gingembre frais </p>
+<p>100 g de sucre en poudre</p>
+<p>100 ml d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="mangue"> peler </operation> la <ingredient action="peler" quantite="1"> mangue </ingredient> et la débiter en morceaux . débiter les <ingredient quantite="2"> nectarines </ingredient> sans les <operation> peler </operation> . <operation ingredients="fruits;sucre;gingembre"> placer </operation> les <ingredient action="placer" quantite="1;2"> fruits </ingredient> débités ( environ 500 grammes ) dans un blinder avec 100 grammes de <ingredient action="placer" quantite="100 gramme"> sucre </ingredient> , 100 millilitre d' eau et le <ingredient action="placer"> gingembre </ingredient> haché ( 1 cuillère à café ) . <operation> réduire </operation> le tout en purée et <operation> placer </operation> dans une sorbetière ou mieux dans une turbine à glace pendant 40 à 50 minutes .
+</preparation>
+</recette>

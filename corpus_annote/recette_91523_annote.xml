@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91523">
+<titre>Tartare d'avocat provencal</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 ou 4 avocats selon la grosseur</p>
+<p>1/2 poivron rouge </p>
+<p>1/4 d'oignon blanc</p>
+<p>1/2 concombre</p>
+<p>Sel, Poivre</p>
+<p>1 jus de citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats;poivron;oignon;concombre"> couper </operation> les <ingredient action="couper" quantite="3"> avocats </ingredient> , le <ingredient action="couper"> poivron </ingredient> , l' <ingredient action="couper"> oignon </ingredient> et le <ingredient action="couper" quantite="1"> concombre </ingredient> en petits dés . <operation ingredients="sel;poivre;jus"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> et le <ingredient action="ajouter" quantite="1"> jus </ingredient> de citron . <operation> mélanger </operation> doucement pour ne pas <operation ingredients="avocat"> écraser </operation> l' <ingredient action="écraser" quantite="3"> avocat </ingredient> . servir frais . vous pouvez <operation ingredients="menthe;basilic"> ajouter </operation> 2 feuilles de <ingredient action="ajouter"> menthe </ingredient> ou de <ingredient action="ajouter"> basilic </ingredient> frais .
+</preparation>
+</recette>

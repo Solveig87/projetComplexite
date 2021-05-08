@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21735">
+<titre>Poulet rôti et sa ratatouille au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet fermier</p>
+<p>50 g de fromage de chèvre</p>
+<p>3 tomates</p>
+<p>2 courgettes</p>
+<p>1 aubergine</p>
+<p>3 gousses d'ail</p>
+<p>1/2 botte d'oignons nouveaux</p>
+<p>40 g d'olives noires</p>
+<p>10 cl d'huile d'olive</p>
+<p>quelques brins de romarin</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+glissez quelques branches de romarin sous la peau et dans le <ingredient quantite="1"> poulet </ingredient> . massez - le à l' <ingredient action="saler" quantite="10 cl"> huile </ingredient> d' olive , <operation ingredients="huile"> salez </operation> et <operation> poivrez </operation> . <operation ingredients="poulet;gousses"> mettez </operation> le <ingredient action="mettre" quantite="1"> poulet </ingredient> dans un plat à four avec les <ingredient action="mettre" quantite="3"> gousses </ingredient> d' ail <operation> pelées </operation> et faites <operation> cuire </operation> 1 h au four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="jus"> arrosez </operation> du <ingredient action="arroser"> jus </ingredient> de cuissons de temps en temps . pendant la cuisson de la <ingredient quantite="50 gramme"> viande </ingredient> , <operation> préparer </operation> la ratatouille . <operation ingredients="aubergine"> découpez </operation> l' <ingredient action="découper" quantite="1"> aubergine </ingredient> et les courgettes en dés ; les <ingredient quantite="3"> tomates </ingredient> et les <ingredient> oignons </ingredient> en quartiers . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="10 cl"> huile </ingredient> dans une sauteuse , <operation ingredients="oignons;aubergines;tomates"> mettez </operation> - y les <ingredient action="mettre"> oignons </ingredient> puis les <ingredient action="mettre" quantite="1"> aubergines </ingredient> , les courgettes et les <ingredient action="mettre" quantite="3"> tomates </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> et laissez <operation> mijoter </operation> . 15 min avant la fin de cuisson du <ingredient action="ajouter" quantite="1"> poulet </ingredient> , <operation ingredients="poulet;légumes"> ajoutez </operation> les <ingredient action="ajouter" quantite="3;1"> légumes </ingredient> <operation> cuits </operation> et <operation> égouttés </operation> dans le plat . <operation ingredients="poulet"> découpez </operation> le <ingredient action="découper" quantite="1"> poulet </ingredient> et <operation ingredients="légumes"> posez </operation> - le sur les <ingredient action="poser" quantite="3;1"> légumes </ingredient> dans un plat , <operation ingredients="olives;fromage"> parsemez </operation> d' <ingredient action="parsemer" quantite="40 gramme"> olives </ingredient> noires et <ingredient action="parsemer" quantite="50 gramme"> fromage </ingredient> de chèvre en dés . <operation> saupoudrez </operation> de romarin <operation> effeuillé </operation> et servez .
+</preparation>
+</recette>

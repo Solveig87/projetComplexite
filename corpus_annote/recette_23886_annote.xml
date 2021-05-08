@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23886">
+<titre>Boulettes de boeuf aux oignons et au cumin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de boeuf haché</p>
+<p>75 g d'oignons</p>
+<p>1 cuillère à soupe d'ail haché</p>
+<p>1/2 cuillère à soupe de cumin en poudre</p>
+<p>1 cuillère à soupe de persil haché</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>20 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hacher </operation> les <ingredient action="hacher" quantite="75 gramme"> oignons </ingredient> . <operation ingredients="viande;oignons;persil;ail;cumin;sel;poivre"> malaxer </operation> la <ingredient action="malaxer" quantite="500 gramme"> viande </ingredient> avec les <ingredient action="malaxer" quantite="75 gramme"> oignons </ingredient> , le <ingredient action="malaxer" quantite="1 cuillère à soupe"> persil </ingredient> , l' <ingredient action="malaxer"> ail </ingredient> , le <ingredient action="malaxer"> cumin </ingredient> , du <ingredient action="malaxer" quantite=""> sel </ingredient> et du <ingredient action="malaxer"> poivre </ingredient> . <operation> façonner </operation> environ 10 à 12 boulettes et faire <operation ingredients="beurre"> dorer </operation> pendant 15 minutes dans le <operation> mélange </operation> <ingredient action="dorer"> beurre </ingredient> - huile en les <operation> retournant </operation> souvent . servir chaud , <operation ingredients="semoule;riz"> accompagné </operation> de <ingredient action="accompagner"> semoule </ingredient> pour couscous ou de <ingredient action="accompagner"> riz </ingredient> blanc .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="229388">
+<titre>Muffins des îles de Carole</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de coco râpée</p>
+<p>100 g de sucre roux</p>
+<p>175 g de farine</p>
+<p>1/2 sachet de levure chimique</p>
+<p>2 oeufs</p>
+<p>1 banane bien mûre</p>
+<p>3 cuillères à soupe de raisins secs</p>
+<p>8 cl de rhum</p>
+<p>extrait de vanille</p>
+<p>10 cl de lait</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raisins;rhum;sucre"> gonfler </operation> les <ingredient action="gonfler" quantite="3 cuillère à soupe"> raisins </ingredient> dans le <ingredient action="gonfler" quantite="8 cl"> rhum </ingredient> et le <ingredient action="gonfler" quantite="100 gramme"> sucre </ingredient> roux pendant 1 h. au bout de ce temps , préchauffez le four à 190 <operation> ° </operation> c ( thermostat . 7 ) . dans un plat , <operation ingredients="farine;noix;raisins;oeufs;lait;levure"> mélangez </operation> la <ingredient action="mélanger" quantite="175 gramme"> farine </ingredient> , la <ingredient action="mélanger"> noix </ingredient> de coco , les <ingredient action="mélanger" quantite="3 cuillère à soupe"> raisins </ingredient> , les <ingredient action="mélanger" quantite="2"> oeufs </ingredient> entiers , le <ingredient action="mélanger" quantite="10 cl"> lait </ingredient> et la <ingredient action="mélanger"> levure </ingredient> . <operation ingredients="banane"> ajoutez </operation> quelques gouttes d' extrait de vanille et la <ingredient action="ajouter" quantite="1"> banane </ingredient> <operation> coupée </operation> en rondelles . ne pas trop <operation> mélanger </operation> . <operation> répartissez </operation> cette préparation dans les <operation> moules </operation> et <operation> enfournez </operation> pendant 12 à 15 min . les <ingredient action="cuire"> muffins </ingredient> sont <operation ingredients="muffins;couteau"> cuits </operation> quand une pointe de <ingredient action="cuire"> couteau </ingredient> <operation> passée </operation> à travers en ressort sèche .
+</preparation>
+</recette>

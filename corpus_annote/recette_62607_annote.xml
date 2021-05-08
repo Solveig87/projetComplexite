@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62607">
+<titre>Ragout d' agneau de ma Môman</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 cuillères à soupe huile d'arachide</p>
+<p>1,5 kg de collier d'agneau charnu ou 600 g de collier et 700 g d'épaule en morceau</p>
+<p>3 oignons</p>
+<p>2 cuilléres à soupe de farine</p>
+<p>2 branches de thym</p>
+<p>2 feuilles de laurier</p>
+<p>sel et poivre</p>
+<p>1,8 kg de pommes de terre Roseval</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="agneau"> revenir </operation> l' <ingredient action="revenir"> agneau </ingredient> dans une cocotte et <operation> réserver </operation> quelques minutes . faire <operation ingredients="oignons"> blondir </operation> les <ingredient action="blondir" quantite="3"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="agneau"> remettre </operation> l' <ingredient action="remettre"> agneau </ingredient> , le <operation ingredients="oignons"> mélanger </operation> aux <ingredient action="mélanger" quantite="3"> oignons </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> puis <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer"> farine </ingredient> . bien <operation> mélanger </operation> et <operation> mouiller </operation> avec 1 l d' eau . <operation ingredients="thym;laurier"> ajouter </operation> le <ingredient action="ajouter"> thym </ingredient> et le <ingredient action="ajouter" quantite="2 feuille"> laurier </ingredient> puis laisser <operation> cuire </operation> 30 min à feu doux . <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="1,8 kilogramme"> pommes </ingredient> de terre <operation> coupées </operation> en quartiers . laisser <operation> cuire </operation> une bonne heure puis servir . <ingredient> côtes </ingredient> du rhône villages
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27590">
+<titre>Lotte aux petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de lotte</p>
+<p>3 poireaux</p>
+<p>1 branche de céleri</p>
+<p>3 carottes</p>
+<p>50 cl de vin blanc</p>
+<p>100 g de crème fraîche</p>
+<p>1 citron</p>
+<p>1 bouquet garni</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes;poireaux;bouquet"> beurrez </operation> une cocotte , puis <operation> disposez </operation> - y les <ingredient action="beurrer" quantite="3;3;100 gramme;1"> légumes </ingredient> <operation> émincés </operation> ( <ingredient action="beurrer" quantite="3"> poireaux </ingredient> , céleri , carottes et le <ingredient action="beurrer" quantite="1"> bouquet </ingredient> <operation> garni </operation> ) . <operation ingredients="lotte"> ajoutez </operation> la <ingredient action="ajouter" quantite="1 kilogramme"> lotte </ingredient> par dessus , et <operation ingredients="vin"> mouillez </operation> avec les 50 cl de <ingredient action="mouiller" quantite="50 cl"> vin </ingredient> blanc et 50 cl d' eau ; <operation> assaisonnez </operation> . <operation> portez </operation> à <operation> ébullition </operation> , puis laissez <operation> mijoter </operation> 10 min . <operation ingredients="poisson"> enlevez </operation> le <ingredient action="enlever" quantite="1 kilogramme"> poisson </ingredient> , <operation ingredients="crème"> liez </operation> la sauce avec la <ingredient action="lier" quantite="100 gramme"> crème </ingredient> fraîche , <operation ingredients="citron;persil"> ajoutez </operation> un filet de <ingredient action="ajouter" quantite="1"> citron </ingredient> et du <ingredient action="ajouter"> persil </ingredient> . servez le <ingredient quantite="1 kilogramme"> poisson </ingredient> avec la sauce et les <ingredient quantite="3;3;100 gramme;1"> légumes </ingredient> .
+</preparation>
+</recette>

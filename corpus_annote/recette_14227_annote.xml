@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14227">
+<titre>Gâteau aux pommes et au yaourt</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>200 g de sucre semoule</p>
+<p>200 g de farine</p>
+<p>200 g de yaourt</p>
+<p>3 pommes golden coupées en morceaux</p>
+</ingredients>
+<preparation>
+dans une terrine , <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> et le <ingredient quantite="200 gramme"> sucre </ingredient> pendant 5 mn pour faire le ruban . <operation ingredients="farine;yaourt;pommes"> ajoutez </operation> peu à peu la <ingredient action="ajouter" quantite="200 gramme"> farine </ingredient> , puis le <ingredient action="ajouter" quantite="200 gramme"> yaourt </ingredient> et les morceaux de <ingredient action="ajouter" quantite="3"> pommes </ingredient> . <operation> verser </operation> dans un <operation> moule </operation> préalablement beurré et <operation> fariné </operation> et <operation> enfournez </operation> 40 mn à 180 <operation> ° </operation> c.
+</preparation>
+</recette>

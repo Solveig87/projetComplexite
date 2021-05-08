@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38761">
+<titre>Tom Yum (Thaï)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuillères à soupe de pâte à Tom Yum (cette pâte se trouve dans les magasins asiatiques)</p>
+<p>3 ou 4 blancs de poulet</p>
+<p>gingembre</p>
+<p>quelques feuilles de citronnier (facultatif mais donne du goût)</p>
+<p>riz</p>
+<p>1 boîte de lait de coco</p>
+<p>eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en dés . <operation ingredients="gingembre"> couper </operation> le <ingredient action="couper" quantite=""> gingembre </ingredient> , en petits morceaux ( juste assez pour parfumer ) . dans une casserole , <operation ingredients="lait"> verser </operation> une boîte de <ingredient action="verser"> lait </ingredient> de coco et <operation> ajouter </operation> de l' eau ( 1 boîte d' eau ) . <operation> ajouter </operation> 2 cuillères à soupe de pâte a tom yum pour un plat moyennement épicé . <operation ingredients="poulet;gingembre"> incorporer </operation> les blancs de <ingredient action="incorporer"> poulet </ingredient> et le <ingredient action="incorporer" quantite=""> gingembre </ingredient> . laisser <operation> cuire </operation> jusqu' à ce que les blancs de <ingredient action="cuire"> poulet </ingredient> soient <operation ingredients="poulet"> cuits </operation> . 5 min avant la fin , <operation ingredients="citron"> ajouter </operation> les feuilles de <ingredient action="ajouter"> citron </ingredient> . dans des bols , servez du <ingredient quantite=""> riz </ingredient> et <operation> ajoutez </operation> votre préparation . dans la casserole , vous pouvez également <operation ingredients="champignons;carottes"> ajouter </operation> des <ingredient action="ajouter"> champignons </ingredient> , des <ingredient action="ajouter"> carottes </ingredient> . . . bref , tous les restes de la maison ! bon appétit ! !
+</preparation>
+</recette>

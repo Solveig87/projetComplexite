@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68542">
+<titre>Gratin de thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de purée lyophilisée</p>
+<p>du lait</p>
+<p>2 boîtes de thon</p>
+<p>1 oignon</p>
+<p>12 cl de vin blanc</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+dans un plat à gratin , faire <operation ingredients="thon"> mariner </operation> le <ingredient action="mariner"> thon </ingredient> auquel vous avez <operation ingredients="oignon;vin"> rajouté </operation> l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> <operation> coupé </operation> finement et le <ingredient action="rajouter" quantite="12 cl"> vin </ingredient> blanc pendant 12 h au frais . <operation ingredients="vin"> vider </operation> l' excédent de <ingredient action="vider" quantite="12 cl"> vin </ingredient> blanc . <operation> préparer </operation> la purée , l' étaler sur le <ingredient> thon </ingredient> . <operation ingredients="parmesan;gruyère"> saupoudrer </operation> le plat de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> ou de <ingredient action="saupoudrer"> gruyère </ingredient> . <operation> mettre </operation> le plat au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 30 min . simple , facile , pas cher et pas mauvais ! bon appétit ! peut se <operation ingredients="thon;tomate"> faire </operation> avec des boites de <ingredient action="faire"> thon </ingredient> à la <ingredient action="faire"> tomate </ingredient> . <operation ingredients="sucre"> mettre </operation> un <ingredient action="mettre"> sucre </ingredient> afin de <operation ingredients="vin"> couper </operation> l' acidité due à l' association du <ingredient action="couper" quantite="12 cl"> vin </ingredient> blanc et de la sauce tomate .
+</preparation>
+</recette>

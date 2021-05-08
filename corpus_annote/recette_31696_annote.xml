@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31696">
+<titre>Poulet aux poivrons et citron</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g d'émincé de poulet</p>
+<p>1 poivron rouge</p>
+<p>1 poivron jaune</p>
+<p>quelques champignons de Paris</p>
+<p>3 cuillères à soupe de jus de citron</p>
+<p>1 gros oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à café de gingembre</p>
+<p>1 cuillère à café de coriandre</p>
+<p>huile d'olive</p>
+<p>1 dl de bouillon</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient quantite="1"> oignon </ingredient> et l' <ingredient> ail </ingredient> et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en lamelles . faire <operation ingredients="huile"> revenir </operation> le tout dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="poulet;citron"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> et le <ingredient action="ajouter"> citron </ingredient> . <operation ingredients="gingembre;coriandre"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite="1 cuillère à café"> gingembre </ingredient> et la <ingredient action="assaisonner" quantite="1 cuillère à café"> coriandre </ingredient> . <operation ingredients="bouillon"> ajouter </operation> 1 dl de <ingredient action="ajouter" quantite="1 dl"> bouillon </ingredient> et laisser <operation> cuire </operation> 5 mn . <operation ingredients="champignons"> ajouter </operation> ensuite quelques <ingredient action="ajouter" quantite="quelque"> champignons </ingredient> de paris <operation> émincés </operation> et laisser encore 1 mn . <operation ingredients="riz;pâtes"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pâtes </ingredient> .
+</preparation>
+</recette>

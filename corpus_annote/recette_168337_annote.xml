@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168337">
+<titre>Salade paysanne au poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade batavia</p>
+<p>400 g de carottes </p>
+<p>1 pomme granny</p>
+<p>200 g de raisin sec</p>
+<p>200 g de noix</p>
+<p>4 tomates</p>
+<p>600 g de poulet émincer (déjà cuit de préférence)</p>
+<p>600 g d'allumettes d'emmental</p>
+</ingredients>
+<preparation>
+. <operation ingredients="salade"> nettoyer </operation> la <ingredient action="nettoyer" quantite="1"> salade </ingredient> puis la <operation ingredients="carottes"> couper </operation> <operation> eplucher </operation> les <ingredient action="couper" quantite="400 gramme"> carottes </ingredient> puis les <operation> râper </operation> <operation ingredients="tomates"> laver </operation> les <ingredient action="laver" quantite="4"> tomates </ingredient> puis <operation> couper </operation> les en 6 <operation ingredients="pomme"> nettoyer </operation> la <ingredient action="nettoyer" quantite="1"> pomme </ingredient> , la <operation> couper </operation> en deux , <operation> enlever </operation> les pépins puis la <operation> couper </operation> en fin quartier <operation ingredients="salade"> disposer </operation> la <ingredient action="disposer" quantite="1"> salade </ingredient> dans 4 assiettes individuelles puis y <operation ingredients="tomates;salade;pommes;tomates;raisin;emmental"> disposer </operation> les <ingredient action="disposer" quantite="4"> tomates </ingredient> à chaque coin de la <ingredient action="disposer" quantite="1"> salade </ingredient> , y <operation> rajouter </operation> les quartiers de <ingredient action="disposer" quantite="1"> pommes </ingredient> comme pour les <ingredient action="disposer" quantite="4"> tomates </ingredient> <operation ingredients="carottes"> mettre </operation> les <ingredient action="mettre" quantite="400 gramme"> carottes </ingredient> préalablement <operation ingredients="salade"> râper </operation> au centre de la <ingredient action="râper" quantite="1"> salade </ingredient> , y <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> noix </ingredient> , le <ingredient action="disposer" quantite="200 gramme"> raisin </ingredient> et les allumettes d' <ingredient action="disposer"> emmental </ingredient> enfin <operation ingredients="poulet"> disposer </operation> l' émincé de <ingredient action="disposer" quantite="600 gramme"> poulet </ingredient> et servir frais
+</preparation>
+</recette>

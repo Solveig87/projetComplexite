@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19645">
+<titre>Pâtes gratinées au chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de pâtes (courtes) </p>
+<p>un morceau de bûche de chèvre 150 g</p>
+<p>une boîte de tomates pelées</p>
+<p>ail</p>
+<p>origan</p>
+<p>basilic</p>
+<p>poivre de Cayenne</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="350 gramme"> pâtes </ingredient> . faire <operation ingredients="tomates;huile;ail"> réduire </operation> les <ingredient action="réduire"> tomates </ingredient> <operation> pelées </operation> dans un faitout avec de l' <ingredient action="réduire" quantite=""> huile </ingredient> d' olive , de l' <ingredient action="réduire" quantite=""> ail </ingredient> , sel , poivre , une cuillère à café d' origan . <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger" quantite="350 gramme"> pâtes </ingredient> à la sauce . les <operation> mettre </operation> dans un plat à gratin . <operation ingredients="fromages"> déposer </operation> des morceaux de <ingredient action="déposer"> fromages </ingredient> de chèvre sur le plat et <operation> enfourner </operation> 15 mn à four chaud . a la sortie du four <operation ingredients="basilic"> parsemer </operation> de <ingredient action="parsemer" quantite=""> basilic </ingredient> frais <operation> ciselé </operation> . madiran
+</preparation>
+</recette>

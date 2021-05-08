@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25226">
+<titre>Tomates cocotte au curry</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tomates à farcir</p>
+<p>4 oeufs</p>
+<p>100 g de fromage</p>
+<p>curry</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> coupez </operation> un chapeau aux <ingredient action="couper" quantite="4"> tomates </ingredient> . <operation> evidez </operation> l' intérieur et <operation ingredients="sel"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> sel </ingredient> . laissez dégorger à l' envers pendant 30 minutes . <operation> egouttez </operation> les <ingredient quantite="4"> tomates </ingredient> , cassez les <ingredient quantite="4"> oeufs </ingredient> dedans . <operation ingredients="curry"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> curry </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="fromage"> parsemez </operation> de <ingredient action="parsemer" quantite="100 gramme"> fromage </ingredient> <operation> coupé </operation> en lamelles fines . <operation ingredients="tomates"> posez </operation> les <ingredient action="poser" quantite="4"> tomates </ingredient> dans un plat <operation> huilé </operation> , faites <operation> cuire </operation> environ 15 minutes au four à 150 <operation> ° </operation> c ( thermostat 5 ) .
+</preparation>
+</recette>

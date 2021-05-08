@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15153">
+<titre>Ballotins de saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>2 boules de mozzarella (la vraie, de bufflone, de préférence!)</p>
+<p>4 tomates moyennes très fermes</p>
+<p>200 g de crevettes</p>
+<p>Une salade au choix (un peu de roquette en plus relève le goût)</p>
+<p>6 grandes tranches de saumon fume</p>
+<p>1 citron</p>
+<p>Mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="mozzarella;tomates"> détailler </operation> en petits dés la <ingredient action="détailler"> mozzarella </ingredient> et les <ingredient action="détailler" quantite="4"> tomates </ingredient> . les <operation> mettre </operation> dans un saladier y <operation ingredients="crevettes"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> crevettes </ingredient> , une cuillère a <ingredient> soupe </ingredient> de mayonnaise et un demi-citron . <operation ingredients="saumon"> etaler </operation> les tranches de <ingredient action="etaler"> saumon </ingredient> ( s' il est trop gras , le faire <operation ingredients="citron"> mariner </operation> 20 mn dans du <ingredient action="mariner" quantite="1"> citron </ingredient> ) . <operation ingredients="tomate"> mettre </operation> du melange <ingredient action="mettre" quantite="4"> tomate </ingredient> + mozzarella + crevettes au centre , puis fermer en petits ballotins . sur l' assiette , <operation ingredients="salade;macédoine"> mettre </operation> un ballotin , de la <ingredient action="mettre" quantite="1"> salade </ingredient> et le reste de <ingredient action="mettre"> macédoine </ingredient> . a servir frais . chardonnay sud africain
+</preparation>
+</recette>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58273">
+<titre>Empanadas de Mamita (Uruguay)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>4 pâtes feuilletées</p>
+<p>1 jaune d'œuf</p>
+<p>1 verre d'eau</p>
+<p>Pour la farce :</p>
+<p>600 g de viande hachée</p>
+<p>3 oignons</p>
+<p>1 tomate</p>
+<p>1 poignée de raisins secs</p>
+<p>ail, persil, sel, poivre</p>
+<p>2 cuillères à soupe de farine</p>
+<p>1/2 verre d'eau</p>
+<p>3 œufs durs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> cuire </operation> la <ingredient action="cuire" quantite="600 gramme"> viande </ingredient> hachée , <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="3"> oignons </ingredient> , et <operation ingredients="œufs"> cuire </operation> les 3 <ingredient action="cuire" quantite="3"> œufs </ingredient> . <operation ingredients="oignons;viande"> mettre </operation> les <ingredient action="mettre" quantite="3"> oignons </ingredient> avec la <ingredient action="mettre" quantite="600 gramme"> viande </ingredient> . <operation ingredients="tomate;raisins"> ajouter </operation> une <ingredient action="ajouter" quantite="1"> tomate </ingredient> , des <ingredient action="ajouter"> raisins </ingredient> secs , <operation ingredients="persillade"> assaisonner </operation> selon son goût ( <ingredient action="assaisonner"> persillade </ingredient> , sel , poivre … ) et laisser un peu <operation> mijoter </operation> . <operation> verser </operation> un demi verre d' eau et les cuillères à soupe de farine et bien <operation> mélanger </operation> , afin d' <operation> épaissir </operation> et de " <operation> lier </operation> " le tout ( la farce sera moins sèche ) . <operation ingredients="œufs"> couper </operation> les <ingredient action="couper" quantite="3"> œufs </ingredient> durs en tous petits morceaux dans une assiette . <operation ingredients="pâtes"> découper </operation> dans les <ingredient action="découper" quantite="4"> pâtes </ingredient> feuilletées des <ingredient> ronds </ingredient> avec un petit bol ( ou un <operation> moule </operation> à empanadas ) . <operation ingredients="rond"> placer </operation> au centre de chaque <ingredient action="placer"> rond </ingredient> de pâte un peu de farce et y <operation ingredients="œufs"> ajouter </operation> quelques morceaux d' <ingredient action="ajouter" quantite="3"> œufs </ingredient> durs . avec les doigts , <operation ingredients="pâte"> humidifier </operation> légèrement tout le bord de la <ingredient action="humidifier" quantite="4"> pâte </ingredient> avec de l' eau ( verre d' eau ) et <operation ingredients="rond"> refermer </operation> le <ingredient action="refermer"> rond </ingredient> afin d' obtenir une demi-lune ( comme un <ingredient> chausson </ingredient> ) en <operation> appuyant </operation> bien sur le bord . <operation ingredients="œuf"> badigeonner </operation> chaque empanada avec du jaune d' <ingredient action="badigeonner" quantite="3"> œuf </ingredient> puis <operation> mettre </operation> au four pendant 25 minutes environ . c' est principalement le remplissage des empanadas qui prend du temps , alors autant se <operation> mettre </operation> à plusieurs ! vous pouvez <operation ingredients="salade"> accompagner </operation> les empanadas avec un peu de <ingredient action="accompagner"> salade </ingredient> . il est également possible de diminuer les quantités et de faire des empanadas plus petites à servir en <ingredient> apéritif </ingredient> ! régalez -vous !
+</preparation>
+</recette>

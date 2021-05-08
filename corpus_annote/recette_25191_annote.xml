@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25191">
+<titre>Mousse de kaki à la cannelle</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 kakis</p>
+<p>60 g de sucre</p>
+<p>30 g de poudre d'amande</p>
+<p>400 g de Mascarpone</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="kakis"> peler </operation> les <ingredient action="peler" quantite="4"> kakis </ingredient> , <operation> retirez </operation> la partie centrale et <operation ingredients="chair"> passer </operation> la <ingredient action="passer"> chair </ingredient> au mixeur . dans 1 terrine , <operation ingredients="mascarpone"> mélanger </operation> le <ingredient action="mélanger" quantite="400 gramme"> mascarpone </ingredient> , le <ingredient quantite="60 gramme"> sucre </ingredient> , la cannnelle et la <operation> poudre </operation> d' <ingredient> amande </ingredient> à la cuillère . <operation ingredients="chair"> ajouter </operation> en dernier la <ingredient action="ajouter"> chair </ingredient> des kakis et bien <operation> mélanger </operation> . <operation> mettre </operation> le tout dans 4 ramequins . <operation> mettre </operation> au frigo jusqu' au moment de servir .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19331">
+<titre>Guacamole au crabe</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 citron</p>
+<p>2 avocats mûrs à point</p>
+<p>1 gros oignon</p>
+<p>1 boîte de chair de crabe</p>
+<p>2 pincées de piment en poudre</p>
+<p>huile d'olive</p>
+<p>3 cuillères à soupe de mayonnaise</p>
+<p>1 concombre</p>
+<p>sel, poivre, menthe</p>
+</ingredients>
+<preparation>
+<operation ingredients="citron"> pressez </operation> le <ingredient action="presser" quantite="1"> citron </ingredient> et <operation ingredients="jus"> réservez </operation> le <ingredient action="réserver"> jus </ingredient> obtenu dans 1 bol . <operation ingredients="avocats"> coupez </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en 2 . <operation> retirez </operation> les noyaux et <operation ingredients="chair"> prélevez </operation> délicatement la <ingredient action="prélever"> chair </ingredient> à l' aide d' une petite cuillère . la <operation> détailler </operation> ensuite en petits dés , puis l' <operation ingredients="jus"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> de citron <operation> réservé </operation> . <operation ingredients="oignon"> eplucher </operation> l' <ingredient action="eplucher" quantite="1"> oignon </ingredient> et le <operation> hacher </operation> finement . dans 1 saladier , <operation ingredients="chair;oignon;huile"> mélanger </operation> vigoureusement la <ingredient action="mélanger"> chair </ingredient> d' avocat citronnée avec l' <ingredient action="mélanger" quantite="1"> oignon </ingredient> hachée , le piment en <operation> poudre </operation> et 1 filet d' <ingredient action="mélanger" quantite=""> huile </ingredient> d' olive . <operation> saler </operation> , <operation> poivrer </operation> . vous pouvez également <operation> passer </operation> la préparation quelques secondes au mixeur . <operation ingredients="crabe"> ouvrir </operation> la boîte de <ingredient action="ouvrir"> crabe </ingredient> , <operation ingredients="chair"> égoutter </operation> la <ingredient action="égoutter"> chair </ingredient> et <operation> éliminer </operation> les éventuels cartilages . <operation ingredients="mayonnaise"> mélanger </operation> avec la <ingredient action="mélanger" quantite="3 cuillère à soupe"> mayonnaise </ingredient> . <operation ingredients="concombre;couteau"> eplucher </operation> le <ingredient action="eplucher" quantite="1"> concombre </ingredient> à l' aide d' un <ingredient action="eplucher"> couteau </ingredient> et en <operation> découper </operation> 4 larges lanières de façon à <operation> former </operation> 1 tour pour la présentation . les <operation> disposer </operation> dans 1 assiette . <operation ingredients="concombres"> remplir </operation> les tours de <ingredient action="remplir" quantite="1"> concombres </ingredient> avec le guacamole , puis <operation ingredients="crabe"> ajouter </operation> la préparation au <ingredient action="ajouter"> crabe </ingredient> sur le dessus . <operation> saupoudrer </operation> avec 1 peu de piment et <operation ingredients="concombre;non;menthe;mayonnaise"> décorer </operation> éventuellement avec quelques fin bâtonnets de <ingredient action="décorer" quantite="1"> concombre </ingredient> <ingredient action="décorer" quantite="1;2 pincée"> non </ingredient> <operation> pelés </operation> , 1 brin de <ingredient action="décorer" quantite=""> menthe </ingredient> et un peu de <ingredient action="décorer" quantite="3 cuillère à soupe"> mayonnaise </ingredient> .
+</preparation>
+</recette>

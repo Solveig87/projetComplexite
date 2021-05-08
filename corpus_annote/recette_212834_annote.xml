@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212834">
+<titre>Quiche fromagère aux courgettes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>2 courgettes</p>
+<p>1 tomate</p>
+<p>2 œufs</p>
+<p>15 cl de lait</p>
+<p>100 g de mozzarella</p>
+<p>1/2 fromage fermier de chèvre</p>
+<p>1 + 1/2 tranche de jambon blanc</p>
+</ingredients>
+<preparation>
+étaler la <ingredient quantite="1"> pâte </ingredient> et la <operation> piquer </operation> . <operation ingredients="tomate"> laver </operation> les courgettes et la <ingredient action="laver" quantite="1"> tomate </ingredient> , les sécher et les <operation> couper </operation> en petits morceaux , les <operation ingredients="pâte"> mettre </operation> sur la <ingredient action="mettre" quantite="1"> pâte </ingredient> . <operation ingredients="jambon;fromages"> couper </operation> le <ingredient action="couper"> jambon </ingredient> en lamelles et les <ingredient action="couper" quantite="1"> fromages </ingredient> en petits dés , les <operation> ajouter </operation> sur les courgettes . dans 1 bol , <operation ingredients="œufs;lait"> battre </operation> les <ingredient action="battre" quantite="2"> œufs </ingredient> avec le <ingredient action="battre" quantite="15 cl"> lait </ingredient> et <operation ingredients="quiche"> verser </operation> sur la <ingredient action="verser"> quiche </ingredient> . <operation> mettre </operation> à four chaud pendant 25 min et servir dés la sortie du four .
+</preparation>
+</recette>

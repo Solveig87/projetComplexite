@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25051">
+<titre>Tarte pommes bananes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte sablée</p>
+<p>5 pommes</p>
+<p>4 bananes</p>
+<p>60 g de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> à tarte , la <operation> piquer </operation> à la fourchette . <operation> peler </operation> , <operation> épépiner </operation> et <operation ingredients="pommes;bananes"> couper </operation> 3 <ingredient action="couper" quantite="5"> pommes </ingredient> en dés , et 2 <ingredient action="couper" quantite="4"> bananes </ingredient> en rondelles . les faire <operation ingredients="compote;sucre"> cuire </operation> en <ingredient action="cuire"> compote </ingredient> avec 50 g de <ingredient action="cuire" quantite="60 gramme"> sucre </ingredient> . <operation ingredients="compote"> verser </operation> la <ingredient action="verser"> compote </ingredient> refroidie sur le fond de <ingredient> tarte </ingredient> . <operation> peler </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="5"> pommes </ingredient> et bananes restantes en lamelles , les <operation ingredients="tarte"> disposer </operation> dur la <ingredient action="disposer"> tarte </ingredient> . <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="60 gramme"> sucre </ingredient> et <operation> enfourner </operation> 25 minutes au four à 200 <operation> ° </operation> c ( thermostat . 7 ) . on peut <operation ingredients="cannelle;gingembre"> saupoudrer </operation> de <ingredient action="saupoudrer"> cannelle </ingredient> ou de <ingredient action="saupoudrer"> gingembre </ingredient> <operation> moulu </operation> avant d' <operation ingredients="tarte"> enfourner </operation> la <ingredient action="enfourner"> tarte </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34861">
+<titre>Salade d'escargots</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>36 escargots</p>
+<p>3 bolets ou 3 pleurotes</p>
+<p>3 tranches de pain coupées en petits cubes</p>
+<p>150 g de lardons</p>
+<p>150 g de mélange mâche-trévise</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escargots;jus"> réchauffer </operation> lentement les <ingredient action="réchauffer" quantite="36"> escargots </ingredient> dans leur <ingredient action="réchauffer"> jus </ingredient> . <operation> trier </operation> , <operation> laver </operation> et <operation ingredients="salade"> essorer </operation> la <ingredient action="essorer"> salade </ingredient> , l' <operation ingredients="huile;sel;poivre"> assaisonner </operation> avec l' <ingredient action="assaisonner" quantite="3 cuillère à soupe"> huile </ingredient> , le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner"> poivre </ingredient> . <operation ingredients="bolets"> poêler </operation> à sec les <ingredient action="poêler" quantite="3"> bolets </ingredient> <operation> émincés </operation> . faire <operation ingredients="croûtons;huile"> frire </operation> les <ingredient action="frire"> croûtons </ingredient> à l' <ingredient action="frire" quantite="3 cuillère à soupe"> huile </ingredient> . <operation ingredients="lardons"> ebouillanter </operation> les <ingredient action="ebouillanter" quantite="150 gramme"> lardons </ingredient> , les faire <operation> réduire </operation> dans une <operation> poêle </operation> , jusqu' à ce qu' ils <operation> dorent </operation> . <operation ingredients="salades"> dresser </operation> les <ingredient action="dresser"> salades </ingredient> sur des assiettes , <operation ingredients="vinaigre"> déglacer </operation> au <ingredient action="déglacer" quantite="2 cuillère à soupe"> vinaigre </ingredient> la <operation> poêle </operation> où ont <operation ingredients="lardons"> cuit </operation> les <ingredient action="cuire" quantite="150 gramme"> lardons </ingredient> , en <operation ingredients="salades"> arroser </operation> les <ingredient action="arroser"> salades </ingredient> . <operation ingredients="bolets"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> bolets </ingredient> , les <ingredient action="ajouter" quantite="36"> escargots </ingredient> <operation> égouttés </operation> , les <ingredient action="ajouter"> croûtons </ingredient> , <operation ingredients="escargots;croûtons"> ajouter </operation> un peu de vinaigrette .
+</preparation>
+</recette>

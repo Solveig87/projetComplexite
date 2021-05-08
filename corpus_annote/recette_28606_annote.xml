@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28606">
+<titre>Crème au caramel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la crème :</p>
+<p>1 œuf</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1 cuillère à soupe de Maïzena</p>
+<p>1 litre de lait</p>
+<p>Pour le caramel :</p>
+<p>eau</p>
+<p>sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème"> préparer </operation> la <ingredient action="préparer"> crème </ingredient> : <operation ingredients="farine"> mélanger </operation> la <ingredient action="mélanger" quantite="1 cuillère à soupe"> farine </ingredient> , la <ingredient action="ajouter" quantite="1 cuillère à soupe"> maïzena </ingredient> , l' <ingredient action="ajouter"> oeuf </ingredient> puis <operation ingredients="maïzena;oeuf;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="1 litre"> lait </ingredient> . commencer à <operation> chauffer </operation> la préparation en <operation> remuant </operation> de temps en temps . pendant ce temps , <operation ingredients="sucre"> préparer </operation> le caramel : un peu d' eau avec du <ingredient action="préparer" quantite=""> sucre </ingredient> . dés qu' il devient bien roux , hors du feu , <operation> ajouter </operation> un peu d' eau bouillante ( attention aux éclaboussures ! ) . puis <operation ingredients="crème"> ajouter </operation> le caramel à la <ingredient action="ajouter"> crème </ingredient> presque chaude . a <operation> ébullition </operation> , baisser le feu et <operation> chauffer </operation> pendant 3 min tout en <operation> remuant </operation> .
+</preparation>
+</recette>

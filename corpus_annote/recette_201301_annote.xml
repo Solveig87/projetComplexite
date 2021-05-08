@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201301">
+<titre>Muffins à la carotte et à la pomme</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 belle carotte</p>
+<p>1 pomme (royale gala)</p>
+<p>1 cuillère à café de levure</p>
+<p>1/2 cuillère à café de cannelle</p>
+<p>1 cuillère à soupe de raisins secs</p>
+<p>1 œuf</p>
+<p>1 cuillère à soupe de poudre d amande</p>
+<p>60 g de farine</p>
+<p>50 g de sucre</p>
+<p>25 ml de crème liquide</p>
+<p>25 ml d huile</p>
+</ingredients>
+<preparation>
+préchauffer le four à 200 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="carotte;pomme"> râper </operation> la <ingredient action="râper" quantite="1"> carotte </ingredient> et la <ingredient action="râper" quantite="1"> pomme </ingredient> . dans un saladier <operation ingredients="levure;amande"> mélanger </operation> <ingredient action="mélanger" quantite="1 cuillère à café"> levure </ingredient> , cannelle , farine , sucre , <operation> poudre </operation> d <ingredient action="mélanger"> amande </ingredient> . <operation ingredients="carotte;pomme"> ajouter </operation> la <ingredient action="ajouter" quantite="1"> carotte </ingredient> et la <ingredient action="ajouter" quantite="1"> pomme </ingredient> et <operation> mélanger </operation> bien le tout jusqu' à obtention d' un ensemble homogène . dans un autre saladier , <operation ingredients="crème;huile;œuf"> mélanger </operation> la <ingredient action="mélanger"> crème </ingredient> , l <ingredient action="mélanger"> huile </ingredient> , l’ <ingredient action="mélanger" quantite="1"> œuf </ingredient> , les <ingredient quantite="1 cuillère à soupe"> raisin </ingredient> sec et la <ingredient> cannelle </ingredient> . <operation> ajouter </operation> cette préparation à celle d avant et bien <operation> mélanger </operation> . <operation> disposer </operation> dans les <operation> moules </operation> à muffins et <operation> enfourner </operation> environ 25 min à 200 <operation> ° </operation> c. les <ingredient> muffins </ingredient> doivent être dorés dessus et légèrement <operation> fondant </operation> à cœur .
+</preparation>
+</recette>

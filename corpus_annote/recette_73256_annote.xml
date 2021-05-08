@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73256">
+<titre>Escalopes de veau gratinées</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de veau de 150 g pièce</p>
+<p>250 g de petits champignons de Paris</p>
+<p>1 gousse d'ail</p>
+<p>100  de gruyère râpé</p>
+<p>10 cl de vin blanc sec</p>
+<p>100 g de beurre</p>
+<p>3 cuillères à soupe de crème fraîche épaisse</p>
+<p>3 brins de persil</p>
+<p>2 cuillères à soupe de farine</p>
+<p>2 cuillères à soupe de chapelure</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="champignons;beurre;ail"> cuire </operation> 10 min les <ingredient action="cuire" quantite="250 gramme"> champignons </ingredient> dans 50 g de <ingredient action="cuire" quantite="100 gramme"> beurre </ingredient> avec l' <ingredient action="cuire"> ail </ingredient> émincé . <operation ingredients="escalopes"> mettez </operation> les <ingredient action="mettre" quantite="4"> escalopes </ingredient> à <operation ingredients="beurre"> cuire </operation> dans 50 g de <ingredient action="cuire" quantite="100 gramme"> beurre </ingredient> dans une <operation> poêle </operation> après les avoir <operation ingredients="salées"> farinées </operation> , poivrées et <ingredient action="fariner"> salées </ingredient> pendant 10 à 12 min . dans un bol <operation ingredients="crème;gruyère;persil"> mélangez </operation> la <ingredient action="mélanger" quantite="3 cuillère à soupe"> crème </ingredient> avec le <ingredient action="mélanger" quantite="100"> gruyère </ingredient> et le <ingredient action="mélanger"> persil </ingredient> haché . <operation ingredients="escalopes"> déposez </operation> les <ingredient action="déposer" quantite="4"> escalopes </ingredient> <operation> cuites </operation> dans un plat à gratin . <operation ingredients="beurre"> jetez </operation> le <ingredient action="jeter" quantite="100 gramme"> beurre </ingredient> de cuisson de la <operation> poêle </operation> et <operation ingredients="vin"> déglacez </operation> avec le <ingredient action="déglacer" quantite="10 cl"> vin </ingredient> . <operation ingredients="jus"> versez </operation> ce <ingredient action="verser"> jus </ingredient> dans le plat , puis <operation ingredients="crème;escalopes"> déposez </operation> la <ingredient action="déposer" quantite="3 cuillère à soupe"> crème </ingredient> au gruyère sur les <ingredient action="déposer" quantite="4"> escalopes </ingredient> , <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> chapelure </ingredient> et <operation ingredients="champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> en les disposant autour . <operation> mettez </operation> à <operation> gratiner </operation> 5 min sous le gril du four et servez aussitôt . <operation ingredients="poivrons;tagliatelles"> accompagnez </operation> d' une fondue de <ingredient action="accompagner"> poivrons </ingredient> ou de <ingredient action="accompagner"> tagliatelles </ingredient> fraîches .
+</preparation>
+</recette>

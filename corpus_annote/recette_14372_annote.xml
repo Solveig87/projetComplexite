@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14372">
+<titre>Gâteau aux cerises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g cerises </p>
+<p>4 oeufs</p>
+<p>100 g beurre</p>
+<p>100 g sucre + un paquet de vanillé</p>
+<p>100 g poudre d'amande</p>
+<p>70 g farine + un demi paquet de levure</p>
+<p>amandes effilées</p>
+</ingredients>
+<preparation>
+<operation ingredients="beurre"> mélanger </operation> le <ingredient action="mélanger"> beurre </ingredient> <operation ingredients="sucres"> fondu </operation> avec les <ingredient action="fondre" quantite="100 gramme"> sucres </ingredient> , les <ingredient action="poudre" quantite="4"> oeufs </ingredient> entiers , la <operation ingredients="oeufs;amande;farine;levure"> poudre </operation> d' <ingredient action="poudre" quantite=""> amande </ingredient> , la <ingredient action="poudre"> farine </ingredient> , la <ingredient action="poudre"> levure </ingredient> . y <operation ingredients="cerises"> introduire </operation> les <ingredient action="introduire" quantite="800 gramme"> cerises </ingredient> <operation> nettoyées </operation> , mais pas denoyautées . <operation> déposer </operation> l' ensemble sur une <operation> plaque </operation> de pâtisserie anti-adhérente . <operation ingredients="amandes;cassonade"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite=""> amandes </ingredient> effilée et de <ingredient action="saupoudrer"> cassonade </ingredient> . <operation> cuire </operation> 30 mn à 160 <operation> ° </operation> c.
+</preparation>
+</recette>

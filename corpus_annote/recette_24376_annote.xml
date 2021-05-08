@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24376">
+<titre>Lasagne au poulet et à la feta</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la sauce tomate: </p>
+<p>700 g de passata (purée de tomate) </p>
+<p>1 oignon</p>
+<p>1 carotte</p>
+<p>1 courgette</p>
+<p>3 grosses louches d'eau</p>
+<p>1 bouillon cube de volaille</p>
+<p>1 cuillère à café de ketchup</p>
+<p>30 ml de vin blanc</p>
+<p>150 ml de crème fraîche allégée</p>
+<p>350 g de blanc de poulet cru</p>
+<p>100 g de lardon</p>
+<p>100 g de feta</p>
+<p>12 ou 15 feuilles de lasagne (4 ou 5 étages de 3 feuilles) </p>
+<p>gruyère râpé pour gratiner</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> la sauce tomate : <operation ingredients="légumes"> couper </operation> tous les <ingredient action="couper" quantite="1;1;1"> légumes </ingredient> en petits morceaux , <operation ingredients="vin;ketchup"> ajouter </operation> l' eau , le <ingredient action="ajouter"> vin </ingredient> , la passata , le <ingredient action="ajouter" quantite="1 cuillère à café"> ketchup </ingredient> et le cube et laisser <operation> cuire </operation> pendant 45 mn . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en très petits morceaux . <operation ingredients="poulet;lardons"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> cru et les <ingredient action="ajouter" quantite="100 gramme"> lardons </ingredient> à la sauce tomate et laisser encore <operation ingredients="bouillon"> cuire </operation> ( à petit <ingredient action="cuire" quantite="1"> bouillon </ingredient> ) le tout pendant 15 mn . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche . prendre un grand plat , <operation ingredients="feta;feta"> disposer </operation> une couche de sauce puis une couche de lasagne , puis une couche de sauce , une couche de <ingredient action="disposer" quantite="100 gramme"> feta </ingredient> <operation> émiettée </operation> , une couche de lasagne , une couche de sauce , une couche de <ingredient action="disposer" quantite="100 gramme"> feta </ingredient> <operation> émiettée </operation> . . . . terminer par une couche de sauce et une couche de <ingredient quantite=""> gruyère </ingredient> râpé . <operation> mettre </operation> le plat au four pendant 3 . 40 mn à 230 <operation> ° </operation> c. <ingredient> vin </ingredient> rouge
+</preparation>
+</recette>

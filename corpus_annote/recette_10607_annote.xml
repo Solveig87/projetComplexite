@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10607">
+<titre>Tarte</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte brisée</p>
+<p>200 g de lardons fumés</p>
+<p>2 oignons</p>
+<p>1 boîte de champignons de Paris</p>
+<p>100 g de haricots verts</p>
+<p>huile d'olive</p>
+<p>4 oeufs entiers + 2 jaunes</p>
+<p>20 cl de crème fraîche</p>
+<p>25 cl de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> cuire </operation> la <ingredient action="cuire" quantite="1"> pâte </ingredient> à blanc . faire <operation ingredients="huile;lardons;haricots"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive les oignons <operation> coupés </operation> en morceaux , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter"> champignons </ingredient> , les <ingredient action="revenir"> lardons </ingredient> et enfin les <ingredient action="revenir" quantite="100 gramme"> haricots </ingredient> verts , pendant environ 15 à 20 min . <operation> assaisonnez </operation> à votre convenance . dans un saladier m"langer les <ingredient quantite="4"> oeufs </ingredient> , la <ingredient quantite="20 cl"> crème </ingredient> fraîche et le <ingredient quantite="25 cl"> lait </ingredient> . <operation ingredients="pâte"> déposer </operation> sur la <ingredient action="déposer" quantite="1"> pâte </ingredient> <operation ingredients="crème"> précuite </operation> la préparation <operation> poêlée </operation> et l' appareil à la <ingredient action="précuire" quantite="20 cl"> crème </ingredient> . <operation> enfournez </operation> pendant 30 min .
+</preparation>
+</recette>

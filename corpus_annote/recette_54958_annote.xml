@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54958">
+<titre>Tartiflette du nord</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un reste de maroille</p>
+<p>un reste de vieux lille</p>
+<p>6 pommes de terre moyennes</p>
+<p>1 barquette de lardons</p>
+<p>2 gros oignons jaunes</p>
+<p>poivre</p>
+<p>1 gousse d'ail</p>
+<p>1 verre de bière "3 Monts"</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre entières dans une cocotte minute . faire <operation ingredients="oignons;beurre"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans du <ingredient action="revenir"> beurre </ingredient> . quand les <ingredient quantite="2"> oignons </ingredient> sont translucides , <operation ingredients="lardons"> mettre </operation> les <ingredient action="mettre"> lardons </ingredient> , <operation> poivrer </operation> . <operation ingredients="bière"> mouiller </operation> avec le verre de <ingredient action="mouiller" quantite="1 verre"> bière </ingredient> . quand les <ingredient action="cuire" quantite="6"> pommes </ingredient> de terre sont <operation ingredients="pommes"> cuites </operation> , les <operation> éplucher </operation> , les <operation> couper </operation> en grosses rondelles . <operation ingredients="gousse"> frotter </operation> le plat à gratin avec la <ingredient action="frotter" quantite="1"> gousse </ingredient> d' ail . <operation ingredients="pommes;lardons;pommes"> monter </operation> le plat : une couche de <ingredient action="monter" quantite="6"> pommes </ingredient> de terre , une couche de maroille , une couche de <ingredient action="monter"> lardons </ingredient> / oignons , une couche de <ingredient action="monter" quantite="6"> pommes </ingredient> de terre , une couche de vieux lille . faire <operation> gratiner </operation> au four environ 15 minutes à 200 <operation> ° </operation> c ( thermostat . 7 ) . servir avec de la <ingredient quantite="1 verre"> bière </ingredient> 3 monts . ne pas <operation ingredients="fromage;lardons"> saler </operation> , le <ingredient action="saler"> fromage </ingredient> et les <ingredient action="saler"> lardons </ingredient> le sont déjà suffisamment . <ingredient quantite="1 verre"> bière </ingredient> du nord : 3 monts par exemple
+</preparation>
+</recette>

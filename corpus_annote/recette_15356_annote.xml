@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15356">
+<titre>Jambon sauce aurore</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tranche de jambon blanc par personne </p>
+<p>quelques champignons de paris </p>
+<p>1 gros pot de crème fraîche </p>
+<p>1 petite boîte de concentré de tomate</p>
+<p>gruyère râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+préchauffez votre four à 180 <operation> ° </operation> c pendant 15 mn . dans un plat beurré allant au four , <operation ingredients="jambon"> roulez </operation> les tranches de <ingredient action="rouler" quantite="1 tranche"> jambon </ingredient> . <operation ingredients="champignons"> lavez </operation> les <ingredient action="laver" quantite="quelque"> champignons </ingredient> , <operation ingredients="pieds"> ôtez </operation> les <ingredient action="ôter"> pieds </ingredient> et <operation ingredients="têtes"> émincez </operation> les <ingredient action="émincer"> têtes </ingredient> en fines lamelles . <operation> ajoutez </operation> - les dans le plat . dans un petit saladier , <operation ingredients="crème;tomate"> mélangez </operation> la <ingredient action="mélanger"> crème </ingredient> et le <operation> concentré </operation> de <ingredient action="mélanger"> tomate </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="gruyère"> ajoutez </operation> la sauce dans le plat et <operation> parsemez </operation> de <ingredient action="ajouter" quantite=""> gruyère </ingredient> râpé ( à volonté pour les gourmands ! ! ! ) . <operation> enfournez </operation> et laissez <operation> cuire </operation> environ 20 mn . idéal avec un <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

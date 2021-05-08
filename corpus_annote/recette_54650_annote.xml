@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54650">
+<titre>Soupe de pommes de terre et courgettes aux coquillettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes moyennes</p>
+<p>5 pommes de terres moyennes</p>
+<p>1 oignon</p>
+<p>2 cuillères à soupe de concentré de tomate</p>
+<p>500 g de coquillettes</p>
+<p>2 cubes de bouillon poule au pot</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> frire </operation> l' <ingredient action="frire" quantite="1"> oignon </ingredient> <operation ingredients="huile"> émincé </operation> dans l' <ingredient action="émincer" quantite="2 cuillère à soupe"> huile </ingredient> dans une cocotte , <operation ingredients="tomate"> rajouter </operation> les 2 cuillères de <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> , <operation> remuer </operation> et <operation> mouiller </operation> d' un peu d' eau . <operation> eplucher </operation> les <ingredient action="couper" quantite="5"> pommes </ingredient> de terres et les courgettes , les <operation ingredients="pommes"> couper </operation> en morceaux et <operation ingredients="oignon"> ajouter </operation> dans l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> . faire <operation> cuire </operation> les ingrédients à mi-cuisson , puis <operation ingredients="pâtes"> rajouter </operation> de l' eau dans la cocotte , juste assez pour la cuisson des <ingredient action="rajouter"> pâtes </ingredient> . <operation ingredients="bouillon"> mettre </operation> les deux cubes de <ingredient action="mettre"> bouillon </ingredient> , <operation ingredients="coquillettes"> rajouter </operation> les <ingredient action="rajouter" quantite="500 gramme"> coquillettes </ingredient> . laisser <operation> mijoter </operation> 1 . 20 minutes , <operation> goûter </operation> et <operation ingredients="sel"> mettre </operation> 1 pincée de <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> si nécessaire .
+</preparation>
+</recette>

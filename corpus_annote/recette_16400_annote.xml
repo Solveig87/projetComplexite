@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16400">
+<titre>Goulash de cervelas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6  beaux poireaux</p>
+<p>5 pommes de terre</p>
+<p>4 cervelas</p>
+<p>1 oignons</p>
+<p>sel, poivre, paprika</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="poireaux"> couper </operation> en rondelles les <ingredient action="couper"> poireaux </ingredient> . <operation ingredients="pommes"> peler </operation> ou <operation> couper </operation> les <ingredient action="peler" quantite="5"> pommes </ingredient> de terre en petit cubes . <operation ingredients="cervelas"> couper </operation> les <ingredient action="couper" quantite="4"> cervelas </ingredient> en petits cubes . faire <operation ingredients="oignon;pommes;cervelas"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="huile"> haché </operation> dans un peu d' <ingredient action="hacher"> huile </ingredient> , <operation ingredients="poireaux"> ajouter </operation> les <ingredient action="ajouter"> poireaux </ingredient> , les <ingredient action="revenir" quantite="5"> pommes </ingredient> de terre et le <ingredient action="revenir" quantite="4"> cervelas </ingredient> . <operation> saler </operation> , poiver et <operation ingredients="paprika"> ajouter </operation> du <ingredient action="ajouter" quantite=""> paprika </ingredient> ( selon vos goûts ) . laisser <operation> mijoter </operation> à feu doux pendant environ 1 h. plat bon marché et délicieux . a mon avis , ce plat est meilleur lorsque les pommes-de-terre sont bien <operation> cuites </operation> afin que cela soit plus onctueux . <ingredient> côte </ingredient> du rhône ( je ne <operation ingredients="vins"> connais </operation> pas trop les <ingredient action="connaître"> vins </ingredient> ! )
+</preparation>
+</recette>

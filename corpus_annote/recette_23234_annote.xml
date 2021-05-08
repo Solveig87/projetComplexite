@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23234">
+<titre>La tarte aux pêches de Manon</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rouleau pâte sablée</p>
+<p>1 paquet palets pur beurre bretons</p>
+<p>2 boîtes oreillons de pêche ou même quantité de fruits frais</p>
+<p>sucre glace ou sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> sablée et en <operation> garnir </operation> un <operation> moule </operation> à tarte . marquer la <ingredient> pâte </ingredient> à l' aide d' une fourchette . <operation> emietter </operation> les palets bretons et en <operation ingredients="tarte"> tapisser </operation> le fond de <ingredient action="tapisser"> tarte </ingredient> . <operation ingredients="pêche"> disposer </operation> par dessus les oreillons de <ingredient action="disposer"> pêche </ingredient> et <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> ou sucre vanillé . <operation> cuire </operation> à 20 / 25 min à 180 <operation> ° </operation> c ( thermostat 6 ) . peut se servir tiède , <operation ingredients="glace;vanille"> accompagné </operation> d' une boule de <ingredient action="accompagner"> glace </ingredient> <ingredient action="accompagner"> vanille </ingredient> .
+</preparation>
+</recette>

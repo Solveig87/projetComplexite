@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28877">
+<titre>Salade concombre-cresson-oeuf</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>2 oeufs durs</p>
+<p>un bouquet de cresson</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> peler </operation> les <ingredient action="peler" quantite="2"> concombres </ingredient> mais n' <operation> enlever </operation> pas toute la peau . laisser environ une rainure de peau et en <operation> enlever </operation> une . . . pour la couleur . ensuite <operation ingredients="concombres"> décorer </operation> tout le tour de l' assiette avec des fines rondelles de <ingredient action="décorer" quantite="2"> concombres </ingredient> et faire un nid au milieu ; y <operation ingredients="cresson"> placer </operation> un peu de <ingredient action="placer"> cresson </ingredient> et <operation ingredients="oeuf;cresson"> mettre </operation> la moitié d' un <ingredient action="mettre" quantite="2"> oeuf </ingredient> dur sur le nid de <ingredient action="mettre"> cresson </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81935">
+<titre>Lotte et St Jacques aux girolles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 queue de lotte</p>
+<p>12 noix de St Jacques</p>
+<p>50 cl de crème fraîche épaisse</p>
+<p>15 cl de vin blanc coteau du Layon</p>
+<p>12 petites pommes de terre</p>
+<p>5 carottes</p>
+<p>1 échalote</p>
+<p>2 poignées de haricots verts</p>
+<p>400 g de girolles</p>
+<p>1 l de bouillon</p>
+</ingredients>
+<preparation>
+<operation ingredients="lotte"> couper </operation> 6 morceaux de <ingredient action="couper"> lotte </ingredient> , puis les <operation ingredients="bouillon"> pocher </operation> dans 1 litre de <ingredient action="pocher" quantite="1 l"> bouillon </ingredient> pendant 3 à 4 minutes . dans une <operation> poêle </operation> <operation> beurrée </operation> , <operation ingredients="noix"> saisir </operation> les <ingredient action="saisir" quantite="12"> noix </ingredient> de st jacques à feu vif et de chaque côté . <operation> rajouter </operation> le coteau du layon puis <operation> retirez </operation> les st jacques . <operation ingredients="bouillon;lotte;crème"> ajouter </operation> un peu de <ingredient action="ajouter" quantite="1 l"> bouillon </ingredient> de la <ingredient action="ajouter"> lotte </ingredient> , la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche et laisser <operation> réduire </operation> quelques minutes . <operation> réserver </operation> cette sauce . <operation> eplucher </operation> les <ingredient quantite="400 gramme"> girolles </ingredient> . <operation ingredients="échalote"> beurrer </operation> une <operation> poêle </operation> et <operation ingredients="girolles"> rajouter </operation> aux <ingredient action="rajouter" quantite="400 gramme"> girolles </ingredient> , une <ingredient action="beurrer" quantite="1"> échalote </ingredient> <operation> émincée </operation> . <operation> réserver </operation> . <operation ingredients="carottes;pommes"> eplucher </operation> les <ingredient action="eplucher" quantite="5"> carottes </ingredient> et les <ingredient action="eplucher" quantite="12"> pommes </ingredient> de terre et les faire <operation> cuire </operation> 4 minutes dans l' eau <operation> salée </operation> . <operation ingredients="pommes;carottes;haricots;lotte;noix;girolles"> répartir </operation> les <ingredient action="répartir" quantite="12"> pommes </ingredient> de terre , les <ingredient action="répartir" quantite="5"> carottes </ingredient> , les <ingredient action="répartir"> haricots </ingredient> verts , les médaillons de <ingredient action="répartir"> lotte </ingredient> , les <ingredient action="répartir" quantite="12"> noix </ingredient> de st jacques et les <ingredient action="répartir" quantite="400 gramme"> girolles </ingredient> . <operation> recouvrir </operation> de la sauce et <operation> déposer </operation> dans le four pendant 5 à 10 minutes . servir très chaud .
+</preparation>
+</recette>

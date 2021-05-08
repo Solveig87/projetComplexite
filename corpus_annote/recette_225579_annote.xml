@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225579">
+<titre>Omelette au Chaource</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>15 œufs</p>
+<p>180 g de Chaource</p>
+<p>1 gousse d'ail</p>
+<p>1 noix de beurre</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs;ail"> battre </operation> les <ingredient action="battre" quantite="15"> œufs </ingredient> en omelette , y <operation> incorporer </operation> le chaource en petits cubes , et l' <ingredient action="battre"> ail </ingredient> haché . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer"> beurre </ingredient> à la <operation> poêle </operation> , y <operation> verser </operation> l' omelette , laisser <operation> cuire </operation> à convenance .
+</preparation>
+</recette>

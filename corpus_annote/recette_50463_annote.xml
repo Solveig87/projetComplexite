@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50463">
+<titre>Poêlée haricots verts viande hachée au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 grande boîte d'haricots verts extra fins</p>
+<p>300 g de viande de boeuf hachée</p>
+<p>1 oignon</p>
+<p>1 échalote</p>
+<p>1 cuillère à soupe de curry</p>
+<p>1 cuillère à soupe de sauce soja (facultatif)</p>
+<p>poivre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignon;échalote;huile"> fondre </operation> l' <ingredient action="fondre" quantite="1"> oignon </ingredient> et l' <ingredient action="fondre" quantite="1"> échalote </ingredient> <operation> hachée </operation> dans l' <ingredient action="fondre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive puis <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter" quantite="300 gramme"> viande </ingredient> lorsqu' ils sont <operation> fondus </operation> et laissez <operation> cuire </operation> sur feu moyen . <operation> egouttez </operation> les <ingredient> haricots </ingredient> verts , <operation> rincez </operation> - les et <operation> ajoutez </operation> - les au contenu de la <operation> poêle </operation> . <operation ingredients="curry"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> curry </ingredient> , <operation ingredients="soja;assaisonnement"> arrosez </operation> de sauce <ingredient action="arroser"> soja </ingredient> et <operation> rectifiez </operation> l' <ingredient action="arroser" quantite="1 cuillère à soupe;;1 cuillère à soupe"> assaisonnement </ingredient> en sel et poivre . c' est très simple et tellement bon !
+</preparation>
+</recette>

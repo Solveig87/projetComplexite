@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26600">
+<titre>Pain de poisson aux langoustines</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg de morceaux de cabillaud, colin ou lieu</p>
+<p>2 l de court-bouillon</p>
+<p>4 langoustines</p>
+<p>200 g de crevettes roses</p>
+<p>3 oeufs</p>
+<p>3 tranches de pain de mie</p>
+<p>20 cl de lait</p>
+<p>100 g de champignons de Paris</p>
+<p>30 g de gruyère râpé</p>
+<p>20 g de parmesan râpé</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pain;lait"> tremper </operation> le <ingredient action="tremper" quantite="3 tranche"> pain </ingredient> dans le <ingredient action="tremper" quantite="20 cl"> lait </ingredient> . faites <operation ingredients="langoustines"> cuire </operation> les <ingredient action="cuire" quantite="4"> langoustines </ingredient> 5 minutes dans le court-bouillon chaud . <operation> egouttez </operation> - les , décortiquez - les et <operation ingredients="chair"> coupez </operation> la <ingredient action="couper"> chair </ingredient> en petits morceaux . faites <operation ingredients="poisson"> cuire </operation> les morceaux de <ingredient action="cuire" quantite="3"> poisson </ingredient> dans le court-bouillon environ 10 minutes . <operation> egouttez </operation> - les , <operation> retirez </operation> la peau et arêtes , <operation ingredients="chair"> émiettez </operation> la <ingredient action="émietter"> chair </ingredient> . <operation ingredients="crevettes"> décortiquez </operation> les <ingredient action="décortiquer" quantite="200 gramme"> crevettes </ingredient> , <operation> coupez </operation> - les en morceaux . <operation ingredients="poisson;chair;crevettes"> mélangez </operation> le <ingredient action="mélanger" quantite="3"> poisson </ingredient> avec la <ingredient action="mélanger"> chair </ingredient> de langoustines et de <ingredient action="mélanger" quantite="200 gramme"> crevettes </ingredient> . <operation ingredients="oeufs"> ajoutez </operation> les jaunes d' <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="pain;champignons;fromages"> ajoutez </operation> le <ingredient action="ajouter" quantite="3 tranche"> pain </ingredient> <operation> essoré </operation> , les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> <operation> hachés </operation> , les <ingredient action="ajouter"> fromages </ingredient> et <operation> mélangez </operation> . <operation ingredients="oeufs"> battez </operation> les blancs d' <ingredient action="battre" quantite="3"> oeufs </ingredient> en neige ferme , <operation> incorporez </operation> - les délicatement à la préparation . <operation> versez </operation> le tout dans un <operation> moule </operation> en couronne ou un <operation> moule </operation> à cake . <operation> placez </operation> le <operation> moule </operation> au bain - marie , faites <operation> cuire </operation> 30 min au four à 180 <operation> ° </operation> c ( thermostat 6 ) . servez ce <ingredient quantite="3 tranche"> pain </ingredient> de poissons chaud ou froid , <operation ingredients="tomates;poivrons"> accompagné </operation> d' un coulis de <ingredient action="accompagner"> tomates </ingredient> ou de <ingredient action="accompagner"> poivrons </ingredient> , et de <ingredient> mayonnaise </ingredient> .
+</preparation>
+</recette>

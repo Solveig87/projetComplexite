@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33698">
+<titre>Spaghettis au saumon fumé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de spaghetti</p>
+<p>4 tranches de saumon fumé</p>
+<p>1 jaune d'oeuf</p>
+<p>30 cl de crème fraîche épaisse</p>
+<p>ciboulette</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> bouillir </operation> l' eau pour les <ingredient action="bouillir"> pâtes </ingredient> et pendant ce temps <operation> préparer </operation> la sauce . <operation ingredients="saumon;carrés;sel;poivre"> couper </operation> les tranches de <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en ' <ingredient action="couper"> carrés </ingredient> ' , les <operation> mettre </operation> dans un petit saladier , y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> fraîche , le <ingredient action="couper" quantite=""> sel </ingredient> , le <ingredient action="couper"> poivre </ingredient> . une fois les <ingredient action="égoutter"> pâtes </ingredient> <operation> cuites </operation> , les <operation ingredients="pâtes"> égoutter </operation> et <operation> ajouter </operation> la préparation . <operation> mélanger </operation> délicatement et <operation> présenter </operation> " dans l' assiette " : <operation ingredients="pâtes;ciboulettes"> mettre </operation> les <ingredient action="mettre"> pâtes </ingredient> à la sauce , <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter"> oeuf </ingredient> ( cru ) , quelques brins de <ingredient action="mettre" quantite=""> ciboulettes </ingredient> et régalez . vous ! c' est un plat très rapide et facile à faire . le plus long , c' est la présentation ! ! rosé
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25000">
+<titre>Saumon en papillote provençale</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de filet de saumon frais</p>
+<p>4 petites tomates</p>
+<p>1 courgette</p>
+<p>1 poivron jaune</p>
+<p>sel, poivre, herbes de provence</p>
+<p>huile d'olive</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+préchauffer le four à 220 <operation> ° </operation> c. <operation ingredients="saumon"> découpez </operation> le filet de <ingredient action="découper"> saumon </ingredient> en 4 morceaux , et <operation> disposez </operation> - les dans 4 feuilles de papier alu . <operation ingredients="jus"> arrosez </operation> légèrement de <ingredient action="arroser"> jus </ingredient> de citron , puis <operation> salez </operation> et <operation ingredients="saumon"> poivrez </operation> le <ingredient action="poivrer"> saumon </ingredient> . <operation ingredients="tomates;poivron"> découpez </operation> en dés les <ingredient action="découper" quantite="4"> tomates </ingredient> , et en lamelles la courgette et le <ingredient action="découper"> poivron </ingredient> . <operation ingredients="légumes"> répartissez </operation> les <ingredient action="répartir" quantite="4;1"> légumes </ingredient> dans chacune des papillotes , avant de les <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="huile"> arrosez </operation> le tout d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive , et <operation> ajoutez </operation> les herbes de provence . fermez les papillotes et <operation> enfournez </operation> - les pendant 30 minutes . servez avec du <ingredient> riz </ingredient> nature . avec la <ingredient quantite="4"> tomate </ingredient> , la courgette et le <ingredient> poivron </ingredient> jaune , vous obtenez un plat coloré , ce qui ne gâche rien ! <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

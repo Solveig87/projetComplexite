@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48069">
+<titre>Sorbet a l'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>75 cl de jus d'orange (en brique ou maison)</p>
+<p>200 g de sucre glace</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+<operation ingredients="jus;jus;sucre"> mélangez </operation> le <ingredient action="mélanger" quantite="75 cl"> jus </ingredient> d' orange , le <ingredient action="mélanger" quantite="75 cl"> jus </ingredient> de citron et le <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> . <operation> remuez </operation> pour faire <operation ingredients="sucre"> dissoudre </operation> le <ingredient action="dissoudre" quantite="200 gramme"> sucre </ingredient> . <operation> mettre </operation> le tout dans la sorbetière 30 minutes environ . peut se consommer en <ingredient> sorbet </ingredient> , ou en <ingredient> boisson </ingredient> <operation> glacée </operation> si vous le laissez moins longtemps dans la sorbetière .
+</preparation>
+</recette>

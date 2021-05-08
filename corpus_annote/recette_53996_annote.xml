@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53996">
+<titre>Entrée de SOUBES</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 morceaux de poulet</p>
+<p>4 morceaux de veau </p>
+<p>4 carottes</p>
+<p>2 branches de céleri</p>
+<p>1 boîte d'olives vertes dénoyautées</p>
+<p>1 bel oignon</p>
+<p>1 cuillère à soupe de farine</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;huile"> revenir </operation> doucement la <ingredient action="revenir"> viande </ingredient> dans une cocotte avec un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="oignon;farine"> ajouter </operation> ensuite l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> <operation> émincé </operation> , un peu de <ingredient action="ajouter" quantite="1 cuillère à soupe"> farine </ingredient> et <operation> mouiller </operation> avec de l' eau . <operation ingredients="carottes"> ajouter </operation> <ingredient action="ajouter" quantite="4"> carottes </ingredient> et celéri ( branches ) <operation> coupés </operation> en fines rondelles , <operation> saler </operation> , <operation> poivrer </operation> , puis laisser <operation> cuire </operation> pendant 1 heure . au bout d'1 h , <operation ingredients="olives"> ajouter </operation> les <ingredient action="ajouter"> olives </ingredient> et laisser <operation> cuire </operation> encore 15 min . c' est une vieille recette provenant du midi ; plat économique , très léger , idéal les lendemain de fête , <operation> préparé </operation> avec les restes . il est délicieux <operation> réchauffé </operation> .
+</preparation>
+</recette>

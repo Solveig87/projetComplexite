@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30402">
+<titre>Tartelettes de champignons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de champignons</p>
+<p>2 cuillères à soupe de mie de pain</p>
+<p>8 tartelettes de pâte sablée</p>
+<p>le jus d'1 citron</p>
+<p>50 g de beurre</p>
+<p>100 g de crème</p>
+<p>1/2 botte de persil</p>
+<p>2 gousses d'ail</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâte"> cuire </operation> les tartelettes de <ingredient action="cuire"> pâte </ingredient> sablée au four à 210 <operation> ° </operation> c ( thermostat 7 ) pendant 10 min et les <operation> réserver </operation> . <operation ingredients="champignons"> laver </operation> les <ingredient action="laver" quantite="300 gramme"> champignons </ingredient> en les <operation> plongeant </operation> dans un bain d' eau légèrement citronnée . les <operation> égoutter </operation> , <operation ingredients="pieds"> séparer </operation> les chapeaux et les <ingredient action="séparer"> pieds </ingredient> puis les <operation> détailler </operation> en fines lamelles . les faire <operation ingredients="pain;ail"> revenir </operation> dans une casserole <operation> beurrée </operation> avec la mie de <ingredient action="revenir"> pain </ingredient> <operation> émiettée </operation> et l' <ingredient action="revenir"> ail </ingredient> haché . laisser <operation> cuire </operation> 10 min sans cesser de <operation> remuer </operation> puis <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer"> persil </ingredient> haché . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> crème </ingredient> et bien <operation> lier </operation> le tout . <operation ingredients="champignons;pâte"> garnir </operation> de <ingredient action="garnir" quantite="300 gramme"> champignons </ingredient> les tartelettes de <ingredient action="garnir"> pâte </ingredient> sablée puis <operation> entreposer </operation> au frais .
+</preparation>
+</recette>

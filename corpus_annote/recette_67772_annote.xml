@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67772">
+<titre>Tourte paysanne aux 2 viandes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pâtes brisées</p>
+<p>3 blancs de poulet cuits</p>
+<p>100 g de jambon de canard fumé dégraissé</p>
+<p>600 g de blancs de poireaux tronçonnés</p>
+<p>200g de champignons frais</p>
+<p>75 g de fromage de brebis des Pyrénées</p>
+<p>3 oeufs entiers+1 jaune</p>
+<p>30 cl de lait </p>
+<p>4 c.à soupe de fécule de pomme de terre</p>
+<p>2 c. à soupe de persil</p>
+<p>sel,poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pomme;lait"> délayer </operation> la fécule de <ingredient action="délayer"> pomme </ingredient> de terre dans le <ingredient action="délayer" quantite="30 cl"> lait </ingredient> . faire <operation> épaissir </operation> sur feu doux , <operation ingredients="oeufs;fromage;pyrénées"> incorporer </operation> les 3 <ingredient action="incorporer" quantite="3"> oeufs </ingredient> entiers 1 à 1 et le <ingredient action="incorporer" quantite="75 gramme"> fromage </ingredient> de brebis des <ingredient action="incorporer"> pyrénées </ingredient> râpé . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="poireaux;poulet"> ajouter </operation> les blancs de <ingredient action="ajouter"> poireaux </ingredient> tronçonnés et <operation> cuits </operation> 12 min à l' eau bouillante <operation> salée </operation> , les blancs de <ingredient action="ajouter"> poulet </ingredient> <operation> cuits </operation> et <operation> coupés </operation> en morceaux ; le <ingredient action="hâché" quantite="100 gramme"> jambon </ingredient> de canard <ingredient action="hâché"> fumé </ingredient> égraissé , les <ingredient action="hâché" quantite="200 gramme"> champignons </ingredient> frais <operation ingredients="beurre"> revenus </operation> au <ingredient action="revenir"> beurre </ingredient> et le <ingredient action="hâché"> persil </ingredient> finement <operation ingredients="jambon;fumé;champignons;persil"> hâché </operation> . <operation> garnir </operation> un <operation> moule </operation> à manqué de 26 cm de diam . d' un <operation ingredients="pâte"> cercle </operation> de <ingredient action="cercle" quantite="2"> pâte </ingredient> <operation> brisée </operation> . <operation> etaler </operation> la garniture . <operation ingredients="pâte"> recouvrir </operation> d' un deuxième <operation> cercle </operation> de <ingredient action="recouvrir" quantite="2"> pâte </ingredient> . souder les bords en les <operation> pinçant </operation> . <operation ingredients="pâte"> dorer </operation> en étalant du jaune d' <ingredient quantite="3"> oeuf </ingredient> ( <operation> dilué </operation> dans un peu d' eau ) sur la <ingredient action="dorer" quantite="2"> pâte </ingredient> . <operation ingredients="bordeaux"> cuire </operation> pendant 45 min au four à 200 <operation> ° </operation> c. <ingredient action="cuire"> bordeaux </ingredient> rouge
+</preparation>
+</recette>

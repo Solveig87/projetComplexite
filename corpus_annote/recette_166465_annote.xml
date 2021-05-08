@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166465">
+<titre>Verrines guacamole/rillettes de saumon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour le guacamole :</p>
+<p>2 avocats</p>
+<p>1 tomate mûre</p>
+<p>1 oignon moyen</p>
+<p>1 poivron rouge (ou vert)</p>
+<p>1 citron vert (ou jaune)</p>
+<p>sel/poivre</p>
+<p>piment d'espelette</p>
+<p>huile d'olive (facultatif)Pour les rillettes de saumon :</p>
+<p>2 filets de saumon</p>
+<p>1 petit pot de crème fraîche épaisse (ou un yaourt bulgare)</p>
+<p>sel/poivre</p>
+<p>aneth (ou ciboulette)</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1 citron vert (ou jaune)</p>
+<p>huile d'olive (facultatif)</p>
+</ingredients>
+<preparation>
+guacamole : faire <operation ingredients="poivrons"> griller </operation> les <ingredient action="griller"> poivrons </ingredient> , <operation> éplucher </operation> les sous l' eau froide , <operation> épépiner </operation> les et <operation> couper </operation> les en petits dés . <operation> réserver </operation> . <operation ingredients="tomates"> peler </operation> les <ingredient action="peler" quantite="1"> tomates </ingredient> , <operation> épépiner </operation> les et <operation> couper </operation> les en petits dés . laisser dégorger . <operation> réserver </operation> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> fin . dans un saladier , <operation ingredients="chair;citron"> mettre </operation> la <ingredient action="mettre"> chair </ingredient> des avocats avec un filet de <ingredient action="mettre" quantite="1+1"> citron </ingredient> et l' <operation> écraser </operation> . <operation ingredients="poivron;tomate;oignon"> rajouter </operation> les dés de <ingredient action="rajouter"> poivron </ingredient> et de <ingredient action="rajouter" quantite="1"> tomate </ingredient> et l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> , <operation> mélanger </operation> et <operation> écraser </operation> . <operation ingredients="sel;poivre;huile;jus"> rajouter </operation> le <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="rajouter"> poivre </ingredient> , le piment , un filet d' <ingredient action="rajouter" quantite=""> huile </ingredient> d' olive et le reste du <ingredient action="rajouter"> jus </ingredient> de citron . <operation> mettre </operation> dans le fond des verrines . <operation> réserver </operation> au frais . <ingredient> rillettes </ingredient> de saumon : <operation ingredients="saumon;marrons"> enlever </operation> la peau du <ingredient action="enlever"> saumon </ingredient> et les parties <ingredient action="enlever"> marrons </ingredient> , <operation ingredients="poivre;huile;citron"> découper </operation> en gros dés <operation ingredients="sel"> rajouter </operation> le <ingredient action="rajouter" quantite=""> sel </ingredient> , le <ingredient action="découper"> poivre </ingredient> , un filet d' <ingredient action="découper" quantite=""> huile </ingredient> d' olive et de <ingredient action="découper" quantite="1+1"> citron </ingredient> . <operation> mélanger </operation> et laisser <operation> mariner </operation> le temps de faire le guacamole . <operation> cuire </operation> au micro-ondes pleine puissance 2 min . <operation> ecraser </operation> . <operation ingredients="crème;aneth;citron"> rajouter </operation> la <ingredient action="rajouter"> crème </ingredient> fraîche , l' <ingredient action="rajouter" quantite=""> aneth </ingredient> et le reste du <ingredient action="rajouter" quantite="1+1"> citron </ingredient> . <operation> mélanger </operation> . <operation> déposer </operation> dans les verrines sur le guacamole . <operation> réserver </operation> au frais . servir avec des tranches de <ingredient> pain </ingredient> de campagne grillées . idée déco : <ingredient> radis </ingredient> <operation> découpés </operation> en fleur . pour 4 grandes verrines en entrée . pour plus si petites verrines en amuse - gueule .
+</preparation>
+</recette>

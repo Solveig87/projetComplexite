@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24044">
+<titre>Timbale milanaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de macaronis</p>
+<p>10 cl de sauce tomate</p>
+<p>75 g de gruyère râpé</p>
+<p>75 g de beurre</p>
+<p>50 g de parmesan râpé</p>
+<p>sel et poivre</p>
+<p>1 bouquet garni</p>
+<p>Pour le roux blond :</p>
+<p>200 g de farine</p>
+<p>100 g de beurre fondu</p>
+<p>Pour la garniture, à volonté : </p>
+<p>truffes</p>
+<p>jambon cru (ou fumé)</p>
+<p>champignons</p>
+<p>saucisses</p>
+<p>chipolatas</p>
+<p>quenelles de volaille</p>
+<p>ris de veau</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="macaronis"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> macaronis </ingredient> , puis les <operation> égoutter </operation> . y <operation ingredients="beurre"> ajouter </operation> <ingredient action="ajouter"> beurre </ingredient> et fromage , puis <operation> assaisonner </operation> . d' autre part , <operation ingredients="bouquet"> faire </operation> <operation> bouillir </operation> dans le roux pendant 20 mn les ingrédients de garniture <operation> coupés </operation> en dés , ainsi que le <ingredient action="faire" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> assaisonner </operation> . 5 mn avant la fin de la cuisson , <operation> ajouter </operation> la sauce tomate . <operation ingredients="macaroni"> disposer </operation> ensuite dans une timbale des couches alternées de garniture et de <ingredient action="disposer" quantite="300 gramme"> macaroni </ingredient> . terminer en <operation> arrosant </operation> largement de sauce . <ingredient> vin </ingredient> rosé ou rouge léger
+</preparation>
+</recette>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82463">
+<titre>Tiramisu aux pommes, au pain d'épice et au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la mousse de mascarpone :</p>
+<p>250 g de mascarpone</p>
+<p>3 jaunes d'oeufs</p>
+<p>100 g de sucre</p>
+<p>10 cl de crème liquide</p>
+<p>Pour les pommes :</p>
+<p>6 pommes</p>
+<p>50 g de beurre</p>
+<p>75 g de sucre</p>
+<p>Pour le coulis de chocolat :</p>
+<p>100 g de chocolat</p>
+<p>20 g de beurre</p>
+<p>1 belle tranche de pain d'épice</p>
+<p>5 cl de rhum</p>
+<p>6 petites cuillères de poudre de cacao</p>
+</ingredients>
+<preparation>
+préparation du coulis de <ingredient quantite="100 gramme"> chocolat </ingredient> : faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> au bain - marie . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> beurre </ingredient> <operation> fondu </operation> et <operation> mélanger </operation> . garder à température ambiante . préparation de la <ingredient> mousse </ingredient> de mascarpone : <operation ingredients="mascarpone;oeufs;sucre"> mélanger </operation> au fouet le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> avec les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> puis le <ingredient action="mélanger" quantite="100 gramme+75 gramme"> sucre </ingredient> semoule . <operation ingredients="crème;chantilly"> monter </operation> la <ingredient action="monter" quantite="10 cl"> crème </ingredient> liquide en <ingredient action="monter"> chantilly </ingredient> . <operation ingredients="chantilly;oeufs"> incorporer </operation> la <ingredient action="incorporer"> chantilly </ingredient> au <operation> mélange </operation> mascarpone , <ingredient action="incorporer"> oeufs </ingredient> , sucre et <operation> réserver </operation> au frais . pendant ce temps , <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="6"> pommes </ingredient> et les <operation> couper </operation> en petits morceaux . les <operation ingredients="beurre"> mettre </operation> sur feux doux avec le <ingredient action="mettre" quantite="50 gramme+20 gramme"> beurre </ingredient> . une fois le <ingredient action="ajouter" quantite="50 gramme+20 gramme"> beurre </ingredient> <operation> fondu </operation> , <operation ingredients="beurre;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme+75 gramme"> sucre </ingredient> et <operation> mettre </operation> sur feu vif . une fois les <ingredient quantite="6"> pommes </ingredient> bien <operation> cuites </operation> <operation> enlever </operation> du feu . <operation ingredients="pain;rhum"> imbiber </operation> la tranche de <ingredient action="imbiber"> pain </ingredient> d' épice dans le <ingredient action="imbiber" quantite="5 cl"> rhum </ingredient> et <operation ingredients="pain"> disposer </operation> les morceaux de <ingredient action="disposer"> pain </ingredient> d' épice au fond de 6 verres ou coupelles ; <operation ingredients="pommes"> disposer </operation> dessus les <ingredient action="disposer" quantite="6"> pommes </ingredient> dans leur sauce . <operation ingredients="mousse;chocolat"> ajouter </operation> une première couche de <ingredient action="ajouter"> mousse </ingredient> de mascarpone puis une couche de coulis de <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> ( personnellement , j' ai caché le <ingredient quantite="100 gramme"> chocolat </ingredient> dans la <ingredient quantite="250 gramme"> mascarpone </ingredient> pour un effet de surprise ) puis la deuxième couche de <ingredient> mousse </ingredient> de mascarpone et <operation ingredients="cacao"> saupoudrer </operation> de <ingredient action="saupoudrer"> cacao </ingredient> . <operation> mettre </operation> au réfrigérateur au moins 2 heures ( une nuit entière est préférable ) .
+</preparation>
+</recette>

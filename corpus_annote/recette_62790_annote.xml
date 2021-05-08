@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62790">
+<titre>Poulet facile aux endives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poulet découpé ou 4 cuisses</p>
+<p>1 kg d'endives</p>
+<p>sel, poivre</p>
+<p>un peu d'huile</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> revenir </operation> dans une cocotte les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> à feu vif jusqu' à ce qu' ils se <operation> colorent </operation> . pendant ce temps , <operation ingredients="endives"> laver </operation> les <ingredient action="laver" quantite="1 kilogramme"> endives </ingredient> et les <operation> effeuiller </operation> . <operation ingredients="poulet"> retirer </operation> le <ingredient action="retirer" quantite="1"> poulet </ingredient> , <operation ingredients="huile"> jeter </operation> l' <ingredient action="jeter"> huile </ingredient> et <operation ingredients="poulet"> remettre </operation> le <ingredient action="remettre" quantite="1"> poulet </ingredient> dans la cocotte . <operation ingredients="endives"> couvrir </operation> avec les <ingredient action="couvrir" quantite="1 kilogramme"> endives </ingredient> à peine égoutées , <operation> saler </operation> , <operation> poivrer </operation> et <operation> couvrir </operation> sans avoir <operation> mélangé </operation> : ainsi , le <ingredient action="cuire" quantite="1"> poulet </ingredient> <operation ingredients="poulet;endives"> cuit </operation> à l' étouffée sous les <ingredient action="cuire" quantite="1 kilogramme"> endives </ingredient> . après 2 . 25 minutes , c' est prêt ! on peut racourcir le temps de cuisson en utilisant une cocotte minute .
+</preparation>
+</recette>

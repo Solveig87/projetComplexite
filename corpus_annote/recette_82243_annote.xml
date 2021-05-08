@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82243">
+<titre>Escalopes de poulet en robe de lard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>8 tranches de poitrine fumée</p>
+<p>quelques brins de ciboulette</p>
+<p>1 oignon</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>10 cl de vin blanc</p>
+<p>4 cuillères à soupe de crème fraîche liquide</p>
+<p>1 cuillère à café de fond de veau</p>
+<p>1 brin de romarin</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ciboulette;poulet"> mettre </operation> la <ingredient action="mettre"> ciboulette </ingredient> sur les blancs de <ingredient action="mettre"> poulet </ingredient> . <operation ingredients="poulet;poitrine;fumée"> emballer </operation> les blancs de <ingredient action="emballer"> poulet </ingredient> avec 2 tranches de <ingredient action="emballer" quantite="8 tranche"> poitrine </ingredient> <ingredient action="emballer"> fumée </ingredient> , bien les ficeller . <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , y faire <operation ingredients="poulet"> revenir </operation> les blancs de <ingredient action="revenir"> poulet </ingredient> , ( jusqu' a ce que le <ingredient action="griller"> lard </ingredient> soit bien <operation ingredients="lard"> grillé </operation> ) , <operation> enlever </operation> les blancs , les remplacer par l' <ingredient quantite="1"> oignon </ingredient> <operation> émincé </operation> , faire <operation> colorer </operation> , <operation> remettre </operation> les blancs , <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="10 cl"> vin </ingredient> blanc , <operation ingredients="veau"> ajouter </operation> le fond de <ingredient action="ajouter"> veau </ingredient> , le romarin , <operation> saler </operation> et <operation> poivrer </operation> . avant de servir , <operation> retirer </operation> les blancs , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> liquide , <operation> mettre </operation> les blancs dans un plat et <operation> arroser </operation> de la sauce . variante : vous pouvez <operation ingredients="tomates"> ajouter </operation> <ingredient action="ajouter"> tomates </ingredient> , thym , laurier ( à la <operation> place </operation> du romarin ) .
+</preparation>
+</recette>

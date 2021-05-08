@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28340">
+<titre>Velouté de lentilles vertes au poulet</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>330 g de lentilles vertes</p>
+<p>150 g de crème fraîche épaisse</p>
+<p>15 g de beurre</p>
+<p>6 ailerons de poulet</p>
+<p>1,5 l d'eau froide</p>
+<p>2 carottes</p>
+<p>2 oignons</p>
+<p>2 échalotes</p>
+<p>1 bouquet garni</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> découper </operation> les <ingredient action="découper" quantite="330 gramme;150 gramme;2;2;2"> légumes </ingredient> en julienne et les faire <operation ingredients="beurre;poulet"> revenir </operation> dans une cocotte avec le <ingredient action="revenir" quantite="15 gramme"> beurre </ingredient> et les ailerons de <ingredient action="revenir"> poulet </ingredient> . <operation ingredients="thym;laurier;sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter"> laurier </ingredient> , une pincée de <ingredient action="ajouter" quantite=""> sel </ingredient> et de <ingredient action="ajouter"> poivre </ingredient> . laissez <operation> dorer </operation> pendant 5 minutes . <operation ingredients="lentilles"> ajouter </operation> les <ingredient action="ajouter" quantite="330 gramme"> lentilles </ingredient> et l' eau froide , et faire <operation> mijoter </operation> 40 minutes . <operation ingredients="thym;laurier;poulet"> enlever </operation> le <ingredient action="enlever"> thym </ingredient> , le <ingredient action="enlever"> laurier </ingredient> et les ailerons de <ingredient action="enlever"> poulet </ingredient> , et <operation ingredients="soupe"> mixer </operation> la <ingredient action="mixer"> soupe </ingredient> . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="150 gramme"> crème </ingredient> fraîche et <operation> assaisonner </operation> .
+</preparation>
+</recette>

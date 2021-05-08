@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71554">
+<titre>Verrines poire-chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 poires</p>
+<p>300 g de fromage blanc</p>
+<p>sucre en poudre ou cassonade</p>
+<p>150 g de chocolat</p>
+<p>10 cl de crème liquide</p>
+<p>10 biscuits sablés type palets bretons</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> poires </ingredient> et les <operation> couper </operation> en dés . faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="150 gramme"> chocolat </ingredient> au bain - marie , y <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche et <operation> mélanger </operation> doucement . <operation ingredients="poires"> disposer </operation> dans les verrines quelques dés de <ingredient action="disposer" quantite="4"> poires </ingredient> , <operation ingredients="chocolat;fromage"> recouvrir </operation> d' un peu de <ingredient action="recouvrir" quantite="150 gramme"> chocolat </ingredient> puis du <ingredient action="recouvrir" quantite="300 gramme"> fromage </ingredient> blanc <operation> sucré </operation> . <operation ingredients="poire;chocolat"> ajouter </operation> des dés de <ingredient action="ajouter" quantite="4"> poire </ingredient> , puis le reste de <ingredient action="ajouter" quantite="150 gramme"> chocolat </ingredient> . <operation> emietter </operation> les palets bretons et en garder pour la déco . . .
+</preparation>
+</recette>

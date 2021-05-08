@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57463">
+<titre>Gateau au chocolat sans cuisson aux boudoirs</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de poudre de boudoirs</p>
+<p>4 jaunes d'oeufs</p>
+<p>7 cuillères à soupe de lait</p>
+<p>80 g de cacao</p>
+<p>250 g de beurre fondu</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;cacao"> mélanger </operation> le <ingredient action="mélanger" quantite="7 cuillère à soupe"> lait </ingredient> et le <ingredient action="mélanger" quantite="80 gramme"> cacao </ingredient> . <operation ingredients="boudoir"> ajouter </operation> la <operation> poudre </operation> de <ingredient action="ajouter"> boudoir </ingredient> . ensuite <operation ingredients="oeufs;beurre"> incorporer </operation> les 4 jaunes d' <ingredient action="incorporer"> oeufs </ingredient> et le <ingredient action="incorporer"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre"> pâte </ingredient> dans un <operation> moule </operation> puis laisser au frigo toute une nuit ou 6 heures minimum .
+</preparation>
+</recette>

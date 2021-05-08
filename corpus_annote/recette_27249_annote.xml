@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27249">
+<titre>Riz à la méditerranéenne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de riz long grain</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>80 g de petits pois</p>
+<p>100 g de haricots verts</p>
+<p>100 g de chorizo</p>
+<p>4 tranches de jambon de Bayonne</p>
+<p>5 cl d'huile d'olive</p>
+<p>4 oeufs</p>
+</ingredients>
+<preparation>
+<operation> epépiner </operation> et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en dés . <operation ingredients="chorizo"> trancher </operation> le <ingredient action="trancher" quantite="100 gramme"> chorizo </ingredient> . <operation ingredients="pois;haricots"> cuire </operation> les petits <ingredient action="cuire" quantite="80 gramme"> pois </ingredient> et les <ingredient action="cuire" quantite="100 gramme"> haricots </ingredient> verts à l' eau . dans une cocotte à fond épais , faire <operation ingredients="poivrons;huile"> revenir </operation> les dés de <ingredient action="revenir"> poivrons </ingredient> dans l' <ingredient action="revenir" quantite="5 cl"> huile </ingredient> d' olive chaude . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter"> riz </ingredient> , <operation> remuer </operation> jusqu' à ce qu' il devienne translucide et <operation> mouiller </operation> à hauteur avec de l' eau . laisser <operation> cuire </operation> 20 min . une fois le <ingredient action="cuire"> riz </ingredient> <operation ingredients="riz"> cuit </operation> , <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter" quantite="80 gramme"> pois </ingredient> , les <ingredient quantite="100 gramme"> haricots </ingredient> et le <ingredient quantite="100 gramme"> chorizo </ingredient> . <operation ingredients="sel;poivre"> assaisonner </operation> de <ingredient action="assaisonner"> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> . servir avec une tranche de <ingredient quantite="4 tranche"> jambon </ingredient> et un <ingredient quantite="4"> oeuf </ingredient> frit .
+</preparation>
+</recette>

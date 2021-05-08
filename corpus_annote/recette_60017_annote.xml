@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="60017">
+<titre>Le palmiste (veau aux coeurs de palmier)</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de veau</p>
+<p>2 oignons</p>
+<p>2 cuillères à soupe de concentré de tomate</p>
+<p>1 à 2 cuillères à soupe de gingembre en poudre (selon le goût)</p>
+<p>1 boîte de 1 kg de coeur de palmier</p>
+<p>2 cuillères à soupe de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;huile"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1 kilogramme"> viande </ingredient> dans une cocotte avec un peu d' <ingredient action="revenir"> huile </ingredient> . <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> en lamelles . faire bien roussir . <operation ingredients="tomates"> rajouter </operation> le <operation> concentré </operation> de <ingredient action="rajouter"> tomates </ingredient> , le <ingredient action="remuer"> gingembre </ingredient> , bien <operation ingredients="gingembre"> remuer </operation> le tout . <operation ingredients="viande"> couvrir </operation> la <ingredient action="couvrir" quantite="1 kilogramme"> viande </ingredient> d' eau à hauteur , <operation> saler </operation> , <operation> poivrer </operation> . faire <operation> cuire </operation> 30 min à feu doux . au bout de 30 min , <operation ingredients="coeurs"> ajouter </operation> les <ingredient action="ajouter"> coeurs </ingredient> de palmier <operation> égoutté </operation> et <operation> coupé </operation> en quatre . poursuivre la cuisson encore 15 min . contrôler la cuisson de la <ingredient quantite="1 kilogramme"> viande </ingredient> au bout des 45 min . servir chaud , avec du <ingredient> riz </ingredient> éventuellement . peut se <operation ingredients="poulet;poule"> faire </operation> avec un <ingredient action="faire"> poulet </ingredient> ou une <ingredient action="faire"> poule </ingredient> . cette recette vient de madagascar , c' est délicieux .
+</preparation>
+</recette>

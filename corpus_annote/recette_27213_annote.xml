@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27213">
+<titre>Pigeon rôtis et petits pois à la parisienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 pigeons</p>
+<p>300 g de petits pois</p>
+<p>100 g de lard de poitrine</p>
+<p>1 coeur de salade</p>
+<p>10 petits oignons blancs</p>
+<p>2 gousses d'ail</p>
+<p>4 feuilles d'estragon</p>
+<p>thym, laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation action="rôtir" ingredients="rôtir"> rôtir </operation> les pigeons au four 30 min à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="oignons;thym;laurier;coeur;gousses"> couper </operation> les <ingredient action="couper" quantite="10"> oignons </ingredient> en 2 ou 4 , les faire <operation ingredients="lard;estragon"> blondir </operation> à la <operation> poêle </operation> avec le <ingredient action="blondir" quantite="100 gramme"> lard </ingredient> <operation> détaillé </operation> en dés , l' <ingredient action="blondir" quantite="4 feuille"> estragon </ingredient> , une branche de <ingredient action="couper" quantite=""> thym </ingredient> et une feuille de <ingredient action="couper" quantite=""> laurier </ingredient> , le <ingredient action="couper" quantite="1"> coeur </ingredient> de salade et les <ingredient action="couper" quantite="2"> gousses </ingredient> d' ail entières . <operation ingredients="pois"> cuire </operation> les petits <ingredient action="cuire" quantite="300 gramme"> pois </ingredient> à l' eau bouillante , au bout de quelques minutes <operation> ajouter </operation> le contenu de la <operation> poêle </operation> dans la casserole et laisser <operation> cuire </operation> 10 min . <operation ingredients="pigeons"> verser </operation> le tout sur les <ingredient action="verser" quantite="4"> pigeons </ingredient> dans leur plat et laisser <operation> cuire </operation> encore 10 min dans le four .
+</preparation>
+</recette>

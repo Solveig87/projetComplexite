@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="85640">
+<titre>Soupe de vermicelles soja</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 carotte- 200 g de fèves surgelées- 100 g de vermicelles de soja- 3 cuillères à soupe de sauce pour nems (Nuoc-Nam)- 1,5 l d'eau- 3 cubes de bouillon de poule- 1 gros oignon- 1 gousse d'ail- 1 steak de bœuf- 6 feuilles de menthe</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gousse;oignon"> revenir </operation> la <ingredient action="revenir"> gousse </ingredient> d' ail et l' <ingredient action="revenir"> oignon </ingredient> <operation> émincé </operation> fin dans un wok . <operation ingredients="carotte"> peler </operation> la <ingredient action="peler"> carotte </ingredient> et la <operation> couper </operation> fin avec l' économe . la <operation ingredients="fèves"> rajouter </operation> dans le wok avec les <ingredient action="rajouter"> fèves </ingredient> et continuer de faire <operation> cuire </operation> environ 5 min . <operation> mettre </operation> l' eau et les cubes , ainsi que la sauce pour nems et laisser <operation ingredients="légumes"> cuire </operation> jusqu' à cuisson des <ingredient action="cuire"> légumes </ingredient> . <operation ingredients="steak;menthe"> couper </operation> fin le <ingredient action="couper"> steak </ingredient> et la <ingredient action="couper"> menthe </ingredient> et les <operation ingredients="bouillon"> plonger </operation> dans le <ingredient action="plonger"> bouillon </ingredient> . au bout de 5 min , <operation ingredients="vermicelles"> rajouter </operation> les <ingredient action="rajouter"> vermicelles </ingredient> et laisser <operation> cuire </operation> 2 min .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54125">
+<titre>Poulet au gingembre du docteur Wang</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet entières</p>
+<p>4 cm de racine de gingembre frais</p>
+<p>3 gousses d'ail</p>
+<p>1 gros oignons</p>
+<p>25 cl de vin blanc sec</p>
+<p>10 cl de sauce de soja</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> retirer </operation> la peau des cuisses de <ingredient action="retirer"> poulet </ingredient> , puis les <operation> couper </operation> en 2 ( le haut et le pilon ) . dans une sauteuse , les faire <operation ingredients="huile"> revenir </operation> à feu vif avec la moitié d' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> . quand elles sont <operation> dorées </operation> sur toutes les faces , <operation> réserver </operation> . dans la même sauteuse , avec le reste d' <ingredient action="fondre" quantite="2 cuillère à soupe"> huile </ingredient> , faire <operation ingredients="huile;oignons;sel"> fondre </operation> à feu doux les <ingredient action="fondre" quantite="1"> oignons </ingredient> <operation> hachés </operation> fins avec un peu de <ingredient action="fondre" quantite=""> sel </ingredient> , <operation ingredients="ail;gingembre"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> épluché </operation> et <operation> écrasé </operation> grossièrement et le <ingredient action="ajouter"> gingembre </ingredient> <operation> épluché </operation> et râpé . <operation ingredients="vin"> déglacer </operation> avec le <ingredient action="déglacer" quantite="25 cl"> vin </ingredient> blanc , <operation ingredients="soja;poulet;poivre;sel"> ajouter </operation> la sauce <ingredient action="ajouter"> soja </ingredient> , les morceaux de <ingredient action="ajouter"> poulet </ingredient> et un peu de <ingredient action="ajouter"> poivre </ingredient> , ( pas de <ingredient action="ajouter" quantite=""> sel </ingredient> ) ; laisser <operation> mijoter </operation> à feu doux pendant 35 min . servir avec du <ingredient> riz </ingredient> ou des <ingredient> pâtes </ingredient> . le bon docteur wang tient cette recette de son père cuisinier chinois émérite . riesling ou <ingredient quantite="25 cl"> vin </ingredient> rosé puissant ( tavel )
+</preparation>
+</recette>

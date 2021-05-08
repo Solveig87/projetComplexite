@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57993">
+<titre>Pâtes au poivron et à l'aubergine</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros poivron</p>
+<p>1 aubergine</p>
+<p>environ 300 g de pâtes (type farfalle)</p>
+<p>1 boite de sauce tomate (coulis de tomate, 400 g)</p>
+<p>crème</p>
+<p>huile (d'olives de préférence), poivre, sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> " al dente " . faire <operation ingredients="poivron;aubergine;huile"> revenir </operation> le <ingredient action="revenir" quantite="1"> poivron </ingredient> et l' <ingredient action="revenir" quantite="1"> aubergine </ingredient> dans de l' <ingredient action="revenir" quantite=""> huile </ingredient> . <operation ingredients="sel;poivre"> mélanger </operation> la sauce tomate , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> . laisser <operation> cuire </operation> quelques minutes . dans un plat à gratin , <operation ingredients="pâtes"> mélanger </operation> les <ingredient action="mélanger"> pâtes </ingredient> et la sauce puis étaler la <ingredient quantite=""> crème </ingredient> dessus . servir chaud . pour <operation> assaisonner </operation> , vous pouvez <operation ingredients="basilic;ail"> rajouter </operation> du <ingredient action="rajouter"> basilic </ingredient> ou de l' <ingredient action="rajouter"> ail </ingredient> .
+</preparation>
+</recette>

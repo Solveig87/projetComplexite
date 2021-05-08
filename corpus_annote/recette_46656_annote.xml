@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46656">
+<titre>Salade de riz improvisée</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 sachets riz long</p>
+<p>1 botte de ciboulette </p>
+<p>1 botte de persil</p>
+<p>4 branches de céleri</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>crabe ou surimi en sachet</p>
+<p>300 g jambon sans couenne</p>
+<p>2 cuillères à soupe huile de tournesol</p>
+<p>2 cuillères à soupe vinaigre balsamique</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>pignons de pin</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="riz"> préparez </operation> le <ingredient action="préparer"> riz </ingredient> à l' avance afin de le conserver au frais pendant quelques heures . le <ingredient> riz </ingredient> doit <operation> cuire </operation> 12 min . pendant ce temps <operation ingredients="ciboulette;persil;céleri"> préparez </operation> les autres ingrédients : <operation> hachez </operation> la <ingredient action="préparer"> ciboulette </ingredient> , le <ingredient action="préparer"> persil </ingredient> et le <ingredient action="préparer"> céleri </ingredient> . <operation ingredients="jambon"> découpez </operation> le <ingredient action="découper" quantite="300 gramme"> jambon </ingredient> en carrés réguliers et épais puis le passez au mixeur . <operation ingredients="crabe"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> crabe </ingredient> ou surimi . <operation ingredients="poivrons;carrés"> découpez </operation> les <ingredient action="découper"> poivrons </ingredient> en lanières puis en <ingredient action="découper"> carrés </ingredient> et <operation> passez </operation> - les au mixeur . une fois le <ingredient action="ajouter"> riz </ingredient> prêt , <operation ingredients="riz"> ajoutez </operation> les ingrédients <operation> hachés </operation> et <operation ingredients="huile;vinaigre"> mélangez </operation> à l' aide de l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> et du <ingredient action="mélanger"> vinaigre </ingredient> balsamique . puis <operation ingredients="mayonnaise;pignons"> ajoutez </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> mayonnaise </ingredient> , les <ingredient action="ajouter" quantite=""> pignons </ingredient> en dernier ; <operation> salez </operation> et <operation> poivrez </operation> . laissez de nouveau au frais et servez . <ingredient> salade </ingredient> de riz qui peut être modifiée .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20501">
+<titre>Timbale de soles à la crème</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>25 g de beurre</p>
+<p>40 g de farine</p>
+<p>1 dl de lait</p>
+<p>190 g de sauce tomate</p>
+<p>3 oeufs</p>
+<p>500 g de filets de soles</p>
+<p>2 dl de crème</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;farine"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> beurre </ingredient> et la <ingredient action="fondre" quantite="40 gramme"> farine </ingredient> , <operation ingredients="lait;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="1 dl"> lait </ingredient> puis la sauce tomate et la <ingredient action="ajouter" quantite="2 dl"> crème </ingredient> . <operation ingredients="oeufs;sel;poivre;paprika"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> un à un , le <ingredient action="ajouter"> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> et un peu de <ingredient action="ajouter"> paprika </ingredient> . <operation> verser </operation> la sauce dans un <operation> moule </operation> à <operation> soufflé </operation> beurré . <operation ingredients="sole"> ranger </operation> les filets de <ingredient action="ranger"> sole </ingredient> <operation ingredients="escalopes"> détaillés </operation> en <ingredient action="détailler"> escalopes </ingredient> ( <operation> coupés </operation> dans le biais des filets ) . <operation> mettre </operation> 30 mn au bain- marie , th 8 à four chaud . servir avec des <ingredient> épinards </ingredient> en branches . on peut utiliser des <ingredient> soles </ingredient> tropicales surgelées ce qui diminue le coût de <operation> revient </operation> de ce plat .
+</preparation>
+</recette>

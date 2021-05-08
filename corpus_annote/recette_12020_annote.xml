@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12020">
+<titre>Bricks au chèvre frais</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 petits chèvres frais</p>
+<p>4 cuillères à café de miel</p>
+<p>8 amandes coupées en lamelles ou en morceaux</p>
+<p>4 feuilles de bricks</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;miel;amandes"> farcir </operation> les feuilles avec le <ingredient action="farcir"> fromage </ingredient> , le <ingredient action="farcir" quantite="4 cuillère à café"> miel </ingredient> et les <ingredient action="farcir"> amandes </ingredient> . faire <operation ingredients="huile"> chauffer </operation> dans une <operation> poêle </operation> un fond d' <ingredient action="chauffer"> huile </ingredient> d' olive . lorsque l' <ingredient> huile </ingredient> est chaude , y <operation ingredients="bricks"> placer </operation> les feuilles de <ingredient action="placer" quantite="4 feuille"> bricks </ingredient> <operation> farcies </operation> . <operation> cuire </operation> 10 min et servir . se <ingredient> mange </ingredient> comme entrée ou comme plat principal , <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> <operation> composée </operation> . <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

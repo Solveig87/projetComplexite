@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22477">
+<titre>Bananes au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>1 sachet de sucre vanillé</p>
+<p>1 verre à liqueur de liqueur à l'orange</p>
+<p>100 g de crème fraîche</p>
+<p>100 g de chocolat</p>
+<p>3 cuillerées à soupe d'eau</p>
+<p>1 cuillerée à soupe de sucre fin</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> et <operation ingredients="bananes"> coupez </operation> les <ingredient action="couper" quantite="4"> bananes </ingredient> en rondelles régulières . <operation> rangez </operation> - les dans un compotier . parfumez avec la <ingredient quantite="1 verre"> liqueur </ingredient> et <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer"> sucre </ingredient> vanillé . <operation ingredients="crème;sucre;chantilly"> fouettez </operation> la <ingredient action="fouetter" quantite="100 gramme"> crème </ingredient> fraîche avec le <ingredient action="fouetter"> sucre </ingredient> fin en <ingredient action="fouetter"> chantilly </ingredient> . faites <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> avec de l' eau . <operation> nappez </operation> les <ingredient quantite="4"> bananes </ingredient> avec la sauce au <ingredient quantite="100 gramme"> chocolat </ingredient> et <operation> garnissez </operation> au moment de servir avec la <ingredient> chantilly </ingredient> .
+</preparation>
+</recette>

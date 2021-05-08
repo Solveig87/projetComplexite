@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34792">
+<titre>Salade de melon aux pommes et au céleri</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 melons (chair orange) </p>
+<p>4 pommes</p>
+<p>1 grande branche de céleri</p>
+<p>sel poivre</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="melons"> enlevez </operation> la peau et les pépins des <ingredient action="enlever" quantite="2"> melons </ingredient> . <operation ingredients="melons"> coupez </operation> les <ingredient action="couper" quantite="2"> melons </ingredient> en dés . <operation ingredients="céleri"> coupez </operation> la branche de <ingredient action="couper"> céleri </ingredient> ( sans les feuilles ) en tranches de . 4 mm . <operation> epluchez </operation> les <ingredient quantite="4"> pommes </ingredient> et <operation> coupez </operation> - les en fines tranches . <operation> mettez </operation> le tout dans un saladier . <operation ingredients="crème;sel"> ajoutez </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche le <ingredient action="ajouter" quantite=""> sel </ingredient> le poivre . gardez au frais avant de servir . très frais pour l' été .
+</preparation>
+</recette>

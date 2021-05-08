@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72501">
+<titre>Salade de fruits de l'été bananes, fraises, dattes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>1 barquette de fraises</p>
+<p>15 dattes</p>
+<p>6 grosses feuilles de menthe fraîche</p>
+<p>2 cuillères à café d'extrait de vanille</p>
+<p>un sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+. <operation ingredients="bananes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> bananes </ingredient> et les <operation> couper </operation> en rondelles . . <operation ingredients="fraises"> laver </operation> les <ingredient action="laver"> fraises </ingredient> , les <operation> équeuter </operation> et les <operation> couper </operation> en deux ou en trois selon la grosseur . . <operation ingredients="dattes"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="15"> dattes </ingredient> et les <operation> couper </operation> en lamelles . . <operation ingredients="menthe"> ciseler </operation> la <ingredient action="ciseler"> menthe </ingredient> . . <operation> mettre </operation> le tout dans un saladier . . <operation ingredients="sucre"> ajouter </operation> l' extrait de vanille et le sachet de <ingredient action="ajouter"> sucre </ingredient> vanillé . . <operation> mélanger </operation> le tout dans un saladier , c' est prêt ! vous pouvez <operation> ajouter </operation> 2 cuillères à soupe de sucre cristallisé si vous trouvez que la <ingredient> salade </ingredient> n' est pas assez <operation> sucrée </operation> .
+</preparation>
+</recette>

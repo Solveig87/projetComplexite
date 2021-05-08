@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44637">
+<titre>Mini-sandwichs au bacon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pousses d'épinard</p>
+<p>1 pomme Golden</p>
+<p>2 tranches de bacon</p>
+<p>fromage frais (St Moret)</p>
+<p>pain de mie</p>
+</ingredients>
+<preparation>
+commencez par faire <operation ingredients="bacon"> dorer </operation> le <ingredient action="dorer" quantite="2 tranche"> bacon </ingredient> , 1 à 2 min , au four ou à la <operation> poêle </operation> . <operation ingredients="pain"> coupez </operation> le <ingredient action="couper" quantite=""> pain </ingredient> de mie en 2 . <operation> tartinez </operation> - le de st <ingredient> moret </ingredient> . <operation ingredients="pomme"> coupez </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en fines lamelles . <operation ingredients="pomme;pain;pousses;bacon"> disposez </operation> 2 lamelles de <ingredient action="disposer" quantite="1"> pomme </ingredient> sur le <ingredient action="disposer" quantite=""> pain </ingredient> de mie , quelques <ingredient action="disposer" quantite=""> pousses </ingredient> d' épinard , le <ingredient action="disposer" quantite="2 tranche"> bacon </ingredient> ; encore 2 lamelles de <ingredient quantite="1"> pomme </ingredient> et quelques <ingredient quantite=""> pousses </ingredient> d' épinard . <operation ingredients="sandwichs"> refermez </operation> les <ingredient action="refermer"> sandwichs </ingredient> , et dégustez !
+</preparation>
+</recette>

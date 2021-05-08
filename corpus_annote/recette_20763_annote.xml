@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20763">
+<titre>Oeuf en fete</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>persil haché</p>
+<p>de la mayonnaise</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> faire </operation> des <ingredient action="faire" quantite="4"> oeufs </ingredient> <operation> cuits </operation> durs . <operation> retirer </operation> la coquille une fois <operation> cuit </operation> sans casser l' <ingredient quantite="4"> oeuf </ingredient> , <operation> coupez </operation> en deux et <operation> retirer </operation> le jaune que vous <operation ingredients="mayonnaise;sel"> mélangerez </operation> avec les herbes la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et un peu de <ingredient action="mélanger"> sel </ingredient> , remetter le jaune dans le " blanc " et servez . eau
+</preparation>
+</recette>

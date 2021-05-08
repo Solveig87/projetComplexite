@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37564">
+<titre>Spaghetti façon al'kolloc</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de spaghetti</p>
+<p>300 g de thon en boîte</p>
+<p>6 cuillères à soupe de ketchup</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>jus d'un citron</p>
+<p>aneth</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation> préparez </operation> une casserole d' eau pour <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> , <operation> salez </operation> l' eau , <operation ingredients="huile;ketchup"> ajoutez </operation> l' <ingredient action="ajouter" quantite="3 cuillère à soupe"> huile </ingredient> d' olive ainsi que le <ingredient action="ajouter" quantite="6 cuillère à soupe"> ketchup </ingredient> . <operation> jetez </operation> - y les spagettis pour 10 à 15 minutes de cuisson . pendant ce temps , <operation ingredients="thon"> émiettez </operation> le <ingredient action="émietter" quantite="300 gramme"> thon </ingredient> et <operation ingredients="jus;citron"> ajoutez </operation> - y le <ingredient action="ajouter" quantite=""> jus </ingredient> d' un <ingredient action="ajouter"> citron </ingredient> . enfin quand les <ingredient> pâtes </ingredient> sont prêtes , <operation ingredients="thon"> mélangez </operation> les pates à la préparation au <ingredient action="mélanger" quantite="300 gramme"> thon </ingredient> . <operation> poivrez </operation> et <operation ingredients="aneth"> ajoutez </operation> une touche d' <ingredient action="ajouter" quantite=""> aneth </ingredient> .
+</preparation>
+</recette>

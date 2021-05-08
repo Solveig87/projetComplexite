@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15087">
+<titre>Daurade en croûte de sel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 daurade de 1,2 kg</p>
+<p>1 kg de gros sel marin</p>
+<p>thym, laurier, ail et fenouil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="daurade"> vider </operation> ou <operation> vider </operation> soi - même la <ingredient action="vider" quantite="1"> daurade </ingredient> sans l' <operation> ouvrir </operation> ( par les ouies ) . entrer les herbes par la gueule . dans un plat ovale allant au four , <operation ingredients="sel"> étendre </operation> une couche de <ingredient action="étendre" quantite="1 kilogramme"> sel </ingredient> de 1 cm environ . <operation ingredients="daurade;sel"> positionner </operation> la <ingredient action="positionner" quantite="1"> daurade </ingredient> sur ce lit de <ingredient action="positionner" quantite="1 kilogramme"> sel </ingredient> et la <operation ingredients="sel"> recouvrir </operation> entièrement avec le reste du <ingredient action="recouvrir" quantite="1 kilogramme"> sel </ingredient> . <operation> humidifier </operation> avec de l' eau . <operation> mettre </operation> le plat au four à 200 <operation> ° </operation> c pendant 20 mn . <operation> retirer </operation> et <operation ingredients="sel"> briser </operation> la croute de <ingredient action="briser" quantite="1 kilogramme"> sel </ingredient> avec soin . plat spectaculaire . peut être <operation ingredients="mayonnaise;jus"> accompagné </operation> de <ingredient action="accompagner"> mayonnaise </ingredient> , d' aioli ou de simple <ingredient action="accompagner"> jus </ingredient> de citron . rosé de provence ou <ingredient> champagne </ingredient>
+</preparation>
+</recette>

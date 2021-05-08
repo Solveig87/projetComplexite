@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25555">
+<titre>Salade de harengs, pommes de terre et radis</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>250 g de filets de harengs fumés</p>
+<p>1 botte de radis</p>
+<p>10 cl de vin blanc sec</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>1 bouquet de persil</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre entières à l' eau bouillante <operation> salée </operation> ou à la vapeur environ 30 min . pendant ce temps , <operation ingredients="harengs"> rincez </operation> et <operation ingredients="radis"> coupez </operation> les <ingredient action="couper"> radis </ingredient> en rondelles , <operation> découpez </operation> les filets de <ingredient action="rincer"> harengs </ingredient> en morceaux . faites <operation ingredients="vin"> chauffer </operation> légèrement le <ingredient action="chauffer" quantite="10 cl"> vin </ingredient> blanc . <operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> de terre en rondelles , <operation> mettez </operation> - les dans un saladier et <operation ingredients="vin"> versez </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> . laissez <operation> tiédir </operation> et <operation ingredients="huile"> versez </operation> l' <ingredient action="verser" quantite="4 cuillère à soupe"> huile </ingredient> , <operation> mélangez </operation> et <operation ingredients="radis;harengs;persil"> ajoutez </operation> les <ingredient action="ajouter"> radis </ingredient> , les <ingredient action="ajouter"> harengs </ingredient> et le <ingredient action="ajouter"> persil </ingredient> haché . relevez d' un trait de <ingredient quantite="1 cuillère à soupe"> vinaigre </ingredient> . c' est meilleur tiède mais vous pouvez bien sûr la <operation> préparer </operation> à l' avance et la déguster froide .
+</preparation>
+</recette>

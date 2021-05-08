@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29907">
+<titre>Bananes flambées aux raisins secs</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 bananes bien mûres</p>
+<p>50 g de beurre</p>
+<p>50 g de sucre</p>
+<p>50 g de raisins secs</p>
+<p>2 belles oranges</p>
+<p>1 sachet de sucre vanillé</p>
+<p>10 cl de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> pressez </operation> les <ingredient action="presser" quantite="2"> oranges </ingredient> , <operation ingredients="raisins"> mettez </operation> les <ingredient action="mettre" quantite="50 gramme"> raisins </ingredient> à <operation ingredients="jus"> tremper </operation> dans leur <ingredient action="tremper"> jus </ingredient> . <operation ingredients="sucre"> ajoutez </operation> le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> en <operation> poudre </operation> et le vanillé , <operation> mélanger </operation> . préchauffez le plat de service . faites <operation ingredients="beurre;bananes"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et <operation> dorez </operation> - y les <ingredient action="fondre" quantite="6"> bananes </ingredient> entières sur chaque face . <operation ingredients="sucre"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> sucre </ingredient> puis <operation ingredients="jus;raisins"> ajoutez </operation> le <ingredient action="ajouter"> jus </ingredient> d' orange avec les <ingredient action="ajouter" quantite="50 gramme"> raisins </ingredient> . amenez à <operation> ébullition </operation> puis <operation ingredients="rhum"> versez </operation> la moitié du <ingredient action="verser" quantite="10 cl"> rhum </ingredient> . laissez <operation> mijoter </operation> 5 minutes . <operation> disposez </operation> sur le plat de service et apportez à table . <operation ingredients="rhum"> réchauffez </operation> le reste de <ingredient action="réchauffer" quantite="10 cl"> rhum </ingredient> et <operation ingredients="bananes"> flambez </operation> les <ingredient action="flamber" quantite="6"> bananes </ingredient> avec .
+</preparation>
+</recette>

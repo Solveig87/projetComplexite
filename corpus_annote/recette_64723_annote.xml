@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64723">
+<titre>Hamburger Mariné</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 hamburgers (viande de boeuf)</p>
+<p>10 dl d'huile d'olive</p>
+<p>4 cuillères à soupe de sauce worcester ou plus suivant les goûts</p>
+<p>4 cuillères à café de paprika</p>
+<p>2 gousses d'ail</p>
+<p>quelques gouttes de tabasco (suivant les goûts)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;huile"> préparer </operation> la marinade en <operation ingredients="paprika"> mélangeant </operation> le <ingredient action="mélanger" quantite="4 cuillère à café"> paprika </ingredient> , l' <ingredient action="préparer"> ail </ingredient> haché finement , la sauce worcester et l' <ingredient action="préparer" quantite="10 dl"> huile </ingredient> d' olive . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="hamburgers"> verser </operation> la marinade sur les <ingredient action="verser" quantite="4"> hamburgers </ingredient> , <operation ingredients="hamburgers"> piquer </operation> légérement les <ingredient action="piquer" quantite="4"> hamburgers </ingredient> avec une fourchette pour que la marinade pénètre et laisser <operation> reposer </operation> une nuit . <operation ingredients="matière;hamburgers"> cuire </operation> ensuite sans <ingredient action="cuire" quantite="10 dl"> matière </ingredient> grasse les <ingredient action="cuire" quantite="4"> hamburgers </ingredient> . bon appétit !
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34048">
+<titre>Salade minute sucrée-salée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une boîte de pois chiches</p>
+<p>1 ou 2 petites courgettes</p>
+<p>1 pomme</p>
+<p>1 citron</p>
+<p>1 échalote</p>
+<p>coriandre fraîche</p>
+<p>vinaigre balsamique</p>
+<p>moutarde douce de Meaux</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> rincer </operation> et <operation ingredients="pois;chiches"> égoutter </operation> la boîte de <ingredient action="égoutter"> pois </ingredient> <ingredient action="égoutter"> chiches </ingredient> . dans un saladier , <operation ingredients="échalote;sel;poivre"> faire </operation> une vinaigrette avec l' <ingredient action="faire" quantite="1"> échalote </ingredient> hachée menue , du <ingredient action="faire" quantite=""> sel </ingredient> , du <ingredient action="faire" quantite=""> poivre </ingredient> , de la <ingredient quantite=""> moutarde </ingredient> douce , un peu de <ingredient> jus </ingredient> de citron , de l' <ingredient quantite=""> huile </ingredient> d' olive et un trait de <ingredient quantite=""> vinaigre </ingredient> balsamique qui donnera un petit goût <operation> sucré </operation> à l' ensemble . <operation ingredients="pois;chiches;pomme"> ajouter </operation> les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter"> chiches </ingredient> , les courgettes en rondelles fines , la <ingredient action="ajouter" quantite="1"> pomme </ingredient> <operation> coupée </operation> en petits morceaux . <operation ingredients="coriandre"> parsemer </operation> de <ingredient action="parsemer" quantite=""> coriandre </ingredient> fraîche ciselée .
+</preparation>
+</recette>

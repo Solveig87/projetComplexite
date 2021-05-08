@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167781">
+<titre>Soupe d'épinards à la crème</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g d'épinards surgelés à la crème</p>
+<p>2 pommes de terre moyennes</p>
+<p>1 carotte moyenne</p>
+<p>1 cube de bouillon de boeuf</p>
+<p>sel</p>
+<p>mozarella (facultatif)</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes;carotte"> couper </operation> en morceaux les <ingredient action="couper" quantite="2"> pommes </ingredient> de terre et la <ingredient action="couper"> carotte </ingredient> . <operation ingredients="épinards;légumes"> mettre </operation> les <ingredient action="mettre" quantite="500 gramme"> épinards </ingredient> dans une cocotte avec les <ingredient action="mettre" quantite="500 gramme;2"> légumes </ingredient> , <operation ingredients="bouillon;sel"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> , un peu de <ingredient action="ajouter" quantite=""> sel </ingredient> et <operation> recouvrir </operation> d' eau . <operation> porter </operation> à <operation> ébullition </operation> puis baisser légèrement le feu . faire <operation ingredients="légumes"> cuire </operation> une vingtaine de minutes , jusqu' à ce que les <ingredient action="cuire" quantite="500 gramme;2"> légumes </ingredient> soient tendres . <operation> mixer </operation> le tout pour obtenir un beau velouté . <operation> rajouter </operation> un peu d' eau si la consistance est trop épaisse . pour une <ingredient> soupe </ingredient> un peu plus crémeuse , on peut <operation> rajouter </operation> quelques morceaux de mozarella que l' on fera <operation> fondre </operation> en <operation> remettant </operation> la cocotte sur le feu . on peut aussi <operation ingredients="soupe;mozzarella"> ajouter </operation> à la <ingredient action="ajouter"> soupe </ingredient> chaude de la <ingredient action="ajouter"> mozzarella </ingredient> <operation> coupée </operation> en petits dés , directement dans les assiettes .
+</preparation>
+</recette>

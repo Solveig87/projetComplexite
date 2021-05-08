@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82104">
+<titre>Compote de pomme simple</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g de pommes</p>
+<p>2 gousses de vanille</p>
+<p>10 cl d'eau</p>
+<p>150 g de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> peler </operation> vos <ingredient action="peler" quantite="800 gramme"> pommes </ingredient> , les <operation> couper </operation> en huitième et les <operation> épépiner </operation> . dans une casserole <operation ingredients="sucre;gousses"> porter </operation> à <operation> ébullition </operation> l' eau , le <ingredient action="porter" quantite="150 gramme"> sucre </ingredient> et les <ingredient action="porter" quantite="2"> gousses </ingredient> de vanille fendues et <operation> grattées </operation> . quand l' eau est <operation> portée </operation> à <operation> ébullition </operation> y <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="800 gramme"> pommes </ingredient> . faire <operation> cuire </operation> à feu doux en <operation> remuant </operation> de temps en temps . simple et très bon
+</preparation>
+</recette>

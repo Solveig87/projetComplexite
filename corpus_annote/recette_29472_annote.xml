@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29472">
+<titre>Mousse menthe-chocolat facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de fromage blanc</p>
+<p>2 cuillères à soupe de sucre en poudre</p>
+<p>1 cuillère à soupe de sirop de menthe</p>
+<p>10 à 15 feuilles de menthe fraîche</p>
+<p>copeaux de chocolat</p>
+</ingredients>
+<preparation>
+<operation ingredients="menthe;sucre;sirop"> mixer </operation> les feuilles de <ingredient action="mixer"> menthe </ingredient> avec le <ingredient action="mixer" quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient action="mixer" quantite="1 cuillère à soupe"> sirop </ingredient> de menthe . <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> fromage </ingredient> blanc et <operation> battre </operation> le tout . <operation ingredients="chocolat"> parsemer </operation> de copeaux de <ingredient action="parsemer"> chocolat </ingredient> et bien <operation> mélanger </operation> . <operation> mettre </operation> au frais au moins 30 minutes avant de déguster . cette recette est ultra-simple mais fait toujours beaucoup d' effet . pour une consistance plus <ingredient> mousseuse </ingredient> , on peut remplacer le <ingredient quantite="500 gramme"> fromage </ingredient> blanc par du <ingredient> mascarpone </ingredient> et de la <ingredient> crème </ingredient> fraiche <operation> battue </operation> en <ingredient> chantilly </ingredient> .
+</preparation>
+</recette>

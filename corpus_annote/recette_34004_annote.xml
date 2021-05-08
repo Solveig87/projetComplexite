@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34004">
+<titre>Lasagnes aux deux saumons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de saumon frais</p>
+<p>300 g de saumon fumé</p>
+<p>400 g de coulis de tomates (au basilic, ou nature selon les goûts) </p>
+<p>20 cl de crème fraîche épaisse à 20% MG</p>
+<p>1/4 de litre de béchamel</p>
+<p>du fromage râpé</p>
+<p>des lasagnes sèches ou fraîches</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> frais en petits dés , le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en petites lanières . faire <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> frais à la <operation> poêle </operation> , quand il est <operation> cuit </operation> , <operation ingredients="tomate"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomate </ingredient> , laisser <operation> mijoter </operation> 5 mn . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraîche , laisser <operation> mijoter </operation> encore 5 mn . enfin <operation ingredients="saumon"> mettre </operation> le <ingredient action="mettre"> saumon </ingredient> <operation> fumé </operation> , <operation> remuer </operation> et <operation> couper </operation> le feu . <operation ingredients="pâtes;saumon;pâtes;béchamel"> dresser </operation> les lasagnes avec une couche de <ingredient action="dresser"> pâtes </ingredient> , un couche de sauce au <ingredient action="dresser"> saumon </ingredient> , pâtes , sauce , <ingredient action="dresser"> pâtes </ingredient> et enfin <ingredient action="dresser"> béchamel </ingredient> et fromage râpé . <operation> mettre </operation> au four chaud ( th 6 / 7 ) pour 30 à 40 mn . tester la cuisson au <ingredient> couteau </ingredient> ! il y a beaucoup de sauce mais les lasagnes n' en seront que plus <ingredient> fondantes </ingredient> . . .
+</preparation>
+</recette>

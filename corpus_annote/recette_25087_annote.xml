@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25087">
+<titre>Croustade aux fruits de mer</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte feuilletée à dérouler</p>
+<p>1 grosse boîte de thon</p>
+<p>1 boîte de moules (natures) </p>
+<p>1 boîte de crevettes décortiquées</p>
+<p>1 boîte de bisque de homard</p>
+<p>1 cuillère à café d'harissa</p>
+<p>beurre, farine et lait pour faire la béchamel</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+foncez un <operation> moule </operation> à tarte avec la <ingredient> pâte </ingredient> feuilletée , <operation> piquez </operation> - la avec une fourchette . <operation ingredients="thon;pâte;crevettes"> emiettez </operation> la boîte de <ingredient action="emiettez"> thon </ingredient> sur la <ingredient action="emiettez"> pâte </ingredient> et <operation> ajoutez </operation> les <operation> moules </operation> , les <ingredient action="emiettez"> crevettes </ingredient> . dans un récipient , <operation ingredients="homard"> mélanger </operation> la bisque de <ingredient action="mélanger"> homard </ingredient> , l' <ingredient quantite="1 cuillère à café"> harissa </ingredient> et la <ingredient> béchamel </ingredient> ( il faut que la <ingredient> béchamel </ingredient> ne soit pas trop liquide , mais assez consistante ) . <operation ingredients="tarte"> recouvrir </operation> la <ingredient action="recouvrir"> tarte </ingredient> avec cette préparation et <operation ingredients="gruyère"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> gruyère </ingredient> râpé . <operation> mettre </operation> à four doux pendant 30 à 40 mn . inutile de <operation> saler </operation> car les <ingredient> fruits </ingredient> de mer le sont déjà assez . on peut également <operation ingredients="fruits"> préparer </operation> cette croustade avec des <ingredient action="préparer"> fruits </ingredient> de mer frais . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

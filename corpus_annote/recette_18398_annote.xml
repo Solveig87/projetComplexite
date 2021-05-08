@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18398">
+<titre>Gâteau Saint Emilion</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la crème:</p>
+<p>2 paquets de macarons</p>
+<p>220 g beurre</p>
+<p>220 g sucre glace</p>
+<p>4 jaunes d'oeufs</p>
+<p>10 cl lait</p>
+<p>220 g chocolat</p>
+<p>cognac</p>
+<p>Pour le glaçage:</p>
+<p>100 g chocolat</p>
+<p>70 g beurre</p>
+</ingredients>
+<preparation>
+a <operation> préparer </operation> la veille 1 / <operation ingredients="beurre;sucre"> travailler </operation> le <ingredient action="travailler"> beurre </ingredient> mou avec le <ingredient action="travailler" quantite="220 gramme"> sucre </ingredient> . 2 / <operation ingredients="lait"> verser </operation> lentement le <ingredient action="verser" quantite="10 cl"> lait </ingredient> chaud sur les jaunes <operation> battus </operation> . 3 / <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="220 gramme+100 gramme"> chocolat </ingredient> avec 2 / 3 cuillères à soupe d' eau . <operation ingredients="crème"> mélanger </operation> les 3 préparations jusqu' à obtention d' une <ingredient action="mélanger"> crème </ingredient> épaisse . <operation ingredients="macarons;cognac"> tapisser </operation> un <operation> moule </operation> à charlotte avec les <ingredient action="tapisser"> macarons </ingredient> <operation> trempés </operation> dans du <ingredient action="tapisser" quantite=""> cognac </ingredient> et de l' eau . <operation ingredients="crème;biscuits"> mettre </operation> la moitié de la <ingredient action="mettre"> crème </ingredient> , une couche de <ingredient action="mettre"> biscuits </ingredient> , le reste de <ingredient action="mettre"> crème </ingredient> , le reste de <ingredient action="mettre"> biscuits </ingredient> <operation ingredients="crème;biscuits"> mettre </operation> au frigo toute la nuit <operation> ajouter </operation> le glaçage au dernier moment .
+</preparation>
+</recette>

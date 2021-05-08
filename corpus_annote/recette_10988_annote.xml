@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10988">
+<titre>Tripes au  beurre en cocotte (vieille recette de grand-mère)</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de tripes cuites</p>
+<p>1 oignon</p>
+<p>1 poireau</p>
+<p>5 brins de persil</p>
+<p>10 brins de ciboulette</p>
+<p>30 cl de vin blanc sec</p>
+<p>100 g de beurre</p>
+<p>50 g de farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="tripes"> laver </operation> les <ingredient action="laver" quantite="750 gramme"> tripes </ingredient> puis les <operation> émincer </operation> finement . <operation ingredients="oignon;poireau;persil;ciboulette"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> , le <ingredient action="hacher" quantite="1"> poireau </ingredient> , le <ingredient action="hacher"> persil </ingredient> et la <ingredient action="hacher"> ciboulette </ingredient> . <operation ingredients="tripes"> mettre </operation> les <ingredient action="mettre" quantite="750 gramme"> tripes </ingredient> dans une cocotte , <operation ingredients="légumes"> ajouter </operation> les herbes et <ingredient action="ajouter" quantite="1;1"> légumes </ingredient> . <operation ingredients="vin"> mouiller </operation> avec le <ingredient action="mouiller" quantite="30 cl"> vin </ingredient> blanc sec . <operation ingredients="beurre"> faire </operation> un <ingredient action="faire" quantite="100 gramme"> beurre </ingredient> manié en <operation ingredients="beurre;farine"> mélangeant </operation> le <ingredient action="mélanger" quantite="100 gramme"> beurre </ingredient> et la <ingredient action="mélanger" quantite="50 gramme"> farine </ingredient> . le <operation ingredients="tripes"> répartir </operation> sur les <ingredient action="répartir" quantite="750 gramme"> tripes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> , <operation> couvrir </operation> la cocotte et <operation> cuire </operation> à four chaud 200 <operation> ° </operation> c ( thermostat . 7 ) durant 45 minutes . mâcon blanc
+</preparation>
+</recette>

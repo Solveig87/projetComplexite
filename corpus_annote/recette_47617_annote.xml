@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47617">
+<titre>Flapjack à la banane (barre d'avoine)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de beurre</p>
+<p>300 g de flocon d'avoine</p>
+<p>100 g de sucre roux</p>
+<p>3 bonnes cuilleres à soupe de miel</p>
+<p>3 bananes bien mures</p>
+<p>1 pincée de cannelle (facultatif)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;miel;sucre"> fondre </operation> le <ingredient action="fondre" quantite="150 gramme"> beurre </ingredient> , avec le <ingredient action="fondre"> miel </ingredient> et le <ingredient action="fondre" quantite="100 gramme"> sucre </ingredient> . pendant ce temps , <operation ingredients="bananes"> écraser </operation> les <ingredient action="écraser" quantite="3"> bananes </ingredient> en purée ; puis la <operation ingredients="beurre"> mélanger </operation> avec les flocons d' avoine et le <operation> mélange </operation> <ingredient action="mélanger"> beurre </ingredient> / sucre / miel . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler"> pâte </ingredient> dans un <operation> moule </operation> à tarte ou une <operation> plaque </operation> de 25 cm , et faire <operation> cuire </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation> couper </operation> des tranches à la sortie du four , et déguster froid . bon <operation> goûter </operation> pour les enfants , plein d' energie . vous pouvez <operation ingredients="fruits"> faire </operation> la même recette avec d' autre <ingredient action="faire" quantite="3"> fruits </ingredient> , ou même <operation ingredients="noix"> rajouter </operation> des <ingredient action="rajouter"> noix </ingredient> .
+</preparation>
+</recette>

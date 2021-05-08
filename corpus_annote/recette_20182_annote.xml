@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20182">
+<titre>Sauté d'agneau au curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,5 kg d'épaule d'agneau (ou de palette) coupé en morceaux par le boucher</p>
+<p>2 oignons</p>
+<p>2 carottes</p>
+<p>2 têtes d'ail</p>
+<p>1 à 2 cuillères à café de curry</p>
+<p>sel</p>
+<p>poivre</p>
+<p>1 bouquet garni</p>
+<p>1 tablette de bouillon de boeuf</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="carottes"> couper </operation> en rondelle les <ingredient action="couper" quantite="2"> carottes </ingredient> , <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="2"> oignon </ingredient> . faire <operation ingredients="viande;beurre"> dorer </operation> la <ingredient action="dorer" quantite="2"> viande </ingredient> , préalablement <operation> salée </operation> et poivrée , dans un peu de <ingredient action="dorer"> beurre </ingredient> . <operation ingredients="carottes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> carottes </ingredient> , l' <ingredient action="saupoudrer" quantite="2"> oignon </ingredient> et l' <ingredient action="saupoudrer"> ail </ingredient> , <operation ingredients="oignon;ail;curry"> saupoudrer </operation> de <ingredient action="saupoudrer"> curry </ingredient> et <operation> mélanger </operation> , <operation> couvrir </operation> et laisser <operation> cuire </operation> 15 mn à feu doux . <operation ingredients="bouquet"> ajouter </operation> 1 / 2 l d' eau , le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et la tablette , <operation> remuer </operation> et laisser <operation> cuire </operation> 55 mn à feu doux . au moment de servir , <operation ingredients="ail;bouquet"> ôter </operation> l' <ingredient action="ôter"> ail </ingredient> et le <ingredient action="ôter" quantite="1"> bouquet </ingredient> <operation> garni </operation> . de la <ingredient action="accompagner"> semoule </ingredient> ( pour couscous ) <operation ingredients="semoule"> accompagnera </operation> très bien ce plat .
+</preparation>
+</recette>

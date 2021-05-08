@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52487">
+<titre>Steak fondant aux pommes et bleu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 steak hachés</p>
+<p>2 pommes</p>
+<p>25 g de roquefort</p>
+<p>huile </p>
+<p>poivre et sel</p>
+<p>1/4 d'oignon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> chauffer </operation> à la <operation> poêle </operation> le 1 / 4 d' <ingredient action="chauffer"> oignon </ingredient> <operation> coupé </operation> finement avec une cuillère à soupe d huile . puis , <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> pommes </ingredient> <operation> épluchées </operation> et <operation> coupées </operation> en lamelles , à feu très doux . dans une autre <operation> poêle </operation> , faire <operation ingredients="steaks"> cuire </operation> les <ingredient action="cuire" quantite="4"> steaks </ingredient> hachés . une fois <operation> cuits </operation> à votre goût , les <operation ingredients="roquefort"> recouvrir </operation> de <ingredient action="recouvrir" quantite="25 gramme"> roquefort </ingredient> et laisser <operation> chauffer </operation> la <operation> poêle </operation> jusqu' à ce qu il soit <operation> fondu </operation> ; puis les <operation ingredients="pommes"> recouvrir </operation> avec <ingredient action="recouvrir" quantite="2"> pommes </ingredient> et oignons . un <ingredient> sauterne </ingredient> pour relevé le sucré des <ingredient quantite="2"> pommes </ingredient>
+</preparation>
+</recette>

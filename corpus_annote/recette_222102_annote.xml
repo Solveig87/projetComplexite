@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222102">
+<titre>Salade de fromage et de pomme de terre à l'aneth</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de cantal</p>
+<p>150 g d'emmental </p>
+<p>400 g de pommes de terre </p>
+<p>2 pincées d'aneth</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> rincez </operation> les <ingredient action="rincer" quantite="400 gramme"> pommes </ingredient> de terre à l' eau , faites - les <operation> cuire </operation> 5 min à l' eau , <operation> coupez </operation> - les en petits morceaux . <operation> mettez </operation> - les dans un saladier , puis <operation ingredients="cantal;emmental"> coupez </operation> le <ingredient action="couper" quantite="150 gramme"> cantal </ingredient> et l' <ingredient action="couper" quantite="150 gramme"> emmental </ingredient> en lamelles assez fines . <operation> mélangez </operation> - les dans le saladier avec les <ingredient action="ajouter" quantite="400 gramme"> pommes </ingredient> de terre , <operation ingredients="pommes;aneth"> ajoutez </operation> l' <ingredient action="ajouter" quantite="2 pincée"> aneth </ingredient> et <operation> assaisonnez </operation> à votre convenance . <operation> accompagnez </operation> la <ingredient> salade </ingredient> avec une sauce si vous le désirez . c' est prêt , dégustez ! bon appétit ! <ingredient> vin </ingredient> rouge ou eau pour les plus jeunes
+</preparation>
+</recette>

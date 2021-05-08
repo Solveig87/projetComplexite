@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28734">
+<titre>Sorbet au melon</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>550 g de melon bien mûr</p>
+<p>15 cl d’eau </p>
+<p>150 g de sucre</p>
+<p>1 citron</p>
+<p>2 petits melons</p>
+</ingredients>
+<preparation>
+<operation ingredients="melons"> découper </operation> les <ingredient action="découper" quantite="550 gramme+2"> melons </ingredient> en 2 , les <operation> épépiner </operation> , puis <operation ingredients="chair"> extraire </operation> leur <ingredient action="extraire"> chair </ingredient> et la <operation> passer </operation> au mixeur . <operation ingredients="sirop"> préparer </operation> ensuite un <ingredient action="préparer"> sirop </ingredient> en <operation ingredients="sucre"> portant </operation> à <operation> ébullition </operation> l’ eau et le <ingredient action="porter" quantite="150 gramme"> sucre </ingredient> dans une casserole . laisser <operation> cuire </operation> 2 minutes après <operation> ébullition </operation> , puis le <operation> retirer </operation> du feu une fois qu’ il a pris la consistance voulue . le laisser refroidir , puis l’ <operation ingredients="melon;jus"> incorporer </operation> à la purée de <ingredient action="incorporer" quantite="550 gramme+2"> melon </ingredient> avec le <ingredient action="incorporer"> jus </ingredient> du citron <operation> pressé </operation> . <operation> verser </operation> la préparation dans une sorbetière , laisser prendre , puis servir les <ingredient> sorbets </ingredient> dans des demi-melons <operation> épépinés </operation> .
+</preparation>
+</recette>

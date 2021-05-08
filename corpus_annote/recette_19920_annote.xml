@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19920">
+<titre>Braisé de veau au lard et au vin blanc</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de veau en morceaux</p>
+<p>6 tranches de lard coupées finement</p>
+<p>3 carottes en rondelles</p>
+<p>3 oignons émincés</p>
+<p>1 bouquet garni</p>
+<p>jus de citron</p>
+<p>1 cuillère à café de fécule</p>
+<p>2 cuillères à soupe de beurre</p>
+<p>40 cl de vin blanc sec</p>
+</ingredients>
+<preparation>
+<operation> beurrer </operation> une cocotte et y <operation ingredients="lard;oignons;carottes"> déposer </operation> les tranches de <ingredient action="déposer"> lard </ingredient> , les <ingredient action="déposer" quantite="3"> oignons </ingredient> et les <ingredient action="déposer" quantite="3"> carottes </ingredient> <operation> coupés </operation> . laisser <operation> fondre </operation> doucement et <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="1 kilogramme"> viande </ingredient> . <operation> assaisonner </operation> et <operation ingredients="bouquet"> déposer </operation> le <ingredient action="déposer" quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation ingredients="vin"> arroser </operation> de 20 cl de <ingredient action="arroser" quantite="40 cl"> vin </ingredient> blanc et laisser <operation> mijoter </operation> à feu doux pendant 1 h 15 min . <operation ingredients="jus;vin;jus"> tamiser </operation> le <ingredient action="tamiser" quantite=""> jus </ingredient> de cuisson et y <operation> incorporer </operation> le reste de <ingredient action="tamiser" quantite="40 cl"> vin </ingredient> blanc , un peu de <ingredient action="tamiser" quantite=""> jus </ingredient> de citron et la fécule <operation> délayée </operation> dans un peu d' eau froide . <operation ingredients="viande"> napper </operation> la <ingredient action="napper" quantite="1 kilogramme"> viande </ingredient> de sauce et servir avec des <ingredient quantite="3;3"> légumes </ingredient> de saison .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17280">
+<titre>Pâtes au jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 talons de jambon</p>
+<p>1 boîte de coquillettes</p>
+<p>1 boîte de coulis de tomates</p>
+<p>1 gousse d'ail</p>
+<p>1 oignon</p>
+<p>1/2 boîte de champignons</p>
+<p>gruyère</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon;gousse;oignon"> moulinez </operation> les talons de <ingredient action="mouliner"> jambon </ingredient> avec la <ingredient action="mouliner" quantite="1"> gousse </ingredient> d' ail et l' <ingredient action="mouliner" quantite="1"> oignon </ingredient> . il ne doit plus y avoir de morceaux mais çà ne doit pas être de la purée de <ingredient> jambon </ingredient> . <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> d' olive et <operation ingredients="jambon"> verser </operation> le <ingredient action="verser"> jambon </ingredient> dans la <operation> poêle </operation> puis <operation ingredients="champignons"> ajouter </operation> le coulis et les <ingredient action="ajouter"> champignons </ingredient> , <operation> poivrez </operation> légèrement et <operation ingredients="sucre"> mettez </operation> un demi <ingredient action="mettre"> sucre </ingredient> si nécessaire . ne pas <operation> saler </operation> pour le moment . <operation> cuire </operation> doucement 15 mn . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans l' eau <operation> salée </operation> et les <operation> égouttez </operation> . dans un plat haut allant au four <operation ingredients="coquillettes;jambon;jus"> mettre </operation> une couche de <ingredient action="mettre"> coquillettes </ingredient> , le <ingredient action="mettre"> jambon </ingredient> et son <ingredient action="mettre"> jus </ingredient> , une autre couche de <ingredient> coquillettes </ingredient> et finir pas le <ingredient quantite=""> gruyère </ingredient> . vous pouvez même <operation ingredients="beurre"> mettre </operation> quelques parcelles de <ingredient action="mettre"> beurre </ingredient> . <operation> griller </operation> dans le four 5 mn . votre plat est prêt lorsque votre <ingredient quantite=""> gruyère </ingredient> est bien doré . bon appétit . c' est un plat très économique qui fait l' unanimité chez les enfants même quand ils sont grands ( très grands ! )
+</preparation>
+</recette>

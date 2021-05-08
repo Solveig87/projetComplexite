@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21990">
+<titre>Salade de concombres et jambon à la mayonnaise</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 concombres</p>
+<p>12 tranches de jambon</p>
+<p>3 tomates</p>
+<p>12 olives noires</p>
+<p>2 échalotes</p>
+<p>2 gousses d'ail</p>
+<p>mayonnaise</p>
+<p>persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="concombres"> couper </operation> les <ingredient action="couper" quantite="3"> concombres </ingredient> en fines rondelles , puis les <operation> mettre </operation> à dégorger 1 h avec du <ingredient quantite=""> sel </ingredient> . pendant ce temps , <operation ingredients="ail;persil"> éplucher </operation> et <operation ingredients="échalotes"> hacher </operation> les <ingredient action="hacher" quantite="2"> échalotes </ingredient> , l' <ingredient action="éplucher"> ail </ingredient> et le <ingredient action="éplucher" quantite=""> persil </ingredient> frais puis <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="12 tranche"> jambon </ingredient> en fines lamelles . <operation ingredients="concombres"> rincer </operation> ensuite les <ingredient action="rincer" quantite="3"> concombres </ingredient> sous l' eau froide , puis les <operation> essuyer </operation> . <operation ingredients="jambon;échalotes"> mélanger </operation> le <ingredient action="mélanger" quantite="12 tranche"> jambon </ingredient> au hachis d' <ingredient action="mélanger" quantite="2"> échalotes </ingredient> , ail et fines herbes . sur un plat de service , <operation ingredients="concombres"> dresser </operation> les <ingredient action="dresser" quantite="3"> concombres </ingredient> en couronne , puis <operation ingredients="jambon"> verser </operation> le <operation> mélange </operation> de <ingredient action="verser" quantite="12 tranche"> jambon </ingredient> au centre du plat . <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> haché , puis <operation ingredients="olives"> décorer </operation> avec les <ingredient action="décorer" quantite="12"> olives </ingredient> noires . servir avec la <ingredient quantite=""> mayonnaise </ingredient> en saucière et déguster bien frais .
+</preparation>
+</recette>

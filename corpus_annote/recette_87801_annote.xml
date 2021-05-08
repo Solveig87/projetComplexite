@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87801">
+<titre>Soupe à la carotte, aux panais et à la courgette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 grosses carottes</p>
+<p>1 beau panais</p>
+<p>2 grosses courgettes</p>
+<p>eau</p>
+<p>sel,poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> carottes </ingredient> et le panais à l' aide d' un économe . <operation ingredients="légumes"> découper </operation> l' ensemble des <ingredient action="découper" quantite="4;1"> légumes </ingredient> en rondelles épaisses et les <operation> mettre </operation> dans une cocotte . les <operation> couvrir </operation> d' eau , <operation> saler </operation> légèrement , <operation> porter </operation> à <operation> ébullition </operation> et laisser <operation ingredients="bouillons"> cuire </operation> environ 30 minutes à petits <ingredient action="cuire"> bouillons </ingredient> ( vérifier la cuisson en piquant les <ingredient quantite="4"> carottes </ingredient> avec la pointe d' un <ingredient> couteau </ingredient> ) . <operation> mixer </operation> l' ensemble , <operation> saler </operation> et <operation> poivrer </operation> selon votre goût . comme cette <ingredient> soupe </ingredient> est assez épaisse , vous pouvez <operation> rajouter </operation> de l' eau au moment du mixage pour une consistance plus liquide
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30736">
+<titre>Crevettes à l'américaine</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>36 grosses crevettes</p>
+<p>2 l de court-bouillon</p>
+<p>4 échalotes</p>
+<p>40 cl de vin blanc sec</p>
+<p>2 branches de thym</p>
+<p>1 feuille de laurier</p>
+<p>3 cuillères à soupe de persil haché</p>
+<p>4 cuillères à soupe de ketchup</p>
+<p>300 g de crème fraîche</p>
+<p>3 cl de cognac</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crevettes"> cuire </operation> les <ingredient action="cuire" quantite="36"> crevettes </ingredient> dans le court-bouillon pendant 5 minutes puis les <operation> décortiquer </operation> . <operation ingredients="échalotes"> hacher </operation> finement les <ingredient action="hacher" quantite="4"> échalotes </ingredient> , puis les <operation> mettre </operation> à <operation ingredients="vin;persil;thym;laurier"> fondre </operation> dans une sauteuse avec le <ingredient action="fondre" quantite="40 cl"> vin </ingredient> blanc , le <ingredient action="fondre" quantite="3 cuillère à soupe"> persil </ingredient> , le <ingredient action="fondre"> thym </ingredient> et le <ingredient action="fondre" quantite="1 feuille"> laurier </ingredient> . <operation ingredients="ketchup;crème;cognac"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="4 cuillère à soupe"> ketchup </ingredient> avec la <ingredient action="ajouter" quantite="300 gramme"> crème </ingredient> et le <ingredient action="ajouter" quantite="3 cl"> cognac </ingredient> en <operation> remuant </operation> vivement . <operation> saler </operation> , <operation> poivrer </operation> . lorsque la sauce est chaude , y <operation ingredients="crevettes"> déposer </operation> les <ingredient action="déposer" quantite="36"> crevettes </ingredient> et laisser <operation> réchauffer </operation> quelques minutes avant de servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28582">
+<titre>Quiche de l'Arradoy</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 têtes de brocolis</p>
+<p>un talon de jambon de Bayonne</p>
+<p>un beau morceau d'Ossau-Iraty (savoureux fromage de brebis des Pyrénées)</p>
+<p>2 oeufs</p>
+<p>un petit pot de crème</p>
+<p>un fond de pâte à pizza</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="brocolis"> cuire </operation> les <ingredient action="cuire"> brocolis </ingredient> ( pas trop ) . <operation ingredients="jambon"> détailler </operation> le <ingredient action="détailler"> jambon </ingredient> en petits cubes . de même pour l' ossau - iraty . <operation ingredients="crème;oeufs"> faire </operation> un appareil avec la <ingredient action="faire"> crème </ingredient> , les <ingredient action="faire" quantite="2"> oeufs </ingredient> , poivre et sel . <operation> etaler </operation> et <operation ingredients="pâte"> piquer </operation> la <ingredient action="piquer"> pâte </ingredient> . <operation ingredients="jambon"> garnir </operation> avec le <ingredient action="garnir"> jambon </ingredient> , le <ingredient> fromage </ingredient> et les <ingredient> brocolis </ingredient> . puis <operation> verser </operation> l' appareil . <operation> enfourner </operation> à four chaud ( 200 <operation> ° </operation> c ) pour 40 mn . irouléguy ? soit . . .
+</preparation>
+</recette>

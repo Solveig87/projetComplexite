@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24888">
+<titre>Brioche perdue à la compote de pommes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 cuillères à soupe de compote de pommes sucrée</p>
+<p>8 tranches de brioche</p>
+<p>lait chaud vanillé</p>
+<p>4 oeufs</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="brioche"> imbiber </operation> légèrement les tranches de <ingredient action="imbiber" quantite="8 tranche"> brioche </ingredient> de lait chaud vanillé et les <operation ingredients="œufs"> passer </operation> dans les <ingredient action="passer"> œufs </ingredient> <operation> battus </operation> en omelette . <operation ingredients="beurre"> mettre </operation> du <ingredient action="mettre"> beurre </ingredient> à <operation> fondre </operation> dans une <operation> poêle </operation> et y faire <operation ingredients="brioches"> dorer </operation> les <ingredient action="dorer" quantite="8 tranche"> brioches </ingredient> perdues . <operation ingredients="compote"> couvrir </operation> de <ingredient action="couvrir" quantite="8 cuillère à soupe"> compote </ingredient> de pomme et servir de suite .
+</preparation>
+</recette>

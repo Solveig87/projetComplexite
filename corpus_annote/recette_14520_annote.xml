@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14520">
+<titre>Gnocchi au speck et au gorgonzola</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de gnocchi</p>
+<p>4 tranches de speck coupées en petits morceaux (épaule de porc fumée)</p>
+<p>200 g de gorgonzola émietté</p>
+<p>20 cl de crème fraîche</p>
+<p>1 gousse d'ail écrasée</p>
+<p>1 noix de beurre</p>
+<p>parmesan râpé</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> avec le speck 3 min . <operation ingredients="ail;crème;gorgonzola"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et le <ingredient action="ajouter" quantite="200 gramme"> gorgonzola </ingredient> . faire <operation> cuire </operation> jusqu’ à ce que le <ingredient action="fondre" quantite="200 gramme"> gorgonzola </ingredient> ait <operation ingredients="gorgonzola"> fondu </operation> ; <operation> éteindre </operation> le feu . <operation ingredients="gnocchis"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> gnocchis </ingredient> selon les instructions du paquet . <operation> mélanger </operation> le tout , servir et <operation ingredients="parmesan"> saupoudrer </operation> chaque assiette de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . puisque le <ingredient quantite="200 gramme"> gorgonzola </ingredient> et le speck sont des ingrédients <operation> salés </operation> , il n’ est pas nécessaire de <operation ingredients="sel"> rajouter </operation> de <ingredient action="rajouter"> sel </ingredient> pour la préparation . photo de manina hatzimichali
+</preparation>
+</recette>

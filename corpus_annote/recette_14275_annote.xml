@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14275">
+<titre>Jambon au madère</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de jambon</p>
+<p>250 ml de crème</p>
+<p>concentré de tomates</p>
+<p>madère</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon"> formez </operation> des rouleaux avec les tranches de <ingredient action="former" quantite="8 tranche"> jambon </ingredient> et <operation> disposez </operation> les dans un plat à gratin ( ou dans deux petits plats , si on veut faire le service directement dedans , ce que je conseille ) . <operation ingredients="crème;tomate"> mélangez </operation> la <ingredient action="mélanger"> crème </ingredient> , le <operation> concentré </operation> de <ingredient action="mélanger"> tomate </ingredient> et le madère , de sorte à obtenir un liquide assez épais et d' un joli rose . il n' y a pas besoin de <operation> mettre </operation> beaucoup de madère , c' est juste pour parfumer . <operation> assaisonnez </operation> selon goût . <operation ingredients="jambon"> versez </operation> ce <operation> mélange </operation> sur le <ingredient action="verser" quantite="8 tranche"> jambon </ingredient> et <operation> mettez </operation> dans le four préchauffé à 250 <operation> ° </operation> c. <operation> cuire </operation> 1 . 15 minutes et sevir aussitôt . <operation ingredients="pâtes"> accompagnez </operation> ce plat de <ingredient action="accompagner"> pâtes </ingredient> .
+</preparation>
+</recette>

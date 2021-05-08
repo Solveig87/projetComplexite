@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41933">
+<titre>Gâteau extra fondant tout chocolat (sans beurre ni farine)</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 tablette de chocolat de cuisine (200 g)</p>
+<p>100 g chocolat en poudre</p>
+<p>4 oeufs</p>
+<p>1 pot de crème fraîche (20 cl)</p>
+<p>1 bouteille de crème fleurette</p>
+<p>200 g de sucre glace</p>
+<p>2 cuillères à soupe d'arome de vanille</p>
+<p>1 sachet de levure chimique</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> la tablette de <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> avec la créme fraîche puis <operation ingredients="chocolat;levure;oeufs"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> en <operation> poudre </operation> , le sachet de <ingredient action="ajouter"> levure </ingredient> et les 4 jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> . <operation> monter </operation> les blancs en neige et les <operation> ajouter </operation> au <operation> mélange </operation> précédant pour <operation ingredients="mousse"> faire </operation> une <ingredient action="faire"> mousse </ingredient> . <operation ingredients="chantilly;sucre"> faire </operation> une <ingredient action="faire"> chantilly </ingredient> avec la créme fleurette + le <ingredient action="faire" quantite="200 gramme"> sucre </ingredient> et l' arome de vanille . ( conseil : <operation ingredients="chantilly"> ajouter </operation> aussi un sachet de fixe <ingredient action="ajouter"> chantilly </ingredient> ! ! ) <operation> mélanger </operation> les deux préparations . <operation ingredients="rond"> mettre </operation> dans un grand <operation> moule </operation> <ingredient action="mettre"> rond </ingredient> beurré . <operation> enfourner </operation> pour 1 h 30 à 130 <operation> ° </operation> c ( thermostat . 5 ) à mi-hauteur . bien surveiller la cuisson ! ! ( le four n' a pas besoin d' étre préchauffé ou sinon diminuer le temps de cuisson de 1 / 2 heure . . . ) si vous trouvez ce <ingredient> gâteau </ingredient> trop " <operation> fondant </operation> " <operation ingredients="farine"> rajouter </operation> un peu de <ingredient action="rajouter"> farine </ingredient> . . .
+</preparation>
+</recette>

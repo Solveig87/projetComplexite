@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32748">
+<titre>Pizza au vert</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pâte à pizza toute prête surgelée, ou en sachet à reconstituer ou encore faite maison pour les plus traditionnel(les) </p>
+<p>150/200 g de petits galets surgelés d'épinards à la crème</p>
+<p>1 boule de mozzarella</p>
+<p>du fromage de chèvre frais type chavroux</p>
+<p>1 ou 2 cuillères à soupe de câpres</p>
+<p>du jambon de pays</p>
+<p>poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="épinards"> décongeler </operation> au micro-ondes les <ingredient action="décongeler"> épinards </ingredient> . <operation ingredients="épinards;pâte"> etaler </operation> les <ingredient action="etaler"> épinards </ingredient> sur la <ingredient action="etaler" quantite=""> pâte </ingredient> à pizza . <operation ingredients="mozzarella"> recouvrir </operation> de la <ingredient action="recouvrir"> mozzarella </ingredient> <operation> tranchée </operation> finement . de miettes de <ingredient quantite=""> fromage </ingredient> de chèvre ( attention bien <operation ingredients="fromage"> répartir </operation> le <ingredient action="répartir" quantite=""> fromage </ingredient> de chèvre car il ne fond pas et donc ne s' éparpille pas de lui même comme la <ingredient> mozzarella </ingredient> ) . enfin <operation ingredients="câpres;jambon"> parsemer </operation> de <ingredient action="parsemer"> câpres </ingredient> et de <ingredient action="parsemer" quantite=""> jambon </ingredient> de pays <operation> coupé </operation> en fines lanières . <operation> poivrer </operation> et <operation ingredients="huile"> arroser </operation> d' un filet d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive . <operation> mettre </operation> au four moyen , le temps que la <ingredient action="cuire" quantite=""> pâte </ingredient> <operation ingredients="pâte"> cuise </operation> et la <ingredient action="fondre"> mozzarella </ingredient> <operation ingredients="mozzarella"> fonde </operation> . moi je la fait en pizza individuelle pour mon chéri et moi , et comme ça je charge plus la sienne de <ingredient quantite=""> fromage </ingredient> et de <ingredient quantite=""> jambon </ingredient> , et j' obtiens pour moi , une pizza assez légère , compatible avec mon régime .
+</preparation>
+</recette>

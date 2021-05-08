@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58806">
+<titre>Salade fraîcheur riz pommes surimi</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 sachet de riz pour 4 personnes</p>
+<p>1 boîte de surimi de 36 batonnets</p>
+<p>2 pommes vertes "granny"</p>
+<p>mayonnaise</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> , l' <operation> égoutter </operation> et le laisser refroidir . <operation ingredients="surimi;pommes"> couper </operation> les bâtonnets de <ingredient action="couper"> surimi </ingredient> en tronçons et les <ingredient action="couper" quantite="2"> pommes </ingredient> en dés . <operation ingredients="surimi"> mélanger </operation> le <ingredient action="mélanger"> surimi </ingredient> <operation> coupé </operation> , les <ingredient quantite="2"> pommes </ingredient> en cubes , le <ingredient> riz </ingredient> tiède refroidi et deux cuillères à soupe de mayonnaise toute prête ( ou faite soi - même ) . <operation> mélanger </operation> le tout et <operation> placer </operation> au réfrigérateur environ 1 h avant de servir . cette <ingredient> salade </ingredient> est très originale et appréciée lors de buffets .
+</preparation>
+</recette>

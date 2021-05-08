@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89262">
+<titre>Tiramisu au chocolat blanc et aux fraises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat blanc</p>
+<p>350 g de fraises</p>
+<p>400 g de mascarpone</p>
+<p>150 g de sucre</p>
+<p>2 paquets de palets bretons</p>
+<p>6 oeufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> au bain - marie ou au micro-ondes . <operation> equeuter </operation> les <ingredient quantite="350 gramme"> fraises </ingredient> après les avoir <operation> passées </operation> sous l' eau , puis les <operation> couper </operation> en tranches . <operation ingredients="oeufs"> séparer </operation> les blancs d' <ingredient action="séparer" quantite="6"> oeufs </ingredient> des jaunes . <operation ingredients="sucre"> battre </operation> le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> avec les jaunes jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="400 gramme"> mascarpone </ingredient> . <operation> mélanger </operation> . <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> blanc . <operation> mélanger </operation> délicatement . <operation> monter </operation> les blancs en neige très fermes et les <operation> incorporer </operation> à la préparation . <operation> mélanger </operation> délicatement . <operation> verser </operation> la moitié de la préparation dans un plat de service puis <operation> émietter </operation> au-dessus les palets bretons . <operation ingredients="fraises"> répartir </operation> les tranches de <ingredient action="répartir" quantite="350 gramme"> fraises </ingredient> en couche épaisse . <operation ingredients="mascarpone"> verser </operation> le reste du <ingredient action="verser" quantite="400 gramme"> mascarpone </ingredient> . <operation> lisser </operation> la surface . <operation> placer </operation> 12 heures au réfrigérateur .
+</preparation>
+</recette>

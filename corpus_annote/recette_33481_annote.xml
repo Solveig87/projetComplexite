@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33481">
+<titre>Spaghetti au crabe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de spaghetti complets</p>
+<p>1 boîte de chair de crabe</p>
+<p>1 petit pot de sauce tomate aux fruits de mer</p>
+<p>1 tranche de saumon fumé</p>
+<p>40 g de champignons</p>
+<p>basilic</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="crabe"> egoutter </operation> le <ingredient action="egoutter"> crabe </ingredient> , <operation ingredients="saumon"> couper </operation> la tranche de <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en morceaux , faire <operation ingredients="champignons"> revenir </operation> les <ingredient action="revenir" quantite="40 gramme"> champignons </ingredient> . <operation ingredients="crabe"> chauffer </operation> la sauce tomate , <operation ingredients="basilic"> ajouter </operation> le <ingredient action="ajouter" quantite=""> basilic </ingredient> , le <ingredient action="chauffer"> crabe </ingredient> , <operation> mélanger </operation> . <operation ingredients="pâtes"> ajouter </operation> à la sauce les <ingredient action="ajouter"> pâtes </ingredient> <operation> cuites </operation> , <operation> mélanger </operation> . quand les <ingredient action="imprégner"> pâtes </ingredient> sont bien <operation ingredients="pâtes"> imprégnées </operation> de sauce , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="40 gramme"> champignons </ingredient> et le <ingredient action="mélanger"> saumon </ingredient> , <operation ingredients="saumon"> mélanger </operation> .
+</preparation>
+</recette>

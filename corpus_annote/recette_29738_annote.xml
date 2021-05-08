@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29738">
+<titre>Glace au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>65 cl de lait</p>
+<p>130 g de chocolat pâtissier</p>
+<p>60 g de sucre semoule</p>
+<p>5 jaunes d'oeufs</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="oeufs;sucre;mousse"> battre </operation> les jaunes d’ <ingredient action="battre"> oeufs </ingredient> et le <ingredient action="battre" quantite="60 gramme"> sucre </ingredient> , jusqu’ à l’ obtention d’ une <ingredient action="battre"> mousse </ingredient> homogène . dans une casserole , faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="130 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="65 cl"> lait </ingredient> , <operation> chauffer </operation> jusqu’ à <operation> ébullition </operation> . <operation ingredients="mousse"> ajouter </operation> délicatement cette préparation à la <ingredient action="ajouter"> mousse </ingredient> . faire <operation> chauffer </operation> le tout au bain - marie , à feu doux , et <operation> remuer </operation> régulièrement jusqu’ à épaississement . <operation> battre </operation> la préparation au fouet avant de la faire <operation> glacer </operation> en sorbetière .
+</preparation>
+</recette>

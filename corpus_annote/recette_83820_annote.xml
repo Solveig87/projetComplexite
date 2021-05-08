@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83820">
+<titre>Pizza extra large</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de pâte à pizza</p>
+<p>200 g de jambon</p>
+<p>2 boites de tomates pelées</p>
+<p>2 oignons</p>
+<p>1 boite de champignons</p>
+<p>200 g de fromage râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> préparer </operation> la <ingredient action="préparer" quantite="500 gramme"> pâte </ingredient> : <operation ingredients="farine;huile;sel"> mettez </operation> dans un robot , 500 g de <ingredient action="mettre"> farine </ingredient> , deux cuillères d' <ingredient action="mettre"> huile </ingredient> et deux pincées de <ingredient action="mettre"> sel </ingredient> . lorsque la <ingredient quantite="500 gramme"> pâte </ingredient> est prête sortez - la du robot et laissez la <operation> reposer </operation> 1 h 30 . <operation ingredients="tomates"> coupez </operation> en tranches les <ingredient action="couper"> tomates </ingredient> <operation> pelées </operation> , <operation ingredients="jus"> versez </operation> le <ingredient action="verser"> jus </ingredient> des tomates ainsi que celle-ci dans une <operation> poêle </operation> , <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> coupez </operation> grossièrement , faites <operation> cuire </operation> pendant 30 minutes . lorsque la préparation est <operation> cuite </operation> , <operation> mixez </operation> - la dans un robot . étalez la <ingredient quantite="500 gramme"> pâte </ingredient> sur un papier à cuisson puis <operation> mettez </operation> - la sur un <operation> plaque </operation> de four ( la <ingredient quantite="500 gramme"> pâte </ingredient> doit avoir la même taille ) . <operation ingredients="origan"> ajoutez </operation> la sauce tomate , et <operation> saupoudrez </operation> - la d' <ingredient action="ajouter"> origan </ingredient> . <operation ingredients="jambon;champignons;gruyère"> parsemez </operation> de <ingredient action="parsemer" quantite="200 gramme"> jambon </ingredient> , de <ingredient action="parsemer"> champignons </ingredient> et de <ingredient action="parsemer"> gruyère </ingredient> . <operation> mettre </operation> au four pendant 30 minutes . sortez lorsque c' est <operation> cuit </operation> .
+</preparation>
+</recette>

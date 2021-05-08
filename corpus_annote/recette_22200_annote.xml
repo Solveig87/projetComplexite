@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22200">
+<titre>Potage au persil</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 l de bouillon </p>
+<p>150 g de persil</p>
+<p>60 g de beurre</p>
+<p>2 cuillères à soupe de crème</p>
+<p>1 cuillère à soupe bombée de farine</p>
+<p>1 bouquet garni</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="persil;bouquet;bouillon"> mettre </operation> le <ingredient action="mettre" quantite="150 gramme"> persil </ingredient> et le <ingredient action="mettre" quantite="1"> bouquet </ingredient> <operation> garni </operation> dans le <ingredient action="mettre" quantite="2 l"> bouillon </ingredient> froid . amener à <operation> ébullition </operation> et laisser <operation> cuire </operation> à petits frémissements durant 10 minutes . <operation> filtrer </operation> . <operation ingredients="farine"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> au beurre <operation> fondu </operation> sur feu doux jusqu' à ce qu' elle <operation> blondisse </operation> . <operation ingredients="bouillon"> mouiller </operation> avec le <ingredient action="mouiller" quantite="2 l"> bouillon </ingredient> et laisser à nouveau <operation> cuire </operation> 10 minutes . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="2 cuillère à soupe"> crème </ingredient> et servir .
+</preparation>
+</recette>

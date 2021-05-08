@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36158">
+<titre>Soupe blanchie (ail)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 gousses d'ail </p>
+<p>1 jaune d'oeuf</p>
+<p>1 cuillère à soupe de graisse d'oie</p>
+<p>1 cuillère à soupe de vinaigre de vin</p>
+<p>6 poignées de vermicelle</p>
+<p>2 litres d'eau</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="graisse"> revenir </operation> dans la <ingredient action="revenir" quantite="1 cuillère à soupe"> graisse </ingredient> , l' <ingredient action="couper"> ail </ingredient> <operation ingredients="ail"> coupé </operation> en morceaux . <operation ingredients="sel;poivre"> ajouter </operation> l' eau , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter"> poivre </ingredient> . laisser <operation> bouillir </operation> 5 min . <operation ingredients="vermicelle"> ajouter </operation> le <ingredient action="ajouter"> vermicelle </ingredient> et laisser <operation> bouillir </operation> 10 min . pendant ce temps <operation ingredients="oeuf;vinaigre"> mélanger </operation> le jaune d' <ingredient action="mélanger"> oeuf </ingredient> avec le <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> dans un bol . <operation ingredients="soupe"> melanger </operation> à la <ingredient action="melanger"> soupe </ingredient> juste avant de servir , hors du feu . <ingredient> soupe </ingredient> traditionnelle de la dordogne . autrefois on <operation ingredients="vin"> versait </operation> après dans l' assiette vide mais chaude du <ingredient action="verser"> vin </ingredient> rouge pour faire " chabro " . bergerac rouge
+</preparation>
+</recette>

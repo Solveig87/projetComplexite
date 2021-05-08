@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47924">
+<titre>Salade composée fraicheur</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade verte</p>
+<p>6 tomates</p>
+<p>1 gruyère</p>
+<p>1 pot de crème fraîche</p>
+<p>ciboulette fraîche</p>
+<p>4 tranches de jambon blanc</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> laver </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> , l' <operation> effeuiller </operation> et la <operation> disposer </operation> dans un grand saladier . puis , <operation ingredients="tomates;jambon;gruyère"> couper </operation> en dès les <ingredient action="couper" quantite="6"> tomates </ingredient> , le <ingredient action="couper" quantite="4 tranche"> jambon </ingredient> et le <ingredient action="couper" quantite="1"> gruyère </ingredient> . <operation ingredients="salade"> ajouter </operation> le tout à la <ingredient action="ajouter" quantite="1"> salade </ingredient> verte . <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="1 pot"> crème </ingredient> fraîche <operation> salée </operation> et poivrée et <operation ingredients="ciboulette"> parsemer </operation> de <ingredient action="parsemer" quantite=""> ciboulette </ingredient> fraîche . servir le tout aussitôt . pour avoir plus de <ingredient> croquant </ingredient> , vous pouvez <operation ingredients="noix"> ajouter </operation> des <ingredient action="ajouter"> noix </ingredient> selon la saison .
+</preparation>
+</recette>

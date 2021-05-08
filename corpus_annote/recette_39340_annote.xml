@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39340">
+<titre>Parfait glacé au miel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs </p>
+<p>100 g de sucre</p>
+<p>50 g de miel</p>
+<p>100 g de mascarpone</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre" quantite="4"> oeufs </ingredient> avec le <ingredient action="battre" quantite="100 gramme"> sucre </ingredient> , au batteur électrique , jusqu' à que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="miel;mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> miel </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> mascarpone </ingredient> . <operation> incorporer </operation> les blancs <operation> battus </operation> en neige . <operation> transvaser </operation> dans des ramequins , préalablement <operation> rincés </operation> à l' eau froide . <operation> entreposer </operation> au moins 2 h au congélateur .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13154">
+<titre>Spaghetti à la jamaicaine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de spaghetti</p>
+<p>400 g de beefsteak haché </p>
+<p>1 tête d'ail</p>
+<p>1 gros oignon </p>
+<p>1 petite bouteille de ketchup</p>
+<p>1 boite de mais égoutté</p>
+<p>sel , poivre</p>
+<p>1 petit piment</p>
+</ingredients>
+<preparation>
+dans une cocotte anti-adhésive faire <operation ingredients="oignon;huile;viande"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans de l' <ingredient action="revenir"> huile </ingredient> d' olive , puis la <ingredient action="revenir" quantite="400 gramme;1"> viande </ingredient> hachée . <operation ingredients="ketchup;sel;poivre"> rajouter </operation> ensuite l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail"> écrasé </operation> , le mais , le <ingredient action="rajouter"> ketchup </ingredient> , du <ingredient action="rajouter" quantite=""> sel </ingredient> et du <ingredient action="rajouter" quantite=""> poivre </ingredient> noir <operation> moulu </operation> . laisser <operation> mijoter </operation> à feu doux 15 ou 20 mn . faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> spaghetti </ingredient> al dente . les <operation> égoutter </operation> puis les <operation> mélanger </operation> à la préparation . <operation> assaisonner </operation> selon votre goût . ce plat simple semble un peu hors-normes , mais invitez des amis et vous verrez : satisfaciton garantie ! <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

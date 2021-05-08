@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24703">
+<titre>Chèvre au miel</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 petites tommes de chèvre</p>
+<p>8 tranches de jambon cru (serrano par exemple) </p>
+<p>miel</p>
+<p>lavande</p>
+<p>beurre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="miel;tommes"> mettre </operation> un peu de <ingredient action="mettre" quantite=""> miel </ingredient> sur les <ingredient action="mettre" quantite="8"> tommes </ingredient> , <operation ingredients="lavande"> parsemer </operation> de <ingredient action="parsemer" quantite=""> lavande </ingredient> ( pas trop ) , <operation ingredients="jambon"> emballer </operation> dans le <ingredient action="emballer" quantite="8 tranche"> jambon </ingredient> cru sans laisser d' ouverture . <operation action="rôtir" ingredients="rôtir;beurre"> rôtir </operation> dans le <operation> mélange </operation> <ingredient action="rôtir" quantite=""> beurre </ingredient> / huile d' olive , environ 4 mn de chaque côté . <operation ingredients="compote;vinaigre"> accompagner </operation> de <ingredient action="accompagner"> compote </ingredient> de poires et d' un caramel au <ingredient action="accompagner"> vinaigre </ingredient> balsamique . <operation ingredients="compote;vinaigre"> accompagner </operation> de <ingredient action="accompagner"> compote </ingredient> de poire et d' un caramel au <ingredient action="accompagner"> vinaigre </ingredient> balsamique . gewürztraminer
+</preparation>
+</recette>

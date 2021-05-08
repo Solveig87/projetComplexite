@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25577">
+<titre>Blanquette de veau traditionnelle</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de veau en morceaux (tendron, flanchet, épaule désossée)</p>
+<p>2 carottes</p>
+<p>1 oignon piqué d'1 clou de girofle</p>
+<p>1 poireau</p>
+<p>1 bouquet garni</p>
+<p>2 jaunes d'oeuf</p>
+<p>100 g de crème fraîche</p>
+<p>1 cuillère à soupe de farine</p>
+<p>1/2 citron</p>
+<p>30 g de beurre</p>
+<p>1 cuillère à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;huile"> chauffer </operation> le <ingredient action="chauffer" quantite="30 gramme"> beurre </ingredient> et l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une cocotte . <operation ingredients="viande"> mettez </operation> - y la <ingredient action="mettre" quantite="1,2 kilogramme"> viande </ingredient> et laissez <operation> dorer </operation> sur toutes les faces . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à soupe"> farine </ingredient> et <operation> remuer </operation> , puis <operation ingredients="viande"> mouiller </operation> d' eau à hauteur de la <ingredient action="mouiller" quantite="1,2 kilogramme"> viande </ingredient> . <operation ingredients="carottes;poireau"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> carottes </ingredient> et le <ingredient action="ajouter" quantite="1"> poireau </ingredient> <operation> pelés </operation> et <operation> coupés </operation> en grosses rondelles , l' <ingredient quantite="1"> oignon </ingredient> <operation> piqué </operation> et le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> . <operation> porter </operation> à <operation> ébullition </operation> , puis baisser le feu et laisser <operation> cuire </operation> 1 h 30 à feu doux . <operation ingredients="oeuf;crème;jus;citron"> battre </operation> les jaunes d' <ingredient action="battre"> oeuf </ingredient> en omelette avec la <ingredient action="battre" quantite="100 gramme"> crème </ingredient> et le <ingredient action="battre"> jus </ingredient> du 1 / 2 <ingredient action="battre"> citron </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . récupérer une louche de <ingredient> bouillon </ingredient> , <operation ingredients="oeuf;bouillon"> délayer </operation> le <operation> mélange </operation> <ingredient action="délayer"> oeuf </ingredient> - crème avec le <ingredient action="délayer"> bouillon </ingredient> . <operation> reverser </operation> dans une casserole et laisser <operation> réchauffer </operation> à feu doux . <operation ingredients="bouillon"> rajouter </operation> du <ingredient action="rajouter"> bouillon </ingredient> et laisser <operation> épaissir </operation> pour avoir une sauce assez nappante . <operation ingredients="viande;légumes"> egoutter </operation> la <ingredient action="egoutter" quantite="1,2 kilogramme"> viande </ingredient> et les <ingredient action="egoutter" quantite="2;1;1;100 gramme"> légumes </ingredient> , la <operation> mettre </operation> dans un plat chaud . <operation> verser </operation> la sauce et servir .
+</preparation>
+</recette>

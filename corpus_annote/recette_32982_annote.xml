@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32982">
+<titre>Croque avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 tranches de pain de mie ou de pain de campagne</p>
+<p>1 avocat</p>
+<p>4 tranches de bacon ou 2 tranches de jambon sec</p>
+<p>1 tomate</p>
+<p>50 g de gruyère râpé</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain;bacon;jambon"> griller </operation> le <ingredient action="griller" quantite="2 tranche"> pain </ingredient> , le <ingredient action="griller" quantite="4 tranche"> bacon </ingredient> ou le <ingredient action="griller"> jambon </ingredient> . <operation> eplucher </operation> l' <ingredient quantite="1"> avocat </ingredient> , le <operation> couper </operation> en lamelles fines et <operation ingredients="pain"> déposer </operation> sur le <ingredient action="déposer" quantite="2 tranche"> pain </ingredient> , <operation> saler </operation> lègérement , <operation ingredients="bacon;jambon;tomate;gruyère"> recouvrir </operation> de <ingredient action="recouvrir" quantite="4 tranche"> bacon </ingredient> ou de <ingredient action="recouvrir"> jambon </ingredient> , de la <ingredient action="recouvrir" quantite="1"> tomate </ingredient> <operation> coupée </operation> en tranches et de <ingredient action="recouvrir" quantite="50 gramme"> gruyère </ingredient> râpé . <operation> mettre </operation> à four chaud 10 à 15 mn environ .
+</preparation>
+</recette>

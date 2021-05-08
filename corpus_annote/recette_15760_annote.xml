@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15760">
+<titre>Crêpes à la bière</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine</p>
+<p>sel</p>
+<p>6 oeufs</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de rhum</p>
+<p>25 cl de bière</p>
+<p>50 cl de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> mettez </operation> la <ingredient action="mettre" quantite="500 gramme"> farine </ingredient> dans un saladier . faites - y un puits et <operation ingredients="huile;rhum;oeufs"> ajoutez </operation> l' <ingredient action="ajouter" quantite="2 cuillère à soupe"> huile </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> rhum </ingredient> et les <ingredient action="ajouter" quantite="6"> oeufs </ingredient> . <operation ingredients="bière"> mélangez </operation> , puis <operation ingredients="lait"> ajoutez </operation> petit à petit le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> , puis la <ingredient action="mélanger" quantite="25 cl"> bière </ingredient> . laissez <operation> reposer </operation> 1 heure avant de faire <operation ingredients="crêpes"> cuire </operation> les <ingredient action="cuire"> crêpes </ingredient> . les déguster avec du <ingredient> sucre </ingredient> en <operation> poudre </operation> ou de la <ingredient> cassonade </ingredient> . vous pouvez <operation> diviser </operation> les ingrédients par 2 si vous voulez en faire moins . essayez cette recette pour la chandeleur : le goût est différent des <ingredient> crêpes </ingredient> classiques et les enfants adorent .
+</preparation>
+</recette>

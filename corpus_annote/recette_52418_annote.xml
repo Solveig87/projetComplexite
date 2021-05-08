@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52418">
+<titre>Flan glacé aux pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 pommes sucrées type Golden</p>
+<p>raisins secs</p>
+<p>cerneaux de noix (ou amandes)</p>
+<p>2 oeufs</p>
+<p>1 yaourt</p>
+<p>jus d'1 citron</p>
+<p>facultatif : cannelle,</p>
+<p>facultatif : gingembre</p>
+<p>facultatif : mélange quatre épices...</p>
+<p>facultatif : citron confit</p>
+<p>facultatif : cassonade</p>
+<p>facultatif : banane  (kiwi, figues ou poire)</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raisins"> gonfler </operation> les <ingredient action="gonfler" quantite=""> raisins </ingredient> dans de l' eau très chaude . <operation ingredients="compote;fruits"> faites </operation> une <ingredient action="faire"> compote </ingredient> très sèche avec les <ingredient action="faire" quantite="5;;"> fruits </ingredient> frais <operation> épluchés </operation> et <operation> coupés </operation> en morceaux moyens <operation ingredients="jus"> arrosés </operation> du <ingredient action="arroser" quantite=""> jus </ingredient> de citron . cela peut être réalisé en 10 minutes au micro-ondes . pendant le temps de cuisson de la <ingredient action="battre"> compote </ingredient> , <operation ingredients="compote;oeufs"> battez </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> en omelette . <operation ingredients="yaourt;fruits;épices;citron;confit"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> , les <ingredient action="ajouter" quantite="5;;"> fruits </ingredient> à coques , les <ingredient action="ajouter"> épices </ingredient> et éventuellement le <ingredient action="ajouter"> citron </ingredient> <ingredient action="ajouter"> confit </ingredient> . <operation ingredients="compote"> mélangez </operation> la <ingredient action="mélanger"> compote </ingredient> avec cette base . <operation ingredients="cassonade"> sucrez </operation> avec de la <ingredient action="sucrez"> cassonade </ingredient> si le <operation> mélange </operation> est trop acide . <operation> cuisez </operation> le tout au bain - marie ou au micro-ondes ( environ 20 minutes à puissance moyenne ) . il faut que les <ingredient quantite="2"> oeufs </ingredient> soient pris . vous pouvez également si vous êtes très gourmands réaliser un caramel au fond du <operation> moule </operation> avant de <operation ingredients="compote"> verser </operation> le <operation> mélange </operation> <ingredient action="verser"> compote </ingredient> - oeufs . servir bien froid .
+</preparation>
+</recette>

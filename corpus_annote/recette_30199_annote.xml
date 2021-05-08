@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30199">
+<titre>Raita de concombre à la menthe</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>900 g de yaourt grec au lait de brebis</p>
+<p>3 concombres</p>
+<p>3 gousses d’ail</p>
+<p>3 cuillères à soupe d’huile d’olive</p>
+<p>20 feuilles de menthe fraîche</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="concombres"> peler </operation> les <ingredient action="peler" quantite="3"> concombres </ingredient> , les <operation> couper </operation> en gros morceaux , les <operation> mettre </operation> dans une passoire et <operation ingredients="sel"> saupoudrer </operation> de gros <ingredient action="saupoudrer" quantite=""> sel </ingredient> . laisser dégorger 2 heures puis les <operation> rincer </operation> , les <operation> égoutter </operation> soigneusement et les <operation> recouper </operation> en plus petits morceaux . <operation ingredients="menthe;ail"> hacher </operation> la <ingredient action="hacher" quantite="20 feuille"> menthe </ingredient> et l' <ingredient action="hacher"> ail </ingredient> , les <operation ingredients="yaourt;huile"> mélanger </operation> au <ingredient action="mélanger" quantite="900 gramme"> yaourt </ingredient> et à l' <ingredient action="mélanger"> huile </ingredient> d' olive . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="concombre"> ajouter </operation> le <ingredient action="ajouter" quantite="3"> concombre </ingredient> . <operation> mettre </operation> au frais pendant au moins 30 minutes et servir bien frais .
+</preparation>
+</recette>

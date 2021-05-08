@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32540">
+<titre>Poulpe braisé</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulpe (750 g au moins) ou une pieuvre, mais pas de tête de seiche</p>
+<p>3 poivrons (vert ou jaune, c'est plus joli) </p>
+<p>500 g de tomates</p>
+<p>1 oignon</p>
+<p>2 tête d'ail (attention 2 têtes, pas 2 gousses) </p>
+<p>250 ml de vin blanc</p>
+<p>1 cuillère à soupe de graines de cumin</p>
+<p>persil</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+après avoir <operation ingredients="poulpe"> lavé </operation> le <ingredient action="laver" quantite="1"> poulpe </ingredient> et <operation> enlevé </operation> la <operation> poche </operation> le cas echéant , <operation> coupez </operation> les tentacules en petits tronçons . faites - le <operation> cuire </operation> 15 mn dans l' eau bouillante . après l' avoir <operation> égoutté </operation> , vous pouvez gardez le <ingredient quantite="1"> poulpe </ingredient> tel quel 1 ou 2 jours au frigo ou continuer la recette de suite . . . . <operation ingredients="ail;oignon"> hachez </operation> finement l' <ingredient action="hacher"> ail </ingredient> et l' <ingredient action="hacher" quantite="1"> oignon </ingredient> . faites <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . une fois l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> cuit , <operation ingredients="oignon;tomates;poivrons"> ajoutez </operation> les <ingredient action="ajouter" quantite="500 gramme"> tomates </ingredient> <operation> concassées </operation> ( ne pas les <operation> peler </operation> ) et les <ingredient action="ajouter" quantite="3"> poivrons </ingredient> en lanières . faites <operation> revenir </operation> le tout en <operation> remuant </operation> pendant 5 mn puis <operation ingredients="poulpe"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> poulpe </ingredient> , le <ingredient> vin </ingredient> et le <ingredient> cumin </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> selon votre goût . <operation> cuire </operation> à feux doux pendant 1 h. le <ingredient quantite="1"> poulpe </ingredient> doit être tendre . <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> haché juste avant de servir . servir seul ou avec du <ingredient> riz </ingredient> blanc blanc sec
+</preparation>
+</recette>

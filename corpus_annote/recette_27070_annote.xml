@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27070">
+<titre>Coeur de veau aux graines de moutarde et à la sauge</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de coeur de veau</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 cuillère à café de thym</p>
+<p>2 feuilles de sauge</p>
+<p>1 cuillère à soupe de graines de moutarde</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="moutarde"> ecraser </operation> les graines de <ingredient action="ecraser"> moutarde </ingredient> . <operation ingredients="thym"> emietter </operation> les feuilles de sauge avec le <ingredient action="emietter" quantite="1 cuillère à café"> thym </ingredient> . <operation ingredients="coeur"> huiler </operation> les tranches de <ingredient action="huiler" quantite="4 tranche"> coeur </ingredient> de veau et les <operation> saupoudrer </operation> d' aromates . faire <operation> revenir </operation> dans une poêle chaude 4 minutes de chaque côté . <operation> saler </operation> , <operation> poivrer </operation> et servir bien chaud .
+</preparation>
+</recette>

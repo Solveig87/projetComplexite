@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23109">
+<titre>Choucroute et charcuterie en salade</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de choucroute crue</p>
+<p>2 cervelas</p>
+<p>400 g de saucisson</p>
+<p>100 g de gruyère</p>
+<p>2 oignons</p>
+<p>2 cuillères à soupe de persil haché</p>
+<p>Pour la sauce vinaigrette :</p>
+<p>moutarde</p>
+<p>vinaigre </p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+bien <operation ingredients="choucroute"> laver </operation> la <ingredient action="laver" quantite="1 kilogramme"> choucroute </ingredient> sous l' eau froide , la <operation> presser </operation> entre vos mains pour l' <operation> essorer </operation> puis la laisser <operation> égoutter </operation> quelques minutes dans une passoire . <operation ingredients="cervelas;saucisson"> découper </operation> le <ingredient action="découper" quantite="2"> cervelas </ingredient> et le <ingredient action="découper" quantite="400 gramme"> saucisson </ingredient> en rondelles , puis en dés et les <operation ingredients="choucroute"> mélanger </operation> avec la <ingredient action="mélanger" quantite="1 kilogramme"> choucroute </ingredient> dans un saladier . <operation ingredients="fromage"> détailler </operation> le <ingredient action="détailler"> fromage </ingredient> en morceaux , puis <operation ingredients="oignon"> hacher </operation> l' <ingredient action="hacher" quantite="2"> oignon </ingredient> <operation> pelé </operation> . les <operation> incorporer </operation> au reste de la préparation , puis les <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> persil </ingredient> haché . <operation ingredients="huile;vinaigre"> préparer </operation> ensuite une vinaigrette avec l' <ingredient action="préparer" quantite=""> huile </ingredient> et le <ingredient action="préparer" quantite=""> vinaigre </ingredient> de votre choix , puis en <operation ingredients="salade"> napper </operation> la <ingredient action="napper"> salade </ingredient> . bien <operation> mélanger </operation> le tout , puis <operation> réserver </operation> au frais .
+</preparation>
+</recette>

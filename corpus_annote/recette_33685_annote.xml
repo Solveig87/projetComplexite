@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33685">
+<titre>Moussaka à la turque</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande de veau hachée</p>
+<p>6 tomates</p>
+<p>3 oignons</p>
+<p>1 gousse d'ail</p>
+<p>8 cuillères à soupe de persil haché</p>
+<p>7 ou 8 courgettes (environ 1 kg) </p>
+<p>sel, poivre </p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;oignons"> rissoler </operation> la <ingredient action="rissoler" quantite="500 gramme"> viande </ingredient> avec les <ingredient action="rissoler" quantite="3"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="tomates;ail;persil"> ajouter </operation> les <ingredient action="ajouter" quantite="6"> tomates </ingredient> en morceaux ( <operation> épluchées </operation> au préalable ) , l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> et le <ingredient action="ajouter" quantite="8 cuillère à soupe"> persil </ingredient> . <operation> assaisonner </operation> et laisser <operation> cuire </operation> 10 mn sur feu vif en <operation> remuant </operation> fréquemment . <operation> laver </operation> les courgettes . les <operation> couper </operation> en rondelles pas trop épaisses et faire <operation> rissoler </operation> ou <operation> cuire </operation> au micro-ondes . <operation ingredients="viande"> etaler </operation> les courgettes dans le fond d' un plat à gratin , puis la <ingredient action="etaler" quantite="500 gramme"> viande </ingredient> , puis encore une couche de courgettes , etc. . . . <operation ingredients="jus"> arroser </operation> avec un verre d' eau ou le <ingredient action="arroser"> jus </ingredient> de cuisson de la farce , fermer le plat avec une feuille d' aluminium et faire <operation> cuire </operation> à four chaud pendant 3 / 4 d' heure . servir très chaud . bon appétit .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170876">
+<titre>Sauté de dinde aux olives</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>900 g de filet de dinde</p>
+<p>2 oignons</p>
+<p>2 gousses d'ail</p>
+<p>5 tomates</p>
+<p>25 cl de vin blanc</p>
+<p>200 g d'olives vertes</p>
+<p>thym</p>
+<p>laurier</p>
+<p>sel</p>
+<p>poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="dinde"> coupez </operation> la <ingredient action="couper"> dinde </ingredient> en gros cubes . faites <operation ingredients="huile"> revenir </operation> sur grand feu avec l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive dans une cocotte . <operation> réservez </operation> . faites <operation ingredients="oignons;gousses"> revenir </operation> ensuite les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="2"> gousses </ingredient> d' ail <operation> coupés </operation> en lamelles . <operation ingredients="viande"> ajoutez </operation> la <ingredient action="ajouter"> viande </ingredient> . <operation ingredients="tomates;thym;laurier"> ajoutez </operation> les <ingredient action="ajouter" quantite="5"> tomates </ingredient> <operation> coupées </operation> en cubes , le <ingredient action="ajouter" quantite=""> thym </ingredient> et le <ingredient action="ajouter" quantite=""> laurier </ingredient> . <operation ingredients="vin"> recouvrez </operation> de <ingredient action="recouvrir" quantite="25 cl"> vin </ingredient> blanc . <operation ingredients="olives"> salez </operation> ( légèrement car les <ingredient action="saler" quantite="200 gramme"> olives </ingredient> salent naturellement le plat ) , <operation> poivrez </operation> . faites <operation> cuire </operation> à feu doux pendant 35 min . <operation ingredients="olives"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme"> olives </ingredient> , poursuivez la cuisson 10 min . c' est prêt ! vous pouvez <operation ingredients="pâtes"> accompagner </operation> ce plat de <ingredient action="accompagner"> pâtes </ingredient> fraîches ! !
+</preparation>
+</recette>

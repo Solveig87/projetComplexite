@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52906">
+<titre>Muffin Chocolat citron</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 yaourt nature ou vanillé (garder le pot, il servira de mesure)</p>
+<p>3 pots de farine</p>
+<p>1/2 pot de sucre</p>
+<p>30 g de beurre</p>
+<p>3 oeufs</p>
+<p>200 g de chocolat pâtissier</p>
+<p>2 cuillères à café d'extrait de citron</p>
+<p>1 sachet de sucre vanillé </p>
+<p>1 sachet de levure chimique</p>
+</ingredients>
+<preparation>
+<operation ingredients="yaourt"> versez </operation> le <ingredient action="verser" quantite="1"> yaourt </ingredient> dans un grand saladier . <operation ingredients="sucre;farine"> ajoutez </operation> le 1 / 2 pot de <ingredient action="ajouter"> sucre </ingredient> , puis les 3 pots de <ingredient action="ajouter" quantite="3 pot"> farine </ingredient> , et <operation> mélangez </operation> . <operation ingredients="oeuf"> séparez </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="3"> oeuf </ingredient> , et <operation> montez </operation> les blancs en neige . faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> et l' <operation> ajoutez </operation> à la préparation . <operation ingredients="levure;sucre"> ajoutez </operation> le sachet de <ingredient action="ajouter"> levure </ingredient> chimique et le sachet de <ingredient action="ajouter"> sucre </ingredient> vanillé , les blancs en neige à la préparation . cassez le <ingredient quantite="200 gramme"> chocolat </ingredient> et gardez -en un <ingredient> carré </ingredient> pour chaque <ingredient> muffin </ingredient> . faites <operation> fondre </operation> le reste au bain - marie , ou dans une casserole , avec 3 cuillères à soupe d' eau . pendant ce temps , <operation ingredients="pâte"> séparez </operation> la <ingredient action="séparer"> pâte </ingredient> en deux parts égales et <operation ingredients="citron"> ajoutez </operation> dans l' une d' entre elle les 2 cuillères à café d' extrait de <ingredient action="ajouter"> citron </ingredient> . une fois le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> <operation> fondu </operation> , <operation ingredients="chocolat;pâte"> ajoutez </operation> - le à l' autre moitié de <ingredient action="ajouter"> pâte </ingredient> . <operation ingredients="pâte;chocolat"> disposez </operation> la <ingredient action="disposer"> pâte </ingredient> <ingredient action="disposer" quantite="200 gramme"> chocolat </ingredient> et citron en couche dans le plat à muffin , et <operation ingredients="carré;muffin"> ajoutez </operation> un <ingredient action="ajouter"> carré </ingredient> de chocolat dans chaque <ingredient action="ajouter"> muffin </ingredient> . faites <operation> cuire </operation> au four pendant 20 min à 180 <operation> ° </operation> c ( thermostat 6 ) . les <ingredient> muffins </ingredient> peuvent être servis avec une <ingredient> crème </ingredient> anglaise .
+</preparation>
+</recette>

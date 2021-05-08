@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20509">
+<titre>Makbouba</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons rouges</p>
+<p>2 poivrons verts</p>
+<p>1 concentré de tomates</p>
+<p>1 sucre</p>
+<p>ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;carrés"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en morceaux <ingredient action="couper"> carrés </ingredient> . les faire <operation ingredients="huile"> revenir </operation> dans <ingredient action="revenir"> huile </ingredient> et ail . bien laisser <operation> réduire </operation> puis <operation ingredients="sucre"> rajouter </operation> le <ingredient action="rajouter" quantite="1"> sucre </ingredient> , le <operation ingredients="tomates"> concentré </operation> de <ingredient action="concentré"> tomates </ingredient> , sel et poivre . <operation> mélanger </operation> et <operation ingredients="confiture"> laisser </operation> <operation> mijoter </operation> jusqu' à l' obtention d' une <ingredient action="laisser"> confiture </ingredient> . a déguster tel quel ou sur des toasts grillés .
+</preparation>
+</recette>

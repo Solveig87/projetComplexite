@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59736">
+<titre>Tortilla légère et rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>1 pomme de terre</p>
+<p>1 cuillère à café de fromage blanc</p>
+<p>1/2 oignon</p>
+<p>épices au choix</p>
+</ingredients>
+<preparation>
+préchauffez le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="pomme"> pelez </operation> et précuisez la <ingredient action="peler" quantite="1"> pomme </ingredient> de terre . <operation> coupez </operation> - la en rondelles . dans un bol , <operation ingredients="pomme;oeuf;oignon;fromage"> mélangez </operation> la <ingredient action="mélanger" quantite="1"> pomme </ingredient> de terre , l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> <operation> battu </operation> , l' <ingredient action="mélanger"> oignon </ingredient> <operation> émincé </operation> et le <ingredient action="mélanger" quantite="1 cuillère à café"> fromage </ingredient> blanc . <operation> epicez </operation> et <operation> versez </operation> dans un ramequin . <operation> enfournez </operation> pour 30 minutes de cuisson . servez chaud ou tiède avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

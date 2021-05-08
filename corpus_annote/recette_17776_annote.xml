@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17776">
+<titre>Aïoli</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de cabillaud (ou morue dessalée)</p>
+<p>1 chou fleur</p>
+<p>500 g de haricots verts</p>
+<p>12 carottes </p>
+<p>6 pommes de terre</p>
+<p>6 oeufs durs</p>
+<p>1 kg de bulots cuits ou à cuire</p>
+<p>Pour le fameux aïoli (mayonnaise) :</p>
+<p>2 gousses d'ail selon le goût</p>
+<p>2 oeufs</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+la veille faire dessaler la <ingredient> morue </ingredient> si besoin , et <operation> cuire </operation> les bulots . le lendemain <operation ingredients="légumes"> préparer </operation> les <ingredient action="préparer" quantite="1;500 gramme;12;6"> légumes </ingredient> . <operation> eplucher </operation> <ingredient quantite="6"> pommes </ingredient> de terre et <ingredient quantite="12"> carottes </ingredient> , défaire le <ingredient quantite="1"> chou </ingredient> fleur . <operation ingredients="légumes"> cuire </operation> les <ingredient action="cuire" quantite="1;500 gramme;12;6"> légumes </ingredient> à la cocotte - minute le temps indiqué pour chaque <ingredient quantite="1;500 gramme;12;6"> légume </ingredient> . <operation> réserver </operation> dans un plat . faire l' aïoli : <operation ingredients="gousses"> écraser </operation> la ou les <ingredient action="écraser" quantite="2"> gousses </ingredient> d' ail dans un bol puis <operation ingredients="mayonnaise"> monter </operation> une <ingredient action="monter"> mayonnaise </ingredient> . <operation> assaisonner </operation> . <operation> mettre </operation> au frais jusqu' au moment de servir . <operation ingredients="morue;cabillaud;bouillon"> cuire </operation> la <ingredient action="cuire"> morue </ingredient> ou le <ingredient action="cuire" quantite="1 kilogramme"> cabillaud </ingredient> au court <ingredient action="cuire"> bouillon </ingredient> . peut se <ingredient> manger </ingredient> froid . sinon <operation ingredients="légumes"> faire </operation> <operation> réchauffer </operation> les <ingredient action="faire" quantite="1;500 gramme;12;6"> légumes </ingredient> . <operation ingredients="poisson"> présenter </operation> le <ingredient action="présenter" quantite="1 kilogramme;6+2"> poisson </ingredient> au milieu du plat <operation ingredients="légumes"> entouré </operation> des <ingredient action="entourer" quantite="1;500 gramme;12;6"> légumes </ingredient> sans oublier les <ingredient quantite="6+2"> oeufs </ingredient> durs , les bulots , et l' aïoli . . . on peut prendre des <ingredient quantite="500 gramme"> haricots </ingredient> surgelés pour aller plus vite , et <operation ingredients="légumes"> rajouter </operation> des <ingredient action="rajouter" quantite="1;500 gramme;12;6"> légumes </ingredient> à sa convenance . si on n' aime pas l' <ingredient> ail </ingredient> tant pis une <ingredient> mayo </ingredient> normale fera l' affaire . plat méridional consommé à toute période de l' année . . . un blanc
+</preparation>
+</recette>

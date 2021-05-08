@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54259">
+<titre>Queue de boeuf à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 morceaux de queue de boeuf (ou génisse)</p>
+<p>1 boîte de tomates pelées</p>
+<p>3 échalotes</p>
+<p>25 g de beurre</p>
+<p>1 branche de thym</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte minute , faites <operation ingredients="beurre"> blondir </operation> le <ingredient action="blondir" quantite="25 gramme"> beurre </ingredient> , <operation ingredients="échalotes;viande"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> échalotes </ingredient> <operation> émincées </operation> et les morceaux de <ingredient action="ajouter"> viande </ingredient> . faites <operation> revenir </operation> le tout . 3 minutes . <operation ingredients="tomates;thym"> ajoutez </operation> la boîte de <ingredient action="ajouter"> tomates </ingredient> <operation ingredients="jus"> pelées </operation> avec le <ingredient action="peler"> jus </ingredient> , la branche de <ingredient action="ajouter"> thym </ingredient> , sel , poivre . <operation> couvrez </operation> la préparation d' eau . fermez la cocotte . laissez <operation> mijoter </operation> 1 heure à feu doux . vous pouvez aussi <operation ingredients="olives;cornichons"> ajouter </operation> des <ingredient action="ajouter"> olives </ingredient> ou des <ingredient action="ajouter"> cornichons </ingredient> dans la préparation . a servir avec des <ingredient> pommes </ingredient> de terre ou des frites comme dans le nord . <ingredient> bière </ingredient>
+</preparation>
+</recette>

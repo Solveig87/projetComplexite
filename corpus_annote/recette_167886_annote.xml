@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167886">
+<titre>Salade concombre-saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100g de saumon fumé</p>
+<p>1 concombre </p>
+<p>1 yaourt bulgare</p>
+<p>2 cuillères à soupe de jus de citron</p>
+<p>1 cuillère à soupe d'échalote en semoule</p>
+<p>1 cuillère à soupe de ciboulette ciselée</p>
+<p>sel </p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="concombre;saumon"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en petits dés et le <ingredient action="couper"> saumon </ingredient> en petits morceaux . <operation> mélanger </operation> tous les ingrédients dans un saladier ( <operation> salez </operation> et <operation> poivrez </operation> à votre convenance ) . <operation ingredients="salade"> mettre </operation> la <ingredient action="mettre"> salade </ingredient> au frais ( au moins 30 min ) .
+</preparation>
+</recette>

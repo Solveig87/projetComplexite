@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90733">
+<titre>Pizza façon gourmande</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-1 pâte a pizza</p>
+<p>-1 œuf</p>
+<p>125g de fromage râpé</p>
+<p>50 g de carrés de jambon </p>
+<p>25 cl de jus de tomate concentré</p>
+<p>25 cl de crème épaisse</p>
+<p>origan</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage;jambon;jus;crème;origan;basilic"> mélanger </operation> le <ingredient action="mélanger" quantite="125 gramme"> fromage </ingredient> , le <ingredient action="mélanger"> jambon </ingredient> , le <ingredient action="mélanger" quantite="25 cl"> jus </ingredient> de tomate , la <ingredient action="mélanger" quantite="25 cl"> crème </ingredient> , l' <ingredient action="mélanger" quantite=""> origan </ingredient> et le <ingredient action="mélanger" quantite=""> basilic </ingredient> dans un saladier . <operation ingredients="pâte"> verser </operation> la préparation sur la <ingredient action="verser"> pâte </ingredient> à pizza . casser l' <ingredient> oeuf </ingredient> au milieu de la pizza . <operation action="plier" ingredients="plier"> plier </operation> la pizza en deux . <operation> cuire </operation> 30 minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

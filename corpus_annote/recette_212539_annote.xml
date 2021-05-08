@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212539">
+<titre>Tagliatelles au thon et au gorgonzola</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tagliatelles</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+<p>150 g à 200 g de gorgonzola (selon les goûts)</p>
+<p>200 g de thon</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . pendant la cuisson des <ingredient action="chauffer"> pâtes </ingredient> , faire <operation ingredients="pâtes;crème;gorgonzola"> chauffer </operation> la <ingredient action="chauffer" quantite="3 cuillère à soupe"> crème </ingredient> fraîche avec le <ingredient action="chauffer"> gorgonzola </ingredient> . une fois le <operation> mélange </operation> quasiment <operation> lisse </operation> , <operation ingredients="sel;poivre"> assaisonner </operation> avec le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> et <operation ingredients="thon"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> thon </ingredient> . <operation ingredients="pâtes"> égoutter </operation> les <ingredient action="égoutter"> pâtes </ingredient> et y <operation> ajouter </operation> la sauce . votre plat est prêt ! bonne dégustation ! ce plat fait le régal des grands comme des petits !
+</preparation>
+</recette>

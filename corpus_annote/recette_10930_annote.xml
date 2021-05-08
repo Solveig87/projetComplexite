@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10930">
+<titre>Sauté de poulet à l'ail des ours</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de poulet émincé</p>
+<p>20 feuilles d'ail des ours coupées en lamelles</p>
+<p>10 cuillères à soupe de sauce au soja </p>
+<p>5 cl à soupe de vin rouge</p>
+<p>1/2 cuillère à café de paprika</p>
+<p>2 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="poulet"> cuire </operation> le <ingredient action="cuire" quantite="400 gramme"> poulet </ingredient> dans une <operation> poêle </operation> à <operation ingredients="huile"> frire </operation> avec une goutte d' <ingredient action="frire"> huile </ingredient> . lorsqu' il n' est juste pas tout à fait cuit , l' <operation ingredients="soja"> arroser </operation> avec la sauce <ingredient action="arroser"> soja </ingredient> . attendre une minute . l' <operation ingredients="vin;sucre;paprika"> arroser </operation> avec le <ingredient action="arroser"> vin </ingredient> , puis le <ingredient action="arroser" quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient action="arroser"> paprika </ingredient> . laisser <operation> cuire </operation> une minute , puis <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter" quantite="20 feuille"> ail </ingredient> des ours juste avant de sortir l' émincé de la <operation> poêle </operation> . servir avec du <ingredient> riz </ingredient> . normalement , le liquide ne doit pas s' être totalement évaporé au moment de servir .
+</preparation>
+</recette>

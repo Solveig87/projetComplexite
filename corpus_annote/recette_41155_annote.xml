@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41155">
+<titre>Croque monsieur végétarien au seitan</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>4 tranches de seitan</p>
+<p>4 tranches de fromage pour croque monsieur (ou gruyère rapé)</p>
+<p>beurre</p>
+<p>poivre (facultatif)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> beurrer </operation> les tranche de <ingredient action="beurrer" quantite="8 tranche"> pain </ingredient> de mie sur une face , puis <operation ingredients="seitan;fromage;gruyère"> poser </operation> une tranche de <ingredient action="poser" quantite="4 tranche"> seitan </ingredient> et une tranche de <ingredient action="poser" quantite="4 tranche"> fromage </ingredient> ou le <ingredient action="poser"> gruyère </ingredient> râpé , et selon goût personnel <operation ingredients="poivre"> rajoute </operation> du <ingredient action="rajoute" quantite=""> poivre </ingredient> puis <operation ingredients="pain"> recouvrir </operation> avec les tranche de <ingredient action="recouvrir" quantite="8 tranche"> pain </ingredient> de mie restant . faire <operation> cuire </operation> <operation> cuire </operation> dans l' appareil à croque - monsieur .
+</preparation>
+</recette>

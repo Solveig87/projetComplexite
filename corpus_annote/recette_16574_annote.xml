@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16574">
+<titre>Crumble aux fruits</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pomme</p>
+<p>1 poire</p>
+<p>10 fraises</p>
+<p>10 spéculoos</p>
+<p>150 g de sucre</p>
+<p>110 g de beurre</p>
+<p>150 g de farine</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> préparer </operation> les <ingredient action="préparer" quantite="1;1;10"> fruits </ingredient> et les faire <operation ingredients="sucre"> macérer </operation> avec un peu de <ingredient action="macérer" quantite="150 gramme"> sucre </ingredient> et de l' alcool au choix si vous le désirez . broyer au maximum les <ingredient quantite="10"> spéculoos </ingredient> et y <operation ingredients="sucre"> incorporer </operation> le <ingredient action="incorporer" quantite="150 gramme"> sucre </ingredient> , la <ingredient action="ramollir" quantite="150 gramme"> farine </ingredient> et ensuite le <ingredient action="ramollir" quantite="110 gramme"> beurre </ingredient> <operation ingredients="farine;beurre"> ramolli </operation> . <operation> malaxer </operation> avec vos doigts pour obtenir une <ingredient> pâte </ingredient> granuleuse . <operation ingredients="fruits"> verser </operation> au dessus des <ingredient action="verser" quantite="1;1;10"> fruits </ingredient> cette pâte et <operation> enfourner </operation> exactement 25 mn à 180 <operation> ° </operation> c. se <ingredient> mange </ingredient> tiède ou froid le lendemain .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50397">
+<titre>Pizza royale à la bolognaise</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte à pizza</p>
+<p>1/2 pot de sauce bolognaise</p>
+<p>3 pommes de terre</p>
+<p>2 tranches de jambon</p>
+<p>1 petites boîte de champignons</p>
+<p>100 g de crevettes</p>
+<p>3 tomates</p>
+<p>100 g de gruyère</p>
+<p>30 g d'olives noires</p>
+<p>1 oeuf</p>
+<p>1 filet d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="3"> pommes </ingredient> de terre à la vapeur , puis les <operation> couper </operation> en rondelles . <operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> à pizza , sur une <operation> plaque </operation> allant au four , puis la <operation> tartiner </operation> de sauce bolognaise . <operation ingredients="pommes;tomates"> disposer </operation> les rondelles de <ingredient action="disposer" quantite="3"> pommes </ingredient> de terre par dessus , ainsi que les <ingredient action="disposer" quantite="3"> tomates </ingredient> <operation> coupées </operation> en rondelles . <operation> mettre </operation> ensuite tout le reste , en gardant l' <ingredient quantite="1"> oeuf </ingredient> pour la fin . <operation> placer </operation> au four à 210 <operation> ° </operation> c ( th 7 ) , pendant 25 à 30 min ; à surveiller . bon appétit ! réalisée le 13 / 08 / 06 par nos soins , avec tous les restes du frigo , et avec notre chef dada . on attend vos remarques ! <ingredient> sauterne </ingredient> ou jurancon
+</preparation>
+</recette>

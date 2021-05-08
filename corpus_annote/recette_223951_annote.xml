@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223951">
+<titre>Salade César au saumon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 salade verte croquante type romaine</p>
+<p>2 pavés de saumon</p>
+<p>8 tomates cerises</p>
+<p>250 g de fromage blanc</p>
+<p>3 gousses d'ail</p>
+<p>1/2 oignon rouge</p>
+<p>vinaigre de vin ou citron</p>
+<p>1 pincée de sel et de poivre</p>
+<p>1 pincée de ciboulette (fraîche ou surgelée)</p>
+<p>2 bonnes pincées d'estragon (frais ou surgelé)</p>
+<p>1/3 baguette</p>
+</ingredients>
+<preparation>
+pour le <ingredient action="faire"> saumon </ingredient> : <operation ingredients="saumon"> faites </operation> <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> à la poêle côté peau d' abord , quand la peau est bien doré , <operation ingredients="pavés"> retournez </operation> les <ingredient action="retourner" quantite="2"> pavés </ingredient> . laisser <operation> cuire </operation> environ 10 min . pour la <ingredient action="laver" quantite="1"> salade </ingredient> et l' <ingredient action="laver" quantite="3;;1 pincée;1 pincée"> assaisonnement </ingredient> : <operation ingredients="salade;assaisonnement;salade"> lavez </operation> et <operation> essorez </operation> la <ingredient action="laver" quantite="1"> salade </ingredient> et <operation> dressez </operation> - la dans les 2 assiettes , <operation> disposez </operation> - y également les <ingredient quantite="8"> tomates </ingredient> <operation> coupées </operation> en 2 ainsi que le 1 / 2 <ingredient quantite="1"> oignon </ingredient> en lamelles . <operation ingredients="fromage;vinaigre;citron;gousses;sel;poivre"> fouettez </operation> le <ingredient action="fouetter" quantite="250 gramme"> fromage </ingredient> blanc avec un peu de <ingredient action="fouetter" quantite=""> vinaigre </ingredient> ou de <ingredient action="fouetter"> citron </ingredient> , ainsi que 2 <ingredient action="fouetter" quantite="3"> gousses </ingredient> d' ail <operation> râpées </operation> ou <operation> pilé </operation> , le <ingredient action="fouetter" quantite="1 pincée"> sel </ingredient> , le <ingredient action="fouetter"> poivre </ingredient> et les herbes . <operation ingredients="salade"> assaisonnez </operation> la <ingredient action="assaisonner" quantite="1"> salade </ingredient> avec ce <operation> mélange </operation> . pour les <ingredient> croûtons </ingredient> : <operation ingredients="baguette"> coupez </operation> le morceau de <ingredient action="couper"> baguette </ingredient> en 2 et <operation> grillez </operation> au four . une fois bien doré , vous pouvez <operation ingredients="ail"> passez </operation> un peu d' <ingredient action="passer"> ail </ingredient> dessus , puis <operation> découpez </operation> chaque morceau en 2 et <operation ingredients="carrés"> faire </operation> des <ingredient action="faire"> carrés </ingredient> . au bout des 10 min de cuisson du <ingredient action="retirer"> saumon </ingredient> ( bien doré ) , <operation ingredients="saumon"> retirez </operation> la peau et <operation ingredients="saumon;croûtons;salade"> disposez </operation> des morceaux de <ingredient action="disposer"> saumon </ingredient> puis vos <ingredient action="disposer"> croûtons </ingredient> sur la <ingredient action="disposer" quantite="1"> salade </ingredient> . variantes : vous pouvez remplacer le <ingredient> saumon </ingredient> par des <ingredient> escalopes </ingredient> de poulet . vous pouvez prendre du <ingredient quantite="250 gramme"> fromage </ingredient> blanc allégé pour une recette moins calorique . peut se faire également comme entrée en <operation> divisant </operation> les <operation> doses </operation> par 2 .
+</preparation>
+</recette>

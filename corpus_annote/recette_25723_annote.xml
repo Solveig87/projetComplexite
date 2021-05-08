@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25723">
+<titre>Côtes de veau lard, oignon et champignon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 côtes de veau</p>
+<p>100 g de lard fumé</p>
+<p>10 oignons grelots</p>
+<p>100 g de champignons</p>
+<p>50 g de farine</p>
+<p>30 g de beurre</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>10 cl de vin blanc</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="viande"> fariner </operation> la <ingredient action="fariner" quantite="2"> viande </ingredient> . <operation> emincer </operation> les <ingredient quantite="100 gramme"> champignons </ingredient> . <operation ingredients="lard"> détailler </operation> le <ingredient action="détailler"> lard </ingredient> en lardons et les faire <operation ingredients="beurre;huile;oignons"> revenir </operation> dans le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> et l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> avec les <ingredient action="revenir" quantite="10"> oignons </ingredient> . lorsqu' ils sont dorés , les <operation> retirer </operation> de la <operation> poêle </operation> et <operation ingredients="côtes"> mettre </operation> les <ingredient action="mettre" quantite="2"> côtes </ingredient> de veau à la <operation> place </operation> . <operation ingredients="vin;lardons;oignons"> verser </operation> le <ingredient action="verser" quantite="10 cl"> vin </ingredient> , <operation> couvrir </operation> et laisser <operation> cuire </operation> 15 minutes avant d' <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> , les <ingredient action="verser"> lardons </ingredient> et les <ingredient action="verser" quantite="10"> oignons </ingredient> . poursuivre la cuisson 15 minutes et servir bien chaud .
+</preparation>
+</recette>

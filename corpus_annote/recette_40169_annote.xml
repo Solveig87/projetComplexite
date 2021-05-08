@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40169">
+<titre>Soupe à l'oseille de ma p'tite mamie</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 à 200 g d'oseille fraîche</p>
+<p>40 g de beurre</p>
+<p>3 cuillères à soupe bombées de farine</p>
+<p>1 l de lait</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oseille"> laver </operation> l' <ingredient action="laver"> oseille </ingredient> et la faire <operation> fondre </operation> avec une cuillère à soupe d' eau . <operation ingredients="beurre;farine;sel;poivre"> préparer </operation> un roux avec le <ingredient action="préparer" quantite="40 gramme"> beurre </ingredient> , la <ingredient action="préparer"> farine </ingredient> , le <ingredient action="préparer" quantite=""> sel </ingredient> et le <ingredient action="préparer" quantite=""> poivre </ingredient> . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="1 l"> lait </ingredient> sur le roux et <operation ingredients="béchamel"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> liquide ( elle doit adhérer à la cuillère ) . <operation ingredients="oseille"> incorporer </operation> l' <ingredient action="incorporer"> oseille </ingredient> <operation> fondue </operation> et <operation> passer </operation> au mixeur . servir chaud en entrée ou en plat principal .
+</preparation>
+</recette>

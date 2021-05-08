@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46857">
+<titre>Gigot à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 gigot d'agneau</p>
+<p>beurre</p>
+<p>10 cl de calvados</p>
+<p>2 cubes de bouillon de boeuf</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="gigot;beurre;sel"> mettre </operation> le <ingredient action="mettre" quantite="1"> gigot </ingredient> au four <operation> enduit </operation> de <ingredient action="mettre"> beurre </ingredient> , de <ingredient action="mettre"> sel </ingredient> et poivre . prévoir 15 min par livre . faire <operation ingredients="gigot"> dorer </operation> le <ingredient action="dorer" quantite="1"> gigot </ingredient> et <operation> arroser </operation> de temps à autre . quand il est doré , <operation> diluer </operation> les cubes dans de l' eau , <operation ingredients="calvados"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> calvados </ingredient> au bouillon et <operation ingredients="gigot"> verser </operation> le tout sur le <ingredient action="verser" quantite="1"> gigot </ingredient> . finir la cuisson puis <operation ingredients="crème"> ajouter </operation> à la sauce la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraîche ( on peut <operation ingredients="maïzena"> ajouter </operation> un de <ingredient action="ajouter"> maïzena </ingredient> pour avoir une sauce onctueuse ) . servir avec des croquettes de <ingredient> pomme </ingredient> de terre et des <ingredient> haricots </ingredient> . garder la <ingredient quantite="1"> viande </ingredient> au chaud car elle refroidit rapidement ! saint-emilon
+</preparation>
+</recette>

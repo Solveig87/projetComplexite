@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54923">
+<titre>Paëlla au poulet</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes ou blancs de poulet</p>
+<p>1 petite boîte de petits pois</p>
+<p>1 sachet de riz (environ 200 g)</p>
+<p>1 capsule de safran</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 oignon</p>
+<p>huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper"> poulet </ingredient> en petits morceaux et le faire <operation ingredients="huile;oignon"> dorer </operation> dans l' <ingredient action="dorer" quantite=""> huile </ingredient> d' olive avec l' <ingredient action="dorer" quantite="1"> oignon </ingredient> <operation> coupé </operation> en lamelles . <operation> laver </operation> , <operation> épépiner </operation> et <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en lanières et les <operation> ajouter </operation> à la préparation . lorsque les <ingredient> poivrons </ingredient> commencent à <operation> ramollir </operation> , <operation ingredients="riz;safran"> ajouter </operation> le contenu d' un sachet de <ingredient action="ajouter"> riz </ingredient> , puis la capsule de <ingredient action="ajouter"> safran </ingredient> . bien <operation> mélanger </operation> et <operation> recouvrir </operation> avec de l' eau . <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> cuire </operation> à feu très doux pendant une trentaine de minutes ( <operation> rajouter </operation> de l' eau en cours de cuisson si la préparation se déssèche trop vite ) . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> 5 minutes environ avant la fin de la cuisson .
+</preparation>
+</recette>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86674">
+<titre>Risotto au chorizo de Josiane</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chorizo- 2 cuillères à soupe d'huile- 1 courgette- 1 oignon- 2 carottes- 1 poivron- 1 tomate- 250 g de riz long- 75 cl de litre de bouillon- sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chorizo"> dorer </operation> le <ingredient action="dorer" quantite="1"> chorizo </ingredient> dans une sauteuse , en ayant préalablement <operation> enlevé </operation> la peau . le <operation> retirer </operation> de la sauteuse puis faire <operation ingredients="légumes;tomate"> revenir </operation> vivement les autres <ingredient action="revenir" quantite="1;2;1;1"> légumes </ingredient> , la <ingredient action="revenir" quantite="1"> tomate </ingredient> <operation> mise </operation> en dernier . <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> riz </ingredient> , le faire <operation> revenir </operation> à son tour , jusqu' à ce qu' il devienne opaque . <operation ingredients="chorizo"> remettre </operation> le <ingredient action="remettre" quantite="1"> chorizo </ingredient> , <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter"> bouillon </ingredient> chaud petit à petit . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite="2 cuillère à soupe;"> assaisonnement </ingredient> . faites partir l' <operation> ébullition </operation> . laissez <operation> cuire </operation> 20 min à feu doux . tout le <ingredient> bouillon </ingredient> doit être absorbé .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33063">
+<titre>Délice d'avocat au roquefort</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 avocat</p>
+<p>4 tranches de bacon</p>
+<p>100 g de roquefort</p>
+<p>25 cl de crème fraîche</p>
+<p>1 tomate en quartiers</p>
+<p>du lait</p>
+</ingredients>
+<preparation>
+<operation> préparez </operation> la sauce à l' avance : <operation ingredients="fromage"> mettez </operation> le <ingredient action="mettre"> fromage </ingredient> à <operation> fondre </operation> dans une casserole avec une cuillère à café d' eau . une fois <operation> fondu </operation> <operation ingredients="crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche , laissez <operation> réduire </operation> et refroidir . <operation ingredients="bacon;bacon"> disposez </operation> 2 tranches de <ingredient action="disposer" quantite="4 tranche"> bacon </ingredient> sur chaque assiette , <operation ingredients="avocat"> découpez </operation> l' <ingredient action="découper" quantite="1"> avocat </ingredient> en tranches fines , les <operation> disposez </operation> sur le <ingredient action="disposer" quantite="4 tranche"> bacon </ingredient> . <operation ingredients="lait"> rectifiez </operation> la sauce avec le <ingredient action="rectifier" quantite=""> lait </ingredient> afin de la rendre moins épaisse et en <operation ingredients="avocat"> arrosez </operation> l' <ingredient action="arroser" quantite="1"> avocat </ingredient> .
+</preparation>
+</recette>

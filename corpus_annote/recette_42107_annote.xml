@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42107">
+<titre>Brownies glaçage Mars</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 plaques de chocolat au lait aux noisettes (6 x 100 g)</p>
+<p>250 g de beurre</p>
+<p>8 cuillères à soupe de sucre</p>
+<p>4 oeufs</p>
+<p>6 cuillères à soupe de farine</p>
+<p>Pour le glaçage :</p>
+<p>25 g de beurre</p>
+<p>2 barres chocolatées type Mars</p>
+<p>2 cuillères à soupe de lait</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="250 gramme+25 gramme"> beurre </ingredient> et le <ingredient action="fondre"> chocolat </ingredient> , <operation> mélanger </operation> . <operation ingredients="sucre;oeufs;farine"> ajouter </operation> le <ingredient action="ajouter" quantite="8 cuillère à soupe"> sucre </ingredient> , les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> <operation> battus </operation> et la <ingredient action="ajouter" quantite="6 cuillère à soupe"> farine </ingredient> . <operation> verser </operation> dans une <operation> plaque </operation> à four d' environ 30 x 35 cm . <operation> mettre </operation> au four préchauffé à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 25 minutes ( chaleur tournante ) . <operation> préparer </operation> le glaçage : <operation ingredients="mars"> couper </operation> les <ingredient action="couper"> mars </ingredient> en petits morceaux , <operation ingredients="beurre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme+25 gramme"> beurre </ingredient> et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> , faire <operation> fondre </operation> tout doucement . <operation> etaler </operation> à la spatule sur le brownie , laisser refroidir avant de <operation> découper </operation> . un tout petit peu calorique . . . mais tellement bon !
+</preparation>
+</recette>

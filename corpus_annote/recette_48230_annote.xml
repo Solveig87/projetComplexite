@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48230">
+<titre>Lasagnes aux oeufs, chèvre et petits pois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de lasagnes</p>
+<p>5 oeufs</p>
+<p>1 boîte de petits pois</p>
+<p>2 bûches de chèvre</p>
+<p>1 boîte de tomate en morceaux</p>
+<p>sel et poivre</p>
+<p>2 gros oignons</p>
+<p>3 têtes d'ail</p>
+<p>herbes de Provence</p>
+<p>150 g de gruyère ou parmesan (selon les goûts) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="5"> oeufs </ingredient> dans une eau <operation> portée </operation> à <operation> ébullition </operation> pendant 10 min . les écaler et les <operation> couper </operation> en rondelles . pour la sauce à la <ingredient> tomate </ingredient> et aux petits <ingredient> pois </ingredient> : <operation ingredients="tomates"> mixer </operation> les <ingredient action="mixer"> tomates </ingredient> . faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> dans une <operation> poêle </operation> puis les <operation ingredients="tomates"> mixer </operation> avec les <ingredient action="mixer"> tomates </ingredient> . <operation> ajouter </operation> les herbes de provence et laisser <operation> mijoter </operation> le tout dans une casserole en assaisonnant à votre convenance . quand la sauce est presque prête , <operation ingredients="ail"> écraser </operation> l' <ingredient action="écraser"> ail </ingredient> et l' <operation> incorporer </operation> à la sauce . <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> et laisser <operation> cuire </operation> le tout pendant 5 min . pour les lasagnes : <operation ingredients="tomate;pois;oeufs;chèvre"> déposer </operation> dans le fond d' un plat une première couche de lasagnes puis une couche de sauce à la <ingredient action="déposer"> tomate </ingredient> et aux petits <ingredient action="déposer"> pois </ingredient> , une couche de rondelles d' <ingredient action="déposer" quantite="5"> oeufs </ingredient> et une couche de rondelles de <ingredient action="déposer"> chèvre </ingredient> . recommencer cette alternance jusqu' au bord du plat . <operation ingredients="gruyère;parmesan"> parsemer </operation> enfin le dessus de <ingredient action="parsemer" quantite="150 gramme"> gruyère </ingredient> ou de <ingredient action="parsemer"> parmesan </ingredient> . <operation> mettre </operation> le plat au four pendant 20 min à 220 <operation> ° </operation> c ( thermostat . 8) . servir . et voilà un petit air de sicile sur votre table . . . un <ingredient> vin </ingredient> rouge italien
+</preparation>
+</recette>

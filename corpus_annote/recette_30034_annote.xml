@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30034">
+<titre>Tarte banane et nutella</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>1 pâte brisée</p>
+<p>du nutella (au moins 6 bonnes cuillères à soupe)</p>
+<p>3 oeufs</p>
+<p>2 sachets de sucre vanillé</p>
+<p>100 g de sucre</p>
+<p>1/2 verre de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="nutella;pâte"> etaler </operation> le <ingredient action="etaler" quantite=""> nutella </ingredient> sur la <ingredient action="etaler" quantite="1"> pâte </ingredient> <operation> brisée </operation> et <operation ingredients="pâte"> placer </operation> ensuite la <ingredient action="placer" quantite="1"> pâte </ingredient> dans le <operation> moule </operation> ( si vous préférez , vous pouvez faire l' inverse en <operation ingredients="pâte"> plaçant </operation> d' abord la <ingredient action="placer" quantite="1"> pâte </ingredient> dans le <operation> moule </operation> , puis en éalant le <ingredient quantite=""> nutella </ingredient> . <operation ingredients="bananes"> couper </operation> les <ingredient action="couper" quantite="4"> bananes </ingredient> en rondelles et les <operation ingredients="nutella"> disposer </operation> sur le <ingredient action="disposer" quantite=""> nutella </ingredient> . <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> en omelette , y <operation ingredients="sucre;sucre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> , le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> vanillé et le <ingredient action="ajouter"> lait </ingredient> et <operation ingredients="bananes"> verser </operation> le tout sur les <ingredient action="verser" quantite="4"> bananes </ingredient> . <operation> enfourner </operation> 30 mn à thermostat 6 ( 180 <operation> ° </operation> c ) .
+</preparation>
+</recette>

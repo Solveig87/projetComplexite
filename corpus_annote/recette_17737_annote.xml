@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17737">
+<titre>Tarte Flambée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une pâte à pizza</p>
+<p>1 barquette de lardons</p>
+<p>un oignon</p>
+<p>1 pomme de terre (cuite à l'eau) </p>
+<p>2 cuillères à soupe de fromage blanc</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>du gruyère râpé (ou fromage à raclette...) </p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> à pizza sur une <operation> plaque </operation> . allumer le four th 8 faire <operation ingredients="lardons;oignon"> revenir </operation> à la <operation> poêle </operation> les <ingredient action="revenir"> lardons </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> séparément jusqu' à ce qu' ils <operation> dorent </operation> légèrement . <operation ingredients="crème;fromage"> mélanger </operation> dans un saladier la <ingredient action="mélanger" quantite="2 cuillère à soupe"> crème </ingredient> fraîche et le <ingredient action="mélanger" quantite="2 cuillère à soupe"> fromage </ingredient> blanc , <operation ingredients="sel"> ajouter </operation> <ingredient action="ajouter"> sel </ingredient> , poivre et muscade . <operation ingredients="pâte"> napper </operation> la <ingredient action="napper" quantite="1"> pâte </ingredient> de cette préparation . <operation ingredients="oignon;lardons;pomme;fromage"> répartissez </operation> uniformément l' <ingredient action="répartir" quantite="1"> oignon </ingredient> , les <ingredient action="répartir"> lardons </ingredient> , la <ingredient action="répartir" quantite="1"> pomme </ingredient> de terre <operation> coupée </operation> en morceaux et le <ingredient action="répartir" quantite="2 cuillère à soupe"> fromage </ingredient> . <operation> mettre </operation> à four chaud 20 à 30 mn .
+</preparation>
+</recette>

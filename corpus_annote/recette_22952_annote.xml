@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22952">
+<titre>Tranches de viande cuites marinées</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>8 tranches de viande cuite</p>
+<p>2 oignons</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe bombée de fines herbes hachées (persil, cerfeuil, sauge, romarin et/ou basilic)</p>
+<p>1 cuillère à soupe de vinaigre de vin</p>
+<p>15 cl de vin blanc</p>
+<p>1 cuillère à café de sucre</p>
+<p>2 gousses d'ail écrasées</p>
+<p>15 cl de bouillon</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> hachez </operation> les <ingredient action="hacher" quantite="2"> oignons </ingredient> et faites - les <operation ingredients="oignons;huile"> blondir </operation> <ingredient action="blondir" quantite="2"> oignons </ingredient> <operation> hachés </operation> dans l' <ingredient action="blondir" quantite="3 cuillère à soupe"> huile </ingredient> . puis <operation ingredients="ail;sucre;vin;vinaigre"> ajoutez </operation> les herbes , l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à café"> sucre </ingredient> , le <ingredient action="ajouter" quantite="15 cl"> vin </ingredient> blanc et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> . laissez <operation> réduire </operation> jusqu' à ce que le <operation> mélange </operation> ait la consistance d' un <ingredient> sirop </ingredient> . <operation ingredients="bouillon"> mouillez </operation> avec le <ingredient action="mouiller" quantite="15 cl"> bouillon </ingredient> et laissez <operation> mijoter </operation> 5 minutes . <operation ingredients="viande"> réchauffez </operation> la <ingredient action="réchauffer" quantite="8 tranche"> viande </ingredient> et <operation> déposez </operation> - la dans un plat creux . <operation> arrosez </operation> de la sauce . laissez <operation> mariner </operation> pendant 12 heures . <operation> egouttez </operation> et servir avec des <ingredient> cornichons </ingredient> , des <ingredient> olives </ingredient> et autres <ingredient> pickles </ingredient> conservés au <ingredient quantite="1 cuillère à soupe"> vinaigre </ingredient> .
+</preparation>
+</recette>

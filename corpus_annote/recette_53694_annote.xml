@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53694">
+<titre>Pain perdu salé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 grosse baguette</p>
+<p>1 oeuf</p>
+<p>1 grand verre de lait</p>
+<p>1 grosse carotte</p>
+<p>3 belles tomates</p>
+<p>2 boîtes de sardines (4 sardines)</p>
+<p>sel, poivre, fines herbes</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> les quatre rondelles de <ingredient action="couper"> pain </ingredient> ( épaisseur 1 cm . ) <operation ingredients="carotte"> eplucher </operation> et <operation> râper </operation> la <ingredient action="eplucher" quantite="1"> carotte </ingredient> , puis <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="3"> tomates </ingredient> en rondelles . <operation ingredients="lait;oeuf;condiments"> préparer </operation> le <ingredient action="préparer"> lait </ingredient> , l' <ingredient action="préparer" quantite="1"> oeuf </ingredient> et les <ingredient action="préparer" quantite=";"> condiments </ingredient> dans un petit saladier pour <operation ingredients="pain"> imbiber </operation> les tranches de <ingredient action="imbiber"> pain </ingredient> . faire <operation ingredients="pain"> chauffer </operation> le <ingredient action="chauffer"> pain </ingredient> perdu dans une <operation> poêle </operation> . <operation ingredients="carottes;tomates;sardine"> disposer </operation> des <ingredient action="disposer" quantite="1"> carottes </ingredient> , de la <ingredient action="disposer" quantite="3"> tomates </ingredient> et la <ingredient action="disposer"> sardine </ingredient> sur chaque tranche . <operation ingredients="mayonnaise"> préparer </operation> une petite <ingredient action="préparer"> mayonnaise </ingredient> maison pour compléter cette entrée . prévoyer un repas ensuite léger , ou bien déguster cette recette au dîner .
+</preparation>
+</recette>

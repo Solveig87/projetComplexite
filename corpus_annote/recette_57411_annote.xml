@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57411">
+<titre>Cuisse de poulet farcie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses de poulet</p>
+<p>épices mexicaines</p>
+<p>gruyère</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> désosser </operation> les cuisses de <ingredient action="désosser"> poulet </ingredient> . <operation> enlever </operation> la peau , <operation> dégraisser </operation> un peu . les étaler sur le plan de travail et les <operation ingredients="épices;gruyère"> garnir </operation> avec les <ingredient action="garnir" quantite=""> épices </ingredient> , et un morceaux de <ingredient action="garnir" quantite=""> gruyère </ingredient> . les <operation> refermer </operation> , et <operation> couvrir </operation> avec la peau du côté ouvert comme de la crépine . <operation> saler </operation> , <operation> poivrer </operation> , <operation> enfourner </operation> avec un fond d' eau pendant 45 mn . a déguster chaud ou froid .
+</preparation>
+</recette>

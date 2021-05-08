@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35146">
+<titre>Salade de pommes de terre au concombre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>900 g de pommes de terre</p>
+<p>500 g de concombre</p>
+<p>5 cl de crème fraîche</p>
+<p>persil hachéPour la vinaigrette :</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel et poivre</p>
+<p>3 cuillères à soupe de vinaigre</p>
+<p>6 cuillères à soupe d'huile</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> , <operation> enlever </operation> les grains et <operation ingredients="concombre"> couper </operation> en rondelles le <ingredient action="couper" quantite="500 gramme"> concombre </ingredient> . <operation> cuire </operation> , <operation> peler </operation> et <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="900 gramme"> pommes </ingredient> de terre . <operation ingredients="concombre;pommes"> mettre </operation> le <ingredient action="mettre" quantite="500 gramme"> concombre </ingredient> et les <ingredient action="mettre" quantite="900 gramme"> pommes </ingredient> de terre dans un saladier . <operation> préparer </operation> la vinaigrette dans l' ordre des ingrédients . y <operation ingredients="crème;persil"> ajouter </operation> la <ingredient action="ajouter" quantite="5 cl"> crème </ingredient> fraîche et un peu de <ingredient action="ajouter" quantite=""> persil </ingredient> haché . <operation ingredients="légumes"> verser </operation> sur les <ingredient action="verser" quantite="900 gramme;500 gramme;5 cl"> légumes </ingredient> . <operation ingredients="persil"> saupoudrer </operation> du reste de <ingredient action="saupoudrer" quantite=""> persil </ingredient> <operation> haché </operation> et servir .
+</preparation>
+</recette>

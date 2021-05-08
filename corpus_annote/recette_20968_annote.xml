@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20968">
+<titre>Mousse au café</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 g de sucre en poudre</p>
+<p>1 cuillère à soupe d'extrait de café</p>
+<p>3 oeufs</p>
+<p>15 cl de crème fraîche liquide entière</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre"> fouettez </operation> les jaunes d' <ingredient action="fouetter" quantite="3"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="60 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="crème"> versez </operation> la <ingredient action="verser" quantite="15 cl"> crème </ingredient> fraîche , <operation> portez </operation> sur le feu et faites <operation> cuire </operation> doucement sans faire <operation> bouillir </operation> . quand la <ingredient action="retirer" quantite="15 cl"> crème </ingredient> a bien épaissi , <operation ingredients="crème"> retirez </operation> du feu et <operation> mettez </operation> - la dans un saladier . <operation ingredients="café"> versez </operation> y l' extrait de <ingredient action="verser"> café </ingredient> et <operation> fouettez </operation> . <operation> battez </operation> les blancs en neige pour qu' ils soient très ferme et <operation ingredients="crème"> mélangez </operation> - les doucement à la <ingredient action="mélanger" quantite="15 cl"> crème </ingredient> . <operation> réfrigérer </operation> le <operation> mélange </operation> pendant 4 h dans un grand récipient ou <operation> partagé </operation> dans des <operation> coupes </operation> individuelles .
+</preparation>
+</recette>

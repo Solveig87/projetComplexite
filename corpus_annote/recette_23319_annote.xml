@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23319">
+<titre>Salade sucrée-salée au curry</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tomates</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 citron jaune</p>
+<p>2 cuillères à soupe de fines herbes hachées</p>
+<p>50 g de raisins secs</p>
+<p>1 pomme</p>
+<p>20 cerneaux de noix</p>
+<p>1 branche de céleri</p>
+<p>1 tranche épaisse de jambon ou 1 reste de poulet</p>
+<p>15 cl de mayonnaise au citron</p>
+<p>1/2 cuillère à café de curry</p>
+<p>1 laitue</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="raisins"> gonflez </operation> les <ingredient action="gonfler" quantite="50 gramme"> raisins </ingredient> dans un peu d' eau tiède . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en quartiers et laissez - les <operation> mariner </operation> 1 heure <operation ingredients="huile;jus;sel;poivre"> arrosées </operation> d' <ingredient action="arroser" quantite="3 cuillère à soupe"> huile </ingredient> d' olive , de <ingredient action="arroser"> jus </ingredient> de citron , des fines herbes , de <ingredient action="arroser" quantite=""> sel </ingredient> et de <ingredient action="arroser"> poivre </ingredient> . <operation ingredients="raisins;noix;céleri;jambon"> mélangez </operation> les <ingredient action="mélanger" quantite="50 gramme"> raisins </ingredient> <operation ingredients="pomme"> égouttés </operation> , la <ingredient action="égoutter" quantite="1"> pomme </ingredient> <operation> coupée </operation> en dés , les <ingredient action="mélanger"> noix </ingredient> <operation> concassées </operation> , le <ingredient action="mélanger"> céleri </ingredient> émincé et le <ingredient action="mélanger"> jambon </ingredient> <operation> détaillé </operation> en morceaux . <operation ingredients="mayonnaise"> incorporez </operation> la <ingredient action="incorporer" quantite="15 cl"> mayonnaise </ingredient> au citron parfumée avec le <ingredient> curry </ingredient> et <operation> mélangez </operation> . <operation ingredients="laitue"> répartissez </operation> la préparation sur les feuilles de <ingredient action="répartir" quantite="1"> laitue </ingredient> et <operation ingredients="tomates"> disposez </operation> les <ingredient action="disposer" quantite="4"> tomates </ingredient> tout autour .
+</preparation>
+</recette>

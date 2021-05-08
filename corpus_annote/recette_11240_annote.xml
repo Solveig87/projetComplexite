@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11240">
+<titre>Poulet au citron vert</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de blancs de poulet émincés</p>
+<p>4 citrons verts</p>
+<p>vin blanc</p>
+<p>sel, poivre</p>
+<p>gingembre en poudre</p>
+<p>coriandre (et autres épices chinoises en poudre)</p>
+<p>crème épaisse pour sauces (ou demi-crème-25%).</p>
+</ingredients>
+<preparation>
+<operation> râper </operation> le zeste et <operation ingredients="jus"> presser </operation> le <ingredient action="presser"> jus </ingredient> des citron verts . faire <operation ingredients="poulet"> dorer </operation> l' émincé de <ingredient action="dorer"> poulet </ingredient> une dizaine de minutes . le <operation ingredients="sel"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sel </ingredient> , poivre , gingembre et épices . laisser <operation> dorer </operation> un petit peu plus et baisser le feu . <operation ingredients="vin"> glacer </operation> le tout au <ingredient action="glacer" quantite=""> vin </ingredient> blanc et laisser évaporer . <operation ingredients="jus"> verser </operation> le <ingredient action="verser"> jus </ingredient> des citrons verts et laisser évaporer un peu . quand c' est bien chaud , <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite=""> crème </ingredient> et laisser <operation> chauffer </operation> . juste avant de servir , <operation ingredients="citron"> saupoudrer </operation> du zeste de <ingredient action="saupoudrer" quantite="4"> citron </ingredient> vert pour faire ressortir le goût . servir avec du <ingredient> riz </ingredient> ( basmati par exemple ) . il paraît qu' il ne faut absolument pas essayer avec des <ingredient quantite="4"> citrons </ingredient> jaunes : ce n' est pas bon !
+</preparation>
+</recette>

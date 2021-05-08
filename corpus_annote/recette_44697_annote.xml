@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44697">
+<titre>Pudding étonnant</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 moule à savarin (ou autre)</p>
+<p>170 g de farine</p>
+<p>3 carottes</p>
+<p>120 g de beurre </p>
+<p>300 g de sucre </p>
+<p>100 g de raisins sec </p>
+<p>3 oranges</p>
+<p>1 demi paquet de levure</p>
+<p>3 oeuf </p>
+<p>1 cuillère de rhum </p>
+<p>1 pincée de sel </p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;oeuf;beurre"> mélanger </operation> ensemble : <ingredient action="mélanger" quantite="300 gramme"> sucre </ingredient> , jus d' orange , 3 jaunes d' <ingredient action="mélanger" quantite="3"> oeuf </ingredient> , et le <ingredient action="mélanger" quantite="120 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="carottes"> incorporer </operation> les <ingredient action="incorporer" quantite="3"> carottes </ingredient> <operation> râpées </operation> . et <operation ingredients="oranges;rhum;levure;sel;farine"> ajouter </operation> le zeste de 2 <ingredient action="ajouter" quantite="3"> oranges </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère"> rhum </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , et la <ingredient action="ajouter" quantite="170 gramme"> farine </ingredient> . <operation> battre </operation> les blancs en neige , et les <operation> incorporer </operation> doucement à la préparation . pour les gourmands , lnapper le <ingredient> pudding </ingredient> de chocolat noir <operation> fondu </operation> . . . c' est étonnant mais savoureux !
+</preparation>
+</recette>

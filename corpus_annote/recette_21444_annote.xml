@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21444">
+<titre>Krikwy</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie</p>
+<p>1 noix de beurre</p>
+<p>1 cuillère à soupe de compote de pommes</p>
+<p>1 cuillère à café de sucre en poudre</p>
+</ingredients>
+<preparation>
+commencez par <operation ingredients="pain"> beurrer </operation> les tranches de <ingredient action="beurrer" quantite="2 tranche"> pain </ingredient> de mie sur un côté . faites <operation> chauffer </operation> votre appareil à croque monsieur . <operation ingredients="pain;beurre"> posez </operation> une tranche de <ingredient action="poser" quantite="2 tranche"> pain </ingredient> de mie côté <ingredient action="poser"> beurre </ingredient> sur l' appareil , puis une bonne cuillère à soupe de compote de pommes , et <operation ingredients="pain;beurre"> recouvrez </operation> d' une tranche de <ingredient action="recouvrir" quantite="2 tranche"> pain </ingredient> de mie , côté <ingredient action="recouvrir"> beurre </ingredient> vers le haut . <operation> refermez </operation> l' appareil et laisser <operation> cuire </operation> 2 mn environ . <operation> ouvrez </operation> alors l' appareil , soulever le croque , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 cuillère à café"> sucre </ingredient> en <operation> poudre </operation> sur la <operation> plaque </operation> , <operation> reposer </operation> le krikwy puis faire de même sur le dessus . <operation> refermer </operation> l' appareil et laisser caraméliser 1 mn environ . <operation> retirer </operation> les croques et les déguster tièdes . personnellement , je les <operation ingredients="compote"> confectionne </operation> avec de la <ingredient action="confectionne" quantite="1 cuillère à soupe"> compote </ingredient> de pomme maison , aromatisée de <ingredient> cannelle </ingredient> . c' est succulent ! ! ! ! un appareil à croque - monsieur est indispensable
+</preparation>
+</recette>

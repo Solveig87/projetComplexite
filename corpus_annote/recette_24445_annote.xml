@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24445">
+<titre>Fromage blanc aux poires, oranges et miel</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de fromage blanc</p>
+<p>2 belles poires mûres</p>
+<p>2 belles oranges mûres</p>
+<p>quelques feuilles de menthe fraîche</p>
+<p>4 cuillères à soupe de miel liquide</p>
+</ingredients>
+<preparation>
+<operation ingredients="fromage"> répartir </operation> le <ingredient action="répartir" quantite="300 gramme"> fromage </ingredient> blanc dans des <operation> coupes </operation> . <operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="2"> poires </ingredient> et les <operation> couper </operation> en fines tranches . <operation ingredients="oranges;couteau"> peler </operation> les <ingredient action="peler" quantite="2"> oranges </ingredient> à vif avec un <ingredient action="peler"> couteau </ingredient> puis <operation ingredients="orange"> détacher </operation> les quartiers d' <ingredient action="détacher" quantite="2"> orange </ingredient> . <operation ingredients="fruits;fromage"> disposer </operation> les <ingredient action="disposer" quantite="2;2"> fruits </ingredient> sur le <ingredient action="disposer" quantite="300 gramme"> fromage </ingredient> blanc , <operation ingredients="miel"> napper </operation> de <ingredient action="napper" quantite="4 cuillère à soupe"> miel </ingredient> et <operation ingredients="menthe"> décorer </operation> de feuilles de <ingredient action="décorer" quantite="quelque feuille"> menthe </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28676">
+<titre>Navarin de dinde en cocotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de morceaux de dinde</p>
+<p>100 g de lardons (facultatif)</p>
+<p>100 g de beurre</p>
+<p>500 g de carottes</p>
+<p>500 g de navets</p>
+<p>1 bouquet garni</p>
+<p>50 cl de bouillon de viande</p>
+<p>20 cl de crème fraîche ou de béchamel (facultatif)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;navets"> peler </operation> les <ingredient action="peler" quantite="500 gramme"> carottes </ingredient> et les <ingredient action="peler" quantite="500 gramme"> navets </ingredient> , puis les <operation> détailler </operation> en cubes ou en rondelles . dans une cocotte , faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="100 gramme"> beurre </ingredient> , puis y <operation ingredients="lardons;dinde"> mettre </operation> les <ingredient action="mettre" quantite="100 gramme"> lardons </ingredient> et les morceaux de <ingredient action="mettre"> dinde </ingredient> à <operation> dorer </operation> sur feu vif en <operation ingredients="viandes"> remuant </operation> , pour que les morceaux de <ingredient action="remuer" quantite="100 gramme"> viandes </ingredient> soient dorés de tout côté . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser" quantite="50 cl"> bouillon </ingredient> de viande dans la cocotte ( on peut y <operation ingredients="crème;béchamel"> ajouter </operation> 1 brique de <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> ou de <ingredient action="ajouter"> béchamel </ingredient> pour avoir une sauce plus onctueuse ) . <operation ingredients="carottes;navets"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="500 gramme"> carottes </ingredient> et les <ingredient action="ajouter" quantite="500 gramme"> navets </ingredient> ; <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> cuire </operation> 1 h à <operation> couvert </operation> . après 1 h de cuisson , <operation> retirer </operation> le couvercle , puis <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et poursuivre la cuisson pendant 20 min . servir bien chaud .
+</preparation>
+</recette>

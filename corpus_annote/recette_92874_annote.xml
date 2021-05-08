@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92874">
+<titre>Poulet teriyaki</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de blancs de poulet</p>
+<p>15 cl de saké</p>
+<p>15 cl de sauce soja</p>
+<p>15 cl de mirin (vinaigre japonais)</p>
+<p>1 bonne racine de gingembre frais</p>
+<p>1 cuillères à café de sauce soja</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>poivre et sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="gingembre"> râpez </operation> le <ingredient action="râper"> gingembre </ingredient> et récupérer le <ingredient> jus </ingredient> obtenu . vous devez en obtenir 2 cuillères à café . <operation ingredients="jus;soja"> mélangez </operation> dans un saladier le <ingredient action="mélanger"> jus </ingredient> de gingembre , le saké , la sauce <ingredient action="mélanger"> soja </ingredient> ainsi que le mirin . <operation ingredients="poulet"> coupez </operation> votre <ingredient action="couper"> poulet </ingredient> en fines tranches et <operation> mettez </operation> - le à <operation> mariner </operation> dans le <operation> mélange </operation> précédemment obtenu pendant 20 bonnes min au réfrigérateur . veillez à <operation> mélanger </operation> de temps en temps la marinade . dans une sauteuse , faites <operation ingredients="poulet"> cuire </operation> le <ingredient action="cuire"> poulet </ingredient> pendant . 10 min en <operation> couvrant </operation> à feu doux . la <ingredient> viande </ingredient> doit être bien dorée . <operation ingredients="viande"> réservez </operation> la <ingredient action="réserver"> viande </ingredient> . faites <operation> réduire </operation> de moitié la marinade à feu moyen . <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre"> viande </ingredient> dans la sauteuse . servez <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

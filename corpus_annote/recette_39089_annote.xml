@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39089">
+<titre>Flan de saumon à l'aneth</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de filet de saumon</p>
+<p>1 oeuf entier</p>
+<p>2 jaunes d'oeuf</p>
+<p>100 g de crème fraîche</p>
+<p>100 g de beurre</p>
+<p>1 cuillère à café de jus de citron</p>
+<p>2 cuillères à café d'aneth ciselée</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+pour les flans : <operation ingredients="saumon;crème"> mixer </operation> le <ingredient action="mixer"> saumon </ingredient> <operation ingredients="oeuf"> coupé </operation> en morceau avec l' <ingredient action="couper" quantite="1"> oeuf </ingredient> et la <ingredient action="mixer" quantite="100 gramme"> crème </ingredient> jusqu' à obtenir une purée <operation> lisse </operation> . <operation> saler </operation> et <operation> poivrer </operation> , <operation> ajouter </operation> une bonne cuillère à café d' aneth . <operation> répartir </operation> dans des petits ramequins beurrés . faire <operation> cuire </operation> au bain - marie au four à 150 <operation> ° </operation> c. pour la sauce : <operation ingredients="oeuf"> mélanger </operation> les jaunes d' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> avec une cuillère à soupe d' eau dans un bol . faire <operation> épaissir </operation> au bain - marie en <operation> remuant </operation> , <operation ingredients="beurre"> verser </operation> le <ingredient action="verser" quantite="100 gramme"> beurre </ingredient> <operation> fondu </operation> sans cesser de <operation> fouetter </operation> . <operation ingredients="jus;aneth"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> jus </ingredient> de citron , le reste d' <ingredient action="ajouter"> aneth </ingredient> , sel , poivre . <operation> démouler </operation> les flans sur assiette et <operation> entourer </operation> de sauce . cette entrée peut se servir chaude ou tiède .
+</preparation>
+</recette>

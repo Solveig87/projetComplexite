@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27445">
+<titre>Glace au miel et au lait</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>17 cl de lait </p>
+<p>33 g de miel liquide</p>
+<p>50 g de sucre en poudre </p>
+<p>2 jaunes d'oeufs </p>
+<p>10 cl de crème fraîche </p>
+</ingredients>
+<preparation>
+dans une casserole , <operation ingredients="lait;miel;sucre"> porter </operation> à <operation> ébullition </operation> le <ingredient action="porter" quantite="17 cl"> lait </ingredient> , le <ingredient action="porter" quantite="33 gramme"> miel </ingredient> et 25 g de <ingredient action="porter" quantite="50 gramme"> sucre </ingredient> , et laisser <operation> reposer </operation> 10 minutes . <operation ingredients="oeuf;sucre"> battre </operation> les jaunes d' <ingredient action="battre"> oeuf </ingredient> avec 25 g de <ingredient action="battre" quantite="50 gramme"> sucre </ingredient> . <operation ingredients="lait"> réchauffer </operation> le <ingredient action="réchauffer" quantite="17 cl"> lait </ingredient> et en <operation ingredients="oeufs"> verser </operation> un peu sur les <ingredient action="verser"> oeufs </ingredient> . <operation> mélanger </operation> vigoureusement et <operation ingredients="lait"> ajouter </operation> la préparation au <ingredient action="ajouter" quantite="17 cl"> lait </ingredient> restant dans la casserole . <operation> remettre </operation> à <operation> chauffer </operation> à feu doux sans cesser de <operation> remuer </operation> . lorsque la <ingredient action="épaissir" quantite="10 cl"> crème </ingredient> s’ <operation ingredients="crème"> épaissit </operation> , <operation> retirer </operation> du feu et <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="10 cl"> crème </ingredient> fraîche . laisser refroidir . faire <operation> glacer </operation> en sorbetière .
+</preparation>
+</recette>

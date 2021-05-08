@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31234">
+<titre>Poulet aux coeurs de palmier</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 escalopes de poulet</p>
+<p>2 oignons</p>
+<p>3 tomates bien mûres</p>
+<p>3 gousses d'ail</p>
+<p>sel</p>
+<p>herbes de Provence</p>
+<p>poivre noir</p>
+<p>1 cuillère à café de safran</p>
+<p>1 boîte de coeurs de palmier</p>
+</ingredients>
+<preparation>
+dans une marmite , faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> et <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> préalablement <operation> coupé </operation> en morceaux . puis y <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> jusqu' à ce qu' ils soient roussis . <operation ingredients="safran;épices;tomates"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> safran </ingredient> , les <ingredient action="ajouter" quantite="3;;1 cuillère à café"> épices </ingredient> , et les <ingredient action="ajouter" quantite="3"> tomates </ingredient> <operation> coupées </operation> en dés . laisser <operation> mijoter </operation> quelques minutes en <operation> mélangeant </operation> bien . <operation> ajouter </operation> 2 verres d' eau . <operation> couvrir </operation> la marmite et laisser <operation> réduire </operation> pendant 20 mn en <operation> réduisant </operation> le feu . <operation ingredients="coeurs"> couper </operation> les <ingredient action="couper"> coeurs </ingredient> de palmier en morceaux et <operation ingredients="poulet"> ajouter </operation> au <ingredient action="ajouter"> poulet </ingredient> , et laisser <operation> cuire </operation> 20 mn . on peut y <operation ingredients="épices"> mettre </operation> les <ingredient action="mettre" quantite="3;;1 cuillère à café"> épices </ingredient> que l' on veut selon nos goûts ( <ingredient> thym </ingredient> , et même <ingredient> persil </ingredient> pour <operation> décorer </operation> ) .
+</preparation>
+</recette>

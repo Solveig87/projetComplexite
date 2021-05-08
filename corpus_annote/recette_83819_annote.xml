@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83819">
+<titre>Pitas sucrées/salées</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 pains pita</p>
+<p>600 g de viande hachée</p>
+<p>2 gousse d'ail</p>
+<p>2 oignons</p>
+<p>1 grosse poignée de noix</p>
+<p>2 cuillères à soupe de confiture de figues</p>
+<p>3 yaourts à la grecque</p>
+<p>3 tomates pelées</p>
+<p>1 demi concombre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;gousse;oignon"> cuire </operation> la <ingredient action="cuire" quantite="600 gramme"> viande </ingredient> hachée avec une <ingredient action="cuire" quantite="2"> gousse </ingredient> d' ail et un <ingredient action="cuire" quantite="2"> oignon </ingredient> . <operation ingredients="épices;gingembre;cumin"> ajouter </operation> des <ingredient action="ajouter" quantite="2"> épices </ingredient> selon vos goûts ( <ingredient action="ajouter"> gingembre </ingredient> , paprika doux , <ingredient action="ajouter"> cumin </ingredient> , curry . . . ) une fois <operation> cuite </operation> <operation ingredients="viande"> laisser </operation> la <ingredient action="laisser" quantite="600 gramme"> viande </ingredient> de côté . dans un <operation> mixer </operation> , <operation ingredients="oignon;gousse;noix;tomates;concombre;confiture"> mettre </operation> l' <ingredient action="mettre" quantite="2"> oignon </ingredient> et la <ingredient action="mettre" quantite="2"> gousse </ingredient> d' ail restante , les <ingredient action="mettre"> noix </ingredient> , les <ingredient action="mettre" quantite="3"> tomates </ingredient> , le <ingredient action="mettre" quantite="1mi"> concombre </ingredient> , la <ingredient action="mettre" quantite="2 cuillère à soupe"> confiture </ingredient> . <operation ingredients="yaourts;lieu"> ajouter </operation> en dernier les <ingredient action="ajouter" quantite="3"> yaourts </ingredient> en dernier <ingredient action="ajouter"> lieu </ingredient> . <operation> mixer </operation> le tout jusqu' à ce que ce soit entièrement <operation> lisse </operation> . <operation> placer </operation> au réfrigérateur au moins 1 heure . <operation ingredients="pains"> humecter </operation> les <ingredient action="humecter" quantite="10"> pains </ingredient> pita à l' eau et les <operation> passer </operation> au four afin qu' ils soient <operation> tièdes </operation> . dès qu' ils sont prêts , <operation ingredients="pain"> garnir </operation> de sauce le <ingredient action="garnir" quantite="10"> pain </ingredient> <operation> coupé </operation> en deux et <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter" quantite="600 gramme"> viande </ingredient> .
+</preparation>
+</recette>

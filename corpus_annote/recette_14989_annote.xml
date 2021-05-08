@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14989">
+<titre>Tarte aux figues et aux pommes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 figues violettes</p>
+<p>3 pommes golden</p>
+<p>1 pâte à tarte</p>
+<p>miel liquide</p>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe de sucre roux</p>
+<p>1 cuillère à café de cannelle en poudre</p>
+<p>1/2 cuillère à café de vanille en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> à tarte dans le <operation> moule </operation> . <operation ingredients="oeuf;sucre"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> avec le <ingredient action="battre" quantite="1 cuillère à soupe"> sucre </ingredient> et la vanille . <operation ingredients="pâte"> déposer </operation> la préparation sur le fond de la <ingredient action="déposer" quantite="1"> pâte </ingredient> . <operation ingredients="figues"> laver </operation> les <ingredient action="laver" quantite="10"> figues </ingredient> et les <operation> couper </operation> en 4 . les <operation ingredients="pâte"> mettre </operation> sur la <ingredient action="mettre" quantite="1"> pâte </ingredient> au bord du <operation> moule </operation> ( côté sur le dessous ) , puis continuer de <operation ingredients="pommes"> remplir </operation> avec les <ingredient action="remplir" quantite="3"> pommes </ingredient> . <operation ingredients="miel;figue"> déposer </operation> un peu de <ingredient action="déposer" quantite=""> miel </ingredient> sur chaque morceau de <ingredient action="déposer" quantite="10"> figue </ingredient> . <operation ingredients="tarte;cannelle"> saupoudrer </operation> toute la <ingredient action="saupoudrer"> tarte </ingredient> avec un peu de <ingredient action="saupoudrer" quantite="1 cuillère à café"> cannelle </ingredient> avant la cuisson . <operation> mettre </operation> au four thermostat 7 pendant 30 à 45 mn .
+</preparation>
+</recette>

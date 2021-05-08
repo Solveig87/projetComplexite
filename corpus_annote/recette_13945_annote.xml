@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13945">
+<titre>Tartare de saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de filet de saumon </p>
+<p>1 bouquet de persil plat</p>
+<p>1 cuillère a soupe de câpres</p>
+<p>1 échalote</p>
+<p>sel et poivre</p>
+<p>Pour la sauce :</p>
+<p>1 jaune d'oeuf</p>
+<p>1 cuillère de moutarde</p>
+<p>sel et poivre</p>
+<p>1 citron</p>
+<p>10 cl d'huile d'arachide</p>
+<p>1 cuillère à soupe de sauce Worcester</p>
+<p>3 gouttes de tabasco</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en petits morceaux ( ne pas <operation> hacher </operation> ) , puis le <operation ingredients="câpres"> mélanger </operation> avec le hachis de <ingredient action="mélanger"> câpres </ingredient> , échalote et persil . vous pouvez le <operation> préparer </operation> le matin pour le soir . <operation ingredients="mayonnaise;jus"> faire </operation> une <ingredient action="faire"> mayonnaise </ingredient> et <operation ingredients="tabasco"> ajouter </operation> la sauce worcester et les gouttes de <ingredient action="ajouter"> tabasco </ingredient> , ainsi que la moitié du <ingredient action="faire"> jus </ingredient> de citron . vous pouvez <operation ingredients="saumon"> mélanger </operation> la sauce au <ingredient action="mélanger"> saumon </ingredient> 2 heures avant de servir et <operation ingredients="tartare"> remettre </operation> le <ingredient action="remettre"> tartare </ingredient> au frais . servir en assiette et <operation ingredients="jus"> ajouter </operation> le reste du <ingredient action="ajouter"> jus </ingredient> de citron si nécessaire . <operation ingredients="salade;huile;citron"> accompagner </operation> d' une <ingredient action="accompagner"> salade </ingredient> de champignons de paris crus avec <ingredient action="accompagner" quantite="10 cl"> huile </ingredient> d' olive et du <ingredient action="accompagner" quantite="1"> citron </ingredient> .
+</preparation>
+</recette>

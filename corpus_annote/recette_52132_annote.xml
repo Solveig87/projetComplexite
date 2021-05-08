@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52132">
+<titre>Farfalles aux Saint-Jacques</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>200 g de farfalles</p>
+<p>12 noix de Saint-Jacques</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>ciboulette</p>
+<p>beurre</p>
+<p>poivre du moulin</p>
+<p>1 filet de jus de citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="farfalles"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> farfalles </ingredient> le temps indiqué sur le paquet . pendant ce temps , faire <operation ingredients="noix;beurre"> dorer </operation> les <ingredient action="dorer" quantite="12"> noix </ingredient> de saint-jacques quelques minutes dans un peu de <ingredient action="dorer"> beurre </ingredient> . en fin de cuisson , <operation ingredients="citron"> arroser </operation> d' un filet de <ingredient action="arroser"> citron </ingredient> , et <operation> réserver </operation> au chaud . quand les <ingredient action="cuire"> pâtes </ingredient> sont <operation ingredients="pâtes"> cuites </operation> , les <operation> égoutter </operation> , puis les <operation ingredients="crème;ciboulette"> remettre </operation> dans la casserole avc la <ingredient action="remettre" quantite="20 cl"> crème </ingredient> fraîche et la <ingredient action="remettre" quantite=""> ciboulette </ingredient> ; et <operation> réchauffer </operation> . donner un tour de moulin à poivre . <operation> dresser </operation> les assiettes : <operation ingredients="noix;farfalles;crème"> disposer </operation> les <ingredient action="disposer" quantite="12"> noix </ingredient> sur un lit de <ingredient action="disposer" quantite="200 gramme"> farfalles </ingredient> à la <ingredient action="disposer" quantite="20 cl"> crème </ingredient> . un petit plat rapide à <operation ingredients="tête"> faire </operation> , idéal pour un dîner en <ingredient action="faire"> tête </ingredient> à tête . un chardonnay
+</preparation>
+</recette>

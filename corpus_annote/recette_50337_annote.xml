@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50337">
+<titre>Rougaille Réunionnais</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>5 ou 6  grosses saucisses </p>
+<p>2 belles tomates</p>
+<p>1,5 gros oignon</p>
+<p>1 combava(petit citron exotique)</p>
+<p>gingembre</p>
+<p>1 gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="saucisses;tomates"> coupez </operation> les <ingredient action="couper" quantite="5"> saucisses </ingredient> en morceaux de taille moyenne , les <ingredient action="couper" quantite="2"> tomates </ingredient> en dés , les <ingredient quantite="1,5"> oignons </ingredient> en rouelles . faites <operation ingredients="saucisse;huile"> cuire </operation> la <ingredient action="cuire" quantite="5"> saucisse </ingredient> dans de l' <ingredient action="cuire"> huile </ingredient> puis lorsqu' elle est dorée , <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="1,5"> oignons </ingredient> et laissez <operation> cuire </operation> 10 minutes en <operation> remuant </operation> . <operation ingredients="ail;gingembre"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> pilé </operation> , <operation> remuez </operation> puis <operation> râpez </operation> un peu de <ingredient action="ajouter" quantite=""> gingembre </ingredient> frais au-dessus . <operation ingredients="combava"> incorporez </operation> un peu de zeste de <ingredient action="incorporer" quantite="1"> combava </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> cuire </operation> à feu moyen pendant 3 minutes environ . <operation ingredients="tomates"> incorporez </operation> les <ingredient action="incorporer" quantite="2"> tomates </ingredient> et laissez - les <operation ingredients="assaisonnement"> fondre </operation> puis rectifiez l' <ingredient action="fondre" quantite=";1"> assaisonnement </ingredient> en <operation ingredients="gingembre;combava"> ajoutant </operation> du <ingredient action="ajouter" quantite=""> gingembre </ingredient> et du <ingredient action="ajouter" quantite="1"> combava </ingredient> <operation> râpés </operation> . servir tiède <operation> accompagné </operation> d' un <ingredient action="cuire"> riz </ingredient> parfumé <operation ingredients="riz"> cuit </operation> à la vapeur . adaptez cette recette à d' autres <ingredient quantite="5"> viandes </ingredient> .
+</preparation>
+</recette>

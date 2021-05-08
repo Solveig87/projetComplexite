@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46959">
+<titre>Soupe Méditerranéenne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 aubergine</p>
+<p>2 courgettes</p>
+<p>1 boite de tomates concassées au basilic</p>
+<p>1 cube de bouillon de légume</p>
+<p>1 sucre</p>
+<p>1,5 l d’eau</p>
+<p>1 oignon</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> couper </operation> l’ <ingredient action="couper" quantite="1"> oignon </ingredient> , les <ingredient action="revenir" quantite="1;1"> légumes </ingredient> en cubes , les faire <operation ingredients="légumes;huile"> revenir </operation> avec un peu d’ <ingredient action="revenir"> huile </ingredient> d’ olive . ensuite <operation ingredients="tomates;bouillon;sucre"> rajouter </operation> les <ingredient action="rajouter"> tomates </ingredient> <operation> concassées </operation> , le cube de <ingredient action="rajouter"> bouillon </ingredient> , et le <ingredient action="rajouter" quantite="1"> sucre </ingredient> . <operation> rajouter </operation> l’ eau , <operation> porter </operation> à <operation> ébullition </operation> , <operation> cuire </operation> pendant 20 min . <operation> saler </operation> et <operation> poivrer </operation> . <operation> mixer </operation> le tout , c’ est prêt . l’ aspect n’ est pas génial , mais c’ est très bon , et copieux !
+</preparation>
+</recette>

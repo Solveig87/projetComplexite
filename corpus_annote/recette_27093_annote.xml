@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27093">
+<titre>Purée de haricots verts en croquettes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de haricots verts</p>
+<p>125 g de fromage blanc</p>
+<p>2 oeufs</p>
+<p>50 g de farine</p>
+<p>2 cuillères à soupe de ciboulette ciselée</p>
+<p>4 cuillères à soupe de chapelure</p>
+<p>sel, poivre</p>
+<p>huile de friture</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="haricots"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> haricots </ingredient> verts 20 min à l' eau bouillante <operation> salée </operation> puis <operation> réduisez </operation> - les en purée . <operation ingredients="farine;fromage;oeuf;ciboulette"> incorporez </operation> la <ingredient action="incorporer" quantite="50 gramme"> farine </ingredient> , le <ingredient action="incorporer" quantite="125 gramme"> fromage </ingredient> blanc , 1 <ingredient action="incorporer" quantite="2"> oeuf </ingredient> , la <ingredient action="incorporer" quantite="2 cuillère à soupe"> ciboulette </ingredient> et <operation> assaisonnez </operation> . <operation ingredients="farine"> rajoutez </operation> un peu de <ingredient action="rajouter" quantite="50 gramme"> farine </ingredient> si nécessaire pour pouvoir <operation> façonner </operation> des croquettes . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> de friture . <operation ingredients="oeuf;chapelure"> passez </operation> les croquettes successivement dans l' <ingredient action="passer" quantite="2"> oeuf </ingredient> <operation> battu </operation> et dans la <ingredient action="passer" quantite="4 cuillère à soupe"> chapelure </ingredient> . <operation ingredients="huile"> jetez </operation> - les dans l' <ingredient action="jeter" quantite=""> huile </ingredient> et faites - les <operation> dorer </operation> .
+</preparation>
+</recette>

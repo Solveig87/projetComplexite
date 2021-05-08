@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29674">
+<titre>Cailles dans leur nid</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cailles</p>
+<p>250 g de riz</p>
+<p>2 poignées de raisins secs</p>
+<p>2 oignons doux</p>
+<p>sel, poivre</p>
+<p>thym</p>
+<p>huile</p>
+<p>1 cube de bouillon de volaille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="cailles;huile"> revenir </operation> les <ingredient action="revenir" quantite="4"> cailles </ingredient> dans une sauteuse avec un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> . une fois bien dorées , les <operation> mettre </operation> en attente dans une assiette . s' il y a trop d' <ingredient quantite=""> huile </ingredient> dans la sauteuse en <operation> jeter </operation> un peu . dans cette <ingredient action="verser" quantite=""> huile </ingredient> , <operation ingredients="huile;riz;oignon"> verser </operation> le <ingredient action="verser" quantite="250 gramme"> riz </ingredient> à sec , et bien <operation> remuer </operation> jusqu' à ce qu' il devienne translucide , ainsi que l' <ingredient action="verser" quantite="2"> oignon </ingredient> bien <operation> émincé </operation> . <operation ingredients="bouillon;riz"> ajouter </operation> le cube de <ingredient action="ajouter"> bouillon </ingredient> avec la même quantité d' eau que de <ingredient action="ajouter" quantite="250 gramme"> riz </ingredient> , pour qu' il soit <operation> recouvert </operation> . <operation ingredients="sel;poivre;thym;raisins"> ajouter </operation> le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> , le <ingredient action="ajouter" quantite=""> thym </ingredient> , et les <ingredient action="ajouter"> raisins </ingredient> secs . faire <operation ingredients="riz;bouillons"> cuire </operation> le <ingredient action="cuire" quantite="250 gramme"> riz </ingredient> à petits <ingredient action="cuire"> bouillons </ingredient> en <operation> remuant </operation> de temps en temps , jusqu' à ce qu' il ait absorbé tout le liquide . <operation ingredients="riz"> faire </operation> des petits nids dans le <ingredient action="faire" quantite="250 gramme"> riz </ingredient> et <operation ingredients="cailles"> remettre </operation> les <ingredient action="remettre" quantite="4"> cailles </ingredient> . finir de <operation> cuire </operation> à tout petit feu . rosé de provence
+</preparation>
+</recette>

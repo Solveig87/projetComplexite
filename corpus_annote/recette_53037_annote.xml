@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53037">
+<titre>Filet mignon mangues et pruneaux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon</p>
+<p>1 oignon</p>
+<p>1 mangues</p>
+<p>200 à 300 g pruneaux</p>
+<p>15 cl cidre</p>
+<p>2 cuillères de crème fraîche</p>
+</ingredients>
+<preparation>
+dans une marmite , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> coupé </operation> en lamelles , puis y faire <operation> dorer </operation> le filet mignon . <operation ingredients="cidre;mangue;pruneaux"> ajouter </operation> le <ingredient action="ajouter" quantite="15 cl"> cidre </ingredient> et 1 / 2 verre d' eau , la <ingredient action="ajouter" quantite="1"> mangue </ingredient> <operation> coupée </operation> en morceaux et les <ingredient action="ajouter"> pruneaux </ingredient> ; <operation> couvrir </operation> <operation ingredients="viande"> retourner </operation> la <ingredient action="retourner"> viande </ingredient> tous les 1 / 4 heure . au moment de servir , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère"> crème </ingredient> fraîche , <operation> saler </operation> et <operation> poivrer </operation> légèrement . <operation ingredients="riz;pâtes"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pâtes </ingredient> .
+</preparation>
+</recette>

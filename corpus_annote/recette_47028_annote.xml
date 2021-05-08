@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47028">
+<titre>Salade fraîche de pois chiches</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses carottes</p>
+<p>1 petite boite de pois chiches(220 g)</p>
+<p>1 pomme</p>
+<p>3 ou 4 tranches de jambon</p>
+<p>éventuellement restes de salade verte</p>
+<p>Pour la sauce:</p>
+<p>1 cuillère à café de curry</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>2 cuillère à soupe de vinaigre</p>
+<p>1 échalote</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> râpez </operation> les <ingredient action="râpez" quantite="2"> carottes </ingredient> et <operation ingredients="pomme;jambon"> coupez </operation> en petits cubes la <ingredient action="couper" quantite="1"> pomme </ingredient> et le <ingredient action="couper"> jambon </ingredient> . <operation ingredients="salade;pois;chiches;échalote"> ajoutez </operation> la <ingredient action="ajouter"> salade </ingredient> verte , les <ingredient action="ajouter"> pois </ingredient> <ingredient action="ajouter"> chiches </ingredient> et l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> émincée </operation> . <operation> mélangez </operation> tous les ingrédients de la sauce à part puis <operation ingredients="salade"> mélangez </operation> à la <ingredient action="mélanger"> salade </ingredient> . c' est une <ingredient> salade </ingredient> où tout est permis : vous pouvez <operation> ajouter </operation> du mais , de l' <ingredient> ail </ingredient> très finement <operation> émincé </operation> . . .
+</preparation>
+</recette>

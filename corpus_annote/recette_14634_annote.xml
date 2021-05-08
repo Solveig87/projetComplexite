@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14634">
+<titre>Gâteau crabe et tomates</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs</p>
+<p>2 boîtes de crabe</p>
+<p>2 petites boîtes de tomates pelées ou 1 grosse</p>
+<p>herbes de provence</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="tomates"> fondre </operation> les <ingredient action="fondre"> tomates </ingredient> ( faire <operation ingredients="jus"> réduire </operation> jusqu' à disparition du <ingredient action="réduire"> jus </ingredient> ) . <operation ingredients="oeufs"> battre </operation> <ingredient action="battre" quantite="8"> oeufs </ingredient> en omelette et y <operation ingredients="crabe"> ajouter </operation> <ingredient action="ajouter"> crabe </ingredient> + tomates . dans un <operation> moule </operation> beurré , <operation> verser </operation> la préparation . faire <operation> cuire </operation> au bain - marie à four thermostat 7 . il n' est pas nécessaire de <operation ingredients="crabe"> saler </operation> à cause du <ingredient action="saler"> crabe </ingredient> qui l' est déjà beaucoup .
+</preparation>
+</recette>

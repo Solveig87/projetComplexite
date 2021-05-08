@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19997">
+<titre>COMPOTE D'AUTOMNE</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes reinettes</p>
+<p>1 kg de poires</p>
+<p>500 g de raisins noirs</p>
+<p>250 g de sucre en poudre</p>
+<p>1 clou de girofle</p>
+<p>1 pointe de muscade</p>
+<p>1 pointe de cannelle en poudre</p>
+<p>20 cl d'eau</p>
+<p>1 citron</p>
+</ingredients>
+<preparation>
+récupérer et <operation> râper </operation> le zeste du <ingredient quantite="1"> citron </ingredient> . <operation ingredients="raisins"> nettoyer </operation> les <ingredient action="nettoyer" quantite="500 gramme"> raisins </ingredient> et les <operation> épépiner </operation> . <operation ingredients="pommes;poires"> éplucher </operation> les <ingredient action="éplucher" quantite="1 kilogramme"> pommes </ingredient> et les <ingredient action="éplucher" quantite="1 kilogramme"> poires </ingredient> , et les <operation> évider </operation> . les <operation> découper </operation> en dés et les <operation ingredients="jus"> recouvrir </operation> de <ingredient action="recouvrir"> jus </ingredient> de citron . <operation ingredients="fruits;citron;sucre;muscade;cannelle"> verser </operation> les <ingredient action="verser" quantite="1 kilogramme;1 kilogramme;500 gramme"> fruits </ingredient> dans une casserole avec la moitié du zeste de <ingredient action="verser" quantite="1"> citron </ingredient> , le <ingredient action="verser" quantite="250 gramme"> sucre </ingredient> , la <ingredient action="verser"> muscade </ingredient> , la <ingredient action="verser"> cannelle </ingredient> , l' eau et le clou de girofle . <operation> porter </operation> le tout à <operation> ébullition </operation> et laisser <operation> mijoter </operation> 25 min à feu doux . servir frais .
+</preparation>
+</recette>

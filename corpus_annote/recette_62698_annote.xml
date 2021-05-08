@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62698">
+<titre>Les jailles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>800 g à 1 kg de gorge de porc pas trop grasse</p>
+<p>5 cl d'huile</p>
+<p>10 cl de vinaigre</p>
+<p>100 g d'oignons</p>
+<p>4 gousses d'ail</p>
+<p>1 cuillère de persil haché</p>
+<p>sel et poivre</p>
+<p>des pommes de terre coupé en petits dès (variable)</p>
+</ingredients>
+<preparation>
+<operation ingredients="porc;pommes"> couper </operation> en petits dés la gorge du <ingredient action="couper"> porc </ingredient> et les <ingredient action="couper" quantite=""> pommes </ingredient> de terre , <operation> assaisonner </operation> . <operation ingredients="huile"> mettre </operation> le tout dans une casserole avec très peu d' <ingredient action="mettre" quantite="5 cl"> huile </ingredient> , <operation> cuire </operation> doucement pendant 30 min minimum . <operation ingredients="oignon"> ajouter </operation> à mi-cuisson l' <ingredient action="ajouter" quantite="100 gramme"> oignon </ingredient> haché . avant de servir <operation ingredients="vinaigre"> déglacer </operation> le <ingredient action="déglacer" quantite="10 cl"> vinaigre </ingredient> et <operation ingredients="ail;persil"> saupoudrer </operation> l' <ingredient action="saupoudrer"> ail </ingredient> et le <ingredient action="saupoudrer" quantite="1 cuillère"> persil </ingredient> haché . dans les campagnes du dauphiné ( gap d' où vient cette recette ) les jailles font partie du " repas du cochon " ( généralement après le boudin ) , qui s' effectue entre le travail du matin ( <operation> découpe </operation> du <ingredient> porc </ingredient> . . . ) et la <operation> confection </operation> de la <ingredient> charcuterie </ingredient> l' après-midi . <ingredient> vin </ingredient> de pays
+</preparation>
+</recette>

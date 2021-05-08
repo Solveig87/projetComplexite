@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29781">
+<titre>Pâtes aux Saint-Jacques et champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de pâtes</p>
+<p>8 coquilles Saint-Jacques</p>
+<p>250 g de champignons</p>
+<p>15 cl de crème fraîche</p>
+<p>2 jaunes d'oeufs</p>
+<p>20 cl de vin blanc sec</p>
+<p>1 oignon</p>
+<p>1 gousse d'ail</p>
+<p>1 bouquet garni</p>
+<p>20 g de beurre</p>
+<p>persil frais</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire" quantite="400 gramme"> pâtes </ingredient> al dente . faire <operation ingredients="vin;bouquet;oignon;sel"> bouillir </operation> 50 cl d' eau avec le <ingredient action="bouillir" quantite="20 cl"> vin </ingredient> blanc , le <ingredient action="bouillir" quantite="1"> bouquet </ingredient> <operation> garni </operation> , l' <ingredient action="bouillir" quantite="1"> oignon </ingredient> haché , <ingredient action="bouillir" quantite=""> sel </ingredient> et poivre , pendant 15 min . y <operation ingredients="saint-jacques"> plonger </operation> les coquilles <ingredient action="plonger"> saint-jacques </ingredient> et laisser <operation> cuire </operation> 5 min . <operation> egoutter </operation> , <operation ingredients="noix"> décoquiller </operation> les <ingredient action="décoquiller"> noix </ingredient> de saint-jacques avec leur corail et <operation ingredients="jus"> filtrer </operation> le <ingredient action="filtrer"> jus </ingredient> . <operation> emincer </operation> les <ingredient quantite="250 gramme"> champignons </ingredient> , <operation ingredients="ail"> écraser </operation> l' <ingredient action="écraser"> ail </ingredient> . les faire <operation ingredients="beurre;ail"> dorer </operation> dans le <ingredient action="dorer" quantite="20 gramme"> beurre </ingredient> avec l' <ingredient action="dorer"> ail </ingredient> <operation> écrasé </operation> , <operation> saler </operation> , <operation> poivrer </operation> . faire <operation ingredients="crème"> chauffer </operation> la <ingredient action="chauffer" quantite="15 cl"> crème </ingredient> fraîche <operation ingredients="oeufs;jus"> mélangée </operation> avec les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et le <ingredient action="mélanger"> jus </ingredient> de cuisson des coquilles , laisser <operation> épaissir </operation> à feu doux en <operation> mélangeant </operation> bien . <operation ingredients="pâtes;saint-jacques"> mélanger </operation> les <ingredient action="mélanger" quantite="400 gramme"> pâtes </ingredient> avec la sauce et les <ingredient action="mélanger"> saint-jacques </ingredient> , <operation ingredients="persil"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> persil </ingredient> et servir .
+</preparation>
+</recette>

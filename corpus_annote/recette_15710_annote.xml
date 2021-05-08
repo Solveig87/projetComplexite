@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15710">
+<titre>Sopa Paraguya (Paraguay)</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oignons</p>
+<p>200 g de graisse de porc</p>
+<p>4 oeufs</p>
+<p>350 g de fromage frais </p>
+<p>650 g de farine de maïs</p>
+<p>1/2 tasse à café de lait</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="graisse"> frire </operation> dans la <ingredient action="frire" quantite="200 gramme"> graisse </ingredient> les oignons <operation> hachés </operation> et les laisser refroidir . <operation ingredients="oeufs;fromage"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> en <operation> battant </operation> , puis le <ingredient action="ajouter" quantite="350 gramme"> fromage </ingredient> en petits morceaux . <operation ingredients="farine;lait;crème"> délayer </operation> la <ingredient action="délayer" quantite="650 gramme"> farine </ingredient> de maïs avec le <ingredient action="délayer"> lait </ingredient> et la <ingredient action="délayer" quantite="1 cuillère à soupe"> crème </ingredient> . <operation> mélanger </operation> le tout doucement , sans <operation> battre </operation> . <operation> mettre </operation> dans un plat à four beurré et <operation> fariné </operation> et <operation> cuire </operation> au four pendant une heure . en dépit de son nom , il ne s' agit pas d' une <ingredient> soupe </ingredient> , mais d' une tourte .
+</preparation>
+</recette>

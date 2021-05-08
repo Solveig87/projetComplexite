@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61189">
+<titre>Galette de semoule à la muscade</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>175 g semoule fine</p>
+<p>50 cl de lait</p>
+<p>150 g de gruyère</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à café de muscade</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+plat idéal pour le soir . faire <operation ingredients="lait;sel;muscade"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> , le <ingredient action="bouillir" quantite="1 pincée"> sel </ingredient> et la <ingredient action="bouillir" quantite="1 cuillère à café"> muscade </ingredient> . quand le <ingredient quantite="50 cl"> lait </ingredient> bout , <operation ingredients="semoule"> verser </operation> la <ingredient action="verser"> semoule </ingredient> tout en continuant de <operation> remuer </operation> . hors du feu <operation ingredients="gruyère"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> gruyère </ingredient> . <operation> verser </operation> le contenu dans un plat et <operation ingredients="galette"> former </operation> une <ingredient action="former"> galette </ingredient> ( de la grosseur de votre <operation> poêle </operation> ) . laisser refroidir 10 minutes . faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer"> beurre </ingredient> dans votre <operation> poêle </operation> et <operation ingredients="galette"> saisir </operation> la <ingredient action="saisir"> galette </ingredient> recto verso ( les plus téméraires pourront la <operation ingredients="crêpe"> retourner </operation> comme une <ingredient action="retourner"> crêpe </ingredient> ) . a servir avec une <ingredient> salade </ingredient> <operation> composée </operation> afin d' éviter que se soit trop sec et bouratif en bouche . <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

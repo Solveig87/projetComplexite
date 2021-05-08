@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57890">
+<titre>Sauce gitane</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 morceau de longanisse piquante</p>
+<p>2 merguez</p>
+<p>1 boite de concentré de tomate</p>
+<p>1 oignon</p>
+<p>paprika, coriandre</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans une sauteuse , et faire <operation ingredients="oignon"> brunir </operation> l' <ingredient action="brunir" quantite="1"> oignon </ingredient> <operation> coupé </operation> en lamelles . <operation ingredients="merguez"> couper </operation> les <ingredient action="couper" quantite="2"> merguez </ingredient> en petits morceaux , et les faire <operation ingredients="oignons"> cuire </operation> avec les <ingredient action="cuire" quantite="1"> oignons </ingredient> . pendant ce temps , <operation> retirer </operation> la peau de la longanisse , et la <operation> couper </operation> en petits tronçons . les <operation ingredients="merguez"> intégrer </operation> à la <operation> poêle </operation> une fois les <ingredient action="intégrer" quantite="2"> merguez </ingredient> <operation> cuites </operation> . pendant la cuisson , <operation> écraser </operation> les morceaux de longanisse avec une spatule en bois , et laisser <operation> cuire </operation> quelques minutes . <operation ingredients="tomate"> verser </operation> la brique de <ingredient action="verser"> tomate </ingredient> sur la préparation , <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite=";;;;1 cuillère à soupe"> épices </ingredient> pour couscous selon convenance ( attention , la longanisse et les <ingredient quantite="2"> merguez </ingredient> pimentent déjà le plat ! ! ) , <operation> saler </operation> , <operation> poivrer </operation> et laisser <operation> mijoter </operation> une vingtaine de minutes ! servir chaud avec de la graine de couscous , du <ingredient> riz </ingredient> ou pâtes . . . cette sauce se <operation> congèle </operation> très bien , en cas de reste . . . .
+</preparation>
+</recette>

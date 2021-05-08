@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26888">
+<titre>SALADE IRINA</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 petites pommes</p>
+<p>2 ou 3 pommes de terre</p>
+<p>1 boîte de thon naturel</p>
+<p>1 clémentine</p>
+<p>des petits cornichons</p>
+<p>quelques feuilles de salade verte</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> 3 <ingredient action="cuire" quantite="2+2"> pommes </ingredient> de terre 30 mn dans l' eau bouillante . les <operation ingredients="pommes"> éplucher </operation> et les <operation> couper </operation> en cubes , ainsi que les <ingredient action="éplucher" quantite="2+2"> pommes </ingredient> . au fond d' un saladier , <operation ingredients="salade"> disposer </operation> des feuilles de <ingredient action="disposer" quantite="quelque feuille"> salade </ingredient> pour une décoration . <operation ingredients="pommes;salées;thon"> mélanger </operation> les dés de <ingredient action="mélanger" quantite="2+2"> pommes </ingredient> ( <operation> sucrées </operation> et <ingredient action="mélanger"> salées </ingredient> ) , le <ingredient action="mélanger"> thon </ingredient> <operation> émietté </operation> . <operation ingredients="cornichon"> ajouter </operation> des rondelles de <ingredient action="ajouter" quantite="1"> cornichon </ingredient> et des quartiers de clémentines dont on aura <operation> ôté </operation> la peau . <operation ingredients="mayonnaise"> arroser </operation> d' une sauce <ingredient action="arroser"> mayonnaise </ingredient> ou vinaigrette et <operation> mélanger </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20685">
+<titre>Steaks à la pâte d'ail</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de boeuf</p>
+<p>5 gousses d'ail</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>30 g de beurre</p>
+<p>2 cuillères à soupe d'huile  </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande;steaks"> coupez </operation> la <ingredient action="couper" quantite="600 gramme"> viande </ingredient> en 4 <ingredient action="couper"> steaks </ingredient> . <operation ingredients="gousse;sel;poivre"> ecrasez </operation> 3 <ingredient action="ecrasez" quantite="5"> gousse </ingredient> d' ail avec du <ingredient action="ecrasez" quantite=""> sel </ingredient> et du <ingredient action="ecrasez"> poivre </ingredient> . <operation ingredients="vinaigre"> mouillez </operation> de <ingredient action="mouiller" quantite="1 cuillère à soupe"> vinaigre </ingredient> et <operation> mélangez </operation> . <operation ingredients="steaks;pâte"> frottez </operation> les <ingredient action="frotter"> steaks </ingredient> avec cette <ingredient action="frotter"> pâte </ingredient> d' ail puis laissez <operation> reposer </operation> 30 minutes . faites <operation ingredients="beurre;huile;gousses"> chauffer </operation> le <ingredient action="chauffer" quantite="30 gramme"> beurre </ingredient> et l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une <operation> poêle </operation> avec les 2 <ingredient action="chauffer" quantite="5"> gousses </ingredient> d' ail restantes <operation> coupées </operation> en 4 . lorsque les <ingredient action="dorer" quantite="5"> gousses </ingredient> d' ail sont <operation ingredients="gousses;steaks"> dorées </operation> , <operation> retirez </operation> - les et saississez les <ingredient action="dorer"> steaks </ingredient> . servez avec de la purée ou des frites .
+</preparation>
+</recette>

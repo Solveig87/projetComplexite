@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="224352">
+<titre>Salade crue aux 5 légumes : avocat, radis, carotte, betterave, salade</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1/2 salade (variété au choix)</p>
+<p>1 radis noir</p>
+<p>1 betterave crue</p>
+<p>1 carotte</p>
+<p>1 avocat</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> laver </operation> et <operation> éplucher </operation> les <ingredient action="laver" quantite="1;1;1"> légumes </ingredient> . dans un saladier <operation> râper </operation> la <ingredient quantite="1"> carotte </ingredient> , le <ingredient> radis </ingredient> et la betterave . <operation ingredients="avocat"> couper </operation> l' <ingredient action="couper" quantite="1"> avocat </ingredient> en cubes ( pas trop petits ) . <operation ingredients="salade"> ajouter </operation> la <ingredient action="ajouter"> salade </ingredient> . <operation> assaisonner </operation> à votre choix . pour les gourmands on peut <operation ingredients="champignons;brocoli"> ajouter </operation> des <ingredient action="ajouter"> champignons </ingredient> ou des morceaux de <ingredient action="ajouter"> brocoli </ingredient> cru ou encore du <ingredient> chou-fleur </ingredient> cru pour ceux qui le supportent ( niveau digestion ) . eaux
+</preparation>
+</recette>

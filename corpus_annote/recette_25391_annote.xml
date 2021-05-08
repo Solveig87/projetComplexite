@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25391">
+<titre>Cake frou-frou</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 beaux oeufs</p>
+<p>150 g de sucre</p>
+<p>175 g de beurre</p>
+<p>175 ml de vin blanc </p>
+<p>250 g de farine</p>
+<p>1 paquet de levure</p>
+<p>1 zeste de citron</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="175 gramme"> beurre </ingredient> au bain - marie . <operation ingredients="oeufs;sucre"> mélanger </operation> les <ingredient action="mélanger"> oeufs </ingredient> avec le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="farine;beurre;vin"> ajouter </operation> la moité de la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> , du <ingredient action="ajouter" quantite="175 gramme"> beurre </ingredient> et du <ingredient action="ajouter"> vin </ingredient> . puis le reste de la <ingredient quantite="250 gramme"> farine </ingredient> avec la <ingredient> levure </ingredient> , du <ingredient quantite="175 gramme"> beurre </ingredient> , du <ingredient> vin </ingredient> et le zeste de <ingredient> citron </ingredient> . faire <operation> cuire </operation> dans un <operation> moule </operation> à cake environ 40 mn à four moyen . <operation> démouler </operation> chaud et laisser refroidir . moi je les fais par plusieurs et je <operation> congèle </operation> , ainsi j' ai toujours un <operation> goûter </operation> de prêt !
+</preparation>
+</recette>

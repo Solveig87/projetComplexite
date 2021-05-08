@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92234">
+<titre>Blanquette de veau à la sauce cremeuse au bleu</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de blanquette de veau- 100ml de crème liquide- un petit peu de beurre- 1 cube de bouillon de poulet- sel- poivre entier- 1 bouquet garni- 30g du fromage bleu- une cuillère à soupe de farine</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer"> beurre </ingredient> , y faire <operation ingredients="viande"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="30 gramme"> viande </ingredient> . lorsqu' ils sont dorés , les <operation> arroser </operation> d' eau chaude jusqu' à les <operation> recouvrir </operation> d' environ 1 cm . <operation ingredients="bouquet;bouillon;poulet;sel;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , le <ingredient action="ajouter"> bouillon </ingredient> cube de <ingredient action="ajouter"> poulet </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . laisser <operation> cuire </operation> 30 min . <operation ingredients="farine;lait"> mélanger </operation> la <ingredient action="mélanger" quantite="1 cuillère à soupe"> farine </ingredient> avec un petit peu de <ingredient action="mélanger"> lait </ingredient> dans un petit bol et le <operation> verser </operation> dans la casserole . bien <operation> mélanger </operation> et continuer à faire <operation> mijoter </operation> pendant 15 min . <operation ingredients="fromage;bleu"> couper </operation> le <ingredient action="couper" quantite="30 gramme"> fromage </ingredient> <ingredient action="couper"> bleu </ingredient> en tout petits morceaux et le faire <operation> fondre </operation> dans la sauce . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="100ml"> crème </ingredient> liquide et arrêter la cuisson ( attention , la sauce ne doit plus <operation> bouillir </operation> lorsqu' on ajoute la <ingredient quantite="100ml"> crème </ingredient> liquide ) . servir avec le <ingredient> riz </ingredient> , les <ingredient> pâtes </ingredient> ou les <ingredient> gnocchis </ingredient> de pommes de terre .
+</preparation>
+</recette>

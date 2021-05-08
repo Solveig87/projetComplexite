@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40951">
+<titre>Carottes râpées fruitées</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 carottes de taille moyenne</p>
+<p>le jus d'un pamplemousse</p>
+<p>un demi verre de noisettes en poudre</p>
+<p>deux cuillères à soupe d'huile végétale (noix, ou raisin)</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> , <operation ingredients="carottes"> lavez </operation> , puis <operation> râpez </operation> les <ingredient action="laver" quantite="4"> carottes </ingredient> . <operation ingredients="pamplemousse"> pressez </operation> le <ingredient action="presser"> pamplemousse </ingredient> , et <operation ingredients="jus"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> aux carottes . <operation ingredients="noisettes"> saupoudrez </operation> avec les <ingredient action="saupoudrer"> noisettes </ingredient> en <operation> poudre </operation> , <operation> salez </operation> peu , <operation> poivrez </operation> . <operation ingredients="huile"> ajoutez </operation> l' <ingredient action="ajouter"> huile </ingredient> , <operation> mélangez </operation> , et servez ! vous pouvez ensuite , <operation ingredients="fruits;salade"> ajouter </operation> des quartiers d' agrumes et des <ingredient action="ajouter" quantite=""> fruits </ingredient> secs entiers , à la <ingredient action="ajouter"> salade </ingredient> .
+</preparation>
+</recette>

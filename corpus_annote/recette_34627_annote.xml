@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34627">
+<titre>Porridge rapide</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 grosse tasse de flocons d'avoine</p>
+<p>1 grosse tasse d'eau bouillante</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> de l' eau . metre les flocons d' avoine dans une casserole . <operation ingredients="sel"> ajouter </operation> l' eau bouillante et la pincée de <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> ; bien <operation> mélanger </operation> avec une foruchette , pour éviter les grumeaux . <operation> porter </operation> à <operation> ébullition </operation> . <operation> eteindre </operation> le feu et <operation> mettre </operation> le couvercle sur la casserole . laisser <operation> gonfler </operation> . 10 mn , selon les flocons . se <ingredient> mange </ingredient> au petit déjeuner . servir chaud avec du <ingredient> lait </ingredient> , ou un peu de <ingredient> crème </ingredient> fluide et / ou du <ingredient> sucre </ingredient> ou du <ingredient> miel </ingredient> . on peut aussi <operation ingredients="fruit;banane;mangue"> ajouter </operation> un <ingredient action="ajouter"> fruit </ingredient> <operation> coupé </operation> en morceaux comme une <ingredient action="ajouter"> banane </ingredient> , une <ingredient action="ajouter"> mangue </ingredient> , etc. à la <operation> place </operation> du <ingredient> sucre </ingredient> . c' est meilleur pour la santé et pour la ligne ! excellent pour le cholesterol .
+</preparation>
+</recette>

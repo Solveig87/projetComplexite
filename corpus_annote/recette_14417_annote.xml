@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14417">
+<titre>Concombre au thon à la vinaigrette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 concombre</p>
+<p>1 boîte de thon</p>
+<p>une vinaigrette relevée</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> le <operation action="concombre" ingredients="concombre"> concombre </operation> et le <operation> couper </operation> dans e sens de la longueur et l' <operation> épépiner </operation> puis le cpouper en plusieurs morceaux . a part <operation ingredients="thon"> écraser </operation> le <ingredient action="écraser"> thon </ingredient> pour l' <operation> émmieter </operation> , et le <operation> mélanger </operation> à la vinaigrette pour que le <ingredient> thon </ingredient> prenne bien le gout de la vinaigrette . <operation ingredients="concombre"> farcir </operation> ensuite les morceaux de <ingredient action="farcir" quantite="1"> concombre </ingredient> avec cette préparation . servir très frais .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18302">
+<titre>Tartine campagnarde</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tranche de pain de campagne</p>
+<p>1 tranche de jambon de campagne</p>
+<p>1 pomme de terre  à la vapeur ou bouilli</p>
+<p>100 à 150g de reblochon</p>
+<p>salade verte</p>
+<p>carotte </p>
+<p>une noix de beurre</p>
+<p>huile</p>
+<p>vinaigre de vin </p>
+<p>moutarde</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pomme"> cuire </operation> la <ingredient action="cuire" quantite="1"> pomme </ingredient> de terre à la vapeur 10 mn à la cocotte minute , puis <operation> enlever </operation> la peau . allumer le grill du four . <operation ingredients="pain"> mettre </operation> sur la tranche de <ingredient action="mettre" quantite="1 tranche"> pain </ingredient> , dans l' ordre , le <ingredient action="gratter"> beurre </ingredient> , la tranche de <ingredient action="gratter" quantite="1 tranche"> jambon </ingredient> , la <ingredient action="gratter" quantite="1"> pomme </ingredient> de terre <operation> coupée </operation> en rondelles fines , le <ingredient action="gratter"> reblochon </ingredient> , dont -on aura <operation ingredients="beurre;jambon;pomme;reblochon"> gratté </operation> la croûte , en fines tranches . <operation> mettez </operation> au milieu du four 7 à 8 mn , pour faire <operation ingredients="fromage"> fondre </operation> le <ingredient action="fondre"> fromage </ingredient> . servez avec la <ingredient quantite=""> salade </ingredient> et la <ingredient quantite=""> carotte </ingredient> <operation> râpée </operation> avec une vinaigrette <ingredient> vin </ingredient> blanc sec et fruité ou <ingredient> vin </ingredient> rouge leger
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20760">
+<titre>Riz gratiné aux lentilles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de riz cuit</p>
+<p>150 g de lentilles cuites</p>
+<p>2 oeufs</p>
+<p>2 oignons</p>
+<p>75 g de fromage râpé</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 gousses d'ail</p>
+<p>15 g de beurre</p>
+<p>1,5 cuillère à soupe de sauce soja</p>
+<p>50 g de chapelure</p>
+</ingredients>
+<preparation>
+préchauffez le four à 210 <operation> ° </operation> c ( thermostat 7 ) . <operation ingredients="riz;oeuf"> mélangez </operation> le <ingredient action="mélanger"> riz </ingredient> à l' <ingredient action="mélanger" quantite="2"> oeuf </ingredient> <operation> battu </operation> , <operation ingredients="soja"> assaisonnez </operation> de sauce <ingredient action="assaisonner"> soja </ingredient> . faites <operation ingredients="oignon;beurre"> blondir </operation> l' <ingredient action="blondir" quantite="2"> oignon </ingredient> <operation> haché </operation> dans le <ingredient action="blondir" quantite="15 gramme"> beurre </ingredient> puis <operation ingredients="riz"> ajoutez </operation> - le au <ingredient action="ajouter"> riz </ingredient> . <operation ingredients="ail"> incorporez </operation> également l' <ingredient action="incorporer"> ail </ingredient> <operation> haché </operation> , les <ingredient quantite="150 gramme"> lentilles </ingredient> et le <ingredient quantite="75 gramme"> fromage </ingredient> . <operation> versez </operation> la préparation dans un plat à gratin <operation> huilé </operation> . <operation ingredients="chapelure"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="50 gramme"> chapelure </ingredient> , <operation ingredients="huile"> arrosez </operation> d' <ingredient action="arroser" quantite="2 cuillère à soupe"> huile </ingredient> et faites <operation> gratiner </operation> au four pendant 1 . 15 minutes .
+</preparation>
+</recette>

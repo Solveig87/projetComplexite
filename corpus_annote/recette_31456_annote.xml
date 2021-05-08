@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31456">
+<titre>Pot au feu de cabillaud</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de filet de cabillaud</p>
+<p>1 citron</p>
+<p>3 carottes</p>
+<p>4 pommes de tere</p>
+<p>1 poireau</p>
+<p>2 branches de céleri</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 bouquet garni</p>
+<p>2 clous de girofle</p>
+<p>1/2 cuillère à café de paprika</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes;pommes"> eplucher </operation> les <ingredient action="eplucher" quantite="3"> carottes </ingredient> et les <ingredient action="eplucher" quantite="4"> pommes </ingredient> de terre et les <operation> couper </operation> en morceaux . <operation ingredients="poireau"> couper </operation> le <ingredient action="couper" quantite="1"> poireau </ingredient> <operation> lavé </operation> en morceaux . <operation> emincer </operation> le <ingredient> céleri </ingredient> . <operation ingredients="oignon"> piquer </operation> l' <ingredient action="piquer" quantite="1"> oignon </ingredient> de clous de girofle . faire <operation> bouillir </operation> 1 , 5 l d' eau et y <operation ingredients="légumes;ail"> mettre </operation> tous les <ingredient action="mettre" quantite="1;3;4;1;1"> légumes </ingredient> et l' <ingredient action="mettre"> ail </ingredient> <operation> épluché </operation> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="bouquet;paprika"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> et le <ingredient action="ajouter"> paprika </ingredient> . laisser <operation ingredients="bouillons"> cuire </operation> à petits <ingredient action="cuire"> bouillons </ingredient> pendant 30 mn sans <operation> couvrir </operation> . le <ingredient> bouillon </ingredient> réduit ainsi d' un quart . <operation ingredients="poisson"> couper </operation> le <ingredient action="couper"> poisson </ingredient> en gros cubes et l' <operation ingredients="jus"> arroser </operation> de <ingredient action="arroser"> jus </ingredient> de ctron . <operation ingredients="poisson"> mettre </operation> le <ingredient action="mettre"> poisson </ingredient> à <operation ingredients="légumes"> cuire </operation> avec les <ingredient action="cuire" quantite="1;3;4;1;1"> légumes </ingredient> pendant 10 mn à feu doux . servir chaud . c' est un plat pauvre en <ingredient> graisse </ingredient> . pour un repas complet , le servir avec de grosses tranches de <ingredient> pain </ingredient> de campagne .
+</preparation>
+</recette>

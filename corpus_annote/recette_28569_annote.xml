@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28569">
+<titre>Rôti de porc sur lit de poireaux</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 carré de porc de 850 g environ</p>
+<p>8 poireaux</p>
+<p>1 petite boîte de concentré de tomates</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillerées à soupe d'huile d'olive</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> et <operation ingredients="poireaux"> épluchez </operation> les <ingredient action="éplucher" quantite="8"> poireaux </ingredient> . faites - les <operation> blanchir </operation> 5 min à l' eau bouillante <operation> salée </operation> , <operation> égouttez </operation> et <operation> émincez </operation> - les en tronçons . faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer"> huile </ingredient> dans une cocotte , <operation ingredients="rôti"> mettez </operation> - y le <ingredient action="mettre"> rôti </ingredient> et faites - le <operation> dorer </operation> . <operation ingredients="viande"> retirez </operation> la <ingredient action="retirer" quantite="1"> viande </ingredient> de la cocotte et <operation> réservez </operation> . <operation ingredients="poireaux"> mettez </operation> les <ingredient action="mettre" quantite="8"> poireaux </ingredient> dans la cocotte et laissez - les <operation> dorer </operation> . <operation ingredients="carré"> remettez </operation> alors le <ingredient action="remettre" quantite="1"> carré </ingredient> de porc , <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="tomates;ail"> rajoutez </operation> le <operation> concentré </operation> de <ingredient action="rajouter"> tomates </ingredient> et l' <ingredient action="rajouter"> ail </ingredient> haché . laissez <operation> mijoter </operation> 1 h à feu moyen .
+</preparation>
+</recette>

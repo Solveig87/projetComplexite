@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="87628">
+<titre>Gratin de macaroni à la viande</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de chair à saucisse</p>
+<p>200 g de viande hachée</p>
+<p>6 oeufs</p>
+<p>500 g de macaroni</p>
+<p>1 oignon</p>
+<p>75 g de gruyère</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chair;viande;oignon"> revenir </operation> la <ingredient action="revenir" quantite="300 gramme"> chair </ingredient> à saucisse et la <ingredient action="revenir" quantite="200 gramme"> viande </ingredient> hachée avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> et bien <operation> émietter </operation> le tout . faire <operation ingredients="macaroni"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> macaroni </ingredient> aldente . <operation ingredients="chair;viande;pâtes;oeufs"> mélanger </operation> la <ingredient action="mélanger" quantite="300 gramme"> chair </ingredient> à saucisse , la <ingredient action="mélanger" quantite="200 gramme"> viande </ingredient> hachée , les <ingredient action="mélanger"> pâtes </ingredient> et les <ingredient action="mélanger" quantite="6"> oeufs </ingredient> . <operation> beurrer </operation> le plat , puis étaler le tout dans le plat , <operation ingredients="gruyère"> mettre </operation> du <ingredient action="mettre" quantite="75 gramme"> gruyère </ingredient> par dessus et <operation> enfourner </operation> pour 20 minutes de cuisson à 210 <operation> ° </operation> c ( thermostat 7 ) . <ingredient> bordeaux </ingredient> rouge
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25982">
+<titre>Lapin au four</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>2 oignons</p>
+<p>150 g de lardons</p>
+<p>150 g olives vertes à la mexicaine</p>
+<p>3 verres de vin blanc</p>
+<p>3 verres d'eau</p>
+<p>herbes de Provence</p>
+<p>sel, poivre</p>
+<p>1 kg de pommes de terre</p>
+</ingredients>
+<preparation>
+dans un plat , <operation ingredients="pommes"> mettre </operation> les <ingredient action="mettre" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> coupées </operation> en lamelles , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="lapin"> poser </operation> les morceaux de <ingredient action="poser" quantite="1"> lapin </ingredient> dessus . <operation ingredients="lardons;olives"> ajouter </operation> les <ingredient action="ajouter" quantite="150 gramme"> lardons </ingredient> , et les <ingredient action="ajouter" quantite="150 gramme"> olives </ingredient> . <operation ingredients="vin"> verser </operation> l' eau et le <ingredient action="verser" quantite="3 verre"> vin </ingredient> blanc . <operation> cuire </operation> au four , th 200 <operation> ° </operation> c. a mi-cuisson , retouner la <ingredient quantite="1;150 gramme"> viande </ingredient> , si besoin <operation> recouvrir </operation> en fin de cuisson d' une feuille d' aluminium . il est recommmandé de <operation ingredients="olives"> mettre </operation> des <ingredient action="mettre" quantite="150 gramme"> olives </ingredient> <operation> préparés </operation> dans une sauce relevée . <ingredient quantite="3 verre"> vin </ingredient> d' alsace , <ingredient quantite="3 verre"> vin </ingredient> du jura
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32794">
+<titre>Véritable salade russe</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 betteraves rouges cuites</p>
+<p>200 g de boeuf cuit</p>
+<p>3 mollossols (gros cornichons russes) </p>
+<p>2 oeufs</p>
+<p>2 pommes de terre</p>
+<p>huile</p>
+<p>vinaigre de vin</p>
+<p>sel, poivre</p>
+<p>aneth (fraîche ou surgelée) </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oeufs;pommes"> cuire </operation> les <ingredient action="cuire" quantite="2"> oeufs </ingredient> et les <ingredient action="cuire" quantite="2"> pommes </ingredient> de terre et les faire refroidir . pendant ce temps , <operation ingredients="boeuf;cornichons;pommes;oeufs"> couper </operation> en cubes les betteraves , le <ingredient action="couper" quantite="200 gramme"> boeuf </ingredient> et les <ingredient action="couper"> cornichons </ingredient> , puis les <ingredient action="couper" quantite="2"> pommes </ingredient> de terre et les <ingredient action="couper" quantite="2"> oeufs </ingredient> . <operation ingredients="huile"> mettre </operation> le tout dans un saladier avec la vinaigrette <ingredient action="mettre" quantite=""> huile </ingredient> - vinaigre - aneth ( ne pas hésiter à <operation ingredients="aneth"> mettre </operation> beaucoup d' <ingredient action="mettre" quantite=""> aneth </ingredient> ) . . . c' est meilleur ! très bonne <ingredient> salade </ingredient> à faire en hiver . recette de mon père . . . importée directement de russie . . . rien à voir avec de la <ingredient> macédoine </ingredient> de légumes appelée souvent et illégitimement <ingredient> salade </ingredient> russe ! !
+</preparation>
+</recette>

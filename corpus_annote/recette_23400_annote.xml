@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23400">
+<titre>Epaule de mouton aux haricots verts</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de mouton en morceaux</p>
+<p>750 g de haricots verts</p>
+<p>1 capsule de safran</p>
+<p>3 gousses d'ail</p>
+<p>25 cl d'huile</p>
+<p>50 cl d'eau</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="750 gramme"> viande </ingredient> pendant 20 min . <operation ingredients="ail;safran"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , le <ingredient action="ajouter"> safran </ingredient> et l' eau . <operation> assaisonner </operation> . <operation> porter </operation> le tout à <operation> ébullition </operation> et laisser <operation> mijoter </operation> pendant 1 h. <operation ingredients="haricots"> incorporer </operation> les <ingredient action="incorporer" quantite="750 gramme"> haricots </ingredient> et continuer la cuisson jusqu' à ce qu' ils soient <operation> cuits </operation> .
+</preparation>
+</recette>

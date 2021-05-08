@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59698">
+<titre>Bouillon aux boulettes de pain</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de pain rassis en morceaux</p>
+<p>20 cl lait chaud</p>
+<p>100 g de jambon cru haché</p>
+<p>1 petit oignon haché</p>
+<p>1 oeuf battu</p>
+<p>50 g beurre mou</p>
+<p>1/2 bouquet de persil haché</p>
+<p>du poivre</p>
+<p>80 cl de bouillon de légumes</p>
+<p>du parmesan</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;lait"> mouiller </operation> le <ingredient action="mouiller" quantite="150 gramme"> pain </ingredient> avec le <ingredient action="mouiller" quantite="20 cl"> lait </ingredient> , <operation> écraser </operation> à la fourchette pour en faire une bouillie puis l' <operation> essorer </operation> entre les mains . <operation ingredients="jambon;oignon;oeuf;beurre;persil;poivre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> jambon </ingredient> , l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , l' <ingredient action="ajouter"> oeuf </ingredient> , le <ingredient action="ajouter"> beurre </ingredient> , le <ingredient action="ajouter"> persil </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> , bien <operation> mélanger </operation> le tout . <operation ingredients="bouillon"> porter </operation> le <ingredient action="porter" quantite="80 cl"> bouillon </ingredient> à <operation> ébullition </operation> . <operation> former </operation> des petites boulettes et les <operation ingredients="bouillon"> cuire </operation> 15 min dans le <ingredient action="cuire" quantite="80 cl"> bouillon </ingredient> . servir saupoudré de <ingredient quantite=""> parmesan </ingredient> . une recette facile pour utiliser le <ingredient quantite="150 gramme"> pain </ingredient> rassis .
+</preparation>
+</recette>

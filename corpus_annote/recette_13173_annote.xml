@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13173">
+<titre>Morbiflette</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>1 saucisse de morteau</p>
+<p>500 g de morbier</p>
+<p>1,5 kg de pommes de terre</p>
+<p>1 dl de vin blanc sec</p>
+<p>6 oignons</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1,5 kilogramme"> pommes </ingredient> de terre à la vapeur . pendant la cuisson , <operation ingredients="saucisse"> découper </operation> la <ingredient action="découper" quantite="1"> saucisse </ingredient> crue en rondelles que vous ferez <operation> griller </operation> dans une <operation> poêle </operation> . de même , <operation ingredients="oignons"> éplucher </operation> les <ingredient action="éplucher" quantite="6"> oignons </ingredient> et faites les <operation> revenir </operation> jusqu' à ce qu' ils soient légèrement blonds . <operation ingredients="pommes"> découper </operation> les <ingredient action="découper" quantite="1,5 kilogramme"> pommes </ingredient> de terre en cubes et <operation ingredients="pommes"> garnissez </operation> le fond d' un plat ovale avec la moitié des <ingredient action="garnir" quantite="1,5 kilogramme"> pommes </ingredient> de terre . <operation ingredients="saucisses"> ajouter </operation> sur cette couche les <ingredient action="ajouter" quantite="1"> saucisses </ingredient> , les <ingredient quantite="6"> oignons </ingredient> et une partie du <ingredient> fromage </ingredient> <operation> découpé </operation> en tranches . <operation ingredients="pommes;fromage"> mettre </operation> le reste des <ingredient action="mettre" quantite="1,5 kilogramme"> pommes </ingredient> de terre puis le <ingredient action="mettre"> fromage </ingredient> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="1 dl"> vin </ingredient> blanc . <operation> cuire </operation> à four moyen ( 160 <operation> ° </operation> c ) pendant une vingtaine de minutes . sortez le plat et <operation> nappez </operation> de <ingredient quantite=""> crème </ingredient> fraîche . <operation> mettez </operation> au grill une dizaine de minutes . chardonnay
+</preparation>
+</recette>

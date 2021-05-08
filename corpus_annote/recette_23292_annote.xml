@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23292">
+<titre>Cake aux fraises et coulis</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de fraises sucrées</p>
+<p>140 g de farine</p>
+<p>100 g de sucre</p>
+<p>3 oeufs</p>
+<p>150 g de beurre</p>
+<p>1 sachet de levure</p>
+<p>extrait de vanille liquide </p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="fraises"> équeuter </operation> les <ingredient action="équeuter" quantite="400 gramme"> fraises </ingredient> . <operation ingredients="fraises"> mixer </operation> 200 g de <ingredient action="mixer" quantite="400 gramme"> fraises </ingredient> en coulis et <operation ingredients="fraises"> couper </operation> le reste des <ingredient action="couper" quantite="400 gramme"> fraises </ingredient> en morceaux . <operation ingredients="farine;levure;oeufs;sucre;beurre"> mélanger </operation> dans un saladier la <ingredient action="mélanger" quantite="140 gramme"> farine </ingredient> , la <ingredient action="mélanger"> levure </ingredient> , les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et le <ingredient action="mélanger" quantite="150 gramme"> beurre </ingredient> <operation> fondu </operation> . <operation ingredients="fraises"> verser </operation> dans la préparation la moitié du coulis et les <ingredient action="verser" quantite="400 gramme"> fraises </ingredient> en morceaux . <operation> enfourner </operation> environ 45 min à 180 <operation> ° </operation> c ( thermostat 6 ) . servir avec le reste de coulis , une fois le cake bien refroidi .
+</preparation>
+</recette>

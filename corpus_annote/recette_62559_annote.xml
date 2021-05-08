@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62559">
+<titre>Fajitas de poulet façon Agnès</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 blancs de poulet</p>
+<p>2 poivrons rouges</p>
+<p>2 poivrons verts</p>
+<p>1 oignon</p>
+<p>800 g de pulpe de tomate en dés</p>
+<p>2 à 3 cuillères à café de cannelle</p>
+<p>3 à 4 cuillères à soupe de crème fraîche épaisse</p>
+<p>2 paquets de 8 tortillas au blé</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;poivrons"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en morceaux et les <ingredient action="couper"> poivrons </ingredient> en lamelles . faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> puis <operation ingredients="poulet"> ajouter </operation> le <ingredient action="ajouter"> poulet </ingredient> et le faire <operation> cuire </operation> pendant 5 minutes . <operation ingredients="poulet"> retirer </operation> le <ingredient action="retirer"> poulet </ingredient> et faire <operation ingredients="poivron"> cuire </operation> le <ingredient action="cuire"> poivron </ingredient> pendant 5 minutes également . <operation ingredients="poulet;tomate;cannelle"> rajouter </operation> le <ingredient action="rajouter"> poulet </ingredient> , la <ingredient action="rajouter"> tomate </ingredient> et la <ingredient action="rajouter"> cannelle </ingredient> . laisser <operation> mijoter </operation> à feu doux pendant 1 . 15 minutes . au dernier moment , <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter"> crème </ingredient> fraîche . laisser <operation> cuire </operation> encore . 4 minutes . <operation ingredients="tortillas"> réchauffer </operation> les <ingredient action="réchauffer"> tortillas </ingredient> au micro-ondes . servir bien chaud . régalez -vous ! ! ! ! !
+</preparation>
+</recette>

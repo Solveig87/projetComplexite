@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24722">
+<titre>Croquettes au thon</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de pommes de terre</p>
+<p>350 g de miettes de thon au naturel</p>
+<p>2 oeufs</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>1 citron</p>
+<p>1/2 bouquet de persil</p>
+<p>farine</p>
+<p>huile de friture</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> pommes </ingredient> de terre ( à la vapeur ou à l' eau ) . <operation> pelez </operation> - les et écrasez - les en purée . <operation ingredients="oeufs;échalotes;ail;persil"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> battus </operation> en omelette , les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> , l' <ingredient action="ajouter"> ail </ingredient> et le <ingredient action="ajouter"> persil </ingredient> hachés . <operation> salez </operation> , <operation> poivrez </operation> et <operation ingredients="thon"> ajoutez </operation> le <ingredient action="ajouter"> thon </ingredient> . <operation ingredients="noix"> formez </operation> des boulettes de la taille d' une grosse <ingredient action="former"> noix </ingredient> . applatissez - les un peu et <operation> passez </operation> - les dans la <ingredient quantite=""> farine </ingredient> . faites - les <operation> frire </operation> environ 15 min et servez avec des quartiers de <ingredient quantite="1"> citron </ingredient> .
+</preparation>
+</recette>

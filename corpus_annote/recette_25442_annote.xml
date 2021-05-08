@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25442">
+<titre>Soupe de légumes variés</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poireaux</p>
+<p>6 carottes</p>
+<p>2 navets</p>
+<p>2 branche de céleri</p>
+<p>15 pommes de terre</p>
+<p>2 échalotes</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="légumes"> découper </operation> tous les <ingredient action="découper" quantite="2;6;2;15;2"> légumes </ingredient> . faire <operation ingredients="poireaux;beurre;échalotes"> revenir </operation> les <ingredient action="revenir" quantite="2"> poireaux </ingredient> dans du <ingredient action="revenir"> beurre </ingredient> avec les <ingredient action="revenir" quantite="2"> échalotes </ingredient> ( sans faire <operation> dorer </operation> ) . ensuite <operation ingredients="légumes"> mélanger </operation> tous les <ingredient action="mélanger" quantite="2;6;2;15;2"> légumes </ingredient> et les <operation> recouvrir </operation> d' eau . terminer la cuisson lorsque les <ingredient action="cuire" quantite="6"> carottes </ingredient> sont <operation ingredients="carottes"> cuites </operation> . <operation> mixer </operation> le tout . nb : lors de la cuisson on peut <operation ingredients="lard"> rajouter </operation> un morceau de <ingredient action="rajouter"> lard </ingredient> , pour le goût .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36270">
+<titre>Gateau au chocolat de rose</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de sucre </p>
+<p>100 g de farine</p>
+<p>175 g de beurre</p>
+<p>200 g de chocolat</p>
+<p>4 oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="sucre;oeufs"> mélanger </operation> le <ingredient action="mélanger" quantite="100 gramme"> sucre </ingredient> et les jaunes d' <ingredient action="mélanger" quantite="4"> oeufs </ingredient> jusqu' à obtenir un ruban . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> et <operation> mélanger </operation> . faire <operation ingredients="chocolat;beurre"> fondre </operation> à feu doux le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="175 gramme"> beurre </ingredient> <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> chocolat </ingredient> <operation ingredients="sucre"> fondu </operation> à la préparation ( jaune + <ingredient action="fondre" quantite="100 gramme"> sucre </ingredient> + farine ) <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="4"> oeufs </ingredient> en neige bien ferme . <operation> ajouter </operation> doucement les blancs en neige au <operation> mélange </operation> précédent . <operation> verser </operation> dans un <operation> moule </operation> à manqué . faire <operation> cuire </operation> au bain - marie dans le four , <operation> recouvert </operation> d' un papier aluminium 40 min à 15 . 180 <operation> ° </operation> c ( thermostat . 6 ) . laisser <operation> cuire </operation> les 5 dernières minutes sans l' aluminium . le nom vient du faite que c' est mon ancienne voisinne ( rose ) qui m' a donné sa recette . la cuisson au bain - marie <operation ingredients="gâteau"> rend </operation> ce <ingredient action="rendre"> gâteau </ingredient> parfaitement moelleux .
+</preparation>
+</recette>

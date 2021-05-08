@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37148">
+<titre>Soupe de melon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 melons</p>
+<p>herbes (estragon ou menthe bergamoté)</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="chair;estragon;menthe"> mixez </operation> la <ingredient action="mixer"> chair </ingredient> du melon avec les herbes : soit l' <ingredient action="mixer"> estragon </ingredient> pour l' entrée soit de la <ingredient action="mixer"> menthe </ingredient> bergamoté si vous la servez au <ingredient> dessert </ingredient> . pour l' entrée ne pas hésitez de <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="soupe;melon"> remplir </operation> de la <ingredient action="remplir"> soupe </ingredient> les demi <ingredient action="remplir" quantite="2"> melon </ingredient> <operation> évidés </operation> et <operation> mettre </operation> au refrigérateur au moins 1 heure . du <ingredient> vin </ingredient> de maury ( mas amiel ) pour le <ingredient> dessert </ingredient>
+</preparation>
+</recette>

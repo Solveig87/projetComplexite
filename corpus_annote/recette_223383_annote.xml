@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223383">
+<titre>Risotto au poulet, maïs et champignons</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 oignons</p>
+<p>250 g de riz rond ou spécial risotto</p>
+<p>1 l d'eau</p>
+<p>1 cube de bouillon</p>
+<p>3 blancs de poulet (ou des restes de poulet) </p>
+<p>250 g de maïs </p>
+<p>100 g de champignons de paris</p>
+<p>200 g de mascarpone</p>
+<p>1 cuillère à soupe de vin blanc </p>
+<p>1 pincée de piment d'espelette</p>
+<p>huile d'olive ou margarine ou choix selon les préférence</p>
+</ingredients>
+<preparation>
+faire <operation> bouillir </operation> l' eau , puis y <operation ingredients="bouillon"> incorporer </operation> le <ingredient action="incorporer"> bouillon </ingredient> . <operation> éplucher </operation> , <operation ingredients="oignons"> couper </operation> en petits les <ingredient action="couper" quantite="2"> oignons </ingredient> , les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> . <operation> ajouter </operation> une cuillère à soupe de vin blanc . <operation ingredients="maïs;champignons;oignons"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> maïs </ingredient> , puis les <ingredient action="ajouter" quantite="100 gramme"> champignons </ingredient> dans les <ingredient action="ajouter" quantite="2"> oignons </ingredient> . faire <operation ingredients="riz;huile;margarine"> revenir </operation> le <ingredient action="revenir" quantite="250 gramme"> riz </ingredient> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive ou de <ingredient action="revenir"> margarine </ingredient> . une fois que l' eau bout bien et que le cube et bien <operation> dissout </operation> <operation ingredients="riz"> incorporer </operation> une louche dans le <ingredient action="incorporer" quantite="250 gramme"> riz </ingredient> . <operation> remuer </operation> sans cesse , quand le <ingredient quantite="250 gramme"> riz </ingredient> a bu toute l' eau , <operation ingredients="riz"> ajouter </operation> de l' eau jusqu' à ce que le <ingredient action="ajouter" quantite="250 gramme"> riz </ingredient> soit bien crémeux . soit vous avez des restes de <ingredient> poulet </ingredient> déjà <operation> cuits </operation> , sinon faire <operation ingredients="poulet"> cuire </operation> les blancs de <ingredient action="cuire"> poulet </ingredient> au grill . les <operation> couper </operation> en petits morceaux et <operation ingredients="maïs"> ajouter </operation> dans le <operation> mélange </operation> de <ingredient action="ajouter" quantite="250 gramme"> maïs </ingredient> . <operation ingredients="légumes;viande"> mélanger </operation> les <ingredient action="mélanger" quantite="2;250 gramme;100 gramme"> légumes </ingredient> et la <ingredient action="mélanger"> viande </ingredient> au riz , puis <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> mascarpone </ingredient> , servir bien chaud .
+</preparation>
+</recette>

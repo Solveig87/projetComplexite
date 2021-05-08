@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27548">
+<titre>L'enveloppe au saumon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 tranches de saumon fumé</p>
+<p>5 à 6 œufs</p>
+<p>crème fraîche</p>
+<p>ciboulette</p>
+<p>quelques tomates pour la présentation</p>
+</ingredients>
+<preparation>
+prévoir la sauce est à <operation> préparer </operation> une heure avant . cuisson : 10 min tout d' abord , il faut <operation> préparer </operation> la sauce : <operation ingredients="crème;sel;poivre;ciboulette"> battre </operation> de la <ingredient action="battre" quantite=""> crème </ingredient> fraîche liquide avec du <ingredient action="battre"> sel </ingredient> , du <ingredient action="battre"> poivre </ingredient> et pas mal de <ingredient action="battre" quantite=""> ciboulette </ingredient> . il faut la <operation> battre </operation> jusqu' à ce qu' elle soit bien <operation> épaissie </operation> . puis la <operation> mettre </operation> au frigo . <operation ingredients="œufs;sel;crème"> préparez </operation> une omelette avec les <ingredient action="préparer" quantite="5"> œufs </ingredient> , du <ingredient action="préparer"> sel </ingredient> , poivre , et une peu de <ingredient action="préparer" quantite=""> crème </ingredient> fraîche . <operation ingredients="saumon"> divisez </operation> l' omelette en 4 parts , que vous <operation> envelopperez </operation> d' une tranche de <ingredient action="diviser"> saumon </ingredient> dans chaque assiette . l' omelette doit être encore chaude , mais pas trop pour ne pas <operation ingredients="saumon"> cuire </operation> le <ingredient action="cuire"> saumon </ingredient> . <operation ingredients="tomates;persil"> ajouter </operation> quelques tranches de <ingredient action="ajouter" quantite="quelque"> tomates </ingredient> , et un brin de <ingredient action="ajouter"> persil </ingredient> ( pour la couleur ) . et surtout la super sauce précédemment <operation> préparée </operation> . bon appétit ! une entrèe qui vous fait <operation> passer </operation> pour un vrai chef ! c' est la préférée de mes amis !
+</preparation>
+</recette>

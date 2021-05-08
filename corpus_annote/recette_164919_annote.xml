@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164919">
+<titre>Gratin ensoleillé</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 courgettes </p>
+<p>6 grosses tomates</p>
+<p>500g de hachis de boeuf</p>
+<p>un oignon</p>
+<p>creme fraiche</p>
+<p>parmesan</p>
+<p>sel </p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faites precuire les courgettes au micro-onde 7 mn pendant ce temps <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en rondelle . faites de meme avec les courgettes . dans une poelle faites suer un <ingredient quantite="1"> oignon </ingredient> puis y <operation ingredients="sel;poivre"> mettre </operation> le hachi <ingredient action="mettre" quantite=""> sel </ingredient> <ingredient action="mettre" quantite=""> poivre </ingredient> . une fois le hachi precuit y <operation> ajouter </operation> un quart de brique de creme fraiche . dans plat <operation ingredients="tomate;sel;poivre"> deposer </operation> le hachi puis successivement une rondelle de <ingredient action="deposer" quantite="6"> tomate </ingredient> une rondelle de courgette <ingredient action="deposer" quantite=""> sel </ingredient> <ingredient action="deposer" quantite=""> poivre </ingredient> . une fois toutes les rondelles deposées <operation> mettre </operation> le parmezan . <operation> enfournez </operation> 30 mn a 180 <operation> ° </operation> <ingredient> vin </ingredient> rouge fruité
+</preparation>
+</recette>

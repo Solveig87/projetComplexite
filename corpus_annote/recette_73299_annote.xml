@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73299">
+<titre>Thon Brésilien</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 poivrons rouge</p>
+<p>2 poivrons verts</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>4 tomates</p>
+<p>1 grande boîte de thon</p>
+<p>persil</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;oignon;gousses"> coupez </operation> les <ingredient action="couper"> poivrons </ingredient> en petit dés , ainsi que l' <ingredient action="couper" quantite="1"> oignon </ingredient> et les <ingredient action="couper" quantite="2"> gousses </ingredient> d' ail . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="4"> tomates </ingredient> en morceaux . dans une <operation> poêle </operation> , faites <operation ingredients="beurre;ail;oignon"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> avec l' <ingredient action="fondre"> ail </ingredient> et l' <ingredient action="fondre" quantite="1"> oignon </ingredient> , <operation ingredients="poivrons"> ajoutez </operation> les dés de <ingredient action="ajouter"> poivrons </ingredient> et faites <operation> cuire </operation> le tout 5 min . <operation ingredients="tomates;thon"> ajoutez </operation> les morceaux de <ingredient action="ajouter" quantite="4"> tomates </ingredient> et le <ingredient action="ajouter"> thon </ingredient> <operation> émietté </operation> , <operation> salez </operation> et <operation> poivrez </operation> . laissez <operation> cuire </operation> le tout 30 min . a la fin de la cuisson , <operation> mettez </operation> la préparation dans un plat allant au four et <operation> parsemez </operation> de <ingredient> gruyère </ingredient> <operation> râpé </operation> . faites <operation> cuire </operation> le tout 15 min environ . vous pouvez <operation ingredients="riz"> accompagner </operation> ce plat de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

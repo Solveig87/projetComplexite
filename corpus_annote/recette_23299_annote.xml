@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23299">
+<titre>Bavaroise de saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de saumon fumé</p>
+<p>1/4 l de lait</p>
+<p>1/4 l de crème fraîche</p>
+<p>4 jaunes d’oeufs</p>
+<p>4 feuilles de gélatine</p>
+<p>1 petite boîte d’asperges</p>
+<p>kiwis et oeufs de lump pour le décor</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> tremper </operation> les feuilles de <ingredient action="tremper" quantite="4 feuille"> gélatine </ingredient> dans un peu d’ eau . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter"> crème </ingredient> fraîche . <operation ingredients="saumon;lait"> mixer </operation> le <ingredient action="mixer"> saumon </ingredient> avec le <ingredient action="mixer"> lait </ingredient> , puis faire <operation> chauffer </operation> . hors du feu , <operation ingredients="oeufs"> ajouter </operation> les jaunes d’ <ingredient action="ajouter"> oeufs </ingredient> , puis <operation> remettre </operation> à <operation ingredients="crème"> chauffer </operation> tout en <operation> remuant </operation> ( comme la <ingredient action="chauffer"> crème </ingredient> anglaise avec les mêmes dangers de faire <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire"> oeufs </ingredient> ) . après épaississement , <operation ingredients="gélatine;asperges;crème"> mettre </operation> la <ingredient action="mettre" quantite="4 feuille"> gélatine </ingredient> , les <ingredient action="mettre"> asperges </ingredient> et la <ingredient action="mettre"> crème </ingredient> <operation> fouettée </operation> . <operation> verser </operation> dans un <operation> moule </operation> à cake légèrement <operation> huilé </operation> et <operation> mettre </operation> au frais pendant 24 heures . <operation> démouler </operation> et <operation> décorer </operation> .
+</preparation>
+</recette>

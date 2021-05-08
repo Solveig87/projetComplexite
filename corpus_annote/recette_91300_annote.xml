@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91300">
+<titre>Pain de thon au fromage râpé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>100 g de farine</p>
+<p>1 boîte de 300 g de thon</p>
+<p>10 cl de lait</p>
+<p>5 cl d'huile</p>
+<p>1 sachet de levure chimique</p>
+<p>100 g de fromage râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs;farine;lait;huile;fromage"> mélanger </operation> dans un saladier les <ingredient action="mélanger" quantite="3"> œufs </ingredient> , la <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> , le <ingredient action="mélanger" quantite="10 cl"> lait </ingredient> , l' <ingredient action="mélanger" quantite="5 cl"> huile </ingredient> et le <ingredient action="mélanger" quantite="100 gramme"> fromage </ingredient> râpé . <operation ingredients="thon"> émietter </operation> le <ingredient action="émietter"> thon </ingredient> . l' <operation> incorporer </operation> au <operation> mélange </operation> . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="levure"> mettre </operation> la <ingredient action="mettre"> levure </ingredient> . <operation> mettre </operation> dans un <operation> moule </operation> puis <operation> cuire </operation> à 170 <operation> ° </operation> c ( thermostat . 7 ) . laisser refroidir deux heures .
+</preparation>
+</recette>

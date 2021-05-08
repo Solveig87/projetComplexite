@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64836">
+<titre>Soupe mexicaine aux boulettes</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour les boulettes :</p>
+<p>300 g de veau</p>
+<p>200 g de poitrine de porc</p>
+<p>1 oignon</p>
+<p>150 g de tomates en dés</p>
+<p>1 pointe d’harissa</p>
+<p>1 jaune d’œuf</p>
+<p>40 g de gruyère râpé</p>
+<p>60 g de raisins secs</p>
+<p>60 g de pain rassis</p>
+<p>1 morceau de sucre</p>
+<p>huile d'olive</p>
+<p>persil haché</p>
+<p>1 pincée de muscade râpée</p>
+<p>sel et poivre</p>
+<p>Pour le bouillon :</p>
+<p>80 cl de bouillon de bœuf</p>
+<p>40 cl de vin rouge</p>
+<p>1 oignon haché</p>
+<p>thym et laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+pour les boulettes : faire <operation ingredients="pain"> tremper </operation> le <ingredient action="tremper" quantite="60 gramme"> pain </ingredient> dans un bol d’ eau . <operation ingredients="oignon"> peler </operation> et <operation> hacher </operation> l’ <ingredient action="peler" quantite="1+1"> oignon </ingredient> , le faire <operation> revenir </operation> dans 1 cuillère à soupe d’ huile d' olive . <operation ingredients="harissa;sucre"> ajouter </operation> la to - mate <operation> concassée </operation> , l’ <ingredient action="ajouter"> harissa </ingredient> et le <ingredient action="ajouter"> sucre </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> réduire </operation> jusqu' à l’ obtention d’ une sauce épaisse . <operation ingredients="pain"> presser </operation> le <ingredient action="presser" quantite="60 gramme"> pain </ingredient> pour en extirper toute l’ eau , le <operation ingredients="veau;poitrine"> passer </operation> au hachoir mécanique ( <operation> grille </operation> fine ) avec le <ingredient action="passer" quantite="300 gramme"> veau </ingredient> et la <ingredient action="passer" quantite="200 gramme"> poitrine </ingredient> de porc . <operation ingredients="raisins;muscade;gruyère"> ajouter </operation> les <ingredient action="ajouter" quantite="60 gramme"> raisins </ingredient> , la <ingredient action="ajouter" quantite="1 pincée"> muscade </ingredient> , le <ingredient action="ajouter" quantite="40 gramme"> gruyère </ingredient> , puis la sauce tomate tiède . <operation ingredients="œuf"> incorporer </operation> le jaune d’ <ingredient action="incorporer"> œuf </ingredient> et <operation> travailler </operation> pour obtenir une farce homogène . <operation> façonner </operation> ce <operation> mélange </operation> en boulettes de 4 cm de diamètre et <operation> réserver </operation> . pour le <ingredient quantite="80 cl"> bouillon </ingredient> : faire <operation ingredients="oignon"> fondre </operation> l’ <ingredient action="fondre" quantite="1+1"> oignon </ingredient> <operation> haché </operation> dans 1 cuillère à soupe d’ huile d' olive . <operation ingredients="bouillon;vin"> ajouter </operation> le <ingredient action="ajouter" quantite="80 cl"> bouillon </ingredient> de bœuf , le <ingredient action="ajouter" quantite="40 cl"> vin </ingredient> , les aromates et faire <operation> bouillir </operation> doucement quelques minutes . <operation> saler </operation> et <operation> poivrer </operation> . <operation> ajouter </operation> les boulettes , <operation> couvrir </operation> et laisser <operation> mijoter </operation> 40 min sur feu doux . <operation ingredients="bouillon"> ajouter </operation> du <ingredient action="ajouter" quantite="80 cl"> bouillon </ingredient> si la sauce <operation> réduit </operation> trop . pour servir : <operation ingredients="bouillon"> disposer </operation> <ingredient action="disposer" quantite="80 cl"> bouillon </ingredient> et boulettes dans une grande assiette , <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> .
+</preparation>
+</recette>

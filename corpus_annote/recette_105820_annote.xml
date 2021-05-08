@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="105820">
+<titre>Pavé de saumon grillé au miel et aux baies roses</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pavés de saumon</p>
+<p>3 cuillères à soupe de miel</p>
+<p>1 cuillère à soupe de baies roses concassées</p>
+<p>2 gousses d'ail</p>
+<p>1 oignon</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="miel;moutarde"> préparer </operation> une sauce avec le <ingredient action="préparer" quantite="3 cuillère à soupe"> miel </ingredient> , la <ingredient action="préparer" quantite="1 cuillère à soupe"> moutarde </ingredient> les baies roses et 3 cuillères à soupe d' huile d' olive <operation ingredients="poisson"> enduire </operation> le <ingredient action="enduire"> poisson </ingredient> et le laisser <operation> mariner </operation> durant 1 heure <operation ingredients="ail"> peler </operation> et <operation> hacher </operation> <ingredient action="peler"> ail </ingredient> et oignon . dans une sauteuse , faire <operation> chauffer </operation> 2 cuillère à soupe d' huile d' olive puis faire <operation ingredients="ail;oignon"> revenir </operation> l' <ingredient action="revenir"> ail </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> pendant 5 min <operation ingredients="pavés"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> pavés </ingredient> de saumons en commençant par le coté peau et faire <operation> cuire </operation> 10 à 15 min suivant l' épaisseur des <ingredient quantite="2"> pavés </ingredient>
+</preparation>
+</recette>

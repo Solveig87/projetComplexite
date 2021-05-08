@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55581">
+<titre>Tarte vite faite pour copains qui arrivent</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>une pâte à tarte feuilletée ou sablée</p>
+<p>une plaque de chocolat à cuire</p>
+<p>une brique ou boite de lait de coco</p>
+<p>2 oeufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> dans une casserole en <operation ingredients="lait"> ajoutant </operation> petit à petit un peu de <ingredient action="ajouter"> lait </ingredient> de coco pour ne pas que cela attache . <operation ingredients="oeufs"> battre </operation> les 2 <ingredient action="battre" quantite="2"> oeufs </ingredient> et <operation ingredients="chocolat;lait"> ajouter </operation> le <ingredient action="ajouter"> chocolat </ingredient> et la totalité du <ingredient action="ajouter"> lait </ingredient> de coco . <operation ingredients="pâte"> verser </operation> tout sur la <ingredient action="verser" quantite="1"> pâte </ingredient> à tarte . <operation> cuire </operation> 20 à 25 minutes à 200 <operation> ° </operation> c ( thermostat . 7 ) . réalisée un soir pour des copains arrivés à l' improviste et rien dans le frigo . . . et tout le monde m' a demandé la recette .
+</preparation>
+</recette>

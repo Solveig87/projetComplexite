@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54625">
+<titre>Soupe aux oignons au maroilles</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g d'oignons</p>
+<p>3 l d'eau</p>
+<p>1 maroille de 300 g</p>
+<p>5 biscottes (ou du pain rassis en croûtons)</p>
+<p>sel et poivre</p>
+<p>50 g de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;beurre"> fondre </operation> les <ingredient action="fondre" quantite="500 gramme"> oignons </ingredient> <operation> émincés </operation> dans le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . quand ils sont <operation> fondus </operation> , <operation> ajouter </operation> l' eau et laisser <operation> cuire </operation> 30 min puis <operation ingredients="maroilles"> ajouter </operation> le <ingredient action="ajouter"> maroilles </ingredient> <operation> découpé </operation> en morceaux et laisser <operation> cuire </operation> encore 15 min . avant de <operation ingredients="soupe"> passer </operation> la <ingredient action="passer"> soupe </ingredient> <operation ingredients="biscottes"> mettre </operation> les <ingredient action="mettre" quantite="5"> biscottes </ingredient> <operation> découpées </operation> en morceaux . il ne reste plus qu' à déguster la <ingredient> soupe </ingredient> ! bon appétit !
+</preparation>
+</recette>

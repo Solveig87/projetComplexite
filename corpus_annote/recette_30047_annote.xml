@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30047">
+<titre>Côtes de veau, avocat et Porto</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 côtes de veau</p>
+<p>1 avocat ferme</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>5 cl de Porto</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocat"> détailler </operation> des billes d' <ingredient action="détailler" quantite="1"> avocat </ingredient> et les faire <operation ingredients="beurre"> revenir </operation> 3 minutes dans 10 g de <ingredient action="revenir" quantite="20 gramme"> beurre </ingredient> et 1 cuillère à soupe d' huile . <operation ingredients="viande"> saler </operation> et <operation> poivrer </operation> la <ingredient action="saler" quantite="4"> viande </ingredient> , la faire <operation ingredients="beurre;huile"> revenir </operation> dans le <ingredient action="revenir" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> jusqu' à ce qu' elle soit dorée puis <operation ingredients="avocat;porto"> ajouter </operation> les billes d' <ingredient action="ajouter" quantite="1"> avocat </ingredient> et le <ingredient action="ajouter" quantite="5 cl"> porto </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> 20 à 30 minutes .
+</preparation>
+</recette>

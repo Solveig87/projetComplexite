@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24514">
+<titre>Potage au chou-fleur</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 litre de bouillon de volaille</p>
+<p>1,5 litre de lait</p>
+<p>2 choux-fleurs</p>
+<p>250 g de fromage râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="choux"> cuire </operation> à moitié vos <ingredient action="cuire" quantite="2"> choux </ingredient> - fleurs ( à la vapeur si possible ) que vous aurez préalablement <operation> détaillés </operation> en morceaux . dans une grande casserole , <operation ingredients="bouillon;choux"> portez </operation> à ébulition le <ingredient action="porter" quantite="1,5 litre"> bouillon </ingredient> et y <operation> incorporer </operation> vos <ingredient action="porter" quantite="2"> choux </ingredient> - fleurs en <operation ingredients="poivre"> assaisonnant </operation> avec du <ingredient action="assaisonner"> poivre </ingredient> de cayenne ; laisser <operation> cuire </operation> 10 mn et <operation ingredients="lait"> rajouter </operation> le <ingredient action="rajouter" quantite="1,5 litre"> lait </ingredient> jusqu' à ce la préparation frémisse . <operation> retirez </operation> du feu et <operation ingredients="fromage"> jeter </operation> le <ingredient action="jeter" quantite="250 gramme"> fromage </ingredient> <operation> râpé </operation> en pluie . <operation> passer </operation> le tout au mixeur .
+</preparation>
+</recette>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41501">
+<titre>Sauté de biche Stroganoff</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>900 g de sauté de biche</p>
+<p>500 g de petites girolles</p>
+<p>2 cuillères à soupe d'échalotes hachées</p>
+<p>1 l de vin blanc sec</p>
+<p>25 cl de cognac</p>
+<p>thym, laurier, poivre en grains</p>
+<p>5 branches de persil</p>
+<p>2 cuillères à soupe de farine</p>
+<p>2 cuillères à soupe de concentré de tomates</p>
+<p>2 cuillères à café de paprika</p>
+<p>20 cl de crème</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;vin;cognac;laurier;thym;persil;poivre"> mariner </operation> la <ingredient action="mariner"> viande </ingredient> de biche pendant 6 heures , avec le <ingredient action="mariner" quantite="1 l"> vin </ingredient> blanc , le <ingredient action="mariner" quantite="25 cl"> cognac </ingredient> , une feuille de <ingredient action="mariner" quantite=""> laurier </ingredient> , une branche de <ingredient action="mariner" quantite=""> thym </ingredient> , le <ingredient action="mariner"> persil </ingredient> , 10 grains de <ingredient action="mariner" quantite=""> poivre </ingredient> . <operation ingredients="viande"> egoutter </operation> la <ingredient action="egoutter"> viande </ingredient> , faire <operation> bouillir </operation> la marinade , la <operation> passer </operation> pour <operation> enlever </operation> les aromates et <operation> réserver </operation> . faire <operation ingredients="viande;beurre;farine;tomates"> revenir </operation> les morceaux de <ingredient action="revenir"> viande </ingredient> dans une sauteuse <ingredient action="revenir"> beurre </ingredient> , <operation ingredients="échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="2 cuillère à soupe"> échalotes </ingredient> , la <ingredient action="revenir" quantite="2 cuillère à soupe"> farine </ingredient> , le <operation> concentré </operation> de <ingredient action="revenir"> tomates </ingredient> , la marinade . <operation> rajouter </operation> un peu d' eau jusqu' à <operation ingredients="viande"> recouvrir </operation> la <ingredient action="recouvrir"> viande </ingredient> . laisser <operation> mijoter </operation> pendant 2 heures , puis <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> , faire <operation> réduire </operation> la sauce , <operation ingredients="paprika;crème;girolles"> ajouter </operation> le <ingredient action="ajouter" quantite="2 cuillère à café"> paprika </ingredient> , la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> , les minis <ingredient action="ajouter" quantite="500 gramme"> girolles </ingredient> . servir bien chaud <operation> accompagné </operation> de spätzles , de <ingredient> riz </ingredient> , ou de <ingredient> galettes </ingredient> de pomme de terre suivant les goûts . on trouve de la biche sous vide ou congelée qui <operation> passe </operation> bien pour cette recette . les <operation> amateurs </operation> de gibiers qui l' ont <operation> goûté </operation> à la maison ont apprécié . medoc
+</preparation>
+</recette>

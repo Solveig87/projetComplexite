@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="201255">
+<titre>Tagliatelles de légumes aux lardons</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 champignons de Paris</p>
+<p>1 carotte</p>
+<p>1 courgette</p>
+<p>1 oignon nouveau</p>
+<p>1/2 botte de cerfeuil</p>
+<p>1/2 botte de coriandre</p>
+<p>persil</p>
+<p>sel</p>
+<p>poivre</p>
+<p>200 g de lardons fumés</p>
+<p>1 grosse gousse d'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> lavez </operation> les <ingredient action="laver" quantite="3;1;1"> légumes </ingredient> et les herbes et <operation ingredients="carotte;oignon"> épluchez </operation> la <ingredient action="éplucher" quantite="1"> carotte </ingredient> et l' <ingredient action="éplucher" quantite="1"> oignon </ingredient> . otez le bout terreux des <ingredient quantite="3"> champignons </ingredient> et <operation ingredients="légumes;couteau;légumes;champignons"> coupez </operation> tous les <ingredient action="couper" quantite="3;1;1"> légumes </ingredient> en fines lanières à l' aide d' un <ingredient action="couper"> couteau </ingredient> très bien aiguisé ( d' une mandoline , un épluche <ingredient action="couper" quantite="3;1;1"> légumes </ingredient> ou , mieux , d' une trancheuse électrique ) et les <ingredient action="couper" quantite="3"> champignons </ingredient> en lamelles . <operation> réservez </operation> . faites <operation> bouillir </operation> une grande quantité d' eau <operation> salée </operation> . <operation ingredients="carottes"> plongez </operation> - y en premières les <ingredient action="plonger" quantite="1"> carottes </ingredient> . au bout de 2 min , <operation ingredients="champignons"> ajoutez </operation> la courgette et les <ingredient action="ajouter" quantite="3"> champignons </ingredient> , le temps que l' <operation> ébullition </operation> reprenne . pendant ce temps , dans une <operation> poêle </operation> , <operation ingredients="lardons;ail"> mettez </operation> les <ingredient action="mettre"> lardons </ingredient> et l' <ingredient action="mettre"> ail </ingredient> <operation> haché </operation> et faites <operation> revenir </operation> . <operation ingredients="légumes"> égouttez </operation> tous les <ingredient action="égoutter" quantite="3;1;1"> légumes </ingredient> puis <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="coriandre"> parsemez </operation> de <ingredient action="parsemer"> coriandre </ingredient> et de <ingredient action="ciseler" quantite=""> persil </ingredient> <operation ingredients="persil"> ciselés </operation> puis <operation ingredients="lardons"> ajoutez </operation> les <ingredient action="ajouter"> lardons </ingredient> . servez bien chaud .
+</preparation>
+</recette>

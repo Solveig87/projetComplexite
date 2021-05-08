@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22005">
+<titre>Ragoût de lapin aux carottes et au chou</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 lapin</p>
+<p>2 blancs de poulet</p>
+<p>1 chou</p>
+<p>4 carottes</p>
+<p>200 g de lardons</p>
+<p>1 kg de champignons</p>
+<p>20 cl de vin (type vin d'Alsace)</p>
+<p>40 g de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> cuisez </operation> les <ingredient action="cuire" quantite="4"> carottes </ingredient> <operation ingredients="chou"> coupées </operation> en bâtonnets et le <ingredient action="couper" quantite="1"> chou </ingredient> <operation> émincé </operation> en fines lamelles à l' eau bouillante <operation> salée </operation> durant 1 . 20 min . <operation ingredients="lapin"> désossez </operation> le <ingredient action="désosser" quantite="1"> lapin </ingredient> et <operation ingredients="poulet"> coupez </operation> - le en lanières ainsi que le <ingredient action="couper"> poulet </ingredient> . faites <operation ingredients="viandes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="1;200 gramme"> viandes </ingredient> dans le <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> chaud puis <operation ingredients="lardons"> ajoutez </operation> les <ingredient action="ajouter" quantite="200 gramme"> lardons </ingredient> préalablement <operation> salés </operation> et <operation> poivrés </operation> . lorsque la <ingredient action="ajouter" quantite="1;200 gramme"> viande </ingredient> est dorée , <operation ingredients="viande;champignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> champignons </ingredient> <operation> émincés </operation> . laissez <operation> cuire </operation> 30 min puis <operation ingredients="carottes;chou"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> carottes </ingredient> et le <ingredient action="ajouter" quantite="1"> chou </ingredient> . faites <operation ingredients="vin"> chauffez </operation> le <ingredient action="chauffer" quantite="20 cl"> vin </ingredient> d' alsace , <operation> flambez </operation> - le puis <operation ingredients="lapin"> versez </operation> - le sur le <ingredient action="verser" quantite="1"> lapin </ingredient> . poursuivez la cuisson 20 min .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53916">
+<titre>Velouté de chou-fleur aux lardons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de chou-fleur surgelé</p>
+<p>250 g de lardons</p>
+<p>10 cl de crème fraîche épaisse</p>
+<p>4 belles carottes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chou-fleur;carottes"> cuire </operation> dans un auto-cuiseur le <ingredient action="cuire" quantite="1 kilogramme"> chou-fleur </ingredient> et les <ingredient action="cuire" quantite="4"> carottes </ingredient> , dans 1 litre d' eau <operation> salée </operation> . pendant ce temps , <operation ingredients="lardons"> faire </operation> <operation> rissoler </operation> les <ingredient action="faire" quantite="250 gramme"> lardons </ingredient> dans une <operation> poêle </operation> bien chaude . <operation ingredients="chou-fleur"> mixer </operation> le <ingredient action="mixer" quantite="1 kilogramme"> chou-fleur </ingredient> , y <operation ingredients="crème;lardons"> ajouter </operation> 10 cl de <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> fraîche et les <ingredient action="ajouter" quantite="250 gramme"> lardons </ingredient> <operation> rissolés </operation> . <operation> mélanger </operation> et déguster bien chaud . une petite <ingredient> soupe </ingredient> rapide et facile .
+</preparation>
+</recette>

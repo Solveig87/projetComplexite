@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70874">
+<titre>Salade de crabe et mangue</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de miettes de crabe</p>
+<p>300 g de riz blanc cuit</p>
+<p>150 g de mangue</p>
+<p>persil frais</p>
+<p>2 yaourts natures</p>
+<p>1 citron vert</p>
+<p>sel, poivre</p>
+<p>huile de tournesol</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> et le laisser refroidir . <operation ingredients="crabe;mangue;persil"> ajouter </operation> les miettes de <ingredient action="ajouter"> crabe </ingredient> , la <ingredient action="ajouter" quantite="150 gramme"> mangue </ingredient> <operation> découpée </operation> en dés et le <ingredient action="ajouter" quantite=""> persil </ingredient> . <operation ingredients="salade;yaourts;huile;jus;sel;poivre"> assaisonner </operation> la <ingredient action="assaisonner"> salade </ingredient> avec les <ingredient action="assaisonner" quantite="2"> yaourts </ingredient> blancs <operation> battus </operation> , une cuillère d' <ingredient action="assaisonner" quantite=""> huile </ingredient> de tournesol ainsi que le <ingredient action="assaisonner"> jus </ingredient> du citron vert , le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> . servir bien frais .
+</preparation>
+</recette>

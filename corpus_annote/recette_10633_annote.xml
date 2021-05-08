@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10633">
+<titre>Poulet au thé fumé</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1l de thé fumé fort</p>
+<p>4 blancs de poulet</p>
+<p>1 citron</p>
+<p>sel, poivre</p>
+<p>beurre</p>
+<p>1/2 citron (zestes)</p>
+</ingredients>
+<preparation>
+<operation ingredients="thé;fumé"> faire </operation> un <ingredient action="faire"> thé </ingredient> <ingredient action="faire" quantite="1l"> fumé </ingredient> très fort . <operation ingredients="thé"> mariner </operation> les blancs dans le <ingredient action="mariner"> thé </ingredient> chaud 5 h. <operation> essorer </operation> les blancs et les débarrasser des brins de <ingredient> thé </ingredient> qui reste . <operation ingredients="beurre"> dorer </operation> les blancs avec le <ingredient action="dorer"> beurre </ingredient> . dans une cocotte <operation> verser </operation> la marinade ( <ingredient action="passer"> thé </ingredient> <operation ingredients="thé"> passé </operation> ) . <operation> ajouter </operation> les blancs . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="jus"> ajouter </operation> les zestes et un trait de <ingredient action="ajouter"> jus </ingredient> de citron laisser <operation> mijoter </operation> à feu doux 1 h. servir avec du <ingredient> riz </ingredient> et des petits <ingredient quantite="1"> légumes </ingredient> <operation> passés </operation> au wok saint-amour
+</preparation>
+</recette>

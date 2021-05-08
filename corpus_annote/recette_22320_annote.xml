@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22320">
+<titre>Cassoulet au saucisson et au canard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>900 g de haricots blancs</p>
+<p>3 ailes et 3 cuisses de canard confites</p>
+<p>3 saucissons à cuire</p>
+<p>4 gousses d'ail</p>
+<p>225 g de lard fumé</p>
+<p>1 bouquet de persil</p>
+<p>9 brins de thym</p>
+<p>1 oignon piqué de 2 clous de girofle</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+la veille : faites <operation ingredients="haricots"> tremper </operation> les <ingredient action="tremper" quantite="900 gramme"> haricots </ingredient> dans l' eau froide . le jour même : <operation> egouttez </operation> les <ingredient quantite="900 gramme"> haricots </ingredient> et <operation ingredients="oignon;thym"> mettez </operation> - les dans l' eau froide avec l' <ingredient action="mettre" quantite="1"> oignon </ingredient> clouté et le <ingredient action="mettre"> thym </ingredient> . amenez à <operation> ébullition </operation> et laissez <operation> cuire </operation> 1 heure . <operation> salez </operation> et <operation> poivrez </operation> en fin de cuisson . préchauffez le four à 180 <operation> ° </operation> c ( thermostat 8) . <operation ingredients="ail"> frottez </operation> d' <ingredient action="frotter"> ail </ingredient> un plat en terre à feu . <operation ingredients="confit;saucissons;lard"> déposez </operation> - y le <ingredient action="déposer"> confit </ingredient> , les <ingredient action="déposer" quantite="3"> saucissons </ingredient> et le <ingredient action="déposer"> lard </ingredient> <operation> coupé </operation> en dés . <operation ingredients="haricots"> ajoutez </operation> les <ingredient action="ajouter" quantite="900 gramme"> haricots </ingredient> <operation> égouttés </operation> et quelques louches de leur eau de cuisson . <operation> portez </operation> à <operation> ébullition </operation> puis <operation> enfournez </operation> pour 1 h 30 de cuisson . <operation ingredients="persil"> saupoudrez </operation> de <ingredient action="saupoudrer"> persil </ingredient> <operation> haché </operation> avant de servir .
+</preparation>
+</recette>

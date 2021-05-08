@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45175">
+<titre>Lapin à l'estragon</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 morceaux de râble ou 2 cuisses de lapin </p>
+<p>2 gousses d'ail </p>
+<p>1 échalote</p>
+<p>1 petite tomate </p>
+<p>15 feuilles d'estragon frais </p>
+<p>1/4 de bouillon cube de volaille dégraissé </p>
+<p>15 cl d'eau </p>
+<p>1 branche de thym </p>
+<p>1 cuillère à café d'huile</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="lapin;huile"> revenir </operation> le <ingredient action="revenir"> lapin </ingredient> dans l' <ingredient action="revenir" quantite="1 cuillère à café"> huile </ingredient> . <operation ingredients="ail"> laver </operation> l' <ingredient action="laver"> ail </ingredient> sans le <operation> peler </operation> et le <operation> piquer </operation> par endroits , <operation ingredients="échalotes"> peler </operation> les <ingredient action="peler" quantite="1"> échalotes </ingredient> et les <operation> couper </operation> en 4 , <operation ingredients="tomate"> peler </operation> et <operation> épépiner </operation> la <ingredient action="peler" quantite="1"> tomate </ingredient> puis la <operation> couper </operation> en dés . lorsque les morceaux de <ingredient> lapin </ingredient> sont légèrement dorés , <operation ingredients="ail;échalotes;tomate;estragon;thym"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , les <ingredient action="ajouter" quantite="1"> échalotes </ingredient> , la <ingredient action="ajouter" quantite="1"> tomate </ingredient> , 7 feuilles d' <ingredient action="ajouter"> estragon </ingredient> hachées , le <ingredient action="ajouter"> thym </ingredient> et <operation ingredients="bouillon"> mouiller </operation> avec le <ingredient action="mouiller"> bouillon </ingredient> de volaille . <operation> cuire </operation> à feu doux <operation> couvert </operation> , pendant 20 minutes . <operation ingredients="lapin"> réserver </operation> les morceaux de <ingredient action="réserver"> lapin </ingredient> au chaud , et <operation ingredients="thym;ail"> éliminer </operation> le <ingredient action="éliminer"> thym </ingredient> et la peau de l' <ingredient action="éliminer"> ail </ingredient> . <operation> passer </operation> le fond de cuisson au <operation> mixer </operation> et le <operation> réserver </operation> dans une cocotte . faire <operation> réduire </operation> 2 minutes , vérifier l' <ingredient quantite="2;1 cuillère à café"> assaisonnement </ingredient> et <operation ingredients="estragon"> ajouter </operation> le reste de l' <ingredient action="ajouter"> estragon </ingredient> finement <operation> ciselé </operation> .
+</preparation>
+</recette>

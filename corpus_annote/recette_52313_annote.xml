@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52313">
+<titre>Courgettes 3 épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 à 6 courgettes</p>
+<p>1 poivron rouge</p>
+<p>1 bel oignon </p>
+<p>500 g de boeuf haché</p>
+<p>4 bonnes louches de pulpe de tomates</p>
+<p>1 cuillère à café de cumin</p>
+<p>1 cuillère à café de paprika doux</p>
+<p>1 cuillère à café de ras el hanout</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;poivron"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> émincé </operation> et le <ingredient action="revenir"> poivron </ingredient> <operation> coupé </operation> en dés . quand l' <ingredient action="rajouter" quantite="1"> oignon </ingredient> est doré <operation ingredients="oignon;viande;sel;poivre;épices"> rajouter </operation> la <ingredient action="rajouter" quantite="500 gramme"> viande </ingredient> hachée , du <ingredient action="rajouter" quantite=""> sel </ingredient> , du <ingredient action="rajouter"> poivre </ingredient> et les <ingredient action="rajouter" quantite="1 cuillère à café;1 cuillère à café;"> épices </ingredient> . <operation ingredients="tomate;café;épices"> rajouter </operation> la pulpe de <ingredient action="rajouter"> tomate </ingredient> et les courgettes émicées en dés bien <operation> mélanger </operation> puis <operation> rajouter </operation> une cuillère a <ingredient action="rajouter"> café </ingredient> de chaque <ingredient action="rajouter" quantite="1 cuillère à café;1 cuillère à café;"> épices </ingredient> . <operation ingredients="jus"> laisser </operation> <operation> mijoter </operation> jusqu' à ce que les courgettes soit molles et que le <ingredient action="laisser"> jus </ingredient> soit réduit . au départ j' ai <operation ingredients="tomates"> mis </operation> les courgettes avant la pulpe de <ingredient action="mettre"> tomates </ingredient> mais c' était difficile à <operation> mélanger </operation> , je pense qu' il vaut mieux faire l' inverse . il ne faut pas avoir peur de laisser <operation> mijoter </operation> pour que les saveurs se <operation> mélangent </operation> .
+</preparation>
+</recette>

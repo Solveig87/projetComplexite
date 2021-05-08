@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54240">
+<titre>Cailles aux poivrons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 cailles</p>
+<p>6 poivrons</p>
+<p>petit salé</p>
+<p>crème fraîche épaisse</p>
+<p>moutarde</p>
+<p>ciboulettes</p>
+<p>ficelle</p>
+<p>beurre</p>
+<p>huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> salez </operation> et <operation ingredients="cailles"> poivrez </operation> l' intérieur des <ingredient action="poivrer" quantite="6"> cailles </ingredient> , <operation ingredients="cailles"> mettez </operation> un petit suisse dans chaque <ingredient action="mettre" quantite="6"> cailles </ingredient> . <operation ingredients="cailles;salés"> enveloppez </operation> les <ingredient action="envelopper" quantite="6"> cailles </ingredient> dans des petits <ingredient action="envelopper" quantite=""> salés </ingredient> et <operation> ficelez </operation> le tout , faites <operation ingredients="cailles;beurre;huile"> revenir </operation> les <ingredient action="revenir" quantite="6"> cailles </ingredient> dans du <ingredient action="revenir"> beurre </ingredient> et peu d’ <ingredient action="revenir" quantite=""> huile </ingredient> , faites <operation> dorer </operation> le tout . prenez les <ingredient quantite="6"> poivrons </ingredient> rouges et <operation> coupez </operation> le haut et les <operation> videz </operation> entièrement . <operation> réservez </operation> les capuchons . <operation ingredients="crème;soupe;ciboulette"> préparez </operation> de la <ingredient action="préparer" quantite=""> crème </ingredient> fraîche en <operation> rajoutant </operation> une cuillère a <ingredient action="préparer"> soupe </ingredient> de moutarde , et de la <ingredient action="préparer" quantite=""> ciboulette </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="poivrons"> versez </operation> une grosse cuillère de cette préparation dans chaque <ingredient action="verser" quantite="6"> poivrons </ingredient> et <operation ingredients="caille"> placez </operation> votre <ingredient action="placer" quantite="6"> caille </ingredient> à l’ intérieur de celui-ci . <operation ingredients="poivrons"> remettez </operation> les capuchons des <ingredient action="remettre" quantite="6"> poivrons </ingredient> . <operation> enroulez </operation> le tout dans du papier aluminium . <operation> enfournez </operation> environ à four chaud ( 210 <operation> ° </operation> ) . je <operation ingredients="riz;tomate"> prépare </operation> ce plat soit avec du <ingredient action="prépare"> riz </ingredient> et un coulis de <ingredient action="prépare"> tomate </ingredient> soit un gratin dauphinois .
+</preparation>
+</recette>

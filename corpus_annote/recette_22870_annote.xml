@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22870">
+<titre>Poulet aux poivrons et safran</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 cuisses de poulet sans peau</p>
+<p>3 poivrons (de chaque couleur) </p>
+<p>1 oignon</p>
+<p>2 gousses d'ail</p>
+<p>1 cuillère à soupe d'huile d'olives</p>
+<p>1 bouillon de volaille en cube</p>
+<p>1 verre de vin blanc</p>
+<p>1 dosette de safran</p>
+<p>1 pointe de couteau de gingembre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> retirer </operation> la peau du <ingredient action="retirer"> poulet </ingredient> . le faire <operation action="rôtir" ingredients="rôtir;huile"> rôtir </operation> dans l' <ingredient action="rôtir" quantite="1 cuillère à soupe"> huile </ingredient> , dans un cocotte . une fois le <ingredient action="ajouter"> poulet </ingredient> <operation> saisi </operation> , <operation ingredients="poulet;oignons"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignons </ingredient> , le faire <operation> rissoler </operation> , puis <operation ingredients="poivrons"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> poivrons </ingredient> ( <operation> lavés </operation> et <operation> coupés </operation> en lamelles ) . laisser <operation action="rôtir" ingredients="rôtir"> rôtir </operation> 5 mn . <operation ingredients="vin;bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> blanc et le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> cube ( <operation> dilué </operation> dans un peu d' eau . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="safran;gingembre"> ajouter </operation> le <ingredient action="ajouter"> safran </ingredient> et le <ingredient action="ajouter"> gingembre </ingredient> . laisser <operation> cuire </operation> ( éventuellement en auto-cuiseur : 1 . 20 mn ) . ce plat simple et délicieux avec un <ingredient> riz </ingredient> parfumé . la recette peut aussi être réalisée au four , avec des <ingredient> pommes </ingredient> de terre <operation> coupées </operation> en cubes . château minuty rosé
+</preparation>
+</recette>

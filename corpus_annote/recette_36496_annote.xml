@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="36496">
+<titre>Brouillade d'oeufs</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>10 oeufs</p>
+<p>1 cuillère à soupe d'huile de truffe</p>
+<p>1 poivron rouge</p>
+<p>3 cuillères à soupe d'huile d'olives</p>
+<p>1 gousse d'ail</p>
+<p>6 gambas</p>
+<p>1 cuillère à soupe de cognac</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="10"> oeufs </ingredient> sur feu très doux en les <operation> fouettant </operation> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="huile"> mixer </operation> la brouillade avec l' <ingredient action="mixer" quantite="1 cuillère à soupe+3 cuillère à soupe"> huile </ingredient> de truffes . <operation ingredients="poivron"> cuire </operation> le <ingredient action="cuire"> poivron </ingredient> entier sous le grill environ 20 min . l' <operation> éplucher </operation> , puis le <operation> tailler </operation> en fine lanières et le <operation> mettre </operation> à <operation ingredients="huile;ail"> mariner </operation> dans 2 cuillères d' <ingredient action="mariner" quantite="1 cuillère à soupe+3 cuillère à soupe"> huile </ingredient> d' olive avec l' <ingredient action="mariner"> ail </ingredient> <operation ingredients="sel"> écrasé </operation> , <ingredient action="écraser"> sel </ingredient> et poivre . <operation ingredients="gambas;ail"> décortiquer </operation> les <ingredient action="décortiquer" quantite="6"> gambas </ingredient> , les <operation> poêler </operation> rapidement avec le <operation> mélange </operation> huile - <ingredient action="décortiquer"> ail </ingredient> , <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite="1 cuillère à soupe"> cognac </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="oeufs"> présenter </operation> la brouillade d' <ingredient action="présenter" quantite="10"> oeufs </ingredient> <operation> répartie </operation> dans 6 ramequins , <operation ingredients="poivrons;gambas"> recouverte </operation> de lanières de <ingredient action="recouvrir"> poivrons </ingredient> et surmontée de <ingredient action="recouvrir" quantite="6"> gambas </ingredient> . on peut remplacer les <ingredient quantite="6"> gambas </ingredient> par des grosses <ingredient> crevettes </ingredient> .
+</preparation>
+</recette>

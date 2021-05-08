@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42807">
+<titre>Poires d'Olivet</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>poires</p>
+<p>3 oeufs</p>
+<p>150 g de sucre</p>
+<p>75 g de farine</p>
+<p>30 cl de lait</p>
+<p>25 cl de crème fraîche</p>
+<p>20 g de beurre </p>
+<p>1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+<operation> beurrez </operation> votre plat , et <operation ingredients="poires"> disposez </operation> vos <ingredient action="disposer" quantite=""> poires </ingredient> au fond , après les avoir <operation> épluché </operation> et <operation> coupé </operation> . dans un saladier , <operation ingredients="oeufs;sucre"> mélangez </operation> les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="farine;lait;crème"> ajoutez </operation> la <ingredient action="ajouter" quantite="75 gramme"> farine </ingredient> , avec le <ingredient action="ajouter" quantite="30 cl"> lait </ingredient> et la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> . <operation ingredients="poires"> versez </operation> la préparation sur les <ingredient action="verser" quantite=""> poires </ingredient> , puis <operation> enfournez </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) . au bout de 25 à 30 min , sortez le plat , et <operation ingredients="beurre;sucre"> verser </operation> un filet de <ingredient action="verser" quantite="20 gramme"> beurre </ingredient> <operation> fondu </operation> , avec le <ingredient action="verser" quantite="150 gramme"> sucre </ingredient> vanillé , par dessus . <operation> remettez </operation> au four , jusqu' à ce que le dessus caramélise ( environ 5 à 10 min ) . vous pouvez remplacer les <ingredient quantite=""> poires </ingredient> par des <ingredient> pommes </ingredient> . dans ce cas , il faudra <operation> changer </operation> le nom de la recette !
+</preparation>
+</recette>

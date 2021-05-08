@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58786">
+<titre>Brochettes de poissons blancs marinés</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g à 800 g de poissons blancs (colin, lieu noir, cabillaud)</p>
+<p>2 citrons verts</p>
+<p>4 tomates</p>
+<p>1 cuillère à café de citronnelle en poudre (magasin asiatique)</p>
+<p>1 cuillère à café assez bombée de curry en poudre</p>
+<p>15 à 20 cl d'huile</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+préparation de la marinade : <operation ingredients="huile;jus;épices"> verser </operation> l' <ingredient action="verser"> huile </ingredient> , le <ingredient action="verser"> jus </ingredient> des citrons et les <ingredient action="verser" quantite=";"> épices </ingredient> dans un plat puis y <operation ingredients="poisson"> mettre </operation> le <ingredient action="mettre"> poisson </ingredient> <operation> coupé </operation> en gros cubes . <operation ingredients="poisson"> laisser </operation> <operation> mariner </operation> au moins 30 min ( pas plus d' une heure sinon le <ingredient action="laisser"> poisson </ingredient> <operation ingredients="citron"> cuit </operation> avec le <ingredient action="cuire" quantite="2"> citron </ingredient> ) . pour le montage des brochettes , alternez dé de <ingredient quantite="4"> tomate </ingredient> et dé de <ingredient> poisson </ingredient> <operation> mariné </operation> . <operation> jeter </operation> le reste de la marinade . laisser <operation ingredients="poissons"> cuire </operation> 5 à 10 min selon la grosseur des cubes de <ingredient action="cuire"> poissons </ingredient> à la plancha ou à la <operation> poêle </operation> . ne jamais utiliser une marinade de <ingredient> poissons </ingredient> ou de <ingredient> viandes </ingredient> crues sans la faire <operation> cuire </operation> ( risque <operation> lié </operation> aux bactéries ) .
+</preparation>
+</recette>

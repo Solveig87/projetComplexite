@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220220">
+<titre>Lasagnes aux 2 saumons et chèvre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>plaques de lasagnes (pour environ 3 étages)</p>
+<p>2 pavés de saumon frais</p>
+<p>6 tranches de saumon fumé</p>
+<p>1 échalote</p>
+<p>1 oignon</p>
+<p>1 demi buche de chèvre</p>
+<p>1 cube de bouillon</p>
+<p>25 cl de vin blanc</p>
+<p>huile d'olive</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="échalote;oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> échalote </ingredient> et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation> hachés </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . quand ils sont dorés , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> vin </ingredient> blanc et laisser évaporer . pendant ce temps <operation ingredients="bouillon"> faire </operation> le <ingredient action="faire"> bouillon </ingredient> et <operation> ajouter </operation> une louche quand le <ingredient quantite="25 cl"> vin </ingredient> est évaporé . baisser le feu et répéter 3 fois . <operation ingredients="chèvre"> ajouter </operation> le <ingredient action="ajouter"> chèvre </ingredient> et laisser <operation> fondre </operation> toujours à feu doux . <operation ingredients="saumon;saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en lamelles et le <ingredient action="couper"> saumon </ingredient> frais en cubes . au fond du plat <operation ingredients="saumon;saumon;fumé"> mettre </operation> une couche de sauce , une <operation> plaque </operation> de lasagnes , le <ingredient action="mettre"> saumon </ingredient> frais , le <ingredient action="mettre"> saumon </ingredient> <ingredient action="mettre" quantite="6 tranche"> fumé </ingredient> . recommencer tant qu' il vous reste de la <ingredient quantite=""> matière </ingredient> . finir avec du <ingredient quantite=""> gruyère </ingredient> râpé . <operation> mettre </operation> au four préchauffé à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 minutes . servir avec de la <ingredient> salade </ingredient> verte . <ingredient quantite="25 cl"> vin </ingredient> blanc
+</preparation>
+</recette>

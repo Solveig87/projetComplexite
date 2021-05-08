@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55454">
+<titre>Coquelet aux petits légumes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 coquelet</p>
+<p>1 courgette</p>
+<p>10 tomates cerises</p>
+<p>1/2 poivron vert</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>1 verre d'eau</p>
+<p>sel, poivre, thym</p>
+</ingredients>
+<preparation>
+dans un plat allant au four , <operation ingredients="légumes"> disposer </operation> le coquelet au centre et les <ingredient action="disposer" quantite="10;2"> légumes </ingredient> , <operation> coupés </operation> en petits morceaux , autour . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="thym"> mettre </operation> le <ingredient action="mettre" quantite=""> thym </ingredient> , le verre d' eau . <operation> enfourner </operation> 45 minutes environ . quand le coquelet est bien doré , servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

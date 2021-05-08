@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23368">
+<titre>Gratin de courgettes au surimi</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de courgettes en rondelles</p>
+<p>15 bâtonnets de surimi</p>
+<p>1 oignon émincé</p>
+<p>1 gousse d'ail hachée</p>
+<p>Pour la béchamel :</p>
+<p>1/2 litre de lait</p>
+<p>2 cuillères à café de curry en poudre</p>
+<p>30 g de beurre</p>
+<p>30 g de farine</p>
+<p>100 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;ail"> revenir </operation> les courgettes avec les <ingredient action="revenir" quantite="1"> oignons </ingredient> et l' <ingredient action="revenir"> ail </ingredient> dans une <operation> poêle </operation> , jusqu' à ce que les courgettes soient tendres ; <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="surimi"> ajoutez </operation> le <ingredient action="ajouter"> surimi </ingredient> <operation> coupés </operation> en rondelles , et <operation> mélangez </operation> . <operation> disposez </operation> la préparation dans un plat à gratin . <operation ingredients="béchamel"> préparez </operation> la <ingredient action="préparer"> béchamel </ingredient> : <operation ingredients="matière;farine"> mélangez </operation> la <ingredient action="mélanger" quantite="30 gramme"> matière </ingredient> grasse et la <ingredient action="mélanger" quantite="30 gramme"> farine </ingredient> , sur feu doux . <operation ingredients="lait"> ajoutez </operation> le <ingredient action="ajouter"> lait </ingredient> , et laissez <operation> cuire </operation> jusqu' à épaississement sans cesser de <operation> remuer </operation> ( attention aux grumeaux ) . <operation> salez </operation> , <operation> poivrez </operation> généreusement et <operation ingredients="curry;gruyère"> ajoutez </operation> le <ingredient action="ajouter" quantite="2 cuillère à café"> curry </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> gruyère </ingredient> <operation> râpé </operation> ; <operation> mélangez </operation> bien . <operation> nappez </operation> les courgettes avec la <ingredient> béchamel </ingredient> , et <operation> enfournez </operation> pendant 20 min à 180 <operation> ° </operation> c ( th 6 ) . il ne faut pas que la <ingredient> béchamel </ingredient> soit trop épaisse . si c' est le cas , <operation ingredients="lait"> rajoutez </operation> du <ingredient action="rajouter"> lait </ingredient> .
+</preparation>
+</recette>

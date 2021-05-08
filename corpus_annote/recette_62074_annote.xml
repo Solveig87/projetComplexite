@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62074">
+<titre>Saumon à l'orange</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 darnes de saumon</p>
+<p>2 oranges</p>
+<p>20 cl de jus d'orange</p>
+<p>1 jus de citron</p>
+<p>25 cl de crème fraîche</p>
+<p>sel poivre</p>
+<p>1 noix de beurre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="saumon;jus"> macérer </operation> les darnes de <ingredient action="macérer"> saumon </ingredient> dans le <ingredient action="macérer" quantite="20 cl+1"> jus </ingredient> d' orange pendant 30 minutes . pendant ce temps , <operation ingredients="oranges"> peler </operation> les <ingredient action="peler" quantite="2"> oranges </ingredient> à vif pour récupérer les segments de <ingredient> chair </ingredient> . faire <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite=""> huile </ingredient> d' olive et faire <operation ingredients="saumon"> revenir </operation> les darnes de <ingredient action="revenir"> saumon </ingredient> . une fois cuitesn le maintenir au chaud . <operation ingredients="jus;jus"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite="20 cl+1"> jus </ingredient> d' orange et le <ingredient action="déglacer" quantite="20 cl+1"> jus </ingredient> de citron . faire <operation> réduire </operation> jusqu' à ce que le <ingredient action="ajouter" quantite="20 cl+1"> jus </ingredient> nappe la cuillère puis <operation ingredients="jus;crème;sel;poivre"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche , du <ingredient action="ajouter" quantite=""> sel </ingredient> et du <ingredient action="ajouter"> poivre </ingredient> . faire <operation ingredients="orange;beurre"> revenir </operation> les segments d' <ingredient action="revenir" quantite="2"> orange </ingredient> dans le <ingredient action="revenir"> beurre </ingredient> pour les <operation> réchauffer </operation> . <operation> napper </operation> les darnes de sauce et servir avec les morceaux d' <ingredient quantite="2"> orange </ingredient> . bon appétit . c' est un plat délicieux et raffiné que vous pouvez servir avec des <ingredient> pommes </ingredient> vapeur . un <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38657">
+<titre>Escalopes de poulet de ma maman</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 escalopes de poulet</p>
+<p>25 cl de bière</p>
+<p>50 g de raisin sec</p>
+<p>1 cuillère à soupe de sucre en poudre</p>
+<p>2 oignons</p>
+<p>10 tranches fines de poitrine fumée</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;bière;sucre"> tremper </operation> les <ingredient action="tremper" quantite="50 gramme"> raisins </ingredient> dans la <ingredient action="tremper" quantite="25 cl"> bière </ingredient> 1 heure ainsi que le <ingredient action="tremper" quantite="1 cuillère à soupe"> sucre </ingredient> avant toute préparation . <operation ingredients="escalopes"> couper </operation> les <ingredient action="couper" quantite="3"> escalopes </ingredient> en cubes ( assez gros ) et les <operation ingredients="huile;oignons"> faire </operation> <operation> rissoler </operation> dans de l' <ingredient action="faire"> huile </ingredient> avec les <ingredient action="faire" quantite="2"> oignons </ingredient> hachés . quand le <ingredient action="cuire"> poulet </ingredient> est <operation ingredients="poulet"> cuit </operation> , <operation ingredients="fumée"> rajouter </operation> la pitrine <ingredient action="rajouter"> fumée </ingredient> <operation> coupée </operation> en petites tranches et faire <operation> cuire </operation> pendant 5 minutes . <operation ingredients="bière;raisins;sel;poivre"> rajouter </operation> la <ingredient action="rajouter" quantite="25 cl"> bière </ingredient> et les <ingredient action="rajouter" quantite="50 gramme"> raisins </ingredient> plus du <ingredient action="rajouter" quantite=""> sel </ingredient> et du <ingredient action="rajouter"> poivre </ingredient> , <operation> couvrir </operation> et faire <operation> cuire </operation> encore pendant 20 à 25 minutes . servir chaud . vous pouvez servir ce plat avec des <ingredient> pommes </ingredient> de terre <operation> sautées </operation> . régalez -vous ! !
+</preparation>
+</recette>

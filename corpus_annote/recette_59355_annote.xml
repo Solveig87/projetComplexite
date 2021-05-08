@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59355">
+<titre>Esquimaux de banane</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>1 chocolat en tablette (noir ou blanc ou les 2)</p>
+<p>vermicelles multicolores</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> les 4 <ingredient quantite="4"> bananes </ingredient> . plantez des bâtons d' esquimaux dedans . <operation ingredients="bananes"> mettez </operation> les <ingredient action="mettre" quantite="4"> bananes </ingredient> dans le freezer jusqu' à ce qu' elles soient dures ( c' est pour que les bâtons tiennent ) . cassez le <ingredient quantite="1"> chocolat </ingredient> en morceaux . faites <operation ingredients="chocolat"> fondre </operation> les morceaux de <ingredient action="fondre" quantite="1"> chocolat </ingredient> . <operation ingredients="bananes;chocolat"> trempez </operation> les <ingredient action="trempez" quantite="4"> bananes </ingredient> dans le <ingredient action="trempez" quantite="1"> chocolat </ingredient> . <operation ingredients="vermicelles"> saupoudrez </operation> les de <ingredient action="saupoudrer" quantite=""> vermicelles </ingredient> multicolores . <operation ingredients="bananes"> remettez </operation> les <ingredient action="remettre" quantite="4"> bananes </ingredient> dans le congélateur jusqu' à que le <ingredient quantite="1"> chocolat </ingredient> prenne .
+</preparation>
+</recette>

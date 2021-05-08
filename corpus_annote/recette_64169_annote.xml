@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="64169">
+<titre>Boeuf carottes à la normande</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>700 g de boeuf à bourguignon</p>
+<p>1 gros oignon</p>
+<p>8 grosses carottes</p>
+<p>4 cuillères à café de concentré de tomates</p>
+<p>laurier</p>
+<p>thym</p>
+<p>1 bouteille de cidre brut</p>
+<p>sel, poivre</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="boeuf;carrés"> couper </operation> le <ingredient action="couper" quantite="700 gramme"> boeuf </ingredient> en gros <ingredient action="couper"> carrés </ingredient> . <operation ingredients="boeuf"> enduire </operation> les morceaux de <ingredient action="enduire" quantite="700 gramme"> boeuf </ingredient> de farine et les faire <operation ingredients="huile"> revenir </operation> dans une cocotte avec un peu d' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . laisser <operation> dorer </operation> 5 minutes . <operation ingredients="oignon"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> émincé grossièrement . <operation ingredients="carottes"> couper </operation> les <ingredient action="couper" quantite="8"> carottes </ingredient> en rondelles et les <operation ingredients="boeuf"> ajouter </operation> au <ingredient action="ajouter" quantite="700 gramme"> boeuf </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . <operation ingredients="thym;laurier"> incorporer </operation> le <ingredient action="incorporer" quantite=""> thym </ingredient> et le <ingredient action="incorporer" quantite=""> laurier </ingredient> . <operation ingredients="cidre"> couvrir </operation> le tout d' une bouteille de <ingredient action="couvrir"> cidre </ingredient> brut . <operation> rajouter </operation> de l' eau afin de <operation> recouvrir </operation> les ingrédients . <operation ingredients="tomates"> diluer </operation> le <operation> concentré </operation> de <ingredient action="diluer"> tomates </ingredient> . <operation> porter </operation> à <operation> ébullition </operation> puis laisser <operation> cuire </operation> à la cocotte minute pendant 40 minutes . un gamay rouge
+</preparation>
+</recette>

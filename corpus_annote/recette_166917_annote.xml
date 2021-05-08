@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166917">
+<titre>Omelette aux oeufs bio</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 oeufs bio</p>
+<p>100 g. de gruyère</p>
+<p>150 g. de lardons</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="8"> oeufs </ingredient> bio dans un saladier . <operation ingredients="gruyère;lardons;sel;poivre"> mélanger </operation> le <ingredient action="mélanger"> gruyère </ingredient> et les <ingredient action="mélanger"> lardons </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> et le <ingredient action="mélanger" quantite=""> poivre </ingredient> . faire <operation ingredients="huile"> chauffer </operation> une poele avec de l' <ingredient action="chauffer"> huile </ingredient> d' olive . faire <operation> cuire </operation> <operation> cuire </operation> 5 à 10 minutes selon la consistance désirée . servir chaud
+</preparation>
+</recette>

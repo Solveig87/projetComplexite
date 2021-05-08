@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41447">
+<titre>Salmorejo maison</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la crème de "gazpacho":</p>
+<p>4 tomates </p>
+<p>1/2 concombre</p>
+<p>1 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>1 gousse d'ail</p>
+<p>1 oignon</p>
+<p>Pour l'émulsion :</p>
+<p>sel</p>
+<p>3 cuillerées de vinaigre de Xérès</p>
+<p>6 cuillerées à soupe d'huile d'olive vierge</p>
+<p>Pour la garniture:</p>
+<p>2 œufs durs</p>
+<p>100g de jambon "Serrano"</p>
+<p>200 g de thon en conserve</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> préparer </operation> les <ingredient action="préparer" quantite="4;1;1"> légumes </ingredient> : <operation> laver </operation> et <operation ingredients="tomates"> éplucher </operation> <ingredient action="éplucher" quantite="4"> tomates </ingredient> , concombre , poivrons , <operation> ôter </operation> les pépins , <operation ingredients="oignons;ail"> peler </operation> les <ingredient action="peler" quantite="1"> oignons </ingredient> et l' <ingredient action="peler"> ail </ingredient> . <operation> préparer </operation> l' émulsion dans le <operation> mixer </operation> . <operation ingredients="légumes;ail"> mixer </operation> tous les <ingredient action="mixer" quantite="4;1;1"> légumes </ingredient> progressivement dans cet ordre : <ingredient action="mixer"> ail </ingredient> , oignon , tomates , concombre , poivron rouge et vert . <operation> réserver </operation> au frais . <operation ingredients="jambon"> préparer </operation> le <ingredient action="préparer" quantite="100 gramme"> jambon </ingredient> : le <operation> couper </operation> en lanières . <operation ingredients="œufs"> écailler </operation> les <ingredient action="écailler" quantite="2"> œufs </ingredient> durs , les <operation> couper </operation> en rondelles ( 3 mm d' épaisseur ) . facile : <operation> ouvrir </operation> la boite de conserve de <ingredient quantite="200 gramme"> thon </ingredient> . <operation ingredients="huile"> dresser </operation> dans des coupelles ou grandes tasses , <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> de " gazpacho " , <operation ingredients="oeuf;thon;jambon"> ajouter </operation> 2 rondelles d' <ingredient action="ajouter"> oeuf </ingredient> dur , 1 morceau de <ingredient action="ajouter" quantite="200 gramme"> thon </ingredient> 2 x 3 cm , quelques lamelles de <ingredient action="ajouter" quantite="100 gramme"> jambon </ingredient> ( 20 g ) et 1 petit filet d' <ingredient action="dresser"> huile </ingredient> d' olive . déguster et se régaler !
+</preparation>
+</recette>

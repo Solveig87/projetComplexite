@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80790">
+<titre>Cake moelleux tomato-champignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 sachets de champignons variés surgelés</p>
+<p>1/2 boîte de chair de tomates</p>
+<p>2 oignons</p>
+<p>100 g de fromage blanc</p>
+<p>100 g de farine</p>
+<p>2 oeufs</p>
+<p>sel, poivre</p>
+<p>basilic</p>
+</ingredients>
+<preparation>
+dans une sauteuse , faites <operation ingredients="champignons;oignons"> revenir </operation> les <ingredient action="revenir"> champignons </ingredient> avec les <ingredient action="revenir" quantite="2"> oignons </ingredient> . lorsque l' ensemble commence à <operation> colorer </operation> , <operation ingredients="chair;basilic"> ajoutez </operation> la <ingredient action="ajouter"> chair </ingredient> des tomates et le <ingredient action="ajouter" quantite=""> basilic </ingredient> . laissez <operation> mijoter </operation> 10 min . <operation> versez </operation> la préparation dans un saladier . <operation ingredients="fromage;farine"> ajoutez </operation> - y le <ingredient action="ajouter" quantite="100 gramme"> fromage </ingredient> blanc et la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> . <operation> salez </operation> et <operation> poivrez </operation> . <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> battus </operation> , <operation> mélangez </operation> bien . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> à cake . <operation> enfournez </operation> à 220 <operation> ° </operation> c ( thermostat 7 ) pendant au moins 40 minutes . surveillez la cuisson avec la pointe d' un <ingredient> couteau </ingredient> , qui doit restée sèche . servez bien froid . parfait pour un buffet , un pique-nique , un apéro dinatoire ou en plat léger pour le dîner .
+</preparation>
+</recette>

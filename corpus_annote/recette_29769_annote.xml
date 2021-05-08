@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29769">
+<titre>Bouchées au camembert</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 camembert</p>
+<p>1 oeuf</p>
+<p>moutarde</p>
+<p>fromage blanc</p>
+<p>chapelure</p>
+<p>huile</p>
+</ingredients>
+<preparation>
+dans un bol , <operation ingredients="oeuf;moutarde;fromage"> mélangez </operation> l' <ingredient action="mélanger" quantite="1"> oeuf </ingredient> <operation> battu </operation> , la <ingredient action="mélanger" quantite=""> moutarde </ingredient> et le <ingredient action="mélanger" quantite=""> fromage </ingredient> blanc . <operation ingredients="camembert"> coupez </operation> le <ingredient action="couper" quantite="1"> camembert </ingredient> en 8 parts . <operation ingredients="oeuf"> enduisez </operation> chaque part du <operation> mélange </operation> <ingredient action="enduire" quantite="1"> oeuf </ingredient> / moutarde / fromage blanc , puis <operation ingredients="chapelure"> roulez </operation> les dans la <ingredient action="rouler" quantite=""> chapelure </ingredient> . laissez <operation> reposer </operation> au réfrigérateur 15 minutes . faites <operation> frire </operation> à la <operation> poêle </operation> jusqu' à ce que le <ingredient action="fondre" quantite="1"> camembert </ingredient> soit <operation ingredients="camembert"> fondant </operation> . servez chaud avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

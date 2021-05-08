@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28272">
+<titre>Côtes de mouton façon coq au vin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g de côtes de mouton</p>
+<p>250 g de champignons</p>
+<p>100 g de lardons</p>
+<p>30 cl de vin rouge de Bordeaux</p>
+<p>2 cuillères à soupe de farine</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>2 oignons</p>
+<p>20 cl d'eau chaude</p>
+<p>2 bouquets garnis</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;fumés;oignons"> revenir </operation> les <ingredient action="revenir" quantite="100 gramme"> lardons </ingredient> <ingredient action="revenir"> fumés </ingredient> et les <ingredient action="revenir" quantite="2"> oignons </ingredient> <operation> émincés </operation> dans une <operation> poêle </operation> . les <operation> enlever </operation> de la <operation> poêle </operation> et les remplacer par les <ingredient quantite="800 gramme"> côtes </ingredient> de mouton <operation> coupées </operation> en morceaux . laisser <operation> dorer </operation> quelques minutes et <operation ingredients="oignons;lardons"> remettre </operation> les <ingredient action="remettre" quantite="2"> oignons </ingredient> et les <ingredient action="remettre" quantite="100 gramme"> lardons </ingredient> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> farine </ingredient> et <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="30 cl"> vin </ingredient> rouge et d' eau . <operation ingredients="bouquet;champignons"> mettre </operation> le <ingredient action="mettre" quantite="2"> bouquet </ingredient> <operation> garni </operation> et les <ingredient action="mettre" quantite="250 gramme"> champignons </ingredient> , et laisser <operation> mijoter </operation> pendant 1 h 30 min .
+</preparation>
+</recette>

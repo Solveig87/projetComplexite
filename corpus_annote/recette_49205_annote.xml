@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="49205">
+<titre>Cookies aux trois chocolats</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de beurre</p>
+<p>100 g de sucre roux</p>
+<p>100 g de sucre blanc</p>
+<p>1 œuf</p>
+<p>230 g de farine</p>
+<p>1/2 sachet de levure</p>
+<p>1 pincée de sel</p>
+<p>100 g de chocolat blanc aux noisettes</p>
+<p>100 g de chocolat au lait aux noix de pécan</p>
+<p>100 g de chocolat noir aux amandes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> , y <operation ingredients="sucres"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme+100 gramme"> sucres </ingredient> . <operation> remuer </operation> avant d' <operation ingredients="œuf"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> œuf </ingredient> entier , puis <operation ingredients="farine;levure;sel"> incorporer </operation> la <ingredient action="incorporer" quantite="230 gramme"> farine </ingredient> , la <ingredient action="incorporer"> levure </ingredient> et la pincée de <ingredient action="incorporer" quantite="1 pincée"> sel </ingredient> . bien <operation ingredients="pâte"> mélanger </operation> le tout à l' aide d' une cuillère jusqu' à l' obtention d’ une <ingredient action="mélanger"> pâte </ingredient> homogène . <operation ingredients="chocolats"> concasser </operation> les <ingredient action="concasser" quantite="100 gramme+100 gramme+100 gramme"> chocolats </ingredient> en petits morceaux et les <operation ingredients="pâte"> incorporer </operation> à la <ingredient action="incorporer"> pâte </ingredient> . <operation> former </operation> des petits tas d' environ 4 cm de diamètre ( pas trop plat ) . <operation> disposer </operation> sur une <operation> plaque </operation> <operation> recouverte </operation> de papier sulfurisé . préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) puis <operation> enfourner </operation> 8 à 10 min ( légèrement doré et toujours moelleux au cœur ) . laisser refroidir .
+</preparation>
+</recette>

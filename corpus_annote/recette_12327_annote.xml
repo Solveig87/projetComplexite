@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12327">
+<titre>Purée de pois chiches (Hoummous)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 bol de pois chiches secs</p>
+<p>750 d'eau</p>
+<p>1 jus de citron</p>
+<p>60 ml d'huile d'olive</p>
+<p>2 gousses d'ail, hachées</p>
+<p>2 c à soupe d'eau</p>
+<p>1/2 c à café de sel</p>
+<p>Paprika</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pois;chiches"> tremper </operation> les <ingredient action="tremper"> pois </ingredient> <ingredient action="tremper"> chiches </ingredient> secs dans l' eau , au moins 4 heures , sauf s' il sont en boîte . <operation> egoutter </operation> , <operation> mettre </operation> dans une casserolle , <operation> ajouter </operation> l' eau , <operation> porter </operation> à <operation> ébullition </operation> . laisser <operation> frémir </operation> 1 heure à <operation> découvert </operation> , <operation> égoutter </operation> . <operation ingredients="pois;jus;huile;ail;sel"> mixer </operation> les <ingredient action="mixer"> pois </ingredient> , le <ingredient action="mixer" quantite="1"> jus </ingredient> de citron , l' <ingredient action="mixer"> huile </ingredient> , l' <ingredient action="mixer"> ail </ingredient> , l' eau et le <ingredient action="mixer"> sel </ingredient> 30 secondes pour obtenir une purée crémeuse .
+</preparation>
+</recette>

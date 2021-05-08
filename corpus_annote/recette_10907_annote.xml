@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10907">
+<titre>Poulet sauté sauce chasseur</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet vidé</p>
+<p>100 g de farine</p>
+<p>80 g de beurre</p>
+<p>sel, poivre</p>
+<p>Pour la sauce :</p>
+<p>fond brun de volaille</p>
+<p>40 g d'échalotes</p>
+<p>250 g de champignon de Paris</p>
+<p>10 cl de vin blanc sec</p>
+<p>20 g de beurre</p>
+<p>cerfeuil, estragon</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le <ingredient action="découper" quantite="1"> poulet </ingredient> à cru ( <operation> détacher </operation> les ailes et les cuisses ) . <operation> laver </operation> et <operation ingredients="champignons"> couper </operation> en rondelles les <ingredient action="couper" quantite="250 gramme"> champignons </ingredient> . <operation> eplucher </operation> , <operation> laver </operation> , <operation ingredients="échalotes"> ciseler </operation> les <ingredient action="ciseler" quantite="40 gramme"> échalotes </ingredient> . <operation ingredients="cerfeuil;estragon"> hacher </operation> le <ingredient action="hacher" quantite=""> cerfeuil </ingredient> et l' <ingredient action="hacher" quantite=""> estragon </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="poulet"> fariner </operation> les morceaux de <ingredient action="fariner" quantite="1"> poulet </ingredient> . faire <operation ingredients="beurre"> chauffer </operation> le <ingredient action="chauffer" quantite="80 gramme+20 gramme"> beurre </ingredient> . faire <operation ingredients="poulet"> colorer </operation> les quarts de <ingredient action="colorer" quantite="1"> poulet </ingredient> côté peau d' abord . <operation> retourner </operation> les morceaux . <operation> retirer </operation> du plat . <operation> réserver </operation> au chaud . faire suer les <ingredient quantite="40 gramme"> échalotes </ingredient> . <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="250 gramme"> champignons </ingredient> . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc et laisser <operation> réduire </operation> . <operation ingredients="volaille"> ajouter </operation> le fond brun de <ingredient action="ajouter" quantite="1"> volaille </ingredient> ( n' importe quelle quantité ) et laisser <operation> réduire </operation> à nouveau . <operation ingredients="cerfeuil;estragon"> ajouter </operation> le <ingredient action="ajouter" quantite=""> cerfeuil </ingredient> et l' <ingredient action="ajouter" quantite=""> estragon </ingredient> . <operation> assaisonner </operation> . <operation> remettre </operation> les morceaux dans la sauce . laisser au chaud . la sauce ne doit pas <operation> bouillir </operation> . <ingredient quantite="10 cl"> vin </ingredient> rouge corsé
+</preparation>
+</recette>

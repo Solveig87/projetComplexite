@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="46621">
+<titre>Filet de Kangourou aux champignons des bois</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>4 filets de kangourou</p>
+<p>500 g de riz</p>
+<p>300 g de champignons des bois</p>
+<p>12.5 cl de bière chimay bleue</p>
+<p>1 cuillère à soupe de cassonade</p>
+<p>100 g de noix de cajou</p>
+<p>50 g de pistaches</p>
+<p>20 g de raisins sec blancs</p>
+<p>1 gros oignon rouge</p>
+<p>1 cube de bouillon</p>
+<p>quelques feuilles de coriandre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;noix;pistaches;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , les <ingredient action="revenir" quantite="100 gramme"> noix </ingredient> de cajou et les <ingredient action="revenir" quantite="50 gramme"> pistaches </ingredient> dans l' <ingredient action="revenir"> huile </ingredient> d' olive en y <operation ingredients="cassonade"> ajoutant </operation> la cuillère de <ingredient action="ajouter" quantite="1 cuillère à soupe"> cassonade </ingredient> . quand l' <ingredient action="confit" quantite="1"> oignon </ingredient> a légèrement <operation ingredients="oignon;confit;sucre;bière;bouillon;raisins;coriandre" action="confit"> confit </operation> dans son <ingredient action="confit"> sucre </ingredient> , <operation ingredients="champignons"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> champignons </ingredient> , la demi chimay bleue ( ou autre <ingredient action="confit"> bière </ingredient> brune au choix ) , le cube de <ingredient action="confit"> bouillon </ingredient> préalablement <operation> dissout </operation> , les <ingredient action="confit" quantite="20 gramme"> raisins </ingredient> secs , les feuilles de <ingredient action="confit" quantite="quelque feuille"> coriandre </ingredient> et <operation> couvrir </operation> . pendant ce temps , <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="500 gramme"> riz </ingredient> à part ainsi que les filets de kangourou à la <operation> poêle </operation> . bon appétit ! note : on peut imaginer de <operation> couper </operation> les filets de kangourou en cube pour en faire une sorte de carbonnade exotique .
+</preparation>
+</recette>

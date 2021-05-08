@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14318">
+<titre>Sauté de veau facile</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>veau coupé en gros dés (800 g à 1 kg)</p>
+<p>3 ou 4 grosses pommes de terre</p>
+<p>1 boîte de concentré de tomate</p>
+<p>olives (quantité selon votre goût)</p>
+<p>1 petite boîte de champignons de paris</p>
+<p>farine</p>
+</ingredients>
+<preparation>
+dans une cocotte minute , <operation ingredients="veau;huile"> saisir </operation> le <ingredient action="saisir" quantite=""> veau </ingredient> avec un peu d' <ingredient action="saisir"> huile </ingredient> . <operation ingredients="tomate"> rajouter </operation> 2 cuilères à soupe de farine , le <operation> concentré </operation> de <ingredient action="rajouter"> tomate </ingredient> , puis <operation ingredients="viande"> couvrir </operation> la <ingredient action="couvrir" quantite=""> viande </ingredient> avec de l' eau . dermer la cocotte et laisser <operation> cuire </operation> à feu moyen pendant 15 mn . pendant ce temps , <operation ingredients="pommes"> éplucher </operation> les <ingredient action="éplucher" quantite="3"> pommes </ingredient> de terre , les <operation> laver </operation> et les <operation> couper </operation> en quatres morceaux . les <operation ingredients="olives;champignons"> rajouter </operation> dans la cocotte , ainsi que les <ingredient action="rajouter" quantite=""> olives </ingredient> et les <ingredient action="rajouter"> champignons </ingredient> . fermer la cocotte et laisser <operation> cuire </operation> 15 mn à feu moyen . pour un coût moindre , remplacer le <ingredient quantite=""> veau </ingredient> par du <ingredient> porc </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="88592">
+<titre>Velouté de topinambours au miel</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de topinambours</p>
+<p>1 tablette de bouillon de volaille</p>
+<p>25 cl de crème liquide</p>
+<p>2 cuillères à café de miel</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 pincée de noix de muscade</p>
+<p>Sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="topinambours"> pelez </operation> et <operation> rincez </operation> les <ingredient action="peler" quantite="500 gramme"> topinambours </ingredient> . <operation> coupez </operation> - les en dés . dans une casserole , <operation ingredients="huile"> chauffez </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive . faites <operation ingredients="topinambours"> revenir </operation> les <ingredient action="revenir" quantite="500 gramme"> topinambours </ingredient> 3 minutes à feu doux . <operation ingredients="miel"> ajoutez </operation> le <ingredient action="ajouter" quantite="2 cuillère à café"> miel </ingredient> . laissez <operation> cuire </operation> 1 à 2 minutes sans cesser de <operation> mélanger </operation> . <operation> versez </operation> 50 cl d' eau et <operation> portez </operation> à <operation> ébullition </operation> . <operation ingredients="bouillon;crème"> ajoutez </operation> la tablette de <ingredient action="ajouter"> bouillon </ingredient> puis la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> . <operation> couvrez </operation> et laissez <operation> cuire </operation> pendant 40 minutes à feu doux . <operation> mixez </operation> le contenu de la casserole pour obtenir un velouté . <operation> salez </operation> , <operation> poivrez </operation> . servir dans un petit bol en saupoudrant d' une pincée de <ingredient> muscade </ingredient> .
+</preparation>
+</recette>

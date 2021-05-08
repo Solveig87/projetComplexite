@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84766">
+<titre>Gâteau au chocolat, mousse au chocolat et ses quartiers d'orange</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g et 35 g de chocolat dessert</p>
+<p>250 g de sucre en poudre</p>
+<p>120 g de beurre</p>
+<p>6 oeufs et 1 oeuf</p>
+<p>6 cuillères à soupe de farine</p>
+<p>quelques grains de sel</p>
+<p>une petite orange</p>
+</ingredients>
+<preparation>
+<ingredient action="fondre"> gâteau </ingredient> : faites <operation ingredients="gâteau;beurre;chocolat"> fondre </operation> le <ingredient action="fondre" quantite="120 gramme"> beurre </ingredient> et 250 g de <ingredient action="fondre"> chocolat </ingredient> à feu doux en <operation> remuant </operation> avec une cuillère en bois . <operation> retirez </operation> du feu et <operation> posez </operation> sur un dessous-de-plat . <operation ingredients="sucre;oeufs;farine"> ajoutez </operation> successivement le <ingredient action="ajouter" quantite="250 gramme"> sucre </ingredient> , 6 <ingredient action="ajouter" quantite="6"> oeufs </ingredient> entiers un par un , et la <ingredient action="ajouter" quantite="6 cuillère à soupe"> farine </ingredient> en continuant à <operation> remuer </operation> . préchauffez le four à thermostat 7 ( 210 <operation> ° </operation> c ) . <operation ingredients="pâte"> versez </operation> la <ingredient action="verser"> pâte </ingredient> obtenue dans un <operation> moule </operation> <ingredient> rond </ingredient> anti-adhésif . <operation> enfournez </operation> . faites <operation> cuire </operation> 30 min . sortez du four et laissez refroidir . <ingredient> mousse </ingredient> : cassez 35 g de <ingredient> chocolat </ingredient> en morceaux et faites - les <operation> fondre </operation> . cassez le dernier <ingredient quantite="6"> oeuf </ingredient> en <operation> séparant </operation> le jaune et le blanc . <operation ingredients="chocolat"> ajoutez </operation> le jaune au <ingredient action="ajouter"> chocolat </ingredient> <operation> fondu </operation> et <operation> mélangez </operation> . <operation ingredients="sel"> mettez </operation> le <ingredient action="mettre"> sel </ingredient> dans le blanc et <operation> battez </operation> - le en neige bien ferme . avec une spatule en bois , <operation ingredients="chocolat"> mélangez </operation> la neige avec le <ingredient action="mélanger"> chocolat </ingredient> en tournant délicatement . la préparation doit être homogène . <operation> versez </operation> - la doucement sur le <ingredient> gâteau </ingredient> et <operation> répartissez </operation> aussi doucement avec une cuillère à soupe . toute la surface doit être <operation> recouverte </operation> . laissez au réfrigérateur plus de 30 min . <ingredient quantite="1"> orange </ingredient> : sortez le <ingredient> gâteau </ingredient> du frigo et <operation ingredients="orange"> épluchez </operation> la petite <ingredient action="éplucher" quantite="1"> orange </ingredient> . <operation ingredients="mousse"> disposez </operation> joliment et très délicatement les quartiers sur la <ingredient action="disposer"> mousse </ingredient> . <operation> remettez </operation> au réfrigérateur et dégustez quand vous voulez .
+</preparation>
+</recette>

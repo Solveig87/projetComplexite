@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="167466">
+<titre>Le pifomètre</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>180g de chocolat noir</p>
+<p>120g de sucre</p>
+<p>100g de farine</p>
+<p>4 œufs</p>
+<p>50g de poudre d'amande</p>
+<p>70g de beurre</p>
+<p>une cuillère de levure</p>
+<p>du citron</p>
+<p>une cuillère de café(liquide)</p>
+<p>une cuillère de crème fraîche</p>
+</ingredients>
+<preparation>
+1 : faire <operation ingredients="chocolat;beurre;café"> fondre </operation> le <ingredient action="fondre" quantite="180 gramme"> chocolat </ingredient> et le <ingredient action="fondre" quantite="70 gramme"> beurre </ingredient> dans un peu de <ingredient action="fondre" quantite="1 cuillère"> café </ingredient> , pendant ce temps , <operation ingredients="œufs;sucre"> mélanger </operation> les <ingredient action="mélanger" quantite="4"> œufs </ingredient> et le <ingredient action="mélanger" quantite="120 gramme"> sucre </ingredient> . 2 : <operation ingredients="chocolats"> ajouter </operation> le <ingredient action="ajouter" quantite="180 gramme"> chocolats </ingredient> aux œufs et <operation ingredients="crème"> rajouter </operation> la <ingredient action="rajouter" quantite="1 cuillère"> crème </ingredient> . 3 : pour finir , <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> , la <ingredient quantite="1 cuillère"> levure </ingredient> , la <operation> poudre </operation> d' <ingredient> amandes </ingredient> et du ci tron . <ingredient> gâteau </ingredient> facile mais demande beaucoup d' ingrédients . vous pouvez l' <operation ingredients="mousse"> accompagner </operation> d' une <ingredient action="accompagner"> mousse </ingredient> aux fruits . bonne préparation !
+</preparation>
+</recette>

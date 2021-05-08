@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22110">
+<titre>Sardines en salade</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 boîtes de sardines à l' huile</p>
+<p>1/2 botte de persil plat</p>
+<p>1 tomate</p>
+<p>1 échalote</p>
+<p>3 gousses d' ail</p>
+<p>2 cuillères à soupe d' huile d' olive</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+dans un petit saladier , <operation ingredients="sardines"> écrasez </operation> les <ingredient action="écraser"> sardines </ingredient> <operation> égouttées </operation> à la fourchette . <operation ingredients="persil"> hachez </operation> ( pas trop fin ) la 1 / 2 botte de <ingredient action="hachez"> persil </ingredient> plat . <operation ingredients="gousses;ail;échalote"> emincez </operation> les <ingredient action="emincez" quantite="3"> gousses </ingredient> d ' <ingredient action="emincez"> ail </ingredient> et l ' <ingredient action="emincez" quantite="1"> échalote </ingredient> . <operation ingredients="tomate"> coupez </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en petits cubes . <operation> ajoutez </operation> tout ces ingrédients dans le saladier , <operation ingredients="huile;olive;vinaigre"> arroser </operation> d ' <ingredient action="arroser" quantite="2 cuillère à soupe"> huile </ingredient> d ' <ingredient action="arroser"> olive </ingredient> et de <ingredient action="arroser" quantite="1 cuillère à soupe"> vinaigre </ingredient> ( <operation> dosez </operation> selon votre convenance ) . <operation> mélangez </operation> , <operation> salez </operation> , <operation> poivrez </operation> et servez frais .
+</preparation>
+</recette>

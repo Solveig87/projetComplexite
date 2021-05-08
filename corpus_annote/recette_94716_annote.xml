@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94716">
+<titre>Gâteau aux pommes caramel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de beurre pour le caramel</p>
+<p>100 g de sucre pour le caramel</p>
+<p>3 grosses pommes</p>
+<p>80 g de sucre</p>
+<p>80 g de farine</p>
+<p>80 g de beurre</p>
+<p>3 oeufs</p>
+<p>1/2 sachet de levure</p>
+</ingredients>
+<preparation>
+* faire <operation ingredients="beurre"> fondre </operation> 100 g de <ingredient action="fondre" quantite="100 gramme+80 gramme"> beurre </ingredient> dans une casserole puis <operation ingredients="sucre"> ajouter </operation> 100 g de <ingredient action="ajouter" quantite="100 gramme+80 gramme"> sucre </ingredient> pour faire un caramel . ne pas attendre que sa <operation> dore </operation> , <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> pommes </ingredient> <operation> peler </operation> et <operation> couper </operation> en quartier . <operation> vider </operation> le tout dans un <operation> moule </operation> * dans un saladier <operation ingredients="sucre;oeufs"> melanger </operation> le <ingredient action="melanger" quantite="100 gramme+80 gramme"> sucre </ingredient> et les <ingredient action="melanger" quantite="3"> oeufs </ingredient> . <operation ingredients="beurre;farine;levure"> ajouter </operation> ensuite le <ingredient action="ajouter" quantite="100 gramme+80 gramme"> beurre </ingredient> <operation> fondu </operation> , la <ingredient action="ajouter" quantite="80 gramme"> farine </ingredient> et la <ingredient action="ajouter"> levure </ingredient> . * <operation> verser </operation> le tout dans le <operation> moule </operation> et metre au four chaud à 150 <operation> ° </operation>
+</preparation>
+</recette>

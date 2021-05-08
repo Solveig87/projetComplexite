@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="52980">
+<titre>Salade d'automne aux champignons</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de mélange de champignons (bolets, pleurotes, lentins...)</p>
+<p>1 cuillère à café d'ail ciselé</p>
+<p>4 cuillères à café d'échalotes ciselées</p>
+<p>1 cuillère à café d'estragon ciselé</p>
+<p>4 cuillères à café de ciboulette ciselée</p>
+<p>1 salade type mesclun</p>
+<p>4 tranches de jambon serrano</p>
+<p>pignons de pin (facultatif)</p>
+<p>huile de noix</p>
+<p>huile de tournesol</p>
+<p>moutarde à l'ancienne</p>
+<p>vinaigre de xéres</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="champignons"> cuire </operation> les <ingredient action="cuire"> champignons </ingredient> à la <operation> poêle </operation> , afin de leur faire rendre leur eau ; les <operation> retirer </operation> . <operation> verser </operation> une cuilerée à soupe d' huile de tournesol dans la <operation> poêle </operation> chaude , puis <operation ingredients="ail"> ajouter </operation> <ingredient action="ajouter"> ail </ingredient> et échalotes . <operation ingredients="champignons"> ajouter </operation> ensuite les <ingredient action="ajouter"> champignons </ingredient> pour les faire <operation> sauter </operation> à feu vif quelques minutes . <operation ingredients="estragon;ciboulette"> ajouter </operation> , en fin de cuisson , une partie de l' <ingredient action="ajouter"> estragon </ingredient> et de la <ingredient action="ajouter" quantite="4 cuillère à café"> ciboulette </ingredient> . <operation ingredients="huile"> préparer </operation> la sauce : <operation ingredients="moutarde;sel"> mélanger </operation> <ingredient action="mélanger" quantite=""> moutarde </ingredient> et vinaigre de xéres , <ingredient action="mélanger" quantite=""> sel </ingredient> et poivre , et l' <ingredient action="préparer" quantite=""> huile </ingredient> de noix ; quantités selon les goûts . <operation ingredients="jambon"> découper </operation> les tranches de <ingredient action="découper" quantite="4 tranche"> jambon </ingredient> en " lanières " . <operation> dresser </operation> les assiettes : <operation ingredients="mesclun"> faire </operation> un bon lit de <ingredient action="faire"> mesclun </ingredient> , <operation ingredients="jambon"> disposer </operation> les lanières de <ingredient action="disposer" quantite="4 tranche"> jambon </ingredient> , puis <operation ingredients="champignons;salade"> repartir </operation> les <ingredient action="repartir"> champignons </ingredient> sur le lit de <ingredient action="repartir" quantite="1"> salade </ingredient> . <operation ingredients="pignons;ciboulette"> parsemer </operation> de <ingredient action="parsemer" quantite=""> pignons </ingredient> de pin , de <ingredient action="parsemer" quantite="4 cuillère à café"> ciboulette </ingredient> et estragon restants , et " <operation> arroser </operation> " de vinaigrette . vous pouvez également <operation ingredients="fromage"> rajouter </operation> des copeaux de <ingredient action="rajouter"> fromage </ingredient> ( type tomme ) , selon vos goûts ! rouge leger , type st nicolas de bourgueil
+</preparation>
+</recette>

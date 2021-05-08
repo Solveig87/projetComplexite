@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65820">
+<titre>Soupe de poivrons et carottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 ou 3 poivrons rouges</p>
+<p>400 g de carottes</p>
+<p>75 cl de bouillon de volaille</p>
+<p>20 cl de crème (épaisse)</p>
+<p>thym</p>
+<p>sel et poivre</p>
+<p>huile d'olive</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;carottes"> peler </operation> les <ingredient action="peler" quantite="2"> poivrons </ingredient> et les <ingredient action="peler" quantite="400 gramme"> carottes </ingredient> . les <operation> couper </operation> en mirepoix ( petits dés ) . ensuite les faire <operation ingredients="huile"> revenir </operation> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive . <operation ingredients="thym"> ajouter </operation> une pincée de <ingredient action="ajouter" quantite=""> thym </ingredient> . <operation> retirer </operation> les ingrédient de la casserole et <operation ingredients="bouillon;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="75 cl"> bouillon </ingredient> et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> , faire <operation> mijoter </operation> 1 min et <operation ingredients="légumes"> rajouter </operation> les <ingredient action="rajouter" quantite="2;400 gramme;75 cl;20 cl"> légumes </ingredient> . <operation ingredients="légumes"> laisser </operation> <operation> mijoter </operation> jusqu' à ce que les <ingredient action="laisser" quantite="2;400 gramme;75 cl;20 cl"> légumes </ingredient> soient tendres ( environ 20 min ) . pour finir <operation> passer </operation> le tout au <operation> mixer </operation> . si la <ingredient> soupe </ingredient> devait être trop éppaisse , <operation ingredients="bouillon"> rajouter </operation> du <ingredient action="rajouter" quantite="75 cl"> bouillon </ingredient> de poulet jusqu' à obtention de la texture voulue .
+</preparation>
+</recette>

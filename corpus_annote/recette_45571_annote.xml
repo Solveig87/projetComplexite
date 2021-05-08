@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45571">
+<titre>Riz et dinde sautés aux épices et aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de dinde</p>
+<p>2 poivron rouge</p>
+<p>1 poivron vert</p>
+<p>4 carottes</p>
+<p>1 oignon</p>
+<p>1/2 gousse d'ail</p>
+<p>2 cuillères à café de curcuma ou curry</p>
+<p>1 cuillère à café de graines de coriandre</p>
+<p>40 cl de crème fraiche liquide</p>
+<p>1 cuillère à café de gros sel</p>
+<p>300 g de riz thai ou basmati</p>
+<p>1 cuillère à soupe d'huile </p>
+<p>1 litre d'eau</p>
+</ingredients>
+<preparation>
+dans 1 grande sauteuse faire <operation ingredients="poivrons;oignons;carottes"> revenir </operation> à feu vif les <ingredient action="revenir"> poivrons </ingredient> <operation> coupés </operation> en fines lamelles , les <ingredient action="revenir" quantite="1"> oignons </ingredient> <operation> émincés </operation> et les <ingredient action="revenir" quantite="4"> carottes </ingredient> <operation> coupées </operation> en rondelles . <operation> remuer </operation> . puis y <operation ingredients="escalopes"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> escalopes </ingredient> de dindes <operation> coupées </operation> en 6 morceaux égaux . <operation> remuer </operation> . ensuite baisser le feu <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> riz </ingredient> . <operation> remuer </operation> jusqu' à ce qu' il devienne translucide . <operation ingredients="épices;sel;coriandre;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="1;2 cuillère à café;1 cuillère à café;1 cuillère à soupe"> épices </ingredient> , le <ingredient action="ajouter" quantite="1 cuillère à café"> sel </ingredient> , les graines de <ingredient action="ajouter"> coriandre </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> juste en otant sa peau . <operation> remuer </operation> . <operation> ajouter </operation> le litre d' eau , <operation> remuer </operation> et augmenter le feu pour <operation> porter </operation> à <operation> ébullition </operation> puis baisser le feu . quand le <ingredient quantite="300 gramme"> riz </ingredient> a absorbé toute l' eau , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="40 cl"> crème </ingredient> fraiche , c' est prêt . le temps de cuisson varie selon le type de <ingredient quantite="300 gramme"> riz </ingredient> .
+</preparation>
+</recette>

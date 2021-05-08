@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20040">
+<titre>Pommes de terre sautées à la lyonnaise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>4 oignons moyens</p>
+<p>100 g de beurre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre, muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre entières à l' eau . <operation> egoutter </operation> , <operation> peler </operation> et les <operation> couper </operation> en tranches régulières . <operation ingredients="oignons"> peler </operation> et <operation> hacher </operation> les <ingredient action="peler" quantite="4"> oignons </ingredient> , les faire <operation ingredients="beurre"> dorer </operation> dans 50 g de <ingredient action="dorer" quantite="100 gramme"> beurre </ingredient> et une cuillère à soupe d' huile . dans une autre <operation> poêle </operation> , faire <operation ingredients="pommes;beurre"> sauter </operation> les <ingredient action="sauter" quantite="1 kilogramme"> pommes </ingredient> de terre avec le reste du <ingredient action="sauter" quantite="100 gramme"> beurre </ingredient> . <operation ingredients="oignons;sel;poivre;muscade"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oignons </ingredient> dorés , du <ingredient action="ajouter" quantite=""> sel </ingredient> , du <ingredient action="ajouter" quantite=""> poivre </ingredient> , de la <ingredient action="ajouter" quantite=""> muscade </ingredient> , <operation> couvrir </operation> et laisser <operation> mijoter </operation> 15 min environ .
+</preparation>
+</recette>

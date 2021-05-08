@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41758">
+<titre>Pennes au fromage frais aux fines herbes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de Pennes</p>
+<p>25 cl de crème fraîche</p>
+<p>250 g de fromage frais à l'ail et aux fines herbes</p>
+<p>200 g de champignons de Paris</p>
+<p>3 cuillères à soupe de persil</p>
+<p>poivre</p>
+<p>sel</p>
+<p>ail en poudre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crème"> chauffer </operation> la <ingredient action="chauffer" quantite="25 cl"> crème </ingredient> et y <operation ingredients="fromage"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> fromage </ingredient> frais . pendant que le <ingredient quantite="250 gramme"> fromage </ingredient> fond , faire <operation> bouillir </operation> l' eau <operation> salée </operation> et y faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> . faire <operation ingredients="champignons;ail;sel;poivre"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> champignons </ingredient> dans une <operation> poêle </operation> puis les <operation ingredients="crème;persil"> ajouter </operation> à la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> ainsi que le <ingredient action="ajouter" quantite="3 cuillère à soupe"> persil </ingredient> , l' <ingredient action="revenir" quantite=""> ail </ingredient> , le <ingredient action="revenir" quantite=""> sel </ingredient> et le <ingredient action="revenir" quantite=""> poivre </ingredient> . <operation ingredients="pennes"> egoutter </operation> les <ingredient action="egoutter" quantite="300 gramme"> pennes </ingredient> et <operation> verser </operation> la sauce dessus . on peut aussi y <operation ingredients="jambon;poulet"> ajouter </operation> <ingredient action="ajouter"> jambon </ingredient> , lardons ou blanc de <ingredient action="ajouter"> poulet </ingredient> en dés .
+</preparation>
+</recette>

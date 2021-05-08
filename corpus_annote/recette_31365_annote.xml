@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31365">
+<titre>Dôme fraîcheur tomate et chèvre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tomates</p>
+<p>1 chèvre frais (genre "chavroux") </p>
+<p>150 g de fromage fines herbes (boursin...) </p>
+<p>huile d'olive</p>
+<p>basilic (ou ciboulette) </p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> ébouillanter </operation> les <ingredient action="ébouillanter" quantite="6"> tomates </ingredient> puis les <operation> peler </operation> ( sans vous brûler ) . <operation ingredients="tomates"> vider </operation> les <ingredient action="vider" quantite="6"> tomates </ingredient> sans les <operation ingredients="tomates"> percer </operation> ( comme pour des <ingredient action="percer" quantite="6"> tomates </ingredient> farcies ) puis <operation> saler </operation> l' intérieur . <operation ingredients="chèvre;boursin"> mélanger </operation> le <ingredient action="mélanger" quantite="1"> chèvre </ingredient> frais et le <ingredient action="mélanger"> boursin </ingredient> puis <operation ingredients="tomates"> farcir </operation> les 6 <ingredient action="farcir" quantite="6"> tomates </ingredient> . les <operation> retourner </operation> dans le plat de service en les collant les unes contre les autres . <operation ingredients="huile"> arroser </operation> généreusement d' <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et <operation ingredients="basilic"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> basilic </ingredient> . <operation> couvrer </operation> le plat d' un film alimentaire et <operation> placer </operation> au refrigérateur 1 à 2 heures . servir très frais .
+</preparation>
+</recette>

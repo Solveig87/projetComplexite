@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35664">
+<titre>Salade Périgorientale</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 salade (batavia)</p>
+<p>1 mangue ferme juteuse et sucrée</p>
+<p>3 fromages de Rocamadour moelleux mais pas coulants</p>
+<p>200 g de lardons</p>
+<p>1 cuillère à soupe de vinaigre basalmique</p>
+<p>3 cuillères à soupe d'huile d’arachide</p>
+<p>1 cuillère à soupe de sauce soja japonaise</p>
+<p>1 cuillère à soupe de graines de sésame</p>
+</ingredients>
+<preparation>
+<operation> trier </operation> , <operation> nettoyer </operation> , <operation ingredients="salade"> égoutter </operation> la <ingredient action="égoutter" quantite="1"> salade </ingredient> puis <operation> déchirer </operation> les feuilles en morceaux . faire <operation> blanchir </operation> puis <operation ingredients="lardons"> dorer </operation> les <ingredient action="dorer" quantite="200 gramme"> lardons </ingredient> . <operation ingredients="mangue;fromages"> découper </operation> la <ingredient action="découper" quantite="1"> mangue </ingredient> et les <ingredient action="découper" quantite="3"> fromages </ingredient> de rocamadour en dés . dans un bol , <operation ingredients="soja"> verser </operation> une cuillère à soupe de sauce <ingredient action="verser" quantite="1 cuillère à soupe"> soja </ingredient> , une cuillère à soupe de vinaigre puis , <operation> intégrer </operation> en agitant vigoureusement trois cuillères à soupe d’ huile d’ arachide . <operation> mélanger </operation> le tout . <operation ingredients="sésame"> saupoudrer </operation> de graines de <ingredient action="saupoudrer"> sésame </ingredient> avant de servir . on peut remplacer les <ingredient quantite="200 gramme"> lardons </ingredient> par du <ingredient> magret </ingredient> de canard séché . gewurst
+</preparation>
+</recette>

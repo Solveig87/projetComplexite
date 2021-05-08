@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223448">
+<titre>Omelette à l'orange</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 œufs</p>
+<p>1 orange</p>
+<p>1 cuillère à café de rhum</p>
+<p>2 cuillère à soupe de sucre</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="œufs;sucre;rhum"> mélanger </operation> les <ingredient action="mélanger" quantite="2"> œufs </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> sucre </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à café"> rhum </ingredient> . <operation ingredients="orange"> éplucher </operation> l' <ingredient action="éplucher" quantite="1"> orange </ingredient> , <operation> séparer </operation> les quartiers et les <operation> couper </operation> tous en deux , les faire <operation ingredients="sucre"> chauffer </operation> quelques minute dans une <operation> poêle </operation> légèrement beurré en les saupoudrant de <ingredient action="chauffer" quantite="2 cuillère à soupe"> sucre </ingredient> . une fois la petite peau des quartiers devenue un peu transparente , <operation ingredients="oeufs"> ajouter </operation> le <operation> mélange </operation> à base d' <ingredient action="ajouter"> oeufs </ingredient> et <operation> cuire </operation> 5 min environ en faisant attention de ne pas faire brûler .
+</preparation>
+</recette>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27383">
+<titre>Salade complète au pamplemousse</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de jambon blanc</p>
+<p>50 g de gruyère</p>
+<p>10 radis </p>
+<p>10 champignons de Paris</p>
+<p>10 cerneaux de noix </p>
+<p>100 g de haricots verts cuits</p>
+<p>4 cornichons</p>
+<p>1 branche de céleri</p>
+<p>1 salade </p>
+<p>1 carotte </p>
+<p>le jus d'1/2 pamplemousse</p>
+<p>2 cuillères à soupe de mayonnaise </p>
+</ingredients>
+<preparation>
+<operation ingredients="jambon;gruyère"> couper </operation> le <ingredient action="couper" quantite="100 gramme"> jambon </ingredient> et le <ingredient action="couper" quantite="50 gramme"> gruyère </ingredient> en dés . <operation ingredients="radis;champignons;cornichons;céleri;salade"> faire </operation> des lamelles avec le <ingredient action="faire" quantite="10"> radis </ingredient> , les <ingredient action="faire" quantite="10"> champignons </ingredient> , les <ingredient action="faire" quantite="4"> cornichons </ingredient> , le <ingredient action="faire"> céleri </ingredient> et la <ingredient action="faire" quantite="1"> salade </ingredient> . <operation ingredients="haricots;carotte"> découper </operation> les <ingredient action="découper" quantite="100 gramme"> haricots </ingredient> verts et <operation> râper </operation> la <ingredient action="découper" quantite="1"> carotte </ingredient> . <operation> mélanger </operation> le tout dans un saladier et <operation ingredients="noix"> recouvrir </operation> des <ingredient action="recouvrir"> noix </ingredient> <operation> décortiquées </operation> . <operation ingredients="jus;mayonnaise"> ajouter </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> du pamplemousse à la <ingredient action="ajouter" quantite="2 cuillère à soupe"> mayonnaise </ingredient> et <operation> assaisonner </operation> . servir la <ingredient quantite="1"> salade </ingredient> <operation> nappée </operation> de sauce .
+</preparation>
+</recette>

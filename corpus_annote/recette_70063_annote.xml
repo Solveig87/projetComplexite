@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70063">
+<titre>Pattes d'ours rapidos</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 quatre quarts pur beurre</p>
+<p>Nutella</p>
+<p>lait</p>
+<p>noix de coco râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="nutella;lait"> fondre </operation> le <ingredient action="fondre" quantite=""> nutella </ingredient> dans un fond de <ingredient action="fondre" quantite=""> lait </ingredient> à <operation> ébullition </operation> . <operation> couper </operation> le quatre-quart en cubes . <operation ingredients="nutella"> imbiber </operation> ces cubes de <ingredient action="imbiber" quantite=""> nutella </ingredient> <operation> fondu </operation> puis les <operation ingredients="noix"> rouler </operation> dans la <ingredient action="rouler" quantite=""> noix </ingredient> de coco <operation> râpée </operation> . <operation> mettre </operation> au frais pendant environ 1 heure . <operation ingredients="quatre-quarts"> doser </operation> les ingrédients à l' oeil , selon la taille du <ingredient action="doser"> quatre-quarts </ingredient> . pour varier les goûts , remplacez le <ingredient quantite=""> nutella </ingredient> par de la <ingredient> confiture </ingredient> et un peu de <ingredient> sirop </ingredient> de votre choix !
+</preparation>
+</recette>

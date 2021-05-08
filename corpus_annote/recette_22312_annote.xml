@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22312">
+<titre>Perles de coco à la farine de riz gluant</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g farine de riz gluant</p>
+<p>2 jaunes d'oeufs</p>
+<p>2 cuillères à soupe lait de coco</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+pate : <operation ingredients="farine"> mélanger </operation> <ingredient action="mélanger" quantite="100 gramme"> farine </ingredient> + 1 / 2 verre d' eau tiède . <operation ingredients="pâte"> travailler </operation> la <ingredient action="travailler"> pâte </ingredient> pour qu' elle devienne épaisse . <operation ingredients="noix"> former </operation> 8 boules de la grosseur d' une <ingredient action="former"> noix </ingredient> . crème : <operation ingredients="oeufs"> mélanger </operation> jaunes d' <ingredient action="mélanger"> oeufs </ingredient> , lait de coco , sel . faire un trou dans chaque boule et <operation ingredients="crème"> remplir </operation> avec la <ingredient action="remplir"> crème </ingredient> de coco , à l' aide d' une <operation> poche </operation> à douille . cuisson : a la vapeur , 5 min . pour finir , les <operation ingredients="noix"> rouler </operation> dans la <ingredient action="rouler"> noix </ingredient> de coco <operation> râpée </operation> .
+</preparation>
+</recette>

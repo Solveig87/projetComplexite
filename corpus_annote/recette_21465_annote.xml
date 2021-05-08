@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21465">
+<titre>Tajine d'agneau aux pruneaux et à la cannelle</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>800 g à 1 kg de mouton en morceaux</p>
+<p>1 noisette de beurre</p>
+<p>1 cuillère à soupe d'oignons hachés</p>
+<p>1 cuillère à café de farine</p>
+<p>1 cuillère à café de piment</p>
+<p>1 bâton de cannelle</p>
+<p>1 pincée de safran</p>
+<p>200 g de pruneaux</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="mouton;beurre"> revenir </operation> les morceaux de <ingredient action="revenir"> mouton </ingredient> avec le <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="oignon"> incorporer </operation> l' <ingredient action="incorporer" quantite="1 cuillère à soupe"> oignon </ingredient> et laisser <operation> dorer </operation> . <operation ingredients="farine"> parsemer </operation> le tout de <ingredient action="parsemer" quantite="1 cuillère à café"> farine </ingredient> et <operation> recouvrir </operation> d' eau chaude . <operation> assaisonner </operation> et faire <operation> mijoter </operation> à feu doux pendant 3 h. <operation ingredients="cannelle;safran;pruneaux"> ajouter </operation> le bâton de <ingredient action="ajouter"> cannelle </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> safran </ingredient> , le piment et les <ingredient action="ajouter" quantite="200 gramme"> pruneaux </ingredient> au bout de 2 h de cuisson .
+</preparation>
+</recette>

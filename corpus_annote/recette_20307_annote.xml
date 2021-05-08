@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20307">
+<titre>Tagliatelles au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de tagliatelles</p>
+<p>100 g de thon au naturel</p>
+<p>20 cl de crème fraiche épaisse</p>
+<p>1 pincée de sel</p>
+<p>1 pincée de poivre</p>
+<p>1 pincée de muscade</p>
+</ingredients>
+<preparation>
+dans une casserole d' eau bouillante , <operation ingredients="tagliatelles"> verser </operation> les <ingredient action="verser" quantite="250 gramme"> tagliatelles </ingredient> . pendant la cuisson des <ingredient action="revenir"> pâtes </ingredient> , faire <operation ingredients="pâtes;thon"> revenir </operation> le <ingredient action="revenir" quantite="100 gramme"> thon </ingredient> <operation> émietté </operation> dans une <operation> poêle </operation> . ensuite , <operation ingredients="crème;sel;poivre;muscade"> ajouter </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> fraiche , le <ingredient action="ajouter" quantite="1 pincée"> sel </ingredient> , le <ingredient action="ajouter" quantite="1 pincée"> poivre </ingredient> et la <ingredient action="ajouter" quantite="1 pincée"> muscade </ingredient> . laisser <operation> mijoter </operation> quelques minutes . <operation ingredients="pâtes"> égoutter </operation> les <ingredient action="égoutter"> pâtes </ingredient> puis <operation> ajouter </operation> la préparation . plat facile et rapide à <operation> préparer </operation> . change un peu de l' ordinaire .
+</preparation>
+</recette>

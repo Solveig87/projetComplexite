@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18982">
+<titre>Blanc de poulet au cognac</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet (ou dinde si on veut) </p>
+<p>1 cuillère à café de curry</p>
+<p>1/2 bouchon de Cognac</p>
+<p>1 grosse cuillère de crème fraîche</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découpez </operation> les blancs de <ingredient action="découper"> poulet </ingredient> en petits morceaux , les faire <operation ingredients="huile"> revenir </operation> avec un peu d' <ingredient action="revenir"> huile </ingredient> dans une <operation> poêle </operation> . lorsqu' ils sont légèrement dorés <operation ingredients="curry;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curry </ingredient> puis une grosse cuillère de <ingredient action="ajouter"> crème </ingredient> fraîche . laissez <operation> cuire </operation> 5 mn . <operation ingredients="cognac;sel;poivre"> ajouter </operation> ensuite le <ingredient action="ajouter"> cognac </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter" quantite=""> poivre </ingredient> . on peut faire <operation ingredients="oignon"> revenir </operation> 1 / 2 <ingredient action="revenir"> oignon </ingredient> <operation> émincé </operation> avant de <operation ingredients="poulet"> mettre </operation> le <ingredient action="mettre"> poulet </ingredient> à <operation> cuire </operation> si on veut .
+</preparation>
+</recette>

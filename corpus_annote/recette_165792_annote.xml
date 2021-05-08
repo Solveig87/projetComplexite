@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="165792">
+<titre>Curry de lotte au lait de coco rapide</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de queue de lotte (fraîche ou surgelée)</p>
+<p>20 cl de lait de coco</p>
+<p>12 tomates cerises coupées en 2</p>
+<p>2 cuillère à café de gingembre en poudre</p>
+<p>1 cuillère à soupe de curry en poudre</p>
+<p>3 cuillère à soupe de sauce Nuôc Màn</p>
+<p>1 oignon émincé</p>
+</ingredients>
+<preparation>
+<operation ingredients="lotte"> coupez </operation> la <ingredient action="couper"> lotte </ingredient> en gros morceaux . faites <operation ingredients="oignons;gingembre;curry"> revenir </operation> dans 3 c. à soupe d' huile végétale les <ingredient action="revenir" quantite="1"> oignons </ingredient> , le <ingredient action="revenir" quantite="2 cuillère à café"> gingembre </ingredient> et le <ingredient action="revenir" quantite="1 cuillère à soupe"> curry </ingredient> dans un wok ou une <operation> poêle </operation> puis <operation ingredients="lotte;tomates"> ajouter </operation> les morceaux de <ingredient action="ajouter"> lotte </ingredient> et les <ingredient action="ajouter" quantite="12"> tomates </ingredient> . laissez <operation> cuire </operation> 10 mn en <operation> remuant </operation> de temps en temps à feu moyen . <operation ingredients="lait"> ajoutez </operation> le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco . <operation> mélangez </operation> bien et baissez le feu . pour <operation> ajuster </operation> le goût , <operation> ajouter </operation> la sauce nuöc màn . a servir avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

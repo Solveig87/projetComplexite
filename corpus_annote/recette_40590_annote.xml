@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="40590">
+<titre>Pachade salée</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oeuf</p>
+<p>1 cuillère à soupe bombée de farine</p>
+<p>2 cuillères à soupe de lait</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="1"> oeufs </ingredient> , <operation ingredients="farine;lait"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> + sel et poivre . faire <operation ingredients="crêpe"> revenir </operation> à la <operation> poêle </operation> comme une <ingredient action="revenir"> crêpe </ingredient> que l' on peut <operation ingredients="comté"> recouvrir </operation> de <ingredient action="recouvrir"> comté </ingredient> ou tout ce que l' on désire . recette transmise par notre hôtesse lors d' une halte dans un gîte sur le plateau d' aubrac . très bonne idée de plat pratique pour le dimanche soir . plaît aux enfants .
+</preparation>
+</recette>

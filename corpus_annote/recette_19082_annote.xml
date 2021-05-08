@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19082">
+<titre>Mousseline de légume au gratin</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de légumes par personne (carottes, chou-fleur, brocoli...) </p>
+<p>2 oeufs</p>
+<p>20 g de gruyère râpé</p>
+<p>noix de muscade</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="légumes"> cuire </operation> les <ingredient action="cuire" quantite="200 gramme"> légumes </ingredient> à la vapeur . laissez - les bien <operation> égoutter </operation> , <operation> réduisez </operation> - les en purée . cassez les <ingredient quantite="2"> oeufs </ingredient> en <operation> séparant </operation> les blancs des jaunes . <operation ingredients="oeufs;légumes"> ajoutez </operation> les jaunes d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> à la purée de <ingredient action="ajouter" quantite="200 gramme"> légumes </ingredient> . <operation ingredients="assaisonnement"> rectifiez </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> si nécessaire . <operation> battez </operation> les blancs en neige ferme et <operation> incorporez </operation> - les au <operation> mélange </operation> . <operation ingredients="gruyère;noix"> versez </operation> dans un plat à gratin et <operation> parsemez </operation> de <ingredient action="verser" quantite="20 gramme"> gruyère </ingredient> et de <ingredient action="verser" quantite=""> noix </ingredient> de muscade . faites <operation> gratiner </operation> 15 à 20 mn à four chaud . servez immédiatement .
+</preparation>
+</recette>

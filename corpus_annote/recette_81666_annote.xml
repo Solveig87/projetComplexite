@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81666">
+<titre>Velouté de carottes et  poivron à l'ail</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 gousses d'ail</p>
+<p>350 g de carottes</p>
+<p>1 poivron rouge</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1/2 litre de lait(de vache ou de soja)</p>
+<p>1/4 litre de bouillon de légumes</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> laver </operation> et <operation> couper </operation> en petits morceaux les <ingredient action="laver" quantite="350 gramme"> carottes </ingredient> . <operation ingredients="poivron"> enlever </operation> la peau du <ingredient action="enlever"> poivron </ingredient> et le <operation> couper </operation> en morceaux . <operation ingredients="huile;carottes;poivron"> chauffer </operation> l' <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> dans une casserole puis <operation ingredients="ail"> incorporer </operation> l' <ingredient action="incorporer"> ail </ingredient> , les <ingredient action="chauffer" quantite="350 gramme"> carottes </ingredient> et le <ingredient action="chauffer"> poivron </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . laisser <operation> mijoter </operation> à feu doux pendant 15 min . <operation ingredients="lait;bouillon"> ajouter </operation> le <ingredient action="ajouter"> lait </ingredient> et le <ingredient action="ajouter"> bouillon </ingredient> . <operation> porter </operation> à <operation> ébullition </operation> puis baisser le feu pour laisser <operation> mijoter </operation> à nouveau 1 . 20 min . <operation> mixer </operation> . peut se <ingredient> manger </ingredient> chaude ou froide . le <ingredient> lait </ingredient> de vache peut être remplacé par du <ingredient> lait </ingredient> de soja .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41714">
+<titre>Crevettes au saté</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de crevettes roses</p>
+<p>2 gousses d'ail </p>
+<p>1 cuillère à café de gingembre</p>
+<p>2 cuillères à soupe de saté en poudre (vendu dans les magasins asiatiques)</p>
+<p>1 bonne cuillère à soupe de coriandre ciselée</p>
+<p>2 cuillères à soupe huile d'olive</p>
+<p>10 cl de crème épaisse liquide</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;crevettes"> revenir </operation> dans l' <ingredient action="revenir" quantite="2 cuillère à soupe"> huile </ingredient> d' olive les 500 g de <ingredient action="revenir" quantite="500 gramme"> crevettes </ingredient> <operation> décortiquées </operation> à feu moyen . <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> ( 1 min ) et <operation ingredients="huile"> retirer </operation> l' excédent d' <ingredient action="retirer" quantite="2 cuillère à soupe"> huile </ingredient> . <operation ingredients="gingembre"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> gingembre </ingredient> , le saté et avant qu' il ne <operation> noircisse </operation> ( 2 min ) , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cl"> crème </ingredient> . sortir du feu et <operation ingredients="coriandre"> ajouter </operation> la <ingredient action="ajouter"> coriandre </ingredient> <operation> ciselée </operation> . servir avec du <ingredient> riz </ingredient> thaï ou pilaf aux <ingredient> oignons </ingredient> .
+</preparation>
+</recette>

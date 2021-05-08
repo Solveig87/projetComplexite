@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94972">
+<titre>Gratin de haricots et pommes de terre au lard et jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 gr de haricots</p>
+<p>300 gr de pomme de terre</p>
+<p>150 gr de jambon</p>
+<p>150 gr de lard</p>
+<p>100 gr de parmesan rapé</p>
+<p>1.5 dl de crème fraiche</p>
+<p>Sel et poivre à volonté</p>
+</ingredients>
+<preparation>
+<operation ingredients="haricots"> blanchir </operation> 5 min les <ingredient action="blanchir" quantite="500 gr"> haricots </ingredient> dans un grand volume d' eau <operation> salée </operation> , les <operation> égoutter </operation> . <operation> peler </operation> puis <operation ingredients="pommes"> couper </operation> les <ingredient action="couper" quantite="300 gr"> pommes </ingredient> de terre en frites . <operation ingredients="lard;jambon"> détailler </operation> en petit cubes le <ingredient action="détailler" quantite="150 gr"> lard </ingredient> et le <ingredient action="détailler" quantite="150 gr"> jambon </ingredient> . dans un plat à gratin , <operation ingredients="haricots;pommes;jambon;lard"> répartir </operation> en couches la moitié des <ingredient action="répartir" quantite="500 gr"> haricots </ingredient> , des <ingredient action="répartir" quantite="300 gr"> pommes </ingredient> de terre , du <ingredient action="répartir" quantite="150 gr"> jambon </ingredient> , du <ingredient action="répartir" quantite="150 gr"> lard </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> puis <operation ingredients="crème;parmesan"> verser </operation> par dessus la moitié de la <ingredient action="verser"> crème </ingredient> et du <ingredient action="verser" quantite="100 gr"> parmesan </ingredient> . recommencer l' opération pour une deuxième couche . <operation> couvrir </operation> et glisser au four préchauffé à 160 <operation> ° </operation> ( air pulsé ) pendant 45 min . <operation> découvrir </operation> et poursuivre la cuisson à 200 <operation> ° </operation> pendant 15 min environ .
+</preparation>
+</recette>

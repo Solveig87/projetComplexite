@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="90143">
+<titre>Croque monsieur au chocolat fondant</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 tranches de pain de mie</p>
+<p>150 g de chocolat pâtissier</p>
+<p>2 cuillerées à soupe de lait concentré sucré</p>
+<p>3 œufs</p>
+<p>1 cuillère à café d'extrait de café ou café soluble</p>
+<p>3 cuillerées à  soupe de beurre</p>
+<p>20 g de Sucre glace</p>
+</ingredients>
+<preparation>
+casser les <ingredient quantite="3"> œufs </ingredient> dans un saladier . <operation> ajouter </operation> deux cuillères à soupe de lait <operation> concentré </operation> <operation> sucré </operation> et <operation> battez </operation> bien le tout . faire <operation> chauffer </operation> dans une <operation> poêle </operation> 3 cuillères à soupe de beurre . <operation ingredients="pain;œufs"> tremper </operation> les tranches de <ingredient action="tremper" quantite="8 tranche"> pain </ingredient> de mie dans les <ingredient action="tremper" quantite="3"> œufs </ingredient> <operation> battus </operation> puis les <operation ingredients="beurre"> mettre </operation> dans le <ingredient action="mettre"> beurre </ingredient> bien chaud . laisser <operation> dorer </operation> , <operation> retourner </operation> et faire <operation> dorer </operation> la seconde face . <operation ingredients="chocolat"> mettre </operation> le <ingredient action="mettre" quantite="150 gramme"> chocolat </ingredient> , <operation> coupé </operation> en morceaux , dans une casserole avec une cuillère à soupe d' eau et une cuillère à café de café soluble . faire <operation> chauffer </operation> doucement en tournant sans cesse avec la cuillère en bois afin d' obtenir une <ingredient> crème </ingredient> <operation> lisse </operation> et épaisse . <operation ingredients="pain;crème"> tartiner </operation> les tranches de <ingredient action="tartiner" quantite="8 tranche"> pain </ingredient> de cette <ingredient action="tartiner"> crème </ingredient> : les <operation> coller </operation> deux par deux .
+</preparation>
+</recette>

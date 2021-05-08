@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="218556">
+<titre>Verrines de fromage blanc vanille coco et fruits</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grand pots de fromage blanc à la vanille</p>
+<p>30 cl de crème de coco</p>
+<p>1 mangue</p>
+<p>3 pêches</p>
+<p>4 kiwis</p>
+<p>rouleaux de réglisse</p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="fromage;crème"> mélangez </operation> le <ingredient action="mélanger"> fromage </ingredient> blanc et la <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> de coco . <operation ingredients="fruits"> coupez </operation> ensuite vos <ingredient action="couper" quantite="1;3;4"> fruits </ingredient> . dans des verres ( type verres à whisky ) , <operation ingredients="fruits"> mettez </operation> au fond environ 3 centimètres de <ingredient action="mettre" quantite="1;3;4"> fruits </ingredient> , puis <operation ingredients="fromage"> recouvrez </operation> de la préparation de <ingredient action="recouvrir"> fromage </ingredient> blanc . répétez l' opération . <operation ingredients="réglisse"> disposez </operation> quelques fils de <ingredient action="disposer"> réglisse </ingredient> pour finir . c' est fait ! rapide , frais , léger et bon marché ! on peut prendre des <ingredient quantite="1;3;4"> fruits </ingredient> au sirop . vouvray pétillant
+</preparation>
+</recette>

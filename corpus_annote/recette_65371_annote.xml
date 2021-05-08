@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65371">
+<titre>Salade d'endives composée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 endives de tailles moyenne</p>
+<p>15 noix </p>
+<p>150 g d'emmental</p>
+<p>50 g de roquefort (pour un goût plus relevé, si vous le souhaitez)</p>
+<p>1 pomme reinette</p>
+<p>100 g de lardons fumés</p>
+<p>5 tranches de filet de bacon</p>
+<p>3 cuillères à soupe d'huile de noix</p>
+<p>1 cuillère à soupe de vinaigre balsamique </p>
+<p>1 brin de persil finement ciselé</p>
+<p>sel, poivre 5 baies</p>
+</ingredients>
+<preparation>
+ne pas <operation ingredients="endives"> laver </operation> les <ingredient action="laver" quantite="4"> endives </ingredient> ( cela évite l' amertume ) , <operation> retirer </operation> seulement les premières feuilles . <operation ingredients="endives;couteau"> couper </operation> les <ingredient action="couper" quantite="4"> endives </ingredient> avec un <ingredient action="couper"> couteau </ingredient> <operation> tranchant </operation> en fines rondèlles , les <operation> mettre </operation> dans un plat . casser les <ingredient quantite="15"> noix </ingredient> et garder les cerneaux . <operation ingredients="emmental;roquefort"> couper </operation> l' <ingredient action="couper" quantite="150 gramme"> emmental </ingredient> en petits cubes ainsi que le <ingredient action="couper" quantite="50 gramme"> roquefort </ingredient> . <operation ingredients="bacon"> couper </operation> en fines lamelles les tranches de filet de <ingredient action="couper"> bacon </ingredient> . faire <operation ingredients="lardons"> rissoler </operation> les petits <ingredient action="rissoler"> lardons </ingredient> dans une <operation> poêle </operation> , une fois dorés les <operation ingredients="endives"> mélanger </operation> aux <ingredient action="mélanger" quantite="4"> endives </ingredient> avec le reste des ingrédients et <operation> incorporer </operation> la vinaigrette . c' est une <ingredient> salade </ingredient> très goûteuse , absolument délicieuse . . . le soir , avec un <ingredient> oeuf </ingredient> <operation> poché </operation> ou quelques <ingredient> champignons </ingredient> , elle fait plat complet ! un chardonnay blanc bien frais
+</preparation>
+</recette>

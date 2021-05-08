@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39606">
+<titre>Salade de magrets au melon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 melon</p>
+<p>250 g de lardons</p>
+<p>150 g de magret de canard fumé tranché (une barquette)</p>
+<p>4 tomates</p>
+<p>croûtons à l'ail et aux fines herbes à l'ancienne (un sachet)</p>
+<p>salade mêlée (un sachet)</p>
+<p>huile, vinaigre de framboise</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lardons;huile"> revenir </operation> les <ingredient action="revenir" quantite="250 gramme"> lardons </ingredient> à la <operation> poêle </operation> avec un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> , <operation ingredients="magret"> rajouter </operation> le <ingredient action="rajouter" quantite="150 gramme"> magret </ingredient> de canard en fin de cuisson , puis <operation ingredients="vinaigre"> déglacer </operation> au <ingredient action="déglacer" quantite=""> vinaigre </ingredient> de framboise . pendant la cuisson , <operation ingredients="melon;tomates"> couper </operation> en dés le <ingredient action="couper" quantite="1"> melon </ingredient> et les <ingredient action="couper" quantite="4"> tomates </ingredient> en quartier . puis <operation> ajouter </operation> avant de servir le <ingredient quantite="1"> melon </ingredient> avec les <ingredient quantite="250 gramme"> lardons </ingredient> et le <ingredient quantite="150 gramme"> magret </ingredient> et faire <operation> revenir </operation> deux minutes . <operation ingredients="salade"> dresser </operation> sur assiettes un lit de <ingredient action="dresser" quantite=""> salade </ingredient> , <operation ingredients="tomates"> entourer </operation> de quartiers de <ingredient action="entourer" quantite="4"> tomates </ingredient> . <operation> disposer </operation> la préparation sur assiette , <operation ingredients="croûtons;jus"> rajouter </operation> les <ingredient action="rajouter" quantite=""> croûtons </ingredient> préalablement revenus dans le <ingredient action="rajouter"> jus </ingredient> de cuisson . servir tiède . vous pouvez <operation ingredients="raisins"> rajouter </operation> des <ingredient action="rajouter"> raisins </ingredient> blancs , et aussi <operation ingredients="salade"> parsemer </operation> la <ingredient action="parsemer" quantite=""> salade </ingredient> de gruyère rapé . sauvignon
+</preparation>
+</recette>

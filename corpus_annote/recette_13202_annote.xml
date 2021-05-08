@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13202">
+<titre>Far breton facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine fine</p>
+<p>150 g de sucre</p>
+<p>1 paquet de sucre vanillé</p>
+<p>4 gros oeufs</p>
+<p>1 litre de lait</p>
+<p>100 g de pruneaux dénoyautés (qu'on aura fait tremper dans de l'eau avec un peu de rhum)</p>
+<p>1 petit verre de rhum</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sucre;oeufs"> mélanger </operation> la <ingredient action="mélanger"> farine </ingredient> , le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> et les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> un par un . <operation ingredients="sucre;lait"> ajouter </operation> le <ingredient action="ajouter" quantite="150 gramme"> sucre </ingredient> vanillé et le <ingredient action="ajouter" quantite="1 litre"> lait </ingredient> peu à peu . <operation ingredients="rhum"> ajouter </operation> le <ingredient action="ajouter"> rhum </ingredient> . <operation ingredients="pâte"> verser </operation> cette <ingredient action="verser"> pâte </ingredient> dans un plat bien beurré , y <operation ingredients="pruneaux"> placer </operation> les <ingredient action="placer" quantite="100 gramme"> pruneaux </ingredient> et <operation> cuire </operation> à four chaud ( thermostat 6 / 7 , soit 200 <operation> ° </operation> c environ ) . surveiller la cuisson à partir de 35 mn . on peut remplacer les <ingredient quantite="100 gramme"> pruneaux </ingredient> par des <ingredient> raisins </ingredient> <operation> trempés </operation> dans le <ingredient> rhum </ingredient> . attention : le vrai far breton ne contient ni <ingredient> raisins </ingredient> ni pruneaux !
+</preparation>
+</recette>

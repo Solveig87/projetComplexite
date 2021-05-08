@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30150">
+<titre>Salade de carottes et surimi</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grosses carottes</p>
+<p>6 bâtonnets de surimi</p>
+<p>1 petite échalote</p>
+<p>ciboulette</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="carottes"> eplucher </operation> les <ingredient action="eplucher" quantite="2"> carottes </ingredient> et les <operation> râper </operation> . y <operation ingredients="surimi"> ajouter </operation> les 6 bâtonnets de <ingredient action="ajouter"> surimi </ingredient> <operation ingredients="échalote;ciboulette"> couper </operation> en petits morceaux ainsi que l' <ingredient action="couper" quantite="1"> échalote </ingredient> et la <ingredient action="couper" quantite=""> ciboulette </ingredient> finement <operation> hachées </operation> . <operation> assaisonner </operation> cette préparation d' une vinaigrette ou d' une sauce à base de <ingredient> crème </ingredient> fraîche .
+</preparation>
+</recette>

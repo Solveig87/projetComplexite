@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20356">
+<titre>Thon maïs gratiné</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 baguette</p>
+<p>1 boîte de thon</p>
+<p>de la mayonnaise</p>
+<p>du fromage râpé</p>
+</ingredients>
+<preparation>
+<operation ingredients="baguette;sandwich"> couper </operation> un morceau de <ingredient action="couper" quantite="1"> baguette </ingredient> de la taille d' un <ingredient action="couper"> sandwich </ingredient> normal , puis le <operation> trancher </operation> sur le dessus en longueur . <operation ingredients="maïs;mayonnaise"> mélanger </operation> le <ingredient action="mélanger"> maïs </ingredient> à la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et <operation ingredients="thon;huile"> ajouter </operation> le <ingredient action="ajouter"> thon </ingredient> ( au naturel ou à l' <ingredient action="ajouter"> huile </ingredient> . ) <operation ingredients="sandwich"> incorporer </operation> le <operation> mélange </operation> dans le <ingredient action="incorporer"> sandwich </ingredient> puis étaler le <ingredient quantite=""> fromage </ingredient> dessus . <operation> mettre </operation> au four ensuite jusqu' à ce que le <ingredient action="fondre" quantite=""> fromage </ingredient> <operation ingredients="fromage"> fonde </operation> et <operation> dore </operation> un peu . puis déguster c' est prêt !
+</preparation>
+</recette>

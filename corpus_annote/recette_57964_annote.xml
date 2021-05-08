@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57964">
+<titre>Champignons à la grecque facile</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de champignons</p>
+<p>20 cl de vin blanc sec</p>
+<p>5 cl d'huile d olive</p>
+<p>1/2 citron</p>
+<p>10 cl de sauce tomate cuisinée</p>
+<p>sel, poivre</p>
+<p>thym, laurier</p>
+<p>2 morceaux de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons"> rincer </operation> les <ingredient action="rincer" quantite="500 gramme"> champignons </ingredient> , les <operation> essuyer </operation> . les faire <operation ingredients="huile"> revenir </operation> avec l' <ingredient action="revenir" quantite="5 cl"> huile </ingredient> . <operation ingredients="vin;citron;sel;laurier;sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> , le <ingredient action="ajouter"> citron </ingredient> , la sauce tomate , <ingredient action="ajouter" quantite=""> sel </ingredient> , poivre , thym <ingredient action="ajouter" quantite=""> laurier </ingredient> , le <ingredient action="ajouter"> sucre </ingredient> . laisser <operation> cuire </operation> 10 min . <operation> mettre </operation> au frais une heure .
+</preparation>
+</recette>

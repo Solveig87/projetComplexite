@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73574">
+<titre>Ratatouille aux merguez</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 concombres</p>
+<p>2 courgettes</p>
+<p>1 aubergine</p>
+<p>6 grosses tomates</p>
+<p>8 à 12 merguez</p>
+<p>1 cuillère de maïzena</p>
+</ingredients>
+<preparation>
+<operation> epluchez </operation> les <operation action="concombre" ingredients="concombres;aubergine"> concombres </operation> , courgettes et <ingredient action="concombre" quantite="1"> aubergine </ingredient> . <operation> coupez </operation> - les en petits morceaux et <operation> cuisez </operation> - les avec un peu d' eau dans une cocotte - minute environ 20 min . pendant ce temps , <operation ingredients="merguez"> retirez </operation> les peaux des <ingredient action="retirer" quantite="8"> merguez </ingredient> et <operation> coupez </operation> - les en morceaux de 1 cm environ . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="6"> tomates </ingredient> en morceaux . lorsque les <ingredient action="cuire" quantite="2"> concombres </ingredient> , courgettes et <ingredient action="cuire" quantite="1"> aubergine </ingredient> sont <operation ingredients="concombres;aubergine;fondantes"> cuites </operation> et <ingredient action="cuire"> fondantes </ingredient> , <operation ingredients="tomates"> introduisez </operation> les <ingredient action="introduire" quantite="6"> tomates </ingredient> . laissez <operation> cuire </operation> pendant 5 à 10 min puis <operation ingredients="merguez"> incorporez </operation> les <ingredient action="incorporer" quantite="8"> merguez </ingredient> ( tout ça sans le couvercle de la cocotte - minute ) . lorsque tout est <operation> cuit </operation> , <operation ingredients="jus"> enlevez </operation> un maximum de <ingredient action="enlever"> jus </ingredient> et <operation ingredients="maïzena"> incorporez </operation> la <ingredient action="incorporer" quantite="1 cuillère"> maïzena </ingredient> . laissez <operation> cuire </operation> 5 bonnes min . <operation> accompagnez </operation> cette ratatouille d' un bon <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

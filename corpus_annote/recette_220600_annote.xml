@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="220600">
+<titre>Potage au céleri rave</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 céleri rave</p>
+<p>2 carottes</p>
+<p>3 pommes-de-terre</p>
+<p>1 oignon</p>
+<p>1 cube de bouillon de poule</p>
+<p>huile d'olive</p>
+<p>eau</p>
+<p>sel</p>
+<p>poivre</p>
+<p>curry</p>
+<p>persil</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+préparation à la cocotte vapeur : <operation ingredients="légumes"> éplucher </operation> tous les <ingredient action="éplucher" quantite="2;1;"> légumes </ingredient> et les <operation> détailler </operation> en morceaux . dans la cocotte , faire <operation ingredients="oignon;huile;bouillon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans un peu d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , <operation ingredients="légumes"> ajouter </operation> les <ingredient action="ajouter" quantite="2;1;"> légumes </ingredient> , le cube de <ingredient action="revenir"> bouillon </ingredient> , <operation ingredients="légumes"> couvrir </operation> les <ingredient action="couvrir" quantite="2;1;"> légumes </ingredient> d' eau . faire <operation> monter </operation> la pression et lorsque la soupape chuchote , <operation> cuire </operation> à feu doux pendant 12 minutes . <operation> passer </operation> le potage et l' <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre , curry , <operation ingredients="persil;crème"> ajouter </operation> une poignée de <ingredient action="ajouter" quantite=""> persil </ingredient> frais <operation> haché </operation> et un peu de <ingredient action="ajouter" quantite=""> crème </ingredient> fraiche avant de servir .
+</preparation>
+</recette>

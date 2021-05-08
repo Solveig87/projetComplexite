@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14225">
+<titre>Farci poitevin</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de poitrine de porc fumée</p>
+<p>250 g de porc frais</p>
+<p>500 g d'oseille</p>
+<p>500 g d'épinards</p>
+<p>1 chou</p>
+<p>bettes</p>
+<p>3 oeufs</p>
+<p>sel, poivre</p>
+<p>saindoux</p>
+</ingredients>
+<preparation>
+<operation ingredients="porc;porc;épinards;choux;bettes"> hachez </operation> le <ingredient action="hacher"> porc </ingredient> <operation> fumé </operation> et le <ingredient action="hacher"> porc </ingredient> frais , <operation ingredients="oseille"> hachez </operation> l' <ingredient action="hacher" quantite="500 gramme"> oseille </ingredient> , les <ingredient action="hacher" quantite="500 gramme"> épinards </ingredient> , le <ingredient action="hacher" quantite="1"> choux </ingredient> et quelques feuilles de <ingredient action="hacher" quantite=""> bettes </ingredient> . <operation ingredients="viandes"> mélangez </operation> <ingredient action="mélanger" quantite="250 gramme"> viandes </ingredient> et légumes , <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> <operation> battus </operation> , <operation> salez </operation> et <operation> poivrez </operation> , bien <operation> malaxer </operation> . <operation> placez </operation> ceci dans une cocotte <operation ingredients="saindoux"> graissée </operation> au <ingredient action="graisser" quantite=""> saindoux </ingredient> , laissez <operation> cuire </operation> doucement pendant trois heures . on <operation ingredients="pain"> fait </operation> également un farci au <ingredient action="faire"> pain </ingredient> , c' est- . dire que l' on ajoute aux <ingredient quantite="500 gramme;500 gramme;1;"> légumes </ingredient> et à 500 g de <ingredient> lard </ingredient> en dés , 250 g de mie de <ingredient> pain </ingredient> <operation> émietté </operation> . en vendée , un ' far à herves ' ou ' jottes ' ( jeunes feuilles de <ingredient quantite=""> bettes </ingredient> ) ressemble comme un frère au farci poitevin , mais on ajoute aux herbes au <ingredient> lard </ingredient> et aux <ingredient quantite="3"> oeufs </ingredient> , une tasse de <ingredient> crème </ingredient> . le farci charentais enfin , est <operation ingredients="choux;bettes;oseille"> fait </operation> de feuilles de <ingredient action="faire" quantite="1"> choux </ingredient> blanc , de <ingredient action="faire" quantite=""> bettes </ingredient> et d' <ingredient action="faire" quantite="500 gramme"> oseille </ingredient> .
+</preparation>
+</recette>

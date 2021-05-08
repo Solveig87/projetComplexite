@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="43897">
+<titre>Gâteau au chocolat (sans lait et sans gluten)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 verre de farine de châtaignes</p>
+<p>1 verre de lait de riz</p>
+<p>1 yaourt de soja</p>
+<p>3 cuillères à soupe de sucre de canne</p>
+<p>50 g de chocolat</p>
+<p>1/2 sachet de levure sans gluten</p>
+<p>3 oeufs</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> chocolat </ingredient> dans le <ingredient action="fondre" quantite="1 verre"> lait </ingredient> de riz , tout doucement . <operation ingredients="farine;levure;sucre"> melanger </operation> la <ingredient action="melanger" quantite="1 verre"> farine </ingredient> de châtaignes avec la <ingredient action="melanger"> levure </ingredient> , le <ingredient action="melanger" quantite="3 cuillère à soupe"> sucre </ingredient> . <operation ingredients="oeufs;yaourt;lait"> ajouter </operation> à ce <operation> mélange </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , le <ingredient action="ajouter" quantite="1"> yaourt </ingredient> de soja , et le <ingredient action="ajouter" quantite="1 verre"> lait </ingredient> de riz chocolaté . <operation> mélanger </operation> bien le tout . <operation ingredients="rond"> verser </operation> dans un <operation> moule </operation> <ingredient action="verser"> rond </ingredient> , et <operation> enfourner </operation> 20 min à 200 <operation> ° </operation> c ( th . 7 ) . c' est <operation ingredients="couteau"> cuit </operation> , quand la pointe de <ingredient action="cuire"> couteau </ingredient> plantée dans le <ingredient> gâteau </ingredient> ressort à peine humide . la <ingredient quantite="1 verre"> farine </ingredient> de châtaigne se trouve dans les magasins bio .
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28545">
+<titre>Ragoût de lentilles et de pâtes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g de pâtes courtes</p>
+<p>375 g de lentilles</p>
+<p>100 g de champignons de Paris</p>
+<p>45 g de beurre</p>
+<p>45 g de lard</p>
+<p>3 oignons</p>
+<p>30 g de parmesan ou de gruyère</p>
+<p>1,5 l de bouillon de viande </p>
+<p>1 brin de thym</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons;champignons;lard"> hacher </operation> les <ingredient action="hacher" quantite="3"> oignons </ingredient> , les <ingredient action="hacher" quantite="100 gramme"> champignons </ingredient> et le <ingredient action="hacher" quantite="45 gramme"> lard </ingredient> . les faire <operation ingredients="beurre;thym"> fondre </operation> dans le <ingredient action="fondre" quantite="45 gramme"> beurre </ingredient> avec le <ingredient action="fondre"> thym </ingredient> . <operation ingredients="lentilles;bouillon"> mettre </operation> les <ingredient action="mettre" quantite="375 gramme"> lentilles </ingredient> dans le <ingredient action="mettre" quantite="1,5 l"> bouillon </ingredient> froid . amener à <operation> ébullition </operation> et <operation> cuire </operation> 40 minutes . <operation ingredients="pâtes"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> pâtes </ingredient> 15 minutes avant la fin de la cuisson . <operation> rajouter </operation> un peu de liquide si nécessaire . lorsque les <ingredient action="cuire" quantite="375 gramme"> lentilles </ingredient> et les <ingredient action="cuire" quantite="300 gramme"> pâtes </ingredient> sont <operation ingredients="lentilles;pâtes"> cuites </operation> , il ne doit presque plus rester de liquide . <operation ingredients="oignons;fromage"> ajouter </operation> alors le <operation> mélange </operation> <ingredient action="ajouter" quantite="3"> oignons </ingredient> , champignons et lard ainsi que le <ingredient action="ajouter"> fromage </ingredient> . <operation> mélanger </operation> et servir .
+</preparation>
+</recette>

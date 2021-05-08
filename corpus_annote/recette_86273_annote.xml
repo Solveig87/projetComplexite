@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86273">
+<titre>Bouchées aux asperges vertes, gambas et saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g d'asperges vertes</p>
+<p>30 gambas (surgelées par exemple)</p>
+<p>3 tranches de saumon fumé</p>
+<p>20 cl de crème fraiche liquide</p>
+<p>6 bouchées feuilletées</p>
+<p>2 tomates</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="asperges"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> asperges </ingredient> dans de l' eau bouillante et <operation> salée </operation> pendant 5 min . les rafraîchir . <operation ingredients="asperges"> emincer </operation> les <ingredient action="emincer" quantite="300 gramme"> asperges </ingredient> et <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> <operation> fumé </operation> en lanières . <operation ingredients="tomates"> enlever </operation> le pédoncule des <ingredient action="enlever" quantite="2"> tomates </ingredient> , les <operation> plonger </operation> 10 secondes dans de l' eau bouillante et les rafraîchir . les <operation> peler </operation> , les <operation> couper </operation> en quatre afin d' <operation> enlever </operation> les pépins puis les <operation> couper </operation> en petits dés . faire <operation ingredients="noix"> fondre </operation> une <ingredient action="fondre"> noix </ingredient> de beurre dans une <operation> poêle </operation> et y faire <operation ingredients="asperges"> revenir </operation> les <ingredient action="revenir" quantite="300 gramme"> asperges </ingredient> <operation> émincées </operation> . <operation ingredients="gambas"> ajouter </operation> les <ingredient action="ajouter" quantite="30"> gambas </ingredient> ( il faudra penser à les faire <operation> cuire </operation> auparavant ) , puis la <ingredient quantite="20 cl"> crème </ingredient> . <operation> assaisonner </operation> et laisser <operation> bouillir </operation> deux minutes . ensuite , <operation ingredients="tomates;saumon;fumé"> ajouter </operation> les dés de <ingredient action="ajouter" quantite="2"> tomates </ingredient> et le <ingredient action="ajouter"> saumon </ingredient> <ingredient action="ajouter" quantite="3 tranche"> fumé </ingredient> . laisser <operation> cuire </operation> deux minutes et <operation> réserver </operation> au chaud . faire <operation> chauffer </operation> les bouchées au four en ayant <operation> enlevé </operation> leur chapeau au préalable . <operation> garnir </operation> les bouchées avec le <operation> mélange </operation> .
+</preparation>
+</recette>

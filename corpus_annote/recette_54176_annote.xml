@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54176">
+<titre>Couscous pour les enfant</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boîte de sauce tomate</p>
+<p>des saucisse cocktail ou saucisses coupées en morceaux</p>
+<p>1 boîte de petits pois carottes</p>
+<p>semoule</p>
+<p>beurre ou huile</p>
+</ingredients>
+<preparation>
+dans une casserole <operation ingredients="noisette;huile"> mettre </operation> une <ingredient action="mettre"> noisette </ingredient> de beurre ou un filet d' <ingredient action="mettre"> huile </ingredient> puis <operation> mettre </operation> à <operation ingredients="saucisses"> chauffer </operation> les <ingredient action="chauffer" quantite=""> saucisses </ingredient> . <operation ingredients="pois;carottes"> rajouter </operation> les petits <ingredient action="rajouter"> pois </ingredient> <ingredient action="rajouter"> carottes </ingredient> et enfin <operation> ajouter </operation> la sauce tomate . laisser le tout <operation> chauffer </operation> à feu doux 5 minutes pour que cela sois chaud et <operation> cuit </operation> . <operation ingredients="semoule;beurre"> préparer </operation> la <ingredient action="préparer" quantite=""> semoule </ingredient> selon votre habitude ( par exemple eau bouillante puis micro-onde avec un morceau de <ingredient action="préparer"> beurre </ingredient> ) . servir la <ingredient quantite=""> semoule </ingredient> et <operation> ajouter </operation> la garniture . ce plat est un plat pour les enfants et les grands , mais surtout pour les enfants qui n' aiment pas le couscous . ici on a remplacé les <ingredient> légumes </ingredient> par des petits <ingredient> pois </ingredient> <ingredient> carottes </ingredient> , la <ingredient quantite=""> viande </ingredient> par des <ingredient quantite=""> saucisses </ingredient> et c' est tout . les enfants apprécient .
+</preparation>
+</recette>

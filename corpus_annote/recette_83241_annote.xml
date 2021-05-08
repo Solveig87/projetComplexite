@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83241">
+<titre>Rôti de porc aux mangues</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 rôti de porc</p>
+<p>1 branche de thym et laurier (ou un bouillon cube) </p>
+<p>2 gousses d'ail</p>
+<p>sel, poivre</p>
+<p>2 mangues</p>
+</ingredients>
+<preparation>
+<operation ingredients="rôti;ail"> piquer </operation> le <ingredient action="piquer" quantite="1"> rôti </ingredient> sur les deux faces avec de l' <ingredient action="piquer"> ail </ingredient> . <operation ingredients="bouillon;gousses"> verser </operation> dans le plat un petit verre d' eau et y <operation ingredients="thym;laurier"> mettre </operation> le <ingredient action="mettre"> thym </ingredient> , le <ingredient action="mettre"> laurier </ingredient> ( ou le <ingredient action="verser"> bouillon </ingredient> cube <operation> dissout </operation> ) et des <ingredient action="verser" quantite="2"> gousses </ingredient> d' ail <ingredient action="éplucher" quantite="1"> non </ingredient> <operation ingredients="non"> épluchées </operation> . faire <operation action="rôtir" ingredients="rôtir"> rôtir </operation> au four sur toutes les faces , et bien <operation ingredients="rôti;jus"> arroser </operation> le <ingredient action="arroser" quantite="1"> rôti </ingredient> avec le <ingredient action="arroser"> jus </ingredient> de cuisson . <operation> ajouter </operation> de l’ eau si besoin ( le temps de cuisson dépend de la taille du <ingredient quantite="1"> rôti </ingredient> et de la puissance du four ) . avant la fin de la cuisson , <operation ingredients="rôti;mangue"> couper </operation> le <ingredient action="couper" quantite="1"> rôti </ingredient> en tranches épaisses et <operation> intercaler </operation> des tranches fines de <ingredient action="couper" quantite="2"> mangue </ingredient> . <operation ingredients="mangues"> ajouté </operation> le reste des <ingredient action="ajouter" quantite="2"> mangues </ingredient> <operation ingredients="jus"> coupées </operation> en petits dés dans le plat directement dans le <ingredient action="couper"> jus </ingredient> de cuisson . terminer la cuisson pendant environ 1 . 20 minutes au four . <operation ingredients="riz"> accompagner </operation> avec du <ingredient action="accompagner"> riz </ingredient> thaï ou basmati . recette également réalisable avec un <ingredient quantite="1"> rôti </ingredient> de veau .
+</preparation>
+</recette>

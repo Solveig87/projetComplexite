@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24771">
+<titre>Terrine de viandes variées</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poule</p>
+<p>1 lapin</p>
+<p>300 g d’épaules de veau</p>
+<p>200 g de lard </p>
+<p>100 g de barde de lard</p>
+<p>1 grande couenne fraîche</p>
+<p>1 crépine</p>
+<p>200 g d'échalotes</p>
+<p>1 bouquet de persil </p>
+<p>50 cl de vin blanc sec</p>
+<p>2 branches de thym</p>
+<p>6 feuilles de laurier</p>
+<p>sel, poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="poule;lapin"> désosser </operation> la <ingredient action="désosser" quantite="1"> poule </ingredient> et le <ingredient action="désosser" quantite="1"> lapin </ingredient> , puis <operation> découper </operation> en lamelles . <operation ingredients="veau;lard"> couper </operation> le <ingredient action="couper"> veau </ingredient> en cubes et le <ingredient action="couper" quantite="200 gramme"> lard </ingredient> en dés . <operation> garnir </operation> une terrine beurrée de couenne et y <operation ingredients="viande"> mettre </operation> les morceaux de <ingredient action="mettre" quantite="1;200 gramme"> viande </ingredient> . <operation ingredients="échalotes;persil"> hacher </operation> les <ingredient action="hacher" quantite="200 gramme"> échalotes </ingredient> et le <ingredient action="hacher"> persil </ingredient> , et en <operation ingredients="viande"> saupoudrer </operation> les 3 / 4 sur la <ingredient action="saupoudrer" quantite="1;200 gramme"> viande </ingredient> . <operation> assaisonner </operation> et <operation ingredients="vin"> mouiller </operation> de <ingredient action="mouiller" quantite="50 cl"> vin </ingredient> blanc , afin de <operation ingredients="viande"> recouvrir </operation> la <ingredient action="recouvrir" quantite="1;200 gramme"> viande </ingredient> . <operation ingredients="viande"> ajouter </operation> la crépine et les lanières de barde sur la <ingredient action="ajouter" quantite="1;200 gramme"> viande </ingredient> . <operation ingredients="laurier;persil;thym"> parsemer </operation> de <ingredient action="parsemer" quantite="6 feuille"> laurier </ingredient> , de <ingredient action="parsemer"> persil </ingredient> et de <ingredient action="parsemer"> thym </ingredient> . préchauffer le four à 150 <operation> ° </operation> ( thermostat 5 ) . <operation> couvrir </operation> la terrine et <operation> enfourner </operation> au bain - marie pendant 3 h 30 min . laisser refroidir et <operation> mettre </operation> au frais pendant 12 à 15 h.
+</preparation>
+</recette>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223594">
+<titre>Salade composée colorée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 tomates</p>
+<p>1 boite de maïs</p>
+<p>5 petites betteraves</p>
+<p>200 g de mimolette</p>
+<p>300 g de lardons</p>
+<p>Pour la vinaigrette :</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillères à soupe de vinaigre</p>
+<p>1/2 cuillère à café de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite="5"> tomates </ingredient> en petits morceaux , <operation ingredients="maïs;mimolette;lardons"> ajoutez </operation> le <ingredient action="ajouter"> maïs </ingredient> , les betteraves <operation> râpées </operation> , la <ingredient action="ajouter" quantite="200 gramme"> mimolette </ingredient> <operation> râpée </operation> et les <ingredient action="ajouter" quantite="300 gramme"> lardons </ingredient> dorés à la <operation> poêle </operation> . <operation> ajouter </operation> la vinaigrette et servir bien frais . cabernet rosé
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59324">
+<titre>Poulet chipotari</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 cuisses ou pilons de poulet</p>
+<p>huile d'olive</p>
+<p>4 oignons</p>
+<p>280 g de pickle de légumes variés (1 pot)</p>
+<p>70 g de concentré de tomates (1 petite boîte)</p>
+<p>2 cuillères à soupe de gelée de groseilles</p>
+<p>2 cuillères à café de curry</p>
+<p>1 petite bouteille de vin rouge (Bordeau)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;oignons;huile"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> et les <ingredient action="dorer" quantite="4"> oignons </ingredient> à la <operation> poêle </operation> , dans un fond d' <ingredient action="dorer" quantite=""> huile </ingredient> d' olive , à feu vif . <operation> réduire </operation> le feu et <operation ingredients="pickle;vin;curry;tomates;gelée"> incorporer </operation> le <ingredient action="incorporer" quantite="280 gramme"> pickle </ingredient> de légumes , le <ingredient action="incorporer"> vin </ingredient> rouge , le <ingredient action="incorporer" quantite="2 cuillère à café"> curry </ingredient> , le <operation> concentré </operation> de <ingredient action="incorporer"> tomates </ingredient> et la <ingredient action="incorporer" quantite="2 cuillère à soupe"> gelée </ingredient> de groseilles . laisser <operation> mijoter </operation> le tout jusqu' à la fin de la cuisson ( + . 1 petite heure , cela dépend de la grosseur des morceaux de <ingredient> poulet </ingredient> ) . <operation> retirer </operation> du feu et servir bien chaud . servir avec du <ingredient> riz </ingredient> , pâtes , pommes de terres . . . bon appétit ! bordeau
+</preparation>
+</recette>

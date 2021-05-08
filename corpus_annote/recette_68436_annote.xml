@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68436">
+<titre>Poêlée de lentilles corail au saumon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de lentilles corail</p>
+<p>1 oignon</p>
+<p>2 tomates</p>
+<p>3 tranches de saumon fumé</p>
+<p>10 cl de lait de coco</p>
+<p>1 cuillère à café de curry</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="oignon"> émincer </operation> l' <ingredient action="émincer" quantite="1"> oignon </ingredient> , le faire <operation ingredients="sel;curry"> dorer </operation> 5 minutes dans une sauteuse avec un pincée de <ingredient action="dorer" quantite=""> sel </ingredient> et un peu de <ingredient action="dorer" quantite="1 cuillère à café"> curry </ingredient> . <operation ingredients="lentilles"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="400 gramme"> lentilles </ingredient> corail . <operation ingredients="lait;lentilles"> couvrir </operation> d' eau et du <ingredient action="couvrir" quantite="10 cl"> lait </ingredient> de coco à 1 cm de plus que la hauteur des <ingredient action="couvrir" quantite="400 gramme"> lentilles </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> jusqu' à absorption du liquide <operation ingredients="tomates;saumon"> ajouter </operation> en fin de cuisson les <ingredient action="ajouter" quantite="2"> tomates </ingredient> <operation> coupées </operation> en cubes et le <ingredient action="ajouter"> saumon </ingredient> émincé . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="1 cuillère à café;;;"> assaisonnement </ingredient> et servir !
+</preparation>
+</recette>

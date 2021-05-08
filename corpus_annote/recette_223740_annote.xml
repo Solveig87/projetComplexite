@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223740">
+<titre>Tarte pomme de terre, jambon, chèvre</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâte feuilletée</p>
+<p>7 à 8 pommes de terre </p>
+<p>3 à 4 grandes tranches de jambon</p>
+<p>3 œufs entier</p>
+<p>20 cl de crème fraîche</p>
+<p>1 fromage de chèvre</p>
+<p>sel</p>
+<p>poivre</p>
+<p>gruyère râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="7"> pommes </ingredient> de terre à la vapeur . <operation ingredients="pâte"> mettre </operation> la <ingredient action="mettre" quantite="1"> pâte </ingredient> feuilletée ( la <operation> piquer </operation> ) au font du plat puis <operation ingredients="jambon"> placer </operation> les tranches de <ingredient action="placer"> jambon </ingredient> . <operation ingredients="pommes;jambon;fromage"> couper </operation> les <ingredient action="couper" quantite="7"> pommes </ingredient> de terre en rondelles sur le <ingredient action="couper"> jambon </ingredient> , puis le <ingredient action="couper" quantite="1"> fromage </ingredient> de chèvre en tranches . <operation ingredients="crème;œufs;sel"> battre </operation> dans un bol la <ingredient action="battre" quantite="20 cl"> crème </ingredient> , les <ingredient action="battre" quantite="3"> œufs </ingredient> , le <ingredient action="battre" quantite=""> sel </ingredient> et poivre , <operation> verser </operation> sur la préparation . <operation ingredients="gruyère"> mettre </operation> le <ingredient action="mettre" quantite=""> gruyère </ingredient> râpé au dessus . <operation> cuire </operation> à four thermostat 7 ( 230 <operation> ° </operation> ) pendant 30 min .
+</preparation>
+</recette>

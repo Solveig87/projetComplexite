@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29185">
+<titre>Chroucroute crue, carotte, pomme et cumin</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de choucroute crue</p>
+<p>2 carottes</p>
+<p>2 pommes</p>
+<p>1 cuillère à café rase de graines de cumin</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="choucroute;pommes"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> choucroute </ingredient> <operation> rincée </operation> et <operation ingredients="carottes"> égouttée </operation> avec les <ingredient action="égoutter" quantite="2"> carottes </ingredient> et les <ingredient action="mélanger" quantite="2"> pommes </ingredient> <operation> râpées </operation> . <operation ingredients="moutarde;vinaigre;huile"> emulsionner </operation> la <ingredient action="emulsionner" quantite="1 cuillère à café"> moutarde </ingredient> avec le <ingredient action="emulsionner" quantite="1 cuillère à soupe"> vinaigre </ingredient> et l' <ingredient action="emulsionner" quantite="3 cuillère à soupe"> huile </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> puis en <operation ingredients="salade"> arroser </operation> la <ingredient action="arroser"> salade </ingredient> . <operation ingredients="cumin"> parsemer </operation> de graines de <ingredient action="parsemer"> cumin </ingredient> et servir .
+</preparation>
+</recette>

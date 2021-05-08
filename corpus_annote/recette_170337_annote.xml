@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170337">
+<titre>Verrines au thon "fond de placard"</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 poivron</p>
+<p>100 g de thon</p>
+<p>le zeste d'1 citron </p>
+<p>quelques feuille de salade (pour la décoration)</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons;thon;jus;thon"> mélangez </operation> le <ingredient action="mélanger" quantite="1"> poivrons </ingredient> <operation> coupé </operation> en lanières le <ingredient action="mélanger" quantite="100 gramme"> thon </ingredient> et le <ingredient action="mélanger"> jus </ingredient> de la boîte de <ingredient action="mélanger" quantite="100 gramme"> thon </ingredient> . <operation ingredients="citron"> rajoutez </operation> les zestes de <ingredient action="rajouter"> citron </ingredient> . <operation ingredients="salade"> dressez </operation> dans des verrines avec la feuille de <ingredient action="dresser" quantite="quelque feuille"> salade </ingredient> sur le dessus . on peut également <operation ingredients="jambon;lardons"> ajouter </operation> du <ingredient action="ajouter"> jambon </ingredient> ou des <ingredient action="ajouter"> lardons </ingredient> .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70402">
+<titre>Quesada au citron</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 œufs</p>
+<p>1 verre de sucre</p>
+<p>1 verre de farine</p>
+<p>1 verre de lait</p>
+<p>1 yaourt nature</p>
+<p>le zeste d'1 citron</p>
+<p>du beurre (pour le moule)</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="œufs"> battre </operation> les <ingredient action="battre" quantite="3"> œufs </ingredient> et les <operation> verser </operation> dans une terrine . <operation ingredients="sucre;farine;lait"> verser </operation> un verre de <ingredient action="verser" quantite="1 verre"> sucre </ingredient> , un verre de <ingredient action="verser" quantite="1 verre"> farine </ingredient> et un verre de <ingredient action="verser" quantite="1 verre"> lait </ingredient> . <operation ingredients="citron"> râper </operation> un zeste de <ingredient action="râper"> citron </ingredient> et y <operation ingredients="yaourt"> mélanger </operation> au tout un <ingredient action="mélanger" quantite="1"> yaourt </ingredient> nature . <operation> beurrer </operation> un <operation> moule </operation> et <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> . <operation> enfourner </operation> pour 30 minutes de cuisson . bon appétit ! prendre un verre de 20 cl comme <operation> mesure </operation> .
+</preparation>
+</recette>

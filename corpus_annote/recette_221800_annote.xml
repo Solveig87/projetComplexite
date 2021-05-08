@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="221800">
+<titre>Salade de chou épicée</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros chou</p>
+<p>1 gousse d'ail</p>
+<p>2 cuillères à soupe d'huile de tournesol</p>
+<p>1 petit piment</p>
+<p>Jus d'1 petit citron vert</p>
+</ingredients>
+<preparation>
+<operation ingredients="chou"> émincer </operation> finement le <ingredient action="émincer" quantite="1"> chou </ingredient> . le <operation> mettre </operation> dans un saladier . <operation> émincer </operation> le piment ( préalablement <operation> nettoyé </operation> ) . dans un pilon <operation ingredients="ail"> écraser </operation> le piment et l' <ingredient action="écraser"> ail </ingredient> ( <operation> épluché </operation> et <operation> nettoyé </operation> ) . dans un petit bol , <operation> placer </operation> le piment et l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail;jus;huile"> écrasés </operation> , le <ingredient action="écraser" quantite=""> jus </ingredient> du citron et l' <ingredient action="écraser" quantite="2 cuillère à soupe"> huile </ingredient> . <operation> mélanger </operation> . <operation ingredients="chou"> ajouter </operation> la sauce au <ingredient action="ajouter" quantite="1"> chou </ingredient> , <operation> mélanger </operation> puis déguster . se conserve au frigidaire plusieurs jours <operation> couvert </operation> de cellophane .
+</preparation>
+</recette>

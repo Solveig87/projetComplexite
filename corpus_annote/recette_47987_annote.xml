@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47987">
+<titre>Salade gourmande de Diane</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>salade verte</p>
+<p>mâche ou roquette</p>
+<p>2 carottes de taille moyenne</p>
+<p>échalotes ou oignons</p>
+<p>6 tranches de jambon de Parme</p>
+<p>amandes effilées</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="salades"> dressez </operation> sur les assiettes les 2 <ingredient action="dresser" quantite=""> salades </ingredient> et <operation> ajoutez </operation> - y les <ingredient quantite="2"> carottes </ingredient> que vous aurez râpées . <operation ingredients="échalotes"> coupez </operation> les <ingredient action="couper" quantite=""> échalotes </ingredient> ou oignons en lamelles que vous <operation> disposerez </operation> sur le dessus . enfin , <operation ingredients="jambon"> chiffonnez </operation> le <ingredient action="chiffonnez" quantite="6 tranche"> jambon </ingredient> et <operation> positionnez </operation> - le au centre . <operation> parsemez </operation> le tout d’ <ingredient action="arroser" quantite=""> amandes </ingredient> effilées , <operation ingredients="amandes;huile;sel"> arrosez </operation> de vinaigrette ( <ingredient action="arroser" quantite=""> huile </ingredient> d' olive et vinaigre balsamique , <ingredient action="arroser" quantite=""> sel </ingredient> et poivre ) . dégustez . parfois j' ajoute aussi des morceaux de <ingredient> pomme </ingredient> pour une <ingredient quantite=""> salade </ingredient> plus sucrée .
+</preparation>
+</recette>

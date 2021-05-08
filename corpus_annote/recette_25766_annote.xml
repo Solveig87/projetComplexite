@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25766">
+<titre>Cocotte de morue à l'italienne</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>500 g de morue</p>
+<p>4 oignons de grosse taille</p>
+<p>4 carottes</p>
+<p>10 pommes de terre</p>
+<p>4 tomates</p>
+<p>2 branches de céleri</p>
+<p>100 g d'olives vertes</p>
+<p>30 g de raisins secs</p>
+<p>30 g de pignons</p>
+<p>50 cl de vin blanc</p>
+<p>sel, poivre de cayenne</p>
+</ingredients>
+<preparation>
+la veille , <operation ingredients="morue"> mettre </operation> la <ingredient action="mettre" quantite="500 gramme"> morue </ingredient> à dessaler dans l' eau froide . le lendemain , la <operation> rincer </operation> , l' <operation> égoutter </operation> , puis la faire <operation> pocher </operation> 3 à 4 min dans l' eau bouillante . <operation> peler </operation> et <operation ingredients="oignons"> détailler </operation> les <ingredient action="détailler" quantite="4"> oignons </ingredient> en 4 , puis <operation ingredients="carottes;pommes"> trancher </operation> les <ingredient action="trancher" quantite="4"> carottes </ingredient> et les <ingredient action="trancher" quantite="10"> pommes </ingredient> de terre en rondelles . <operation ingredients="tomates;céleri"> nettoyer </operation> les <ingredient action="nettoyer" quantite="4"> tomates </ingredient> et le <ingredient action="nettoyer"> céleri </ingredient> , puis les <operation> détailler </operation> en quartiers . dans une cocotte , <operation ingredients="huile"> mettre </operation> l' <ingredient action="mettre"> huile </ingredient> à <operation> chauffer </operation> , puis y <operation ingredients="légumes;morue"> ajouter </operation> les <ingredient action="ajouter" quantite="4;4;10;4"> légumes </ingredient> avec la <ingredient action="ajouter" quantite="500 gramme"> morue </ingredient> en morceaux . <operation ingredients="raisins;pignons;olives"> ajouter </operation> ensuite les <ingredient action="ajouter" quantite="30 gramme"> raisins </ingredient> secs , les <ingredient action="ajouter" quantite="30 gramme"> pignons </ingredient> , puis les <ingredient action="ajouter" quantite="100 gramme"> olives </ingredient> et bien <operation> mélanger </operation> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="50 cl"> vin </ingredient> blanc , <operation ingredients="poivre"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> poivre </ingredient> et laisser <operation> mijoter </operation> 1 h à <operation> couvert </operation> à feu doux . vérifier la cuisson et l' <ingredient quantite=";"> assaisonnement </ingredient> avant de servir et déguster bien chaud .
+</preparation>
+</recette>

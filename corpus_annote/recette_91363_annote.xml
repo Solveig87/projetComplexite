@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="91363">
+<titre>Brick au thon et carottes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 feuilles de brick</p>
+<p>4 carottes</p>
+<p>2 boîtes de thon</p>
+<p>8 "vache qui rit"</p>
+<p>un peu d'huile d'olive</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="carottes"> raper </operation> les <ingredient action="raper" quantite="4"> carottes </ingredient> . les faire <operation ingredients="huile"> cuire </operation> rapidement à la <operation> poêle </operation> avec un peu d' <ingredient action="cuire"> huile </ingredient> d' olive , sel et poivre . <operation ingredients="plier"> laisser </operation> refroidir , pendant ce temps <operation ingredients="brick"> couper </operation> les feuilles de <ingredient action="couper" quantite="8 feuille"> brick </ingredient> en deux , <ingredient action="laisser"> plier </ingredient> le haut arondit pour faire une bande . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter"> thon </ingredient> . <operation ingredients="thon;carottes"> mélanger </operation> le <ingredient action="mélanger"> thon </ingredient> et les <ingredient action="mélanger" quantite="4"> carottes </ingredient> . <operation ingredients="brick"> mettre </operation> un peu de farce sur chaque feuille de <ingredient action="mettre" quantite="8 feuille"> brick </ingredient> , un peu éloigné du bord . <operation> mettre </operation> 1 / 2 vache qui rit en morceaux par feuille sur la farce . <operation action="plier" ingredients="plier"> plier </operation> en triangle , comme un samoussa . <operation> enfourner </operation> à 180 <operation> ° </operation> c ( thermostat 6 ) jusqu' a ce qu' ils <operation> colorent </operation> sur le dessus . <operation> compter </operation> deux pièces par personne pour une entrée .
+</preparation>
+</recette>

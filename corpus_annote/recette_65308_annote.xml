@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65308">
+<titre>Tagliatelles au potimarron et curry</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de tagliatelles fraîches</p>
+<p>200 g de potimarron</p>
+<p>1 cuillère à soupe de pâte de curry ou 1 cuillère à café de curry en poudre</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>2 cuillères à soupe de pignons de pin</p>
+<p>sel, poivre et un peu de persil pour la couleur</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="potimarron"> cuire </operation> le <ingredient action="cuire" quantite="200 gramme"> potimarron </ingredient> , l' <operation> écraser </operation> à la fourchette . <operation ingredients="crème;pâte;curry"> ajouter </operation> la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> fraiche et la <ingredient action="ajouter" quantite="1 cuillère à soupe"> pâte </ingredient> de curry ( ou le <ingredient action="ajouter"> curry </ingredient> en <operation> poudre </operation> ) , <operation> saler </operation> et <operation> poivrer </operation> . <operation> réserver </operation> . faire <operation ingredients="tagliatelles"> cuire </operation> les <ingredient action="cuire" quantite="500 gramme"> tagliatelles </ingredient> comme indiqué sur le paquet . <operation> mélanger </operation> le tout au wok ou à la <operation> poêle </operation> . faire <operation ingredients="pignons"> griller </operation> les <ingredient action="griller" quantite="2 cuillère à soupe"> pignons </ingredient> ( qu' il est possible de remplacer par des <ingredient> noix </ingredient> ou des <ingredient> amandes </ingredient> ) . <operation> dresser </operation> les assiettes en <operation ingredients="persil"> ajoutant </operation> quelques feuilles de <ingredient action="ajouter"> persil </ingredient> <operation> ciselées </operation> pour la couleur .
+</preparation>
+</recette>

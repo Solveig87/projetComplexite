@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11886">
+<titre>Haddock au lait</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet de haddock</p>
+<p>50 cl d'eau</p>
+<p>50 cl de lait</p>
+<p>1 jus de citron</p>
+<p>20 g de beurre</p>
+</ingredients>
+<preparation>
+il suffit de faire <operation> cuire </operation> le filet dans une casserole <operation ingredients="lait"> remplie </operation> d' eau et de <ingredient action="remplir" quantite="50 cl"> lait </ingredient> par moitié . faire frissonner pendant 10 minutes , servir avec un <ingredient quantite="1"> jus </ingredient> de citron et du beurrre frais ! <operation> choisir </operation> les filets épais , la <ingredient> chair </ingredient> est plus tendre . <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

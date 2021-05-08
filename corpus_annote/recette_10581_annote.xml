@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10581">
+<titre>Sandwichs au fromage frais, épices et herbes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tranches de pain de mie complet</p>
+<p>1 ou 2 carré frais</p>
+<p>1 pincée de quatre épices</p>
+<p>1/2 cuillère à café de coriandre</p>
+<p>2 pincées de piment d'espelette</p>
+<p>1/2 cuillère à café de grains de sésame</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain;carré"> coupez </operation> 2 tranches de <ingredient action="couper" quantite="2 tranche"> pain </ingredient> de mie en diagonale , <operation> tartinez </operation> 2 triangles généreusement avec le <ingredient action="couper"> carré </ingredient> frais et <operation> mettez </operation> de côté les 2 autres triangles . <operation ingredients="coriandre;épices;sésames"> mettez </operation> sur un des triangles la <ingredient action="mettre"> coriandre </ingredient> et les 4 <ingredient action="mettre" quantite="1 pincée"> épices </ingredient> , et sur l' autre les graines de <ingredient action="mettre"> sésames </ingredient> et le piment d' espelette . <operation> refermez </operation> en <operation> posant </operation> les triangles que vous aviez <operation> reservé </operation> dessus , et dégustez !
+</preparation>
+</recette>

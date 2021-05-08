@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86825">
+<titre>Gratin de fruits de mer façon UCPA</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 cl de crème fraîche épaisse</p>
+<p>2 échalotes</p>
+<p>1 gousse d'ail</p>
+<p>50 g de moules décortiquées</p>
+<p>50 g de crevettes décortiquées</p>
+<p>100 g de saumon en filet</p>
+<p>10 cl de vin blanc</p>
+<p>20 g de roquefort</p>
+<p>1 cuillère à soupe de curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="huile;ail"> revenir </operation> à l' <ingredient action="revenir"> huile </ingredient> d' olive les échalotes et l' <ingredient action="revenir"> ail </ingredient> tous deux émincés . puis , <operation ingredients="vin;crevettes;poisson"> ajouter </operation> le <ingredient action="ajouter" quantite="10 cl"> vin </ingredient> blanc , les <operation> moules </operation> , les <ingredient action="ajouter" quantite="50 gramme"> crevettes </ingredient> et le <ingredient action="ajouter" quantite="100 gramme"> poisson </ingredient> . laisser <operation> cuire </operation> 20 minutes à feu doux . <operation ingredients="poisson"> émietter </operation> le <ingredient action="émietter" quantite="100 gramme"> poisson </ingredient> puis le <operation> disposer </operation> dans des ramequins allant au four . <operation ingredients="chapelure"> ajouter </operation> une pincée de <ingredient action="ajouter"> chapelure </ingredient> par - dessus et <operation> cuire </operation> une vingtaine de minutes à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

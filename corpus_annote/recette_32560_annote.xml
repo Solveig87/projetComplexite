@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32560">
+<titre>Tourte choco-poire-amande</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes sablées</p>
+<p>300 g de chocolat noir</p>
+<p>200 g de poudre d'amande</p>
+<p>100 g de beurre</p>
+<p>3 poires ou une boîte de poires au sirop</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> tapisser </operation> un plat à tarte avec une <ingredient action="tapisser" quantite="2"> pâte </ingredient> sablée . sur ce fond de <ingredient action="saupoudrer"> tarte </ingredient> , <operation ingredients="tarte;amande"> saupoudrer </operation> la moitié de la <operation> poudre </operation> d' <ingredient action="saupoudrer"> amande </ingredient> de façon à ce qu' elle <operation> recouvre </operation> entièrement le fond . <operation ingredients="poires"> mettre </operation> ensuite les <ingredient action="mettre" quantite="3"> poires </ingredient> <operation> coupées </operation> en deux . faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="300 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="100 gramme"> beurre </ingredient> . une fois <operation> fondus </operation> , <operation ingredients="amande"> ajouter </operation> le reste de <operation> poudre </operation> d' <ingredient action="ajouter"> amande </ingredient> . <operation ingredients="poires"> napper </operation> les <ingredient action="napper" quantite="3"> poires </ingredient> avec ce <operation> mélange </operation> . <operation ingredients="pâte"> mettre </operation> par dessus la seconde <ingredient action="mettre" quantite="2"> pâte </ingredient> <operation> brisée </operation> et bien souder les deux <ingredient quantite="2"> pâtes </ingredient> ensemble . <operation> cuire </operation> 45 mn à 190 <operation> ° </operation> c je <operation ingredients="crème;chocolat"> rajoute </operation> parfois un peu de <ingredient action="rajoute"> crème </ingredient> dans le <ingredient action="rajoute" quantite="300 gramme"> chocolat </ingredient> .
+</preparation>
+</recette>

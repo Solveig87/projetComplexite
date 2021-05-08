@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="56539">
+<titre>Gambas aux bananes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>20 à 24 gambas crues (ou grosses crevettes)</p>
+<p>2 bananes</p>
+<p>1 cuillerée à soupe de rhum  (antillais de préférence)</p>
+<p>10 à 20 cl de crème fraîche liquide selon les goûts (ou lait de coco)</p>
+<p>1 citron vert</p>
+<p>beurre ou huile</p>
+<p>sel, poivre</p>
+<p>facultatif : gingembre</p>
+</ingredients>
+<preparation>
+<operation ingredients="banane"> couper </operation> la <ingredient action="couper" quantite="2"> banane </ingredient> en dés . les faire <operation> dorer </operation> dans une <operation> poêle </operation> à feu doux et les <operation> réserver </operation> . <operation ingredients="citron"> râper </operation> le zeste de <ingredient action="râper" quantite="1"> citron </ingredient> puis le <operation> presser </operation> pour en <operation ingredients="jus"> extraire </operation> son <ingredient action="extraire"> jus </ingredient> . dans la meme <operation> poêle </operation> , <operation ingredients="crevettes"> saisir </operation> les <ingredient action="saisir"> crevettes </ingredient> jusq' à ce qu' elles <operation> changent </operation> de couleur ( elles deviennent roses ! ) . <operation ingredients="bananes"> remettre </operation> les <ingredient action="remettre" quantite="2"> bananes </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> . <operation ingredients="rhum"> verser </operation> le <ingredient action="verser"> rhum </ingredient> , <operation> mélanger </operation> délicatement quelques minutes . servir chaud avec du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

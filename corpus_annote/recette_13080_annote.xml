@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13080">
+<titre>Gnocchis à la courge</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 tranche de courge</p>
+<p>2 oeufs entiers</p>
+<p>200 g de farine</p>
+<p>sel</p>
+<p>poivre</p>
+<p>beurre</p>
+<p>parmesan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="courge"> cuire </operation> la <ingredient action="cuire" quantite="1 tranche"> courge </ingredient> dans l' autocuiseur à la vapeur . bien <operation> écraser </operation> la pulpe dans un saladier , <operation> saler </operation> , <operation> poivrer </operation> . lorsqu' elle est refroidie , <operation ingredients="oeufs"> ajouter </operation> 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> entiers à cette préparation . bien <operation> mélanger </operation> . <operation ingredients="farine"> ajouter </operation> ensuite la <ingredient action="ajouter" quantite="200 gramme"> farine </ingredient> . faire <operation> bouillir </operation> de l' eau . <operation ingredients="pâte"> former </operation> avec une petite cuillère les petits paquets de <ingredient action="former"> pâte </ingredient> que l' on laisse tomber dans l' eau bouillante . lorsque les <ingredient> gnocchis </ingredient> remontent à la surface c' est qu' ils sont <operation> cuits </operation> . <operation ingredients="gnocchis"> disposer </operation> les <ingredient action="disposer"> gnocchis </ingredient> dans les assiettes les <operation ingredients="beurre"> arroser </operation> de <ingredient action="arroser"> beurre </ingredient> <operation ingredients="parmesan"> fondu </operation> et de <ingredient action="fondre" quantite=""> parmesan </ingredient> . c' est terminé , il ne reste plus qu' à déguster !
+</preparation>
+</recette>

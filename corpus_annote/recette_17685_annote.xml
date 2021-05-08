@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="17685">
+<titre>Poulet au vinaigre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 kg de poulet (1 poulet coupé en 8)</p>
+<p>50 ml de vinaigre de vin</p>
+<p>100 ml de moutarde forte</p>
+<p>50 ml de concentré de tomates</p>
+<p>50 ml d'eau</p>
+<p>100 ml de crème</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> placer </operation> les morceaux de <ingredient action="placer" quantite="1,5 kilogramme"> poulet </ingredient> dans une cocotte allant au four . dans un grand bol , <operation> mélanger </operation> tous les ingrédients et <operation ingredients="poulet"> verser </operation> sur le <ingredient action="verser" quantite="1,5 kilogramme"> poulet </ingredient> . <operation> couvrir </operation> et laisser <operation> cuire </operation> 1 heure . plat à <operation ingredients="riz;pâtes"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> ou de <ingredient action="accompagner"> pâtes </ingredient>
+</preparation>
+</recette>

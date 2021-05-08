@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29242">
+<titre>Croque Mathieu à la feta et au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 salade</p>
+<p>2 tomates</p>
+<p>40 g de feta</p>
+<p>1 moitié de concombre</p>
+<p>8 tranches de pain de mie</p>
+<p>du fromage râpé (quantité selon votre goût)</p>
+<p>1 boîte de thon</p>
+<p>30 cl de crème fraîche</p>
+<p>4 morceaux de Gouda</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> préparer </operation> une <ingredient action="préparer" quantite="1"> salade </ingredient> de saison , <operation ingredients="tomates"> liant </operation> <ingredient action="lier" quantite="2"> tomates </ingredient> , salade , concombre et feta . puis , <operation> préparer </operation> les croques - mathieu . . . <operation ingredients="crème;thon"> mélanger </operation> <ingredient action="mélanger" quantite="30 cl"> crème </ingredient> fraîche , <ingredient action="mélanger"> thon </ingredient> et fromage râpé . <operation> etaler </operation> sur 4 tranches le <operation> mélange </operation> , puis <operation ingredients="pain"> recouvrir </operation> des 4 derniers morceaux de <ingredient action="recouvrir" quantite="8 tranche"> pain </ingredient> de mie . <operation ingredients="gouda"> poser </operation> sur le dessus une tranche de <ingredient action="poser"> gouda </ingredient> . <operation> mettre </operation> au four les croques - mathieu durant . 6 mn , à 220 <operation> ° </operation> c. servir chaud avec la <ingredient quantite="1"> salade </ingredient> . bon régal , un délice pour les papilles en moins de 15 min . un rosé de <ingredient> côtes </ingredient> du rhône
+</preparation>
+</recette>

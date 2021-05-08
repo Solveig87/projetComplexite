@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37131">
+<titre>Pâte à crêpes légère</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de farine</p>
+<p>5 oeufs</p>
+<p>1/2 sachet de levure</p>
+<p>2 sachets de sucre vanillé</p>
+<p>1 pincée de sel</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>75 cl de lait</p>
+<p>1 cuillère à soupe d'huile pour lier la pâte</p>
+<p>2 cuillères à soupe de rhum</p>
+<p>1 cuillère à soupe de fleur d'oranger</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;sel;levure;sucre"> mettre </operation> les 5 <ingredient action="mettre" quantite="5"> oeufs </ingredient> dans un saladier et <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="250 gramme"> farine </ingredient> , le <ingredient action="mettre" quantite="1 cuillère à soupe"> sucre </ingredient> , le <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> , la <ingredient action="mettre"> levure </ingredient> et le <ingredient action="mettre" quantite="1 cuillère à soupe"> sucre </ingredient> vanillé . <operation ingredients="lait"> incorporer </operation> le <ingredient action="incorporer" quantite="75 cl"> lait </ingredient> et bien <operation> mélanger </operation> pour obtenir une <ingredient> pâte </ingredient> bien liquide . <operation ingredients="huile;rhum"> ajouter </operation> ensuite l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> , le <ingredient action="ajouter" quantite="2 cuillère à soupe"> rhum </ingredient> et la fleur d' oranger , <operation> mélanger </operation> et laisser <operation> reposer </operation> 1 h à température ambiante . toujours utiliser une <operation> poêle </operation> bien chaude ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

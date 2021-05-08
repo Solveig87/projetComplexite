@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170848">
+<titre>Tiramisu aux fruits rouges facile</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>2 oeufs</p>
+<p>50 g de sucre</p>
+<p>12 boudoirs (ou plus selon le plat que vous utilisez)</p>
+<p>450 g de fruits rouges surgelés</p>
+<p>2 cuillères à café de crème de cassis</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="fruits"> décongeler </operation> les <ingredient action="décongeler" quantite="450 gramme"> fruits </ingredient> rouges au dessus d' un saladier . <operation ingredients="oeufs"> séparer </operation> les blancs et les jaunes des <ingredient action="séparer" quantite="2"> oeufs </ingredient> . <operation ingredients="sucre"> fouetter </operation> les jaunes avec le <ingredient action="fouetter" quantite="50 gramme"> sucre </ingredient> , jusqu' à ce que le <ingredient action="fondre" quantite="50 gramme"> sucre </ingredient> soit <operation ingredients="sucre"> fondu </operation> et que le <operation> mélange </operation> ait <operation> blanchi </operation> . <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> à cette préparation . <operation> monter </operation> les blancs en neige et les <operation ingredients="mascarpone"> ajouter </operation> délicatement à la préparation au <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> . <operation ingredients="jus;crème"> mélanger </operation> le <ingredient action="mélanger"> jus </ingredient> des fruits rouges récupéré avec la <ingredient action="mélanger" quantite="2 cuillère à café"> crème </ingredient> de cassis ( plus ou moins selon les goûts ) . <operation ingredients="boudoirs;jus"> tremper </operation> les <ingredient action="tremper" quantite="12"> boudoirs </ingredient> dans ce <ingredient action="tremper"> jus </ingredient> et <operation> tapisser </operation> le fond d' un plat ou de verrines . ensuite , <operation ingredients="mascarpone;fruits"> ajouter </operation> une couche de <operation> mélange </operation> au <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> , puis par dessus , les <ingredient action="ajouter" quantite="450 gramme"> fruits </ingredient> rouges . répéter l' opération jusqu' au haut de votre plat , et finir par les <ingredient quantite="450 gramme"> fruits </ingredient> rouges .
+</preparation>
+</recette>

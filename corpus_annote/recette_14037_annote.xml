@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="14037">
+<titre>Oie farcie aux fruits</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 oie prête à cuire de 3 à 3,5 kg avec son foie à part</p>
+<p>1 citron non traité </p>
+<p>1 orange non traitée </p>
+<p>6 cuillères à soupe d' huile d'arachide </p>
+<p>1 grappe de raisin blanc </p>
+<p>sel et poivre                Pour la farce :</p>
+<p>2 pommes rouges  </p>
+<p>1 poire  </p>
+<p>24 cerneaux de noix  </p>
+<p>1 cuillère à soupe de miel  </p>
+<p>50 g de beurre  </p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+farce : <operation ingredients="pommes;poire"> épluchez </operation> les <ingredient action="éplucher" quantite="2"> pommes </ingredient> et la <ingredient action="éplucher" quantite="1"> poire </ingredient> , les <operation> épépiner </operation> puis les <operation> découper </operation> en cubes . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une <operation> poêle </operation> et y faire <operation ingredients="fruits;foie"> revenir </operation> les <ingredient action="revenir" quantite="1;2;1"> fruits </ingredient> et le <ingredient action="revenir"> foie </ingredient> de l' oie 10 mn . <operation ingredients="foie"> ôter </operation> le <ingredient action="ôter"> foie </ingredient> de la <operation> poêle </operation> et le <operation ingredients="noix"> passer </operation> au mixeur avec les <ingredient action="passer"> noix </ingredient> . <operation ingredients="fruits"> ajouter </operation> cette purée aux <ingredient action="ajouter" quantite="1;2;1"> fruits </ingredient> bien dorés . préchauffer le four à thermostat 6 ( 180 <operation> ° </operation> c ) . <operation ingredients="orange;citron"> laver </operation> l' <ingredient action="laver" quantite="1"> orange </ingredient> et le <ingredient action="laver" quantite="1"> citron </ingredient> et <operation> râper </operation> les zestes les <operation> ajouter </operation> à la farce . <operation> farcir </operation> l' oie avec la farce , recoudre l' ouverture , bien <operation> lier </operation> les pattes contre l' oiseau . <operation ingredients="huile"> badigeonner </operation> d' <ingredient action="badigeonner" quantite="6 cuillère à soupe"> huile </ingredient> , <operation> saler </operation> et <operation> poivrer </operation> . l' <operation> enfourner </operation> pour 25 mn par 500 g d' oie pesée farcie , l' <operation> arroser </operation> souvent en cours de cuisson . a mi-cuisson , baisser la température d' un cran . <operation ingredients="raisin"> laver </operation> et égrapper le <ingredient action="laver"> raisin </ingredient> . débiter l' <ingredient quantite="1"> orange </ingredient> en quartiers en <operation> enlevant </operation> les peaux blanches . servez l' oie <operation ingredients="raisin;orange"> entourée </operation> de grains de <ingredient action="entourer"> raisin </ingredient> et de quartiers d' <ingredient action="entourer" quantite="1"> orange </ingredient> . vous pouvez <operation ingredients="raisin;orange"> poêler </operation> les grains de <ingredient action="poêler"> raisin </ingredient> et les quartiers d' <ingredient action="poêler" quantite="1"> orange </ingredient> si vous préférez ( pendant 30 secondes ) .
+</preparation>
+</recette>

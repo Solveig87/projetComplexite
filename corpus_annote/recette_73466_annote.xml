@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73466">
+<titre>Croque moelleux façon bistrot</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 grandes tranches de pain de mie</p>
+<p>2 tranches de jambon</p>
+<p>2 vache-qui-rit</p>
+<p>100 g d'emmental râpé (ou restes de fromages variés à râper)</p>
+<p>10 cl de crème fraîche</p>
+<p>1 oeuf</p>
+<p>poivre, muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pain"> griller </operation> légèrement les tranches de <ingredient action="griller"> pain </ingredient> au <operation> toaster </operation> . préchauffer le four à 210 <operation> ° </operation> , thermostat 7 . <operation> tartiner </operation> chaque tranche avec une portion de vache - qui - rit . dans un bol , <operation ingredients="oeuf;crème"> battre </operation> vigoureusement l' <ingredient action="battre" quantite="1"> oeuf </ingredient> et la <ingredient action="battre" quantite="10 cl"> crème </ingredient> fraîche , <operation ingredients="fromage"> rajouter </operation> le <ingredient action="rajouter"> fromage </ingredient> <operation> râpé </operation> et <operation> mélanger </operation> . <operation> poivrer </operation> ( éviter de <operation ingredients="sel"> saler </operation> , en général , le <ingredient action="saler"> sel </ingredient> du jambon suffit ) . <operation ingredients="jambon;pain"> disposer </operation> une tranche de <ingredient action="disposer" quantite="2 tranche"> jambon </ingredient> sur chaque tranche de <ingredient action="disposer"> pain </ingredient> ( <operation ingredients="plier"> couper </operation> / <ingredient action="couper"> plier </ingredient> ! ) . <operation> poser </operation> une feuille de papier cuisson sur la <operation> grille </operation> du four et les croques sur les feuilles . <operation ingredients="fromage"> rajouter </operation> sur chaque tranche le <operation> mélange </operation> au <ingredient action="rajouter"> fromage </ingredient> , généreusement , et à l' aide d' une fourchette pour <operation> égoutter </operation> la préparation . <operation ingredients="muscade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> muscade </ingredient> <operation> enfourner </operation> au deux tiers de la hauteur du four . au bout de 10 min , vérifier la cuisson : les croques sont prêts quand tout le dessus est bien doré , <operation> rajouter </operation> quelques minutes si besoin . contrairement à ce qu' on croit , le <ingredient> vin </ingredient> rouge ne se marie guère avec le <ingredient> fromage </ingredient> ! essayez ( en fonction des <ingredient> fromages </ingredient> utilisés ) des blancs du languedoc ou du rhône , voire de bourgogne . un <ingredient> vin </ingredient> blanc charnu , voire fruité
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44720">
+<titre>Lotte au rhum</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>8 ou 12 médaillons de lotte</p>
+<p>3 tomates</p>
+<p>30 g de raisins secs environ (selon votre goût)</p>
+<p>2 échalotes</p>
+<p>huile d'olive </p>
+<p>ail, bouquet garni, sel et poivre, rhum</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="raisins;rhum"> tremper </operation> les <ingredient action="tremper" quantite="30 gramme"> raisins </ingredient> secs dans du <ingredient action="tremper" quantite=""> rhum </ingredient> . <operation ingredients="tomates"> peler </operation> et <operation> épépiner </operation> les <ingredient action="peler" quantite="3"> tomates </ingredient> , <operation> couper </operation> et <operation ingredients="échalotes"> émincer </operation> les <ingredient action="émincer" quantite="2"> échalotes </ingredient> , et faire <operation> revenir </operation> le tout avec 1 cuillère à soupe d' huile d' olive dans une cocotte . <operation ingredients="ail;bouquet;sel"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> ail </ingredient> , le <ingredient action="ajouter" quantite=""> bouquet </ingredient> <operation> garni </operation> , <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre ; et faire <operation> mijoter </operation> 25 min . <operation ingredients="huile;lotte"> chauffer </operation> dans de l' <ingredient action="chauffer" quantite=""> huile </ingredient> les médaillons de <ingredient action="chauffer"> lotte </ingredient> , et <operation ingredients="rhum"> mouiller </operation> avec le <ingredient action="mouiller" quantite=""> rhum </ingredient> des raisins . <operation> flamber </operation> , et <operation ingredients="tomates;raisins"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> et les <ingredient action="ajouter" quantite="30 gramme"> raisins </ingredient> . laisser <operation> frémir </operation> 2 à 3 min , et <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer"> persil </ingredient> . servir avec du <ingredient> riz </ingredient> . bon appétit !
+</preparation>
+</recette>

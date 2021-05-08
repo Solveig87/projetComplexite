@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24987">
+<titre>Magrets de canard au vin blanc et poivre vert</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>2 filets ou magrets de canard</p>
+<p>25 cl de vin blanc sec</p>
+<p>2 cuillères à soupe de poivre vert en grains</p>
+<p>50 g de beurre</p>
+<p>5 cl de cognac</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+la veille : faites <operation ingredients="canard;vin;poivre"> mariner </operation> les filets de <ingredient action="mariner"> canard </ingredient> dans le <ingredient action="mariner" quantite="25 cl"> vin </ingredient> blanc avec la moitié des grains de <ingredient action="mariner"> poivre </ingredient> vert . le lendemain : <operation ingredients="canard"> égouttez </operation> les filets de <ingredient action="égoutter"> canard </ingredient> , <operation> essuyez </operation> - les . faites - les <operation ingredients="beurre"> dorer </operation> rapidement dans le <ingredient action="dorer" quantite="50 gramme"> beurre </ingredient> chaud pour les <operation> saisir </operation> . <operation> retirez </operation> - les et gardez sous un papier aluminium . dans la <operation> poêle </operation> de cuisson , <operation ingredients="cognac"> versez </operation> le <ingredient action="verser" quantite="5 cl"> cognac </ingredient> et <operation> grattez </operation> à la cuillère en bois pour <operation> décoller </operation> les sucs . <operation> flambez </operation> . <operation> chauffez </operation> la marinade , <operation> prélevez </operation> -en une louche et <operation ingredients="crème;poivre"> ajoutez </operation> - la dans la <operation> poêle </operation> , ainsi que la <ingredient action="ajouter" quantite="4 cuillère à soupe"> crème </ingredient> fraîche et le reste du <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="magrets"> tranchez </operation> les <ingredient action="trancher"> magrets </ingredient> finement , <operation> nappez </operation> - les de sauce et servez .
+</preparation>
+</recette>

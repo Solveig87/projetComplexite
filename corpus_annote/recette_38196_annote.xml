@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38196">
+<titre>Raie aux pommes et au miel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 ailes de raie</p>
+<p>4 pommes</p>
+<p>8 pommes de terre</p>
+<p>4 bonnes cuillères à soupe de miel</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>sel et épices pour poisson</p>
+<p>un peu de beurre</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="pommes"> couper </operation> en morceaux les <ingredient action="couper" quantite="4+8"> pommes </ingredient> de terre . les <operation> cuire </operation> à la vapeur <operation ingredients="raie"> accompagnées </operation> des ailes de <ingredient action="accompagner"> raie </ingredient> , le tout <operation ingredients="épices"> assaisonné </operation> des <ingredient action="assaisonner" quantite="2 cuillère à soupe;"> épices </ingredient> . pendant ce temps , <operation> laver </operation> , <operation> éplucher </operation> et <operation ingredients="pommes"> couper </operation> en dés les <ingredient action="couper" quantite="4+8"> pommes </ingredient> . les faire <operation ingredients="beurre"> revenir </operation> dans du <ingredient action="revenir"> beurre </ingredient> , <operation ingredients="vinaigre"> déglacer </operation> avec le <ingredient action="déglacer" quantite="2 cuillère à soupe"> vinaigre </ingredient> . lorsqu' elles sont <operation> dorées </operation> , <operation ingredients="miel"> verser </operation> le <ingredient action="verser"> miel </ingredient> , <operation> mélanger </operation> et <operation> réserver </operation> au chaud . servir en <operation ingredients="pommes;raie"> versant </operation> les <ingredient action="verser" quantite="4+8"> pommes </ingredient> au miel sur la <ingredient action="verser"> raie </ingredient> . côtes de layon
+</preparation>
+</recette>

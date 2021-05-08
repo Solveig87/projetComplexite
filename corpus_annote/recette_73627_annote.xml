@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73627">
+<titre>Crème brûlée au chocolat noir</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>3 briques de crème semi-épaisse</p>
+<p>150 g de chocolat noir</p>
+<p>150 g de sucre semoule </p>
+<p>200 g de cassonade</p>
+<p>25 cl de lait entier</p>
+<p>7 jaunes d'oeufs</p>
+<p>1 gousse de vanille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="150 gramme"> chocolat </ingredient> . faire <operation ingredients="lait;crème;gousse"> bouillir </operation> le <ingredient action="bouillir" quantite="25 cl"> lait </ingredient> avec la <ingredient action="bouillir"> crème </ingredient> et la <ingredient action="bouillir" quantite="1"> gousse </ingredient> de vanille fendue en 2 . laisser <operation> infuser </operation> 10 min . <operation> retirer </operation> la vanille et <operation ingredients="chocolat"> incorporer </operation> le <ingredient action="incorporer" quantite="150 gramme"> chocolat </ingredient> <operation> fondu </operation> . <operation> remettre </operation> sur le feu et <operation> remuer </operation> jusqu' à <operation> ébullition </operation> . <operation ingredients="oeufs;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> et le <ingredient action="mélanger" quantite="150 gramme"> sucre </ingredient> jusqu' à ce que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="chocolat;oeufs"> verser </operation> la préparation au <ingredient action="verser" quantite="150 gramme"> chocolat </ingredient> bouillante sur les jaunes d' <ingredient action="verser"> oeufs </ingredient> . <operation> mélanger </operation> . <operation ingredients="crème;crème"> répartir </operation> cette <ingredient action="répartir"> crème </ingredient> dans des ramequins au four à 150 <operation> ° </operation> , thermostat 5 , pendant 40 min ( la <ingredient action="répartir"> crème </ingredient> <operation> cuite </operation> doit être souple sous le doigt ) . laisser refroidir . <operation ingredients="cassonade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="200 gramme"> cassonade </ingredient> et <operation> passer </operation> 3 min sous le grill pour caraméliser . servir chaud ou tiède .
+</preparation>
+</recette>

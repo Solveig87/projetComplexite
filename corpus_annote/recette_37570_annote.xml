@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37570">
+<titre>Pudding pomme et chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de pain rassis</p>
+<p>1 boîte de lait concentré non sucré</p>
+<p>60 cl de lait</p>
+<p>3 oeufs</p>
+<p>200 g de sucre roux</p>
+<p>150 g de chocolat noir</p>
+<p>2 pommes</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> couper </operation> le <ingredient action="couper" quantite="400 gramme"> pain </ingredient> rassis en petits morceaux dans un grand saladier . <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="60 cl"> lait </ingredient> et <operation ingredients="lait"> verser </operation> les deux <ingredient action="verser" quantite="60 cl"> lait </ingredient> dans le saladier . <operation ingredients="pain"> laisser </operation> <operation> tremper </operation> au moins 20 min en prenant soin de <operation> mélanger </operation> de temps en temps pour que le <ingredient action="laisser" quantite="400 gramme"> pain </ingredient> soit bien <operation> imbibé </operation> . <operation ingredients="sucre;oeufs;pommes"> ajouter </operation> le <ingredient action="ajouter" quantite="200 gramme"> sucre </ingredient> et les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> , puis le <ingredient action="couper" quantite="150 gramme"> chocolat </ingredient> <operation ingredients="chocolat"> coupé </operation> grossièrement et les <ingredient action="ajouter" quantite="2"> pommes </ingredient> <operation> coupées </operation> en dés . <operation> verser </operation> le tout dans un grand <operation> moule </operation> beurré et <operation> mettre </operation> dans le four préchauffé à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 50 min . vous pouvez <operation ingredients="lait"> enlever </operation> le <ingredient action="enlever" quantite="60 cl"> lait </ingredient> <operation> concentré </operation> et <operation ingredients="lait"> mettre </operation> un litre entier de <ingredient action="mettre" quantite="60 cl"> lait </ingredient> à la <operation> place </operation> . servir avec une <ingredient> crème </ingredient> anglaise .
+</preparation>
+</recette>

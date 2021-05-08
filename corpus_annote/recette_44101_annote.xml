@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44101">
+<titre>Gaufres (sans beurre)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 jaunes d'oeufs</p>
+<p>8 cuillères à soupe d'eau chaude</p>
+<p>160 g de sucre</p>
+<p>1 citron + zeste râpé</p>
+<p>240 g de farine</p>
+<p>1 cuillère à café de poudre à lever</p>
+<p>8 blancs d'oeufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;sucre;citron;pâte"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeufs </ingredient> , l' eau , le <ingredient action="mélanger" quantite="160 gramme"> sucre </ingredient> et le zeste du <ingredient action="mélanger" quantite="1"> citron </ingredient> , jusqu' à obtention d' une <ingredient action="mélanger"> pâte </ingredient> <operation> lisse </operation> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="240 gramme"> farine </ingredient> et la <operation> poudre </operation> à lever . <operation ingredients="oeufs"> monter </operation> les blancs d' <ingredient action="monter"> oeufs </ingredient> en neige , et les <operation> mélanger </operation> délicatement à la préparation . faire <operation ingredients="pâte"> cuire </operation> la <ingredient action="cuire"> pâte </ingredient> immédiatement dans un gaufrier .
+</preparation>
+</recette>

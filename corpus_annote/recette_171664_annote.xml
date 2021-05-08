@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171664">
+<titre>Verrines gourmandes aux fruits et au chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 nectarines</p>
+<p>2 pommes</p>
+<p>150 g de chocolat à dessert (noir ou au lait)</p>
+<p>quelques gâteaux secs (spéculoos, petits beurre...)</p>
+<p>150 g de sucre</p>
+<p>10 cl d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="fruits"> éplucher </operation> les <ingredient action="éplucher" quantite="2;2"> fruits </ingredient> . <operation ingredients="pommes;nectarines"> couper </operation> les <ingredient action="couper" quantite="2"> pommes </ingredient> en fines lamelles et les <ingredient action="couper" quantite="2"> nectarines </ingredient> en petits dés . <operation ingredients="chocolat"> concasser </operation> la moitié du <ingredient action="concasser" quantite="150 gramme"> chocolat </ingredient> et <operation> râper </operation> l' autre . <operation ingredients="gâteaux"> émietter </operation> quelques <ingredient action="émietter" quantite="quelque"> gâteaux </ingredient> pour la première couche puis <operation ingredients="nectarines"> recouvrir </operation> avec les <ingredient action="recouvrir" quantite="2"> nectarines </ingredient> en dés . en troisième couche , <operation ingredients="gâteaux"> saupoudrer </operation> le reste des <ingredient action="saupoudrer" quantite="quelque"> gâteaux </ingredient> <operation ingredients="chocolat"> mélangés </operation> au <ingredient action="mélanger" quantite="150 gramme"> chocolat </ingredient> <operation> concassé </operation> . <operation ingredients="sucre"> faire </operation> un caramel avec le <ingredient action="faire" quantite="150 gramme"> sucre </ingredient> et l' eau puis <operation ingredients="pommes"> tremper </operation> les lamelles de <ingredient action="tremper" quantite="2"> pommes </ingredient> dedans . les <operation> ajouter </operation> sur les verrines . <operation ingredients="chocolat"> recouvrir </operation> le tout avec le <ingredient action="recouvrir" quantite="150 gramme"> chocolat </ingredient> râpé . <operation> réserver </operation> au moins une heure au réfrigérateur .
+</preparation>
+</recette>

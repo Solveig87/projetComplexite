@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225401">
+<titre>Salade de haricots verts, blancs et rouges</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>400 g de haricots rouges en boîte</p>
+<p>400 g de haricots blancs en boîte</p>
+<p>100 g de haricots verts frais</p>
+<p>1 petit oignon</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de vinaigre balsamique</p>
+<p>persil frais</p>
+</ingredients>
+<preparation>
+<operation ingredients="haricots"> cuisez </operation> les <ingredient action="cuire" quantite="400 gramme+400 gramme+100 gramme"> haricots </ingredient> verts dans de l' eau bouillante pendant 5 à 10 min . <operation> hachez </operation> l' <ingredient quantite="1"> oignon </ingredient> finement et <operation ingredients="haricots"> mélangez </operation> - le avec tous les <ingredient action="mélanger" quantite="400 gramme+400 gramme+100 gramme"> haricots </ingredient> . <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> persil </ingredient> . <operation ingredients="huile;vinaigre"> préparez </operation> la vinaigrette avec l' <ingredient action="préparer" quantite="2 cuillère à soupe"> huile </ingredient> d' olive et le <ingredient action="préparer" quantite="2 cuillère à soupe"> vinaigre </ingredient> . <operation ingredients="salade"> versez </operation> sur la <ingredient action="verser"> salade </ingredient> avant de servir .
+</preparation>
+</recette>

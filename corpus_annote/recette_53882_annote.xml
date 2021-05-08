@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53882">
+<titre>Flan de bananes</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 bananes</p>
+<p>4 oeufs entiers</p>
+<p>200 g de sucre</p>
+<p>4 cuillères de farine</p>
+<p>3 verres de lait                                                                                               </p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> eplucher </operation> les <ingredient action="eplucher" quantite="4"> bananes </ingredient> et les <operation> disposer </operation> <operation> coupées </operation> en rondelles dans un plat en gratin . <operation ingredients="pâte;oeufs;sucre;farine;lait"> préparer </operation> une <ingredient action="préparer"> pâte </ingredient> avec les <ingredient action="préparer" quantite="4"> oeufs </ingredient> , le <ingredient action="préparer" quantite="200 gramme"> sucre </ingredient> , la <ingredient action="préparer" quantite="4 cuillère"> farine </ingredient> et le <ingredient action="préparer" quantite="3 verre"> lait </ingredient> . <operation ingredients="bananes"> verser </operation> ce <operation> mélange </operation> sur les <ingredient action="verser" quantite="4"> bananes </ingredient> , et <operation> enfourner </operation> pendant 25 min à 180 <operation> ° </operation> c ( th 6 ) . avant la fin de la cuisson , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="200 gramme"> sucre </ingredient> pour caraméliser le dessus .
+</preparation>
+</recette>

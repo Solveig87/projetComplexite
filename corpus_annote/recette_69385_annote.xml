@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69385">
+<titre>Riz au lentilles</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de riz étuvé</p>
+<p>250 g de lentilles</p>
+<p>1 gros oignon</p>
+<p>fromage blanc</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> et <operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en fines lamelles . dans une casserole faire <operation ingredients="huile"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> , lorsqu' elle <operation> frémit </operation> <operation ingredients="oignons"> rajouter </operation> les lamelles d' <ingredient action="rajouter" quantite="1"> oignons </ingredient> . lorsque les lamelles sont bien dorées <operation ingredients="lentilles"> rajouter </operation> les <ingredient action="rajouter" quantite="250 gramme"> lentilles </ingredient> , laisser <operation> cuire </operation> 2 min . ensuite <operation ingredients="riz"> rajouter </operation> le <ingredient action="rajouter" quantite="200 gramme"> riz </ingredient> ( non cuit ) et 1 / 2 litre d' eau environ . il faut que l' eau s' évapore complètement . lorsque l' eau est évaporée et le <ingredient quantite="200 gramme"> riz </ingredient> cuit c' est prêt ! laisser refroidir pour déguster , et avec un peu de <ingredient quantite=""> fromage </ingredient> blanc en <operation> accompagnement </operation> ( à coté et <ingredient action="melanger"> non </ingredient> <operation ingredients="non"> melangé </operation> ) .
+</preparation>
+</recette>

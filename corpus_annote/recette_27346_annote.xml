@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27346">
+<titre>Sorbet aux cerises et au kirsch</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de cerises bien mûres</p>
+<p>125 g de sucre</p>
+<p>12 cl d'eau</p>
+<p>1/4 de citron</p>
+<p>1 cuillère à soupe de kirsch</p>
+</ingredients>
+<preparation>
+<operation ingredients="cerises;jus"> laver </operation> , <operation> dénoyauter </operation> et <operation> mixer </operation> les <ingredient action="laver" quantite="500 gramme"> cerises </ingredient> avec le <ingredient action="laver"> jus </ingredient> du citron pressé . dans une casserole , <operation ingredients="sirop"> préparer </operation> le <ingredient action="préparer"> sirop </ingredient> en <operation ingredients="sucre"> portant </operation> à <operation> ébullition </operation> l' eau et le <ingredient action="porter" quantite="125 gramme"> sucre </ingredient> , puis laisser refroidir . <operation ingredients="cerises"> mêler </operation> les <ingredient action="mêler" quantite="500 gramme"> cerises </ingredient> <operation ingredients="sirop"> hachées </operation> au <ingredient action="hacher"> sirop </ingredient> , bien <operation> mélanger </operation> et les <operation> disposer </operation> dans une sorbetière . <operation ingredients="glace"> verser </operation> le kirsch lorsque la <ingredient action="verser"> glace </ingredient> est quasiment prise . <operation> former </operation> ensuite des boules , puis servir à la <operation> coupe </operation> avec des <ingredient quantite="500 gramme"> fruits </ingredient> frais ou des <ingredient quantite="500 gramme"> fruits </ingredient> au sirop .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25168">
+<titre>Bréchets de poulet</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de bréchets de poulet (pas trop gros) </p>
+<p>farine</p>
+<p>beurre</p>
+<p>persil</p>
+<p>ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine"> passez </operation> les bréchets dans la <ingredient action="passer" quantite=""> farine </ingredient> , bien les <operation> secouer </operation> . les faire <operation ingredients="beurre"> cuire </operation> dans le <ingredient action="cuire"> beurre </ingredient> bien chaud . au dernier moment <operation ingredients="persil;ail"> ajouter </operation> un hachis de <ingredient action="ajouter" quantite=""> persil </ingredient> et d' <ingredient action="ajouter" quantite=""> ail </ingredient> . laissez <operation> cuire </operation> vivement encore 2 / 3 mn . servir . on les déguste comme les <ingredient> grenouilles </ingredient> avec les doigts .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21406">
+<titre>Potage de légumes aux orties</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de feuilles d'orties blanches</p>
+<p>4 carottes</p>
+<p>2 oignons</p>
+<p>2 poireaux</p>
+<p>2 pommes de terre</p>
+<p>2 gousses d'ail</p>
+<p>45 g de beurre</p>
+<p>37,5 cl de lait</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon;ail"> hacher </operation> les orties , l' <ingredient action="hacher" quantite="2"> oignon </ingredient> et l' <ingredient action="hacher"> ail </ingredient> . <operation> emincer </operation> finement les <ingredient quantite="4"> carottes </ingredient> , les <ingredient quantite="2"> pommes </ingredient> de terre et les <ingredient quantite="2"> poireaux </ingredient> . faire <operation ingredients="légumes;beurre"> revenir </operation> l' ensemble des <ingredient action="revenir" quantite="4;2;2;2"> légumes </ingredient> dans le <ingredient action="revenir" quantite="45 gramme"> beurre </ingredient> pendant 5 minutes . <operation> saler </operation> , <operation> poivrer </operation> puis <operation> recouvrir </operation> d' eau . <operation> couvrir </operation> et <operation> cuire </operation> pendant 30 minutes . <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="37,5 cl"> lait </ingredient> et poursuivre la cuisson durant 30 minutes . <operation> mixer </operation> et servir .
+</preparation>
+</recette>

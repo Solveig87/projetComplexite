@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80205">
+<titre>Glace Marshmallow</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>155 g de marshmallow</p>
+<p>25 cl de crème fraîche liquide</p>
+<p>15 cl de lait</p>
+<p>extrait de vanille</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="marshmallow;lait"> fondre </operation> sur feu doux les <ingredient action="fondre" quantite="155 gramme"> marshmallow </ingredient> avec 2 cuillères à café d' eau , quelques gouttes d' extrait de vanille et le <ingredient action="fondre" quantite="15 cl"> lait </ingredient> . <operation> mélanger </operation> jusqu' à obtention d' une préparation homogène . hors du feu , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="25 cl"> crème </ingredient> fraîche liquide et bien <operation> mélanger </operation> . une fois le <operation> mélange </operation> refroidi , <operation> mettre </operation> à turbiner en sorbetière ( 30 min pour la mienne , mais cela peut varier suivant les modèles ) . retour en enfance avec cette <ingredient> glace </ingredient> aux saveurs de bonbons !
+</preparation>
+</recette>

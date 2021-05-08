@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="80287">
+<titre>Mousse au chocolat meilleure qu'au restau</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 plaque de chocolat à pâtisser (200 g)</p>
+<p>6 oeufs</p>
+<p>1 soupçon de sel (une pincée)</p>
+<p>1 bouchon de rhum</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> au micro-ondes avec 3 cuillères à soupe d' eau , 2 min environ à puissance maximum . si pas de micro-ondes : faire <operation> fondre </operation> au bain marie dans une casserole . <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="6"> oeufs </ingredient> . <operation ingredients="chocolat"> mélanger </operation> le <ingredient action="mélanger"> chocolat </ingredient> <operation ingredients="oeufs"> fondu </operation> aux 6 jaunes d' <ingredient action="fondre" quantite="6"> oeufs </ingredient> , petit à petit , en <operation> mélangeant </operation> bien au fouet . <operation ingredients="rhum"> ajouter </operation> le bouchon de <ingredient action="ajouter"> rhum </ingredient> à la préparation . <operation ingredients="sel"> battre </operation> les blancs en neige avec une pincée de <ingredient action="battre"> sel </ingredient> . ils doivent être très fermes . <operation> incorporer </operation> délicatement les blancs <operation> battus </operation> en neige à la cuillère ( c' est l' étape la plus longue car il ne faut pas <operation> écraser </operation> les blancs mais bien les <operation> incorporer </operation> ) . <operation> mettre </operation> au frais 3 h au moins . c' est prêt ! c' est une recette facile alors il ne faut pas hésiter ! c' est l' incorporation des blancs en neige qui est un peu fastidieuse , mais enfin cela reste raisonnable .
+</preparation>
+</recette>

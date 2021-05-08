@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="93203">
+<titre>Pain perdu au nutella</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>-4 tanches de pain rassis -2 œufs-2 c. à soupe de sucre -4 c. à soupe de nutella-20 cl de lait-40g de beurre-1 sachet de sucre vanillé</p>
+</ingredients>
+<preparation>
+1 . dans un récipient , <operation ingredients="oeufs;lait;sucre"> mélangez </operation> les <ingredient action="mélanger"> oeufs </ingredient> , le <ingredient action="mélanger"> lait </ingredient> et le <ingredient action="mélanger"> sucre </ingredient> vanillé . 2 . <operation ingredients="pain"> trempez </operation> les tranches de <ingredient action="trempez"> pain </ingredient> dans cette preparation pendant quelques minutes . 3 . dans une <operation> poêle </operation> <operation> beurrée </operation> , faites <operation> cuire </operation> 2 min sur chaque face et <operation> égouttez </operation> sur une feuille de papier absorbant . 4 . <operation ingredients="sucre;nutella"> saupoudrez </operation> de <ingredient action="saupoudrer"> sucre </ingredient> et <operation> tartinez </operation> de <ingredient action="saupoudrer"> nutella </ingredient> .
+</preparation>
+</recette>

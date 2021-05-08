@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20647">
+<titre>Poulet sauté aux légumes</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet découpé en morceaux</p>
+<p>1 tomate</p>
+<p>1 poivron vert</p>
+<p>1 poivron rouge</p>
+<p>2 oignons</p>
+<p>2 échalotes</p>
+<p>100 g de beurre</p>
+<p>200 g de champignons</p>
+<p>20 cl de vin blanc sec</p>
+<p>1 bouquet garni</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;beurre;oignons;échalotes"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> poulet </ingredient> dans du <ingredient action="revenir" quantite="100 gramme"> beurre </ingredient> avec les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="2"> échalotes </ingredient> <operation> ciselés </operation> . <operation ingredients="vin"> arroser </operation> de <ingredient action="arroser" quantite="20 cl"> vin </ingredient> blanc et laissez <operation> mijoter </operation> 10 min . <operation ingredients="bouquet;poivrons;champignons"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , les <ingredient action="ajouter"> poivrons </ingredient> et les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> <operation> émincés </operation> , et <operation> assaisonner </operation> . faire <operation> cuire </operation> 30 min . ce <ingredient quantite="1"> poulet </ingredient> est très bon servi avec du <ingredient> riz </ingredient> .
+</preparation>
+</recette>

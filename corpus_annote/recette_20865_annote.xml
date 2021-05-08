@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20865">
+<titre>Agneau sauté aux épices</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 épaule d'agneau désossée et coupée en dés</p>
+<p>3 oignons</p>
+<p>2 gousses d'ail</p>
+<p>1 boîte 1/2 de tomates pelées non égouttées</p>
+<p>3 cuillères à soupe d'huile d'olive</p>
+<p>1 tasse à thé d'eau</p>
+<p>2 clous de girofle écrasés</p>
+<p>cannelle en poudre</p>
+<p>1 étoile de badiane</p>
+<p>1 cuillère à café de coriandre en poudre</p>
+<p>du piment en poudre doux ou plus fort selon le goût</p>
+<p>une pincée de cumin en poudre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="ail;oignons"> peler </operation> et <operation> hacher </operation> finement l' <ingredient action="peler"> ail </ingredient> et les <ingredient action="peler" quantite="3"> oignons </ingredient> . <operation ingredients="tomates"> couper </operation> en dés les <ingredient action="couper"> tomates </ingredient> en boîte . <operation> réduire </operation> les clous de girofle en <operation> poudre </operation> . dans un autocuiseur , faire <operation ingredients="huile;viande"> colorer </operation> dans l' <ingredient action="colorer" quantite="3 cuillère à soupe"> huile </ingredient> chaude les dés de <ingredient action="colorer"> viande </ingredient> , <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> oignons </ingredient> , l' <ingredient> ail </ingredient> et les <ingredient> tomates </ingredient> . <operation ingredients="épices"> saupoudrer </operation> avec les <ingredient action="saupoudrer" quantite="2;3 cuillère à soupe;;1 cuillère à café;1 pincée;;"> épices </ingredient> . <operation> verser </operation> l' eau et bien <operation> mélanger </operation> . <operation> assaisonner </operation> . fermer la cocotte . laisser <operation> cuire </operation> 12 à 15 mn . <operation> ouvrir </operation> la cocotte . servir <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> . délicieux avec un <ingredient> riz </ingredient> pilaf
+</preparation>
+</recette>

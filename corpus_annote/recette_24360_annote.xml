@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24360">
+<titre>Risotto à la menthe</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de riz</p>
+<p>un oignon</p>
+<p>huile</p>
+<p>un verre de vin blanc</p>
+<p>du bouillon bien chaud</p>
+<p>une poignée de menthe finement émincée</p>
+<p>parmesan râpé</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> préparer </operation> le risotto comme d' habitude ( <operation ingredients="oignon"> faire </operation> étuver l' <ingredient action="faire" quantite="1"> oignon </ingredient> <operation> émincé </operation> , <operation ingredients="riz"> ajouter </operation> le <ingredient action="ajouter" quantite="350 gramme"> riz </ingredient> , augmenter le feu et bien <operation> remuer </operation> , <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="1 verre"> vin </ingredient> et le faire évaporer , <operation ingredients="riz;bouillon"> couvrir </operation> le <ingredient action="couvrir" quantite="350 gramme"> riz </ingredient> avec le <ingredient action="couvrir" quantite=""> bouillon </ingredient> et en <operation> ajouter </operation> de temps en temps . . . ) . quatre ou cinq minutes avant la fin de la cuisson , <operation ingredients="menthe"> ajouter </operation> la <ingredient action="ajouter"> menthe </ingredient> . quand le risotto est prêt , y <operation ingredients="noix;parmesan"> mettre </operation> une <ingredient action="mettre"> noix </ingredient> de beurre , le <ingredient action="mettre" quantite=""> parmesan </ingredient> , <operation> mélanger </operation> , <operation> couvrir </operation> , attendre deux minutes et servir . oubliez si vous n' aimez pas le goût de la <ingredient> menthe </ingredient> avec le <ingredient> salé </ingredient> . sinon , c' est un plat frais et original .
+</preparation>
+</recette>

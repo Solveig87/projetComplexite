@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62873">
+<titre>Pâtes aux oeufs et champignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de spaghettis ou tagliatelles</p>
+<p>1 oignon</p>
+<p>4 champignons de Paris</p>
+<p>2 oeufs</p>
+<p>lait ou de crème fraîche</p>
+<p>50 à 100 g de fromage au choix (comté, parmesan, St-Nectaire...)</p>
+<p>persil et ciboulette</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+<p>noix de muscade râpé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> , puis les <operation> égoutter </operation> . faire <operation ingredients="huile;champignons"> chauffer </operation> une <operation> poêle </operation> avec <ingredient action="chauffer" quantite="1 cuillère à soupe"> huile </ingredient> et faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> haché , puis les <ingredient action="chauffer" quantite="4"> champignons </ingredient> <operation> coupés </operation> en lamelles . <operation ingredients="pâtes"> ajouter </operation> les <ingredient action="ajouter"> pâtes </ingredient> dans la <operation> poêle </operation> et faire <operation> revenir </operation> quelques instants . <operation ingredients="oeufs"> verser </operation> sur la préparation les <ingredient action="verser" quantite="2"> oeufs </ingredient> <operation ingredients="lait"> battus </operation> avec un peu de <ingredient action="battre" quantite=""> lait </ingredient> , sel , poivre et noix de muscade <operation> râpé </operation> . <operation ingredients="fromage"> disposer </operation> les lamelles de <ingredient action="disposer"> fromage </ingredient> sur la préparation , <operation> parsemer </operation> de fines herbes hachées , <operation> couvrir </operation> et laisser cuir sur le feu doux de 5 à 10 min pour que le <ingredient action="fondre"> fromage </ingredient> soit bien <operation ingredients="fromage;oeufs"> fondu </operation> et les <ingredient action="fondre" quantite="2"> oeufs </ingredient> <operation> cuits </operation> . servir bien chaud . bon appétit ! ce plat et facile et très bon . je l' ai inventé en fonction des restes de mon frigo . vous pouvez faire varier cette recette avec des <ingredient> lardons </ingredient> , une courgette , une <ingredient> tomate </ingredient> fraiche <operation> coupée </operation> en dès etc.
+</preparation>
+</recette>

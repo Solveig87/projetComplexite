@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="55049">
+<titre>Escalopes gourmandes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de dinde ou de poulet (c'est moins cher)</p>
+<p>2 tranches de jambon blanc</p>
+<p>4 tranches de fromage pour croque monsieur</p>
+<p>sauce tomate</p>
+<p>crème fraîche et gruyère rapé </p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="escalopes"> cuire </operation> les <ingredient action="cuire" quantite="4"> escalopes </ingredient> . une fois <operation> cuites </operation> , <operation> disposez </operation> les dans un plat allant au four , <operation ingredients="escalopes;fromage;jambon"> recouvrez </operation> les <ingredient action="recouvrir" quantite="4"> escalopes </ingredient> d' une tranche de <ingredient action="recouvrir" quantite="4 tranche"> fromage </ingredient> et d' une demi tranche de <ingredient action="recouvrir" quantite="2 tranche"> jambon </ingredient> blanc . auparavant pendant la cuisson dans un bol vous aurez <operation ingredients="tomate;crème"> mélangé </operation> le coulis de <ingredient action="mélanger"> tomate </ingredient> avec la <ingredient action="mélanger" quantite=""> crème </ingredient> fraîche de façon à faire une bonne sauce . ensuite vous <operation> recouvrez </operation> le tout et <operation ingredients="gruyère"> ajoutez </operation> du <ingredient action="ajouter"> gruyère </ingredient> <operation> râpé </operation> . <operation> mettez </operation> à four chaud environ 15 min pour que le <ingredient action="fondre" quantite="4 tranche"> fromage </ingredient> soit <operation ingredients="fromage"> fondu </operation> . dégustez <operation ingredients="pommes;pâtes"> accompagné </operation> d' un gratin de <ingredient action="accompagner"> pommes </ingredient> de terre ou de <ingredient action="accompagner"> pâtes </ingredient> fraîches .
+</preparation>
+</recette>

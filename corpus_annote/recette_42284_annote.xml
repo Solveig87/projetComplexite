@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42284">
+<titre>Gâteau aux poires façon tatin</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 oeufs</p>
+<p>125 g de sucre</p>
+<p>125 g de beurre</p>
+<p>100g farine</p>
+<p>1/2 sachet de levure</p>
+<p>3 ou 4 poires</p>
+<p>caramel liquide (ou caramel maison)</p>
+</ingredients>
+<preparation>
+ce <ingredient action="prépare"> gâteau </ingredient> se <operation ingredients="gâteau;tarte"> prépare </operation> comme une <ingredient action="prépare"> tarte </ingredient> tatin . <operation> séparer </operation> les blancs et les jaunes . <operation ingredients="sucre"> mélanger </operation> les jaunes et le <ingredient action="mélanger" quantite="125 gramme"> sucre </ingredient> . <operation ingredients="farine;beurre;levure"> ajouter </operation> la <ingredient action="ajouter"> farine </ingredient> <operation> tamisée </operation> , le <ingredient action="ajouter" quantite="125 gramme"> beurre </ingredient> <operation> fondu </operation> , et la <ingredient action="ajouter"> levure </ingredient> . <operation> battre </operation> les blancs en neige , et les <operation> ajouter </operation> à la préparation . dans un <operation> moule </operation> caramélisé ( le <operation> moule </operation> doit être bien <operation> recouvert </operation> de caramel ) , <operation> déposer </operation> , en rosace , les <ingredient quantite="3"> poires </ingredient> <operation> découpées </operation> en lamelles . <operation ingredients="poires"> verser </operation> la préparation sur les <ingredient action="verser" quantite="3"> poires </ingredient> caramélisées . cuisson : 30 à 35 min à 150 <operation> ° </operation> c ( thermostat 5 ) . <operation ingredients="tarte"> démouler </operation> de suite ( comme une <ingredient action="démouler"> tarte </ingredient> tatin ) , autrement le caramel <operation> durcira </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="168063">
+<titre>Colombo à l'ananas</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de porc.</p>
+<p>25 cl de lait de coco (facultatif).</p>
+<p>25 g de colombo.</p>
+<p>un petit oignon. </p>
+<p>140 g d'ananas (une petite boîte).</p>
+<p>un peu d'huile.</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;oignon"> revenir </operation> la <ingredient action="revenir" quantite="600 gramme"> viande </ingredient> 5 mn avec l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , <operation> ajouter </operation> le colombo . <operation ingredients="jus"> remuer </operation> , <operation ingredients="lait;ananas"> recouvrir </operation> du <ingredient action="recouvrir" quantite="25 cl"> lait </ingredient> de coco et des morceaux d' <ingredient action="recouvrir" quantite="140 gramme"> ananas </ingredient> ( pas le <ingredient action="remuer"> jus </ingredient> ) . laisser <operation> mijoter </operation> 30 mn à feu doux . on peut <operation ingredients="lait"> mettre </operation> davantage de <ingredient action="mettre" quantite="25 cl"> lait </ingredient> de coco , ou <operation ingredients="jus"> ajouter </operation> un peu de <ingredient action="ajouter"> jus </ingredient> d' ananas . ce plat est encore meilleur si on le laisse <operation> mijoter </operation> à feu très doux 1 h et même 2 h. rouge
+</preparation>
+</recette>

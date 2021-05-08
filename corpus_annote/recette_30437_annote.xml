@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30437">
+<titre>Risotto de pâtes d'Elodie</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1l de bouillon de volaille</p>
+<p>3 cl de vin blanc</p>
+<p>200 g de pâtes (les coquillettes sont parfaites)</p>
+<p>1 barquette de lardons (125 g)</p>
+<p>1 petite boîte de petits pois</p>
+<p>50 à 100 g de fromage râpé (quantité selon votre goût)</p>
+</ingredients>
+<preparation>
+dans une casserole , faire <operation ingredients="lardons;matière"> cuire </operation> les <ingredient action="cuire"> lardons </ingredient> sans ajout de <ingredient action="cuire"> matière </ingredient> grasse , y <operation ingredients="pâtes"> ajouter </operation> les <ingredient action="ajouter" quantite="200 gramme"> pâtes </ingredient> crues . <operation ingredients="vin"> mouiller </operation> du <ingredient action="mouiller" quantite="3 cl"> vin </ingredient> blanc et laisser 1 minute . <operation ingredients="bouillon;pâtes"> ajouter </operation> le <ingredient action="ajouter" quantite="1l"> bouillon </ingredient> <operation> chauffé </operation> auparavant en plusieurs fois , les <ingredient action="ajouter" quantite="200 gramme"> pâtes </ingredient> absorbant le liquide . 5 minutes avant la fin de la cuisson , <operation ingredients="pois"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> et laisser 5 minutes . avant d' <operation> éteindre </operation> le feu , <operation> verser </operation> le râpé et <operation> mélanger </operation> . très facile et ça change du risotto de <ingredient> riz </ingredient> ! un bon <ingredient quantite="3 cl"> vin </ingredient> blanc
+</preparation>
+</recette>

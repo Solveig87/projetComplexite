@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="92794">
+<titre>Poulet au cacao</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,2 kg de poulet- 1/2 oignon- 2 gousses d'ail- 1 cube de bouillon de volaille- 1 cuillère à soupe rase de chocolat amer- 1 cuillère à soupe de farine- 1 verre de jus d'orange- 2 verres d'eau- thym, laurier- sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet"> dorer </operation> le <ingredient action="dorer"> poulet </ingredient> dans une cocotte en fonte , puis <operation> retirer </operation> . y faire <operation ingredients="oignon;ail"> dorer </operation> ensuite l' <ingredient action="dorer"> oignon </ingredient> avec l' <ingredient action="dorer"> ail </ingredient> <operation> écrasé </operation> . <operation ingredients="poulet"> remettre </operation> les morceaux de <ingredient action="remettre"> poulet </ingredient> et <operation ingredients="farine;chocolat"> saupoudrer </operation> de <ingredient action="saupoudrer"> farine </ingredient> , puis de <ingredient action="saupoudrer"> chocolat </ingredient> . <operation ingredients="jus"> mouiller </operation> avec le <ingredient action="mouiller"> jus </ingredient> d' orange et l' eau . <operation ingredients="volaille;thym;laurier;sel;poivre"> ajouter </operation> le cube de <ingredient action="ajouter"> volaille </ingredient> , le <ingredient action="ajouter"> thym </ingredient> , le <ingredient action="ajouter"> laurier </ingredient> , le <ingredient action="ajouter"> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . dès que le plat <operation> mijote </operation> , baisser le feu au plus bas , <operation> mettre </operation> le couvercle et laisser <operation> mijoter </operation> 45 min .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22631">
+<titre>Pain de mie tata Mimi</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pain de mie non tranché</p>
+<p>3 oeufs</p>
+<p>3 cuillères à soupe de crème</p>
+<p>2 tranches de jambon haché</p>
+<p>gruyère râpé</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pain"> enlever </operation> un chapeau du <ingredient action="enlever" quantite="1"> pain </ingredient> de mie et le <operation> creuser </operation> ( attention de ne pas faire de trou ) . <operation ingredients="pain;oeufs;crème;jambon;gruyère;sel;poivre"> mélanger </operation> la mie de <ingredient action="mélanger" quantite="1"> pain </ingredient> avec les <ingredient action="mélanger" quantite="3"> oeufs </ingredient> , la <ingredient action="mélanger" quantite="3 cuillère à soupe"> crème </ingredient> , le <ingredient action="mélanger" quantite="2 tranche"> jambon </ingredient> , le <ingredient action="mélanger" quantite=""> gruyère </ingredient> ( quantité en fonction du goût ) , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation ingredients="pain"> remettre </operation> la préparation dans le <ingredient action="remettre" quantite="1"> pain </ingredient> de mie <operation> creusé </operation> et <operation> mettre </operation> au four ( th 7 ) environ 1 / 2 h. <operation> remettre </operation> le chapeau et laisser <operation> chauffer </operation> 5 mn . servir <operation ingredients="salade"> accompagné </operation> d' une <ingredient action="accompagner"> salade </ingredient> . très vite fait pour un soir . attention ça tient au ventre .
+</preparation>
+</recette>

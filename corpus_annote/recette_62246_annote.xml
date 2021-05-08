@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62246">
+<titre>Assiette italienne</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 poignées de mesclun</p>
+<p>quelques feuilles de roquette</p>
+<p>20 petites tomates cerises</p>
+<p>2 boules de mozzarella</p>
+<p>4 tranches de jambon de parme</p>
+<p>1 petit melon</p>
+<p>Pour la sauce : </p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique</p>
+<p>basilic</p>
+<p>moutarde à l'ancienne</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une assiette , étalez le <ingredient> mesclun </ingredient> et la <ingredient quantite="quelque feuille"> roquette </ingredient> . <operation ingredients="melon"> coupez </operation> le <ingredient action="couper" quantite="1"> melon </ingredient> en deux , <operation> épépinez </operation> - le et <operation ingredients="melon"> détaillez </operation> avec une cuillère parisienne de petites boules de <ingredient action="détailler" quantite="1"> melon </ingredient> que vous replacerez ensuite dans leur peau . <operation ingredients="tomate"> faites </operation> de petites brochettes de <ingredient action="faire" quantite="20"> tomate </ingredient> - mozzarella sur des cure - dents que vous <operation ingredients="melon"> piquerez </operation> ensuite sur le pourtour du <ingredient action="piquerez" quantite="1"> melon </ingredient> . <operation ingredients="salade;melon"> ajoutez </operation> sur le lit de <ingredient action="ajouter"> salade </ingredient> le jambon de parme <operation> coupé </operation> en chiffonade , le <ingredient action="ajouter" quantite="1"> melon </ingredient> <operation> piqué </operation> de brochettes . <operation ingredients="huile;vinaigre;moutarde;basilic"> faites </operation> une vinaigrette avec l' <ingredient action="faire" quantite=""> huile </ingredient> d' olive , le <ingredient action="faire" quantite=""> vinaigre </ingredient> balsamique , la <ingredient action="faire" quantite=""> moutarde </ingredient> à l' ancienne et le <ingredient action="faire" quantite=""> basilic </ingredient> . <operation ingredients="salade"> arrosez </operation> la <ingredient action="arroser"> salade </ingredient> et les brochettes avec cette sauce . si vous en avez , vous pouvez <operation ingredients="aubergines;confites"> rajouter </operation> des <ingredient action="rajouter"> aubergines </ingredient> <ingredient action="rajouter"> confites </ingredient> et des toasts de tapenade .
+</preparation>
+</recette>

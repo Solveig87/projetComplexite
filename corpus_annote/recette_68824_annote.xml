@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68824">
+<titre>Omelette jambon/fromage</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 œufs</p>
+<p>parmesan (facultatif)</p>
+<p>sel</p>
+<p>poivre</p>
+<p>2 tranches de jambon</p>
+<p>fromage à fondre</p>
+</ingredients>
+<preparation>
+<operation> mettez </operation> une <operation> poêle </operation> à <operation ingredients="huile"> chauffer </operation> avec un peu d' <ingredient action="chauffer"> huile </ingredient> . <operation ingredients="œufs;parmesan;sel;poivre"> mélangez </operation> dans un récipient les <ingredient action="mélanger" quantite="6"> œufs </ingredient> , le <ingredient action="mélanger" quantite=""> parmesan </ingredient> , le <ingredient action="mélanger" quantite=""> sel </ingredient> , le <ingredient action="mélanger" quantite=""> poivre </ingredient> , <operation> battre </operation> avec 2 fourchettes jusqu' à ce que tout soit <operation> mélangé </operation> . <operation> versez </operation> dans la <operation> poêle </operation> le contenu du récipient . laissez <operation> cuire </operation> selon votre préférence ( baveuse ou bien cuite ) . <operation ingredients="jambon;fromage"> mettez </operation> - y le <ingredient action="mettre" quantite="2 tranche"> jambon </ingredient> et le <ingredient action="mettre" quantite=""> fromage </ingredient> à <operation> fondre </operation> sur une moitié puis <operation> retournez </operation> . laissez <operation ingredients="fromage"> fondre </operation> le <ingredient action="fondre" quantite=""> fromage </ingredient> et <operation> retirer </operation> le tout . a vous de déguster .
+</preparation>
+</recette>

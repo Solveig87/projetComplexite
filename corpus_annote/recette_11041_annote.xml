@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11041">
+<titre>Crêpes</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>375 g de farine</p>
+<p>4 oeufs</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>2 pincées de sel</p>
+<p>50 cl de lait</p>
+<p>25 cl de bière</p>
+<p>2 cuillères à soupe de rhum</p>
+<p>20 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;oeufs;huile;sel"> mélanger </operation> la <ingredient action="mélanger" quantite="375 gramme"> farine </ingredient> avec les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> et le <ingredient action="mélanger" quantite="2 pincée"> sel </ingredient> . <operation ingredients="lait"> ajoutez </operation> ensuite le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> , la <ingredient quantite="25 cl"> bière </ingredient> et le <ingredient quantite="2 cuillère à soupe"> rhum </ingredient> . <operation> mélangez </operation> le tout : c' est prêt en deux minutes avec un <operation> mixer </operation> ! faites <operation ingredients="noix"> cuire </operation> à la <operation> poêle </operation> avec une <ingredient action="cuire"> noix </ingredient> de beurre . suggestions d' <operation> accompagnement </operation> : . nature - au <ingredient> sucre </ingredient> ( un zeste de <ingredient> citron </ingredient> <operation> accompagne </operation> très bien ) . au <ingredient> chocolat </ingredient> <operation ingredients="confiture"> fondu </operation> - à la <ingredient action="fondre"> confiture </ingredient> - à la <ingredient> pâte </ingredient> à <operation> tartiner </operation> - et à vous les essais . . . <ingredient> cidre </ingredient> ou champagne
+</preparation>
+</recette>

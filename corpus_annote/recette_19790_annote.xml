@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="19790">
+<titre>Rouleaux de dinde au bacon et fromage</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>8 filets de dinde minces</p>
+<p>20 tranches de bacon</p>
+<p>20 tranches de fromage pour croque monsieur</p>
+<p>un pot de cornichons (petits cornichons) </p>
+<p>1 pot de crème fraîche</p>
+<p>1 bouteille de vin blanc sec</p>
+<p>des piques en bois</p>
+<p>sel et poivre</p>
+<p>beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="dinde"> coupez </operation> les filets de <ingredient action="couper"> dinde </ingredient> en lamelle pour pouvoir en faire des rouleaux . <operation ingredients="bacon;fromage"> coupez </operation> les tranches de <ingredient action="couper" quantite="20 tranche"> bacon </ingredient> en 2 ainsi que les tranches de <ingredient action="couper" quantite="20 tranche"> fromage </ingredient> . sur chaque pièce de <ingredient action="disposer" quantite="20 tranche;20 tranche"> viande </ingredient> , <operation ingredients="viande;bacon;fromage;cornichon"> disposez </operation> une tranche de <ingredient action="disposer" quantite="20 tranche"> bacon </ingredient> , une tranche de <ingredient action="disposer" quantite="20 tranche"> fromage </ingredient> et un <ingredient action="disposer" quantite="1 pot"> cornichon </ingredient> . <operation> roulez </operation> l' ensemble et le maintenir avec un pique en bois . faire <operation ingredients="beurre"> revenir </operation> l' ensemble dans du <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="vin"> recouvrir </operation> de <ingredient action="recouvrir"> vin </ingredient> blanc avec un peu d' eau si cela semble trop alcoolisé . laisser <operation> cuire </operation> à feu moyen 15 min , <operation ingredients="crème"> rajouter </operation> le pot de <ingredient action="rajouter" quantite="1 pot"> crème </ingredient> fraîche , puis laisser <operation> cuire </operation> 10 min à feu doux . servir dans un plat <operation ingredients="tagliatelles"> accompagné </operation> de <ingredient action="accompagner"> tagliatelles </ingredient> , de <ingredient> pommes </ingredient> dauphines ou autres . si le <ingredient quantite="20 tranche"> fromage </ingredient> fond durant la cuisson , c' est normal . vous le retrouverez dans la sauce ! !
+</preparation>
+</recette>

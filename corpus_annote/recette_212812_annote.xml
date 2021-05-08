@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212812">
+<titre>Crème au cassis</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de cassis</p>
+<p>1 pomme</p>
+<p>20 cl crème fraîche épaisse</p>
+<p>25 g de raisins secs</p>
+<p>2 sachets de sucre vanillé</p>
+<p>50 g de sucre</p>
+<p>1 jaune d’œuf</p>
+<p>arôme de vanille</p>
+<p>1 cuillère à soupe de maïzena</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème;sucre;maïzena;œuf"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> fraîche avec le <ingredient action="mélanger" quantite="50 gramme"> sucre </ingredient> vanillé , la <ingredient action="mélanger" quantite="1 cuillère à soupe"> maïzena </ingredient> et le jaune d’ <ingredient action="mélanger"> œuf </ingredient> , <operation> cuire </operation> à feu doux jusqu' à épaississement . <operation> ajouter </operation> l' arôme de vanille . laisser refroidir . faire <operation ingredients="raisins"> tremper </operation> les <ingredient action="tremper" quantite="25 gramme"> raisins </ingredient> secs dans de l' eau . <operation ingredients="pomme;cassis;sucre"> couper </operation> la <ingredient action="couper" quantite="1"> pomme </ingredient> en petits morceaux , la <operation> mélanger </operation> avec le <ingredient action="couper" quantite="200 gramme"> cassis </ingredient> et le <ingredient action="couper" quantite="50 gramme"> sucre </ingredient> , <operation> cuire </operation> 10 min . <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter" quantite="25 gramme"> raisins </ingredient> secs . <operation> mixer </operation> . <operation ingredients="crème;compote"> mélanger </operation> la <ingredient action="mélanger" quantite="20 cl"> crème </ingredient> et la <ingredient action="mélanger"> compote </ingredient> de fruits . servir <operation> agrémenté </operation> d' une <ingredient> framboise </ingredient> pour décor .
+</preparation>
+</recette>

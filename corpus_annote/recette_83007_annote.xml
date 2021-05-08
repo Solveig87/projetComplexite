@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="83007">
+<titre>Tapioca au chocolat</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1l de lait</p>
+<p>1 pincée de sel</p>
+<p>60 g de sucre</p>
+<p>30 g de tapioca</p>
+<p>125 g de chocolat fondu</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;lait"> fondre </operation> le <ingredient action="fondre" quantite="125 gramme"> chocolat </ingredient> avec un peu de <ingredient action="fondre" quantite="1l"> lait </ingredient> pendant 2 minutes au micro-ondes . faire <operation ingredients="lait;sucre;sel"> bouillir </operation> le <ingredient action="bouillir" quantite="1l"> lait </ingredient> avec le <ingredient action="bouillir" quantite="60 gramme"> sucre </ingredient> et la pincée de <ingredient action="bouillir" quantite="1 pincée"> sel </ingredient> . <operation ingredients="chocolat"> ajouter </operation> le <ingredient action="ajouter" quantite="125 gramme"> chocolat </ingredient> <operation ingredients="tapioca"> fondu </operation> et le <ingredient action="fondre" quantite="30 gramme"> tapioca </ingredient> en pluie . <operation> remuer </operation> constament et laissez <operation> cuire </operation> 6 minutes . c' est prêt !
+</preparation>
+</recette>

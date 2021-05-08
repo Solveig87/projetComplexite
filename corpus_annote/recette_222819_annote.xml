@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222819">
+<titre>Mousse au praliné au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>3 œufs</p>
+<p>2 cuillères à soupe de sucre</p>
+<p>100 g de pralines</p>
+</ingredients>
+<preparation>
+<operation> mixer </operation> la praline . <operation ingredients="mascarpone;sucre;œufs"> mélanger </operation> le <ingredient action="mélanger" quantite="250 gramme"> mascarpone </ingredient> avec le <ingredient action="mélanger" quantite="2 cuillère à soupe"> sucre </ingredient> , les jaunes d’ <ingredient action="mélanger" quantite="3"> œufs </ingredient> et la <operation> poudre </operation> de praline . <operation ingredients="œufs"> battre </operation> les blancs d’ <ingredient action="battre" quantite="3"> œufs </ingredient> en neige . <operation> mélanger </operation> les blancs <operation ingredients="mascarpone"> battus </operation> avec le <ingredient action="battre" quantite="250 gramme"> mascarpone </ingredient> , <operation> tourner </operation> délicatement en veillant de ne pas « casser » les blancs . <operation> verser </operation> dans des verrines , <operation> ajouter </operation> éventuellement au milieu de la praline pour <operation ingredients="croquant;chocolat"> ajouter </operation> du <ingredient action="ajouter"> croquant </ingredient> voire même du <ingredient action="ajouter"> chocolat </ingredient> <operation> fondu </operation> dans le fond des verrines . <operation> mettre </operation> 3 h au frigo et c’ est prêt .
+</preparation>
+</recette>

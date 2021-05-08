@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29882">
+<titre>Salade de fruits à la fleur d'oranger</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>12 fraises</p>
+<p>2 kiwis</p>
+<p>2 oranges</p>
+<p>2 pommes</p>
+<p>2 bananes</p>
+<p>autres fruits selon les goûts : pamplemousse, figues, ananas...</p>
+<p>eau de fleur d'oranger</p>
+<p>sucre roux</p>
+</ingredients>
+<preparation>
+<operation ingredients="oranges"> peler </operation> les <ingredient action="peler" quantite="2"> oranges </ingredient> à vif et les <operation> couper </operation> en quartiers . <operation> eplucher </operation> et <operation ingredients="bananes;kiwis"> couper </operation> les <ingredient action="couper" quantite="2"> bananes </ingredient> et les <ingredient action="couper" quantite="2"> kiwis </ingredient> en rondelles . <operation> laver </operation> et <operation ingredients="fraises;pommes"> couper </operation> les <ingredient action="couper" quantite="12"> fraises </ingredient> et les <ingredient action="couper" quantite="2"> pommes </ingredient> en morceaux . <operation ingredients="fruits"> mélanger </operation> tous les <ingredient action="mélanger" quantite=""> fruits </ingredient> et les <operation> arroser </operation> d' eau de fleur d' oranger . <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> sucre </ingredient> et <operation> réserver </operation> au frais 1 h avant de servir .
+</preparation>
+</recette>

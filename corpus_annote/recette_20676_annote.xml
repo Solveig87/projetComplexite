@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20676">
+<titre>Salade de riz rose</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz cuit (restes)</p>
+<p>1 grosse boîte de saumon au naturel</p>
+<p>4 tomates</p>
+<p>1 citron</p>
+<p>aneth</p>
+<p>mayonnaise</p>
+<p>vinaigre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> pelez </operation> , <operation> épépinez </operation> et <operation> concassez </operation> les <ingredient action="peler" quantite="4"> tomates </ingredient> . <operation ingredients="saumon"> egouttez </operation> le <ingredient action="egouttez"> saumon </ingredient> , émiettez - le et <operation> mélangez </operation> - le avec le <ingredient> riz </ingredient> et les <ingredient quantite="4"> tomates </ingredient> . <operation ingredients="mayonnaise;aneth;jus;vinaigre"> mélangez </operation> 2 cuillères de <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> avec de l' <ingredient action="mélanger" quantite=""> aneth </ingredient> , le <ingredient action="mélanger"> jus </ingredient> du citron , sel , poivre et 1 trait de <ingredient action="mélanger" quantite=""> vinaigre </ingredient> . <operation ingredients="salade"> mélangez </operation> la <ingredient action="mélanger"> salade </ingredient> de riz avec cette sauce et servez bien frais .
+</preparation>
+</recette>

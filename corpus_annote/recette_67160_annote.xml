@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="67160">
+<titre>Terrine de charcuterie (spéciale lendemain de raclette)</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>le reste de charcuterie d'une raclette (200 ou 300 g)</p>
+<p>deux blancs de poulet ou de dinde</p>
+<p>une cuillère a café d'estragon</p>
+<p>1 oignon</p>
+<p>de l'ail</p>
+</ingredients>
+<preparation>
+<operation ingredients="charcuterie;poulet;oignon"> passer </operation> tout le reste de <ingredient action="passer"> charcuterie </ingredient> , les blancs de <ingredient action="passer"> poulet </ingredient> et l' <ingredient action="passer" quantite="1"> oignon </ingredient> au <operation> mixer </operation> . <operation ingredients="estragon"> ajouter </operation> l' <ingredient action="ajouter"> estragon </ingredient> . <operation> assaisonner </operation> sans trop <operation> saler </operation> ! <operation> placer </operation> dans une terrine ( ou à défaut , utiliser un <operation> moule </operation> à cake ) , puis <operation> placez </operation> au bain - marie et <operation> recouvrez </operation> d' une feuille de papier alu . 20 min avant la fin de la cuisson ( soit après 25 min ) , <operation> enlevez </operation> le papier alu et laisser <operation> dorer </operation> le dessus de la terrine .
+</preparation>
+</recette>

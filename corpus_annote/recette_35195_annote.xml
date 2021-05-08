@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="35195">
+<titre>Crème pâtissière</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>100 g de farine</p>
+<p>200 g se sucre</p>
+<p>4 jaunes d'oeuf</p>
+<p>1 gousse de vanille</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf;sucre"> mélanger </operation> les jaunes d' <ingredient action="mélanger"> oeuf </ingredient> avec le <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> . <operation> battre </operation> au fouet jusqu' à que le <operation> mélange </operation> <operation> blanchisse </operation> . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> farine </ingredient> et bien <operation ingredients="sucre"> mélanger </operation> avec le <operation> mélange </operation> <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> / oeufs . <operation ingredients="lait"> rajouter </operation> 1 / 2 verre de <ingredient action="rajouter" quantite="1 litre"> lait </ingredient> pour que le <operation> mélange </operation> soit plus liquide . <operation> mettre </operation> à <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="1 litre"> lait </ingredient> . lorsque le <ingredient quantite="1 litre"> lait </ingredient> est tiède ( au bout de . 4 mn ) <operation ingredients="oeufs"> rajouter </operation> je <operation> mélange </operation> <ingredient action="rajouter"> oeufs </ingredient> / farine / sucre / lait . <operation ingredients="gousse"> ajouter </operation> votre <ingredient action="ajouter" quantite="1"> gousse </ingredient> de vanille . <operation> mélanger </operation> au fouet jusqu' à <operation> ébullition </operation> . a ce moment là , votre <ingredient> crème </ingredient> sera déjà bien épaisse et vous pouvez arrêter la cuisson . la <ingredient> crème </ingredient> pâtissière qui ne loupe jamais ! cette recette est enseignée dans certaines écoles de pâtisserie .
+</preparation>
+</recette>

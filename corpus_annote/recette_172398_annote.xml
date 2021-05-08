@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="172398">
+<titre>Mousse de poire au mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de mascarpone</p>
+<p>3 blancs d'œufs</p>
+<p>50 g de sucre glace</p>
+<p>2 poires Williams</p>
+</ingredients>
+<preparation>
+<operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="2"> poires </ingredient> et les <operation> mixer </operation> . <operation ingredients="mascarpone;sucre;glace"> ajouter </operation> le <ingredient action="ajouter" quantite="250 gramme"> mascarpone </ingredient> et le <ingredient action="ajouter" quantite="50 gramme"> sucre </ingredient> <ingredient action="ajouter"> glace </ingredient> . bien <operation ingredients="crème"> mélanger </operation> jusqu' à obtention d' une <ingredient action="mélanger"> crème </ingredient> onctueuse . <operation> monter </operation> les blancs en neige et les <operation> ajouter </operation> délicatement au <operation> mélange </operation> en veillant à bien aérer . <operation> disposer </operation> le tout dans des coupelles et <operation> réserver </operation> au réfrigérateur au moins 2 h avant de servir . vous pouvez <operation ingredients="mousse;biscuit;chocolat"> accompagner </operation> cette <ingredient action="accompagner"> mousse </ingredient> d' un <ingredient action="accompagner"> biscuit </ingredient> , d' un coulis de <ingredient action="accompagner"> chocolat </ingredient> , ou autre . . . à votre convenance !
+</preparation>
+</recette>

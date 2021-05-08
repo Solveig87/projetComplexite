@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26022">
+<titre>Asperges à la mayonnaise pimentée</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg d'asperges blanches</p>
+<p>4 oeufs (2 jaunes d'oeufs durs + 2 jaunes d'oeufs crus)</p>
+<p>1 cuillère à café de moutarde</p>
+<p>20 cl d'huile</p>
+<p>1 cuillère à café de citron</p>
+<p>1 pincée de piment</p>
+</ingredients>
+<preparation>
+<operation> lavez </operation> , <operation> pelez </operation> et <operation ingredients="asperges"> liez </operation> soigneusement les <ingredient action="lier" quantite="1 kilogramme"> asperges </ingredient> en bottillons . faites les <operation> cuire </operation> dans une grande quantité d' eau bouillante durant 20 à 30 minutes : les <ingredient quantite="1 kilogramme"> asperges </ingredient> doivent être tendres . <operation> egouttez </operation> et <operation ingredients="asperges"> déficelez </operation> les <ingredient action="déficeler" quantite="1 kilogramme"> asperges </ingredient> et laissez refroidir sur un linge afin d' <operation> ôter </operation> l' excédent d' eau . pendant ce temps , <operation> préparez </operation> la sauce : faites <operation ingredients="oeufs"> cuire </operation> des <ingredient action="cuire" quantite="4"> oeufs </ingredient> durs . dans un mortier , <operation ingredients="oeufs"> écrasez </operation> les jaunes d' <ingredient action="écraser" quantite="4"> oeufs </ingredient> durs . puis <operation ingredients="oeufs;moutarde;sel;poivre"> ajoutez </operation> les jaunes d' <ingredient action="ajouter" quantite="4"> oeufs </ingredient> crus , la <ingredient action="ajouter" quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient action="ajouter"> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation ingredients="huile"> versez </operation> l' <ingredient action="verser" quantite="20 cl"> huile </ingredient> très doucement et faites <operation ingredients="mayonnaise"> monter </operation> au fouet comme pour une <ingredient action="monter"> mayonnaise </ingredient> . pour finir , <operation ingredients="citron"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> citron </ingredient> et le piment . servez les <ingredient quantite="1 kilogramme"> asperges </ingredient> avec la sauce à part .
+</preparation>
+</recette>

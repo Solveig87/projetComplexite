@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166847">
+<titre>Wok de poulet au brocoli</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>un brocoli</p>
+<p>un blanc de poulet</p>
+<p>2 gousses d'ail</p>
+<p>100g de noix de cajou</p>
+<p>1 cuillère à soupe d'huile de sésame</p>
+<p>1 cuillère à soupe de sauce soja</p>
+<p>2 cuillères à soupe d'huile d'arachide</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet"> découper </operation> le blanc de <ingredient action="découper"> poulet </ingredient> en petit bouts . <operation ingredients="brocoli"> découper </operation> les fleurets du <ingredient action="découper" quantite="1"> brocoli </ingredient> , les <operation> passer </operation> a l' eau . <operation ingredients="ail"> découper </operation> l' <ingredient action="découper"> ail </ingredient> en petits morceaux . faire <operation ingredients="poulet;huile;huile"> revenir </operation> le <ingredient action="revenir"> poulet </ingredient> au wok avec l' <ingredient action="revenir" quantite="1 cuillère à soupe+2 cuillère à soupe"> huile </ingredient> de soja et l' <ingredient action="revenir" quantite="1 cuillère à soupe+2 cuillère à soupe"> huile </ingredient> d' arachide jusqu' a ce que les morceaux soient bien dorés . <operation ingredients="noix"> ajouter </operation> les <ingredient action="ajouter" quantite="100 gramme"> noix </ingredient> de cajou , <operation ingredients="huile;ail"> laisser </operation> <operation> cuire </operation> pendant 2 minutes puis <operation ingredients="brocoli"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> brocoli </ingredient> , l' <ingredient action="laisser" quantite="1 cuillère à soupe+2 cuillère à soupe"> huile </ingredient> de sésame et l' <ingredient action="laisser"> ail </ingredient> . attendre environ 5 minutes en brassant le tout afin que le <ingredient action="cuire" quantite="1"> brocoli </ingredient> <operation ingredients="brocoli"> cuise </operation> mais reste <ingredient> croquant </ingredient> . <operation> saler </operation> / <operation> poivrer </operation> a convenance , c' est prêt !
+</preparation>
+</recette>

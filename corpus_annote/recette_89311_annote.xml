@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="89311">
+<titre>Panettone poêlé</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 panettone </p>
+<p>4 oeufs</p>
+<p>1 sachet de sucre vanillé</p>
+<p>50 cl de lait</p>
+<p>80 g de beurre</p>
+<p>20 g de sucre glace</p>
+<p>30 g de raisins sec</p>
+</ingredients>
+<preparation>
+<operation> découper </operation> le panettone en 16 tranches égales . dans un saladier , <operation ingredients="oeufs;sucre;lait"> fouetter </operation> les <ingredient action="fouetter" quantite="4"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="20 gramme"> sucre </ingredient> vanillé puis le <ingredient action="fouetter" quantite="50 cl"> lait </ingredient> . ensuite , <operation> verser </operation> une partie de la préparation dans une assiette creuse et faire <operation ingredients="beurre"> chauffer </operation> 20 g de <ingredient action="chauffer" quantite="80 gramme"> beurre </ingredient> dans une <operation> poêle </operation> . <operation> tremper </operation> chaque tranche de panettone dans la préparation et les <operation> mettre </operation> dans la <operation> poêle </operation> pour les faire <operation> dorer </operation> à feu doux ( pour cela , il faut <operation> tourner </operation> et <operation> retourner </operation> les tranches jusqu' à ce qu' elles soient bien dorées en <operation ingredients="beurre"> rajoutant </operation> de temps en temps du <ingredient action="rajouter" quantite="80 gramme"> beurre </ingredient> ) . dans un plat , <operation> déposer </operation> les tranches et <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="20 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> . pour la décoration , <operation ingredients="raisins"> éparpiller </operation> quelques <ingredient action="éparpiller" quantite="30 gramme"> raisins </ingredient> secs sur le plat .
+</preparation>
+</recette>

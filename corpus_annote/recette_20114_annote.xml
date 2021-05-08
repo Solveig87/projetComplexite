@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20114">
+<titre>Salade tiède de pommes de terre au cervelas</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 cervelas</p>
+<p>2 oeufs</p>
+<p>1 kg de pommes de terre</p>
+<p>4 cornichons</p>
+<p>1/2 bouquet de persil</p>
+<p>1 échalote</p>
+<p>5 cl de vin blanc sec</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>1 cuillère à soupe de moutarde</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="1 kilogramme"> pommes </ingredient> de terre à l' eau bouillante <operation> salée </operation> pendant 30 minutes . faites <operation ingredients="oeufs"> cuire </operation> les <ingredient action="cuire" quantite="2"> oeufs </ingredient> durs , 10 minutes à l' eau bouillante . faites <operation ingredients="cervelas"> pocher </operation> les <ingredient action="pocher" quantite="2"> cervelas </ingredient> 10 minutes à l' eau bouillante également . <operation> hachez </operation> l' <ingredient quantite="1"> échalote </ingredient> , les <ingredient quantite="4"> cornichons </ingredient> et le <ingredient> persil </ingredient> . <operation ingredients="moutarde;huile;vinaigre;sel;poivre"> mélangez </operation> la <ingredient action="mélanger" quantite="1 cuillère à soupe"> moutarde </ingredient> avec l' <ingredient action="mélanger" quantite="3 cuillère à soupe"> huile </ingredient> , le <ingredient action="mélanger" quantite="2 cuillère à soupe"> vinaigre </ingredient> , du <ingredient action="mélanger" quantite=""> sel </ingredient> et du <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> de terre en rondelles . <operation> arrosez </operation> - les aussitôt de <ingredient quantite="5 cl"> vin </ingredient> blanc . <operation ingredients="oeufs;cervelas"> ajoutez </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> durs <operation> coupés </operation> en quartiers et le <ingredient action="ajouter" quantite="2"> cervelas </ingredient> <operation> pelé </operation> et <operation> coupé </operation> en cubes . <operation ingredients="cornichons"> parsemez </operation> de <ingredient action="parsemer" quantite="4"> cornichons </ingredient> , échalote et persil hachés . <operation> versez </operation> la vinaigrette et <operation> mélangez </operation> délicatement .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26126">
+<titre>Risotto aux cèpes et orange</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>cèpes séchés (250 g) </p>
+<p>riz rond pour risotto (250 g) </p>
+<p>beurre (200 g) </p>
+<p>ail (2 gousses) </p>
+<p>parmesan (60 g) </p>
+<p>sauge (4 cuillères à soupe) </p>
+</ingredients>
+<preparation>
+laisser <operation ingredients="cèpes"> tremper </operation> les <ingredient action="tremper" quantite=""> cèpes </ingredient> dans un litre d' eau chaude pendant une demi-heure . <operation ingredients="cèpes"> retirer </operation> les <ingredient action="retirer" quantite=""> cèpes </ingredient> de l' eau et garder le liquide . <operation ingredients="cèpes"> rincer </operation> les <ingredient action="rincer" quantite=""> cèpes </ingredient> dans de l' eau froide pour <operation> enlever </operation> les saletés . <operation> couper </operation> en morceaux . <operation> râper </operation> le zeste des <ingredient action="presser"> oranges </ingredient> , <operation ingredients="oranges;oranges"> presser </operation> les <ingredient action="presser"> oranges </ingredient> pour obtenir le <ingredient> jus </ingredient> , et <operation> mélanger </operation> avec le zeste dans un bol . <operation ingredients="ail"> peler </operation> et <operation> couper </operation> finement l' <ingredient action="peler" quantite=""> ail </ingredient> . <operation ingredients="parmesan"> râper </operation> le <ingredient action="râper" quantite=""> parmesan </ingredient> . <operation ingredients="cèpes"> passer </operation> le liquide des <ingredient action="passer" quantite=""> cèpes </ingredient> et faire <operation> chauffer </operation> à feu doux . <operation> assaisonner </operation> . faire <operation ingredients="beurre"> fondre </operation> la moitié du <ingredient action="fondre"> beurre </ingredient> dans une grande casserole , <operation ingredients="ail;cèpes"> ajouter </operation> l' <ingredient action="ajouter" quantite=""> ail </ingredient> et les <ingredient action="ajouter" quantite=""> cèpes </ingredient> , et faire <operation> revenir </operation> pendant 3 mn . <operation ingredients="riz;riz"> ajouter </operation> le <ingredient action="ajouter" quantite=""> riz </ingredient> et <operation> remuer </operation> jusqu' à ce que le <ingredient action="ajouter" quantite=""> riz </ingredient> soit transparent . <operation ingredients="cèpes"> ajouter </operation> ensuite petit à petit le liquide des <ingredient action="ajouter" quantite=""> cèpes </ingredient> jusqu' à ce que le <ingredient action="cuire" quantite=""> riz </ingredient> soit <operation ingredients="riz"> cuit </operation> , à peu près 20 mn . <operation> retirer </operation> du feu et <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' orange , le reste du <ingredient> beurre </ingredient> et la moitié du <ingredient quantite=""> parmesan </ingredient> . et servir avec le reste du <ingredient quantite=""> parmesan </ingredient> . vin blanc
+</preparation>
+</recette>

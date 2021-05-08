@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="73519">
+<titre>Gougère à l'andouillette</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>pâte à choux</p>
+<p>25 cl d'eau</p>
+<p>60 g de beurre</p>
+<p>sel et poivre</p>
+<p>120 g de farine</p>
+<p>4 oeufs</p>
+<p>1 andouillette (300 g)</p>
+<p>3 bonne cuillères à soupe de moutarde</p>
+<p>1 gros oignon</p>
+</ingredients>
+<preparation>
+pour la garniture , faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> <operation ingredients="huile"> coupé </operation> en lamelles dans un petit peu d' <ingredient action="couper"> huile </ingredient> d' olive . <operation ingredients="andouillette;moutarde"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> andouillette </ingredient> <operation> coupée </operation> en morceaux , puis la <ingredient action="ajouter"> moutarde </ingredient> . bien faire <operation> cuire </operation> le tout . <operation> réserver </operation> . pour la <ingredient action="frémir" quantite=""> pâte </ingredient> à choux , faire <operation ingredients="pâte"> frémir </operation> l' eau dans une casserole . <operation ingredients="sel;farine"> ajouter </operation> <ingredient action="ajouter" quantite=""> sel </ingredient> et poivre puis la <ingredient action="ajouter" quantite="120 gramme"> farine </ingredient> d' un seul coup . <operation> retirer </operation> du feu et bien <operation> mélanger </operation> jusqu' à obtenir une <ingredient quantite=""> pâte </ingredient> . <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="4"> oeufs </ingredient> un par un , bien <operation> mélanger </operation> . <operation ingredients="pâte"> ajouter </operation> la garniture à la <ingredient action="ajouter" quantite=""> pâte </ingredient> , <operation> remélanger </operation> le tout . <operation> former </operation> des petits tas avec 2 cuillères à soupe sur une <operation> plaque </operation> à four . <operation> enfourner </operation> à 180 <operation> ° </operation> , thermostat 6 , pendant 25 à 30 min . ideal avec une <ingredient> salade </ingredient>
+</preparation>
+</recette>

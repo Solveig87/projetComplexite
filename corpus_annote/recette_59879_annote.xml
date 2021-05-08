@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59879">
+<titre>Hamburger végétarien à la pomme de terre</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 galette de pomme de terre (type rostis)</p>
+<p>1 tranche de fromage à hamburger</p>
+<p>1 pain a hamburger</p>
+<p>un peu de reblochon (ou fromage à raclette)</p>
+<p>fromage râpé</p>
+<p>moutarde</p>
+<p>ketchup</p>
+<p>cornichon</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="galette;huile"> cuire </operation> à la <operation> poêle </operation> la <ingredient action="cuire" quantite="1"> galette </ingredient> de pomme de terre dans un peu d' <ingredient action="cuire"> huile </ingredient> . <operation ingredients="pain"> ouvrir </operation> le <ingredient action="ouvrir" quantite="1"> pain </ingredient> a hamburger , y étaler de la <ingredient quantite=""> moutarde </ingredient> et du <ingredient quantite=""> ketchup </ingredient> , <operation ingredients="fromage;galette"> déposer </operation> une tranche de <ingredient action="déposer" quantite="1 tranche"> fromage </ingredient> à hamburger , puis la <ingredient action="déposer" quantite="1"> galette </ingredient> de pomme de terre . <operation> rajouter </operation> le roblochon et <operation> passer </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 5 minutes . pendant ce temps , <operation ingredients="moutarde;ketchup;fromage"> mettre </operation> de la <ingredient action="mettre" quantite=""> moutarde </ingredient> , du <ingredient action="mettre" quantite=""> ketchup </ingredient> et le <ingredient action="mettre" quantite="1 tranche"> fromage </ingredient> rapé sur le chapeau . le <operation ingredients="hamburger"> poser </operation> à côté du <ingredient action="poser"> hamburger </ingredient> , côté bombé en dessous . au bout de 2 / 3 minutes , sortir le <ingredient> hamburger </ingredient> , metre quelques morceaux de <ingredient quantite=""> cornichons </ingredient> sur le <ingredient quantite="1 tranche"> fromage </ingredient> <operation> fondu </operation> , <operation> mettre </operation> le chapeau par dessus et déguster avec une <ingredient> salade </ingredient> verte !
+</preparation>
+</recette>

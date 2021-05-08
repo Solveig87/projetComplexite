@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11025">
+<titre>Croustillant cerises-chocolat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de cerises dénoyautées (fraîches ou en conserves)</p>
+<p>3 gouttes d'amande amère</p>
+<p>300 g de carrés frais</p>
+<p>70 g de sucre</p>
+<p>2 oeufs</p>
+<p>80 g de chocolat</p>
+<p>1 rouleau de pâte brisée ou sablée</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> poser </operation> la <ingredient action="poser"> pâte </ingredient> dans un plat à tarte en marquant bien les angles . <operation ingredients="carrés;amande;sucre"> travailler </operation> les <ingredient action="travailler"> carrés </ingredient> frais à la fourchette pour les <operation> assouplir </operation> puis <operation ingredients="oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oeufs </ingredient> , l' <ingredient action="travailler"> amande </ingredient> amère et le <ingredient action="travailler" quantite="70 gramme"> sucre </ingredient> . <operation ingredients="chocolat"> concasser </operation> au robot le <ingredient action="concasser" quantite="80 gramme"> chocolat </ingredient> puis <operation ingredients="crème"> ajouter </operation> les morceaux obtenus à la <ingredient action="ajouter"> crème </ingredient> . <operation ingredients="pâte"> etaler </operation> sur la <ingredient action="etaler"> pâte </ingredient> . <operation ingredients="cerises"> répartir </operation> les <ingredient action="répartir" quantite="200 gramme"> cerises </ingredient> et les <operation ingredients="crème"> enfoncer </operation> légèrement sur la <ingredient action="enfoncer"> crème </ingredient> aux pépites . <operation> enfourner </operation> dans le four préchauffé à 180 <operation> ° </operation> c ( thermostat 6 ) et faire <operation> cuire </operation> 30 min . déguster tiède ( le <ingredient quantite="80 gramme"> chocolat </ingredient> est <operation ingredients="chocolat"> fondant </operation> ) ou froid ( le <ingredient action="fondre" quantite="80 gramme"> chocolat </ingredient> est croquant )
+</preparation>
+</recette>

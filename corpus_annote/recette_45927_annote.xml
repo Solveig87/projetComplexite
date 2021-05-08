@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="45927">
+<titre>Crème vénitienne au citron</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>1 zeste de citron</p>
+<p>80 g de sucre</p>
+<p>4 oeufs</p>
+<p>40 de farine ou maïzena</p>
+<p>sucre glace</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait;sucre;citron"> bouillir </operation> le <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> avec le <ingredient action="bouillir" quantite="80 gramme"> sucre </ingredient> et le zeste de <ingredient action="bouillir"> citron </ingredient> , laisser complétement refroidir puis <operation> retirer </operation> le zeste . <operation ingredients="oeufs"> séparer </operation> les blancs des jaunes d' <ingredient action="séparer" quantite="4"> oeufs </ingredient> . <operation ingredients="farine"> mélanger </operation> les jaunes avec la <ingredient action="mélanger" quantite="40"> farine </ingredient> puis <operation ingredients="lait"> délayer </operation> progressivement avec le <ingredient action="délayer" quantite="50 cl"> lait </ingredient> parfumé . <operation> remettre </operation> sur feu doux jusqu' à ce que la préparation épaississe . <operation ingredients="oeuf;sel"> battre </operation> les blancs d' <ingredient action="battre" quantite="4"> oeuf </ingredient> en neige ferme avec une pincée de <ingredient action="battre"> sel </ingredient> , <operation ingredients="crème"> verser </operation> la <ingredient action="verser"> crème </ingredient> encore chaude sur les blancs <operation> battus </operation> puis <operation> verser </operation> la préparation dans un plat allant au four . <operation ingredients="sucre;glace"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="80 gramme"> sucre </ingredient> <ingredient action="saupoudrer"> glace </ingredient> et <operation> passer </operation> quelques minutes sous le grill du four bien rouge jusqu' à ce que le dessus caramélise . servir frais . vous pouvez aromatiser la <ingredient> crème </ingredient> de base avec de la vanille ou des zestes d' <ingredient> orange </ingredient> ou ce qu' il vous plaira mais le <ingredient> citron </ingredient> reste le meilleur ! délicieux à la fin d' un repas italien ( pizza ou <ingredient> pâtes </ingredient> au pesto )
+</preparation>
+</recette>

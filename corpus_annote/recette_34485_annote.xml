@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34485">
+<titre>La soupe d'halloween</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pâtisson</p>
+<p>1 potimarron</p>
+<p>3 oignons</p>
+<p>1 cuillère à soupe de gingembre</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel et poivre (5 baies de préférence) </p>
+</ingredients>
+<preparation>
+<operation> couper </operation> et <operation ingredients="pâtisson;potimarron"> vider </operation> le <ingredient action="vider" quantite="1"> pâtisson </ingredient> et le <ingredient action="vider" quantite="1"> potimarron </ingredient> . les <operation> éplucher </operation> puis les <operation> couper </operation> les petits cubes . <operation> eplucher </operation> les <ingredient quantite="3"> oignons </ingredient> et les <operation> couper </operation> en lamelles . <operation> mettre </operation> le tout dans une grande marmite et faire <operation> revenir </operation> 5 mn sur le feu en <operation ingredients="huile;gingembre;sel;poivre"> ajoutant </operation> l' <ingredient action="ajouter" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et le <ingredient action="ajouter" quantite="1 cuillère à soupe"> gingembre </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> ajouter </operation> de l' eau jusqu' à ce que les trois quarts des <ingredient action="immerger" quantite="1;1;3;1 cuillère à soupe"> légumes </ingredient> soient <operation ingredients="légumes"> immergés </operation> dans l' eau . laisser <operation> cuire </operation> à feu moyen pendant 20 mn environ . <operation> passer </operation> au mixeur puis servir .
+</preparation>
+</recette>

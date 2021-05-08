@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28600">
+<titre>Hotobagya Palacsinta (Crêpes Hongroises)</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 à 5 crêpes natures</p>
+<p>500 g de porc haché</p>
+<p>1 oignon</p>
+<p>1 ou 2 tomates</p>
+<p>un poivron rouge</p>
+<p>40 cl de crème fraîche</p>
+<p>paprika</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon"> revenir </operation> l’ <ingredient action="revenir" quantite="1"> oignon </ingredient> à la <operation> poêle </operation> . <operation> ajouter </operation> une cuillère à soupe de paprika . <operation ingredients="tomates;poivron"> ajouter </operation> les <ingredient action="ajouter" quantite="1"> tomates </ingredient> et le <ingredient action="ajouter"> poivron </ingredient> <operation> coupés </operation> en morceaux . laisser <operation> mijoter </operation> . <operation ingredients="porc"> ajouter </operation> le <ingredient action="ajouter" quantite="500 gramme"> porc </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="crêpe"> remplir </operation> chaque <ingredient action="remplir" quantite="4"> crêpe </ingredient> du <operation> mélange </operation> ( sans <operation> mettre </operation> trop de sauce ) en <operation> formant </operation> des aumônières et les <operation> placer </operation> dans un plat assez creux allant au four . au besoin , utiliser des cure - dents pour les maintenir en <operation> place </operation> . <operation> recouvrir </operation> du reste de sauce et faire <operation> cuire </operation> 20 mn à four chaud . c’ est une amie hongroise qui m’ a fait <operation> découvrir </operation> ce plat , qui depuis a eu un vif succès dans ma famille et auprès de nos invités . la présentation surprend mais c’ est délicieux !
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26846">
+<titre>Concombre à la crème de thon</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 gros concombre</p>
+<p>300 g de thon à l’huile</p>
+<p>75 g de beurre ramolli</p>
+<p>1 citron vert</p>
+<p>2 cornichons</p>
+<p>2 blancs d’oeuf durs</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> , <operation ingredients="concombre"> découper </operation> le <ingredient action="découper" quantite="1"> concombre </ingredient> en 2 dans le sens de la longueur puis lui <operation> ôter </operation> ses graines . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter" quantite="300 gramme"> thon </ingredient> puis le <operation ingredients="jus;sel;poivre"> passer </operation> au mixeur avec le <ingredient action="passer"> jus </ingredient> de citron vert , le <ingredient action="passer" quantite=""> sel </ingredient> et le <ingredient action="passer" quantite=""> poivre </ingredient> . <operation ingredients="thon"> verser </operation> la purée de <ingredient action="verser" quantite="300 gramme"> thon </ingredient> dans un saladier et <operation> réserver </operation> . <operation ingredients="cornichons;oeufs"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> cornichons </ingredient> et les blancs d' <ingredient action="ajouter"> oeufs </ingredient> <operation> hachés </operation> . <operation ingredients="concombre"> farcir </operation> le <ingredient action="farcir" quantite="1"> concombre </ingredient> de ce <operation> mélange </operation> et <operation> mettre </operation> au frais durant 30 minutes .
+</preparation>
+</recette>

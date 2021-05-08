@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22837">
+<titre>Daube de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 kg de boeuf (gîte ou morceau à bourguignon)</p>
+<p>500 g de belles tomates</p>
+<p>500 g d'oignons</p>
+<p>3 gousses d'ail</p>
+<p>1 couenne de lard</p>
+<p>1 bouquet garni</p>
+<p>75 cl de vin rouge type Côtes-du-rhône</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> détailler </operation> la <ingredient action="détailler" quantite="2 kilogramme"> viande </ingredient> en dés et la faire <operation ingredients="bouquet;sel;poivre;vin"> mariner </operation> dans un saladier avec le <ingredient action="mariner" quantite="1"> bouquet </ingredient> <operation> garni </operation> , du <ingredient action="mariner" quantite=""> sel </ingredient> , du <ingredient action="mariner"> poivre </ingredient> et le <ingredient action="mariner" quantite="75 cl"> vin </ingredient> rouge pendant une nuit . <operation> assaisonner </operation> . le lendemain , <operation ingredients="viande;oignons"> remplir </operation> une cocotte d' un morceau de couenne , d' une couche de <ingredient action="remplir" quantite="2 kilogramme"> viande </ingredient> <operation> égouttée </operation> et d' une couche d' <ingredient action="remplir" quantite="500 gramme"> oignons </ingredient> <operation> émincés </operation> . continuer l' opération jusqu' à ce que la cocotte soit <operation> remplie </operation> . <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="500 gramme"> tomates </ingredient> <operation> coupées </operation> en dés , le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> et l' <ingredient> ail </ingredient> . <operation> arroser </operation> d' un peu de marinade <operation> tamisée </operation> . puis <operation> porter </operation> à <operation> ébullition </operation> et laisser <operation> mijoter </operation> pendant 4 h à feu doux . servir avec des <ingredient> pâtes </ingredient> fraîches ou de la purée à l' <ingredient> huile </ingredient> d' olive et au <ingredient> thym </ingredient> .
+</preparation>
+</recette>

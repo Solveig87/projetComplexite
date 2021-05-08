@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="15331">
+<titre>Soufflé de boudin blanc à la banane</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 bananes</p>
+<p>5 boudins blancs</p>
+<p>3 oeufs</p>
+<p>20 cl de crème liquide</p>
+<p>30 g de beurre</p>
+<p>1/2 cuillère à café de mélange 4 épices</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> , faire <operation ingredients="bananes"> dorer </operation> les rondelles de 2 boudins et de 2 <ingredient action="dorer" quantite="5"> bananes </ingredient> . <operation ingredients="bananes;crème;oeufs;épices"> mixer </operation> les autres boudins et <ingredient action="mixer" quantite="5"> bananes </ingredient> , la <ingredient action="mixer" quantite="20 cl"> crème </ingredient> , les <ingredient action="mixer" quantite="3"> oeufs </ingredient> , les <ingredient action="mixer" quantite=""> épices </ingredient> . faire <operation> chauffer </operation> un bain - marie ( au four , à 190 <operation> ° </operation> c ) . dans des ramequins beurrés , <operation ingredients="bananes;banane"> disposer </operation> alternativement : couche de rondelles de boudin , préparation <operation> mixée </operation> , rondelles de <ingredient action="disposer" quantite="5"> bananes </ingredient> , rondelles boudin , préparation , rondelles de <ingredient action="disposer" quantite="5"> banane </ingredient> . <operation> cuire </operation> au bain - marie à 190 <operation> ° </operation> c , jusqu' à ce que la préparation se tienne et soit dorée .
+</preparation>
+</recette>

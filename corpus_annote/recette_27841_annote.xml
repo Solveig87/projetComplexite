@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27841">
+<titre>Gâteau en 2 temps aux quetsches</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>Pour la pâte :</p>
+<p>500 g de quetsches</p>
+<p>60 g de farine</p>
+<p>1 pincée de sel</p>
+<p>50 g de sucre en poudre</p>
+<p>5 cl de lait</p>
+<p>2 cuillères à soupe d'huile</p>
+<p>1 œuf</p>
+<p>5 g de levure chimique</p>
+<p>Pour la garniture :</p>
+<p>1 œuf</p>
+<p>50 g de sucre en poudre</p>
+<p>80 g de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;sel"> tamiser </operation> la <ingredient action="tamiser" quantite="60 gramme"> farine </ingredient> et le <ingredient action="tamiser" quantite="1 pincée"> sel </ingredient> . <operation ingredients="sucre;lait;huile;œuf"> mélanger </operation> avec le <ingredient action="mélanger" quantite="50 gramme+50 gramme"> sucre </ingredient> , le <ingredient action="mélanger" quantite="5 cl"> lait </ingredient> , l' <ingredient action="mélanger" quantite="2 cuillère à soupe"> huile </ingredient> et 1 <ingredient action="mélanger" quantite="1+1"> œuf </ingredient> . <operation ingredients="levure"> ajouter </operation> la <ingredient action="ajouter" quantite="5 gramme"> levure </ingredient> , <operation> mélanger </operation> pour obtenir une <ingredient> pâte </ingredient> homogène . <operation ingredients="pâte"> verser </operation> la <ingredient action="verser"> pâte </ingredient> dans un <operation> moule </operation> beurré de sorte que la <ingredient> pâte </ingredient> n' arrive qu' au deux tiers du <operation> moule </operation> . faire <operation> cuire </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 15 min . pendant ce temps , <operation ingredients="quetsches"> laver </operation> et <operation> dénoyauter </operation> les <ingredient action="laver" quantite="500 gramme"> quetsches </ingredient> . <operation ingredients="fruits;pâte"> déposer </operation> les <ingredient action="déposer" quantite="500 gramme"> fruits </ingredient> sur la <ingredient action="déposer"> pâte </ingredient> à demi-cuite . <operation ingredients="œuf;sucre;beurre"> battre </operation> 1 <ingredient action="battre" quantite="1+1"> œuf </ingredient> avec le <ingredient action="battre" quantite="50 gramme+50 gramme"> sucre </ingredient> et le <ingredient action="battre" quantite="80 gramme"> beurre </ingredient> <operation> fondu </operation> , <operation ingredients="fruits"> verser </operation> sur les <ingredient action="verser" quantite="500 gramme"> fruits </ingredient> . <operation ingredients="gâteau"> remettre </operation> le <ingredient action="remettre"> gâteau </ingredient> au four et laisser <operation> cuire </operation> 20 min .
+</preparation>
+</recette>

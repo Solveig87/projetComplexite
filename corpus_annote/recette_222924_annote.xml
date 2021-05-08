@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="222924">
+<titre>Crème de chou-fleur et poivron</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 chou-fleur </p>
+<p>4 poivrons rouges</p>
+<p>4 pommes de terre</p>
+<p>2 oignons</p>
+<p>2 cuillères à soupe de beurre</p>
+<p>3 l d'eau</p>
+<p>2 cubes de bouillon de poule</p>
+<p>4 cuillères à soupe de mascarpone</p>
+<p>sel</p>
+<p>poivre </p>
+<p>persil</p>
+</ingredients>
+<preparation>
+<operation ingredients="légumes"> laver </operation> les <ingredient action="laver" quantite="1;4;2"> légumes </ingredient> , <operation ingredients="poivrons"> retirer </operation> les pépins des <ingredient action="retirer"> poivrons </ingredient> et <operation ingredients="mascarpone"> cuire </operation> le tout sans le <ingredient action="cuire" quantite="4 cuillère à soupe"> mascarpone </ingredient> . <operation> mixer </operation> . <operation ingredients="mascarpone"> ajouter </operation> le <ingredient action="ajouter" quantite="4 cuillère à soupe"> mascarpone </ingredient> et bien <operation> délayer </operation> à la cuillère .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="34297">
+<titre>Mousse au caramel</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de sucre</p>
+<p>180 g de crème fleurette</p>
+<p>3 jaunes d'oeufs</p>
+<p>3 feuilles de gélatine</p>
+<p>350 g de crème fleurette supplémentaires</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="sucre"> cuire </operation> 100 g de <ingredient action="cuire" quantite="125 gramme"> sucre </ingredient> jusqu' à caramélisation . faire <operation ingredients="crème"> bouillir </operation> la <ingredient action="bouillir" quantite="180 gramme+350 gramme"> crème </ingredient> , <operation> mélanger </operation> au caramel pour le rendre plus souple . <operation ingredients="sucre"> battre </operation> les jaunes avec 25 g de <ingredient action="battre" quantite="125 gramme"> sucre </ingredient> et <operation ingredients="crème"> verser </operation> dans la <ingredient action="verser" quantite="180 gramme+350 gramme"> crème </ingredient> au caramel , faire <operation> cuire </operation> doucement . faire <operation ingredients="gélatine"> ramollir </operation> les feuilles de <ingredient action="ramollir" quantite="3 feuille"> gélatine </ingredient> dans de l' eau et les <operation> égoutter </operation> avant de les <operation> ajouter </operation> à la préparation . laissez refroidir . <operation ingredients="crème"> monter </operation> les 350 g de <ingredient action="monter" quantite="180 gramme+350 gramme"> crème </ingredient> fleurette jusqu' à fermeté puis la <operation> mélanger </operation> à la préparation au caramel . laisser prendre au frigo . pour avoir une <ingredient> mousse </ingredient> encore plus aérée , je <operation ingredients="oeufs"> rajoute </operation> les 3 blancs d' <ingredient action="rajoute"> oeufs </ingredient> <operation> battus </operation> en neige .
+</preparation>
+</recette>

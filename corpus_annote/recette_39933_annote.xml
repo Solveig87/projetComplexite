@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39933">
+<titre>Ramequins surprise façon parmentier</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>de la purée (maison ou en sachet)</p>
+<p>1 grosse tomate</p>
+<p>2 tranches de jambon ou blancs de poulet, dinde...</p>
+<p>4 oeufs</p>
+<p>du gruyère</p>
+</ingredients>
+<preparation>
+faire la purée et la <operation> répartir </operation> dans les ramequins . <operation ingredients="tomate"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> en dés et la <operation> répartir </operation> sur la purée . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="2 tranche"> jambon </ingredient> en carré et le <operation ingredients="tomate"> mettre </operation> sur la <ingredient action="mettre" quantite="1"> tomate </ingredient> . faire un petit puit sur le dessus et casser un <ingredient quantite="4"> oeuf </ingredient> dans chaque ramequins de façon à ce que le jaune se trouve au milieu dans le puit . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> et faire <operation> gratiner </operation> au four à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 10 minutes .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="164893">
+<titre>Tarte steak haché courgettes</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 steaks hachés</p>
+<p>1 courgette</p>
+<p>1 oignon</p>
+<p>1 tomate</p>
+<p>3 oeufs</p>
+<p>20cl de crème liquide</p>
+<p>1 pate feuilletée</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+. faites <operation ingredients="steaks;oignon;huile"> revenir </operation> les <ingredient action="revenir" quantite="4"> steaks </ingredient> haché émietté et l' <ingredient action="revenir" quantite="1"> oignon </ingredient> émincé dans un peu d' <ingredient action="revenir"> huile </ingredient> .. pendant ce temps <operation ingredients="tomate"> coupez </operation> la courgette et la <ingredient action="couper" quantite="1"> tomate </ingredient> en petits dés .. <operation> ajoutez </operation> aux steaks haché . laissez <operation> revenir </operation> ensemble pendant environ 2 minutes .. <operation ingredients="oeufs"> battez </operation> à la fourchette les <ingredient action="battre" quantite="3"> oeufs </ingredient> <operation ingredients="crème"> ajoutez </operation> y la <ingredient action="ajouter" quantite="20cl"> crème </ingredient> <operation> salez </operation> et <operation> poivrez </operation> selon votre gout .. <operation> retirez </operation> du feu et <operation ingredients="oeufs"> ajoutez </operation> les <ingredient action="ajouter" quantite="3"> oeufs </ingredient> à la préparation .. <operation> mettre </operation> le tout dans le plat contenant la pate feuilletée .. <operation> mettre </operation> au four a 220 <operation> degrés </operation> pendant 30 minutes environ . vous pouvez <operation> rajoutez </operation> des herbes de provence et une cuillère de sauce <ingredient quantite="4"> steak </ingredient> et grill .
+</preparation>
+</recette>

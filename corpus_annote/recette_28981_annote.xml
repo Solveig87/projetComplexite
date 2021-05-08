@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28981">
+<titre>Riz au thon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de riz</p>
+<p>2 boîtes de thon au naturel</p>
+<p>1 brique (20 cl) de coulis de tomate</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="300 gramme"> riz </ingredient> environ 20 mn selon les marques . l' <operation ingredients="thon"> égoutter </operation> , le <operation> remettre </operation> dans la casserole à feu doux , <operation ingredients="tomate"> ajouter </operation> le coulis de <ingredient action="ajouter"> tomate </ingredient> ainsi que le <ingredient action="égoutter"> thon </ingredient> <operation> égoutté </operation> et émietté , <operation> salez </operation> , <operation> poivrez </operation> et dégustez ! recette facile à <operation ingredients="non"> préparer </operation> , <ingredient action="préparer" quantite="2;1"> non </ingredient> grasse et peu coûteuse , que demander de plus !
+</preparation>
+</recette>

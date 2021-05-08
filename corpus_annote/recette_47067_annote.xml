@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="47067">
+<titre>Panna Cotta Pistache</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>25 cl de crème fraîche liquide</p>
+<p>15 cl de lait demi-écrémé</p>
+<p>2 cuillères à soupe de sucre roux</p>
+<p>1 feuille et demi de gélatine</p>
+<p>20 g de pâte de pistache</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pistache;sucre;crème;lait"> chauffer </operation> ensemble la <ingredient action="chauffer"> pistache </ingredient> , le <ingredient action="chauffer" quantite="2 cuillère à soupe"> sucre </ingredient> , la <ingredient action="chauffer" quantite="25 cl"> crème </ingredient> et le <ingredient action="chauffer" quantite="15 cl"> lait </ingredient> en <operation> remuant </operation> bien pour <operation ingredients="pâte"> dissoudre </operation> la <ingredient action="dissoudre" quantite="20 gramme"> pâte </ingredient> de pistache . a la première bulle , arrêter le feu , et laisser <operation> tiédir </operation> . la préparation doit avoir pris une belle couleur verte . en même temps , <operation ingredients="gélatine"> mettre </operation> la <ingredient action="mettre" quantite="1 feuille"> gélatine </ingredient> à <operation> ramollir </operation> dans de l' eau froide . <operation ingredients="gélatine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 feuille"> gélatine </ingredient> <operation> ramollie </operation> au <operation> mélange </operation> et <operation> fouetter </operation> énergiquement . <operation> mettre </operation> à refroidir dans des verrines ( 6 petites avec mes proportions ) . je conseille de servir ce <ingredient quantite="25 cl;2 cuillère à soupe;20 gramme"> dessert </ingredient> avec un coulis de <ingredient> framboise </ingredient> pour bien relever le goût de la <ingredient> pistache </ingredient> .
+</preparation>
+</recette>

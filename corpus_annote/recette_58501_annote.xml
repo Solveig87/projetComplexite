@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="58501">
+<titre>Hachis parmentier à la méridionale</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de viande hachée de préférence du boeuf</p>
+<p>2 oignons</p>
+<p>1/2 boîte de tomates pelées</p>
+<p>2 gousses d'ail</p>
+<p>thym, estragon</p>
+<p>persil haché</p>
+<p>1 kg de pommes de terre</p>
+<p>1 verre de lait</p>
+<p>40 g de beurre</p>
+<p>150 g de fromage râpé</p>
+<p>huile d'olive</p>
+<p>sel et poivre du moulin</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="tomates"> fondre </operation> pendant une dizaines de minutes les <ingredient action="fondre"> tomates </ingredient> , les <ingredient action="hacher" quantite="2"> oignons </ingredient> <operation> hachés </operation> , les <ingredient action="hacher" quantite="2"> gousses </ingredient> d' ail <operation> pressées </operation> , <ingredient action="hacher" quantite=""> thym </ingredient> , estragon et le <ingredient action="hacher" quantite=""> persil </ingredient> <operation ingredients="oignons;gousses;thym;persil;huile"> haché </operation> dans une <operation> poêle </operation> avec un filet d' <ingredient action="hacher" quantite=""> huile </ingredient> d' olive . quand le coulis devient onctueux , <operation ingredients="viande"> incorporer </operation> la <ingredient action="incorporer" quantite="500 gramme"> viande </ingredient> , <operation> saler </operation> , <operation> poivrer </operation> . laisser <operation> cuire </operation> 10 minutes environ . <operation> préparer </operation> la purée comme vous en avez l' habitude et préchauffer votre four à 200 <operation> ° </operation> c ( thermostat . 7 ) . dans le fond d' un plat allant au four , <operation ingredients="viande"> placer </operation> la <ingredient action="placer" quantite="500 gramme"> viande </ingredient> , recouvrer de purée , <operation ingredients="fromage"> soupoudrer </operation> d' un peu de <ingredient action="soupoudrer" quantite="150 gramme"> fromage </ingredient> râpé et <operation ingredients="beurre"> poser </operation> sur celui-ci de fines lamelles de <ingredient action="poser" quantite="40 gramme"> beurre </ingredient> pour faire <operation> dorer </operation> . <operation> mettre </operation> le plat au four pendant une vingtaines de minutes . ce plat peut également se <operation ingredients="viandes"> préparer </operation> avec des restes de <ingredient action="préparer" quantite="500 gramme"> viandes </ingredient> déjà <operation> cuites </operation> !
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="212783">
+<titre>Saumon au curry et lentilles du Puy</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>100 g de lentilles du Puy</p>
+<p>100 g de haricots verts</p>
+<p>1 poivron rouge</p>
+<p>300 g de saumon</p>
+<p>20 cl de lait de coco</p>
+<p>10 g de pâte de curry</p>
+<p>Coriandre fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lentilles"> cuire </operation> les <ingredient action="cuire" quantite="100 gramme"> lentilles </ingredient> 15 à 20 min dans l' eau bouillante . <operation ingredients="haricots"> couper </operation> les <ingredient action="couper" quantite="100 gramme"> haricots </ingredient> verts en deux et les faire <operation> cuire </operation> à la vapeur . pendant ce temps , faire <operation ingredients="poivron"> revenir </operation> à la <operation> poêle </operation> quelques minutes le <ingredient action="revenir"> poivron </ingredient> <operation> coupé </operation> en dés . <operation ingredients="saumon"> ajouter </operation> le <ingredient action="ajouter" quantite="300 gramme"> saumon </ingredient> et le laisser <operation> dorer </operation> quelques minutes . <operation ingredients="pâte;lait"> ajouter </operation> la <ingredient action="ajouter" quantite="10 gramme"> pâte </ingredient> de curry puis le <ingredient action="ajouter" quantite="20 cl"> lait </ingredient> de coco . <operation ingredients="saumon"> laisser </operation> <operation> mijoter </operation> jusqu' à ce que le <ingredient action="laisser" quantite="300 gramme"> saumon </ingredient> soit cuit ( 10 min environ ) . <operation ingredients="lentilles;haricots"> ajouter </operation> alors les <ingredient action="ajouter" quantite="100 gramme"> lentilles </ingredient> et les <ingredient action="ajouter" quantite="100 gramme"> haricots </ingredient> verts . <operation> enlever </operation> du feu et <operation ingredients="coriandre"> ajouter </operation> quelques feuilles de <ingredient action="ajouter" quantite=""> coriandre </ingredient> fraîche . servir avec du <ingredient> riz </ingredient> basmati .
+</preparation>
+</recette>

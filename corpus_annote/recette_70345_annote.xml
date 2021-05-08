@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="70345">
+<titre>Saint-Jacques au vinaigre de framboise</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>6 noix de St Jacques</p>
+<p>2 cuillères à soupe de crème fraîche</p>
+<p>1 cuillère à soupe de vinaigre de framboise</p>
+<p>1 cuillère à café de moutarde</p>
+<p>sel/poivre</p>
+<p>une noix de beurre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="crème"> chauffer </operation> la <ingredient action="chauffer" quantite="2 cuillère à soupe"> crème </ingredient> fraîche à feu doux . pendant ce temps , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> dans une <operation> poêle </operation> , y faire <operation> revenir </operation> les st jacques rapidement . trop longtemps , elles deviendraient caoutchouteuses . dans la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> fraîche , <operation ingredients="crème;moutarde;vinaigre"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> moutarde </ingredient> puis le <ingredient action="ajouter" quantite="1 cuillère à soupe"> vinaigre </ingredient> de framboise . <operation> salez </operation> - <operation> poivrez </operation> . au dernier moment , <operation ingredients="crème"> versez </operation> le <operation> mélange </operation> de <ingredient action="verser" quantite="2 cuillère à soupe"> crème </ingredient> sur les st jacques . servir chaud . il est possible de <operation ingredients="thym"> rajouter </operation> quelques herbes selon votre goût , du <ingredient action="rajouter"> thym </ingredient> par exemple . ce plat peut être servi seul en entrée ou en plat principal , <operation ingredients="tagliatelles"> accompagné </operation> de <ingredient action="accompagner"> tagliatelles </ingredient> fraîches par exemple . riesling
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="33998">
+<titre>Saumon aux oignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 darnes de saumon</p>
+<p>1 oignon</p>
+<p>15 cl de vin blanc</p>
+<p>15 cl de fumet de poisson (2 cuillers à café dans 15 cl d'eau) </p>
+<p>1 citron</p>
+<p>huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;citron"> arroser </operation> le <ingredient action="arroser"> saumon </ingredient> avec la moitié du <ingredient action="arroser" quantite="1"> citron </ingredient> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> et le faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive , <operation ingredients="vin"> rajouter </operation> le <ingredient action="rajouter" quantite="15 cl"> vin </ingredient> blanc et <operation> porter </operation> à <operation> ébullition </operation> , laisser <operation> mijoter </operation> 1 mn à feu moyen . ensuite <operation ingredients="poisson"> verser </operation> le fumet de <ingredient action="verser"> poisson </ingredient> et <operation ingredients="citron"> presser </operation> le reste du <ingredient action="presser" quantite="1"> citron </ingredient> <operation> porter </operation> encore à <operation> ébullition </operation> . <operation ingredients="saumon"> déposer </operation> immédiatement le <ingredient action="déposer"> saumon </ingredient> afin de le faire <operation> cuire </operation> à feu moyen , voilà bon appétit . . .
+</preparation>
+</recette>

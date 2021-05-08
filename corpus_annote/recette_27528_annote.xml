@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="27528">
+<titre>Salade ensoleillée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>140 g de maïs</p>
+<p>70 g de petits pois</p>
+<p>2 oeufs durs</p>
+<p>1 orange</p>
+<p>65 g d'olives farcies au piment</p>
+<p>2 tomates</p>
+<p>1 poivron rouge</p>
+<p>2 échalotes</p>
+<p>4 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+<operation ingredients="maïs;pois"> egoutter </operation> le <ingredient action="egoutter" quantite="140 gramme"> maïs </ingredient> et les petits <ingredient action="egoutter" quantite="70 gramme"> pois </ingredient> . <operation ingredients="oeufs;tomates"> couper </operation> les <ingredient action="couper" quantite="2"> oeufs </ingredient> durs en quartiers et les <ingredient action="couper" quantite="2"> tomates </ingredient> en rondelles . <operation ingredients="échalotes"> ciseler </operation> les <ingredient action="ciseler" quantite="2"> échalotes </ingredient> et <operation ingredients="poivrons"> enlever </operation> les pépins des <ingredient action="enlever"> poivrons </ingredient> avant de les <operation> découper </operation> en fines lamelles . <operation ingredients="orange"> peler </operation> l' <ingredient action="peler" quantite="1"> orange </ingredient> et la <operation> couper </operation> en rondelles . <operation> placer </operation> le tout dans un saladier et <operation> mélanger </operation> . dans un bol , <operation ingredients="huile;vinaigre"> mélanger </operation> l' <ingredient action="mélanger" quantite="4 cuillère à soupe"> huile </ingredient> et le <ingredient action="mélanger" quantite="1 cuillère à soupe"> vinaigre </ingredient> . <operation> assaisonner </operation> la sauce et la <operation ingredients="salade"> mélanger </operation> à la <ingredient action="mélanger"> salade </ingredient> .
+</preparation>
+</recette>

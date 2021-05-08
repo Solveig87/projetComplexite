@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29406">
+<titre>Pain perdu à la cassonade</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>16 petites tranches de pain de mie ou 8 grandes</p>
+<p>5 oeufs</p>
+<p>1 sachet de sucre vanillé</p>
+<p>100 g de beurre</p>
+<p>10 cl de lait</p>
+<p>de la cassonade</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeufs;lait;sucre"> battez </operation> les <ingredient action="battre" quantite="5"> oeufs </ingredient> avec le <ingredient action="battre" quantite="10 cl"> lait </ingredient> et le <ingredient action="battre"> sucre </ingredient> vanillé . <operation ingredients="pain;oeufs"> retirez </operation> les croûtes des tranches de <ingredient action="retirer"> pain </ingredient> et <operation> trempez </operation> ces tranches dans la préparation aux <ingredient action="retirer" quantite="5"> oeufs </ingredient> . faites <operation ingredients="pain"> dorer </operation> les tranches de <ingredient action="dorer"> pain </ingredient> <operation ingredients="beurre"> imbibées </operation> dans le <ingredient action="imbiber" quantite="100 gramme"> beurre </ingredient> chaud puis <operation ingredients="cassonade"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> cassonade </ingredient> avant de servir . variante : utilisez du <ingredient> pain </ingredient> aux raisins .
+</preparation>
+</recette>

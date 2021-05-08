@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="62651">
+<titre>Poulet aux légumes et épices tandoori</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>1 petit poivron vert</p>
+<p>1 petit poivron jaune</p>
+<p>1 oignon</p>
+<p>4 tomates</p>
+<p>1 sachet d'épices pour tandoori</p>
+<p>1 cube de bouillon de poule</p>
+<p>ail</p>
+<p>sel, poivre</p>
+<p>herbes de provence</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> couper </operation> l' <ingredient action="couper" quantite="1"> oignon </ingredient> en lamelles . faire <operation ingredients="huile"> chauffer </operation> une casserole avec un peu d' <ingredient action="chauffer"> huile </ingredient> d' olive , y <operation ingredients="oignons"> faire </operation> <operation> cuire </operation> les <ingredient action="faire" quantite="1"> oignons </ingredient> . <operation ingredients="poulet;légumes"> découper </operation> les blancs de <ingredient action="découper"> poulet </ingredient> et les <ingredient action="découper" quantite="1+1;1;4"> légumes </ingredient> en petits morceaux . <operation> ajouter </operation> le tout dans la casserole . laisser <operation> cuire </operation> jusqu' à ce que les <ingredient action="réduire" quantite="4"> tomates </ingredient> soient <operation ingredients="tomates"> réduites </operation> en purée . <operation ingredients="épices"> ajouter </operation> les <ingredient action="ajouter" quantite=";;"> épices </ingredient> , bien <operation> remuer </operation> . <operation ingredients="bouillon"> ajouter </operation> un peu d' eau avec le <ingredient action="ajouter"> bouillon </ingredient> de poule . laisser <operation> mijoter </operation> jusqu' à ce que le <ingredient action="cuire"> poulet </ingredient> soit <operation ingredients="poulet;jus"> cuit </operation> et le <ingredient action="cuire"> jus </ingredient> réduit . très facile à <operation> préparer </operation> , à servir avec du <ingredient> riz </ingredient> blanc . <ingredient> montbazillac </ingredient> ou rosé
+</preparation>
+</recette>

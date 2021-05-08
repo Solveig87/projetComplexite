@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225358">
+<titre>Salade de boeuf sauté</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 à 150 g de viande de boeuf en tranches fines</p>
+<p>1/2 oignon</p>
+<p>2 cm de gingembre frais</p>
+<p>1 cuillère à café d'huile d'olive</p>
+<p>1 cuillère à café de sauce soja</p>
+<p>1 cuillère à café de piment en poudre</p>
+<p>mâche, roquette, mesclun</p>
+</ingredients>
+<preparation>
+<operation> emincer </operation> l' <ingredient> oignon </ingredient> et le <ingredient> gingembre </ingredient> . <operation ingredients="viande"> détailler </operation> la <ingredient action="détailler"> viande </ingredient> en fines lamelles dans une <operation> poêle </operation> sur feu vif , faire <operation ingredients="oignon;soja"> revenir </operation> <ingredient action="revenir"> oignon </ingredient> + gingembre dans huile d' olive + sauce <ingredient action="revenir"> soja </ingredient> pendant 2 minutes . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter"> viande </ingredient> , <operation> saupoudrer </operation> du piment , poursuivre la cuisson 3 à 5 minutes en <operation> remuant </operation> régulièrement servir aussitôt sur un lit de <ingredient> salade </ingredient> .
+</preparation>
+</recette>

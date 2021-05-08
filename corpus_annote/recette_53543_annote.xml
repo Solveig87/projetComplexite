@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53543">
+<titre>Velouté de champignons ultra simple</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de champignons</p>
+<p>2 gros oignons</p>
+<p>1 branche de persil ou deux pincés de persil lyophilisé</p>
+<p>1 gousse d'ail</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 cube de bouillon de poule</p>
+</ingredients>
+<preparation>
+<operation ingredients="champignons;oignons"> couper </operation> les <ingredient action="couper" quantite="250 gramme"> champignons </ingredient> et les <ingredient action="couper" quantite="2"> oignons </ingredient> très finement . <operation ingredients="huile"> mettre </operation> de l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive dans une <operation> poêle </operation> et y faire <operation ingredients="oignons;champignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> et les <ingredient action="revenir" quantite="250 gramme"> champignons </ingredient> à feu moyen . <operation ingredients="ail"> rajouter </operation> l' <ingredient action="rajouter"> ail </ingredient> haché . laisser <operation> cuire </operation> 15 à 20 minutes afin que tout soit tendre . <operation ingredients="bouillon"> ajouter </operation> de l' eau et le <ingredient action="ajouter"> bouillon </ingredient> cube puis <operation> porter </operation> à <operation> ébullition </operation> . <operation> mettre </operation> tout dans le bol du <operation> mixer </operation> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à soupe"> crème </ingredient> et <operation> mixer </operation> . c' est prêt , bon appétit !
+</preparation>
+</recette>

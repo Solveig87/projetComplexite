@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="3371">
+<titre>Carré frais d'avocat</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 avocats</p>
+<p>crevettes fraîches</p>
+<p>8 portion de Carré Frais</p>
+<p>1 citron</p>
+<p>1 sauce au yaourt et fines herbes</p>
+</ingredients>
+<preparation>
+<operation ingredients="avocats"> couper </operation> les <ingredient action="couper" quantite="2"> avocats </ingredient> en 2 . <operation ingredients="chair;melon"> confectionner </operation> des boules avec la <ingredient action="confectionner"> chair </ingredient> d' avocat ( avec le même ustensile que pour les boules de <ingredient action="confectionner"> melon </ingredient> ) . citronner les boules . <operation ingredients="carrés"> couper </operation> les <ingredient action="couper"> carrés </ingredient> frais en petits cubes . <operation> mettre </operation> le tout dans des <operation> coupes </operation> à glace . <operation ingredients="crevettes"> décorer </operation> avec les <ingredient action="décorer" quantite=""> crevettes </ingredient> fraîches . et déguster avec la sauce au <ingredient quantite="1"> yaourt </ingredient> et fines herbes , c' est délicieux !
+</preparation>
+</recette>

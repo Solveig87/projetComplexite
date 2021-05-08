@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="176095">
+<titre>Chaussons au poulet curry et pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pâtes feuilletées</p>
+<p>2 filets de poulet</p>
+<p>8 pommes de terre de taille moyenne</p>
+<p>1 cuillère à soupe de curry</p>
+<p>1 cuillère à soupe de persil</p>
+<p>1 demi oignon</p>
+<p>ail</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> bouillir </operation> les <ingredient action="bouillir" quantite="8"> pommes </ingredient> de terre et les <operation> éplucher </operation> . <operation ingredients="pommes;oignon;ail;sel;poivre"> mixer </operation> les <ingredient action="mixer" quantite="8"> pommes </ingredient> de terre avec le demi <ingredient action="mixer" quantite="1mi"> oignon </ingredient> , l' <ingredient action="mixer" quantite=""> ail </ingredient> , le <ingredient action="mixer" quantite=""> sel </ingredient> et le <ingredient action="mixer" quantite=""> poivre </ingredient> . <operation> mixer </operation> les filets crus . <operation ingredients="curry"> mélanger </operation> avec le <ingredient action="mélanger" quantite="1 cuillère à soupe"> curry </ingredient> et faire <operation> cuire </operation> puis <operation> mixer </operation> de nouveau . <operation> mélanger </operation> les 2 préparations ensemble . <operation ingredients="pâtes"> couper </operation> les <ingredient action="couper" quantite="2"> pâtes </ingredient> feuilletées en 2 pour <operation ingredients="chausson"> faire </operation> 4 <ingredient action="faire"> chausson </ingredient> . y <operation> mettre </operation> la préparation . <operation> refermer </operation> et <operation ingredients="œuf"> mettre </operation> du jaune d' <ingredient action="mettre"> œuf </ingredient> sur le dessus . <operation> enfourner </operation> à 200 <operation> ° </operation> c ( thermostat . 7 ) pendant 20 minutes .
+</preparation>
+</recette>

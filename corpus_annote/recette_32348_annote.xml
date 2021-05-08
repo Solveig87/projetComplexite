@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="32348">
+<titre>Courgettes carbonara 'régime'</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de courgettes</p>
+<p>1 talon de jambon moyen</p>
+<p>5 cuillères à soupe de crème fraîche à 5 % matière grasse</p>
+<p>sel, poivre</p>
+<p>1 sauteuse anti-adhésive</p>
+</ingredients>
+<preparation>
+faire <operation> cuire </operation> les courgettes à l' eau ou à la vapeur . pendant ce temps , faire <operation ingredients="matière;jambon"> revenir </operation> sans <ingredient action="revenir"> matière </ingredient> grasse le talon de <ingredient action="revenir"> jambon </ingredient> <operation> coupé </operation> en dés . <operation ingredients="crème;sel;poivre"> ajouter </operation> la <ingredient action="ajouter" quantite="5 cuillère à soupe"> crème </ingredient> fraîche , le <ingredient action="ajouter" quantite=""> sel </ingredient> , le <ingredient action="ajouter" quantite=""> poivre </ingredient> . <operation> remuer </operation> pendant 2 mn . <operation> ajouter </operation> les courgettes <operation> égouttées </operation> , <operation> remuer </operation> pour bien <operation> mélanger </operation> . laisser <operation ingredients="crème"> cuire </operation> à <operation> couvert </operation> jusqu' à absorption de la <ingredient action="cuire" quantite="5 cuillère à soupe"> crème </ingredient> fraîche par les courgettes . plat pauvre en calories , consistant grâce aux courgettes . peut se <operation> préparer </operation> à l' avance et se réchauffe très facilement au micro-ondes .
+</preparation>
+</recette>

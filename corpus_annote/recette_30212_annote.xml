@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30212">
+<titre>La Flammenkuche de Rémi</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pâte à pizza de Rémi (sur ce site)</p>
+<p>2 beaux oignons</p>
+<p>300 g de lardons fumés</p>
+<p>40 cl de crème (semi-épaisse de préférence)</p>
+<p>1,5 cl de vin blanc de cuisine</p>
+<p>fromage (gruyère, emmental, comté...)</p>
+</ingredients>
+<preparation>
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> . <operation ingredients="oignons"> couper </operation> finement les <ingredient action="couper"> oignons </ingredient> . faire <operation ingredients="lardons"> blondir </operation> les <ingredient action="blondir"> lardons </ingredient> dans une <operation> poêle </operation> , <operation ingredients="oignons;vin"> ajouter </operation> les <ingredient action="ajouter"> oignons </ingredient> ainsi que le <ingredient action="ajouter" quantite="1,5 cl"> vin </ingredient> blanc et laisser <operation> réduire </operation> . <operation ingredients="pâte;crème"> badigeonner </operation> la <ingredient action="badigeonner" quantite="1"> pâte </ingredient> à pizza de <ingredient action="badigeonner" quantite="40 cl"> crème </ingredient> , la <operation> poivrer </operation> . y <operation ingredients="oignons"> déposer </operation> la préparation <operation> lardons </operation> + <ingredient action="déposer"> oignons </ingredient> + vin blanc ; bien <operation> répartir </operation> partout . <operation ingredients="fromage"> recouvrir </operation> de <ingredient action="recouvrir" quantite=""> fromage </ingredient> la surface du plat . <operation> enfourner </operation> à four chaud ( 200 <operation> ° </operation> c / th . 7 minimum ) . je vous conseille de réaliser ce plat sur une <operation> plaque </operation> de four ( carrée ou rectangulaire ) plutôt que dans un <operation> moule </operation> <ingredient> rond </ingredient> . vous pouvez aussi , comme moi assez souvent , <operation ingredients="fromage;lardons"> faire </operation> des adaptations pour le <ingredient action="faire" quantite=""> fromage </ingredient> ou les <ingredient action="faire"> lardons </ingredient> . bière ( alsacienne ou allemande )
+</preparation>
+</recette>

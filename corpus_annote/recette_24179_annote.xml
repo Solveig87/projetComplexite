@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24179">
+<titre>Salade artichaut asperge foie gras</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>6 fonds d'artichauts cuits</p>
+<p>36 pointes d'asperges</p>
+<p>225 g de foie gras (frais ou en conserve)</p>
+<p>2 cuillères à soupe de vinaigre de Xérès</p>
+<p>6 cuillères à soupe d'huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="artichauts"> emincez </operation> les <ingredient action="emincez"> artichauts </ingredient> en lamelles . faites <operation ingredients="asperges"> cuire </operation> les pointes d' <ingredient action="cuire"> asperges </ingredient> 8 minutes dans l' eau frémissante <operation> salée </operation> , <operation> égouttez </operation> - les et rafraîchissez - les sous un filet d' eau froide . <operation ingredients="huile;vinaigre;poivre"> emulsionnez </operation> l' <ingredient action="emulsionner" quantite="6 cuillère à soupe"> huile </ingredient> avec le <ingredient action="emulsionner" quantite="2 cuillère à soupe"> vinaigre </ingredient> , du selet du <ingredient action="emulsionner"> poivre </ingredient> . <operation ingredients="légumes"> passez </operation> les <ingredient action="passer"> légumes </ingredient> dans la vinaigrette et <operation> disposez </operation> - les sur les assiettes . <operation ingredients="foie"> déposez </operation> le <ingredient action="déposer" quantite="225 gramme"> foie </ingredient> gras <operation> coupé </operation> en lamelles dessus .
+</preparation>
+</recette>

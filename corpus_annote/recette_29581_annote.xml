@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="29581">
+<titre>Salade de quinoa</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 verre de quinoa</p>
+<p>1/2 concombre</p>
+<p>2 tomates</p>
+<p>20 feuilles de menthe</p>
+<p>1 échalote</p>
+<p>huile d'olive</p>
+<p>jus de citron</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="quinoa"> cuire </operation> le <ingredient action="cuire" quantite="1 verre"> quinoa </ingredient> 15 minutes dans l' eau bouillante . une fois <operation> cuit </operation> , refroidissez - le en le rincant a l' eau froide et laissez - le s' <operation> égoutter </operation> dans une passoire . pendant que le <ingredient action="rincer" quantite="1 verre"> quinoa </ingredient> cuit , <operation ingredients="quinoa;tomates"> rincez </operation> les <ingredient action="rincer" quantite="2"> tomates </ingredient> , <operation ingredients="jus"> retirez </operation> les pépins et le <ingredient action="retirer" quantite=""> jus </ingredient> qui s' en écoule et <operation> coupez </operation> les <ingredient quantite="2"> tomates </ingredient> en tous petits cubes . <operation> epluchez </operation> le demi-concombre , <operation> enlevez </operation> les graines et <operation> coupez </operation> - le , lui aussi , en tous petits dés . <operation ingredients="menthe;échalote"> coupez </operation> très finement la <ingredient action="couper" quantite="20 feuille"> menthe </ingredient> et l' <ingredient action="couper" quantite="1"> échalote </ingredient> . <operation ingredients="légumes;quinoa"> mélangez </operation> tous les <ingredient action="mélanger" quantite="1;2;1"> légumes </ingredient> avec le <ingredient action="mélanger" quantite="1 verre"> quinoa </ingredient> froid . <operation ingredients="jus;sel;huile"> assaisonnez </operation> avec du <ingredient action="assaisonner" quantite=""> jus </ingredient> de citron , du <ingredient action="assaisonner" quantite=""> sel </ingredient> et de l' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive ! ca ressemble a du taboulé , mais c' est beaucoup plus léger , et vraiment plus original ! ! ca croustille ! ! ! un <ingredient> vin </ingredient> blanc
+</preparation>
+</recette>

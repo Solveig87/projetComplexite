@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11185">
+<titre>Muffins à la rhubarbe</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de farine</p>
+<p>1 cuillère à soupe de poudre à pâte</p>
+<p>1 pincée de sel</p>
+<p>100 g de sucre</p>
+<p>100 g de cassonade</p>
+<p>12 cl d’huile</p>
+<p>3 œufs</p>
+<p>25 cl de lait</p>
+<p>2 cuillères à café d’essence d’amande</p>
+<p>100 g de rhubarbe (ou de fraises) en morceaux</p>
+</ingredients>
+<preparation>
+dans un bol , <operation ingredients="farine;pâte;sel"> tamiser </operation> la <ingredient action="tamiser" quantite="300 gramme"> farine </ingredient> avec la <operation> poudre </operation> a <ingredient action="tamiser"> pâte </ingredient> et le <ingredient action="tamiser" quantite="1 pincée"> sel </ingredient> . <operation ingredients="sucre;cassonade"> incorporer </operation> le <ingredient action="incorporer" quantite="100 gramme"> sucre </ingredient> et la <ingredient action="incorporer" quantite="100 gramme"> cassonade </ingredient> . dans un autre bol , <operation ingredients="huile"> mélanger </operation> l’ <ingredient action="mélanger"> huile </ingredient> , les <ingredient quantite="3"> œufs </ingredient> , le <ingredient quantite="25 cl"> lait </ingredient> , l’ essence d’ <ingredient> amande </ingredient> . <operation> ajouter </operation> aux ingrédients secs . <operation ingredients="rhubarbe;fraises"> incorporer </operation> la <ingredient action="incorporer" quantite="100 gramme"> rhubarbe </ingredient> ou les <ingredient action="incorporer"> fraises </ingredient> . <operation> verser </operation> dans 12 <operation> moules </operation> à muffins [ cela devrait dépasser des bords des <operation> moules </operation> , car ce sont de très gros muffins]. <operation> cuire </operation> au four préchauffé à 400 <operation> ° </operation> f [ 200 <operation> ° </operation> c ] , pendant 20 minutes . ( recette valable également avec des <ingredient> fraises </ingredient> )
+</preparation>
+</recette>

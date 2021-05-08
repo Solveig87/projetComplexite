@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223537">
+<titre>Rôti de veau à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>600 g de rôti de veau</p>
+<p>4 tranches épaisses de lard fumé </p>
+<p>240 g de tomates pelées au jus </p>
+<p>3 gousses d'ail</p>
+<p>25 cl de vin blanc </p>
+<p>1 cuillère à café d'origan</p>
+<p>1 pincée de romarin</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousse"> pelez </operation> 1 <ingredient action="peler" quantite="3"> gousse </ingredient> d' ail et <operation ingredients="rôti"> piquez </operation> le <ingredient action="piquer" quantite="600 gramme"> rôti </ingredient> , <operation> salez </operation> et <operation> poivrez </operation> . dans une cocotte , faites <operation ingredients="huile;lard"> chauffer </operation> un peu d' <ingredient action="chauffer"> huile </ingredient> d' olive et faire <operation ingredients="rôti"> dorer </operation> le <ingredient action="dorer" quantite="600 gramme"> rôti </ingredient> et le <ingredient action="chauffer"> lard </ingredient> . <operation ingredients="viande"> retirez </operation> la <ingredient action="retirer" quantite="600 gramme"> viande </ingredient> et <operation ingredients="vin"> déglacer </operation> au <ingredient action="déglacer" quantite="25 cl"> vin </ingredient> blanc . faites <operation> réduire </operation> en <operation> grattant </operation> les sucs . <operation ingredients="gousses"> ajoutez </operation> les 2 <ingredient action="ajouter" quantite="3"> gousses </ingredient> d' ail <ingredient action="peler" quantite="4 tranche;1 pincée"> non </ingredient> <operation ingredients="non"> pelées </operation> . <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper" quantite="240 gramme"> tomates </ingredient> en dés et <operation> ajoutez </operation> - les à la préparation avec leur <ingredient> jus </ingredient> . <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre" quantite="600 gramme"> viande </ingredient> . <operation ingredients="origan"> saupoudrez </operation> d' <ingredient action="saupoudrer" quantite="1 cuillère à café"> origan </ingredient> et de romarin . <operation> couvrez </operation> et laisser <operation> cuire </operation> 30 min environ . servez avec des <ingredient> pâtes </ingredient> .
+</preparation>
+</recette>

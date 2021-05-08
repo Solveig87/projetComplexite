@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24564">
+<titre>Salade flamande aux légumes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de choux de Bruxelles</p>
+<p>200 g de haricots verts</p>
+<p>200 g de haricots rouges cuits</p>
+<p>200 g de jeunes carottes émincées en rondelles</p>
+<p>200 g de petites pommes de terre en rondelles</p>
+<p>1 céléri rave</p>
+<p>1 pomme</p>
+<p>sel, poivre</p>
+<p>9 cuillères à soupe d'huile</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>2 cuillères à soupe de mayonnaise</p>
+<p>1 pincée de paprika</p>
+<p>fines herbes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="légumes;haricots"> cuire </operation> tous les <ingredient action="cuire" quantite="200 gramme;200 gramme;200 gramme;200 gramme+1"> légumes </ingredient> séparément à la vapeur sauf les <ingredient action="cuire" quantite="200 gramme"> haricots </ingredient> rouges pendant environ 10 à 15 min . faire <operation ingredients="céleri"> blanchir </operation> 5 min à l' eau bouillante vinaigrée , le <ingredient action="blanchir"> céleri </ingredient> - rave râpé . dans un saladier , <operation ingredients="sel;mayonnaise"> préparer </operation> la sauce avec <ingredient action="préparer" quantite=""> sel </ingredient> , poivre , paprika , huile , vinaigre , fines herbes et <ingredient action="préparer" quantite="2 cuillère à soupe"> mayonnaise </ingredient> . <operation ingredients="légumes"> mélanger </operation> tous les <ingredient action="mélanger" quantite="200 gramme;200 gramme;200 gramme;200 gramme+1"> légumes </ingredient> chauds à la sauce . <operation ingredients="pomme"> ajouter </operation> la <ingredient action="ajouter" quantite="200 gramme+1"> pomme </ingredient> <operation> coupée </operation> en dés et servir aussitôt .
+</preparation>
+</recette>

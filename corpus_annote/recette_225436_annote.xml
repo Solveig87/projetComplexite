@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="225436">
+<titre>Escalope de dinde au miel et aux abricots</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 tranches de dinde</p>
+<p>sel, poivre</p>
+<p>1 cuillère à soupe de miel ferme</p>
+<p>2 cuillères à soupe de pignons</p>
+<p>20 g de beurre</p>
+<p>Pour la sauce au miel :</p>
+<p>2 cuillères à soupe de miel ferme</p>
+<p>20 cl de bouillon de poule</p>
+<p>2 cuillères à soupe de sauce soja</p>
+<p>8 abricots secs ou 4 abricots frais coupés en 2</p>
+<p>20 g de beurre</p>
+</ingredients>
+<preparation>
+commencer par <operation ingredients="pignons"> rôtir </operation> légèrement les <ingredient action="rôtir" quantite="2 cuillère à soupe"> pignons </ingredient> dans une <operation> poêle </operation> . les <operation> réserver </operation> . <operation ingredients="dinde;sel"> assaisonner </operation> les tranches de <ingredient action="assaisonner" quantite="4 tranche"> dinde </ingredient> des 2 côtés avec <ingredient action="assaisonner" quantite=""> sel </ingredient> et poivre . <operation ingredients="miel"> badigeonner </operation> un côté avec le <ingredient action="badigeonner" quantite="1 cuillère à soupe+2 cuillère à soupe"> miel </ingredient> . <operation ingredients="beurre"> fondre </operation> un peu de <ingredient action="fondre" quantite="20 gramme+20 gramme"> beurre </ingredient> dans la <operation> poêle </operation> . <operation action="rôtir" ingredients="rôtir;miel;miel"> rôtir </operation> la viande d' abord du côté sans <ingredient action="rôtir" quantite="1 cuillère à soupe+2 cuillère à soupe"> miel </ingredient> , puis . 3 minutes du côté avec le <ingredient action="rôtir" quantite="1 cuillère à soupe+2 cuillère à soupe"> miel </ingredient> . sortir de la <operation> poêle </operation> , garder au chaud . absorber le gras avec un papier absorbant , et <operation ingredients="bouillon"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite="20 cl"> bouillon </ingredient> de poule . <operation ingredients="miel;soja"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe+2 cuillère à soupe"> miel </ingredient> et la sauce <ingredient action="ajouter"> soja </ingredient> . faire <operation> fondre </operation> , <operation> goûter </operation> . <operation ingredients="abricots"> ajouter </operation> les <ingredient action="ajouter"> abricots </ingredient> , laisser <operation> frémir </operation> . 3 minutes . <operation ingredients="beurre"> ajouter </operation> un peu de <ingredient action="ajouter" quantite="20 gramme+20 gramme"> beurre </ingredient> à la sauce , <operation> remuer </operation> . <operation ingredients="viande"> verser </operation> la sauce sur la <ingredient action="verser" quantite="4 tranche"> viande </ingredient> , <operation ingredients="pignons;abricots"> garnir </operation> de <ingredient action="garnir" quantite="2 cuillère à soupe"> pignons </ingredient> et des <ingredient action="garnir"> abricots </ingredient> .
+</preparation>
+</recette>

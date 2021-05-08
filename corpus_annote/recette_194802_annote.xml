@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="194802">
+<titre>Echine de porc aux lentilles</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 échine de porc (ou 1 palette, ou 1 rouelle)</p>
+<p>1 oignon piqué de 3 clous de girofles</p>
+<p>25 cl de vin blanc sec</p>
+<p>50 cl de bouillon de volaille</p>
+<p>1 bouquet garni</p>
+<p>30 g de beurre</p>
+<p>400 g de lentilles</p>
+<p>sel</p>
+<p>poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="porc;beurre"> revenir </operation> le <ingredient action="revenir"> porc </ingredient> dans une cocotte avec le <ingredient action="revenir" quantite="30 gramme"> beurre </ingredient> . quand il est bien doré , l' <operation> assaisonner </operation> , puis <operation ingredients="oignon"> ajouter </operation> dans le cocotte l' <ingredient action="ajouter" quantite="1"> oignon </ingredient> , le <ingredient quantite="25 cl"> vin </ingredient> blanc , le <ingredient quantite="50 cl"> bouillon </ingredient> et le <ingredient quantite="1"> bouquet </ingredient> <operation> garni </operation> . laisser <operation> mijoter </operation> 40 min puis <operation ingredients="lentilles"> ajouter </operation> les <ingredient action="ajouter" quantite="400 gramme"> lentilles </ingredient> . bien <operation> mélanger </operation> et laisser <operation> mijoter </operation> 20 min à partir de la reprise de l' <operation> ébullition </operation> . les <ingredient quantite="400 gramme"> lentilles </ingredient> doivent absorber une grande partie du liquide de cuisson .
+</preparation>
+</recette>

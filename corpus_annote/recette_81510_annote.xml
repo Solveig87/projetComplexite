@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81510">
+<titre>Mousse au chocolat ultra-simple</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>200 g de chocolat pâtissier</p>
+<p>5 oeufs</p>
+<p>1 pincée de sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="200 gramme"> chocolat </ingredient> au micro-ondes . <operation> séparer </operation> le blancs des jaunes . dans un saladier , <operation ingredients="chocolat"> mélanger </operation> les jaunes avec le <ingredient action="mélanger" quantite="200 gramme"> chocolat </ingredient> <operation> fondu </operation> . <operation ingredients="sel"> monter </operation> les blancs en neige avec une petite pincée de <ingredient action="monter" quantite="1 pincée"> sel </ingredient> . <operation ingredients="chocolat"> incorporer </operation> délicatement les blancs en neige dans le <ingredient action="incorporer" quantite="200 gramme"> chocolat </ingredient> . laisser <operation> reposer </operation> au frigo pendant 2 heures . servir et déguster .
+</preparation>
+</recette>

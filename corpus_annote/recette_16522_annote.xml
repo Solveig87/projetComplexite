@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="16522">
+<titre>Soupe à l'ail</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 gousses d'ail</p>
+<p>1,5 l de bouillon</p>
+<p>4 oeufs</p>
+<p>huile</p>
+<p>sel, poivre</p>
+<p>piment d'Espelette</p>
+<p>thym </p>
+<p>laurier</p>
+<p>4 tranches de pain rassis</p>
+</ingredients>
+<preparation>
+<operation ingredients="gousses"> peler </operation> les <ingredient action="peler" quantite="6"> gousses </ingredient> d' ail et les faire <operation ingredients="huile"> revenir </operation> dans l' <ingredient action="revenir" quantite=""> huile </ingredient> à feu doux jusqu`a ce qu' elles <operation> blondissent </operation> . <operation ingredients="bouillon"> incoporer </operation> le <ingredient action="incoporer" quantite="1,5 l"> bouillon </ingredient> et <operation> porter </operation> à <operation> ébullition </operation> . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="thym"> ajouter </operation> le piment , <ingredient action="ajouter" quantite=""> thym </ingredient> et laurier . laisser <operation> cuire </operation> 30 mn à <operation> couvert </operation> . a la fin de la cuisson , <operation ingredients="oeufs"> incorporer </operation> les <ingredient action="incorporer" quantite="4"> oeufs </ingredient> . les tranches de <ingredient quantite="4 tranche"> pain </ingredient> seront ' aillées ' avant d' ètre <operation ingredients="huile"> passées </operation> dans un <operation> poêle </operation> avec un peu d' <ingredient action="passer" quantite=""> huile </ingredient> . au moment de servir , <operation ingredients="croûtons"> disposer </operation> les <ingredient action="disposer"> croûtons </ingredient> dans une soupière avant d' y <operation> verser </operation> le potage .
+</preparation>
+</recette>

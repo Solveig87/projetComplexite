@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48272">
+<titre>Dorade au lait de coco</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 belles dorades (vidées et écaillées)</p>
+<p>1 gros oignon émincé</p>
+<p>1 boîte de lait de coco 400 ml</p>
+<p>2 cuillères à café de curry</p>
+<p>coriandre fraîche</p>
+<p>sel</p>
+<p>huile d'olive pour le plat</p>
+</ingredients>
+<preparation>
+<operation ingredients="lait;curry"> préparer </operation> le <operation> mélange </operation> <ingredient action="préparer"> lait </ingredient> de coco , oignon <operation> émincé </operation> et <ingredient action="préparer" quantite="2 cuillère à café"> curry </ingredient> . <operation ingredients="dorades"> mettre </operation> les <ingredient action="mettre" quantite="2"> dorades </ingredient> dans un plat <operation> huilé </operation> . " <operation> farcir </operation> " et <operation ingredients="dorades"> recouvrir </operation> les <ingredient action="recouvrir" quantite="2"> dorades </ingredient> avec le <operation> mélange </operation> . <operation> saler </operation> . <operation ingredients="dorades"> enfourner </operation> à four chaud à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 à 30 minutes selon la taille des <ingredient action="enfourner" quantite="2"> dorades </ingredient> . <operation ingredients="coriandre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> coriandre </ingredient> fraîche et servir <operation ingredients="riz"> accompagné </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

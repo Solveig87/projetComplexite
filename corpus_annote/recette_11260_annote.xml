@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11260">
+<titre>Croûte comtoise</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 pain croûté</p>
+<p>50 g de beurre</p>
+<p>450 g de morilles</p>
+<p>100 g de crème</p>
+<p>50 g de comté</p>
+</ingredients>
+<preparation>
+<operation> tailler </operation> sur la longueur , <operation ingredients="pain"> creuser </operation> l' intérieur du <ingredient action="creuser" quantite="1"> pain </ingredient> , <operation ingredients="beurre"> badigeonner </operation> de <ingredient action="badigeonner" quantite="50 gramme"> beurre </ingredient> . faire <operation> griller </operation> au four quelques secondes . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> dans une <operation> poêle </operation> , <operation ingredients="morilles"> ajouter </operation> les <ingredient action="ajouter" quantite="450 gramme"> morilles </ingredient> et faire <operation> dorer </operation> quelques minutes . <operation> retirer </operation> , puis <operation> réserver </operation> . <operation ingredients="crème"> verser </operation> la <ingredient action="verser" quantite="100 gramme"> crème </ingredient> dans la <operation> poêle </operation> et laisser <operation> mijoter </operation> jusqu' à ce qu' elle épaississe . <operation ingredients="crème;morilles"> mélanger </operation> la <ingredient action="mélanger" quantite="100 gramme"> crème </ingredient> et les <ingredient action="mélanger" quantite="450 gramme"> morilles </ingredient> , <operation ingredients="pain"> étendre </operation> dans le <ingredient action="étendre" quantite="1"> pain </ingredient> . <operation ingredients="fromage"> saupoudrer </operation> de <ingredient action="saupoudrer"> fromage </ingredient> <operation> râpé </operation> et faire <operation> gratiner </operation> quelques secondes .
+</preparation>
+</recette>

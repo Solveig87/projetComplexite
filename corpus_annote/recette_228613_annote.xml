@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="228613">
+<titre>Semoule de riz à la vanille</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 l de lait</p>
+<p>90 g de semoule de riz</p>
+<p>1 gousses de vanille</p>
+<p>1 sachet de sucre vanille</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="1 l"> lait </ingredient> jusqu' à <operation> ébullition </operation> . <operation ingredients="gousses"> couper </operation> les <ingredient action="couper" quantite="1"> gousses </ingredient> de vanille dans la longueur et les <operation ingredients="lait;sucre;vanille"> mettre </operation> dans le <ingredient action="mettre" quantite="1 l"> lait </ingredient> ainsi que le <ingredient action="mettre"> sucre </ingredient> <ingredient action="mettre"> vanille </ingredient> . une fois qu' il est chaud , <operation ingredients="gousses"> enlever </operation> les <ingredient action="enlever" quantite="1"> gousses </ingredient> de vanille et <operation ingredients="semoule"> jeter </operation> la <ingredient action="jeter" quantite="90 gramme"> semoule </ingredient> de riz en pluie . faire <operation> cuire </operation> 8 min en <operation> remuant </operation> très régulièrement . <operation> verser </operation> le tout dans les ramequins . conserver le temps que se soit froid puis les <operation> mettre </operation> au frigo . environ 1 heure plus tard vous pouvez déguster !
+</preparation>
+</recette>

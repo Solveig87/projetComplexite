@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="82240">
+<titre>Cocktail chocolat sur sirop de melon</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 cuillères à soupe de sirop de melon </p>
+<p>100 g de chocolat au lait</p>
+<p>1 kiwi</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 oeuf</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;crème"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> avec 1 grande cuillère de <ingredient action="fondre" quantite="1 cuillère à soupe"> crème </ingredient> fraîche <operation ingredients="oeuf"> ajouter </operation> le jaune d' <ingredient action="ajouter" quantite="1"> oeuf </ingredient> et <operation> mélanger </operation> le tout à feu doux jusqu' à ce que le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> soit complètement <operation ingredients="chocolat"> fondu </operation> avec le reste . laisser refroidir 10 minutes . dans un récipient ( ex : verre à champagne ) , <operation ingredients="sirop"> mettre </operation> 2 cuillères de <ingredient action="mettre" quantite="2 cuillère à soupe"> sirop </ingredient> de melon et <operation ingredients="chocolat"> mettre </operation> ensuite le <ingredient action="mettre" quantite="100 gramme"> chocolat </ingredient> <operation ingredients="sirop"> fondu </operation> à l' aide d' une cuillère au-dessus du <ingredient action="fondre" quantite="2 cuillère à soupe"> sirop </ingredient> . <operation ingredients="kiwi"> couper </operation> le <ingredient action="couper" quantite="1"> kiwi </ingredient> en deux . <operation ingredients="kiwi;chocolat"> presser </operation> une moitié du <ingredient action="presser" quantite="1"> kiwi </ingredient> au-dessus du <ingredient action="presser" quantite="100 gramme"> chocolat </ingredient> et <operation> ajouter </operation> les morceaux sur le dessus .
+</preparation>
+</recette>

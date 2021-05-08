@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50977">
+<titre>Emincé de poulet sauce aigre douce</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 escalopes de poulet</p>
+<p>1 orange</p>
+<p>6 cuillères à soupe de ketchup</p>
+<p>3 cuillères à soupe de miel</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>2 ou 3 gousses d'ail</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="escalopes"> emincez </operation> les <ingredient action="emincez" quantite="6"> escalopes </ingredient> de poulet en moyennes lamelles . les faire <operation ingredients="matière;poulet"> revenir </operation> à la <operation> poêle </operation> avec un peu de <ingredient action="revenir"> matière </ingredient> grasse jusqu' à ce que le <ingredient action="revenir"> poulet </ingredient> soit blanc . <operation ingredients="orange;jus"> ajoutez </operation> la moitié de l' <ingredient action="ajouter" quantite="1"> orange </ingredient> en rondelles et l' autre moitié en <ingredient action="ajouter"> jus </ingredient> . <operation ingredients="ketchup;miel;vinaigre;gousses"> incorporez </operation> le <ingredient action="incorporer" quantite="6 cuillère à soupe"> ketchup </ingredient> , le <ingredient action="incorporer" quantite="3 cuillère à soupe"> miel </ingredient> , le <ingredient action="incorporer" quantite="2 cuillère à soupe"> vinaigre </ingredient> et les <ingredient action="incorporer" quantite="2"> gousses </ingredient> d' ail préalablement <operation> hachées </operation> . <operation> salez </operation> , <operation> poivrez </operation> . laissez <operation> mijoter </operation> environ 10 minutes en <operation> remuant </operation> régulièrement . <operation ingredients="riz"> accompagnez </operation> avec du <ingredient action="accompagner"> riz </ingredient> parfumé ou des <ingredient> nouilles </ingredient> chinoises .
+</preparation>
+</recette>

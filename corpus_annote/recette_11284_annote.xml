@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11284">
+<titre>Dinde à la Patate douce</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>6 hauts de cuisses de dinde</p>
+<p>5 tomates</p>
+<p>1 gros oignon</p>
+<p>5 gousses d'ail</p>
+<p>1 pincée de safran</p>
+<p>1 branche de thym</p>
+<p>3 patates douces</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="dinde"> frire </operation> la <ingredient action="frire"> dinde </ingredient> dans une marmite , <operation ingredients="oignons"> mettre </operation> les <ingredient action="mettre" quantite="1"> oignons </ingredient> <operation> émincés </operation> , l' <ingredient action="écraser"> ail </ingredient> <operation ingredients="ail;tomates;patates"> écrasé </operation> , les <ingredient action="écraser" quantite="5"> tomates </ingredient> en morceaux , les <ingredient action="écraser" quantite="3"> patates </ingredient> douces <operation ingredients="safran"> coupées </operation> en tranches et le <ingredient action="couper" quantite="1 pincée"> safran </ingredient> . <operation ingredients="sel;thym"> ajouter </operation> du <ingredient action="ajouter"> sel </ingredient> et du <ingredient action="ajouter"> thym </ingredient> . laisser <operation> mijoter </operation> et <operation> réduire </operation> . plat originaire de l' île de la réunion .
+</preparation>
+</recette>

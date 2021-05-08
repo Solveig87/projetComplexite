@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38087">
+<titre>Crème aux dattes</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>20 grosses dattes (ou 40 petites)</p>
+<p>3/4 litre de lait</p>
+<p>3 cuillères à soupe de farine</p>
+<p>1 gousse de vanille</p>
+<p>1/4 litre d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="dattes"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="20"> dattes </ingredient> et les faire <operation ingredients="lait;gousse"> cuire </operation> dans le <ingredient action="cuire"> lait </ingredient> avec la <ingredient action="cuire" quantite="1"> gousse </ingredient> de vanille pendant 1 / 4 d' heure . <operation ingredients="farine"> délayer </operation> la <ingredient action="délayer" quantite="3 cuillère à soupe"> farine </ingredient> dans l' eau , et l' <operation ingredients="lait"> ajouter </operation> ensuite au <operation> mélange </operation> <ingredient action="ajouter"> lait </ingredient> / dattes . laisser <operation> cuire </operation> 5 minutes , en tournant . <operation> verser </operation> dans les ramequins . servir frais . on peut remplacer le <ingredient> lait </ingredient> de vache par du <ingredient> lait </ingredient> de soja ou du <ingredient> lait </ingredient> d' avoine .
+</preparation>
+</recette>

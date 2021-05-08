@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223271">
+<titre>Ragoût de maman</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de collier de veau</p>
+<p>400 g de collier d'agneau</p>
+<p>400 g de poitrine d'agneau</p>
+<p>3 oignons</p>
+<p>1 kg de pommes de terres</p>
+<p>10 cl de vin blanc</p>
+<p>bouquet garni</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="viande;huile"> revenir </operation> fortement la <ingredient action="revenir" quantite="400 gramme"> viande </ingredient> avec de l' <ingredient action="revenir"> huile </ingredient> d' olive , puis <operation> réserver </operation> . dans l' <operation action="huile" ingredients="huile"> huile </operation> restant dans la cocotte , faire <operation ingredients="oignons"> revenir </operation> les <ingredient action="revenir" quantite="3"> oignons </ingredient> . une fois que ces derniers sont transparents , <operation ingredients="viande"> remettre </operation> la <ingredient action="remettre" quantite="400 gramme"> viande </ingredient> , augmenter le feux sous la casserole , et <operation ingredients="vin"> déglacer </operation> au <ingredient action="déglacer" quantite="10 cl"> vin </ingredient> blanc , en <operation> raclant </operation> bien les sucs . la sauce doit être <ingredient> marron </ingredient> . <operation ingredients="pommes"> ajouter </operation> les <ingredient action="ajouter" quantite="1 kilogramme"> pommes </ingredient> de terre <operation> coupées </operation> en morceaux , <operation> saler </operation> et <operation> poivrer </operation> , <operation ingredients="bouquet"> ajouter </operation> le <ingredient action="ajouter" quantite=""> bouquet </ingredient> <operation> garni </operation> . bien <operation> mélanger </operation> et laisser <operation> mijoter </operation> pendant 1 h 1 / 2 . bon appétit !
+</preparation>
+</recette>

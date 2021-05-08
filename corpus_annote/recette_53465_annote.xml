@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53465">
+<titre>Boeuf bourguignon à la tomate</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de viande à bourguignon (coupé en petits morceaux par le boucher)</p>
+<p>1 l de sauce tomate</p>
+<p>farine</p>
+<p>2 oignons</p>
+<p>2 os à moelle</p>
+<p>huile d'olive</p>
+<p>laurier, thym</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande;huile"> revenir </operation> la <ingredient action="revenir" quantite="1 kilogramme"> viande </ingredient> dans 1 à 2 cuillères d' <ingredient action="revenir" quantite=""> huile </ingredient> d' olive puis <operation ingredients="oignons"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> oignons </ingredient> <operation> émincés </operation> . <operation ingredients="farine"> ajouter </operation> un peu de <ingredient action="ajouter" quantite=""> farine </ingredient> ( de façon à <operation ingredients="viande"> enrober </operation> la <ingredient action="enrober" quantite="1 kilogramme"> viande </ingredient> ) et laisser <operation> dorer </operation> 1 à 2 minutes . <operation> saler </operation> , <operation> poivrer </operation> , <operation ingredients="laurier;thym"> mettre </operation> 3 à 4 feuilles de <ingredient action="mettre" quantite=""> laurier </ingredient> et quelques branches de <ingredient action="mettre" quantite=""> thym </ingredient> . <operation> recouvrir </operation> de sauce tomate . laisser <operation> cuire </operation> à feu doux en cocotte minute 1 heure , en cocotte 2 à 3 heures . 10 minutes avant la fin de la cuisson , <operation> ajouter </operation> les os à moëlle . je sers ce plat avec des <ingredient> tagliatelles </ingredient> fraîches ou des <ingredient> pommes </ingredient> de terre vapeur et une <ingredient> salade </ingredient> verte avec une vinaigrette au balsamique . un bon bourgogne
+</preparation>
+</recette>

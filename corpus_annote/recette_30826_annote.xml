@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30826">
+<titre>Soufflé au homard</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 homard de 500 g</p>
+<p>5 cl de cognac</p>
+<p>10 cl de crème fraîche</p>
+<p>10 cl de sauce Worcestershire</p>
+<p>50 g de beurre</p>
+<p>50 g de farine</p>
+<p>25 cl de lait</p>
+<p>5 oeufs</p>
+<p>50 g de gruyère râpé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="homard"> pocher </operation> le <ingredient action="pocher" quantite="1"> homard </ingredient> dans une casserole d’ eau bouillante pendant 12 min . a froid , le <operation ingredients="chair"> décortiquer </operation> et <operation> découper </operation> la <ingredient action="décortiquer"> chair </ingredient> en gros dés . dans une <operation> poêle </operation> , faire <operation ingredients="noix"> fondre </operation> une <ingredient action="fondre"> noix </ingredient> de beurre et y faire <operation ingredients="homard"> dorer </operation> les dés de <ingredient action="dorer" quantite="1"> homard </ingredient> pendant 3 min . <operation> assaisonner </operation> . <operation ingredients="cognac"> flamber </operation> au <ingredient action="flamber" quantite="5 cl"> cognac </ingredient> et <operation ingredients="crème"> incorporer </operation> la <ingredient action="incorporer" quantite="10 cl"> crème </ingredient> et la sauce worcester . <operation> mélanger </operation> et <operation> porter </operation> à <operation> ébullition </operation> . préchauffer le four à 250 <operation> ° </operation> ( thermostat 8) . dans une casserole , <operation ingredients="lait"> porter </operation> le <ingredient action="porter" quantite="25 cl"> lait </ingredient> à <operation> ébullition </operation> . dans une autre casserole , faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> et <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="50 gramme"> farine </ingredient> en une fois . bien <operation> mélanger </operation> au fouet et faire <operation> cuire </operation> jusqu’ à ce que la préparation épaississe . <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="25 cl"> lait </ingredient> bouillant sur le tout et <operation> mélanger </operation> au fouet . <operation> porter </operation> à <operation> ébullition </operation> et <operation ingredients="œuf;gruyère"> ajouter </operation> les jaunes d' <ingredient action="ajouter"> œuf </ingredient> et le <ingredient action="ajouter" quantite="50 gramme"> gruyère </ingredient> . <operation> monter </operation> les blancs en neige et les <operation> incorporer </operation> délicatement à la sauce . <operation ingredients="chair"> poser </operation> la <ingredient action="poser"> chair </ingredient> de homard dans un <operation> moule </operation> à <operation> soufflé </operation> beurré et <operation> recouvrir </operation> de la sauce . <operation> enfourner </operation> pendant 25 min .
+</preparation>
+</recette>

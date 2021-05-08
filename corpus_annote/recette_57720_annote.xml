@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57720">
+<titre>Andouille feuilletée</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 andouille</p>
+<p>1 rouleau de pâte feuilletée</p>
+<p>Moutarde</p>
+<p>1 salade</p>
+<p>1 oignon</p>
+<p>200 g de lardons</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="andouille;bouillon"> bouillir </operation> l' <ingredient action="bouillir" quantite="1"> andouille </ingredient> 10 min dans un <ingredient action="bouillir"> bouillon </ingredient> ou de l' eau . puis <operation> retirer </operation> la peau et <operation> coupez </operation> de grosses rondelles selon votre goût ( par exemple en 4 ) . <operation ingredients="pâte;moutarde"> coupez </operation> la <ingredient action="couper"> pâte </ingredient> en 4 et la <operation> tartiner </operation> de <ingredient action="couper" quantite=""> moutarde </ingredient> , <operation ingredients="andouille"> placez </operation> l' <ingredient action="placer" quantite="1"> andouille </ingredient> et referemez le tout en aumonière . faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir" quantite="200 gramme"> lardons </ingredient> . <operation> mettre </operation> au four pendant 20 à 30 min ( thermostat 7 ) . servez avec une <ingredient quantite="1"> salade </ingredient> avec les <ingredient quantite="200 gramme"> lardons </ingredient> et l' <ingredient quantite="1"> oignon </ingredient> emincé . prendre une <ingredient quantite="1"> andouille </ingredient> d' aire sur la lys , c' est encore meilleur .
+</preparation>
+</recette>

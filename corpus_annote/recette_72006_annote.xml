@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="72006">
+<titre>Sauté de porc aux pêches jaunes et au miel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de sauté de porc</p>
+<p>8 belles pêches jaunes</p>
+<p>2 oignons</p>
+<p>45 cl de miel</p>
+<p>30 cl de crème liquide</p>
+<p>3 verres de riz</p>
+<p>sel et poivre</p>
+<p>1 filet d'huile</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignons"> couper </operation> les <ingredient action="couper" quantite="2"> oignons </ingredient> en lamelles , les faire <operation ingredients="huile;viande"> revenir </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> avec la <ingredient action="revenir"> viande </ingredient> . pendant ce temps <operation> peler </operation> , <operation> couper </operation> et <operation ingredients="pêches"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="8"> pêches </ingredient> . les <operation> couper </operation> en cubes puis les <operation ingredients="viande"> ajouter </operation> à la <ingredient action="ajouter"> viande </ingredient> une fois cuite . dans une casserole faite <operation> bouillir </operation> de l' eau , y <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="3 verre"> riz </ingredient> pendant 10 à 12 min . <operation ingredients="miel;crème;viande"> ajouter </operation> le <ingredient action="ajouter" quantite="45 cl"> miel </ingredient> et la <ingredient action="ajouter" quantite="30 cl"> crème </ingredient> à la <ingredient action="ajouter"> viande </ingredient> , <operation> remuer </operation> puis laisser <operation> mijoter </operation> pendant 15 min . y' a plus qu' a déguster !
+</preparation>
+</recette>

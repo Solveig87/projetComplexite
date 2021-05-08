@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="171210">
+<titre>Duo de tagliatelles aux crevettes grises</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 paquet de tagliatelles (fraîches ou non)</p>
+<p>3 à 4 carottes (selon la taille)</p>
+<p>1 poignée de crevettes grises</p>
+<p>20 cl de crème liquide</p>
+<p>1 cuillère à soupe de sauce soja</p>
+<p>1 tranche de saumon fumé (facultatif, pour les gourmands !)</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> dans de l' eau durant 3 à 4 min . pendant ce temps , <operation ingredients="carottes;légumes"> épluchez </operation> les <ingredient action="éplucher" quantite="3"> carottes </ingredient> et <operation ingredients="tagliatelles"> faites </operation> -en des <ingredient action="faire"> tagliatelles </ingredient> avec l' épluche <ingredient action="éplucher" quantite="3;20 cl"> légumes </ingredient> . faites les <operation> bouillir </operation> jusqu' à ce qu' elles soient tendres . après la cuisson des <ingredient action="ajouter"> pâtes </ingredient> , <operation ingredients="pâtes;crème;soupe;soja"> ajoutez </operation> la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> et une cuillère a <ingredient action="ajouter"> soupe </ingredient> de sauce <ingredient action="ajouter"> soja </ingredient> . <operation ingredients="crevettes;saumon;fumé"> assaisonnez </operation> et <operation ingredients="carottes"> introduisez </operation> les <ingredient action="introduire" quantite="3"> carottes </ingredient> , les <ingredient action="assaisonner"> crevettes </ingredient> et le <ingredient action="assaisonner"> saumon </ingredient> <ingredient action="assaisonner" quantite="1 tranche"> fumé </ingredient> <operation> coupé </operation> en fines lamelles . bon appétit !
+</preparation>
+</recette>

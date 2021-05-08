@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="66111">
+<titre>Poulet aux poivrons et tomates simplissime</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de poulet</p>
+<p>3 poivrons (jaune, vert, rouge pour colorer le plat)</p>
+<p>1 briquette de coulis de tomate</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="escalopes"> dorer </operation> les <ingredient action="dorer" quantite="4"> escalopes </ingredient> dans un faitout large . dés que celles-ci sont dorées , <operation ingredients="poivrons"> ajouter </operation> les lamelles de <ingredient action="ajouter" quantite="3"> poivrons </ingredient> préalablement <operation> coupées </operation> . laisser <operation> chauffer </operation> à feu moyen jusqu' à ce que les <ingredient quantite="3"> poivrons </ingredient> commencent à <operation> dorer </operation> . y <operation> ajouter </operation> un peu d' eau pour que le plat ne brûle pas . <operation ingredients="tomate"> verser </operation> la briquette de coulis de <ingredient action="verser"> tomate </ingredient> , <operation> poivrer </operation> et <operation> saler </operation> . laisser <operation> mijoter </operation> environ encore 10 min . bonne appétit ! s' <operation ingredients="pâtes;riz;pois"> accompagne </operation> parfaitement avec une frite , des <ingredient action="accompagne"> pâtes </ingredient> , du <ingredient action="accompagne"> riz </ingredient> ou petits <ingredient action="accompagne"> pois </ingredient> .
+</preparation>
+</recette>

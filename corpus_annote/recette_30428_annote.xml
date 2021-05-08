@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30428">
+<titre>Salade de légumes sauce roquefort</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1/2 concombre</p>
+<p>1 boîte de maïs</p>
+<p>1 boîte de petits pois</p>
+<p>1 avocat</p>
+<p>3 tranches de jambon </p>
+<p>5 feuilles de salade</p>
+<p>2 cuillères à soupe de vinaigre</p>
+<p>4 cuillères à soupe d'huile </p>
+<p>75 g de roquefort</p>
+<p>100 g de gruyère</p>
+<p>150 g de crème fraîche</p>
+<p>150 g de fromage blanc</p>
+<p>quelques rondelles de salami</p>
+<p>ciboulette</p>
+<p>sel et poivre </p>
+</ingredients>
+<preparation>
+dans un saladier , <operation ingredients="maïs;pois;jambon;salami;salade;avocat"> mélanger </operation> le <ingredient action="mélanger"> maïs </ingredient> et les petits <ingredient action="mélanger"> pois </ingredient> <operation> égouttés </operation> , le <ingredient action="mélanger" quantite="3 tranche"> jambon </ingredient> <operation> coupé </operation> en morceaux , les rondelles de <ingredient action="mélanger"> salami </ingredient> <operation> coupées </operation> en deux , les feuilles de <ingredient action="mélanger" quantite="5 feuille"> salade </ingredient> hachées , l' <ingredient action="mélanger" quantite="1"> avocat </ingredient> <operation> taillé </operation> en cubes , le <ingredient quantite="100 gramme"> gruyère </ingredient> <operation ingredients="concombre"> coupé </operation> en lamelles et le <ingredient action="couper" quantite="1"> concombre </ingredient> en rondelles . dans un bol , <operation ingredients="fromage;crème"> battre </operation> le <ingredient action="battre" quantite="150 gramme"> fromage </ingredient> blanc avec la <ingredient action="battre" quantite="150 gramme"> crème </ingredient> fraîche , le <ingredient action="émietter" quantite="75 gramme"> roquefort </ingredient> <operation ingredients="roquefort;ciboulette"> émietté </operation> et la <ingredient action="émietter" quantite=""> ciboulette </ingredient> hachée . servir la <ingredient quantite="5 feuille"> salade </ingredient> avec la sauce .
+</preparation>
+</recette>

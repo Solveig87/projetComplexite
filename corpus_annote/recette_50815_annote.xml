@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50815">
+<titre>Cocktail de fruits de mer pour bouchée à la reine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 boite de concentré de tomate</p>
+<p>1 boite de champignons</p>
+<p>1 grosse échalote</p>
+<p>500 g de cocktail de fruits de mer surgelé</p>
+<p>1 l de béchamel</p>
+<p>10 g de beurre</p>
+<p>50 cl de vin blanc</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate;champignons;béchamel"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter"> tomate </ingredient> et les <ingredient action="ajouter"> champignons </ingredient> à la <ingredient action="ajouter" quantite="1 l"> béchamel </ingredient> . pendant ce temps faire <operation ingredients="fruit;beurre"> cuire </operation> le cocktail de <ingredient action="cuire"> fruit </ingredient> de mer dans le <ingredient action="cuire" quantite="10 gramme"> beurre </ingredient> . y <operation ingredients="échalote;sel;poivre"> ajouter </operation> l' <ingredient action="ajouter" quantite="1"> échalote </ingredient> <operation> émincée </operation> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> et <operation ingredients="vin"> versez </operation> doucement le <ingredient action="verser" quantite="50 cl"> vin </ingredient> blanc à fur et à <operation> mesure </operation> . <operation> mélanger </operation> la sauce à la préparation puis en <operation ingredients="saint-jacques"> remplir </operation> des bouchées à la reine ou des coquilles <ingredient action="remplir"> saint-jacques </ingredient> .
+</preparation>
+</recette>

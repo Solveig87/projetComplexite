@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71176">
+<titre>Lapin au paprika</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 lapin en morceaux</p>
+<p>1 oignon</p>
+<p>1 bol de bouillon cube</p>
+<p>paprika</p>
+<p>crème fraîche </p>
+<p>persil</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lapin"> revenir </operation> les morceaux de <ingredient action="revenir" quantite="1"> lapin </ingredient> , <operation> réserver </operation> . faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . <operation ingredients="lapin"> remettre </operation> le <ingredient action="remettre" quantite="1"> lapin </ingredient> . <operation> verser </operation> une cuillère à soupe bombée de <ingredient quantite=""> paprika </ingredient> , bien <operation> mélanger </operation> . <operation ingredients="bouillon"> verser </operation> le <ingredient action="verser"> bouillon </ingredient> cube . <operation> cuire </operation> 45 min à feu doux . au moment de servir , sortir le <ingredient quantite="1"> lapin </ingredient> , faire <operation> réduire </operation> la sauce jusqu' à ce qu' elle épaississe , <operation ingredients="crème"> déglacer </operation> avec la <ingredient action="déglacer" quantite=""> crème </ingredient> fraîche . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite=";"> assaisonnement </ingredient> et <operation ingredients="lapin"> verser </operation> sur le <ingredient action="verser" quantite="1"> lapin </ingredient> . <operation ingredients="persil"> parsemer </operation> de <ingredient action="parsemer" quantite=""> persil </ingredient> . rosé
+</preparation>
+</recette>

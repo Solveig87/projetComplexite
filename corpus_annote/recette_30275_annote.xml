@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30275">
+<titre>Carpaccio de saumon au poivre vert</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de filet de saumon</p>
+<p>6 brins d'aneth</p>
+<p>4 cuillères à soupe d'huile d'olive</p>
+<p>2 cuillères à soupe de poivre vert</p>
+<p>3 citrons verts</p>
+<p>fleur de sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="saumon;couteau"> trancher </operation> le <ingredient action="trancher"> saumon </ingredient> le plus fin possible avec un bon <ingredient action="trancher"> couteau </ingredient> . <operation> huiler </operation> un plat , <operation ingredients="poivre;sel"> saupoudrer </operation> le fond de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> poivre </ingredient> <operation> concassé </operation> , fleur de <ingredient action="saupoudrer"> sel </ingredient> et <operation ingredients="jus;citron"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> d' un <ingredient action="arroser" quantite="3"> citron </ingredient> . <operation ingredients="saumon"> disposer </operation> les tranches de <ingredient action="disposer"> saumon </ingredient> dans le plat en les chevauchant légèrement . <operation ingredients="jus;huile"> arroser </operation> du <ingredient action="arroser"> jus </ingredient> des citrons restants et de l' <ingredient action="arroser" quantite="4 cuillère à soupe"> huile </ingredient> d' olive . <operation ingredients="poivre;aneth;sel"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> poivre </ingredient> <operation> concassé </operation> , <ingredient action="saupoudrer"> aneth </ingredient> <operation> hachée </operation> et fleur de <ingredient action="saupoudrer"> sel </ingredient> <operation> émiettée </operation> . laissez <operation> mariner </operation> 20 minutes et servez avec du <ingredient> pain </ingredient> <operation> grillé </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68379">
+<titre>Salade de chèvres chaud et caramel au beurre salé</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>salade verte</p>
+<p>tomate</p>
+<p>fromages de chèvre</p>
+<p>Crème de caramel au beurre salé</p>
+</ingredients>
+<preparation>
+faire légèrement <operation ingredients="pain"> griller </operation> le <ingredient action="griller"> pain </ingredient> . <operation ingredients="tomates"> couper </operation> les <ingredient action="couper" quantite=""> tomates </ingredient> en rondelles . <operation ingredients="salades;tomates"> déposer </operation> les feuilles de <ingredient action="déposer" quantite=""> salades </ingredient> dans une assiette avec les rondelles de <ingredient action="déposer" quantite=""> tomates </ingredient> . <operation ingredients="fromage"> couper </operation> le <ingredient action="couper" quantite=""> fromage </ingredient> de chèvres en rondelles . les <operation ingredients="pain"> déposer </operation> sur le <ingredient action="déposer"> pain </ingredient> <operation> grillé </operation> . <operation ingredients="fromage"> etaler </operation> un peu de caramel sur le <ingredient action="etaler" quantite=""> fromage </ingredient> . <operation> remettre </operation> au four pour faire <operation ingredients="fromage"> fondre </operation> le <ingredient action="fondre" quantite=""> fromage </ingredient> . <operation ingredients="chèvres;salade"> placer </operation> les <ingredient action="placer"> chèvres </ingredient> chauds sur la <ingredient action="placer" quantite=""> salade </ingredient> . servir chaud .
+</preparation>
+</recette>

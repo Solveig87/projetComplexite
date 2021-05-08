@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="94901">
+<titre>Muffins légers très myrtille sans oeuf</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 pot de yaourt aux myrtilles (bio les 2 vaches pour moi)</p>
+<p>1 + 1/2 pot de farine</p>
+<p>1/2 pot de maïzena</p>
+<p>25 g de beurre</p>
+<p>3/4 de pot de sucre</p>
+<p>1/2 pot de noisettes en poudre (facultatif)</p>
+<p>1/2 pot de lait</p>
+<p>1/2 sachet de levure</p>
+<p>1 pot de myrtilles surgelées</p>
+</ingredients>
+<preparation>
+préchauffer le four à 180 <operation> ° </operation> <operation ingredients="yaourt"> videz </operation> dans un saladier le pot de <ingredient action="vider" quantite="1 pot"> yaourt </ingredient> qui servira de doseur . <operation ingredients="farine;maïzena;sucre;levure;noisettes;beurre;lait"> ajouter </operation> 1 pot de <ingredient action="ajouter"> farine </ingredient> , la <ingredient action="ajouter"> maïzena </ingredient> , le <ingredient action="ajouter"> sucre </ingredient> , la <ingredient action="ajouter"> levure </ingredient> , la <operation> poudre </operation> de <ingredient action="ajouter"> noisettes </ingredient> , le <ingredient action="ajouter" quantite="25 gramme"> beurre </ingredient> et le <ingredient action="ajouter"> lait </ingredient> . <operation> mélanger </operation> <operation ingredients="myrtilles;farine"> rouler </operation> les <ingredient action="rouler" quantite="1 pot"> myrtilles </ingredient> dans le 1 / 2 pot de <ingredient action="rouler"> farine </ingredient> restant puis les <operation ingredients="pâte"> incorporer </operation> rapidement et délicatement à la <ingredient action="incorporer"> pâte </ingredient> . <operation> répartir </operation> dans les <operation> moules </operation> et <operation> enfourner </operation> pour 15 à 20 minutes selon les fours .
+</preparation>
+</recette>

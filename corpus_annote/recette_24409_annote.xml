@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24409">
+<titre>Lapin en terrine à ma façon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 beau lapin</p>
+<p>1 morceau de poitrine fumée de la largeur de la terrine</p>
+<p>1 tête d'ail</p>
+<p>du thym</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="lapin"> couper </operation> le <ingredient action="couper" quantite="1"> lapin </ingredient> en petits morceaux par le boucher ( si vous achetez un <ingredient quantite="1"> lapin </ingredient> déjà <operation> découpé </operation> , <operation> recoupez </operation> les morceaux en 2 ) . <operation ingredients="poitrine"> découpez </operation> la " peau " de la <ingredient action="découper"> poitrine </ingredient> fumée et <operation> mettez </operation> - la au fond de la terrine . <operation ingredients="poitrine;lardons"> découpez </operation> le reste de la <ingredient action="découper"> poitrine </ingredient> en petits <ingredient action="découper"> lardons </ingredient> . alternez une couche de morceaux de <ingredient quantite="1"> lapin </ingredient> , une couche de <ingredient> lardons </ingredient> , des <ingredient> gousses </ingredient> d' ail <operation> épluchées </operation> et <operation> coupées </operation> en tranches ( ne lésinez pas sur l' <ingredient> ail </ingredient> ) , du <ingredient quantite=""> thym </ingredient> . . . . jusqu' à ce que vous ayez utilisé tous vos ingrédients . ne <operation ingredients="poitrine"> salez </operation> pas ( <ingredient action="saler"> poitrine </ingredient> déjà <operation> salée </operation> ) , <operation> poivrez </operation> chaque couche . <operation> mettez </operation> le couvercle sur la terrine . <operation> mettez </operation> la terrine dans un grand plat à gratin <operation> rempli </operation> d' eau et faites <operation> cuire </operation> au bain - marie une petite heure . a déguster froid . je sers ce plat , hérité de ma mère , en été à l' occasion d' un repas froid , <operation ingredients="salade"> accompagné </operation> d' une ratatouille niçoise et d' une <ingredient action="accompagner"> salade </ingredient> de mesclun . rosé de provence
+</preparation>
+</recette>

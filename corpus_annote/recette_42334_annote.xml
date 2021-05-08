@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="42334">
+<titre>Trifle aux fraises, citron et mascarpone</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>125 g de mascarpone</p>
+<p>125 g de fromage blanc</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>1 citron (jus et zeste)</p>
+<p>150 g de fraises fraîches (ou en en boîte) + un peu de jus</p>
+<p>50 g de sucre</p>
+<p>5 palets bretons</p>
+</ingredients>
+<preparation>
+<operation ingredients="citron"> laver </operation> le <ingredient action="laver" quantite="1"> citron </ingredient> , <operation> prélever </operation> le zeste , et <operation ingredients="jus"> presser </operation> le <ingredient action="presser"> jus </ingredient> . <operation ingredients="mascarpone"> mélanger </operation> le <ingredient action="mélanger" quantite="125 gramme"> mascarpone </ingredient> , le <ingredient quantite="125 gramme"> fromage </ingredient> blanc , le <ingredient quantite="50 gramme"> sucre </ingredient> , le zeste et le <ingredient> jus </ingredient> de citron . <operation ingredients="crème"> fouetter </operation> la <ingredient action="fouetter" quantite="4 cuillère à soupe"> crème </ingredient> fraîche , et l' <operation> incorporer </operation> au <operation> mélange </operation> précédent . <operation> emietter </operation> les palets bretons , et les <operation> disposer </operation> au fond des verres . <operation ingredients="jus"> ajouter </operation> un peu de <ingredient action="ajouter"> jus </ingredient> de fraises . <operation ingredients="fraises"> disposer </operation> les <ingredient action="disposer" quantite="150 gramme"> fraises </ingredient> entières par - dessus . <operation ingredients="mascarpone"> mettre </operation> le <operation> mélange </operation> au <ingredient action="mettre" quantite="125 gramme"> mascarpone </ingredient> dessus . et <operation> mettre </operation> au frigo , pendant au moins 2 h. servir bien frais . régalez -vous !
+</preparation>
+</recette>

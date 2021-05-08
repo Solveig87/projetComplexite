@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37836">
+<titre>Kougelhopf glacé</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>Pour la glace à la vanille : </p>
+<p>50 cl de lait</p>
+<p>3 gousses de vanille fendues</p>
+<p>200 g de sucre en poudre</p>
+<p>3 jaunes d'oeufs</p>
+<p>2 oeufs entiers</p>
+<p>Pour la mousse aux raisins :</p>
+<p>50 cl de crème fraîche</p>
+<p>8 jaunes d'oeufs</p>
+<p>200 g de sucre en poudre</p>
+<p>125 g de raisins secs</p>
+<p>5 cl de Kirsch ou de Cognac</p>
+<p>Pour décorer : </p>
+<p>cacao</p>
+<p>sucre glace</p>
+<p>amandes grillées</p>
+<p>20 cl de crème Chantilly</p>
+</ingredients>
+<preparation>
+<operation action="glace" ingredients="glace"> glace </operation> : faire <operation ingredients="lait"> chauffer </operation> le <ingredient action="chauffer" quantite="50 cl"> lait </ingredient> et la vanille <operation> fendue </operation> . <operation ingredients="sucre;oeufs;oeufs;mousse"> battre </operation> le <ingredient action="battre" quantite="200 gramme+200 gramme"> sucre </ingredient> , les jaunes d' <ingredient action="battre" quantite="2"> oeufs </ingredient> et les <ingredient action="battre" quantite="2"> oeufs </ingredient> entiers en <ingredient action="battre"> mousse </ingredient> . <operation ingredients="lait"> verser </operation> dans le <ingredient action="verser" quantite="50 cl"> lait </ingredient> en tournant . au premier frémissement , <operation> retirer </operation> du feu . <operation> mettre </operation> dans une terrine et <operation> remuer </operation> pour <operation> lier </operation> . <operation> retirer </operation> la vanille . <operation> verser </operation> dans une sorbetière et l' y laisser jusqu' à ce qu' elle soit <operation> glacée </operation> . <ingredient> mousse </ingredient> : faire <operation ingredients="raisins"> macérer </operation> les <ingredient action="macérer" quantite="125 gramme"> raisins </ingredient> dans l' alcool . <operation ingredients="oeufs;sucre"> battre </operation> les jaunes d' <ingredient action="battre" quantite="2"> oeufs </ingredient> et le <ingredient action="battre" quantite="200 gramme+200 gramme"> sucre </ingredient> en mousse . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="50 cl+20 cl"> crème </ingredient> fraîche <operation ingredients="chantilly"> fouettée </operation> auparavant en <ingredient action="fouetter"> chantilly </ingredient> . <operation> mélanger </operation> . <operation ingredients="raisins"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme"> raisins </ingredient> <operation> pressés </operation> pour en <operation> extraire </operation> l' alcool . remplissage du <operation> moule </operation> : <operation ingredients="glace"> chemiser </operation> le <operation> moule </operation> à kougelhopf d' une bonne couche de <ingredient action="chemiser"> glace </ingredient> à la vanille et le <operation ingredients="mousse"> remplir </operation> de <ingredient action="remplir"> mousse </ingredient> . <operation> placer </operation> au congélateur . après plusieurs heures , <operation> démouler </operation> sur un plat . garniture : <operation ingredients="cacao;sucre;glace;amandes;chantilly"> garnir </operation> de <ingredient action="garnir" quantite=""> cacao </ingredient> , de <ingredient action="garnir" quantite="200 gramme+200 gramme"> sucre </ingredient> <ingredient action="garnir"> glace </ingredient> , d' <ingredient action="garnir" quantite=""> amandes </ingredient> grillées et <ingredient action="garnir"> chantilly </ingredient> . attention : utiliser un <operation> moule </operation> à kougelhopf émaillé . gewurztraminer , <ingredient> muscat </ingredient>
+</preparation>
+</recette>

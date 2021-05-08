@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30263">
+<titre>Spaghetti lardons petits pois</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>600 g de spaghetti</p>
+<p>750 g de petits pois frais en cosse</p>
+<p>150 g de lardons</p>
+<p>2 oignons</p>
+<p>1 brin de thym</p>
+<p>beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pois"> ecosser </operation> les petits <ingredient action="ecosser"> pois </ingredient> . faire suer les <ingredient quantite="150 gramme"> lardons </ingredient> et l' <ingredient quantite="2"> oignon </ingredient> dans un peu de <ingredient> beurre </ingredient> . <operation ingredients="pois;thym"> ajouter </operation> les petits <ingredient action="ajouter"> pois </ingredient> , le <ingredient action="ajouter"> thym </ingredient> , et <operation> mouiller </operation> de 15 cl d' eau . laisser <operation> cuire </operation> 20 minutes . <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> , les <operation> égoutter </operation> et les <operation> mettre </operation> dans la sauce . <operation> mélanger </operation> et servir bien chaud .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="170351">
+<titre>Salade de pommes de terre au pesto</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 pommes de terre fermes (rouges)</p>
+<p>1 barquette de champignons de Paris</p>
+<p>1 boule de mozzarella</p>
+<p>1 boîte de haricots verts</p>
+<p>des allumettes de canard / ou du gésiers</p>
+<p>de la sauce pesto</p>
+<p>ail</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pommes"> cuire </operation> les <ingredient action="cuire" quantite="10"> pommes </ingredient> de terre dans l' eau chaude légèrement <operation> salée </operation> . faire <operation ingredients="haricots;ail"> revenir </operation> dans une <operation> poêle </operation> les <ingredient action="revenir"> haricots </ingredient> verts <operation> assaisonnés </operation> d' un peu d' <ingredient action="revenir" quantite=""> ail </ingredient> . <operation ingredients="champignons"> découper </operation> les <ingredient action="découper"> champignons </ingredient> en lamelles . <operation ingredients="pesto"> verser </operation> 3 cuillères à café de sauce <ingredient action="verser" quantite=""> pesto </ingredient> dans un saladier . y <operation ingredients="mozzarella;champignons;haricots;canard;pommes"> ajouter </operation> des dés de <ingredient action="ajouter"> mozzarella </ingredient> , les <ingredient action="ajouter"> champignons </ingredient> , les <ingredient action="ajouter"> haricots </ingredient> verts , les allumettes de <ingredient action="ajouter"> canard </ingredient> , puis les <ingredient action="ajouter" quantite="10"> pommes </ingredient> de terres en quartiers . <operation ingredients="sel"> assaisonner </operation> de <ingredient action="assaisonner" quantite=""> sel </ingredient> .
+</preparation>
+</recette>

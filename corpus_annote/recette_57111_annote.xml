@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="57111">
+<titre>Poireaux farcis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1,5 kg de poireaux</p>
+<p>12 saucisses knacki</p>
+<p>50 g de farine</p>
+<p>30 g de beurre</p>
+<p>Sel, poivre, noix de muscade</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poireaux"> cuire </operation> les <ingredient action="cuire" quantite="1,5 kilogramme"> poireaux </ingredient> à la vapeur . faire <operation ingredients="knackis"> pocher </operation> les <ingredient action="pocher"> knackis </ingredient> dans une casserole d' eau bouillante . <operation ingredients="béchamel"> préparer </operation> une <ingredient action="préparer"> béchamel </ingredient> <operation ingredients="noix"> assaisonnée </operation> à votre goût ( <ingredient action="assaisonner" quantite=""> noix </ingredient> de muscade ou autre ) . <operation ingredients="poireau"> enrouler </operation> chaque knack avec 1 / 2 <ingredient action="enrouler" quantite="1,5 kilogramme"> poireau </ingredient> et les <operation> disposer </operation> dans un plat à gratin . <operation> napper </operation> de <ingredient> béchamel </ingredient> et faire <operation> gratiner </operation> 15 minutes à four chaud . servir aussi tôt et bon appétit .
+</preparation>
+</recette>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50825">
+<titre>Jambon Marie-Rose</titre>
+<type>Entrée</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 tranches de jambon un peu épaisses</p>
+<p>20 cl de vin blanc (Chablis)</p>
+<p>100 g de lardons fumés</p>
+<p>40 g de farine</p>
+<p>90 g de beurre</p>
+<p>1 bouquet garni (persil, thym, laurier)</p>
+<p>1 échalote</p>
+<p>10 cl de purée de tomates</p>
+<p>15 cl de crème fraîche épaisse</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;beurre;vin;échalote"> préparer </operation> un roux brun avec la <ingredient action="préparer" quantite="40 gramme"> farine </ingredient> , 40 g de <ingredient action="préparer" quantite="90 gramme"> beurre </ingredient> , le <ingredient action="préparer" quantite="20 cl"> vin </ingredient> blanc et l' <ingredient action="préparer" quantite="1"> échalote </ingredient> <operation> hachée </operation> . <operation ingredients="tomates;bouquet"> ajouter </operation> la purée de <ingredient action="ajouter"> tomates </ingredient> et le <ingredient action="ajouter" quantite="1"> bouquet </ingredient> <operation> garni </operation> , et laisser <operation> mijoter </operation> pendant 30 min . <operation ingredients="crème"> mettre </operation> la <ingredient action="mettre" quantite="15 cl"> crème </ingredient> et laisser <operation> cuire </operation> 5 min . <operation> filtrer </operation> la sauce et <operation ingredients="beurre"> ajouter </operation> le reste de <ingredient action="ajouter" quantite="90 gramme"> beurre </ingredient> . <operation ingredients="jambon"> chauffer </operation> les tranches de <ingredient action="chauffer" quantite="6 tranche"> jambon </ingredient> au bain - marie , et les servir nappées de sauce . restez vigilant lorsque vous faite le roux , de façon à ce qu' il n' y ait pas de grumeaux , ni que votre sauce accroche au fond de la casserole ! chablis
+</preparation>
+</recette>

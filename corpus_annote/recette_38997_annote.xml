@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="38997">
+<titre>Escalopes de poulet au vinaigre balsamique</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 escalopes de poulet (ou de dinde)</p>
+<p>200 g de lardons fumés</p>
+<p>1 oignon</p>
+<p>15 cl de vinaigre balsamique</p>
+<p>4 cuillères à soupe de crème fraîche</p>
+<p>1 verre d'eau</p>
+</ingredients>
+<preparation>
+dans une <operation> poêle </operation> à <operation> frire </operation> , faire <operation ingredients="lardons"> revenir </operation> les <ingredient action="revenir"> lardons </ingredient> et <operation> réserver </operation> . dans la <ingredient action="frire"> graisse </ingredient> des lardons , faire <operation ingredients="graisse;oignon"> frire </operation> l' <ingredient action="frire" quantite="1"> oignon </ingredient> <operation> émincé </operation> , et <operation> réserver </operation> . faire <operation ingredients="escalopes"> revenir </operation> les <ingredient action="revenir" quantite="4"> escalopes </ingredient> ( toujours dans la même <operation> poêle </operation> ) et <operation> réserver </operation> . <operation ingredients="vinaigre"> déglacer </operation> la <operation> poêle </operation> avec le <ingredient action="déglacer" quantite="15 cl"> vinaigre </ingredient> . une fois réduit , <operation> ajouter </operation> l' eau , la <ingredient quantite="4 cuillère à soupe"> crème </ingredient> fraîche , les <ingredient> lardons </ingredient> , les <ingredient quantite="1"> oignons </ingredient> et le <ingredient> poulet </ingredient> . <operation ingredients="poulet"> laisser </operation> <operation> mijoter </operation> , jusqu' à ce que le <ingredient action="laisser"> poulet </ingredient> soit cuit . servir chaud , <operation ingredients="riz"> accompagné </operation> d' un <ingredient action="accompagner"> riz </ingredient> sauvage .
+</preparation>
+</recette>

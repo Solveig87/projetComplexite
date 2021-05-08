@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28592">
+<titre>Beignets de mais et de jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de grains de maïs</p>
+<p>30 g de jambon</p>
+<p>40 g de farine</p>
+<p>1 oeuf</p>
+<p>2 cuillères à café de fécule</p>
+<p>huile</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oeuf"> mélanger </operation> farine , <ingredient action="mélanger" quantite="1"> oeuf </ingredient> , fécule . <operation ingredients="maïs;jambon"> ajouter </operation> le <ingredient action="ajouter"> maïs </ingredient> et le <ingredient action="ajouter" quantite="30 gramme"> jambon </ingredient> <operation ingredients="sel;poivre"> coupé </operation> en dé , le <ingredient action="couper" quantite=""> sel </ingredient> et le <ingredient action="couper"> poivre </ingredient> . faire <operation> cuire </operation> par petit tas sur les 2 faces pour le dimanche soir , à grignoter devant la téléexcellent avec une <ingredient> salade </ingredient> verte .
+</preparation>
+</recette>

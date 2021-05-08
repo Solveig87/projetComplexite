@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="11750">
+<titre>Poulet à la banane</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>340 g d' ananas au sirop</p>
+<p>2 bananes</p>
+<p>2 cuillères à soupe de pâte de curry</p>
+<p>crème fraiche</p>
+<p>4 blancs de poulet</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="poulet;huile"> revenir </operation> les blancs de <ingredient action="revenir"> poulet </ingredient> <operation> émincés </operation> dans un peu d' <ingredient action="revenir"> huile </ingredient> puis <operation ingredients="jus"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> d' ananas . <operation ingredients="ananas"> ajouter </operation> l' <ingredient action="ajouter" quantite="340 gramme"> ananas </ingredient> <operation> coupé </operation> en morceaux . <operation ingredients="pâte;crème"> délayer </operation> la <ingredient action="délayer" quantite="2 cuillère à soupe"> pâte </ingredient> de curry dans la <ingredient action="délayer" quantite=""> crème </ingredient> fraiche puis <operation ingredients="poulet"> verser </operation> sur le <ingredient action="verser"> poulet </ingredient> en fin de cuisson . au moment de servir , <operation ingredients="banane"> ajouter </operation> des rondelles de <ingredient action="ajouter" quantite="2"> banane </ingredient> crue et froide . servir avec du <ingredient> riz </ingredient> créole . mmmh , le melange froid / cru et chaud / cuit !
+</preparation>
+</recette>

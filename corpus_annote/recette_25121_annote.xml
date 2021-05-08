@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="25121">
+<titre>Poêlée de sarrasin aux olives et aux champignons</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>750 g de champignons de Paris</p>
+<p>450 g de sarrasin</p>
+<p>450 g d'oignons</p>
+<p>375 g d'olives noires</p>
+<p>2 gousses d'ail</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>2 branches de thym séché</p>
+<p>1 feuille de laurier</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="olives"> dénoyauter </operation> les <ingredient action="dénoyauter" quantite="375 gramme"> olives </ingredient> . faire <operation ingredients="thym;laurier"> cuire </operation> le sarrasin avec le <ingredient action="cuire"> thym </ingredient> et le <ingredient action="cuire" quantite="1 feuille"> laurier </ingredient> pendant 20 minutes . <operation> emincer </operation> les <ingredient quantite="450 gramme"> oignons </ingredient> , l' <ingredient> ail </ingredient> et les <ingredient quantite="750 gramme"> champignons </ingredient> . faire <operation ingredients="oignons;huile"> fondre </operation> les <ingredient action="fondre" quantite="450 gramme"> oignons </ingredient> dans l' <ingredient action="fondre" quantite="3 cuillère à soupe"> huile </ingredient> chaude puis <operation ingredients="champignons;ail"> ajouter </operation> les <ingredient action="ajouter" quantite="750 gramme"> champignons </ingredient> et l' <ingredient action="ajouter"> ail </ingredient> . lorsque les <ingredient action="rendre" quantite="750 gramme"> champignons </ingredient> ont <operation ingredients="champignons"> rendu </operation> leur eau , <operation ingredients="olives"> ajouter </operation> les <ingredient action="ajouter" quantite="375 gramme"> olives </ingredient> . <operation> egoutter </operation> le sarrasin et l' <operation> incorporer </operation> au <operation> mélange </operation> . <operation> mélanger </operation> et <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier" quantite="2;3 cuillère à soupe;1 feuille;"> assaisonnement </ingredient> . poursuivre la cuisson 5 minutes à feu doux pour que le sarrasin s' <operation> imprègne </operation> de la saveur des autres aliments et servir .
+</preparation>
+</recette>

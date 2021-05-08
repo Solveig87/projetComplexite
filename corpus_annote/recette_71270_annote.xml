@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="71270">
+<titre>Soupe Finlandaise aux broccolis</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 pommes de terre coupées en dés</p>
+<p>4 carottes coupées en dés</p>
+<p>1 bouquet de brocoli</p>
+<p>16 boulettes de boeuf</p>
+<p>sel, poivre</p>
+<p>100 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes;carottes"> faire </operation> <operation> bouillir </operation> dans un soupière les <ingredient action="faire" quantite="2"> pommes </ingredient> de terre et les <ingredient action="faire" quantite="4"> carottes </ingredient> pendant 20 min . <operation ingredients="brocolis;boeuf"> ajouter </operation> les <ingredient action="ajouter"> brocolis </ingredient> <operation> coupes </operation> en fleurettes et les boulettes de <ingredient action="ajouter"> boeuf </ingredient> . laisser <operation> cuire </operation> à feu doux pendant 20 min . <operation> saler </operation> , <operation> poivrer </operation> . servir et <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> crème </ingredient> fraîche dans l' assiette . ce plat complet , simple et économique est encore meilleur <operation> réchauffé </operation> . on peut <operation ingredients="légumes"> mixer </operation> les <ingredient action="mixer" quantite="2;4;100 gramme"> légumes </ingredient> et <operation> remettre </operation> les boulettes ensuite selon les goûts .
+</preparation>
+</recette>

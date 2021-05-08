@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26141">
+<titre>Truites amandine</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 filets de truites</p>
+<p>2 cuillères à soupe de farine</p>
+<p>20 g de beurre</p>
+<p>75 g d'amandes effilées grillées à sec</p>
+<p>le jus d'un citron</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation> enfariner </operation> , <operation ingredients="poisson"> saler </operation> et <operation> poivrer </operation> les filets de <ingredient action="saler"> poisson </ingredient> . faire <operation ingredients="truites;beurre"> cuire </operation> les <ingredient action="cuire"> truites </ingredient> à la <operation> poêle </operation> , dans du <ingredient action="cuire" quantite="20 gramme"> beurre </ingredient> pendant 15 min en les <operation> retournant </operation> à mi-cuisson . <operation ingredients="jus;jus"> déglacer </operation> le <ingredient action="déglacer" quantite=""> jus </ingredient> de cuisson avec le <ingredient action="déglacer" quantite=""> jus </ingredient> de citron . servir les <ingredient> truites </ingredient> <operation ingredients="amandes"> recouvertes </operation> d' <ingredient action="recouvrir" quantite="75 gramme"> amandes </ingredient> grillées et <operation> nappées </operation> de sauce .
+</preparation>
+</recette>

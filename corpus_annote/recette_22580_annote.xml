@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22580">
+<titre>Salade de champignons au thon simple</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de champignons de Paris bien frais</p>
+<p>250 g de thon au naturel</p>
+<p>150 g de crème fraîche épaisse</p>
+<p>2 citrons</p>
+<p>1 poignée de persil haché</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> laver </operation> et <operation ingredients="champignons"> émincer </operation> les <ingredient action="émincer" quantite="250 gramme"> champignons </ingredient> en lamelles . les <operation ingredients="jus;citron"> arroser </operation> avec le <ingredient action="arroser"> jus </ingredient> d'1 / 2 <ingredient action="arroser" quantite="2"> citron </ingredient> . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter" quantite="250 gramme"> thon </ingredient> et le <operation> couper </operation> en morceaux . <operation ingredients="champignons"> mélanger </operation> avec les <ingredient action="mélanger" quantite="250 gramme"> champignons </ingredient> . <operation ingredients="crème;jus;sel;poivre;persil"> fouetter </operation> la <ingredient action="fouetter" quantite="150 gramme"> crème </ingredient> avec le <ingredient action="fouetter"> jus </ingredient> des citrons restants du <ingredient action="fouetter" quantite=""> sel </ingredient> , du <ingredient action="fouetter" quantite=""> poivre </ingredient> et le <ingredient action="fouetter"> persil </ingredient> . <operation ingredients="champignons;thon"> mélanger </operation> cette sauce avec les <ingredient action="mélanger" quantite="250 gramme"> champignons </ingredient> et le <ingredient action="mélanger" quantite="250 gramme"> thon </ingredient> . servir bien frais .
+</preparation>
+</recette>

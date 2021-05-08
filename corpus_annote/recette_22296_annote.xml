@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22296">
+<titre>Salade grand bleu</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 grande tranche de saumon fumé</p>
+<p>1 grosse tomate</p>
+<p>1/2 boule de mozzarella</p>
+<p>du mesclun</p>
+<p>huile d'olive</p>
+<p>vinaigre balsamique </p>
+<p>basilic</p>
+<p>sel poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomate;mozzarella"> couper </operation> la <ingredient action="couper" quantite="1"> tomate </ingredient> et la <ingredient action="couper"> mozzarella </ingredient> en fines tranches , les <operation> poser </operation> sur le contour de l' assiette en les alternant ( 1 tr de <ingredient quantite="1"> tomate </ingredient> , 1 tr de mozza etc. . . ) au centre de l' assiette <operation ingredients="saumon;fumé"> positionner </operation> la tranche de <ingredient action="positionner"> saumon </ingredient> <ingredient action="positionner"> fumé </ingredient> . <operation ingredients="mesclun"> former </operation> un petit tas de <ingredient action="former" quantite=""> mesclun </ingredient> sur le côté de l' assiette et <operation ingredients="huile;vinaigre;basilic"> assaisonnez </operation> avec l' <ingredient action="assaisonner" quantite=""> huile </ingredient> d' olive , le <ingredient action="assaisonner" quantite=""> vinaigre </ingredient> , balsamique et le <ingredient action="assaisonner" quantite=""> basilic </ingredient> , <operation> salez </operation> , <operation> poivrez </operation> . l' alliance des 3 <ingredient> produits </ingredient> principaux est . . . hmmmm . . . parfaite !
+</preparation>
+</recette>

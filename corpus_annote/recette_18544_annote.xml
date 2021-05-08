@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18544">
+<titre>Madeleines</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g farine</p>
+<p>2 gros oeufs</p>
+<p>100 g sucre</p>
+<p>125 g beurre</p>
+<p>1 zeste de citron</p>
+<p>1 pincée levure chimique</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre"> beurre </ingredient> en pommade . <operation> beurrer </operation> et <operation> fariner </operation> les <operation> moules </operation> à madeleines . <operation ingredients="oeufs;sucre"> travailler </operation> les <ingredient action="travailler" quantite="2"> oeufs </ingredient> avec le <ingredient action="travailler" quantite="100 gramme"> sucre </ingredient> pour obtenir une <ingredient> pâte </ingredient> blanchâtre coulante . <operation ingredients="farine;beurre;citron"> ajouter </operation> peu à peu la <ingredient action="ajouter"> farine </ingredient> + levure , le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> et le zeste de <ingredient action="ajouter"> citron </ingredient> . bien <operation> mélanger </operation> . <operation> mettre </operation> dans les <operation> moules </operation> et faire <operation> cuire </operation> environ 15 min au four à 170 <operation> ° </operation> c ( thermostat . 6 ) . laisser refroidir sur une <operation> grille </operation> .
+</preparation>
+</recette>

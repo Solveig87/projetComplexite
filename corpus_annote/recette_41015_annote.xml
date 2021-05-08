@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41015">
+<titre>Roulade de jambon à la sauce tomate</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de semoule (grains moyens)</p>
+<p>75 cl de crème fraîche</p>
+<p>8 tranches de jambon</p>
+<p>280 g de concentré de tomate</p>
+</ingredients>
+<preparation>
+<operation ingredients="jambons"> rouler </operation> les tranches de <ingredient action="rouler" quantite="8 tranche"> jambons </ingredient> , et les <operation> disposer </operation> dans un plat qui va au four . <operation ingredients="crème;tomate"> mélanger </operation> la <ingredient action="mélanger" quantite="75 cl"> crème </ingredient> fraîche et le <operation> concentré </operation> de <ingredient action="mélanger"> tomate </ingredient> , et étaler la preparation sur les tranches de <ingredient quantite="8 tranche"> jambons </ingredient> . <operation> mettre </operation> au four 25 min , à 220 <operation> ° </operation> c ( therm . . 8) . a part , <operation ingredients="semoule"> préparer </operation> la <ingredient action="préparer" quantite="500 gramme"> semoule </ingredient> comme à votre habitude . servir la <ingredient quantite="500 gramme"> semoule </ingredient> avec 2 tranches de <ingredient quantite="8 tranche"> jambons </ingredient> par personnes , et <operation> verser </operation> la sauce par dessus . régalez vous !
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="13057">
+<titre>Saucisses au vin et haricots rouges</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 saucisses de Morteau</p>
+<p>300 g de haricots rouges</p>
+<p>150 g de lardons</p>
+<p>50 cl de vin rouge</p>
+<p>2 oignons</p>
+<p>herbes de provence</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation> mettre </operation> à <operation ingredients="haricots"> tremper </operation> dans l' eau froide les <ingredient action="tremper" quantite="300 gramme"> haricots </ingredient> 4 heures dans une casserole , puis les faire <operation> cuire </operation> pendant 1 / 2 heure . pendant ce temps , faire <operation ingredients="huile;lardons"> blondir </operation> à l’ <ingredient action="blondir"> huile </ingredient> d’ olive les oignons <operation> émincés </operation> plus les <ingredient action="blondir" quantite="150 gramme"> lardons </ingredient> dans une cocotte . <operation ingredients="haricots;vin"> ajouter </operation> les <ingredient action="ajouter" quantite="300 gramme"> haricots </ingredient> <operation> égouttés </operation> , le <ingredient action="ajouter" quantite="50 cl"> vin </ingredient> rouge , et les herbes de provence . bien <operation> mélanger </operation> le tout , et <operation> mettre </operation> à <operation> cuire </operation> doucement pendant 40 mn . même <ingredient quantite="50 cl"> vin </ingredient> que celui de la préparation
+</preparation>
+</recette>

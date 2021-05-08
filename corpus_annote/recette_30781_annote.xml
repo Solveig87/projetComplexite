@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="30781">
+<titre>Fondue asiatique au boeuf</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1,2 kg de boeuf</p>
+<p>2 l de bouillon de volaille</p>
+<p>2 carottes</p>
+<p>1 beau poireau</p>
+<p>1 branche de céleri</p>
+<p>1 bouquet de persil</p>
+<p>500 g de riz</p>
+<p>20 cl sauce soja</p>
+<p>20 cl de sauce Chili</p>
+<p>Pour la sauce tartare :</p>
+<p>20 cl de mayonnaise</p>
+<p>2 cuillères à soupe de câpres</p>
+<p>2 cuillères à soupe de ciboulette et 2 cornichons hachés</p>
+<p>Pour la sauce ketchup :</p>
+<p>20 cl de mayonnaise</p>
+<p>2 cuillères à soupe de sauce ketchup</p>
+<p>1 cuillère à café de sauce anglaise</p>
+<p>20 cl de sauce curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="viande"> trancher </operation> très finement la <ingredient action="trancher" quantite="1,2 kilogramme"> viande </ingredient> par votre boucher . <operation> recouper </operation> les tranches pour pouvoir ne faire qu' une bouchée de chacune . <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="500 gramme"> riz </ingredient> dans l' eau bouillante <operation> salée </operation> durant 20 minutes . <operation ingredients="tartare"> préparer </operation> les sauces <ingredient action="préparer"> tartare </ingredient> et ketchup en <operation> mélangeant </operation> les différents ingrédients qui les <operation> composent </operation> . <operation> mettre </operation> les sauces dans de petits bols ou des raviers . amener doucement le <ingredient quantite="2 l"> bouillon </ingredient> à <operation> ébullition </operation> avec les <ingredient quantite="2 l;2;1"> légumes </ingredient> <operation> émincés </operation> et le <ingredient> persil </ingredient> . vérifier l' <ingredient quantite="20 cl+20 cl;2 cuillère à soupe;2 cuillère à soupe;2 cuillère à soupe;20 cl"> assaisonnement </ingredient> . chaque convive fait <operation ingredients="viande;bouillon"> cuire </operation> sa <ingredient action="cuire" quantite="1,2 kilogramme"> viande </ingredient> dans le <ingredient action="cuire" quantite="2 l"> bouillon </ingredient> et l' <operation> assaisonne </operation> de la sauce de son choix . <operation ingredients="riz"> accompagner </operation> du <ingredient action="accompagner" quantite="500 gramme"> riz </ingredient> .
+</preparation>
+</recette>

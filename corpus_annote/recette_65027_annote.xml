@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="65027">
+<titre>Gâteau au tresana et aux mandarines</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 pots de tresana (fromage frais)</p>
+<p>2 sachets de pudding (vanille ou chantilly aucune importance)</p>
+<p>50 cl de lait</p>
+<p>50 g de sucre en poudre</p>
+<p>2 pots de mandarines au jus - sinon 6 mandarines non traitées (on peut mettre un autre fruit, un ananas par exemple, certaines fois je fais même un mélange des 2)</p>
+<p>1 sachet de nappage pour tarte</p>
+<p>1 pâte brisée</p>
+</ingredients>
+<preparation>
+la préparation à base de <ingredient> pudding </ingredient> : <operation ingredients="pudding"> délayer </operation> le contenu des 2 sachets de <ingredient action="délayer"> pudding </ingredient> avec 12 cuillères à soupe <operation ingredients="lait"> prélevées </operation> sur les 50 cl de <ingredient action="prélever" quantite="50 cl"> lait </ingredient> . faire <operation ingredients="lait;sucre"> bouillir </operation> le reste du <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> avec le <ingredient action="bouillir" quantite="50 gramme"> sucre </ingredient> . <operation> retirer </operation> du feu tout en <operation> remuant </operation> , <operation ingredients="pudding;lait"> verser </operation> la préparation de <ingredient action="verser"> pudding </ingredient> dans le <ingredient action="verser" quantite="50 cl"> lait </ingredient> bouillant et faire <operation ingredients="pudding"> cuire </operation> à feu doux pendant 1 min ( le <ingredient action="cuire"> pudding </ingredient> est très épais , c' est normal ) . <operation> ajouter </operation> alors à la préparation les 2 pots de tresana et <operation> mélanger </operation> énergiquement . le <ingredient> gâteau </ingredient> : préchauffer le four à 180 <operation> ° </operation> c ( thermostat 6 ) . <operation ingredients="pâte"> disposer </operation> la <ingredient action="disposer" quantite="1"> pâte </ingredient> <operation> brisée </operation> dans un plat à tarte . y <operation> verser </operation> la préparation précédemment obtenue , <operation ingredients="mandarines;gâteau"> disposer </operation> enfin les <ingredient action="disposer" quantite="2 pot"> mandarines </ingredient> sur le <ingredient action="disposer"> gâteau </ingredient> ( <operation ingredients="jus;fruits"> réserver </operation> le <ingredient action="réserver"> jus </ingredient> si utilisation de <ingredient action="réserver" quantite="2 pot"> fruits </ingredient> au sirop ) et <operation> enfourner </operation> pour 40 min ( surveiller la cuisson , il faut que le <ingredient quantite="2 pot"> fruit </ingredient> commence à <operation> dorer </operation> quand on sort le <ingredient> gâteau </ingredient> du four ) . le nappage : une fois le <ingredient action="faire"> gâteau </ingredient> tiède , <operation ingredients="gâteau;jus;jus"> faire </operation> un nappage ( comme indiqué sur le sachet ) avec le <ingredient action="faire"> jus </ingredient> des fruits ou avec de l' eau si pas de <ingredient action="faire"> jus </ingredient> . se sert frais . très agréable en été mais aussi tout le reste de l' année . régalez -vous !
+</preparation>
+</recette>

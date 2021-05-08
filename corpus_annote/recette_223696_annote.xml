@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="223696">
+<titre>Salade de pâtes fraîcheur</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>300 g de pâtes torti</p>
+<p>1 concombre</p>
+<p>200 g d'allumettes fumées ou lardons</p>
+<p>100 g de feta</p>
+<p>3 cuillères à soupe d'huile</p>
+<p>1 cuillère à soupe de vinaigre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> al dente . pendant ce temps , <operation ingredients="concombre"> peler </operation> et <operation> couper </operation> le <ingredient action="peler" quantite="1"> concombre </ingredient> en dés . <operation ingredients="feta"> couper </operation> également la <ingredient action="couper" quantite="100 gramme"> feta </ingredient> . faire <operation ingredients="lardons"> revenir </operation> les allumettes ou <ingredient action="revenir"> lardons </ingredient> à la <operation> poêle </operation> , les <operation> essorer </operation> dans du papier absorbant . <operation ingredients="pâtes;concombre;lardons;feta"> mettre </operation> les <ingredient action="mettre"> pâtes </ingredient> , le <ingredient action="mettre" quantite="1"> concombre </ingredient> , les <ingredient action="mettre"> lardons </ingredient> et la <ingredient action="mettre" quantite="100 gramme"> feta </ingredient> dans un saladier . <operation> assaisonner </operation> de vinaigrette réalisée avec l' <ingredient quantite="3 cuillère à soupe"> huile </ingredient> , le <ingredient quantite="1 cuillère à soupe"> vinaigre </ingredient> , du <ingredient quantite=""> sel </ingredient> et du <ingredient> poivre </ingredient> .
+</preparation>
+</recette>

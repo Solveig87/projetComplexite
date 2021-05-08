@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18012">
+<titre>Brownie</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>60 g de chocolat noir </p>
+<p>2 oeufs</p>
+<p>40 g de farine</p>
+<p>110 g de sucre</p>
+<p>1 sachet de sucre vanillé</p>
+<p>120 g de beurre</p>
+<p>Noix de pécan</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre" quantite="60 gramme"> chocolat </ingredient> avec le <ingredient action="fondre" quantite="120 gramme"> beurre </ingredient> . <operation ingredients="oeufs;sucre;sucre"> battre </operation> les <ingredient action="battre" quantite="2"> oeufs </ingredient> avec le <ingredient action="battre" quantite="110 gramme"> sucre </ingredient> puis le <ingredient action="battre" quantite="110 gramme"> sucre </ingredient> vanillé jusqu' à blanchiment . <operation> mélanger </operation> le tout et <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="40 gramme"> farine </ingredient> puis <operation ingredients="noix"> incorporer </operation> les <ingredient action="incorporer" quantite=""> noix </ingredient> de pécans . <operation> beurrer </operation> un plat et <operation ingredients="gâteau"> mettre </operation> au four durant 20 mn pour un <ingredient action="mettre"> gâteau </ingredient> moëlleux .
+</preparation>
+</recette>

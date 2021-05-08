@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="95771">
+<titre>Cari de crabe réunionais</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 crabe</p>
+<p>6 petits piments (selon les goûts)</p>
+<p>1 cuillère à café de curcuma</p>
+<p>6 tomates</p>
+<p>2 oignons</p>
+<p>1 branche de thym</p>
+<p>1 petit morceau de gingembre</p>
+<p>3 gousses d'ail</p>
+<p>sel</p>
+</ingredients>
+<preparation>
+<operation ingredients="crabe"> couper </operation> le <ingredient action="couper" quantite="1"> crabe </ingredient> en morceaux . <operation ingredients="huile;oignons"> verser </operation> dans une marmite d' <ingredient action="verser"> huile </ingredient> chaude les <ingredient action="verser" quantite="2"> oignons </ingredient> <operation> émincés </operation> , l' <ingredient> ail </ingredient> , les piments <operation> pilés </operation> ( ou <operation> hachés </operation> ) avec l <ingredient> gingembre </ingredient> , le <ingredient quantite=""> sel </ingredient> , le <ingredient> thym </ingredient> et laissez <operation> dorer </operation> . <operation ingredients="curcuma;tomates"> ajoutez </operation> le <ingredient action="ajouter" quantite="1 cuillère à café"> curcuma </ingredient> puis les <ingredient action="ajouter" quantite="6"> tomates </ingredient> <operation> coupées </operation> en petits dés . <operation ingredients="crabe"> ajoutez </operation> les morceaux de <ingredient action="ajouter" quantite="1"> crabe </ingredient> et 2 dl d' eau . <operation ingredients="persil"> ajoutez </operation> le <ingredient action="ajouter"> persil </ingredient> et laisser <operation> cuire </operation> pendant 30 minutes environ .
+</preparation>
+</recette>

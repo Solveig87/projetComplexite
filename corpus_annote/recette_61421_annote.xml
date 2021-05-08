@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="61421">
+<titre>Fruits au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>35 cl de lait de coco</p>
+<p>3 grosses bananes</p>
+<p>10 gros litchis</p>
+<p>75 g de fruits rouges</p>
+<p>1/2 cuillère d'arôme fleur d'oranger</p>
+<p>quelques feuilles de menthe</p>
+<p>2 cuillères à soupe de sucre</p>
+</ingredients>
+<preparation>
+<operation ingredients="bananes"> pelez </operation> les <ingredient action="peler" quantite="3"> bananes </ingredient> , <operation> coupez </operation> - les en grosses rondelles , <operation ingredients="lait;sucre"> mettez </operation> - les dans une grande casserole avec le <ingredient action="mettre" quantite="35 cl"> lait </ingredient> de coco et le <ingredient action="mettre" quantite="2 cuillère à soupe"> sucre </ingredient> puis <operation> portez </operation> à <operation> ébullition </operation> . <operation ingredients="fruits"> versez </operation> le tout dans un grand saladier et <operation ingredients="litchis"> ajoutez </operation> les <ingredient action="ajouter" quantite="10"> litchis </ingredient> , les <ingredient action="verser" quantite="75 gramme"> fruits </ingredient> rouges et l' arôme de fleur d' oranger . <operation ingredients="menthe"> couper </operation> la <ingredient action="couper" quantite="quelque feuille"> menthe </ingredient> en petits morceaux et <operation> ajoutez </operation> - la au <operation> mélange </operation> . servir frais . on peut remplacer les <ingredient quantite="10"> litchis </ingredient> , les <ingredient quantite="3"> bananes </ingredient> et les <ingredient quantite="75 gramme"> fruits </ingredient> rouges par d' autres <ingredient quantite="75 gramme"> fruits </ingredient> .
+</preparation>
+</recette>

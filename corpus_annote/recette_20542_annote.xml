@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20542">
+<titre>Daube de boeuf</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de macreuse</p>
+<p>1,5 kg de carottes</p>
+<p>250 g d’échalotes</p>
+<p>250 g de lard fumé en dés</p>
+<p>50 g de beurre</p>
+<p>75 cl de vin rouge (une bouteille) </p>
+<p>5 cl de Madère</p>
+<p>8 tomates bien mûres (ou une grosse boîte de tomates pelées)</p>
+<p>1 bouquet garni</p>
+<p>sel, poivre à votre convenance</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> coupez </operation> la <ingredient action="couper" quantite="250 gramme"> viande </ingredient> en cubes . les <ingredient quantite="1,5 kilogramme"> carottes </ingredient> en rondelles et les <ingredient> échalotes </ingredient> en dés . dans une cocotte faites <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="50 gramme"> beurre </ingredient> . <operation ingredients="viande"> mettre </operation> la <ingredient action="mettre" quantite="250 gramme"> viande </ingredient> et la faire <operation> dorer </operation> puis <operation> réserver </operation> . <operation ingredients="échalotes;lardons"> mettre </operation> les <ingredient action="mettre"> échalotes </ingredient> et les <ingredient action="mettre"> lardons </ingredient> . <operation ingredients="carottes"> ajoutez </operation> les <ingredient action="ajouter" quantite="1,5 kilogramme"> carottes </ingredient> . <operation ingredients="viande"> remettez </operation> la <ingredient action="remettre" quantite="250 gramme"> viande </ingredient> et le reste des ingrédients . amenez à <operation> ébullition </operation> . <operation> couvrez </operation> baissez la source de chaleur et laissez <operation> cuire </operation> 3 h avant de servir . délicieux <operation> réchauffé </operation>
+</preparation>
+</recette>

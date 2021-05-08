@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="195642">
+<titre>Spaghetti crevettes chorizo</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>250 g de spaghetti</p>
+<p>300 g de crevettes décortiquées (fraîches ou surgelées)</p>
+<p>1 chorizo doux</p>
+<p>1 oignon</p>
+<p>ail</p>
+<p>20 cl de crème fraîche semi épaisse (allégée)</p>
+<p>poivre</p>
+<p>huile d'olive</p>
+<p>curry</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire" quantite="250 gramme"> spaghetti </ingredient> comme indiqué sur le paquet . <operation ingredients="oignon;huile"> faire </operation> <operation> rissoler </operation> l' <ingredient action="faire" quantite="1"> oignon </ingredient> dans l' <ingredient action="faire" quantite=""> huile </ingredient> d' olive . <operation ingredients="crevettes"> rajouter </operation> les <ingredient action="rajouter" quantite="300 gramme"> crevettes </ingredient> . après quelques minutes , <operation ingredients="chorizo"> mettre </operation> le <ingredient action="mettre"> chorizo </ingredient> . <operation ingredients="poivre"> ajouter </operation> le <ingredient action="ajouter" quantite=""> poivre </ingredient> , l' <ingredient action="mettre" quantite=""> ail </ingredient> ( je ne <operation ingredients="ail;sel;chorizo;salé"> mets </operation> pas de <ingredient action="mettre"> sel </ingredient> , le <ingredient action="mettre"> chorizo </ingredient> étant déjà suffisamment <ingredient action="mettre"> salé </ingredient> ) . laisser <operation> cuire </operation> le tout 5 minutes . <operation ingredients="crème;curry"> rajouter </operation> la <ingredient action="rajouter" quantite="20 cl"> crème </ingredient> , le <ingredient action="rajouter" quantite=""> curry </ingredient> ( selon votre goût ) et laisser <operation> chauffer </operation> sans <operation> bouillir </operation> . servir bien chaud avec les <ingredient> pâtes </ingredient> . on peut y <operation ingredients="tomates"> rajouter </operation> des <ingredient action="rajouter"> tomates </ingredient> <operation> coupées </operation> en dés
+</preparation>
+</recette>

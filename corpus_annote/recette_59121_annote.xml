@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59121">
+<titre>Poisson au curry express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 filets de colin surgelés</p>
+<p>20 cl de lait de coco</p>
+<p>2 grosses cuillères de poudre de curry</p>
+<p>2 gousses d'ail</p>
+<p>3 grosses cuillères d'huile</p>
+</ingredients>
+<preparation>
+dans une sauteuse ou une <operation> poêle </operation> , faire <operation ingredients="huile;ail;épices"> chauffer </operation> à feu doux l' <ingredient action="chauffer"> huile </ingredient> , l' <ingredient action="chauffer"> ail </ingredient> <operation> pilé </operation> et les <ingredient action="chauffer" quantite="2"> épices </ingredient> pendant 2 min . <operation ingredients="poisson"> déposer </operation> les filets de <ingredient action="déposer"> poisson </ingredient> <operation> congelés </operation> . les <operation> retourner </operation> après 4 min , et <operation ingredients="lait"> verser </operation> le <ingredient action="verser" quantite="20 cl"> lait </ingredient> de coco . <operation> remuer </operation> la sauce . c' est prêt ! a servir avec du <ingredient> riz </ingredient> blanc .
+</preparation>
+</recette>

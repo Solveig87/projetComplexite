@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39774">
+<titre>Consommé Glacé aux Poivrons Jaunes</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>400 g de poivrons jaunes</p>
+<p>4 gousses d'aïl</p>
+<p>1 oignon</p>
+<p>2 cuillères à café d'huile d"olive</p>
+<p>sel, poivre</p>
+<p>1 cube de bouillon de légumes dégraisséPour la décoration : </p>
+<p>ciboulette</p>
+<p>crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="poivrons"> laver </operation> , <operation> épépiner </operation> les <ingredient action="laver"> poivrons </ingredient> et <operation> retirer </operation> les membranes blanches , <operation ingredients="poivrons"> couper </operation> les <ingredient action="couper"> poivrons </ingredient> en dés . <operation ingredients="ail;oignon"> eplucher </operation> l' <ingredient action="eplucher"> ail </ingredient> et l' <ingredient action="eplucher" quantite="1"> oignon </ingredient> , les <operation> hacher </operation> . dans une sauteuse faire <operation ingredients="huile;oignon;poivrons"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à café"> huile </ingredient> , <operation ingredients="ail"> ajouter </operation> l' <ingredient action="ajouter"> ail </ingredient> , l' <ingredient action="chauffer" quantite="1"> oignon </ingredient> , les dés de <ingredient action="chauffer"> poivrons </ingredient> , bien <operation> mélanger </operation> , <operation ingredients="bouillon"> mouiller </operation> avec 1 l d' eau et le cube de <ingredient action="mouiller"> bouillon </ingredient> . laisser <operation> mijoter </operation> à <operation> découvert </operation> 30 min . laisser refroidir . <operation> saler </operation> et <operation> poivrer </operation> . <operation> mixer </operation> et <operation> réserver </operation> au frigo pendant 2 h minimum . au moment de sservir , <operation ingredients="crème;ciboulette"> ajouter </operation> la <ingredient action="ajouter" quantite=""> crème </ingredient> fraîche et les brins de <ingredient action="ajouter" quantite=""> ciboulette </ingredient> <operation> ciselés </operation> .
+</preparation>
+</recette>

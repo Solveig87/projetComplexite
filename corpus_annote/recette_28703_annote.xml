@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="28703">
+<titre>Gâteau moelleux express au chocolat (au micro-ondes)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>100 g de chocolat pâtisserie</p>
+<p>150 g de sucre</p>
+<p>3 oeufs</p>
+<p>100 g de beurre</p>
+<p>50 g de farine</p>
+<p>3 cuillères à soupe de crème fraîche</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="chocolat"> fondre </operation> le <ingredient action="fondre" quantite="100 gramme"> chocolat </ingredient> au micro-onde sur fort pendant 2 mn . <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> beurre </ingredient> <operation> coupé </operation> en morceaux . <operation> remettre </operation> sur fort pendant 2 mn . <operation> mélanger </operation> le tout . <operation ingredients="oeufs;sucre"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> avec le <ingredient action="battre" quantite="150 gramme"> sucre </ingredient> . <operation ingredients="chocolat"> ajouter </operation> le <operation> mélange </operation> <ingredient action="ajouter" quantite="100 gramme"> chocolat </ingredient> - beurre . <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="50 gramme"> farine </ingredient> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="3 cuillère à soupe"> crème </ingredient> fraîche . <operation> beurrer </operation> le <operation> moule </operation> ( prévoir de la marge en hauteur ) . <operation> mettre </operation> la préparation dans le <operation> moule </operation> et <operation> cuire </operation> sur fort pendant . 10 mn ( un <ingredient> couteau </ingredient> <operation ingredients="gâteau"> piqué </operation> dans le <ingredient action="piquer"> gâteau </ingredient> doit ressortir propre , sec ou légèrement humide ) . <operation ingredients="gâteau"> démouler </operation> le <ingredient action="démouler"> gâteau </ingredient> et le laisser refroidir un peu sur une <operation> grille </operation> . il faut adapter les temps en fonction de la puissance utlisée ( ex : <operation> diviser </operation> par 2 pour 900 w ) . une fois refroidi , le <ingredient> gâteau </ingredient> devient un peu comme un <ingredient> fondant </ingredient> . . .
+</preparation>
+</recette>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50940">
+<titre>Chili au blé express</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 sachets ou 250 g de blé</p>
+<p>250 g de viande hachée (boeuf ou porc, frais ou surgelé)</p>
+<p>2 ou 3 tomates fraîches</p>
+<p>2 à 3 cuillères à soupe de concentré de tomates</p>
+<p>1 boîte de haricots rouges (250g égouttés)</p>
+<p>sel, poivre</p>
+<p>piments, harissa, cumin...selon les goûts</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="blé"> cuire </operation> le <ingredient action="cuire"> blé </ingredient> dans de l' eau bouillante pendant 10 minutes . dans une <operation> poêle </operation> ou un wok faire <operation ingredients="viande"> revenir </operation> la <ingredient action="revenir" quantite="250 gramme"> viande </ingredient> hachée en <operation> séparant </operation> bien les morceaux à feu fort . eventuellement <operation ingredients="jus"> égoutter </operation> le <ingredient action="égoutter"> jus </ingredient> de graisse . quand la <ingredient action="cuire" quantite="250 gramme"> viande </ingredient> est <operation ingredients="viande"> cuite </operation> <operation ingredients="haricots"> ajouter </operation> les <ingredient action="ajouter"> haricots </ingredient> rouges ( grossièrement <operation> égouttés </operation> ) <operation ingredients="tomates"> ajouter </operation> le <operation> concentré </operation> de <ingredient action="ajouter" quantite="2"> tomates </ingredient> . <operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="2"> tomates </ingredient> en cubes et les <operation ingredients="haricots"> ajouter </operation> quand les <ingredient action="ajouter"> haricots </ingredient> sont chauds , faire <operation> cuire </operation> quelques minutes seulement pour que les <ingredient quantite="2"> tomates </ingredient> restent croquantes . <operation> saler </operation> , <operation> poivrer </operation> et <operation> ajouter </operation> piment ou harissa selon les goûts . servir avec le <ingredient> blé </ingredient> . c' est rapide , ça se réchauffe facilement au micro-ondes , se conserve bien au frigo et ça fait un plat complet . donc très bien pour les étudiants ou pour les repas seuls .
+</preparation>
+</recette>

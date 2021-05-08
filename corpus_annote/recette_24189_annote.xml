@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="24189">
+<titre>Poulet basquaise à la cocotte</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 poulet d'1,2 kg découpé en morceaux</p>
+<p>700 g de tomates</p>
+<p>700 g de poivrons (rouges et verts)</p>
+<p>2 oignons</p>
+<p>4 gousses d'ail</p>
+<p>70 g d'olives noires</p>
+<p>1 feuille de laurier</p>
+<p>1 branche de thym</p>
+<p>2 feuilles de sauge</p>
+<p>2 cuillerées à soupe de paprika doux</p>
+<p>4 cuillerées à soupe d'huile d'olive</p>
+<p>20 g de beurre</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="beurre;huile"> chauffer </operation> le <ingredient action="chauffer" quantite="20 gramme"> beurre </ingredient> et l' <ingredient action="chauffer"> huile </ingredient> dans une cocotte . faites - y <operation ingredients="poulet"> dorer </operation> les morceaux de <ingredient action="dorer" quantite="1"> poulet </ingredient> <operation> salés </operation> et <operation> poivrés </operation> . <operation ingredients="paprika"> saupoudrez </operation> de <ingredient action="saupoudrer"> paprika </ingredient> et <operation ingredients="oignons"> ajoutez </operation> les les <ingredient action="ajouter" quantite="2"> oignons </ingredient> et l' <ingredient action="hacher"> ail </ingredient> finement <operation ingredients="ail"> hachés </operation> . laissez <operation> blondir </operation> à feu doux . <operation ingredients="tomates;poivrons"> ajoutez </operation> ensuite les <ingredient action="ajouter" quantite="700 gramme"> tomates </ingredient> <operation> pelées </operation> , épépinées et <operation> coupées </operation> en morceaux , et les <ingredient action="ajouter" quantite="700 gramme"> poivrons </ingredient> <operation> coupés </operation> en lanières . <operation> déposez </operation> les herbes et laissez <operation> mijoter </operation> 45 minutes à feu doux . <operation> couvrez </operation> la cocotte et poursuivez la cuisson 40 min toujours à feu doux . <operation ingredients="olives"> rajoutez </operation> les <ingredient action="rajouter" quantite="70 gramme"> olives </ingredient> dans la cocotte , <operation> mélangez </operation> et servez . si vous souhaitez <operation ingredients="riz;pâtes"> ajoutez </operation> un <operation> accompagnement </operation> , du <ingredient action="ajouter"> riz </ingredient> ou des <ingredient action="ajouter"> pâtes </ingredient> fraîches feront bien l' affaire . des <ingredient> pommes </ingredient> de terre vapeur également .
+</preparation>
+</recette>

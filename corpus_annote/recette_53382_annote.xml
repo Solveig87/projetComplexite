@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="53382">
+<titre>Tarte amandine sans farine</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>6 poires bien mûres</p>
+<p>3 oeufs</p>
+<p>120 g de sucre</p>
+<p>20 cl de crème fraîche liquide</p>
+<p>10 cl de lait</p>
+<p>125 g de poudre d'amandes</p>
+<p>1 bouchon de rhum</p>
+<p>1 noisette de beurre</p>
+</ingredients>
+<preparation>
+<operation> peler </operation> et <operation ingredients="poires"> couper </operation> en tranches les <ingredient action="couper" quantite="6"> poires </ingredient> , les <operation> répartir </operation> au fond d' un <operation> moule </operation> à tarte beurré . <operation> mélanger </operation> tous les autres ingrédients , <operation ingredients="poires"> verser </operation> la préparation sur les <ingredient action="verser" quantite="6"> poires </ingredient> . <operation> cuire </operation> à 210 <operation> ° </operation> c ( th 7 ) pendant 30 min environ . on peut également <operation ingredients="amandes;tarte"> ajouter </operation> des <ingredient action="ajouter"> amandes </ingredient> <operation> effilées </operation> sur la <ingredient action="ajouter"> tarte </ingredient> et <operation ingredients="tarte"> passer </operation> la <ingredient action="passer"> tarte </ingredient> au grill quelques minutes à la fin de la cuisson .
+</preparation>
+</recette>

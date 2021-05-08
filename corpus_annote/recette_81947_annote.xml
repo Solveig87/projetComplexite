@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="81947">
+<titre>Rouleaux de ratatouille</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 courgettes de taille moyenne</p>
+<p>3 tomates</p>
+<p>160 g de riz</p>
+<p>1 oignon</p>
+<p>2 gousses d'ail </p>
+<p>2 cuillères à café d'herbes de Provence </p>
+<p>sel et poivre</p>
+<p>4 tranches de jambon blanc</p>
+<p>40 g de gruyère râpé</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> les courgettes et <operation> enlever </operation> les graines , <operation> réserver </operation> . <operation> emincer </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> , le faire <operation ingredients="oignon;matière;persil"> revenir </operation> dans de la <ingredient action="revenir"> matière </ingredient> grasse , <operation ingredients="tomates"> ajouter </operation> les <ingredient action="ajouter" quantite="3"> tomates </ingredient> préalablement <operation> coupées </operation> en cubes , puis les courgettes <operation> coupées </operation> en lamelles <operation ingredients="ail"> rajouter </operation> <ingredient action="rajouter"> ail </ingredient> , herbes de provence , <ingredient action="revenir"> persil </ingredient> , sel et poivre . laisser <operation> cuire </operation> environ 15 minutes en <operation> remuant </operation> de temps en temps . une fois la cuisson terminée , laisser refroidir . faire <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="160 gramme"> riz </ingredient> pendant que la ratatouille <operation> cuit </operation> . <operation ingredients="riz"> mélanger </operation> la ratatouille et le <ingredient action="mélanger" quantite="160 gramme"> riz </ingredient> . <operation ingredients="jambon"> mettre </operation> le <operation> mélange </operation> sur les tranches de <ingredient action="mettre" quantite="4 tranche"> jambon </ingredient> blanc et les <operation> enrouler </operation> . <operation> mettre </operation> dans un plat allant au four , <operation ingredients="gruyère"> mettre </operation> du <ingredient action="mettre" quantite="40 gramme"> gruyère </ingredient> dessus et faire <operation> gratiner </operation> .
+</preparation>
+</recette>

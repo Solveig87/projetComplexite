@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48532">
+<titre>Aiguillettes de canard aux abricots</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 g d'aiguillettes de canard</p>
+<p>5 abricots bien mûrs</p>
+<p>1 gousse d'ail</p>
+<p>1 cube de bouillon</p>
+<p>1 cuillère à soupe de miel</p>
+<p>un peu de beurre</p>
+</ingredients>
+<preparation>
+<operation ingredients="abricots;ail"> couper </operation> les <ingredient action="couper"> abricots </ingredient> et l' <ingredient action="couper"> ail </ingredient> . les <operation> verser </operation> dans une casserole et <operation ingredients="bouillon"> racler </operation> légèrement le cube de <ingredient action="racler"> bouillon </ingredient> au dessus de la casserole . faire <operation> cuire </operation> la sauce à feu fort pendant quelques minutes en <operation> remuant </operation> bien . <operation ingredients="miel"> ajouter </operation> le <ingredient action="ajouter" quantite="1 cuillère à soupe"> miel </ingredient> en fin de cuisson . <operation> réserver </operation> la sauce . faire <operation ingredients="aiguillettes;beurre"> cuire </operation> les <ingredient action="cuire" quantite="300 gramme"> aiguillettes </ingredient> 5 minutes à feu doux dans une <operation> poêle </operation> avec un peu de <ingredient action="cuire"> beurre </ingredient> . <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="canard"> retirer </operation> le <ingredient action="retirer"> canard </ingredient> du feu et le servir nappé de la sauce aux <ingredient> abricots </ingredient> .
+</preparation>
+</recette>

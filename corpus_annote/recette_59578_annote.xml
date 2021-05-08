@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59578">
+<titre>Feuilletés surprise</titre>
+<type>Plat principal</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 escalopes de blanc de poulet</p>
+<p>180 g de champignons (frais ou de Paris)</p>
+<p>1 pâte feuilletée</p>
+<p>2 oignons</p>
+<p>1 jaune d'oeuf</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignons;champignons"> revenir </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> avec les <ingredient action="revenir" quantite="180 gramme"> champignons </ingredient> . <operation ingredients="poulet"> inciser </operation> les blancs de <ingredient action="inciser"> poulet </ingredient> pour pouvoir les <operation> remplir </operation> ( pas facile au premier coup de main , mais avec un bon <ingredient> couteau </ingredient> ça doit aller ) . <operation ingredients="poulet;oignons"> farcir </operation> les blancs de <ingredient action="farcir"> poulet </ingredient> avec le <operation> mélange </operation> <ingredient action="farcir" quantite="2"> oignons </ingredient> - champignons . pour un petit feuilleté au <ingredient action="enrouler"> poulet </ingredient> : prendre un morceau de <ingredient> poulet </ingredient> , l' <operation ingredients="poulet;pâte"> enrouler </operation> avec de la <ingredient action="enrouler" quantite="1"> pâte </ingredient> feuilletée , comme pour <operation ingredients="croissant"> faire </operation> un beignet ou un <ingredient action="faire"> croissant </ingredient> . <operation ingredients="oeuf"> dorer </operation> le beignet avec un jaune d' <ingredient action="dorer"> oeuf </ingredient> . répéter l' opération pour chaque pièce de <ingredient> poulet </ingredient> . <operation> mettre </operation> au four à 180 <operation> ° </operation> c ( thermostat 6 ) pendant 20 à 30 minutes environ . pour faire plus simple , vous pouvez aussi <operation ingredients="pâte"> farcir </operation> la <ingredient action="farcir" quantite="1"> pâte </ingredient> feuilletée seulement : <operation ingredients="viande"> mettez </operation> pêle-mêle la <ingredient action="mettre" quantite="4"> viande </ingredient> , les <ingredient action="refermer" quantite="2"> oignons </ingredient> , les <ingredient action="refermer" quantite="180 gramme"> champignons </ingredient> au centre d' un <ingredient action="refermer"> rond </ingredient> de pâte ou sur la moitié d' un <ingredient action="refermer"> rond </ingredient> de pâte et <operation ingredients="oignons;champignons;rond;rond"> refermez </operation> .
+</preparation>
+</recette>

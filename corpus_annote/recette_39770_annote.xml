@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39770">
+<titre>Riz au lait de coco</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>70 cl de lait</p>
+<p>150 g de riz rond ou riz pour risotto</p>
+<p>70 g de sucre</p>
+<p>40 cl de lait de coco</p>
+<p>cannelle (facultatif)</p>
+<p>raisins au rhum (facultatif)</p>
+<p>morceaux de fruits exotiques frais : banane, mangue, ananas ou autres (facultatif, mais recommandé)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="70 cl+40 cl"> lait </ingredient> dans une casserole . quand le <ingredient quantite="70 cl+40 cl"> lait </ingredient> boue , baisser le feu au minimum et <operation ingredients="riz;sucre"> verser </operation> le <ingredient action="verser" quantite="150 gramme"> riz </ingredient> et le <ingredient action="verser" quantite="70 gramme"> sucre </ingredient> , ainsi que la <ingredient quantite=""> cannelle </ingredient> . <operation> remuer </operation> régulièrement . au bout de 20 minutes , <operation ingredients="lait;riz"> verser </operation> la moitié du <ingredient action="verser" quantite="70 cl+40 cl"> lait </ingredient> de coco dans le <ingredient action="verser" quantite="150 gramme"> riz </ingredient> . quand le <ingredient action="cuire" quantite="150 gramme"> riz </ingredient> est <operation ingredients="riz"> cuit </operation> , <operation> couper </operation> le feu et <operation ingredients="lait;raisins"> verser </operation> le restant de <ingredient action="verser" quantite="70 cl+40 cl"> lait </ingredient> de coco ainsi que les <ingredient action="verser" quantite=""> raisins </ingredient> au rhum . laisser refroidir et <operation> mettre </operation> au réfrigérateur . au moment de servir , <operation ingredients="fruits"> découper </operation> des morceaux de <ingredient action="découper" quantite=";;"> fruits </ingredient> exotiques et les <operation ingredients="riz"> mélanger </operation> au <ingredient action="mélanger" quantite="150 gramme"> riz </ingredient> au lait bien frais dans des coupelles . <operation ingredients="cannelle"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> pour la décoration . et régalez -vous ! c' est délicieux sans <ingredient quantite=";;"> fruits </ingredient> , sans <ingredient quantite=""> cannelle </ingredient> , ni raisins au <ingredient> rhum </ingredient> , mais c' est encore meilleur avec . ce <ingredient quantite="150 gramme"> riz </ingredient> au lait est très crémeux , si vous le voulez plus épais , il suffit de <operation ingredients="lait;lait"> réduire </operation> la quantité de <ingredient action="réduire" quantite="70 cl+40 cl"> lait </ingredient> ou de <ingredient action="réduire" quantite="70 cl+40 cl"> lait </ingredient> de coco .
+</preparation>
+</recette>

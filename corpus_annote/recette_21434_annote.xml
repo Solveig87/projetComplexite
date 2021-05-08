@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21434">
+<titre>Mousse à l'avocat</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 avocats </p>
+<p>2 citrons</p>
+<p>1 cuillère à soupe de cognac ou de rhum</p>
+<p>100 g de sucre semoule</p>
+<p>150 g de crème fraîche</p>
+</ingredients>
+<preparation>
+<operation ingredients="crème"> placez </operation> la <ingredient action="placer" quantite="150 gramme"> crème </ingredient> fraîche au congélateur 10 minutes . <operation ingredients="chair;avocat"> retirez </operation> la <ingredient action="retirer"> chair </ingredient> de l' <ingredient action="retirer" quantite="4"> avocat </ingredient> sans abîmer l' écorce . <operation ingredients="chair;jus;sucre;crème"> mixez </operation> la <ingredient action="mixez"> chair </ingredient> avec l' alcool , le <ingredient action="mixez"> jus </ingredient> d'1 citron et le <ingredient action="mixez" quantite="100 gramme"> sucre </ingredient> jusqu' à l' obtention d' une <ingredient action="mixez" quantite="150 gramme"> crème </ingredient> homogène . <operation ingredients="crème;chantilly"> fouettez </operation> la <ingredient action="fouetter" quantite="150 gramme"> crème </ingredient> fraîche en <ingredient action="fouetter"> chantilly </ingredient> et <operation> incorporez </operation> - la délicatement au <operation> mélange </operation> . <operation ingredients="mousse;avocats"> répartissez </operation> cette <ingredient action="répartir"> mousse </ingredient> dans les écorces d' <ingredient action="répartir" quantite="4"> avocats </ingredient> . <operation> placez </operation> au frais pendant au moins 2 heures et <operation ingredients="citron"> décorez </operation> de rondelles de <ingredient action="décorer" quantite="2"> citron </ingredient> avant de servir .
+</preparation>
+</recette>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84003">
+<titre>Griesspudding (gâteau de semoule allemand)</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>25 g de semoule fine (weizen griess)</p>
+<p>25 cl de lait</p>
+<p>1 cuillère à soupe de crème</p>
+<p>1 cuillère à soupe de sucre</p>
+<p>Pour parfumer :</p>
+<p>25 g de chocolat à cuire, ou 1 gousse de vanille fendue ou 1/2 cuillère à café de cannelle moulue</p>
+</ingredients>
+<preparation>
+dans une casserole à feu doux , <operation ingredients="lait;crème;chocolat"> mélanger </operation> le <ingredient action="mélanger" quantite="25 cl"> lait </ingredient> et la <ingredient action="mélanger" quantite="1 cuillère à soupe"> crème </ingredient> pour le parfum <ingredient action="mélanger" quantite="25 gramme"> chocolat </ingredient> , faire <operation ingredients="chocolat;crème"> fondre </operation> le <ingredient action="fondre" quantite="25 gramme"> chocolat </ingredient> avec la <ingredient action="fondre" quantite="1 cuillère à soupe"> crème </ingredient> puis <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> . pour les autres parfums , les <operation> ajouter </operation> dans le <operation> mélange </operation> crème - <ingredient quantite="25 cl"> lait </ingredient> . <operation ingredients="semoule"> ajouter </operation> la <ingredient action="ajouter"> semoule </ingredient> , <operation> remuer </operation> régulièrement jusqu' à ce que le <operation> mélange </operation> épaississe , <operation> mettre </operation> dans des ramequins ( . 3 ) et laisser refroidir . <operation> mettre </operation> au frais 1 heure . vous pouvez aussi le <operation ingredients="manger"> faire </operation> nature et le <ingredient action="faire"> manger </ingredient> avec une <ingredient> compote </ingredient> ou un coulis de <ingredient> fruits </ingredient> .
+</preparation>
+</recette>

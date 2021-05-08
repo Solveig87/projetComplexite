@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="21978">
+<titre>Salade de melon, fraises et oranges confites</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 melons ou 1 sachet de billes de melon surgelées</p>
+<p>4 oranges</p>
+<p>le jus d'1 citron</p>
+<p>15 cl de grenadine</p>
+<p>15 cl d'eau</p>
+<p>500 g de fraises</p>
+<p>150 g de sucre en poudre</p>
+</ingredients>
+<preparation>
+<operation ingredients="fraises"> lavez </operation> les <ingredient action="laver" quantite="500 gramme"> fraises </ingredient> mais ne les équeutez pas . <operation> egouttez </operation> - les , <operation> coupez </operation> - les en 2 et <operation> réservez </operation> - les au frais . d' autre part , <operation ingredients="jus;oranges"> pressez </operation> le <ingredient action="presser" quantite=""> jus </ingredient> d' une des <ingredient action="presser" quantite="4"> oranges </ingredient> , puis <operation> pelez </operation> et <operation> coupez </operation> les autres en quartiers . <operation> découpez </operation> les zestes en très très fines lamelles . <operation ingredients="sirop"> portez </operation> l' eau à <operation> ébullition </operation> avec le <ingredient action="porter"> sirop </ingredient> de grenadine . faites - y <operation action="confire" ingredients="confire;oranges"> confire </operation> les zestes d' <ingredient action="confire" quantite="4"> oranges </ingredient> pendant 10 min puis laissez refroidir . <operation> filtrez </operation> le liquide pour <operation> ôter </operation> les zestes . <operation ingredients="melons"> epépinez </operation> les <ingredient action="epépiner" quantite="3"> melons </ingredient> et <operation ingredients="chair"> formez </operation> des boules avec leur <ingredient action="former"> chair </ingredient> à l' aide d' une grande cuillère creuse ( cuillère à soupe ou à billes ) . <operation ingredients="melons;fraises;oranges;oranges"> mélangez </operation> dans un saladier les <ingredient action="mélanger" quantite="3"> melons </ingredient> , les morceaux de <ingredient action="mélanger" quantite="500 gramme"> fraises </ingredient> , les quartiers d' <ingredient action="mélanger" quantite="4"> oranges </ingredient> et les zestes d' <ingredient action="mélanger" quantite="4"> oranges </ingredient> . <operation ingredients="jus;orange;jus;citron"> ajoutez </operation> le <ingredient action="ajouter" quantite=""> jus </ingredient> de l' <ingredient action="ajouter" quantite="4"> orange </ingredient> <operation> réservée </operation> et le <ingredient action="ajouter" quantite=""> jus </ingredient> du citron ( et éventuellement les zestes de ce <ingredient action="ajouter"> citron </ingredient> ) . servez avec du <ingredient quantite="150 gramme"> sucre </ingredient> en <operation> poudre </operation> à part .
+</preparation>
+</recette>

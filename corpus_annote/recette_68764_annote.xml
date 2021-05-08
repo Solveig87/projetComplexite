@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68764">
+<titre>Dinde épices et figues</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>300 à 400 g de dinde en morceaux</p>
+<p>1 gros oignon</p>
+<p>2 figues confites</p>
+<p>un peu moins d'1/2 cuillère à café de gingembre en poudre </p>
+<p>un peu moins d'1/2 cuillère à café de coriandre en poudre</p>
+<p>2 cuillères à café de moutarde</p>
+<p>100 ml de crème liquide</p>
+<p>Huile d'olive</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="oignon;huile"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> dans une <operation> poêle </operation> avec de l' <ingredient action="revenir" quantite=""> huile </ingredient> d’ olive , <operation ingredients="figues"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> figues </ingredient> séchées <operation> coupées </operation> en morceaux , faire caraméliser légèrement . <operation ingredients="viande"> ajouter </operation> la <ingredient action="ajouter"> viande </ingredient> . <operation> saler </operation> . quand la <ingredient action="cuire"> dinde </ingredient> est presque <operation ingredients="dinde"> cuite </operation> , <operation ingredients="gingembre;coriandre"> ajouter </operation> le <ingredient action="ajouter"> gingembre </ingredient> en <operation> poudre </operation> et la <ingredient action="ajouter"> coriandre </ingredient> en <operation> poudre </operation> . puis 2 cuillères à café de moutarde . bien <operation> mélanger </operation> le tout , puis laisser <operation> mijoter </operation> à feu doux . attendre la fin de la cuisson pour <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> liquide . <operation ingredients="riz"> accompagner </operation> de <ingredient action="accompagner"> riz </ingredient> .
+</preparation>
+</recette>

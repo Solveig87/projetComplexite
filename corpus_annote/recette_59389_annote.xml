@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="59389">
+<titre>Brochettes de poulet au miel, au barbecue</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>2 poivrons</p>
+<p>2 oignons</p>
+<p>1 pincée de coriandre</p>
+<p>2 cuillères à café de cumin</p>
+<p>huile d'olive</p>
+<p>2 cuillères à soupe de miel</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="poulet;poivron;oignon"> détailler </operation> les blancs de <ingredient action="détailler"> poulet </ingredient> , le <ingredient action="détailler" quantite="2"> poivron </ingredient> et l' <ingredient action="détailler" quantite="2"> oignon </ingredient> en gros dés . les <operation ingredients="huile;coriandre;cumin"> mettre </operation> dans un saladier avec l' <ingredient action="mettre" quantite=""> huile </ingredient> d' olive , la <ingredient action="mettre" quantite="1 pincée"> coriandre </ingredient> , le <ingredient action="mettre" quantite="2 cuillère à café"> cumin </ingredient> et une cuillère à soupe de miel . <operation> saler </operation> et <operation> poivrer </operation> . les faire <operation> mariner </operation> ( le mieux c' est la veille ) . sur des pics à brochette , alterner blancs de <ingredient> poulet </ingredient> , poivrons et oignons . les <operation> mettre </operation> à <operation> cuire </operation> au barbecue . garder la marinade , <operation ingredients="miel"> rajouter </operation> du <ingredient action="rajouter" quantite="2 cuillère à soupe"> miel </ingredient> et <operation> badigeonner </operation> les brochettes de ce <operation> mélange </operation> pendant la cuisson .
+</preparation>
+</recette>

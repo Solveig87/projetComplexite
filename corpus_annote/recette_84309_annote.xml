@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="84309">
+<titre>Veau aux poireaux et à la crème</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 beaux morceaux de sauté de veau</p>
+<p>3 blancs de poireaux</p>
+<p>1 cuillère à café de fond de veau</p>
+<p>1 gros oignon</p>
+<p>un petit pot de crème (environ 20 cl)</p>
+<p>un peu de beurre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="oignon"> eplucher </operation> l' <ingredient action="eplucher" quantite="1"> oignon </ingredient> et les <operation ingredients="poireaux"> couper </operation> en juliennes avec les <ingredient action="couper"> poireaux </ingredient> . les faire <operation ingredients="beurre"> fondre </operation> dans un peu de <ingredient action="fondre"> beurre </ingredient> et les <operation> réserver </operation> . faire <operation ingredients="veau;oignon"> rissoler </operation> le <ingredient action="rissoler"> veau </ingredient> et l' <ingredient action="rissoler" quantite="1"> oignon </ingredient> . <operation ingredients="veau"> mouiller </operation> avec le fond de <ingredient action="mouiller"> veau </ingredient> délayé dans un verre d' eau , <operation> saler </operation> et <operation> poivrer </operation> . <operation ingredients="poireaux"> ajouter </operation> la fondue de <ingredient action="ajouter"> poireaux </ingredient> et laisser <operation> mijoter </operation> 10 min . avant de servir , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> fraîche . on peut <operation ingredients="pommes"> ajouter </operation> des <ingredient action="ajouter"> pommes </ingredient> de terre en début de cuisson .
+</preparation>
+</recette>

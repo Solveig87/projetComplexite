@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="39673">
+<titre>Filet de porc au pain d'épices</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Assez Cher</cout>
+<ingredients>
+<p>Un filet pur de porc</p>
+<p>échalotes</p>
+<p>bouillon de volaille (1 cube)</p>
+<p>vin rouge (un petit verre)</p>
+<p>crème fraîche épaisse</p>
+<p>quelques tranches de pain d'épices</p>
+<p>sel, poivre, épices</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="beurre;échalotes"> brunir </operation> dans du <ingredient action="brunir"> beurre </ingredient> , quelques <ingredient action="brunir" quantite=""> échalotes </ingredient> <operation> émincées </operation> . <operation ingredients="porc"> ajouter </operation> le filet pur de <ingredient action="ajouter"> porc </ingredient> , et le faire <operation ingredients="épices;épices"> brunir </operation> , en le saupoudrant d' <ingredient action="brunir" quantite=""> épices </ingredient> " 4 <ingredient action="brunir" quantite=""> épices </ingredient> " . <operation ingredients="bouillon;vin"> mouiller </operation> , de <ingredient action="mouiller" quantite=""> bouillon </ingredient> de volaille et de <ingredient action="mouiller" quantite=""> vin </ingredient> rouge , et laisser <operation> cuire </operation> à feu doux , pendant 45 min . <operation ingredients="viande"> retirer </operation> la <ingredient action="retirer"> viande </ingredient> et faire <operation ingredients="pain"> fondre </operation> , dans le fond de cuisson , deux ou trois tranches de <ingredient action="fondre" quantite="quelque tranche"> pain </ingredient> d' épices . <operation ingredients="crème"> ajouter </operation> de la <ingredient action="ajouter" quantite=""> crème </ingredient> fraiche épaisse ( 200 g ) , et faire <operation> fondre </operation> ( 5 min ) . <operation ingredients="viande"> couper </operation> la <ingredient action="couper"> viande </ingredient> en tranches épaisses , et la replacer dans la sauce ( 5 min ) . servir . délicieux , avec des <ingredient> poires </ingredient> chaudes et une petite purée .
+</preparation>
+</recette>

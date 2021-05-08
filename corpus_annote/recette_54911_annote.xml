@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="54911">
+<titre>Magret sauce au pineau</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 petits magrets de canard</p>
+<p>30 cl de pineau</p>
+<p>1 oignon</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>1 cuillère à soupe de crème fraîche</p>
+<p>1 cuillère à café de farine</p>
+<p>1 cuillère à café de bouillon de volaille en poudre</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="magrets"> cuire </operation> les <ingredient action="cuire" quantite="4"> magrets </ingredient> de canard sur le grill puis <operation> réservé </operation> . <operation ingredients="oignon"> emincer </operation> l' <ingredient action="emincer" quantite="1"> oignon </ingredient> finement . dans une casserole , <operation ingredients="huile"> verser </operation> l' <ingredient action="verser" quantite="2 cuillère à soupe"> huile </ingredient> d' olive et y faire <operation ingredients="oignon"> revenir </operation> l' <ingredient action="revenir" quantite="1"> oignon </ingredient> . quand les <ingredient quantite="1"> oignons </ingredient> sont bien dorés , <operation> déglacer </operation> le tout avec le pineau . <operation> ajouter </operation> la cuillère à café de bouillon de volaille en <operation> poudre </operation> . laisser <operation> mijoter </operation> 5 minutes à <operation> couvert </operation> . ensuite <operation ingredients="farine"> ajouter </operation> la <ingredient action="ajouter" quantite="1 cuillère à café"> farine </ingredient> pour <operation> épaissir </operation> le tout . <operation> délayer </operation> une cuillère à soupe de crème fraîche dans la sauce . laisser <operation> mijoter </operation> 5 minutes . servir la sauce sur les <ingredient quantite="4"> magrets </ingredient> . c' est un bon plat <operation> sucré </operation> <ingredient> salé </ingredient> . un <ingredient> bordeaux </ingredient>
+</preparation>
+</recette>

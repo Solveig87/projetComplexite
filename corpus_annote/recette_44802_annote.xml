@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="44802">
+<titre>Chair à saucisse</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 kg de jambon de porc frais découenné, désossé, dégraissé (pas totalement, en laisser un peu en surface)</p>
+<p>3 g de poivre du moulin</p>
+<p>7 g de sel</p>
+<p>un petit verre d'eau</p>
+</ingredients>
+<preparation>
+<operation ingredients="viande"> hacher </operation> la <ingredient action="hacher" quantite="1 kilogramme"> viande </ingredient> ( avec une <operation> grille </operation> moyenne ) . <operation> saler </operation> et <operation> poivrer </operation> . <operation> mouiller </operation> un peu , mais suffisamment pour <operation ingredients="viande"> mélanger </operation> sans que la <ingredient action="mélanger" quantite="1 kilogramme"> viande </ingredient> ne soit trop collante . <operation> mélanger </operation> , mais pas trop ; il ne faut pas <operation> pétrir </operation> , juste <operation ingredients="viande;assaisonnement"> mélanger </operation> la <ingredient action="mélanger" quantite="1 kilogramme"> viande </ingredient> et son <ingredient action="mélanger" quantite="3 gramme;7 gramme"> assaisonnement </ingredient> . c' est prêt ! <operation> mettre </operation> dans un boyau , et voici une succulente <ingredient> saucisse </ingredient> de toulouse . une base simple et maigre pour tous <ingredient> légumes </ingredient> farcies et <ingredient> saucisses </ingredient> maisons .
+</preparation>
+</recette>

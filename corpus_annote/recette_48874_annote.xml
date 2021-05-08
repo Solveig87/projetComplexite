@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48874">
+<titre>Lasagnes express carottes jambon</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 paquets de purée de carottes surgelée</p>
+<p>12 tranches de jambon (de porc, de dinde, de poulet)</p>
+<p>feuilles de lasagnes</p>
+<p>gruyère rapé</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+la veille , penser à <operation ingredients="carottes"> mettre </operation> les purées de <ingredient action="mettre"> carottes </ingredient> à <operation> décongeler </operation> dans un récipient ( sinon , on perd de la purée qui reste accrochée au sachet . . . ! ) . dans un plat à lasagnes , commencer par étaler environ 2 cm de purée . <operation ingredients="jambon;non"> recouvrir </operation> avec le <ingredient action="recouvrir" quantite="12 tranche"> jambon </ingredient> , puis avec les feuilles de lasagnes ( <ingredient action="recouvrir" quantite="3;"> non </ingredient> précuites ) . continuer l' alternance jusqu' à épuisement des ingrédients mais se débrouiller pour finir avec de la purée ( bien <operation> assaisonner </operation> entre chaque couche ) . <operation ingredients="gruyère"> parsemer </operation> de <ingredient action="parsemer" quantite=""> gruyère </ingredient> et faire <operation> cuire </operation> 30 min à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

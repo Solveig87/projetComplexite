@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="18272">
+<titre>Chocos cocos</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 oeufs</p>
+<p>1 yaourt nature (garder le pot pour mesurer)</p>
+<p>3 pots de farine</p>
+<p>2 pots de sucre</p>
+<p>1 pot d'huile</p>
+<p>1 sachet de levure</p>
+<p>200 gr de chocolat noir</p>
+<p>1 sachet de noix de coco rapée</p>
+</ingredients>
+<preparation>
+<operation ingredients="gâteau"> faire </operation> un <ingredient action="faire"> gâteau </ingredient> au yaourt en <operation ingredients="yaourt"> mélangeant </operation> : <ingredient action="mélanger" quantite="1"> yaourt </ingredient> , oeufs , farine , sucre , huile et levure . <operation> verser </operation> la préparation dans un <operation> moule </operation> beurré et <operation> fariné </operation> , <operation> mettre </operation> à four chaud 40 mn . faire refroidir le <ingredient> gâteau </ingredient> et le <operation> couper </operation> en petits morceaux de même taille . faire <operation ingredients="chocolat;lait;crème"> fondre </operation> le <ingredient action="fondre" quantite="200 gr"> chocolat </ingredient> avec un peu de <ingredient action="fondre"> lait </ingredient> , d' eau ou de <ingredient action="fondre"> crème </ingredient> fraîche <operation ingredients="gâteau;chocolat"> passer </operation> les morceaux de <ingredient action="passer"> gâteau </ingredient> dans le <ingredient action="passer" quantite="200 gr"> chocolat </ingredient> , puis les <operation ingredients="noix"> rouler </operation> dans la <ingredient action="rouler"> noix </ingredient> de coco <operation> rapée </operation> . <operation> mettre </operation> au frais et régalez -vous .
+</preparation>
+</recette>

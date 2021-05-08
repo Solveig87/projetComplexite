@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="10595">
+<titre>Pain d'œufs au caramel de l'abbaye de Château-Chalon</titre>
+<type>Dessert</type>
+<niveau>Moyennement difficile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>50 cl de lait</p>
+<p>1 gousse de vanille</p>
+<p>3 oeufs</p>
+<p>125 g de sucre</p>
+<p>Pour le caramel :</p>
+<p>15 cl d'eau</p>
+<p>250 g de sucre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> un demi litre de <ingredient action="bouillir" quantite="50 cl"> lait </ingredient> avec un peu de vanille , le laisser refroidir à demi , y <operation ingredients="oeufs"> verser </operation> trois <ingredient action="verser" quantite="3"> oeufs </ingredient> bien <operation ingredients="sucre"> battus </operation> avec 125 gr de <ingredient action="battre" quantite="125 gramme+250 gramme"> sucre </ingredient> et bien <operation> mélanger </operation> le tout . prendre un <operation> moule </operation> en métal dans lequel on <operation ingredients="sucre"> fait </operation> un caramel avec de l' eau et du <ingredient action="faire" quantite="125 gramme+250 gramme"> sucre </ingredient> en l' <operation> étendant </operation> sur toute la paroi du <operation> moule </operation> , y <operation ingredients="oeufs;lait"> verser </operation> le <operation> mélange </operation> d' <ingredient action="verser" quantite="3"> oeufs </ingredient> et de <ingredient action="verser" quantite="50 cl"> lait </ingredient> et faire <operation> cuire </operation> au bain - marie pendant à peu près trois quarts d' heure . recette franc-comtoise d' avant 1927 .
+</preparation>
+</recette>

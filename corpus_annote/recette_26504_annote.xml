@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26504">
+<titre>Gratin thon pommes de terre</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 kg de pommes de terre</p>
+<p>400 g de thon en boîte au naturel</p>
+<p>25 cl de lait</p>
+<p>2 oeufs</p>
+<p>10 cl de crème fraîche</p>
+<p>2 cuillères à soupe de chapelure</p>
+<p>20 g de beurre</p>
+<p>2 cuillères à soupe de ciboulette ciselée</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="pommes"> pelez </operation> et <operation> coupez </operation> les <ingredient action="peler" quantite="1 kilogramme"> pommes </ingredient> de terre en rondelles épaisses . <operation> egouttez </operation> et <operation ingredients="thon"> émiettez </operation> le <ingredient action="émietter" quantite="400 gramme"> thon </ingredient> . <operation ingredients="oeufs;lait;crème"> fouettez </operation> les <ingredient action="fouetter" quantite="2"> oeufs </ingredient> en omelette avec le <ingredient action="fouetter" quantite="25 cl"> lait </ingredient> et la <ingredient action="fouetter" quantite="10 cl"> crème </ingredient> fraîche . <operation> salez </operation> , <operation> poivrez </operation> , <operation ingredients="ciboulette"> ajoutez </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> ciboulette </ingredient> . <operation> beurrez </operation> un plat allant au four , <operation ingredients="pommes;thon"> déposez </operation> une couche de <ingredient action="déposer" quantite="1 kilogramme"> pommes </ingredient> de terre au fond , puis une couche de miettes de <ingredient action="déposer" quantite="400 gramme"> thon </ingredient> . <operation ingredients="oeufs"> nappez </operation> avec un peu de préparation aux <ingredient action="nappez" quantite="2"> oeufs </ingredient> . répétez l' opération jusqu' à épuisement des ingrédients . terminez par une couche de <ingredient quantite="1 kilogramme"> pommes </ingredient> de terre + <operation> mélange </operation> aux <ingredient quantite="2"> oeufs </ingredient> . <operation ingredients="chapelure;noisettes"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite="2 cuillère à soupe"> chapelure </ingredient> , <operation> parsemez </operation> de <ingredient action="saupoudrer"> noisettes </ingredient> de beurre et <operation> enfournez </operation> pour 40 minutes , au four à 180 <operation> ° </operation> c ( thermostat 6 ) .
+</preparation>
+</recette>

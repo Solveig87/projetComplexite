@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="37830">
+<titre>Riz pimenté aux crevettes</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>250 g de riz thaï cru</p>
+<p>400 g de crevettes fraîches décortiquées</p>
+<p>2 cuillères à soupe d'huile d'olive</p>
+<p>3 gousses d'ail</p>
+<p>1 bouquet de basilic frais</p>
+<p>2 gouttes de sauce de piment liquide ou sauce chili</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="riz;salé"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> pendant 11 min dans de l' eau <ingredient action="cuire"> salé </ingredient> . pendant ce temps , faites <operation ingredients="huile"> chauffer </operation> l' <ingredient action="chauffer" quantite="2 cuillère à soupe"> huile </ingredient> dans une sauteuse . <operation ingredients="ail;basilic"> ajoutez </operation> l' <ingredient action="ajouter"> ail </ingredient> <operation> haché </operation> et le <ingredient action="ajouter"> basilic </ingredient> <operation> ciselées </operation> ( gardez quelques feuilles pour la décoration ) . <operation ingredients="crevettes"> incorporez </operation> les <ingredient action="incorporer" quantite="400 gramme"> crevettes </ingredient> . <operation> salez </operation> , <operation> poivrez </operation> et laissez <operation> cuire </operation> pendant 2 min . <operation ingredients="riz"> ajoutez </operation> le <ingredient action="ajouter"> riz </ingredient> cuit égoutté et les gouttes de piment liquide . <operation> mélangez </operation> le tout . vous pouvez remplacer le piment liquide par du piment <operation> moulu </operation> mais n' ayez pas la main lourde ! ! !
+</preparation>
+</recette>

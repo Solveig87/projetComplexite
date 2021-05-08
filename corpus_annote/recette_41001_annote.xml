@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41001">
+<titre>Soupe de concombre au saumon fumé</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>2 concombres (environ 1,2 kg)</p>
+<p>2 échalotes</p>
+<p>30 g de beurre</p>
+<p>95 cl de bouillon de légume</p>
+<p>poivre de cayenne</p>
+<p>coriandre</p>
+<p>100 g de saumon fumé</p>
+<p>6 cl de crème fraîche</p>
+<p>aneth en garniture</p>
+</ingredients>
+<preparation>
+<operation> eplucher </operation> le <operation action="concombre" ingredients="concombre"> concombre </operation> , <operation> couper </operation> en 4 dans le sens de la longueur . <operation> enlever </operation> les graines et <operation> couper </operation> le reste en tranches fines . <operation ingredients="échalotes"> couper </operation> finement les <ingredient action="couper" quantite="2"> échalotes </ingredient> . faire <operation ingredients="beurre"> fondre </operation> le <ingredient action="fondre" quantite="30 gramme"> beurre </ingredient> dans une casserole . y <operation ingredients="concombres;échalotes"> ajouter </operation> les <ingredient action="ajouter" quantite="2"> concombres </ingredient> , puis les <ingredient action="ajouter" quantite="2"> échalotes </ingredient> et faire <operation> cuire </operation> à feu doux . <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="95 cl"> bouillon </ingredient> , <operation ingredients="sel;coriandre"> assaisonner </operation> avec <ingredient action="assaisonner"> sel </ingredient> , poivre de cayenne et <ingredient action="assaisonner" quantite=""> coriandre </ingredient> . <operation> couvrir </operation> et laisser <operation> mijoter </operation> 10 minutes à feu moyen . pendant ce temps , <operation ingredients="saumon"> couper </operation> le <ingredient action="couper"> saumon </ingredient> en lamelles . <operation ingredients="soupe"> mixer </operation> la <ingredient action="mixer"> soupe </ingredient> . <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="6 cl"> crème </ingredient> fraiche et <operation ingredients="sel"> rajouter </operation> du <ingredient action="rajouter"> sel </ingredient> si nécessaire ( ne pas oublier de prendre en compte la salaison du <ingredient> saumon </ingredient> à venir ) . <operation ingredients="saumon"> ajouter </operation> le <ingredient action="ajouter"> saumon </ingredient> . <operation ingredients="soupe"> verser </operation> la <ingredient action="verser"> soupe </ingredient> dans des assiettes individuelles , chaudes de préférence , <operation ingredients="aneth"> garnir </operation> avec l' <ingredient action="garnir" quantite=""> aneth </ingredient> , et servir immédiatement . généralement j' ajoute le <ingredient> saumon </ingredient> une fois la <ingredient> soupe </ingredient> de concombre servie . plus facile , et les parts sont plus équitables . . . <ingredient> vin </ingredient> blanc sec
+</preparation>
+</recette>

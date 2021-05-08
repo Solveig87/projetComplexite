@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="31559">
+<titre>Tomates farcies au yaourt</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 yaourts natures, liquides de préférence</p>
+<p>4 grosses tomates</p>
+<p>le jus de d'un citron et demi</p>
+<p>des épices hachées diverses (persil, estragon, ciboulette) </p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> évider </operation> les <ingredient action="évider" quantite="4"> tomates </ingredient> . <operation ingredients="yaourt;citron;épices"> mélanger </operation> le <ingredient action="mélanger" quantite="4"> yaourt </ingredient> , le <ingredient action="mélanger"> citron </ingredient> et les <ingredient action="mélanger" quantite=""> épices </ingredient> . <operation ingredients="tomates"> remplir </operation> les <ingredient action="remplir" quantite="4"> tomates </ingredient> avec . servir frais . c' est une entrée ou un <ingredient> apéritif </ingredient> frais mais un peu fade , c' est donc meilleur avec une <ingredient> salade </ingredient> .
+</preparation>
+</recette>

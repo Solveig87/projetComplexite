@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="26211">
+<titre>Purée au chili</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>350 g de steak haché</p>
+<p>de la purée (maison ou non, meilleur avec de la muscade) </p>
+<p>200 g de champignons de Paris</p>
+<p>2 oignons</p>
+<p>300 g de tomates pelées</p>
+<p>du parmesan</p>
+<p>ail</p>
+<p>chili</p>
+<p>cumin</p>
+<p>sel et poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="oignons;huile"> revenir </operation> dans une <operation> poêle </operation> les <ingredient action="revenir" quantite="2"> oignons </ingredient> avec de l' <ingredient action="revenir"> huile </ingredient> d' olive , <operation ingredients="champignons;viande;épices"> ajoutez </operation> ensuite les <ingredient action="ajouter" quantite="200 gramme"> champignons </ingredient> , puis la <ingredient action="ajouter" quantite="350 gramme"> viande </ingredient> et les <ingredient action="ajouter" quantite=";;"> épices </ingredient> . faites <operation> cuire </operation> pendant environ 5 mn , <operation ingredients="tomates;jus"> ajoutez </operation> finalement les <ingredient action="ajouter" quantite="300 gramme"> tomates </ingredient> avec leur <ingredient action="ajouter"> jus </ingredient> et laissez <operation> réduire </operation> ( ~10 mn ) . <operation> mettez </operation> alors cette préparation dans un plat allant au four , <operation> recouvrez </operation> - la de purée puis <operation ingredients="parmesan"> saupoudrez </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> , et faites <operation> gratiner </operation> au four pendant environ 10 mn . ce plat est une bonne alternative au traditionnel chili con carne !
+</preparation>
+</recette>

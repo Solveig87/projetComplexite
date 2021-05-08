@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="86164">
+<titre>Pâte à gaufre facile</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de farine</p>
+<p>100 g de beurre fondu</p>
+<p>25 cl de lait</p>
+<p>25 cl d'eau</p>
+<p>6 œufs</p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;œufs"> mélanger </operation> la <ingredient action="mélanger" quantite="500 gramme"> farine </ingredient> et les <ingredient action="mélanger" quantite="6"> œufs </ingredient> , <operation ingredients="lait"> ajouter </operation> le <ingredient action="ajouter" quantite="25 cl"> lait </ingredient> et l' eau en <operation> mélangeant </operation> énergiquement , pour ne pas avoir de grumeaux . ensuite <operation ingredients="beurre"> ajouter </operation> le <ingredient action="ajouter"> beurre </ingredient> <operation> fondu </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="20648">
+<titre>Pâte à crêpes très simple</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>2 tasses de farine</p>
+<p>2 oeufs entier</p>
+<p>2 paquets de sucre vanillé</p>
+<p>1 pincée de sel</p>
+<p>3 tasses de lait (ou eau) </p>
+</ingredients>
+<preparation>
+<operation ingredients="farine;oeufs;sucre;sel"> mettre </operation> la <ingredient action="mettre"> farine </ingredient> , les 2 <ingredient action="mettre" quantite="2"> oeufs </ingredient> , les 2 paquets de <ingredient action="mettre"> sucre </ingredient> vanillé et la pincée de <ingredient action="mettre" quantite="1 pincée"> sel </ingredient> dans le bol du robot . <operation> mixer </operation> le tout , en <operation ingredients="lait"> ajoutant </operation> petit à petit le <ingredient action="ajouter"> lait </ingredient> . <operation ingredients="pâte"> mélanger </operation> jusqu' à ce que la <ingredient action="mélanger"> pâte </ingredient> soit homogène , et le tour est joué ! <ingredient> cidre </ingredient>
+</preparation>
+</recette>

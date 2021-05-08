@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="23771">
+<titre>Rougets farcis en papillote</titre>
+<type>Plat principal</type>
+<niveau>Facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>4 rougets grondins ou 8 rougets barbets vidés</p>
+<p>100 g de lard fumé</p>
+<p>1/2 bulbe de fenouil</p>
+<p>1 cuillère à soupe de basilic haché</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+<operation ingredients="lard;fenouil"> hachez </operation> le <ingredient action="hacher"> lard </ingredient> et le <ingredient action="hacher"> fenouil </ingredient> . <operation ingredients="basilic;huile;sel;poivre"> mélangez </operation> - les avec le <ingredient action="mélanger" quantite="1 cuillère à soupe"> basilic </ingredient> , l' <ingredient action="mélanger" quantite="1 cuillère à soupe"> huile </ingredient> d' olive , un peu de <ingredient action="mélanger" quantite=""> sel </ingredient> et de <ingredient action="mélanger" quantite=""> poivre </ingredient> . <operation ingredients="rougets"> farcissez </operation> les <ingredient action="farcir"> rougets </ingredient> de ce <operation> mélange </operation> , et <operation> enveloppez </operation> - les dans du papier aluminium . fezmes les papillotes et faites <operation> cuire </operation> 15 minutes sur le barbecue , ou sous le grill du four . <operation> retournez </operation> - les à mi-cuisson . <operation ingredients="huile;fenouil"> accompagnez </operation> de purée à l' <ingredient action="accompagner" quantite="1 cuillère à soupe"> huile </ingredient> d' olive et de <ingredient action="accompagner"> fenouil </ingredient> <operation> grillé </operation> .
+</preparation>
+</recette>

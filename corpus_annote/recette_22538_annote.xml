@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="22538">
+<titre>Poulet  'grand-mère'</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>4 blancs de poulet</p>
+<p>4 tranches de poitrine fumée</p>
+<p>1 kg de pommes de terre</p>
+<p>150 g de champignons émincés</p>
+<p>1 oignons</p>
+<p>12,5 cl de vin blanc</p>
+<p>1 bouillon-cube de volaille</p>
+</ingredients>
+<preparation>
+dans une cocotte , <operation ingredients="huile"> chauffer </operation> un fond d' <ingredient action="chauffer"> huile </ingredient> et faite <operation> revenir </operation> l' oigon puis les <ingredient quantite="150 gramme"> champignons </ingredient> . <operation ingredients="poitrine;poulet"> ajouter </operation> la <ingredient action="ajouter" quantite="4 tranche"> poitrine </ingredient> fumée puis les blancs de <ingredient action="ajouter"> poulet </ingredient> que vous faites <operation> revenir </operation> . <operation ingredients="vin"> verser </operation> le <ingredient action="verser" quantite="12,5 cl"> vin </ingredient> blanc et <operation ingredients="bouillon"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> bouillon </ingredient> - cube . <operation ingredients="pommes"> mettez </operation> les <ingredient action="mettre" quantite="1 kilogramme"> pommes </ingredient> de terre <operation ingredients="carrés"> épluchées </operation> et <operation> coupées </operation> en petits <ingredient action="éplucher"> carrés </ingredient> . fermer la cocotte et laisser <operation> cuire </operation> 10 mn après rotation .
+</preparation>
+</recette>

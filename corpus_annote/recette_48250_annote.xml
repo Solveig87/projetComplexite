@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="48250">
+<titre>Salade de pommes de terre à la grecque</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 tomates</p>
+<p>1/2 concombre</p>
+<p>mozzarella</p>
+<p>1 pincée d'herbes de Provence</p>
+<p>2 pommes de terre</p>
+<p>1 poivron rouge</p>
+<p>50 g d'olives noires</p>
+</ingredients>
+<preparation>
+<operation ingredients="tomates"> découper </operation> les <ingredient action="découper" quantite="3"> tomates </ingredient> en petits dés et les <operation> mettre </operation> dans un saladier . <operation ingredients="concombre;poivron;olives;pommes"> ajouter </operation> le <ingredient action="ajouter" quantite="1"> concombre </ingredient> , le <ingredient action="ajouter"> poivron </ingredient> rouge et les <ingredient action="ajouter" quantite="50 gramme"> olives </ingredient> noires <operation> eplucher </operation> les <ingredient action="ajouter" quantite="2"> pommes </ingredient> de terre et les <operation> découper </operation> en dés ; puis les faire <operation> chauffer </operation> . attention : il ne faut pas qu' elles soit trop molles ! et les <operation> ajouter </operation> . <operation ingredients="mozzarella"> découper </operation> la <ingredient action="découper" quantite=""> mozzarella </ingredient> en lamelles , et <operation> ajouter </operation> une pincée d' herbes de provence . n' hésitez pas à <operation ingredients="huile"> mettre </operation> de l' <ingredient action="mettre"> huile </ingredient> d' olive ! un bon rosé suffira
+</preparation>
+</recette>

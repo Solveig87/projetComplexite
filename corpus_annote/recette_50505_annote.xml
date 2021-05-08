@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="50505">
+<titre>Crème glacée au romarin</titre>
+<type>Dessert</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>38 cl de lait</p>
+<p>2 branches de romarin frais</p>
+<p>2 jaunes d'oeufs</p>
+<p>50 g de sucre de canne blond</p>
+<p>5 cl de crème fraîche épaisse</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="38 cl"> lait </ingredient> dans une casserole . <operation> ajouter </operation> les feuilles de romarin , <operation> couvrir </operation> et laisser <operation> infuser </operation> 20 minutes hors du feu . <operation ingredients="oeufs;sucre;lait"> fouetter </operation> les jaunes d' <ingredient action="fouetter"> oeufs </ingredient> avec le <ingredient action="fouetter" quantite="50 gramme"> sucre </ingredient> , <operation ingredients="crème"> ajouter </operation> la <ingredient action="ajouter" quantite="5 cl"> crème </ingredient> fraîche puis le <ingredient action="fouetter" quantite="38 cl"> lait </ingredient> <operation> passé </operation> au tamis . <operation> remettre </operation> le tout dans la casserole sur feu doux , <operation> remuer </operation> avec une cuillère en bois jusqu' à ce que le <operation> mélange </operation> épaississe et nappe la cuillère . <operation> transvaser </operation> dans un récipient , <operation> couvrir </operation> et <operation> mettre </operation> au congélateur . <operation> remuer </operation> la préparation avec une fourchette toutes les 30 minutes et au moins 3 fois pour éviter la formation de cristaux de <ingredient> glace </ingredient> . n' hésitez pas à utiliser votre sorbetière .
+</preparation>
+</recette>
