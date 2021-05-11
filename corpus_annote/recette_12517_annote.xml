@@ -12,6 +12,6 @@
 <p>zeste et jus d'un pamplemousse</p>
 </ingredients>
 <preparation>
-<operation ingredients="farine"> mélanger </operation> <ingredient action="mélanger" quantite="350 gramme"> farine </ingredient> et sucre . <operation ingredients="oeufs;huile;jus"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> avec l' <ingredient action="battre" quantite="25 cl"> huile </ingredient> , zeste , <ingredient action="battre"> jus </ingredient> . <operation ingredients="farine"> incorporer </operation> la <ingredient action="incorporer" quantite="350 gramme"> farine </ingredient> . <operation> verser </operation> dans un <operation> moule </operation> et faire <operation> cuire </operation> à four chaud 170 <operation> ° </operation> 30 min .
+<operation ingredients="farine;sucre"> mélanger </operation> <ingredient action="mélanger" quantite="350 gramme"> farine </ingredient> et <ingredient action="mélanger" quantite="200 gramme"> sucre </ingredient> . <operation ingredients="oeufs;huile;jus"> battre </operation> les <ingredient action="battre" quantite="3"> oeufs </ingredient> avec l' <ingredient action="battre" quantite="25 cl"> huile </ingredient> , zeste , <ingredient action="battre"> jus </ingredient> . <operation ingredients="farine"> incorporer </operation> la <ingredient action="incorporer" quantite="350 gramme"> farine </ingredient> . <operation> verser </operation> dans un <operation> moule </operation> et faire <operation> cuire </operation> à four chaud 170 <operation> ° </operation> 30 min .
 </preparation>
 </recette>

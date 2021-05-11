@@ -10,6 +10,6 @@
 <p>mayonnaise</p>
 </ingredients>
 <preparation>
-<operation ingredients="celeri"> eplucher </operation> le <ingredient action="eplucher"> celeri </ingredient> , le <operation> laver </operation> , le <operation> couper </operation> en morceaux fins . <operation ingredients="cervelas"> couper </operation> le <ingredient action="couper" quantite="3"> cervelas </ingredient> en fines tranches . <operation ingredients="cervelas;mayonnaise"> mélanger </operation> <ingredient action="mélanger" quantite="3"> cervelas </ingredient> et celeri avec la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et le tour est joué .
+<operation ingredients="celeri"> eplucher </operation> le <ingredient action="eplucher" quantite="3 branche"> celeri </ingredient> , le <operation> laver </operation> , le <operation> couper </operation> en morceaux fins . <operation ingredients="cervelas"> couper </operation> le <ingredient action="couper" quantite="3"> cervelas </ingredient> en fines tranches . <operation ingredients="cervelas;celeri;mayonnaise"> mélanger </operation> <ingredient action="mélanger" quantite="3"> cervelas </ingredient> et <ingredient action="mélanger" quantite="3 branche"> celeri </ingredient> avec la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et le tour est joué .
 </preparation>
 </recette>

@@ -14,6 +14,6 @@
 <p>noix</p>
 </ingredients>
 <preparation>
-<operation> détailler </operation> tous les ingrédients ( froids ) en petits morceaux . <operation> mélanger </operation> le tout . <operation> rajouter </operation> des betteraves suivant les goûts ou la couleur désirée . se déguste froid , avec du <ingredient> pain </ingredient> gris et une sauce <ingredient> mayonnaise </ingredient> . ce plat est servi dans les cantons de l' est les lendemains de carnaval !
+<operation> détailler </operation> tous les ingrédients ( froids ) en petits morceaux . <operation> mélanger </operation> le tout . <operation ingredients="betteraves"> rajouter </operation> des <ingredient action="rajouter"> betteraves </ingredient> suivant les goûts ou la couleur désirée . se déguste froid , avec du <ingredient> pain </ingredient> gris et une sauce <ingredient> mayonnaise </ingredient> . ce plat est servi dans les cantons de l' est les lendemains de carnaval !
 </preparation>
 </recette>

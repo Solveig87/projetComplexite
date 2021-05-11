@@ -10,6 +10,6 @@
 <p>2 concombres </p>
 </ingredients>
 <preparation>
-<operation ingredients="concombres"> peler </operation> les <ingredient action="peler" quantite="2"> concombres </ingredient> , les <operation> détailler </operation> en tronçons de 6 cm environ , et les <operation> évider </operation> . <operation> saler </operation> légèrement l' intérieur et l' extérieur , et laisser dégorger au frais pendant au moins 1 h. <operation ingredients="carrés"> ecraser </operation> à la fourchette les <ingredient action="ecraser"> carrés </ingredient> frais et les herbes fraîches , <operation> poivrer </operation> . <operation> remplisser </operation> l' intérieur des cocombres , et servir .
+<operation ingredients="concombres"> peler </operation> les <ingredient action="peler" quantite="2"> concombres </ingredient> , les <operation> détailler </operation> en tronçons de 6 cm environ , et les <operation> évider </operation> . <operation> saler </operation> légèrement l' intérieur et l' extérieur , et laisser dégorger au frais pendant au moins 1 h. <operation ingredients="carrés;herbes"> ecraser </operation> à la fourchette les <ingredient action="ecraser" quantite="2"> carrés </ingredient> frais et les <ingredient action="ecraser"> herbes </ingredient> fraîches , <operation> poivrer </operation> . <operation> remplisser </operation> l' intérieur des cocombres , et servir .
 </preparation>
 </recette>

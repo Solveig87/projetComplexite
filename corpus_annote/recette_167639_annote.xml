@@ -11,6 +11,6 @@
 <p>gingembre en poudre</p>
 </ingredients>
 <preparation>
-faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire"> riz </ingredient> . faites <operation> cuire </operation> l' eau et l' <operation ingredients="sel;poivre"> assaisonné </operation> avec les epices ainsi que le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation> egoutter </operation> le <ingredient> riz </ingredient> et <operation> placez </operation> le dans l' eau <operation> assaisonné </operation> .
+faites <operation ingredients="riz"> cuire </operation> le <ingredient action="cuire" quantite="1 sachet"> riz </ingredient> . faites <operation> cuire </operation> l' eau et l' <operation ingredients="sel;poivre"> assaisonné </operation> avec les epices ainsi que le <ingredient action="assaisonner" quantite=""> sel </ingredient> et le <ingredient action="assaisonner" quantite=""> poivre </ingredient> . <operation> egoutter </operation> le <ingredient quantite="1 sachet"> riz </ingredient> et <operation> placez </operation> le dans l' eau <operation> assaisonné </operation> .
 </preparation>
 </recette>

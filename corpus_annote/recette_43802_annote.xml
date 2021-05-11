@@ -12,6 +12,6 @@
 <p>40 g de beurre</p>
 </ingredients>
 <preparation>
-faire <operation ingredients="crevettes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="600 gramme"> crevettes </ingredient> dans le <ingredient action="revenir" quantite="40 gramme"> beurre </ingredient> . <operation> flamber </operation> avec l' alcool , puis <operation ingredients="crème"> ajouter </operation> les herbes , et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . laisser <operation> réduire </operation> 15 min à feu moyen . servir chaud .
+faire <operation ingredients="crevettes;beurre"> revenir </operation> les <ingredient action="revenir" quantite="600 gramme"> crevettes </ingredient> dans le <ingredient action="revenir"> beurre </ingredient> . <operation> flamber </operation> avec l' alcool , puis <operation ingredients="herbes;crème"> ajouter </operation> les <ingredient action="ajouter" quantite=""> herbes </ingredient> , et la <ingredient action="ajouter" quantite="20 cl"> crème </ingredient> . laisser <operation> réduire </operation> 15 min à feu moyen . servir chaud .
 </preparation>
 </recette>

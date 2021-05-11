@@ -1,3 +1,6 @@
+# utils.py - Solveig PODER, Camille REY
+# ensemble de fonction utilisées par plusieurs autres scripts dans le projet
+
 import json
 import re
 import spacy
@@ -81,7 +84,9 @@ def get_ingredients_bruts(recette_xml):
         ingredient = ingredient.getText()
         ingredient = re.sub(r"\([^\)]+\)", "", ingredient)
         ingredient = ingredient.strip()
-        if not ingredient.startswith("Pour") and ingredient != "" :
+        if ingredient.startswith("Pour"):
+            ingredient = re.sub(r"Pour[^:]*", "", ingredient).strip()
+        if ingredient != "" :
             if "," in ingredient and len(float.findall(ingredient)) == 0:
                 ingredient = ingredient.split(", ")
                 liste_ingr.extend([ingr for ingr in ingredient if ingr != ""])
@@ -98,9 +103,10 @@ def nettoyer_ingr(ingredient):
     param : ingredient - string, l'ingredient à nettoyer
     return : ingredient_clean - string, l'ingrédient nettoyé
     """
-    ingredient_clean = re.sub("\b(?:frais|beau|grand|petit|bel|sécher|sec|moyen|fumer|fumé|gros|bon)\b", "", ingredient)
+    ingredient_clean = re.sub(r"\b(?:frais|beau|grand|petit|bel|sécher|sec|moyen|fumer|fumé|gros|bon|rassir|rassi|presque)\b", "", ingredient)
     ingredient_clean = re.sub(r"\s+", " ", ingredient_clean)
     ingredient_clean = re.sub(r"^un", "1", ingredient_clean)
+    ingredient_clean = re.sub(r"1/2", "0,5", ingredient_clean).strip()
     return ingredient_clean
 
 def get_ingredients_infos(recette_xml):
@@ -113,7 +119,7 @@ def get_ingredients_infos(recette_xml):
 
     ingredients = get_ingredients_bruts(recette_xml)
 
-    quantite = re.compile(r"^(?:[0-9]+, ?[0-9]+|quelque|[0-9]+)(?: ?(?:pincée|demi|cuillère(?: à (?:soupe|café))?|pot|verre|tranche|feuille|boite|boîte|gramme|kilogramme|litre|[mcdk]?[gl](?:r)?)(?: de)? )?")
+    quantite = re.compile(r"^(?:[0-9]+, ?[0-9]+|quelque|[0-9]+)(?: ?(?:pincée|demi|cuillère(?: à (?:soupe|café|thé))?|pot|verre|boite|boîte|sachet|branche|brin|filet|pavé|tranche|peu|feuille|gramme|kilogramme|milligrame|millilite|centilitre|litre|[mcdk]?[gl](?:r)?)(?: de)? )?")
 
     ingr_info = defaultdict(dict)
     for ingredient in ingredients:
@@ -121,7 +127,7 @@ def get_ingredients_infos(recette_xml):
 
             # nettoyer et lemmatiser le texte de l'ingrédient
             ingredient = ingredient.replace("sauce", "").lower()
-            ingredient = " ".join([token.lemma_ for token in nlp(ingredient)])
+            ingredient = " ".join([token.lemma_ for token in nlp(ingredient) if token.pos_ != "VERB"])
             ingredient = nettoyer_ingr(ingredient)
 
             # trouver la quantité si elle est précisée
@@ -133,7 +139,7 @@ def get_ingredients_infos(recette_xml):
 
             # isoler l'ingrédient
             ingredient = re.sub(quant, "", ingredient).strip()
-            ingredient = [token.text for token in nlp(ingredient) if token.dep_ == "ROOT"][0]
+            ingredient = [token.lemma_ for token in nlp(ingredient) if token.dep_ == "ROOT"][0]
 
             # nettoyer la quantité
             quant = re.sub(" de", "", quant)

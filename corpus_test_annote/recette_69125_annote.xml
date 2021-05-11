@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69125">
+<titre>Filet mignon de porc aux oignons et au miel</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 filet mignon de porc</p>
+<p>4 gros oignons</p>
+<p>25 cl de vin blanc sec</p>
+<p>du miel</p>
+<p>margarine pour la cuisson</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+faites <operation ingredients="margarine"> fondre </operation> la <ingredient action="fondre" quantite=""> margarine </ingredient> dans une casserole en fonte . <operation ingredients="oignons"> ajoutez </operation> les <ingredient action="ajouter" quantite="4"> oignons </ingredient> <operation> coupés </operation> en fines rondelles , faites - les <operation> cuire </operation> jusqu' à qu' ils prennent une jolie couleur caramel . <operation ingredients="miel"> badigeonnez </operation> votre filet mignon sur toutes les faces de <ingredient action="badigeonner" quantite=""> miel </ingredient> . <operation> mettez </operation> - le dans la casserole . <operation> salez </operation> , <operation> poivrez </operation> . <operation ingredients="viande"> arrosez </operation> la <ingredient action="arroser"> viande </ingredient> de vin blanc sec . <operation> couvrez </operation> et laissez <operation> cuire </operation> à feu doux pendant au moins 1 h ( <operation ingredients="vin"> arrosez </operation> de <ingredient action="arroser" quantite="25 cl"> vin </ingredient> s' il n' y a plus de liquide dans la casserole ) .
+</preparation>
+</recette>

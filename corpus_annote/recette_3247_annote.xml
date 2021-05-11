@@ -11,6 +11,6 @@
 <p>une pointe de couteau de cannelle</p>
 </ingredients>
 <preparation>
-<operation ingredients="carrés"> disposer </operation> 2 <ingredient action="disposer"> carrés </ingredient> frais dans une assiette . <operation ingredients="jus;miel;cannelle"> ajouter </operation> la moité du <ingredient action="ajouter"> jus </ingredient> d'1 orange , 1 cuillère de <ingredient action="ajouter" quantite="2 cuillère à café"> miel </ingredient> , et un peu de <ingredient action="ajouter"> cannelle </ingredient> . un <ingredient quantite="2 cuillère à café"> dessert </ingredient> bien frais et équilibré . . . bon appétit !
+<operation ingredients="carrés"> disposer </operation> 2 <ingredient action="disposer" quantite="4"> carrés </ingredient> frais dans une assiette . <operation ingredients="jus;orange;miel;cannelle"> ajouter </operation> la moité du <ingredient action="ajouter"> jus </ingredient> d'1 <ingredient action="ajouter" quantite="1"> orange </ingredient> , 1 cuillère de <ingredient action="ajouter" quantite="2 cuillère à café"> miel </ingredient> , et un peu de <ingredient action="ajouter"> cannelle </ingredient> . un <ingredient quantite="2 cuillère à café"> dessert </ingredient> bien frais et équilibré . . . bon appétit !
 </preparation>
 </recette>

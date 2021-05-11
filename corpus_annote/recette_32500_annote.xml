@@ -14,6 +14,6 @@
 <p>1 sachet de sucre vanillé</p>
 </ingredients>
 <preparation>
-préchauffer le four pendant 10 mn th 10 . <operation ingredients="sucre"> mélanger </operation> tous les ingrédients sauf le <ingredient action="mélanger"> sucre </ingredient> vanillé que l' on garde pour la fin . <operation> verser </operation> la préparation dans 1 <operation> moule </operation> à cake péalablement beurré et enfin , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer"> sucre </ingredient> vanillé . faire <operation> cuire </operation> pendant 35 mn th 5 . <ingredient> gâteau </ingredient> rapide , moelleux , croustillant . bref , un régal pour les papilles ! un bon <ingredient> vin </ingredient> balnc ou rosé
+<operation> préchauffer </operation> le four pendant 10 mn th 10 . <operation ingredients="sucre"> mélanger </operation> tous les ingrédients sauf le <ingredient action="mélanger" quantite="1 sachet"> sucre </ingredient> vanillé que l' on garde pour la fin . <operation> verser </operation> la préparation dans 1 <operation> moule </operation> à cake péalablement beurré et enfin , <operation ingredients="sucre"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite="1 sachet"> sucre </ingredient> vanillé . faire <operation> cuire </operation> pendant 35 mn th 5 . <ingredient> gâteau </ingredient> rapide , moelleux , croustillant . bref , un régal pour les papilles ! un bon <ingredient> vin </ingredient> balnc ou rosé
 </preparation>
 </recette>

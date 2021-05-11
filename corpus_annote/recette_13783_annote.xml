@@ -10,6 +10,6 @@
 <p>20 cl de coulis de fruits (par exemple framboises)</p>
 </ingredients>
 <preparation>
-<operation ingredients="crème"> battre </operation> la <ingredient action="battre" quantite="50 cl"> crème </ingredient> en chantilly , <operation> émietter </operation> les meringues , <operation> mélanger </operation> les deux . <operation> mettre </operation> dans le <operation> moule </operation> et <operation> congeler </operation> une nuit . servir avec un coulis tiède de <ingredient> fruits </ingredient> rouges .
+<operation ingredients="crème;chantilly"> battre </operation> la <ingredient action="battre" quantite="50 cl"> crème </ingredient> en <ingredient action="battre"> chantilly </ingredient> , <operation> émietter </operation> les meringues , <operation> mélanger </operation> les deux . <operation> mettre </operation> dans le <operation> moule </operation> et <operation> congeler </operation> une nuit . servir avec un coulis tiède de <ingredient> fruits </ingredient> rouges .
 </preparation>
 </recette>

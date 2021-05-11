@@ -14,6 +14,6 @@
 <p>sucre glace</p>
 </ingredients>
 <preparation>
-<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> à tarte . <operation ingredients="confiture"> etaler </operation> la <ingredient action="etaler"> confiture </ingredient> par dessus . <operation> mélanger </operation> tout les ingrédients , puis <operation> verser </operation> dessus . <operation> cuire </operation> au four 30 min environ . une fois refroidie , <operation ingredients="tarte;glace"> saupoudrer </operation> la <ingredient action="saupoudrer"> tarte </ingredient> de sucre <ingredient action="saupoudrer"> glace </ingredient> . très appréciée , et rapide à faire .
+<operation ingredients="pâte"> etaler </operation> la <ingredient action="etaler" quantite="1"> pâte </ingredient> dans un <operation> moule </operation> à tarte . <operation ingredients="confiture"> etaler </operation> la <ingredient action="etaler"> confiture </ingredient> par dessus . <operation> mélanger </operation> tout les ingrédients , puis <operation> verser </operation> dessus . <operation> cuire </operation> au four 30 min environ . une fois refroidie , <operation ingredients="sucre"> saupoudrer </operation> la tarte de <ingredient action="saupoudrer" quantite="175 gramme"> sucre </ingredient> glace . très appréciée , et rapide à faire .
 </preparation>
 </recette>

@@ -15,6 +15,6 @@
 <p>poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="concombre;saumon"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en petits dés et le <ingredient action="couper"> saumon </ingredient> en petits morceaux . <operation> mélanger </operation> tous les ingrédients dans un saladier ( <operation> salez </operation> et <operation> poivrez </operation> à votre convenance ) . <operation ingredients="salade"> mettre </operation> la <ingredient action="mettre"> salade </ingredient> au frais ( au moins 30 min ) .
+<operation ingredients="concombre;saumon"> couper </operation> le <ingredient action="couper" quantite="1"> concombre </ingredient> en petits dés et le <ingredient action="couper" quantite="100 gramme"> saumon </ingredient> en petits morceaux . <operation> mélanger </operation> tous les ingrédients dans un saladier ( <operation> salez </operation> et <operation> poivrez </operation> à votre convenance ) . <operation ingredients="salade"> mettre </operation> la <ingredient action="mettre"> salade </ingredient> au frais ( au moins 30 min ) .
 </preparation>
 </recette>

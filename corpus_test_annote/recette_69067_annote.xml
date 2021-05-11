@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69067">
+<titre>Tapas cocotte rapide</titre>
+<type>Entrée</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>5 oeufs</p>
+<p>5 tranches de jambon serrano</p>
+<p>10 olives</p>
+<p>fromage râpé</p>
+<p>ramequins</p>
+</ingredients>
+<preparation>
+casser 1 <ingredient quantite="5"> oeuf </ingredient> par ramequin . <operation ingredients="jambon"> découper </operation> le <ingredient action="découper" quantite="5 tranche"> jambon </ingredient> en lamelles , <operation ingredients="oeuf"> parsemer </operation> une tranche en lamelle sur chaque <ingredient action="parsemer" quantite="5"> oeuf </ingredient> . <operation ingredients="olives"> découper </operation> les <ingredient action="découper" quantite="10"> olives </ingredient> en rondelles et les <operation> parsemer </operation> sur les ramequins . <operation ingredients="fromage"> couvrir </operation> de <ingredient action="couvrir" quantite=""> fromage </ingredient> <operation> râpé </operation> et <operation> mettre </operation> au four 7 minutes à 210 <operation> ° </operation> c. et c' est prêt ! ! c' est mieux quand le jaune d' <ingredient quantite="5"> oeuf </ingredient> n' est pas trop cuit . <ingredient> vin </ingredient> de la rioja
+</preparation>
+</recette>

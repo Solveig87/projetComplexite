@@ -15,6 +15,6 @@
 <p>mayonnaise</p>
 </ingredients>
 <preparation>
-<operation ingredients="tomates;cornichons"> découpez </operation> les <ingredient action="découper" quantite=""> tomates </ingredient> séchées en petits tronçons , les <ingredient action="découper" quantite=""> cornichons </ingredient> et les <ingredient action="émietter" quantite=""> olives </ingredient> en petits morceaux , <operation ingredients="olives;thon"> émiettez </operation> le <ingredient action="émietter"> thon </ingredient> , <operation> mélangez </operation> tous les ingrédients et voilà ! vous pouvez également remplacer le <ingredient> thon </ingredient> par des petits <ingredient> lardons </ingredient> de pancetta grillés .
+<operation ingredients="tomates;cornichons"> découpez </operation> les <ingredient action="découper" quantite=""> tomates </ingredient> séchées en petits tronçons , les <ingredient action="découper" quantite=""> cornichons </ingredient> et les <ingredient action="émietter" quantite=""> olives </ingredient> en petits morceaux , <operation ingredients="olives;thon"> émiettez </operation> le <ingredient action="émietter" quantite="1 boîte"> thon </ingredient> , <operation> mélangez </operation> tous les ingrédients et voilà ! vous pouvez également remplacer le <ingredient quantite="1 boîte"> thon </ingredient> par des petits <ingredient> lardons </ingredient> de pancetta grillés .
 </preparation>
 </recette>

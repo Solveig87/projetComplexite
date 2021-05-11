@@ -11,6 +11,6 @@
 <p>persil</p>
 </ingredients>
 <preparation>
-dans une cocotte faire <operation> cuire </operation> ( <operation> ouvrir </operation> ) les <operation> moules </operation> <operation> décortiquer </operation> une a une les <operation> moules </operation> les <operation ingredients="oeuf"> passer </operation> une par une dans l <ingredient action="passer" quantite="1"> oeuf </ingredient> / persil puis la <ingredient quantite=""> chapelure </ingredient> les <operation> embrocher </operation> les <operation> plonger </operation> dans la friteuse en tenant le pic ( une a une ) en faisant bien attention de ne pas vous bruler servir <operation> accompagnées </operation> d une <ingredient> mayonnaise </ingredient> maison un peu aillée
+dans une cocotte faire <operation> cuire </operation> ( <operation> ouvrir </operation> ) les <operation> moules </operation> <operation> décortiquer </operation> une a une les <operation> moules </operation> les <operation ingredients="oeuf;persil"> passer </operation> une par une dans l <ingredient action="passer" quantite="1"> oeuf </ingredient> / <ingredient action="passer"> persil </ingredient> puis la <ingredient quantite=""> chapelure </ingredient> les <operation> embrocher </operation> les <operation> plonger </operation> dans la friteuse en tenant le pic ( une a une ) en faisant bien attention de ne pas vous bruler servir <operation> accompagnées </operation> d une <ingredient> mayonnaise </ingredient> maison un peu aillée
 </preparation>
 </recette>

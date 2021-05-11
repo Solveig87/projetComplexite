@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12018">
+<titre>Gâteau de semoule à l'abricot</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>1 litre de lait</p>
+<p>25 morceaux de sucre</p>
+<p>10 cuillères à soupe de semoule</p>
+<p>2 oeufs</p>
+<p>caramel</p>
+<p>confiture d'abricot</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="lait"> bouillir </operation> le <ingredient action="bouillir" quantite="1 litre"> lait </ingredient> . juste avant l' <operation> ébullition </operation> , <operation ingredients="semoule"> ajouter </operation> la <ingredient action="ajouter" quantite="10 cuillère à soupe"> semoule </ingredient> en pluie , <operation> remuer </operation> et laisser <operation> cuire </operation> 5 minutes sans cesser de <operation> remuer </operation> . hors du feu , <operation ingredients="oeufs"> ajouter </operation> les 2 <ingredient action="ajouter" quantite="2"> oeufs </ingredient> entiers et <operation> remuer </operation> . dans un <operation> moule </operation> ( à flan ) bien caramélisé , <operation ingredients="semoule"> verser </operation> la moitié de la <ingredient action="verser" quantite="10 cuillère à soupe"> semoule </ingredient> , <operation ingredients="confiture"> recouvrir </operation> d' une couche généreuse de <ingredient action="recouvrir" quantite=""> confiture </ingredient> d' abricot , et terminer par le reste de <ingredient quantite="10 cuillère à soupe"> semoule </ingredient> . laisser refroidir dans le <operation> moule </operation> . <operation> démouler </operation> juste avant de servir . rapide ( 5 minutes de cuisson ) . le <operation> mélange </operation> caramel et <ingredient quantite=""> confiture </ingredient> d' abricot est succulent !
+</preparation>
+</recette>

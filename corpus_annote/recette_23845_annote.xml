@@ -12,6 +12,6 @@
 <p>herbes à votre goût</p>
 </ingredients>
 <preparation>
-<operation> laver </operation> et <operation> couper </operation> les courgettes en fines tranches . <operation ingredients="jus;huile;sel;poivre"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> du citron , l' <ingredient action="ajouter" quantite="3 cuillère"> huile </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> ainsi que les herbes . laisser <operation> mariner </operation> au frigo pendant une heure minimum . servir très frais .
+<operation> laver </operation> et <operation> couper </operation> les courgettes en fines tranches . <operation ingredients="jus;huile;sel;poivre;herbes"> ajouter </operation> le <ingredient action="ajouter"> jus </ingredient> du citron , l' <ingredient action="ajouter" quantite="3 cuillère"> huile </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> ainsi que les <ingredient action="ajouter" quantite=""> herbes </ingredient> . laisser <operation> mariner </operation> au frigo pendant une heure minimum . servir très frais .
 </preparation>
 </recette>

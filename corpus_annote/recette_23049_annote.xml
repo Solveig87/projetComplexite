@@ -13,6 +13,6 @@
 <p>sel</p>
 </ingredients>
 <preparation>
-<operation ingredients="pain"> mettre </operation> le <ingredient action="mettre" quantite="150 gramme"> pain </ingredient> de mie à <operation> tremper </operation> dans de l' eau 30 mn . <operation> egoutter </operation> . <operation ingredients="amandes;sel"> mixer </operation> <ingredient action="mixer" quantite="250 gramme"> amandes </ingredient> et pain de mie et <ingredient action="mixer" quantite=""> sel </ingredient> , <operation ingredients="huile"> rajouter </operation> l' <ingredient action="rajouter" quantite="15 cl"> huile </ingredient> et le vianigre . <operation> ajouter </operation> 1 l d' eau froide et remixer . <operation> réfrigérer </operation> .
+<operation ingredients="pain"> mettre </operation> le <ingredient action="mettre" quantite="150 gramme"> pain </ingredient> de mie à <operation> tremper </operation> dans de l' eau 30 mn . <operation> egoutter </operation> . <operation ingredients="amandes;pain;sel"> mixer </operation> <ingredient action="mixer" quantite="250 gramme"> amandes </ingredient> et <ingredient action="mixer" quantite="150 gramme"> pain </ingredient> de mie et <ingredient action="mixer" quantite=""> sel </ingredient> , <operation ingredients="huile"> rajouter </operation> l' <ingredient action="rajouter" quantite="15 cl"> huile </ingredient> et le vianigre . <operation> ajouter </operation> 1 l d' eau froide et remixer . <operation> réfrigérer </operation> .
 </preparation>
 </recette>

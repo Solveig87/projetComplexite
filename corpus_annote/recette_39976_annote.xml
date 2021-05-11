@@ -11,6 +11,6 @@
 <p>4 grandes tranches de pain</p>
 </ingredients>
 <preparation>
-<operation ingredients="pain"> tartiner </operation> les tranches de <ingredient action="tartiner"> pain </ingredient> de tapenade . <operation ingredients="avocat"> écraser </operation> l' <ingredient action="écraser" quantite="1"> avocat </ingredient> en purée et étaler sur la tapenade en essayant de ne pas <operation> mélanger </operation> ( couleur bizarre ) . <operation ingredients="thon"> ajouter </operation> par dessus le <ingredient action="ajouter"> thon </ingredient> <operation> émietté </operation> . super bon et pourtant il n' y a pas de <ingredient> fromage </ingredient> , ce qui reste assez rare pour des tartines !
+<operation ingredients="pain"> tartiner </operation> les tranches de <ingredient action="tartiner" quantite="4 tranche"> pain </ingredient> de tapenade . <operation ingredients="avocat"> écraser </operation> l' <ingredient action="écraser" quantite="1"> avocat </ingredient> en purée et étaler sur la tapenade en essayant de ne pas <operation> mélanger </operation> ( couleur bizarre ) . <operation ingredients="thon"> ajouter </operation> par dessus le <ingredient action="ajouter" quantite="1 boîte"> thon </ingredient> <operation> émietté </operation> . super bon et pourtant il n' y a pas de <ingredient> fromage </ingredient> , ce qui reste assez rare pour des tartines !
 </preparation>
 </recette>

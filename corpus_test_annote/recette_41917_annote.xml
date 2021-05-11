@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="41917">
+<titre>Pain perdu exotique</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Moyen</cout>
+<ingredients>
+<p>1 baguette de pain</p>
+<p>2 œufs</p>
+<p>50 cl de lait</p>
+<p>2 cuillères à soupe de vanille</p>
+<p>2 cuillères à soupe de punch coco</p>
+<p>cassonade ou sucre de canne roux</p>
+</ingredients>
+<preparation>
+<operation ingredients="œufs"> battre </operation> les deux <ingredient action="battre" quantite="2"> œufs </ingredient> . <operation ingredients="lait;punch"> ajouter </operation> le <ingredient action="ajouter" quantite="50 cl"> lait </ingredient> , la vanille , et le <ingredient action="ajouter" quantite="2 cuillère à soupe"> punch </ingredient> . <operation ingredients="baguette"> trancher </operation> la <ingredient action="trancher" quantite="1"> baguette </ingredient> en rondelles . <operation> tremper </operation> les tranches dans la préparation , en <operation ingredients="pain"> appuyant </operation> bien avec une fourchette pour bien <operation> imbiber </operation> le <ingredient action="appuyer"> pain </ingredient> . faire <operation ingredients="beurre"> cuire </operation> à la <operation> poêle </operation> , dans un peu de <ingredient action="cuire"> beurre </ingredient> . et <operation ingredients="cassonade"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> cassonade </ingredient> . servir tiède .
+</preparation>
+</recette>

@@ -15,6 +15,6 @@
 <p>sel, poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="concombre;yaourts"> mixer </operation> le <ingredient action="mixer" quantite="1"> concombre </ingredient> avec les <ingredient action="mixer" quantite="3"> yaourts </ingredient> , le <ingredient action="hacher"> jus </ingredient> de citron , l' <ingredient action="hacher"> ail </ingredient> <operation ingredients="jus;ail"> haché </operation> et les herbes . <operation> saler </operation> , <operation> poivrer </operation> . servir très frais .
+<operation ingredients="concombre;yaourts"> mixer </operation> le <ingredient action="mixer" quantite="1"> concombre </ingredient> avec les <ingredient action="mixer" quantite="3+1 pot"> yaourts </ingredient> , le <ingredient action="hacher"> jus </ingredient> de citron , l' <ingredient action="hacher"> ail </ingredient> <operation ingredients="jus;ail;herbes"> haché </operation> et les <ingredient action="hacher"> herbes </ingredient> . <operation> saler </operation> , <operation> poivrer </operation> . servir très frais .
 </preparation>
 </recette>

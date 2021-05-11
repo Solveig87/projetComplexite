@@ -11,6 +11,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="surimi;champignon"> coupez </operation> le <ingredient action="couper"> surimi </ingredient> et le <ingredient action="couper"> champignon </ingredient> en dés . <operation ingredients="crème;sel;poivre"> ajouter </operation> la <ingredient action="ajouter"> crème </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> mélangez </operation> le tout et <operation> mettre </operation> au frigo pendant 30 minutes .
+<operation ingredients="surimi;champignon"> coupez </operation> le <ingredient action="couper"> surimi </ingredient> et le <ingredient action="couper" quantite="1 boîte"> champignon </ingredient> en dés . <operation ingredients="crème;sel;poivre"> ajouter </operation> la <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> , le <ingredient action="ajouter" quantite=""> sel </ingredient> et le <ingredient action="ajouter"> poivre </ingredient> . <operation> mélangez </operation> le tout et <operation> mettre </operation> au frigo pendant 30 minutes .
 </preparation>
 </recette>

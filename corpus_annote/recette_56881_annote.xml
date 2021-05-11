@@ -12,6 +12,6 @@
 <p>vinaigrette</p>
 </ingredients>
 <preparation>
-prendre une petite assiette . <operation ingredients="endive"> couper </operation> l' <ingredient action="couper" quantite="1"> endive </ingredient> en morceaux et <operation ingredients="cornichons;radis"> déposer </operation> dessus des rondelles de <ingredient action="déposer" quantite="4"> cornichons </ingredient> et de <ingredient action="déposer" quantite="4"> radis </ingredient> . <operation ingredients="sel;poivre"> assaisonner </operation> de vinaigrette , de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> .
+prendre une petite assiette . <operation> couper </operation> l' endive en morceaux et <operation ingredients="cornichons;radis"> déposer </operation> dessus des rondelles de <ingredient action="déposer" quantite="4"> cornichons </ingredient> et de <ingredient action="déposer" quantite="4"> radis </ingredient> . <operation ingredients="sel;poivre"> assaisonner </operation> de vinaigrette , de <ingredient action="assaisonner" quantite=""> sel </ingredient> et de <ingredient action="assaisonner"> poivre </ingredient> .
 </preparation>
 </recette>

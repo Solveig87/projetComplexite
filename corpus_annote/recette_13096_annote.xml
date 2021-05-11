@@ -11,6 +11,6 @@
 <p>sel, poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="béchamel"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> ( farine , lait , sel , poivre ) y <operation> incorporer </operation> la brandade et <operation> mélanger </operation> . <operation> mettre </operation> cette préparation dans les vols au vent et faire <operation> chauffer </operation> au four 10 mn .
+<operation ingredients="béchamel;farine;lait;sel;poivre"> faire </operation> une <ingredient action="faire"> béchamel </ingredient> ( <ingredient action="faire"> farine </ingredient> , <ingredient action="faire"> lait </ingredient> , <ingredient action="faire" quantite=""> sel </ingredient> , <ingredient action="faire" quantite=""> poivre </ingredient> ) y <operation> incorporer </operation> la brandade et <operation> mélanger </operation> . <operation> mettre </operation> cette préparation dans les vols au vent et faire <operation> chauffer </operation> au four 10 mn .
 </preparation>
 </recette>

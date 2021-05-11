@@ -11,6 +11,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-faire <operation> cuire </operation> les frites . <operation ingredients="oeufs;camembert;sel"> mélanger </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="1"> camembert </ingredient> <operation> coupé </operation> en petits morceaux , <ingredient action="mélanger" quantite=""> sel </ingredient> et poivre comme pour faire une omelette . <operation> mettre </operation> les frites dans une <operation> poêle </operation> et <operation> verser </operation> le <operation> mélange </operation> , c' est <operation ingredients="fromage"> cuit </operation> lorsque le <ingredient action="cuire"> fromage </ingredient> et un peu coulant .
+faire <operation> cuire </operation> les frites . <operation ingredients="oeufs;camembert;sel;poivre"> mélanger </operation> les <ingredient action="mélanger" quantite="4"> oeufs </ingredient> , le <ingredient action="mélanger" quantite="1"> camembert </ingredient> <operation> coupé </operation> en petits morceaux , <ingredient action="mélanger" quantite=""> sel </ingredient> et <ingredient action="mélanger"> poivre </ingredient> comme pour faire une omelette . <operation> mettre </operation> les frites dans une <operation> poêle </operation> et <operation> verser </operation> le <operation> mélange </operation> , c' est <operation ingredients="fromage"> cuit </operation> lorsque le <ingredient action="cuire" quantite="1"> fromage </ingredient> et un peu coulant .
 </preparation>
 </recette>

@@ -14,6 +14,6 @@
 <p>poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="saumon"> détaillez </operation> le <ingredient action="détailler"> saumon </ingredient> en petits dés , <operation ingredients="échalote"> émincez </operation> l' <ingredient action="émincer" quantite="1"> échalote </ingredient> , et <operation> mélangez </operation> tous les ingrédients dans un bol , tout simplement ! <operation> dressez </operation> ensuite comme vous le souhaitez ( verrines , assiettes . . . ) .
+<operation ingredients="saumon"> détaillez </operation> le <ingredient action="détailler" quantite="1 pavé"> saumon </ingredient> en petits dés , <operation ingredients="échalote"> émincez </operation> l' <ingredient action="émincer" quantite="1"> échalote </ingredient> , et <operation> mélangez </operation> tous les ingrédients dans un bol , tout simplement ! <operation> dressez </operation> ensuite comme vous le souhaitez ( verrines , assiettes . . . ) .
 </preparation>
 </recette>

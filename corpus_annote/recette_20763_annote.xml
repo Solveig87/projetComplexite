@@ -10,6 +10,6 @@
 <p>de la mayonnaise</p>
 </ingredients>
 <preparation>
-<operation ingredients="oeufs"> faire </operation> des <ingredient action="faire" quantite="4"> oeufs </ingredient> <operation> cuits </operation> durs . <operation> retirer </operation> la coquille une fois <operation> cuit </operation> sans casser l' <ingredient quantite="4"> oeuf </ingredient> , <operation> coupez </operation> en deux et <operation> retirer </operation> le jaune que vous <operation ingredients="mayonnaise;sel"> mélangerez </operation> avec les herbes la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et un peu de <ingredient action="mélanger"> sel </ingredient> , remetter le jaune dans le " blanc " et servez . eau
+<operation ingredients="oeufs"> faire </operation> des <ingredient action="faire" quantite="4"> oeufs </ingredient> <operation> cuits </operation> durs . <operation> retirer </operation> la coquille une fois <operation> cuit </operation> sans casser l' <ingredient quantite="4"> oeuf </ingredient> , <operation> coupez </operation> en deux et <operation> retirer </operation> le jaune que vous <operation ingredients="herbes;mayonnaise;sel"> mélangerez </operation> avec les <ingredient action="mélanger"> herbes </ingredient> la <ingredient action="mélanger" quantite=""> mayonnaise </ingredient> et un peu de <ingredient action="mélanger"> sel </ingredient> , remetter le jaune dans le " blanc " et servez . eau
 </preparation>
 </recette>

@@ -14,6 +14,6 @@
 <p>10 cl de cidre </p>
 </ingredients>
 <preparation>
-a <operation> préparer </operation> la veille . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter" quantite="200 gramme"> thon </ingredient> , mais pas trop . <operation ingredients="ananas;oignon;fromage"> découper </operation> l' <ingredient action="découper"> ananas </ingredient> , l' <ingredient action="découper" quantite="1"> oignon </ingredient> , le <ingredient action="découper"> fromage </ingredient> en petits cubes . <operation> mélanger </operation> tous les ingrédients . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier"> assaisonnement </ingredient> le lendemain avant de servir frais . <ingredient quantite="10 cl"> cidre </ingredient>
+a <operation> préparer </operation> la veille . <operation ingredients="thon"> egoutter </operation> le <ingredient action="egoutter" quantite="200 gramme"> thon </ingredient> , mais pas trop . <operation ingredients="ananas;oignon;fromage"> découper </operation> l' <ingredient action="découper"> ananas </ingredient> , l' <ingredient action="découper" quantite="1"> oignon </ingredient> , le <ingredient action="découper" quantite="100 gramme"> fromage </ingredient> en petits cubes . <operation> mélanger </operation> tous les ingrédients . <operation ingredients="assaisonnement"> rectifier </operation> l' <ingredient action="rectifier"> assaisonnement </ingredient> le lendemain avant de servir frais . <ingredient quantite="10 cl"> cidre </ingredient>
 </preparation>
 </recette>

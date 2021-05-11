@@ -1,3 +1,8 @@
+# annoter_recette.py - Solveig PODER, Camille REY
+# annote des recettes XML avec les informations : ingrédient (action, quantité) et opérations (ingrédients)
+# argument 1 : le répertoire contenant tous les fichiers recettes à annoter
+# argument 2 : le répertoire de sortie
+
 import json
 import re
 from bs4 import BeautifulSoup
@@ -88,7 +93,7 @@ def _annoter_recette(tokens_spacy, indice, tokens_annotes):
     token_courant = tokens_spacy[indice]
     if is_ingr(token_courant):
         # évitez d'annoter "riz" dans "galette de riz", ou "soupe" dans "cuillère à soupe"... tout en annotant "crème" dans "un peu de crème", "le pot de crème"...
-        if is_ingr(tokens_spacy[indice-2]) or tokens_spacy[indice-1].text == "à" or (tokens_spacy[indice-1].lemma_ == "de" and is_ingr(tokens_spacy[indice-2])):
+        if is_ingr(tokens_spacy[indice-1]) or tokens_spacy[indice-1].text == "à" or (tokens_spacy[indice-1].lemma_ == "de" and is_ingr(tokens_spacy[indice-2])):
             pass
         else :
             # annoter l'ingrédient
@@ -136,9 +141,8 @@ def annoter_quantites(recette, tokens_annotes):
                 token.attributs["quantite"].append(ingredients_info[token.lemme]["quantité"])
             else:
                 for ingredient, infos in ingredients_info.items():
-                    for categ in infos["catégories"]:
-                        if token.lemme in categ.split():
-                            token.attributs["quantite"].append(infos["quantité"])
+                    if any(token.lemme in categ.split() for categ in infos["catégories"]):
+                        token.attributs["quantite"].append(infos["quantité"])
 
 # --------------- récupération des arguments en ligne de commande --------------------
 parser = argparse.ArgumentParser(description = "fichier")

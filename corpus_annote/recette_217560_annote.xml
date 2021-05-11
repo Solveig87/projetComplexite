@@ -14,6 +14,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-préchauffer le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="tomates;cerise"> mélanger </operation> tous les ingrédients sauf les <ingredient action="mélanger" quantite="16"> tomates </ingredient> <ingredient action="mélanger"> cerise </ingredient> . <operation ingredients="viande"> faire </operation> des boulettes avec la <ingredient action="faire"> viande </ingredient> puis <operation ingredients="tomate;cerise"> placer </operation> une <ingredient action="placer" quantite="16"> tomate </ingredient> <ingredient action="placer"> cerise </ingredient> au milieu . <operation> enfourner </operation> pour 20 minutes de cuisson . un petit rosé
+<operation> préchauffer </operation> le four à 200 <operation> ° </operation> c ( thermostat . 7 ) . <operation ingredients="tomates"> mélanger </operation> tous les ingrédients sauf les <ingredient action="mélanger" quantite="16"> tomates </ingredient> cerise . <operation ingredients="viande"> faire </operation> des boulettes avec la <ingredient action="faire"> viande </ingredient> puis <operation ingredients="tomate"> placer </operation> une <ingredient action="placer" quantite="16"> tomate </ingredient> cerise au milieu . <operation> enfourner </operation> pour 20 minutes de cuisson . un petit rosé
 </preparation>
 </recette>

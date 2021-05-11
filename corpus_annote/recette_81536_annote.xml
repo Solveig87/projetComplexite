@@ -12,6 +12,6 @@
 <p>1 cuil à soupe de farine</p>
 </ingredients>
 <preparation>
-faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> et le <ingredient action="fondre" quantite="125 gramme"> beurre </ingredient> . <operation> remuer </operation> . <operation ingredients="oeufs"> ajouter </operation> les 4 <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , sucre , farine . <operation> remuer </operation> . <operation> mettre </operation> dans 1 <operation> moule </operation> . <operation> cuire </operation> 20 min au four à 200 <operation> ° </operation> c ( thermostat . 7 . déguster . . . inratable . . .
+faire <operation ingredients="chocolat;beurre"> fondre </operation> le <ingredient action="fondre"> chocolat </ingredient> et le <ingredient action="fondre"> beurre </ingredient> . <operation> remuer </operation> . <operation ingredients="oeufs;sucre;farine"> ajouter </operation> les 4 <ingredient action="ajouter" quantite="4"> oeufs </ingredient> , <ingredient action="ajouter" quantite="125 gramme"> sucre </ingredient> , <ingredient action="ajouter"> farine </ingredient> . <operation> remuer </operation> . <operation> mettre </operation> dans 1 <operation> moule </operation> . <operation> cuire </operation> 20 min au four à 200 <operation> ° </operation> c ( thermostat . 7 . déguster . . . inratable . . .
 </preparation>
 </recette>

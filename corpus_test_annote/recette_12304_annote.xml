@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12304">
+<titre>Grillade de nouilles</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>150 g de macaronis ou zitti par personne</p>
+<p>1 tranche de jambon cuit par personne</p>
+<p>1 tranche de rosette par personne</p>
+<p>1 ou 2 oeuf par poelée</p>
+<p>sel, poivre, </p>
+<p>gruyère rapé</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="pâtes"> cuire </operation> les <ingredient action="cuire"> pâtes </ingredient> normalement dans une eau bouillante et <operation> salée </operation> . les <operation> égouter </operation> puis les laisser refroidir ( ou <operation> passer </operation> sous l' eau froide si vous êtes préssé ) . <operation ingredients="jambon"> couper </operation> le <ingredient action="couper" quantite="1 tranche"> jambon </ingredient> et la rosette en lamelles et faites les <operation ingredients="beurre;huile"> revenir </operation> dans une poele ( au <ingredient action="revenir"> beurre </ingredient> ou a l' <ingredient action="revenir"> huile </ingredient> selon les gouts je conseille l' <ingredient> huile </ingredient> de noix ) . <operation ingredients="pâtes"> ajouter </operation> les <ingredient action="ajouter"> pâtes </ingredient> et les laisser <operation> griller </operation> a feu moyen <operation ingredients="oeufs"> battre </operation> les <ingredient action="battre" quantite="1"> oeufs </ingredient> en omelette . y <operation ingredients="gruyère"> ajouter </operation> du <ingredient action="ajouter" quantite=""> gruyère </ingredient> rapé et <operation> verser </operation> dans la poele en fin de cuison . <operation> remuer </operation> énergiquement . des variantes existent avec des morceaux de <ingredient> reblochon </ingredient> ou de <ingredient> roquefort </ingredient>
+</preparation>
+</recette>

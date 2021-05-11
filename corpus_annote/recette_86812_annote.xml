@@ -13,6 +13,6 @@
 <p>beurre</p>
 </ingredients>
 <preparation>
-<operation> découper </operation> le cœur en 2 dans le sens de la longueur . <operation ingredients="sel"> disposer </operation> une moitié dans une feuille de papier d' alu en l' assaisonnant de <ingredient action="disposer" quantite=""> sel </ingredient> , poivre , ail , persil et herbes de provence sans oublier une <ingredient> noisette </ingredient> de beurre . les <operation> disposer </operation> dans un plat allant au four et faire <operation> cuire </operation> 10 minutes . voilà c' est prêt .
+<operation> découper </operation> le cœur en 2 dans le sens de la longueur . <operation ingredients="sel;poivre"> disposer </operation> une moitié dans une feuille de papier d' alu en l' assaisonnant de <ingredient action="disposer" quantite=""> sel </ingredient> , <ingredient action="disposer" quantite=""> poivre </ingredient> , <ingredient quantite=""> ail </ingredient> , <ingredient> persil </ingredient> et <ingredient quantite=""> herbes </ingredient> de provence sans oublier une <ingredient> noisette </ingredient> de beurre . les <operation> disposer </operation> dans un plat allant au four et faire <operation> cuire </operation> 10 minutes . voilà c' est prêt .
 </preparation>
 </recette>

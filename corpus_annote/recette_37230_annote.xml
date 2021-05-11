@@ -12,6 +12,6 @@
 <p>poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="oignon;menthe"> hacher </operation> l' <ingredient action="hacher"> oignon </ingredient> et la <ingredient action="hacher"> menthe </ingredient> , <operation ingredients="viande"> mélanger </operation> à la <ingredient action="mélanger" quantite="1 kilogramme"> viande </ingredient> hachée , <operation> saler </operation> , <operation> poivrer </operation> . faire des boulettes . les faire <operation ingredients="graisse"> cuire </operation> pendant 10 min environ sur barbecue ou à la poële , sans rajout de <ingredient action="cuire"> graisse </ingredient> .
+<operation ingredients="oignon;menthe"> hacher </operation> l' <ingredient action="hacher" quantite="1"> oignon </ingredient> et la <ingredient action="hacher"> menthe </ingredient> , <operation ingredients="viande"> mélanger </operation> à la <ingredient action="mélanger" quantite="1 kilogramme"> viande </ingredient> hachée , <operation> saler </operation> , <operation> poivrer </operation> . faire des boulettes . les faire <operation ingredients="graisse"> cuire </operation> pendant 10 min environ sur barbecue ou à la poële , sans rajout de <ingredient action="cuire"> graisse </ingredient> .
 </preparation>
 </recette>

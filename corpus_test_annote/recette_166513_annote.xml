@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="166513">
+<titre>Spaghetti bolognaise sans oignons</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>3 gousses d'ail </p>
+<p>2 grosses tomates</p>
+<p>1 steak haché </p>
+<p>12 olives vertes</p>
+<p>1 cuillère à soupe d'huile d'olive</p>
+<p>sel, poivre</p>
+<p>spaghettis</p>
+<p>1 cube de bouillon de légumes</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="bouillon"> bouillir </operation> une grande casserole d' eau avec un cube de <ingredient action="bouillir"> bouillon </ingredient> . pendant ce temps , faire <operation ingredients="tomates"> tremper </operation> les <ingredient action="tremper" quantite="2"> tomates </ingredient> quelques minutes dans de l' eau bouillante . les <operation> éplucher </operation> . après les avoir <operation> hachées </operation> , les <operation ingredients="huile"> mettre </operation> dans une <operation> poêle </operation> pas trop chaude avec l' <ingredient action="mettre" quantite="1 cuillère à soupe"> huile </ingredient> d' olive . faire <operation ingredients="ail;olives;steak"> mijoter </operation> avec l' <ingredient action="mijoter"> ail </ingredient> <operation> écrasé </operation> , les <ingredient action="mijoter" quantite="12"> olives </ingredient> en tout petits morceaux et le <ingredient action="mijoter" quantite="1"> steak </ingredient> en petits morceaux aussi . <operation> saler </operation> et <operation> poivrer </operation> . faire <operation> mijoter </operation> un bon quart d' heure . faire <operation ingredients="spaghettis"> cuire </operation> les <ingredient action="cuire" quantite=""> spaghettis </ingredient> . servir avec un peu de <ingredient> parmesan </ingredient> <operation> râpé </operation> .
+</preparation>
+</recette>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="68714">
+<titre>Sauté de dinde à la bourguignonne</titre>
+<type>Plat principal</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>900 g de sauté de dinde</p>
+<p>1 oignon</p>
+<p>125 g de lardons</p>
+<p>200 g de champignons émincés</p>
+<p>20 cl de vin de bourgogne rouge</p>
+<p>beurre</p>
+<p>farine</p>
+<p>sel, poivre</p>
+</ingredients>
+<preparation>
+dans une cocotte , faire <operation ingredients="dinde;beurre"> revenir </operation> les morceaux de <ingredient action="revenir"> dinde </ingredient> <operation> salés </operation> et <operation> poivrés </operation> dans un peu de <ingredient action="revenir"> beurre </ingredient> . <operation ingredients="farine"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> farine </ingredient> . <operation ingredients="vin"> ajouter </operation> le <ingredient action="ajouter" quantite="20 cl"> vin </ingredient> rouge et <operation> mélanger </operation> . laisser <operation> mijoter </operation> 5 min puis <operation ingredients="lardons"> ajouter </operation> les <ingredient action="ajouter" quantite="125 gramme"> lardons </ingredient> , les <ingredient action="couper" quantite="200 gramme"> champignons </ingredient> et l' <ingredient action="couper" quantite="1"> oignon </ingredient> <operation ingredients="champignons;oignon"> coupé </operation> finement . laisser <operation> cuire </operation> 45 min à feu moyen . servir avec des <ingredient> pomme </ingredient> de terre au four .
+</preparation>
+</recette>

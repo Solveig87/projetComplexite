@@ -13,6 +13,6 @@
 <p>sel et poivre blanc</p>
 </ingredients>
 <preparation>
-<operation ingredients="chou"> emincez </operation> le <ingredient action="emincez" quantite="1"> chou </ingredient> tres finement . <operation ingredients="bleu"> ajoutez </operation> le <ingredient action="ajouter"> bleu </ingredient> emmietté grossièrement . et <operation ingredients="mayonnaise;vinaigre"> assaisonnez </operation> avec la <ingredient action="assaisonner" quantite="3 cuillère à soupe"> mayonnaise </ingredient> , le <ingredient action="assaisonner" quantite="2 cuillère à soupe"> vinaigre </ingredient> , sel et poivre . bon appétit ! c' est une <ingredient> salade </ingredient> que je fais souvent en été , pour <operation> accompagner </operation> le barbecue . un rosé d' anjou
+<operation ingredients="chou"> emincez </operation> le <ingredient action="emincez" quantite="1"> chou </ingredient> tres finement . <operation ingredients="bleu"> ajoutez </operation> le <ingredient action="ajouter"> bleu </ingredient> emmietté grossièrement . et <operation ingredients="mayonnaise;vinaigre;sel"> assaisonnez </operation> avec la <ingredient action="assaisonner" quantite="3 cuillère à soupe"> mayonnaise </ingredient> , le <ingredient action="assaisonner" quantite="2 cuillère à soupe"> vinaigre </ingredient> , <ingredient action="assaisonner" quantite=""> sel </ingredient> et poivre . bon appétit ! c' est une <ingredient> salade </ingredient> que je fais souvent en été , pour <operation> accompagner </operation> le barbecue . un rosé d' anjou
 </preparation>
 </recette>

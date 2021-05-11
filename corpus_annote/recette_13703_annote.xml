@@ -9,6 +9,6 @@
 <p>2 oeufs</p>
 </ingredients>
 <preparation>
-faire <operation ingredients="lait"> cuire </operation> le <ingredient action="cuire"> lait </ingredient> <operation> concentré </operation> au bain - marie pendant trois heures ( c' est long mais ça vaut la peine d' attendre ) . laisser refroidir un peu et <operation ingredients="oeufs"> ajouter </operation> les jaunes puis les blancs d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> montés </operation> en neige . <operation> verser </operation> dans des ramequins et laisser prendre au réfrigérateur .
+faire <operation ingredients="lait"> cuire </operation> le <ingredient action="cuire" quantite="1 boîte"> lait </ingredient> <operation> concentré </operation> au bain - marie pendant trois heures ( c' est long mais ça vaut la peine d' attendre ) . laisser refroidir un peu et <operation ingredients="oeufs"> ajouter </operation> les jaunes puis les blancs d' <ingredient action="ajouter" quantite="2"> oeufs </ingredient> <operation> montés </operation> en neige . <operation> verser </operation> dans des ramequins et laisser prendre au réfrigérateur .
 </preparation>
 </recette>

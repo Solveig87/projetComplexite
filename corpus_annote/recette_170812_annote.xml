@@ -13,6 +13,6 @@
 <p>poivre</p>
 </ingredients>
 <preparation>
-faire <operation> cuire </operation> les betteraves 60 min dans une casserole d' eau . les <operation> couper </operation> en morceaux . <operation ingredients="fromage;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> fromage </ingredient> , la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche , la <ingredient quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> . <operation> mixer </operation> le tout . servir dans de petits verres et <operation> mettre </operation> au frais 2 h.
+faire <operation ingredients="betteraves"> cuire </operation> les <ingredient action="cuire"> betteraves </ingredient> 60 min dans une casserole d' eau . les <operation> couper </operation> en morceaux . <operation ingredients="fromage;crème"> ajouter </operation> le <ingredient action="ajouter" quantite="50 gramme"> fromage </ingredient> , la <ingredient action="ajouter" quantite="50 cl"> crème </ingredient> fraîche , la <ingredient quantite="1 cuillère à café"> moutarde </ingredient> , le <ingredient quantite=""> sel </ingredient> et le <ingredient quantite=""> poivre </ingredient> . <operation> mixer </operation> le tout . servir dans de petits verres et <operation> mettre </operation> au frais 2 h.
 </preparation>
 </recette>

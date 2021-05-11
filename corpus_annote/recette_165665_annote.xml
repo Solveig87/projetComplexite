@@ -11,6 +11,6 @@
 <p>1 sachet de sucre vanillé</p>
 </ingredients>
 <preparation>
-. dans une casserole , <operation ingredients="lait;riz;sucre;sucre"> verser </operation> le <ingredient action="verser" quantite="1 litre"> lait </ingredient> , le <ingredient action="verser" quantite="130 gramme"> riz </ingredient> , le <ingredient action="verser" quantite="100 gramme"> sucre </ingredient> et le <ingredient action="verser" quantite="100 gramme"> sucre </ingredient> vanillé . laisser <operation> cuire </operation> en <operation> remuant </operation> de temps en temps . a l' <operation> ébullition </operation> , <operation> remuer </operation> sans arrêt .. <operation> verser </operation> dans un saladier , laisser refroidir et <operation> mettre </operation> au frigo .
+. dans une casserole , <operation ingredients="lait;riz;sucre;sucre"> verser </operation> le <ingredient action="verser" quantite="1 litre"> lait </ingredient> , le <ingredient action="verser" quantite="130 gramme"> riz </ingredient> , le <ingredient action="verser" quantite="100 gramme+1 sachet"> sucre </ingredient> et le <ingredient action="verser" quantite="100 gramme+1 sachet"> sucre </ingredient> vanillé . laisser <operation> cuire </operation> en <operation> remuant </operation> de temps en temps . a l' <operation> ébullition </operation> , <operation> remuer </operation> sans arrêt .. <operation> verser </operation> dans un saladier , laisser refroidir et <operation> mettre </operation> au frigo .
 </preparation>
 </recette>

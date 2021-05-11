@@ -10,6 +10,6 @@
 <p>4 cuillères à soupe de mayonnaise</p>
 </ingredients>
 <preparation>
-<operation> coupez </operation> les bettraves en cubes dans un plat creux . <operation ingredients="thon"> emiettez </operation> le <ingredient action="emietter" quantite="200 gramme"> thon </ingredient> avec une fourchette et le <operation> mélangez </operation> avec les betteraves . <operation ingredients="mayonnaise"> rajoutez </operation> la <ingredient action="rajouter" quantite="4 cuillère à soupe"> mayonnaise </ingredient> et <operation> mélanger </operation> ! <operation> mettez </operation> au frais au moins une heure . régalez vous ! <operation> mettez </operation> les ingrédients au frigo avant de <operation> préparer </operation> , ça permet de servir dès que c' est prêt .
+<operation> coupez </operation> les bettraves en cubes dans un plat creux . <operation ingredients="thon"> emiettez </operation> le <ingredient action="emietter" quantite="200 gramme"> thon </ingredient> avec une fourchette et le <operation ingredients="betteraves"> mélangez </operation> avec les <ingredient action="mélanger"> betteraves </ingredient> . <operation ingredients="mayonnaise"> rajoutez </operation> la <ingredient action="rajouter" quantite="4 cuillère à soupe"> mayonnaise </ingredient> et <operation> mélanger </operation> ! <operation> mettez </operation> au frais au moins une heure . régalez vous ! <operation> mettez </operation> les ingrédients au frigo avant de <operation> préparer </operation> , ça permet de servir dès que c' est prêt .
 </preparation>
 </recette>

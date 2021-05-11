@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="12358">
+<titre>Mousse aux framboises</titre>
+<type>Dessert</type>
+<niveau>Très facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>500 g de framboises (fraiches ou surgelées)</p>
+<p>100 g de sucre</p>
+<p>150 g de crème fraîche normale (c'est à dire ni liquide ni trop épaisse)</p>
+<p>2 oeufs</p>
+<p>2 cuillérées à soupe de lait</p>
+<p>3 feuilles de gélatine (= 6 feuilles que l'on trouve généralement dans le commerce)</p>
+</ingredients>
+<preparation>
+faire <operation ingredients="gélatine"> ramollir </operation> la <ingredient action="ramollir" quantite="3 feuille"> gélatine </ingredient> dans un bol d' eau froide . <operation ingredients="framboises"> réduire </operation> les <ingredient action="réduire" quantite="500 gramme"> framboises </ingredient> en purée , les <operation> mettre </operation> dans une casserole sur feu doux et <operation ingredients="sucre"> ajouter </operation> le <ingredient action="ajouter" quantite="100 gramme"> sucre </ingredient> . lorsque le <ingredient> jus </ingredient> de framboises est chaud , <operation> retirer </operation> la casserole du feu ( ne pas le <operation> porter </operation> à <operation> ébullition </operation> ) . <operation ingredients="gélatine"> essorer </operation> la <ingredient action="essorer" quantite="3 feuille"> gélatine </ingredient> et la <operation> mettre </operation> à <operation ingredients="jus"> fondre </operation> dans le <ingredient action="fondre"> jus </ingredient> de framboises chaud . laisser le <operation> mélange </operation> refroidir complètement . <operation ingredients="crème;lait"> fouetter </operation> la <ingredient action="fouetter" quantite="150 gramme"> crème </ingredient> bien froide avec le <ingredient action="fouetter"> lait </ingredient> afin d' obtenir une consistance assez épaisse ( le fouet doit <operation ingredients="crème"> laisser </operation> des sillons dans la <ingredient action="laisser" quantite="150 gramme"> crème </ingredient> ) . <operation> réserver </operation> au frais . <operation> séparer </operation> les blancs des jaunes . <operation> battre </operation> les blancs en neige ferme . <operation ingredients="jus"> verser </operation> le <ingredient action="verser"> jus </ingredient> de framboises petit à petit dans la terrine contenant la <ingredient quantite="150 gramme"> crème </ingredient> . <operation> incorporer </operation> les blancs en neige . laisser prendre la <ingredient> mousse </ingredient> pendant 12 heures au réfrigérateur . cette recette marche aussi avec des <ingredient> fraises </ingredient> , du <ingredient> cassis </ingredient> ou des <ingredient> groseilles </ingredient> . il me semble cependant que la <ingredient> mousse </ingredient> est meilleure aux <ingredient quantite="500 gramme"> framboises </ingredient> .
+</preparation>
+</recette>

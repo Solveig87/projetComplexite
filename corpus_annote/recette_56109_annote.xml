@@ -12,6 +12,6 @@
 <p>1 vinaigrette</p>
 </ingredients>
 <preparation>
-on <operation ingredients="endive"> coupe </operation> l' <ingredient action="coupe" quantite="2"> endive </ingredient> en morceaux . on pelle et <operation> coupe </operation> la <ingredient quantite="1"> pomme </ingredient> . on <operation ingredients="thon;maïs"> égoute </operation> le <ingredient action="égoute"> thon </ingredient> . pareil pour le <ingredient action="égoute"> maïs </ingredient> . et on ajoute la vinaigrette . le sucré et le <ingredient> salé </ingredient> donne un très bon goût .
+on <operation> coupe </operation> l' endive en morceaux . on pelle et <operation> coupe </operation> la <ingredient quantite="1"> pomme </ingredient> . on <operation ingredients="thon;maïs"> égoute </operation> le <ingredient action="égoute" quantite="1 boîte"> thon </ingredient> . pareil pour le <ingredient action="égoute" quantite="1 boîte"> maïs </ingredient> . et on ajoute la vinaigrette . le sucré et le <ingredient> salé </ingredient> donne un très bon goût .
 </preparation>
 </recette>

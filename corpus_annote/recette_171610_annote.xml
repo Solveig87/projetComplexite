@@ -10,6 +10,6 @@
 <p>4 brins ciboulette</p>
 </ingredients>
 <preparation>
-<operation ingredients="tomates"> passer </operation> les <ingredient action="passer" quantite="6"> tomates </ingredient> dans la centrifugeuse , ensuite <operation ingredients="jus;feta"> mixer </operation> ce <ingredient action="mixer"> jus </ingredient> avec la <ingredient action="mixer"> feta </ingredient> . <operation> mettre </operation> le tout dans des verrines et au réfrigérateur 10 min . au moment de servir <operation ingredients="ciboulette"> parsemer </operation> de <ingredient action="parsemer"> ciboulette </ingredient> .
+<operation ingredients="tomates"> passer </operation> les <ingredient action="passer" quantite="6"> tomates </ingredient> dans la centrifugeuse , ensuite <operation ingredients="jus;feta"> mixer </operation> ce <ingredient action="mixer"> jus </ingredient> avec la <ingredient action="mixer"> feta </ingredient> . <operation> mettre </operation> le tout dans des verrines et au réfrigérateur 10 min . au moment de servir <operation ingredients="ciboulette"> parsemer </operation> de <ingredient action="parsemer" quantite="4 brin"> ciboulette </ingredient> .
 </preparation>
 </recette>

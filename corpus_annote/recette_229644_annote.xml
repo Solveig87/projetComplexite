@@ -22,6 +22,6 @@
 <p>1 pincée de poivre</p>
 </ingredients>
 <preparation>
-pour la betterave : <operation> mixer </operation> tous les ingrédients ensemble . pour l' espuma : <operation> mixer </operation> tous les ingrédients et <operation> passer </operation> au chinois avant de <operation> mettre </operation> en siphon . pour la présentation : <operation> mettre </operation> la betterave en premier puis au moment de servir <operation ingredients="asperge"> ajouter </operation> l' espuma d' <ingredient action="ajouter" quantite="200 gramme"> asperge </ingredient> .
+pour la <ingredient> betterave </ingredient> : <operation> mixer </operation> tous les ingrédients ensemble . pour l' espuma : <operation> mixer </operation> tous les ingrédients et <operation> passer </operation> au chinois avant de <operation> mettre </operation> en siphon . pour la présentation : <operation ingredients="betterave"> mettre </operation> la <ingredient action="mettre"> betterave </ingredient> en premier puis au moment de servir <operation ingredients="asperge"> ajouter </operation> l' espuma d' <ingredient action="ajouter"> asperge </ingredient> .
 </preparation>
 </recette>

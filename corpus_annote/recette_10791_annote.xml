@@ -11,6 +11,6 @@
 <p>basilic</p>
 </ingredients>
 <preparation>
-<operation> peler </operation> de petites courgettes sans graines . les <operation> couper </operation> en deux ou trois . <operation ingredients="tomates"> faire </operation> un épais coulis de <ingredient action="faire"> tomates </ingredient> et y <operation> cuire </operation> les courgettes pendant vingt minutes . <operation ingredients="sel"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> sel </ingredient> , poivre ) . <operation ingredients="basilic"> poudrer </operation> de <ingredient action="poudrer" quantite=""> basilic </ingredient> <operation> ciselé </operation> avant de servir . peut se <ingredient> manger </ingredient> froid .
+<operation> peler </operation> de petites courgettes sans graines . les <operation> couper </operation> en deux ou trois . <operation ingredients="tomates"> faire </operation> un épais coulis de <ingredient action="faire"> tomates </ingredient> et y <operation> cuire </operation> les courgettes pendant vingt minutes . <operation ingredients="sel;poivre"> assaisonner </operation> ( <ingredient action="assaisonner" quantite=""> sel </ingredient> , <ingredient action="assaisonner" quantite=""> poivre </ingredient> ) . <operation ingredients="basilic"> poudrer </operation> de <ingredient action="poudrer" quantite=""> basilic </ingredient> <operation> ciselé </operation> avant de servir . peut se <ingredient> manger </ingredient> froid .
 </preparation>
 </recette>

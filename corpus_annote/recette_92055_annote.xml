@@ -11,6 +11,6 @@
 <p>baies roses</p>
 </ingredients>
 <preparation>
-<operation ingredients="asperge;fromage"> mixer </operation> au blinder des chutes d <ingredient action="mixer" quantite=""> asperge </ingredient> avec le <ingredient action="mixer"> fromage </ingredient> de chèvre <operation> ciseler </operation> les fines herbes et les <operation> incorporer </operation> à la préparation <operation ingredients="pieds"> disposer </operation> dans les assiettes ( au <ingredient action="disposer"> pieds </ingredient> des asperges ) une bonne cuillère de la sauce et <operation> parsemer </operation> de quelques baies roses .
+<operation ingredients="asperge;fromage"> mixer </operation> au blinder des chutes d <ingredient action="mixer"> asperge </ingredient> avec le <ingredient action="mixer" quantite="100 gramme"> fromage </ingredient> de chèvre <operation ingredients="herbes"> ciseler </operation> les fines <ingredient action="ciseler"> herbes </ingredient> et les <operation> incorporer </operation> à la préparation <operation ingredients="pieds"> disposer </operation> dans les assiettes ( au <ingredient action="disposer"> pieds </ingredient> des asperges ) une bonne cuillère de la sauce et <operation> parsemer </operation> de quelques baies roses .
 </preparation>
 </recette>

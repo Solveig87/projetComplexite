@@ -15,6 +15,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-<operation> mixer </operation> tous les ingrédients de la marinade . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper"> poulet </ingredient> en gros dés et les <operation> mettre </operation> dans un saladier avec la marinade pour 2 heures au moins en <operation> remuant </operation> de temps en temps . <operation> mettre </operation> les dés sur des piques à brochettes et les <operation> cuire </operation> au barbecue en <operation> remuant </operation> fréquemment durant 10 minutes . si il ne fait pas beau , je <operation> coupe </operation> les dés plus petits et je fais <operation> cuire </operation> à la poele rosé
+<operation> mixer </operation> tous les ingrédients de la marinade . <operation ingredients="poulet"> couper </operation> le <ingredient action="couper" quantite="2 filet"> poulet </ingredient> en gros dés et les <operation> mettre </operation> dans un saladier avec la marinade pour 2 heures au moins en <operation> remuant </operation> de temps en temps . <operation> mettre </operation> les dés sur des piques à brochettes et les <operation> cuire </operation> au barbecue en <operation> remuant </operation> fréquemment durant 10 minutes . si il ne fait pas beau , je <operation> coupe </operation> les dés plus petits et je fais <operation> cuire </operation> à la poele rosé
 </preparation>
 </recette>

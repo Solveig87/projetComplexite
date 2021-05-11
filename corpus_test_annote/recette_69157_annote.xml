@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recette id="69157">
+<titre>Salade verte aux fruits</titre>
+<type>Entrée</type>
+<niveau>Facile</niveau>
+<cout>Bon marché</cout>
+<ingredients>
+<p>10 tranches d'ananas au sirop</p>
+<p>1 pamplemousse rose</p>
+<p>1 boîte de coeurs de palmiers</p>
+<p>1 ou 2 avocats (selon les goûts de chacun)</p>
+<p>1 petite boîte de maïs </p>
+<p>1 grosses salade verte</p>
+</ingredients>
+<preparation>
+<operation ingredients="salade"> nettoyer </operation> et <operation> trier </operation> la <ingredient action="nettoyer" quantite="1"> salade </ingredient> . <operation ingredients="ananas"> couper </operation> les tranches d' <ingredient action="couper" quantite="10 tranche"> ananas </ingredient> en 8 . <operation ingredients="pamplemousse"> couper </operation> le <ingredient action="couper" quantite="1"> pamplemousse </ingredient> en 2 et récupérer la <ingredient> chair </ingredient> à l' aide d' une cuillère . <operation ingredients="avocats"> couper </operation> les <ingredient action="couper" quantite="1"> avocats </ingredient> en tranches ( pour que ce soit plus joli à la présentation ) . <operation> mélanger </operation> tous les ingrédients . faire votre sauce vinaigrette habituelle en <operation ingredients="jus"> ajoutant </operation> 1 à 2 cuillères de <ingredient action="ajouter"> jus </ingredient> d' ananas , c' est prêt ! !
+</preparation>
+</recette>

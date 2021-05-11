@@ -13,6 +13,6 @@
 <p>sel, poivre et persil</p>
 </ingredients>
 <preparation>
-faire <operation ingredients="légumes"> chauffer </operation> les <ingredient action="chauffer" quantite="1;1;4"> légumes </ingredient> en bouillon . puis une fois qu' ils sont <operation> cuits </operation> , les <operation> écraser </operation> jusqu' à obtention d' une purée , y <operation ingredients="carrés"> ajouter </operation> les 2 <ingredient action="ajouter"> carrés </ingredient> frais puis les fines herbes et servir .
+faire <operation ingredients="légumes;bouillon"> chauffer </operation> les <ingredient action="chauffer" quantite="1;1;1;4"> légumes </ingredient> en <ingredient action="chauffer"> bouillon </ingredient> . puis une fois qu' ils sont <operation> cuits </operation> , les <operation> écraser </operation> jusqu' à obtention d' une purée , y <operation ingredients="carrés;herbes"> ajouter </operation> les 2 <ingredient action="ajouter"> carrés </ingredient> frais puis les fines <ingredient action="ajouter"> herbes </ingredient> et servir .
 </preparation>
 </recette>

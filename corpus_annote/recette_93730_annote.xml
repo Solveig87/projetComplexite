@@ -10,6 +10,6 @@
 <p>beurre salé</p>
 </ingredients>
 <preparation>
-faire préchauffer le four à 200 c <operation> ° </operation> . <operation> placer </operation> les cuisses dans un plat allant au four . <operation ingredients="beurre;salé"> disposer </operation> sur les cuisses et sur le fond du plat des morceaux de <ingredient action="disposer" quantite=""> beurre </ingredient> <ingredient action="disposer"> salé </ingredient> . ensuite , <operation ingredients="miel"> enduire </operation> les cuisses de <ingredient action="enduire" quantite=""> miel </ingredient> liquide ( la quantité est propre au goût de chacun mais plus il y a de <ingredient quantite=""> miel </ingredient> plus il y aura de sauce ! )
+faire <operation> préchauffer </operation> le four à 200 c <operation> ° </operation> . <operation> placer </operation> les cuisses dans un plat allant au four . <operation ingredients="beurre"> disposer </operation> sur les cuisses et sur le fond du plat des morceaux de <ingredient action="disposer" quantite=""> beurre </ingredient> salé . ensuite , <operation ingredients="miel"> enduire </operation> les cuisses de <ingredient action="enduire" quantite=""> miel </ingredient> liquide ( la quantité est propre au goût de chacun mais plus il y a de <ingredient quantite=""> miel </ingredient> plus il y aura de sauce ! )
 </preparation>
 </recette>

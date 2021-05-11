@@ -8,6 +8,6 @@
 <p>4 poires mûres- 1 banane- 1 sachet de sucre vanillé- 3 biscuits sablés (type petit beurre)- 2 à 3 cuillères à soupe d'eau</p>
 </ingredients>
 <preparation>
-<operation ingredients="banane"> éplucher </operation> la <ingredient action="éplucher" quantite="1"> banane </ingredient> et <operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> . les faire <operation> cuire </operation> dans une casserole à feu moyen avec l' eau . laisser <operation> cuire </operation> 10 min à <operation> découvert </operation> . en fin de cuisson , <operation ingredients="biscuits"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> biscuits </ingredient> et le sachet de <ingredient> sucre </ingredient> vanillé . <operation> mixer </operation> . déguster !
+<operation ingredients="banane"> éplucher </operation> la <ingredient action="éplucher" quantite="1"> banane </ingredient> et <operation ingredients="poires"> peler </operation> les <ingredient action="peler" quantite="4"> poires </ingredient> . les faire <operation> cuire </operation> dans une casserole à feu moyen avec l' eau . laisser <operation> cuire </operation> 10 min à <operation> découvert </operation> . en fin de cuisson , <operation ingredients="biscuits"> rajouter </operation> les <ingredient action="rajouter" quantite="3"> biscuits </ingredient> et le sachet de <ingredient quantite="1 sachet"> sucre </ingredient> vanillé . <operation> mixer </operation> . déguster !
 </preparation>
 </recette>

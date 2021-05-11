@@ -10,6 +10,6 @@
 <p>herbes de Provence</p>
 </ingredients>
 <preparation>
-<operation ingredients="pied"> enlever </operation> le <ingredient action="enlever"> pied </ingredient> des champignons . <operation ingredients="huile"> badigeonner </operation> l' intérieur du chapeau d' <ingredient action="badigeonner" quantite=""> huile </ingredient> d' olive et <operation> saupoudrer </operation> d' herbes de provence . <operation> passer </operation> sous le gril , puis servir aussitôt .
+<operation ingredients="pied"> enlever </operation> le <ingredient action="enlever"> pied </ingredient> des champignons . <operation ingredients="huile"> badigeonner </operation> l' intérieur du chapeau d' <ingredient action="badigeonner" quantite=""> huile </ingredient> d' olive et <operation ingredients="herbes"> saupoudrer </operation> d' <ingredient action="saupoudrer" quantite=""> herbes </ingredient> de provence . <operation> passer </operation> sous le gril , puis servir aussitôt .
 </preparation>
 </recette>

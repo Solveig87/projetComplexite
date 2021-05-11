@@ -13,6 +13,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire"> spaghetti </ingredient> . une fois <operation> égouttés </operation> , y <operation ingredients="feta"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> feta </ingredient> , les <ingredient> tomates </ingredient> , les <ingredient> artichauts </ingredient> , le tout <operation> coupés </operation> en petit dés , un trait d' <ingredient quantite=""> huile </ingredient> d' olive , sel , poivre . servir chaud .
+faire <operation ingredients="spaghetti"> cuire </operation> les <ingredient action="cuire"> spaghetti </ingredient> . une fois <operation> égouttés </operation> , y <operation ingredients="feta"> ajouter </operation> la <ingredient action="ajouter" quantite="100 gramme"> feta </ingredient> , les <ingredient> tomates </ingredient> , les <ingredient> artichauts </ingredient> , le tout <operation> coupés </operation> en petit dés , un trait d' <ingredient quantite=""> huile </ingredient> d' olive , <ingredient quantite=""> sel </ingredient> , <ingredient> poivre </ingredient> . servir chaud .
 </preparation>
 </recette>

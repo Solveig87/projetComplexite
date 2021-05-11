@@ -13,6 +13,6 @@
 <p>sel et poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="saumon"> mixer </operation> tous les ingrédients sauf le <ingredient action="mixer"> saumon </ingredient> . <operation ingredients="saumon"> incorporer </operation> le <ingredient action="incorporer"> saumon </ingredient> en fines lamelles . <operation> mettre </operation> dans un plat beurré et <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . <operation> mettre </operation> au four 35 min à 200 <operation> ° </operation> c ( thermostat . 7 ) . dégustez avec une <ingredient> salade </ingredient> verte
+<operation ingredients="saumon"> mixer </operation> tous les ingrédients sauf le <ingredient action="mixer" quantite="150 gramme"> saumon </ingredient> . <operation ingredients="saumon"> incorporer </operation> le <ingredient action="incorporer" quantite="150 gramme"> saumon </ingredient> en fines lamelles . <operation> mettre </operation> dans un plat beurré et <operation ingredients="parmesan"> saupoudrer </operation> de <ingredient action="saupoudrer" quantite=""> parmesan </ingredient> . <operation> mettre </operation> au four 35 min à 200 <operation> ° </operation> c ( thermostat . 7 ) . dégustez avec une <ingredient> salade </ingredient> verte
 </preparation>
 </recette>

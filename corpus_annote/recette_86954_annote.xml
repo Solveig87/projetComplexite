@@ -13,6 +13,6 @@
 <p>sel, poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="thon;crème;moutarde;jus"> écrasez </operation> le <ingredient action="écraser"> thon </ingredient> à la fourchette puis <operation ingredients="petit-suisse"> mélangez </operation> - le avec le <ingredient action="mélanger" quantite="1"> petit-suisse </ingredient> , la <ingredient action="écraser"> crème </ingredient> fraîche , la <ingredient action="écraser"> moutarde </ingredient> et le <ingredient action="écraser" quantite="1 cuillère à café"> jus </ingredient> de citron . c' est prêt à <operation> tartiner </operation> .
+<operation ingredients="thon;crème;moutarde;jus"> écrasez </operation> le <ingredient action="écraser" quantite="1 boîte"> thon </ingredient> à la fourchette puis <operation ingredients="petit-suisse"> mélangez </operation> - le avec le <ingredient action="mélanger"> petit-suisse </ingredient> , la <ingredient action="écraser" quantite="1 cuillère à soupe"> crème </ingredient> fraîche , la <ingredient action="écraser" quantite="1 cuillère à café"> moutarde </ingredient> et le <ingredient action="écraser" quantite="1 cuillère à café"> jus </ingredient> de citron . c' est prêt à <operation> tartiner </operation> .
 </preparation>
 </recette>

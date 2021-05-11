@@ -12,6 +12,6 @@
 <p>2 cuillères à soupe d'huile d'olive</p>
 </ingredients>
 <preparation>
-<operation ingredients="avocats"> dénoyautez </operation> les <ingredient action="dénoyauter" quantite="3"> avocats </ingredient> et <operation> enlevez </operation> la peau et <operation ingredients="jus"> mettez </operation> les dans un <operation> mixer </operation> avec le <ingredient action="mettre"> jus </ingredient> de citron . <operation> mélangez </operation> . <operation ingredients="lait"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> , crème et huile . c' est prêt ! <operation> mettre </operation> au frais avant de servir .
+<operation ingredients="avocats"> dénoyautez </operation> les <ingredient action="dénoyauter" quantite="3"> avocats </ingredient> et <operation> enlevez </operation> la peau et <operation ingredients="jus"> mettez </operation> les dans un <operation> mixer </operation> avec le <ingredient action="mettre"> jus </ingredient> de citron . <operation> mélangez </operation> . <operation ingredients="lait;crème;huile"> ajoutez </operation> un peu de <ingredient action="ajouter" quantite="2 cuillère à soupe"> lait </ingredient> , <ingredient action="ajouter" quantite="2 cuillère à soupe"> crème </ingredient> et <ingredient action="ajouter" quantite="2 cuillère à soupe"> huile </ingredient> . c' est prêt ! <operation> mettre </operation> au frais avant de servir .
 </preparation>
 </recette>
