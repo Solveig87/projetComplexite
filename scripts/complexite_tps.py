@@ -2,8 +2,8 @@ import re
 from bs4 import BeautifulSoup
 import argparse
 import glob
-import spacy
 from utils import *
+import numpy
 
 # --------------- Chargement des lexiques, création tables équivalence----------------------
 
@@ -113,11 +113,7 @@ def calculer_complexite_espace(recette):
             complexite_espace += 1
 
     # Ajout des récipients liés à des actions
-    operations_noDoublon = set()
-    for operation in recette.find_all("operation"):
-        ope = nlp(operation.getText().strip())[0].lemma_
-        operations_noDoublon.add(ope)
-    #print(operations_noDoublon)
+    operations_noDoublon = set([nlp(operation.getText().strip())[0].lemma_ for operation in recette.find_all("operation")])
     for operation in operations_noDoublon:
         if operation in ope_recipient:
             complexite_espace += 1
@@ -133,10 +129,12 @@ args = parser.parse_args()
 
 # ---------------- Traitement des fichiers du corpus à évaluer ------------------------
 
+informations_complexite = []
+
 paths = glob.glob(args.corpus+"/*")
 nb_paths = len(paths)
 compteur = 1
-niveaux = set()
+
 for path in paths:
 
     print(f"Traitement du fichier {compteur}/{nb_paths} ({path})")
@@ -152,6 +150,26 @@ for path in paths:
 
     # Conversion du niveau de difficulté
     niveau = table_niveaux[recette.find("niveau").getText()]
-    print(f"{complexite_temps} - {complexite_espace} - {niveau}")
+
+    informations_complexite.append((path, complexite_temps, complexite_espace, niveau))
 
     compteur += 1
+
+# Calcul coeffs correlation:
+comp_temps = numpy.array([info[1] for info in informations_complexite])
+comp_espace = numpy.array([info[2] for info in informations_complexite])
+niveaux = numpy.array([info[3] for info in informations_complexite])
+
+corr_temps_espace = numpy.corrcoef(comp_temps, comp_espace)[0, 1]
+corr_temps_niveau = numpy.corrcoef(comp_temps, niveaux)[0, 1]
+corr_espace_niveau = numpy.corrcoef(comp_espace, niveaux)[0, 1]
+
+# Ecriture sortie
+with open(args.sortie+".csv", "w") as file:
+    file.write("Fichier\tComplexité en temps\tComplexité en espace\tNiveau difficulté\n")
+    for info in informations_complexite:
+        ligne = '\t'.join([str(cellule) for cellule in info])
+        file.write(ligne+"\n")
+    file.write(f"CORRELATION temps-niveau\t{corr_temps_niveau}\n")
+    file.write(f"CORRELATION espace-niveau\t{corr_espace_niveau}\n")
+    file.write(f"CORRELATION temps-espace\t{corr_temps_espace}\n")

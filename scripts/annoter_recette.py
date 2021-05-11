@@ -93,7 +93,7 @@ def _annoter_recette(tokens_spacy, indice, tokens_annotes):
     token_courant = tokens_spacy[indice]
     if is_ingr(token_courant):
         # évitez d'annoter "riz" dans "galette de riz", ou "soupe" dans "cuillère à soupe"... tout en annotant "crème" dans "un peu de crème", "le pot de crème"...
-        if is_ingr(tokens_spacy[indice-1]) or tokens_spacy[indice-1].text == "à" or (tokens_spacy[indice-1].lemma_ == "de" and is_ingr(tokens_spacy[indice-2])):
+        if tokens_annotes[indice-1].etiquette == "ingredient" or tokens_spacy[indice-1].text == "à" or (tokens_spacy[indice-1].lemma_ == "de" and tokens_annotes[indice-2].etiquette == "ingredient"):
             pass
         else :
             # annoter l'ingrédient
