@@ -1,3 +1,9 @@
+# complexite.py - Solveig PODER, Camille REY
+# effectue les calculs de complexité (temps + espace) et écrit les sorties dans un fichier csv
+# ajoute les coefficients de corrélation entre temps/espace/niveau_difficulté à la fin du fichier
+# argument 1 : le répertoire contenant tous les fichiers annotés sur lesquels faire les calculs
+# argument 2 : le chemin du fichier de sortie (sans extension)
+
 import re
 from bs4 import BeautifulSoup
 import argparse
@@ -35,6 +41,9 @@ categ_recipient = ["coquillage crustacés", "poisson", "viande", "volaille"]
 
 def convert_quantite(quantite):
     """
+    convertit une quantité (nombre et/ou unité) en un nombre réel de type float
+    param : quantite - string, la quantité
+    return : quantite_convertie - float, la quantité convertie (0.5 par défaut)
     """
     # si la quantité est vide
     if quantite == "":
@@ -60,6 +69,9 @@ def convert_quantite(quantite):
 
 def calculer_quantite(quantite):
     """
+    calcule la quantité finale (somme des quantités) pour l'attribut "quantité" d'un élément <ingredient>
+    param : quantite - string, la quantité (valeur de l'attribut "quantite")
+    return : quantite_finale - float, la quantité convertie
     """
     quantite = quantite.replace(";", "+")
     quantites = quantite.split("+")
@@ -72,6 +84,9 @@ def calculer_quantite(quantite):
 
 def complexite_temps_ope(action):
     """
+    renvoie le "nombre d'unités d'opération" pour une action culinaire (par défaut, 1)
+    param : action - string, le lemme de l'action
+    return : float/int, le nombre d'unités d'opérations pour cette action
     """
     if action in table_operations.keys():
         return table_operations[action]
@@ -79,6 +94,9 @@ def complexite_temps_ope(action):
 
 def calculer_complexite_temps(recette):
     """
+    calcule la complexité en temps pour une recette au format xml
+    param : recette - noeud BeautifulSoup, la recette
+    return : complexite_temps - float, la complexité en temps calculée pour la recette
     """
     complexite_temps = 0
 
@@ -103,6 +121,9 @@ def calculer_complexite_temps(recette):
 
 def calculer_complexite_espace(recette):
     """
+    calcule la complexité en espace pour une recette au format xml
+    param : recette - noeud BeautifulSoup, la recette
+    return : complexite_espace - float, la complexité en temps calculée pour la recette
     """
     complexite_espace = 0
 
@@ -155,7 +176,7 @@ for path in paths:
 
     compteur += 1
 
-# Calcul coeffs correlation:
+# Calcul des coefficients de correlation:
 comp_temps = numpy.array([info[1] for info in informations_complexite])
 comp_espace = numpy.array([info[2] for info in informations_complexite])
 niveaux = numpy.array([info[3] for info in informations_complexite])

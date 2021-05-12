@@ -21,6 +21,6 @@
 <p>facultatif : 3 baises de cardamome</p>
 </ingredients>
 <preparation>
-<operation> mettez </operation> le tout dans une marmite a fond épais . <operation> couvrir </operation> et <operation> cuire </operation> à feu doux . <operation ingredients="coriandre"> rajouter </operation> 2 cuillères à soupe de crème fraîche et <ingredient action="rajouter"> coriandre </ingredient> frais . servir avec <ingredient> pain </ingredient> viennois ou du <ingredient> riz </ingredient> . vite fait si l' <ingredient action="préparer" quantite="1"> oignon </ingredient> frit est <operation ingredients="oignon"> préparé </operation> à l' avance .
+<operation> mettez </operation> le tout dans une marmite a fond épais . <operation> couvrir </operation> et <operation> cuire </operation> à feu doux . <operation ingredients="crème;coriandre"> rajouter </operation> 2 cuillères à soupe de <ingredient action="rajouter"> crème </ingredient> fraîche et <ingredient action="rajouter"> coriandre </ingredient> frais . servir avec <ingredient> pain </ingredient> viennois ou du <ingredient> riz </ingredient> . vite fait si l' <ingredient action="préparer" quantite="1"> oignon </ingredient> frit est <operation ingredients="oignon"> préparé </operation> à l' avance .
 </preparation>
 </recette>

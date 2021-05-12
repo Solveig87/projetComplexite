@@ -16,6 +16,6 @@
 <p>Sel et poivre</p>
 </ingredients>
 <preparation>
-<operation ingredients="concombre;pomme;kiwis"> épluchez </operation> le <ingredient action="éplucher" quantite="1"> concombre </ingredient> , la <ingredient action="éplucher" quantite="1"> pomme </ingredient> et les <ingredient action="éplucher" quantite="2"> kiwis </ingredient> . <operation ingredients="raisin"> coupez </operation> en dés tous les ingrédients ( sauf le <ingredient action="couper"> raisin </ingredient> ) . <operation> assaisonnez </operation> . a servir très frais ! vous pouvez également <operation ingredients="pignons"> rajouter </operation> des <ingredient action="rajouter"> pignons </ingredient> .
+<operation ingredients="concombre;pomme;kiwis"> épluchez </operation> le <ingredient action="éplucher" quantite="0,5"> concombre </ingredient> , la <ingredient action="éplucher" quantite="1"> pomme </ingredient> et les <ingredient action="éplucher" quantite="2"> kiwis </ingredient> . <operation ingredients="raisin"> coupez </operation> en dés tous les ingrédients ( sauf le <ingredient action="couper"> raisin </ingredient> ) . <operation> assaisonnez </operation> . a servir très frais ! vous pouvez également <operation ingredients="pignons"> rajouter </operation> des <ingredient action="rajouter"> pignons </ingredient> .
 </preparation>
 </recette>

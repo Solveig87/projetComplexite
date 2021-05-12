@@ -11,6 +11,6 @@
 <p>cannelle</p>
 </ingredients>
 <preparation>
-<operation ingredients="oeuf"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> . y <operation> ajouter </operation> une cuillère à soupe d' amandes <operation> moulues </operation> et deux cuillères à café de sucre complet . <operation ingredients="cannelle"> saupoudrer </operation> la <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> sur l' omelette durant la cuisson . <operation> retourner </operation> l' omelette une fois . cette recette a été créée par gaëtan , 5 ans et demi . de l' eau
+<operation ingredients="oeuf"> battre </operation> l' <ingredient action="battre" quantite="1"> oeuf </ingredient> . y <operation ingredients="amandes;sucre"> ajouter </operation> une cuillère à soupe d' <ingredient action="ajouter" quantite=""> amandes </ingredient> <operation> moulues </operation> et deux cuillères à café de <ingredient action="ajouter" quantite=""> sucre </ingredient> complet . <operation ingredients="cannelle"> saupoudrer </operation> la <ingredient action="saupoudrer" quantite=""> cannelle </ingredient> sur l' omelette durant la cuisson . <operation> retourner </operation> l' omelette une fois . cette recette a été créée par gaëtan , 5 ans et demi . de l' eau
 </preparation>
 </recette>

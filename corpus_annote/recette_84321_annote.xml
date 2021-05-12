@@ -14,6 +14,6 @@
 <p>4 verres d'eau tiède de préférence</p>
 </ingredients>
 <preparation>
-<operation> mélanger </operation> tous les ingrédients directement dans un blender pour éviter les grumeaux . <operation> verser </operation> ensuite cette préparation dans un saladier et <operation ingredients="milles"> ajouter </operation> 1 cuillère à café de vinaigre ( véritable astuce pour la formation des <ingredient action="ajouter"> milles </ingredient> trous ) . <operation ingredients="crêpes"> cuire </operation> comme des <ingredient action="cuire"> crêpes </ingredient> , mais d' un seul coté et à feu moyen . <operation> réserver </operation> et <operation> beurrer </operation> au fur et à <operation> mesure </operation> .
+<operation> mélanger </operation> tous les ingrédients directement dans un blender pour éviter les grumeaux . <operation> verser </operation> ensuite cette préparation dans un saladier et <operation ingredients="vinaigre;milles"> ajouter </operation> 1 cuillère à café de <ingredient action="ajouter" quantite="1 cuillère à café"> vinaigre </ingredient> ( véritable astuce pour la formation des <ingredient action="ajouter"> milles </ingredient> trous ) . <operation ingredients="crêpes"> cuire </operation> comme des <ingredient action="cuire"> crêpes </ingredient> , mais d' un seul coté et à feu moyen . <operation> réserver </operation> et <operation> beurrer </operation> au fur et à <operation> mesure </operation> .
 </preparation>
 </recette>

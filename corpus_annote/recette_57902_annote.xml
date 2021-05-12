@@ -12,6 +12,6 @@
 <p>1 kg de viande de boeuf découpée façon carpaccio</p>
 </ingredients>
 <preparation>
-dans un caquelon <operation ingredients="ail"> frotté </operation> à l' <ingredient action="frotter"> ail </ingredient> , faire <operation ingredients="vin;laurier"> bouillir </operation> le <ingredient action="bouillir"> vin </ingredient> avec les clous de girofle et la feuille de <ingredient action="bouillir" quantite="1 feuille"> laurier </ingredient> . <operation> rajouter </operation> le boullon bouillant . les convives peuvent alors y <operation ingredients="viande"> plonger </operation> leurs morceaux de <ingredient action="plonger" quantite="1 kilogramme"> viande </ingredient> .
+dans un caquelon <operation ingredients="ail"> frotté </operation> à l' <ingredient action="frotter"> ail </ingredient> , faire <operation ingredients="vin;laurier"> bouillir </operation> le <ingredient action="bouillir" quantite="0,5 litre"> vin </ingredient> avec les clous de girofle et la feuille de <ingredient action="bouillir" quantite="1 feuille"> laurier </ingredient> . <operation> rajouter </operation> le boullon bouillant . les convives peuvent alors y <operation ingredients="viande"> plonger </operation> leurs morceaux de <ingredient action="plonger" quantite="1 kilogramme"> viande </ingredient> .
 </preparation>
 </recette>

@@ -11,6 +11,6 @@
 <p>une ou deux gousses d'ail</p>
 </ingredients>
 <preparation>
-<operation ingredients="gousse"> mélanger </operation> une cuillère à soupe de jus de citron avec trois cuillères à soupe de crème et une ( ou deux selon le goût ) <ingredient action="mélanger" quantite="1"> gousse </ingredient> d' ail <operation ingredients="sel;poivre"> pressée </operation> , du <ingredient action="presser"> sel </ingredient> et du <ingredient action="presser"> poivre </ingredient> . <operation ingredients="betteraves"> verser </operation> sur les <ingredient action="verser"> betteraves </ingredient> et <operation> mettre </operation> au frais avant de servir .
+<operation ingredients="jus;crème;gousse"> mélanger </operation> une cuillère à soupe de <ingredient action="mélanger" quantite=""> jus </ingredient> de citron avec trois cuillères à soupe de <ingredient action="mélanger" quantite=""> crème </ingredient> et une ( ou deux selon le goût ) <ingredient action="mélanger" quantite="1"> gousse </ingredient> d' ail <operation ingredients="sel;poivre"> pressée </operation> , du <ingredient action="presser"> sel </ingredient> et du <ingredient action="presser"> poivre </ingredient> . <operation ingredients="betteraves"> verser </operation> sur les <ingredient action="verser"> betteraves </ingredient> et <operation> mettre </operation> au frais avant de servir .
 </preparation>
 </recette>

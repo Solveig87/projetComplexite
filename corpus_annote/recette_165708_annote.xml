@@ -12,6 +12,6 @@
 <p>-Huile</p>
 </ingredients>
 <preparation>
-simplissime ! <operation> epluchez </operation> les <ingredient> pêches </ingredient> et <operation> coupez </operation> les en morceaux <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper"> tomates </ingredient> en morceaux <operation ingredients="huile;menthe"> mettez </operation> le tout dans un saladier un tout petit peu d' <ingredient action="mettre"> huile </ingredient> du jus de citron des feuilles de <ingredient action="mettre"> menthe </ingredient> c' est prêt !
+simplissime ! <operation> epluchez </operation> les <ingredient> pêches </ingredient> et <operation> coupez </operation> les en morceaux <operation ingredients="tomates"> coupez </operation> les <ingredient action="couper"> tomates </ingredient> en morceaux <operation ingredients="huile;citron;menthe"> mettez </operation> le tout dans un saladier un tout petit peu d' <ingredient action="mettre"> huile </ingredient> du jus de <ingredient action="mettre"> citron </ingredient> des feuilles de <ingredient action="mettre"> menthe </ingredient> c' est prêt !
 </preparation>
 </recette>
