@@ -143,44 +143,47 @@ def annoter_quantites(recette, tokens_annotes):
                 for ingredient, infos in ingredients_info.items():
                     if any(token.lemme in categ.split() for categ in infos["catégories"]):
                         token.attributs["quantite"].append(infos["quantité"])
+def main():
+    # --------------- récupération des arguments en ligne de commande --------------------
+    parser = argparse.ArgumentParser(description = "fichier")
+    parser.add_argument("-v", "--verbose", help = "verbose mode", action = "store_true")
+    parser.add_argument("input_corpus", help = "directory for input corpus / répertoire du corpus d'entrée")
+    parser.add_argument("output_corpus", help = "directory for output corpus / répertoire du corpus de sortie")
+    args = parser.parse_args()
 
-# --------------- récupération des arguments en ligne de commande --------------------
-parser = argparse.ArgumentParser(description = "fichier")
-parser.add_argument("-v", "--verbose", help = "verbose mode", action = "store_true")
-parser.add_argument("input_corpus", help = "directory for input corpus / répertoire du corpus d'entrée")
-parser.add_argument("output_corpus", help = "directory for output corpus / répertoire du corpus de sortie")
-args = parser.parse_args()
+    # --------------- traitement de tous les fichiers du corpus d'entrée -----------------
 
-# --------------- traitement de tous les fichiers du corpus d'entrée -----------------
+    paths = glob.glob(args.input_corpus+"/*")
+    nb_paths = len(paths)
+    compteur = 1
 
-paths = glob.glob(args.input_corpus+"/*")
-nb_paths = len(paths)
-compteur = 1
+    for path in paths:
 
-for path in paths:
+        print(f"Traitement du fichier {compteur}/{nb_paths} ({path})")
 
-    print(f"Traitement du fichier {compteur}/{nb_paths} ({path})")
+        # Ouverture du fichier
+        with open(path, "r", encoding = "utf8") as file:
+            content = file.read()
+            bs_content = BeautifulSoup(content, "xml")
 
-    # Ouverture du fichier
-    with open(path, "r", encoding = "utf8") as file:
-        content = file.read()
-        bs_content = BeautifulSoup(content, "xml")
+        # Extraction du texte de préparation
+        prepa = bs_content.find("preparation").getText()
 
-    # Extraction du texte de préparation
-    prepa = bs_content.find("preparation").getText()
+        # Annotation ingrédients+opérations (grâce aux lexiques)
+        tokens_prepa_annotes = annoter_recette(prepa)
+        # Ajout des annotations de quantité (grâce à la liste d'ingrédients)
+        annoter_quantites(bs_content, tokens_prepa_annotes)
+        # conversion en string
+        prepa_annotee = " ".join([token.to_str() for token in tokens_prepa_annotes])
 
-    # Annotation ingrédients+opérations (grâce aux lexiques)
-    tokens_prepa_annotes = annoter_recette(prepa)
-    # Ajout des annotations de quantité (grâce à la liste d'ingrédients)
-    annoter_quantites(bs_content, tokens_prepa_annotes)
-    # conversion en string
-    prepa_annotee = " ".join([token.to_str() for token in tokens_prepa_annotes])
+        # Ecriture de la sortie
+        file_name = path.split("/")[-1][:-4]
+        output = args.output_corpus + "/" + file_name + "_annote.xml"
+        with open(output, "w") as f:
+            new_content = re.sub(r"<preparation>.*</preparation>", f"<preparation>\n{prepa_annotee}\n</preparation>", str(bs_content), flags = re.DOTALL)
+            f.write(new_content)
 
-    # Ecriture de la sortie
-    file_name = path.split("/")[-1][:-4]
-    output = args.output_corpus + "/" + file_name + "_annote.xml"
-    with open(output, "w") as f:
-        new_content = re.sub(r"<preparation>.*</preparation>", f"<preparation>\n{prepa_annotee}\n</preparation>", str(bs_content), flags = re.DOTALL)
-        f.write(new_content)
+        compteur += 1
 
-    compteur += 1
+if __name__ == "__main__":
+    main()
